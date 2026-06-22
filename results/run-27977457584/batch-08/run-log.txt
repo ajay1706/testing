@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jun 22 19:18:05 UTC 2026
+[+] Run ID: 27977457584
+[+] Batch name: batch-08
+[+] Batch targets:
+sarvam.ai
+screenpipe.com
+supermemory.ai
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jun 22 19:19:02 UTC 2026
+[+] HTTPX input count: 481
+[+] Running httpx...
+[+] httpx completed: Mon Jun 22 19:20:35 UTC 2026
+[+] httpx line count: 209
+[+] Batch completed: Mon Jun 22 19:20:35 UTC 2026

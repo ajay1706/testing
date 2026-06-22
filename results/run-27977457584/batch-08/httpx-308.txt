@@ -1,0 +1,8 @@
+https://docs.screenpipe.com [308] [/home] [146791] [cloudflare] [104.18.3.204] [cloudflare] [218.565295ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+http://exotel.sarvam.ai [308] [https://exotel.sarvam.ai/] [0] [Caddy] [34.93.183.224] [google] [440.854364ms] [Caddy]
+http://langexpert.sarvam.ai [308] [https://langexpert.sarvam.ai/] [0] [Caddy] [34.93.183.224] [google] [2.467929682s] [Caddy]
+http://parse-backend.sarvam.ai [308] [https://parse-backend.sarvam.ai/] [0] [Caddy] [34.93.183.224] [google] [5.456863441s] [Caddy]
+http://transcripts.v2v.sarvam.ai [308] [https://transcripts.v2v.sarvam.ai/] [0] [Caddy] [34.93.183.224] [google] [440.22974ms] [Caddy]
+http://surveylogs.sarvam.ai [308] [https://surveylogs.sarvam.ai/] [0] [Caddy] [34.93.183.224] [google] [440.363873ms] [Caddy]
+http://saaras.sarvam.ai [308] [https://saaras.sarvam.ai/] [14] [Vercel] [76.76.21.22] [8.079765682s] [Vercel]
+http://voicecraft.sarvam.ai [308] [https://voicecraft.sarvam.ai/] [0] [Caddy] [34.93.183.224] [google] [445.760178ms] [Caddy]
