@@ -1,0 +1,2 @@
+https://api.cerebras.ai [307] [/prod/welcome/] [0] [cloudflare] [104.18.10.146] [cloudflare] [156.720605ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://api2.cerebras.ai [307] [/prod/welcome/] [0] [cloudflare] [104.18.10.146] [cloudflare] [232.457805ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]

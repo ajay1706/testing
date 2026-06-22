@@ -1,0 +1,5 @@
+https://beta.character.ai [308] [https://character.ai/] [169] [308 Permanent Redirect] [cloudflare] [104.18.222.226] [cloudflare] [26.643435ms] [Cloudflare,HTTP/3]
+https://cerebras.ai [308] [https://www.cerebras.ai/] [15] [Vercel] [76.76.21.21] [42.297156ms] [HSTS,Vercel]
+https://plus.character.ai [308] [https://character.ai/] [169] [308 Permanent Redirect] [cloudflare] [104.18.222.226] [cloudflare] [42.15094ms] [Cloudflare,HTTP/3]
+https://inference-docs.cerebras.ai [308] [/introduction] [124575] [Vercel] [66.33.60.34] [370.108547ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://training-docs.cerebras.ai [308] [/rel-2.5.0/getting-started/overview] [351531] [Vercel] [66.33.60.194] [396.661967ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
