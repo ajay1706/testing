@@ -1,0 +1,144 @@
+# HTTPX Status Report
+
+Generated at: Mon Jun 22 19:28:18 UTC 2026
+
+HTTPX lines: 115
+Live URLs: 115
+
+## 200
+https://checkout.web3auth.io [200] [] [896] [Web3Auth | Onramp Aggregator] [CloudFront] [3.162.103.10] [cloudfront] [42.035074ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://authjs.web3auth.io [200] [] [25] [] [3.223.46.20] [98.542298ms] [HSTS]
+https://account.web3auth.io [200] [] [2199] [Web3Auth] [CloudFront] [3.162.103.118] [cloudfront] [90.231377ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,hCaptcha]
+https://demo-sfa.web3auth.io [200] [] [1863] [Web3Auth SFA React Example] [CloudFront] [3.167.99.123] [cloudfront] [43.730354ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,React,hCaptcha]
+https://demo-siwst.web3auth.io [200] [] [644] [React App] [AmazonS3] [18.165.98.13] [cloudfront] [52.223621ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,React]
+https://demo-mpc.web3auth.io [200] [] [989] [MPC Web3Auth Demo] [AmazonS3] [52.85.193.81] [cloudfront] [78.14393ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://demo-wallet.web3auth.io [200] [] [912] [Demo] [CloudFront] [13.226.238.60] [cloudfront] [45.209415ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,hCaptcha]
+https://auth.web3auth.io [200] [] [3014] [Web3Auth] [CloudFront] [18.154.227.69] [cloudfront] [147.801168ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,hCaptcha]
+https://develop-checkout.web3auth.io [200] [] [896] [Web3Auth | Onramp Aggregator] [CloudFront] [3.171.85.86] [cloudfront] [46.893998ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://community.unstoppabledomains.com [200] [] [3153] [Coming Soon] [Squarespace] [198.49.23.144] [186.693783ms] [HSTS,Squarespace,Squarespace Commerce]
+https://api-wallet.web3auth.io [200] [] [39] [] [18.213.103.9] [282.547697ms] [HSTS]
+https://demo-openlogin.web3auth.io [200] [] [908] [Openlogin Demo] [CloudFront] [18.160.41.109] [cloudfront] [229.205237ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,hCaptcha]
+https://fnd.web3auth.io [200] [] [27] [] [54.90.186.45] [42.801779ms] [HSTS]
+https://fp.unstoppabledomains.com [200] [] [0] [] [15.197.209.68] [104.467169ms] [HSTS]
+https://buy.unstoppabledomains.com [200] [] [17247] [Onchain Domains | Unstoppable Domains] [cloudflare] [198.202.211.1] [314.97773ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,jQuery CDN,jQuery:3.5.1]
+https://example.auth.unstoppabledomains.com [200] [] [11307] [Google Frontend] [172.253.62.121] [google] [141.691622ms] [Google Cloud,Google Cloud Load Balancing,Next.js,Node.js,React,Webpack]
+https://binance-demo.web3auth.io [200] [] [644] [React App] [nginx/1.28.0] [13.250.208.201] [698.470758ms] [HSTS,Nginx:1.28.0,React]
+https://demo-firebase.web3auth.io [200] [] [644] [React App] [nginx/1.28.0] [13.250.208.201] [705.824346ms] [HSTS,Nginx:1.28.0,React]
+https://lookup.web3auth.io [200] [] [22] [] [100.55.142.100] [118.606852ms] [HSTS]
+https://apps.dev-substrate.web3auth.io [200] [] [4768] [Polkadot/Substrate Portal] [nginx/1.18.0] [34.126.171.61] [google] [795.701434ms] [Nginx:1.18.0,React:01.946]
+https://api.unisat.io [200] [] [155] [cloudflare] [172.66.144.174] [cloudflare] [1.045551491s] [Cloudflare]
+https://humans.web3auth.io [200] [] [10938] [Web3Auth | Introducing the Web3Auth Layer] [Vercel] [76.76.21.98] [177.473056ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://demo-swap.unisat.io [200] [] [2061] [React App] [cloudflare] [172.66.144.174] [cloudflare] [969.29767ms] [Cloudflare,Cloudflare Browser Insights,React]
+https://demo-inscribe.unisat.io [200] [] [2061] [React App] [cloudflare] [172.66.144.174] [cloudflare] [1.01289408s] [Cloudflare,Cloudflare Browser Insights,React]
+https://demo-market.unisat.io [200] [] [2061] [React App] [cloudflare] [172.66.144.174] [cloudflare] [1.037992808s] [Cloudflare,Cloudflare Browser Insights,React]
+https://demo.unisat.io [200] [] [2026] [Unisat Wallet Demo] [cloudflare] [104.20.46.34] [cloudflare] [1.032756903s] [Cloudflare,Cloudflare Browser Insights,React]
+https://dashboard.auth.unstoppabledomains.com [200] [] [139406] [Unstoppable Domains - Dashboard] [Google Frontend] [151.101.66.132] [fastly] [365.919262ms] [Google Cloud,Google Cloud Load Balancing,Next.js,Node.js,React,Varnish,Webpack]
+https://identity.unstoppabledomains.com [200] [] [15315] [Unstoppable Login] [Google Frontend] [151.101.2.137] [fastly] [294.485895ms] [Google Cloud,Google Cloud Load Balancing,Next.js,Node.js,React,Varnish,Webpack]
+https://developer.unisat.io [200] [] [1822] [cloudflare] [104.20.46.34] [cloudflare] [1.213125864s] [Cloudflare,Cloudflare Browser Insights,Node.js,UmiJs]
+https://docs.unstoppabledomains.com [200] [] [248311] [Unstoppable Domains Developer Portal] [] [54.243.82.93] [68.821534ms] [Amazon CloudFront,Amazon Web Services,Google Analytics,HTTP/3,Typeform]
+https://feedback.unstoppabledomains.com [200] [] [25103] [Unstoppable Domains feature requests | Frill.co] [] [44.225.42.86] [384.949566ms] [Frill,HSTS,HTTP/3]
+https://lrc-accounts.web3auth.io [200] [] [10939] [Web3Pay] [] [3.1.219.45] [840.966518ms] [Next.js,Node.js,React,Webpack]
+https://lrc-smart-wallet.web3auth.io [200] [] [10939] [Web3Pay] [] [47.131.130.65] [824.928437ms] [Next.js,Node.js,React,Webpack]
+https://blog.web3auth.io [200] [] [113208] [Web3Auth Blog | Key Management SDKs with MPC and AA enabled] [nginx/1.28.0] [47.130.181.100] [1.384343863s] [Cloudflare,Express,Ghost:5.130,Google Analytics,HSTS,Nginx:1.28.0,Node.js,Osano,cdnjs,jsDelivr]
+https://docs.unisat.io [200] [] [339760] [UniSat Docs | UniSat] [cloudflare] [104.18.40.47] [cloudflare] [616.617574ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://images.unstoppabledomains.com [200] [] [286482] [UploadServer] [151.101.194.137] [fastly] [580.211896ms] [Varnish]
+https://fractal.unisat.io [200] [] [649376] [UniSat] [cloudflare] [172.66.144.174] [cloudflare] [2.297101841s] [Ant Design,Cloudflare,Cloudflare Browser Insights,HSTS]
+https://open-api-b1.unisat.io [200] [] [2682] [Swagger UI] [cloudflare] [172.66.144.174] [cloudflare] [5.107013265s] [Cloudflare,Cloudflare Browser Insights,Swagger UI]
+https://open-api-fractal-testnet.unisat.io [200] [] [2682] [Swagger UI] [cloudflare] [172.66.144.174] [cloudflare] [5.850121575s] [Cloudflare,Cloudflare Browser Insights,HSTS,Swagger UI]
+https://testnet4.unisat.io [200] [] [18305] [UniSat] [cloudflare] [172.66.144.174] [cloudflare] [2.069961647s] [Cloudflare,Cloudflare Browser Insights]
+https://siww.web3auth.io [200] [] [19779] [Home | Sign in with Web3] [AmazonS3] [3.171.61.80] [cloudfront] [4.045998399s] [Amazon CloudFront,Amazon S3,Amazon Web Services,Docusaurus:2.0.0-beta.18,Google Analytics,React,Webpack]
+https://unstoppabledomains.com [200] [] [219727] [Unstoppable Domains — an accredited registrar & marketplace | Unstoppable Domains] [Google Frontend] [151.101.194.137] [fastly] [3.081449155s] [Google Cloud,Google Cloud Load Balancing,HSTS,Varnish]
+https://wallet.web3auth.io [200] [] [2738] [Web3Auth] [CloudFront] [3.167.37.107] [cloudfront] [4.060216467s] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://www.shop.unstoppabledomains.com [200] [] [999] [AmazonS3] [3.167.56.69] [cloudfront] [5.290156673s] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://wallet-api.unisat.io [200] [] [155] [cloudflare] [172.66.144.174] [cloudflare] [8.457598053s] [Cloudflare]
+
+## 301
+https://community.web3auth.io [301] [https://builder.metamask.io] [0] [CloudFront] [3.167.99.64] [cloudfront] [45.214348ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://demo-app.web3auth.io [301] [https://demo.web3auth.io/] [0] [AmazonS3] [13.35.78.93] [cloudfront] [48.233287ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://docs.web3auth.io [301] [https://docs.metamask.io/embedded-wallets/] [0] [CloudFront] [3.170.19.109] [cloudfront] [57.181277ms] [Amazon CloudFront,Amazon Web Services]
+https://mobileapp.unstoppabledomains.com [301] [https://support.unstoppabledomains.com] [0] [Varnish] [151.101.130.137] [fastly] [82.874667ms] [Varnish]
+https://explorer.unisat.io [301] [https://uniscan.cc] [667] [301 Moved Permanently] [cloudflare] [104.20.46.34] [cloudflare] [1.000557683s] [Cloudflare,Cloudflare Browser Insights]
+http://trust.web3auth.io [301] [https://trust.web3auth.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.130] [cloudflare] [2.122639884s] [Cloudflare,Cloudflare Bot Management]
+http://passwordless.web3auth.io [301] [https://passwordless.web3auth.io/] [167] [301 Moved Permanently] [CloudFront] [3.167.88.20] [cloudfront] [5.047356277s] [Amazon CloudFront,Amazon Web Services,HTTP/3,hCaptcha]
+http://releases.code.unstoppabledomains.com [301] [https://releases.code.unstoppabledomains.com:443/] [0] [] [8.232.85.61] [google] [5.089182177s]
+http://shop.unstoppabledomains.com [301] [https://shop.unstoppabledomains.com/] [167] [301 Moved Permanently] [CloudFront] [3.171.100.72] [cloudfront] [7.041311676s] [Amazon CloudFront,Amazon Web Services]
+https://www.web3auth.io [301] [https://web3auth.io/index.html] [0] [AmazonS3] [3.167.69.55] [cloudfront] [4.136000255s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+
+## 302
+https://dashboard.web3auth.io [302] [https://developer.metamask.io/] [0] [CloudFront] [3.170.42.48] [cloudfront] [78.618096ms] [Amazon CloudFront,Amazon Web Services]
+https://auth0.unstoppabledomains.com [302] [https://unstoppabledomains.com/] [53] [cloudflare] [104.18.43.182] [cloudflare] [347.840985ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://demo.web3auth.io [302] [https://ew-demo.metamask.io/] [0] [CloudFront] [3.167.99.27] [cloudfront] [240.238129ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,hCaptcha]
+https://hk.unisat.io [302] [https://unisat.io/] [143] [302 Found] [cloudflare] [172.66.144.174] [cloudflare] [83.50416ms] [Cloudflare]
+https://dkg-manager.dev-substrate.web3auth.io [302] [https://consensys.okta.com/oauth2/v1/authorize?client_id=0oa1xat57qaoSWG7G358&nonce=1zp74xQu4Ft6bIDXWJgseiFblkywOKR0kMgYahA7aNM&redirect_uri=https%3A%2F%2Fdkg-manager.dev-substrate.web3auth.io%2Foauth2%2Fcallback&response_type=code&scope=openid+profile+email&state=R5zNwhbEj_2K09lhmvcFp-WLvYrkbUvJmvUVKDH9SaM] [351] [nginx/1.25.3] [35.186.150.185] [google] [725.419092ms] [Nginx:1.25.3]
+https://grafana.web3auth.io [302] [/login] [29] [Caddy] [54.168.60.210] [513.942735ms] [Caddy]
+https://support.unstoppabledomains.com [302] [https://support.unstoppabledomains.com/support/home] [117] [cloudflare] [172.66.0.145] [cloudflare] [4.176727258s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+
+## 307
+https://metadata.unstoppabledomains.com [500] [] [307] [Fastly error: unknown domain metadata.unstoppabledomains.com] [Varnish] [151.101.66.137] [fastly] [103.448237ms] [Varnish]
+
+## 308
+
+## 401
+https://data-tool.dev-monitoring.web3auth.io [401] [] [574] [401 Authorization Required] [] [35.197.142.219] [google] [712.474788ms] [Basic,HSTS]
+
+## 403
+https://api-alb-prod.unstoppabledomains.com [403] [] [134] [403] [] [34.160.90.12] [google] [217.443218ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://assets.web3auth.io [403] [] [111] [AmazonS3] [108.139.29.108] [cloudfront] [333.437314ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://fractal-testnet.unisat.io [403] [] [5672] [Just a moment...] [cloudflare] [104.20.46.34] [cloudflare] [57.638142ms] [Cloudflare]
+https://images.web3auth.io [403] [] [111] [AmazonS3] [13.226.209.85] [cloudfront] [111.507781ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://next-cdn.unisat.io [403] [] [453] [cloudflare] [172.66.144.174] [cloudflare] [1.35862285s] [Cloudflare]
+
+## 404
+https://api.web3auth.io [404] [] [15] [awselb/2.0] [54.90.186.45] [38.574459ms] [Amazon ELB,Amazon Web Services]
+http://beos.unstoppabledomains.com [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [216.239.38.21] [google] [29.516521ms]
+http://auth.staging.unstoppabledomains.com [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [142.251.167.121] [google] [31.17255ms]
+https://dashboard.auth.staging.unstoppabledomains.com [404] [] [272] [404 Page not found] [] [192.178.155.121] [google] [85.822777ms]
+https://admin.auth.unstoppabledomains.com [404] [] [272] [404 Page not found] [] [192.178.155.121] [google] [101.077433ms]
+http://beop.unstoppabledomains.com [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [216.239.36.21] [google] [29.903894ms]
+https://api-passwordless.web3auth.io [404] [] [139] [Error] [] [3.223.46.20] [116.113891ms] [Amazon ALB,Amazon Web Services,HSTS]
+https://api.unstoppabledomains.com [404] [] [52] [Google Frontend] [151.101.194.137] [fastly] [125.650466ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Varnish]
+https://auth0-example.auth.unstoppabledomains.com [404] [] [272] [404 Page not found] [] [192.178.155.121] [google] [224.575355ms]
+https://api-dashboard.web3auth.io [404] [] [19] [] [18.213.103.9] [234.235937ms]
+https://api-auth.web3auth.io [404] [] [139] [Error] [] [18.213.103.9] [245.110892ms] [Amazon ALB,Amazon Web Services,HSTS]
+https://brave.unstoppabledomains.com [404] [] [906] [404 - Page not found] [cloudflare] [198.202.211.1] [285.944399ms] [Cloudflare,HTTP/3]
+https://discord.unstoppabledomains.com [404] [] [272] [404 Page not found] [] [142.251.163.121] [google] [165.996521ms]
+https://auction.unstoppabledomains.com [404] [] [0] [awselb/2.0] [3.11.172.226] [330.188855ms] [Amazon ELB,Amazon Web Services]
+https://ac9kpxbans1l.staging.unstoppabledomains.com [404] [] [548] [404 Not Found] [] [174.138.107.187] [435.714684ms] [HSTS]
+https://2yc8bxucro56.unstoppabledomains.com [404] [] [548] [404 Not Found] [] [151.101.194.132] [fastly] [487.214209ms] [HSTS,Varnish]
+https://get.unstoppabledomains.com [404] [] [47] [cloudflare] [172.64.153.235] [cloudflare] [114.384941ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api.binance-demo.web3auth.io [404] [] [139] [Error] [nginx/1.28.0] [13.250.208.201] [713.975411ms] [HSTS,Nginx:1.28.0]
+https://identity.staging.unstoppabledomains.com [404] [] [272] [404 Page not found] [] [142.251.167.121] [google] [70.494995ms]
+https://coordinator.node-1.dev-node.web3auth.io [404] [] [555] [404 Not Found] [nginx/1.28.0] [35.240.225.221] [google] [777.713362ms] [Nginx:1.28.0]
+https://links.unstoppabledomains.com [404] [] [0] [] [151.101.66.132] [fastly] [110.101854ms] [HSTS,Varnish]
+https://coordinator.node-5.dev-node.web3auth.io [404] [] [153] [404 Not Found] [nginx/1.28.0] [34.143.200.232] [google] [824.220744ms] [Nginx:1.28.0]
+https://coordinator.node-2.dev-node.web3auth.io [404] [] [153] [404 Not Found] [nginx/1.28.0] [35.198.220.61] [google] [863.485098ms] [Nginx:1.28.0]
+https://coordinator.node-3.dev-node.web3auth.io [404] [] [555] [404 Not Found] [nginx/1.28.0] [34.124.136.122] [google] [929.480817ms] [Nginx:1.28.0]
+https://coordinator.node-4.dev-node.web3auth.io [404] [] [153] [404 Not Found] [nginx/1.28.0] [34.143.248.2] [google] [963.086008ms] [Nginx:1.28.0]
+https://fractal-static.unisat.io [404] [] [1570] [404 Not Found] [cloudflare] [172.66.144.174] [cloudflare] [778.447514ms] [Cloudflare,Cloudflare Browser Insights]
+https://messaging.unstoppabledomains.com [404] [] [272] [404 Page not found] [] [199.232.90.137] [fastly] [444.431459ms] [Varnish]
+https://node-1.node.web3auth.io [404] [] [9] [] [34.107.152.229] [google] [123.256967ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://fractal-static-testnet.unisat.io [404] [] [1972] [404 Not Found] [cloudflare] [172.66.144.174] [cloudflare] [1.008518777s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://node-1.dev-node.web3auth.io [404] [] [9] [] [34.160.129.42] [google] [369.733565ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://beta.auth.unstoppabledomains.com [404] [] [118] [Google Frontend] [172.253.62.121] [google] [1.579836676s] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://metadata.staging.unstoppabledomains.com [404] [] [272] [404 Page not found] [] [216.239.38.21] [google] [749.084829ms]
+https://auth.unstoppabledomains.com [404] [] [118] [Google Frontend] [172.253.62.121] [google] [1.733028945s] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://node-2.node.web3auth.io [404] [] [9] [] [35.190.19.112] [google] [140.11279ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-2.dev-node.web3auth.io [404] [] [9] [] [34.160.3.255] [google] [296.950244ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-3.dev-node.web3auth.io [404] [] [9] [] [34.111.9.103] [google] [93.377977ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-3.node.web3auth.io [404] [] [9] [] [34.111.18.149] [google] [88.563345ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api.demo-auth0.web3auth.io [404] [] [139] [Error] [nginx/1.28.0] [13.250.208.201] [2.736919779s] [Express,Nginx:1.28.0,Node.js]
+https://node-4.dev-node.web3auth.io [404] [] [9] [] [34.117.183.132] [google] [184.226304ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-4.node.web3auth.io [404] [] [9] [] [35.201.124.168] [google] [127.874642ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-5.node.web3auth.io [404] [] [9] [] [107.178.247.123] [google] [119.992709ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-5.dev-node.web3auth.io [404] [] [9] [] [34.111.34.72] [google] [387.532587ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+http://www.resolve.unstoppabledomains.com [404] [] [272] [404 Page not found] [] [64.233.180.121] [google] [5.03564023s]
+
+## 500
+https://metadata.unstoppabledomains.com [500] [] [307] [Fastly error: unknown domain metadata.unstoppabledomains.com] [Varnish] [151.101.66.137] [fastly] [103.448237ms] [Varnish]
+
+## 502
+https://node-1.dev-substrate.web3auth.io [502] [] [157] [502 Bad Gateway] [nginx/1.28.0] [35.247.172.249] [google] [806.949067ms] [Nginx:1.28.0]
+https://node-2.dev-substrate.web3auth.io [502] [] [559] [502 Bad Gateway] [nginx/1.28.0] [34.143.195.184] [google] [735.573232ms] [Nginx:1.28.0]
+
+## 503
+
