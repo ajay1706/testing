@@ -1,0 +1,2 @@
+https://fe32510c.ad2e.phantom.app [302] [https://dns.google/] [216] [302 Moved] [cloudflare] [104.18.35.227] [cloudflare] [165.727652ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://login.phantom.app [302] [https://login.phantom.app/app/UserHome?iss=https%3A%2F%2Flogin.phantom.app&session_hint=AUTHENTICATED] [0] [nginx] [76.223.112.12] [321.839788ms] [HSTS,Nginx]
