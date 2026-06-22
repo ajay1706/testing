@@ -1,0 +1,8 @@
+https://community.magic.link [302] [https://discord.gg/magiclabs] [0] [cloudflare] [104.18.23.227] [cloudflare] [367.142584ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://coinradar.ledger.com [302] [https://proxy.ledger.com/oauth2/start?rd=https://coinradar.ledger.com/] [138] [302 Found] [cloudflare] [172.64.153.104] [cloudflare] [424.142017ms] [Cloudflare,Cloudflare Bot Management]
+https://developer.magic.link [302] [https://magic.link/docs/connect/overview] [0] [cloudflare] [104.18.22.227] [cloudflare] [135.469002ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://download.live.ledger.com [302] [https://download.live.ledger.com/index.html] [0] [cloudflare] [172.64.153.104] [cloudflare] [52.475963ms] [Cloudflare,Cloudflare Bot Management]
+https://developers.magic.link [302] [https://magic.link/docs/connect/overview] [0] [cloudflare] [104.18.23.227] [cloudflare] [274.42085ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://dnswatcher.security.ledger.com [302] [https://github.com/pages/auth?nonce=387a7ba4-09f3-4dbf-a81c-5b0c13e1b880&page_id=44095931&path=Lw] [138] [302 Found] [GitHub.com] [185.199.111.153] [315.03559ms] [Fastly,GitHub Pages,Varnish]
+https://events.ledger.com [302] [https://events.ledger.com/password] [0] [cloudflare] [23.227.38.65] [249.381301ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://go.magic.link [302] [https://go.magic.link/?rb.routing.mode=proxy&rb.routing.signature=617614] [0] [] [52.72.49.79] [151.190875ms] [HSTS]

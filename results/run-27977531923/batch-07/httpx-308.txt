@@ -1,0 +1,8 @@
+https://blog.ledger.com [308] [https://www.ledger.com/blog/] [169] [308 Permanent Redirect] [cloudflare] [104.18.34.152] [cloudflare] [115.26698ms] [Cloudflare]
+https://dashboard.magic.link [308] [/login] [15] [Vercel] [76.76.21.21] [58.915699ms] [HSTS,Vercel]
+https://developers-test.ledger.com [308] [https://developers.ledger.com/] [15] [Vercel] [216.150.1.193] [108.888441ms] [HSTS,Vercel]
+https://docs.magic.link [308] [/home/welcome] [145791] [cloudflare] [104.18.23.227] [cloudflare] [139.45715ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://help.vault.ledger.com [308] [https://help.enterprise.ledger.com/] [169] [308 Permanent Redirect] [cloudflare] [172.64.153.104] [cloudflare] [2.026965052s] [Cloudflare]
+http://scriptrunner.api.live.ledger.com [308] [https://scriptrunner.api.live.ledger.com] [164] [308 Permanent Redirect] [] [54.246.81.150] [174.799189ms]
+http://treasury.stagef.magic.link [308] [https://treasury.stagef.magic.link/] [14] [Vercel] [64.239.109.65] [3.055760191s] [Vercel]
+https://www.leather.io [308] [https://leather.io/] [55] [Framer/dd61c09] [31.43.161.6] [4.148786231s] [Framer Sites,HSTS,HTTP/3,React]
