@@ -1,0 +1,2 @@
+https://claim.metamask.io [307] [https://events.metamask.io/] [169] [307 Temporary Redirect] [cloudflare] [172.64.147.181] [cloudflare] [46.946983ms] [Cloudflare,HSTS]
+https://link.metamask.io [307] [https://metamask.io/download] [0] [openresty] [44.252.253.233] [4.116931178s] [HSTS,Nginx,OpenResty]

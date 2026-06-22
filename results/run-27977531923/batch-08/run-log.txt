@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jun 22 19:20:04 UTC 2026
+[+] Run ID: 27977531923
+[+] Batch name: batch-08
+[+] Batch targets:
+magiceden.io
+martianwallet.xyz
+metamask.io
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jun 22 19:21:08 UTC 2026
+[+] HTTPX input count: 574
+[+] Running httpx...
+[+] httpx completed: Mon Jun 22 19:22:46 UTC 2026
+[+] httpx line count: 215
+[+] Batch completed: Mon Jun 22 19:22:46 UTC 2026
