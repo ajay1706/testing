@@ -1,0 +1,362 @@
+name: Nuclei
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: "Recon run_id to scan"
+        required: true
+        type: string
+      batch_size:
+        description: "URLs per nuclei batch. Use 75 for huge runs."
+        required: true
+        default: "75"
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+
+    outputs:
+      batches: ${{ steps.make_batches.outputs.batches }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest results
+        shell: bash
+        run: |
+          set +e
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          git pull --rebase origin "$BRANCH" || true
+
+      - name: Prepare nuclei batches
+        id: make_batches
+        shell: bash
+        run: |
+          set +e
+
+          RUN_ID="${{ github.event.inputs.run_id }}"
+          BATCH_SIZE="${{ github.event.inputs.batch_size }}"
+
+          FINAL_DIR="results/run-$RUN_ID"
+          URLS="$FINAL_DIR/httpx-urls-all.txt"
+          BATCH_DIR="$FINAL_DIR/nuclei-batches"
+
+          mkdir -p "$FINAL_DIR" "$BATCH_DIR"
+          rm -rf "$BATCH_DIR"/*
+          rm -rf "$FINAL_DIR/nuclei-results"
+
+          if ! echo "$BATCH_SIZE" | grep -Eq '^[0-9]+$'; then
+            BATCH_SIZE="75"
+          fi
+
+          if [ "$BATCH_SIZE" -lt 1 ]; then
+            BATCH_SIZE="75"
+          fi
+
+          if [ ! -s "$URLS" ]; then
+            echo "Missing or empty file: $URLS"
+            echo 'batches=[]' >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          sed '/^$/d' "$URLS" | sort -u > "$BATCH_DIR/all-urls.txt"
+
+          TOTAL_URLS=$(wc -l < "$BATCH_DIR/all-urls.txt" 2>/dev/null || echo 0)
+          MAX_BATCHES=240
+          MIN_BATCH_SIZE=$(( (TOTAL_URLS + MAX_BATCHES - 1) / MAX_BATCHES ))
+
+          if [ "$BATCH_SIZE" -lt "$MIN_BATCH_SIZE" ]; then
+            echo "Batch size $BATCH_SIZE creates too many jobs."
+            echo "Auto-adjusting batch size to $MIN_BATCH_SIZE"
+            BATCH_SIZE="$MIN_BATCH_SIZE"
+          fi
+
+          split -l "$BATCH_SIZE" -d -a 4 "$BATCH_DIR/all-urls.txt" "$BATCH_DIR/batch-"
+
+          BATCHES=$(find "$BATCH_DIR" -maxdepth 1 -type f -name 'batch-*' -printf '%f\n' | sort | jq -R -s -c 'split("\n")[:-1]')
+
+          echo "batches=$BATCHES" >> "$GITHUB_OUTPUT"
+
+          echo "Run ID: $RUN_ID"
+          echo "Total URLs: $TOTAL_URLS"
+          echo "Final batch size: $BATCH_SIZE"
+          echo "Batches: $BATCHES"
+
+      - name: Upload prepared nuclei batches
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nuclei-prepared-${{ github.event.inputs.run_id }}
+          path: results/run-${{ github.event.inputs.run_id }}/nuclei-batches/
+          retention-days: 30
+
+  nuclei:
+    needs: prepare
+    if: ${{ needs.prepare.outputs.batches != '[]' }}
+    runs-on: ubuntu-latest
+    continue-on-error: true
+
+    strategy:
+      fail-fast: false
+      max-parallel: 10
+      matrix:
+        batch: ${{ fromJson(needs.prepare.outputs.batches) }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download prepared nuclei batches
+        uses: actions/download-artifact@v4
+        with:
+          name: nuclei-prepared-${{ github.event.inputs.run_id }}
+          path: results/run-${{ github.event.inputs.run_id }}/nuclei-batches/
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: stable
+
+      - name: Install nuclei
+        shell: bash
+        run: |
+          set +e
+          go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
+          echo "$HOME/go/bin" >> "$GITHUB_PATH"
+          nuclei -update-templates || true
+
+      - name: Run nuclei batch
+        shell: bash
+        run: |
+          set +e
+
+          RUN_ID="${{ github.event.inputs.run_id }}"
+          BATCH="${{ matrix.batch }}"
+
+          FINAL_DIR="results/run-$RUN_ID"
+          BATCH_FILE="$FINAL_DIR/nuclei-batches/$BATCH"
+          OUT_DIR="$FINAL_DIR/nuclei-results/$BATCH"
+
+          mkdir -p "$OUT_DIR"
+
+          NUCLEI_TXT="$OUT_DIR/nuclei.txt"
+          NUCLEI_LOG="$OUT_DIR/nuclei-log.txt"
+
+          touch "$NUCLEI_TXT" "$NUCLEI_LOG"
+          : > "$NUCLEI_TXT"
+          : > "$NUCLEI_LOG"
+
+          echo "[+] Started: $(date)" | tee -a "$NUCLEI_LOG"
+          echo "[+] Run ID: $RUN_ID" | tee -a "$NUCLEI_LOG"
+          echo "[+] Batch: $BATCH" | tee -a "$NUCLEI_LOG"
+          echo "[+] URL count: $(wc -l < "$BATCH_FILE" 2>/dev/null || echo 0)" | tee -a "$NUCLEI_LOG"
+
+          if [ ! -s "$BATCH_FILE" ]; then
+            echo "Empty batch file: $BATCH_FILE" | tee -a "$NUCLEI_LOG"
+            exit 0
+          fi
+
+          nuclei \
+            -l "$BATCH_FILE" \
+            -severity critical,high,medium,low \
+            -es info,unknown \
+            -rl 50 \
+            -c 20 \
+            -bulk-size 10 \
+            -retries 0 \
+            -timeout 5 \
+            -stats \
+            -silent \
+            -o "$NUCLEI_TXT" \
+            >> "$NUCLEI_LOG" 2>&1
+
+          echo "[+] Finished: $(date)" | tee -a "$NUCLEI_LOG"
+
+          touch "$OUT_DIR/nuclei-critical.txt"
+          touch "$OUT_DIR/nuclei-high.txt"
+          touch "$OUT_DIR/nuclei-medium.txt"
+          touch "$OUT_DIR/nuclei-low.txt"
+
+          grep -i '\[critical\]' "$NUCLEI_TXT" > "$OUT_DIR/nuclei-critical.txt" || true
+          grep -i '\[high\]' "$NUCLEI_TXT" > "$OUT_DIR/nuclei-high.txt" || true
+          grep -i '\[medium\]' "$NUCLEI_TXT" > "$OUT_DIR/nuclei-medium.txt" || true
+          grep -i '\[low\]' "$NUCLEI_TXT" > "$OUT_DIR/nuclei-low.txt" || true
+
+          exit 0
+
+      - name: Upload nuclei batch artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nuclei-results-${{ github.event.inputs.run_id }}-${{ matrix.batch }}
+          path: results/run-${{ github.event.inputs.run_id }}/nuclei-results/${{ matrix.batch }}/
+          retention-days: 30
+
+      - name: Push nuclei batch result live
+        if: always()
+        shell: bash
+        run: |
+          set +e
+
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          RUN_ID="${{ github.event.inputs.run_id }}"
+          BATCH="${{ matrix.batch }}"
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git pull --rebase origin "$BRANCH" || true
+
+          git add results/run-$RUN_ID/nuclei-results/$BATCH
+
+          if git diff --cached --quiet; then
+            echo "No batch changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Nuclei live batch $BATCH run-$RUN_ID" || true
+
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            echo "Live batch push attempt $i..."
+
+            if git push origin "HEAD:$BRANCH"; then
+              echo "Live batch push successful"
+              exit 0
+            fi
+
+            git pull --rebase origin "$BRANCH" || true
+            sleep 20
+          done
+
+          echo "Live batch push failed after retries. Artifact is still available."
+          exit 0
+
+  merge:
+    needs:
+      - prepare
+      - nuclei
+    if: ${{ always() && needs.prepare.outputs.batches != '[]' }}
+    runs-on: ubuntu-latest
+    continue-on-error: true
+
+    steps:
+      - name: Checkout latest repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest repo
+        shell: bash
+        run: |
+          set +e
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          git pull --rebase origin "$BRANCH" || true
+
+      - name: Download all nuclei batch artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: nuclei-results-${{ github.event.inputs.run_id }}-*
+          path: downloaded-nuclei-results
+          merge-multiple: false
+
+      - name: Merge nuclei results
+        shell: bash
+        run: |
+          set +e
+
+          RUN_ID="${{ github.event.inputs.run_id }}"
+          FINAL_DIR="results/run-$RUN_ID"
+
+          mkdir -p "$FINAL_DIR/nuclei-results"
+
+          for artifact_dir in downloaded-nuclei-results/nuclei-results-${RUN_ID}-batch-*; do
+            if [ -d "$artifact_dir" ]; then
+              batch_name=$(basename "$artifact_dir" | sed "s/nuclei-results-${RUN_ID}-//")
+              mkdir -p "$FINAL_DIR/nuclei-results/$batch_name"
+              cp -R "$artifact_dir"/. "$FINAL_DIR/nuclei-results/$batch_name/" || true
+            fi
+          done
+
+          find "$FINAL_DIR/nuclei-results" -mindepth 2 -maxdepth 2 -name "nuclei.txt" -type f -exec cat {} \; | sed '/^$/d' | sort -u > "$FINAL_DIR/nuclei.txt"
+          find "$FINAL_DIR/nuclei-results" -mindepth 2 -maxdepth 2 -name "nuclei-log.txt" -type f -exec cat {} \; > "$FINAL_DIR/nuclei-log.txt"
+
+          touch "$FINAL_DIR/nuclei-critical.txt"
+          touch "$FINAL_DIR/nuclei-high.txt"
+          touch "$FINAL_DIR/nuclei-medium.txt"
+          touch "$FINAL_DIR/nuclei-low.txt"
+
+          grep -i '\[critical\]' "$FINAL_DIR/nuclei.txt" > "$FINAL_DIR/nuclei-critical.txt" || true
+          grep -i '\[high\]' "$FINAL_DIR/nuclei.txt" > "$FINAL_DIR/nuclei-high.txt" || true
+          grep -i '\[medium\]' "$FINAL_DIR/nuclei.txt" > "$FINAL_DIR/nuclei-medium.txt" || true
+          grep -i '\[low\]' "$FINAL_DIR/nuclei.txt" > "$FINAL_DIR/nuclei-low.txt" || true
+
+          {
+            echo "# Nuclei Summary"
+            echo ""
+            echo "Run ID: $RUN_ID"
+            echo "Saved at: $(date)"
+            echo ""
+            echo "Total findings: $(wc -l < "$FINAL_DIR/nuclei.txt" 2>/dev/null || echo 0)"
+            echo "Critical: $(wc -l < "$FINAL_DIR/nuclei-critical.txt" 2>/dev/null || echo 0)"
+            echo "High: $(wc -l < "$FINAL_DIR/nuclei-high.txt" 2>/dev/null || echo 0)"
+            echo "Medium: $(wc -l < "$FINAL_DIR/nuclei-medium.txt" 2>/dev/null || echo 0)"
+            echo "Low: $(wc -l < "$FINAL_DIR/nuclei-low.txt" 2>/dev/null || echo 0)"
+          } > "$FINAL_DIR/nuclei-summary.md"
+
+          cat "$FINAL_DIR/nuclei-summary.md"
+
+      - name: Upload merged nuclei artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: merged-nuclei-results-${{ github.event.inputs.run_id }}
+          path: results/run-${{ github.event.inputs.run_id }}/
+          retention-days: 30
+
+      - name: Push merged nuclei results
+        if: always()
+        shell: bash
+        run: |
+          set +e
+
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          RUN_ID="${{ github.event.inputs.run_id }}"
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git pull --rebase origin "$BRANCH" || true
+
+          git add results/run-$RUN_ID
+
+          if git diff --cached --quiet; then
+            echo "No merged nuclei changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Nuclei merged results run-$RUN_ID" || true
+
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            echo "Merged nuclei push attempt $i..."
+
+            if git push origin "HEAD:$BRANCH"; then
+              echo "Merged nuclei push successful"
+              exit 0
+            fi
+
+            git pull --rebase origin "$BRANCH" || true
+            sleep 30
+          done
+
+          echo "Merged nuclei push failed after retries. Artifact is still uploaded."
+          exit 0
