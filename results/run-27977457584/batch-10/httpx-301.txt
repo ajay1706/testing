@@ -1,0 +1,5 @@
+https://horoscope.wordware.ai [301] [https://twitter.wordware.ai/] [15] [cloudflare] [172.66.40.165] [cloudflare] [265.969021ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+http://links.chat.wordware.ai [301] [https://links.chat.wordware.ai/] [162] [301 Moved Permanently] [nginx] [172.65.225.161] [cloudflare] [301.41777ms] [Nginx]
+http://api.preview.wordware.ai [301] [https://api.preview.wordware.ai/] [671] [301 Moved Permanently] [cloudflare] [172.66.43.91] [cloudflare] [78.594844ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://mcp.wordware.ai [301] [https://mcp.wordware.ai/] [671] [301 Moved Permanently] [cloudflare] [172.66.40.165] [cloudflare] [84.848865ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://shakespeare.wordware.ai [301] [https://shakespeare.wordware.ai/] [671] [301 Moved Permanently] [cloudflare] [172.66.43.91] [cloudflare] [75.901398ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]

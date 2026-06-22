@@ -1,0 +1,2 @@
+https://virtuals.io [302] [https://www.virtuals.io/] [0] [] [3.169.149.67] [cloudfront] [441.755335ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+http://emails.wordware.ai [302] [https://emails.wordware.ai/] [50] [] [34.68.20.146] [google] [45.322608ms]
