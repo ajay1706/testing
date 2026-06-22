@@ -1,0 +1,395 @@
+name: Recon
+
+on:
+  workflow_dispatch:
+    inputs:
+      websites:
+        description: "Paste domains separated by space or comma"
+        required: true
+        type: string
+      batch_size:
+        description: "Domains per batch"
+        required: true
+        default: "3"
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+
+    outputs:
+      batches: ${{ steps.make_batches.outputs.batches }}
+
+    steps:
+      - name: Prepare domain batches
+        id: make_batches
+        shell: bash
+        run: |
+          set +e
+
+          rm -rf targets batches
+          mkdir -p targets batches
+
+          echo "${{ github.event.inputs.websites }}" \
+            | tr ', ' '\n' \
+            | sed '/^$/d' \
+            | sed 's#https://##g; s#http://##g; s#/.*##g' \
+            | sed 's#www\.##g' \
+            | tr '[:upper:]' '[:lower:]' \
+            | sort -u > targets/current.txt
+
+          BATCH_SIZE="${{ github.event.inputs.batch_size }}"
+
+          if ! echo "$BATCH_SIZE" | grep -Eq '^[0-9]+$'; then
+            BATCH_SIZE="3"
+          fi
+
+          if [ "$BATCH_SIZE" -lt 1 ]; then
+            BATCH_SIZE="3"
+          fi
+
+          if [ ! -s targets/current.txt ]; then
+            echo "No targets provided."
+            echo 'batches=[]' >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          split -l "$BATCH_SIZE" -d -a 2 targets/current.txt batches/batch-
+
+          BATCHES=$(find batches -maxdepth 1 -type f -name 'batch-*' -printf '%f\n' | sort | jq -R -s -c 'split("\n")[:-1]')
+          echo "batches=$BATCHES" >> "$GITHUB_OUTPUT"
+
+      - name: Upload prepared targets
+        uses: actions/upload-artifact@v4
+        with:
+          name: prepared-targets-${{ github.run_id }}
+          path: |
+            targets/
+            batches/
+          retention-days: 30
+
+  recon:
+    needs: prepare
+    if: ${{ needs.prepare.outputs.batches != '[]' }}
+    runs-on: ubuntu-latest
+    continue-on-error: true
+
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix:
+        batch: ${{ fromJson(needs.prepare.outputs.batches) }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download prepared targets
+        uses: actions/download-artifact@v4
+        with:
+          name: prepared-targets-${{ github.run_id }}
+          path: .
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: stable
+
+      - name: Install subfinder and httpx
+        shell: bash
+        run: |
+          go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+          go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+          echo "$HOME/go/bin" >> "$GITHUB_PATH"
+
+      - name: Run subfinder and httpx for batch
+        shell: bash
+        run: |
+          set +e
+
+          RUN_ID="${{ github.run_id }}"
+          BATCH_NAME="${{ matrix.batch }}"
+          RUN_DIR="results/run-$RUN_ID"
+          OUT_DIR="$RUN_DIR/$BATCH_NAME"
+
+          rm -rf "$OUT_DIR"
+          mkdir -p "$OUT_DIR"
+
+          TARGETS="batches/$BATCH_NAME"
+          SUBS="$OUT_DIR/subfinder.txt"
+          HTTPX_INPUT="$OUT_DIR/httpx-input.txt"
+          HTTPX="$OUT_DIR/httpx.txt"
+          HTTPX_URLS="$OUT_DIR/httpx-urls.txt"
+          LOG="$OUT_DIR/run-log.txt"
+
+          touch "$SUBS" "$HTTPX_INPUT" "$HTTPX" "$HTTPX_URLS" "$LOG"
+
+          echo "[+] Batch started: $(date)" | tee -a "$LOG"
+          echo "[+] Run ID: $RUN_ID" | tee -a "$LOG"
+          echo "[+] Batch name: $BATCH_NAME" | tee -a "$LOG"
+          echo "[+] Batch targets:" | tee -a "$LOG"
+          cat "$TARGETS" | tee -a "$LOG"
+
+          echo "[+] Running subfinder..." | tee -a "$LOG"
+
+          while read -r domain; do
+            if [ -n "$domain" ]; then
+              subfinder -silent -d "$domain" 2>>"$LOG" || true
+            fi
+          done < "$TARGETS" | sort -u | tee "$SUBS"
+
+          echo "[+] Subfinder completed: $(date)" | tee -a "$LOG"
+
+          cat "$TARGETS" "$SUBS" | sed '/^$/d' | sort -u > "$HTTPX_INPUT"
+
+          echo "[+] HTTPX input count: $(wc -l < "$HTTPX_INPUT" 2>/dev/null || echo 0)" | tee -a "$LOG"
+
+          if [ ! -s "$HTTPX_INPUT" ]; then
+            echo "No httpx input found." | tee -a "$LOG"
+            exit 0
+          fi
+
+          echo "[+] Running httpx..." | tee -a "$LOG"
+
+          httpx -silent \
+            -no-color \
+            -l "$HTTPX_INPUT" \
+            -status-code \
+            -title \
+            -tech-detect \
+            -content-length \
+            -web-server \
+            -ip \
+            -cdn \
+            -location \
+            -response-time \
+            2> >(tee -a "$LOG" >&2) \
+            | tee "$HTTPX"
+
+          echo "[+] httpx completed: $(date)" | tee -a "$LOG"
+          echo "[+] httpx line count: $(wc -l < "$HTTPX" 2>/dev/null || echo 0)" | tee -a "$LOG"
+
+          awk '{print $1}' "$HTTPX" | grep '^http' | sort -u > "$HTTPX_URLS" || true
+
+          for code in 200 301 302 307 308 401 403 404 500 502 503; do
+            grep "\[$code\]" "$HTTPX" > "$OUT_DIR/httpx-$code.txt" || true
+          done
+
+          {
+            echo "# HTTPX Status Report"
+            echo ""
+            echo "Generated at: $(date)"
+            echo ""
+            echo "HTTPX lines: $(wc -l < "$HTTPX" 2>/dev/null || echo 0)"
+            echo "Live URLs: $(wc -l < "$HTTPX_URLS" 2>/dev/null || echo 0)"
+            echo ""
+            for code in 200 301 302 307 308 401 403 404 500 502 503; do
+              echo "## $code"
+              cat "$OUT_DIR/httpx-$code.txt" || true
+              echo ""
+            done
+          } > "$OUT_DIR/httpx-status-report.md"
+
+          {
+            echo "# Batch Summary"
+            echo ""
+            echo "Run ID: $RUN_ID"
+            echo "Batch: $BATCH_NAME"
+            echo "Saved at: $(date)"
+            echo ""
+            echo "Input domains: $(wc -l < "$TARGETS" 2>/dev/null || echo 0)"
+            echo "Subdomains: $(wc -l < "$SUBS" 2>/dev/null || echo 0)"
+            echo "HTTPX lines: $(wc -l < "$HTTPX" 2>/dev/null || echo 0)"
+            echo "Live URLs: $(wc -l < "$HTTPX_URLS" 2>/dev/null || echo 0)"
+          } > "$OUT_DIR/summary.md"
+
+          echo "[+] Batch completed: $(date)" | tee -a "$LOG"
+
+          exit 0
+
+      - name: Upload batch artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: batch-results-${{ github.run_id }}-${{ matrix.batch }}
+          path: results/run-${{ github.run_id }}/${{ matrix.batch }}/
+          retention-days: 30
+
+      - name: Push this batch result immediately
+        if: always()
+        shell: bash
+        run: |
+          set +e
+
+          BRANCH="${GITHUB_REF_NAME:-main}"
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git pull --rebase origin "$BRANCH" || true
+
+          git add results/run-${{ github.run_id }}/${{ matrix.batch }}
+
+          if git diff --cached --quiet; then
+            echo "No batch changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Recon batch ${{ matrix.batch }} run-${{ github.run_id }}" || true
+
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            echo "Batch push attempt $i..."
+
+            if git push origin "HEAD:$BRANCH"; then
+              echo "Batch push successful"
+              exit 0
+            fi
+
+            git pull --rebase origin "$BRANCH" || true
+            sleep 20
+          done
+
+          echo "Batch push failed after retries. Artifact is still uploaded."
+          exit 0
+
+  merge:
+    needs:
+      - prepare
+      - recon
+    if: ${{ always() && needs.prepare.outputs.batches != '[]' }}
+    runs-on: ubuntu-latest
+    continue-on-error: true
+
+    steps:
+      - name: Checkout latest repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest batch commits
+        shell: bash
+        run: |
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          git pull --rebase origin "$BRANCH" || true
+
+      - name: Download all batch artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: batch-results-${{ github.run_id }}-*
+          path: downloaded-results
+          merge-multiple: false
+
+      - name: Merge all batch results
+        shell: bash
+        run: |
+          set +e
+
+          RUN_ID="${{ github.run_id }}"
+          FINAL_DIR="results/run-$RUN_ID"
+          mkdir -p "$FINAL_DIR"
+
+          echo "[+] Copying batch artifacts..."
+
+          for artifact_dir in downloaded-results/batch-results-${RUN_ID}-batch-*; do
+            if [ -d "$artifact_dir" ]; then
+              batch_name=$(basename "$artifact_dir" | sed "s/batch-results-${RUN_ID}-//")
+              mkdir -p "$FINAL_DIR/$batch_name"
+              cp -R "$artifact_dir"/. "$FINAL_DIR/$batch_name/" || true
+            fi
+          done
+
+          touch "$FINAL_DIR/subfinder-all.txt"
+          touch "$FINAL_DIR/httpx-all.txt"
+          touch "$FINAL_DIR/httpx-urls-all.txt"
+
+          find "$FINAL_DIR" -mindepth 2 -maxdepth 2 -name "subfinder.txt" -type f -exec cat {} \; | sed '/^$/d' | sort -u > "$FINAL_DIR/subfinder-all.txt"
+          find "$FINAL_DIR" -mindepth 2 -maxdepth 2 -name "httpx.txt" -type f -exec cat {} \; | sed '/^$/d' | sort -u > "$FINAL_DIR/httpx-all.txt"
+          find "$FINAL_DIR" -mindepth 2 -maxdepth 2 -name "httpx-urls.txt" -type f -exec cat {} \; | sed '/^$/d' | sort -u > "$FINAL_DIR/httpx-urls-all.txt"
+
+          for code in 200 301 302 307 308 401 403 404 500 502 503; do
+            grep "\[$code\]" "$FINAL_DIR/httpx-all.txt" > "$FINAL_DIR/httpx-$code-all.txt" || true
+          done
+
+          {
+            echo "# Final HTTPX Status Report"
+            echo ""
+            echo "Run ID: $RUN_ID"
+            echo "Generated at: $(date)"
+            echo ""
+            echo "Total HTTPX lines: $(wc -l < "$FINAL_DIR/httpx-all.txt" 2>/dev/null || echo 0)"
+            echo "Total live URLs: $(wc -l < "$FINAL_DIR/httpx-urls-all.txt" 2>/dev/null || echo 0)"
+            echo ""
+            for code in 200 301 302 307 308 401 403 404 500 502 503; do
+              echo "## $code"
+              cat "$FINAL_DIR/httpx-$code-all.txt" || true
+              echo ""
+            done
+          } > "$FINAL_DIR/httpx-status-report-all.md"
+
+          {
+            echo "# Recon Run $RUN_ID"
+            echo ""
+            echo "Saved at: $(date)"
+            echo ""
+            echo "Total subdomains: $(wc -l < "$FINAL_DIR/subfinder-all.txt" 2>/dev/null || echo 0)"
+            echo "Total HTTPX lines: $(wc -l < "$FINAL_DIR/httpx-all.txt" 2>/dev/null || echo 0)"
+            echo "Total live URLs: $(wc -l < "$FINAL_DIR/httpx-urls-all.txt" 2>/dev/null || echo 0)"
+            echo ""
+            echo "Important files:"
+            echo "- subfinder-all.txt"
+            echo "- httpx-all.txt"
+            echo "- httpx-urls-all.txt"
+            echo "- httpx-status-report-all.md"
+          } > "$FINAL_DIR/summary.md"
+
+          cat "$FINAL_DIR/summary.md"
+
+      - name: Upload merged artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: merged-recon-results-${{ github.run_id }}
+          path: results/run-${{ github.run_id }}/
+          retention-days: 30
+
+      - name: Final push with retry
+        if: always()
+        shell: bash
+        run: |
+          set +e
+
+          BRANCH="${GITHUB_REF_NAME:-main}"
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git pull --rebase origin "$BRANCH" || true
+
+          git add results/run-${{ github.run_id }}
+
+          if git diff --cached --quiet; then
+            echo "No final changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Recon final results run-${{ github.run_id }}" || true
+
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            echo "Final push attempt $i..."
+
+            if git push origin "HEAD:$BRANCH"; then
+              echo "Final push successful"
+              exit 0
+            fi
+
+            git pull --rebase origin "$BRANCH" || true
+            sleep 30
+          done
+
+          echo "Final push failed after retries. Artifact is still uploaded."
+          exit 0
