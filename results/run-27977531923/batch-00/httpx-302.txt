@@ -1,0 +1,4 @@
+https://help.ambire.com [302] [https://help.ambire.com/en/] [0] [cloudflare] [104.26.8.104] [cloudflare] [99.699657ms] [Cloudflare]
+https://monitor.ambire.com [302] [/auth/login/] [0] [cloudflare] [172.67.74.156] [cloudflare] [353.510529ms] [Cloudflare]
+https://support.argent.xyz [302] [https://support.argent.xyz/hc] [0] [cloudflare] [216.198.53.11] [349.603883ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://videntes.ambire.com [302] [/login?next=%2F] [0] [nginx/1.18.0 (Ubuntu)] [143.198.103.157] [391.563645ms] [Nginx:1.18.0,Ubuntu]
