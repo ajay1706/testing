@@ -1,0 +1,5 @@
+https://baseten.co [307] [https://www.baseten.co/] [15] [Vercel] [76.76.21.21] [78.364868ms] [HSTS,Vercel]
+https://blueprint.baseten.co [307] [https://www.baseten.co/] [15] [Vercel] [66.33.60.193] [78.687843ms] [HSTS,Vercel]
+https://docs.aixbt.tech [307] [/introduction/what-is-aixbt] [15] [Vercel] [216.150.1.129] [1.046475649s] [HSTS,Vercel]
+https://gift.activepieces.com [307] [/auth/signin] [12] [cloudflare] [172.67.181.76] [cloudflare] [2.843282909s] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://login.baseten.co [307] [https://auth.baseten.co/user_management/initiate_login?context=&client_id=client_01GFS4WX73TQ4NQJPQ9EPCYQY7] [80616] [Sign in] [cloudflare] [104.18.35.233] [cloudflare] [4.709556315s] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]

@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jun 22 19:13:35 UTC 2026
+[+] Run ID: 27977457584
+[+] Batch name: batch-00
+[+] Batch targets:
+activepieces.com
+aixbt.tech
+baseten.co
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jun 22 19:14:48 UTC 2026
+[+] HTTPX input count: 876
+[+] Running httpx...
+[+] httpx completed: Mon Jun 22 19:17:29 UTC 2026
+[+] httpx line count: 355
+[+] Batch completed: Mon Jun 22 19:17:29 UTC 2026
