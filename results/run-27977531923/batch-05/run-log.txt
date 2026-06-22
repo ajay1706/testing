@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jun 22 19:17:36 UTC 2026
+[+] Run ID: 27977531923
+[+] Batch name: batch-05
+[+] Batch targets:
+frontier.xyz
+glow.app
+imtoken.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jun 22 19:18:40 UTC 2026
+[+] HTTPX input count: 22
+[+] Running httpx...
+[+] httpx completed: Mon Jun 22 19:19:01 UTC 2026
+[+] httpx line count: 13
+[+] Batch completed: Mon Jun 22 19:19:01 UTC 2026
