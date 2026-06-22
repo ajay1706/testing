@@ -1,0 +1,7 @@
+https://docs.granola.ai [308] [/introduction] [148004] [Vercel] [76.76.21.241] [372.516114ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://granola.ai [308] [https://www.granola.ai/] [15] [Vercel] [76.76.21.21] [201.426249ms] [HSTS,Vercel]
+https://docs.gradial.com [308] [/docs/getting-started/what-is-gradial] [144638] [cloudflare] [172.66.170.241] [cloudflare] [442.197868ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://join.granola.ai [308] [https://granola.ai] [15] [Vercel] [216.150.16.193] [148.550267ms] [HSTS,Vercel]
+https://notes.granola.ai [308] [https://granola.ai] [15] [Vercel] [216.150.16.193] [145.947418ms] [HSTS,Vercel]
+https://recipes.granola.ai [308] [https://granola.ai] [15] [Vercel] [216.150.16.193] [1.139440666s] [HSTS,Vercel]
+https://www.humanloop.com [308] [https://humanloop.com/] [15] [Vercel] [76.76.21.123] [4.22880679s] [HSTS,Vercel]
