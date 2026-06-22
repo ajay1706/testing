@@ -1,0 +1,7 @@
+https://analytics.exa.ai [301] [https://analytics.internal.exa.ai/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.91] [cloudflare] [29.756533ms] [Cloudflare]
+https://blog.fireworks.ai [301] [https://fireworks.ai/blog] [167] [301 Moved Permanently] [cloudflare] [104.18.6.91] [cloudflare] [33.059478ms] [Cloudflare,HTTP/3]
+https://exa-batch-llm-pr-48236.hephaestus.exa.ai [301] [https://exa-batch-llm-pr-48236.hephaestus.exa.ai/docs] [162] [301 Moved Permanently] [] [44.254.117.103] [274.141949ms] [HSTS]
+https://index-internal-tools.exa.ai [301] [https://index-tools.internal.exa.ai/] [167] [301 Moved Permanently] [cloudflare] [172.66.43.165] [cloudflare] [1.028697146s] [Cloudflare]
+https://internal-dashboard.exa.ai [301] [https://dashboard.internal.exa.ai/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.91] [cloudflare] [4.036136581s] [Cloudflare]
+https://readme.fireworks.ai [301] [https://fireworks.ai/docs] [167] [301 Moved Permanently] [cloudflare] [104.18.6.91] [cloudflare] [2.045290595s] [Cloudflare,HTTP/3]
+https://searchbench.exa.ai [301] [https://minos.exa.ai/searchbench] [167] [301 Moved Permanently] [cloudflare] [172.66.43.165] [cloudflare] [1.030936256s] [Cloudflare]
