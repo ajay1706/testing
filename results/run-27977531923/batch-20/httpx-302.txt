@@ -1,0 +1,6 @@
+https://brc20.xverse.app [302] [https://portfolio.xverse.app] [138] [302 Found] [] [34.144.219.36] [google] [121.750994ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://portfolio-staging.xverse.app [302] [https://portfolio.xverse.app/] [138] [302 Found] [] [34.8.108.70] [google] [65.62043ms] [Google Cloud,Google Cloud CDN,HSTS]
+https://help.zengo.com [302] [http://help.zengo.com/en/] [0] [nginx] [18.155.202.82] [cloudfront] [220.67694ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://go.xdefi.io [302] [https://install.xdefi.io/?xdefi_id=&xdefi_source=reflink&xdefi_medium=influencer&xdefi_campaign=influencer&] [0] [cloudflare] [104.21.24.65] [cloudflare] [403.577482ms] [Cloudflare,HTTP/3]
+https://wallet.xverse.app [302] [https://portfolio.xverse.app/] [138] [302 Found] [] [34.8.108.70] [google] [151.53883ms] [Google Cloud,Google Cloud CDN,HSTS]
+https://support.xverse.app [302] [https://support.xverse.app/hc] [0] [cloudflare] [216.198.54.6] [275.941523ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]

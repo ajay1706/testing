@@ -1,0 +1,7 @@
+https://xverse.app [301] [https://www.xverse.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [213.800108ms] [Cloudflare,HSTS,HTTP/3]
+https://documents.xdefi.io [301] [https://ctrl.xyz/xdefi-wallet-rebranding-to-ctrl/] [162] [301 Moved Permanently] [cloudflare] [104.18.40.47] [cloudflare] [730.645518ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://docs.xdefi.io [301] [https://ctrl.xyz/xdefi-wallet-rebranding-to-ctrl/] [162] [301 Moved Permanently] [cloudflare] [104.18.40.47] [cloudflare] [756.205647ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://community.xdefi.io [301] [https://ctrl.xyz/xdefi-wallet-rebranding-to-ctrl/] [162] [301 Moved Permanently] [cloudflare] [162.159.135.42] [cloudflare] [747.051817ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.xdefi.io [301] [https://ctrl.xyz/xdefi-wallet-rebranding-to-ctrl/] [162] [301 Moved Permanently] [cloudflare] [162.159.134.42] [cloudflare] [616.217092ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://xdefi.io [301] [https://ctrl.xyz/xdefi-wallet-rebranding-to-ctrl/] [162] [301 Moved Permanently] [cloudflare] [162.159.135.42] [cloudflare] [561.920647ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://api-checkout.xverse.app [301] [https://api-checkout.xverse.app/] [47] [Netlify] [13.52.188.95] [11.838333ms] [Netlify]
