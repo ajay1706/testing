@@ -1,0 +1,77 @@
+# HTTPX Status Report
+
+Generated at: Mon Jun 22 19:16:24 UTC 2026
+
+HTTPX lines: 48
+Live URLs: 48
+
+## 200
+https://docs-embeds.dynamic.xyz [200] [] [453] [Dynamic] [Heroku] [3.33.241.96] [169.41278ms]
+https://demo.dynamic.xyz [200] [] [3631] [Dynamic | Demo Environment] [cloudflare] [104.18.10.64] [cloudflare] [261.684486ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS]
+https://app.dynamic.xyz [200] [] [4762] [Dynamic Developer Dashboard] [cloudflare] [104.18.11.64] [cloudflare] [308.354177ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://packages.dynamic.xyz [200] [] [1352] [Verdaccio] [Heroku] [75.2.60.68] [188.110223ms]
+https://readme-embeds.dynamic.xyz [200] [] [453] [Dynamic] [Heroku] [13.248.213.92] [218.048636ms]
+https://waas.dynamic.xyz [200] [] [3701] [Dynamic | Demo Environment] [cloudflare] [104.18.10.64] [cloudflare] [263.545691ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS]
+https://wallettest.ellipal.com [200] [] [1113] [Welcome to nginx!] [cloudflare] [172.67.72.146] [cloudflare] [929.664588ms] [Cloudflare,Cloudflare Browser Insights]
+https://download.ellipal.com [200] [] [49313] [openresty] [98.98.253.34] [2.041260355s] [Amazon Web Services,Nginx,OpenResty]
+https://status.dynamic.xyz [200] [] [192068] [Dynamic Labs - Status] [cloudflare] [104.18.10.64] [cloudflare] [248.639371ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://www.dynamic.xyz [200] [] [155467] [Dynamic | Wallet Infrastructure for Fintech, Crypto, and Stablecoins] [cloudflare] [104.18.11.64] [cloudflare] [343.447369ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,jQuery:3.5.1,jsDelivr]
+https://event.ellipal.com [200] [] [12943] [openresty] [98.98.253.42] [4.387294442s] [Nginx,OpenResty]
+https://www.exodus.com [200] [] [388417] [Exodus | Send Money, Manage Crypto, Spend Worldwide] [cloudflare] [172.64.151.44] [cloudflare] [445.935408ms] [Cloudflare,HSTS,Vercel,dc.js]
+https://support.ellipal.com [200] [] [625941] [Help Center | ELLIPAL] [cloudflare] [172.64.147.209] [cloudflare] [249.545798ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://www.ellipal.com [200] [] [394112] [ELLIPAL: Crypto Hardware Wallets | Secure Cold Wallets] [cloudflare] [23.227.38.74] [858.571293ms] [Cloudflare,Frequently Bought Together,Google Analytics,HSTS,HTTP/3,Loox,Onsen UI,Shopify,jQuery]
+https://docs.exodus.com [200] [] [3232913] [Exodus Documentation Hub] [cloudflare] [172.64.151.44] [cloudflare] [996.858449ms] [Cloudflare,HSTS,Vercel]
+
+## 301
+https://exodus.com [301] [https://www.exodus.com/] [167] [301 Moved Permanently] [cloudflare] [172.64.151.44] [cloudflare] [105.12385ms] [Cloudflare,HSTS]
+https://blog.exodus.com [301] [https://www.exodus.com/blog] [167] [301 Moved Permanently] [cloudflare] [172.64.151.44] [cloudflare] [125.414287ms] [Cloudflare,HSTS]
+https://docs.dynamic.xyz [301] [https://www.dynamic.xyz/docs/] [167] [301 Moved Permanently] [cloudflare] [104.18.11.64] [cloudflare] [179.584346ms] [Cloudflare,HSTS]
+https://ellipal.com [301] [https://www.ellipal.com/] [0] [cloudflare] [23.227.38.32] [199.253392ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://get.exodus.com [301] [https://www.exodus.com/download] [66] [nginx] [67.199.248.12] [253.244969ms] [HSTS,HTTP/3,Nginx]
+https://dynamic.xyz [301] [https://www.dynamic.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [327.721546ms] [Cloudflare,HSTS,HTTP/3]
+https://support.exodus.com [301] [https://www.exodus.com/support/] [0] [cloudflare] [172.64.151.44] [cloudflare] [94.583475ms] [Cloudflare,HSTS]
+https://uk-support.exodus.com [301] [https://www.exodus.com/support] [167] [301 Moved Permanently] [cloudflare] [104.18.36.212] [cloudflare] [93.776054ms] [Cloudflare,HSTS]
+https://uk.exodus.com [301] [https://www.exodus.com//] [167] [301 Moved Permanently] [cloudflare] [104.18.36.212] [cloudflare] [151.473587ms] [Cloudflare,HSTS]
+
+## 302
+https://extension.exodus.com [302] [https://www.exodus.com/browser-extension/] [143] [302 Found] [cloudflare] [104.18.36.212] [cloudflare] [84.399195ms] [Cloudflare,HSTS]
+https://downloads.exodus.com [302] [https://www.exodus.com/download/] [143] [302 Found] [cloudflare] [104.18.36.212] [cloudflare] [136.936825ms] [Cloudflare,HSTS]
+https://go.dynamic.xyz [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=go.dynamic.xyz] [112] [nginx] [67.199.248.12] [245.857416ms] [HSTS,HTTP/3,Nginx]
+https://account.ellipal.com [302] [https://account.ellipal.com/authentication/oauth/authorize?client_id=95a058ee-3e30-4c25-b993-59ca632a54b8&locale=en-US&nonce=10a92716-b56d-474b-a0bc-84487273a075&redirect_uri=https%3A%2F%2Faccount.ellipal.com%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNDdzZ02VIf3nm8FFIbgM6r] [0] [cloudflare] [23.227.38.74] [464.498659ms] [Cloudflare,HSTS,HTTP/3]
+https://investors.exodus.com [302] [/investors] [0] [cloudflare] [172.64.151.44] [cloudflare] [374.769666ms] [Cloudflare,HSTS,hCaptcha]
+https://referrals.exodus.com [302] [https://www.exodus.com/] [143] [302 Found] [cloudflare] [172.64.151.44] [cloudflare] [100.973121ms] [Cloudflare,HSTS]
+https://wallet.ellipal.com [302] [http://www.ellipal.com] [334] [Redirecting to http://www.ellipal.com] [nginx] [114.119.184.156] [1.046252809s] [HSTS,Nginx,PHP:7.2.34]
+
+## 307
+
+## 308
+https://dicovertest.ellipal.com [403] [] [308] [403 Forbidden] [openresty] [98.98.253.42] [3.945520617s] [Nginx,OpenResty]
+
+## 401
+
+## 403
+https://aggregator-docs.exodus.com [403] [] [17] [cloudflare] [172.64.151.44] [cloudflare] [133.48064ms] [Cloudflare]
+https://cn.ellipal.com [403] [] [17] [cloudflare] [23.227.38.65] [243.406323ms] [Cloudflare]
+https://marketing-site-assets.dynamic.xyz [403] [] [263] [cloudflare] [104.18.11.64] [cloudflare] [305.97007ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://passkeys-network-d.exodus.com [403] [] [17] [cloudflare] [172.64.151.44] [cloudflare] [153.386561ms] [Cloudflare]
+https://scam-hitlist.ot.exodus.com [403] [] [4547] [Attention Required! | Cloudflare] [cloudflare] [172.64.146.199] [cloudflare] [99.89396ms] [Cloudflare]
+https://updates.exodus.com [403] [] [327965] [Exodus - Firewall Triggered] [cloudflare] [172.64.151.44] [cloudflare] [142.95036ms] [Cloudflare,HSTS]
+https://dicovertest.ellipal.com [403] [] [308] [403 Forbidden] [openresty] [98.98.253.42] [3.945520617s] [Nginx,OpenResty]
+
+## 404
+https://agents.dynamic.xyz [404] [] [34] [cloudflare] [104.18.10.64] [cloudflare] [239.237364ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://keys.exodus.com [404] [] [79] [cloudflare] [104.18.36.212] [cloudflare] [171.976526ms] [Cloudflare,HSTS,Vercel]
+https://link.dynamic.xyz [404] [] [146] [404 Not Found] [nginx] [13.249.141.17] [cloudfront] [216.149981ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://email.mg.ellipal.com [404] [] [19] [] [34.102.239.211] [google] [428.867059ms]
+https://login.exodus.com [404] [] [79] [cloudflare] [172.64.151.44] [cloudflare] [290.056733ms] [Cloudflare,HSTS,Vercel]
+https://cloudtest.ellipal.com [404] [] [89] [cloudflare] [104.26.7.219] [cloudflare] [784.812549ms] [Cloudflare]
+https://v4.docs.dynamic.xyz [404] [] [107] [Vercel] [76.76.21.61] [360.857576ms] [HSTS,Vercel]
+https://nft.ellipal.com [404] [] [139] [Error] [nginx] [114.119.184.156] [870.687589ms] [Express,Nginx,Node.js]
+https://discover.ellipal.com [404] [] [350] [404 Not Found] [openresty] [98.98.253.43] [2.958990545s] [Nginx,OpenResty]
+
+## 500
+
+## 502
+
+## 503
+

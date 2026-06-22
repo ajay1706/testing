@@ -1,0 +1,7 @@
+https://aggregator-docs.exodus.com [403] [] [17] [cloudflare] [172.64.151.44] [cloudflare] [133.48064ms] [Cloudflare]
+https://cn.ellipal.com [403] [] [17] [cloudflare] [23.227.38.65] [243.406323ms] [Cloudflare]
+https://marketing-site-assets.dynamic.xyz [403] [] [263] [cloudflare] [104.18.11.64] [cloudflare] [305.97007ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://passkeys-network-d.exodus.com [403] [] [17] [cloudflare] [172.64.151.44] [cloudflare] [153.386561ms] [Cloudflare]
+https://scam-hitlist.ot.exodus.com [403] [] [4547] [Attention Required! | Cloudflare] [cloudflare] [172.64.146.199] [cloudflare] [99.89396ms] [Cloudflare]
+https://updates.exodus.com [403] [] [327965] [Exodus - Firewall Triggered] [cloudflare] [172.64.151.44] [cloudflare] [142.95036ms] [Cloudflare,HSTS]
+https://dicovertest.ellipal.com [403] [] [308] [403 Forbidden] [openresty] [98.98.253.42] [3.945520617s] [Nginx,OpenResty]

@@ -1,0 +1,7 @@
+https://extension.exodus.com [302] [https://www.exodus.com/browser-extension/] [143] [302 Found] [cloudflare] [104.18.36.212] [cloudflare] [84.399195ms] [Cloudflare,HSTS]
+https://downloads.exodus.com [302] [https://www.exodus.com/download/] [143] [302 Found] [cloudflare] [104.18.36.212] [cloudflare] [136.936825ms] [Cloudflare,HSTS]
+https://go.dynamic.xyz [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=go.dynamic.xyz] [112] [nginx] [67.199.248.12] [245.857416ms] [HSTS,HTTP/3,Nginx]
+https://account.ellipal.com [302] [https://account.ellipal.com/authentication/oauth/authorize?client_id=95a058ee-3e30-4c25-b993-59ca632a54b8&locale=en-US&nonce=10a92716-b56d-474b-a0bc-84487273a075&redirect_uri=https%3A%2F%2Faccount.ellipal.com%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNDdzZ02VIf3nm8FFIbgM6r] [0] [cloudflare] [23.227.38.74] [464.498659ms] [Cloudflare,HSTS,HTTP/3]
+https://investors.exodus.com [302] [/investors] [0] [cloudflare] [172.64.151.44] [cloudflare] [374.769666ms] [Cloudflare,HSTS,hCaptcha]
+https://referrals.exodus.com [302] [https://www.exodus.com/] [143] [302 Found] [cloudflare] [172.64.151.44] [cloudflare] [100.973121ms] [Cloudflare,HSTS]
+https://wallet.ellipal.com [302] [http://www.ellipal.com] [334] [Redirecting to http://www.ellipal.com] [nginx] [114.119.184.156] [1.046252809s] [HSTS,Nginx,PHP:7.2.34]

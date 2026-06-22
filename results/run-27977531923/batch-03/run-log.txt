@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jun 22 19:14:47 UTC 2026
+[+] Run ID: 27977531923
+[+] Batch name: batch-03
+[+] Batch targets:
+dynamic.xyz
+ellipal.com
+exodus.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jun 22 19:16:02 UTC 2026
+[+] HTTPX input count: 119
+[+] Running httpx...
+[+] httpx completed: Mon Jun 22 19:16:24 UTC 2026
+[+] httpx line count: 48
+[+] Batch completed: Mon Jun 22 19:16:24 UTC 2026
