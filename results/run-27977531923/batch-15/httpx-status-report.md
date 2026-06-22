@@ -1,0 +1,93 @@
+# HTTPX Status Report
+
+Generated at: Mon Jun 22 19:24:48 UTC 2026
+
+HTTPX lines: 67
+Live URLs: 67
+
+## 200
+https://api.slush.app [200] [] [11] [cloudflare] [104.20.18.11] [cloudflare] [116.538015ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://borrow-app.solflare.com [200] [] [3556] [Borrow] [cloudflare] [104.20.37.33] [cloudflare] [108.637965ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://magic.solflare.com [200] [] [3554] [Magic] [cloudflare] [172.66.156.249] [cloudflare] [100.93669ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://connect.solflare.com [200] [] [483] [Solflare] [cloudflare] [104.20.37.33] [cloudflare] [301.343286ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://ai.solflare.com [200] [] [17760] [Get early access to Magic Solflare AI assistant] [cloudflare] [104.20.37.33] [cloudflare] [216.809519ms] [Cloudflare,HSTS,RxJS]
+https://my.slush.app [200] [] [2748] [Slush | A Sui Wallet] [cloudflare] [104.20.18.11] [cloudflare] [102.036501ms] [Cloudflare,HSTS,Vercel]
+https://chart.solflare.com [200] [] [2292] [Solflare - Chart] [cloudflare] [104.20.37.33] [cloudflare] [302.306023ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://sandbox.solflare.com [200] [] [333] [Solflare Sandbox] [cloudflare] [104.20.37.33] [cloudflare] [172.951482ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://recover-tokens.solflare.com [200] [] [338] [Recover Nested Tokens] [cloudflare] [172.66.156.249] [cloudflare] [224.085183ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://solana-status.solflare.com [200] [] [17] [cloudflare] [172.66.156.249] [cloudflare] [55.64691ms] [Cloudflare]
+https://code.sparrowwallet.com [200] [] [14315] [Sparrow Wallet: Financial self sovereignty] [nginx/1.18.0 (Ubuntu)] [93.95.231.89] [429.112918ms] [Forgejo,Go,Nginx:1.18.0,PWA,RSS,Ubuntu,jQuery]
+https://widget.solflare.com [200] [] [1505] [Solflare] [AmazonS3] [3.170.19.125] [cloudfront] [98.203779ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://sandbox2.solflare.com [200] [] [333] [Solflare Sandbox] [cloudflare] [104.20.37.33] [cloudflare] [321.017808ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://wrapped.solflare.com [200] [] [1577] [Solflare 2025 Wrapped] [AmazonS3] [3.167.99.70] [cloudfront] [100.547885ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://wallet-standard-test.solflare.com [200] [] [609] [Star Atlas Wallet Test] [AmazonS3] [3.170.42.35] [cloudfront] [299.330363ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://packs.solflare.com [200] [] [48038] [Solflare Packs] [cloudflare] [104.20.37.33] [cloudflare] [250.361761ms] [Cloudflare]
+https://sparrowwallet.com [200] [] [10051] [Sparrow Bitcoin Wallet - Sparrow Wallet] [nginx/1.18.0 (Ubuntu)] [93.95.231.89] [379.216151ms] [HSTS,Lightbox,Nginx:1.18.0,Ubuntu]
+https://www.sparrowwallet.com [200] [] [10051] [Sparrow Bitcoin Wallet - Sparrow Wallet] [nginx/1.18.0 (Ubuntu)] [93.95.231.89] [363.470041ms] [HSTS,Lightbox,Nginx:1.18.0,Ubuntu]
+https://legacy.solflare.com [200] [] [43602] [SolFlare] [cloudflare] [172.66.156.249] [cloudflare] [841.124861ms] [Cloudflare,Netlify]
+https://www.solflare.com [200] [] [113494] [Manage your free Solflare wallet with ease | Solflare] [cloudflare] [172.66.156.249] [cloudflare] [160.498423ms] [Cloudflare,Google Tag Manager,MySQL,PHP,WPML:4.9.5,WordPress,Yoast SEO Premium:27.8,Yoast SEO:27.8]
+https://slush.app [200] [] [119450] [Slush — Your Money. Unstuck.] [cloudflare] [198.202.211.1] [399.81981ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Unpkg,jQuery:3.5.1,jsDelivr]
+https://shop.solflare.com [200] [] [230184] [Solflare Hardware Wallet Shop | Secure Solana Wallets | Solflare Shop] [cloudflare] [172.66.156.249] [cloudflare] [305.615388ms] [Amazon S3,Amazon Web Services,Cloudflare,Google Cloud,Google Cloud CDN,Next.js,Node.js,PayPal,React,Webpack]
+
+## 301
+https://academy.solflare.com [301] [https://www.solflare.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.156.249] [cloudflare] [47.230035ms] [Cloudflare]
+https://www.slush.app [301] [https://slush.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [172.054622ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://help.solflare.com [302] [https://help.solflare.com/en/] [0] [cloudflare] [104.20.37.33] [cloudflare] [78.873638ms] [Cloudflare]
+https://rev.solflare.com [302] [https://solflare.cloudflareaccess.com/cdn-cgi/access/login/rev.solflare.com?kid=4e94933fa119d56fe2c57d244739554d5cedfbd9bac3de6280ef1e42fb38b177&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImM0MDIwYmQ5ZmY5Y2I3MDlmNGZiNTg4ODgzMjJlZWQ2MmI2ZjBlOTI1ODU3MDQxMDA3NDU0MTA1M2NjYjIxN2EifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjRlOTQ5MzNmYTExOWQ1NmZlMmM1N2QyNDQ3Mzk1NTRkNWNlZGZiZDliYWMzZGU2MjgwZWYxZTQyZmIzOGIxNzciLCJob3N0bmFtZSI6InJldi5zb2xmbGFyZS5jb20iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc4MjE1NjU4NywibmJmIjoxNzgyMTU2Mjg3LCJpYXQiOjE3ODIxNTYyODcsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJjY2QyNDFlMGU2ZDk3ZDhkNzE4MTVmNjc3YWEyMjczOWMxYjkwZTVkZDk3NjI0MmQwYjM3ZTFhZmNkNzQzYzJiIn0.QG-X-vto3yYKUK8_pnAKm-xWBxajU9CLAShQLceALc8vIS-geofCsXQjcPFNuuLt-1J2gjvQ3EQGj8-lq1OdnM3eUuR-r-PorZ0J4UQIqQ1GpwQ55kaU5gxKD885DzZzUyJ0-Ve6F2HHfMD0MqIC69nsR5PHAaXZxLCecePfqWCGHOzOi7pFZrhW0tPXA9tOdgVf20z0UoS52P7GpfgZ7Wt4cnhYCGStEAM9iA9ZjlW7FNHbJwaEkZFFoZHAlkj8XOOAKvwHBN1qT8_hAPp9PYsQ5F9afKjDQJ9cvrxJm-TCaCfeBk1Te23wj3G5pHC1efmEZzbLp7bJ7u97VHVSqg&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.156.249] [cloudflare] [53.247785ms] [Cloudflare]
+https://donate.sparrowwallet.com [302] [https://donate.sparrowwallet.com/login?ReturnUrl=%2F] [0] [nginx/1.18.0 (Ubuntu)] [93.95.231.89] [472.532867ms] [HSTS,Nginx:1.18.0,Ubuntu]
+https://support.slush.app [302] [https://support.slush.app/hc] [0] [cloudflare] [216.198.54.6] [141.831906ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://solflare.com [302] [https://www.solflare.com/] [0] [cloudflare] [104.20.37.33] [cloudflare] [392.388966ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+
+## 307
+https://docs.solflare.com [307] [https://docs.solflare.com/solflare/] [15] [cloudflare] [172.64.147.209] [cloudflare] [247.906591ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://learnearn.solflare.com [307] [/quests] [93] [cloudflare] [172.67.210.5] [cloudflare] [900.024932ms] [Cloudflare,HTTP/3]
+
+## 308
+
+## 401
+https://beta.solflare.com [401] [] [0] [cloudflare] [104.20.37.33] [cloudflare] [268.359457ms] [Amazon CloudFront,Amazon Web Services,Basic,Cloudflare]
+https://utils.solflare.com [401] [] [0] [cloudflare] [172.66.156.249] [cloudflare] [267.582095ms] [Amazon CloudFront,Amazon Web Services,Basic,Cloudflare]
+https://staging.slush.app [401] [] [13309] [Authentication Required] [cloudflare] [172.66.154.125] [cloudflare] [317.964172ms] [Cloudflare,HSTS,Vercel]
+
+## 403
+https://empire.solflare.com [403] [] [17] [cloudflare] [208.103.161.33] [58.017816ms] [Cloudflare]
+https://app.solflare.com [403] [] [1148] [Access Denied] [cloudflare] [172.66.156.249] [cloudflare] [56.448379ms] [Cloudflare]
+https://initialize.slush.app [403] [] [19] [cloudflare] [104.20.18.11] [cloudflare] [85.647258ms] [Cloudflare,Google Cloud,Google Cloud CDN,Statsig]
+https://cards-api-main-alb.solflare.com [403] [] [134] [403] [] [34.8.130.12] [google] [233.117891ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://main-alb-cdn.solflare.com [403] [] [134] [403] [] [35.244.189.16] [google] [221.386343ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://cdn.solflare.com [403] [] [111] [cloudflare] [172.66.156.249] [cloudflare] [405.503123ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://seeker-wallet-api.solflare.com [403] [] [4547] [Attention Required! | Cloudflare] [cloudflare] [104.20.37.33] [cloudflare] [49.596353ms] [Cloudflare]
+https://main-alb.solflare.com [403] [] [134] [403] [] [34.54.189.103] [google] [234.883239ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://wallet-api.solflare.com [403] [] [4547] [Attention Required! | Cloudflare] [cloudflare] [172.66.156.249] [cloudflare] [53.389906ms] [Cloudflare]
+https://seeker-main-alb.solflare.com [403] [] [134] [403] [] [34.102.146.248] [google] [241.356523ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://zstage-wallet-api.solflare.com [403] [] [4547] [Attention Required! | Cloudflare] [cloudflare] [104.20.37.33] [cloudflare] [47.614014ms] [Cloudflare]
+https://zstage-alb.solflare.com [403] [] [134] [403] [] [34.54.56.217] [google] [257.481715ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 404
+https://activity-api.solflare.com [404] [] [66] [cloudflare] [104.20.37.33] [cloudflare] [148.781717ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+https://features-api.solflare.com [404] [] [79] [cloudflare] [172.66.156.249] [cloudflare] [166.112105ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+https://ipfs-1-cf.solflare.com [404] [] [14] [cloudflare] [104.20.37.33] [cloudflare] [129.333351ms] [Cloudflare,IPFS]
+https://bridge-api.solflare.com [404] [] [79] [cloudflare] [104.20.37.33] [cloudflare] [188.053236ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+https://0ec53429991cd918.solflare.com [404] [] [46] [cloudflare] [104.20.37.33] [cloudflare] [189.495143ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS]
+https://api-notification-prod.solflare.com [404] [] [71] [Google Frontend] [142.251.163.121] [google] [192.100265ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://identity-api.solflare.com [404] [] [79] [cloudflare] [104.20.37.33] [cloudflare] [192.266911ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+https://2de0c8e99214dccf.solflare.com [404] [] [46] [Google Frontend] [35.244.228.156] [google] [233.108328ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://qr.solflare.com [404] [] [272] [404 Page not found] [cloudflare] [172.66.156.249] [cloudflare] [181.548865ms] [Cloudflare]
+https://link.solflare.com [404] [] [19] [] [34.111.99.212] [google] [315.992099ms]
+https://seeker-features-api.solflare.com [404] [] [79] [cloudflare] [172.66.156.249] [cloudflare] [197.831089ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+https://seeker-activity-api.solflare.com [404] [] [66] [cloudflare] [172.66.156.249] [cloudflare] [199.375098ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+https://seeker-notification-api.solflare.com [404] [] [66] [Google Frontend] [142.251.167.121] [google] [161.908464ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://token-list-api.solflare.com [404] [] [66] [cloudflare] [104.20.37.33] [cloudflare] [198.638896ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+https://mta-sts.sparrowwallet.com [404] [] [0] [] [185.205.69.10] [525.859087ms] [HSTS]
+https://zstage-profile-api.solflare.com [404] [] [72] [cloudflare] [104.20.37.33] [cloudflare] [174.221305ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS]
+https://zstage-identity-api.solflare.com [404] [] [79] [cloudflare] [104.20.37.33] [cloudflare] [190.75457ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+
+## 500
+
+## 502
+https://bd8a73c50c08f710.solflare.com [502] [] [136] [502] [] [34.54.194.145] [google] [228.112633ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 503
+
