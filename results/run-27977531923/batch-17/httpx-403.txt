@@ -1,0 +1,2 @@
+https://adapter.tiplink.io [403] [] [4547] [Attention Required! | Cloudflare] [cloudflare] [172.66.144.171] [cloudflare] [233.98562ms] [Cloudflare]
+https://testnet-battery.tonkeeper.com [403] [] [146] [403 Forbidden] [cloudflare] [104.26.2.107] [cloudflare] [761.525704ms] [Cloudflare]
