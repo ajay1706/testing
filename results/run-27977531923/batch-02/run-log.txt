@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jun 22 19:14:49 UTC 2026
+[+] Run ID: 27977531923
+[+] Batch name: batch-02
+[+] Batch targets:
+coinbase.com
+cosmostation.io
+crossmint.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jun 22 19:16:21 UTC 2026
+[+] HTTPX input count: 1078
+[+] Running httpx...
+[+] httpx completed: Mon Jun 22 19:20:12 UTC 2026
+[+] httpx line count: 345
+[+] Batch completed: Mon Jun 22 19:20:12 UTC 2026
