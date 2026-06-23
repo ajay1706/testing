@@ -1,0 +1,3 @@
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://aistudio.instagram.com/login [password="password456",username="bob"]
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://alpha.work.meta.com/login [password="password456",username="bob"]
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://beta.work.meta.com/login [password="password456",username="bob"]
