@@ -1,0 +1,37 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] mcp-assets.composio.dev:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mcp-assets.composio.dev:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mcp.supermemory.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mcp.supermemory.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] media.odyssey.world:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] media.odyssey.world:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] meity.arya.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] meity.arya.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[xss-uri-reflected] [http] [low] https://mcp.beta.wordware.ai/a%22%3E%3Cinjectable%3E
+[aws-bucket-takeover] [http] [high] https://media-assets.gradial.com ["media-assets.gradial.com"]
+[kubernetes-fake-certificate] [ssl] [low] marcel-xyz5-cp.api.marcel-xyz5.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] marcel-xyz5-cp.api.marcel-xyz5.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] marcel-r7eh.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] marcel-r7eh.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] marcel-vs7l.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] marcel-vs7l.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] marcel-sp8n.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] marcel-sp8n.cert.api.mc-dev.baseten.co:443
+[expired-ssl] [ssl] [low] mbti-test.demo.fireworks.ai:443 ["2026-01-28 00:21:26 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-23142.hephaestus.exa.ai:443 ["2026-06-11 15:37:15 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-23297.hephaestus.exa.ai:443 ["2026-06-12 00:14:29 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-18060.hephaestus.exa.ai:443 ["2026-05-21 22:27:16 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-24308.hephaestus.exa.ai:443 ["2026-06-16 22:44:49 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-25086.hephaestus.exa.ai:443 ["2026-06-21 21:30:09 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-25153.hephaestus.exa.ai:443 ["2026-06-21 23:19:15 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-36964.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-36964.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-41769-0cd1b64e.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-41769-0cd1b64e.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-41257.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-41257.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-41769-84421a12.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-41769-84421a12.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-41777.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-41777.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-42333.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-42333.hephaestus.exa.ai:443
