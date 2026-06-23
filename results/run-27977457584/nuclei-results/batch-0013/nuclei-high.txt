@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://chat-pathfinder.sarvam.ai
+[CVE-2025-14847:version] [tcp] [high] charcha.koyal.ai:27017 ["8.0.4"]
