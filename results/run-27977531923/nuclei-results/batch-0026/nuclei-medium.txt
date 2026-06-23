@@ -1,0 +1,2 @@
+[ssrf-via-oauth-misconfig] [http] [medium] https://mail.particle.network/connect/register
+[CVE-2020-5775] [http] [medium] https://mail.particle.network/external_content/retrieve/oembed?endpoint=http://d8t1hkbomj13f5bqn77guctaynje3czjx.oast.live&url=foo

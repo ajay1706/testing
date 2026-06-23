@@ -1,0 +1,7 @@
+[CVE-2019-19824] [http] [high] https://mail.particle.network/boafrm/formSysCmd
+[targa-camera-ssrf] [http] [high] https://mail.particle.network/cps/test_backup_server?ACTION=TEST_IP&NOCONTINUE=TRUE
+[generic-blind-xxe] [http] [high] https://mail.particle.network
+[xmlrpc-pingback-ssrf] [http] [high] https://mail.particle.network/xmlrpc/pingback
+[CVE-2024-34351] [http] [high] https://lrc-smart-wallet.web3auth.io/_next/image?w=16&q=10&url=https://d8t1hkbomj13f5bqn77gmi5urw3sxtp55.oast.live
+[CVE-2024-34351] [http] [high] https://lrc-accounts.web3auth.io/_next/image?w=16&q=10&url=https://d8t1hkbomj13f5bqn77g98aj6q71nbeyn.oast.live
+[aws-bucket-takeover] [http] [high] https://memberships.fewcha.app ["memberships.fewcha.app"]
