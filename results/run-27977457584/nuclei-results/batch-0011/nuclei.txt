@@ -1,0 +1,18 @@
+[open-redirect-generic] [http] [medium] https://azure-staging.sarvam.ai///https://oast.me// [redirect="//https://oast.me//"]
+[CVE-2025-14847:version] [tcp] [high] beta.koyal.ai:27017 ["7.0.23"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] aws-uw2phx-p7x.api.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] aws-uw2phx-p7x.api.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] baseten-lb.mc-dev.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] baseten-lb.mc-dev.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bei-heavy-ranker-v3-c.mc-dev.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bei-heavy-ranker-v3-c.mc-dev.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] beta.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] beta.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.api.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.api.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.hyperbolic.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.hyperbolic.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[kubernetes-fake-certificate] [ssl] [low] aws-us-west-2-o3b-registry.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] aws-us-west-2-o3b-registry.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] aws-uw2phx-prod-1.cert.api.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] aws-uw2phx-prod-1.cert.api.baseten.co:443
