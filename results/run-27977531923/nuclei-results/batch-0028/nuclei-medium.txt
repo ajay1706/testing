@@ -1,0 +1,2 @@
+[config-json] [http] [medium] https://packages.dynamic.xyz/config.json
+[prometheus-metrics] [http] [medium] https://openpanel.nightly.app/api/metrics
