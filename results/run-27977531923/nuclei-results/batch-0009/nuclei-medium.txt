@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://arbitrum-goerli.rpc.thirdweb.com/metrics
