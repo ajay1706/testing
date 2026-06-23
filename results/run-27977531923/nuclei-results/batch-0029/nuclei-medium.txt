@@ -1,0 +1,3 @@
+[blockchain-rpc-debug-exposure] [http] [medium] https://polygon-mainnet-backend.phantom.app
+[blockchain-rpc-debug-exposure] [http] [medium] https://polygon-amoy-backend.phantom.app
+[prometheus-metrics] [http] [medium] https://polygon.rpc.thirdweb.com/metrics

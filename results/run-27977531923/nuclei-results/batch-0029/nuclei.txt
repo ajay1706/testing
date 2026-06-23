@@ -1,0 +1,20 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://peephole.tonkeeper.com/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2026-33032] [http] [critical] https://polygon-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-amoy-backend.phantom.app/mcp_message
+[blockchain-rpc-debug-exposure] [http] [medium] https://polygon-mainnet-backend.phantom.app
+[blockchain-rpc-debug-exposure] [http] [medium] https://polygon-amoy-backend.phantom.app
+[blockchain-rpc-txpool-exposed] [http] [high] https://polygon-amoy-backend.phantom.app
+[weak-cipher-suites:tls-1.0] [ssl] [low] peephole.tonkeeper.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] peephole.tonkeeper.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] playground.pontem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] playground.pontem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] polygon.proxy.pontem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] polygon.proxy.pontem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] portfolio-staging-x.xverse.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] portfolio-staging.xverse.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] portfolio-staging-x.xverse.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] portfolio-staging.xverse.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] portfolio.xverse.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] portfolio.xverse.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[debug-vars] [http] [low] https://polygon.rpc.thirdweb.com/debug/vars
+[prometheus-metrics] [http] [medium] https://polygon.rpc.thirdweb.com/metrics

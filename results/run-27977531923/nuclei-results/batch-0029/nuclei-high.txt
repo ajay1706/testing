@@ -1,0 +1,2 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://peephole.tonkeeper.com/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[blockchain-rpc-txpool-exposed] [http] [high] https://polygon-amoy-backend.phantom.app
