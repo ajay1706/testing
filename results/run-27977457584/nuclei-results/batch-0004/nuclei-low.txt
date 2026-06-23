@@ -1,0 +1,58 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] ai-docs.hyperbolic.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] agriculture-agent.arya.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] agriculture-agent.arya.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ai-docs.hyperbolic.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] akshar.azure-stage01.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] akshar.azure-stage01.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] akshar.azure-qa01.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] akshar.azure-qa01.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] analytics.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ap-malaysia-1.direct.fireworks.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ap-malaysia-2.direct.fireworks.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ap-malaysia-1.direct.fireworks.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ap-malaysia-2.direct.fireworks.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ap-newsouthwales-1.direct.fireworks.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ap-tokyo-2.direct.fireworks.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ap-newsouthwales-1.direct.fireworks.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ap-tokyo-2.direct.fireworks.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-dev.virtuals.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-dev.virtuals.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] analytics.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-03y8koew.cert.03y8koew.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-03y8koew.cert.03y8koew.gcp-us-e4-blt.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-4q9npkjw.cert.4q9npkjw.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-4q9npkjw.cert.4q9npkjw.gcp-us-ctr1-abr.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alluxio-enterprise.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alluxio-enterprise.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-4q9n7v0w.cert.4q9n7v0w.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-4q9n7v0w.cert.4q9n7v0w.gcp-us-e4-blt.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alluxio.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alluxio.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-5qe12ypw.cert.5qe12ypw.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-5qe12ypw.cert.5qe12ypw.gcp-us-ctr1-abr.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-nwxdpryq.cert.nwxdpryq.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-nwxdpryq.cert.nwxdpryq.gcp-us-ctr1-abr.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-rwn5204w.cert.rwn5204w.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-rwn5204w.cert.rwn5204w.gcp-us-ctr1-abr.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-nwxdpryq.cert.nwxdpryq.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-nwxdpryq.cert.nwxdpryq.gcp-us-e4-blt.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-yqv7merq.cert.yqv7merq.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-yqv7merq.cert.yqv7merq.gcp-us-ctr1-abr.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-character.cert.inference-character.staging.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-character.cert.inference-character.staging.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-v31j9mr3.cert.v31j9mr3.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-v31j9mr3.cert.v31j9mr3.gcp-us-e4-blt.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-character.cert.inference.character.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-character.cert.inference.character.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-lb1.cert.gcp-us-central1-a9x.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-lb1.cert.gcp-us-central1-a9x.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-yqv7merq.cert.yqv7merq.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-yqv7merq.cert.yqv7merq.gcp-us-e4-blt.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-lb1.cert.test1.wp-gcp-us-central1-dev.lb.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-lb1.cert.test1.wp-gcp-us-central1-dev.lb.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-cursor.cert.inference.cursor.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-cursor.cert.inference.cursor.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-mcm1.cert.wp-gcp-us-central1-dev-mcm1.lb.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-mcm1.cert.wp-gcp-us-central1-dev-mcm1.lb.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-xyla-7qrlzl0q.cert.gpt-oss-120b-lora-7qrlzl0q.api.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-xyla-7qrlzl0q.cert.gpt-oss-120b-lora-7qrlzl0q.api.baseten.co:443
