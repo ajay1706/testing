@@ -1,0 +1,2 @@
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://prod.work.meta.com/login [password="password456",username="bob"]
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://work.meta.com/login [password="password456",username="bob"]
