@@ -1,0 +1,12 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] gnosis-card.meteorwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gnosis-card.meteorwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gnosis.proxy.pontem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gnosis.proxy.pontem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] goerli.proxy.pontem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] goerli.proxy.pontem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[debug-vars] [http] [low] https://global.rpc.thirdweb.com/debug/vars
+[prometheus-metrics] [http] [medium] https://global.rpc.thirdweb.com/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.near-data-pipeline.meteorwallet.app/metrics ["12.1.1"]
+[kubernetes-metrics] [http] [low] https://grafana.near-data-pipeline.meteorwallet.app/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.near-data-pipeline.meteorwallet.app/metrics
+[self-signed-ssl] [ssl] [low] grpc-dymension.cosmostation.io:443
