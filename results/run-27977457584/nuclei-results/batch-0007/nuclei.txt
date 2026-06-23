@@ -1,0 +1,21 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.screenpipe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.screenpipe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.sep-test-case-runner.arya.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.sep-test-case-runner.arya.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.supermemory.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.supermemory.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.virtuals.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.virtuals.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api2.midjourney.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api2.midjourney.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.hyperbolic.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.hyperbolic.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.supermemory.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.supermemory.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[nextjs-vite-public-env:supabase_url] [http] [medium] https://app.gradial.com/auth/login?callbackURL=%2F ["https://app.gradial.com"]
+[nextjs-vite-public-env:supabase_anon_key] [http] [medium] https://app.gradial.com/auth/login?callbackURL=%2F ["eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzU1MjgwNDI2LCJleHAiOjIwNzA4NTY0MjZ9.B-q1cvpauX-BXxQCtmdFo0agzo9CUd9qZSDnF3Cf4cA"]
+[nextjs-vite-public-env:public_env] [http] [medium] https://app.gradial.com/auth/login?callbackURL=%2F [""NEXT_PUBLIC_ENVIRONMENT":"production"",""NEXT_PUBLIC_APP_URL":"https://app.gradial.com"",""NEXT_PUBLIC_API_URL":"https://app.gradial.com"",""NEXT_PUBLIC_SUPABASE_ANON_KEY":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzU1MjgwNDI2LCJleHAiOjIwNzA4NTY0MjZ9.B-q1cvpauX-BXxQCtmdFo0agzo9CUd9qZSDnF3Cf4cA"",""NEXT_PUBLIC_LOGODEV_PUBLISHABLE_KEY":"pk_EJhAfgvpSg2M49GgLgTgyg"",""NEXT_PUBLIC_SUPABASE_URL":"https://app.gradial.com""]
+[CVE-2021-44528] [http] [medium] https://app.supermemory.ai/
+[kubernetes-fake-certificate] [ssl] [low] api.overseer-pr-51518.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.overseer-pr-51518.hephaestus.exa.ai:443
+[self-signed-ssl] [ssl] [low] api2.midjourney.com:443
