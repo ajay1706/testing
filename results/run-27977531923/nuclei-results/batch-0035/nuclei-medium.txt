@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://taiko-alpha-3-testnet.rpc.thirdweb.com/metrics
+[docker-compose-config] [http] [medium] https://test-tp.tokenpocket.pro/docker-compose.yml
