@@ -1,0 +1,22 @@
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://creators.n8n.io/login [password="password123",username="alice"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] console-self.supermemory.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] console-self.supermemory.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] console.supermemory.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] console-cf.supermemory.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] console.supermemory.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] console-cf.supermemory.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cris.arya.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cris.arya.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[oauth-credentials-json] [http] [low] https://content.vapi.ai/oauth-credentials.json
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-ap-southeast-2-backend-production1.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-eu-central-1-backend-staging2.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-ap-southeast-2-backend-production2.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-production-hcs.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-production-weekly2.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-production-intuit1.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-production2.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-production3.vapi.ai/_headers
+[credentials-json] [http] [medium] https://content.vapi.ai/credentials.json
+[kubernetes-fake-certificate] [ssl] [low] control-plane-dev.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] control-plane-dev.cert.api.mc-dev.baseten.co:443
+[expired-ssl] [ssl] [low] console-new.supermemory.ai:443 ["2025-10-26 16:14:04 +0000 UTC"]
