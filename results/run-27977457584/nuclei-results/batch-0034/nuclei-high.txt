@@ -1,0 +1,2 @@
+[CVE-2025-14847:version] [tcp] [high] trueshort.koyal.ai:27017 ["7.0.23"]
+[framer-takeover] [http] [high] https://teaser.odyssey.world ["sites.framer.app"]
