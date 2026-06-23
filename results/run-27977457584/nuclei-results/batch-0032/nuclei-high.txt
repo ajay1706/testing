@@ -1,0 +1,2 @@
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://stage-creators.n8n.io/login [password="password123",username="alice"]
+[generic-linux-lfi] [http] [high] https://staging-webrtc.vapi.ai/etc/passwd [paths="/etc/passwd"]
