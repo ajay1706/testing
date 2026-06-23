@@ -1,0 +1,49 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] dashboard.azure-stage01.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dashboard.azure-stage01.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dashboard.azure-qa01.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dashboard.azure-qa01.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dashboard.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dashboard.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] data-apps.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] data-apps.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-staging-sri-1.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-staging-sagar.vapi.ai/_headers
+[kubernetes-fake-certificate] [ssl] [low] dashboard.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dashboard.hephaestus.exa.ai:443
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-21899.hephaestus.exa.ai:443 ["2026-06-11 01:40:34 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23215.hephaestus.exa.ai:443 ["2026-06-11 20:39:03 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-21933.hephaestus.exa.ai:443 ["2026-06-07 12:56:14 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-23337.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-23337.hephaestus.exa.ai:443
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23339.hephaestus.exa.ai:443 ["2026-06-12 11:14:09 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23342.hephaestus.exa.ai:443 ["2026-06-12 10:54:54 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23343.hephaestus.exa.ai:443 ["2026-06-12 12:00:25 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23350.hephaestus.exa.ai:443 ["2026-06-12 14:29:00 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23344.hephaestus.exa.ai:443 ["2026-06-12 12:41:26 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23502.hephaestus.exa.ai:443 ["2026-06-14 07:49:45 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23520.hephaestus.exa.ai:443 ["2026-06-14 11:07:28 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23512.hephaestus.exa.ai:443 ["2026-06-14 10:33:07 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23698.hephaestus.exa.ai:443 ["2026-06-14 22:44:07 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23893.hephaestus.exa.ai:443 ["2026-06-15 17:26:30 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-24138.hephaestus.exa.ai:443 ["2026-06-16 09:06:45 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-24424.hephaestus.exa.ai:443 ["2026-06-17 16:12:07 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-24684.hephaestus.exa.ai:443 ["2026-06-18 17:01:19 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-25419.hephaestus.exa.ai:443 ["2026-06-22 20:17:56 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-26430.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-26430.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-27351.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-27351.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-29522.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-29522.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-29528.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-29528.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-29545.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-29545.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-29550.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-29550.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-32996.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-32996.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-33168.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-33168.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-34353.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-34353.hephaestus.exa.ai:443
