@@ -1,0 +1,6 @@
+[debug-vars] [http] [low] https://14.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://16.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://16600.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://295.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://297.rpc.thirdweb.com/debug/vars
+[expired-ssl] [ssl] [low] 2023.suiet.app:443 ["2024-12-30 13:11:02 +0000 UTC"]
