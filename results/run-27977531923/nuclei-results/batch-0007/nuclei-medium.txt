@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://ap1.multiregion.thirdweb.com/metrics
