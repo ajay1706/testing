@@ -1,0 +1,2 @@
+[CVE-2022-41697] [http] [medium] https://blog.web3auth.io/ghost/api/admin/session
+[CVE-2023-5561] [http] [medium] https://blog.onto.app/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
