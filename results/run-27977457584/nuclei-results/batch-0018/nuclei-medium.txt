@@ -1,0 +1,1 @@
+[n8n-config] [http] [medium] https://enterprise-demo.n8n.io/rest/settings
