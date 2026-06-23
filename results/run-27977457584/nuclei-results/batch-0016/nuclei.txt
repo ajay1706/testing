@@ -1,0 +1,27 @@
+[CVE-2025-14847:version] [tcp] [high] demo.koyal.ai:27017 ["8.0.4"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] demo.supermemory.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] demo.supermemory.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] desktop-releases.v2.cluely.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] desktop.cluely.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] desktop-releases.v2.cluely.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] desktop-glass-releases.v2.cluely.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] desktop.cluely.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] desktop-glass-releases.v2.cluely.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-35563.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-35563.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-36507.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-36507.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-35105.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-35105.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-35231.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-35231.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-35836.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-35836.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-36658.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-36658.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-36774.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-36774.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-37001.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-37001.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-36921.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-36921.hephaestus.exa.ai:443
