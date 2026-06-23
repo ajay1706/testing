@@ -1,0 +1,5 @@
+[prometheus-metrics] [http] [medium] https://coordinator.node-1.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-2.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-3.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-4.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-5.dev-node.web3auth.io/metrics
