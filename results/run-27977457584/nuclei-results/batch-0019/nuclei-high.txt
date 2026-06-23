@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://fireworks.ai
+[CVE-2025-14847:version] [tcp] [high] garryslist.koyal.ai:27017 ["7.0.23"]
