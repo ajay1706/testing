@@ -1,0 +1,39 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.sip-web.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.staging-sip-web.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.staging-sip-web2.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.web-mini.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.staging-sip-web1.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[weak-cipher-suites:tls-1.0] [ssl] [low] icici.arya.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] icici.arya.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure] [http] [low] https://grafana.aws-us-west-2-monitoring-production2.vapi.ai/metrics
+[kubernetes-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-production2.vapi.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-production2.vapi.ai/metrics
+[grafana-metrics-exposure] [http] [low] https://grafana.aws-us-west-2-monitoring-staging2.vapi.ai/metrics
+[kubernetes-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-staging2.vapi.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-staging2.vapi.ai/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.agrimin.sarvam.ai/metrics ["12.3.1"]
+[kubernetes-metrics] [http] [low] https://grafana.agrimin.sarvam.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.agrimin.sarvam.ai/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.sip-web.vapi.ai/metrics ["10.4.1"]
+[kubernetes-metrics] [http] [low] https://grafana.sip-web.vapi.ai/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.staging-sip-web1.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.staging-sip-web2.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.staging-sip-web.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.web-mini.vapi.ai/metrics ["10.4.1"]
+[postgres-exporter-metrics] [http] [low] https://grafana.web-mini.vapi.ai/metrics
+[expired-ssl] [ssl] [low] gpu-dashboard-pr-21899.hephaestus.exa.ai:443 ["2026-06-11 01:40:23 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] gpu-dashboard-pr-34544.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[expired-ssl] [ssl] [low] gpu-dashboard-pr-23698.hephaestus.exa.ai:443 ["2026-06-14 22:43:00 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] gpu-dashboard-pr-34544.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] gpu-dashboard-pr-34190.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] gpu-dashboard-pr-34190.hephaestus.exa.ai:443
+[expired-ssl] [ssl] [low] grafana.staging-sip-web1.vapi.ai:443 ["2025-10-01 00:55:38 +0000 UTC"]
+[expired-ssl] [ssl] [low] grants.midjourney.com:443 ["2026-01-16 02:32:53 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] grpc.wp-gcp-us-central1-dev-mcm1.lb.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] grpc.wp-gcp-us-central1-dev-mcm1.lb.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] hard-mining-viewer-pr-30582.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] hard-mining-viewer-pr-30582.hephaestus.exa.ai:443
+[expired-ssl] [ssl] [low] harini-env-3.api.mc-dev.baseten.co:443 ["2026-06-12 05:32:46 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] harini-env-3.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] harini-env-3.cert.api.mc-dev.baseten.co:443
+[expired-ssl] [ssl] [low] homer.staging-sip-web1.vapi.ai:443 ["2025-10-01 00:55:38 +0000 UTC"]
