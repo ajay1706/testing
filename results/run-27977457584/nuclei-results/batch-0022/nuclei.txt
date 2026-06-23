@@ -1,0 +1,21 @@
+[CVE-2025-14847:version] [tcp] [high] koyal.ai:27017 ["7.0.23"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] imhotep.arya.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] imhotep.arya.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] internal-dashboard.azure-stage01.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] internal-dashboard.azure-stage01.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] keyvalue.arya.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] keyvalue.arya.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] labs.api.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] labs.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] kivi.aws-staging.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] labs.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] labs.api.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] kivi.aws-staging.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2019-11248] [http] [high] https://infra-platform.mc-dev.baseten.co/debug/pprof/
+[go-pprof-debug] [http] [low] https://infra-platform.mc-dev.baseten.co/debug/pprof/heap?debug=1
+[kubernetes-fake-certificate] [ssl] [low] inference-grpc.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] inference-grpc.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] inference.hydue2.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] inference.hydue2.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] jonathan-kv5j-cp.api.jonathan-kv5j.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] jonathan-kv5j-cp.api.jonathan-kv5j.mc-dev.baseten.co:443

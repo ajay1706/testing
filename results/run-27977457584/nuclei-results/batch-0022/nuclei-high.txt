@@ -1,0 +1,2 @@
+[CVE-2025-14847:version] [tcp] [high] koyal.ai:27017 ["7.0.23"]
+[CVE-2019-11248] [http] [high] https://infra-platform.mc-dev.baseten.co/debug/pprof/
