@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://trackall.nightly.app/metrics
+[prometheus-metrics] [http] [medium] https://us1.multiregion.thirdweb.com/metrics
