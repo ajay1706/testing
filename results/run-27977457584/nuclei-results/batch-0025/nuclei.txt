@@ -1,0 +1,38 @@
+[CVE-2025-14847:version] [tcp] [high] music.koyal.ai:27017 ["8.0.4"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] multimedia-virginia-1.direct.fireworks.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] multimedia-virginia-1.direct.fireworks.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] na-britishcolumbia-2.direct.fireworks.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] na-britishcolumbia-2.direct.fireworks.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] na-britishcolumbia-3.direct.fireworks.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] na-britishcolumbia-3.direct.fireworks.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ndap.arya.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ndap.arya.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] neo.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] neo.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] next.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] next.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ns3.grpc.api.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ns3.grpc.api.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] observatory.supermemory.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] observatory.supermemory.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[nextjs-vite-public-env:public_env] [http] [medium] https://ms.gradial.com/auth/login?callbackURL=%2F [""NEXT_PUBLIC_SUPABASE_URL":"https://ms.gradial.com"",""NEXT_PUBLIC_ENVIRONMENT":"production"",""NEXT_PUBLIC_APP_URL":"https://ms.gradial.com"",""NEXT_PUBLIC_SUPABASE_ANON_KEY":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzU1MjgwNDI2LCJleHAiOjIwNzA4NTY0MjZ9.B-q1cvpauX-BXxQCtmdFo0agzo9CUd9qZSDnF3Cf4cA"",""NEXT_PUBLIC_LOGODEV_PUBLISHABLE_KEY":"pk_EJhAfgvpSg2M49GgLgTgyg"",""NEXT_PUBLIC_API_URL":"https://ms.gradial.com""]
+[nextjs-vite-public-env:supabase_url] [http] [medium] https://ms.gradial.com/auth/login?callbackURL=%2F ["https://ms.gradial.com"]
+[nextjs-vite-public-env:supabase_anon_key] [http] [medium] https://ms.gradial.com/auth/login?callbackURL=%2F ["eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzU1MjgwNDI2LCJleHAiOjIwNzA4NTY0MjZ9.B-q1cvpauX-BXxQCtmdFo0agzo9CUd9qZSDnF3Cf4cA"]
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-30472.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-30472.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-33921.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-33921.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-34510.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-34510.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-38654.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-38654.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-40900.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-40900.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-44083.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-44083.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] newop.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] newop.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] nilesh-4ifl.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] nilesh-4ifl.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] nlb-dev-wp-us-phoenix-1.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] nlb-dev-wp-us-phoenix-1.cert.api.mc-dev.baseten.co:443
