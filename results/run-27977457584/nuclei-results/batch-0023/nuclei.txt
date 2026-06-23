@@ -1,0 +1,28 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] langfuse-prod.fireworks.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] langfuse-prod.fireworks.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lic-debug.arya.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lic-debug.arya.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] links.account.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] links.account.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] links.chat.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] links.email.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] links.email.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] links.chat.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.api.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.api.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://llm-gateway.exa.ai/metrics
+[kubernetes-fake-certificate] [ssl] [low] law-dev.sarvam.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] law-dev.sarvam.ai:443
+[kubernetes-fake-certificate] [ssl] [low] marcel-14nr-cp.api.marcel-14nr.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] marcel-14nr-cp.api.marcel-14nr.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] marcel-4ra6.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] marcel-4ra6.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] maintenance.learn.n8n.io:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] maintenance.learn.n8n.io:443
+[kubernetes-fake-certificate] [ssl] [low] marcel-4zgj.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] marcel-4zgj.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] marcel-7of3.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] marcel-7of3.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] marcel-cwlq-cp.api.marcel-cwlq.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] marcel-cwlq-cp.api.marcel-cwlq.mc-dev.baseten.co:443
+[unauthenticated-varnish-cache-purge] [http] [low] https://luma.ai
