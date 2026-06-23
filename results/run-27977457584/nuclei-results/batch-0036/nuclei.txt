@@ -1,0 +1,31 @@
+[drupal-directory-listing] [http] [low] https://voipmonitor.vapi.ai/scripts/
+[weak-cipher-suites:tls-1.0] [ssl] [low] vpn.api.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vpn.api.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[configuration-listing] [http] [medium] https://voipmonitor.vapi.ai/config/
+[expired-ssl] [ssl] [low] warpstream-pr-21359.hephaestus.exa.ai:443 ["2026-06-03 21:34:01 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-pr-21512.hephaestus.exa.ai:443 ["2026-06-04 03:13:44 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-pr-21516.hephaestus.exa.ai:443 ["2026-06-04 03:32:39 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-pr-24088.hephaestus.exa.ai:443 ["2026-06-16 02:36:55 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-pr-24106.hephaestus.exa.ai:443 ["2026-06-16 03:43:49 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-pr-24899.hephaestus.exa.ai:443 ["2026-06-20 20:48:19 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-pr-25112.hephaestus.exa.ai:443 ["2026-06-21 21:24:06 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] warpstream-pr-27363.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] warpstream-pr-27363.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] warpstream-pr-31517.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] warpstream-pr-31517.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] warpstream-pr-34720.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] warpstream-pr-34720.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] warpstream-pr-44226.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] warpstream-pr-44226.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] warpstream-pr-49121.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] warpstream-pr-49121.hephaestus.exa.ai:443
+[expired-ssl] [ssl] [low] warpstream-user-example-pr-21075.hephaestus.exa.ai:443 ["2026-06-03 00:27:41 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-user-example-pr-21512.hephaestus.exa.ai:443 ["2026-06-04 03:16:53 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-user-example-pr-22461.hephaestus.exa.ai:443 ["2026-06-09 17:36:50 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-user-example-pr-21516.hephaestus.exa.ai:443 ["2026-06-04 03:37:22 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-user-example-pr-22282.hephaestus.exa.ai:443 ["2026-06-08 17:17:54 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-user-example-pr-22755.hephaestus.exa.ai:443 ["2026-06-09 22:25:35 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-user-example-pr-24009.hephaestus.exa.ai:443 ["2026-06-15 22:39:31 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-user-example-pr-24106.hephaestus.exa.ai:443 ["2026-06-16 03:48:30 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-user-example-pr-24899.hephaestus.exa.ai:443 ["2026-06-20 20:52:48 +0000 UTC"]
+[expired-ssl] [ssl] [low] warpstream-user-example-pr-25027.hephaestus.exa.ai:443 ["2026-06-21 19:03:38 +0000 UTC"]
