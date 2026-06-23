@@ -1,0 +1,4 @@
+[CVE-2025-55184] [http] [high] https://dev.fireworks.ai/account/home
+[CVE-2025-14847:version] [tcp] [high] dev.koyal.ai:27017 ["8.0.4"]
+[CVE-2019-11248] [http] [high] https://digitalocean-inference-us-atl1-prometheus.tunnel.fireworks.ai/debug/pprof/
+[prometheus-unauth] [http] [high] https://digitalocean-inference-us-atl1-prometheus.tunnel.fireworks.ai/api/v1/status/config

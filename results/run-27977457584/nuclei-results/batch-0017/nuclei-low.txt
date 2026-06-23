@@ -1,0 +1,40 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.desktop.cluely.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.desktop.cluely.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.supermemory.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.supermemory.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.tracing.fireworks.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.tracing.fireworks.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dezerv-staging.arya.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dezerv.arya.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dichecklist-metlife.demo.unstructured.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dichecklist-cocacola.demo.unstructured.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dichecklist-metlife.demo.unstructured.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dichecklist-cocacola.demo.unstructured.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dns.api.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dns2.api.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dns.api.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dns2.api.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dezerv-staging.arya.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dezerv.arya.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.supermemory.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.supermemory.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[go-pprof-debug] [http] [low] https://digitalocean-inference-us-atl1-prometheus.tunnel.fireworks.ai/debug/pprof/heap?debug=1
+[kube-state-metrics] [http] [low] https://digitalocean-inference-us-atl1-prometheus.tunnel.fireworks.ai/metrics
+[kubernetes-metrics] [http] [low] https://digitalocean-inference-us-atl1-prometheus.tunnel.fireworks.ai/metrics
+[expired-ssl] [ssl] [low] developer.fireworks.ai:443 ["2025-08-04 20:18:01 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] dev-wp-crusoe-us-east1.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev-wp-crusoe-us-east1.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] dev-wp-us-phoenix-1.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev-wp-us-phoenix-1.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] dev-wp-us-west-2.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev-wp-us-west-2.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] dev-wp-nebius-eu-west1.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev-wp-nebius-eu-west1.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] document-embedding-server-1b.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] document-embedding-server-1b.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] document-embedding-server.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] document-embedding-server.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] documenso.law-dev.sarvam.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] documenso.law-dev.sarvam.ai:443
+[kubernetes-fake-certificate] [ssl] [low] documenso.law.sarvam.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] documenso.law.sarvam.ai:443
