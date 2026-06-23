@@ -1,0 +1,6 @@
+[kubernetes-fake-certificate] [ssl] [low] yuhao-ikcw-cp.api.yuhao-ikcw.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] yuhao-ikcw-cp.api.yuhao-ikcw.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] zhangfirst-e6c8.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] zhangfirst-e6c8.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] zhang-zzpn.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] zhang-zzpn.api.mc-dev.baseten.co:443
