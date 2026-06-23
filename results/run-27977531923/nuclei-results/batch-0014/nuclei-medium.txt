@@ -1,0 +1,3 @@
+[laravel-debugbar-exposure] [http] [medium] https://cms-test.leather.io/_debugbar/open
+[config-json] [http] [medium] https://cms-test.leather.io/config/default.json
+[forgejo-repo-exposure] [http] [medium] https://code.sparrowwallet.com/explore/repos
