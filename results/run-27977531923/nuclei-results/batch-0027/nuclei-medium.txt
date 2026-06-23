@@ -1,0 +1,2 @@
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.thirdweb.com [""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj""]
+[prometheus-metrics] [http] [medium] https://multiregion.thirdweb.com/metrics
