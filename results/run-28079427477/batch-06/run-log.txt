@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jun 24 06:25:08 UTC 2026
+[+] Run ID: 28079427477
+[+] Batch name: batch-06
+[+] Batch targets:
+humanloop.com
+hume.ai
+kagi.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jun 24 06:26:17 UTC 2026
+[+] HTTPX input count: 257
+[+] Running httpx...
+[+] httpx completed: Wed Jun 24 06:26:40 UTC 2026
+[+] httpx line count: 133
+[+] Batch completed: Wed Jun 24 06:26:40 UTC 2026

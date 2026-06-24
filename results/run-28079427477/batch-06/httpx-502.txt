@@ -1,0 +1,5 @@
+https://code.browser.kagi.com [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [216.18.205.234] [107.898416ms] [Nginx:1.18.0,Ubuntu]
+https://fullstory-relay-test.hume.ai [502] [] [332] [502 Server Error] [] [34.160.187.114] [google] [170.196033ms] [HTTP/3]
+https://fullstory-relay.hume.ai [502] [] [332] [502 Server Error] [] [34.160.187.114] [google] [178.197211ms] [HTTP/3]
+https://queryrecognizer.kagi.com [502] [] [332] [502 Server Error] [] [34.36.245.150] [google] [172.653503ms] [HTTP/3]
+http://vocmimic-websocket.hume.ai [502] [] [332] [502 Server Error] [] [35.186.236.40] [google] [3.073658444s]
