@@ -1,0 +1,3 @@
+https://docs.kindroid.ai [301] [https://kindroid.ai/] [167] [301 Moved Permanently] [cloudflare] [172.66.175.209] [cloudflare] [29.038261ms] [Cloudflare,HSTS]
+https://landing.kindroid.ai [301] [https://kindroid.ai/] [167] [301 Moved Permanently] [cloudflare] [104.20.34.73] [cloudflare] [87.989292ms] [Cloudflare,HSTS]
+https://rt-beta.krea.ai [301] [https://www.krea.ai/realtime] [167] [301 Moved Permanently] [cloudflare] [104.20.45.120] [cloudflare] [90.375009ms] [Cloudflare]

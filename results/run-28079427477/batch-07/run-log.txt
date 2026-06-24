@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jun 24 06:25:26 UTC 2026
+[+] Run ID: 28079427477
+[+] Batch name: batch-07
+[+] Batch targets:
+kindroid.ai
+koyal.ai
+krea.ai
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jun 24 06:25:52 UTC 2026
+[+] HTTPX input count: 154
+[+] Running httpx...
+[+] httpx completed: Wed Jun 24 06:26:14 UTC 2026
+[+] httpx line count: 75
+[+] Batch completed: Wed Jun 24 06:26:14 UTC 2026
