@@ -1,0 +1,152 @@
+# HTTPX Status Report
+
+Generated at: Wed Jun 24 20:36:37 UTC 2026
+
+HTTPX lines: 123
+Live URLs: 123
+
+## 200
+https://app.camelot.exchange [200] [] [4828] [Camelot DEX | Arbitrum native Decentralized Exchange] [cloudflare] [104.26.4.222] [cloudflare] [114.642153ms] [Cloudflare,Node.js,Nuxt.js,Vue.js]
+https://api.sepolia.camelot.exchange [200] [] [34] [cloudflare] [104.26.5.222] [cloudflare] [206.835132ms] [Cloudflare]
+https://api.apollo.com [200] [] [74] [] [13.107.226.69] [264.184246ms] [Azure,Azure Front Door]
+https://client.apollo.com [200] [] [3039] [Apollo | Leader in Alternative Asset Management] [AmazonS3] [18.244.214.44] [cloudfront] [45.176646ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://clerk.rowspace.app.apollo.com [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [141.905094ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://camelot.exchange [200] [] [13299] [Camelot DEX] [cloudflare] [172.67.74.234] [cloudflare] [146.244058ms] [Cloudflare,Cloudflare Browser Insights]
+https://box.apollo.com [200] [] [9835] [Welcome to Box] [Apache] [165.227.76.73] [237.328426ms] [Apache HTTP Server,Bootstrap:4.5.3,jQuery CDN,jQuery:3.5.1,jsDelivr]
+https://alumniportal.apollo.com [200] [] [38464] [Home - Apollo Alumni] [] [65.8.54.95] [cloudfront] [358.828113ms] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HSTS,OneTrust]
+https://capitalpreferences.apollo.com [200] [] [1877] [Apollo Private Markets] [AmazonS3] [65.8.180.93] [cloudfront] [269.537493ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://client-workbench.apollo.com [200] [] [3102] [Apollo | Workbench] [AmazonS3] [18.155.192.60] [cloudfront] [225.378371ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://co-invest-workbench.apollo.com [200] [] [2316] [Apollo | GP Co-Investment Portal] [AmazonS3] [18.239.199.73] [cloudfront] [222.352333ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://co-invest.apollo.com [200] [] [2316] [Apollo | LP Co-Investment Portal] [AmazonS3] [18.173.121.88] [cloudfront] [219.724357ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://boxsearch.apollo.com [200] [] [2526] [Microsoft Azure App Service - Welcome] [Microsoft-IIS/10.0] [40.123.45.47] [452.259533ms] [Azure,IIS:10.0,Microsoft ASP.NET,Windows Server]
+https://dev.app.camelot.exchange [200] [] [4828] [Camelot DEX | Arbitrum native Decentralized Exchange] [cloudflare] [104.26.4.222] [cloudflare] [113.450694ms] [Cloudflare,Node.js,Nuxt.js,Vue.js]
+https://dev-api.apollo.com [200] [] [123] [] [150.171.109.150] [338.791028ms] [Azure,Azure Front Door]
+https://dev-boxsearch.apollo.com [200] [] [2526] [Microsoft Azure App Service - Welcome] [Microsoft-IIS/10.0] [40.123.45.47] [366.800614ms] [Azure,IIS:10.0,Microsoft ASP.NET,Windows Server]
+https://info.camelot.exchange [200] [] [3273] [Camelot DEX | Info] [cloudflare] [172.67.74.234] [cloudflare] [104.920757ms] [Bootstrap,Cloudflare,Unpkg]
+https://docs.camelot.exchange [200] [] [380180] [🔎┃Overview | Camelot DEX] [cloudflare] [104.18.40.47] [cloudflare] [138.144332ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://loginfailure.apollo.com [200] [] [595] [Apache] [165.227.76.73] [3.233709093s] [Apache HTTP Server]
+https://pnycdocyb01.apollo.com [200] [] [595] [Apache] [165.227.76.73] [3.227438317s] [Apache HTTP Server]
+https://privatemarkets.apollo.com [200] [] [1877] [Apollo Private Markets] [AmazonS3] [65.8.180.69] [cloudfront] [4.280978581s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://spnft-migration.camelot.exchange [200] [] [4821] [Camelot DEX | Arbitrum native Decentralized Exchange] [cloudflare] [104.26.4.222] [cloudflare] [4.17314974s] [Cloudflare,Node.js,Nuxt.js,Vue.js]
+https://status.camelot.exchange [200] [] [991] [Vercel] [216.150.16.193] [5.179044012s] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://uat-boxsearch.apollo.com [200] [] [2526] [Microsoft Azure App Service - Welcome] [Microsoft-IIS/10.0] [40.123.45.47] [2.295040565s] [Azure,IIS:10.0,Microsoft ASP.NET,Windows Server]
+https://v4-migration.camelot.exchange [200] [] [4805] [Camelot DEX | Arbitrum native Decentralized Exchange] [cloudflare] [172.67.74.234] [cloudflare] [2.210780007s] [Cloudflare,Node.js,Nuxt.js,Vue.js]
+
+## 301
+https://apollo.com [301] [https://www.apollo.com/] [271] [301 Moved Permanently] [] [151.101.67.10] [fastly] [30.901956ms] [HSTS]
+https://asseto.io [301] [https://www.asseto.io/] [37] [Netlify] [75.2.60.5] [206.860209ms] [HSTS,Netlify]
+https://apollodiversifiedrealestatefund.apollo.com [301] [https://www.apollo.com/wealth/strategies/products/apollo-diversified-real-estate-fund?partnerref=apo-gwms-adref-redirect] [368] [301 Moved Permanently] [] [151.101.131.10] [fastly] [308.474879ms] [HSTS]
+https://apollodiversifiedcreditfund.apollo.com [301] [https://www.apollo.com/wealth/strategies/products/apollo-diversified-credit-fund?partnerref=apo-gwms-adcf-redirect] [362] [301 Moved Permanently] [] [151.101.195.10] [fastly] [319.72473ms] [HSTS]
+https://aam.apollo.com [301] [https://www.apollo.com] [270] [301 Moved Permanently] [] [151.101.203.10] [fastly] [327.420291ms] [HSTS]
+https://chains-list.camelot.exchange [301] [/chains.json] [27] [cloudflare] [172.67.74.234] [cloudflare] [101.077008ms] [Cloudflare]
+https://content.apollo.com [301] [https://seismic.com/] [162] [301 Moved Permanently] [nginx] [172.174.20.18] [297.78029ms] [Nginx]
+https://esg.apollo.com [301] [https://www.apollo.com/impact/transparency-reporting] [300] [301 Moved Permanently] [] [151.101.3.10] [fastly] [287.026188ms] [HSTS]
+https://delphimarketplace.apollo.com [301] [https://marketplace.aks.apollo.com] [69] [] [89.106.200.1] [654.147229ms]
+https://gwms.apollo.com [301] [https://www.apollo.com/wealth/homepage?partnerref=apo-gwms-home-redirect] [320] [301 Moved Permanently] [] [151.101.195.10] [fastly] [310.677421ms] [HSTS]
+https://grafana.aks.apollo.com [301] [https://p-ue2-aks-monitor-gfn01-dhdyeygma8ctajcz.eus2.grafana.azure.com] [106] [] [89.106.200.1] [981.361987ms]
+http://la1-alwayson-mac-portal.apollo.com [301] [https://la1-alwayson-mac-portal.apollo.com/] [157] [301 Moved Permanently] [] [208.86.104.19] [23.263054ms] [HSTS]
+http://investorday.apollo.com [301] [https://ir.apollo.com/news-events/investor-day-2024] [86] [] [89.106.200.1] [4.053145383s]
+http://links.dfin.apollo.com [301] [https://links.dfin.apollo.com/] [136] [301 Moved Permanently] [] [52.141.211.57] [4.136417285s]
+https://roundtable-list.camelot.exchange [301] [/roundtable.json] [31] [cloudflare] [172.67.74.234] [cloudflare] [5.268256068s] [Cloudflare]
+http://nj2x-gw.apollo.com [301] [https://nj2x-gw.apollo.com/] [157] [301 Moved Permanently] [] [63.151.42.6] [2.177316754s] [HSTS]
+http://metadata.camelot.exchange [301] [https://metadata.camelot.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.4.222] [cloudflare] [6.055933437s] [Cloudflare]
+http://portfolio.apollo.com [301] [https://portfolio.apollo.com/] [0] [sfdcedge] [34.211.108.47] [4.140754599s]
+https://token-list.camelot.exchange [301] [/tokens.json] [27] [cloudflare] [104.26.4.222] [cloudflare] [4.082923533s] [Cloudflare]
+https://vaults-list.camelot.exchange [301] [/vaults.json] [27] [cloudflare] [104.26.4.222] [cloudflare] [1.212612889s] [Cloudflare]
+https://www.gwms.apollo.com [301] [https://www.apollo.com/wealth/homepage?partnerref=apo-gwms-home-redirect] [320] [301 Moved Permanently] [] [151.101.43.10] [fastly] [3.302177509s] [HSTS]
+http://ukd-alwayson-portal.apollo.com [301] [https://ukd-alwayson-portal.apollo.com/] [157] [301 Moved Permanently] [] [89.167.135.7] [2.287635945s] [HSTS]
+http://www.asseto.io [301] [https://www.asseto.io/] [37] [Netlify] [13.52.188.95] [2.13032455s] [Netlify]
+
+## 302
+https://alwayson-mac-portal.apollo.com [302] [/global-protect/login.esp] [173] [] [208.86.104.19] [88.194591ms] [HSTS]
+https://ask.apollo.com [302] [https://ask.apollo.com/sp] [0] [snow_adc] [149.96.248.33] [203.39234ms] [HSTS,Java]
+https://apolloid-test.apollo.com [302] [https://apolloid-test.apollo.com/app/UserHome?iss=https%3A%2F%2Fapolloid-test.apollo.com&session_hint=AUTHENTICATED] [0] [nginx] [13.248.244.122] [202.112313ms] [HSTS,Nginx]
+https://alwayson-portal.gtm.apollo.com [302] [/global-protect/login.esp] [173] [] [208.86.104.7] [203.308671ms] [HSTS]
+https://alwayson-portal.apollo.com [302] [/global-protect/login.esp] [173] [] [208.86.104.7] [252.529026ms] [HSTS]
+https://askt.apollo.com [302] [https://askt.apollo.com/sp] [0] [snow_adc] [149.96.232.33] [337.419624ms] [HSTS,Java]
+https://brand.apollo.com [302] [/auth/?referer=%2F] [0] [frontify] [34.225.164.196] [316.675475ms] [HSTS]
+https://auth-money.pre.bancamarch.asseto.io [302] [https://auth-money.pre.bancamarch.asseto.io/home/bookmark/0oaq853mzr3uUz4yR417/2557] [0] [nginx] [15.197.195.200] [577.308328ms] [HSTS,Nginx]
+https://auth-money.pre.acme.asseto.io [302] [https://auth-money.pre.acme.asseto.io/home/bookmark/0oaq853mzr3uUz4yR417/2557] [0] [nginx] [15.197.195.200] [649.482014ms] [HSTS,Nginx]
+https://auth-money.int.acme.asseto.io [302] [https://auth-money.int.acme.asseto.io/home/bookmark/0oaq853mzr3uUz4yR417/2557] [0] [nginx] [15.197.195.200] [705.684887ms] [HSTS,Nginx]
+https://auth-money.pre.openbrick.asseto.io [302] [https://auth-money.pre.openbrick.asseto.io/home/bookmark/0oajn89u7jrfOn3iH417/2557] [0] [nginx] [3.33.238.178] [615.584859ms] [HSTS,Nginx]
+https://auth.pre.opbformation.asseto.io [302] [https://auth.pre.opbformation.asseto.io/home/bookmark/0oajn89u7jrfOn3iH417/2557] [0] [nginx] [3.33.238.178] [591.882506ms] [HSTS,Nginx]
+https://auth-money.pre.opbformation.asseto.io [302] [https://auth-money.pre.opbformation.asseto.io/home/bookmark/0oajn89u7jrfOn3iH417/2557] [0] [nginx] [15.197.195.200] [680.296995ms] [HSTS,Nginx]
+https://auth.pre.acme.asseto.io [302] [https://auth.pre.acme.asseto.io/home/bookmark/0oaq853mzr3uUz4yR417/2557] [0] [nginx] [15.197.195.200] [654.064071ms] [HSTS,Nginx]
+https://auth.pre.bancamarch.asseto.io [302] [https://auth.pre.bancamarch.asseto.io/home/bookmark/0oaq853mzr3uUz4yR417/2557] [0] [nginx] [15.197.195.200] [656.604463ms] [HSTS,Nginx]
+https://auth.int.acme.asseto.io [302] [https://auth.int.acme.asseto.io/home/bookmark/0oaq853mzr3uUz4yR417/2557] [0] [nginx] [15.197.195.200] [717.488438ms] [HSTS,Nginx]
+https://auth.asseto.io [302] [https://auth.asseto.io/home/bookmark/0oaq853mzr3uUz4yR417/2557] [0] [nginx] [15.197.195.200] [738.892924ms] [HSTS,Nginx]
+https://employeeinvestments.apollo.com [302] [https://client.apollo.com/] [0] [] [150.171.109.146] [20.559668ms] [Azure,Azure Front Door]
+https://dev-spservices.apollo.com [302] [https://login.windows.net/2088ee7e-2bea-4779-afad-dc0849b1f98d/oauth2/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fdev-spservices.apollo.com%2F.auth%2Flogin%2Faad%2Fcallback&client_id=0297886f-13de-4dfb-9170-55c1e950419b&scope=openid+profile+email&response_mode=form_post&nonce=19ad889794a24fa4bc73ca1c8b3dcb6f_20260624204038&state=redir%3D%252F] [512] [Document Moved] [] [13.77.96.119] [360.500644ms] [HSTS,Microsoft ASP.NET]
+https://askdev.apollo.com [302] [/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Fapollo-prod.okta.com%2Fapp%2Fprodapolloglobalmanagementllc_servicenowdev_1%2Fexk5cvft2xRD6a0g62p7%2Fsso%2Fsaml%3FSAMLRequest%3DjZJPb9swDMW%252FiqG7%252FymJ1wlxAC%252FBsABdFyTZDr0UjEWnQmTJE2U3%252B%252FaznRRLDyt6FR%252F5I9%252FTnKDWvBFF65%252FNFn%252B3SD4419qQuFRy1jojLJAiYaBGEr4Uu%252BL7veBRIhpnvS2tZkFBhM4ra5bWUFuj26HrVIk%252Ft%252Fc5e%252Fa%252BIRHHQCeJXQSN1dpGpa1jA10DR4ykZcGqZysDw5CbllEb9iAZ2ZOHsQuaJh5eLsWjtgfQNZh%252BUI3Ga10%252B0YVu7EsPfEpjPJ9mZVd5ft6uMkiOGW8%252BxUQ2Hq5kwVfrShw9yFkFmpAF61XOdg9LibMDBw5y%252BrnKZglOynRWlRPJEzlN0wnvhbQBItXhv1aiFteGPBifM57wLEyykE%252F3PBGTmZjcRdPs7pEFm6t7X5SRyhzft%252FpwEZH4tt9vws2P3X4c0CmJ7qFXf9TlX%252BhodLgfyhbzMWUxbuxug39%252FGXhNmy3eBjWAr96HvfkDfR7fMq7ERgw7r1cbq1X5Jyj61pelQ%252FD9Hd61OEZSg%252F%252F%252FGmmUji9KhtUoFViD0oWUDolYvLhy3%252F7txV8%253D%26RelayState%3Dhttps%253A%252F%252Faskdev.apollo.com%252Fnavpage.do] [0] [snow_adc] [149.96.248.33] [1.17268802s] [HSTS,Java]
+https://go2.apollo.com [302] [https://www.apollo.com] [0] [] [3.215.172.219] [272.774493ms] [Salesforce Marketing Cloud Account Engagement]
+https://go1.apollo.com [302] [https://www.apollo.com] [0] [] [34.237.219.119] [294.194417ms] [Salesforce Marketing Cloud Account Engagement]
+https://int.auth.asseto.io [302] [https://int.auth.asseto.io/home/bookmark/0oaq853mzr3uUz4yR417/2557] [0] [nginx] [3.33.238.178] [585.850784ms] [HSTS,Nginx]
+https://ind-gw.apollo.com [302] [/global-protect/login.esp] [173] [] [208.86.105.6] [907.53714ms] [HSTS]
+https://investor.apollo.com [302] [https://client.apollo.com/] [0] [BigIP] [63.151.43.28] [421.120945ms] [F5 BigIP]
+https://investor-test.apollo.com [302] [https://apolloid.oktapreview.com/home/apolloid_efrontinvestorportaluat_1/0oa5en5loV3T2E89K1d6/aln5enjh4kz8qg9C81d6] [0] [BigIP] [63.151.43.26] [5.422274617s] [F5 BigIP]
+https://nj3-gw.apollo.com [302] [/global-protect/login.esp] [173] [] [67.132.92.6] [4.307878251s] [HSTS]
+https://pre.auth.asseto.io [302] [https://pre.auth.asseto.io/home/bookmark/0oaq853mzr3uUz4yR417/2557] [0] [nginx] [15.197.195.200] [2.577735326s] [HSTS,Nginx]
+https://qa-today.apollo.com [302] [https://remote.apollo.com] [0] [] [13.107.253.69] [4.051669041s] [Azure,Azure Front Door]
+https://protection.apollo.com [302] [https://protection.apollo.com/login] [57] [] [34.96.110.203] [google] [4.291001346s] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://secureid.apollo.com [302] [https://secureid.apollo.com/app/UserHome?iss=https%3A%2F%2Fsecureid.apollo.com&session_hint=AUTHENTICATED] [0] [nginx] [15.197.181.212] [3.239507298s] [HSTS,Nginx]
+https://sgp-gw.apollo.com [302] [/global-protect/login.esp] [173] [] [49.143.235.6] [2.689276714s] [HSTS]
+https://spservices.apollo.com [302] [https://login.windows.net/2088ee7e-2bea-4779-afad-dc0849b1f98d/oauth2/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fspservices.apollo.com%2F.auth%2Flogin%2Faad%2Fcallback&client_id=2a3ecad7-9eb1-4d4f-9e36-683b91786dba&scope=openid+profile+email&response_mode=form_post&nonce=8111ddeaf9314ae28ef35ada6fe2d74a_20260624204107&state=redir%3D%252F] [508] [Document Moved] [] [13.77.96.119] [5.349835767s] [HSTS,Microsoft ASP.NET]
+http://prod-today.apollo.com [302] [https://remote.apollo.com] [0] [] [13.107.253.69] [3.006485639s] [Azure,Azure Front Door]
+https://thinkitnew-dev.apollo.com [302] [https://remote.apollo.com] [0] [] [13.107.226.69] [5.017674331s] [Azure,Azure Front Door]
+https://uat-today.apollo.com [302] [https://remote.apollo.com] [0] [] [13.107.253.69] [2.034525954s] [Azure,Azure Front Door]
+https://testinvestor.apollo.com [302] [https://example.com] [42] [] [89.106.200.1] [5.989261072s]
+http://sso.asseto.io [302] [https://sso.asseto.io//] [247] [302 Found] [Apache] [15.197.195.200] [1.301688717s] [Apache HTTP Server]
+https://view.e.apollo.com [302] [/Error.aspx] [128] [Object moved] [] [128.245.160.2] [248.951267ms] [HSTS]
+https://uat-spservices.apollo.com [302] [https://login.windows.net/2088ee7e-2bea-4779-afad-dc0849b1f98d/oauth2/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fuat-spservices.apollo.com%2F.auth%2Flogin%2Faad%2Fcallback&client_id=ade8aa1f-73d9-4663-9a53-9da6be23e705&scope=openid+profile+email&response_mode=form_post&nonce=f448c8f144cc4a5fa05bceb6a3bd105a_20260624204114&state=redir%3D%252F] [512] [Document Moved] [] [13.77.96.119] [3.651917104s] [HSTS,Microsoft ASP.NET]
+https://today.apollo.com [302] [https://remote.apollo.com] [0] [] [13.107.226.69] [7.0192836s] [Azure,Azure Front Door]
+http://uat-tracking.apollo.com [302] [https://uat-tracking.apollo.com/] [13007] [Sign In] [] [54.81.98.132] [4.215801815s] [Bootstrap,Prototype,Salesforce Marketing Cloud Account Engagement,jQuery Migrate:3.3.0,jQuery UI,jQuery:3.5.1]
+http://www2.apollo.com [302] [https://www2.apollo.com/] [12949] [Sign In] [] [3.215.172.219] [4.237358242s] [Bootstrap,Prototype,Salesforce Marketing Cloud Account Engagement,jQuery Migrate:3.3.0,jQuery UI,jQuery:3.5.1]
+
+## 307
+http://uat-api.apollo.com [307] [https://uat-api.apollo.com/] [0] [] [150.171.109.150] [40.868957ms] [Azure,Azure Front Door]
+
+## 308
+
+## 401
+https://coredev.apollo.com [401] [] [421] [401 Unauthorized] [] [151.101.195.10] [fastly] [1.033828864s] [Basic,HSTS]
+https://prod.apollo.com [401] [] [421] [401 Unauthorized] [] [151.101.43.10] [fastly] [2.321404798s] [Basic,HSTS]
+
+## 403
+https://ai.apollo.com [403] [] [1484] [Service unavailable] [] [13.107.226.69] [48.206063ms] [Azure,Azure Front Door]
+https://aiva-stg.apollo.com [403] [] [1484] [Service unavailable] [] [150.171.109.146] [73.071254ms] [Azure,Azure Front Door]
+https://click.e.apollo.com [403] [] [1233] [403 - Forbidden: Access is denied.] [] [128.245.144.46] [218.514668ms] [HSTS]
+https://dev-olympus.apollo.com [403] [] [1484] [Service unavailable] [] [13.107.226.69] [40.387849ms] [Azure,Azure Front Door]
+https://conferenceroom.apollo.com [403] [] [1892] [Web App - Unavailable] [] [13.77.96.119] [374.153824ms]
+https://dev-resources.apollo.com [403] [] [1892] [Web App - Unavailable] [] [40.123.45.47] [349.399602ms]
+https://image.e.apollo.com [403] [] [376] [Access Denied] [AkamaiGHost] [69.192.139.99] [351.924808ms]
+https://invest-uat.apollo.com [403] [] [1484] [Service unavailable] [] [13.107.253.69] [2.024204022s] [Azure,Azure Front Door]
+https://link.ads.apollo.com [403] [] [0] [cloudflare] [104.18.43.192] [cloudflare] [2.24703167s] [Cloudflare,HSTS,Microsoft ASP.NET]
+https://master-olympus.apollo.com [403] [] [1484] [Service unavailable] [] [13.107.226.69] [2.083599202s] [Azure,Azure Front Door]
+https://podinfo-core.app.apollo.com [403] [] [1484] [Service unavailable] [] [150.171.109.150] [2.016842137s] [Azure,Azure Front Door]
+http://link.dfin.apollo.com [403] [] [0] [cloudflare] [104.18.43.192] [cloudflare] [163.295702ms] [Cloudflare,Microsoft ASP.NET]
+https://partners.apollo.com [403] [] [1484] [Service unavailable] [] [13.107.226.69] [4.019371623s] [Azure,Azure Front Door]
+https://static.apollo.com [403] [] [1484] [Service unavailable] [] [13.107.226.69] [1.059201528s] [Azure,Azure Front Door]
+http://olympus.apollo.com [403] [] [1484] [Service unavailable] [] [13.107.226.69] [3.011078605s] [Azure,Azure Front Door]
+https://stage-today.apollo.com [403] [] [1484] [Service unavailable] [] [13.107.226.69] [7.049402495s] [Azure,Azure Front Door]
+https://thinkitnew.apollo.com [403] [] [1484] [Service unavailable] [] [13.107.226.69] [5.018243962s] [Azure,Azure Front Door]
+http://staging-olympus.apollo.com [403] [] [1484] [Service unavailable] [] [150.171.109.145] [1.056982069s] [Azure,Azure Front Door]
+http://uat-resources.apollo.com [403] [] [1484] [Service unavailable] [] [13.107.226.69] [5.013701644s] [Azure,Azure Front Door]
+
+## 404
+https://api.camelot.exchange [404] [] [13] [cloudflare] [172.67.74.234] [cloudflare] [276.603104ms] [Cloudflare]
+https://dev.int.api.camelot.exchange [404] [] [13] [cloudflare] [104.26.4.222] [cloudflare] [184.257307ms] [Cloudflare]
+https://email.comms.apollo.com [404] [] [19] [] [34.102.239.211] [google] [136.976887ms]
+https://email.axioshq.apollo.com [404] [] [19] [] [34.110.180.34] [google] [184.635042ms]
+https://dev.api.camelot.exchange [404] [] [13] [cloudflare] [172.67.74.234] [cloudflare] [458.61123ms] [Cloudflare]
+https://go.apollo.com [404] [] [9] [] [128.245.128.30] [234.69552ms]
+https://int.api.camelot.exchange [404] [] [13] [cloudflare] [104.26.5.222] [cloudflare] [138.927207ms] [Cloudflare]
+http://esgreporting.apollo.com [404] [] [315] [Not Found] [Microsoft-HTTPAPI/2.0] [147.75.21.46] [281.715032ms] [Microsoft HTTPAPI:2.0]
+https://migration.api.camelot.exchange [404] [] [13] [cloudflare] [172.67.74.234] [cloudflare] [3.256063014s] [Cloudflare]
+
+## 500
+https://apocmg.apollo.com [500] [] [0] [Microsoft-IIS/10.0] [20.94.100.93] [314.79418ms] [HSTS,IIS:10.0,Windows Server]
+
+## 502
+
+## 503
+
