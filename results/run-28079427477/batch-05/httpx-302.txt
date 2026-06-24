@@ -1,0 +1,5 @@
+https://aem-sandbox.gradial.com [302] [https://aem-sandbox.gradial.com/libs/granite/core/content/login.html?resource=%2F&$$login$$=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown] [0] [cloudflare] [104.20.39.32] [cloudflare] [170.748198ms] [Cloudflare,Envoy,HSTS]
+https://aws-one.gumloop.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Faws-one.gumloop.com%2F&nonce=2aa7b4830a2925e9ba30d0a80ee6cb894a62b6a950067ae99c5002c8992503a4] [15] [Vercel] [76.76.21.22] [158.373226ms] [HSTS,Vercel]
+https://blog.gumloop.com [302] [https://gumloop.com/blog/] [145] [302 Found] [nginx/1.22.1] [3.142.220.172] [210.757306ms] [Nginx:1.22.1]
+https://okta.gumloop.com [302] [https://okta.gumloop.com/app/UserHome?iss=https%3A%2F%2Fokta.gumloop.com&session_hint=AUTHENTICATED] [0] [nginx] [13.248.245.245] [5.333228177s] [HSTS,Nginx]
+https://staging.gumloop.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.gumloop.com%2F&nonce=86ac94c2c32dfcad53a0663146ad31d438bfc605c850dae07fa8f389840e07ae] [15] [Vercel] [66.33.60.129] [3.325889255s] [HSTS,Vercel]

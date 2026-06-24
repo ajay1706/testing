@@ -1,0 +1,8 @@
+https://gumloop.com [308] [https://www.gumloop.com/] [15] [Vercel] [76.76.21.21] [87.730937ms] [HSTS,Vercel]
+https://granola.ai [308] [https://www.granola.ai/] [15] [Vercel] [76.76.21.21] [96.403943ms] [HSTS,Vercel]
+https://docs.gradial.com [308] [/docs/getting-started/what-is-gradial] [145087] [cloudflare] [104.20.39.32] [cloudflare] [349.827671ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://join.granola.ai [308] [https://granola.ai] [15] [Vercel] [216.150.16.1] [201.453452ms] [HSTS,Vercel]
+https://docs.granola.ai [308] [/introduction] [150614] [Vercel] [76.76.21.142] [640.717834ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://notes.granola.ai [308] [https://granola.ai] [15] [Vercel] [216.150.16.193] [7.123746311s] [HSTS,Vercel]
+http://trust.gumloop.com [308] [https://trust.gumloop.com] [164] [308 Permanent Redirect] [] [34.77.87.94] [google] [2.411063389s]
+http://www.gradial.com [308] [https://www.gradial.com/] [14] [Vercel] [76.76.21.21] [4.080482279s] [Vercel]
