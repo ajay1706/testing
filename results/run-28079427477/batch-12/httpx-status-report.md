@@ -1,0 +1,108 @@
+# HTTPX Status Report
+
+Generated at: Wed Jun 24 06:37:26 UTC 2026
+
+HTTPX lines: 79
+Live URLs: 79
+
+## 200
+https://affiliates.relay.app [200] [] [18398] [The Relay.app Affiliate Program] [cloudflare] [172.67.69.245] [cloudflare] [432.578279ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack,dc.js]
+https://beta.replika.com [200] [] [1181] [Replika] [] [172.240.104.236] [179.066901ms] [HSTS]
+https://blog.replika.com [200] [] [37037] [Replika Blog] [] [173.0.156.247] [266.395119ms] [Google Analytics,HSTS,iubenda]
+https://careers.replika.com [200] [] [82862] [Creating AI That Empowers The Best In You - Replika] [] [207.120.32.137] [227.671934ms] [Font Awesome,HSTS,Ruby,Ruby on Rails,Section.io,Stimulus,Varnish]
+https://bonus.relay.app [200] [] [2475] [Claim Relay.app Bonus credits] [cloudflare] [185.158.133.1] [1.214476093s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://docs.relay.app [200] [] [567952] [Helpful resources | Relay.app Docs] [cloudflare] [104.18.40.47] [cloudflare] [493.651959ms] [Cloudflare,GitBook,HSTS,Vercel,dc.js]
+https://fb-ads.replika.com [200] [] [1293] [Ad Creation Tool] [] [173.0.156.247] [2.38963948s] [HSTS]
+https://partners.relay.app [200] [] [414601] [Find the right Relay.app Certified Partner] [nginx] [52.52.112.39] [5.64570661s] [HSTS,HTTP/3,Nginx,Node.js,Nuxt.js,Vue.js,jQuery CDN,jQuery:3.5.1]
+https://poe-ai-proxy.poe.com [200] [] [3] [cloudflare] [162.159.153.247] [cloudflare] [1.100178258s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://qr.relay.app [200] [] [2476] [Relay.app QR Code Generator] [cloudflare] [185.158.133.1] [1.15706135s] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://run.relay.app [200] [] [9970] [Relay.app] [] [143.204.1.50] [cloudfront] [7.351550497s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://status.poe.com [200] [] [92877] [Poe Status] [Vercel] [76.76.21.98] [1.452627165s] [HSTS,Vercel]
+https://status.relay.app [200] [] [149183] [Relay.app - Status] [Vercel] [76.76.21.142] [4.339998604s] [Google Analytics,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://trail.replika.com [200] [] [306] [Custom domain check] [] [188.165.50.182] [2.600681526s] [HTTP/3]
+https://www.relay.app [200] [] [712424] [Relay.app: AI Agents and Workflow Automation] [Vercel] [216.150.1.193] [5.413463651s] [Framer Sites,HSTS,React,Vercel,YouTube]
+
+## 301
+https://8.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [91.429825ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://caren.anne.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [27.391072ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://developer.poe.com [301] [https://creator.poe.com/] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [2.233011543s] [Cloudflare,HTTP/3]
+https://georgemarin.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [1.075296728s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://gql.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [4.073682707s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://m.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [1.116817462s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://lo1.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [4.096475505s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://main.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [3.07795609s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://relay.app [301] [https://www.relay.app/] [15] [Vercel] [216.150.1.1] [7.223502391s] [HSTS,Vercel]
+https://support-preview.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [4.062654148s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://tch731808.tch.poe.com [301] [http://www.quora.com/] [0] [] [52.207.122.56] [2.262120213s]
+https://tch.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [3.084310272s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://wildcard.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [63.865221ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://wildcard.tch.poe.com [301] [http://www.quora.com/] [0] [] [107.23.218.0] [261.248898ms]
+http://ww16.wiki.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [24.221753ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww11.ww.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [16.310479ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://ww1.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [2.247473909s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww16.craft.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [17.611702ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww16.ma.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [22.799766ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww17.georgemarin.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [35.524706ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww17.ww.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [19.865508ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://ww25.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [70.410109ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww17.mx20.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [15.601391ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://ww17.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [3.067712608s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://ww16.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [5.075255664s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww25.web.garena.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [18.731445ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://ww10.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [6.090191037s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww17.campus.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [18.110902ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww17.relay.mx.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [21.596252ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww16.henuzhazirdegil.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [23.122888ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww25.price.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [17.483262ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww25.ru.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [15.74828ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww1.caren.anne.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [23.9947ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww25.ww.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [16.066304ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww25.17173.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [16.705182ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://www.caren.anne.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [18.024222ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww25.duowan.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [20.158594ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww17.wunneukgg.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [21.24373ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww25.faty.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [18.639277ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww11.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [3.069072329s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ww17.trade.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.153.247] [cloudflare] [2.144207467s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://www.poe.com [301] [https://poe.com] [167] [301 Moved Permanently] [cloudflare] [162.159.152.17] [cloudflare] [2.065002834s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 302
+https://help.replika.com [302] [https://help.replika.com/hc] [0] [cloudflare] [216.198.54.6] [1.257690576s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://help.poe.com [302] [https://help.poe.com/hc] [0] [cloudflare] [216.198.53.11] [7.230412319s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://www.replika.com [302] [https://replika.com/] [5] [] [172.240.213.44] [4.201990513s]
+
+## 307
+https://billing.relay.app [307] [https://customer-portal.paddle.com/login/cpl_01hfv834x8nx1jdne0eyhrzjb1] [71] [] [143.204.1.76] [cloudfront] [444.788756ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://events.relay.app [307] [https://www.relay.app/events] [15] [Vercel] [216.150.1.129] [5.255948468s] [HSTS,Vercel]
+https://poe.com [307] [/login?redirect_url=%2F] [0] [cloudflare] [162.159.153.247] [cloudflare] [4.172953696s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://studio.relay.app [307] [/api/auth/error?error=Configuration] [15] [Vercel] [216.150.1.129] [546.208033ms] [HSTS,Vercel]
+
+## 308
+https://creator.poe.com [308] [/docs] [8595] [Poe Creator Platform] [cloudflare] [162.159.152.17] [cloudflare] [85.454315ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Vercel]
+
+## 401
+
+## 403
+https://api.poe.com [403] [] [1065] [403 Forbidden] [cloudflare] [162.159.152.17] [cloudflare] [190.863866ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://cdn.relay.app [403] [] [111] [AmazonS3] [3.163.175.118] [cloudfront] [527.124537ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://snaps.relay.app [403] [] [111] [AmazonS3] [3.163.24.64] [cloudfront] [396.703804ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+
+## 404
+https://bench.dev.poe.com [404] [] [9] [cloudflare] [104.18.28.5] [cloudflare] [165.669426ms] [Cloudflare]
+https://dataroom.replika.com [404] [] [19] [] [173.0.156.237] [4.374940549s]
+https://form.relay.app [404] [] [9] [awselb/2.0] [143.204.1.96] [cloudfront] [3.424744153s] [Amazon CloudFront,Amazon ELB,Amazon Web Services,HSTS]
+https://hook.relay.app [404] [] [9] [awselb/2.0] [16.58.117.201] [3.35303686s] [Amazon ELB,Amazon Web Services]
+https://lovable.replika.com [404] [] [1240] [Project not found] [cloudflare] [185.158.133.1] [3.427770355s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://sandbox-hook.relay.app [404] [] [9] [awselb/2.0] [18.226.254.225] [1.378801122s] [Amazon ELB,Amazon Web Services]
+https://sandbox-usercontent.relay.app [404] [] [9] [awselb/2.0] [18.226.254.225] [1.268313659s] [Amazon ELB,Amazon Web Services]
+https://sandbox-hook-direct.relay.app [404] [] [9] [awselb/2.0] [18.226.254.225] [2.36038473s] [Amazon ELB,Amazon Web Services]
+https://sandbox-mcp.relay.app [404] [] [13] [cloudflare] [104.18.4.176] [cloudflare] [2.509300787s] [Cloudflare]
+https://sandbox-form.relay.app [404] [] [9] [awselb/2.0] [3.175.34.44] [cloudfront] [4.423206694s] [Amazon CloudFront,Amazon ELB,Amazon Web Services,HSTS]
+https://usercontent.relay.app [404] [] [9] [awselb/2.0] [16.58.117.201] [5.267802681s] [Amazon ELB,Amazon Web Services]
+
+## 500
+
+## 502
+
+## 503
+

@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jun 24 06:28:59 UTC 2026
+[+] Run ID: 28079427477
+[+] Batch name: batch-12
+[+] Batch targets:
+poe.com
+relay.app
+replika.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jun 24 06:32:01 UTC 2026
+[+] HTTPX input count: 1126
+[+] Running httpx...
+[+] httpx completed: Wed Jun 24 06:37:26 UTC 2026
+[+] httpx line count: 79
+[+] Batch completed: Wed Jun 24 06:37:26 UTC 2026
