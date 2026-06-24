@@ -1,0 +1,5 @@
+[ssh-weakkey-exchange-algo] [javascript] [low] android.characterx.ai:22
+[weak-cipher-suites:tls-1.2] [ssl] [low] affiliates.scenario.com:443 ["[tls12 TLS_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] aim-ui.platform.futurehouse.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] aim-ui.platform.futurehouse.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[aem-crx-namespace] [http] [low] https://aem-sandbox.gradial.com/crx/explorer/ui/namespace_editor.jsp
