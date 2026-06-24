@@ -1,0 +1,8 @@
+https://cdn.descript.com [403] [] [111] [UploadServer] [34.98.83.235] [google] [148.053055ms] [HTTP/3]
+https://electron.descript.com [403] [] [263] [AmazonS3] [108.157.150.116] [cloudfront] [622.51007ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://mail.descript.com [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.155.192.46] [cloudfront] [6.232127ms] [Amazon CloudFront,Amazon Web Services]
+https://mta-sts.dev.descript.com [403] [] [111] [UploadServer] [34.144.220.82] [google] [329.230369ms] [HTTP/3]
+https://mta-sts.staging.descript.com [403] [] [111] [UploadServer] [34.49.220.212] [google] [333.405894ms] [HTTP/3]
+https://mta-sts.descript.com [403] [] [111] [UploadServer] [34.120.216.13] [google] [411.250937ms] [HTTP/3]
+https://staging-cdn.descript.com [403] [] [111] [UploadServer] [34.98.82.18] [google] [172.52903ms] [HTTP/3]
+https://publish.descript.com [403] [] [275] [AmazonS3] [18.172.122.52] [cloudfront] [753.125235ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]

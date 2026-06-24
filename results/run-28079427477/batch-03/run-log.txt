@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jun 24 06:22:32 UTC 2026
+[+] Run ID: 28079427477
+[+] Batch name: batch-03
+[+] Batch targets:
+day.ai
+descript.com
+dust.tt
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jun 24 06:23:32 UTC 2026
+[+] HTTPX input count: 187
+[+] Running httpx...
+[+] httpx completed: Wed Jun 24 06:23:55 UTC 2026
+[+] httpx line count: 122
+[+] Batch completed: Wed Jun 24 06:23:55 UTC 2026

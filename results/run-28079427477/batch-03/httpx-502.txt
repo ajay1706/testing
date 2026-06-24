@@ -1,0 +1,4 @@
+https://dev-auth0.descript.com [502] [] [565] [502 Bad Gateway] [openresty/1.29.2.4] [34.36.204.92] [google] [131.103862ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx,OpenResty:1.29.2.4]
+https://staging-auth0.descript.com [502] [] [163] [502 Bad Gateway] [openresty/1.29.2.4] [34.49.137.204] [google] [137.532169ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx,OpenResty:1.29.2.4]
+https://wildcard.preview-web.descript.com [502] [] [157] [502 Bad Gateway] [nginx/1.30.1] [34.138.142.202] [google] [354.964965ms] [Nginx:1.30.1]
+https://staging2-api.descript.com [502] [] [332] [502 Server Error] [] [34.102.251.173] [google] [9.090762713s] [HTTP/3]
