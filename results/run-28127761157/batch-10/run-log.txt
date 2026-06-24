@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jun 24 20:39:44 UTC 2026
+[+] Run ID: 28127761157
+[+] Batch name: batch-10
+[+] Batch targets:
+rage.trade
+rwa.xyz
+securitize.io
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jun 24 20:42:45 UTC 2026
+[+] HTTPX input count: 510
+[+] Running httpx...
+[+] httpx completed: Wed Jun 24 20:43:38 UTC 2026
+[+] httpx line count: 382
+[+] Batch completed: Wed Jun 24 20:43:38 UTC 2026
