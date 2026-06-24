@@ -1,0 +1,54 @@
+# HTTPX Status Report
+
+Generated at: Wed Jun 24 20:38:16 UTC 2026
+
+HTTPX lines: 27
+Live URLs: 27
+
+## 200
+https://bridge.level.finance [200] [] [3159] [Bridge - Level] [Vercel] [76.76.21.241] [104.074403ms] [Google Analytics,HSTS,Vercel]
+https://level.finance [200] [] [2755] [Level - Decentralized Perpetual Exchange] [Vercel] [76.76.21.21] [130.812225ms] [HSTS,Vercel]
+https://app.jonesdao.io [200] [] [4218] [cloudflare] [104.21.0.237] [cloudflare] [263.28626ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://strategists.jonesdao.io [200] [] [23656] [cloudflare] [104.21.0.237] [cloudflare] [219.689905ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://app.level.finance [200] [] [3551] [Level - Decentralized Perpetual Exchange] [Vercel] [66.33.60.34] [474.839818ms] [Google Analytics,HSTS,Vercel]
+https://refund-checker.jonesdao.io [200] [] [11488] [JGLP Refund Checker] [cloudflare] [104.21.0.237] [cloudflare] [492.627202ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://poc-gpt.libeara.com [200] [] [7551] [Open WebUI] [uvicorn] [4.144.231.48] [674.729377ms] [Python,Uvicorn]
+https://gpt.libeara.com [200] [] [7551] [Open WebUI] [uvicorn] [4.144.231.48] [713.300214ms] [Python,Uvicorn]
+https://funds-microsite.libeara.com [200] [] [1507] [Delta Master Trust — FundBridge Capital] [] [132.220.38.112] [821.280077ms] [HSTS]
+https://libby.libeara.com [200] [] [7551] [Open WebUI] [uvicorn] [20.195.56.223] [713.943747ms] [Python,Uvicorn]
+https://support.level.finance [200] [] [57117] [Home | LEVEL Help Center] [] [54.160.213.251] [400.014038ms] [HTTP/3]
+https://www.jonesdao.io [200] [] [55738] [Jones DAO] [cloudflare] [104.21.0.237] [cloudflare] [490.253249ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://libeara.com [200] [] [153585] [Libeara – Investing is More Accessible & Equitable with Tokenised Assets] [cloudflare] [141.193.213.10] [313.233437ms] [Cloudflare,Cloudflare Bot Management,Elementor:4.1.3,HTTP/3,MySQL,PHP,Swiper,WP Engine,WordPress,jQuery]
+https://newsletter.level.finance [200] [] [292176] [LEVEL Newsletter] [cloudflare] [104.16.24.120] [cloudflare] [889.24096ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://docs.level.finance [200] [] [406910] [Introduction | Level Finance] [cloudflare] [172.64.147.209] [cloudflare] [175.749743ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://legacy.level.finance [301] [https://app.level.finance/referral] [167] [301 Moved Permanently] [cloudflare] [172.66.40.54] [cloudflare] [85.31706ms] [Cloudflare]
+https://dao.level.finance [301] [https://app.level.finance/] [15] [Vercel] [76.76.21.98] [322.780952ms] [HSTS,Vercel]
+https://www.libeara.com [301] [https://libeara.com/] [0] [cloudflare] [141.193.213.10] [404.504953ms] [Cloudflare,Cloudflare Bot Management,HTTP/3,WP Engine,WordPress]
+http://ipfs.level.finance [301] [https://ipfs.level.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.54] [cloudflare] [30.137321ms] [Cloudflare,Cloudflare Bot Management,HTTP/2]
+
+## 302
+
+## 307
+https://docs.jonesdao.io [307] [https://docs.jonesdao.io/jones-dao/] [15] [cloudflare] [104.21.0.237] [cloudflare] [184.88076ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://jonesdao.io [308] [https://www.jonesdao.io/] [15] [cloudflare] [104.21.0.237] [cloudflare] [147.79601ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.level.finance [308] [https://level.finance/] [15] [Vercel] [76.76.21.142] [516.522539ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://files-upload.libeara.com [404] [] [2667] [Microsoft Azure Web App - Error 404] [] [20.72.253.180] [259.797784ms]
+https://auction.level.finance [404] [] [107] [Vercel] [66.33.60.67] [497.953915ms] [HSTS,Vercel]
+https://integration.level.finance [404] [] [107] [Vercel] [76.76.21.22] [500.815872ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
