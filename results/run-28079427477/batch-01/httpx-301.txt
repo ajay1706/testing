@@ -1,0 +1,8 @@
+https://help.captions.ai [301] [https://help.mirage.app/] [167] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [30.344506ms] [Cloudflare]
+https://lipdub.captions.ai [301] [https://desktop.captions.ai/] [0] [cloudflare] [172.66.150.225] [cloudflare] [65.788389ms] [Cloudflare]
+https://android.characterx.ai [301] [https://shop.theconcealedcarryroom.com/] [795] [301 Moved Permanently] [LiteSpeed] [108.160.156.139] [235.484649ms] [HTTP/3,LiteSpeed]
+https://text.captions.ai [301] [https://captions.ai/features/text-to-edit] [167] [301 Moved Permanently] [cloudflare] [172.66.150.225] [cloudflare] [164.496402ms] [Cloudflare]
+https://www.captions.ai [301] [https://captions.ai/] [167] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [30.232237ms] [Cloudflare]
+http://www.desktop.captions.ai [301] [https://www.desktop.captions.ai/] [665] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [17.147555ms] [Cloudflare,Cloudflare Browser Insights]
+http://www.lipdub.captions.ai [301] [https://www.lipdub.captions.ai/] [665] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [23.594562ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.android.characterx.ai [301] [https://shop.theconcealedcarryroom.com/] [795] [301 Moved Permanently] [LiteSpeed] [108.160.156.139] [313.325991ms] [HTTP/3,LiteSpeed]
