@@ -1,0 +1,69 @@
+# HTTPX Status Report
+
+Generated at: Wed Jun 24 20:35:10 UTC 2026
+
+HTTPX lines: 47
+Live URLs: 47
+
+## 200
+https://app.centrifuge.io [200] [] [2641] [Centrifuge App] [cloudflare] [104.26.15.223] [cloudflare] [60.336439ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS]
+https://developer.centrifuge.io [200] [] [17525] [Welcome to Centrifuge | Centrifuge Docs] [cloudflare] [104.26.14.223] [cloudflare] [108.606972ms] [Cloudflare,Docusaurus:3.9.1,HSTS,React,Webpack]
+https://api.centrifuge.io [200] [] [3253] [Ponder Playground] [cloudflare] [104.26.14.223] [cloudflare] [189.141833ms] [Cloudflare,HSTS,jsDelivr]
+https://docs.centrifuge.io [200] [] [17525] [Welcome to Centrifuge | Centrifuge Docs] [cloudflare] [104.26.15.223] [cloudflare] [143.227374ms] [Algolia,Cloudflare,Docusaurus:3.9.1,HSTS,React,Webpack]
+https://connect.cashlink.de [200] [] [691] [nginx/1.24.0] [18.194.200.2] [548.258069ms] [Nginx:1.24.0]
+https://demo.cashlink.de [200] [] [691] [nginx/1.24.0] [63.183.126.37] [550.811973ms] [Nginx:1.24.0]
+https://documents.cashlink.de [200] [] [691] [nginx/1.24.0] [3.77.251.250] [623.552796ms] [Nginx:1.24.0]
+https://manage.centrifuge.io [200] [] [2419] [Centrifuge Management App] [cloudflare] [104.26.14.223] [cloudflare] [61.950639ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://bd.docs.centrifuge.io [200] [] [1526] [Documentation] [cloudflare] [104.26.14.223] [cloudflare] [865.126015ms] [Cloudflare,Google Cloud,Google Cloud Storage,HSTS]
+https://invest.cashlink.de [200] [] [691] [nginx/1.24.0] [18.192.46.53] [369.938837ms] [Nginx:1.24.0]
+https://migrate.centrifuge.io [200] [] [1802] [cloudflare] [104.26.14.223] [cloudflare] [216.308245ms] [Cloudflare,HSTS]
+https://centrifuge.io [200] [] [176558] [Centrifuge | Infrastructure for Onchain Asset Management] [cloudflare] [104.26.15.223] [cloudflare] [119.098058ms] [Cloudflare,Cloudflare Browser Insights,Google Font API,Google Hosted Libraries,HSTS,Lever,jQuery:3.5.1,jsDelivr,reCAPTCHA]
+https://reference.centrifuge.io [200] [] [994] [cloudflare] [104.26.14.223] [cloudflare] [185.797029ms] [Cloudflare,Fastly,GitHub Pages,HSTS,Varnish]
+https://v31.cap.finance [200] [] [865] [CAP | Fully Decentralized Perpetuals Exchange] [Vercel] [66.33.60.129] [96.775829ms] [C3.js,HSTS,Vercel]
+https://v1.cap.finance [200] [] [29] [BunnyCDN-IL1-1346] [143.244.60.196] [176.291627ms] [Bunny,Cloudflare]
+https://registry.centrifuge.io [200] [] [31784] [cloudflare] [104.26.14.223] [cloudflare] [402.537057ms] [Cloudflare,HSTS,IPFS]
+https://docs.cap.finance [200] [] [344335] [What's CAP? | Docs] [cloudflare] [172.64.147.209] [cloudflare] [387.600866ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://gov.centrifuge.io [200] [] [284490] [Centrifuge Governance Forum - Centrifuge Governance Forum] [nginx] [184.104.178.43] [568.642903ms] [Discourse:2026.6.0,HSTS,Nginx,Ruby on Rails]
+https://registry.testnet.centrifuge.io [200] [] [840489] [cloudflare] [104.26.15.223] [cloudflare] [889.362582ms] [Cloudflare,HSTS,IPFS]
+
+## 301
+https://dataroom.centrifuge.io [301] [https://docsend.com/view/s/x657j3g6eb9t9kii] [167] [301 Moved Permanently] [cloudflare] [172.67.72.166] [cloudflare] [90.870619ms] [Cloudflare,HSTS]
+https://docs.cashlink.de [301] [https://cashlink-tracking.atlassian.net:443/servicedesk/customer/portal/1] [134] [301 Moved Permanently] [awselb/2.0] [3.77.251.250] [491.400228ms] [Amazon ELB,Amazon Web Services]
+https://launchpad.centrifuge.io [301] [https://manage.centrifuge.io/] [167] [301 Moved Permanently] [cloudflare] [172.67.72.166] [cloudflare] [77.971473ms] [Cloudflare,HSTS]
+https://tinlake.centrifuge.io [301] [https://app.centrifuge.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.223] [cloudflare] [46.042762ms] [Cloudflare,HSTS]
+https://www.tinlake.centrifuge.io [301] [https://app.centrifuge.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.223] [cloudflare] [40.528437ms] [Cloudflare,HSTS]
+https://www.centrifuge.io [301] [https://centrifuge.io/] [166] [301 Moved Permanently] [cloudflare] [104.26.15.223] [cloudflare] [320.261286ms] [Cloudflare,HSTS,Lever]
+https://www.cashlink.de [301] [https://cashlink.de/] [0] [nginx] [185.175.196.25] [345.683064ms] [Nginx]
+http://cap.finance [301] [https://cap.io] [49] [namecheap-nginx] [162.255.119.78] [104.908426ms] [Nginx]
+http://www.cap.finance [301] [https://www.cap.io] [53] [namecheap-nginx] [162.255.119.78] [104.03877ms] [Nginx]
+
+## 302
+https://cashlink.de [302] [https://cashlink.de/de/] [0] [nginx] [185.175.196.25] [929.255901ms] [HSTS,Nginx]
+
+## 307
+
+## 308
+
+## 401
+https://legacy.tinlake.centrifuge.io [401] [] [1654] [cloudflare] [104.26.14.223] [cloudflare] [99.185783ms] [Cloudflare,HSTS]
+
+## 403
+
+## 404
+https://forms.centrifuge.io [404] [] [2174] [Page Not Found] [] [35.205.106.218] [google] [355.069409ms] [HSTS]
+https://gke-ingress.centrifuge.io [404] [] [548] [404 Not Found] [] [34.159.244.178] [google] [433.066701ms] [HSTS]
+https://webapi.centrifuge.io [404] [] [9] [Google Frontend] [192.178.210.121] [google] [204.073834ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HSTS]
+https://url8881.centrifuge.io [404] [] [1065] [404 Not Found] [cloudflare] [104.26.15.223] [cloudflare] [297.245997ms] [Cloudflare,HSTS]
+https://survey.centrifuge.io [404] [] [2174] [Page Not Found] [] [35.205.106.218] [google] [604.152088ms] [HSTS]
+https://v3.cap.finance [404] [] [107] [Vercel] [66.33.60.67] [502.825084ms] [HSTS,Vercel]
+https://newsletter.centrifuge.io [404] [] [51215] [facebook-f icon] [cloudflare] [199.60.103.227] [513.725594ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub]
+https://v2.cap.finance [404] [] [678] [404 - File Not Found] [BunnyCDN-IL1-1235] [185.93.1.245] [1.116394212s] [Bunny]
+
+## 500
+
+## 502
+
+## 503
+https://fullnode-altair.centrifuge.io [503] [] [190] [503 Service Temporarily Unavailable] [] [34.159.244.178] [google] [428.017671ms] [HSTS]
+https://maintenance.centrifuge.io [503] [] [3368] [Back soon - Centrifuge] [cloudflare] [104.26.14.223] [cloudflare] [54.258278ms] [Cloudflare,HSTS,Lever]
+
