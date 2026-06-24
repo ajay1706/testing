@@ -460,4 +460,3 @@
 [0:38:00] | Templates: 6749 | Hosts: 75 | RPS: 76 | Matched: 0 | Errors: 544 | Requests: 174022/1118775 (15%)
 [0:38:05] | Templates: 6749 | Hosts: 75 | RPS: 76 | Matched: 0 | Errors: 544 | Requests: 174360/1118775 (15%)
 [0:38:10] | Templates: 6749 | Hosts: 75 | RPS: 76 | Matched: 0 | Errors: 544 | Requests: 174666/1118775 (15%)
-[0:38:15] | Templates: 6749 | Hosts: 75 | RPS: 76 | Matched: 0 | Errors: 544 | Requests: 174956/1118775 (15%)

@@ -484,4 +484,3 @@
 [0:40:00] | Templates: 6749 | Hosts: 75 | RPS: 75 | Matched: 0 | Errors: 467 | Requests: 181655/1118775 (16%)
 [0:40:05] | Templates: 6749 | Hosts: 75 | RPS: 75 | Matched: 0 | Errors: 477 | Requests: 181960/1118775 (16%)
 [0:40:10] | Templates: 6749 | Hosts: 75 | RPS: 75 | Matched: 0 | Errors: 477 | Requests: 182280/1118775 (16%)
-[0:40:15] | Templates: 6749 | Hosts: 75 | RPS: 75 | Matched: 0 | Errors: 477 | Requests: 182612/1118775 (16%)

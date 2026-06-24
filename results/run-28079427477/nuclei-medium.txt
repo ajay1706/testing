@@ -1,0 +1,34 @@
+[CVE-2022-41697] [http] [medium] https://blog.saner.ai/ghost/api/admin/session
+[intercom-identity-misconfiguration] [http] [medium] https://api-iam.intercom.io/messenger/web/ping ["https://dubbing.speechify.com"]
+[intercom-identity-misconfiguration] [http] [medium] https://api-iam.intercom.io/messenger/web/ping ["https://help.speechify.com"]
+[n8n-config] [http] [medium] https://enterprise-demo.n8n.io/rest/settings
+[nextjs-vite-public-env:public_env] [http] [medium] https://amazon.gradial.com/auth/login?callbackURL=%2F [""NEXT_PUBLIC_API_URL":"https://amazon.gradial.com"",""NEXT_PUBLIC_SUPABASE_ANON_KEY":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzc2NDQ5MzE3LCJleHAiOjIwOTE4MDkzMTd9.1YRhVdzWwFAMGNZX7lY4y1P7QAsU-KGVPsxkvN-0mRo"",""NEXT_PUBLIC_ENVIRONMENT":"production"",""NEXT_PUBLIC_SUPABASE_URL":"https://amazon.gradial.com"",""NEXT_PUBLIC_APP_URL":"https://amazon.gradial.com"",""NEXT_PUBLIC_LOGODEV_PUBLISHABLE_KEY":"pk_EJhAfgvpSg2M49GgLgTgyg""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://app.gradial.com/auth/login?callbackURL=%2F [""NEXT_PUBLIC_SUPABASE_ANON_KEY":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzU1MjgwNDI2LCJleHAiOjIwNzA4NTY0MjZ9.B-q1cvpauX-BXxQCtmdFo0agzo9CUd9qZSDnF3Cf4cA"",""NEXT_PUBLIC_SUPABASE_URL":"https://app.gradial.com"",""NEXT_PUBLIC_APP_URL":"https://app.gradial.com"",""NEXT_PUBLIC_LOGODEV_PUBLISHABLE_KEY":"pk_EJhAfgvpSg2M49GgLgTgyg"",""NEXT_PUBLIC_ENVIRONMENT":"production"",""NEXT_PUBLIC_API_URL":"https://app.gradial.com""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://beta.replika.com [""VITE_WS_BASE_URL": "wss://ws.replika.com""]
+[nextjs-vite-public-env:supabase_anon_key] [http] [medium] https://amazon.gradial.com/auth/login?callbackURL=%2F ["eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzc2NDQ5MzE3LCJleHAiOjIwOTE4MDkzMTd9.1YRhVdzWwFAMGNZX7lY4y1P7QAsU-KGVPsxkvN-0mRo"]
+[nextjs-vite-public-env:supabase_anon_key] [http] [medium] https://app.gradial.com/auth/login?callbackURL=%2F ["eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzU1MjgwNDI2LCJleHAiOjIwNzA4NTY0MjZ9.B-q1cvpauX-BXxQCtmdFo0agzo9CUd9qZSDnF3Cf4cA"]
+[nextjs-vite-public-env:supabase_url] [http] [medium] https://amazon.gradial.com/auth/login?callbackURL=%2F ["https://amazon.gradial.com"]
+[nextjs-vite-public-env:supabase_url] [http] [medium] https://app.gradial.com/auth/login?callbackURL=%2F ["https://app.gradial.com"]
+[prometheus-metrics] [http] [medium] https://api.gumstack.gumloop.com/metrics
+[prometheus-metrics] [http] [medium] https://gusto.api.gumstack.gumloop.com/metrics
+[prometheus-metrics] [http] [medium] https://inference-audio-large.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-lite.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-rerank.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v6.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v7-5.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v7.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v8-5.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v8.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v9-1.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v9-10.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v9-2.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v9-3.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v9-4.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v9-5.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v9-6.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v9-7.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v9-8.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-v9-9.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-vision.kindroid.ai/metrics
+[prometheus-metrics] [http] [medium] https://inference-workhorse.kindroid.ai/metrics
+[rails-debug-mode] [http] [medium] https://dev.crewai.com/3FaUr8vrMdCsz8LNT4Seu8wBZ4E

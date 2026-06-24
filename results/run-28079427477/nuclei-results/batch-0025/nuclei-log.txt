@@ -489,4 +489,3 @@
 [0:40:25] | Templates: 6749 | Hosts: 75 | RPS: 75 | Matched: 0 | Errors: 819 | Requests: 183115/1118775 (16%)
 [0:40:30] | Templates: 6749 | Hosts: 75 | RPS: 75 | Matched: 0 | Errors: 821 | Requests: 183376/1118775 (16%)
 [0:40:35] | Templates: 6749 | Hosts: 75 | RPS: 75 | Matched: 0 | Errors: 823 | Requests: 183625/1118775 (16%)
-[0:40:40] | Templates: 6749 | Hosts: 75 | RPS: 75 | Matched: 0 | Errors: 823 | Requests: 183891/1118775 (16%)
