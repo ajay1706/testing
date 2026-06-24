@@ -1,0 +1,4 @@
+http://blog.podcastle.ai [301] [https://blog.podcastle.ai:443/] [0] [] [34.95.78.201] [google] [30.129206ms]
+https://auth.play.ai [301] [https://play-ai-df2b0.firebaseapp.com/] [53] [] [199.36.158.100] [191.176668ms] [Firebase,HTTP/3]
+https://auth.play.ht [301] [https://play-68705.firebaseapp.com/] [50] [] [199.36.158.100] [341.169813ms] [Firebase,HTTP/3]
+https://landing.podcastle.ai [301] [https://landing.async.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [3.457440368s] [Cloudflare,HSTS,HTTP/3]
