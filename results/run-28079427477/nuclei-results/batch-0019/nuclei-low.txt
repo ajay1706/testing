@@ -1,0 +1,13 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] images.kagi.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] images.kagi.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] infer.platform.futurehouse.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] infer.platform.futurehouse.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] integration.cdn.speechify.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] integration.cdn.speechify.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] internal-assets.viggle.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] internal-assets.viggle.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[debug-vars] [http] [low] https://intuit-dev-be.glean.com/debug/vars
+[python-metrics] [http] [low] https://inference-lite.kindroid.ai/metrics
+[python-metrics] [http] [low] https://inference-rerank.kindroid.ai/metrics
+[python-metrics] [http] [low] https://inference-vision.kindroid.ai/metrics
+[python-metrics] [http] [low] https://inference-workhorse.kindroid.ai/metrics
