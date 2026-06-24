@@ -1,0 +1,4 @@
+https://app.umami.finance [301] [https://umami.finance/] [15] [Vercel] [66.33.60.194] [470.960851ms] [HSTS,Vercel]
+https://go.wisdomtree.com [301] [https://www.clearslide.com/] [162] [301 Moved Permanently] [nginx/1.14.1] [35.81.137.174] [410.142227ms] [Amazon ELB,Amazon Web Services,HSTS,Nginx:1.14.1]
+https://qr.wisdomtree.com [301] [https://uniqode.com] [162] [301 Moved Permanently] [nginx] [100.57.246.110] [569.800024ms] [HSTS,Nginx]
+https://wisdomtree.com [301] [https://www.wisdomtree.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.26.185] [cloudflare] [137.88284ms] [Cloudflare,HTTP/3]
