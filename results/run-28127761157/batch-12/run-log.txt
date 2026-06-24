@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jun 24 20:40:05 UTC 2026
+[+] Run ID: 28127761157
+[+] Batch name: batch-12
+[+] Batch targets:
+tradable.xyz
+traderjoexyz.com
+truefi.io
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jun 24 20:40:32 UTC 2026
+[+] HTTPX input count: 56
+[+] Running httpx...
+[+] httpx completed: Wed Jun 24 20:40:34 UTC 2026
+[+] httpx line count: 30
+[+] Batch completed: Wed Jun 24 20:40:34 UTC 2026
