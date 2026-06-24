@@ -1,0 +1,3 @@
+https://api-marketing.franklintempleton.com [503] [] [280] [Error] [AkamaiGHost] [96.6.230.56] [266.912901ms]
+https://beta.franklintempleton.com [503] [] [280] [Error] [AkamaiGHost] [23.203.225.254] [297.012678ms]
+https://staging-api.dolomite.io [503] [] [567] [Application Error] [Heroku] [76.223.57.73] [214.873325ms]
