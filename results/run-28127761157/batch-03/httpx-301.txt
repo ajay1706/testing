@@ -1,0 +1,2 @@
+https://hmx.org [301] [https://desk.exchange] [167] [301 Moved Permanently] [cloudflare] [172.67.71.158] [cloudflare] [72.528763ms] [Cloudflare,HSTS]
+https://www.hmx.org [301] [https://hmx.org] [167] [301 Moved Permanently] [cloudflare] [172.67.71.158] [cloudflare] [75.162336ms] [Cloudflare,HSTS]

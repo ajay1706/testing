@@ -1,0 +1,6 @@
+https://stats.fulcrom.finance [200] [] [818] [Statistics | Fulcrom Finance] [cloudflare] [104.18.15.176] [cloudflare] [108.006914ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS]
+https://dev.goldfinch.finance [200] [] [10688] [Goldfinch Developer Docs | Goldfinch Developer Docs] [cloudflare] [104.26.6.2] [cloudflare] [102.03955ms] [Cloudflare,Docusaurus:2.0.0-beta.18,HSTS,React,Vercel,Webpack]
+https://www.goldfinch.finance [200] [] [98927] [Goldfinch Prime: The world's leading private credit funds onchain] [Vercel] [76.76.21.93] [52.821787ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://prime.goldfinch.finance [200] [] [32688] [Goldfinch Prime] [Vercel] [66.33.60.194] [339.761844ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://fulcrom.finance [200] [] [261824] [Fulcrom Finance | Decentralised Perpetual Trading on Cronos] [cloudflare] [104.18.14.176] [cloudflare] [128.688222ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS]
+https://gov.goldfinch.finance [200] [] [173376] [Goldfinch Governance Forum - The Governance Forum for Goldfinch] [nginx] [216.66.8.43] [403.849707ms] [Discourse:2026.6.0,HSTS,Nginx,Ruby on Rails]
