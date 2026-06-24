@@ -1,0 +1,4 @@
+https://invest-digitalassetsdev.franklintempleton.com [502] [] [16] [cloudflare] [104.18.39.217] [cloudflare] [286.883465ms] [Cloudflare]
+https://webhook.maple.finance [502] [] [16] [cloudflare] [104.18.7.31] [cloudflare] [1.37254221s] [Cloudflare]
+https://wildcard.da.franklintempleton.com [502] [] [16] [cloudflare] [104.18.39.217] [cloudflare] [81.691787ms] [Cloudflare]
+https://www.my.janushenderson.com [502] [] [932] [ERROR: The request could not be satisfied] [] [3.167.56.13] [cloudfront] [617.560831ms] [Amazon CloudFront,Amazon Web Services]
