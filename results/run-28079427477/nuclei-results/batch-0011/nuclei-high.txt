@@ -1,0 +1,1 @@
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://creators.n8n.io/login [password="password456",username="bob"]
