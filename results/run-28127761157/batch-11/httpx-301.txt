@@ -1,0 +1,4 @@
+http://academy.tokeny.com [301] [https://academy.tokeny.com/] [162] [301 Moved Permanently] [nginx] [34.202.203.47] [36.137001ms] [Nginx]
+https://support.tokeny.com [301] [https://support.tokeny.com/en] [0] [cloudflare] [199.60.103.31] [1.182849191s] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://www.tokeny.com [301] [https://tokeny.com/] [307] [301 Moved Permanently] [Apache/2.4.58 (Ubuntu)] [3.162.174.92] [cloudfront] [4.231497031s] [Amazon CloudFront,Amazon Web Services,Apache HTTP Server:2.4.58,Ubuntu]
+http://webhooks.preprod.spiko.io [301] [https://webhooks.preprod.spiko.io/] [0] [cloudflare] [104.26.11.237] [cloudflare] [2.267870211s] [Cloudflare]
