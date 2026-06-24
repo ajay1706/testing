@@ -1,0 +1,4 @@
+https://referral-prod-api.polynomial.fi [500] [] [0] [cloudflare] [172.66.40.68] [cloudflare] [229.158092ms] [Cloudflare,HTTP/3]
+https://referral-stage-api.polynomial.fi [500] [] [0] [cloudflare] [172.66.40.68] [cloudflare] [239.220485ms] [Cloudflare,HTTP/3]
+https://beta.trade.polynomial.fi [500] [] [1771] [fetch failed] [cloudflare] [172.66.43.188] [cloudflare] [2.303395129s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Netlify]
+https://limit-order-v2-ui.trade.polynomial.fi [500] [] [1771] [fetch failed] [cloudflare] [172.66.40.68] [cloudflare] [2.858639905s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Netlify]
