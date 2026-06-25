@@ -1,0 +1,1 @@
+[wordpress-accessible-wpconfig] [http] [high] https://tokeny.com/wp-config.php.old [paths="/wp-config.php.old"]
