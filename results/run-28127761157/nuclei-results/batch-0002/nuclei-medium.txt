@@ -1,0 +1,4 @@
+[open-redirect-generic] [http] [medium] https://api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://api.camelot.exchange//interact.sh/en//
+[prometheus-metrics] [http] [medium] https://api.centrifuge.io/metrics
+[prometheus-metrics] [http] [medium] https://api.explorer.testnet.ondo.finance/metrics
