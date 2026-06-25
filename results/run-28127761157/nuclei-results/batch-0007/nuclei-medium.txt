@@ -1,0 +1,3 @@
+[open-redirect-generic] [http] [medium] https://dev.api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://dev.api.camelot.exchange//interact.sh/en//
+[cgi-printenv] [http] [medium] https://dev-api.apollo.com/cgi-bin/printenv.pl
