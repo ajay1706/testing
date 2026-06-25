@@ -1,0 +1,1 @@
+[CVE-2026-23829] [tcp] [medium] engwiki.corp.xerox.com:1025
