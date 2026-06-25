@@ -1,0 +1,2 @@
+[CVE-2021-37598] [http] [medium] https://www.libeara.com/wp-json
+[oracle-ebs-sqllog-disclosure] [http] [medium] https://wildcard.da-dev.franklintempleton.com/OA_HTML/bin/sqlnet.log
