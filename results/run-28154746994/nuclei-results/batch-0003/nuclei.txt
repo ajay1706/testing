@@ -1,0 +1,2 @@
+[drupal-directory-listing] [http] [low] http://www3.accounts.xerox.com/includes/
+[ftp-anonymous-login] [tcp] [medium] xrci.xerox.com:21
