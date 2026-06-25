@@ -1,0 +1,72 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-57.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-22.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-64.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-29.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-59.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-59-39.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-25.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-21.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-1.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-25.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-59.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-59-39.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-64.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-21.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-29.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-22.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-1.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-57.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-65.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-71.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-78.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-79.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0300rwp-vip-13-13-63-80.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-65.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-71.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-78.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-79.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0300rwp-vip-13-13-63-80.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 7060rwp-vip-13-8-63-1.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 7060rwp-vip-13-8-63-21.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 7060rwp-vip-13-8-63-25.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 7060rwp-vip-13-8-63-1.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 7060rwp-vip-13-8-63-29.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 7060rwp-vip-13-8-63-59.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 7060rwp-vip-13-8-63-65.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 7060rwp-vip-13-8-63-21.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 7060rwp-vip-13-8-63-78.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 7060rwp-vip-13-8-63-80.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 7060rwp-vip-13-8-63-25.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 7060rwp-vip-13-8-63-29.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 7060rwp-vip-13-8-63-59.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 7060rwp-vip-13-8-63-65.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 7060rwp-vip-13-8-63-78.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 7060rwp-vip-13-8-63-80.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] TBD27.support.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] TBD27.support.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-57.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-64.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-29.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-22.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-59.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-1.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-59-39.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-25.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-21.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-65.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-71.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-80.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-78.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 7060rwp-vip-13-8-63-1.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 7060rwp-vip-13-8-63-25.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 7060rwp-vip-13-8-63-21.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 7060rwp-vip-13-8-63-29.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 7060rwp-vip-13-8-63-59.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 7060rwp-vip-13-8-63-65.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-79.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 7060rwp-vip-13-8-63-78.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 7060rwp-vip-13-8-63-80.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] Preprod1SPR.services.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] TBD27.support.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 7060rwp-vip-13-8-63-5.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] 0300rwp-vip-13-13-63-5.epn.useastgw.xerox.com:443
