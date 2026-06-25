@@ -1,0 +1,27 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] rp-anaqua-ogc.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rp-ebsprod.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rp-freeflow.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rp-anaqua-ogc.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rp-freeflow.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rp-ebsprod.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rp-isupplier.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rp-isupplier.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rp-isupplierqa.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rp-otis.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rp-isupplierqa.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rp-otis.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[sap-netweaver-info-leak] [http] [medium] https://rp-cvp.idns.xerox.com/sap/public/info ["<RFCDEST>vnrpci_NRP_25</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://rp-cvt.idns.xerox.com/sap/public/info ["<RFCDEST>vnpsdi18_NPS_18</RFCDEST>"]
+[sap-public-admin] [http] [low] https://rp-cvp.idns.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://rp-cvt.idns.xerox.com/sap/admin/public/index.html
+[untrusted-root-certificate] [ssl] [low] reporting-services.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] rockstaging.services.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] reportingb.services.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] rp-cvp.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] rp-cvt.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] rp-freeflow.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] rp-ebsprod.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] rp-anaqua-ogc.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] rp-isupplier.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] rp-isupplierqa.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] rp-otis.idns.xerox.com:443
