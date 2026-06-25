@@ -1,0 +1,1 @@
+[CVE-2026-23829] [tcp] [medium] advancedanalytics.services.xerox.com:1025

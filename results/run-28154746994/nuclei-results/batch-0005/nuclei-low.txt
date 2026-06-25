@@ -1,0 +1,5 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] admin.platform.wurl.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] admin.platform.wurl.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[untrusted-root-certificate] [ssl] [low] ace-vip-13-13-148-243.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] analytics-services.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] analytics.services.xerox.com:443
