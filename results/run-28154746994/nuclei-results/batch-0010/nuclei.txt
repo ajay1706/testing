@@ -1,0 +1,96 @@
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://cssvip-13-8-57-36.epn.uswestgw.xerox.com/index ["index.html","index.xml"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://cssvip-13-8-57-36.epn.uswestgw.xerox.com/test ["test.html"] [path="/test"]
+[sap-public-admin] [http] [low] https://css-vip-037.epn.uksouthgw.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://css-vip-037.epn.uknorthgw.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://css-vip-067.epn.eurgw.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://css-vip-067.epn.uksouthgw.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://css-vip-067.epn.uknorthgw.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://css-vip-108.epn.eurgw.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://css-vip-108.epn.uksouthgw.xerox.com/sap/admin/public/index.html
+[sap-netweaver-info-leak] [http] [medium] https://crp.eur.xerox.com/sap/public/info ["<RFCDEST>vcrpdi26_CRP_91</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://crb.eur.xerox.com/sap/public/info ["<RFCDEST>vcrbdi07_CRB_72</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://crr.eur.xerox.com/sap/public/info ["<RFCDEST>vcrrci_CRR_65</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-033.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vhrrci_HRR_75</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-037.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vewrci_EWR_45</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-037.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vewrci_EWR_45</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-035.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vecrci_ECR_40</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-036.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vsrrci_SRR_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-062.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vsrpdi01_SRP_61</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-062.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vsrpci_SRP_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-064.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vhrpci_HRP_75</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-063.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vcrpdi13_CRP_78</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-064.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vhrpdi01_HRP_76</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-062.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vsrpdi01_SRP_61</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-064.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vhrpci_HRP_75</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-063.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vcrpdi17_CRP_82</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-066.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vecpci_ECP_40</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-067.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vewpdi03_EWP_48</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-067.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vewpdi04_EWP_49</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-067.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vewpdi05_EWP_50</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-106.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vecbdi02_ECB_42</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-105.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vcrbdi12_CRB_77</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-105.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vcrbci_CRB_65</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-106.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vecbdi03_ECB_43</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-105.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vcrbdi02_CRB_67</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-106.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vecbci_ECB_40</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-108.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vewbdi04_EWB_49</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-107.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vsrbci_SRB_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-107.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vsrbci_SRB_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-108.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vewbdi05_EWB_50</RFCDEST>"]
+[untrusted-root-certificate] [ssl] [low] crp.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] crb.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] crr.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-032.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-032.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-033.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-035.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-036.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-037.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-037.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-039.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-061.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-039.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-061.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-062.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-062.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-062.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-064.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-063.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-063.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-064.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-064.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-066.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-067.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-067.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-067.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-082.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-083.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-083.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-082.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-084.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-084.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-085.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-085.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-103.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-103.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-104.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-105.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-105.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-105.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-106.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-106.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-106.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-107.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-107.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-108.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-108.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-110.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-111.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-124.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-130.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-130.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-146.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-146.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-130.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-148.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-149.epn.eurgw.xerox.com:443
