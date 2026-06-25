@@ -1,0 +1,16 @@
+[weak-cipher-suites:tls-1.1] [ssl] [low] partner-upload-assets.wurl.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] partner-upload-assets-stage.wurl.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] platform-staging.wurl.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] platform-staging.wurl.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] platform.prod.wurl.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] platform.wurl.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] platform.prod.wurl.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] platform.wurl.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] predictprint.business.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] predictprint.business.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tomcat-stacktraces] [http] [low] https://predictprint.business.xerox.com/?f=\[
+[expired-ssl] [ssl] [low] ppttest.corp.xerox.com:443 ["2026-06-09 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] prd-its.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] prd-its.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] preprod1reporting.services.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] preprod1spr.services.xerox.com:443
