@@ -1,0 +1,3 @@
+[sap-netweaver-info-leak] [http] [medium] https://ewp.idns-ext.xerox.com/sap/public/info ["<RFCDEST>vewpdi01_EWP_46</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ewb.eur.xerox.com/sap/public/info ["<RFCDEST>vewbdi04_EWB_49</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ewr.eur.xerox.com/sap/public/info ["<RFCDEST>vewrci_EWR_45</RFCDEST>"]

@@ -1,0 +1,117 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] eutc2cssvip-13-16-33-164.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eutc2cssvip-13-16-33-182.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eutc2cssvip-13-16-33-164.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eutc2cssvip-13-16-33-182.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eutc2cssvip-13-16-33-215.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eutc2cssvip-13-16-33-216.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eutc2cssvip-13-16-33-215.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eutc2cssvip-13-16-33-216.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-13-63-102.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-13-63-101.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-13-63-103.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-13-63-104.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-13-63-105.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-13-56-118.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-13-56-117.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-13-63-101.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-13-63-102.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-13-63-103.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-13-63-104.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-13-63-105.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-13-63-106.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-13-56-117.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-13-63-107.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-13-56-118.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-13-63-106.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-13-63-107.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-13-63-88.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-16-33-11.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-16-33-12.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-16-33-15.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-16-33-16.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-16-33-18.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-13-63-88.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-16-33-20.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-16-33-11.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-16-33-12.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-16-33-16.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-16-33-15.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-20-33-12.epn.uknorthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-16-33-18.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-20-33-15.epn.uknorthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-16-33-20.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-20-33-16.epn.uknorthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-20-33-12.epn.uknorthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-20-33-15.epn.uknorthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-20-33-18.epn.uknorthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-20-33-16.epn.uknorthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-8-56-117.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-8-63-101.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-8-63-102.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-8-56-117.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-8-63-101.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-8-63-102.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-8-63-103.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-8-63-104.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-8-63-103.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-20-33-18.epn.uknorthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-8-63-104.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-20-33-19.epn.uknorthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] f5-virtual-ip-13-20-33-20.epn.uknorthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-20-33-19.epn.uknorthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] f5-virtual-ip-13-20-33-20.epn.uknorthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[sap-public-admin] [http] [low] https://eutc2cssvip-13-16-33-159.epn.uksouthgw.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://ewr.eur.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://ewp.idns-ext.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://ewb.eur.xerox.com/sap/admin/public/index.html
+[sap-netweaver-info-leak] [http] [medium] https://ewp.idns-ext.xerox.com/sap/public/info ["<RFCDEST>vewpdi01_EWP_46</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ewb.eur.xerox.com/sap/public/info ["<RFCDEST>vewbdi04_EWB_49</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ewr.eur.xerox.com/sap/public/info ["<RFCDEST>vewrci_EWR_45</RFCDEST>"]
+[untrusted-root-certificate] [ssl] [low] esaperrorpage.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] esaperrorpage.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-159.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-146.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-148.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-149.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-156.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-155.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-184.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-182.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-164.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-215.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-216.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-227.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-230.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-229.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-233.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-237.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ewp.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ewb.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ewr.eur.xerox.com:443
+[expired-ssl] [ssl] [low] f5-virtual-ip-13-13-56-117.epn.useastgw.xerox.com:443 ["2026-03-18 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] f5-virtual-ip-13-13-56-118.epn.useastgw.xerox.com:443 ["2024-05-23 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-13-63-101.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-13-63-103.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-13-63-104.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-13-63-105.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-13-63-102.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-13-63-107.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-13-63-106.epn.useastgw.xerox.com:443
+[expired-ssl] [ssl] [low] f5-virtual-ip-13-13-63-88.epn.useastgw.xerox.com:443 ["2025-09-17 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-16-33-11.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-16-33-12.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-16-33-16.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-16-33-15.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-16-33-18.epn.uksouthgw.xerox.com:443
+[expired-ssl] [ssl] [low] f5-virtual-ip-13-8-56-117.epn.uswestgw.xerox.com:443 ["2026-03-18 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-8-63-101.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-8-63-102.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-8-63-103.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-8-63-104.epn.uswestgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-16-33-20.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-20-33-12.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-20-33-15.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-20-33-16.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-20-33-18.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-20-33-19.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] f5-virtual-ip-13-20-33-20.epn.uknorthgw.xerox.com:443
