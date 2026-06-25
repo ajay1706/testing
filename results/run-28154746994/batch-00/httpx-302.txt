@@ -1,0 +1,7 @@
+https://aff.coinsquare.com [302] [http://www.coinsquare.com] [209] [302 Found] [nginx] [35.172.105.229] [79.232512ms] [Nginx]
+https://cwv-data.api.cargurus.com [302] [https://cwv-data.api.cargurus.com/swagger] [0] [] [151.101.1.91] [fastly] [3.068610016s] [HSTS,HTTP/3,Varnish]
+https://dealer.cargurus.com [302] [http://dealercenter.cargurus.com] [69537] [cloudflare] [104.18.16.34] [cloudflare] [4.143032378s] [Cloudflare]
+https://grafana.adjust.com [302] [/login] [29] [nginx] [185.151.205.105] [5.341129508s] [Nginx]
+http://signup.cargurus.com [302] [https://dealers.cargurus.com/drc/cargurus-advantage#formSection#mvt-client-fe898c6b-5766-4d90-9e00-c8bbfe2b7e37] [0] [] [151.101.65.55] [fastly] [101.020248ms] [HTTP/3,Java,Varnish]
+https://support.coinsquare.com [302] [https://support.coinsquare.com/hc] [0] [cloudflare] [216.198.54.11] [1.144672858s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://www.coinsquare.com [302] [https://www.coinsquare.com/en-ca] [142] [302 Found] [cloudflare] [198.202.211.1] [2.132527328s] [Cloudflare,HSTS,HTTP/3]

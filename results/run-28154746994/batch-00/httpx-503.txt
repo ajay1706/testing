@@ -1,0 +1,3 @@
+https://fleet-es.kube-ds.adjust.com [503] [] [190] [503 Service Temporarily Unavailable] [] [185.151.204.108] [2.640245831s] [HSTS]
+https://logstash.esh-k8s-staging.adjust.com [503] [] [190] [503 Service Temporarily Unavailable] [] [185.151.204.119] [635.495497ms] [HSTS]
+https://supports.kube-ds.adjust.com [503] [] [592] [503 Service Temporarily Unavailable] [] [185.151.204.108] [629.049299ms] [HSTS]

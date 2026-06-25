@@ -1,0 +1,4 @@
+http://es.esh-k8s-staging.adjust.com [308] [https://es.esh-k8s-staging.adjust.com] [164] [308 Permanent Redirect] [] [185.151.204.119] [2.42767436s]
+http://grafana.kube-ds.adjust.com [308] [https://grafana.kube-ds.adjust.com] [164] [308 Permanent Redirect] [] [185.151.204.108] [5.420248871s] [HSTS]
+http://logstash-elastic-agent.kube-ds.adjust.com [308] [https://logstash-elastic-agent.kube-ds.adjust.com] [164] [308 Permanent Redirect] [] [185.151.204.108] [418.14753ms] [HSTS]
+http://server.esh-k8s-staging.adjust.com [308] [https://server.esh-k8s-staging.adjust.com] [164] [308 Permanent Redirect] [] [185.151.204.119] [421.604996ms]
