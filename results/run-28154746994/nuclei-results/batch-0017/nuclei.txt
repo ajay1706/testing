@@ -1,0 +1,21 @@
+[CVE-2025-54236] [http] [critical] https://mcstaging.shop.xerox.com/customer/address_file/upload
+[weak-cipher-suites:tls-1.0] [ssl] [low] mas-support.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mas-support.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mdt-stage.support.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mdt-test.support.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mdt-stage.support.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mdt-test.support.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[sap-public-admin] [http] [low] https://mango-its.eur.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://mango-its.idns.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://mangot-its.eur.xerox.com/sap/admin/public/index.html
+[untrusted-root-certificate] [ssl] [low] mangot-its.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] mango-its.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] mango-its.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] mcdbb.services.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] mcdb-services.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] mas-support.corp.xerox.com:443
+[expired-ssl] [ssl] [low] miaps003-ext.epn.uswestgw.xerox.com:443 ["2025-04-29 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] miaps099-63-ext.epn.useastgw.xerox.com:443 ["2024-03-07 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] miaps099-ext.epn.useastgw.xerox.com:443 ["2024-03-07 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] mobileqa.mainframe.xerox.com:443 ["2024-03-07 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] miaps001-ext.epn.useastgw.xerox.com:443 ["2025-04-29 23:59:59 +0000 UTC"]
