@@ -1,0 +1,24 @@
+[ssh-cbc-mode-ciphers] [javascript] [low] leto-ext.epn.uksouthgw.xerox.com:22
+[ssh-weak-mac-algo] [javascript] [low] leto-ext.epn.uksouthgw.xerox.com:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] itsupport.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] itsupport.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] itsupport.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] itsupport.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ja.help.adjust.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ja.help.adjust.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] layer7-stg.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] layer7-stg.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] leto-ext.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] leto-ext.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lime.ext.uswestgw.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lime.ext.uswestgw.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] lime.ext.uswestgw.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[apache-server-status] [http] [low] https://kmui.idns-ext.xerox.com/server-status
+[apache-server-status] [http] [low] https://kmui.support.xerox.com/server-status
+[expired-ssl] [ssl] [low] iprocurement.corp.xerox.com:443 ["2025-10-21 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] itstore.services.xerox.com:443 ["2025-11-05 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] itsupport.idns.xerox.com:443 ["2026-03-18 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] itsupport.xerox.com:443 ["2026-03-18 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] leto-ext.epn.uksouthgw.xerox.com:443
+[kubernetes-fake-certificate] [ssl] [low] logstash.kube-ds.adjust.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] logstash.kube-ds.adjust.com:443
