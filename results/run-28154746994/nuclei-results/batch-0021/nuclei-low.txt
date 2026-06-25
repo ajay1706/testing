@@ -1,0 +1,18 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] profinanceuat.eur.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] profinance.eur.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pyrox.ext.useastgw.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pyrox.ext.useastgw.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] profinanceuat.eur.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] profinance.eur.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] pyrox.ext.useastgw.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] qc-ebi.dmo.partnernet.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] remoteconnect.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] remoteconnect.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] remoteconnect.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] remoteconnect.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] qc-ebi.dmo.partnernet.xerox.com:443 ["[tls12 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[untrusted-root-certificate] [ssl] [low] profinanceuat.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] profinance.eur.xerox.com:443
+[expired-ssl] [ssl] [low] qc-ebi.dmo.partnernet.xerox.com:443 ["2021-04-28 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] remoteconnect.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] remoteconnect.idns.xerox.com:443
