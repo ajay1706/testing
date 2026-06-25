@@ -1,0 +1,40 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] dmsdev.support.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dmsdev.support.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docushare.fdx.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docushare.fdx.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dr.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dr.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ebsprod.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ebi-dmo.partnernet.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ebsprod.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] ebi-dmo.partnernet.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_128_CBC_SHA256]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] engservicedesk-staging.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] engservicedesk-staging.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[sap-netweaver-info-leak] [http] [medium] https://ecb.eur.xerox.com/sap/public/info ["<RFCDEST>vecbdi02_ECB_42</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ec3.eur.xerox.com/sap/public/info ["<RFCDEST>vewbdi06_EWB_51</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ecr.eur.xerox.com/sap/public/info ["<RFCDEST>vecrci_ECR_40</RFCDEST>"]
+[sap-public-admin] [http] [low] https://ec3.eur.xerox.com/sap/admin/public/index.html
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://es-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[expired-ssl] [ssl] [low] ebillingqan1.external.xerox.com:443 ["2026-06-06 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] ebsprod.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eipsupportassistantb.services.xerox.com:443
+[expired-ssl] [ssl] [low] ebi-dmo.partnernet.xerox.com:443 ["2025-01-01 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] ec3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ecb.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ecr.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eib.eur.xerox.com:443
+[expired-ssl] [ssl] [low] emails-appgallery-stage.services.xerox.com:443 ["2026-02-27 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] eibns3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eip.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eip.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eipns3.eur.xerox.com:443
+[expired-ssl] [ssl] [low] engservicedesk-staging.corp.xerox.com:443 ["2025-09-17 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] eir.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eirns3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ep3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] epb.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] epp.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] epr.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eppns3.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eppns3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eprns3.eur.xerox.com:443

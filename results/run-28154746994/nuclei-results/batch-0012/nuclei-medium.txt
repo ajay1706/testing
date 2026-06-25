@@ -1,0 +1,4 @@
+[sap-netweaver-info-leak] [http] [medium] https://ecb.eur.xerox.com/sap/public/info ["<RFCDEST>vecbdi02_ECB_42</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ec3.eur.xerox.com/sap/public/info ["<RFCDEST>vewbdi06_EWB_51</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ecr.eur.xerox.com/sap/public/info ["<RFCDEST>vecrci_ECR_40</RFCDEST>"]
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://es-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
