@@ -1,0 +1,2 @@
+https://mcprod.shop.xerox.com [308] [https://www.mcprod.shop.xerox.com/] [0] [] [151.101.193.124] [fastly] [241.936793ms] [HSTS]
+https://shop.xerox.com [308] [https://www.shop.xerox.com/] [0] [] [151.101.193.124] [fastly] [2.240934862s] [HSTS]
