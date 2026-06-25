@@ -1,0 +1,28 @@
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://origina.office.xerox.com/test ["test.html"] [path="/test"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://origina.office.xerox.com/index ["index.html","index.xml"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://origin.office.xerox.com/test ["test.html"] [path="/test"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://origin.office.xerox.com/index ["index.html","index.xml"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://originb.office.xerox.com/test ["test.html"] [path="/test"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://originb.office.xerox.com/index ["index.html","index.xml"] [path="/index"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] network.govpurchasing.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] network.govpurchasing.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nfitsupport.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nfitsupport.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nfitsupport.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nfitsupport.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ogc.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] om-support.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] om-support.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ogc.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] om-support.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] om-support.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://nl-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://nz-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[untrusted-root-certificate] [ssl] [low] nfitsupport.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] nfitsupport.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] nrp-its.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ogc.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] om-support.corp.xerox.com:443
+[kubernetes-fake-certificate] [ssl] [low] opensearch.kube-ds.adjust.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] opensearch.kube-ds.adjust.com:443
+[untrusted-root-certificate] [ssl] [low] om-support.idns.xerox.com:443
