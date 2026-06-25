@@ -1,0 +1,60 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-tc2-samlsp-prod-uc1.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-tc2-samlsp-prod-uc2.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-tc2-samlsp-prod-uc6.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-tc2-samlsp-prod-uc1.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-tc2-samlsp-prod-uc2.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-tc2-samlsp-prod-uc8.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-tc2-samlsp-prod-uc6.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-tc2-samlsp-prod-uc8.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-tc4-samlsp-prod-uc10.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-tc4-samlsp-prod-uc10.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-tc4-samlsp-prod-uc2.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-tc4-samlsp-prod-uc5.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-tc4-samlsp-prod-uc6.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-tc4-samlsp-prod-uc2.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-tc4-samlsp-prod-uc5.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-tc4-samlsp-prod-uc8.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-tc4-samlsp-prod-uc6.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-tc4-samlsp-prod-uc9.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-wb-samlsp-prod-uc1.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-tc4-samlsp-prod-uc8.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-wb-samlsp-prod-uc10.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-wb-samlsp-prod-uc2.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-wb-samlsp-prod-uc5.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-tc4-samlsp-prod-uc9.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-wb-samlsp-prod-uc1.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-wb-samlsp-prod-uc8.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-wv-samlsp-prod-uc1.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-wb-samlsp-prod-uc2.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-wb-samlsp-prod-uc5.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-wv-samlsp-prod-uc10.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-wv-samlsp-prod-uc1.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-wb-samlsp-prod-uc9.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-wb-samlsp-prod-uc10.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-wv-samlsp-prod-uc10.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-wb-samlsp-prod-uc8.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apm-wv-samlsp-prod-uc8.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-wb-samlsp-prod-uc9.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apm-wv-samlsp-prod-uc8.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2025-58751] [http] [low] https://appgallerydemo.services.xerox.com/../package.json
+[CVE-2025-58751] [http] [low] https://appgallerytest.services.xerox.com/../package.json
+[untrusted-root-certificate] [ssl] [low] apib.services.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-tc2-samlsp-prod-uc6.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-tc2-samlsp-prod-uc1.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-tc2-samlsp-prod-uc2.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-tc2-samlsp-prod-uc8.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-wb-samlsp-prod-uc1.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-wb-samlsp-prod-uc10.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-wb-samlsp-prod-uc2.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-tc4-samlsp-prod-uc10.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-wb-samlsp-prod-uc5.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-tc4-samlsp-prod-uc2.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-tc4-samlsp-prod-uc5.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-tc4-samlsp-prod-uc6.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-tc4-samlsp-prod-uc8.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-tc4-samlsp-prod-uc9.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-wv-samlsp-prod-uc1.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-wv-samlsp-prod-uc10.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-wv-samlsp-prod-uc8.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-wb-samlsp-prod-uc8.corp.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] apm-wb-samlsp-prod-uc9.corp.xerox.com:443
