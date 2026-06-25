@@ -1,0 +1,14 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] delivery-status-tracker.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] delivery-status-tracker.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] delivery-status-tracker.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] delivery-status-tracker.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[keycloak-admin-console-config] [http] [low] https://dhcpportaldemo.services.xerox.com/auth/admin/master/console/config
+[sap-public-admin] [http] [low] https://cvp.eur.xerox.com/sap/admin/public/index.html
+[sap-netweaver-info-leak] [http] [medium] https://cvp.eur.xerox.com/sap/public/info ["<RFCDEST>vnrpdi16_NRP_16</RFCDEST>"]
+[untrusted-root-certificate] [ssl] [low] dcs-web-lb.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] dcs.support.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] cvp.eur.xerox.com:443
+[expired-ssl] [ssl] [low] dev.accounts.xerox.com:443 ["2026-05-05 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] delivery-status-tracker.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] delivery-status-tracker.corp.xerox.com:443
+[expired-ssl] [ssl] [low] digitallocker-staging.corp.xerox.com:443 ["2026-02-07 23:59:59 +0000 UTC"]
