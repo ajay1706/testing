@@ -1,0 +1,1 @@
+[zip-backup-files] [http] [medium] https://cdn-dev.janushenderson.com/uploads.tar.gz [EXT="tar.gz",FILENAME="uploads"]
