@@ -1,0 +1,49 @@
+[drupal-directory-listing] [http] [low] https://usa7061lv2234-ext.epn.uswestgw.xerox.com/includes/
+[drupal-directory-listing] [http] [low] https://usa7061lv2233-ext.epn.uswestgw.xerox.com/includes/
+[ssh-weakkey-exchange-algo] [javascript] [low] usa0300sf01.epn.useastgw.xerox.com:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa0300vm2336-ext.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa0300vm614-ext.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa0300vm2336-ext.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa0300sf01.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa0300vm3998-ext.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] usa0300vm2336-ext.epn.useastgw.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_GCM_SHA384]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa0300vm3074-ext.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa0300vm2274-ext.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa0300vm3998-ext.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa0300sf01.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa0300vm3074-ext.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa0300vm2274-ext.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] usa0300vm2274-ext.epn.useastgw.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_GCM_SHA384]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa0300xmg001-ext.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa0300vm614-ext.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa0300xmg002-ext.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa0300xmg001-ext.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] usa0300vm614-ext.epn.useastgw.xerox.com:443 ["[tls12 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa0300xmg002-ext.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa7061xmg001-ext.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa7061xmg002-ext.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa7061xmg001-ext.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa7061xmg002-ext.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] vendor.cargurus.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vendor.cargurus.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wdm.services.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wdm.services.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wdmstage.services.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wdmstage.services.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wdmdev.services.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wdmdev.services.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] web-test-pp.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] web-test-pp.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wdmtest.services.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wdmtest.services.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tomcat-stacktraces] [http] [low] https://vippsupport.xerox.com/?f=\[
+[tomcat-stacktraces] [http] [low] https://web-test-pp.corp.xerox.com/?f=\[
+[expired-ssl] [ssl] [low] usa0300vm3479-ext.epn.useastgw.xerox.com:443 ["2025-04-15 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] usa0300vm2336-ext.epn.useastgw.xerox.com:443 ["2021-03-16 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] usa0300sf01.epn.useastgw.xerox.com:443
+[self-signed-ssl] [ssl] [low] wdm.services.xerox.com:443
+[expired-ssl] [ssl] [low] web-test-pp.corp.xerox.com:443 ["2025-03-04 23:59:59 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] wdmstage.services.xerox.com:443
+[self-signed-ssl] [ssl] [low] wdmtest.services.xerox.com:443
+[expired-ssl] [ssl] [low] webvpn.corp.xerox.com:443 ["2026-02-25 23:59:59 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] wdmdev.services.xerox.com:443
