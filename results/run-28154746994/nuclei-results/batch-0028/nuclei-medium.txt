@@ -1,0 +1,2 @@
+[CVE-2021-37598] [http] [medium] https://testgrading.support.xerox.com/wp-json
+[CVE-2021-37598] [http] [medium] https://tomorrowbrand.getrecharge.com/wp-json
