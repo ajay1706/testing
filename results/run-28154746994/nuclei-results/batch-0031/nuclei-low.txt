@@ -1,0 +1,15 @@
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://www.office.xerox.com/test ["test.html"] [path="/test"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://www.office.xerox.com/index ["index.xml","index.html"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://www.officeprinting.xerox.com/index ["index.html","index.xml"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://www.officeprinting.xerox.com/test ["test.html"] [path="/test"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://www.tektronix.xerox.com/index ["index.html","index.xml"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://www.tektronix.xerox.com/test ["test.html"] [path="/test"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.paws.external.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.paws.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.paws.external.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.paws.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.xeroxbrandcentral.external.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.xeroxbrandcentral.external.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] www.vlphandsonlabs.external.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_GCM_SHA384]"]
+[untrusted-root-certificate] [ssl] [low] xbp-its.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] xbp-its.idns.xerox.com:443

