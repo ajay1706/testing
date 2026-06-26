@@ -1,0 +1,5 @@
+[CVE-2020-3952:version] [http] [critical] https://usa0300lv2500-ext.epn.useastgw.xerox.com/sdk/ ["4.0.0"]
+[CVE-2020-3952:version] [http] [critical] https://vlpconproxy-msp.support.xerox.com/sdk/ ["4.0.0"]
+[CVE-2023-34048:version] [http] [critical] https://usa0300lv2500-ext.epn.useastgw.xerox.com/sdk/ ["4.0.0"]
+[CVE-2023-34048:version] [http] [critical] https://vlpconproxy-msp.support.xerox.com/sdk/ ["4.0.0"]
+[CVE-2025-54236] [http] [critical] https://mcstaging.shop.xerox.com/customer/address_file/upload
