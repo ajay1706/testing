@@ -1,0 +1,25 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] xde0300ca001-ext.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xde0300ca001-ext.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] xde0300ca001-ext.epn.useastgw.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_GCM_SHA384]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xean02.corp.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xean01.corp.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xean02.corp.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xean01.corp.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xean02.idns.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] xean02.corp.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] xean01.corp.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xean03.corp.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xean03.idns.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xean02.idns.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xean04.corp.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] xean02.idns.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xean04.idns.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xean03.corp.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xean03.idns.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xean04.corp.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xean04.idns.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://xea.services.xerox.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://xeadev.services.xerox.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://xeastage.services.xerox.com
+[expired-ssl] [ssl] [low] xbsap-workflowuat.corp.xerox.com:443 ["2025-03-06 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] xbt-its.eur.xerox.com:443
