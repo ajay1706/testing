@@ -1,0 +1,23 @@
+[ssh-diffie-hellman-logjam] [javascript] [low] taga-ext.epn.useastgw.xerox.com:22
+[ssh-cbc-mode-ciphers] [javascript] [low] taga-ext.epn.useastgw.xerox.com:22
+[ssh-weak-mac-algo] [javascript] [low] taga-ext.epn.useastgw.xerox.com:22
+[ssh-weakkey-exchange-algo] [javascript] [low] taga-ext.epn.useastgw.xerox.com:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] startpurchase.cargurus.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] startpurchase.cargurus.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sus-prod-test.support.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sus-stage.support.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sus-stage-test.support.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sus-test.support.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sus-stage.support.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sus-stage-test.support.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sus-test.support.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sus-prod-test.support.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] taga-ext.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] taga-ext.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[untrusted-root-certificate] [ssl] [low] sup-its.eur.xerox.com:443
+[kubernetes-fake-certificate] [ssl] [low] support.kube-ds.adjust.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] support.kube-ds.adjust.com:443
+[expired-ssl] [ssl] [low] supports.kube-ds.adjust.com:443 ["2026-05-31 10:11:04 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] taga-ext.epn.useastgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] tcofnstaging.services.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] tcostaging.services.xerox.com:443
