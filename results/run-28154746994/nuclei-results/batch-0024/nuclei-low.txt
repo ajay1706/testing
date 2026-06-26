@@ -1,0 +1,2 @@
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://services.xerox.com/index ["index.html","index.xml"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://services.xerox.com/test ["test.html"] [path="/test"]
