@@ -1,0 +1,6 @@
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://tektronix.xerox.com/test ["test.html"] [path="/test"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://tektronix.xerox.com/index ["index.html","index.xml"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://test-origina.office.xerox.com/index ["index.html","index.xml"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://test-origin.office.xerox.com/index ["index.html","index.xml"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://test-origin.office.xerox.com/test ["test.html"] [path="/test"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://test-origina.office.xerox.com/test ["test.html"] [path="/test"]
