@@ -1,0 +1,1 @@
+[sap-netweaver-info-leak] [http] [medium] https://xi3.eur.xerox.com/sap/public/info ["<RFCDEST>vsrbci_SRB_20</RFCDEST>"]
