@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://api.dev.duvo.ai/metrics
+[prometheus-metrics] [http] [medium] https://mcp.dev.duvo.ai/metrics
+[prometheus-metrics] [http] [medium] https://n8n.dappier.com/metrics
+[prometheus-metrics] [http] [medium] https://platform.dev.duvo.ai/metrics
