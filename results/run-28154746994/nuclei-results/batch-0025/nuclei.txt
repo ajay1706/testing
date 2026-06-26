@@ -1,0 +1,26 @@
+[ssh-diffie-hellman-logjam] [javascript] [low] sfteu.idns.xerox.com:22
+[ssh-weak-mac-algo] [javascript] [low] sfteu.idns.xerox.com:22
+[ssh-weak-mac-algo] [javascript] [low] sfteu.xerox.com:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] sftna.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sfteu.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sfteu.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sftna.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sfteu.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sfteu.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sftna.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sftna.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[sap-netweaver-info-leak] [http] [medium] https://srp.eur.xerox.com/sap/public/info ["<RFCDEST>vsrpci_SRP_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://srp.idns-ext.xerox.com/sap/public/info ["<RFCDEST>vsrpdi01_SRP_61</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://srr.eur.xerox.com/sap/public/info ["<RFCDEST>vsrrci_SRR_20</RFCDEST>"]
+[expired-ssl] [ssl] [low] sigr-vision-v1p2-qa-eun.portal.xerox.com:443 ["2026-03-24 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] sftna.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] sftna.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] sfteu.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] sfteu.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] sr3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] srp.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] srp.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] srr.eur.xerox.com:443
+[expired-ssl] [ssl] [low] staging1dcspr.services.xerox.com:443 ["2026-02-19 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] staging1mcdb.services.xerox.com:443 ["2026-02-19 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] staging3reporting.services.xerox.com:443

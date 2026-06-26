@@ -1,0 +1,3 @@
+[sap-netweaver-info-leak] [http] [medium] https://srp.eur.xerox.com/sap/public/info ["<RFCDEST>vsrpci_SRP_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://srp.idns-ext.xerox.com/sap/public/info ["<RFCDEST>vsrpdi01_SRP_61</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://srr.eur.xerox.com/sap/public/info ["<RFCDEST>vsrrci_SRR_20</RFCDEST>"]
