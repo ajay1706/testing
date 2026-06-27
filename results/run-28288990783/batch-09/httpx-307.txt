@@ -1,0 +1,2 @@
+https://lulo.fi [307] [https://www.lulo.fi/] [15] [Vercel] [216.150.1.1] [40.865056ms] [HSTS,Vercel]
+https://classic.lulo.fi [307] [/performance] [15] [cloudflare] [104.21.39.59] [cloudflare] [373.065842ms] [Cloudflare,HSTS,HTTP/3,Vercel]
