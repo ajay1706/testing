@@ -1,0 +1,14 @@
+[+] Batch started: Sat Jun 27 14:09:41 UTC 2026
+[+] Run ID: 28291143847
+[+] Batch name: batch-28
+[+] Batch targets:
+symm.io
+synfutures.com
+taulabs.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Sat Jun 27 14:11:13 UTC 2026
+[+] HTTPX input count: 46
+[+] Running httpx...
+[+] httpx completed: Sat Jun 27 14:11:34 UTC 2026
+[+] httpx line count: 18
+[+] Batch completed: Sat Jun 27 14:11:34 UTC 2026
