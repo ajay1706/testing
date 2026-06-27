@@ -1,0 +1,65 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 13:56:41 UTC 2026
+
+HTTPX lines: 37
+Live URLs: 37
+
+## 200
+https://www.dexfi.io [200] [] [114] [] [76.223.67.189] [48.263188ms]
+https://dexfi.io [200] [] [114] [] [13.248.213.45] [103.099943ms]
+https://api.curve.finance [200] [] [52] [cloudflare] [172.66.40.133] [cloudflare] [102.528129ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,HTTP/3]
+https://www.curve.finance [200] [] [4521] [Curve.finance] [cloudflare] [172.66.40.133] [cloudflare] [76.651389ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://design.curve.finance [200] [] [4427] [storybook - Storybook] [cloudflare] [172.66.43.123] [cloudflare] [102.280639ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://polygon.curve.finance [200] [] [2979] [Curve.finance] [cloudflare] [172.66.43.123] [cloudflare] [81.379271ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://xdai.curve.finance [200] [] [2974] [Curve.fi] [cloudflare] [172.66.43.123] [cloudflare] [102.926166ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://stalin.curve.finance [200] [] [1358] [СurveBOBR] [cloudflare] [172.66.43.123] [cloudflare] [218.026223ms] [Cloudflare,HSTS,HTTP/3]
+https://classic.curve.finance [200] [] [2979] [Curve.finance] [cloudflare] [172.66.43.123] [cloudflare] [143.420613ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://harmony.curve.finance [200] [] [2979] [Curve.finance] [cloudflare] [172.66.43.123] [cloudflare] [101.841279ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://moonbeam.curve.finance [200] [] [2979] [Curve.finance] [cloudflare] [172.66.40.133] [cloudflare] [102.033002ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://kava.curve.finance [200] [] [2979] [Curve.finance] [cloudflare] [172.66.40.133] [cloudflare] [101.378571ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://ftm.curve.finance [200] [] [2979] [Curve.finance] [cloudflare] [172.66.43.123] [cloudflare] [101.750104ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://aurora.curve.finance [200] [] [2979] [Curve.finance] [cloudflare] [172.66.43.123] [cloudflare] [143.274427ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://api-core.curve.finance [200] [] [57] [cloudflare] [172.66.43.123] [cloudflare] [268.661408ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,HTTP/3]
+https://avax.curve.finance [200] [] [2979] [Curve.finance] [cloudflare] [172.66.40.133] [cloudflare] [143.630333ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://optimism.curve.finance [200] [] [2979] [Curve.finance] [cloudflare] [172.66.43.123] [cloudflare] [101.90634ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://dao-old.curve.finance [200] [] [2572] [cloudflare] [172.66.40.133] [cloudflare] [223.610999ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://knowledge.curve.finance [200] [] [11645] [Curve Knowledge Hub] [Vercel] [216.230.84.1] [84.881042ms] [Docusaurus:3.9.2,HSTS,React,Vercel,Webpack]
+https://docs.curve.finance [200] [] [12564] [Curve Knowledge Hub] [cloudflare] [172.66.40.133] [cloudflare] [131.334367ms] [Cloudflare,Docusaurus:3.9.2,HSTS,HTTP/3,React,Vercel,Webpack]
+https://arbitrum.curve.finance [200] [] [2979] [Curve.finance] [cloudflare] [172.66.40.133] [cloudflare] [315.171122ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://celo.curve.finance [200] [] [2979] [Curve.finance] [cloudflare] [172.66.43.123] [cloudflare] [360.600932ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://resources.curve.finance [200] [] [12564] [Curve Knowledge Hub] [cloudflare] [172.66.43.123] [cloudflare] [198.222001ms] [Cloudflare,Docusaurus:3.9.2,HSTS,HTTP/3,React,Vercel,Webpack]
+https://bobr.curve.finance [200] [] [1358] [СurveBOBR] [cloudflare] [172.66.40.133] [cloudflare] [384.258013ms] [Cloudflare,HSTS,HTTP/3]
+https://meet.curve.finance [200] [] [1945] [Book a call with Curve Finance] [cloudflare] [172.66.43.123] [cloudflare] [472.777907ms] [Cloudflare,HSTS,HTTP/3]
+https://news.curve.finance [200] [] [63545] [Curve News] [cloudflare] [172.66.43.123] [cloudflare] [62.890361ms] [Cloudflare,Ghost:6.46,HSTS,HTTP/3,Node.js,Varnish,jQuery CDN,jQuery:3.5.1,jsDelivr]
+https://staging.d2.finance [200] [] [41782] [D2 Finance | Institutional Grade Managed Strategies] [nginx/1.24.0 (Ubuntu)] [54.169.248.215] [784.88183ms] [Next.js,Nginx:1.24.0,Node.js,React,Ubuntu,Webpack]
+https://d2.finance [200] [] [43118] [D2 Finance | Institutional Grade Managed Strategies] [cloudflare] [104.26.12.138] [cloudflare] [827.198482ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://gitbook.d2.finance [200] [] [294485] [D2 Finance Overview | D2.Finance] [cloudflare] [172.64.147.209] [cloudflare] [468.317415ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://www.d2.finance [301] [https://d2.finance/] [665] [301 Moved Permanently] [cloudflare] [104.26.12.138] [cloudflare] [50.467498ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dao.curve.finance [301] [https://www.curve.finance/dao//] [167] [301 Moved Permanently] [cloudflare] [172.66.43.123] [cloudflare] [1.050803998s] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+
+## 307
+https://docs.d2.finance [307] [https://docs.d2.finance/docs/] [15] [cloudflare] [172.67.72.198] [cloudflare] [142.45366ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://curve.finance [307] [https://www.curve.finance/] [15] [cloudflare] [172.66.40.133] [cloudflare] [377.333823ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+
+## 403
+https://gov.curve.finance [403] [] [5600] [Just a moment...] [cloudflare] [172.66.40.133] [cloudflare] [44.610289ms] [Cloudflare,HSTS,HTTP/3]
+
+## 404
+https://prices.curve.finance [404] [] [22] [cloudflare] [172.66.43.123] [cloudflare] [198.494963ms] [Cloudflare,HSTS,HTTP/3]
+https://dev.curve.finance [404] [] [107] [cloudflare] [172.66.40.133] [cloudflare] [1.165090423s] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
