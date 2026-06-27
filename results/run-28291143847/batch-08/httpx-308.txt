@@ -1,0 +1,4 @@
+https://app.elfi.xyz [308] [/trade/ETHUSD] [15] [Vercel] [76.76.21.123] [331.054591ms] [HSTS,Vercel]
+https://elfi.xyz [308] [https://www.elfi.xyz/] [15] [Vercel] [76.76.21.21] [373.129416ms] [HSTS,Vercel]
+https://testnet.elfi.xyz [308] [/trade/ETHUSD] [15] [Vercel] [66.33.60.193] [225.082914ms] [HSTS,Vercel]
+https://www.dodoex.io [308] [https://dodoex.io/] [15] [cloudflare] [172.67.74.224] [cloudflare] [304.693267ms] [Cloudflare,HSTS,HTTP/3,Vercel]
