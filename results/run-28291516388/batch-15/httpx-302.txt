@@ -1,0 +1,4 @@
+https://blog.k3.capital [302] [https://blog.k3.capital/us] [143] [302 Found] [cloudflare] [172.67.130.109] [cloudflare] [34.733465ms] [Cloudflare]
+https://k3.capital [302] [https://k3.capital/us] [143] [302 Found] [cloudflare] [172.67.130.109] [cloudflare] [40.937957ms] [Cloudflare]
+https://app.k3.capital [302] [https://app.k3.capital/us] [143] [302 Found] [cloudflare] [104.21.8.99] [cloudflare] [54.90954ms] [Cloudflare]
+https://www.k3.capital [302] [https://www.k3.capital/us] [143] [302 Found] [cloudflare] [172.67.130.109] [cloudflare] [56.392798ms] [Cloudflare]
