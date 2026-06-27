@@ -1,0 +1,2 @@
+https://cg-price-cache.seamlessprotocol.com [404] [] [68] [cloudflare] [104.26.4.243] [cloudflare] [122.652092ms] [Cloudflare]
+https://index.sosovalue.com [404] [] [162] [404 Not Found] [nginx/1.24.0 (Ubuntu)] [52.198.201.209] [582.238112ms] [Nginx:1.24.0,Ubuntu]

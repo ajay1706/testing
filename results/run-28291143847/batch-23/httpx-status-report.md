@@ -1,0 +1,56 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:07:43 UTC 2026
+
+HTTPX lines: 27
+Live URLs: 27
+
+## 200
+https://client-metadata.seamlessprotocol.com [200] [] [18] [cloudflare] [104.26.4.243] [cloudflare] [90.252935ms] [Cloudflare]
+https://app.seamlessprotocol.com [200] [] [3632] [Seamless Protocol | Complex Defi wrapped into simple tokens] [cloudflare] [104.26.4.243] [cloudflare] [410.154023ms] [Cloudflare,IPFS]
+https://circulatingsupply.seamlessprotocol.com [200] [] [27] [cloudflare] [104.26.4.243] [cloudflare] [559.139425ms] [Cloudflare]
+https://pre-app.seamlessprotocol.com [200] [] [3632] [Seamless Protocol | Complex Defi wrapped into simple tokens] [cloudflare] [104.26.4.243] [cloudflare] [291.325749ms] [Cloudflare,IPFS]
+https://pre-staking.seamlessprotocol.com [200] [] [2308] [Seamless Protocol | Complex Defi wrapped into simple tokens] [cloudflare] [104.26.5.243] [cloudflare] [307.891606ms] [Cloudflare,IPFS]
+https://pre-legacy.seamlessprotocol.com [200] [] [3632] [Seamless Protocol | Complex Defi wrapped into simple tokens] [cloudflare] [104.26.5.243] [cloudflare] [387.494741ms] [Cloudflare,IPFS]
+https://staking.seamlessprotocol.com [200] [] [2308] [Seamless Protocol | Complex Defi wrapped into simple tokens] [cloudflare] [172.67.69.101] [cloudflare] [437.592345ms] [Cloudflare,IPFS]
+https://seamlessprotocol.com [200] [] [200275] [Seamless Protocol | Complex Defi wrapped into simple tokens] [Framer/89e8012] [31.43.161.6] [261.718884ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React]
+https://docs.seamlessprotocol.com [200] [] [368232] [Introduction to Seamless Protocol | Seamless Protocol] [cloudflare] [104.26.4.243] [cloudflare] [305.107517ms] [Cloudflare,GitBook,HSTS,Vercel,dc.js]
+https://ssi.sosovalue.com [200] [] [114623] [SoSoValue Indexes (SSI): A Secure, Transparent Spot Crypto Index Protocol Built Fully On-Chain] [cloudflare] [104.18.10.213] [cloudflare] [943.146494ms] [C3.js,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+
+## 301
+https://alpha.sosovalue.com [301] [https://sosovalue.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.11.213] [cloudflare] [55.15146ms] [Cloudflare]
+http://new-ws.sosovalue.com [301] [https://new-ws.sosovalue.com/] [176] [301 Moved Permanently] [cloudflare] [104.18.11.213] [cloudflare] [184.598415ms] [Cloudflare]
+
+## 302
+
+## 307
+
+## 308
+https://www.seamlessprotocol.com [308] [https://seamlessprotocol.com/] [65] [Framer/89e8012] [31.43.160.6] [66.041048ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+https://gw.sosovalue.com [401] [] [121] [cloudflare] [104.18.11.213] [cloudflare] [248.187599ms] [Cloudflare,Cloudflare Bot Management]
+
+## 403
+https://app-h5.sosovalue.com [403] [] [5710] [Just a moment...] [cloudflare] [104.18.10.213] [cloudflare] [49.506669ms] [Cloudflare,Cloudflare Bot Management]
+https://m.sosovalue.com [403] [] [5683] [Just a moment...] [cloudflare] [104.18.11.213] [cloudflare] [53.970464ms] [Cloudflare,Cloudflare Bot Management]
+https://datasink.sosovalue.com [403] [] [651] [403 Forbidden] [cloudflare] [104.18.11.213] [cloudflare] [360.021789ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://log.sosovalue.com [403] [] [1053] [403 Forbidden] [cloudflare] [104.18.10.213] [cloudflare] [347.20986ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://preview-ssi.sosovalue.com [403] [] [5045] [Attention Required! | Cloudflare] [cloudflare] [104.18.11.213] [cloudflare] [62.954329ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://preview.sosovalue.com [403] [] [5045] [Attention Required! | Cloudflare] [cloudflare] [104.18.10.213] [cloudflare] [55.221099ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://sosovalue.com [403] [] [5681] [Just a moment...] [cloudflare] [104.18.10.213] [cloudflare] [76.990599ms] [Cloudflare,Cloudflare Bot Management]
+https://www.sosovalue.com [403] [] [5663] [Just a moment...] [cloudflare] [104.18.10.213] [cloudflare] [52.014559ms] [Cloudflare,Cloudflare Bot Management]
+https://static.sosovalue.com [403] [] [385] [cloudflare] [104.18.11.213] [cloudflare] [957.879701ms] [Alibaba Cloud Object Storage Service,Cloudflare]
+
+## 404
+https://cg-price-cache.seamlessprotocol.com [404] [] [68] [cloudflare] [104.26.4.243] [cloudflare] [122.652092ms] [Cloudflare]
+https://index.sosovalue.com [404] [] [162] [404 Not Found] [nginx/1.24.0 (Ubuntu)] [52.198.201.209] [582.238112ms] [Nginx:1.24.0,Ubuntu]
+
+## 500
+https://misc-cache.seamlessprotocol.com [500] [] [17] [cloudflare] [172.67.69.101] [cloudflare] [84.559486ms] [Cloudflare]
+
+## 502
+https://pushws.sosovalue.com [502] [] [16] [cloudflare] [104.18.11.213] [cloudflare] [323.806289ms] [Cloudflare]
+
+## 503
+
