@@ -1,0 +1,8 @@
+http://staging.beta.arrakis.finance [308] [https://staging.beta.arrakis.finance/] [14] [cloudflare] [104.26.12.65] [cloudflare] [205.518914ms] [Cloudflare]
+https://www.arrakis.finance [308] [https://arrakis.finance/] [60] [Framer/89e8012] [31.43.161.6] [282.538085ms] [Framer Sites,HSTS,HTTP/3,React]
+http://www.legacy.arrakis.finance [308] [https://www.legacy.arrakis.finance/] [14] [cloudflare] [104.26.12.65] [cloudflare] [181.716133ms] [Cloudflare]
+http://www.beta.arrakis.finance [308] [https://www.beta.arrakis.finance/] [14] [cloudflare] [172.67.68.87] [cloudflare] [187.954314ms] [Cloudflare]
+http://www.app.arrakis.finance [308] [https://www.app.arrakis.finance/] [14] [cloudflare] [172.67.68.87] [cloudflare] [359.071785ms] [Cloudflare]
+http://staging.hot-ui.arrakis.finance [308] [https://staging.hot-ui.arrakis.finance/] [14] [cloudflare] [172.67.68.87] [cloudflare] [384.495169ms] [Cloudflare]
+https://docs.arrakis.finance [308] [/arrakis-pro] [107725] [cloudflare] [104.26.12.65] [cloudflare] [211.712694ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+http://wildcard.arcadia.finance [308] [https://wildcard.arcadia.finance/] [14] [Vercel] [216.150.16.1] [355.388829ms] [Vercel]

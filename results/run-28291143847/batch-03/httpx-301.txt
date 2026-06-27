@@ -1,0 +1,2 @@
+http://notification.staging.api.arcadia.finance [301] [https://notification.staging.api.arcadia.finance/] [665] [301 Moved Permanently] [cloudflare] [104.26.10.44] [cloudflare] [24.077787ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://producer.staging.api.arcadia.finance [301] [https://producer.staging.api.arcadia.finance/] [665] [301 Moved Permanently] [cloudflare] [104.26.10.44] [cloudflare] [25.130785ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]

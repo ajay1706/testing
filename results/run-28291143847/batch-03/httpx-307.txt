@@ -1,0 +1,5 @@
+https://mini-app.arcadia.finance [307] [/pools] [15] [Vercel] [216.150.1.129] [308.655467ms] [HSTS,Vercel]
+https://notification.api.arcadia.finance [307] [/static/index.html] [0] [cloudflare] [104.26.11.44] [cloudflare] [330.444219ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS,HTTP/3]
+https://api.arcadia.finance [307] [/static/index.html] [0] [cloudflare] [104.26.10.44] [cloudflare] [621.964012ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS,HTTP/3]
+https://pro.arcadia.finance [307] [https://foundry.arcadia.finance/] [15] [Vercel] [216.150.1.193] [413.653027ms] [HSTS,Vercel]
+https://producer.api.arcadia.finance [307] [/static/index.html] [0] [cloudflare] [104.26.10.44] [cloudflare] [593.841202ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS,HTTP/3]
