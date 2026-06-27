@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://airflow.ratex.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.explorer.testnet.ondo.finance/metrics
+[prometheus-metrics] [http] [medium] https://api.hc.jpool.one/metrics
