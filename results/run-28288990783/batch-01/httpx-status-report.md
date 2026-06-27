@@ -1,0 +1,50 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 12:21:58 UTC 2026
+
+HTTPX lines: 23
+Live URLs: 23
+
+## 200
+https://dfdv.xyz [200] [] [114] [] [13.248.169.48] [42.08359ms]
+http://www.dfdv.xyz [200] [] [114] [] [13.248.169.48] [6.974657ms]
+https://admin.defituna.com [200] [] [1146] [DeFiTuna Admin] [cloudflare] [104.20.33.65] [cloudflare] [275.315603ms] [Cloudflare,Cloudflare Browser Insights]
+https://defituna.com [200] [] [18873] [DeFiTuna] [cloudflare] [172.66.156.209] [cloudflare] [73.325422ms] [Cloudflare,Cloudflare Browser Insights]
+https://preview.defituna.com [200] [] [18873] [DeFiTuna] [cloudflare] [104.20.33.65] [cloudflare] [89.830895ms] [Cloudflare,Cloudflare Browser Insights]
+https://v1.defituna.com [200] [] [8902] [DeFiTuna] [cloudflare] [172.66.156.209] [cloudflare] [164.456991ms] [Cloudflare,Cloudflare Browser Insights]
+https://unstable.defituna.com [200] [] [18873] [DeFiTuna] [cloudflare] [104.20.33.65] [cloudflare] [194.724417ms] [Cloudflare,Cloudflare Browser Insights]
+https://docs.defituna.com [200] [] [348385] [Introducing DefiTuna | DefiTuna] [cloudflare] [172.64.147.209] [cloudflare] [153.450536ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+
+## 302
+https://test.defituna.com [302] [https://liquid-lama-pages.cloudflareaccess.com/cdn-cgi/access/login/test.defituna.com?kid=86b11242bac425e98bbee857f160e5878fe85aae0cd1e4fa876148da1e321410&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImMwZTFmMTA5MjFhY2U4MTZkYjdmYTE4Y2M0NWI1NTIwOTU0Y2Q5OTc3ZDE3MTY3NjFlYzBlNDA1NGEyZDNiZWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6Ijg2YjExMjQyYmFjNDI1ZTk4YmJlZTg1N2YxNjBlNTg3OGZlODVhYWUwY2QxZTRmYTg3NjE0OGRhMWUzMjE0MTAiLCJob3N0bmFtZSI6InRlc3QuZGVmaXR1bmEuY29tIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3ODI1NjMxOTgsIm5iZiI6MTc4MjU2Mjg5OCwiaWF0IjoxNzgyNTYyODk4LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiZjlmNzdhNDVkZjhhN2QyMjNjNTcyNmExMzE4ZTg2NjM4MWUzMzdiMjgzZWM4Yjc5YTJhZWYxYWY3NjM3MjMxMSJ9.U8ZYD_NatLno34sW7D8ib5DuhQ9m6WUhy6bE-FvskceGdlFUTUdU0E_wKKnv2dObnWpSJeyzy2tn1m_cRmoS2Teu65YvEq0Iu2s5pB-l9LPGP9J2xyi0r7xWi6Oe1s5EHd6kWLX4d-im-XIVG65eVD6DFbL6g9uH6r64gZaoXm2Y-L4gUIW7kQT-h1hhhqWN0Gw6riGIEoTWqvKUMOsDozWjlUlSWww-AoOuiMaFAm8JaGFdWxbTxR3S5SfN7n3ZroKx0CId4W-TPtmu7tzy9Uu6WzCM_Pzwa9Ka5W1uf4noRy4ddr5HUzTA0PWKIRSM155kZAn9x958wYc6rlNSPg&redirect_url=%2F] [641] [302 Found] [cloudflare] [104.20.33.65] [cloudflare] [43.069903ms] [Cloudflare,Cloudflare Browser Insights]
+https://sentry.defituna.com [302] [/auth/login/] [0] [cloudflare] [104.20.33.65] [cloudflare] [490.097478ms] [Cloudflare]
+https://grafana.defituna.com [302] [/login] [29] [cloudflare] [172.66.156.209] [cloudflare] [505.230727ms] [Cloudflare]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://helius-rpc.defituna.com [404] [] [70] [cloudflare] [104.20.33.65] [cloudflare] [71.974626ms] [Cloudflare]
+https://api.defituna.com [404] [] [0] [cloudflare] [172.66.156.209] [cloudflare] [74.158638ms] [Cloudflare]
+https://metadata.defituna.com [404] [] [0] [cloudflare] [172.66.156.209] [cloudflare] [76.514908ms] [Cloudflare]
+https://jupiter.defituna.com [404] [] [0] [cloudflare] [172.66.156.209] [cloudflare] [112.930998ms] [Cloudflare]
+https://embed.defituna.com [404] [] [22] [cloudflare] [172.66.156.209] [cloudflare] [255.805349ms] [Cloudflare]
+https://tokens-unstable.static.defituna.com [404] [] [27648] [Not Found] [cloudflare] [172.66.156.209] [cloudflare] [194.201514ms] [Cloudflare,Cloudflare Browser Insights]
+https://api-dev.defituna.com [404] [] [0] [cloudflare] [172.66.156.209] [cloudflare] [535.309432ms] [Cloudflare]
+https://tokens-eu.static.defituna.com [404] [] [27648] [Not Found] [cloudflare] [172.66.156.209] [cloudflare] [315.213366ms] [Cloudflare,Cloudflare Browser Insights]
+https://tokens.static.defituna.com [404] [] [27648] [Not Found] [cloudflare] [104.20.33.65] [cloudflare] [284.928397ms] [Cloudflare,Cloudflare Browser Insights]
+https://tokens-us.static.defituna.com [404] [] [27648] [Not Found] [cloudflare] [104.20.33.65] [cloudflare] [231.113338ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 500
+
+## 502
+
+## 503
+
