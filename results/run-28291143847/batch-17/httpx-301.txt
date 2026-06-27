@@ -1,0 +1,3 @@
+https://www.mint.club [301] [https://mint.club/] [162] [301 Moved Permanently] [nginx] [35.160.151.180] [390.071381ms] [Nginx]
+http://dev-testing.moonwell.fi [301] [https://dev-testing.moonwell.fi/] [665] [301 Moved Permanently] [cloudflare] [104.20.18.31] [cloudflare] [40.472812ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://snapshot-apollo.moonwell.fi [301] [https://snapshot-apollo.moonwell.fi/] [51] [Netlify] [98.84.224.111] [57.165627ms] [Netlify]
