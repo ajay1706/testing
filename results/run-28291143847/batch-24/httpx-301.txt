@@ -1,0 +1,4 @@
+https://blog.spark.fi [301] [https://mirror.xyz/0x52A8305f29f85bEc5fa6eE78B87Ddd2218d8E12E] [167] [301 Moved Permanently] [cloudflare] [104.20.23.197] [cloudflare] [65.481605ms] [Cloudflare]
+https://devs.spark.fi [301] [https://docs.spark.fi/dev/] [167] [301 Moved Permanently] [cloudflare] [104.20.23.197] [cloudflare] [82.190168ms] [Cloudflare]
+https://www.spark.fi [301] [https://spark.fi/] [167] [301 Moved Permanently] [cloudflare] [172.66.148.83] [cloudflare] [444.716828ms] [Cloudflare]
+http://help.spectra.finance [301] [https://help.spectra.finance/] [162] [301 Moved Permanently] [nginx] [172.65.251.114] [cloudflare] [474.478302ms] [Nginx]
