@@ -1,0 +1,7 @@
+https://eu.rpc.fluxbeam.xyz [401] [] [27] [nginx] [164.92.211.56] [295.762042ms] [Nginx]
+https://eu.shield.rpc.fluxbeam.xyz [401] [] [27] [nginx] [164.92.211.56] [315.822955ms] [Nginx]
+https://eu.rpc.fogo.fluxbeam.xyz [401] [] [27] [nginx] [164.92.253.237] [317.78055ms] [HTTP/3,Nginx]
+https://us.rpc.fluxbeam.xyz [401] [] [27] [nginx] [161.35.15.9] [183.750759ms] [Nginx]
+https://zk-testnet.helius.dev [401] [] [176] [401 Authorization Required] [nginx] [208.91.111.247] [122.198067ms] [Nginx]
+https://shield.data.fogo.fluxbeam.xyz [401] [] [27] [nginx] [159.89.22.252] [362.903322ms] [Nginx]
+https://shield.data.fluxbeam.xyz [401] [] [27] [nginx] [206.189.96.54] [378.322428ms] [Nginx]

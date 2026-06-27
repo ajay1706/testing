@@ -1,0 +1,98 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 12:22:50 UTC 2026
+
+HTTPX lines: 75
+Live URLs: 75
+
+## 200
+https://kitchen.helius.dev [200] [] [1313] [The Kitchen] [Vercel] [76.76.21.123] [69.331016ms] [HSTS,Vercel]
+https://old.dashboard.helius.dev [200] [] [2059] [Helius - The Developer Platform for Solana] [Vercel] [76.76.21.21] [181.23076ms] [HSTS,Vercel]
+https://airship.helius.dev [200] [] [455] [Helius AirShip] [Vercel] [76.76.21.241] [239.652822ms] [HSTS,Vercel]
+https://pay.helius.dev [200] [] [72] [uvicorn] [34.117.94.145] [google] [179.710283ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,Uvicorn]
+https://bouncer.fluxbeam.xyz [200] [] [0] [nginx/1.18.0] [165.232.102.2] [278.035504ms] [Nginx:1.18.0]
+https://bot.fluxbeam.xyz [200] [] [0] [nginx/1.22.1] [138.68.164.161] [282.965747ms] [Nginx:1.22.1]
+https://galleria.helius.dev [200] [] [10025] [Galleria] [Vercel] [66.33.60.35] [221.518315ms] [HSTS,Vercel]
+https://login-api.helius.dev [200] [] [2] [cloudflare] [104.18.35.233] [cloudflare] [317.646969ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://bot.fogo.fluxbeam.xyz [200] [] [0] [nginx] [159.89.22.252] [323.324065ms] [Nginx]
+https://dashboard.helius.dev [200] [] [28980] [Helius] [Vercel] [76.76.21.21] [149.531744ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://fluxbeam.xyz [200] [] [4773] [FluxBeam] [nginx] [164.90.195.154] [300.567565ms] [Bootstrap:5.1.3,Cloudflare,Google Analytics,Nginx,Node.js,Socket.io,cdnjs,jsDelivr]
+https://photon.helius.dev [200] [] [14020] [Home | Photon - Solana ZK Compression Explorer] [Vercel] [66.33.60.130] [183.114572ms] [HSTS,Vercel]
+https://security.helius.dev [200] [] [3923] [Helius Trust Center] [cloudflare] [104.18.27.175] [cloudflare] [443.747758ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://staging.fluxbeam.xyz [200] [] [4773] [FluxBeam] [nginx] [164.90.195.154] [353.823804ms] [Bootstrap:5.1.3,Cloudflare,Google Analytics,Nginx,Node.js,Socket.io,cdnjs,jsDelivr]
+https://www.kitchen.helius.dev [200] [] [1313] [The Kitchen] [Vercel] [76.76.21.93] [534.993955ms] [HSTS,Vercel]
+https://www.fluxbeam.xyz [200] [] [4773] [FluxBeam] [nginx] [164.90.195.154] [334.460069ms] [Bootstrap:5.1.3,Cloudflare,Google Analytics,Nginx,Node.js,Socket.io,cdnjs,jsDelivr]
+https://demo.helius.dev [200] [] [94560] [How to Build on Solana | Working Code Examples] [Vercel] [216.150.16.1] [123.494248ms] [HSTS,Vercel]
+https://transfers-demo.helius.dev [200] [] [21611] [Transfers API Tester] [Vercel] [216.150.16.193] [345.362098ms] [HSTS,Vercel]
+https://fogo.fluxbeam.xyz [200] [] [4886] [FluxBeam] [Netlify] [98.84.224.111] [965.048745ms] [Bootstrap:5.1.3,Cloudflare,Google Analytics,HSTS,Netlify,Node.js,Socket.io,cdnjs,jsDelivr]
+https://docs.fluxbeam.xyz [200] [] [337717] [About FluxBeam | FluxBeam DEX] [cloudflare] [172.64.147.209] [cloudflare] [420.694089ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://www.helius.dev [200] [] [698480] [Helius - Solana's Leading RPC and API Platform] [Vercel] [76.76.21.21] [544.851288ms] [HSTS,Linkedin Ads,Vercel]
+
+## 301
+https://dashboard-beta.helius.dev [301] [https://dashboard.helius.dev/] [15] [Vercel] [216.150.1.193] [192.929969ms] [HSTS,Vercel]
+http://rpc.fluxbeam.xyz [301] [https://rpc.fluxbeam.xyz/] [40] [Netlify] [98.84.224.111] [93.111091ms] [Netlify]
+http://dashboard.fluxbeam.xyz [301] [https://dashboard.fluxbeam.xyz/] [46] [Netlify] [18.208.88.157] [15.494441ms] [Netlify]
+
+## 302
+
+## 307
+https://login.helius.dev [307] [https://login-api.helius.dev/user_management/initiate_login?context=&client_id=client_01KHS93JRWX6WF6A184XZHFVT8] [84652] [Sign in] [cloudflare] [172.64.152.23] [cloudflare] [587.032234ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+
+## 308
+https://docs.helius.dev [308] [https://www.helius.dev/docs] [15] [Vercel] [76.76.21.21] [99.116718ms] [HSTS,Vercel]
+https://helius.dev [308] [https://www.helius.dev/] [15] [Vercel] [76.76.21.21] [136.3424ms] [HSTS,Vercel]
+
+## 401
+https://eu.rpc.fluxbeam.xyz [401] [] [27] [nginx] [164.92.211.56] [295.762042ms] [Nginx]
+https://eu.shield.rpc.fluxbeam.xyz [401] [] [27] [nginx] [164.92.211.56] [315.822955ms] [Nginx]
+https://eu.rpc.fogo.fluxbeam.xyz [401] [] [27] [nginx] [164.92.253.237] [317.78055ms] [HTTP/3,Nginx]
+https://us.rpc.fluxbeam.xyz [401] [] [27] [nginx] [161.35.15.9] [183.750759ms] [Nginx]
+https://zk-testnet.helius.dev [401] [] [176] [401 Authorization Required] [nginx] [208.91.111.247] [122.198067ms] [Nginx]
+https://shield.data.fogo.fluxbeam.xyz [401] [] [27] [nginx] [159.89.22.252] [362.903322ms] [Nginx]
+https://shield.data.fluxbeam.xyz [401] [] [27] [nginx] [206.189.96.54] [378.322428ms] [Nginx]
+
+## 403
+
+## 404
+https://auth.helius.dev [404] [] [37] [cloudflare] [104.18.38.10] [cloudflare] [90.278922ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://bot-api.fluxbeam.xyz [404] [] [52] [nginx/1.22.1] [138.68.164.161] [268.425106ms] [Nginx:1.22.1]
+https://e367be4336f7.fluxbeam.xyz [404] [] [63] [nginx/1.22.1] [138.68.164.161] [271.923857ms] [Nginx:1.22.1]
+https://api.dashboard.fluxbeam.xyz [404] [] [18] [nginx/1.22.1] [188.166.151.214] [277.741631ms] [Nginx:1.22.1]
+https://api.fluxbeam.xyz [404] [] [52] [nginx/1.18.0] [165.232.102.2] [282.357766ms] [Nginx:1.18.0]
+https://bonk-api.fluxbeam.xyz [404] [] [52] [nginx/1.18.0] [165.232.102.2] [282.69676ms] [Nginx:1.18.0]
+https://auth.fluxbeam.xyz [404] [] [18] [nginx/1.22.1] [188.166.151.214] [291.617313ms] [Nginx:1.22.1]
+https://gateway.fluxbeam.xyz [404] [] [16] [nginx/1.22.1] [161.35.156.159] [315.439554ms] [Nginx:1.22.1]
+https://leaderboard.fluxbeam.xyz [404] [] [18] [nginx/1.22.1] [159.223.6.21] [315.048173ms] [Nginx:1.22.1]
+https://bot-api.fogo.fluxbeam.xyz [404] [] [52] [nginx] [159.89.22.252] [316.099402ms] [Nginx]
+https://api.fogo.fluxbeam.xyz [404] [] [52] [nginx] [159.89.22.252] [323.002071ms] [Nginx]
+https://launch.fogo.fluxbeam.xyz [404] [] [12] [nginx] [159.89.22.252] [341.796682ms] [Nginx]
+https://data.fogo.fluxbeam.xyz [404] [] [52] [nginx] [159.89.22.252] [342.430898ms] [Nginx]
+https://data.fluxbeam.xyz [404] [] [52] [nginx] [206.189.96.54] [342.072904ms] [Nginx]
+http://preview.fluxbeam.xyz [404] [] [50] [Netlify] [98.84.224.111] [59.358568ms] [Netlify]
+https://admin.helius.dev [404] [] [107] [Vercel] [216.150.1.193] [373.23574ms] [HSTS,Vercel]
+https://sandbox.fluxbeam.xyz [404] [] [50] [Netlify] [98.84.224.111] [97.127416ms] [Netlify]
+https://gateway.fogo.fluxbeam.xyz [404] [] [16] [nginx] [159.89.22.252] [372.618ms] [Nginx]
+https://public.fluxbeam.xyz [404] [] [50] [Netlify] [18.208.88.157] [166.104912ms] [Netlify]
+http://wildcard.fluxbeam.xyz [404] [] [50] [Netlify] [98.84.224.111] [55.67555ms] [Netlify]
+https://pools.fluxbeam.xyz [404] [] [52] [nginx/1.22.1] [165.232.95.18] [360.067482ms] [Nginx:1.22.1]
+https://scratch.fluxbeam.xyz [404] [] [18] [nginx/1.22.1] [159.223.6.21] [319.274953ms] [Nginx:1.22.1]
+https://scratch.fogo.fluxbeam.xyz [404] [] [12] [nginx] [159.89.22.252] [353.718464ms] [Nginx]
+https://swap.fluxbeam.xyz [404] [] [63] [nginx/1.22.1] [138.68.164.161] [331.064599ms] [Nginx:1.22.1]
+https://swap.fogo.fluxbeam.xyz [404] [] [63] [nginx] [159.89.22.252] [345.166119ms] [Nginx]
+https://smartmoney.fluxbeam.xyz [404] [] [52] [nginx/1.22.1] [209.38.47.200] [373.695599ms] [Nginx:1.22.1]
+https://webhook.fluxbeam.xyz [404] [] [52] [nginx/1.22.1] [64.225.68.87] [373.920229ms] [Nginx:1.22.1]
+https://smartmoney.fogo.fluxbeam.xyz [404] [] [52] [nginx] [159.89.22.252] [413.221075ms] [Nginx]
+https://xray-alpha.helius.dev [404] [] [107] [Vercel] [66.33.60.34] [400.664587ms] [HSTS,Vercel]
+https://sso-setup.helius.dev [404] [] [0] [cloudflare] [172.64.152.23] [cloudflare] [760.935384ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://internal.fluxbeam.xyz [404] [] [50] [Netlify] [98.84.224.111] [13.859146ms] [Netlify]
+
+## 500
+
+## 502
+https://leaderboard.fogo.fluxbeam.xyz [502] [] [25] [nginx] [159.89.22.252] [295.355943ms] [Nginx]
+https://dev-bot.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.22.1] [159.223.9.115] [316.32535ms] [Nginx:1.22.1]
+https://pool-bot.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.22.1] [138.68.164.161] [295.85872ms] [Nginx:1.22.1]
+https://stats.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.18.0] [159.65.58.224] [339.888289ms] [Nginx:1.18.0]
+
+## 503
+
