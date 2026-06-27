@@ -1,0 +1,14 @@
+[+] Batch started: Sat Jun 27 13:59:22 UTC 2026
+[+] Run ID: 28291143847
+[+] Batch name: batch-13
+[+] Batch targets:
+harvest.finance
+hydrex.fi
+hyperlane.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Sat Jun 27 14:00:55 UTC 2026
+[+] HTTPX input count: 86
+[+] Running httpx...
+[+] httpx completed: Sat Jun 27 14:01:16 UTC 2026
+[+] httpx line count: 60
+[+] Batch completed: Sat Jun 27 14:01:16 UTC 2026
