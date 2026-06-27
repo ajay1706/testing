@@ -1,0 +1,64 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:17:05 UTC 2026
+
+HTTPX lines: 35
+Live URLs: 35
+
+## 200
+https://v1.hegic.co [200] [] [490] [Hegic: On-chain options trading protocol on Ethereum] [GitHub.com] [185.199.111.153] [135.443838ms] [Fastly,GitHub Pages,Varnish]
+https://test-worker.hyperlane.xyz [200] [] [2283] [Globe] [cloudflare] [172.67.195.135] [cloudflare] [89.670751ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://explorer.hyperlane.xyz [200] [] [15548] [Hyperlane Explorer] [Vercel] [66.33.60.129] [51.676079ms] [HSTS,Vercel]
+https://old.hegic.co [200] [] [6969] [Hegic: On-chain options trading protocol on Ethereum] [GitHub.com] [185.199.108.153] [155.510851ms] [Fastly,GitHub Pages,Varnish]
+https://play.hegic.co [200] [] [6967] [Hegic Playground: On-chain options trading protocol on Ethereum] [GitHub.com] [185.199.109.153] [179.53533ms] [Fastly,GitHub Pages,Varnish]
+https://swap.hegic.co [200] [] [6976] [Hegic Token Swap] [GitHub.com] [185.199.108.153] [206.92388ms] [Fastly,GitHub Pages,HSTS,Varnish]
+https://hardcore.hegic.co [200] [] [6945] [Hegic: On-chain options trading protocol on Ethereum] [GitHub.com] [185.199.108.153] [174.397456ms] [Fastly,GitHub Pages,Varnish]
+https://trump.hyperlane.xyz [200] [] [4672] [cloudflare] [172.67.195.135] [cloudflare] [246.571094ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel,dc.js]
+https://www.hegic.co [200] [] [7998] [Hegic: On-chain options trading protocol on Ethereum] [GitHub.com] [185.199.108.153] [298.460267ms] [Fastly,GitHub Pages,Varnish]
+https://grants.hyperlane.xyz [200] [] [14277] [HYPER Distribution Portal] [cloudflare] [172.67.195.135] [cloudflare] [132.643283ms] [C3.js,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://nexus.hyperlane.xyz [200] [] [9602] [cloudflare] [172.67.195.135] [cloudflare] [119.972079ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://www.hyperlane.xyz [200] [] [122447] [Hyperlane | Permissionless Interoperability for any Blockchain] [cloudflare] [198.202.211.1] [75.440485ms] [C3.js,Cloudflare,HSTS,HTTP/3,cdnjs,jQuery:3.5.1,jsDelivr]
+https://docs.hyperlane.xyz [200] [] [297307] [Introduction - Hyperlane Docs] [Vercel] [76.76.21.98] [176.482496ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://newsletter.hyperlane.xyz [200] [] [719161] [Home | THE SHIPPING LANE] [cloudflare] [104.16.23.120] [cloudflare] [716.774462ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+
+## 301
+https://explorer-v3.hyperlane.xyz [301] [https://explorer.hyperlane.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.195.135] [cloudflare] [33.942854ms] [Cloudflare,HSTS]
+https://explorer-v2.hyperlane.xyz [301] [https://explorer.hyperlane.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.195.135] [cloudflare] [41.266206ms] [Cloudflare,HSTS]
+https://renzo.hyperlane.xyz [301] [https://app.renzoprotocol.com/bridge] [167] [301 Moved Permanently] [cloudflare] [104.21.68.125] [cloudflare] [41.893574ms] [Cloudflare,HSTS]
+https://v3.hyperlane.xyz [301] [https://docs.hyperlane.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.68.125] [cloudflare] [28.676586ms] [Cloudflare,HSTS]
+https://v2.hyperlane.xyz [301] [https://docs.hyperlane.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.68.125] [cloudflare] [36.129237ms] [Cloudflare,HSTS]
+https://hyperlane.xyz [301] [https://www.hyperlane.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [174.145689ms] [Cloudflare,HSTS,HTTP/3]
+https://api.hyperlane.xyz [301] [https://cloud.hasura.io/project/0bcf94a2-3d2a-4544-aacc-9d7802b24640/console] [175] [301 Moved Permanently] [cloudflare] [104.18.19.8] [cloudflare] [343.677773ms] [Cloudflare,HSTS]
+http://goosedefi.com [301] [http://www.goosedefi.com] [59] [ip-10-124-4-192.us-west-2.compute.internal] [15.197.225.128] [196.049408ms]
+http://api.hegic.co [301] [https://api.hegic.co/] [185] [301 Moved Permanently] [nginx/1.14.2] [63.250.34.185] [1.148965957s] [Nginx:1.14.2]
+
+## 302
+http://hegic.co [302] [https://www.hegic.co] [43] [namecheap-nginx] [192.64.119.252] [89.795731ms] [Nginx]
+
+## 307
+
+## 308
+
+## 401
+https://proxy.hyperlane.xyz [401] [] [18] [cloudflare] [104.21.68.125] [cloudflare] [46.967415ms] [Cloudflare,HSTS,HTTP/3]
+https://staging.hyperlane.xyz [401] [] [18] [cloudflare] [104.21.68.125] [cloudflare] [54.88989ms] [Cloudflare,HSTS,HTTP/3]
+https://deploy.hyperlane.xyz [401] [] [13462] [Authentication Required] [Vercel] [66.33.60.194] [42.573616ms] [HSTS,Vercel]
+
+## 403
+
+## 404
+https://supply.hyperlane.xyz [404] [] [79] [cloudflare] [172.67.195.135] [cloudflare] [61.637372ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://offchain-lookup.services.hyperlane.xyz [404] [] [30] [] [34.8.53.88] [google] [103.158908ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js]
+https://jupiter-rfq-v1.hyperlane.xyz [404] [] [207] [404 Not Found] [gunicorn] [34.111.222.151] [google] [104.370579ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,gunicorn]
+https://router.services.hyperlane.xyz [404] [] [103] [] [34.120.65.152] [google] [127.16862ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://okx-solver.hyperlane.xyz [404] [] [74] [] [34.111.222.151] [google] [143.975002ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://data.services.hyperlane.xyz [404] [] [1630] [404 Not Found] [cloudflare] [172.67.195.135] [cloudflare] [127.139142ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://testnet-offchain-lookup.services.hyperlane.xyz [404] [] [30] [] [34.36.209.113] [google] [139.588063ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js]
+
+## 500
+
+## 502
+https://quoting.services.hyperlane.xyz [502] [] [332] [502 Server Error] [] [34.117.211.158] [google] [120.561504ms] [HTTP/3]
+
+## 503
+
