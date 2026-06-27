@@ -1,0 +1,8 @@
+https://staging.perp-api.phoenix.trade [404] [] [0] [] [98.83.68.111] [41.323589ms]
+https://stress-test.perp-api.phoenix.trade [404] [] [0] [] [44.198.0.69] [43.401668ms]
+https://perp-api.phoenix.trade [404] [] [0] [] [18.214.118.165] [48.44571ms]
+https://beta.perp-api.phoenix.trade [404] [] [0] [] [3.222.218.203] [50.901843ms]
+https://bilateral.port.finance [404] [] [9379] [Page not found · GitHub Pages] [GitHub.com] [185.199.108.153] [95.70667ms] [Fastly,GitHub Pages,Varnish]
+https://public-api.phoenix.trade [404] [] [0] [] [18.214.118.165] [382.221661ms]
+https://kati.phoenix.trade [404] [] [107] [Vercel] [64.239.109.65] [479.840655ms] [HSTS,Vercel]
+https://tyo.perp-api.phoenix.trade [404] [] [0] [] [52.194.129.23] [485.233672ms]
