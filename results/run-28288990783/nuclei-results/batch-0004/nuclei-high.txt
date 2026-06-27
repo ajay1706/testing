@@ -1,0 +1,4 @@
+[CVE-2025-55184] [http] [high] https://console.kaio.xyz/login
+[CVE-2025-55184] [http] [high] https://console.pre.kaio.xyz/login
+[CVE-2025-55184] [http] [high] https://console.stg.kaio.xyz/login
+[CVE-2026-27771] [http] [high] https://code-p9r.edgevana.com/v2/_catalog [""repositories":["max/pwned"]"]
