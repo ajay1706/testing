@@ -1,0 +1,4 @@
+https://dev.hyperliquid.magpiexyz.io [301] [https://www.dev.spinup.zone/] [0] [] [18.244.214.57] [cloudfront] [427.102928ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://hyperliquid.magpiexyz.io [301] [https://www.spinup.zone/] [0] [] [52.85.151.28] [cloudfront] [281.295538ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://www.lfj.gg [301] [https://lfj.gg/] [167] [301 Moved Permanently] [cloudflare] [104.20.38.131] [cloudflare] [299.641061ms] [Cloudflare,HSTS,HTTP/3]
+https://www.hyperliquid.magpiexyz.io [301] [https://www.spinup.zone/] [0] [] [52.85.151.28] [cloudfront] [618.433021ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
