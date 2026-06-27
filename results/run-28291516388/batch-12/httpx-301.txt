@@ -1,0 +1,7 @@
+https://dev.aera-api.gauntlet.xyz [301] [/docs] [39] [] [107.178.247.79] [google] [72.913055ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js]
+https://aera-api.gauntlet.xyz [301] [/docs] [39] [] [136.110.138.169] [google] [137.894219ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js]
+https://docs.gmx.io [200] [] [301] [cloudflare] [172.66.159.224] [cloudflare] [189.158867ms] [Cloudflare]
+https://gauntlet.xyz [301] [https://www.gauntlet.xyz/] [664] [301 Moved Permanently] [cloudflare] [104.18.19.13] [cloudflare] [128.737864ms] [Cloudflare,Cloudflare Browser Insights]
+https://preview.docs.gauntlet.xyz [301] [https://docs.gauntlet.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.18.19.13] [cloudflare] [80.768974ms] [Cloudflare]
+https://staging.aera-api.gauntlet.xyz [301] [/docs] [39] [] [34.149.159.221] [google] [133.733848ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js]
+https://www.gammaswap.com [301] [https://gammaswap.com/] [15] [Vercel] [216.150.1.193] [403.474514ms] [HSTS,Vercel]

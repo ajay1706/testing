@@ -1,0 +1,14 @@
+[+] Batch started: Sat Jun 27 14:14:04 UTC 2026
+[+] Run ID: 28291516388
+[+] Batch name: batch-12
+[+] Batch targets:
+gammaswap.com
+gauntlet.xyz
+gmx.io
+[+] Running subfinder...
+[+] Subfinder completed: Sat Jun 27 14:15:36 UTC 2026
+[+] HTTPX input count: 123
+[+] Running httpx...
+[+] httpx completed: Sat Jun 27 14:15:57 UTC 2026
+[+] httpx line count: 84
+[+] Batch completed: Sat Jun 27 14:15:57 UTC 2026
