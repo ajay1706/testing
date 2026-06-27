@@ -1,0 +1,3 @@
+https://lazy.summer.fi [301] [https://summer.fi/] [0] [AmazonS3] [13.249.74.116] [cloudfront] [53.032348ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://chat.summer.fi [301] [https://discord.gg/nBrcxUsjmJ] [0] [CloudFront] [108.139.10.7] [cloudfront] [85.259148ms] [Amazon CloudFront,Amazon Web Services]
+https://steer.finance [301] [https://www.steer.finance/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [604.057849ms] [Cloudflare,HSTS,HTTP/3]

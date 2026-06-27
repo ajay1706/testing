@@ -1,0 +1,7 @@
+https://aladdin-dev.steakhouse.financial [404] [] [22] [uvicorn] [3.230.133.114] [283.378571ms] [HSTS,Python,Uvicorn]
+https://api.steer.finance [404] [] [23] [] [18.244.214.77] [cloudfront] [357.860387ms] [Amazon CloudFront,Amazon Web Services]
+https://aladdin.steakhouse.financial [404] [] [22] [uvicorn] [3.225.24.247] [420.055975ms] [HSTS,Python,Uvicorn]
+https://gateway.staging.summer.fi [404] [] [23] [] [63.184.8.134] [553.045442ms]
+https://gateway.summer.fi [404] [] [23] [] [35.158.47.150] [552.92706ms]
+https://api.steakhouse.financial [404] [] [207] [404 Not Found] [Caddy gunicorn] [167.99.188.161] [868.711883ms] [HSTS,HTTP/3,Python,gunicorn]
+http://ftp.steakhouse.financial [404] [] [107] [Vercel] [216.150.1.1] [866.477445ms] [Vercel]
