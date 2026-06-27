@@ -1,0 +1,14 @@
+[+] Batch started: Sat Jun 27 13:57:41 UTC 2026
+[+] Run ID: 28291143847
+[+] Batch name: batch-09
+[+] Batch targets:
+ethos.network
+euler.finance
+exactly.finance
+[+] Running subfinder...
+[+] Subfinder completed: Sat Jun 27 13:59:26 UTC 2026
+[+] HTTPX input count: 174
+[+] Running httpx...
+[+] httpx completed: Sat Jun 27 13:59:46 UTC 2026
+[+] httpx line count: 103
+[+] Batch completed: Sat Jun 27 13:59:46 UTC 2026
