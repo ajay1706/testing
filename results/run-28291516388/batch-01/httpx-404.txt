@@ -1,0 +1,6 @@
+https://testnet-faucet.aevo.xyz [404] [] [79] [Vercel] [76.76.21.22] [146.525397ms] [HSTS,Vercel]
+https://otc.aevo.xyz [404] [] [107] [Vercel] [66.33.60.130] [333.372444ms] [HSTS,Vercel]
+https://degen.aevo.xyz [404] [] [107] [Vercel] [66.33.60.194] [343.313611ms] [HSTS,Vercel]
+https://governance.aevo.xyz [404] [] [107] [Vercel] [76.76.21.22] [381.84271ms] [HSTS,Vercel]
+https://degen-testnet.aevo.xyz [404] [] [107] [Vercel] [76.76.21.164] [557.89084ms] [HSTS,Vercel]
+https://admin-api-testnet.aevo.xyz [404] [] [19] [] [54.248.49.183] [797.213615ms]

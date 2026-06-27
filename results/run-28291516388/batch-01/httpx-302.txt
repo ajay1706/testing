@@ -1,0 +1,2 @@
+https://support.antarctic.exchange [302] [https://support.antarctic.exchange/en/] [0] [cloudflare] [172.64.150.18] [cloudflare] [101.392135ms] [Cloudflare,HSTS]
+https://api-docs.aevo.xyz [302] [/reference] [32] [cloudflare] [104.16.242.118] [cloudflare] [214.025373ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
