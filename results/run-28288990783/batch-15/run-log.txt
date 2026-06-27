@@ -1,0 +1,14 @@
+[+] Batch started: Sat Jun 27 12:30:03 UTC 2026
+[+] Run ID: 28288990783
+[+] Batch name: batch-15
+[+] Batch targets:
+ratex.ai
+raydium.io
+risechain.com
+[+] Running subfinder...
+[+] Subfinder completed: Sat Jun 27 12:31:14 UTC 2026
+[+] HTTPX input count: 121
+[+] Running httpx...
+[+] httpx completed: Sat Jun 27 12:31:35 UTC 2026
+[+] httpx line count: 81
+[+] Batch completed: Sat Jun 27 12:31:35 UTC 2026
