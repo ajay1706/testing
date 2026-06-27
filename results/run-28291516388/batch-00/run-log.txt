@@ -1,0 +1,14 @@
+[+] Batch started: Sat Jun 27 14:07:30 UTC 2026
+[+] Run ID: 28291516388
+[+] Batch name: batch-00
+[+] Batch targets:
+aave.com
+abracadabra.money
+acryptos.com
+[+] Running subfinder...
+[+] Subfinder completed: Sat Jun 27 14:08:51 UTC 2026
+[+] HTTPX input count: 1126
+[+] Running httpx...
+[+] httpx completed: Sat Jun 27 14:10:58 UTC 2026
+[+] httpx line count: 82
+[+] Batch completed: Sat Jun 27 14:10:58 UTC 2026
