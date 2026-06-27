@@ -1,0 +1,124 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:15:36 UTC 2026
+
+HTTPX lines: 97
+Live URLs: 97
+
+## 200
+https://backoffice.onyx.enzyme.finance [200] [] [1373] [Enzyme Onyx - Back Office] [cloudflare] [104.20.42.94] [cloudflare] [44.84123ms] [Cloudflare,HSTS,HTTP/3]
+https://admin.onyx.enzyme.finance [200] [] [1794] [Enzyme Onyx - Admin] [cloudflare] [104.20.42.94] [cloudflare] [66.838557ms] [Cloudflare,HSTS,HTTP/3]
+https://app.enzyme.finance [200] [] [3192] [Enzyme] [cloudflare] [104.20.42.94] [cloudflare] [84.532615ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://estateprotocol.xyz [200] [] [114] [] [76.223.54.146] [106.117412ms]
+https://create.euler.finance [200] [] [2088] [EVK Vault Manager] [cloudflare] [104.18.12.35] [cloudflare] [286.343888ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://batchviz.euler.finance [200] [] [1942] [EVC Batch Viz] [cloudflare] [104.18.13.35] [cloudflare] [331.504405ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://43114-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [437.048019ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://1923-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [436.439422ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://130-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [450.960946ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://80094-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [452.14581ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://59144-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [451.109667ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://42161-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [455.959042ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://8453-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [455.870746ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://146-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [451.490817ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://1-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [451.88852ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://9745-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [476.244091ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://data.euler.finance [200] [] [12] [cloudflare] [104.18.13.35] [cloudflare] [478.396631ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://60808-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [479.044496ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://devlb.euler.finance [200] [] [12] [cloudflare] [104.18.13.35] [cloudflare] [481.674676ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://143-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [510.203723ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://239-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [575.52262ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://app.euler.finance [200] [] [6741] [Euler Finance] [cloudflare] [104.18.12.35] [cloudflare] [451.044084ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vue.js]
+https://docs.euler.finance [200] [] [23687] [Euler Docs] [cloudflare] [104.18.12.35] [cloudflare] [59.798829ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://gdata.euler.finance [200] [] [12] [cloudflare] [104.18.12.35] [cloudflare] [520.050126ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://56-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [689.294763ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://maglev-dev.euler.finance [200] [] [1878] [Euler Maglev] [cloudflare] [104.18.13.35] [cloudflare] [165.328107ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://base.euler.finance [200] [] [6654] [Euler Finance] [cloudflare] [104.18.12.35] [cloudflare] [703.711146ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vue.js]
+https://healthdata-base.euler.finance [200] [] [12] [cloudflare] [104.18.13.35] [cloudflare] [546.817563ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://liquidations.euler.finance [200] [] [2403] [EulerV2 Risk Dashboard] [cloudflare] [104.18.12.35] [cloudflare] [320.428886ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://maglev.euler.finance [200] [] [1878] [Euler Maglev] [cloudflare] [104.18.12.35] [cloudflare] [380.301496ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://indexer-prod.euler.finance [200] [] [8008] [Euler Data API] [cloudflare] [104.18.13.35] [cloudflare] [543.227735ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://earn.euler.finance [200] [] [33203] [Euler vault creator] [cloudflare] [104.18.12.35] [cloudflare] [272.602132ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://indexer-main.euler.finance [200] [] [7826] [Euler Data API] [cloudflare] [104.18.12.35] [cloudflare] [649.645369ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://redemptions.euler.finance [200] [] [4056] [Euler Redemptions] [cloudflare] [104.18.13.35] [cloudflare] [190.667099ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://rpc.euler.finance [200] [] [616] [cloudflare] [104.18.13.35] [cloudflare] [278.777772ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://rpc3.euler.finance [200] [] [616] [cloudflare] [104.18.12.35] [cloudflare] [288.439395ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://rpc2.euler.finance [200] [] [616] [cloudflare] [104.18.13.35] [cloudflare] [295.572325ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://shop.enzyme.finance [200] [] [1958] [AmazonS3] [3.171.76.17] [cloudfront] [232.062409ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics,HSTS,dc.js]
+https://status.enzyme.finance [200] [] [3428] [Enzyme] [nginx] [34.46.46.16] [google] [254.651538ms] [Google Tag Manager,Nginx]
+https://sdk.enzyme.finance [200] [] [17198] [Enzyme Finance] [GitHub.com] [185.199.111.153] [193.037383ms] [Fastly,GitHub Pages,React,Varnish]
+https://dhst-lh.user.onyx.enzyme.finance [200] [] [27449] [Diaspar Holdings Strategic Trust] [cloudflare] [172.66.167.155] [cloudflare] [1.380145746s] [Cloudflare,HSTS,HTTP/3]
+https://www.estateprotocol.xyz [200] [] [114] [] [76.223.54.146] [218.731249ms]
+https://wood.enzyme.finance [200] [] [306] [Custom domain check] [] [188.165.50.182] [418.690543ms] [HTTP/3]
+https://swap.euler.finance [200] [] [4523] [Swagger UI] [cloudflare] [104.18.13.35] [cloudflare] [554.736756ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Swagger UI]
+https://swap-dev.euler.finance [200] [] [4523] [Swagger UI] [cloudflare] [104.18.12.35] [cloudflare] [651.59708ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Swagger UI]
+https://euler.finance [200] [] [220270] [Home - Euler Finance] [cloudflare] [104.18.13.35] [cloudflare] [108.282034ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://enzyme.finance [200] [] [123111] [The global infrastructure for tokenized finance] [cloudflare] [198.202.211.1] [64.0387ms] [Cloudflare,Google Analytics,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://forum.euler.finance [200] [] [256476] [Euler Governance Forum] [nginx] [216.66.8.43] [246.423476ms] [Discourse:2026.6.0,HSTS,Nginx,Ruby on Rails]
+https://www.euler.finance [200] [] [220270] [Home - Euler Finance] [cloudflare] [104.18.12.35] [cloudflare] [225.975707ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://www.enzyme.finance [200] [] [123115] [The global infrastructure for tokenized finance] [cloudflare] [198.202.211.1] [166.27565ms] [Cloudflare,Google Analytics,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://www.legacy.euler.finance [200] [] [152796] [Euler Finance] [cloudflare] [104.18.12.35] [cloudflare] [589.744155ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,dc.js]
+https://www.app.euler.finance [200] [] [152796] [Euler Finance] [cloudflare] [104.18.12.35] [cloudflare] [982.773547ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,dc.js]
+https://diva.enzyme.finance [200] [] [426530] [Diva Staking] [Framer/89e8012] [31.43.160.6] [81.496919ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React]
+https://docs.enzyme.finance [200] [] [461226] [Introduction | Enzyme Documentation] [cloudflare] [104.18.40.47] [cloudflare] [109.073757ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://specs.enzyme.finance [200] [] [294459] [Intro | Enzyme General Spec (v4)] [cloudflare] [104.18.40.47] [cloudflare] [663.02325ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://blog.euler.finance [301] [https://euler.finance/blog] [665] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [33.607075ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://discord.euler.finance [301] [https://discord.gg/euler-labs] [167] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [26.637984ms] [Cloudflare,HSTS]
+https://docs-v1.euler.finance [301] [https://docs.euler.finance/] [665] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [31.146436ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://euler-lite.euler.finance [301] [https://app.euler.finance] [665] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [58.87697ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://explorer.euler.finance [301] [https://app.euler.finance/] [665] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [107.120874ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://institutional.euler.finance [301] [https://app.euler.finance/] [167] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [126.607899ms] [Cloudflare,HSTS]
+https://legacy.euler.finance [301] [https://app.euler.finance] [665] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [152.510165ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://manager.onyx.enzyme.finance [301] [https://admin.onyx.enzyme.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.167.155] [cloudflare] [204.998935ms] [Cloudflare,HSTS,HTTP/3]
+https://open-interest.euler.finance [301] [https://open-interest.euler.finance/open-interest] [665] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [113.291619ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://newsletter.euler.finance [301] [https://euler.finance] [665] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [157.136992ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://oracles.euler.finance [301] [/1] [0] [cloudflare] [104.18.12.35] [cloudflare] [271.90978ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.oracles.euler.finance [301] [/1] [0] [cloudflare] [104.18.12.35] [cloudflare] [341.200612ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+http://governance.euler.finance [301] [https://governance.euler.finance/] [665] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [11.44225ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+
+## 302
+https://audit.enzyme.finance [302] [https://github.com/enzymefinance/protocol/tree/v4/audits] [143] [302 Found] [cloudflare] [104.20.42.94] [cloudflare] [34.449ms] [Cloudflare,HSTS,HTTP/3]
+https://contracts.enzyme.finance [302] [https://docs.enzyme.finance/general-info/codebase/contracts] [143] [302 Found] [cloudflare] [172.66.167.155] [cloudflare] [42.512915ms] [Cloudflare,HSTS,HTTP/3]
+https://linkedin.enzyme.finance [302] [https://www.linkedin.com/company/enzymefinance] [143] [302 Found] [cloudflare] [104.20.42.94] [cloudflare] [142.730201ms] [Cloudflare,HSTS,HTTP/3]
+https://reddit.enzyme.finance [302] [https://www.reddit.com/r/Enzyme_/] [143] [302 Found] [cloudflare] [172.66.167.155] [cloudflare] [179.022732ms] [Cloudflare,HSTS,HTTP/3]
+https://medium.enzyme.finance [302] [https://medium.com/enzymefinance] [143] [302 Found] [cloudflare] [104.20.42.94] [cloudflare] [184.584856ms] [Cloudflare,HSTS,HTTP/3]
+https://twitter.enzyme.finance [302] [https://twitter.com/enzymefinance] [143] [302 Found] [cloudflare] [104.20.42.94] [cloudflare] [135.035756ms] [Cloudflare,HSTS,HTTP/3]
+https://telegram.enzyme.finance [302] [https://t.me/+nLYr_ITGTzVhOGFl] [143] [302 Found] [cloudflare] [104.20.42.94] [cloudflare] [195.497028ms] [Cloudflare,HSTS,HTTP/3]
+https://userdocs.enzyme.finance [302] [https://docs.enzyme.finance/] [143] [302 Found] [cloudflare] [104.20.42.94] [cloudflare] [132.704373ms] [Cloudflare,HSTS,HTTP/3]
+https://youtube.enzyme.finance [302] [https://www.youtube.com/channel/UCJPutAAPqqY13yaY8K94vcA] [143] [302 Found] [cloudflare] [172.66.167.155] [cloudflare] [93.022065ms] [Cloudflare,HSTS,HTTP/3]
+
+## 307
+https://liquidations-v3.euler.finance [307] [/accounts] [11112] [Euler Liquidation Bot] [cloudflare] [104.18.13.35] [cloudflare] [542.617992ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://oracle-deployer.euler.finance [307] [/oracles] [8] [cloudflare] [104.18.13.35] [cloudflare] [3.379100352s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.oracle-deployer.euler.finance [307] [/oracles] [8] [cloudflare] [104.18.13.35] [cloudflare] [3.481994572s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 308
+
+## 401
+
+## 403
+https://eul.euler.finance [403] [] [42] [cloudflare] [104.18.13.35] [cloudflare] [404.200534ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://lite-assets-stage.euler.finance [403] [] [111] [cloudflare] [104.18.12.35] [cloudflare] [449.028249ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://labels.euler.finance [403] [] [111] [cloudflare] [104.18.12.35] [cloudflare] [651.54728ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://lite-assets.euler.finance [403] [] [111] [cloudflare] [104.18.13.35] [cloudflare] [674.461465ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://oracle-checks-data.euler.finance [403] [] [111] [cloudflare] [104.18.12.35] [cloudflare] [469.476571ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://lite-assets-base.euler.finance [403] [] [111] [cloudflare] [104.18.12.35] [cloudflare] [1.489934416s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://api.enzyme.finance [404] [] [0] [cloudflare] [172.66.167.155] [cloudflare] [153.444114ms] [Cloudflare,HSTS,HTTP/3]
+https://api.onyx.enzyme.finance [404] [] [63] [cloudflare] [172.66.167.155] [cloudflare] [654.959075ms] [Cloudflare,HSTS,HTTP/3]
+https://healthdata.euler.finance [404] [] [1624] [404 Not Found] [cloudflare] [104.18.12.35] [cloudflare] [586.26842ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://login.onyx.enzyme.finance [404] [] [242] [cloudflare] [172.66.167.155] [cloudflare] [538.730242ms] [Cloudflare,HSTS,HTTP/3]
+https://relay-polygon.enzyme.finance [404] [] [1072] [404 Not Found] [cloudflare] [172.66.167.155] [cloudflare] [438.181981ms] [Cloudflare,HSTS,HTTP/3]
+https://relay.enzyme.finance [404] [] [1072] [404 Not Found] [cloudflare] [172.66.167.155] [cloudflare] [541.036975ms] [Cloudflare,HSTS,HTTP/3]
+https://token-images.euler.finance [404] [] [21] [cloudflare] [104.18.12.35] [cloudflare] [246.837618ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://user.onyx.enzyme.finance [404] [] [0] [cloudflare] [172.66.167.155] [cloudflare] [393.089994ms] [Cloudflare,HSTS,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+https://healthdata-playground.euler.finance [503] [] [1579] [503 Service Temporarily Unavailable] [cloudflare] [104.18.13.35] [cloudflare] [509.337091ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+

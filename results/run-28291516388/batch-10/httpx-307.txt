@@ -1,0 +1,3 @@
+https://liquidations-v3.euler.finance [307] [/accounts] [11112] [Euler Liquidation Bot] [cloudflare] [104.18.13.35] [cloudflare] [542.617992ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://oracle-deployer.euler.finance [307] [/oracles] [8] [cloudflare] [104.18.13.35] [cloudflare] [3.379100352s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.oracle-deployer.euler.finance [307] [/oracles] [8] [cloudflare] [104.18.13.35] [cloudflare] [3.481994572s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
