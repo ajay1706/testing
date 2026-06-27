@@ -1,0 +1,5 @@
+https://blog.apex.exchange [301] [https://www.apex.exchange/blog/] [17] [] [138.113.24.210] [544.762604ms] [Amazon ALB,Amazon Web Services]
+https://www.alphagrowth.io [301] [https://alphagrowth.io/] [162] [301 Moved Permanently] [nginx] [52.52.132.208] [275.001013ms] [Nginx]
+https://apex.exchange [301] [https://www.apex.exchange//] [0] [AmazonS3] [52.84.199.105] [cloudfront] [719.034152ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://deeplink.omni.apex.exchange [301] [https://omni.apex.exchange] [61] [] [140.150.29.88] [1.127979415s] [Amazon ALB,Amazon Web Services]
+http://dev.pro.apex.exchange [301] [https://dev.pro.apex.exchange:443/] [134] [301 Moved Permanently] [awselb/2.0] [52.77.162.141] [364.864634ms] [Amazon ELB,Amazon Web Services]

@@ -1,0 +1,5 @@
+https://quote.omni.apex.exchange [404] [] [19] [] [138.113.24.210] [586.253331ms]
+https://akamai-pro.apex.exchange [404] [] [19] [] [23.222.241.46] [655.61809ms] [Amazon ALB,Amazon Web Services]
+https://static-pro.apex.exchange [404] [] [558] [404 Not Found] [AmazonS3] [140.150.29.88] [679.448376ms] [Amazon S3,Amazon Web Services]
+https://api.apex.exchange [404] [] [19] [] [54.255.162.44] [1.170702665s] [Amazon ALB,Amazon Web Services]
+https://tg-testnet.pro.apex.exchange [404] [] [19] [] [54.151.226.77] [1.026365035s]

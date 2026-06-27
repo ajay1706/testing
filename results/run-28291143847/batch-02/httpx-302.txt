@@ -1,0 +1,5 @@
+https://news.apex.exchange [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=news.apex.exchange] [116] [nginx] [67.199.248.13] [157.317395ms] [HSTS,HTTP/3,Nginx]
+https://app.ampleforth.org [302] [https://www.ampleforth.org/] [145] [302 Found] [nginx/1.26.3] [108.156.245.21] [cloudfront] [277.668557ms] [Amazon CloudFront,Amazon Web Services,Nginx:1.26.3]
+https://ampleforth.org [302] [https://www.ampleforth.org/] [145] [302 Found] [nginx/1.26.3] [18.160.172.79] [cloudfront] [320.520103ms] [Amazon CloudFront,Amazon Web Services,Nginx:1.26.3]
+https://governance.ampleforth.org [302] [https://www.ampleforth.org/] [145] [302 Found] [nginx/1.26.3] [108.156.245.124] [cloudfront] [320.904604ms] [Amazon CloudFront,Amazon Web Services,Nginx:1.26.3]
+https://signal.ampleforth.org [302] [https://snapshot.box/#/s:ampleforthorg.eth] [0] [CloudFront] [108.156.245.124] [cloudfront] [401.429961ms] [Amazon CloudFront,Amazon Web Services]

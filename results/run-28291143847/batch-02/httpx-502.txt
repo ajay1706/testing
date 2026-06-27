@@ -1,0 +1,4 @@
+https://data.alphagrowth.io [502] [] [0] [Caddy] [176.9.65.232] [465.496827ms] [Caddy,HTTP/3]
+https://clawopen.apex.exchange [502] [] [122] [502 Bad Gateway] [awselb/2.0] [108.138.159.76] [cloudfront] [523.211507ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://midas.omni.apex.exchange [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [13.225.222.20] [cloudfront] [578.562801ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://0000984-01.injectcard.mallplaza.ampleforth.org [502] [] [932] [ERROR: The request could not be satisfied] [] [3.167.112.64] [cloudfront] [1.284425043s] [Amazon CloudFront,Amazon Web Services]
