@@ -1,0 +1,14 @@
+[+] Batch started: Sat Jun 27 14:11:11 UTC 2026
+[+] Run ID: 28291516388
+[+] Batch name: batch-07
+[+] Batch targets:
+csigma.finance
+curve.finance
+d2.finance
+[+] Running subfinder...
+[+] Subfinder completed: Sat Jun 27 14:12:43 UTC 2026
+[+] HTTPX input count: 60
+[+] Running httpx...
+[+] httpx completed: Sat Jun 27 14:12:46 UTC 2026
+[+] httpx line count: 43
+[+] Batch completed: Sat Jun 27 14:12:46 UTC 2026
