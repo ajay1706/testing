@@ -1,0 +1,4 @@
+[config-json] [http] [medium] https://api.mainnet.orca.so/config/default.json
+[prometheus-metrics] [http] [medium] https://api.kaio.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api.pre.kaio.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api.stg.kaio.xyz/metrics
