@@ -1,0 +1,46 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:26:24 UTC 2026
+
+HTTPX lines: 17
+Live URLs: 17
+
+## 200
+https://pro.woofi.com [200] [] [4846] [WOOFi Pro] [nginx] [34.149.60.108] [google] [246.66313ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx]
+https://staging-api.yieldyak.com [200] [] [170] [Express] [Google Frontend] [172.253.135.121] [google] [276.6491ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://testnet-pro.woofi.com [200] [] [4846] [WOOFi Pro] [nginx] [34.120.223.227] [google] [291.987416ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx]
+https://staging.yieldyak.com [200] [] [6483] [Yield Yak | Earn More Yield] [Google Frontend] [142.251.186.121] [google] [337.864398ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://woofi.com [200] [] [3616] [WOOFi | AGENT-FIRST ONCHAIN LIQUIDITY LAYER.] [] [34.146.160.181] [google] [459.671203ms] [Google Analytics,HSTS]
+https://api.woofi.com [200] [] [38] [gunicorn] [34.160.116.97] [google] [643.296274ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,gunicorn]
+https://widget-api.woofi.com [200] [] [38] [gunicorn] [34.160.116.97] [google] [646.135354ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,gunicorn]
+https://scan.zerobase.pro [200] [] [17878] [ZEROBASE PROOF] [cloudflare] [104.26.15.203] [cloudflare] [613.225484ms] [Cloudflare,Cloudflare Browser Insights,Next.js,Node.js,React,Webpack]
+https://zerobase.pro [200] [] [97162] [ZEROBASE | Decentralized Trustless ZK Infrastructure for Web3 Privacy] [cloudflare] [104.26.14.203] [cloudflare] [657.297238ms] [Cloudflare,Cloudflare Browser Insights,Next.js,Node.js,React,Webpack]
+https://docs.yieldyak.com [200] [] [480560] [Welcome to Yield Yak | Yield Yak] [cloudflare] [172.64.147.209] [cloudflare] [319.867719ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://dev.yieldyak.com [200] [] [18548] [Yield Yak - Best Set & Forget Yield Vaults on Avalanche] [Google Frontend] [142.250.114.121] [google] [3.029505039s] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Next.js,Node.js,React,Webpack]
+https://yieldyak.com [200] [] [21344] [Yield Yak - Best Set & Forget Yield Vaults on Avalanche] [Google Frontend] [216.239.32.21] [google] [7.93601312s] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Next.js,Node.js,React,Webpack]
+https://www.yieldyak.com [200] [] [21344] [Yield Yak - Best Set & Forget Yield Vaults on Avalanche] [Google Frontend] [142.251.121.121] [google] [7.941849625s] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Next.js,Node.js,React,Webpack]
+
+## 301
+
+## 302
+
+## 307
+https://app.zerobase.pro [307] [/en] [12214] [ZEROBASE STAKING] [cloudflare] [104.26.14.203] [cloudflare] [572.225952ms] [C3.js,Cloudflare,Cloudflare Browser Insights,Next.js,Node.js,React,Webpack]
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://sapi.woofi.com [404] [] [22] [] [34.146.160.181] [google] [506.232564ms] [HSTS]
+https://prod-migration.woofi.com [404] [] [548] [404 Not Found] [] [34.146.160.181] [google] [529.502754ms] [HSTS]
+https://prove-api.zerobase.pro [404] [] [70] [cloudflare] [104.26.15.203] [cloudflare] [692.645986ms] [Cloudflare]
+
+## 500
+
+## 502
+
+## 503
+
