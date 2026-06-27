@@ -1,0 +1,3 @@
+https://wildcard.devnet.atrix.finance [404] [] [107] [Vercel] [216.150.1.1] [194.462978ms] [HSTS,Vercel]
+https://wildcard.app.atrix.finance [404] [] [107] [Vercel] [216.150.1.65] [248.257847ms] [HSTS,Vercel]
+https://wildcard.atrix.finance [404] [] [107] [Vercel] [216.150.1.193] [299.321564ms] [HSTS,Vercel]
