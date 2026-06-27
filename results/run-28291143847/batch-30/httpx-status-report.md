@@ -1,0 +1,40 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:13:15 UTC 2026
+
+HTTPX lines: 11
+Live URLs: 11
+
+## 200
+https://apis.true.markets [200] [] [4677] [Redirecting...] [openresty] [172.234.212.77] [302.21948ms] [Nginx,OpenResty]
+https://tokentool.bitbond.com [200] [] [66505] [] [63.184.255.217] [776.728608ms] [HSTS,Next.js,Node.js,React,Webpack]
+https://staging.tokentool.bitbond.com [200] [] [66553] [] [35.159.34.124] [861.787466ms] [HSTS,Next.js,Node.js,React,Webpack]
+http://2f9931ee-0338-4dd9-a2db-5a8d108402c8.true.markets [200] [] [4717] [Redirecting...] [openresty] [172.234.212.77] [150.012656ms] [Nginx,OpenResty]
+http://www.www1.true.markets [200] [] [4681] [Redirecting...] [openresty] [172.234.212.77] [150.726774ms] [Nginx,OpenResty]
+http://test.true.markets [200] [] [4673] [Redirecting...] [openresty] [172.234.212.77] [151.074297ms] [Nginx,OpenResty]
+http://www.true.markets [200] [] [4673] [Redirecting...] [openresty] [172.239.193.194] [154.513623ms] [Nginx,OpenResty]
+http://trade.true.markets [200] [] [4677] [Redirecting...] [openresty] [172.234.212.77] [168.811171ms] [Nginx,OpenResty]
+http://m.true.markets [200] [] [4669] [Redirecting...] [openresty] [172.239.193.194] [168.839941ms] [Nginx,OpenResty]
+http://mail.true.markets [200] [] [4673] [Redirecting...] [openresty] [172.239.193.194] [203.720711ms] [Nginx,OpenResty]
+
+## 301
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+http://stage-cdn.tokentool.bitbond.com [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [3.168.86.97] [cloudfront] [2.180698ms] [Amazon CloudFront,Amazon Web Services]
+
+## 404
+
+## 500
+
+## 502
+
+## 503
+
