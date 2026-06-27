@@ -1,0 +1,55 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 12:33:13 UTC 2026
+
+HTTPX lines: 25
+Live URLs: 25
+
+## 200
+https://thevault.finance [200] [] [1437] [The Vault] [cloudflare] [172.67.170.122] [cloudflare] [72.538903ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app-v2-beta.thevault.finance [200] [] [1437] [The Vault] [cloudflare] [172.67.170.122] [cloudflare] [86.949322ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://enroll.id.vnx.li [200] [] [4621] [Defguard Enrollment Service] [] [3.78.69.136] [307.74706ms] [HTTP/3]
+https://docs.thevault.finance [200] [] [80047] [🚀 Our Mission] [cloudflare] [104.21.87.174] [cloudflare] [53.459808ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://enroll.vnx.li [200] [] [414] [Enrollment Wizard] [] [3.76.155.138] [382.959619ms] [HTTP/3]
+https://invest.vnx.li [200] [] [701] [VNX Commodities] [] [3.66.35.222] [392.106591ms] [HSTS]
+https://cabinet.id.vnx.li [200] [] [1114] [VNX ID Verification] [] [63.182.126.68] [391.534963ms] [HSTS]
+https://enroll.uat.id.vnx.li [200] [] [500] [Enrollment Wizard] [Caddy] [3.125.252.229] [479.291382ms] [Caddy,HTTP/3]
+https://vpn.id.vnx.li [200] [] [2046] [] [3.78.69.136] [281.068215ms] [HTTP/3]
+https://widget.id.vnx.li [200] [] [1337] [VNX ID Verification] [] [3.79.77.223] [307.860995ms] [HSTS]
+https://vpn.uat.id.vnx.li [200] [] [2046] [Caddy] [3.125.252.229] [353.829817ms] [Caddy,HTTP/3]
+https://widget.uat.id.vnx.li [200] [] [1337] [VNX ID Verification] [nginx/1.27.5] [63.181.153.79] [377.508535ms] [Amazon S3,Amazon Web Services,HSTS,Nginx:1.27.5]
+https://uat.vnx.li [200] [] [44012] [VNX Commodities: investments in tokenized precious metals] [nginx/1.18.0 (Ubuntu)] [3.64.170.215] [642.425992ms] [ActiveCampaign,Cookiebot,HSTS,MySQL,Nginx:1.18.0,PHP,Ubuntu,WordPress:5.8,Yoast SEO:16.9]
+https://vnx.li [200] [] [48224] [VNX real world assets: gold-backed tokens] [nginx/1.18.0 (Ubuntu)] [3.64.170.215] [533.837958ms] [ActiveCampaign,Cookiebot,Google Tag Manager,HSTS,MySQL,Nginx:1.18.0,PHP,Polylang,Ubuntu,WordPress Block Editor,WordPress:5.8,Yoast SEO:16.9]
+
+## 301
+https://www.thevault.finance [301] [https://thevault.finance/] [671] [301 Moved Permanently] [cloudflare] [172.67.170.122] [cloudflare] [30.450174ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://cabinet.uat.id.vnx.li [301] [https://cabinet.uat.id.vnx.li/] [17] [] [63.181.153.79] [178.575392ms]
+http://docs.vnx.li [301] [https://docs.vnx.li/] [17] [] [18.195.255.11] [185.394746ms]
+
+## 302
+https://faq.vnx.li [302] [https://faq.vnx.li/en/] [0] [nginx] [3.170.19.47] [cloudfront] [76.770445ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+
+## 307
+
+## 308
+http://server-client.vnx.li [308] [https://server-client.vnx.li] [164] [308 Permanent Redirect] [] [3.66.35.222] [180.502643ms]
+http://my.vnx.li [308] [https://my.vnx.li] [164] [308 Permanent Redirect] [] [3.66.35.222] [180.467866ms]
+http://api.uat.vnx.li [308] [https://api.uat.vnx.li] [164] [308 Permanent Redirect] [] [54.93.63.118] [181.857613ms]
+
+## 401
+https://sol.vnx.li [401] [] [172] [401 Authorization Required] [] [3.78.212.87] [286.118673ms] [Basic,HSTS]
+https://api.uat.id.vnx.li [401] [] [41] [] [63.181.153.79] [392.15054ms] [HSTS]
+https://api.id.vnx.li [401] [] [41] [] [63.182.126.68] [491.34715ms] [HSTS]
+
+## 403
+
+## 404
+https://api.vnx.li [404] [] [146] [404 Not Found] [] [3.78.212.87] [297.089347ms] [HSTS]
+
+## 500
+https://enroll.uat.id.vnx.li [200] [] [500] [Enrollment Wizard] [Caddy] [3.125.252.229] [479.291382ms] [Caddy,HTTP/3]
+
+## 502
+
+## 503
+

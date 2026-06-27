@@ -1,0 +1,3 @@
+http://server-client.vnx.li [308] [https://server-client.vnx.li] [164] [308 Permanent Redirect] [] [3.66.35.222] [180.502643ms]
+http://my.vnx.li [308] [https://my.vnx.li] [164] [308 Permanent Redirect] [] [3.66.35.222] [180.467866ms]
+http://api.uat.vnx.li [308] [https://api.uat.vnx.li] [164] [308 Permanent Redirect] [] [54.93.63.118] [181.857613ms]
