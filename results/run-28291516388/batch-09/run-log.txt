@@ -1,0 +1,14 @@
+[+] Batch started: Sat Jun 27 14:13:05 UTC 2026
+[+] Run ID: 28291516388
+[+] Batch name: batch-09
+[+] Batch targets:
+dodoex.io
+dolomite.io
+elfi.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Sat Jun 27 14:14:36 UTC 2026
+[+] HTTPX input count: 168
+[+] Running httpx...
+[+] httpx completed: Sat Jun 27 14:14:59 UTC 2026
+[+] httpx line count: 95
+[+] Batch completed: Sat Jun 27 14:14:59 UTC 2026
