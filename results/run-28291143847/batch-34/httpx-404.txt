@@ -1,0 +1,3 @@
+https://l1-sepolia-node1-beacon.garfield-testnet.zircuit.com [404] [] [51] [Lighthouse/v8.1.0-edba56b/x86_64-linux] [52.15.93.115] [434.663274ms] [lighttpd]
+https://privy.finance.production.zircuit.com [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [134.602937ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.finance.zircuit.com [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [222.469555ms] [Cloudflare,Cloudflare Bot Management]

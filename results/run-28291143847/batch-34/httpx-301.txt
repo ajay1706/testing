@@ -1,0 +1,3 @@
+https://og.zircuit.com [301] [https://www.zircuit.com] [0] [CloudFront] [13.32.230.126] [cloudfront] [601.029251ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://staging.zircuit.com [301] [http://www.staging.zircuit.com/] [166] [301 Moved Permanently] [] [18.155.173.14] [cloudfront] [496.347967ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://zircuit.com [301] [http://www.zircuit.com/] [166] [301 Moved Permanently] [] [3.167.212.110] [cloudfront] [399.401374ms] [Amazon CloudFront,Amazon Web Services,HSTS]

@@ -1,0 +1,1 @@
+https://s-in-dash.zircuit.com [307] [/api/auth/signin?callbackUrl=%2F] [32] [Heroku] [18.238.96.39] [cloudfront] [706.978867ms] [Amazon CloudFront,Amazon Web Services,HSTS]
