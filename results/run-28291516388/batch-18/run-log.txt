@@ -1,0 +1,14 @@
+[+] Batch started: Sat Jun 27 14:18:30 UTC 2026
+[+] Run ID: 28291516388
+[+] Batch name: batch-18
+[+] Batch targets:
+near-intents.org
+omniyield.finance
+ondo.finance
+[+] Running subfinder...
+[+] Subfinder completed: Sat Jun 27 14:20:02 UTC 2026
+[+] HTTPX input count: 107
+[+] Running httpx...
+[+] httpx completed: Sat Jun 27 14:20:24 UTC 2026
+[+] httpx line count: 54
+[+] Batch completed: Sat Jun 27 14:20:24 UTC 2026
