@@ -1,0 +1,2 @@
+https://database-proxy-server-v2.pump.fun [401] [] [102] [] [44.196.238.86] [146.932882ms]
+https://database-proxy-server-devnet-v2.pump.fun [401] [] [102] [] [100.29.33.89] [174.167115ms]
