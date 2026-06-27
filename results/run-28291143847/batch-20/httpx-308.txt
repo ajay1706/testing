@@ -1,0 +1,3 @@
+https://app.pooltogether.com [308] [https://pooltogether.com/interfaces] [169] [308 Permanent Redirect] [cloudflare] [172.67.194.231] [cloudflare] [37.472601ms] [Cloudflare]
+https://v4.pooltogether.com [308] [https://migrate.cabana.fi/] [169] [308 Permanent Redirect] [cloudflare] [104.21.12.141] [cloudflare] [44.040976ms] [Cloudflare]
+https://v3.pooltogether.com [308] [https://migrate.cabana.fi/] [169] [308 Permanent Redirect] [cloudflare] [104.21.12.141] [cloudflare] [123.055421ms] [Cloudflare]
