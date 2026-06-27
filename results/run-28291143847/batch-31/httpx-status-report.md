@@ -1,0 +1,140 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:15:06 UTC 2026
+
+HTTPX lines: 127
+Live URLs: 127
+
+## 200
+https://app.uniswap.org [200] [] [8722] [Uniswap Interface] [cloudflare] [162.159.140.227] [cloudflare] [50.503249ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://app.veda.tech [200] [] [1923] [Vercel] [66.33.60.67] [50.640869ms] [HSTS,Vercel]
+https://about.uniswap.org [200] [] [72208] [About Uniswap Labs] [Vercel] [216.150.16.193] [91.044205ms] [HSTS,Vercel]
+https://collect.uniswap.org [200] [] [68603] [Uniswap Card Generator] [Vercel] [216.150.16.193] [475.961767ms] [HSTS,Vercel]
+https://careers.uniswap.org [200] [] [73406] [Uniswap Labs | Careers] [cloudflare] [162.159.140.227] [cloudflare] [449.821253ms] [Cloudflare,Cloudflare Bot Management,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://blog.uniswap.org [200] [] [234720] [Blog | Uniswap Labs] [Vercel] [76.76.21.93] [159.182761ms] [Contentful,Google Tag Manager,HSTS,Vercel]
+https://academy.uncx.network [200] [] [747650] [Pioneering Secure DeFi Infrastructure | UNCX Academy] [cloudflare] [104.20.45.215] [cloudflare] [1.494749373s] [Cloudflare,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vue.js]
+https://demo.veda.tech [200] [] [2670] [Vercel] [76.76.21.93] [3.140867574s] [HSTS,Vercel]
+https://docs.uncx.network [200] [] [363487] [Introduction | UNCX Network] [cloudflare] [104.18.40.47] [cloudflare] [3.133960979s] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.veda.tech [200] [] [389054] [Introduction | Veda] [cloudflare] [172.64.147.209] [cloudflare] [3.235095615s] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://extendedtokens.uniswap.org [200] [] [1126058] [cloudflare] [172.66.0.225] [cloudflare] [4.383840577s] [Cloudflare,Cloudflare Bot Management,HSTS,IPFS]
+https://gov.uniswap.org [200] [] [271941] [Uniswap Governance - Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.] [nginx] [184.105.99.75] [3.246161229s] [Discourse:2026.6.0,HSTS,Nginx,Ruby on Rails]
+https://socks.uniswap.org [200] [] [2099] [Unisocks Exchange] [cloudflare] [172.66.0.225] [cloudflare] [2.090674096s] [Cloudflare,Cloudflare Bot Management,Google Maps,HSTS]
+https://staging.strategist.veda.tech [200] [] [2324] [Vercel] [66.33.60.193] [1.317092009s] [HSTS,Vercel]
+https://tickets.veda.tech [200] [] [512] [Ticket Management System] [Vercel] [216.150.1.1] [2.064880209s] [HSTS,Vercel]
+https://status.veda.tech [200] [] [331167] [Veda status] [] [167.235.220.62] [3.861144278s] [Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus]
+https://v4.uniswap.org [200] [] [426359] [Uniswap v4] [Framer/89e8012] [31.43.161.6] [251.569722ms] [Framer Sites,Google Tag Manager,HSTS,HTTP/3,React]
+https://web.uniswap.org [200] [] [478373] [Uniswap Web App | Trade Crypto with the World’s Leading DEX] [Framer/89e8012] [31.43.161.6] [1.32421923s] [Amplitude,Framer Sites,Google Analytics,Google Tag Manager,HSTS,HTTP/3,React]
+https://wrapped.uniswap.org [200] [] [14356] [Uniswap Wrapped] [Vercel] [216.150.16.1] [2.195299999s] [HSTS,Vercel,dc.js]
+https://unsupportedtokens.uniswap.org [200] [] [122026] [cloudflare] [172.66.0.225] [cloudflare] [6.233436706s] [Cloudflare,Cloudflare Bot Management,HSTS,IPFS]
+https://wallet.uniswap.org [200] [] [654473] [Uniswap Wallet | The Self-Custody DeFi Wallet] [Framer/89e8012] [31.43.161.6] [4.12397784s] [Framer Sites,Google Tag Manager,HSTS,HTTP/3,React]
+https://www.uncx.network [200] [] [796964] [Pioneering Secure DeFi Infrastructure | UNCX Network] [cloudflare] [172.66.150.241] [cloudflare] [6.43434665s] [Cloudflare,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vue.js]
+
+## 301
+https://api-docs.uniswap.org [301] [https://developers.uniswap.org/docs/trading/swapping-api/getting-started] [167] [301 Moved Permanently] [cloudflare] [162.159.140.227] [cloudflare] [144.983312ms] [Cloudflare,HSTS]
+http://docs.uniswap.org [301] [https://developers.uniswap.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.0.225] [cloudflare] [1.020912507s] [Cloudflare,Cloudflare Bot Management]
+https://help.uniswap.org [301] [https://support.uniswap.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.0.225] [cloudflare] [3.040853904s] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://graphql.ios.wallet.gateway.uniswap.org [301] [https://graphql.ios.wallet.gateway.uniswap.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.0.225] [cloudflare] [4.03104838s] [Cloudflare,Cloudflare Bot Management]
+https://info.uniswap.org [301] [https://app.uniswap.org/explore] [167] [301 Moved Permanently] [cloudflare] [172.66.0.225] [cloudflare] [3.024797174s] [Cloudflare,HSTS]
+https://hub.uniswap.org [301] [https://developers.uniswap.org/docs/trading/swapping-api/getting-started] [167] [301 Moved Permanently] [cloudflare] [162.159.140.227] [cloudflare] [6.034748681s] [Cloudflare,HSTS]
+https://legacy.uncx.network [301] [http://app.uncx.network/] [667] [301 Moved Permanently] [cloudflare] [172.66.150.241] [cloudflare] [4.722629047s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+http://image.uniswap.org [301] [https://image.uniswap.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.0.225] [cloudflare] [2.024180144s] [Cloudflare,Cloudflare Bot Management]
+https://shop.uniswap.org [301] [https://blog.uniswap.org/introducing-uniswap-labs-x-kidsuper] [167] [301 Moved Permanently] [cloudflare] [172.66.0.225] [cloudflare] [5.031882929s] [Cloudflare,HSTS]
+http://sso-assets.uniswap.org [301] [https://sso-assets.uniswap.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.0.225] [cloudflare] [1.036403005s] [Cloudflare,Cloudflare Bot Management]
+https://v3.info.uniswap.org [301] [https://app.uniswap.org/explore] [167] [301 Moved Permanently] [cloudflare] [172.66.0.225] [cloudflare] [2.047954166s] [Cloudflare,HSTS]
+http://support.uniswap.org [301] [https://support.uniswap.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.0.225] [cloudflare] [2.031203054s] [Cloudflare,Cloudflare Bot Management]
+https://v2.info.uniswap.org [301] [https://app.uniswap.org/explore] [167] [301 Moved Permanently] [cloudflare] [162.159.140.227] [cloudflare] [4.03836022s] [Cloudflare,HSTS]
+http://umami.uncx.network [301] [https://umami.uncx.network/] [665] [301 Moved Permanently] [cloudflare] [104.20.45.215] [cloudflare] [1.052247574s] [Cloudflare,Cloudflare Browser Insights]
+http://uncx.network [301] [https://uncx.network/] [665] [301 Moved Permanently] [cloudflare] [104.20.45.215] [cloudflare] [3.035340237s] [Cloudflare,Cloudflare Browser Insights]
+https://www.uniswap.org [301] [https://uniswap.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.0.225] [cloudflare] [4.03453811s] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 302
+https://dev-portal.backend-dev.api.uniswap.org [302] [/login] [0] [] [3.150.237.89] [5.273973727s]
+https://dev-portal.backend-staging.api.uniswap.org [302] [/login] [0] [] [3.135.171.240] [6.268570501s]
+https://go.uniswap.org [302] [https://go.uniswap.org/?rb.routing.mode=proxy&rb.routing.signature=665488] [0] [cloudflare] [172.66.0.225] [cloudflare] [4.186686635s] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://login.uniswap.org [302] [https://login.uniswap.org//] [251] [302 Found] [Apache] [76.223.112.12] [5.169879587s] [Apache HTTP Server]
+http://notion.veda.tech [302] [https://notion.veda.tech:443/] [110] [302 Found] [cloudflare] [208.103.161.33] [5.120574394s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 307
+https://blinks.uncx.network [307] [] [20099] [UNCX Network - Most trusted DeFi Vesting Provider] [cloudflare] [172.66.150.241] [cloudflare] [773.355122ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://console.veda.tech [307] [/?vault=&network=] [0] [cloudflare] [172.66.169.9] [cloudflare] [4.812887825s] [Cloudflare,HSTS]
+https://movement.veda.tech [307] [https://app.veda.tech/blocked] [35] [Vercel] [66.33.60.66] [2.08122192s] [HSTS,Vercel]
+https://usual.veda.tech [307] [https://app.veda.tech/blocked] [35] [Vercel] [76.76.21.93] [1.115428077s] [HSTS,Vercel]
+
+## 308
+https://app.uncx.network [308] [/lockers/explore/pools] [22] [cloudflare] [172.66.150.241] [cloudflare] [440.117728ms] [Cloudflare,HSTS]
+https://beta.uncx.network [308] [/lockers/explore/pools] [22] [cloudflare] [104.20.45.215] [cloudflare] [727.245973ms] [Cloudflare,HSTS]
+https://safe-lockers.uncx.network [308] [/lockers/manage/lockers-v2] [26] [cloudflare] [172.66.150.241] [cloudflare] [2.83563403s] [Cloudflare,HSTS]
+https://safe-wallet.uncx.network [308] [/lockers/manage/lockers-v2] [26] [cloudflare] [104.20.45.215] [cloudflare] [6.629039221s] [Cloudflare,HSTS]
+http://v4-address.uniswap.org [308] [https://v4-address.uniswap.org/] [14] [Vercel] [66.33.60.194] [4.037205958s] [Vercel]
+
+## 401
+https://api.dev.veda.tech [401] [] [26] [cloudflare] [172.66.169.9] [cloudflare] [282.989996ms] [Cloudflare]
+https://api.veda.tech [401] [] [26] [cloudflare] [172.66.169.9] [cloudflare] [302.956114ms] [Cloudflare]
+https://staging.app.veda.tech [401] [] [13922] [Authentication Required] [Vercel] [76.76.21.123] [47.212329ms] [HSTS,Vercel]
+https://services.veda.tech [401] [] [26] [] [18.238.192.71] [cloudfront] [6.243145642s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://staging.movement.veda.tech [401] [] [13927] [Authentication Required] [Vercel] [76.76.21.98] [5.292508062s] [HSTS,Vercel]
+https://websockets.backend-dev.api.uniswap.org [401] [] [60] [] [18.221.171.189] [3.205028872s]
+https://websockets.backend-prod.api.uniswap.org [401] [] [60] [] [18.227.57.127] [4.215125261s]
+
+## 403
+https://api.uniswap.org [403] [] [23] [] [52.85.151.123] [cloudfront] [87.57853ms] [Amazon CloudFront,Amazon Web Services]
+https://android.wallet.gateway.uniswap.org [403] [] [23] [cloudflare] [162.159.140.227] [cloudflare] [102.553938ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://beta.api.uniswap.org [403] [] [23] [] [18.173.121.72] [cloudfront] [198.01554ms] [Amazon CloudFront,Amazon Web Services]
+https://beta.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [210.318171ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://amplitude-proxy.interface.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [235.141572ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://cdn.developers.uniswap.org [403] [] [111] [AmazonS3] [3.169.183.119] [cloudfront] [241.838944ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://dev-portal-statics.uniswap.org [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [3.169.183.67] [cloudfront] [2.100935ms] [Amazon CloudFront,Amazon Web Services]
+https://for.android.wallet.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [100.972788ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://extension.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [4.204609168s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://for.extension.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [3.119357729s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://fiat-on-ramp.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [6.101235982s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://gating.ios.wallet.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [101.066655ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://gating.android.wallet.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [3.123903545s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://gating.interface.gateway.uniswap.org [403] [] [23] [cloudflare] [162.159.140.227] [cloudflare] [3.083545786s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://for.ios.wallet.gateway.uniswap.org [403] [] [23] [cloudflare] [162.159.140.227] [cloudflare] [6.107234942s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://graphql.android.wallet.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [3.097759021s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://graphql.interface.gateway.uniswap.org [403] [] [23] [cloudflare] [162.159.140.227] [cloudflare] [4.104093561s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://ios.wallet.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [1.088109648s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://interface.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [4.094465717s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://metrics.extension.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [2.090979846s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://metrics.interface.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [2.095235123s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://metrics.ios.wallet.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [5.115497169s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://scantastic.android.wallet.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [2.101952964s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://scantastic.extension.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [2.217780871s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://scantastic.ios.wallet.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [2.110137385s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://temp.api.uniswap.org [403] [] [23] [] [18.173.121.47] [cloudfront] [2.081550885s] [Amazon CloudFront,Amazon Web Services]
+https://statsig-proxy.interface.gateway.uniswap.org [403] [] [23] [cloudflare] [162.159.140.227] [cloudflare] [5.202043045s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://temp.gateway.uniswap.org [403] [] [23] [cloudflare] [162.159.140.227] [cloudflare] [6.236837094s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://unitags.extension.gateway.uniswap.org [403] [] [23] [cloudflare] [162.159.140.227] [cloudflare] [2.213495494s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://unitags.android.wallet.gateway.uniswap.org [403] [] [23] [cloudflare] [172.66.0.225] [cloudflare] [4.110579133s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://unitags.interface.gateway.uniswap.org [403] [] [23] [cloudflare] [162.159.140.227] [cloudflare] [4.105833228s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://api.strategist.veda.tech [404] [] [79] [Vercel] [216.150.16.129] [119.703082ms] [HSTS,Vercel]
+https://api-proxy.backend-staging.api.uniswap.org [404] [] [23] [nginx] [3.22.140.69] [225.593931ms] [Nginx]
+https://api-proxy.backend-dev.api.uniswap.org [404] [] [23] [nginx] [18.226.49.48] [229.481314ms] [Nginx]
+https://beta.realtime.gateway.uniswap.org [404] [] [118] [cloudflare] [172.66.0.225] [cloudflare] [308.511711ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://api-proxy.backend-prod.api.uniswap.org [404] [] [23] [nginx] [3.150.81.81] [357.575933ms] [Nginx]
+https://ask.veda.tech [404] [] [2174] [Page Not Found] [] [35.205.106.218] [google] [486.267076ms] [HSTS]
+https://compliance-api.backend-prod.api.uniswap.org [404] [] [23] [] [3.151.246.232] [3.204706961s]
+https://contact.veda.tech [404] [] [2174] [Page Not Found] [] [35.205.106.218] [google] [2.769001932s] [HSTS]
+https://demo.api.veda.tech [404] [] [79] [Vercel] [76.76.21.123] [3.107500232s] [HSTS,Vercel]
+https://email.uniswap.org [404] [] [19] [] [34.110.180.34] [google] [1.217724819s]
+https://enterpriseregistration.uniswap.org [404] [] [101] [cloudflare] [162.159.140.227] [cloudflare] [3.096529478s] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://files.veda.tech [404] [] [345] [404 Not Found] [AmazonS3] [16.182.42.117] [167.4555ms] [Amazon S3,Amazon Web Services]
+https://hexagate-webhook.backend-staging.api.uniswap.org [404] [] [23] [] [3.150.103.135] [2.225601219s]
+https://liquidity.backend-dev.api.uniswap.org [404] [] [72] [] [18.226.106.181] [4.202661471s]
+https://points.veda.tech [404] [] [207] [404 Not Found] [Google Frontend] [35.241.21.165] [google] [1.133295096s] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://realtime.gateway.uniswap.org [404] [] [118] [cloudflare] [172.66.0.225] [cloudflare] [4.255517854s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://staging.api.strategist.veda.tech [404] [] [79] [Vercel] [216.150.1.1] [2.292691157s] [HSTS,Vercel]
+https://vaultdeploy.veda.tech [404] [] [107] [Vercel] [216.150.16.1] [7.42988216s] [HSTS,Vercel]
+
+## 500
+
+## 502
+https://infra-auth-proxy.backend-dev.api.uniswap.org [502] [] [122] [502 Bad Gateway] [awselb/2.0] [3.147.248.43] [1.193758454s] [Amazon ELB,Amazon Web Services]
+https://infra-auth-proxy.backend-staging.api.uniswap.org [502] [] [122] [502 Bad Gateway] [awselb/2.0] [13.59.48.86] [1.217332678s] [Amazon ELB,Amazon Web Services]
+
+## 503
+https://dev.services.veda.tech [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [18.173.121.37] [cloudfront] [4.297697484s] [Amazon CloudFront,Amazon ELB,Amazon Web Services,HSTS]
+
