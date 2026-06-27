@@ -1,0 +1,63 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:04:20 UTC 2026
+
+HTTPX lines: 34
+Live URLs: 34
+
+## 200
+https://feerebate.intentx.io [200] [] [191] [It works! Apache httpd] [Google Frontend] [34.144.211.112] [google] [117.782031ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://tv.intentx.io [200] [] [1586] [Vercel] [76.76.21.93] [71.968421ms] [HSTS,Vercel]
+https://www.intentx.io [200] [] [7484] [IntentX | Home] [Vercel] [76.76.21.164] [73.294853ms] [HSTS,Vercel]
+https://intentx.io [200] [] [7484] [IntentX | Home] [Vercel] [76.76.21.21] [81.56006ms] [HSTS,Vercel]
+https://sweeper.iaero.finance [200] [] [19935] [Token Sweeper | Batch Swap to USDC or WETH] [cloudflare] [172.67.130.5] [cloudflare] [182.166329ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://paper.intentx.io [200] [] [4501] [Create Next App] [cloudflare] [172.66.0.96] [cloudflare] [271.882161ms] [Cloudflare,Cloudflare Bot Management,HTTP/3,Next.js,Node.js,React,Webpack]
+https://admincrm.intentx.io [200] [] [1423] [cloudflare] [104.26.8.21] [cloudflare] [313.177454ms] [Cloudflare,Cloudflare Bot Management,HTTP/3,Next.js,Node.js,React,Webpack]
+https://delta.iaero.finance [200] [] [35293] [Delta Neutral Yield Farming] [cloudflare] [104.21.3.13] [cloudflare] [327.421361ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://price.iaero.finance [200] [] [69795] [iAERO Protocol - Liquid Staking] [cloudflare] [104.21.3.13] [cloudflare] [182.196525ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://legacy.iaero.finance [200] [] [54980] [iAERO Protocol - Liquid Staking] [cloudflare] [104.21.3.13] [cloudflare] [327.426208ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app.iaero.finance [200] [] [69795] [iAERO Protocol - Liquid Staking] [cloudflare] [172.67.130.5] [cloudflare] [527.584266ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.iaero.finance [200] [] [516055] [Introduction | iAero Protocol Docs] [cloudflare] [172.64.147.209] [cloudflare] [167.74782ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.intentx.io [200] [] [530296] [Welcome to IntentX | IntentX Docs] [cloudflare] [104.18.40.47] [cloudflare] [328.032299ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+http://www.ionic.money [200] [] [4681] [Redirecting...] [openresty] [172.239.57.117] [156.614732ms] [Nginx,OpenResty]
+http://perps.ionic.money [200] [] [4685] [Redirecting...] [openresty] [172.239.57.117] [1.208488747s] [Nginx,OpenResty]
+
+## 301
+https://www.iaero.finance [301] [https://app.iaero.finance/] [671] [301 Moved Permanently] [cloudflare] [104.21.3.13] [cloudflare] [68.140681ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://blastpoints.intentx.io [301] [https://blastpoints.intentx.io:443/] [0] [] [34.49.56.127] [google] [18.095904ms]
+https://iaero.finance [301] [https://app.iaero.finance/] [0] [cloudflare] [172.67.130.5] [cloudflare] [198.831995ms] [Cloudflare,HTTP/3]
+https://apiserver1.intentx.io [301] [http://apiserver1.carbon.inc/] [63] [cloudflare] [104.26.8.21] [cloudflare] [312.496821ms] [Cloudflare,Cloudflare Bot Management,Express,HTTP/3,Node.js]
+
+## 302
+
+## 307
+https://v1.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [66.33.60.194] [66.929601ms] [HSTS,Vercel]
+https://alpha.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [76.76.21.98] [115.736829ms] [HSTS,Vercel]
+https://app.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [76.76.21.164] [142.985773ms] [HSTS,Vercel]
+https://fallback.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [76.76.21.164] [263.90673ms] [HSTS,Vercel]
+
+## 308
+http://status.intentx.io [308] [https://status.intentx.io/] [0] [Caddy] [167.235.220.62] [328.957259ms] [Caddy]
+
+## 401
+
+## 403
+https://api.iaero.finance [403] [] [21] [cloudflare] [172.67.130.5] [cloudflare] [62.56155ms] [Cloudflare,HTTP/3]
+https://relayer.intentx.io [403] [] [134] [403] [] [34.36.152.42] [google] [327.277245ms] [HTTP/3]
+
+## 404
+https://stage.intentx.io [404] [] [107] [Vercel] [76.76.21.93] [74.922688ms] [HSTS,Vercel]
+https://legacy.intentx.io [404] [] [107] [Vercel] [76.76.21.123] [205.656516ms] [HSTS,Vercel]
+https://gw.intentx.io [404] [] [215] [cloudflare] [104.26.9.21] [cloudflare] [244.728299ms] [Cloudflare,Express,Google Cloud,Google Cloud CDN,Google Cloud Trace,HTTP/3,Node.js]
+https://blast.intentx.io [404] [] [107] [Vercel] [66.33.60.34] [450.048652ms] [HSTS,Vercel]
+https://stats.intentx.io [404] [] [107] [Vercel] [76.76.21.61] [480.254186ms] [HSTS,Vercel]
+https://stoploss.intentx.io [404] [] [0] [] [34.160.110.195] [google] [685.471473ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://befi.stoploss.intentx.io [404] [] [0] [] [34.49.198.182] [google] [685.135038ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://thena.stoploss.intentx.io [404] [] [0] [] [34.49.57.251] [google] [725.462558ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
