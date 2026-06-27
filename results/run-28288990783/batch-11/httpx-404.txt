@@ -1,0 +1,2 @@
+https://rpc.testnet.ondo.finance [404] [] [19] [] [100.51.119.146] [450.138755ms]
+https://api.explorer.testnet.ondo.finance [404] [] [14] [Cowboy] [13.219.140.243] [570.946745ms] [Cowboy,Erlang]
