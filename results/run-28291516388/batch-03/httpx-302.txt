@@ -1,0 +1,2 @@
+https://graph.bean.money [302] [https://graph.bean.money/explorer/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [5.161.51.140] [143.254483ms] [Nginx:1.24.0,Ubuntu]
+https://vote.beefy.finance [302] [https://snapshot.box/#/s:beefydao.eth/] [143] [302 Found] [cloudflare] [104.21.26.147] [cloudflare] [128.298424ms] [Cloudflare]
