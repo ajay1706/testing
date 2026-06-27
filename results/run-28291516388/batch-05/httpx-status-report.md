@@ -1,0 +1,82 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:12:23 UTC 2026
+
+HTTPX lines: 64
+Live URLs: 64
+
+## 200
+https://chamber.finance [200] [] [114] [] [13.248.169.48] [138.555111ms]
+http://adguard1.chamber.finance [200] [] [114] [] [13.248.169.48] [66.23882ms]
+http://dns.chamber.finance [200] [] [114] [] [76.223.54.146] [66.145164ms]
+http://doh1.chamber.finance [200] [] [114] [] [13.248.169.48] [66.350379ms]
+https://legacy.compound.finance [200] [] [1085] [Compound Protocol] [cloudflare] [172.66.145.186] [cloudflare] [246.393402ms] [Cloudflare,Google Cloud,Google Cloud Storage,HSTS,HTTP/3]
+https://dapp.cian.app [200] [] [1444] [CIAN | LST focused DeFi Yield Strategy] [nginx/1.14.1] [34.223.57.101] [270.958004ms] [HSTS,Nginx:1.14.1]
+https://compound.finance [200] [] [1627] [Compound] [cloudflare] [104.20.28.98] [cloudflare] [304.115229ms] [Cloudflare,Google Cloud,Google Cloud Storage,HSTS,HTTP/3]
+https://app.compound.finance [200] [] [2290] [Compound Dashboard] [cloudflare] [172.66.145.186] [cloudflare] [352.742754ms] [Cloudflare,HSTS,HTTP/3,IPFS]
+https://cian.app [200] [] [11226] [CIAN︱YIELD LAYER OF DEFI] [nginx/1.14.1] [34.223.57.101] [239.878457ms] [HSTS,Nginx:1.14.1]
+http://doh.chamber.finance [200] [] [114] [] [76.223.54.146] [81.380897ms]
+https://sleuth.compound.finance [200] [] [768] [cloudflare] [104.20.28.98] [cloudflare] [130.829353ms] [Cloudflare,HSTS,HTTP/3]
+http://resolver.chamber.finance [200] [] [114] [] [13.248.169.48] [70.392522ms]
+https://www.chamber.finance [200] [] [114] [] [13.248.169.48] [132.994761ms]
+https://blog.cian.app [200] [] [57566] [CIAN - LST focused DeFi Yield Strategy] [nginx/1.14.1] [34.223.57.101] [225.859404ms] [HSTS,Nginx:1.14.1]
+http://www.dns.chamber.finance [200] [] [114] [] [13.248.169.48] [68.544523ms]
+https://v3-app.compound.finance [200] [] [2290] [Compound Dashboard] [cloudflare] [104.20.28.98] [cloudflare] [262.014175ms] [Cloudflare,HSTS,HTTP/3,IPFS]
+https://mainnet-eth.compound.finance [200] [] [66] [cloudflare] [104.20.28.98] [cloudflare] [681.937487ms] [Cloudflare,HSTS,HTTP/3]
+https://v3-app-staging.compound.finance [200] [] [2290] [Compound Dashboard] [cloudflare] [172.66.145.186] [cloudflare] [279.848417ms] [Cloudflare,HSTS,HTTP/3,IPFS]
+https://stage.compound.finance [200] [] [1627] [Compound] [cloudflare] [104.20.28.98] [cloudflare] [355.998516ms] [Cloudflare,Google Cloud,Google Cloud Storage,HSTS,HTTP/3]
+https://v2-app.compound.finance [200] [] [2086] [Compound] [cloudflare] [172.66.145.186] [cloudflare] [328.724164ms] [Cloudflare,HSTS,HTTP/3,IPFS]
+https://yieldlayer.cian.app [200] [] [8252] [CIAN︱YIELD LAYER OF DEFI] [nginx/1.14.1] [34.223.57.101] [205.467043ms] [HSTS,Nginx:1.14.1]
+https://testnet.bondify.cian.app [200] [] [727] [CIAN︱BONDIFY] [nginx/1.22.1] [54.249.205.85] [466.169263ms] [HSTS,Nginx:1.22.1]
+http://wildcard.chamber.finance [200] [] [114] [] [13.248.169.48] [99.759795ms]
+https://app-v2.compound.finance [200] [] [2086] [Compound] [cloudflare] [172.66.145.186] [cloudflare] [797.984134ms] [Cloudflare,HSTS,HTTP/3,IPFS]
+https://yield-layer.cian.app [200] [] [12743] [Yield Layer] [nginx/1.14.1] [34.223.57.101] [248.090069ms] [HSTS,Nginx:1.14.1]
+https://vault.cian.app [200] [] [1287] [CIAN︱YIELD LAYER OF DEFI] [nginx/1.14.1] [34.223.57.101] [518.159147ms] [HSTS,Nginx:1.14.1]
+https://www.cian.app [200] [] [11226] [CIAN︱YIELD LAYER OF DEFI] [nginx/1.14.1] [34.223.57.101] [337.369762ms] [HSTS,Nginx:1.14.1]
+https://v3-app-stage.compound.finance [200] [] [2304] [Compound Dashboard] [cloudflare] [104.20.28.98] [cloudflare] [576.567823ms] [Cloudflare,HSTS,HTTP/3,IPFS]
+https://docs.compound.finance [200] [] [272769] [Compound III Documentation] [cloudflare] [104.20.28.98] [cloudflare] [331.367135ms] [Cloudflare,Fastly,GitHub Pages,HSTS,HTTP/3,Highlight.js,Varnish]
+https://docs.cian.app [200] [] [479709] [CIAN Documentation | CIAN] [cloudflare] [104.18.40.47] [cloudflare] [404.6457ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://c3-docs.compound.finance [301] [https://v3-docs.compound.finance/] [167] [301 Moved Permanently] [cloudflare] [104.20.28.98] [cloudflare] [79.703924ms] [Cloudflare,HSTS,HTTP/3]
+https://point.cian.app [301] [https://point.cian.app/point] [185] [301 Moved Permanently] [nginx/1.14.1] [34.223.57.101] [204.002677ms] [HSTS,Nginx:1.14.1]
+https://treasury-stage.compound.finance [301] [https://stage.compoundtreasury.com/] [0] [cloudflare] [172.66.145.186] [cloudflare] [119.363307ms] [Cloudflare,HSTS,HTTP/3]
+https://zh-app.compound.finance [301] [https://v2-app.compound.finance/?locale=zh_ZH] [167] [301 Moved Permanently] [cloudflare] [172.66.145.186] [cloudflare] [72.865251ms] [Cloudflare,HSTS,HTTP/3]
+http://c3.compound.finance [301] [https://c3.compound.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.145.186] [cloudflare] [27.179512ms] [Cloudflare,HTTP/3]
+http://treasury-api-stage.compound.finance [301] [https://treasury-api-stage.compound.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.145.186] [cloudflare] [25.072218ms] [Cloudflare,HTTP/3]
+
+## 302
+https://app-ipfs.compound.finance [302] [https://cloudflare-ipfs.com/ipfs/QmRbp91auy77woBj2x4PWDAyzDDTB1mhyYFriWHx9TuRmq/] [0] [cloudflare] [104.20.28.98] [cloudflare] [268.742927ms] [Cloudflare,HSTS,HTTP/3]
+https://treasury.compound.finance [302] [https://compoundlabs.xyz] [0] [cloudflare] [172.66.145.186] [cloudflare] [86.963261ms] [Cloudflare,HSTS,HTTP/3]
+https://v3-docs.compound.finance [302] [https://docs.compound.finance/] [143] [302 Found] [cloudflare] [172.66.145.186] [cloudflare] [79.671384ms] [Cloudflare,HSTS,HTTP/3]
+
+## 307
+https://eth-alpha.compound.finance [307] [https://developers.cloudflare.com/web3/how-to/use-ethereum-gateway/] [169] [307 Temporary Redirect] [cloudflare] [104.20.28.98] [cloudflare] [467.518821ms] [Cloudflare,HSTS,HTTP/3]
+
+## 308
+
+## 401
+https://bondify.cian.app [401] [] [195] [401 Authorization Required] [nginx/1.14.1] [34.223.57.101] [343.297374ms] [Basic,Nginx:1.14.1]
+
+## 403
+https://eth.compound.finance [403] [] [17] [cloudflare] [104.18.11.112] [cloudflare] [84.28779ms] [Cloudflare,HTTP/3]
+https://dev-app.cian.app [403] [] [169] [403 Forbidden] [nginx/1.14.1] [34.223.57.101] [250.909017ms] [Nginx:1.14.1]
+https://profile.compound.finance [403] [] [22] [cloudflare] [104.20.28.98] [cloudflare] [121.226431ms] [Cloudflare,HSTS,HTTP/3]
+
+## 404
+https://data.cian.app [404] [] [18] [nginx/1.14.1] [34.223.57.101] [348.9036ms] [Nginx:1.14.1]
+https://test.compound.finance [404] [] [9] [cloudflare] [172.66.145.186] [cloudflare] [103.611387ms] [Cloudflare,HSTS,HTTP/3]
+https://simulation-api.cian.app [404] [] [153] [404 Not Found] [nginx/1.22.0] [35.88.48.220] [258.033905ms] [Nginx:1.22.0]
+https://v3-api.jordan-stage.compound.finance [404] [] [32] [cloudflare] [104.20.28.98] [cloudflare] [158.526793ms] [Cloudflare,HSTS,HTTP/3]
+https://v3-api.compound.finance [404] [] [32] [cloudflare] [104.20.28.98] [cloudflare] [372.884427ms] [Cloudflare,HSTS,HTTP/3]
+https://v3-api-stage.compound.finance [404] [] [32] [cloudflare] [104.20.28.98] [cloudflare] [529.697032ms] [Cloudflare,HSTS,HTTP/3]
+
+## 500
+https://api.alpha.compound.finance [500] [] [136] [cloudflare] [104.20.28.98] [cloudflare] [126.762702ms] [Cloudflare,HSTS,HTTP/3]
+https://prices.compound.finance [500] [] [39] [cloudflare] [104.20.28.98] [cloudflare] [352.907228ms] [Cloudflare,HSTS,HTTP/3]
+
+## 502
+https://api.stage.compound.finance [502] [] [16] [cloudflare] [172.66.145.186] [cloudflare] [517.234492ms] [Cloudflare,HSTS,HTTP/3]
+
+## 503
+
