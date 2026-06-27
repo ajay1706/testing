@@ -1,0 +1,2 @@
+https://api-staging.vfat.io [502] [] [16] [cloudflare] [104.20.26.207] [cloudflare] [490.406299ms] [Cloudflare,HTTP/3]
+https://quote-staging.vfat.io [502] [] [16] [cloudflare] [104.20.26.207] [cloudflare] [505.298062ms] [Cloudflare,HTTP/3]
