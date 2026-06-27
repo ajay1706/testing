@@ -1,0 +1,6 @@
+https://otc.aevo.xyz [404] [] [107] [Vercel] [76.76.21.98] [503.242906ms] [HSTS,Vercel]
+https://degen.aevo.xyz [404] [] [107] [Vercel] [66.33.60.67] [502.83317ms] [HSTS,Vercel]
+https://degen-testnet.aevo.xyz [404] [] [107] [Vercel] [76.76.21.22] [505.523339ms] [HSTS,Vercel]
+https://admin-api-testnet.aevo.xyz [404] [] [19] [] [54.250.102.165] [503.775502ms]
+https://testnet-faucet.aevo.xyz [404] [] [79] [Vercel] [76.76.21.93] [202.291177ms] [HSTS,Vercel]
+https://governance.aevo.xyz [404] [] [107] [Vercel] [76.76.21.22] [587.79095ms] [HSTS,Vercel]
