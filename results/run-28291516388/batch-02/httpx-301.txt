@@ -1,0 +1,4 @@
+https://blog.apex.exchange [301] [https://www.apex.exchange/blog/] [17] [] [140.150.29.88] [660.453087ms] [Amazon ALB,Amazon Web Services]
+https://apex.exchange [301] [https://www.apex.exchange//] [0] [AmazonS3] [3.167.88.63] [cloudfront] [957.484761ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://dev.pro.apex.exchange [301] [https://dev.pro.apex.exchange:443/] [134] [301 Moved Permanently] [awselb/2.0] [18.142.155.61] [444.023358ms] [Amazon ELB,Amazon Web Services]
+http://quote-dev.pro.apex.exchange [301] [https://quote-dev.pro.apex.exchange:443/] [134] [301 Moved Permanently] [awselb/2.0] [18.142.155.61] [458.073518ms] [Amazon ELB,Amazon Web Services]
