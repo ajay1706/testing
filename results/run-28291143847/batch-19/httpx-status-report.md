@@ -1,0 +1,86 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:06:39 UTC 2026
+
+HTTPX lines: 57
+Live URLs: 57
+
+## 200
+https://app.originprotocol.com [200] [] [4593] [Origin Dapp] [AmazonS3] [3.167.69.62] [cloudfront] [258.404091ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,BEM,HSTS,HTTP/3]
+https://app.overnight.fi [200] [] [4339] [Overnight.fi App] [nginx/1.29.0] [185.246.86.103] [420.718987ms] [Google Analytics,HSTS,Nginx:1.29.0]
+https://grafana.originprotocol.com [200] [] [17110] [Grafana] [cloudflare] [104.18.12.97] [cloudflare] [380.459945ms] [Cloudflare,HSTS]
+https://investor.originprotocol.com [200] [] [828] [Origin] [AmazonS3] [18.165.83.125] [cloudfront] [326.320573ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://legacy-unstake.originprotocol.com [200] [] [10518] [Unstake OGN] [cloudflare] [104.20.34.172] [cloudflare] [407.399011ms] [Cloudflare]
+https://ipfs.originprotocol.com [200] [] [3753] [Origin Dapp] [cloudflare] [172.66.150.200] [cloudflare] [560.235167ms] [Cloudflare,IPFS]
+https://overnight.fi [200] [] [1656] [Overnight | Your money should not sleep] [nginx/1.29.0] [185.246.86.103] [375.477544ms] [HSTS,Nginx:1.29.0]
+https://explorer.near-intents.org [200] [] [164667] [Explorer - NEAR Intents] [Vercel] [66.33.60.66] [288.004873ms] [HSTS,Next.js,Node.js,React,Snowplow Analytics,Vercel,Webpack]
+https://governance.originprotocol.com [200] [] [201160] [Origin Protocol - OUSD, OETH, and SuperOETH governance] [nginx] [216.66.8.43] [245.072691ms] [Discourse:2026.6.0,HSTS,Nginx,Ruby on Rails]
+https://team.originprotocol.com [200] [] [828] [Origin] [AmazonS3] [3.170.42.29] [cloudfront] [1.312505436s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://near-intents.org [200] [] [91755] [NEAR Intents | The Smartest Way to Trade Across Chains] [Vercel] [76.76.21.123] [319.642096ms] [C3.js,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.originprotocol.com [200] [] [435657] [Introduction to Origin | Origin] [cloudflare] [104.18.40.47] [cloudflare] [206.118048ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.overnight.fi [200] [] [433484] [Welcome | Overnight Finance Docs] [cloudflare] [104.21.18.68] [cloudflare] [226.566081ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.near-intents.org [200] [] [471112] [Index - NEAR Intents] [Vercel] [66.33.60.193] [245.9015ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://www.originprotocol.com [200] [] [201902] [Origin Protocol] [cloudflare] [172.66.150.200] [cloudflare] [1.079309138s] [Cloudflare]
+https://status.near-intents.org [200] [] [6550] [NEAR Intents Status Page] [] [13.35.78.128] [cloudfront] [3.780868361s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://stage.near-intents.org [200] [] [83810] [NEAR Intents | The Smartest Way to Trade Across Chains] [Vercel] [76.76.21.93] [3.568247113s] [HSTS,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+
+## 301
+https://api.originprotocol.com [301] [https://www.originprotocol.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.34.172] [cloudflare] [52.159026ms] [Cloudflare]
+https://new.near-intents.org [301] [https://preview.near.com/] [671] [301 Moved Permanently] [cloudflare] [104.21.80.130] [cloudflare] [109.320631ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://partner.near-intents.org [301] [https://partners.near-intents.org/] [671] [301 Moved Permanently] [cloudflare] [104.21.80.130] [cloudflare] [148.394142ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://uni-routing.overnight.fi [301] [https://uni-routing.overnight.fi/] [169] [301 Moved Permanently] [nginx/1.29.0] [185.246.86.103] [2.208102346s] [Nginx:1.29.0]
+
+## 302
+https://legacy.near-intents.org [302] [https://vercel.com/sso-api?url=https%3A%2F%2Flegacy.near-intents.org%2F&nonce=995df66ccfac203a2d1070893914f953809c2ff171a6f23e8778228d1de1081c] [15] [Vercel] [66.33.60.130] [266.750469ms] [HSTS,Vercel]
+https://originprotocol.com [302] [https://www.originprotocol.com/] [143] [302 Found] [cloudflare] [104.20.34.172] [cloudflare] [101.416059ms] [Cloudflare]
+https://staging-nearcom.near-intents.org [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging-nearcom.near-intents.org%2F&nonce=ac6406f9f7a646b2d22884ba68e67b5290e665570ad5e54b95ea6c34afc3393f] [15] [Vercel] [216.150.1.1] [415.631944ms] [HSTS,Vercel]
+
+## 307
+https://app.near-intents.org [307] [https://near-intents.org/] [15] [Vercel] [66.33.60.67] [58.246379ms] [HSTS,Vercel]
+https://aml.near-intents.org [307] [/auth/login] [30777] [Near Intents AML Portal] [Vercel] [216.150.16.193] [570.385021ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://partners.near-intents.org [307] [https://api.workos.com/user_management/authorize?client_id=client_01KARCETZ8G13NF9V3G2J62QDS&provider=authkit&redirect_uri=https%3A%2F%2Fpartners.near-intents.org%2Fauth%2Fcallback&response_type=code&screen_hint=sign-in&state=eyJyZXR1cm5QYXRobmFtZSI6Ii8ifQ%3D%3D] [19520] [NEAR Intents Partners Portal] [Vercel] [216.150.16.193] [631.477398ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://signin.near-intents.org [307] [https://api.workos.com/user_management/initiate_login?context=&client_id=client_01KARCETZ8G13NF9V3G2J62QDS] [83775] [Sign in] [cloudflare] [172.64.152.23] [cloudflare] [681.591417ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+
+## 308
+https://dev.near-intents.org [308] [https://partners.near-intents.org/] [15] [Vercel] [66.33.60.66] [235.556743ms] [HSTS,Vercel]
+https://staging.near-intents.org [308] [https://staging-nearcom.near-intents.org/] [15] [Vercel] [216.150.1.193] [357.370663ms] [HSTS,Vercel]
+
+## 401
+https://admin.overnight.fi [401] [] [179] [401 Authorization Required] [nginx/1.29.0] [185.246.86.103] [522.322803ms] [Basic,HSTS,Nginx:1.29.0]
+
+## 403
+https://blog.originprotocol.com [403] [] [5670] [Just a moment...] [cloudflare] [162.159.153.4] [cloudflare] [28.84497ms] [Cloudflare,HSTS,HTTP/3]
+https://analytics.originprotocol.com [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [3.171.76.89] [cloudfront] [245.820816ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://aimredis-stage.overnight.fi [403] [] [153] [403 Forbidden] [nginx/1.29.0] [185.246.86.103] [306.581723ms] [HSTS,Nginx:1.29.0]
+https://aimredis.overnight.fi [403] [] [555] [403 Forbidden] [nginx/1.29.0] [185.246.86.103] [303.744362ms] [HSTS,Nginx:1.29.0]
+https://grafana.overnight.fi [403] [] [153] [403 Forbidden] [nginx/1.29.0] [185.246.86.103] [322.656664ms] [HSTS,Nginx:1.29.0]
+https://loki.overnight.fi [403] [] [153] [403 Forbidden] [nginx/1.29.0] [185.246.86.103] [392.641097ms] [HSTS,Nginx:1.29.0]
+https://mattermost.overnight.fi [403] [] [153] [403 Forbidden] [nginx/1.29.0] [185.246.86.103] [498.069216ms] [HSTS,Nginx:1.29.0]
+https://point-backend.overnight.fi [403] [] [153] [403 Forbidden] [nginx/1.29.0] [185.246.86.103] [354.959335ms] [HSTS,Nginx:1.29.0]
+https://registry.overnight.fi [403] [] [153] [403 Forbidden] [nginx/1.29.0] [185.246.86.103] [457.068707ms] [HSTS,Nginx:1.29.0]
+https://prometheus.overnight.fi [403] [] [153] [403 Forbidden] [nginx/1.29.0] [185.246.86.103] [472.547934ms] [HSTS,Nginx:1.29.0]
+https://vault.overnight.fi [403] [] [153] [403 Forbidden] [nginx/1.29.0] [185.246.86.103] [4.3182143s] [HSTS,Nginx:1.29.0]
+https://vl-vpn.overnight.fi [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [13.140.1.65] [4.330376548s] [Amazon CloudFront,Amazon Web Services]
+https://test-vpn.overnight.fi [403] [] [17] [cloudflare] [91.223.236.196] [7.27550075s] [Cloudflare]
+
+## 404
+https://api.near-intents.org [404] [] [63] [cloudflare] [104.21.80.130] [cloudflare] [141.904547ms] [Cloudflare,Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://aggregator.overnight.fi [404] [] [63] [nginx/1.29.0] [185.246.86.103] [300.420637ms] [Express,HSTS,Nginx:1.29.0,Node.js]
+https://backend.overnight.fi [404] [] [63] [nginx/1.29.0] [185.246.86.103] [338.656517ms] [Express,HSTS,Nginx:1.29.0,Node.js]
+https://governance-notifications-api.overnight.fi [404] [] [139] [Error] [nginx/1.29.0] [185.246.86.103] [314.889696ms] [Express,HSTS,Nginx:1.29.0,Node.js]
+https://remote.investor.originprotocol.com [404] [] [58] [Heroku] [75.2.60.68] [168.256492ms] [HSTS]
+https://remote.team.originprotocol.com [404] [] [58] [Heroku] [13.248.244.96] [193.618694ms] [HSTS]
+https://ovnstable-skims.overnight.fi [404] [] [63] [nginx/1.29.0] [185.246.86.103] [398.662241ms] [Express,HSTS,Nginx:1.29.0,Node.js]
+
+## 500
+https://blocked.originprotocol.com [500] [] [265] [500 Internal Server Error] [cloudflare] [172.66.150.200] [cloudflare] [345.201393ms] [Cloudflare]
+
+## 502
+
+## 503
+http://gas-station.overnight.fi [503] [] [592] [503 Service Temporarily Unavailable] [nginx] [185.246.86.103] [219.790582ms] [Nginx]
+http://galxe-pp.overnight.fi [503] [] [190] [503 Service Temporarily Unavailable] [nginx] [185.246.86.103] [237.898292ms] [Nginx]
+http://postgres-reinforce.overnight.fi [503] [] [190] [503 Service Temporarily Unavailable] [nginx] [185.246.86.103] [228.168712ms] [Nginx]
+http://redis-reinforce.overnight.fi [503] [] [592] [503 Service Temporarily Unavailable] [nginx] [185.246.86.103] [206.454137ms] [Nginx]
+http://tetris.overnight.fi [503] [] [592] [503 Service Temporarily Unavailable] [nginx] [185.246.86.103] [190.54596ms] [Nginx]
+
