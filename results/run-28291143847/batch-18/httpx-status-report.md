@@ -1,0 +1,86 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:04:17 UTC 2026
+
+HTTPX lines: 63
+Live URLs: 63
+
+## 200
+https://fallback.morpho.org [200] [] [483] [Morpho | Fallback App] [Vercel] [64.239.109.65] [59.127399ms] [HSTS,Vercel]
+https://base-miniapp.native.org [200] [] [18066] [Native - The End Game of Liquidity] [cloudflare] [104.21.38.19] [cloudflare] [226.628762ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HTTP/3]
+https://native-tool-uat.native.org [200] [] [958] [Native Tool] [cloudflare] [172.67.218.5] [cloudflare] [487.344285ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://rewards-legacy.morpho.org [200] [] [32910] [Morpho Rewards Lookup] [Vercel] [64.239.109.129] [149.140915ms] [HSTS,Vercel]
+https://legacy-v2.native.org [200] [] [18764] [Native - The End Game of Liquidity] [cloudflare] [104.21.38.19] [cloudflare] [138.946253ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HTTP/3]
+https://agents.morpho.org [200] [] [37267] [Morpho Agents — Skill-First Access to Morpho] [railway-hikari] [69.46.46.95] [582.748572ms]
+https://notion.native.org [200] [] [17419] [Notion] [cloudflare] [172.67.218.5] [cloudflare] [216.723417ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,hCaptcha]
+https://native-uat.native.org [200] [] [18351] [Native - The End Game of Liquidity] [cloudflare] [172.67.218.5] [cloudflare] [131.617875ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HTTP/3]
+https://app.native.org [200] [] [20736] [Native: On-chain price discovery and execution] [cloudflare] [172.67.218.5] [cloudflare] [1.016729208s] [C3.js,Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+https://native-preview.native.org [200] [] [18339] [Native - The End Game of Liquidity] [cloudflare] [172.67.218.5] [cloudflare] [412.768637ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HTTP/3]
+https://app.morpho.org [200] [] [62537] [Morpho] [] [99.84.215.11] [cloudfront] [314.386442ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,p5.js]
+https://app-uat.native.org [200] [] [20424] [Native: On-chain price discovery and execution] [cloudflare] [172.67.218.5] [cloudflare] [883.95389ms] [C3.js,Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+https://staging.native.org [200] [] [19119] [Native - Swap] [cloudflare] [104.21.38.19] [cloudflare] [528.211553ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HTTP/3]
+https://v1.native.org [200] [] [18297] [Native - The End Game of Liquidity] [cloudflare] [104.21.38.19] [cloudflare] [278.477071ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HTTP/3]
+https://wntlp-test.native.org [200] [] [18764] [Native - The End Game of Liquidity] [cloudflare] [172.67.218.5] [cloudflare] [461.599387ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HTTP/3]
+https://brand.morpho.org [200] [] [169949] [Morpho Brand Guidelines] [Vercel] [64.239.123.1] [245.582939ms] [HSTS,Vercel]
+https://www.native.org [200] [] [158043] [Native: on-chain price discovery and execution] [cloudflare] [104.21.38.19] [cloudflare] [726.473937ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+https://native.org [200] [] [158043] [Native: on-chain price discovery and execution] [cloudflare] [104.21.38.19] [cloudflare] [1.461627369s] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+https://forum.morpho.org [200] [] [382772] [Morpho Governance Forum - Morpho enables users to lend and borrow crypto assets efficiently.] [nginx] [184.104.178.43] [946.91006ms] [Discourse:2026.6.0,HSTS,Nginx,Ruby on Rails]
+https://morpho.org [200] [] [514173] [Morpho | The open credit network for the world] [Vercel] [64.239.109.1] [286.87585ms] [HSTS,Snowplow Analytics,Vercel]
+https://beta.morpho.org [200] [] [452393] [Morpho | The open credit network for the world] [] [108.156.144.78] [cloudfront] [1.610585845s] [Amazon CloudFront,Amazon Web Services,HSTS,Next.js,Node.js,React,Webpack]
+https://data.morpho.org [200] [] [959634] [Morpho | Network Data] [Vercel] [64.239.123.1] [1.353778896s] [HSTS,Vercel]
+https://mortgagefi.xyz [200] [] [24046] [MortgageFi.xyz for sale | Spaceship.com] [openresty] [44.232.173.249] [7.522313157s] [HSTS,Nginx,OpenResty]
+https://campaigns.morpho.org [200] [] [983665] [Opportunities | Morpho] [] [136.110.147.203] [google] [1.896507609s] [Google Analytics,Google Cloud,Google Cloud CDN,HTTP/3,Unpkg]
+https://status.morpho.org [200] [] [863217] [Morpho status] [] [167.235.220.62] [1.384661011s] [Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus]
+https://www.mortgagefi.xyz [200] [] [24046] [MortgageFi.xyz for sale | Spaceship.com] [openresty] [44.232.173.249] [9.233500492s] [HSTS,Nginx,OpenResty]
+
+## 301
+https://doc.morpho.org [301] [https://docs.morpho.org/] [0] [AmazonS3] [52.85.151.78] [cloudfront] [63.623097ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://documentation.morpho.org [301] [https://docs.morpho.org/] [0] [AmazonS3] [52.85.151.4] [cloudfront] [53.794942ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://governance.morpho.org [301] [http://forum.morpho.org/] [0] [AmazonS3] [65.8.54.110] [cloudfront] [57.969897ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://legacy.morpho.org [301] [http://app.morpho.org/] [0] [AmazonS3] [18.154.144.91] [cloudfront] [61.084302ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://lite.morpho.org [301] [https://app.morpho.org/?from=lite] [0] [CloudFront] [18.155.192.80] [cloudfront] [58.406789ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://blog.morpho.org [301] [https://mirror.xyz/0x6e632701fD42A9b856294A2172dd63f03EB957c5/] [0] [AmazonS3] [65.9.168.38] [cloudfront] [565.97676ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://job.morpho.org [301] [https://morpho.org/jobs/] [0] [AmazonS3] [108.139.10.72] [cloudfront] [386.374477ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://rewards.morpho.org [301] [https://campaigns.morpho.org/] [0] [CloudFront] [18.155.192.34] [cloudfront] [172.916788ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://whitelisting.morpho.org [301] [https://listing.morpho.dev/] [15] [Vercel] [64.239.123.1] [185.408378ms] [HSTS,Vercel]
+
+## 302
+https://help.morpho.org [302] [https://help.morpho.org/en/] [0] [cloudflare] [104.18.37.238] [cloudflare] [263.76555ms] [Cloudflare,HSTS]
+https://www.morpho.org [302] [https://morpho.org/] [15] [Vercel] [64.239.109.65] [204.188218ms] [HSTS,Vercel]
+https://web.vpn.native.org [302] [https://web.vpn.native.org/__session_start__] [0] [web.vpn.beyourowndex.com] [47.131.93.122] [896.960401ms] [Amazon ALB,Amazon Web Services]
+
+## 307
+https://anchorage.morpho.org [307] [/earn] [15] [Vercel] [64.239.123.129] [74.001007ms] [HSTS,Vercel]
+https://docs.native.org [307] [https://docs.native.org/native-dev/] [15] [cloudflare] [104.21.38.19] [cloudflare] [107.215183ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://docs.morpho.org [308] [https://docs.morpho.org/get-started/] [0] [Vercel] [76.76.21.93] [133.986837ms] [HSTS,Vercel]
+
+## 401
+https://announcementkit.morpho.org [401] [] [13462] [Authentication Required] [Vercel] [64.239.123.1] [140.754046ms] [HSTS,Vercel]
+https://private.blue-api.morpho.org [401] [] [0] [CloudFront] [52.85.151.114] [cloudfront] [184.701638ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://private.api.morpho.org [401] [] [0] [CloudFront] [52.85.151.4] [cloudfront] [189.850236ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+
+## 403
+https://app.blue-api.morpho.org [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [52.85.151.126] [cloudfront] [43.674873ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://app.api.morpho.org [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [52.85.151.95] [cloudfront] [59.081021ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://api.native.org [403] [] [146] [403 Forbidden] [] [16.76.118.71] [385.681009ms] [HSTS]
+https://cdn.morpho.org [403] [] [111] [AmazonS3] [65.8.54.73] [cloudfront] [522.344053ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://blue-services.morpho.org [403] [] [42] [] [18.238.192.37] [cloudfront] [639.393234ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 404
+https://blue-api.morpho.org [404] [] [63] [] [3.168.86.11] [cloudfront] [215.26398ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://backend.morpho.org [404] [] [33] [Apache] [18.155.192.57] [cloudfront] [222.749527ms] [Amazon CloudFront,Amazon Web Services,Apache HTTP Server,HSTS,PHP:8.3.21]
+https://api.morpho.org [404] [] [63] [] [3.168.86.122] [cloudfront] [223.538165ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://static.native.org [404] [] [0] [cloudflare] [104.21.38.19] [cloudflare] [239.766022ms] [Cloudflare,HTTP/3]
+https://lb.services.morpho.org [404] [] [16] [awselb/2.0] [51.44.231.137] [774.50754ms] [Amazon ELB,Amazon Web Services]
+https://v2.api.native.org [404] [] [146] [404 Not Found] [] [13.192.242.46] [517.20856ms] [HSTS]
+
+## 500
+
+## 502
+https://beta.blue-api.morpho.org [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [18.173.121.42] [cloudfront] [153.7689ms] [Amazon CloudFront,Amazon Web Services]
+https://beta.app.morpho.org [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [108.138.246.5] [cloudfront] [344.095566ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 503
+
