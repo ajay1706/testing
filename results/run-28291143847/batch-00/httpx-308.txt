@@ -1,0 +1,2 @@
+http://app.aera.finance [308] [https://app.aera.finance/] [14] [Vercel] [76.76.21.98] [3.142022638s] [Vercel]
+http://staging.app.aera.finance [308] [https://staging.app.aera.finance/] [14] [Vercel] [76.76.21.98] [102.251808ms] [Vercel]
