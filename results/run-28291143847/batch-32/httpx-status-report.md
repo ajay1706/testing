@@ -1,0 +1,73 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:14:25 UTC 2026
+
+HTTPX lines: 43
+Live URLs: 43
+
+## 200
+https://go.vesper.finance [200] [] [12854] [Sign In] [] [3.215.172.219] [127.18116ms] [Bootstrap,Prototype,Salesforce Marketing Cloud Account Engagement,jQuery Migrate:3.3.0,jQuery UI,jQuery:3.5.1]
+https://enroll.uat.id.vnx.li [200] [] [500] [Enrollment Wizard] [Caddy] [3.125.252.229] [294.408782ms] [Caddy,HTTP/3]
+https://enroll.uat.vnx.li [200] [] [414] [Enrollment Wizard] [] [18.192.97.44] [304.900583ms] [HTTP/3]
+https://enroll.vnx.li [200] [] [414] [Enrollment Wizard] [] [3.76.155.138] [332.108299ms] [HTTP/3]
+https://enroll.id.vnx.li [200] [] [4621] [Defguard Enrollment Service] [] [3.78.69.136] [321.509725ms] [HTTP/3]
+https://invest.vnx.li [200] [] [701] [VNX Commodities] [] [3.66.35.222] [297.415457ms] [HSTS]
+https://cabinet.id.vnx.li [200] [] [1114] [VNX ID Verification] [] [3.79.77.223] [600.444604ms] [HSTS]
+https://investor.uat.vnx.li [200] [] [701] [VNX Commodities] [] [54.93.63.118] [332.855851ms] [HSTS]
+https://my.uat.vnx.li [200] [] [701] [VNX Commodities] [] [18.185.225.168] [350.730415ms] [HSTS]
+https://gov.vesper.finance [200] [] [143840] [Vesper Finance Governance Forum - We are a community dedicated to combining DeFi's energy with the professionalism that will expand the DeFi category.] [nginx] [216.66.8.75] [232.501577ms] [Discourse:2026.6.0,HSTS,Nginx,Ruby on Rails]
+https://docs.vesper.finance [200] [] [327957] [Introduction | Vesper Documentation] [cloudflare] [172.64.147.209] [cloudflare] [174.997793ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.vendor.finance [200] [] [301872] [What is Vendor Finance? | Vendor Finance] [cloudflare] [104.18.40.47] [cloudflare] [390.089094ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://app.vesper.finance [200] [] [279830] [Vesper App  | Pools | Ethereum] [nginx/1.26.3] [3.124.150.76] [652.925333ms] [Amazon ALB,Amazon Web Services,HSTS,Next.js,Nginx:1.26.3,Node.js,React,Webpack]
+https://docs.uat.vnx.li [200] [] [440489] [VNX API v1] [Caddy] [3.74.92.243] [488.640534ms] [Caddy,HSTS]
+https://retired.vesper.finance [200] [] [424617] [Vesper App  | Pools | Ethereum] [nginx/1.22.1] [52.29.129.251] [762.187786ms] [Amazon ALB,Amazon Web Services,HSTS,Next.js,Nginx:1.22.1,Node.js,React,Webpack]
+https://uat.vnx.li [200] [] [44012] [VNX Commodities: investments in tokenized precious metals] [nginx/1.18.0 (Ubuntu)] [51.102.124.156] [544.986243ms] [ActiveCampaign,Cookiebot,HSTS,MySQL,Nginx:1.18.0,PHP,Ubuntu,WordPress:5.8,Yoast SEO:16.9]
+https://vpn.id.vnx.li [200] [] [2046] [] [3.78.69.136] [296.834438ms] [HTTP/3]
+https://vesper.finance [200] [] [72615] [Home - Vesper Finance] [cloudflare] [141.193.213.20] [190.163744ms] [Bootstrap,Cloudflare,Cloudflare Bot Management,Google Analytics,HTTP/3,MySQL,PHP,Slick,WP Engine,WP Rocket,WordPress,WordPress Block Editor,Yoast SEO:27.8,jQuery,jQuery Migrate:3.4.1]
+https://vpn.uat.id.vnx.li [200] [] [2046] [Caddy] [3.125.252.229] [290.002404ms] [Caddy,HTTP/3]
+https://vnx.li [200] [] [48224] [VNX real world assets: gold-backed tokens] [nginx/1.18.0 (Ubuntu)] [51.102.124.156] [517.900351ms] [ActiveCampaign,Cookiebot,Google Tag Manager,HSTS,MySQL,Nginx:1.18.0,PHP,Polylang,Ubuntu,WordPress Block Editor,WordPress:5.8,Yoast SEO:16.9]
+https://vpn.uat.vnx.li [200] [] [2046] [] [18.192.97.44] [302.380781ms] [HTTP/3]
+https://vpn.vnx.li [200] [] [2046] [] [3.76.155.138] [293.449603ms] [HTTP/3]
+https://widget.id.vnx.li [200] [] [1337] [VNX ID Verification] [] [3.79.77.223] [298.940356ms] [HSTS]
+https://widget.uat.id.vnx.li [200] [] [1337] [VNX ID Verification] [nginx/1.27.5] [63.181.153.79] [301.319625ms] [Amazon S3,Amazon Web Services,HSTS,Nginx:1.27.5]
+
+## 301
+http://api.uat.id.vnx.li [301] [https://api.uat.id.vnx.li/] [17] [] [63.181.153.79] [179.925591ms]
+http://docs.vnx.li [301] [https://docs.vnx.li/] [17] [] [3.76.76.112] [179.456396ms]
+http://cabinet.uat.id.vnx.li [301] [https://cabinet.uat.id.vnx.li/] [17] [] [63.181.153.79] [180.201418ms]
+http://vendor.finance [301] [https://vendor.finance/] [38] [Netlify] [75.2.60.5] [46.234965ms] [Netlify]
+https://www.vendor.finance [301] [https://vendor.finance/] [38] [Netlify] [18.208.88.157] [77.114967ms] [HSTS,Netlify]
+https://www.vesper.finance [301] [https://vesper.finance/] [0] [cloudflare] [141.193.213.20] [446.379278ms] [Cloudflare,Cloudflare Bot Management,HTTP/3,WP Engine,WordPress]
+https://www.vnx.li [301] [https://vnx.li/] [0] [nginx/1.18.0 (Ubuntu)] [3.123.249.93] [459.977701ms] [HSTS,Nginx:1.18.0,Polylang,Ubuntu]
+
+## 302
+https://faq.vnx.li [302] [https://faq.vnx.li/en/] [0] [nginx] [3.170.19.47] [cloudfront] [207.592363ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+
+## 307
+https://discord.vendor.finance [307] [https://discord.gg/fzV8wFmeaS] [168] [307 Temporary Redirect] [openresty] [52.33.207.7] [280.775708ms] [Nginx,OpenResty]
+https://medium.vendor.finance [307] [https://vendorfinance.medium.com/] [168] [307 Temporary Redirect] [openresty] [44.230.85.241] [311.818581ms] [Nginx,OpenResty]
+https://twitter.vendor.finance [307] [https://twitter.com/VendorFi] [168] [307 Temporary Redirect] [openresty] [52.33.207.7] [467.394393ms] [Nginx,OpenResty]
+
+## 308
+http://api.uat.vnx.li [308] [https://api.uat.vnx.li] [164] [308 Permanent Redirect] [] [18.185.225.168] [181.589087ms]
+http://my.vnx.li [308] [https://my.vnx.li] [164] [308 Permanent Redirect] [] [3.66.35.222] [179.322786ms]
+
+## 401
+https://api.id.vnx.li [401] [] [41] [] [3.79.77.223] [305.782052ms] [HSTS]
+https://sol.vnx.li [401] [] [172] [401 Authorization Required] [] [18.192.249.64] [346.121683ms] [Basic,HSTS]
+https://sol.uat.vnx.li [401] [] [172] [401 Authorization Required] [] [3.79.76.82] [357.068297ms] [Basic,HSTS]
+
+## 403
+
+## 404
+https://faq.uat.vnx.li [404] [] [9] [nginx] [3.170.19.47] [cloudfront] [59.470998ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://api.vnx.li [404] [] [548] [404 Not Found] [] [3.66.35.222] [297.241727ms] [HSTS]
+https://server-client.vnx.li [404] [] [146] [404 Not Found] [] [3.66.35.222] [405.799514ms] [HSTS]
+
+## 500
+https://enroll.uat.id.vnx.li [200] [] [500] [Enrollment Wizard] [Caddy] [3.125.252.229] [294.408782ms] [Caddy,HTTP/3]
+
+## 502
+
+## 503
+
