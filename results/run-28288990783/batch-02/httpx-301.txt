@@ -1,0 +1,7 @@
+https://economics.doublezero.xyz [301] [https://doublezero.xyz/economics] [167] [301 Moved Permanently] [cloudflare] [104.21.17.59] [cloudflare] [58.204622ms] [Cloudflare]
+https://drift.trade [301] [https://www.drift.trade/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [383.705204ms] [Cloudflare,HSTS,HTTP/3]
+http://dashboard.dflow.net [301] [https://dashboard.dflow.net/] [43] [Netlify] [18.208.88.157] [8.398731ms] [Netlify]
+http://dev.app.dflow.net [301] [https://dev.app.dflow.net/] [41] [Netlify] [98.84.224.111] [6.748694ms] [Netlify]
+https://www.doublezero.xyz [301] [https://doublezero.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.222.196] [cloudflare] [32.79611ms] [Cloudflare]
+https://www.dflow.net [301] [https://dflow.net/] [33] [Netlify] [75.2.60.5] [1.0813537s] [HSTS,Netlify]
+http://telemetry-state-in-devnet.doublezero.xyz [301] [https://telemetry-state-in-devnet.doublezero.xyz/] [671] [301 Moved Permanently] [cloudflare] [104.21.17.59] [cloudflare] [2.037387803s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]

@@ -1,0 +1,3 @@
+https://dlob.drift.trade [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [52.85.193.18] [cloudfront] [60.303478ms] [Amazon CloudFront,Amazon Web Services]
+https://markets.dflow.net [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [13.226.238.113] [cloudfront] [444.264567ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://swift.drift.trade [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [3.167.99.112] [cloudfront] [6.118774411s] [Amazon CloudFront,Amazon Web Services]

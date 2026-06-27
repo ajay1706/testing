@@ -1,0 +1,14 @@
+[+] Batch started: Sat Jun 27 12:20:50 UTC 2026
+[+] Run ID: 28288990783
+[+] Batch name: batch-02
+[+] Batch targets:
+dflow.net
+doublezero.xyz
+drift.trade
+[+] Running subfinder...
+[+] Subfinder completed: Sat Jun 27 12:22:22 UTC 2026
+[+] HTTPX input count: 208
+[+] Running httpx...
+[+] httpx completed: Sat Jun 27 12:22:57 UTC 2026
+[+] httpx line count: 79
+[+] Batch completed: Sat Jun 27 12:22:57 UTC 2026
