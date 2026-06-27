@@ -1,0 +1,3 @@
+https://api-dev.usd.ai [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [165.227.84.122] [44.118244ms] [Nginx:1.24.0,Ubuntu]
+https://infra-auth-proxy.backend-dev.api.uniswap.org [502] [] [524] [502 Bad Gateway] [awselb/2.0] [3.147.248.43] [4.100136657s] [Amazon ELB,Amazon Web Services]
+https://infra-auth-proxy.backend-prod.api.uniswap.org [502] [] [122] [502 Bad Gateway] [awselb/2.0] [3.145.224.50] [4.075379934s] [Amazon ELB,Amazon Web Services]
