@@ -1,0 +1,103 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:23:10 UTC 2026
+
+HTTPX lines: 74
+Live URLs: 74
+
+## 200
+https://data.spark.fi [200] [] [719] [Spark Data Hub] [Vercel] [66.33.60.67] [112.847272ms] [HSTS,Vercel]
+https://ask-ai.silo.finance [200] [] [13] [Vercel] [216.150.16.129] [152.583638ms] [HSTS,Vercel]
+https://api.silo.finance [200] [] [6213] [Create Next App] [Vercel] [76.76.21.241] [113.31523ms] [HSTS,Vercel]
+https://app.spark.fi [200] [] [2653] [Spark: Earn on your stablecoins] [Vercel] [76.76.21.123] [188.759822ms] [HSTS,Vercel]
+https://api-v3.silo.finance [200] [] [1953] [Ponder Playground] [] [45.77.109.4] [236.833391ms] [HTTP/3,jsDelivr]
+https://baseapp.spark.fi [200] [] [2789] [Spark: Earn on your stablecoins] [Vercel] [216.150.1.1] [329.297837ms] [HSTS,Vercel]
+https://docs.spark.fi [200] [] [46060] [Spark Documentation Portal – Spark Docs] [Vercel] [76.76.21.164] [106.018571ms] [HSTS,Vercel]
+https://points.spark.fi [200] [] [753] [Spark Points | Season 4] [Vercel] [66.33.60.35] [172.350798ms] [HSTS,Simple Analytics,Vercel]
+https://liquidation.silo.finance [200] [] [8192] [Silo Liquidation App] [Vercel] [66.33.60.129] [95.754888ms] [HSTS,Vercel]
+https://beta-app.spark.fi [200] [] [2653] [Spark: Earn on your stablecoins] [Vercel] [66.33.60.193] [422.354715ms] [HSTS,Vercel]
+https://admin.spiko.finance [200] [] [2537] [Spiko Admin] [cloudflare] [104.26.5.249] [cloudflare] [595.351223ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://distributor.spiko.finance [200] [] [1658] [Spiko] [cloudflare] [172.67.72.7] [cloudflare] [605.59525ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://admin.preprod.spiko.finance [200] [] [2537] [Spiko Admin] [cloudflare] [104.26.4.249] [cloudflare] [727.314749ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://admin.staging.spiko.finance [200] [] [2537] [Spiko Admin] [cloudflare] [172.67.72.7] [cloudflare] [747.195661ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://app.preprod.spiko.finance [200] [] [4073] [Spiko App] [cloudflare] [172.67.72.7] [cloudflare] [715.578889ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://supply.silo.finance [200] [] [1801] [Vercel] [64.29.17.195] [180.136469ms] [HSTS,Vercel]
+https://distributor.preprod.spiko.finance [200] [] [1658] [Spiko] [cloudflare] [172.67.72.7] [cloudflare] [860.922738ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://app.staging.spiko.finance [200] [] [4073] [Spiko App] [cloudflare] [172.67.72.7] [cloudflare] [809.502818ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://distributor.staging.spiko.finance [200] [] [1658] [Spiko] [cloudflare] [104.26.4.249] [cloudflare] [894.101633ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://app.spiko.finance [200] [] [4073] [Spiko App] [cloudflare] [104.26.5.249] [cloudflare] [1.204724648s] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://www.silo.finance [200] [] [96548] [Silo v3: Isolated Lending, Higher Yield & Lender Protection] [cloudflare] [198.202.211.1] [154.914599ms] [Cloudflare,HSTS,HTTP/3,Three.js,Webflow,jQuery:3.5.1,jsDelivr]
+https://gov.silo.finance [200] [] [245377] [Silo Governance - Silo is a non-custodial lending protocol that implements secure money markets where any token borrows another.] [nginx] [216.66.8.75] [406.815388ms] [Discourse:2026.6.0,HSTS,Nginx,Ruby on Rails]
+https://spark.fi [200] [] [201910] [Spark: Earn on your stablecoins] [Vercel] [76.76.21.21] [433.25122ms] [HSTS,Vercel]
+https://devdocs.silo.finance [200] [] [374350] [Protocol Overview | Developer Docs] [cloudflare] [172.64.147.209] [cloudflare] [352.552939ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://devs.spark.fi [301] [https://docs.spark.fi/dev/] [167] [301 Moved Permanently] [cloudflare] [172.66.148.83] [cloudflare] [68.950736ms] [Cloudflare]
+https://blog.spark.fi [301] [https://mirror.xyz/0x52A8305f29f85bEc5fa6eE78B87Ddd2218d8E12E] [167] [301 Moved Permanently] [cloudflare] [172.66.148.83] [cloudflare] [222.140114ms] [Cloudflare]
+https://www.spark.fi [301] [https://spark.fi/] [167] [301 Moved Permanently] [cloudflare] [104.20.23.197] [cloudflare] [44.963343ms] [Cloudflare]
+https://silo.finance [301] [https://www.silo.finance/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [315.223161ms] [Cloudflare,HSTS,HTTP/3]
+http://docs.silo.finance [301] [https://docs.silo.finance/] [41] [Netlify] [13.52.188.95] [47.75805ms] [Netlify]
+
+## 302
+https://e.silo.finance [302] [/login] [0] [cloudflare] [143.204.160.91] [cloudfront] [92.759018ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Envoy,HSTS]
+https://link.spark.fi [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=link.spark.fi] [111] [nginx] [67.199.248.13] [330.920764ms] [HSTS,HTTP/3,Nginx]
+
+## 307
+https://silopedia.silo.finance [307] [https://app.gitbook.com/o/c7FN8fhflepVHJbQA3OQ/sites/site_vmDIq/] [15] [cloudflare] [104.18.40.47] [cloudflare] [145.379995ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://cms.silo.finance [308] [/admin] [15] [Vercel] [216.150.16.129] [257.288928ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://app.silo.finance [308] [/explore] [15] [Vercel] [216.150.16.193] [381.997844ms] [HSTS,Vercel]
+https://v2.silo.finance [308] [/earn] [15] [Vercel] [216.150.1.193] [140.204476ms] [HSTS,Vercel]
+https://v1.silo.finance [308] [/dashboard] [15] [Vercel] [76.76.21.123] [280.646251ms] [HSTS,Vercel]
+https://v3.silo.finance [308] [https://app.silo.finance/] [15] [Vercel] [216.150.1.1] [691.814309ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://cdn.spiko.finance [403] [] [243] [AmazonS3] [143.204.160.19] [cloudfront] [651.172943ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://public-api.public-api.staging.spiko.finance [403] [] [19] [cloudflare] [104.26.5.249] [cloudflare] [592.54124ms] [Cloudflare]
+https://public-api.staging.spiko.finance [403] [] [19] [cloudflare] [104.26.4.249] [cloudflare] [671.565196ms] [Cloudflare]
+
+## 404
+https://api-v2.spark.fi [404] [] [79] [Vercel] [66.33.60.193] [93.966ms] [HSTS,Vercel]
+https://ekr6jla2zaskpecz5ggf7v.spiko.finance [404] [] [9115] [Site not found · GitHub Pages] [GitHub.com] [185.199.109.153] [141.680377ms] [Fastly,GitHub Pages,Varnish]
+https://api-v3-health-checks.dev.silo.finance [404] [] [9] [] [45.77.109.4] [248.751414ms] [HTTP/3]
+https://api-v3-health-checks.silo.finance [404] [] [13] [] [45.77.109.4] [254.619779ms] [HTTP/3]
+https://api-v3.dev.silo.finance [404] [] [9] [] [45.77.109.4] [316.137234ms] [HTTP/3]
+https://backend.spark.fi [404] [] [9] [railway-hikari] [69.46.46.22] [452.967223ms] [Express,Node.js]
+https://api.spark.fi [404] [] [21] [cloudflare] [172.66.148.83] [cloudflare] [452.431276ms] [Cloudflare]
+https://cdn.spark.fi [404] [] [27150] [Not Found] [cloudflare] [172.66.148.83] [cloudflare] [333.987628ms] [Cloudflare]
+https://mcp-server.silo.finance [404] [] [0] [] [45.77.109.4] [302.814077ms] [HTTP/3]
+https://admin-auth.spiko.finance [404] [] [0] [cloudflare] [172.67.72.7] [cloudflare] [544.598058ms] [Cloudflare]
+https://admin-auth.preprod.spiko.finance [404] [] [0] [cloudflare] [104.26.4.249] [cloudflare] [616.84185ms] [Cloudflare]
+https://admin-api.preprod.spiko.finance [404] [] [0] [cloudflare] [104.26.4.249] [cloudflare] [626.818321ms] [Cloudflare]
+https://investor-api.staging.spiko.finance [404] [] [0] [cloudflare] [104.26.5.249] [cloudflare] [564.571433ms] [Cloudflare]
+https://distributor-auth.staging.spiko.finance [404] [] [0] [cloudflare] [104.26.5.249] [cloudflare] [638.623558ms] [Cloudflare]
+https://investor-auth.preprod.spiko.finance [404] [] [0] [cloudflare] [104.26.4.249] [cloudflare] [561.252773ms] [Cloudflare]
+https://resolv-integration.silo.finance [404] [] [9] [] [45.77.109.4] [276.120055ms] [HTTP/3]
+https://investor-auth.spiko.finance [404] [] [0] [] [15.188.35.21] [570.529416ms]
+https://investor-api.spiko.finance [404] [] [0] [cloudflare] [172.67.72.7] [cloudflare] [670.204191ms] [Cloudflare]
+https://admin-api.spiko.finance [404] [] [0] [cloudflare] [172.67.72.7] [cloudflare] [688.109072ms] [Cloudflare]
+https://uv4ucnaea3qpq5gk8fdcz7.spiko.finance [404] [] [9115] [Site not found · GitHub Pages] [GitHub.com] [185.199.110.153] [147.602572ms] [Fastly,GitHub Pages,Varnish]
+https://distributor-auth.spiko.finance [404] [] [0] [cloudflare] [104.26.4.249] [cloudflare] [756.982029ms] [Cloudflare]
+https://distributor-api.spiko.finance [404] [] [0] [cloudflare] [104.26.5.249] [cloudflare] [772.036337ms] [Cloudflare]
+https://investor-api.preprod.spiko.finance [404] [] [0] [cloudflare] [172.67.72.7] [cloudflare] [787.352277ms] [Cloudflare]
+https://investor-auth.staging.spiko.finance [404] [] [0] [cloudflare] [104.26.5.249] [cloudflare] [646.408655ms] [Cloudflare]
+https://admin-auth.staging.spiko.finance [404] [] [0] [cloudflare] [104.26.4.249] [cloudflare] [796.525356ms] [Cloudflare]
+https://distributor-api.staging.spiko.finance [404] [] [0] [cloudflare] [104.26.5.249] [cloudflare] [840.611318ms] [Cloudflare]
+https://distributor-api.preprod.spiko.finance [404] [] [0] [cloudflare] [104.26.5.249] [cloudflare] [841.353483ms] [Cloudflare]
+https://distributor-auth.preprod.spiko.finance [404] [] [0] [cloudflare] [172.67.72.7] [cloudflare] [840.657482ms] [Cloudflare]
+https://public-api.spiko.finance [404] [] [19] [cloudflare] [104.26.5.249] [cloudflare] [688.433784ms] [Cloudflare,Envoy]
+https://mcp-server.dev.silo.finance [404] [] [9] [] [45.77.109.4] [775.118551ms] [HTTP/3]
+https://admin-api.staging.spiko.finance [404] [] [0] [cloudflare] [172.67.72.7] [cloudflare] [1.032998828s] [Cloudflare]
+https://public-api.preprod.spiko.finance [404] [] [19] [cloudflare] [104.26.4.249] [cloudflare] [870.941534ms] [Cloudflare,Envoy]
+https://webhooks.public-api.staging.spiko.finance [404] [] [0] [cloudflare] [104.26.4.249] [cloudflare] [566.733366ms] [Cloudflare]
+https://v2.app.silo.finance [404] [] [107] [Vercel] [216.150.16.1] [703.378592ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
