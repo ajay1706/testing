@@ -1,0 +1,3 @@
+https://docs.bio.xyz [307] [https://docs.bio.xyz/bio/] [15] [cloudflare] [172.64.147.209] [cloudflare] [280.130282ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://launchpad.bio.xyz [307] [https://auctions.bio.xyz/] [15] [Vercel] [66.33.60.67] [375.186318ms] [HSTS,Vercel]
+https://testnet.bio.xyz [307] [/markets] [15] [Vercel] [66.33.60.193] [314.243848ms] [HSTS,Vercel]

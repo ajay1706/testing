@@ -1,0 +1,2 @@
+https://dev-launchpad.bio.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev-launchpad.bio.xyz%2F&nonce=915396f78c1da8a31ca8837c2f14291f261c85b7c175487b3061ed83bf62d721] [15] [Vercel] [76.76.21.241] [374.409478ms] [HSTS,Vercel]
+https://dev-testnet.launchpad.bio.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev-testnet.launchpad.bio.xyz%2F&nonce=e300644422bbe974214606c9ad0fd8d5dd5f4ab1fc4e90e0aedad8da6bc9ce57] [15] [Vercel] [76.76.21.98] [424.424944ms] [HSTS,Vercel]

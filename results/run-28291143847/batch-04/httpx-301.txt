@@ -1,0 +1,7 @@
+https://apply.bio.xyz [301] [https://buildspace.bio.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.4.8] [cloudflare] [179.325434ms] [Cloudflare]
+https://intake.bio.xyz [301] [https://buildspace.bio.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.131.112] [cloudflare] [200.433844ms] [Cloudflare]
+https://bio.xyz [301] [https://www.bio.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [457.816187ms] [Cloudflare,HSTS,HTTP/3]
+https://biofy.bio.xyz [301] [https://biofy.xyz/] [0] [cloudflare] [23.227.38.74] [463.682155ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://fy.bio.xyz [301] [https://biofy.xyz/] [0] [cloudflare] [23.227.38.74] [518.426749ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://shop.bio.xyz [301] [https://biofy.xyz/] [0] [cloudflare] [23.227.38.74] [367.721602ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+http://bmx.exchange [301] [http://www.bitmart.com] [57] [ip-10-124-5-155.us-west-2.compute.internal] [3.33.152.147] [247.762758ms]
