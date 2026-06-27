@@ -1,0 +1,86 @@
+# HTTPX Status Report
+
+Generated at: Sat Jun 27 14:15:45 UTC 2026
+
+HTTPX lines: 57
+Live URLs: 57
+
+## 200
+https://aid-dashboard.gaib.ai [200] [] [4041] [AID Alpha Dashboard - Multi-Chain Cryptocurrency Analytics] [Vercel] [216.150.16.1] [75.685306ms] [HSTS,Vercel]
+https://bridge.gaib.ai [200] [] [3115] [GAIB Bridge | Cross-Chain Bridge for AID & GAIB Tokens] [Vercel] [216.150.16.193] [73.742117ms] [Google Analytics,HSTS,Vercel]
+https://fremenessence.gaib.ai [200] [] [1869] [Fremen Essence NFT by GAIB] [cloudflare] [172.67.155.185] [cloudflare] [96.809687ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://dynamic.gaib.ai [200] [] [5684] [GAIB | Where Capital Meets Compute] [Vercel] [216.150.1.193] [113.48172ms] [Google Analytics,HSTS,Vercel]
+https://aid-dashboard-stg.gaib.ai [200] [] [4041] [AID Alpha Dashboard - Multi-Chain Cryptocurrency Analytics] [Vercel] [216.150.1.129] [218.223505ms] [HSTS,Vercel]
+https://gaic.gaib.ai [200] [] [5600] [Gonka - Decentralized AI Computing Network] [Vercel] [216.150.16.1] [191.776132ms] [Google Analytics,HSTS,Vercel]
+https://gonka-invest.gaib.ai [200] [] [6450] [Gonka - Decentralized AI Computing Network] [cloudflare] [104.21.48.180] [cloudflare] [115.103663ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://fremenessence-stg.gaib.ai [200] [] [1365] [Fremen Essence NFT by GAIB] [Vercel] [216.150.1.193] [324.785268ms] [HSTS,Vercel]
+https://api.fluid.io [200] [] [48] [cloudflare] [172.67.74.232] [cloudflare] [444.615921ms] [AdonisJS,Cloudflare,HSTS,HTTP/3,Node.js]
+https://aidalpha.gaib.ai [200] [] [5860] [AID Alpha - The Final Spice] [cloudflare] [104.21.48.180] [cloudflare] [260.943611ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://fluid.io [200] [] [5164] [Fluid] [Vercel] [216.150.1.1] [372.278611ms] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://aid.gaib.ai [200] [] [6188] [GAIB | Where Capital Meets Compute] [cloudflare] [104.21.48.180] [cloudflare] [250.676763ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://audits.gaib.ai [200] [] [3369] [GAIB Audit reports] [Vercel] [216.150.16.129] [355.178108ms] [Google Analytics,HSTS,Vercel]
+https://gonka-invest-march.gaib.ai [200] [] [5946] [Gonka - Decentralized AI Computing Network] [Vercel] [216.150.16.193] [306.958683ms] [Google Analytics,HSTS,Vercel]
+https://holdings.gaib.ai [200] [] [4700] [GAIB AI - RWAiFi Infra] [Vercel] [216.150.16.1] [296.186828ms] [Google Analytics,HSTS,Vercel]
+https://institutional.gaib.ai [200] [] [7963] [GAIB | Private Credit in AI and Robotics] [Vercel] [216.150.16.193] [229.731432ms] [Google Analytics,HSTS,Vercel]
+https://rpc.fluid.io [200] [] [175] [cloudflare] [104.26.6.141] [cloudflare] [136.370867ms] [Cloudflare,HSTS,HTTP/3]
+https://news-forex.gains.trade [200] [] [49] [cloudflare] [104.20.24.67] [cloudflare] [391.050055ms] [Cloudflare,Express,HTTP/3,Node.js]
+https://pfpmaker.gaib.ai [200] [] [2585] [GAIB MEME Editor] [Vercel] [216.150.16.193] [319.815644ms] [HSTS,Vercel]
+https://gaib.ai [200] [] [16133] [GAIB AI - Where Capital Meets Compute] [cloudflare] [104.21.48.180] [cloudflare] [372.983354ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://pre-vault-api.gaib.ai [200] [] [15] [cloudflare] [172.67.155.185] [cloudflare] [629.865247ms] [Cloudflare,Express,HTTP/3,Node.js]
+https://docs-agent.gaib.ai [200] [] [52827] [Token Kiosk — OpenAI-compatible LLM gateway, pay with crypto] [Vercel] [216.150.16.193] [391.969617ms] [HSTS,Vercel]
+https://select.gaib.ai [200] [] [6415] [GAIB Select | Frontier AI Investment Opportunities] [cloudflare] [104.21.48.180] [cloudflare] [355.352561ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://gains.trade [200] [] [55174] [gTrade | Home] [cloudflare] [104.20.24.67] [cloudflare] [133.767639ms] [Cloudflare,HTTP/3,IPFS]
+https://spacex-ipo.gaib.ai [200] [] [5511] [SpaceX IPO — Short Duration Opportunity with GAIB] [Vercel] [216.150.16.193] [509.695907ms] [Google Analytics,HSTS,Vercel]
+https://solana.fluid.io [200] [] [13308] [Fluid] [cloudflare] [104.26.7.141] [cloudflare] [248.850618ms] [Cloudflare,HSTS,HTTP/3,Node.js,Nuxt.js,Vercel,Vue.js]
+https://aave-v3-atoken-swap.fluid.io [200] [] [4738] [Fluid] [Vercel] [216.150.16.193] [1.631450192s] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://staging.fluid.io [200] [] [5190] [Fluid] [Vercel] [66.33.60.67] [649.522414ms] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://tronbridge.gaib.ai [200] [] [4118] [GAIB] [Vercel] [76.76.21.93] [322.231058ms] [Google Analytics,HSTS,Vercel]
+https://sol.gains.trade [200] [] [25200] [gTrade | Home] [cloudflare] [104.20.24.67] [cloudflare] [694.489383ms] [Cloudflare,HTTP/3,IPFS]
+https://blog.gaib.ai [200] [] [59173] [GAIB AI] [cloudflare] [172.67.155.185] [cloudflare] [1.286619146s] [Cloudflare,Cloudflare Browser Insights,Express,Ghost:6.44,HSTS,HTTP/3,Node.js,jsDelivr]
+https://tgpu-ath1.gaib.ai [200] [] [18379] [GAIB | Tokenized GPUs Sales] [Vercel] [76.76.21.93] [328.224082ms] [Ant Design,HSTS,Vercel]
+https://token-kiosk.gaib.ai [200] [] [52827] [Token Kiosk — OpenAI-compatible LLM gateway, pay with crypto] [Vercel] [216.150.1.1] [574.931241ms] [HSTS,Vercel]
+https://gov.gains.trade [200] [] [226863] [Gains Network] [nginx] [216.66.8.43] [436.21343ms] [Discourse:2026.6.0,HSTS,Nginx,Ruby on Rails]
+https://resolv.fluid.io [200] [] [5020] [Fluid] [Vercel] [216.150.16.193] [2.17511228s] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://gov.fluid.io [200] [] [239255] [Fluid Governance] [nginx] [134.209.238.36] [735.123027ms] [Discourse:2026.2.0,HSTS,Nginx,Ruby on Rails]
+https://docs.gains.trade [200] [] [271206] [Gains Network - Gains Network] [cloudflare] [104.18.3.204] [cloudflare] [73.964932ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://trace.fluid.io [200] [] [28623] [Vercel] [66.33.60.129] [1.783462483s] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://docs.gaib.ai [200] [] [332011] [About GAIB | GAIB] [cloudflare] [172.67.155.185] [cloudflare] [188.536663ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.fluid.io [200] [] [729037] [Contracts Overview | Fluid Technical Docs] [cloudflare] [104.26.7.141] [cloudflare] [116.568215ms] [Cloudflare,HSTS,HTTP/3,Vercel,Vue.js]
+https://uptime.fluid.io [200] [] [2166832] [Fluid status] [] [167.235.220.62] [1.846316864s] [Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus]
+
+## 301
+https://www.gains.trade [301] [https://gains.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.153.20] [cloudflare] [192.693021ms] [Cloudflare,HTTP/3]
+
+## 302
+https://blog.fluid.io [302] [/blog/] [16] [Vercel] [76.76.21.123] [424.184552ms] [HSTS,Vercel]
+https://staging.blog.fluid.io [302] [/blog/] [16] [Vercel] [76.76.21.123] [2.776184772s] [HSTS,Vercel]
+
+## 307
+https://l.gains.trade [307] [https://gains.trade/?spdl=] [0] [cloudflare] [104.21.89.67] [cloudflare] [443.062929ms] [Cloudflare,HTTP/3]
+https://www.fluid.io [307] [https://fluid.io/] [15] [cloudflare] [104.26.7.141] [cloudflare] [372.970882ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://www.gaib.ai [308] [https://gaib.ai/] [15] [Vercel] [66.33.60.130] [364.561571ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://backend-arbitrum.gains.trade [404] [] [139] [Error] [cloudflare] [172.66.153.20] [cloudflare] [63.290395ms] [Cloudflare,Express,HTTP/3,Node.js]
+https://backend-base.gains.trade [404] [] [139] [Error] [cloudflare] [172.66.153.20] [cloudflare] [77.410397ms] [Cloudflare,HTTP/3]
+https://backend-polygon.gains.trade [404] [] [139] [Error] [cloudflare] [104.20.24.67] [cloudflare] [91.99998ms] [Cloudflare,HTTP/3]
+https://backend-pricing.eu.gains.trade [404] [] [139] [Error] [cloudflare] [104.20.24.67] [cloudflare] [172.657404ms] [Cloudflare,Express,HTTP/3,Node.js]
+https://backend-sepolia.gains.trade [404] [] [139] [Error] [cloudflare] [172.66.153.20] [cloudflare] [202.621983ms] [Cloudflare,HTTP/3]
+https://backend-apechain.gains.trade [404] [] [139] [Error] [cloudflare] [172.66.153.20] [cloudflare] [587.929319ms] [Cloudflare,HTTP/3]
+https://sentry.gains.trade [404] [] [0] [cloudflare] [104.20.24.67] [cloudflare] [189.145048ms] [Cloudflare,HTTP/3]
+https://wrkr.gains.trade [404] [] [0] [cloudflare] [172.66.153.20] [cloudflare] [198.867946ms] [Cloudflare,HTTP/3]
+https://insti-aida.gaib.ai [404] [] [107] [Vercel] [216.150.16.193] [1.593419911s] [HSTS,Vercel]
+https://whitepaper.gaib.ai [404] [] [107] [cloudflare] [172.67.155.185] [cloudflare] [468.290343ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
