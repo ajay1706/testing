@@ -1,0 +1,4 @@
+https://blog.exponent.finance [308] [https://www.blog.exponent.finance/] [70] [Framer/89e8012] [31.43.160.6] [69.134844ms] [Framer Sites,HSTS,HTTP/3,React]
+https://exponent.finance [308] [https://www.exponent.finance/] [65] [Framer/89e8012] [31.43.161.6] [62.491431ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.etherfuse.com [308] [https://etherfuse.com/] [15] [Vercel] [216.150.1.193] [177.348433ms] [HSTS,Vercel]
+https://v1-docs.exponent.finance [308] [/starthere] [107985] [cloudflare] [104.18.3.204] [cloudflare] [915.644203ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]

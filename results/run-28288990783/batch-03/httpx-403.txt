@@ -1,0 +1,4 @@
+https://api.v1.core.edgevana.com [403] [] [9] [nginx/1.18.0 (Ubuntu)] [18.232.206.12] [31.008934ms] [Nginx:1.18.0,Ubuntu]
+https://blog.edgevana.com [403] [] [5536] [Just a moment...] [cloudflare] [162.159.153.4] [cloudflare] [32.897905ms] [Cloudflare,HSTS,HTTP/3]
+https://cdn.exponent.finance [403] [] [111] [AmazonS3] [18.160.10.61] [cloudfront] [94.386957ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://cdn.edgevana.com [403] [] [111] [AmazonS3] [3.171.61.68] [cloudfront] [124.715524ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
