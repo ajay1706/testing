@@ -1,0 +1,6 @@
+[codeigniter-env] [http] [high] https://dev.kaio.xyz/.env.example [paths="/.env.example"]
+[laravel-env] [http] [high] https://dev.kaio.xyz/.env.production [paths="/.env.production"]
+[laravel-env] [http] [high] https://dev.kaio.xyz/.env.example [paths="/.env.example"]
+[laravel-env] [http] [high] https://dev.kaio.xyz/.env.dev [paths="/.env.dev"]
+[laravel-env] [http] [high] https://dev.kaio.xyz/.env.dev [paths="/.env.dev"]
+[exposed-gitmodules] [http] [high] https://dev.kaio.xyz/.gitmodules

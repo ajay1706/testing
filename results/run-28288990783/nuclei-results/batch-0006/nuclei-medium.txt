@@ -1,0 +1,4 @@
+[github-workflows-disclosure] [http] [medium] https://dev.kaio.xyz/.github/workflows/deploy.yml [paths="/.github/workflows/deploy.yml"]
+[docker-compose-config] [http] [medium] https://dev.kaio.xyz/docker-compose.yml
+[appspec-yml-disclosure] [http] [medium] https://dev.kaio.xyz/appspec.yml
+[dockerfile-hidden-disclosure] [http] [medium] https://dev.kaio.xyz/Dockerfile
