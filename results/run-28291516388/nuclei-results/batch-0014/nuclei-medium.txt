@@ -1,0 +1,7 @@
+[intercom-identity-misconfiguration] [http] [medium] https://api-iam.intercom.io/messenger/web/ping ["https://help.theo.xyz"]
+[prometheus-metrics] [http] [medium] https://history-generator-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history-generator.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://indexer-main.euler.finance/metrics
+[prometheus-metrics] [http] [medium] https://indexer-prod.euler.finance/metrics
