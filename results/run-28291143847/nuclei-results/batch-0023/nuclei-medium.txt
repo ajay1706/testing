@@ -1,0 +1,4 @@
+[CVE-2021-37598] [http] [medium] https://vesper.finance/wp-json
+[CVE-2022-3590] [http] [medium] https://vnx.li/xmlrpc.php
+[CVE-2023-5561] [http] [medium] https://vnx.li/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2021-25118] [http] [medium] https://vnx.li/wp-json/wp/v2/posts?per_page=1 ["\\/var\\/www\\/html\"]
