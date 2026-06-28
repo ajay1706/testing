@@ -1,0 +1,3 @@
+[intercom-identity-misconfiguration] [http] [medium] https://api-iam.intercom.io/messenger/web/ping ["https://help.ethos.network"]
+[prometheus-metrics] [http] [medium] https://indexer-main.euler.finance/metrics
+[prometheus-metrics] [http] [medium] https://indexer-prod.euler.finance/metrics
