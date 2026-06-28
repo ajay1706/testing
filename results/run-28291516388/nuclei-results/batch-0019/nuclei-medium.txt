@@ -1,0 +1,6 @@
+[CVE-2024-11044] [http] [medium] https://sd-generator-5.api.orai.io/file=https://oast.pro
+[CVE-2024-1183] [http] [medium] https://sd-generator-5.api.orai.io/file=http://oast.pro
+[CVE-2024-4940] [http] [medium] https://sd-generator-5.api.orai.io/file=http://oast.pro/
+[CVE-2024-8021] [http] [medium] https://sd-generator-5.api.orai.io/file=http%3A%2F%2Foast.pro/
+[git-config] [http] [medium] https://revert.finance/.git/config
+[CVE-2024-5936] [http] [medium] https://sd-generator-5.api.orai.io/file=https://oast.me
