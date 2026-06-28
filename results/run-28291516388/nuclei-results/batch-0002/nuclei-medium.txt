@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://aether.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://aether-staging.ostium.io/metrics
+[dockerfile-hidden-disclosure] [http] [medium] https://agents.morpho.org/Dockerfile
