@@ -1,0 +1,13 @@
+[CNVD-2023-96945] [http] [high] https://meta.elfi.xyz/Content/Plugins/uploader/FileChoose.html
+[CVE-2019-11248] [http] [high] https://quote.omni.apex.exchange/debug/pprof/
+[CVE-2019-11253] [http] [high] https://playground.pendle.finance/apis/authorization.k8s.io/v1/selfsubjectaccessreviews
+[CVE-2024-53991] [http] [high] https://community.venus.io/stylesheets/discourse-details_c9ba78323842b5ede693429d2867ce490b07a7f8.css?__ws=community.venus.io&cachebuster=3FjXsAOmOcm1yBLynbnad1SVvN1
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-mm.api.arrakis.finance/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-mm.staging-api.arrakis.finance/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://solaris-grafana.staging-api.arrakis.finance/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[blockchain-rpc-txpool-exposed] [http] [high] https://node1.rpc.karak.network
+[blockchain-rpc-txpool-exposed] [http] [high] https://partner.rpc.karak.network
+[blockchain-rpc-txpool-exposed] [http] [high] https://rpc.karak.network
+[github-takeover] [http] [high] https://ekr6jla2zaskpecz5ggf7v.spiko.finance ["spiko-tech.github.io"]
+[github-takeover] [http] [high] https://uv4ucnaea3qpq5gk8fdcz7.spiko.finance ["spiko-tech.github.io"]
+[unauth-temporal-web-ui] [http] [high] https://maestro-backend.stakedao.org/api/v1/namespaces/default/workflows?query

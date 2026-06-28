@@ -1,0 +1,53 @@
+[CVE-2022-41697] [http] [medium] https://blog.defisaver.com/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://ghost.sushi.com/ghost/api/admin/session
+[CVE-2024-11044] [http] [medium] https://sd-generator-5.api.orai.io/file=https://oast.pro
+[CVE-2024-1183] [http] [medium] https://sd-generator-5.api.orai.io/file=http://oast.pro
+[CVE-2024-4940] [http] [medium] https://sd-generator-5.api.orai.io/file=http://oast.pro/
+[CVE-2024-5936] [http] [medium] https://sd-generator-5.api.orai.io/file=https://oast.me
+[CVE-2024-8021] [http] [medium] https://sd-generator-5.api.orai.io/file=http%3A%2F%2Foast.pro/
+[CVE-2025-54793] [http] [medium] https://api.camelot.exchange//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://dev.api.camelot.exchange//interact.sh/en//
+[CVE-2026-55592] [http] [medium] https://baseapp.spark.fi/healthz ["1"]
+[dockerfile-hidden-disclosure] [http] [medium] https://agents.morpho.org/Dockerfile
+[eol-openssh-debian] [javascript] [medium] gov.fluid.io:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u2"]
+[git-config] [http] [medium] https://compound.finance/.git/config ["eC1hY2Nlc3MtdG9rZW46Z2hzX1hxdW5wSHlQdjgySlZLdTZkdHJxeTZNQjBwWkFORzIwVTRycA=="]
+[git-config] [http] [medium] https://revert.finance/.git/config
+[git-config] [http] [medium] https://www.revert.finance/.git/config
+[intercom-identity-misconfiguration] [http] [medium] https://api-iam.intercom.io/messenger/web/ping ["https://help.theo.xyz"]
+[mongodb-exporter-metrics] [http] [medium] https://builder-staging.ostium.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://builder.ostium.io/metrics
+[n8n-config] [http] [medium] https://n8n.ostium.io/rest/settings
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.hyperlane.xyz [""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com""]
+[node-express-dev-env] [http] [medium] https://data-lab-center.orai.io
+[node-express-dev-env] [http] [medium] https://governance-cache-api.aave.com
+[node-express-dev-env] [http] [medium] https://pre-vault-api.gaib.ai
+[open-redirect-generic] [http] [medium] https://api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://dev.api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[prometheus-metrics] [http] [medium] https://aether-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://aether.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://api-v2.pendle.finance/api/metrics
+[prometheus-metrics] [http] [medium] https://api-v3.silo.finance/metrics
+[prometheus-metrics] [http] [medium] https://api.explorer.testnet.ondo.finance/metrics
+[prometheus-metrics] [http] [medium] https://api.vfat.io/metrics
+[prometheus-metrics] [http] [medium] https://explorer.testnet.ondo.finance/api/metrics
+[prometheus-metrics] [http] [medium] https://gather.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history-generator-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history-generator.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://indexer-main.euler.finance/metrics
+[prometheus-metrics] [http] [medium] https://indexer-prod.euler.finance/metrics
+[prometheus-metrics] [http] [medium] https://listener-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://listener.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://live-market-data-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://live-market-data.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging2.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metrics.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://metrics.staging.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://quote.vfat.io/metrics
+[prometheus-metrics] [http] [medium] https://staging-api.pendle.finance/api/metrics
+[prometheus-metrics] [http] [medium] https://v1-backend-indexer.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v1-points-backend.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v2-backend.karak.network/metrics
