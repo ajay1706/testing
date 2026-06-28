@@ -1,0 +1,2 @@
+[unauth-temporal-web-ui] [http] [high] https://maestro-backend.stakedao.org/api/v1/namespaces/default/workflows?query
+[CNVD-2023-96945] [http] [high] https://meta.elfi.xyz/Content/Plugins/uploader/FileChoose.html

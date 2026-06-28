@@ -1,0 +1,5 @@
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging2.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metrics.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://metrics.staging.gauntlet.xyz/metrics
