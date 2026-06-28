@@ -1,0 +1,1 @@
+[CVE-2026-55592] [http] [medium] https://baseapp.spark.fi/healthz ["1"]
