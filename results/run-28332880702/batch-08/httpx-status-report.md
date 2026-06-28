@@ -1,0 +1,41 @@
+# HTTPX Status Report
+
+Generated at: Sun Jun 28 19:13:15 UTC 2026
+
+HTTPX lines: 12
+Live URLs: 12
+
+## 200
+https://blog.midas.app [200] [] [25513] [Midas | The Standard for Onchain Investment Products] [openresty] [140.248.147.7] [fastly] [60.126119ms] [Ghost:6.46,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://vaults.mevcapital.com [200] [] [28594] [MEV Capital] [Vercel] [64.29.17.65] [414.533054ms] [C3.js,HSTS,Vercel]
+https://www.mevcapital.com [200] [] [64055] [MEV Capital: On-chain liquidity & DeFi risk management] [cloudflare] [198.202.211.1] [276.066298ms] [Cloudflare,Google Analytics,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,LottieFiles,Unpkg,jQuery:3.5.1,jsDelivr,reCAPTCHA]
+
+## 301
+https://mevcapital.com [301] [https://www.mevcapital.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [309.635577ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://api-stg.midas.app [403] [] [2] [cloudflare] [104.18.24.125] [cloudflare] [97.698382ms] [Cloudflare,HTTP/3]
+https://api-prod.midas.app [403] [] [2] [cloudflare] [104.18.24.125] [cloudflare] [107.956836ms] [Cloudflare,HTTP/3]
+https://midas.app [403] [] [5485] [Just a moment...] [cloudflare] [104.18.25.125] [cloudflare] [86.920858ms] [Cloudflare,HTTP/3]
+https://docs.midas.app [403] [] [5554] [Just a moment...] [cloudflare] [104.18.24.125] [cloudflare] [93.984003ms] [Cloudflare,HTTP/3]
+https://www.midas.app [403] [] [5511] [Just a moment...] [cloudflare] [104.18.25.125] [cloudflare] [107.964896ms] [Cloudflare,HTTP/3]
+https://stg.midas.app [403] [] [5574] [Just a moment...] [cloudflare] [104.18.25.125] [cloudflare] [108.214198ms] [Cloudflare,HTTP/3]
+https://liquidation.mevcapital.com [403] [] [6192] [Checking your browser before accessing. Just a moment...] [hcdn] [191.101.104.233] [230.974694ms] [HTTP/3,Hostinger CDN]
+
+## 404
+https://email.ghost.blog.midas.app [404] [] [19] [] [34.102.239.211] [google] [272.010745ms]
+
+## 500
+
+## 502
+
+## 503
+
