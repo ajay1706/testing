@@ -1,0 +1,2 @@
+[CVE-2023-5561] [http] [medium] https://www.vnx.li/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2021-25118] [http] [medium] https://www.vnx.li/wp-json/wp/v2/posts?per_page=1 ["\\/var\\/www\\/html\"]
