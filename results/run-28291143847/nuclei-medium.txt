@@ -1,0 +1,35 @@
+[CVE-2021-25118] [http] [medium] https://uat.vnx.li/wp-json/wp/v2/posts?per_page=1 ["\\/var\\/www\\/html\"]
+[CVE-2021-25118] [http] [medium] https://vnx.li/wp-json/wp/v2/posts?per_page=1 ["\\/var\\/www\\/html\"]
+[CVE-2021-25118] [http] [medium] https://www.vnx.li/wp-json/wp/v2/posts?per_page=1 ["\\/var\\/www\\/html\"]
+[CVE-2021-37598] [http] [medium] https://vesper.finance/wp-json
+[CVE-2022-3590] [http] [medium] https://uat.vnx.li/xmlrpc.php
+[CVE-2022-3590] [http] [medium] https://vnx.li/xmlrpc.php
+[CVE-2022-41697] [http] [medium] https://blog.teller.org/ghost/api/admin/session
+[CVE-2023-5561] [http] [medium] https://uat.vnx.li/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[CVE-2023-5561] [http] [medium] https://vnx.li/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2023-5561] [http] [medium] https://www.vnx.li/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2026-23829] [tcp] [medium] m.pro.apex.exchange:1025
+[CVE-2026-55592] [http] [medium] https://base-miniapp.reserve.org/healthz ["1"]
+[blockchain-rpc-debug-exposure] [http] [medium] https://garfield-testnet.zircuit.com
+[blockchain-rpc-debug-exposure] [http] [medium] https://mainnet.zircuit.com
+[blockchain-rpc-debug-exposure] [http] [medium] https://proxyd-ingress-eu.mainnet.zircuit.com
+[blockchain-rpc-debug-exposure] [http] [medium] https://proxyd-ingress.us-east-2.garfield-testnet.zircuit.com
+[dockerfile-hidden-disclosure] [http] [medium] https://agents.morpho.org/Dockerfile
+[git-config] [http] [medium] https://revert.finance/.git/config
+[git-config] [http] [medium] https://www.revert.finance/.git/config
+[intercom-identity-misconfiguration] [http] [medium] https://api-iam.intercom.io/messenger/web/ping ["https://help.ethos.network"]
+[mongodb-exporter-metrics] [http] [medium] https://dev-web2-api.flaunch.gg/metrics
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.hyperlane.xyz [""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com""]
+[node-express-dev-env] [http] [medium] https://api.peapods.finance
+[node-express-dev-env] [http] [medium] https://mcp.brickken.com
+[node-express-dev-env] [http] [medium] https://pre-vault-api.gaib.ai
+[prometheus-metrics] [http] [medium] https://api.centrifuge.io/metrics
+[prometheus-metrics] [http] [medium] https://bundler.superform.xyz/metrics
+[prometheus-metrics] [http] [medium] https://founders.sport.fun/api/metrics
+[prometheus-metrics] [http] [medium] https://indexer-main.euler.finance/metrics
+[prometheus-metrics] [http] [medium] https://indexer-prod.euler.finance/metrics
+[prometheus-metrics] [http] [medium] https://l1-sepolia-node1-execution.garfield-testnet.zircuit.com/metrics
+[prometheus-metrics] [http] [medium] https://metrics.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://metrics.staging.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://ponder-eu2.moonwell.fi/metrics
+[prometheus-metrics] [http] [medium] https://staging.bundler.superform.xyz/metrics

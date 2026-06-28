@@ -1,0 +1,12 @@
+[CNVD-2023-96945] [http] [high] https://meta.elfi.xyz/Content/Plugins/uploader/FileChoose.html
+[CVE-2019-11248] [http] [high] https://quote.omni.apex.exchange/debug/pprof/
+[CVE-2024-34351] [http] [high] https://pro.teller.org/_next/image?w=16&q=10&url=https://d906rgno6j3jevsa0ekgac6o7t9dwgu16.oast.fun
+[CVE-2024-34351] [http] [high] https://staging.tokentool.bitbond.com/_next/image?w=16&q=10&url=https://d90ao3vo6j3jdvi6kr3gmfx95j3tdhicw.oast.live
+[CVE-2024-34351] [http] [high] https://tokentool.bitbond.com/_next/image?w=16&q=10&url=https://d90aq6no6j3jf3dlj64guobksrrocyetp.oast.site
+[CVE-2024-34351] [http] [high] https://www.teller.org/_next/image?w=16&q=10&url=https://d90auino6j3jengjsj90srtywto81jwcw.oast.online
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-mm.api.arrakis.finance/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-mm.staging-api.arrakis.finance/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://solaris-grafana.staging-api.arrakis.finance/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-55184] [http] [high] https://app.kasu.finance/lending
+[CVE-2025-55184] [http] [high] https://campaign.grove.finance/home
+[leadpages-takeover] [http] [high] http://signup.brickken.com ["custom-proxy.leadpages.net"]
