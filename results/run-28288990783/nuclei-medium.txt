@@ -1,0 +1,24 @@
+[CVE-2021-25118] [http] [medium] https://uat.vnx.li/wp-json/wp/v2/posts?per_page=1 ["\\/var\\/www\\/html\"]
+[CVE-2021-25118] [http] [medium] https://vnx.li/wp-json/wp/v2/posts?per_page=1 ["\\/var\\/www\\/html\"]
+[CVE-2022-3590] [http] [medium] https://uat.vnx.li/xmlrpc.php
+[CVE-2022-3590] [http] [medium] https://vnx.li/xmlrpc.php
+[CVE-2023-5561] [http] [medium] https://uat.vnx.li/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[CVE-2023-5561] [http] [medium] https://vnx.li/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[CVE-2026-55592] [http] [medium] https://portfolio-api.dflow.net/healthz ["0.1.0"]
+[appspec-yml-disclosure] [http] [medium] https://dev.kaio.xyz/appspec.yml
+[blockchain-rpc-debug-exposure] [http] [medium] https://polygon-amoy-backend.phantom.app
+[blockchain-rpc-debug-exposure] [http] [medium] https://polygon-mainnet-backend.phantom.app
+[config-json] [http] [medium] https://api.mainnet.orca.so/config/default.json
+[docker-compose-config] [http] [medium] https://dev.kaio.xyz/docker-compose.yml
+[dockerfile-hidden-disclosure] [http] [medium] https://dev.kaio.xyz/Dockerfile
+[github-workflows-disclosure] [http] [medium] https://dev.kaio.xyz/.github/workflows/deploy.yml [paths="/.github/workflows/deploy.yml"]
+[intercom-identity-misconfiguration] [http] [medium] https://api-iam.intercom.io/messenger/web/ping ["https://help.marinade.finance"]
+[node-express-dev-env] [http] [medium] https://launch-mint-v1.raydium.io
+[prometheus-metrics] [http] [medium] https://airflow.ratex.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.explorer.testnet.ondo.finance/metrics
+[prometheus-metrics] [http] [medium] https://api.hc.jpool.one/metrics
+[prometheus-metrics] [http] [medium] https://api.kaio.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api.pre.kaio.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api.stg.kaio.xyz/metrics
+[prometheus-metrics] [http] [medium] https://grafana-explore.dev.hubbleprotocol.io/metrics
+[prometheus-metrics] [http] [medium] https://grafana-explore.hubbleprotocol.io/metrics

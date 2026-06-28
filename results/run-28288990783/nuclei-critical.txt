@@ -1,0 +1,8 @@
+[CVE-2026-33032] [http] [critical] https://btc-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-sepolia-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-amoy-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-history-backend.phantom.app/mcp_message
+[config-json-exposure-fuzz] [http] [critical] https://api.mainnet.orca.so/conf.json [path="/conf.json"]
