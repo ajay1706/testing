@@ -1,0 +1,46 @@
+# HTTPX Status Report
+
+Generated at: Sun Jun 28 19:16:03 UTC 2026
+
+HTTPX lines: 17
+Live URLs: 17
+
+## 200
+https://www.ramses.exchange [200] [] [7206] [R A M S E S] [Vercel] [66.33.60.34] [68.672975ms] [HSTS,Vercel]
+https://stake.reservoir.xyz [200] [] [2753] [Vercel] [216.150.1.193] [83.344702ms] [HSTS,Vercel]
+https://www.reservoir.xyz [200] [] [9094] [Home] [] [34.217.231.110] [259.942785ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://v3-docs.ramses.exchange [200] [] [57128] [Ramses  | DOCS] [Vercel] [76.76.21.241] [251.764685ms] [HSTS,Vercel]
+https://docs.ramses.exchange [200] [] [133311] [Ramses | Docs] [Vercel] [216.150.1.193] [199.552094ms] [HSTS,Vercel,dc.js]
+https://docs.reservoir.xyz [200] [] [353200] [Reservoir Overview | Reservoir] [cloudflare] [104.26.3.208] [cloudflare] [168.575641ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,Vercel,dc.js]
+
+## 301
+https://points.reservoir.xyz [301] [https://app.reservoir.xyz/leaderboard] [167] [301 Moved Permanently] [cloudflare] [172.67.73.62] [cloudflare] [48.903615ms] [Cloudflare]
+https://reservoir.xyz [301] [https://www.reservoir.xyz/] [166] [301 Moved Permanently] [] [75.2.70.75] [195.126829ms] [HSTS]
+
+## 302
+http://beta.ramses.exchange [302] [https://app.ramses.exchange] [50] [namecheap-nginx] [162.255.119.105] [36.375742ms] [Nginx]
+
+## 307
+
+## 308
+https://app.ramses.exchange [308] [https://www.ramses.exchange/] [15] [Vercel] [66.33.60.67] [50.283496ms] [HSTS,Vercel]
+https://ramses.exchange [308] [https://www.ramses.exchange/] [15] [Vercel] [76.76.21.21] [72.417215ms] [HSTS,Vercel]
+https://hl.ramses.exchange [308] [https://www.ramses.xyz/] [15] [Vercel] [216.150.16.129] [239.25092ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://staging.reservoir.xyz [403] [] [2174] [Reservoir] [cloudflare] [172.67.73.62] [cloudflare] [36.466431ms] [Cloudflare,Cloudflare Browser Insights]
+https://app.reservoir.xyz [403] [] [2174] [Reservoir] [cloudflare] [104.26.3.208] [cloudflare] [44.229565ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 404
+https://claim.reservoir.xyz [404] [] [107] [Vercel] [216.150.16.193] [134.139152ms] [HSTS,Vercel]
+https://new-ui-v3.ramses.exchange [404] [] [107] [Vercel] [66.33.60.193] [416.907659ms] [HSTS,Vercel]
+https://analytics.ramses.exchange [404] [] [107] [Vercel] [66.33.60.67] [428.401241ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+

@@ -1,0 +1,3 @@
+https://app.ramses.exchange [308] [https://www.ramses.exchange/] [15] [Vercel] [66.33.60.67] [50.283496ms] [HSTS,Vercel]
+https://ramses.exchange [308] [https://www.ramses.exchange/] [15] [Vercel] [76.76.21.21] [72.417215ms] [HSTS,Vercel]
+https://hl.ramses.exchange [308] [https://www.ramses.xyz/] [15] [Vercel] [216.150.16.129] [239.25092ms] [HSTS,Vercel]
