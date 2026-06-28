@@ -1,0 +1,14 @@
+[+] Batch started: Sun Jun 28 19:09:14 UTC 2026
+[+] Run ID: 28332880702
+[+] Batch name: batch-03
+[+] Batch targets:
+gauntlet.xyz
+growi.fi
+harmonix.fi
+[+] Running subfinder...
+[+] Subfinder completed: Sun Jun 28 19:10:13 UTC 2026
+[+] HTTPX input count: 128
+[+] Running httpx...
+[+] httpx completed: Sun Jun 28 19:10:18 UTC 2026
+[+] httpx line count: 69
+[+] Batch completed: Sun Jun 28 19:10:18 UTC 2026

@@ -1,0 +1,6 @@
+https://dev.aera-api.gauntlet.xyz [301] [/docs] [39] [] [107.178.247.79] [google] [142.823596ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js]
+https://aera-api.gauntlet.xyz [301] [/docs] [39] [] [136.110.138.169] [google] [232.961917ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js]
+https://gauntlet.xyz [301] [https://www.gauntlet.xyz/] [664] [301 Moved Permanently] [cloudflare] [104.18.19.13] [cloudflare] [325.782632ms] [Cloudflare,Cloudflare Browser Insights]
+https://preview.docs.gauntlet.xyz [301] [https://docs.gauntlet.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.18.18.13] [cloudflare] [211.66561ms] [Cloudflare]
+https://staging.aera-api.gauntlet.xyz [301] [/docs] [39] [] [34.149.159.221] [google] [244.862557ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js]
+https://www.growi.fi [301] [https://growi.fi/] [225] [301 Moved Permanently] [Apache] [51.255.26.63] [670.814401ms] [Apache HTTP Server]
