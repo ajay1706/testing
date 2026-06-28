@@ -1,0 +1,5 @@
+[blockchain-rpc-debug-exposure] [http] [medium] https://mainnet.zircuit.com
+[node-express-dev-env] [http] [medium] https://mcp.brickken.com
+[CVE-2026-23829] [tcp] [medium] m.pro.apex.exchange:1025
+[prometheus-metrics] [http] [medium] https://metrics.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://metrics.staging.gauntlet.xyz/metrics
