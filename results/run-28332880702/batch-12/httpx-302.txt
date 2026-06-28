@@ -1,0 +1,8 @@
+https://app-staging.upshift.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fapp-staging.upshift.finance%2F&nonce=4249665f2e1ce2214c6fc5110508f9059326bc7c944f9b707ccb4b65729747f2] [15] [Vercel] [216.150.1.193] [220.53914ms] [HSTS,Vercel]
+https://devsupport.uniswap.org [302] [https://devsupport.uniswap.org/hc] [0] [cloudflare] [216.198.53.11] [177.56159ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://dev-portal.backend-dev.api.uniswap.org [302] [/login] [0] [] [3.150.237.89] [5.15218663s]
+https://developers.uniswap.org [302] [/docs] [0] [cloudflare] [162.159.140.227] [cloudflare] [6.184395634s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://enterpriseenrollment.uniswap.org [302] [https://intune.microsoft.com/] [0] [cloudflare] [162.159.140.227] [cloudflare] [3.101361036s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://go.uniswap.org [302] [https://go.uniswap.org/?rb.routing.mode=proxy&rb.routing.signature=594673] [0] [cloudflare] [172.66.0.225] [cloudflare] [7.105481779s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://landing-staging.upshift.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Flanding-staging.upshift.finance%2F&nonce=2a8790dfe78c8f1a3bd6420ea809462b0484fb38b74538fc79f89d52a1c9232e] [15] [Vercel] [216.150.1.129] [3.261781202s] [HSTS,Vercel]
+https://uniswap.org [302] [https://app.uniswap.org/] [143] [302 Found] [cloudflare] [162.159.140.227] [cloudflare] [5.037661751s] [Cloudflare,HSTS]

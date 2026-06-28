@@ -1,0 +1,14 @@
+[+] Batch started: Sun Jun 28 19:14:25 UTC 2026
+[+] Run ID: 28332880702
+[+] Batch name: batch-12
+[+] Batch targets:
+uniswap.org
+upshift.finance
+veda.tech
+[+] Running subfinder...
+[+] Subfinder completed: Sun Jun 28 19:15:40 UTC 2026
+[+] HTTPX input count: 669
+[+] Running httpx...
+[+] httpx completed: Sun Jun 28 19:18:24 UTC 2026
+[+] httpx line count: 131
+[+] Batch completed: Sun Jun 28 19:18:24 UTC 2026
