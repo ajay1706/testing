@@ -1,0 +1,1 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://solaris-grafana.staging-api.arrakis.finance/public/..%2F%5coast.pro%2F%3f%2F..%2F..
