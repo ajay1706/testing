@@ -1,0 +1,3 @@
+[node-express-dev-env] [http] [medium] https://data-lab-center.orai.io
+[open-redirect-generic] [http] [medium] https://dev.api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://dev.api.camelot.exchange//interact.sh/en//
