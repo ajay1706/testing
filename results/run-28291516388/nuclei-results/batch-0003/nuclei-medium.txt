@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://api-v2.pendle.finance/api/metrics
+[prometheus-metrics] [http] [medium] https://api-v3.silo.finance/metrics
