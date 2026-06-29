@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://unicup.uniswap.org
+[blockchain-rpc-txpool-exposed] [http] [high] https://testnet-rpc.plasma.to
