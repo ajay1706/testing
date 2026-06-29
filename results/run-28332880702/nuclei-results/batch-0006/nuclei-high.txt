@@ -1,0 +1,2 @@
+[CVE-2019-11253] [http] [high] https://playground.pendle.finance/apis/authorization.k8s.io/v1/selfsubjectaccessreviews
+[CVE-2019-11248] [http] [high] https://pushgateway.yuzu.money/debug/pprof/
