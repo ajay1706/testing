@@ -1,0 +1,10 @@
+[eol-openssh-debian] [javascript] [medium] gov.fluid.io:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u2"]
+[node-express-dev-env] [http] [medium] https://api.hyperdrive.fi
+[node-express-dev-env] [http] [medium] https://info-api.growi.fi
+[prometheus-metrics] [http] [medium] https://api-v2.pendle.finance/api/metrics
+[prometheus-metrics] [http] [medium] https://indexer-main.euler.finance/metrics
+[prometheus-metrics] [http] [medium] https://indexer-prod.euler.finance/metrics
+[prometheus-metrics] [http] [medium] https://metrics.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://metrics.staging.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://pushgateway.yuzu.money/metrics
+[prometheus-metrics] [http] [medium] https://staging-api.pendle.finance/api/metrics
