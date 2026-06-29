@@ -1,0 +1,5 @@
+[node-express-dev-env] [http] [medium] https://info-api.growi.fi
+[prometheus-metrics] [http] [medium] https://indexer-main.euler.finance/metrics
+[prometheus-metrics] [http] [medium] https://indexer-prod.euler.finance/metrics
+[prometheus-metrics] [http] [medium] https://metrics.staging.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://metrics.gauntlet.xyz/metrics
