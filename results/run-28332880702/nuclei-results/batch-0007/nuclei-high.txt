@@ -1,0 +1,4 @@
+[CVE-2025-55184] [http] [high] https://sale.harmonix.fi
+[CVE-2025-55184] [http] [high] https://sale.sandbox.nonprod.harmonix.fi
+[blockchain-rpc-txpool-exposed] [http] [high] https://rpc.plasma.to
+[blockchain-rpc-txpool-exposed] [http] [high] https://rpc.hyperswap.exchange

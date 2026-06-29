@@ -1,0 +1,3 @@
+[CVE-2026-33032] [http] [critical] https://rpc.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc3.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc2.euler.finance/mcp_message
