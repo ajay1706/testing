@@ -1,0 +1,67 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul  1 19:56:57 UTC 2026
+
+HTTPX lines: 38
+Live URLs: 38
+
+## 200
+https://pfpmaker.gaib.ai [200] [] [2585] [GAIB MEME Editor] [Vercel] [216.150.1.193] [96.12924ms] [HSTS,Vercel]
+https://bridge.gaib.ai [200] [] [3115] [GAIB Bridge | Cross-Chain Bridge for AID & GAIB Tokens] [Vercel] [216.150.16.193] [90.961547ms] [Google Analytics,HSTS,Vercel]
+https://aid.gaib.ai [200] [] [6188] [GAIB | Where Capital Meets Compute] [cloudflare] [172.67.155.185] [cloudflare] [94.456179ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://holdings.gaib.ai [200] [] [4700] [GAIB AI - RWAiFi Infra] [Vercel] [216.150.16.129] [134.999253ms] [Google Analytics,HSTS,Vercel]
+https://audits.gaib.ai [200] [] [3369] [GAIB Audit reports] [Vercel] [216.150.16.193] [154.943663ms] [Google Analytics,HSTS,Vercel]
+https://dev.hyperdrive.fi [200] [] [1172] [Hyperdrive] [Vercel] [66.33.60.67] [201.954595ms] [HSTS,Vercel]
+https://aidalpha.gaib.ai [200] [] [5860] [AID Alpha - The Final Spice] [cloudflare] [172.67.155.185] [cloudflare] [136.574752ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://fremenessence.gaib.ai [200] [] [1869] [Fremen Essence NFT by GAIB] [cloudflare] [104.21.48.180] [cloudflare] [190.777968ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://gonka-invest-march.gaib.ai [200] [] [5946] [Gonka - Decentralized AI Computing Network] [Vercel] [216.150.16.193] [218.054562ms] [Google Analytics,HSTS,Vercel]
+https://app-beta.hyperdrive.fi [200] [] [1172] [Hyperdrive] [Vercel] [76.76.21.98] [371.084195ms] [HSTS,Vercel]
+https://app.hyperdrive.fi [200] [] [1172] [Hyperdrive] [Vercel] [66.33.60.67] [409.265551ms] [HSTS,Vercel]
+https://gaib.ai [200] [] [16133] [GAIB AI - Where Capital Meets Compute] [cloudflare] [172.67.155.185] [cloudflare] [179.840567ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://aid-dashboard-stg.gaib.ai [200] [] [4041] [AID Alpha Dashboard - Multi-Chain Cryptocurrency Analytics] [Vercel] [216.150.16.193] [424.333185ms] [HSTS,Vercel]
+https://gaic.gaib.ai [200] [] [5600] [Gonka - Decentralized AI Computing Network] [Vercel] [216.150.1.193] [359.050093ms] [Google Analytics,HSTS,Vercel]
+https://gonka-invest.gaib.ai [200] [] [6450] [Gonka - Decentralized AI Computing Network] [cloudflare] [104.21.48.180] [cloudflare] [358.821319ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://app-private.hyperdrive.fi [200] [] [1172] [Hyperdrive] [Vercel] [66.33.60.34] [515.334172ms] [HSTS,Vercel]
+https://fremenessence-stg.gaib.ai [200] [] [1365] [Fremen Essence NFT by GAIB] [Vercel] [216.150.1.1] [547.691072ms] [HSTS,Vercel]
+https://spacex-ipo.gaib.ai [200] [] [5511] [SpaceX IPO — Short Duration Opportunity with GAIB] [Vercel] [216.150.1.193] [216.19555ms] [Google Analytics,HSTS,Vercel]
+https://aid-dashboard.gaib.ai [200] [] [4041] [AID Alpha Dashboard - Multi-Chain Cryptocurrency Analytics] [Vercel] [216.150.16.193] [500.268611ms] [HSTS,Vercel]
+https://tronbridge.gaib.ai [200] [] [4118] [GAIB] [Vercel] [66.33.60.194] [264.386118ms] [Google Analytics,HSTS,Vercel]
+https://institutional.gaib.ai [200] [] [7963] [GAIB | Private Credit in AI and Robotics] [Vercel] [216.150.16.193] [491.417737ms] [Google Analytics,HSTS,Vercel]
+https://dynamic.gaib.ai [200] [] [5684] [GAIB | Where Capital Meets Compute] [Vercel] [216.150.1.193] [606.952657ms] [Google Analytics,HSTS,Vercel]
+https://pre-vault-api.gaib.ai [200] [] [15] [cloudflare] [104.21.48.180] [cloudflare] [799.236536ms] [Cloudflare,Express,HTTP/3,Node.js]
+https://select.gaib.ai [200] [] [6415] [GAIB Select | Frontier AI Investment Opportunities] [cloudflare] [104.21.48.180] [cloudflare] [461.325178ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://docs-agent.gaib.ai [200] [] [52827] [Token Kiosk — OpenAI-compatible LLM gateway, pay with crypto] [Vercel] [216.150.16.193] [304.0806ms] [HSTS,Vercel]
+https://tgpu-ath1.gaib.ai [200] [] [18379] [GAIB | Tokenized GPUs Sales] [Vercel] [66.33.60.34] [352.001842ms] [Ant Design,HSTS,Vercel]
+https://hyperdrive.fi [200] [] [153630] [Hyperdrive] [Vercel] [76.76.21.21] [216.966871ms] [HSTS,Vercel]
+https://blog.gaib.ai [200] [] [59173] [GAIB AI] [cloudflare] [172.67.155.185] [cloudflare] [1.299195926s] [Cloudflare,Cloudflare Browser Insights,Express,Ghost:6.44,HSTS,HTTP/3,Node.js,jsDelivr]
+https://token-kiosk.gaib.ai [200] [] [52827] [Token Kiosk — OpenAI-compatible LLM gateway, pay with crypto] [Vercel] [216.150.16.193] [1.214936835s] [HSTS,Vercel]
+https://docs.gaib.ai [200] [] [352876] [About GAIB | GAIB] [cloudflare] [104.21.48.180] [cloudflare] [321.50554ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+
+## 302
+
+## 307
+
+## 308
+https://www.gaib.ai [308] [https://gaib.ai/] [15] [Vercel] [76.76.21.142] [231.577413ms] [HSTS,Vercel]
+https://www.hyperdrive.fi [308] [https://hyperdrive.fi/] [15] [Vercel] [66.33.60.67] [359.847132ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://generalintuition.ai [403] [] [17] [cloudflare] [172.67.165.8] [cloudflare] [338.310347ms] [Cloudflare,HTTP/3]
+
+## 404
+https://insti-aida.gaib.ai [404] [] [107] [Vercel] [216.150.1.193] [338.785907ms] [HSTS,Vercel]
+https://api.hyperdrive.fi [404] [] [139] [Error] [nginx/1.29.5] [157.230.46.210] [761.663083ms] [Express,HSTS,Nginx:1.29.5,Node.js]
+https://liquidator-api.hyperdrive.fi [404] [] [139] [Error] [nginx/1.27.5] [178.128.18.152] [810.96665ms] [Express,HSTS,Nginx:1.27.5,Node.js]
+https://whitepaper.gaib.ai [404] [] [107] [cloudflare] [172.67.155.185] [cloudflare] [1.363339794s] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 500
+
+## 502
+
+## 503
+http://points-api.hyperdrive.fi [503] [] [190] [503 Service Temporarily Unavailable] [nginx] [157.230.46.210] [463.891598ms] [Nginx]
+
