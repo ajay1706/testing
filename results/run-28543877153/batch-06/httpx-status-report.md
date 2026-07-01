@@ -1,0 +1,80 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul  1 19:59:46 UTC 2026
+
+HTTPX lines: 51
+Live URLs: 51
+
+## 200
+https://fee.lagoon.finance [200] [] [6575] [Lagoon - Cumulated Fees] [Vercel] [216.150.16.193] [227.935072ms] [HSTS,Vercel]
+https://mini.lagoon.finance [200] [] [19388] [Lagoon Finance - Mini dApp] [Vercel] [216.150.16.129] [284.710283ms] [HSTS,Vercel]
+https://dashboard.lagoon.finance [200] [] [6039] [Lagoon deployments Dashboard] [Vercel] [216.150.1.193] [286.473085ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://metrics.lagoon.finance [200] [] [399] [Lagoon Metrics] [] [34.163.107.94] [google] [474.52377ms] [HTTP/3]
+https://k2bridge.karak.network [200] [] [2291] [K2 Bridge] [Netlify] [52.52.192.191] [549.139113ms] [HSTS,Netlify]
+https://partner.rpc.karak.network [200] [] [0] [] [13.206.181.230] [717.264611ms]
+https://node1.rpc.karak.network [200] [] [0] [] [65.0.150.41] [753.871367ms]
+https://v1-backend-indexer.karak.network [200] [] [1882] [Ponder Playground] [nginx/1.24.0 (Ubuntu)] [66.203.113.33] [503.255367ms] [Nginx:1.24.0,Ubuntu,Unpkg]
+https://rpc.karak.network [200] [] [0] [] [13.206.181.230] [801.909553ms]
+https://cdn.lagoon.finance [200] [] [47090] [cloudflare] [104.26.13.231] [cloudflare] [584.248466ms] [Cloudflare]
+https://restaking.karak.network [200] [] [10497] [Karak | Staking] [Netlify] [13.52.188.95] [789.546018ms] [HSTS,Netlify,Next.js,Node.js,React,Webpack]
+https://explorer.karak.network [200] [] [77042] [K2 Mainnet blockchain explorer - View K2 Mainnet stats | Blockscout] [nginx/1.29.7] [65.0.150.41] [764.96949ms] [Next.js,Nginx:1.29.7,Node.js,React,Webpack]
+https://lagoon.finance [200] [] [141466] [Lagoon | The Infrastructure for On-Chain Asset Management] [Vercel] [216.150.1.1] [514.764055ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://dev.lagoon.finance [200] [] [125042] [LAGOON | Vault Infrastructure] [Vercel] [216.150.16.1] [802.019799ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://app.lagoon.finance [200] [] [201777] [LAGOON | Vault Infrastructure] [Vercel] [216.150.16.1] [533.394596ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.lagoon.finance [200] [] [434358] [What is Lagoon? | Lagoon] [cloudflare] [104.18.40.47] [cloudflare] [392.921216ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://v2.lagoon.finance [200] [] [201777] [LAGOON | Vault Infrastructure] [Vercel] [216.150.16.193] [1.295323063s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://pprod.lagoon.finance [200] [] [201868] [LAGOON | Vault Infrastructure] [Vercel] [216.150.16.1] [2.245411908s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://dacm.lagoon.finance [200] [] [797565] [DACM | Digital Asset Capital Management] [Vercel] [216.150.1.193] [1.454322979s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://9summits.lagoon.finance [200] [] [797215] [9Summits | Elevate Your DeFi] [Vercel] [216.150.1.193] [2.471919729s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+http://nft.karak.network [301] [https://nft.karak.network/] [41] [Netlify] [13.52.188.95] [215.687483ms] [Netlify]
+http://dev-docs.karak.network [301] [https://dev-docs.karak.network/] [46] [Netlify] [13.52.188.95] [10.861194ms] [Netlify]
+http://hyperlane-explorer.karak.network [301] [https://hyperlane-explorer.karak.network/] [56] [Netlify] [13.52.188.95] [10.111292ms] [Netlify]
+
+## 302
+
+## 307
+https://www.karak.network [307] [https://opengdp.network/] [15] [Vercel] [76.76.21.123] [99.468767ms] [HSTS,Vercel]
+https://nav.lagoon.finance [307] [/login] [8108] [Lagoon | NAV Portfolio Dashboard] [Vercel] [216.150.16.129] [919.215549ms] [HSTS,Vercel]
+
+## 308
+https://karak.network [308] [https://opengdp.network/] [15] [Vercel] [76.76.21.21] [110.775606ms] [HSTS,Vercel]
+https://www.lagoon.finance [308] [https://lagoon.finance/] [15] [Vercel] [216.150.16.193] [149.955885ms] [HSTS,Vercel]
+
+## 401
+https://points-api-v1.karak.network [401] [] [63] [nginx/1.18.0 (Ubuntu)] [45.250.252.101] [505.421304ms] [Nginx:1.18.0,Ubuntu]
+
+## 403
+
+## 404
+https://backup.lagoon.finance [404] [] [107] [Vercel] [216.150.16.193] [207.66977ms] [HSTS,Vercel]
+https://api-smeltery-pprod.lagoon.finance [404] [] [63] [Google Frontend] [34.8.192.89] [google] [224.738924ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://explorer.sepolia.karak.network [404] [] [644] [404 Not Found] [cloudflare] [172.67.68.17] [cloudflare] [255.908036ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://stride.rpc.karak.network [404] [] [644] [404 Not Found] [cloudflare] [104.26.5.198] [cloudflare] [133.340041ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://public-node1.rpc.karak.network [404] [] [644] [404 Not Found] [cloudflare] [104.26.5.198] [cloudflare] [214.295939ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://rpc.sepolia.karak.network [404] [] [644] [404 Not Found] [cloudflare] [104.26.13.27] [cloudflare] [235.581113ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://api-pprod.lagoon.finance [404] [] [63] [Google Frontend] [34.8.192.89] [google] [635.990825ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://api.lagoon.finance [404] [] [63] [Google Frontend] [34.8.192.89] [google] [650.356683ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://nav-api.lagoon.finance [404] [] [33] [cloudflare] [104.26.12.231] [cloudflare] [654.491355ms] [Cloudflare]
+https://api-smeltery.lagoon.finance [404] [] [63] [Google Frontend] [34.8.192.89] [google] [734.030579ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://v2-backend.karak.network [404] [] [13] [nginx/1.24.0 (Ubuntu)] [207.188.7.69] [235.062008ms] [Nginx:1.24.0,Ubuntu]
+https://wss.rpc.karak.network [404] [] [644] [404 Not Found] [cloudflare] [104.26.4.198] [cloudflare] [174.120905ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://v1.lagoon.finance [404] [] [107] [Vercel] [216.150.1.193] [261.125798ms] [HSTS,Vercel]
+https://rootstock.lagoon.finance [404] [] [107] [Vercel] [216.150.16.193] [542.20818ms] [HSTS,Vercel]
+https://api.explorer.karak.network [404] [] [139] [Error] [] [51.112.69.218] [874.142595ms] [Express,Node.js]
+https://supabase.lagoon.finance [404] [] [19] [] [34.163.107.94] [google] [496.307284ms] [HTTP/3]
+https://restaking-backend.karak.network [404] [] [1242] [nginx/1.24.0 (Ubuntu)] [66.203.113.33] [629.299268ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://v1-pprod.lagoon.finance [404] [] [107] [Vercel] [216.150.16.193] [473.68934ms] [HSTS,Vercel]
+https://v1-points-cache.karak.network [404] [] [139] [Error] [nginx/1.18.0 (Ubuntu)] [45.250.252.101] [491.866192ms] [HSTS,Nginx:1.18.0,Ubuntu]
+https://v1-backend.karak.network [404] [] [1242] [nginx/1.24.0 (Ubuntu)] [66.203.113.33] [634.785084ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://bug.lagoon.finance [404] [] [181362] [Tally - Create Beautiful Forms for Free | Unlimited Forms & Submissions] [cloudflare] [104.26.13.231] [cloudflare] [1.316923712s] [Cloudflare,Cloudflare Browser Insights,HSTS,Tally]
+
+## 500
+
+## 502
+https://v1-points-backend.karak.network [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [45.250.252.101] [537.955608ms] [Nginx:1.18.0,Ubuntu]
+https://proxy.rpc.karak.network [502] [] [524] [502 Bad Gateway] [awselb/2.0] [51.112.69.218] [872.34115ms] [Amazon ELB,Amazon Web Services]
+
+## 503
+
