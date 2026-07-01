@@ -1,0 +1,56 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul  1 20:02:38 UTC 2026
+
+HTTPX lines: 27
+Live URLs: 27
+
+## 200
+https://research.yuzu.money [200] [] [49651] [Yuzu Research] [Vercel] [66.33.60.193] [215.251305ms] [HSTS,Vercel]
+https://app.yuzu.money [200] [] [58032] [Yuzu Money - Overview] [cloudflare] [172.67.157.148] [cloudflare] [334.42417ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HTTP/3]
+https://vpn.yuzu.money [200] [] [8558] [Sign In] [nginx/1.29.2] [34.124.250.6] [google] [751.107605ms] [HSTS,Nginx:1.29.2]
+https://pushgateway.yuzu.money [200] [] [10094] [Prometheus Pushgateway] [nginx] [35.186.145.103] [google] [724.15975ms] [Bootstrap:4.3.1,Glyphicons,HSTS,Nginx,jQuery:3.7.1]
+https://yuzu.money [200] [] [205500] [Yuzu Money - Institutional-Grade Yield Infrastructure] [cloudflare] [172.67.157.148] [cloudflare] [573.15668ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HTTP/3]
+https://dev.yuzu.money [200] [] [210662] [Yuzu Money - Institutional-Grade Yield Infrastructure] [cloudflare] [104.21.40.232] [cloudflare] [507.920561ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HTTP/3]
+https://www.yuzu.money [200] [] [205500] [Yuzu Money - Institutional-Grade Yield Infrastructure] [cloudflare] [172.67.157.148] [cloudflare] [600.063474ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 301
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+https://btse-dev.yuzu.money [401] [] [30] [cloudflare] [172.67.157.148] [cloudflare] [1.11586078s] [Cloudflare,HSTS,HTTP/3]
+
+## 403
+https://workflows.yuzu.money [403] [] [548] [403 Forbidden] [nginx] [35.186.145.103] [google] [715.935242ms] [HSTS,Nginx]
+https://ops-devops.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [765.779025ms] [HSTS,Nginx]
+https://pmm.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [766.164703ms] [HSTS,Nginx]
+https://dbi.yuzu.money [403] [] [548] [403 Forbidden] [nginx] [35.186.145.103] [google] [766.114458ms] [HSTS,Nginx]
+https://grafana.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [785.761403ms] [HSTS,Nginx]
+https://yuzu-asynqmon-prod.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [785.931915ms] [HSTS,Nginx]
+https://encrypt.yuzu.money [403] [] [548] [403 Forbidden] [nginx] [35.186.145.103] [google] [786.557154ms] [HSTS,Nginx]
+https://defi-asynqmon-prod.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [820.769634ms] [HSTS,Nginx]
+https://pga.yuzu.money [403] [] [548] [403 Forbidden] [nginx] [35.186.145.103] [google] [958.729962ms] [HSTS,Nginx]
+https://prometheus.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [1.048522983s] [HSTS,Nginx]
+
+## 404
+https://api-dev.yuzu.money [404] [] [776] [404 Page not found] [cloudflare] [104.21.40.232] [cloudflare] [317.01115ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://assets-dev-r2.yuzu.money [404] [] [27654] [Not Found] [cloudflare] [104.21.40.232] [cloudflare] [842.172422ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://assets-dev.yuzu.money [404] [] [27654] [Not Found] [cloudflare] [104.21.40.232] [cloudflare] [853.280402ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://assets-r2.yuzu.money [404] [] [27654] [Not Found] [cloudflare] [104.21.40.232] [cloudflare] [843.202063ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://assets.yuzu.money [404] [] [27654] [Not Found] [cloudflare] [104.21.40.232] [cloudflare] [1.048567701s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+http://vaultwarden.yuzu.money [503] [] [592] [503 Service Temporarily Unavailable] [nginx] [35.186.145.103] [google] [467.062962ms] [Nginx]
+http://vpn1.yuzu.money [503] [] [592] [503 Service Temporarily Unavailable] [nginx] [35.186.145.103] [google] [466.553126ms] [Nginx]
+http://k3s-devops.yuzu.money [503] [] [190] [503 Service Temporarily Unavailable] [nginx] [35.186.145.103] [google] [483.637611ms] [Nginx]
+http://sso-devops.yuzu.money [503] [] [190] [503 Service Temporarily Unavailable] [nginx] [35.186.145.103] [google] [492.895235ms] [Nginx]
+
