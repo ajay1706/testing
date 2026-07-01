@@ -1,0 +1,39 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul  1 19:59:10 UTC 2026
+
+HTTPX lines: 10
+Live URLs: 10
+
+## 200
+https://www.infinityconstellation.com [200] [] [72027] [INFINITY CONSTELLATION] [cloudflare] [198.202.211.1] [157.716456ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,jQuery:3.5.1,jsDelivr]
+https://welcomeceo.infinityconstellation.com [200] [] [14908345] [Welcome to Infinity: Briefing for new BU CEOs] [AmazonS3] [13.249.126.79] [cloudfront] [540.820235ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 301
+https://jedify.ai [301] [http://jedify.com] [52] [ip-10-124-5-36.us-west-2.compute.internal] [15.197.225.128] [344.612603ms]
+https://infinityconstellation.com [301] [https://www.infinityconstellation.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [379.180765ms] [Cloudflare,HSTS,HTTP/3]
+https://www.jedify.ai [301] [http://jedify.com] [52] [ip-10-124-4-151.us-west-2.compute.internal] [15.197.225.128] [450.765535ms]
+
+## 302
+https://app.k3.capital [302] [https://app.k3.capital/us] [143] [302 Found] [cloudflare] [172.67.130.109] [cloudflare] [93.204402ms] [Cloudflare]
+https://k3.capital [302] [https://k3.capital/us] [143] [302 Found] [cloudflare] [172.67.130.109] [cloudflare] [101.520889ms] [Cloudflare]
+https://www.k3.capital [302] [https://www.k3.capital/us] [143] [302 Found] [cloudflare] [104.21.8.99] [cloudflare] [114.742256ms] [Cloudflare]
+https://blog.k3.capital [302] [https://blog.k3.capital/us] [143] [302 Found] [cloudflare] [172.67.130.109] [cloudflare] [483.445808ms] [Cloudflare]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://mta-sts.infinityconstellation.com [403] [] [243] [AmazonS3] [18.238.96.80] [cloudfront] [489.477017ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+
+## 500
+
+## 502
+
+## 503
+
