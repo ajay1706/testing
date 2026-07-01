@@ -1,0 +1,101 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul  1 20:23:43 UTC 2026
+
+HTTPX lines: 73
+Live URLs: 73
+
+## 200
+https://app.coram.ai [200] [] [1426] [Coram] [AmazonS3] [65.8.54.55] [cloudfront] [42.306236ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics,HSTS]
+https://bitwarden.clearstar.xyz [200] [] [23090] [Bitwarden Web vault] [nginx] [52.29.8.33] [1.635771563s] [HSTS,Nginx]
+https://contango.xyz [200] [] [27432] [Contango Protocol] [AmazonS3] [18.155.192.3] [cloudfront] [72.536618ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics,HSTS]
+https://derp1.coram.ai [200] [] [421] [] [34.217.175.144] [85.390024ms] [HSTS]
+https://derp3.coram.ai [200] [] [421] [] [34.216.20.233] [87.401939ms] [HSTS]
+https://developer.coram.ai [200] [] [4104] [Scalar API Reference] [] [34.223.143.160] [100.668126ms]
+https://docs.contango.xyz [200] [] [430044] [What is Contango? | Contango] [cloudflare] [172.64.147.209] [cloudflare] [160.27079ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://public.coram.ai [200] [] [1439] [Coram] [AmazonS3] [65.8.180.125] [cloudfront] [29.896461ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://sales.coram.ai [200] [] [1504] [Coram Sales Portal] [Vercel] [216.150.1.1] [167.056988ms] [Google Analytics,HSTS,Vercel]
+https://security.coram.ai [200] [] [5360] [Coram Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [496.088495ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://speedtest.coram.ai [200] [] [885] [An NDT server] [] [52.43.11.14] [180.314584ms]
+https://storybook.coram.ai [200] [] [3150] [storybook - Storybook] [AmazonS3] [18.244.214.66] [cloudfront] [164.690162ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://status.coram.ai [200] [] [193756] [Coram AI Status Page Status] [Vercel] [76.76.21.142] [536.709603ms] [HSTS,Vercel]
+https://v1.contango.xyz [200] [] [1982] [Contango Protocol] [AmazonS3] [3.168.86.48] [cloudfront] [495.896099ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics,HSTS]
+https://webmail.clearstar.xyz [200] [] [538] [[]] [nginx] [80.74.145.140] [1.116017036s] [Nginx]
+https://www.clearstar.xyz [200] [] [53883] [Clearstar Labs] [Vercel] [216.150.1.193] [698.45893ms] [HSTS,Tailwind CSS,Vercel]
+https://www.coram.ai [200] [] [249896] [Coram: Unified Physical Security Platform] [cloudflare] [198.202.211.1] [70.367638ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,cdnjs,jQuery:3.5.1,jsDelivr]
+
+## 301
+https://coram.ai [301] [https://www.coram.ai/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [226.684406ms] [Cloudflare,HSTS,HTTP/3]
+https://docker.coram.ai [301] [https://ghcr.io/] [0] [] [18.155.202.55] [cloudfront] [114.399342ms] [Amazon CloudFront,Amazon Web Services]
+
+## 302
+https://auth-staging.coram.ai [302] [https://coram.ai/] [39] [cloudflare] [104.18.43.182] [cloudflare] [143.469717ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.coram.ai [302] [https://coram.ai/] [39] [cloudflare] [172.64.144.74] [cloudflare] [138.670922ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://docs.coram.ai [302] [https://help.coram.ai/en/] [0] [nginx] [18.238.192.85] [cloudfront] [356.108605ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://grafana.coram.ai [302] [/login] [29] [] [52.34.59.134] [176.023863ms]
+https://help.coram.ai [302] [https://help.coram.ai/en/] [0] [nginx] [65.8.54.90] [cloudfront] [379.809198ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+http://registry.coram.ai [302] [https://registry.coram.ai/] [5] [] [15.204.76.57] [33.204763ms]
+https://tailscale.coram.ai [302] [/welcome] [31] [] [44.227.189.233] [515.152137ms] [HSTS]
+
+## 307
+https://clearstar.xyz [307] [https://www.clearstar.xyz/] [15] [Vercel] [216.150.1.1] [1.00641729s] [HSTS,Vercel]
+https://lp.coram.ai [307] [/coram-vs-verkada] [15] [Vercel] [216.150.16.129] [55.99013ms] [HSTS,Vercel]
+
+## 308
+https://dev.clearstar.xyz [308] [/note] [15] [Vercel] [76.76.21.241] [1.512187891s] [HSTS,Vercel]
+
+## 401
+https://nestapi.clearstar.xyz [401] [] [43] [nginx] [3.122.81.82] [1.597586773s] [Express,Nginx,Node.js]
+
+## 403
+https://ac-s3.coram.ai [403] [] [263] [AmazonS3] [18.173.121.105] [cloudfront] [129.816726ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://app.contango.xyz [403] [] [2506] [Contango Protocol] [AmazonS3] [18.155.192.69] [cloudfront] [40.904972ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://argo-vsc-1.coram.ai [403] [] [9] [] [15.204.28.15] [71.107791ms]
+https://argo.coram.ai [403] [] [9] [] [34.223.143.160] [98.920433ms]
+https://assets.coram.ai [403] [] [0] [CloudFront] [18.239.199.31] [cloudfront] [189.050648ms] [Amazon CloudFront,Amazon Web Services]
+https://b2.coram.ai [403] [] [180] [cloudflare] [104.21.9.4] [cloudflare] [230.093294ms] [Amazon Web Services,Cloudflare,HSTS,HTTP/3]
+https://beta.contango.xyz [403] [] [2506] [Contango Protocol] [AmazonS3] [18.239.199.9] [cloudfront] [496.4129ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://latest-prices.contango.xyz [403] [] [42] [] [54.195.234.69] [431.373296ms]
+https://morpho.contango.xyz [403] [] [2506] [Contango Protocol] [AmazonS3] [18.155.192.69] [cloudfront] [57.365305ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://mzrncokts4ibezu7yd7bcn7cpv5znyux3xge7h5s5mb2occc.1113.local-streaming.api.coram.ai [403] [] [151] [403 Forbidden] [cloudflare] [1.1.1.3] [cloudflare] [29.972491ms] [Cloudflare]
+https://silo.contango.xyz [403] [] [2506] [Contango Protocol] [AmazonS3] [18.155.192.92] [cloudfront] [42.625031ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+
+## 404
+https://api.contango.xyz [404] [] [23] [] [52.214.127.29] [433.103942ms]
+https://api.coram.ai [404] [] [22] [uvicorn] [34.223.143.160] [76.563239ms] [HSTS,Python,Uvicorn]
+https://argo-webhook-vsc-1.coram.ai [404] [] [19] [] [15.204.28.15] [76.667065ms]
+https://argo-webhook.coram.ai [404] [] [19] [] [34.223.143.160] [93.640127ms]
+https://crm.coram.ai [404] [] [12863] [Error 404 | Page not found] [cloudflare] [199.60.103.31] [698.214344ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub]
+https://custom-ovh.coram.ai [404] [] [19] [] [15.204.77.196] [76.392777ms]
+https://ethena-points.contango.xyz [404] [] [23] [] [54.170.119.217] [450.379325ms]
+https://hsalt.coram.ai [404] [] [0] [] [52.34.59.134] [86.71534ms]
+https://loki.coram.ai [404] [] [19] [] [52.34.59.134] [93.530478ms]
+https://mcp.coram.ai [404] [] [9] [uvicorn] [34.223.143.160] [94.592262ms] [Python,Uvicorn]
+https://ph.coram.ai [404] [] [105] [envoy] [13.249.74.95] [cloudfront] [110.447112ms] [Amazon CloudFront,Amazon Web Services,Envoy,HSTS]
+https://points-external.contango.xyz [404] [] [23] [] [34.246.30.114] [425.94252ms]
+https://tunnel-london.coram.ai [404] [] [19] [] [18.168.192.217] [591.924318ms]
+https://tunnel.coram.ai [404] [] [19] [] [52.35.228.54] [126.941417ms]
+https://tunnel-mumbai.coram.ai [404] [] [19] [] [43.204.10.143] [922.531191ms]
+https://url2238.coram.ai [404] [] [146] [404 Not Found] [nginx] [65.8.180.106] [cloudfront] [120.104167ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://vsc-0-a.coram.ai [404] [] [19] [] [34.223.143.160] [90.807462ms]
+https://vsc-0-b.coram.ai [404] [] [19] [] [34.223.143.160] [92.152295ms]
+https://vsc-0-c.coram.ai [404] [] [19] [] [34.223.143.160] [103.978367ms]
+https://vsc-0-d.coram.ai [404] [] [19] [] [34.223.143.160] [83.456828ms]
+https://vsc-0-e.coram.ai [404] [] [19] [] [34.223.143.160] [91.466927ms]
+https://vsc-0-f.coram.ai [404] [] [19] [] [34.223.143.160] [86.616435ms]
+https://vsc-1-a.coram.ai [404] [] [19] [] [15.204.28.15] [68.780944ms]
+https://vsc-1-b.coram.ai [404] [] [19] [] [15.204.28.15] [84.224282ms]
+https://vsc-1-c.coram.ai [404] [] [19] [] [15.204.28.15] [62.207873ms]
+https://vsc-1-d.coram.ai [404] [] [19] [] [15.204.28.15] [82.365123ms]
+https://vsc-1-e.coram.ai [404] [] [19] [] [15.204.28.15] [80.681322ms]
+https://vsc-1-f.coram.ai [404] [] [19] [] [15.204.28.15] [87.924055ms]
+https://vsc-1.coram.ai [404] [] [19] [] [15.204.28.15] [64.518105ms]
+
+## 500
+https://prices.contango.xyz [500] [] [41] [] [52.19.184.78] [1.087748305s]
+https://rates.contango.xyz [500] [] [39] [] [54.76.108.235] [1.078775391s]
+
+## 502
+
+## 503
+
