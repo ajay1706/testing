@@ -1,0 +1,2 @@
+https://app-staging.upshift.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fapp-staging.upshift.finance%2F&nonce=e1603bad6e4ea1ebc6ead2add183b220429e20da1d3271fa1e1acfc067f9542b] [15] [Vercel] [216.150.1.193] [161.640378ms] [HSTS,Vercel]
+https://landing-staging.upshift.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Flanding-staging.upshift.finance%2F&nonce=26b6cc6ca687fa0150f8acfbda08ba62c4c170de3c8576df9d3afee4ba62d302] [15] [Vercel] [216.150.16.129] [205.545162ms] [HSTS,Vercel]

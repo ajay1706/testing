@@ -1,0 +1,4 @@
+https://turnout.ai [301] [https://www.myturnout.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.203.252] [cloudflare] [39.48311ms] [Cloudflare]
+https://www.turnout.ai [301] [https://www.myturnout.com/] [167] [301 Moved Permanently] [cloudflare] [104.21.85.87] [cloudflare] [42.785866ms] [Cloudflare]
+https://upshift.finance [301] [https://www.upshift.finance/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [105.320053ms] [Cloudflare,HSTS,HTTP/3]
+https://join.upshift.finance [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [168.0316ms] [Caddy,HTTP/3]
