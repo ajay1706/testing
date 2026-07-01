@@ -1,0 +1,2 @@
+https://alpha.sosovalue.com [301] [https://sosovalue.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.11.213] [cloudflare] [59.807636ms] [Cloudflare]
+http://new-ws.sosovalue.com [301] [https://new-ws.sosovalue.com/] [176] [301 Moved Permanently] [cloudflare] [104.18.11.213] [cloudflare] [327.057805ms] [Cloudflare]
