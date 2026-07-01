@@ -1,0 +1,2 @@
+https://ether.fi [308] [https://www.ether.fi/] [15] [Vercel] [64.239.109.1] [275.004293ms] [HSTS,Vercel]
+https://www.f2.ai [308] [https://f2.ai/] [15] [cloudflare] [172.67.163.78] [cloudflare] [321.97978ms] [Cloudflare,HSTS,HTTP/3,Vercel]

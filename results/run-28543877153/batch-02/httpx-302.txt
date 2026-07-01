@@ -1,0 +1,2 @@
+https://auth-dev.f2.ai [302] [https://f2.ai/] [36] [cloudflare] [104.21.34.172] [cloudflare] [251.784712ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://help.ether.fi [302] [https://help.ether.fi/en/] [0] [nginx] [13.225.47.13] [cloudfront] [562.837528ms] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx]
