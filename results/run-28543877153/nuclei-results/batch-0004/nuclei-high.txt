@@ -1,0 +1,1 @@
+[CVE-2019-11248] [http] [high] https://loki.coram.ai/debug/pprof/
