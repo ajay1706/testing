@@ -1,0 +1,10 @@
+[CVE-2021-44528] [http] [medium] https://app.supermemory.ai/
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.hyperlane.xyz [""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js""]
+[open-redirect-generic] [http] [medium] https://dev.supermemory.ai/%5Coast.me [redirect="%5Coast.me"]
+[open-redirect-generic] [http] [medium] https://docs.symbiotic.fi///%5Ctoast.me/ [redirect="//\\toast.me/"]
+[prometheus-metrics] [http] [medium] https://analytics.availproject.org/api/metrics
+[prometheus-metrics] [http] [medium] https://loki.coram.ai/metrics
+[prometheus-metrics] [http] [medium] https://pushgateway.yuzu.money/metrics
+[prometheus-metrics] [http] [medium] https://v1-backend-indexer.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v1-points-backend.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v2-backend.karak.network/metrics
