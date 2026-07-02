@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://dev.supermemory.ai/%5Coast.me [redirect="%5Coast.me"]
+[open-redirect-generic] [http] [medium] https://docs.symbiotic.fi///%5Ctoast.me/ [redirect="//\\toast.me/"]
