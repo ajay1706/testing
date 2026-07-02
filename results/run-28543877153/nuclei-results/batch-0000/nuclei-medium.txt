@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://analytics.availproject.org/api/metrics
