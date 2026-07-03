@@ -1,0 +1,14 @@
+[+] Batch started: Fri Jul  3 11:11:04 UTC 2026
+[+] Run ID: 28656575281
+[+] Batch name: batch-05
+[+] Batch targets:
+derive.xyz
+dialect.to
+drift.trade
+[+] Running subfinder...
+[+] Subfinder completed: Fri Jul  3 11:11:47 UTC 2026
+[+] HTTPX input count: 140
+[+] Running httpx...
+[+] httpx completed: Fri Jul  3 11:12:11 UTC 2026
+[+] httpx line count: 61
+[+] Batch completed: Fri Jul  3 11:12:11 UTC 2026
