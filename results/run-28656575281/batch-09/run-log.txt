@@ -1,0 +1,14 @@
+[+] Batch started: Fri Jul  3 11:13:38 UTC 2026
+[+] Run ID: 28656575281
+[+] Batch name: batch-09
+[+] Batch targets:
+fxdx.exchange
+gains.trade
+gmx.io
+[+] Running subfinder...
+[+] Subfinder completed: Fri Jul  3 11:14:04 UTC 2026
+[+] HTTPX input count: 78
+[+] Running httpx...
+[+] httpx completed: Fri Jul  3 11:14:25 UTC 2026
+[+] httpx line count: 37
+[+] Batch completed: Fri Jul  3 11:14:25 UTC 2026
