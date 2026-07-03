@@ -1,0 +1,14 @@
+[+] Batch started: Fri Jul  3 11:08:38 UTC 2026
+[+] Run ID: 28656575281
+[+] Batch name: batch-02
+[+] Batch targets:
+balancer.fi
+blueclaw.network
+bluefin.io
+[+] Running subfinder...
+[+] Subfinder completed: Fri Jul  3 11:09:41 UTC 2026
+[+] HTTPX input count: 154
+[+] Running httpx...
+[+] httpx completed: Fri Jul  3 11:10:04 UTC 2026
+[+] httpx line count: 61
+[+] Batch completed: Fri Jul  3 11:10:04 UTC 2026

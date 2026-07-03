@@ -1,0 +1,6 @@
+https://api-v3-cow.balancer.fi [403] [] [5043] [Attention Required! | Cloudflare] [cloudflare] [104.20.26.103] [cloudflare] [33.10996ms] [Cloudflare,Cloudflare Browser Insights]
+https://api-v3-origin.balancer.fi [403] [] [118] [403 Forbidden] [awselb/2.0] [99.83.131.39] [90.134713ms] [Amazon ELB,Amazon Web Services]
+https://candlesticks.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.43.105] [cloudflare] [245.546014ms] [Cloudflare,Envoy,HTTP/3]
+https://swap.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [355.87597ms] [Cloudflare,Envoy,HTTP/3]
+https://test-api-v3-origin.balancer.fi [403] [] [118] [403 Forbidden] [awselb/2.0] [18.194.252.3] [535.785192ms] [Amazon ELB,Amazon Web Services]
+https://spot.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.43.105] [cloudflare] [765.039911ms] [Cloudflare,Envoy,HTTP/3]
