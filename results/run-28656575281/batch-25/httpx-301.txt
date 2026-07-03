@@ -1,0 +1,8 @@
+https://explorer.switchboard.xyz [301] [https://explorer.switchboardlabs.xyz] [162] [301 Moved Permanently] [] [35.204.12.204] [google] [470.603419ms] [HSTS]
+https://oyster.synfutures.com [301] [https://app.synfutures.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [65.8.20.37] [cloudfront] [621.37921ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://trade.synfutures.com [301] [http://oyster.synfutures.com/] [0] [AmazonS3] [3.168.132.124] [cloudfront] [84.352964ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.blog.streamflow.finance [301] [https://blog.streamflow.finance/] [162] [301 Moved Permanently] [nginx] [192.0.78.131] [65.543663ms] [HSTS,Nginx]
+https://staging.explorer.switchboard.xyz [301] [https://staging.explorer.switchboardlabs.xyz] [162] [301 Moved Permanently] [] [35.204.12.204] [google] [479.048572ms] [HSTS]
+https://www.switchboard.xyz [301] [https://switchboard.xyz/] [39] [] [199.36.158.100] [105.447921ms] [Firebase,HSTS,HTTP/3]
+http://carthage.docs.streamflow.finance [301] [https://carthage.docs.streamflow.finance/] [665] [301 Moved Permanently] [cloudflare] [104.26.3.3] [cloudflare] [27.319516ms] [Cloudflare,Cloudflare Browser Insights]
+http://claim-beta.streamflow.finance [301] [https://claim-beta.streamflow.finance/] [53] [Netlify] [13.52.188.95] [43.03888ms] [Netlify]
