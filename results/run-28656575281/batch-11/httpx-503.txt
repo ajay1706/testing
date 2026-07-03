@@ -1,0 +1,2 @@
+https://api.hmx.org [503] [] [564] [503 Service Temporarily Unavailable] [cloudflare] [104.26.14.43] [cloudflare] [738.012999ms] [Cloudflare,HSTS]
+http://points-api.hyperdrive.fi [503] [] [190] [503 Service Temporarily Unavailable] [nginx] [157.230.46.210] [450.947764ms] [Nginx]
