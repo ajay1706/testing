@@ -1,0 +1,6 @@
+https://explorer.polynomial.fi [302] [https://polynomialscan.io/] [641] [302 Found] [cloudflare] [172.66.43.188] [cloudflare] [112.908372ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://fe32510c.ad2e.phantom.app [302] [https://dns.google/] [216] [302 Moved] [cloudflare] [172.64.152.29] [cloudflare] [294.896563ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://help.polymarket.com [302] [https://help.polymarket.com/en/] [0] [cloudflare] [104.18.34.205] [cloudflare] [385.343353ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://login.phantom.app [302] [https://login.phantom.app/app/UserHome?iss=https%3A%2F%2Flogin.phantom.app&session_hint=AUTHENTICATED] [0] [nginx] [76.223.112.12] [454.137733ms] [HSTS,Nginx]
+https://preprod-v2.polymarket.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fpreprod-v2.polymarket.com%2F&nonce=9d22edd120f8efeeca8b6442de5f5e02989411312494448213727f462fafe01d] [15] [Vercel] [64.239.123.129] [235.352133ms] [HSTS,Vercel]
+https://preprod-v1.polymarket.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fpreprod-v1.polymarket.com%2F&nonce=d38a83a4c0676b74928a3455f5aaa244288ec07cbdfe0fdaa725ea35c0458c10] [15] [Vercel] [64.239.123.1] [333.82799ms] [HSTS,Vercel]
