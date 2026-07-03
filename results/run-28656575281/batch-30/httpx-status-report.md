@@ -1,0 +1,49 @@
+# HTTPX Status Report
+
+Generated at: Fri Jul  3 11:26:03 UTC 2026
+
+HTTPX lines: 22
+Live URLs: 22
+
+## 200
+https://sentinel.zeta.markets [200] [] [60] [cloudflare] [104.26.10.218] [cloudflare] [153.480038ms] [Cloudflare,HSTS,HTTP/3]
+https://mainnet.zeta.markets [200] [] [3695] [Zeta Markets] [cloudflare] [104.26.11.218] [cloudflare] [189.740994ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,MaxMind:2.1]
+https://dex.zeta.markets [200] [] [3695] [Zeta Markets] [cloudflare] [104.26.11.218] [cloudflare] [213.380506ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,MaxMind:2.1,Vercel]
+https://devnet.zeta.markets [200] [] [2821] [Zeta Markets] [cloudflare] [104.26.10.218] [cloudflare] [410.034247ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://flex.zeta.markets [200] [] [1611] [Zeta Flex 💪] [cloudflare] [104.26.10.218] [cloudflare] [765.604845ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://www.zeta.markets [200] [] [111487] [Zeta Markets] [] [34.217.231.110] [269.033476ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,jQuery:3.5.1,jsDelivr]
+https://analytics.zeta.markets [200] [] [41346] [Grafana] [cloudflare] [172.67.72.240] [cloudflare] [1.158428013s] [Amazon ALB,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://docs.zeta.markets [200] [] [411584] [Welcome to Zeta | Zeta Markets] [cloudflare] [104.26.11.218] [cloudflare] [169.506941ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://blog.zeta.markets [301] [https://blog.bullet.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.10.218] [cloudflare] [49.573933ms] [Cloudflare,HSTS,HTTP/3]
+https://mm-dash.zeta.markets [301] [https://analytics.zeta.markets/d/e3882fef-9b19-48fe-9754-685b916fd97b/new-mm-program-intra-epoch] [167] [301 Moved Permanently] [cloudflare] [104.26.10.218] [cloudflare] [53.929544ms] [Cloudflare,HSTS,HTTP/3]
+https://zeta.markets [301] [https://www.zeta.markets/] [665] [301 Moved Permanently] [cloudflare] [104.26.10.218] [cloudflare] [66.986454ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://token.zeta.markets [403] [] [2110] [Zeta Markets] [cloudflare] [104.26.10.218] [cloudflare] [75.196375ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://api.zeta.markets [403] [] [42] [cloudflare] [172.67.72.240] [cloudflare] [819.371685ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,HTTP/3]
+
+## 404
+https://enlist.zeta.markets [404] [] [107] [cloudflare] [104.26.10.218] [cloudflare] [145.568165ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://zx.zeta.markets [404] [] [107] [Vercel] [66.33.60.34] [465.554279ms] [HSTS,Vercel]
+https://token-jsons.zeta.markets [404] [] [27648] [Not Found] [cloudflare] [104.26.10.218] [cloudflare] [280.113277ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://flex-devnet-webserver.zeta.markets [404] [] [654] [404 No Such Service] [cloudflare] [172.67.72.240] [cloudflare] [625.219745ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://ribbon-vault-webserver.zeta.markets [404] [] [654] [404 No Such Service] [cloudflare] [172.67.72.240] [cloudflare] [693.918084ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://api-gql.zeta.markets [404] [] [118] [cloudflare] [104.26.11.218] [cloudflare] [777.667859ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+https://dex-devnet-webserver-ecs.zeta.markets [503] [] [660] [503 Service Temporarily Unavailable] [cloudflare] [104.26.11.218] [cloudflare] [801.032469ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+

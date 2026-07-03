@@ -1,0 +1,3 @@
+https://blog.zeta.markets [301] [https://blog.bullet.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.10.218] [cloudflare] [49.573933ms] [Cloudflare,HSTS,HTTP/3]
+https://mm-dash.zeta.markets [301] [https://analytics.zeta.markets/d/e3882fef-9b19-48fe-9754-685b916fd97b/new-mm-program-intra-epoch] [167] [301 Moved Permanently] [cloudflare] [104.26.10.218] [cloudflare] [53.929544ms] [Cloudflare,HSTS,HTTP/3]
+https://zeta.markets [301] [https://www.zeta.markets/] [665] [301 Moved Permanently] [cloudflare] [104.26.10.218] [cloudflare] [66.986454ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
