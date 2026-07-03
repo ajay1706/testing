@@ -1,0 +1,2 @@
+https://docs.stream.place [301] [/docs] [0] [cloudflare] [104.21.84.89] [cloudflare] [65.136615ms] [Cloudflare,HTTP/3]
+https://backup.squads.so [301] [https://docs.squads.so/main/additional-resources/what-if-the-squads-app-goes-down/] [0] [AmazonS3] [18.160.46.34] [cloudfront] [92.536082ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]

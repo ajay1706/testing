@@ -1,0 +1,5 @@
+https://squads.so [308] [https://squads.xyz/] [55] [Framer/1a1b925] [52.223.52.2] [369.220182ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.spherepay.co [308] [https://spherepay.co] [20] [Google Frontend] [192.178.155.121] [google] [252.201344ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://www.squads.so [308] [https://squads.so/] [54] [Framer/1a1b925] [31.43.160.6] [381.127331ms] [Framer Sites,HSTS,HTTP/3,React]
+https://developers.squads.so [308] [/welcome] [223373] [Vercel] [76.76.21.22] [389.201674ms] [HSTS,Vercel]
+https://docs.spherepay.co [308] [/introduction] [224878] [cloudflare] [104.18.3.204] [cloudflare] [497.210301ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
