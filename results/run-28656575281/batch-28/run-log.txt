@@ -1,0 +1,14 @@
+[+] Batch started: Fri Jul  3 11:23:36 UTC 2026
+[+] Run ID: 28656575281
+[+] Batch name: batch-28
+[+] Batch targets:
+ventuals.net
+vertexprotocol.com
+woo.org
+[+] Running subfinder...
+[+] Subfinder completed: Fri Jul  3 11:24:31 UTC 2026
+[+] HTTPX input count: 349
+[+] Running httpx...
+[+] httpx completed: Fri Jul  3 11:24:55 UTC 2026
+[+] httpx line count: 244
+[+] Batch completed: Fri Jul  3 11:24:55 UTC 2026
