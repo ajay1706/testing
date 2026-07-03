@@ -1,0 +1,3 @@
+https://docs.paradex.trade [307] [/home] [183806] [Vercel] [66.33.60.66] [152.044292ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://app.ostium.io [307] [/trade] [15] [Vercel] [216.150.1.1] [655.399032ms] [HSTS,Vercel]
+https://www.ostium.io [307] [https://www.ostium.com/] [15] [Vercel] [216.150.1.1] [116.811655ms] [HSTS,Vercel]

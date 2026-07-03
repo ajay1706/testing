@@ -1,0 +1,8 @@
+https://api.testnet.paradex.trade [403] [] [520] [403 Forbidden] [awselb/2.0] [13.248.175.188] [528.327561ms] [Amazon ELB,Amazon Web Services]
+https://api.nightly.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [99.83.235.5] [686.805774ms] [Amazon ELB,Amazon Web Services]
+https://mta-sts.paradex.trade [403] [] [243] [AmazonS3] [18.172.122.118] [cloudfront] [454.829335ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://api.prod.paradex.trade [403] [] [520] [403 Forbidden] [awselb/2.0] [52.223.12.40] [920.348038ms] [Amazon ELB,Amazon Web Services]
+https://status.testnet.paradex.trade [403] [] [59] [Vercel] [66.33.60.34] [366.164558ms] [Vercel]
+https://vooi-refs.ostium.io [403] [] [548] [403 Forbidden] [] [63.180.215.22] [375.206959ms] [HSTS]
+https://tg-bot-screenshots.ostium.io [403] [] [548] [403 Forbidden] [] [3.72.209.4] [427.48711ms] [HSTS]
+https://static.ostium.io [403] [] [111] [AmazonS3] [18.160.249.99] [cloudfront] [552.588582ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
