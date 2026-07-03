@@ -1,0 +1,14 @@
+[+] Batch started: Fri Jul  3 11:08:51 UTC 2026
+[+] Run ID: 28656575281
+[+] Batch name: batch-01
+[+] Batch targets:
+apex.exchange
+avantisfi.com
+backpack.app
+[+] Running subfinder...
+[+] Subfinder completed: Fri Jul  3 11:09:35 UTC 2026
+[+] HTTPX input count: 113
+[+] Running httpx...
+[+] httpx completed: Fri Jul  3 11:09:59 UTC 2026
+[+] httpx line count: 75
+[+] Batch completed: Fri Jul  3 11:09:59 UTC 2026

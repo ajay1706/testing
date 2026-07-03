@@ -1,0 +1,6 @@
+https://dev.avantisfi.com [301] [https://www.avantisfi.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.34.8] [cloudflare] [107.977258ms] [Cloudflare]
+https://deeplink.omni.apex.exchange [301] [https://omni.apex.exchange] [61] [] [140.150.29.88] [519.441854ms] [Amazon ALB,Amazon Web Services]
+https://blog.apex.exchange [301] [https://www.apex.exchange/blog/] [17] [] [140.150.29.88] [553.879435ms] [Amazon ALB,Amazon Web Services]
+https://apex.exchange [301] [https://www.apex.exchange//] [0] [AmazonS3] [54.192.100.35] [cloudfront] [675.346201ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://dev.pro.apex.exchange [301] [https://dev.pro.apex.exchange:443/] [134] [301 Moved Permanently] [awselb/2.0] [18.139.74.139] [370.233546ms] [Amazon ELB,Amazon Web Services]
+http://quote-dev.pro.apex.exchange [301] [https://quote-dev.pro.apex.exchange:443/] [134] [301 Moved Permanently] [awselb/2.0] [18.138.93.149] [367.432117ms] [Amazon ELB,Amazon Web Services]

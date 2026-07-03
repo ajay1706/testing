@@ -1,0 +1,4 @@
+https://beta.avantisfi.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbeta.avantisfi.com%2F&nonce=2a8bbb9d9fb05645b0f17a667bebc2e85ffa3b76044de5819dfb3a7919a528d0] [15] [Vercel] [216.150.16.193] [328.916151ms] [HSTS,Vercel]
+https://minidev.avantisfi.com [302] [/?blocked=true] [143] [302 Found] [cloudflare] [104.20.34.8] [cloudflare] [305.56453ms] [Cloudflare]
+https://news.apex.exchange [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=news.apex.exchange] [116] [nginx] [67.199.248.13] [430.216187ms] [HSTS,HTTP/3,Nginx]
+https://sepolia.avantisfi.com [302] [https://avantisfi.com/] [143] [302 Found] [cloudflare] [172.66.163.149] [cloudflare] [336.476362ms] [Cloudflare]
