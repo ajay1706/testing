@@ -1,0 +1,2 @@
+https://resource.tribesocial.io [302] [https://www.clickfunnels.com?aff_sub=domain_redirect&utm_campaign=domain_redirect] [649] [cloudflare] [104.16.13.194] [cloudflare] [650.984249ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,RackCache,Ruby]
+https://start.tribesocial.io [302] [https://www.clickfunnels.com?aff_sub=domain_redirect&utm_campaign=domain_redirect] [649] [cloudflare] [104.16.13.194] [cloudflare] [901.599783ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,RackCache,Ruby]
