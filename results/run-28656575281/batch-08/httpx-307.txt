@@ -1,0 +1,5 @@
+https://docs.fulcrom.finance [307] [https://docs.fulcrom.finance/fulcrom-finance/] [15] [cloudflare] [104.18.15.176] [cloudflare] [112.240259ms] [Cloudflare,HSTS,Vercel]
+https://app.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.1.1] [463.076503ms] [HSTS,Vercel]
+https://perptools.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.16.129] [368.918176ms] [HSTS,Vercel]
+https://staging.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.1.193] [265.861987ms] [HSTS,Vercel]
+https://what.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.1.193] [894.960903ms] [HSTS,Vercel]
