@@ -1,0 +1,14 @@
+[+] Batch started: Fri Jul  3 11:13:58 UTC 2026
+[+] Run ID: 28656575281
+[+] Batch name: batch-10
+[+] Batch targets:
+helius.dev
+higher.zip
+hl.exchange
+[+] Running subfinder...
+[+] Subfinder completed: Fri Jul  3 11:14:10 UTC 2026
+[+] HTTPX input count: 41
+[+] Running httpx...
+[+] httpx completed: Fri Jul  3 11:14:14 UTC 2026
+[+] httpx line count: 29
+[+] Batch completed: Fri Jul  3 11:14:14 UTC 2026
