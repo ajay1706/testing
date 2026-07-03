@@ -1,0 +1,4 @@
+https://docs.dydx.trade [301] [https://docs.dydx.xyz] [665] [301 Moved Permanently] [cloudflare] [104.20.40.161] [cloudflare] [28.784051ms] [Cloudflare,Cloudflare Browser Insights]
+https://app.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [172.66.166.30] [cloudflare] [132.411737ms] [Cloudflare,HSTS,Vercel]
+https://app.embody.zone [301] [https://app.embody.zone:443/] [638] [301 Moved Permanently] [cloudflare] [104.21.77.17] [cloudflare] [309.83609ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [104.20.40.161] [cloudflare] [129.428395ms] [Cloudflare,HSTS,Vercel]

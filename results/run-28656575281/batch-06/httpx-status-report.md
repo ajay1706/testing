@@ -1,0 +1,72 @@
+# HTTPX Status Report
+
+Generated at: Fri Jul  3 11:12:50 UTC 2026
+
+HTTPX lines: 43
+Live URLs: 43
+
+## 200
+https://dydx.trade [200] [] [11420] [dYdX | Leading Decentralized Platform for Crypto Perpetual Trading] [cloudflare] [172.66.166.30] [cloudflare] [54.572558ms] [BugSnag,Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HSTS,Vercel,jsDelivr]
+https://embody.zone [200] [] [10473] [embody.zone — Coming Soon] [cloudflare] [172.67.203.35] [cloudflare] [99.525225ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://arena.dydx.trade [200] [] [4498] [dYdX Trading Arena] [cloudflare] [104.20.40.161] [cloudflare] [121.161365ms] [Cloudflare,Cloudflare Browser Insights,Node.js,Nuxt.js,Vue.js]
+https://geo-v2-preview.dydx.trade [200] [] [181] [cloudflare] [172.66.166.30] [cloudflare] [225.067374ms] [Cloudflare]
+https://geo-v2.dydx.trade [200] [] [181] [cloudflare] [172.66.166.30] [cloudflare] [230.424039ms] [Cloudflare]
+https://bridge.dydx.trade [200] [] [10412] [dYdX Bridge] [cloudflare] [198.202.211.1] [107.13278ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,jQuery:3.5.1]
+https://funding.dydx.trade [200] [] [10648] [dYdX Funding Rate Comparison] [cloudflare] [104.20.40.161] [cloudflare] [266.960579ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,Next.js,Node.js,React,Webpack]
+https://buyback.dydx.trade [200] [] [42062] [dYdX Buyback Tracker: Powered by the Community] [Vercel] [216.150.1.1] [83.466853ms] [HSTS,Vercel]
+https://news.elfi.xyz [200] [] [4979] [ELFi News - Multi-source Crypto Aggregator] [Vercel] [216.150.16.1] [418.944968ms] [HSTS,Vercel]
+https://staging.embody.zone [200] [] [12843] [embody.zone — Executive AI Operators for Growth] [cloudflare] [172.67.203.35] [cloudflare] [145.715224ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://chatterbox-api-mainnet.dydx.trade [200] [] [15] [cloudflare] [172.66.166.30] [cloudflare] [531.988381ms] [Cloudflare,Express,Node.js]
+https://edge-fra.app.embody.zone [200] [] [703] [IIS Windows Server] [Microsoft-IIS/10.0] [3.66.93.11] [534.829566ms] [IIS:10.0,Microsoft ASP.NET,Windows Server]
+https://grpc-status.dydx.trade [200] [] [8347] [gRPC Report] [cloudflare] [172.66.166.30] [cloudflare] [509.611233ms] [Cloudflare,Cloudflare Browser Insights,jsDelivr]
+https://mini-app-test.elfi.xyz [200] [] [4641] [Vercel] [76.76.21.123] [492.00463ms] [HSTS,Vercel]
+https://oegs.dydx.trade [200] [] [3671] [cloudflare] [172.67.69.178] [cloudflare] [650.845258ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mini-app.elfi.xyz [200] [] [4641] [Vercel] [66.33.60.193] [648.122122ms] [HSTS,Vercel]
+https://docs.elfi.xyz [200] [] [64131] [Docs｜ELFi] [Vercel] [66.33.60.130] [358.18154ms] [HSTS,Vercel]
+https://spot-api-mainnet.dydx.trade [200] [] [18] [cloudflare] [104.20.40.161] [cloudflare] [597.673986ms] [Cloudflare,Express,Node.js]
+https://status.dydx.trade [200] [] [256024] [dYdX Chain Status] [AtlassianEdge] [52.85.12.32] [cloudfront] [484.95537ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://staging-edge-w3.app.embody.zone [200] [] [122094] [AS ONE INTERNATIONAL – Life Science Reagents & Instruments] [Apache] [54.203.108.201] [795.224298ms] [Apache HTTP Server,Bootstrap:3.3.7,BootstrapCDN:3.3.7,Chosen:4.8.25,Contact Form 7:5.0.5,Google PageSpeed:1.9.32.14,Max Mega Menu:2.5.2,MySQL,OWL Carousel,PHP:7.0.16,SiteOrigin Widgets Bundle:1.11.8,Slick,WooCommerce:3.0.8,WordPress:4.8.25,iCheck,jQuery,jQuery Migrate:1.4.1]
+https://www.elfi.xyz [200] [] [540460] [ELFi Protocol | Ultra Portfolio Margin DEX | DeFi Trading Platform] [Vercel] [66.33.60.129] [327.167535ms] [HSTS,Vercel]
+https://home-testnet.elfi.xyz [200] [] [559671] [ELFi Protocol | Ultra Portfolio Margin DEX | DeFi Trading Platform] [Vercel] [66.33.60.34] [800.604976ms] [HSTS,Vercel]
+https://meta.elfi.xyz [200] [] [985218] [Metabase] [cloudflare] [104.20.19.102] [cloudflare] [1.885600345s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 301
+https://docs.dydx.trade [301] [https://docs.dydx.xyz] [665] [301 Moved Permanently] [cloudflare] [104.20.40.161] [cloudflare] [28.784051ms] [Cloudflare,Cloudflare Browser Insights]
+https://app.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [172.66.166.30] [cloudflare] [132.411737ms] [Cloudflare,HSTS,Vercel]
+https://app.embody.zone [301] [https://app.embody.zone:443/] [638] [301 Moved Permanently] [cloudflare] [104.21.77.17] [cloudflare] [309.83609ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [104.20.40.161] [cloudflare] [129.428395ms] [Cloudflare,HSTS,Vercel]
+
+## 302
+https://help.dydx.trade [302] [https://help.dydx.trade/en/] [0] [cloudflare] [104.20.40.161] [cloudflare] [303.067907ms] [Cloudflare,HSTS]
+
+## 307
+
+## 308
+https://elfi.xyz [308] [https://www.elfi.xyz/] [15] [Vercel] [76.76.21.21] [200.021873ms] [HSTS,Vercel]
+https://app.elfi.xyz [308] [/trade/ETHUSD] [15] [Vercel] [76.76.21.93] [280.022862ms] [HSTS,Vercel]
+https://testnet.elfi.xyz [308] [/trade/ETHUSD] [15] [Vercel] [66.33.60.193] [215.160787ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://ps-ca.embody.zone [403] [] [50] [nginx/1.28.0] [54.188.18.185] [387.448958ms] [Nginx:1.28.0]
+https://staging.app.embody.zone [403] [] [520] [403 Forbidden] [awselb/2.0] [52.27.133.82] [233.127678ms] [Amazon ELB,Amazon Web Services]
+
+## 404
+https://privy.dydx.trade [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [207.955659ms] [Cloudflare,Cloudflare Bot Management]
+https://develop.elfi.xyz [404] [] [107] [Vercel] [66.33.60.130] [229.352225ms] [HSTS,Vercel]
+https://home-develop.elfi.xyz [404] [] [107] [Vercel] [76.76.21.22] [325.939819ms] [HSTS,Vercel]
+https://image-generator.dydx.trade [404] [] [637] [Error] [cloudflare] [172.66.166.30] [cloudflare] [342.981652ms] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://oracle-relay-staging.dydx.trade [404] [] [9] [cloudflare] [104.20.40.161] [cloudflare] [480.81007ms] [Cloudflare]
+https://indexer.dydx.trade [404] [] [0] [cloudflare] [104.20.40.161] [cloudflare] [500.467641ms] [Cloudflare]
+https://oracle-relay.dydx.trade [404] [] [9] [cloudflare] [104.20.40.161] [cloudflare] [543.651645ms] [Cloudflare]
+https://api.elfi.xyz [404] [] [89] [cloudflare] [104.20.19.102] [cloudflare] [952.231122ms] [Cloudflare]
+https://test.elfi.xyz [404] [] [89] [cloudflare] [104.20.19.102] [cloudflare] [962.985251ms] [Cloudflare]
+https://web-api.elfi.xyz [404] [] [89] [cloudflare] [104.20.19.102] [cloudflare] [935.950567ms] [Cloudflare]
+
+## 500
+
+## 502
+
+## 503
+
