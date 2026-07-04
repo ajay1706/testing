@@ -1,0 +1,5 @@
+[CVE-2025-24354] [http] [medium] https://cdn.magiceden.io/unsafe/plain/http://d9443qtulefjeh9id6k0argxky1n4p47y.oast.site
+[CVE-2025-24354] [http] [medium] https://cdn.magiceden.io/unsafe/plain/http://d9443qtulefjeh9id6k0argxky1n4p47y.oast.site
+[prometheus-metrics] [http] [medium] https://chandler.frameworks.network/metrics
+[mongodb-exporter-metrics] [http] [medium] https://builder-staging.ostium.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://builder.ostium.io/metrics
