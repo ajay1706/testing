@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://testnet-dmm.orderly.network/en/perp/PERP_ETH_USDC
+[github-takeover] [http] [high] https://testnet-dex.orderly.network ["orderlynetworkdexcreatorstaging.github.io"]
