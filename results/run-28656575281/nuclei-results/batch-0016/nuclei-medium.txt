@@ -1,0 +1,2 @@
+[zip-backup-files] [http] [medium] https://fonts.synthetix.io/fonts.zip [EXT="zip",FILENAME="fonts"]
+[prometheus-metrics] [http] [medium] https://foghorn.frameworks.network/metrics
