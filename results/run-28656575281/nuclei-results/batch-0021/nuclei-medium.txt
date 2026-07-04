@@ -1,0 +1,5 @@
+[prometheus-metrics] [http] [medium] https://media-eu-1.frameworks.network/metrics
+[prometheus-metrics] [http] [medium] https://media-us-1.frameworks.network/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging2.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend.ostium.io/metrics
