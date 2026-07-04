@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://listener.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://listener-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://live-market-data-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://live-market-data.ostium.io/metrics
