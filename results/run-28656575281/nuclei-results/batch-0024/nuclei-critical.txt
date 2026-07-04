@@ -1,0 +1,2 @@
+[CVE-2026-33032] [http] [critical] https://polygon-amoy-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-mainnet-backend.phantom.app/mcp_message
