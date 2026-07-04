@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://gather.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://grafana-cp.rpcfast.com/metrics
