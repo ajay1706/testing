@@ -1,0 +1,2 @@
+[CVE-2024-34351] [http] [high] https://www.spherepay.co/_next/image?w=16&q=10&url=https://d94cls5ulefjel4bbgsgtzwbg86dz4u63.oast.fun
+[framer-takeover] [http] [high] https://www.ufo.fm ["sites.framer.app"]
