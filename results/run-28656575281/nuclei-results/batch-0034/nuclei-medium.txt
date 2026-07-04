@@ -1,0 +1,2 @@
+[mongodb-exporter-metrics] [http] [medium] https://wildcard.bridge.alchemy.com/metrics
+[mongodb-exporter-metrics] [http] [medium] https://worldchain-mainnet.bridge.alchemy.com/metrics
