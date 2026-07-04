@@ -1,0 +1,1 @@
+[docker-registry] [http] [medium] https://oci.stream.place/v2/_catalog
