@@ -1,0 +1,1 @@
+[CVE-2019-20933] [http] [critical] https://remote-write.switchboard.xyz/query?db=db&q=SHOW%20DATABASES
