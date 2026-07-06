@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jul  6 19:28:27 UTC 2026
+[+] Run ID: 28817550165
+[+] Batch name: batch-03
+[+] Batch targets:
+otherhalf.ai
+particle.news
+poolside.ai
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jul  6 19:29:48 UTC 2026
+[+] HTTPX input count: 89
+[+] Running httpx...
+[+] httpx completed: Mon Jul  6 19:30:09 UTC 2026
+[+] httpx line count: 41
+[+] Batch completed: Mon Jul  6 19:30:09 UTC 2026

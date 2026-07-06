@@ -1,0 +1,68 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul  6 19:30:09 UTC 2026
+
+HTTPX lines: 41
+Live URLs: 41
+
+## 200
+https://conversation-v6.prod.otherhalf.ai [200] [] [2] [uvicorn] [34.36.123.12] [google] [51.982314ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,Uvicorn]
+https://cms-v2.prod.otherhalf.ai [200] [] [3549] [Welcome to your Strapi app] [] [35.190.90.151] [google] [69.68783ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Strapi]
+https://cms-v1.dev.otherhalf.ai [200] [] [3549] [Welcome to your Strapi app] [] [34.160.110.31] [google] [119.570582ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Strapi]
+https://conversation-v6.dev.otherhalf.ai [200] [] [2] [uvicorn] [34.111.11.206] [google] [170.103033ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,Uvicorn]
+https://notification-v5.prod.otherhalf.ai [200] [] [2] [uvicorn] [34.36.18.52] [google] [62.080045ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,Uvicorn]
+https://mock-webui.dev.otherhalf.ai [200] [] [22165] [OtherHalf Mock WebUI] [] [34.13.125.16] [google] [92.291924ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js,Socket.io]
+https://notification-v4.dev.otherhalf.ai [200] [] [2] [uvicorn] [34.149.140.134] [google] [171.846654ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,Uvicorn]
+https://platform.poolside.ai [200] [] [2468] [Poolside Platform] [Caddy] [3.170.19.95] [cloudfront] [141.331144ms] [Amazon CloudFront,Amazon Web Services,Caddy]
+https://docs.particle.news [200] [] [604] [Particle Pro API] [Vercel] [66.33.60.194] [454.451388ms] [HSTS,Vercel]
+https://subscription-v7.dev.otherhalf.ai [200] [] [2] [uvicorn] [34.128.147.175] [google] [209.909879ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,Uvicorn]
+https://subscription-v6.prod.otherhalf.ai [200] [] [2] [uvicorn] [34.102.205.136] [google] [357.400282ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,Uvicorn]
+https://shimmer.poolside.ai [200] [] [22505] [Shimmer shut down June 8th] [Vercel] [76.76.21.164] [309.864114ms] [HSTS,Vercel]
+https://status.poolside.ai [200] [] [136135] [Poolside Cloud Status] [Vercel] [66.33.60.194] [482.308268ms] [C3.js,HSTS,Vercel,dc.js]
+https://poolside.ai [200] [] [261181] [Poolside] [Vercel] [76.76.21.21] [301.970631ms] [HSTS,Vercel]
+https://www.poolside.ai [200] [] [261181] [Poolside] [Vercel] [66.33.60.129] [174.492158ms] [HSTS,Vercel]
+https://docs.poolside.ai [200] [] [308741] [Poolside Documentation - Poolside] [cloudflare] [104.18.3.204] [cloudflare] [93.27479ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://newsletter.particle.news [200] [] [490288] [Home | Particle] [cloudflare] [104.16.23.120] [cloudflare] [341.972961ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://docs-staging.poolside.ai [200] [] [333116] [Welcome - Poolside] [Vercel] [76.76.21.142] [260.256382ms] [HSTS,Vercel]
+https://otherhalf.ai [200] [] [515737] [Discover your Otherhalf with our immersive AI Companions | otherhalf.ai] [Framer/1a1b925] [35.71.142.77] [161.710764ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React]
+https://particle.news [200] [] [268278] [Particle: Personalized news, summarized.] [cloudflare] [104.20.23.102] [cloudflare] [591.963078ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 301
+https://private-docs.poolside.ai [301] [https://docs.poolside.ai/] [167] [301 Moved Permanently] [cloudflare] [172.67.70.226] [cloudflare] [39.55561ms] [Cloudflare]
+https://staging.particle.news [301] [https://particle.news/] [167] [301 Moved Permanently] [cloudflare] [172.66.149.32] [cloudflare] [64.614441ms] [Cloudflare]
+
+## 302
+https://support.poolside.ai [302] [https://support.poolside.ai/hc] [0] [cloudflare] [216.198.53.6] [285.551544ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+
+## 307
+
+## 308
+https://www.particle.news [308] [https://particle.news/] [667] [308 Permanent Redirect] [cloudflare] [172.66.149.32] [cloudflare] [100.174677ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.otherhalf.ai [308] [https://otherhalf.ai/] [57] [Framer/1a1b925] [31.43.160.6] [234.397159ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+
+## 403
+https://downloads.poolside.ai [403] [] [111] [AmazonS3] [3.171.76.128] [cloudfront] [129.228521ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://trust.poolside.ai [403] [] [5663] [Just a moment...] [cloudflare] [172.64.146.8] [cloudflare] [190.767594ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://elink0fa.email.particle.news [404] [] [1563] [404 Not Found] [cloudflare] [104.16.23.120] [cloudflare] [50.648197ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://api.particle.news [404] [] [18] [] [34.160.237.145] [google] [98.396232ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api.platform.poolside.ai [404] [] [19] [] [3.146.208.191] [114.945596ms]
+https://integration.poolside.ai [404] [] [19] [cloudflare] [104.26.4.138] [cloudflare] [133.304255ms] [Cloudflare]
+https://origin.platform.poolside.ai [404] [] [0] [awselb/2.0] [3.131.193.223] [112.399859ms] [Amazon ELB,Amazon Web Services]
+https://linkapi.particle.news [404] [] [9] [cloudflare] [172.66.149.32] [cloudflare] [319.015469ms] [Cloudflare]
+https://pay.otherhalf.ai [404] [] [1009] [Pay Link Not Found] [] [100.49.0.246] [261.933219ms]
+https://decks.poolside.ai [404] [] [2596] [Pitch 一 Collaborative presentation software for modern teams.] [] [54.155.99.178] [614.941401ms] [HTTP/3]
+https://cdn.particle.news [404] [] [27648] [Not Found] [cloudflare] [104.20.23.102] [cloudflare] [455.556129ms] [Cloudflare,Cloudflare Browser Insights]
+https://tts-proxy-v1.dev.otherhalf.ai [404] [] [9] [] [34.49.14.169] [google] [160.254529ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://tts-proxy-v1.prod.otherhalf.ai [404] [] [9] [] [34.111.146.176] [google] [166.476048ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+http://manage.poolside.ai [404] [] [107] [Vercel] [76.76.21.93] [479.20692ms] [Vercel]
+
+## 500
+
+## 502
+
+## 503
+
