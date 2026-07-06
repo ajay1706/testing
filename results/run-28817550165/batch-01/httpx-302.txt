@@ -1,0 +1,3 @@
+https://get.captions.ai [302] [https://captions.ai] [0] [cloudflare] [172.66.150.225] [cloudflare] [77.274606ms] [Cloudflare]
+https://partners.emergent.sh [302] [https://partners.emergent.sh/signup] [0] [Caddy Heroku] [161.35.235.194] [522.109327ms] [HSTS]
+http://mcp-connector-123.emergent.sh [302] [https://mcp-connector-123.emergent.sh/] [0] [Google Frontend] [142.251.179.121] [google] [52.988578ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
