@@ -1,0 +1,82 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul  6 19:32:47 UTC 2026
+
+HTTPX lines: 56
+Live URLs: 56
+
+## 200
+https://developer.stackblitz.com [200] [] [49819] [StackBlitz Docs] [Netlify] [98.84.224.111] [195.538487ms] [HSTS,Netlify,Vue.js]
+https://curate.status.app [200] [] [388] [Community Directory Curation] [Vercel] [66.33.60.129] [521.368462ms] [HSTS,Vercel]
+https://blog.speak.com [200] [] [148880] [스픽 블로그] [nginx] [192.0.78.151] [128.759393ms] [HSTS,Jetpack,Morphext:2.9.1,MySQL,Nginx,PHP,WPML:4.9.2.1,WordPress,WordPress Block Editor,WordPress.com,Yoast SEO:27.9,jQuery,jQuery Migrate]
+https://b2bhelp.speak.com [200] [] [93556] [Speak for Business] [] [151.101.1.91] [fastly] [596.640395ms] [Highlight.js,jsDelivr]
+https://discuss.status.app [200] [] [288059] [Status.app] [cloudflare] [172.67.192.139] [cloudflare] [631.544277ms] [Cloudflare,Discourse:3.5.2,HSTS,HTTP/3,Ruby on Rails]
+https://jake.stackblitz.com [200] [] [35947] [StackBlitz | Instant Dev Environments | Click. Code. Done.] [cloudflare] [18.64.183.94] [cloudfront] [470.533807ms] [Ahoy,Amazon CloudFront,Amazon Web Services,Astro:4.5.13,Cloudflare,HSTS,Ruby on Rails]
+https://get.status.app [200] [] [460908] [Status App | Private Messenger, Assets, Web Browser, Communities and more] [Vercel] [216.150.1.1] [447.333804ms] [HSTS,Vercel]
+https://partner.speak.com [200] [] [574] [Speak Partner Portal] [] [34.36.119.200] [google] [235.507209ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://start.speak.com [200] [] [511] [] [35.245.40.244] [google] [234.558614ms] [Google Cloud,Google Cloud Trace,HTTP/3]
+https://stackblitz.com [200] [] [35947] [StackBlitz | Instant Dev Environments | Click. Code. Done.] [cloudflare] [3.161.242.19] [cloudfront] [374.756257ms] [Amazon CloudFront,Amazon Web Services,Astro:4.5.13,Cloudflare]
+https://status.stackblitz.com [200] [] [7253] [StackBlitz | Status Status] [] [5.75.128.88] [769.886876ms] [HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.speak.com [200] [] [109930] [Speak - The language learning app that gets you speaking] [cloudflare] [172.67.70.127] [cloudflare] [286.524925ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,Split:10.22.5,Unpkg,cdnjs,jQuery CDN,jQuery:3.5.1]
+https://status.app [200] [] [709698] [Status App | Private Messenger, Web3 Wallet & Browser] [Vercel] [76.76.21.93] [696.935256ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://auth.speak.com [301] [https://app.speak.com/] [37] [] [199.36.158.100] [235.877387ms] [Firebase,HTTP/3]
+https://beta.stackblitz.com [301] [https://stackblitz.com/] [0] [AmazonS3] [13.225.47.24] [cloudfront] [297.129555ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://blog.stackblitz.com [301] [https://blog.stackblitz.com/] [43] [Netlify] [98.84.224.111] [63.882184ms] [Netlify]
+https://jacob.stackblitz.com [301] [https://stackblitz.com/] [0] [AmazonS3] [3.162.163.7] [cloudfront] [77.860867ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://services.jacob.stackblitz.com [301] [https://stackblitz.com/] [0] [AmazonS3] [13.225.47.34] [cloudfront] [172.707818ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://services.stackblitz.com [301] [https://stackblitz.com/] [0] [AmazonS3] [3.169.149.47] [cloudfront] [173.387708ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://speak.com [301] [https://www.speak.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [217.189963ms] [Cloudflare,HSTS,HTTP/3]
+https://www.blog.speak.com [301] [https://blog.speak.com/] [162] [301 Moved Permanently] [nginx] [192.0.78.151] [141.193048ms] [HSTS,Nginx]
+https://www.stackblitz.com [301] [https://stackblitz.com/] [0] [AmazonS3] [13.32.104.31] [cloudfront] [151.540906ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 302
+https://docker-production.stackblitz.com [302] [https://docker-production.stackblitz.io/] [647] [302 Found] [cloudflare] [52.84.217.92] [cloudfront] [188.321282ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://docs.stackblitz.com [302] [https://developer.stackblitz.com/] [143] [302 Found] [cloudflare] [13.227.87.77] [cloudfront] [215.856268ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://cactus.stackblitz.com [302] [https://cactus.stackblitz.io/] [647] [302 Found] [cloudflare] [13.227.87.38] [cloudfront] [220.67628ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://console.stackblitz.com [302] [https://console.stackblitz.io/] [647] [302 Found] [cloudflare] [13.227.87.116] [cloudfront] [236.211961ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://docker.stackblitz.com [302] [https://docker.stackblitz.io/] [647] [302 Found] [cloudflare] [13.227.87.38] [cloudfront] [260.931629ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://developers.stackblitz.com [302] [https://developer.stackblitz.com/] [647] [302 Found] [cloudflare] [13.227.87.38] [cloudfront] [332.010987ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://enterprise.stackblitz.com [302] [https://stackblitz.com/enterprise] [647] [302 Found] [cloudflare] [172.67.214.176] [cloudflare] [92.016533ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://enteprise-test3.stackblitz.com [302] [https://enteprise-test3.stackblitz.io/] [647] [302 Found] [cloudflare] [13.227.87.93] [cloudfront] [210.147818ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://github.stackblitz.com [302] [https://stackblitz.com/] [0] [cloudflare] [104.21.37.233] [cloudflare] [169.648128ms] [Cloudflare,HTTP/3]
+https://help.speak.com [302] [https://help.speak.com/en/] [0] [cloudflare] [104.26.9.226] [cloudflare] [293.402593ms] [Cloudflare]
+https://image-focus.stackblitz.com [302] [https://image-focus.stackblitz.io/] [647] [302 Found] [cloudflare] [13.227.87.116] [cloudfront] [341.895705ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://link.status.app [302] [https://status.im/] [0] [nginx] [65.21.94.86] [682.019185ms] [Nginx]
+https://static-pages.stackblitz.com [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com:handleRedirect&code_challenge=eh_tXoT59X9TJ7pCxsU7UO2tCV5zbgqj3L_wRhxdNos&code_challenge_method=S256&cred_ref=true&state=ARrt-m8ET_hYHyfILVtxrj0BFMogdCWDE-X-Mq_c_TTtU8LfZGQ4RO6AvF1BtrdY_KoRQlvLYCuSFsEDzI1CUdMUck0XlvxpiP-2tvTdGUuXtQX2WDCwoJhotUhGHZp_7i5HPRBIvBE01EdHiZUtKATO1ldhyG3crSsgjbz-4h_r_Q5J9dIAHZJP7k6A_AGrx0zWIH584FYr6kaGE6F2dsnEkONxiym48WQy60RTPy-DXWTgi54ca--8XHyDu0D-2oRo6_NklR8k79wSmUPUtUbc4ioq-tX6SUnogofcX9XrUpy-62K-Mn1OunsYdXZIFOQADv5nowILLIGrwYY7B0d0z_i1ThlAsQgWwEGXYp2Cq-U4JVWzRcRAXBd8R--AwTBeQwYJlEAhUV0WlmEzHEXS8pf5CkVAQ0G6cfFHpmEgQQsM7TNJhzFuQB7xt27NuraIE_5cbwYizzGG5QONscut_8XArsbLyQuxgsZ-8AbKbEUyiHmAYP8eA-Tna6jAUQQdlgPOwnzS5_tHXBLEN8N0CEtZpHbN4RMXIfehCiFS7D486OpAh6nUqIZqDR2xHbUx44dCwO6BEgcfdLxASO5G6a77aW5tjyDcooC85aLLRtSdVO9rqZV-y384iQI2XEZpDABQdxNnsMjQ0sf6cdJsKZCio5d8XYyXpHILUnjaFPPdSm7ImKJoclWqDeSppPaurQuskkQZ3aHWKsU-jqR6-kHwjk110ZHZl9JayKizkh-ddGex6T8chgRlEUEv43HiylGWTrvXGSvL35THAJXiQ4oYzG5xmonkx0bfdb6KhdowcNKfRpP_iVgz-mM0Ckz0H729e2317XtvIUXqCZ8SiMM3nSINWbLIIMZsK2F766BQiaIU8XCu381J3LJBBZZX_oBSgkl0AatOQ3JLDMIZaMrBzkX0IySO8GC4uTR39kzxb3V1i8AwhO9UiMNpkpB3NteMnNugLc6GgeZji-WoVzZJaJTK09-SkQo0-C_obd4GR4FM9TBovy03s9u9Gi9MNysUc_ZzqCc_wff5H_ubG45eXrEtN_7_CNSXZ62k-Se1yBhk-wNYJi2gAS1sX4fqV_5N_NUJJcZ0kRIV9P5vScsaOqXxFCuq9lbNv8GRQJRCn09n0YyAI738oEAUDiInjHlFVIREadAe6PeIs7T-ao8ygx5dEUSuJwugXoqFnqAQKA] [36] [] [34.98.119.10] [google] [171.579212ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://preview.stackblitz.com [302] [https://preview.stackblitz.io/] [647] [302 Found] [cloudflare] [13.227.87.93] [cloudfront] [193.280395ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://sulco.stackblitz.com [302] [https://sulco.stackblitz.io/] [647] [302 Found] [cloudflare] [52.84.217.112] [cloudfront] [176.911201ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://wildcard.jacob.stackblitz.com [302] [https://wildcard.jacob.stackblitz.io/] [647] [302 Found] [cloudflare] [13.227.87.116] [cloudfront] [290.048116ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://wildcard.stackblitz.com [302] [https://wildcard.stackblitz.io/] [647] [302 Found] [cloudflare] [13.227.87.93] [cloudfront] [245.887477ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://www.status.app [302] [https://status.app/] [143] [302 Found] [cloudflare] [104.21.44.4] [cloudflare] [166.135708ms] [Cloudflare,HSTS,HTTP/3]
+
+## 307
+https://app.speak.com [307] [/region] [7] [] [34.36.119.200] [google] [204.325099ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+
+## 308
+
+## 401
+
+## 403
+https://bcdn.speak.com [403] [] [263] [BunnyCDN-MSP1-1084] [38.142.94.218] [473.516801ms] [Amazon CloudFront,Amazon Web Services,Bunny]
+https://static.stackblitz.com [403] [] [111] [AmazonS3] [3.170.185.41] [cloudfront] [351.351205ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://status.speak.com [403] [] [5734] [Just a moment...] [cloudflare] [104.18.17.64] [cloudflare] [235.16928ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+
+## 404
+https://api.t.speak.com [404] [] [0] [awselb/2.0] [35.163.175.119] [418.968104ms] [Amazon ELB,Amazon Web Services]
+https://b2b.speak.com [404] [] [10599] [Error 404 | Page not found] [cloudflare] [199.60.103.28] [545.705131ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub]
+https://evs.t.speak.com [404] [] [49] [AmazonS3] [18.154.110.48] [cloudfront] [505.071973ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://governance.status.app [404] [] [50] [Netlify] [98.84.224.111] [397.903087ms] [Netlify]
+https://srvcs.jacob.stackblitz.com [404] [] [0] [] [151.101.1.195] [fastly] [113.936411ms] [Firebase,HSTS,HTTP/3]
+https://srvcs.stackblitz.com [404] [] [0] [] [151.101.65.195] [fastly] [132.371615ms] [Firebase,HSTS,HTTP/3]
+https://run.stackblitz.com [404] [] [139] [Error] [] [34.211.210.184] [278.786189ms]
+
+## 500
+
+## 502
+https://editor.enteprise-test3.stackblitz.com [502] [] [932] [ERROR: The request could not be satisfied] [] [13.227.87.93] [cloudfront] [184.948698ms] [Amazon CloudFront,Amazon Web Services]
+https://wildcard.console.stackblitz.com [502] [] [932] [ERROR: The request could not be satisfied] [] [13.227.87.116] [cloudfront] [341.41721ms] [Amazon CloudFront,Amazon Web Services]
+
+## 503
+
