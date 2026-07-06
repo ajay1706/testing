@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jul  6 19:28:35 UTC 2026
+[+] Run ID: 28817550165
+[+] Batch name: batch-02
+[+] Batch targets:
+higgsfield.ai
+kilo.dev
+lantern.co
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jul  6 19:29:54 UTC 2026
+[+] HTTPX input count: 163
+[+] Running httpx...
+[+] httpx completed: Mon Jul  6 19:30:16 UTC 2026
+[+] httpx line count: 69
+[+] Batch completed: Mon Jul  6 19:30:16 UTC 2026
