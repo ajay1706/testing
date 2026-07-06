@@ -1,0 +1,62 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul  6 19:31:43 UTC 2026
+
+HTTPX lines: 35
+Live URLs: 35
+
+## 200
+https://marketplace-staging.windsurf.com [200] [] [20496] [Open VSX Registry] [] [35.223.238.178] [google] [342.325159ms] [Google Tag Manager,HSTS,Onsen UI,Varnish]
+https://eu.windsurf.com [200] [] [12997] [Home | Windsurf Enterprise] [] [129.159.29.205] [319.905189ms] [HSTS,Next.js,Node.js,React,Webpack]
+https://eu-staging.windsurf.com [200] [] [11051] [Home | Devin Enterprise Portal] [] [129.159.29.205] [349.700336ms] [HSTS,Next.js,Node.js,React,Webpack]
+https://marketplace.windsurf.com [200] [] [20496] [Open VSX Registry] [] [35.223.238.178] [google] [527.370881ms] [Google Tag Manager,HSTS,Onsen UI,Varnish]
+https://partners.windsurf.com [200] [] [42367] [Windsurf] [] [20.51.97.214] [493.736711ms] [HSTS,hCaptcha]
+https://status.windsurf.com [200] [] [145359] [Windsurf Status] [AtlassianEdge] [3.171.76.69] [cloudfront] [465.048817ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,Google Analytics,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+
+## 301
+https://www.windsurf.com [301] [https://windsurf.com/] [15] [Vercel] [76.76.21.21] [59.803005ms] [HSTS,Vercel]
+https://cli.windsurf.com [301] [https://docs.devin.ai/cli] [0] [CloudFront] [3.170.42.47] [cloudfront] [95.167967ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://www.tolan.ai [301] [https://tolan.ai/] [52] [cloudflare] [216.24.57.8] [338.402948ms] [Cloudflare,HTTP/3]
+
+## 302
+https://login.windsurf.com [302] [https://login.windsurf.com/app/UserHome?iss=https%3A%2F%2Flogin.windsurf.com&session_hint=AUTHENTICATED] [0] [nginx] [52.223.7.86] [121.60089ms] [HSTS,Nginx]
+https://help.windsurf.com [302] [https://help.windsurf.com/hc] [0] [cloudflare] [216.198.53.6] [144.555951ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://help-fedramp.windsurf.com [302] [https://help-fedramp.windsurf.com/hc] [0] [cloudflare] [216.198.53.6] [165.0317ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://tolan.ai [302] [https://apps.apple.com/us/app/tolan-alien-best-friend/id6477549878] [0] [cloudflare] [216.24.57.1] [365.014946ms] [Cloudflare,HTTP/3,Render]
+
+## 307
+
+## 308
+https://windsurf.com [308] [https://devin.ai/desktop] [15] [Vercel] [76.76.21.21] [58.807465ms] [HSTS,Vercel]
+https://changelog.windsurf.com [308] [https://devin.ai/desktop] [15] [Vercel] [76.76.21.241] [102.416288ms] [HSTS,Vercel]
+https://docs.windsurf.com [308] [/windsurf/getting-started] [527430] [Vercel] [76.76.21.241] [127.441484ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+
+## 401
+
+## 403
+https://trust.windsurf.com [403] [] [5664] [Just a moment...] [cloudflare] [104.18.41.248] [cloudflare] [87.950606ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://static.windsurf.com [403] [] [263] [AmazonS3] [108.138.85.74] [cloudfront] [178.647688ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+
+## 404
+https://server.enterprise.windsurf.com [404] [] [19] [] [34.160.214.98] [google] [67.001814ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://web-backend.windsurf.com [404] [] [74] [] [34.8.63.254] [google] [74.526457ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://analytics.windsurf.com [404] [] [74] [] [34.8.224.156] [google] [74.842054ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://register.windsurf.com [404] [] [74] [] [34.149.234.98] [google] [78.021477ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://server.self-serve.windsurf.com [404] [] [19] [] [34.49.14.144] [google] [79.982909ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://auth-staging.windsurf.com [404] [] [21265] [Site Not Found] [] [199.36.158.100] [69.015437ms] [Firebase,HSTS,HTTP/3]
+https://auth.windsurf.com [404] [] [21265] [Site Not Found] [] [199.36.158.100] [149.248168ms] [Firebase,HSTS,HTTP/3]
+https://staging-real-2.windsurf.com [404] [] [107] [Vercel] [76.76.21.123] [316.300842ms] [HSTS,Vercel]
+https://staging-real-4.windsurf.com [404] [] [107] [Vercel] [64.239.109.1] [316.436487ms] [HSTS,Vercel]
+https://browser.windsurf.com [404] [] [107] [Vercel] [66.33.60.34] [325.652138ms] [HSTS,Vercel]
+https://redirect.windsurf.com [404] [] [107] [Vercel] [76.76.21.241] [340.988555ms] [HSTS,Vercel]
+https://staging-test.windsurf.com [404] [] [107] [Vercel] [76.76.21.164] [345.744736ms] [HSTS,Vercel]
+https://staging-real-3.windsurf.com [404] [] [107] [Vercel] [64.239.109.129] [412.04447ms] [HSTS,Vercel]
+https://staging-real.windsurf.com [404] [] [107] [Vercel] [76.76.21.61] [460.161942ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+https://sovereign-core42.windsurf.com [503] [] [592] [503 Service Temporarily Unavailable] [] [40.120.127.119] [691.349761ms] [HSTS]
+

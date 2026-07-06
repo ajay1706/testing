@@ -1,0 +1,6 @@
+https://marketplace-staging.windsurf.com [200] [] [20496] [Open VSX Registry] [] [35.223.238.178] [google] [342.325159ms] [Google Tag Manager,HSTS,Onsen UI,Varnish]
+https://eu.windsurf.com [200] [] [12997] [Home | Windsurf Enterprise] [] [129.159.29.205] [319.905189ms] [HSTS,Next.js,Node.js,React,Webpack]
+https://eu-staging.windsurf.com [200] [] [11051] [Home | Devin Enterprise Portal] [] [129.159.29.205] [349.700336ms] [HSTS,Next.js,Node.js,React,Webpack]
+https://marketplace.windsurf.com [200] [] [20496] [Open VSX Registry] [] [35.223.238.178] [google] [527.370881ms] [Google Tag Manager,HSTS,Onsen UI,Varnish]
+https://partners.windsurf.com [200] [] [42367] [Windsurf] [] [20.51.97.214] [493.736711ms] [HSTS,hCaptcha]
+https://status.windsurf.com [200] [] [145359] [Windsurf Status] [AtlassianEdge] [3.171.76.69] [cloudfront] [465.048817ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,Google Analytics,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]

@@ -1,0 +1,2 @@
+https://trust.windsurf.com [403] [] [5664] [Just a moment...] [cloudflare] [104.18.41.248] [cloudflare] [87.950606ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://static.windsurf.com [403] [] [263] [AmazonS3] [108.138.85.74] [cloudfront] [178.647688ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
