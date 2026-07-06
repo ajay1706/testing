@@ -1,0 +1,69 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul  6 19:29:58 UTC 2026
+
+HTTPX lines: 45
+Live URLs: 45
+
+## 200
+https://tools.arcads.ai [200] [] [3368] [arcads.ai] [cloudflare] [172.66.47.45] [cloudflare] [94.579175ms] [Cloudflare,HTTP/3]
+https://privacy.arcads.ai [200] [] [30967] [Didomi - Web SDK] [AmazonS3] [18.239.199.117] [cloudfront] [116.759508ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://t.arcads.ai [200] [] [0] [nginx] [52.205.62.94] [249.585666ms] [Nginx]
+https://get.arcads.ai [200] [] [7652] [How to create winning ads with AI UGC] [cloudflare] [185.158.133.1] [708.947397ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,HSTS,jsDelivr]
+https://lp.arcads.ai [200] [] [13652] [Arcads.ai - Guide] [cloudflare] [185.158.133.1] [694.075733ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS]
+https://born.social [200] [] [4283] [born.social - This website is for sale! - born Resources and Information.] [Parking/1.0] [64.190.63.222] [757.33729ms]
+http://mail.born.social [200] [] [4231] [born.social - This website is for sale! - born Resources and Information.] [Parking/1.0] [64.190.63.222] [341.240448ms]
+https://www.arcads.ai [200] [] [188016] [Arcads - Create winning ads with AI] [cloudflare] [198.202.211.1] [63.606208ms] [Amplitude,Clickbank,Cloudflare,Google Tag Manager,HSTS,HTTP/3,Rewardful,cdnjs,jQuery:3.5.1]
+https://arcads-prompt-enhancer.get.arcads.ai [200] [] [2007] [Arcads-prompt-enhancer] [cloudflare] [185.158.133.1] [919.729729ms] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://app.arcads.ai [200] [] [62377] [Arcads] [] [65.8.54.66] [cloudfront] [820.262761ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Linkedin Ads,Next.js,Node.js,React,Webpack]
+http://www.born.social [200] [] [4247] [born.social - This website is for sale! - born Resources and Information.] [Parking/1.0] [64.190.63.222] [335.053396ms]
+https://aiagency.arcads.ai [200] [] [16418] [Arcads AI Agency — Brief your campaign] [cloudflare] [185.158.133.1] [1.195940798s] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://staging-website.biblechat.ai [200] [] [216345] [Bible Chat AI: Uncover Biblical Insights] [cloudflare] [104.26.14.233] [cloudflare] [1.465473309s] [Cloudflare,Fly.io,Google AdSense,Google Analytics,Google Maps,Google Tag Manager,HTTP/3,Htmx:2.0.4,Slick,Unpkg,jQuery CDN,jQuery:3.6.0,jsDelivr]
+
+## 301
+https://console.biblechat.ai [301] [https://console.faithassistant.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.233] [cloudflare] [55.906926ms] [Cloudflare,HTTP/3]
+https://biblechat.ai [301] [https://crosstalk.ai/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.233] [cloudflare] [63.846143ms] [Cloudflare,HTTP/3]
+https://website.biblechat.ai [301] [https://biblechat.ai/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.233] [cloudflare] [99.503988ms] [Cloudflare,HTTP/3]
+https://www.biblechat.ai [301] [https://crosstalk.ai/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.233] [cloudflare] [57.209866ms] [Cloudflare,HTTP/3]
+https://arcads.ai [301] [https://www.arcads.ai/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [181.092387ms] [Cloudflare,HSTS,HTTP/3]
+https://test.arcads.ai [301] [https://d1z5qa9wdf2yrt.cloudfront.net] [72] [ip-10-124-5-36.us-west-2.compute.internal] [3.33.251.168] [262.516652ms]
+https://try.arcads.ai [301] [https://www.arcads.ai/] [166] [301 Moved Permanently] [Vercel] [76.76.21.21] [571.77677ms] [Cloudflare,HSTS,Vercel]
+https://r.email.arcads.ai [301] [https://img.mailin.fr/] [0] [envoy] [172.246.243.65] [631.141253ms] [Envoy]
+https://img.email.arcads.ai [301] [https://img.mailin.fr/] [0] [cloudflare] [104.17.155.243] [cloudflare] [648.129653ms] [Cloudflare,Envoy]
+
+## 302
+http://trail.arcads.ai [302] [https://trail.arcads.ai/] [0] [Caddy] [188.165.50.182] [299.664458ms] [Caddy]
+http://track.biblechat.ai [302] [https://track.biblechat.ai/] [50] [] [34.69.224.94] [google] [98.237502ms]
+
+## 307
+https://get.biblechat.ai [307] [https://biblechat.ai] [0] [openresty] [35.167.216.18] [127.654445ms] [HSTS,Nginx,OpenResty]
+
+## 308
+
+## 401
+https://test-env.arcads.ai [401] [] [0] [CloudFront] [3.168.86.70] [cloudfront] [62.659898ms] [Amazon CloudFront,Amazon Web Services,Basic]
+https://preprod.arcads.ai [401] [] [0] [CloudFront] [18.239.199.106] [cloudfront] [233.784879ms] [Amazon CloudFront,Amazon Web Services,Basic]
+https://kcbi.biblechat.ai [401] [] [637] [Page not found] [Apache] [23.21.157.88] [293.977998ms] [Apache HTTP Server,Basic]
+https://mcp.arcads.ai [401] [] [78] [] [13.36.7.166] [612.270195ms]
+https://mcp.test.arcads.ai [401] [] [78] [] [13.36.90.241] [652.878773ms]
+
+## 403
+https://data.arcads.ai [403] [] [111] [AmazonS3] [108.139.10.14] [cloudfront] [245.399521ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://staging.biblechat.ai [404] [] [36] [cloudflare] [172.67.69.194] [cloudflare] [130.608882ms] [Cloudflare,Fly.io,HTTP/3]
+https://staging-fastsockets.biblechat.ai [404] [] [22] [cloudflare] [104.26.15.233] [cloudflare] [180.781439ms] [Cloudflare,Fly.io,HTTP/3]
+https://fastsockets.biblechat.ai [404] [] [22] [cloudflare] [104.26.15.233] [cloudflare] [184.020885ms] [Cloudflare,Fly.io,HTTP/3]
+https://external-api.arcads.ai [404] [] [63] [] [35.181.157.91] [621.365691ms] [Express,Node.js]
+https://api.test.arcads.ai [404] [] [63] [] [13.37.95.111] [622.21483ms] [Express,Node.js]
+https://external-api.test.arcads.ai [404] [] [63] [] [35.181.14.96] [623.848747ms] [Express,Node.js]
+https://api.preprod.arcads.ai [404] [] [63] [] [15.224.135.189] [637.658091ms] [Express,Node.js]
+https://external-api.preprod.arcads.ai [404] [] [63] [] [51.44.111.232] [643.885139ms] [Express,Node.js]
+https://api.arcads.ai [404] [] [63] [] [15.236.178.105] [670.137292ms] [Express,Node.js]
+
+## 500
+
+## 502
+
+## 503
+
