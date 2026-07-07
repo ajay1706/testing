@@ -1,0 +1,5 @@
+[CVE-2022-3124] [http] [medium] https://test-echo.promova.com/wp-json/wpfm/v1/file-rename
+[cgi-printenv] [http] [medium] https://test-echo.promova.com/cgi-bin/printenv.pl
+[prometheus-metrics] [http] [medium] https://subscription-v7.dev.otherhalf.ai/metrics
+[prometheus-metrics] [http] [medium] https://subscription-v6.prod.otherhalf.ai/metrics
+[laravel-debugbar-exposure] [http] [medium] https://test-echo.promova.com/_debugbar/open

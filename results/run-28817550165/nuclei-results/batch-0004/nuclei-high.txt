@@ -1,0 +1,2 @@
+[CVE-2022-0952] [http] [high] https://test-echo.promova.com/wp-json/click5_sitemap/API/update_html_option_AJAX
+[CVE-2022-0952] [http] [high] https://test-echo.promova.com/wp-json/click5_sitemap/API/update_html_option_AJAX
