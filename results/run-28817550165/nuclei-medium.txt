@@ -1,0 +1,13 @@
+[CVE-2022-3124] [http] [medium] https://test-echo.promova.com/wp-json/wpfm/v1/file-rename
+[CVE-2025-54793] [http] [medium] https://jake.stackblitz.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://stackblitz.com//interact.sh/en//
+[cgi-printenv] [http] [medium] https://test-echo.promova.com/cgi-bin/printenv.pl
+[laravel-debugbar-exposure] [http] [medium] https://test-echo.promova.com/_debugbar/open
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.particle.news [""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js""]
+[open-redirect-generic] [http] [medium] https://jake.stackblitz.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://stackblitz.com//oast.me/ [redirect="/oast.me/"]
+[prometheus-metrics] [http] [medium] https://notification-v4.dev.otherhalf.ai/metrics
+[prometheus-metrics] [http] [medium] https://notification-v5.prod.otherhalf.ai/metrics
+[prometheus-metrics] [http] [medium] https://scotch.promova.com/metrics
+[prometheus-metrics] [http] [medium] https://subscription-v6.prod.otherhalf.ai/metrics
+[prometheus-metrics] [http] [medium] https://subscription-v7.dev.otherhalf.ai/metrics

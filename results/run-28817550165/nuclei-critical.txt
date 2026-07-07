@@ -1,0 +1,1 @@
+[config-json-exposure-fuzz] [http] [critical] https://test-echo.promova.com/app.config.json [path="/app.config.json"]
