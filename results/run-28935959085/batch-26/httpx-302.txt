@@ -1,0 +1,6 @@
+https://community.magic.link [302] [https://discord.gg/magiclabs] [0] [cloudflare] [104.18.23.227] [cloudflare] [384.588063ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://developers.magic.link [302] [https://magic.link/docs/connect/overview] [0] [cloudflare] [104.18.23.227] [cloudflare] [412.495032ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://developer.magic.link [302] [https://magic.link/docs/connect/overview] [0] [cloudflare] [104.18.23.227] [cloudflare] [464.338976ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://go.magic.link [302] [https://go.magic.link/?rb.routing.mode=proxy&rb.routing.signature=256552] [0] [] [52.72.49.79] [160.398802ms] [HSTS]
+https://help.manus.im [302] [http://help.manus.im/en/] [0] [nginx] [18.165.83.69] [cloudfront] [180.029839ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://pages.manus.im [302] [https://manus.im:443/] [110] [302 Found] [awselb/2.0] [52.0.19.63] [237.116648ms] [Amazon ELB,Amazon Web Services]
