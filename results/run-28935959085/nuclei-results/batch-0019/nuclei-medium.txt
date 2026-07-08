@@ -1,0 +1,1 @@
+[open-redirect-generic] [http] [medium] https://azure-staging.sarvam.ai///https://oast.me// [redirect="//https://oast.me//"]
