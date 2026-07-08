@@ -1,0 +1,128 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul  8 10:33:58 UTC 2026
+
+HTTPX lines: 101
+Live URLs: 101
+
+## 200
+https://cosmos02-coral.availproject.org [200] [] [856] [xarchain] [nginx/1.24.0 (Ubuntu)] [143.198.74.68] [84.333424ms] [Nginx:1.24.0,Swagger UI,Ubuntu,Unpkg]
+https://api.llm.availproject.org [200] [] [835] [LiteLLM API - Swagger UI] [nginx/1.24.0 (Ubuntu)] [104.248.73.179] [119.042071ms] [Nginx:1.24.0,Swagger UI,Ubuntu]
+https://cosmos01-testnet.availproject.org [200] [] [856] [xarchain] [nginx/1.24.0 (Ubuntu)] [159.223.203.129] [114.751253ms] [Nginx:1.24.0,Swagger UI,Ubuntu,Unpkg]
+https://clerk.lens-turbo.availproject.org [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [204.437209ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://explorer.nexus.availproject.org [200] [] [1840] [Nexus Intent Explorer] [Vercel] [216.150.16.1] [222.907269ms] [HSTS,Vercel]
+https://cosmos-mainnet.availproject.org [200] [] [856] [xarchain] [nginx/1.24.0 (Ubuntu)] [146.190.55.134] [492.300274ms] [Nginx:1.24.0,Swagger UI,Ubuntu,Unpkg]
+https://cosmos01-mainnet.availproject.org [200] [] [856] [xarchain] [nginx/1.18.0 (Ubuntu)] [139.59.203.237] [579.590699ms] [Nginx:1.18.0,Swagger UI,Ubuntu,Unpkg]
+https://finance-apis.availproject.org [200] [] [15] [cloudflare] [172.66.150.78] [cloudflare] [514.285878ms] [Cloudflare,Cloudflare Bot Management]
+https://cosmos-grpc-mainnet.availproject.org [200] [] [856] [xarchain] [nginx/1.24.0 (Ubuntu)] [146.190.55.134] [658.82749ms] [Nginx:1.24.0,Swagger UI,Ubuntu,Unpkg]
+https://fastbridge.availproject.org [200] [] [4307] [FastBridge by Avail | Unified Cross-Chain Swaps and Transfers] [Vercel] [216.150.16.1] [374.305223ms] [Google Analytics,HSTS,Vercel]
+https://appid.availproject.org [200] [] [16246] [Avail App Management] [Vercel] [76.76.21.123] [153.763097ms] [HSTS,Vercel]
+https://clerk.turbo.availproject.org [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [971.784108ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://explorer.nexus-testnet.availproject.org [200] [] [1840] [Nexus Intent Explorer] [Vercel] [216.150.1.1] [808.296307ms] [HSTS,Vercel]
+https://calculator.availproject.org [200] [] [13341] [Avail DA Calculator] [Vercel] [66.33.60.193] [187.238565ms] [HSTS,Vercel]
+https://claim.availproject.org [200] [] [22384] [Avail Rewards] [Vercel] [216.150.16.193] [117.01588ms] [HSTS,Vercel]
+https://cosmos05-mainnet.availproject.org [200] [] [16074] [Armada North — Melodic Death Metal from Finland] [nginx/1.28.3 (Ubuntu)] [46.62.251.117] [681.327993ms] [Nginx:1.28.3,Tailwind CSS,Ubuntu]
+https://configurator.availproject.org [200] [] [16188] [Avail Widget Configurator] [Vercel] [216.150.16.129] [142.201497ms] [HSTS,Vercel]
+https://hyperevm.nexus-demo.availproject.org [200] [] [3835] [Nexus Upgrade] [Vercel] [216.150.1.193] [639.574062ms] [HSTS,Vercel]
+https://atlasora.io [200] [] [23114] [atlasora.io for sale | Spaceship.com] [openresty] [44.232.173.249] [683.587252ms] [HSTS,Nginx,OpenResty]
+https://ethcc-presentation.availproject.org [200] [] [69656] [Avail Nexus — Arbitrum Dev Workshop] [Vercel] [216.150.16.193] [142.181167ms] [HSTS,Vercel]
+https://jobs.backpack.app [200] [] [4906] [Backpack] [Vercel] [66.33.60.129] [609.421992ms] [HSTS,Vercel]
+https://bridge.availproject.org [200] [] [35319] [Avail | Bridge] [Vercel] [216.150.1.129] [142.009104ms] [HSTS,Vercel]
+https://develop.bridge.availproject.org [200] [] [35319] [Avail | Bridge] [Vercel] [216.150.1.129] [203.319104ms] [HSTS,Vercel]
+https://mobile.workers.backpack.app [200] [] [11] [cloudflare] [104.18.6.49] [cloudflare] [431.441651ms] [Cloudflare,Cloudflare Bot Management]
+https://explorer.availproject.org [200] [] [13607] [Avail Block Explorer] [cloudflare] [104.20.34.137] [cloudflare] [492.614727ms] [Cloudflare,Cloudflare Browser Insights]
+https://backpack.app [200] [] [61659] [Backpack: Crypto Exchange & Wallet | Solana, Ethereum & BTC] [Vercel] [76.76.21.21] [128.694324ms] [Google Tag Manager,HSTS,Vercel]
+https://llm.availproject.org [200] [] [7450] [Open WebUI] [cloudflare] [172.66.150.78] [cloudflare] [600.076787ms] [Cloudflare,Cloudflare Browser Insights]
+https://leaderboard.availproject.org [200] [] [15717] [Avail - Clash of nodes leaderboard] [Vercel] [66.33.60.66] [445.993472ms] [HSTS,Vercel]
+https://nexus-deposit.availproject.org [200] [] [470] [nexus-elements-template] [Vercel] [216.150.1.129] [406.023674ms] [HSTS,Vercel]
+https://avail-headless-nexus-demo.availproject.org [200] [] [33345] [Nexus Upgrade] [Vercel] [216.150.16.129] [492.569249ms] [HSTS,Vercel]
+https://light.availproject.org [200] [] [12166] [Avail Light Client] [Vercel] [76.76.21.93] [486.295187ms] [C3.js,HSTS,Vercel]
+https://blog.availproject.org [200] [] [93277] [Avail Blog] [openresty] [151.101.3.7] [fastly] [61.247945ms] [Ghost:6.51,Google Analytics,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://develop.elements.nexus.availproject.org [200] [] [39620] [Nexus Elements] [Vercel] [216.150.16.193] [257.721367ms] [HSTS,Vercel]
+https://lens-turbo.availproject.org [200] [] [16673] [TurboDA | Dashboard] [Vercel] [66.33.60.129] [686.117217ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://nexus-demo.availproject.org [200] [] [3706] [Nexus Upgrade] [Vercel] [216.150.16.1] [577.590526ms] [HSTS,Vercel]
+https://nexus-explorer.availproject.org [200] [] [1840] [Nexus Intent Explorer] [Vercel] [216.150.1.193] [561.176136ms] [HSTS,Vercel]
+https://hex.turbo.availproject.org [200] [] [15794] [TurboDA | Dashboard] [Vercel] [66.33.60.129] [746.151083ms] [HSTS,Vercel]
+https://snap.availproject.org [200] [] [597] [Avail Wallet] [Vercel] [76.76.21.142] [193.20662ms] [HSTS,React,Vercel]
+https://docs.availproject.org [200] [] [90324] [Avail Documentation] [Vercel] [216.150.1.129] [328.706429ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://stock-logos.workers.backpack.app [200] [] [35] [cloudflare] [104.18.6.49] [cloudflare] [226.787076ms] [Cloudflare,Cloudflare Bot Management]
+https://staking.availproject.org [200] [] [2766] [Avail Staking Dashboard | Avail Staking (AVAIL)] [Vercel] [66.33.60.129] [307.872076ms] [HSTS,Vercel]
+https://mainnet.availproject.org [200] [] [43965] [Mainnet Teaser | Avail] [Vercel] [216.150.16.1] [458.00404ms] [HSTS,Vercel]
+https://status.availproject.org [200] [] [5141] [Avail] [] [52.222.244.67] [cloudfront] [490.663946ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://test.liquidity-bridge-api.availproject.org [200] [] [1113] [Welcome to nginx!] [cloudflare] [104.20.34.137] [cloudflare] [415.8412ms] [Cloudflare,Cloudflare Browser Insights]
+https://vsc-test-02-coral.availproject.org [200] [] [856] [xarchain] [nginx/1.24.0 (Ubuntu)] [143.198.74.68] [166.007682ms] [Nginx:1.24.0,Swagger UI,Ubuntu,Unpkg]
+https://infinity.turbo.availproject.org [200] [] [30345] [TurboDA | Dashboard] [Vercel] [216.150.16.129] [591.047292ms] [HSTS,Vercel]
+https://xarswap.availproject.org [200] [] [471] [XAR to AVAIL swap] [Vercel] [216.150.1.129] [293.821001ms] [HSTS,Vercel]
+https://shadowfi.availproject.org [200] [] [41149] [ShadowFi — Private Perpetual Trading] [Vercel] [216.150.1.129] [367.350011ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://staging.turbo.availproject.org [200] [] [15800] [TurboDA | Dashboard] [Vercel] [66.33.60.67] [333.64631ms] [HSTS,Vercel]
+https://validator.availproject.org [200] [] [15099] [Avail Validator Dashboard] [Vercel] [216.150.1.193] [393.184548ms] [HSTS,Vercel]
+https://turbo.availproject.org [200] [] [15780] [TurboDA | Dashboard] [Vercel] [66.33.60.67] [334.767561ms] [HSTS,Vercel]
+https://turing.turbo.availproject.org [200] [] [15800] [TurboDA | Dashboard] [Vercel] [76.76.21.93] [397.302537ms] [HSTS,Vercel]
+https://turing.bridge.availproject.org [200] [] [35319] [Avail | Bridge] [Vercel] [216.150.16.193] [352.280145ms] [HSTS,Vercel]
+https://www.atlasora.io [200] [] [23114] [atlasora.io for sale | Spaceship.com] [openresty] [52.40.42.113] [666.960164ms] [HSTS,Nginx,OpenResty]
+https://widgets.availproject.org [200] [] [51101] [Nexus Elements] [Vercel] [216.150.1.193] [984.991524ms] [HSTS,Vercel]
+https://forum.availproject.org [200] [] [309503] [Avail Forum - A place to discuss about Avail and the modular blockchain space] [nginx] [184.104.178.43] [1.006692173s] [Discourse:2026.7.0,HSTS,Nginx,Ruby on Rails,Twitter]
+https://docs.backpack.app [200] [] [284239] [Deeplinks | Backpack Wallet Docs] [cloudflare] [172.64.147.209] [cloudflare] [759.691278ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://links.backpack.app [200] [] [135597] [LINKS.BACKPACK.APP - A Dub Custom Domain | Dub] [Vercel] [76.76.21.21] [940.250389ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://news.backpack.app [200] [] [79231] [Backpack Newsletter | Substack] [cloudflare] [172.64.151.232] [cloudflare] [737.640057ms] [C3.js,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js,Substack]
+https://availproject.org [200] [] [490513] [Avail Project] [Framer/1a1b925] [31.43.160.6] [285.601733ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React,YouTube]
+
+## 301
+https://hex.explorer.availproject.org [301] [https://explorer.availproject.org/?rpc=wss%3A%2F%2Frpc-hex-devnet.avail.tools%2Fws#/explorer] [665] [301 Moved Permanently] [cloudflare] [104.20.34.137] [cloudflare] [380.93763ms] [Cloudflare,Cloudflare Browser Insights]
+https://mainnet.explorer.availproject.org [301] [https://explorer.availproject.org/?rpc=wss%3A%2F%2Fmainnet-rpc.avail.so%2Fws&light=https%3A%2F%2Fapi.lightclient.mainnet.avail.so%2Fv1#/explorer] [665] [301 Moved Permanently] [cloudflare] [104.20.34.137] [cloudflare] [386.491431ms] [Cloudflare,Cloudflare Browser Insights]
+https://token.availproject.org [301] [https://docs.availproject.org/user-guides/staking-governance/overview] [167] [301 Moved Permanently] [cloudflare] [104.20.34.137] [cloudflare] [142.673847ms] [Cloudflare]
+https://turing.explorer.availproject.org [301] [https://explorer.availproject.org/?rpc=wss%3A%2F%2Fturing-rpc.avail.so%2Fws&light=https%3A%2F%2Fapi.lightclient.turing.avail.so%2Fv1#/explorer] [665] [301 Moved Permanently] [cloudflare] [172.66.150.78] [cloudflare] [248.187367ms] [Cloudflare,Cloudflare Browser Insights]
+https://universal-defi-access.availproject.org [301] [https://universal-defi-access.availproject.org/] [676] [301 Moved Permanently] [cloudflare] [104.20.34.137] [cloudflare] [662.921983ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 302
+https://showcase.nexus.availproject.org [302] [https://elements.nexus.availproject.org/] [143] [302 Found] [cloudflare] [172.66.150.78] [cloudflare] [154.721586ms] [Cloudflare]
+
+## 307
+https://elements.nexus.availproject.org [307] [https://widgets.availproject.org/] [15] [Vercel] [216.150.16.193] [133.854883ms] [HSTS,Vercel]
+
+## 308
+https://nexus-ui-components-demo.availproject.org [308] [https://nexus-demo.availproject.org/] [15] [Vercel] [216.150.1.1] [495.334844ms] [HSTS,Vercel]
+https://xpserv-testnet.availproject.org [308] [https://xpserv-testnet.availproject.org/] [0] [cloudflare] [104.20.34.137] [cloudflare] [251.654549ms] [Cloudflare]
+https://www.backpack.app [308] [https://backpack.app/] [15] [Vercel] [76.76.21.21] [332.300587ms] [HSTS,Vercel]
+https://www.availproject.org [308] [https://availproject.org/] [61] [Framer/1a1b925] [31.43.161.6] [479.228015ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+https://rpc.backpack.app [401] [] [188] [401 Authorization Required] [nginx/1.24.0 (Ubuntu)] [108.181.93.162] [280.881129ms] [Basic,Nginx:1.24.0,Ubuntu]
+
+## 403
+https://accounts.lens-turbo.availproject.org [403] [] [9552] [Just a moment...] [cloudflare] [172.64.153.110] [cloudflare] [81.009774ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://download.backpack.app [403] [] [1148] [Access Denied] [cloudflare] [162.159.140.159] [cloudflare] [423.265327ms] [Cloudflare,HTTP/3]
+https://accounts.turbo.availproject.org [403] [] [9548] [Just a moment...] [cloudflare] [104.18.34.146] [cloudflare] [522.412994ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://ccs-testnet.availproject.org [404] [] [48] [] [147.182.207.38] [85.677937ms] [HTTP/3]
+https://atomic.api.mainnet.availproject.org [404] [] [1046] [404 Not Found] [cloudflare] [104.20.34.137] [cloudflare] [413.124523ms] [Cloudflare,Cloudflare Browser Insights]
+https://atomic.api.testnet.availproject.org [404] [] [1046] [404 Not Found] [cloudflare] [104.20.34.137] [cloudflare] [452.842747ms] [Cloudflare,Cloudflare Browser Insights]
+https://atomic.api.availproject.org [404] [] [644] [404 Not Found] [cloudflare] [172.66.150.78] [cloudflare] [462.008071ms] [Cloudflare,Cloudflare Browser Insights]
+https://campaigns.backpack.app [404] [] [107] [Vercel] [76.76.21.142] [682.016649ms] [HSTS,Vercel]
+https://atomic.api.canary.availproject.org [404] [] [644] [404 Not Found] [cloudflare] [172.66.150.78] [cloudflare] [492.377529ms] [Cloudflare,Cloudflare Browser Insights]
+https://hex.turbo-api.availproject.org [404] [] [0] [cloudflare] [172.66.150.78] [cloudflare] [878.527245ms] [Cloudflare]
+https://files.availproject.org [404] [] [27648] [Not Found] [cloudflare] [172.66.150.78] [cloudflare] [525.956153ms] [Cloudflare,Cloudflare Browser Insights]
+https://lightclient.availproject.org [404] [] [107] [Vercel] [66.33.60.35] [848.920587ms] [HSTS,Vercel]
+https://mainnet.turbo-api.availproject.org [404] [] [0] [cloudflare] [172.66.150.78] [cloudflare] [827.136628ms] [Cloudflare]
+https://shieldtx-testnet.availproject.org [404] [] [107] [Vercel] [216.150.16.129] [300.070162ms] [HSTS,Vercel]
+https://static.availproject.org [404] [] [0] [cloudflare] [172.66.150.78] [cloudflare] [250.762207ms] [Cloudflare]
+https://old-api.docs.availproject.org [404] [] [107] [Vercel] [66.33.60.34] [788.767939ms] [HSTS,Vercel]
+https://staging-docs.availproject.org [404] [] [107] [Vercel] [76.76.21.93] [649.295683ms] [HSTS,Vercel]
+https://staging.availproject.org [404] [] [107] [Vercel] [76.76.21.123] [669.441117ms] [HSTS,Vercel]
+https://prover-circuits.availproject.org [404] [] [27648] [Not Found] [cloudflare] [172.66.150.78] [cloudflare] [462.347874ms] [Cloudflare,Cloudflare Browser Insights]
+https://turbo-api.availproject.org [404] [] [0] [cloudflare] [172.66.150.78] [cloudflare] [575.226174ms] [Cloudflare]
+https://vsc1-testnet.availproject.org [404] [] [48] [] [147.182.207.38] [265.067601ms] [HTTP/3]
+https://turboda-api.availproject.org [404] [] [0] [cloudflare] [172.66.150.78] [cloudflare] [564.219383ms] [Cloudflare]
+https://turing.turbo-api.availproject.org [404] [] [0] [cloudflare] [104.20.34.137] [cloudflare] [588.503175ms] [Cloudflare]
+https://stock-logos.backpack.app [404] [] [27150] [Not Found] [cloudflare] [104.18.6.49] [cloudflare] [329.220537ms] [Cloudflare,Cloudflare Bot Management]
+https://srs.availproject.org [404] [] [27648] [Not Found] [cloudflare] [172.66.150.78] [cloudflare] [1.155487997s] [Cloudflare,Cloudflare Browser Insights]
+
+## 500
+
+## 502
+https://cosmos03-coral.availproject.org [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [159.89.151.61] [134.397779ms] [Nginx:1.24.0,Ubuntu]
+https://analytics.availproject.org [502] [] [0] [Caddy] [137.184.84.203] [3.34042209s] [Caddy,HTTP/3]
+
+## 503
+
