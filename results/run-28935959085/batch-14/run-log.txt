@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jul  8 10:40:33 UTC 2026
+[+] Run ID: 28935959085
+[+] Batch name: batch-14
+[+] Batch targets:
+ether.fi
+exa.ai
+extended.exchange
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jul  8 10:41:36 UTC 2026
+[+] HTTPX input count: 1410
+[+] Running httpx...
+[+] httpx completed: Wed Jul  8 10:43:36 UTC 2026
+[+] httpx line count: 1139
+[+] Batch completed: Wed Jul  8 10:43:36 UTC 2026
