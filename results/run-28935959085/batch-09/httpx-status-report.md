@@ -1,0 +1,95 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul  8 10:39:10 UTC 2026
+
+HTTPX lines: 86
+Live URLs: 86
+
+## 200
+https://api.dappier.com [200] [] [2680] [Heypat Waitlist] [cloudflare] [104.18.14.219] [cloudflare] [100.038748ms] [Cloudflare,cdnjs]
+https://chat.staging.dappier.com [200] [] [714] [cloudflare] [104.18.15.219] [cloudflare] [146.959838ms] [Cloudflare]
+https://catgpt.web.dappier.com [200] [] [816] [Dappier AI Chat] [cloudflare] [104.18.14.219] [cloudflare] [149.398857ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://chat.dev.dappier.com [200] [] [710] [cloudflare] [104.18.14.219] [cloudflare] [177.865298ms] [Cloudflare]
+https://asktest2.dev2.dappier.com [200] [] [456] [cloudflare] [172.66.46.246] [cloudflare] [202.669804ms] [Cloudflare,HTTP/3]
+https://chat.dappier.com [200] [] [711] [cloudflare] [104.18.14.219] [cloudflare] [233.46874ms] [Cloudflare]
+https://analytics-staging.internal.dappier.com [200] [] [1152] [Dappier - Revenue Insight Hub] [cloudflare] [104.18.14.219] [cloudflare] [197.886146ms] [Cloudflare]
+https://akcafemom.dev2.dappier.com [200] [] [456] [cloudflare] [172.66.46.246] [cloudflare] [219.979882ms] [Cloudflare,HTTP/3]
+https://channel3000.web.dev.dappier.com [200] [] [816] [Dappier AI Chat] [cloudflare] [104.18.14.219] [cloudflare] [295.827042ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://aktestdomain2.dev2.dappier.com [200] [] [456] [cloudflare] [172.66.45.10] [cloudflare] [334.741172ms] [Cloudflare,HTTP/3]
+https://akdomaintest1.dev2.dappier.com [200] [] [456] [cloudflare] [172.66.46.246] [cloudflare] [334.881693ms] [Cloudflare,HTTP/3]
+https://asktestag01.dev2.dappier.com [200] [] [456] [cloudflare] [172.66.46.246] [cloudflare] [348.469158ms] [Cloudflare,HTTP/3]
+https://api.dev.dappier.com [200] [] [2680] [Heypat Waitlist] [cloudflare] [104.18.15.219] [cloudflare] [367.354084ms] [Cloudflare,cdnjs]
+https://analytics-internal.dappier.com [200] [] [1414] [Dappier - Revenue Insight Hub] [cloudflare] [104.18.14.219] [cloudflare] [417.623034ms] [Cloudflare,Cloudflare Browser Insights]
+https://askktla6775.dev2.dappier.com [200] [] [456] [cloudflare] [172.66.45.10] [cloudflare] [464.013705ms] [Cloudflare,HTTP/3]
+https://analytics-agent.dappier.com [200] [] [59578] [Dappier Analytics Agent] [cloudflare] [104.18.14.219] [cloudflare] [279.394466ms] [Cloudflare]
+https://mcp.dappier.com [200] [] [38257] [Dappier MCP Remote Server] [cloudflare] [104.18.14.219] [cloudflare] [116.253148ms] [Cloudflare,Tailwind CSS,YouTube]
+https://massive.mcp.dappier.com [200] [] [228] [cloudflare] [104.18.15.219] [cloudflare] [242.96464ms] [Cloudflare]
+https://newtest02.dev2.dappier.com [200] [] [456] [cloudflare] [172.66.46.246] [cloudflare] [218.05946ms] [Cloudflare,HTTP/3]
+https://agentscraper.dappier.com [200] [] [2433] [Dappier Scraper Agent — Website to RSS Feed Generator] [cloudflare] [185.158.133.1] [857.503643ms] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://skyfire-demo.dappier.com [200] [] [677] [Skyfire × Dappier] [cloudflare] [104.18.14.219] [cloudflare] [305.442845ms] [Cloudflare]
+https://weather.mcp.dappier.com [200] [] [183] [cloudflare] [104.18.15.219] [cloudflare] [180.216413ms] [Cloudflare]
+https://demo.dappier.com [200] [] [2770] [Demo Agents | Pub and Brand AI formats] [cloudflare] [185.158.133.1] [717.229953ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://n8n.dappier.com [200] [] [13971] [n8n.io - Workflow Automation] [cloudflare] [104.18.15.219] [cloudflare] [285.913295ms] [Cloudflare]
+https://sales-agent.dappier.com [200] [] [52129] [Dappier Sales Agent — Sponsored Conversations] [cloudflare] [104.18.15.219] [cloudflare] [308.310498ms] [Cloudflare]
+https://status.dappier.com [200] [] [18193] [Dappier Status] [] [5.161.16.172] [195.925583ms] [Google Tag Manager,HSTS,HTTP/3,Unpkg,hCaptcha:1,reCAPTCHA]
+https://wildcard.web.dappier.com [200] [] [816] [Dappier AI Chat] [cloudflare] [104.18.15.219] [cloudflare] [156.541651ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://mockups.dappier.com [200] [] [2127] [Dappier Mockups] [cloudflare] [185.158.133.1] [707.661914ms] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://wildcard.web.staging.dappier.com [200] [] [816] [Dappier AI Chat] [cloudflare] [104.18.14.219] [cloudflare] [186.197407ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://wildcard.web.dev.dappier.com [200] [] [816] [Dappier AI Chat] [cloudflare] [104.18.15.219] [cloudflare] [213.437634ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://mcp.staging.dappier.com [200] [] [38257] [Dappier MCP Remote Server] [cloudflare] [104.18.14.219] [cloudflare] [755.395585ms] [Cloudflare,Tailwind CSS,YouTube]
+https://d2.finance [200] [] [43118] [D2 Finance | Institutional Grade Managed Strategies] [cloudflare] [104.26.12.138] [cloudflare] [1.041181065s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://aktestdomain1.staging.dappier.com [200] [] [1224] [Dappier Ask AI – AI Answers] [cloudflare] [172.66.44.87] [cloudflare] [1.485699251s] [Cloudflare,HTTP/3]
+https://akcustomdomain.staging.dappier.com [200] [] [1694] [custom domain test – AI Answers] [cloudflare] [172.66.44.87] [cloudflare] [1.515405066s] [Cloudflare,HTTP/3]
+https://akcleanplate.staging.dappier.com [200] [] [1265] [Clean Plates - Teads – AI Answers] [cloudflare] [172.66.44.87] [cloudflare] [1.521959671s] [Cloudflare,HTTP/3]
+https://akcbctest.dappier.com [200] [] [1212] [Dappier Ask AI – AI Answers] [cloudflare] [172.66.44.80] [cloudflare] [1.583645893s] [Cloudflare,HTTP/3]
+https://staging.d2.finance [200] [] [41782] [D2 Finance | Institutional Grade Managed Strategies] [nginx/1.24.0 (Ubuntu)] [54.169.248.215] [760.798791ms] [Next.js,Nginx:1.24.0,Node.js,React,Ubuntu,Webpack]
+https://askmomspon4310.dappier.com [200] [] [1217] [Dappier Ask AI – AI Answers] [cloudflare] [172.66.47.176] [cloudflare] [1.731038408s] [Cloudflare,HTTP/3]
+https://cbctest2563.staging.dappier.com [200] [] [1222] [Dappier Ask AI – AI Answers] [cloudflare] [172.66.44.87] [cloudflare] [1.844433081s] [Cloudflare,HTTP/3]
+https://gitbook.d2.finance [200] [] [295762] [D2 Finance Overview | D2.Finance] [cloudflare] [172.64.147.209] [cloudflare] [514.475832ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://thisisatestdomain01.staging.dappier.com [200] [] [1230] [Dappier Ask AI – AI Answers] [cloudflare] [172.66.44.87] [cloudflare] [1.716855995s] [Cloudflare,HTTP/3]
+
+## 301
+https://marketplace.dappier.com [301] [https://platform.dappier.com/marketplace] [167] [301 Moved Permanently] [cloudflare] [104.18.14.219] [cloudflare] [119.754269ms] [Cloudflare]
+https://www.dappier.com [301] [https://dappier.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.15.219] [cloudflare] [124.501964ms] [Cloudflare]
+https://www.d2.finance [301] [https://d2.finance/] [665] [301 Moved Permanently] [cloudflare] [104.26.12.138] [cloudflare] [111.832281ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://staging.dappier.com [301] [https://staging.dappier.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.15.219] [cloudflare] [31.732977ms] [Cloudflare]
+http://test.dappier.com [301] [https://test.dappier.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.15.219] [cloudflare] [34.740529ms] [Cloudflare]
+
+## 302
+https://cubesigner.com [302] [https://cubist.dev] [143] [302 Found] [cloudflare] [104.21.22.143] [cloudflare] [197.818232ms] [Cloudflare,HTTP/3]
+
+## 307
+
+## 308
+
+## 401
+https://docs.cubesigner.com [401] [] [3551] [Password Protection] [cloudflare] [104.21.22.143] [cloudflare] [463.334579ms] [Cloudflare,HSTS,HTTP/3,Netlify]
+
+## 403
+https://dappier.com [403] [] [5615] [Just a moment...] [cloudflare] [104.18.15.219] [cloudflare] [164.724145ms] [Cloudflare]
+https://docs.dappier.com [403] [] [5642] [Just a moment...] [cloudflare] [104.18.15.219] [cloudflare] [167.157162ms] [Cloudflare]
+https://datastore.dappier.com [403] [] [6369] [Just a moment...] [cloudflare] [104.18.14.219] [cloudflare] [239.722989ms] [Cloudflare,HSTS]
+https://docs.d2.finance [403] [] [25] [cloudflare] [104.26.12.138] [cloudflare] [237.372636ms] [Cloudflare,HTTP/3]
+https://platform.dappier.com [403] [] [5645] [Just a moment...] [cloudflare] [104.18.14.219] [cloudflare] [120.934383ms] [Cloudflare]
+
+## 404
+https://assets-staging.dappier.com [404] [] [27150] [Not Found] [cloudflare] [104.18.14.219] [cloudflare] [111.535587ms] [Cloudflare]
+https://assets.dappier.com [404] [] [27150] [Not Found] [cloudflare] [104.18.15.219] [cloudflare] [125.406089ms] [Cloudflare]
+https://assets-dev3.dappier.com [404] [] [27150] [Not Found] [cloudflare] [104.18.15.219] [cloudflare] [157.78136ms] [Cloudflare]
+https://assets-dev.dappier.com [404] [] [27150] [Not Found] [cloudflare] [104.18.14.219] [cloudflare] [178.349733ms] [Cloudflare]
+https://de.staging.dappier.com [404] [] [22] [cloudflare] [104.18.15.219] [cloudflare] [263.660971ms] [Cloudflare]
+https://de.dev.dappier.com [404] [] [22] [cloudflare] [104.18.14.219] [cloudflare] [270.66624ms] [Cloudflare]
+https://images.staging.dappier.com [404] [] [678] [404 - File Not Found] [BunnyCDN-IL1-1347] [143.244.60.197] [160.297403ms] [Bunny]
+https://de.dappier.com [404] [] [22] [cloudflare] [104.18.14.219] [cloudflare] [384.902351ms] [Cloudflare]
+https://assets-dev2.dappier.com [404] [] [27150] [Not Found] [cloudflare] [104.18.14.219] [cloudflare] [439.329676ms] [Cloudflare]
+https://images-dev.dappier.com [404] [] [27150] [Not Found] [cloudflare] [104.18.15.219] [cloudflare] [168.325905ms] [Cloudflare]
+https://images.dev.dappier.com [404] [] [678] [404 - File Not Found] [BunnyCDN-TX1-1343] [212.102.40.120] [340.727211ms] [Bunny]
+https://images.dappier.com [404] [] [678] [404 - File Not Found] [BunnyCDN-TX1-950] [212.102.40.113] [398.200601ms] [Bunny]
+
+## 500
+
+## 502
+
+## 503
+https://qa.dappier.com [503] [] [162] [503 Service Temporarily Unavailable] [cloudflare] [104.18.14.219] [cloudflare] [273.105265ms] [Cloudflare]
+
