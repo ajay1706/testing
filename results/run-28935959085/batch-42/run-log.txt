@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jul  8 10:55:52 UTC 2026
+[+] Run ID: 28935959085
+[+] Batch name: batch-42
+[+] Batch targets:
+tolan.ai
+tradable.xyz
+trigger.dev
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jul  8 10:57:15 UTC 2026
+[+] HTTPX input count: 76
+[+] Running httpx...
+[+] httpx completed: Wed Jul  8 10:57:33 UTC 2026
+[+] httpx line count: 41
+[+] Batch completed: Wed Jul  8 10:57:33 UTC 2026
