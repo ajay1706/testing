@@ -1,0 +1,3 @@
+https://app.captions.ai [308] [https://desktop.captions.ai/login] [33] [Google Frontend] [216.239.38.21] [google] [125.610912ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://web-tools.captions.ai [308] [https://desktop.captions.ai/login] [33] [Google Frontend] [216.239.34.21] [google] [217.338688ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://docs.browserbase.com [308] [/welcome/introduction] [158113] [Vercel] [66.33.60.67] [138.049277ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]

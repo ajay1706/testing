@@ -1,0 +1,8 @@
+https://browserbase.com [301] [https://www.browserbase.com/] [15] [Vercel] [76.76.21.21] [94.527493ms] [HSTS,Vercel]
+https://help.captions.ai [301] [https://help.mirage.app/] [167] [301 Moved Permanently] [cloudflare] [172.66.150.225] [cloudflare] [43.242577ms] [Cloudflare]
+https://lipdub.captions.ai [301] [https://desktop.captions.ai/] [0] [cloudflare] [172.66.150.225] [cloudflare] [278.654083ms] [Cloudflare]
+https://text.captions.ai [301] [https://captions.ai/features/text-to-edit] [167] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [86.421258ms] [Cloudflare]
+https://www.captions.ai [301] [https://captions.ai/] [167] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [85.63457ms] [Cloudflare]
+http://www.desktop.captions.ai [301] [https://www.desktop.captions.ai/] [665] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [26.489837ms] [Cloudflare,Cloudflare Browser Insights]
+http://www.lipdub.captions.ai [301] [https://www.lipdub.captions.ai/] [665] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [32.482569ms] [Cloudflare,Cloudflare Browser Insights]
+https://sales.captions.ai [301] [https://sales.captions.ai/index.html] [0] [] [34.123.83.248] [google] [796.83937ms] [Google Cloud,Google Cloud CDN,HTTP/3]

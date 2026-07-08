@@ -1,0 +1,71 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul  8 10:33:54 UTC 2026
+
+HTTPX lines: 56
+Live URLs: 56
+
+## 200
+https://clerk.browserbase.com [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [125.002144ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://cua.browserbase.com [200] [] [22958] [Computer Use Browser] [Vercel] [66.33.60.35] [75.416661ms] [HSTS,Vercel]
+https://mpp.browserbase.com [200] [] [3229] [Browserbase Payment Gateway (x402 + MPP)] [] [18.155.202.81] [cloudfront] [242.518201ms] [Amazon CloudFront,Amazon Web Services,Express,Node.js]
+https://arena.browserbase.com [200] [] [25230] [Arena] [Vercel] [66.33.60.130] [170.310757ms] [HSTS,Vercel]
+https://gemini.browserbase.com [200] [] [24775] [Gemini Browser] [Vercel] [216.150.1.193] [131.800106ms] [HSTS,Vercel]
+https://google-cua.browserbase.com [200] [] [24775] [Gemini Browser] [Vercel] [216.150.1.193] [258.258056ms] [HSTS,Vercel]
+https://google.browserbase.com [200] [] [24775] [Gemini Browser] [Vercel] [76.76.21.142] [305.668454ms] [HSTS,Vercel]
+https://capsule.xyz [200] [] [23830] [Capsule.xyz for sale | Spaceship.com] [openresty] [52.40.42.113] [648.261982ms] [HSTS,Nginx,OpenResty]
+https://operator.browserbase.com [200] [] [17673] [Open Operator] [Vercel] [76.76.21.123] [261.850825ms] [HSTS,Vercel]
+https://trust.browserbase.com [200] [] [3468] [Browserbase Trust Center] [cloudflare] [104.18.27.175] [cloudflare] [448.405516ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://x402.browserbase.com [200] [] [3229] [Browserbase Payment Gateway (x402 + MPP)] [] [18.155.202.81] [cloudfront] [238.026513ms] [Amazon CloudFront,Amazon Web Services,Express,Node.js]
+https://www.capsule.xyz [200] [] [23830] [Capsule.xyz for sale | Spaceship.com] [openresty] [52.40.42.113] [433.719594ms] [HSTS,Nginx,OpenResty]
+https://stealth.browserbase.com [200] [] [38903] [Browserbase Stealth Status] [Vercel] [66.33.60.129] [638.346364ms] [HSTS,Vercel,dc.js]
+https://captions.ai [200] [] [310796] [Captions: AI That Edits Like a Professional Editor] [cloudflare] [172.66.150.225] [cloudflare] [99.832443ms] [Astro:7.0.3,Cloudflare,Cloudflare Browser Insights,Contentful,Google Tag Manager]
+https://status.browserbase.com [200] [] [89417] [Browserbase Status] [Vercel] [76.76.21.98] [813.023884ms] [HSTS,Vercel,dc.js]
+https://dev.browserbase.com [200] [] [381869] [Browserbase] [Vercel] [76.76.21.98] [733.791455ms] [HSTS,Linkedin Ads,Vercel]
+https://www.browserbase.com [200] [] [381869] [Browserbase] [Vercel] [66.33.60.35] [527.332859ms] [HSTS,Linkedin Ads,Vercel]
+
+## 301
+https://browserbase.com [301] [https://www.browserbase.com/] [15] [Vercel] [76.76.21.21] [94.527493ms] [HSTS,Vercel]
+https://help.captions.ai [301] [https://help.mirage.app/] [167] [301 Moved Permanently] [cloudflare] [172.66.150.225] [cloudflare] [43.242577ms] [Cloudflare]
+https://lipdub.captions.ai [301] [https://desktop.captions.ai/] [0] [cloudflare] [172.66.150.225] [cloudflare] [278.654083ms] [Cloudflare]
+https://text.captions.ai [301] [https://captions.ai/features/text-to-edit] [167] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [86.421258ms] [Cloudflare]
+https://www.captions.ai [301] [https://captions.ai/] [167] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [85.63457ms] [Cloudflare]
+http://www.desktop.captions.ai [301] [https://www.desktop.captions.ai/] [665] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [26.489837ms] [Cloudflare,Cloudflare Browser Insights]
+http://www.lipdub.captions.ai [301] [https://www.lipdub.captions.ai/] [665] [301 Moved Permanently] [cloudflare] [104.20.36.48] [cloudflare] [32.482569ms] [Cloudflare,Cloudflare Browser Insights]
+https://sales.captions.ai [301] [https://sales.captions.ai/index.html] [0] [] [34.123.83.248] [google] [796.83937ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 302
+https://get.captions.ai [302] [https://captions.ai] [0] [cloudflare] [172.66.150.225] [cloudflare] [129.405986ms] [Cloudflare]
+
+## 307
+https://app.browserbase.com [307] [https://www.browserbase.com/] [15] [Vercel] [76.76.21.21] [112.980708ms] [HSTS,Vercel]
+https://desktop.captions.ai [307] [/projects] [9] [cloudflare] [104.20.36.48] [cloudflare] [145.174157ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS]
+https://share.captions.ai [307] [/projects] [9] [Google Frontend] [142.251.219.179] [google] [216.799941ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HSTS]
+
+## 308
+https://app.captions.ai [308] [https://desktop.captions.ai/login] [33] [Google Frontend] [216.239.38.21] [google] [125.610912ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://web-tools.captions.ai [308] [https://desktop.captions.ai/login] [33] [Google Frontend] [216.239.34.21] [google] [217.338688ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://docs.browserbase.com [308] [/welcome/introduction] [158113] [Vercel] [66.33.60.67] [138.049277ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+
+## 401
+
+## 403
+https://accounts.browserbase.com [403] [] [9434] [Just a moment...] [cloudflare] [172.64.153.110] [cloudflare] [44.030253ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://as.captions.ai [403] [] [19] [cloudflare] [172.66.150.225] [cloudflare] [127.409982ms] [Cloudflare,Google Cloud,Google Cloud CDN,Statsig]
+
+## 404
+https://api.browserbase.com [404] [] [72] [] [44.250.5.202] [86.269843ms]
+https://am.captions.ai [404] [] [90] [cloudflare] [104.20.36.48] [cloudflare] [112.131976ms] [Cloudflare,Envoy,Google Cloud,Google Cloud CDN]
+https://api.stagehand.browserbase.com [404] [] [0] [awselb/2.0] [35.162.78.152] [127.470338ms] [Amazon ELB,Amazon Web Services]
+https://mcp.browserbase.com [404] [] [0] [awselb/2.0] [52.38.146.76] [159.218041ms] [Amazon ELB,Amazon Web Services]
+https://api.captions.ai [404] [] [74] [] [34.54.177.12] [google] [318.138699ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api-dev.captions.ai [404] [] [74] [] [34.54.177.12] [google] [358.427367ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api.use1.stagehand.browserbase.com [404] [] [0] [awselb/2.0] [52.202.193.21] [377.091692ms] [Amazon ELB,Amazon Web Services]
+https://api.euc1.stagehand.browserbase.com [404] [] [0] [awselb/2.0] [51.102.199.96] [731.424285ms] [Amazon ELB,Amazon Web Services]
+
+## 500
+
+## 502
+
+## 503
+

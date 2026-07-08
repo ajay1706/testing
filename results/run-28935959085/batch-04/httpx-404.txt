@@ -1,0 +1,8 @@
+https://api.browserbase.com [404] [] [72] [] [44.250.5.202] [86.269843ms]
+https://am.captions.ai [404] [] [90] [cloudflare] [104.20.36.48] [cloudflare] [112.131976ms] [Cloudflare,Envoy,Google Cloud,Google Cloud CDN]
+https://api.stagehand.browserbase.com [404] [] [0] [awselb/2.0] [35.162.78.152] [127.470338ms] [Amazon ELB,Amazon Web Services]
+https://mcp.browserbase.com [404] [] [0] [awselb/2.0] [52.38.146.76] [159.218041ms] [Amazon ELB,Amazon Web Services]
+https://api.captions.ai [404] [] [74] [] [34.54.177.12] [google] [318.138699ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api-dev.captions.ai [404] [] [74] [] [34.54.177.12] [google] [358.427367ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api.use1.stagehand.browserbase.com [404] [] [0] [awselb/2.0] [52.202.193.21] [377.091692ms] [Amazon ELB,Amazon Web Services]
+https://api.euc1.stagehand.browserbase.com [404] [] [0] [awselb/2.0] [51.102.199.96] [731.424285ms] [Amazon ELB,Amazon Web Services]
