@@ -1,0 +1,2 @@
+https://docs.clearpool.finance [307] [https://docs.clearpool.finance/clearpool/] [15] [cloudflare] [104.18.40.47] [cloudflare] [253.820592ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://clearstar.xyz [307] [https://www.clearstar.xyz/] [15] [Vercel] [216.150.1.1] [446.249545ms] [HSTS,Vercel]
