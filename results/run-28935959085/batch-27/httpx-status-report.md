@@ -1,0 +1,99 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul  8 10:46:54 UTC 2026
+
+HTTPX lines: 71
+Live URLs: 71
+
+## 200
+https://cloud.mastra.ai [200] [] [661] [Mastra Cloud] [Vercel] [66.33.60.34] [114.751705ms] [HSTS,Vercel]
+https://code.mastra.ai [200] [] [45800] [Mastra Code] [Vercel] [216.150.1.193] [101.056752ms] [Docusaurus:3.10.1,HSTS,React,Vercel,Webpack]
+https://auth.mastra.ai [200] [] [2] [cloudflare] [172.64.152.23] [cloudflare] [399.067382ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://gateway.mastra.ai [200] [] [759] [Mastra] [Vercel] [216.150.1.129] [529.56547ms] [HSTS,Vercel]
+https://projects.mastra.ai [200] [] [759] [Mastra] [Vercel] [216.150.16.193] [257.751367ms] [HSTS,Vercel]
+https://metabase.mastra.ai [200] [] [123830] [Metabase] [railway-hikari] [69.46.46.84] [158.52962ms] [HSTS]
+https://data.maple.finance [200] [] [146887] [Metabase] [istio-envoy] [54.144.165.81] [317.192073ms] [Envoy,HSTS]
+https://app.matrixdock.com [200] [] [4204] [Matrixdock Gold(XAUm) | Matrixdock] [cloudflare] [104.18.7.86] [cloudflare] [860.600182ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,HSTS]
+https://storybook.eth.maple.finance [200] [] [3298] [storybook - Storybook] [AmazonS3] [52.222.244.25] [cloudfront] [345.27709ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://app.sepolia.eth.maple.finance [200] [] [4244] [Maple Finance: Onchain Asset Management App] [AmazonS3] [65.8.20.84] [cloudfront] [935.80182ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Sanity,Sanity.io]
+https://maple.finance [200] [] [215712] [Maple Finance | The Leader in Onchain Asset Management] [cloudflare] [104.18.7.31] [cloudflare] [223.274955ms] [Astro:5.18.1,Cloudflare,HSTS,Sanity,Sanity.io]
+https://hq.sepolia.eth.maple.finance [200] [] [1324] [Maple Dashboard] [AmazonS3] [18.238.109.22] [cloudfront] [1.137544798s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Sanity,Sanity.io]
+https://trust.mastra.ai [200] [] [3228] [Mastra Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [756.775659ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://docs.maple.finance [200] [] [468490] [Welcome to Maple | Maple] [cloudflare] [104.18.40.47] [cloudflare] [286.414837ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://mastra.ai [200] [] [694887] [TypeScript AI Framework for Agents and Apps | Mastra] [Vercel] [216.150.1.1] [165.587777ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.matrixdock.com [200] [] [285444] [Matrixdock: The RWA Reserve Layer] [cloudflare] [104.18.7.86] [cloudflare] [1.568634446s] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 301
+https://dashboard.eth.maple.finance [301] [https://hq.maple.finance/] [0] [CloudFront] [65.8.20.79] [cloudfront] [155.319762ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://graystbt.matrixdock.com [301] [https://graywebsite.matrixdock.com/stbt] [167] [301 Moved Permanently] [cloudflare] [104.18.6.86] [cloudflare] [212.174634ms] [Cloudflare,HSTS]
+https://matrixdock.com [301] [https://www.matrixdock.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.6.86] [cloudflare] [63.512135ms] [Cloudflare,HSTS]
+https://downloads.eth.maple.finance [404] [] [301] [AmazonS3] [18.238.109.32] [cloudfront] [627.830374ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://stbt.matrixdock.com [301] [https://www.matrixdock.com/stbt] [167] [301 Moved Permanently] [cloudflare] [104.18.7.86] [cloudflare] [154.365263ms] [Cloudflare,HSTS]
+https://www.maple.finance [301] [https://maple.finance/] [167] [301 Moved Permanently] [cloudflare] [104.18.6.31] [cloudflare] [85.114826ms] [Cloudflare]
+
+## 302
+https://gateway.staging.mastra.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fgateway.staging.mastra.ai%2F&nonce=a3f73459ea975a74de7fe5330eacbdc667c077c441d03f9060035e409764708e] [15] [Vercel] [216.150.1.129] [388.383339ms] [HSTS,Vercel]
+https://cloud.staging.mastra.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fcloud.staging.mastra.ai%2F&nonce=9a1281019b39e1147c82db425d0ccec43fc101ddab3bceed0df0195002f481b6] [15] [Vercel] [216.150.16.129] [515.031927ms] [HSTS,Vercel]
+https://platform-admin.staging.mastra.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fplatform-admin.staging.mastra.ai%2F&nonce=2648d577892059f7a2682978cf2efb3c728e5b781e87217fe24dc99fbe611c05] [15] [Vercel] [216.150.1.193] [369.364659ms] [HSTS,Vercel]
+https://projects.staging.mastra.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fprojects.staging.mastra.ai%2F&nonce=381c6ff8f6b2d3d536d0df59bf894df413f5136e1be01a3550880bd4391ca78c] [15] [Vercel] [216.150.16.193] [352.783854ms] [HSTS,Vercel]
+
+## 307
+https://auth-kit.mastra.ai [307] [https://api.workos.com/user_management/initiate_login?context=&client_id=client_01KGJWDCHXR6KHCEFYVX3C951G] [86486] [Sign in] [cloudflare] [104.18.35.233] [cloudflare] [828.253534ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://www.mastra.ai [307] [https://mastra.ai/] [15] [Vercel] [76.76.21.142] [121.283613ms] [HSTS,Vercel]
+
+## 308
+
+## 401
+
+## 403
+http://hq.eth.maple.finance [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.154.132.127] [cloudfront] [15.913343ms] [Amazon CloudFront,Amazon Web Services]
+https://community.maple.finance [403] [] [5627] [Just a moment...] [cloudflare] [104.18.6.31] [cloudflare] [68.059765ms] [Cloudflare]
+https://app.sepolia.maple.finance [403] [] [5544] [Just a moment...] [cloudflare] [104.18.6.31] [cloudflare] [72.643329ms] [Cloudflare]
+https://app.maple.finance [403] [] [5536] [Just a moment...] [cloudflare] [104.18.7.31] [cloudflare] [72.568944ms] [Cloudflare]
+http://app.eth.maple.finance [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [13.249.182.29] [cloudfront] [21.325923ms] [Amazon CloudFront,Amazon Web Services]
+https://grayapp.matrixdock.com [403] [] [5468] [Attention Required! | Cloudflare] [cloudflare] [104.18.7.86] [cloudflare] [79.001978ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://graywebsite.matrixdock.com [403] [] [5468] [Attention Required! | Cloudflare] [cloudflare] [104.18.7.86] [cloudflare] [83.184102ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://gateway-api.staging.mastra.ai [403] [] [134] [403] [] [34.54.63.165] [google] [185.077255ms] [HTTP/3]
+https://gateway-api.mastra.ai [403] [] [134] [403] [] [34.149.200.18] [google] [188.660978ms] [HTTP/3]
+https://dev-landingv3-ckzikmb4kz.maple.finance [403] [] [5599] [Just a moment...] [cloudflare] [104.18.7.31] [cloudflare] [233.770424ms] [Cloudflare]
+https://license.mastra.ai [403] [] [134] [403] [] [8.233.177.154] [google] [182.244642ms] [HTTP/3]
+https://hq.maple.finance [403] [] [5599] [Just a moment...] [cloudflare] [104.18.6.31] [cloudflare] [309.529207ms] [Cloudflare]
+https://platform.staging.mastra.ai [403] [] [134] [403] [] [35.241.63.76] [google] [198.016273ms] [HTTP/3]
+https://license.staging.mastra.ai [403] [] [134] [403] [] [34.8.38.4] [google] [350.750239ms] [HTTP/3]
+https://sepolia.app.maple.finance [403] [] [5672] [Just a moment...] [cloudflare] [104.18.6.31] [cloudflare] [128.282537ms] [Cloudflare]
+https://server.mastra.ai [403] [] [134] [403] [] [35.241.17.80] [google] [249.314636ms] [HTTP/3]
+https://cdn.matrixdock.com [403] [] [263] [AmazonS3] [18.238.96.34] [cloudfront] [690.19424ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://ui-dojo.mastra.ai [403] [] [59] [Vercel] [216.150.1.65] [151.190181ms] [Vercel]
+https://www.app.maple.finance [403] [] [5561] [Just a moment...] [cloudflare] [104.18.7.31] [cloudflare] [81.192778ms] [Cloudflare]
+https://workspaces.staging.mastra.ai [403] [] [134] [403] [] [136.68.125.203] [google] [183.703895ms] [HTTP/3]
+https://workspaces.mastra.ai [403] [] [134] [403] [] [136.68.192.7] [google] [209.590352ms] [HTTP/3]
+
+## 404
+https://app.mastra.ai [404] [] [37] [cloudflare] [172.64.149.246] [cloudflare] [87.315225ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://business-api.mastra.ai [404] [] [107] [Vercel] [216.150.16.193] [103.565641ms] [HSTS,Vercel]
+https://docs.mastra.ai [404] [] [107] [Vercel] [216.150.1.1] [104.175438ms] [HSTS,Vercel]
+http://cloudbuilder.staging.mastra.ai [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [142.251.215.83] [google] [30.828512ms]
+http://api.staging.mastra.ai [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [142.251.215.83] [google] [28.544395ms]
+https://cloudbuilder.mastra.ai [404] [] [272] [404 Page not found] [] [142.251.215.83] [google] [140.998136ms]
+http://api.mastra.ai [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [142.251.41.19] [google] [29.097732ms]
+https://app.staging.mastra.ai [404] [] [37] [cloudflare] [104.18.38.10] [cloudflare] [202.839381ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://observability.mastra.ai [404] [] [13] [Google Frontend] [34.110.220.162] [google] [90.102845ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://preview.mastra.ai [404] [] [107] [Vercel] [216.150.16.193] [107.616934ms] [HSTS,Vercel]
+https://platform.mastra.ai [404] [] [13] [Google Frontend] [34.8.177.50] [google] [129.225554ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://ai-slack.maple.finance [404] [] [139] [Error] [cloudflare] [104.18.6.31] [cloudflare] [400.946363ms] [Cloudflare,Express,Node.js]
+https://api.maple.finance [404] [] [9] [cloudflare] [104.18.7.31] [cloudflare] [401.900337ms] [Cloudflare,Express,Node.js]
+https://observability.staging.mastra.ai [404] [] [13] [Google Frontend] [34.95.121.103] [google] [281.042113ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://downloads.eth.maple.finance [404] [] [301] [AmazonS3] [18.238.109.32] [cloudfront] [627.830374ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://sepolia.api.maple.finance [404] [] [9] [cloudflare] [104.18.7.31] [cloudflare] [446.220186ms] [Cloudflare,Express,Node.js]
+https://observability.eu.mastra.ai [404] [] [13] [Google Frontend] [8.233.185.95] [google] [625.732099ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://integrations.api.maple.finance [404] [] [72] [cloudflare] [104.18.7.31] [cloudflare] [846.559783ms] [Cloudflare]
+https://v2.api.maple.finance [404] [] [0] [cloudflare] [104.18.7.31] [cloudflare] [413.270706ms] [Cloudflare]
+https://studio.staging.mastra.ai [404] [] [107] [Vercel] [216.150.1.129] [571.440501ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+https://webhook.maple.finance [502] [] [16] [cloudflare] [104.18.6.31] [cloudflare] [370.679642ms] [Cloudflare]
+
+## 503
+
