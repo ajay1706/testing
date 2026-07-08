@@ -1,0 +1,5 @@
+https://economics.doublezero.xyz [301] [https://doublezero.xyz/economics] [167] [301 Moved Permanently] [cloudflare] [104.21.17.59] [cloudflare] [71.851497ms] [Cloudflare]
+https://sbt.dinari.com [301] [https://app.dinari.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.254] [cloudflare] [65.152276ms] [Cloudflare,HTTP/3]
+https://www.dfns.co [301] [https://dfns.co/] [0] [CloudFront] [18.172.170.116] [cloudfront] [255.084141ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://www.doublezero.xyz [301] [https://doublezero.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.17.59] [cloudflare] [213.530836ms] [Cloudflare]
+https://www.dinari.com [301] [https://dinari.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [303.855344ms] [Cloudflare,HSTS,HTTP/3]
