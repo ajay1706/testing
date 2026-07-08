@@ -1,0 +1,16 @@
+[kubernetes-fake-certificate] [ssl] [low] api.overseer-pr-104050.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.overseer-pr-104050.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] api.overseer-pr-40750-overseer.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.overseer-pr-40750-overseer.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] api.overseer-pr-41653.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.overseer-pr-41653.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] api.overseer-pr-42333.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.overseer-pr-42333.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] api.overseer-pr-43409.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.overseer-pr-43409.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] api.overseer-pr-43475.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.overseer-pr-43475.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] api.overseer-pr-44204.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.overseer-pr-44204.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] api.overseer-pr-44778.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.overseer-pr-44778.hephaestus.exa.ai:443
