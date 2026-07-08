@@ -1,0 +1,5 @@
+https://demo.unstructured.io [307] [https://demo.unstructured.io/login?callbackUrl=https%3A%2F%2Fdemo.unstructured.io%2F] [84] [] [143.198.137.2] [259.332173ms] [HSTS,HTTP/3]
+https://downloads.unstructured.io [307] [https://quay.io/] [171] [307 Temporary Redirect] [istio-envoy] [32.196.128.199] [318.548183ms] [Envoy]
+https://sol.admin.upshift.finance [307] [/login] [15] [Vercel] [216.150.1.193] [333.376496ms] [HSTS,Vercel]
+https://staging.demo.unstructured.io [307] [https://staging.demo.unstructured.io/login?callbackUrl=https%3A%2F%2Fstaging.demo.unstructured.io%2F] [100] [] [137.184.44.87] [395.278374ms] [HSTS,HTTP/3]
+https://www.old.usd.ai [307] [https://old.usd.ai/] [15] [Vercel] [216.150.1.65] [488.866118ms] [HSTS,Vercel]
