@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jul  8 10:52:09 UTC 2026
+[+] Run ID: 28935959085
+[+] Batch name: batch-36
+[+] Batch targets:
+ringg.ai
+royco.org
+sarvam.ai
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jul  8 10:52:31 UTC 2026
+[+] HTTPX input count: 532
+[+] Running httpx...
+[+] httpx completed: Wed Jul  8 10:54:12 UTC 2026
+[+] httpx line count: 238
+[+] Batch completed: Wed Jul  8 10:54:12 UTC 2026

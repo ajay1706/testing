@@ -1,0 +1,6 @@
+http://cdn.arya.sarvam.ai [301] [https://cdn.arya.sarvam.ai/] [665] [301 Moved Permanently] [cloudflare] [104.18.0.74] [cloudflare] [18.662411ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://gff.sarvam.ai [301] [https://try.sarvam.ai/] [0] [] [150.171.109.148] [90.845592ms] [Azure,Azure Front Door]
+https://hello.sarvam.ai [301] [https://www.sarvam.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.1.74] [cloudflare] [56.845181ms] [Cloudflare,HTTP/3]
+http://indus.sarvam.ai [301] [https://indus.sarvam.ai/] [665] [301 Moved Permanently] [cloudflare] [104.18.0.74] [cloudflare] [5.06145689s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://mcp.sarvam.ai [301] [https://dashboard.sarvam.ai/mcp/] [167] [301 Moved Permanently] [cloudflare] [104.18.1.74] [cloudflare] [2.029330874s] [Cloudflare,HTTP/3]
+http://login.sarvam.ai [301] [https://login.sarvam.ai/] [665] [301 Moved Permanently] [cloudflare] [104.18.0.74] [cloudflare] [2.023004911s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
