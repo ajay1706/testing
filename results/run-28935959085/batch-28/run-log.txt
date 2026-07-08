@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jul  8 10:47:49 UTC 2026
+[+] Run ID: 28935959085
+[+] Batch name: batch-28
+[+] Batch targets:
+mem0.ai
+monetrix.finance
+mountainprotocol.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jul  8 10:48:55 UTC 2026
+[+] HTTPX input count: 59
+[+] Running httpx...
+[+] httpx completed: Wed Jul  8 10:49:16 UTC 2026
+[+] httpx line count: 45
+[+] Batch completed: Wed Jul  8 10:49:16 UTC 2026
