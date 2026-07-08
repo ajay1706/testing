@@ -1,0 +1,11 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] auth-staging.smithery.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auth-staging.smithery.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] auth-dev.fireworks.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auth-dev.fireworks.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] auth.smithery.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auth.smithery.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] avatars.cluely.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] avatars.cluely.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://auth.portkey.ai
+[unauthenticated-varnish-cache-purge] [http] [low] https://auth.speak.com
+[expired-ssl] [ssl] [low] avax.upshift.finance:443 ["2025-06-21 20:24:54 +0000 UTC"]
