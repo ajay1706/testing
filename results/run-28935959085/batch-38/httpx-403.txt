@@ -1,0 +1,2 @@
+https://status.speak.com [403] [] [5628] [Just a moment...] [cloudflare] [104.18.16.64] [cloudflare] [81.348865ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://bcdn.speak.com [403] [] [243] [BunnyCDN-ASB1-1310] [37.19.207.37] [323.840694ms] [Amazon CloudFront,Amazon Web Services,Bunny]

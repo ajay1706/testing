@@ -1,0 +1,3 @@
+https://www.blog.speak.com [301] [https://blog.speak.com/] [162] [301 Moved Permanently] [nginx] [192.0.78.151] [38.035737ms] [HSTS,Nginx]
+https://auth.speak.com [301] [https://app.speak.com/] [37] [] [199.36.158.100] [212.227663ms] [Firebase,HTTP/3]
+https://speak.com [301] [https://www.speak.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [269.120875ms] [Cloudflare,HSTS,HTTP/3]
