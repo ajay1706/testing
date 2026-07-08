@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jul  8 10:38:21 UTC 2026
+[+] Run ID: 28935959085
+[+] Batch name: batch-10
+[+] Batch targets:
+day.ai
+daytona.io
+derive.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jul  8 10:38:56 UTC 2026
+[+] HTTPX input count: 194
+[+] Running httpx...
+[+] httpx completed: Wed Jul  8 10:39:18 UTC 2026
+[+] httpx line count: 179
+[+] Batch completed: Wed Jul  8 10:39:18 UTC 2026
