@@ -1,0 +1,2 @@
+https://baseten.co [307] [https://www.baseten.co/] [15] [Vercel] [76.76.21.21] [155.614858ms] [HSTS,Vercel]
+https://blueprint.baseten.co [307] [https://www.baseten.co/] [15] [Vercel] [76.76.21.123] [224.744808ms] [HSTS,Vercel]

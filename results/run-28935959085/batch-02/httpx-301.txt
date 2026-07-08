@@ -1,0 +1,6 @@
+https://aptos.blocto.io [301] [https://blocto.io] [671] [301 Moved Permanently] [cloudflare] [104.21.85.192] [cloudflare] [70.598096ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://bridge.baseten.co [301] [https://docs.baseten.co/inference/calling-your-model] [162] [301 Moved Permanently] [] [34.69.45.22] [google] [227.299946ms] [HSTS]
+https://bridge.staging.baseten.co [301] [https://docs.baseten.co/inference/calling-your-model] [162] [301 Moved Permanently] [] [34.27.247.226] [google] [252.091077ms] [HSTS]
+http://dnstestingzbtzasklf.baseten.co [301] [https://dnstestingzbtzasklf.baseten.co/] [162] [301 Moved Permanently] [nginx] [44.229.220.222] [2.14816917s] [Nginx]
+http://inference.baseten.co [301] [https://inference.baseten.co:443/] [0] [] [35.244.129.243] [google] [3.098717696s]
+https://www.blocto.io [301] [https://blocto.io/] [671] [301 Moved Permanently] [cloudflare] [104.21.85.192] [cloudflare] [2.043931462s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
