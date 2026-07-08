@@ -1,0 +1,92 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul  8 10:59:17 UTC 2026
+
+HTTPX lines: 66
+Live URLs: 66
+
+## 200
+https://demo-sfa.web3auth.io [200] [] [1863] [Web3Auth SFA React Example] [CloudFront] [3.167.183.62] [cloudfront] [33.541904ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,React,hCaptcha]
+https://auth.web3auth.io [200] [] [3014] [Web3Auth] [CloudFront] [3.162.174.54] [cloudfront] [73.582297ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,hCaptcha]
+https://api-wallet.web3auth.io [200] [] [39] [] [34.238.87.158] [120.633587ms] [HSTS]
+https://authjs.web3auth.io [200] [] [25] [] [23.21.193.58] [190.288343ms] [HSTS]
+https://checkout.web3auth.io [200] [] [896] [Web3Auth | Onramp Aggregator] [CloudFront] [3.170.152.81] [cloudfront] [206.551351ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://demo-mpc.web3auth.io [200] [] [989] [MPC Web3Auth Demo] [AmazonS3] [18.160.102.34] [cloudfront] [212.356723ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://demo-wallet.web3auth.io [200] [] [912] [Demo] [CloudFront] [18.160.249.10] [cloudfront] [271.737687ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,hCaptcha]
+https://demo-openlogin.web3auth.io [200] [] [908] [Openlogin Demo] [CloudFront] [13.32.205.102] [cloudfront] [295.522842ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,hCaptcha]
+https://develop-checkout.web3auth.io [200] [] [896] [Web3Auth | Onramp Aggregator] [CloudFront] [18.160.181.85] [cloudfront] [335.096788ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://lookup.web3auth.io [200] [] [22] [] [107.21.44.107] [120.85033ms] [HSTS]
+https://fnd.web3auth.io [200] [] [27] [] [54.235.116.85] [227.826857ms] [HSTS]
+https://developers-2.webacy.com [200] [] [29248] [DD Developer Portal] [cloudflare] [104.21.26.185] [cloudflare] [262.154169ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://account.web3auth.io [200] [] [2199] [Web3Auth] [CloudFront] [3.170.51.116] [cloudfront] [632.599374ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,hCaptcha]
+https://dapp.webacy.com [200] [] [80532] [Webacy / Home | Webacy] [cloudflare] [172.67.138.89] [cloudflare] [146.742934ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://dapp-2.webacy.com [200] [] [80532] [Webacy / Home | Webacy] [cloudflare] [104.21.26.185] [cloudflare] [202.815853ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://apps.dev-substrate.web3auth.io [200] [] [4768] [Polkadot/Substrate Portal] [nginx/1.18.0] [34.126.171.61] [google] [1.008762466s] [Nginx:1.18.0,React:01.946]
+https://humans.web3auth.io [200] [] [10938] [Web3Auth | Introducing the Web3Auth Layer] [Vercel] [66.33.60.130] [984.817528ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://miniapp.webacy.com [200] [] [16905] [DD by Webacy] [cloudflare] [172.67.138.89] [cloudflare] [832.801282ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://blog.web3auth.io [200] [] [113208] [Web3Auth Blog | Key Management SDKs with MPC and AA enabled] [nginx/1.28.0] [47.130.181.100] [1.342510785s] [Cloudflare,Express,Ghost:5.130,Google Analytics,HSTS,Nginx:1.28.0,Node.js,Osano,cdnjs,jsDelivr]
+https://docs.webacy.com [200] [] [336849] [Webacy DD APIs - Webacy Docs] [Vercel] [76.76.21.123] [310.799974ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://session.web3auth.io [200] [] [42] [] [100.30.112.67] [2.133444918s] [Amazon ALB,Amazon Web Services,HSTS]
+https://studio.webacy.com [200] [] [25114] [DD Studio Risk Assessment Dashboard | Blockchain Security Analysis] [Vercel] [216.150.16.193] [1.405110937s] [HSTS,Vercel]
+https://www.webacy.com [200] [] [92690] [Webacy | Continuous Asset Integrity & Risk Ratings for Onchain Finance] [cloudflare] [104.21.26.185] [cloudflare] [4.124219222s] [Cloudflare,Cloudflare Browser Insights,Google Analytics,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Weglot,cdnjs,jQuery:3.5.1,jsDelivr]
+
+## 301
+https://demo-app.web3auth.io [301] [https://demo.web3auth.io/] [0] [AmazonS3] [108.156.107.80] [cloudfront] [87.404713ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://community.web3auth.io [301] [https://builder.metamask.io] [0] [CloudFront] [3.167.163.118] [cloudfront] [174.986753ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://dd.webacy.com [301] [https://www.webacy.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [233.194298ms] [Cloudflare,HSTS,HTTP/3]
+https://docs.web3auth.io [301] [https://docs.metamask.io/embedded-wallets/] [0] [CloudFront] [13.32.205.60] [cloudfront] [205.83877ms] [Amazon CloudFront,Amazon Web Services]
+https://webacy.com [301] [https://www.webacy.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [3.205470443s] [Cloudflare,HSTS,HTTP/3]
+https://world.webacy.com [301] [https://www.webacy.com/blog/] [167] [301 Moved Permanently] [cloudflare] [172.67.138.89] [cloudflare] [5.073892267s] [Cloudflare,HSTS]
+http://wallet.web3auth.io [301] [https://wallet.web3auth.io/] [167] [301 Moved Permanently] [CloudFront] [3.167.37.79] [cloudfront] [5.046694166s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+http://www.web3auth.io [301] [https://www.web3auth.io/] [167] [301 Moved Permanently] [CloudFront] [13.32.164.125] [cloudfront] [4.01430339s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 302
+https://dev-dashboard.web3auth.io [302] [https://staging-developer.metamask.io/] [0] [CloudFront] [143.204.204.55] [cloudfront] [128.322887ms] [Amazon CloudFront,Amazon Web Services]
+https://dashboard.web3auth.io [302] [https://developer.metamask.io/] [0] [CloudFront] [3.170.42.48] [cloudfront] [184.950579ms] [Amazon CloudFront,Amazon Web Services]
+https://demo.web3auth.io [302] [https://ew-demo.metamask.io/] [0] [CloudFront] [3.160.22.127] [cloudfront] [242.142559ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,hCaptcha]
+https://grafana.web3auth.io [302] [/login] [29] [Caddy] [54.168.60.210] [492.940698ms] [Caddy]
+https://dkg-manager.dev-substrate.web3auth.io [302] [https://consensys.okta.com/oauth2/v1/authorize?client_id=0oa1xat57qaoSWG7G358&nonce=_m75eb-NHBidrdIdyL_-CbC6tJg5zfop1ysI_HsqV74&redirect_uri=https%3A%2F%2Fdkg-manager.dev-substrate.web3auth.io%2Foauth2%2Fcallback&response_type=code&scope=openid+profile+email&state=LC_5s1WD5vQKRnJVEc5E8-vp4fsWiyKM26XWh-gH97A] [351] [nginx/1.25.3] [35.186.150.185] [google] [713.450362ms] [Nginx:1.25.3]
+
+## 307
+https://gremlins.webacy.com [307] [/login] [6] [] [34.233.64.23] [190.217422ms]
+
+## 308
+
+## 401
+https://data-tool.dev-monitoring.web3auth.io [401] [] [172] [401 Authorization Required] [] [35.197.142.219] [google] [692.171772ms] [Basic,HSTS]
+
+## 403
+https://assets.web3auth.io [403] [] [111] [AmazonS3] [18.64.183.65] [cloudfront] [168.216827ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://api.webacy.com [403] [] [42] [] [108.159.227.30] [cloudfront] [231.969458ms] [Amazon CloudFront,Amazon Web Services]
+https://images.web3auth.io [403] [] [111] [AmazonS3] [18.172.134.75] [cloudfront] [341.083377ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://api.web3auth.io [404] [] [15] [awselb/2.0] [34.238.87.158] [120.186596ms] [Amazon ELB,Amazon Web Services]
+https://api-dashboard.web3auth.io [404] [] [19] [] [34.238.87.158] [142.530714ms]
+https://api-passwordless.web3auth.io [404] [] [139] [Error] [] [34.238.87.158] [202.962201ms] [Amazon ALB,Amazon Web Services,HSTS]
+https://api-auth.web3auth.io [404] [] [139] [Error] [] [54.157.192.81] [256.652984ms] [Amazon ALB,Amazon Web Services,HSTS]
+https://m.webacy.com [404] [] [0] [envoy] [54.157.2.211] [272.318217ms] [Envoy]
+https://coordinator.node-4.dev-node.web3auth.io [404] [] [555] [404 Not Found] [nginx/1.28.0] [34.143.248.2] [google] [736.715296ms] [Nginx:1.28.0]
+https://coordinator.node-2.dev-node.web3auth.io [404] [] [555] [404 Not Found] [nginx/1.28.0] [35.198.220.61] [google] [745.574203ms] [Nginx:1.28.0]
+https://coordinator.node-3.dev-node.web3auth.io [404] [] [153] [404 Not Found] [nginx/1.28.0] [34.124.136.122] [google] [753.057027ms] [Nginx:1.28.0]
+https://coordinator.node-5.dev-node.web3auth.io [404] [] [153] [404 Not Found] [nginx/1.28.0] [34.143.200.232] [google] [764.347909ms] [Nginx:1.28.0]
+https://coordinator.node-1.dev-node.web3auth.io [404] [] [153] [404 Not Found] [nginx/1.28.0] [35.240.225.221] [google] [768.712605ms] [Nginx:1.28.0]
+https://node-1.node.web3auth.io [404] [] [9] [] [34.107.152.229] [google] [119.76142ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-1.dev-node.web3auth.io [404] [] [9] [] [34.160.129.42] [google] [190.632218ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-2.node.web3auth.io [404] [] [9] [] [35.190.19.112] [google] [152.234145ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-2.dev-node.web3auth.io [404] [] [9] [] [34.160.3.255] [google] [199.462612ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-3.dev-node.web3auth.io [404] [] [9] [] [34.111.9.103] [google] [126.033383ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-3.node.web3auth.io [404] [] [9] [] [34.111.18.149] [google] [198.262709ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-4.dev-node.web3auth.io [404] [] [9] [] [34.117.183.132] [google] [137.96445ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-4.node.web3auth.io [404] [] [9] [] [35.201.124.168] [google] [147.577335ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-5.dev-node.web3auth.io [404] [] [9] [] [34.111.34.72] [google] [106.376242ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node-5.node.web3auth.io [404] [] [9] [] [107.178.247.123] [google] [139.674875ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 500
+
+## 502
+https://node-1.dev-substrate.web3auth.io [502] [] [157] [502 Bad Gateway] [nginx/1.28.0] [35.247.172.249] [google] [718.112032ms] [Nginx:1.28.0]
+https://node-2.dev-substrate.web3auth.io [502] [] [157] [502 Bad Gateway] [nginx/1.28.0] [34.143.195.184] [google] [683.287001ms] [Nginx:1.28.0]
+
+## 503
+
