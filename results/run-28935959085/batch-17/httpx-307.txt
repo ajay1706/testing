@@ -1,0 +1,3 @@
+https://app.goldfinch.finance [307] [/earn] [15] [cloudflare] [104.26.7.2] [cloudflare] [385.678828ms] [Cloudflare,HSTS,Vercel]
+https://docs.goldfinch.finance [307] [https://docs.goldfinch.finance/goldfinch/] [15] [cloudflare] [104.26.7.2] [cloudflare] [179.960151ms] [Cloudflare,HSTS,Vercel]
+https://mcp-auth.granola.ai [307] [https://auth.granola.ai/user_management/initiate_login?context=&client_id=client_01JZJ0XBDAT8PHJWQY09Y0VD61] [84218] [Sign in] [cloudflare] [104.18.35.233] [cloudflare] [560.098441ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]

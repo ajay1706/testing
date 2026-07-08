@@ -1,0 +1,6 @@
+https://granola.ai [308] [https://www.granola.ai/] [15] [Vercel] [76.76.21.21] [246.369953ms] [HSTS,Vercel]
+https://goldfinch.finance [308] [https://www.goldfinch.finance/] [15] [Vercel] [76.76.21.21] [292.487751ms] [HSTS,Vercel]
+https://docs.granola.ai [308] [/introduction] [149683] [Vercel] [66.33.60.193] [400.005614ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://join.granola.ai [308] [https://granola.ai] [15] [Vercel] [216.150.1.1] [249.257745ms] [HSTS,Vercel]
+https://notes.granola.ai [308] [https://granola.ai] [15] [Vercel] [216.150.1.1] [2.213356879s] [HSTS,Vercel]
+https://recipes.granola.ai [308] [https://granola.ai] [15] [Vercel] [216.150.16.1] [261.346086ms] [HSTS,Vercel]

@@ -1,0 +1,4 @@
+https://help.granola.ai [301] [https://docs.granola.ai:443/help-center/search] [134] [301 Moved Permanently] [awselb/2.0] [52.70.228.115] [121.998473ms] [Amazon ELB,Amazon Web Services]
+https://go.granola.ai [301] [https://www.granola.ai/] [15] [Vercel] [76.76.21.21] [307.134421ms] [HSTS,Vercel]
+http://mta-sts.granola.ai [301] [https://mta-sts.granola.ai/] [167] [301 Moved Permanently] [CloudFront] [108.159.227.107] [cloudfront] [79.504373ms] [Amazon CloudFront,Amazon Web Services]
+https://www.glow.app [301] [https://glow.app/] [167] [301 Moved Permanently] [cloudflare] [104.26.1.128] [cloudflare] [4.166293195s] [Cloudflare,Cloudflare Bot Management,HSTS]
