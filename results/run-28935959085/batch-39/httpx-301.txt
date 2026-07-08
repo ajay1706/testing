@@ -1,0 +1,3 @@
+https://portal.startale.com [301] [https://portal.scs.startale.com/] [0] [] [150.171.110.194] [59.82717ms] [Azure,Azure Front Door]
+http://public.soneium-osaki.uat.rpc.scs.startale.com [301] [https://public.soneium-osaki.uat.rpc.scs.startale.com/] [665] [301 Moved Permanently] [cloudflare] [104.20.21.4] [cloudflare] [30.453298ms] [Cloudflare,Cloudflare Browser Insights]
+http://strapi.startale.com [301] [https://strapi.startale.com/] [665] [301 Moved Permanently] [cloudflare] [172.66.175.27] [cloudflare] [4.019493394s] [Cloudflare,Cloudflare Browser Insights]

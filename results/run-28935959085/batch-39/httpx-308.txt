@@ -1,0 +1,2 @@
+https://docs.startale.com [308] [/introduction] [129778] [cloudflare] [104.18.3.204] [cloudflare] [137.543207ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+http://startale.com [308] [https://startale.com/] [136] [308 Permanent Redirect] [kong/3.9.1] [168.144.4.10] [2.209486331s]

@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jul  8 10:54:02 UTC 2026
+[+] Run ID: 28935959085
+[+] Batch name: batch-39
+[+] Batch targets:
+spiko.finance
+startale.com
+status.app
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jul  8 10:54:30 UTC 2026
+[+] HTTPX input count: 279
+[+] Running httpx...
+[+] httpx completed: Wed Jul  8 10:55:11 UTC 2026
+[+] httpx line count: 107
+[+] Batch completed: Wed Jul  8 10:55:11 UTC 2026

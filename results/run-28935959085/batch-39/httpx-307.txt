@@ -1,0 +1,2 @@
+https://portal.scs.startale.com [307] [https://portal.scs.startale.com/sign-in?redirect_url=https%3A%2F%2Fportal.scs.startale.com%2F] [93] [] [150.171.109.74] [697.132892ms] [Azure,Azure Front Door]
+https://www.startale.com [307] [/en] [3] [kong/3.9.1] [168.144.4.10] [3.327340305s]
