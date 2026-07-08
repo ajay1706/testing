@@ -1,0 +1,3 @@
+https://preview.hypurr.fi [404] [] [107] [Vercel] [64.29.17.1] [516.920787ms] [HSTS,Vercel]
+http://route.hypurr.fi [404] [] [0] [envoy] [3.120.11.50] [221.833844ms] [Envoy]
+https://beta.hypurr.fi [404] [] [107] [Vercel] [216.150.16.193] [580.144583ms] [HSTS,Vercel]
