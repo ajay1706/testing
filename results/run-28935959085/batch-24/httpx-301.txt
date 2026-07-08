@@ -1,0 +1,7 @@
+https://lantern.co [301] [https://wellthy.com/lantern] [167] [301 Moved Permanently] [cloudflare] [172.67.71.158] [cloudflare] [46.887856ms] [Cloudflare,HSTS]
+https://beta.langbase.com [301] [https://langbase.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.61] [cloudflare] [50.262902ms] [Cloudflare]
+https://cf.langbase.com [301] [https://framerusercontent.com/] [45] [cloudflare] [104.18.31.61] [cloudflare] [69.362258ms] [Cloudflare,HTTP/3]
+https://docs.langbase.com [301] [https://langbase.com/docs/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.61] [cloudflare] [110.743187ms] [Cloudflare]
+https://studio.langbase.com [301] [https://langbase.com/studio/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.61] [cloudflare] [121.097936ms] [Cloudflare]
+https://www.langbase.com [301] [https://langbase.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.61] [cloudflare] [169.816735ms] [Cloudflare]
+https://www.lantern.co [301] [https://wellthy.com/lantern] [167] [301 Moved Permanently] [cloudflare] [104.26.15.43] [cloudflare] [226.106764ms] [Cloudflare,HSTS]
