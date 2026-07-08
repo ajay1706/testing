@@ -1,0 +1,5 @@
+https://arcads.ai [301] [https://www.arcads.ai/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [324.333596ms] [Cloudflare,HSTS,HTTP/3]
+https://test.arcads.ai [301] [https://d1z5qa9wdf2yrt.cloudfront.net] [72] [ip-10-123-124-63.ec2.internal] [3.33.251.168] [159.446156ms]
+https://img.email.arcads.ai [301] [https://img.mailin.fr/] [0] [cloudflare] [104.17.159.243] [cloudflare] [411.056036ms] [Cloudflare,Envoy]
+https://r.email.arcads.ai [301] [https://img.mailin.fr/] [0] [envoy] [172.246.243.65] [615.054214ms] [Envoy]
+https://try.arcads.ai [301] [https://www.arcads.ai/] [166] [301 Moved Permanently] [Vercel] [76.76.21.21] [523.900738ms] [Cloudflare,HSTS,Vercel]
