@@ -1,0 +1,99 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul  8 11:00:11 UTC 2026
+
+HTTPX lines: 73
+Live URLs: 73
+
+## 200
+https://fake-llm.wordware.ai [200] [] [769] [Test Site] [cloudflare] [172.66.43.91] [cloudflare] [191.018128ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mcp.beta.wordware.ai [200] [] [9063] [Wordware MCP - Connect your AI tools] [cloudflare] [172.66.43.91] [cloudflare] [201.655685ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://demo.wordware.ai [200] [] [6964] [Wordware Demo] [cloudflare] [172.66.43.91] [cloudflare] [413.298568ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://trust.wordware.ai [200] [] [604] [Trust center] [] [34.77.87.94] [google] [691.452834ms] [HSTS]
+https://roast.wordware.ai [200] [] [8030] [Ramsay Roasts] [Vercel] [76.76.21.61] [634.507955ms] [HSTS,Vercel]
+https://author.wordware.ai [200] [] [48190] [AuthorGPT 📚] [cloudflare] [172.66.43.91] [cloudflare] [398.453674ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://react.wordware.ai [200] [] [14636] [Wordware ReAct UI] [cloudflare] [172.66.40.165] [cloudflare] [392.909383ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel,dc.js]
+https://portfolio.xverse.app [200] [] [38695] [Xverse Portfolio: Seamlessly Track, Analyze & Manage Your Bitcoin Assets] [] [34.8.108.70] [google] [181.21992ms] [Google Cloud,Google Cloud CDN,HSTS,Next.js,Node.js,React,Webpack]
+https://twitter.wordware.ai [200] [] [71962] [Twitter Personality - AI Agent by Wordware] [cloudflare] [172.66.43.91] [cloudflare] [369.336378ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://audioscribe.wordware.ai [200] [] [97827] [Audioscribe · AI-powered Record-to-Text tool built by Wordware] [cloudflare] [172.66.40.165] [cloudflare] [362.91118ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://www.wordware.ai [200] [] [69267] [Wordware] [Vercel] [216.150.1.193] [346.880586ms] [HSTS,Vercel]
+https://www.xverse.app [200] [] [64059] [Xverse – The Sovereign Onchain Bank & Bitcoin Wallet] [cloudflare] [198.202.211.1] [159.781836ms] [Cloudflare,Google Analytics,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Optibase,jQuery:3.5.1,jsDelivr]
+https://docs.xverse.app [200] [] [597098] [Xverse Developer Documentation | xverse] [cloudflare] [104.18.40.47] [cloudflare] [232.912915ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://blog.wordware.ai [200] [] [1526478] [Wordware Blog] [Vercel] [66.33.60.129] [1.158864692s] [Contentful,HSTS,Vercel]
+
+## 301
+https://defi.xstocks.com [301] [https://xstocks.com/us] [167] [301 Moved Permanently] [cloudflare] [104.18.18.26] [cloudflare] [90.545764ms] [Cloudflare]
+https://horoscope.wordware.ai [301] [https://twitter.wordware.ai/] [15] [cloudflare] [172.66.43.91] [cloudflare] [486.059434ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.xstocks.com [301] [https://xstocks.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.18.26] [cloudflare] [278.007866ms] [Cloudflare]
+http://links.chat.wordware.ai [301] [https://links.chat.wordware.ai/] [162] [301 Moved Permanently] [nginx] [172.65.225.161] [cloudflare] [331.157353ms] [Nginx]
+https://xverse.app [301] [https://www.xverse.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [393.552477ms] [Cloudflare,HSTS,HTTP/3]
+https://xstocks.com [301] [https://xstocks.com/us] [167] [301 Moved Permanently] [cloudflare] [104.18.18.26] [cloudflare] [406.540579ms] [Cloudflare]
+http://api-checkout.xverse.app [301] [https://api-checkout.xverse.app/] [47] [Netlify] [98.84.224.111] [59.431108ms] [Netlify]
+http://api.preview.wordware.ai [301] [https://api.preview.wordware.ai/] [671] [301 Moved Permanently] [cloudflare] [172.66.40.165] [cloudflare] [75.274807ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://mcp.wordware.ai [301] [https://mcp.wordware.ai/] [671] [301 Moved Permanently] [cloudflare] [172.66.43.91] [cloudflare] [76.139509ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://shakespeare.wordware.ai [301] [https://shakespeare.wordware.ai/] [671] [301 Moved Permanently] [cloudflare] [172.66.43.91] [cloudflare] [96.050067ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://brc20.xverse.app [302] [https://portfolio.xverse.app] [138] [302 Found] [] [34.144.219.36] [google] [179.576105ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://connect.xverse.app [302] [https://www.xverse.app/] [145] [302 Found] [] [34.144.219.36] [google] [294.608619ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://portfolio-staging.xverse.app [302] [https://portfolio.xverse.app/] [138] [302 Found] [] [34.8.108.70] [google] [198.08028ms] [Google Cloud,Google Cloud CDN,HSTS]
+https://support.xverse.app [302] [https://support.xverse.app/hc] [0] [cloudflare] [216.198.53.6] [195.296823ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://wallet.xverse.app [302] [https://portfolio.xverse.app/] [138] [302 Found] [] [34.8.108.70] [google] [183.813612ms] [Google Cloud,Google Cloud CDN,HSTS]
+http://emails.wordware.ai [302] [https://emails.wordware.ai/] [50] [] [35.223.82.218] [google] [37.180588ms]
+
+## 307
+https://api-dashboard.xverse.app [307] [/login] [6] [] [34.144.219.36] [google] [180.665241ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://api-testnet4.xverse.app [307] [https://api-signet.xverse.app/] [0] [] [34.54.28.208] [google] [186.261579ms] [HTTP/3]
+https://docs.xstocks.com [307] [https://docs.xstocks.fi/] [15] [cloudflare] [104.18.18.26] [cloudflare] [197.460336ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://ord-testnet4.xverse.app [307] [https://ord-signet.xverse.app/] [0] [] [34.54.28.208] [google] [160.894647ms] [HTTP/3]
+https://app.wordware.ai [307] [/login] [20753] [Wordware] [Vercel] [66.33.60.129] [312.24305ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 308
+https://wordware.ai [308] [https://www.wordware.ai/] [15] [Vercel] [216.150.1.1] [304.040306ms] [HSTS,Vercel]
+https://docs.wordware.ai [308] [/tour] [112509] [cloudflare] [172.66.43.91] [cloudflare] [502.994231ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+
+## 401
+https://code-executor.wordware.ai [401] [] [136] [cloudflare] [172.66.40.165] [cloudflare] [348.71612ms] [Cloudflare,HTTP/3]
+https://portfolio-staging-x.xverse.app [401] [] [574] [401 Authorization Required] [] [34.8.108.70] [google] [176.740167ms] [Basic,Google Cloud,Google Cloud CDN,HSTS]
+
+## 403
+
+## 404
+https://inscribe.xverse.app [404] [] [80] [] [34.144.219.36] [google] [129.217445ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://api-3.xverse.app [404] [] [80] [] [34.144.219.36] [google] [133.335147ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://btc-9.xverse.app [404] [] [27] [] [34.144.219.36] [google] [145.304585ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://btc-signet.xverse.app [404] [] [27] [] [34.49.192.207] [google] [165.387003ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://btc-1.xverse.app [404] [] [27] [] [34.144.219.36] [google] [170.365918ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://api-2.xverse.app [404] [] [80] [] [34.144.219.36] [google] [174.325406ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://k8s-signet.xverse.app [404] [] [21] [] [34.49.192.207] [google] [182.579679ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://k8s.xverse.app [404] [] [21] [] [34.144.219.36] [google] [210.1206ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://api-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [217.869872ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://due-webhook.xverse.app [404] [] [21] [] [34.144.219.36] [google] [260.231486ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://inscribe-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [268.223708ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://ord.xverse.app [404] [] [80] [] [34.144.219.36] [google] [149.240509ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://api.xverse.app [404] [] [80] [] [34.144.219.36] [google] [324.221717ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://ordinals.xverse.app [404] [] [80] [] [34.144.219.36] [google] [187.949106ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://ord-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [241.611065ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://macbeth.wordware.ai [404] [] [13] [cloudflare] [172.66.40.165] [cloudflare] [284.982996ms] [Cloudflare,HTTP/3]
+https://events.wordware.ai [404] [] [13] [cloudflare] [172.66.43.91] [cloudflare] [413.279891ms] [Cloudflare,HSTS,HTTP/3]
+https://wallet-signet.xverse.app [404] [] [21] [] [34.49.192.207] [google] [229.075354ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://cdn.wordware.ai [404] [] [27150] [Not Found] [cloudflare] [172.66.43.91] [cloudflare] [311.020003ms] [Cloudflare,HTTP/3]
+https://api.wordware.ai [404] [] [13] [cloudflare] [172.66.40.165] [cloudflare] [604.304818ms] [Cloudflare,HTTP/3]
+https://staging.wordware.ai [404] [] [107] [Vercel] [76.76.21.98] [627.956591ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+https://inscribegpt.xverse.app [503] [] [190] [503 Service Temporarily Unavailable] [] [34.144.219.36] [google] [129.279683ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://k8s-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [175.884293ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://btc-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [178.645868ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api-dashboard-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [182.592617ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://due-webhook-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [210.858832ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://inscribe-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [236.908347ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://ordinals-signet.xverse.app [503] [] [190] [503 Service Temporarily Unavailable] [] [34.49.192.207] [google] [149.320293ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://stx20.xverse.app [503] [] [190] [503 Service Temporarily Unavailable] [] [34.144.219.36] [google] [147.921927ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://ordinals-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [193.901676ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://wallet-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [387.241897ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
