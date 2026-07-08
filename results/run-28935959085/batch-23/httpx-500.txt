@@ -1,0 +1,2 @@
+https://music.koyal.ai [500] [] [186] [500 Internal Server Error] [nginx/1.24.0 (Ubuntu)] [147.93.43.33] [394.934302ms] [Nginx:1.24.0,Ubuntu]
+https://charcha.koyal.ai [500] [] [588] [500 Internal Server Error] [nginx/1.24.0 (Ubuntu)] [147.93.43.33] [391.005313ms] [Nginx:1.24.0,Ubuntu]
