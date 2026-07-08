@@ -1,0 +1,5 @@
+https://home-develop.elfi.xyz [404] [] [107] [Vercel] [76.76.21.164] [144.634954ms] [HSTS,Vercel]
+https://develop.elfi.xyz [404] [] [107] [Vercel] [76.76.21.61] [218.409523ms] [HSTS,Vercel]
+https://web-api.elfi.xyz [404] [] [89] [cloudflare] [104.20.19.102] [cloudflare] [785.079609ms] [Cloudflare]
+https://api.elfi.xyz [404] [] [89] [cloudflare] [104.20.19.102] [cloudflare] [850.321994ms] [Cloudflare]
+https://test.elfi.xyz [404] [] [89] [cloudflare] [172.66.167.121] [cloudflare] [1.052791103s] [Cloudflare]
