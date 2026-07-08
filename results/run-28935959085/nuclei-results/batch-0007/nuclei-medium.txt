@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://api-ptu.azure-stage01.sarvam.ai/metrics
