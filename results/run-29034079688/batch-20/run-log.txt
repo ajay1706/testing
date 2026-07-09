@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul  9 16:50:20 UTC 2026
+[+] Run ID: 29034079688
+[+] Batch name: batch-20
+[+] Batch targets:
+mountainprotocol.com
+namada.net
+neysa.ai
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul  9 16:50:59 UTC 2026
+[+] HTTPX input count: 35
+[+] Running httpx...
+[+] httpx completed: Thu Jul  9 16:51:10 UTC 2026
+[+] httpx line count: 29
+[+] Batch completed: Thu Jul  9 16:51:10 UTC 2026
