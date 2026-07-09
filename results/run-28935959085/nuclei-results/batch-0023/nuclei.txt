@@ -1,0 +1,51 @@
+[CVE-2022-26143:version] [http] [critical] https://chat.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.dev.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.staging.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2025-54236] [http] [critical] https://chat.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.dev.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.staging.dappier.com/customer/address_file/upload
+[CVE-2025-55184] [http] [high] https://chat-pathfinder.sarvam.ai
+[CVE-2026-33017] [http] [critical] https://chat.dev.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.staging.dappier.com/api/v1/version
+[CVE-2026-55592] [http] [medium] https://chat.dappier.com/healthz ["1.0.0"]
+[CVE-2026-55592] [http] [medium] https://chat.dev.dappier.com/healthz ["1.0.0"]
+[CVE-2026-55592] [http] [medium] https://chat.staging.dappier.com/healthz ["1.0.0"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.cluely.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] catgpt.web.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] catgpt.web.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.cluely.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.glow.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.glow.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.earnos.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.earnos.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.lagoon.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.higgsfield.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.lagoon.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.higgsfield.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.particle.news:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.particle.news:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.wordware.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.wordware.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cfassets.portkey.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cfassets.portkey.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] channel3000.web.dev.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] channel3000.web.dev.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] chat.cerebras.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] chat.cerebras.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] chat-prod.sarvam.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] chat-prod.sarvam.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] chat.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] chat.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] chat.dev.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] chat.dev.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] chat.staging.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] chat.staging.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[kubernetes-fake-certificate] [ssl] [low] ceph.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] ceph.hephaestus.exa.ai:443
+[expired-ssl] [ssl] [low] cashapp.ether.fi:443 ["2025-10-12 08:14:55 +0000 UTC"]
+[expired-ssl] [ssl] [low] changelog.vapi.ai:443 ["2025-03-08 03:30:25 +0000 UTC"]
+[expired-ssl] [ssl] [low] chat-demo.vapi.ai:443 ["2026-06-28 16:10:27 +0000 UTC"]
+[expired-ssl] [ssl] [low] chat.vapi.ai:443 ["2026-06-30 09:08:26 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] chat-linkerd-viz.sarvam.ai:443
+[expired-ssl] [ssl] [low] chat-pathfinder.sarvam.ai:443 ["2026-04-02 08:27:12 +0000 UTC"]

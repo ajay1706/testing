@@ -1,0 +1,9 @@
+[CVE-2022-26143:version] [http] [critical] https://chat.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.dev.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.staging.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2025-54236] [http] [critical] https://chat.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.dev.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.staging.dappier.com/customer/address_file/upload
+[CVE-2026-33017] [http] [critical] https://chat.dev.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.staging.dappier.com/api/v1/version
