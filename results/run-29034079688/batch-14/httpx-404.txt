@@ -1,0 +1,3 @@
+https://azure.assets.harvey.ai [404] [] [266389] [Page not found] [] [150.171.109.118] [32.431966ms] [Azure,Azure Front Door]
+https://certifications.academy.harvey.ai [200] [] [132664] [404] [nginx] [18.160.10.116] [cloudfront] [310.739322ms] [Amazon CloudFront,Amazon Web Services,Google Analytics,HSTS,Modernizr,Nginx,jQuery,jsDelivr]
+https://email.events.harvey.ai [404] [] [19] [] [34.110.180.34] [google] [87.153316ms]
