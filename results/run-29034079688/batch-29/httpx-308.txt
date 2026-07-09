@@ -1,0 +1,7 @@
+http://alerts.union.build [308] [https://alerts.union.build/] [0] [Caddy] [46.62.205.160] [216.76067ms] [Caddy]
+http://grpc.testnet-9.union.build [308] [https://grpc.testnet-9.union.build/] [0] [Caddy] [167.235.242.177] [194.583952ms] [Caddy]
+https://metadata.unstoppabledomains.com [500] [] [308] [Fastly error: unknown domain metadata.unstoppabledomains.com] [Varnish] [151.101.194.137] [fastly] [1.04542915s] [Varnish]
+http://rest.testnet-9.union.build [308] [https://rest.testnet-9.union.build/] [0] [Caddy] [167.235.242.177] [193.983943ms] [Caddy]
+http://rpc.testnet-9.union.build [308] [https://rpc.testnet-9.union.build/] [0] [Caddy] [167.235.242.177] [244.87173ms] [Caddy]
+http://sigma.laplace.union.build [308] [https://sigma.laplace.union.build/] [0] [Caddy] [91.99.22.24] [229.316114ms] [Caddy]
+http://staging.union.build [308] [https://staging.union.build/] [14] [Vercel] [76.76.21.93] [1.228992778s] [Vercel]
