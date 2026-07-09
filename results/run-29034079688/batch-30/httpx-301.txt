@@ -1,0 +1,5 @@
+https://status.voyageai.com [301] [https://voyageai-status.statuspage.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.7.97] [cloudflare] [65.681081ms] [Cloudflare]
+https://app.vela.exchange [301] [https://app.vela.exchange/] [0] [cloudflare] [172.67.134.15] [cloudflare] [209.948266ms] [Cloudflare,HTTP/3]
+http://www.blog.voyageai.com [301] [https://www.blog.voyageai.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.7.97] [cloudflare] [21.228839ms] [Cloudflare]
+https://www.vela.exchange [301] [https://www.vela.exchange/] [0] [cloudflare] [104.21.5.247] [cloudflare] [102.8702ms] [Cloudflare,HTTP/3]
+https://www.valorem.xyz [301] [https://valorem.xyz/] [162] [301 Moved Permanently] [GitHub.com] [185.199.108.153] [146.182829ms] [Fastly,GitHub Pages,Varnish]
