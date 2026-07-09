@@ -1,0 +1,1 @@
+https://wildcard.squad.bvnk.com [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [108.139.10.29] [cloudfront] [3.128910518s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
