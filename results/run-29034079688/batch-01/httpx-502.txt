@@ -1,0 +1,4 @@
+https://ws.qanet.internal.testnet.arch.network [502] [] [0] [Caddy] [67.213.126.227] [2.43275947s] [Caddy,HTTP/3]
+https://ws.testnet.arch.network [502] [] [0] [Caddy] [67.213.124.233] [3.0697679s] [Caddy,HTTP/3]
+https://ws.mainnet.arch.network [502] [] [0] [Caddy] [64.34.88.143] [6.065352352s] [Caddy,HTTP/3]
+https://ws.internal.testnet.arch.network [502] [] [0] [Caddy] [186.233.186.219] [7.166924643s] [Caddy,HTTP/3]

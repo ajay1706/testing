@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul  9 16:39:07 UTC 2026
+[+] Run ID: 29034079688
+[+] Batch name: batch-01
+[+] Batch targets:
+arch.network
+arize.com
+aztec.network
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul  9 16:39:44 UTC 2026
+[+] HTTPX input count: 539
+[+] Running httpx...
+[+] httpx completed: Thu Jul  9 16:41:09 UTC 2026
+[+] httpx line count: 299
+[+] Batch completed: Thu Jul  9 16:41:09 UTC 2026
