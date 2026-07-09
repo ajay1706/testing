@@ -1,0 +1,1 @@
+[zip-backup-files] [http] [medium] https://pkg.smithery.ai/smithery.tgz [EXT="tgz",FILENAME="smithery"]
