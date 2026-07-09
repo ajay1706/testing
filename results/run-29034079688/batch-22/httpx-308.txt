@@ -1,0 +1,2 @@
+https://openevidence.com [308] [https://www.openevidence.com/] [15] [Vercel] [76.76.21.21] [29.915782ms] [HSTS,Vercel]
+https://opentrade.io [308] [https://www.opentrade.io/] [61] [Framer/1a1b925] [31.43.160.6] [251.342444ms] [Framer Sites,HSTS,HTTP/3,React]
