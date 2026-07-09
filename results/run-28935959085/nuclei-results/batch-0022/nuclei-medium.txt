@@ -1,0 +1,2 @@
+[mongodb-exporter-metrics] [http] [medium] https://builder.ostium.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://builder-staging.ostium.io/metrics
