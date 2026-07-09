@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://infra-platform.metrics.mc-dev.baseten.co/metrics

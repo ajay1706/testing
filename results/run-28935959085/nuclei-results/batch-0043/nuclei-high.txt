@@ -1,0 +1,2 @@
+[CVE-2019-11248] [http] [high] https://infra-platform.metrics.mc-dev.baseten.co/debug/pprof/
+[CVE-2019-11248] [http] [high] https://infra-platform.mc-dev.baseten.co/debug/pprof/
