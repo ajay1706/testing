@@ -1,0 +1,8 @@
+https://aiagentsweek.crewai.com [302] [https://week.crewai.com] [0] [cloudflare] [216.24.57.9] [247.82822ms] [Cloudflare,HSTS,HTTP/3,Render]
+https://app.crewai.com [302] [https://app.crewai.com/auth/login] [0] [] [44.225.86.112] [584.931473ms] [HSTS,Linkedin Ads]
+https://auth0login-dev.crewai.com [302] [https://crewai.com/] [41] [cloudflare] [104.18.43.182] [cloudflare] [657.234593ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.crewai.com [302] [https://crewai.com/] [41] [cloudflare] [104.18.43.182] [cloudflare] [983.05718ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://dev.crewai.com [302] [https://dev.crewai.com/auth/login] [0] [] [54.245.254.218] [617.558108ms]
+https://factory.crewai.com [302] [https://factory.crewai.com/auth/login] [0] [] [34.214.12.147] [985.521807ms] [HSTS]
+https://staging.crewai.com [302] [https://staging.crewai.com/auth/login] [0] [] [44.253.3.19] [863.113605ms] [HSTS]
+https://tunnels.copilotkit.ai [302] [https://docs.copilotkit.ai] [0] [] [52.5.51.238] [5.206465214s]
