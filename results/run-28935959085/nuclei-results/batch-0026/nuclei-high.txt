@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://create-next-app.privy.io
+[framer-takeover] [http] [high] https://countdown.higgsfield.ai ["sites.framer.app"]
