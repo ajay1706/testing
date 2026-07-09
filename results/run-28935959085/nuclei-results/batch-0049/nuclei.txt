@@ -1,0 +1,52 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] mercury.webrtc-stage.ringg.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mercury.webrtc.ringg.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] meta.elfi.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] meta.elfi.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mercury.webrtc-stage.ringg.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mercury.webrtc.ringg.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] metalshouse.securitize.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] metabase.ostium.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] metadata-backend-staging.ostium.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] metalshouse.securitize.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] metadata-backend-staging.ostium.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] metabase.ostium.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mobile.workers.backpack.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mobile.workers.backpack.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mock-webui.dev.otherhalf.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mock-webui.dev.otherhalf.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CNVD-2023-96945] [http] [high] https://meta.elfi.xyz/Content/Plugins/uploader/FileChoose.html
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://metrics.doublezero.xyz/api/search?type=dash-db
+[docker-registry] [http] [medium] https://mirror.registry.daytona.io/v2/_catalog
+[grafana-metrics-exposure:version] [http] [low] https://metrics.doublezero.xyz/metrics ["12.2.0"]
+[kubernetes-metrics] [http] [low] https://metrics.doublezero.xyz/metrics
+[postgres-exporter-metrics] [http] [low] https://metrics.doublezero.xyz/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging2.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend.ostium.io/metrics
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-18060.hephaestus.exa.ai:443 ["2026-05-21 22:27:16 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-21899.hephaestus.exa.ai:443 ["2026-06-11 01:38:25 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-22843.hephaestus.exa.ai:443 ["2026-06-10 04:13:04 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-23142.hephaestus.exa.ai:443 ["2026-06-11 15:37:15 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-24160.hephaestus.exa.ai:443 ["2026-06-16 23:51:19 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-23647.hephaestus.exa.ai:443 ["2026-06-14 20:53:19 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-25086.hephaestus.exa.ai:443 ["2026-06-21 21:30:09 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-24308.hephaestus.exa.ai:443 ["2026-06-16 22:44:49 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-25153.hephaestus.exa.ai:443 ["2026-06-21 23:19:15 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-26098.hephaestus.exa.ai:443 ["2026-06-24 23:14:18 +0000 UTC"]
+[expired-ssl] [ssl] [low] mithril-autoscaler-pr-27363.hephaestus.exa.ai:443 ["2026-06-30 17:44:18 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-39683.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-39683.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-40900.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-40900.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-41257.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-41257.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-41769-0cd1b64e.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-41769-0cd1b64e.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-41777.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-41777.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-41769-84421a12.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-41769-84421a12.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-42333.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-42333.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] mithril-autoscaler-pr-43565.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mithril-autoscaler-pr-43565.hephaestus.exa.ai:443

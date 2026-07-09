@@ -1,0 +1,2 @@
+[CNVD-2023-96945] [http] [high] https://meta.elfi.xyz/Content/Plugins/uploader/FileChoose.html
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://metrics.doublezero.xyz/api/search?type=dash-db

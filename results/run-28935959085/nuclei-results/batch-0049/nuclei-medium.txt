@@ -1,0 +1,4 @@
+[docker-registry] [http] [medium] https://mirror.registry.daytona.io/v2/_catalog
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging2.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend.ostium.io/metrics
