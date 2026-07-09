@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul  9 16:45:54 UTC 2026
+[+] Run ID: 29034079688
+[+] Batch name: batch-13
+[+] Batch targets:
+fusewallet.com
+fxdx.exchange
+goose.ai
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul  9 16:46:47 UTC 2026
+[+] HTTPX input count: 51
+[+] Running httpx...
+[+] httpx completed: Thu Jul  9 16:47:08 UTC 2026
+[+] httpx line count: 25
+[+] Batch completed: Thu Jul  9 16:47:08 UTC 2026

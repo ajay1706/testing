@@ -1,0 +1,4 @@
+https://api.goose.ai [404] [] [99] [cloudflare] [104.26.3.96] [cloudflare] [290.334367ms] [Cloudflare,Envoy,HTTP/3]
+https://invite.fusewallet.com [404] [] [7137] [404: This page could not be found.] [Vercel] [76.76.21.164] [238.513214ms] [HSTS,Vercel]
+https://recovery.fusewallet.com [404] [] [8253] [404: This page could not be found.] [Vercel] [76.76.21.241] [195.957878ms] [HSTS,Vercel]
+https://info.goose.ai [404] [] [46089] [Open main menu] [cloudflare] [199.60.103.226] [401.391096ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub]

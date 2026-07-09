@@ -1,0 +1,8 @@
+https://test.fxdx.exchange [301] [https://testnet.fxdx.exchange/] [15] [cloudflare] [172.67.133.119] [cloudflare] [288.33118ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+http://data.fxdx.exchange [301] [https://data.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [172.67.133.119] [cloudflare] [17.668597ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://stats.fxdx.exchange [301] [https://stats.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [172.67.133.119] [cloudflare] [15.506851ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://bad.fxdx.exchange [301] [https://bad.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [104.21.5.129] [cloudflare] [16.817425ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://monad.fxdx.exchange [301] [https://monad.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [104.21.5.129] [cloudflare] [27.96242ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://adm.fxdx.exchange [301] [https://adm.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [172.67.133.119] [cloudflare] [30.947553ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://monoral.fxdx.exchange [301] [https://monoral.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [104.21.5.129] [cloudflare] [30.985986ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://waitlist.fxdx.exchange [301] [https://waitlist.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [104.21.5.129] [cloudflare] [32.959664ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]

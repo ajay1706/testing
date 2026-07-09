@@ -1,0 +1,2 @@
+https://www.fusewallet.com [308] [https://fusewallet.com/] [59] [Framer/1a1b925] [31.43.161.6] [103.951653ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.fxdx.exchange [308] [https://fxdx.exchange/] [15] [cloudflare] [172.67.133.119] [cloudflare] [273.315047ms] [Cloudflare,HSTS,HTTP/3,Vercel]
