@@ -1,0 +1,2 @@
+[config-json] [http] [medium] https://cms-test.leather.io/config/default.json
+[laravel-debugbar-exposure] [http] [medium] https://cms-test.leather.io/_debugbar/open
