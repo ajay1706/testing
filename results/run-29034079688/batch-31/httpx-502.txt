@@ -1,0 +1,2 @@
+https://node-1.dev-substrate.web3auth.io [502] [] [157] [502 Bad Gateway] [nginx/1.28.0] [35.247.172.249] [google] [3.680543655s] [Nginx:1.28.0]
+https://node-2.dev-substrate.web3auth.io [502] [] [157] [502 Bad Gateway] [nginx/1.28.0] [34.143.195.184] [google] [2.673438873s] [Nginx:1.28.0]
