@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul  9 16:41:40 UTC 2026
+[+] Run ID: 29034079688
+[+] Batch name: batch-05
+[+] Batch targets:
+capsule.xyz
+chainflip.io
+citrea.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul  9 16:42:43 UTC 2026
+[+] HTTPX input count: 410
+[+] Running httpx...
+[+] httpx completed: Thu Jul  9 16:43:25 UTC 2026
+[+] httpx line count: 220
+[+] Batch completed: Thu Jul  9 16:43:25 UTC 2026
