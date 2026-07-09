@@ -1,0 +1,2 @@
+[CVE-2022-41697] [http] [medium] https://blog.web3auth.io/ghost/api/admin/session
+[prometheus-metrics] [http] [medium] https://browser.firecrawl.dev/metrics
