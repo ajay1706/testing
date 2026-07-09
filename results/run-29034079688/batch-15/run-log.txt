@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul  9 16:47:39 UTC 2026
+[+] Run ID: 29034079688
+[+] Batch name: batch-15
+[+] Batch targets:
+helone.ai
+instructor.ai
+labs.ai
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul  9 16:48:31 UTC 2026
+[+] HTTPX input count: 31
+[+] Running httpx...
+[+] httpx completed: Thu Jul  9 16:48:52 UTC 2026
+[+] httpx line count: 13
+[+] Batch completed: Thu Jul  9 16:48:52 UTC 2026
