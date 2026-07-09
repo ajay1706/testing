@@ -1,0 +1,48 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] mongomcp.polynomial.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mongomcp.polynomial.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] monstats.fxdx.exchange:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] models.supermemory.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] monstats.fxdx.exchange:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] models.supermemory.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mux.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mux.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] n8n.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] n.plasma.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] n8n.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] n.plasma.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] n8n.ostium.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] na-britishcolumbia-3.direct.fireworks.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] na-britishcolumbia-3.direct.fireworks.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] n8n.ostium.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nav-api.lagoon.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nav-api.lagoon.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] navigate.dev.securitize.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] navigate.dev.securitize.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nestapi.clearstar.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nestapi.clearstar.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] new.plasma.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] new.plasma.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2026-21858] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2026-21877] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[prometheus-metrics] [http] [medium] https://n8n.dappier.com/metrics
+[expired-ssl] [ssl] [low] morris-vtoa-wp-1.api.wp-1.morris-vtoa.mc-dev.baseten.co:443 ["2026-07-08 07:31:27 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] morris-57g1-cp.api.morris-57g1.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] morris-57g1-cp.api.morris-57g1.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] multistream-viz-pr-26963.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] multistream-viz-pr-26963.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-105546.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-105546.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-30472.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-30472.hephaestus.exa.ai:443
+[expired-ssl] [ssl] [low] nestle-poc-api.crossmint.com:443 ["2023-07-20 13:35:40 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-33921.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-33921.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-34510.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-34510.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-38654.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-38654.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-40900.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-40900.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] neural-filters-viewer-pr-44083.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neural-filters-viewer-pr-44083.hephaestus.exa.ai:443
+[expired-ssl] [ssl] [low] new-ui-v3.ramses.exchange:443 ["2026-02-27 11:45:57 +0000 UTC"]

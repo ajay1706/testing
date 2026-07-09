@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://n8n.dappier.com/metrics
