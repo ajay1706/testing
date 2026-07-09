@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul  9 16:50:26 UTC 2026
+[+] Run ID: 29034079688
+[+] Batch name: batch-21
+[+] Batch targets:
+nillion.com
+nscale.com
+oasisprotocol.org
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul  9 16:51:38 UTC 2026
+[+] HTTPX input count: 1269
+[+] Running httpx...
+[+] httpx completed: Thu Jul  9 16:57:35 UTC 2026
+[+] httpx line count: 222
+[+] Batch completed: Thu Jul  9 16:57:35 UTC 2026
