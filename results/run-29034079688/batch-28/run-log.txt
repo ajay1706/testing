@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul  9 16:55:26 UTC 2026
+[+] Run ID: 29034079688
+[+] Batch name: batch-28
+[+] Batch targets:
+temporal.io
+thinkingmachines.ai
+tokeny.com
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul  9 16:55:32 UTC 2026
+[+] HTTPX input count: 383
+[+] Running httpx...
+[+] httpx completed: Thu Jul  9 16:56:00 UTC 2026
+[+] httpx line count: 246
+[+] Batch completed: Thu Jul  9 16:56:00 UTC 2026
