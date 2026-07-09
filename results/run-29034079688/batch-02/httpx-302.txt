@@ -1,0 +1,5 @@
+https://bitlayer.org [302] [https://www.bitlayer.org/] [143] [302 Found] [cloudflare] [172.66.40.132] [cloudflare] [142.38252ms] [Cloudflare]
+https://finality.bitlayer.org [302] [https://bitvmbridge.bitlayer.org/] [143] [302 Found] [cloudflare] [172.66.43.124] [cloudflare] [205.01485ms] [Cloudflare]
+https://app.bitlayer.org [302] [/btcfi] [0] [cloudflare] [172.66.43.124] [cloudflare] [1.075782584s] [Cloudflare]
+https://trade-arb.bluefin.io [302] [https://trade.bluefin.io/] [641] [302 Found] [cloudflare] [172.66.40.151] [cloudflare] [126.64814ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://bitvmbridge.bitlayer.org [302] [/btcfi] [0] [cloudflare] [172.66.40.132] [cloudflare] [1.910371815s] [Cloudflare]
