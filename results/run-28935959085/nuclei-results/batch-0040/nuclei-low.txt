@@ -1,0 +1,48 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana-automation.securitize.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana-automation.securitize.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.ostium.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.ostium.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] greffex.dashboard.securitize.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] greffex.dashboard.securitize.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grpc.gm-dev.ondo.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grpc.gm-dev.ondo.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grpc.gm-staging.ondo.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grpc.gm-staging.ondo.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grpc.gm.ondo.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grpc.gm.ondo.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure] [http] [low] https://grafana.aws-us-west-2-monitoring-production2.vapi.ai/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.agentops.ai/metrics ["12.0.2"]
+[kubernetes-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-production2.vapi.ai/metrics
+[kubernetes-metrics] [http] [low] https://grafana.agentops.ai/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.agrimin.sarvam.ai/metrics ["12.3.1"]
+[postgres-exporter-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-production2.vapi.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.agentops.ai/metrics
+[grafana-metrics-exposure] [http] [low] https://grafana.aws-us-west-2-monitoring-staging2.vapi.ai/metrics
+[kubernetes-metrics] [http] [low] https://grafana.agrimin.sarvam.ai/metrics
+[kubernetes-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-staging2.vapi.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-staging2.vapi.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.agrimin.sarvam.ai/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.doublezero.xyz/metrics ["12.2.2"]
+[kubernetes-metrics] [http] [low] https://grafana.doublezero.xyz/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.doublezero.xyz/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.sip-web.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.sip-web2.vapi.ai/metrics ["10.4.1"]
+[kubernetes-metrics] [http] [low] https://grafana.sip-web.vapi.ai/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.staging-sip-web.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.staging-sip-web1.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.web-mini.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.staging-sip-web2.vapi.ai/metrics ["10.4.1"]
+[postgres-exporter-metrics] [http] [low] https://grafana.web-mini.vapi.ai/metrics
+[expired-ssl] [ssl] [low] gpu-dashboard-pr-22461.hephaestus.exa.ai:443 ["2026-06-09 17:33:28 +0000 UTC"]
+[expired-ssl] [ssl] [low] gpu-dashboard-pr-23215.hephaestus.exa.ai:443 ["2026-06-11 20:38:40 +0000 UTC"]
+[expired-ssl] [ssl] [low] gpu-dashboard-pr-21899.hephaestus.exa.ai:443 ["2026-06-11 01:40:23 +0000 UTC"]
+[expired-ssl] [ssl] [low] gpu-dashboard-pr-23698.hephaestus.exa.ai:443 ["2026-06-14 22:43:00 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] gpu-dashboard-pr-34544.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] gpu-dashboard-pr-34544.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] gpu-dashboard-pr-34190.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] gpu-dashboard-pr-34190.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] gpu-dashboard-pr-36964.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] gpu-dashboard-pr-36964.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] gpu-dashboard-pr-41257.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] gpu-dashboard-pr-41257.hephaestus.exa.ai:443
+[expired-ssl] [ssl] [low] grafana.staging-sip-web1.vapi.ai:443 ["2025-10-01 00:55:38 +0000 UTC"]
