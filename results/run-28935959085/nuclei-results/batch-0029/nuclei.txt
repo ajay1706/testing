@@ -1,0 +1,52 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] datastore.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] datastore.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] de.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] de.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] de.dev.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] de.staging.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] de.dev.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] de.staging.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-26308.hephaestus.exa.ai:443 ["2026-06-26 06:00:38 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-24424.hephaestus.exa.ai:443 ["2026-06-17 16:12:07 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-26430.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-26430.hephaestus.exa.ai:443
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-27363.hephaestus.exa.ai:443 ["2026-06-30 17:41:06 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-23893.hephaestus.exa.ai:443 ["2026-06-15 17:26:30 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-26420.hephaestus.exa.ai:443 ["2026-06-25 22:30:35 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-26396.hephaestus.exa.ai:443 ["2026-06-25 22:02:00 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-24684.hephaestus.exa.ai:443 ["2026-06-18 17:01:19 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-26410.hephaestus.exa.ai:443 ["2026-06-25 22:17:03 +0000 UTC"]
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-24138.hephaestus.exa.ai:443 ["2026-06-16 09:06:45 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-29550.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-29550.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-29545.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-29545.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-29522.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-29522.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-29528.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-29528.hephaestus.exa.ai:443
+[expired-ssl] [ssl] [low] databricks-job-manager-pr-29133.hephaestus.exa.ai:443 ["2026-07-08 23:52:16 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-32996.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-32996.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-33168.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-33168.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-34353.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-34353.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-35105.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-35105.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-35231.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-35231.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-35563.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-35563.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-35836.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-35836.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-36507.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-36507.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-36658.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-36658.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-36774.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-36774.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-36921.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-36921.hephaestus.exa.ai:443
+[kubernetes-fake-certificate] [ssl] [low] databricks-job-manager-pr-37001.hephaestus.exa.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] databricks-job-manager-pr-37001.hephaestus.exa.ai:443
