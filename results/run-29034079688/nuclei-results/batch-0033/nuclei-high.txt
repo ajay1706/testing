@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://init.privy.io
+[CVE-2019-11248] [http] [high] https://influx-tnworkq43qr5xmc8.b.redstone.finance/debug/pprof/

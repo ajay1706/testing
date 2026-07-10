@@ -1,0 +1,2 @@
+[CVE-2020-14179] [http] [medium] https://jira.camunda.com/secure/QueryComponent!Default.jspa
+[prometheus-metrics] [http] [medium] https://indexer.sale.aztec.network/metrics
