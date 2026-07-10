@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://api.stake.aztec.network/metrics
+[prometheus-metrics] [http] [medium] https://api.testnet.stake.aztec.network/metrics
