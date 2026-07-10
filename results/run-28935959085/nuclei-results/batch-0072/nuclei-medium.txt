@@ -1,0 +1,1 @@
+[CVE-2026-32230] [http] [medium] https://status.mem0.ai/api/badge/1/ping/24
