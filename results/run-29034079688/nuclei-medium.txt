@@ -1,0 +1,50 @@
+[CVE-2019-8451] [http] [medium] https://mail.particle.network/plugins/servlet/gadgets/makeRequest
+[CVE-2020-14179] [http] [medium] https://jira.camunda.com/secure/QueryComponent!Default.jspa
+[CVE-2020-28185] [http] [medium] https://staking-api.coredao.org/tos/index.php?user/login
+[CVE-2021-44528] [http] [medium] https://cloud.copilotkit.ai/
+[CVE-2021-44528] [http] [medium] https://secure.staging.ragie.ai/
+[CVE-2022-41697] [http] [medium] https://blog.web3auth.io/ghost/api/admin/session
+[CVE-2023-6592] [http] [medium] https://snapshots.citrea.xyz/wp-content/plugins/fastdup/logs/
+[CVE-2024-13126] [http] [medium] https://snapshots.citrea.xyz/wp-content/uploads/download-manager-files/
+[CVE-2024-2340] [http] [medium] https://snapshots.citrea.xyz/wp-content/uploads/fusion-forms/
+[CVE-2025-54793] [http] [medium] https://vault.nscale.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://vault.queeg-dev.glo1.nscale.com//interact.sh/en//
+[CVE-2025-63387] [http] [medium] https://cloud.dify.ai/console/api/system-features
+[CVE-2026-55592] [http] [medium] https://staking-api.coredao.org/healthz ["1.0.0"]
+[cacti-guest-access-enabled] [http] [medium] https://marketplace.dify.ai/graph_view.php
+[cobbler-exposed-directory] [http] [medium] https://snapshots.citrea.xyz/cblr/
+[cobbler-exposed-directory] [http] [medium] https://snapshots.citrea.xyz/cobbler/
+[coldfusion-cfide-dir-listing] [http] [medium] https://snapshots.citrea.xyz/CFIDE/
+[config-json] [http] [medium] https://packages.dynamic.xyz/config.json
+[configuration-listing] [http] [medium] https://snapshots.citrea.xyz/config/
+[docker-compose-config] [http] [medium] https://dev.dashboardbackend.voyageai.com/docker-compose.yml
+[dockerfile-hidden-disclosure] [http] [medium] https://dev.dashboardbackend.voyageai.com/Dockerfile
+[exposed-vscode] [http] [medium] https://snapshots.citrea.xyz/.vscode/
+[git-config] [http] [medium] https://dev.dashboardbackend.voyageai.com/.git/config
+[glpi-directory-listing] [http] [medium] https://snapshots.citrea.xyz/glpi/files/
+[jolokia-config-exposure] [http] [medium] https://staking-api.coredao.org/jolokia-agent.properties
+[joomla-file-listing] [http] [medium] https://snapshots.citrea.xyz/libraries/joomla/database/
+[nextjs-vite-public-env:public_env] [http] [medium] https://labs.lamatic.ai [""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.arch.network [""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com""]
+[nexus-repository-anonymous-access] [http] [medium] https://staking-api.coredao.org/service/rest/v1/repositories
+[open-redirect-generic] [http] [medium] https://vault.nscale.com///%5C@oast.me [redirect="//\\@oast.me"]
+[open-redirect-generic] [http] [medium] https://vault.queeg-dev.glo1.nscale.com///%5C@oast.me [redirect="//\\@oast.me"]
+[prisma-schema-exposure:db_provider] [http] [medium] https://dev.dashboardbackend.voyageai.com/prisma/schema.prisma ["provider = "postgresql"","provider = "prisma-client-js""]
+[prisma-schema-exposure:db_url] [http] [medium] https://dev.dashboardbackend.voyageai.com/prisma/schema.prisma ["url      = env("DATABASE_URL")"]
+[prometheus-metrics] [http] [medium] https://aevo-prod-monitor.socket.tech/metrics
+[prometheus-metrics] [http] [medium] https://api.dev.socket.tech/metrics
+[prometheus-metrics] [http] [medium] https://api.stake.aztec.network/metrics
+[prometheus-metrics] [http] [medium] https://api.testnet.stake.aztec.network/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-1.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-2.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-3.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-4.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-5.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://dummy-exporter.perseverance.chainflip.io/metrics
+[prometheus-metrics] [http] [medium] https://indexer.sale.aztec.network/metrics
+[prometheus-metrics] [http] [medium] https://tunnels.copilotkit.ai/metrics
+[prometheus-metrics] [http] [medium] https://txt-openai-gpt-oss-120b-predictor.models.infaas-amd-prod-sys1-sta1.nscale.com/metrics
+[prometheus-metrics] [http] [medium] https://txt-openai-gpt-oss-20b-predictor.models.infaas-amd-prod-sys1-sta1.nscale.com/metrics
+[rails-debug-mode] [http] [medium] https://dev.crewai.com/3GIPuDy6Zagp1cMDTVR7FSJE3rb
+[ssrf-via-oauth-misconfig] [http] [medium] https://mail.particle.network/connect/register
+[unauthenticated-duplicator-disclosure] [http] [medium] https://snapshots.citrea.xyz/wp-content/backups-dup-lite/tmp/
