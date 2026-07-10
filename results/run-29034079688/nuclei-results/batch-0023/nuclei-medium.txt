@@ -1,0 +1,6 @@
+[dockerfile-hidden-disclosure] [http] [medium] https://dev.dashboardbackend.voyageai.com/Dockerfile
+[prisma-schema-exposure:db_provider] [http] [medium] https://dev.dashboardbackend.voyageai.com/prisma/schema.prisma ["provider = "postgresql"","provider = "prisma-client-js""]
+[prisma-schema-exposure:db_url] [http] [medium] https://dev.dashboardbackend.voyageai.com/prisma/schema.prisma ["url      = env("DATABASE_URL")"]
+[rails-debug-mode] [http] [medium] https://dev.crewai.com/3GIPuDy6Zagp1cMDTVR7FSJE3rb
+[git-config] [http] [medium] https://dev.dashboardbackend.voyageai.com/.git/config
+[docker-compose-config] [http] [medium] https://dev.dashboardbackend.voyageai.com/docker-compose.yml
