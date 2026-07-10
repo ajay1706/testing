@@ -1,0 +1,7 @@
+[open-redirect-generic] [http] [medium] https://vault.nscale.com///%5C@oast.me [redirect="//\\@oast.me"]
+[open-redirect-generic] [http] [medium] https://vault.queeg-dev.glo1.nscale.com///%5C@oast.me [redirect="//\\@oast.me"]
+[prometheus-metrics] [http] [medium] https://tunnels.copilotkit.ai/metrics
+[prometheus-metrics] [http] [medium] https://txt-openai-gpt-oss-120b-predictor.models.infaas-amd-prod-sys1-sta1.nscale.com/metrics
+[prometheus-metrics] [http] [medium] https://txt-openai-gpt-oss-20b-predictor.models.infaas-amd-prod-sys1-sta1.nscale.com/metrics
+[CVE-2025-54793] [http] [medium] https://vault.nscale.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://vault.queeg-dev.glo1.nscale.com//interact.sh/en//
