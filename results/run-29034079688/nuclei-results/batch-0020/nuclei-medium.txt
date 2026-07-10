@@ -1,0 +1,2 @@
+[CVE-2025-63387] [http] [medium] https://cloud.dify.ai/console/api/system-features
+[CVE-2021-44528] [http] [medium] https://cloud.copilotkit.ai/
