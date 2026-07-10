@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://subscription-v6.prod.otherhalf.ai/metrics
+[prometheus-metrics] [http] [medium] https://subscription-v7.dev.otherhalf.ai/metrics
