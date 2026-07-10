@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://portal.pieces.app
+[unauth-phoenix-dashboard] [http] [high] https://phoenix-demo.arize.com/settings/general

@@ -1,0 +1,74 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] pdot01.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] payments.walletconnect.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pdfs.cdn.union.build:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pdot.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pdot01.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] payments.walletconnect.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pdfs.cdn.union.build:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pdot.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pdot02.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pdot02.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] perseverance-rpc.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] perseverance-rpc.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] perseverance-assethub.prod.do.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] perseverance-additional-archive-node.prod.do.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] perseverance-assethub.prod.do.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] perseverance-additional-archive-node.prod.do.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] phoenix-demo.arize.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] phoenix-demo.arize.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pineapple.reown.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pineapple.reown.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pkgs.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pkgs.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] portal.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] portal-temp.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] portal.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] portal-temp.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] poseidon-testnet.explorer.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] poseidon-testnet.explorer.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] portal.pieces.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] portal.pieces.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[graphiql-exposure] [http] [low] https://phoenix-demo.arize.com/graphql
+[graphiql-exposure] [http] [low] https://pink-light.james.union.build
+[expired-ssl] [ssl] [low] pfizer-nlq.openevidence.com:443 ["2026-03-18 13:25:22 +0000 UTC"]
+[expired-ssl] [ssl] [low] playwright-mcp.langflow.org:443 ["2026-06-20 09:53:56 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] pr1-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr1-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr1-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr1-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr10-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr10-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr11-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr11-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr11-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr11-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr11-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr11-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr12-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr12-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr12-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr12-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr12-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr12-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr15-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr15-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr14-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr14-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr16-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr16-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr17-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr17-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr16-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr16-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr17-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr17-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr17-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr17-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr18-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr18-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr18-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr18-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr18-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr18-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr19-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr19-rpc2.dev.arch.network:443
