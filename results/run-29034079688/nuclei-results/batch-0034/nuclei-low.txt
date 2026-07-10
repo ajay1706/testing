@@ -1,0 +1,13 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] karak-old-testnet.explorer.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] karak-old-testnet.explorer.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] legacy.ens.domains:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] legacy.ens.domains:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] light-client-prover.mainnet.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] light-client-prover.mainnet.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] license.dify.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[expired-ssl] [ssl] [low] join.arch.network:443 ["2024-12-28 19:04:30 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] leader-1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] leader-1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] leader-2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] leader-2.dev.arch.network:443
+[expired-ssl] [ssl] [low] life-sciences.openevidence.com:443 ["2026-04-26 23:16:37 +0000 UTC"]
