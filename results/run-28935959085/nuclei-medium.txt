@@ -1,0 +1,60 @@
+[CVE-2015-2166] [http] [medium] https://asr.sarvam.ai/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
+[CVE-2015-5688] [http] [medium] https://asr.sarvam.ai/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
+[CVE-2021-44528] [http] [medium] https://app.supermemory.ai/
+[CVE-2022-41697] [http] [medium] https://blog.web3auth.io/ghost/api/admin/session
+[CVE-2026-32230] [http] [medium] https://status.mem0.ai/api/badge/1/ping/24
+[CVE-2026-32230] [http] [medium] https://status.unisat.io/api/badge/1/ping/24
+[CVE-2026-55592] [http] [medium] https://chat.dappier.com/healthz ["1.0.0"]
+[CVE-2026-55592] [http] [medium] https://chat.dev.dappier.com/healthz ["1.0.0"]
+[CVE-2026-55592] [http] [medium] https://chat.staging.dappier.com/healthz ["1.0.0"]
+[config-json] [http] [medium] https://cms-test.leather.io/config/default.json
+[config-json] [http] [medium] https://packages.dynamic.xyz/config.json
+[configuration-listing] [http] [medium] https://voipmonitor.vapi.ai/config/
+[credentials-json] [http] [medium] https://content.vapi.ai/credentials.json
+[docker-registry] [http] [medium] https://mirror.registry.daytona.io/v2/_catalog
+[laravel-debugbar-exposure] [http] [medium] https://cms-test.leather.io/_debugbar/open
+[mongodb-exporter-metrics] [http] [medium] https://builder-staging.ostium.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://builder.ostium.io/metrics
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.hyperlane.xyz [""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.particle.news [""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44""]
+[open-redirect-generic] [http] [medium] https://azure-staging.sarvam.ai///https://oast.me// [redirect="//https://oast.me//"]
+[open-redirect-generic] [http] [medium] https://dev.supermemory.ai/%5Coast.me [redirect="%5Coast.me"]
+[open-redirect-generic] [http] [medium] https://docs.symbiotic.fi///%5Ctoast.me/ [redirect="//\\toast.me/"]
+[open-redirect-generic] [http] [medium] https://www.sarvam.ai///%5Ctoast.me/ [redirect="//\\toast.me/"]
+[prometheus-metrics] [http] [medium] https://aether-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://aether.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://analytics.availproject.org/api/metrics
+[prometheus-metrics] [http] [medium] https://api-ptu.azure-stage01.sarvam.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.azure-stage01.sarvam.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.centrifuge.io/metrics
+[prometheus-metrics] [http] [medium] https://api.explorer.testnet.ondo.finance/metrics
+[prometheus-metrics] [http] [medium] https://browser.firecrawl.dev/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-1.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-2.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-3.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-4.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-5.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://explorer.testnet.ondo.finance/api/metrics
+[prometheus-metrics] [http] [medium] https://gather.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://infra-platform.metrics.mc-dev.baseten.co/metrics
+[prometheus-metrics] [http] [medium] https://listener-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://listener.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://live-market-data-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://live-market-data.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://llm-gateway.exa.ai/metrics
+[prometheus-metrics] [http] [medium] https://mcp.mem0.ai/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging2.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://n8n.dappier.com/metrics
+[prometheus-metrics] [http] [medium] https://notification-v4.dev.otherhalf.ai/metrics
+[prometheus-metrics] [http] [medium] https://notification-v5.prod.otherhalf.ai/metrics
+[prometheus-metrics] [http] [medium] https://pushgateway.yuzu.money/metrics
+[prometheus-metrics] [http] [medium] https://staging-mcp.mem0.ai/metrics
+[prometheus-metrics] [http] [medium] https://subscription-v6.prod.otherhalf.ai/metrics
+[prometheus-metrics] [http] [medium] https://subscription-v7.dev.otherhalf.ai/metrics
+[prometheus-metrics] [http] [medium] https://v1-backend-indexer.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v1-points-backend.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v2-backend.karak.network/metrics
+[ssrf-via-oauth-misconfig] [http] [medium] https://mail.particle.network/connect/register
+[zip-backup-files] [http] [medium] https://pkg.smithery.ai/smithery.tgz [EXT="tgz",FILENAME="smithery"]

