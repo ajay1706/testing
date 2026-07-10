@@ -1,0 +1,5 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] preview.testnet.mezo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] preview.testnet.mezo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[kubernetes-fake-certificate] [ssl] [low] pr98-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr98-rpc2.dev.arch.network:443
+[expired-ssl] [ssl] [low] pre-release.langflow.org:443 ["2026-06-20 09:53:56 +0000 UTC"]
