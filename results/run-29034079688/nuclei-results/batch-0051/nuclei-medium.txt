@@ -1,0 +1,4 @@
+[CVE-2020-28185] [http] [medium] https://staking-api.coredao.org/tos/index.php?user/login
+[CVE-2026-55592] [http] [medium] https://staking-api.coredao.org/healthz ["1.0.0"]
+[nexus-repository-anonymous-access] [http] [medium] https://staking-api.coredao.org/service/rest/v1/repositories
+[jolokia-config-exposure] [http] [medium] https://staking-api.coredao.org/jolokia-agent.properties
