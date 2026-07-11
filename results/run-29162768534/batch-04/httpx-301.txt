@@ -1,0 +1,2 @@
+https://www.parallel.ai [301] [https://parallel.ai/] [15] [Vercel] [216.150.16.193] [262.250809ms] [HSTS,Vercel]
+https://www.m1xglobal.com [301] [https://m1xglobal.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [375.652187ms] [Cloudflare,HSTS,HTTP/3]
