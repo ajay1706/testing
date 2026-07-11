@@ -1,0 +1,8 @@
+bridge-info.tf.xyz
+devnet-indexer-api.tf.xyz
+indexer-api.tf.xyz
+res.tf.xyz
+rpc-public.tf.xyz
+testnet-indexer-api.tf.xyz
+tpu-public.tf.xyz
+www.tf.xyz
