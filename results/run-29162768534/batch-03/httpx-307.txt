@@ -1,0 +1,4 @@
+https://groundtech.co [307] [https://www.groundtech.co/] [15] [Vercel] [216.150.1.1] [41.689374ms] [HSTS,Vercel]
+https://portal.groundtech.co [307] [/login] [15] [Vercel] [216.150.16.193] [105.588177ms] [HSTS,Vercel]
+https://admin.groundtech.co [307] [/login?reason=unauthorized] [15] [Vercel] [216.150.1.193] [245.941855ms] [HSTS,Vercel]
+https://groundcontrol.groundtech.co [307] [/login?next=%2F] [15] [Vercel] [216.150.1.193] [807.355135ms] [HSTS,Vercel]

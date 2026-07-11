@@ -1,0 +1,2 @@
+https://opensearch.getpie.com [401] [] [188] [401 Authorization Required] [nginx/1.24.0 (Ubuntu)] [54.159.108.113] [233.183841ms] [Basic,Nginx:1.24.0,Ubuntu]
+https://tempo.getpie.com [401] [] [188] [401 Authorization Required] [nginx/1.24.0 (Ubuntu)] [54.159.108.113] [260.855788ms] [Basic,Nginx:1.24.0,Ubuntu]

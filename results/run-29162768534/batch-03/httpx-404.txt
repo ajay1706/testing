@@ -1,0 +1,6 @@
+https://production.groundtech.co [404] [] [139] [Error] [cloudflare] [216.24.57.9] [95.63522ms] [Cloudflare,HTTP/3,Render]
+https://omaha-server.genspark.ai [404] [] [2833] [nginx/1.22.1] [35.167.107.138] [110.151331ms] [Bootstrap,Nginx:1.22.1]
+https://cdn-static.genspark.ai [404] [] [9] [cloudflare] [104.18.24.139] [cloudflare] [169.759329ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://sandbox.groundtech.co [404] [] [139] [Error] [cloudflare] [216.24.57.9] [133.843493ms] [Cloudflare,HTTP/3,Render]
+https://pay.groundtech.co [404] [] [1009] [Pay Link Not Found] [] [100.49.0.246] [258.213682ms]
+https://url2040.genspark.ai [404] [] [548] [404 Not Found] [nginx] [44.245.147.253] [106.761664ms] [Nginx]

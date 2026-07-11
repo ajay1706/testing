@@ -1,0 +1,75 @@
+# HTTPX Status Report
+
+Generated at: Sat Jul 11 18:06:52 UTC 2026
+
+HTTPX lines: 52
+Live URLs: 52
+
+## 200
+https://mesh-control-dev.genspark.ai [200] [] [123] [] [4.149.161.98] [80.927036ms] [HTTP/3]
+https://mesh-control.genspark.ai [200] [] [123] [] [4.149.211.21] [88.864616ms] [HTTP/3]
+https://mesh-derp.genspark.ai [200] [] [586] [] [40.64.93.39] [80.895898ms] [HSTS]
+https://fast.api.getpie.com [200] [] [41] [uvicorn] [100.50.202.69] [237.983506ms] [Python,Uvicorn]
+https://preprod-fast.api.getpie.com [200] [] [41] [uvicorn] [98.87.146.220] [240.603684ms] [Python,Uvicorn]
+https://fast-v2.api.getpie.com [200] [] [41] [uvicorn] [100.50.202.69] [241.826623ms] [Python,Uvicorn]
+https://qa-fast-v2.api.getpie.com [200] [] [41] [uvicorn] [52.5.65.138] [264.628535ms] [Python,Uvicorn]
+https://chat.api.getpie.com [200] [] [47] [uvicorn] [3.208.247.75] [298.932105ms] [Python,Uvicorn]
+https://partners.getpie.com [200] [] [959] [nginx] [44.202.4.12] [277.487573ms] [Nginx]
+https://qa-fast.api.getpie.com [200] [] [41] [uvicorn] [44.206.121.131] [267.379916ms] [Python,Uvicorn]
+https://staging-chat.api.getpie.com [200] [] [47] [uvicorn] [98.95.117.37] [258.208761ms] [Python,Uvicorn]
+https://staging-fast-v2.api.getpie.com [200] [] [41] [uvicorn] [52.21.71.174] [246.673935ms] [Python,Uvicorn]
+https://blog.genspark.ai [200] [] [31189] [MainFunc.ai. Passion to innovate.] [cloudflare] [104.18.24.139] [cloudflare] [188.120799ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://staging-fast.api.getpie.com [200] [] [41] [uvicorn] [52.21.71.174] [263.756999ms] [Python,Uvicorn]
+https://ai.getpie.com [200] [] [7097] [Pie] [cloudflare] [104.21.91.198] [cloudflare] [393.367794ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://foundation.groundtech.co [200] [] [11146] [Chase] [Vercel] [216.150.16.1] [298.219575ms] [HSTS,Vercel]
+https://qa-chat.api.getpie.com [200] [] [47] [uvicorn] [18.214.169.213] [466.073219ms] [Python,Uvicorn]
+https://www.fast.api.getpie.com [200] [] [41] [uvicorn] [100.29.117.241] [271.94009ms] [Python,Uvicorn]
+https://www.staging-fast.api.getpie.com [200] [] [41] [uvicorn] [52.22.147.170] [256.551015ms] [Python,Uvicorn]
+https://www.qa-fast.api.getpie.com [200] [] [41] [uvicorn] [44.206.121.131] [263.827824ms] [Python,Uvicorn]
+https://www.groundtech.co [200] [] [26270] [Ground] [Vercel] [216.150.1.129] [86.641974ms] [HSTS,Vercel]
+https://trust.genspark.ai [200] [] [3837] [Genspark Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [753.492293ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://getpie.com [200] [] [428369] [AI Marketing Platform for Local Businesses | Pie] [Framer/fbf562e] [31.43.161.6] [152.002445ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,Linkedin Ads,React]
+https://www.genspark.ai [200] [] [157016] [Genspark - Your All-in-One AI Workspace] [cloudflare] [104.18.24.139] [cloudflare] [1.010954039s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Envoy,HSTS,HTTP/3,Node.js,Nuxt.js,Vue.js]
+
+## 301
+https://genspark.ai [301] [https://www.genspark.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.24.139] [cloudflare] [29.999262ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://login.genspark.ai [302] [https://www.genspark.ai/login] [0] [] [13.107.253.69] [53.622951ms] [Azure,Azure Front Door]
+https://monitoring.getpie.com [302] [/login] [29] [nginx/1.24.0 (Ubuntu)] [54.159.108.113] [227.277582ms] [Nginx:1.24.0,Ubuntu]
+
+## 307
+https://groundtech.co [307] [https://www.groundtech.co/] [15] [Vercel] [216.150.1.1] [41.689374ms] [HSTS,Vercel]
+https://portal.groundtech.co [307] [/login] [15] [Vercel] [216.150.16.193] [105.588177ms] [HSTS,Vercel]
+https://admin.groundtech.co [307] [/login?reason=unauthorized] [15] [Vercel] [216.150.1.193] [245.941855ms] [HSTS,Vercel]
+https://groundcontrol.groundtech.co [307] [/login?next=%2F] [15] [Vercel] [216.150.1.193] [807.355135ms] [HSTS,Vercel]
+
+## 308
+https://www.getpie.com [308] [https://getpie.com/] [55] [Framer/fbf562e] [31.43.161.6] [165.503405ms] [Framer Sites,HSTS,HTTP/3,React]
+https://docs.groundtech.co [308] [/docs/portfolio-wallets/introduction] [141037] [Vercel] [66.33.60.129] [225.351196ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+
+## 401
+https://opensearch.getpie.com [401] [] [188] [401 Authorization Required] [nginx/1.24.0 (Ubuntu)] [54.159.108.113] [233.183841ms] [Basic,Nginx:1.24.0,Ubuntu]
+https://tempo.getpie.com [401] [] [188] [401 Authorization Required] [nginx/1.24.0 (Ubuntu)] [54.159.108.113] [260.855788ms] [Basic,Nginx:1.24.0,Ubuntu]
+
+## 403
+https://marketing-cdn.getpie.com [403] [] [111] [AmazonS3] [52.85.151.43] [cloudfront] [253.211801ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://cdn2.genspark.ai [403] [] [111] [cloudflare] [104.18.24.139] [cloudflare] [271.606527ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://dev-cdn.getpie.com [403] [] [111] [AmazonS3] [65.8.180.102] [cloudfront] [294.884378ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://local-cdn.getpie.com [403] [] [111] [AmazonS3] [18.155.192.109] [cloudfront] [305.72485ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://voicecdn.getpie.com [403] [] [111] [AmazonS3] [18.155.192.67] [cloudfront] [314.366075ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://production.groundtech.co [404] [] [139] [Error] [cloudflare] [216.24.57.9] [95.63522ms] [Cloudflare,HTTP/3,Render]
+https://omaha-server.genspark.ai [404] [] [2833] [nginx/1.22.1] [35.167.107.138] [110.151331ms] [Bootstrap,Nginx:1.22.1]
+https://cdn-static.genspark.ai [404] [] [9] [cloudflare] [104.18.24.139] [cloudflare] [169.759329ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://sandbox.groundtech.co [404] [] [139] [Error] [cloudflare] [216.24.57.9] [133.843493ms] [Cloudflare,HTTP/3,Render]
+https://pay.groundtech.co [404] [] [1009] [Pay Link Not Found] [] [100.49.0.246] [258.213682ms]
+https://url2040.genspark.ai [404] [] [548] [404 Not Found] [nginx] [44.245.147.253] [106.761664ms] [Nginx]
+
+## 500
+
+## 502
+
+## 503
+
