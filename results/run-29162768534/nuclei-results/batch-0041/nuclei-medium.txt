@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://www.fast.api.getpie.com/metrics
+[prometheus-metrics] [http] [medium] https://www.qa-fast.api.getpie.com/metrics
+[prometheus-metrics] [http] [medium] https://www.staging-fast.api.getpie.com/metrics
