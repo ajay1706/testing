@@ -1,0 +1,14 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.llms.parallel.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.llms.parallel.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.tenex.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.tenex.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] static.buildwithglide.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stats.appsflyer.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] static.buildwithglide.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stats.appsflyer.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[python-metrics] [http] [low] https://staging-fast-v2.api.getpie.com/metrics
+[python-metrics] [http] [low] https://staging-fast.api.getpie.com/metrics
+[python-metrics] [http] [low] https://staging-chat.api.getpie.com/metrics
+[prometheus-metrics] [http] [medium] https://staging-fast-v2.api.getpie.com/metrics
+[prometheus-metrics] [http] [medium] https://staging-fast.api.getpie.com/metrics
+[prometheus-metrics] [http] [medium] https://staging-chat.api.getpie.com/metrics
