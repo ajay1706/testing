@@ -1,0 +1,3 @@
+[nextjs-vite-public-env:public_env] [http] [medium] https://updates.parallel.ai/subscribe [""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js""]
+[git-config] [http] [medium] https://uat.tenex.ai/.git/config
+[expired-ssl] [ssl] [low] user.checker.finance:443 ["2025-04-30 17:14:13 +0000 UTC"]
