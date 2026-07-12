@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://fast-v2.api.getpie.com/metrics
+[prometheus-metrics] [http] [medium] https://fast.api.getpie.com/metrics
