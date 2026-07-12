@@ -1,0 +1,3 @@
+[laravel-debugbar-exposure] [http] [medium] https://discover-api-dev.edvisorly.com/_debugbar/open
+[laravel-debugbar-exposure] [http] [medium] https://discover-api-gw.edvisorly.com/_debugbar/open
+[laravel-debugbar-exposure] [http] [medium] https://discover-api-stag.edvisorly.com/_debugbar/open

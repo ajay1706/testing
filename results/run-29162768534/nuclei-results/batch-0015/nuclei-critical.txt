@@ -1,0 +1,4 @@
+[CVE-2025-29927] [http] [critical] https://discover-fe-dev.edvisorly.com
+[CVE-2025-29927] [http] [critical] https://discover.edvisorly.com
+[CVE-2025-29927] [http] [critical] https://discover-fe-stag.edvisorly.com
+[config-json-exposure-fuzz] [http] [critical] https://dynamic-report-api.appsflyer.com/config.json [path="/config.json"]

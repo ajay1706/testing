@@ -1,0 +1,9 @@
+[CVE-2025-29927] [http] [critical] https://discover-fe-dev.edvisorly.com
+[CVE-2025-29927] [http] [critical] https://discover.edvisorly.com
+[CVE-2025-29927] [http] [critical] https://discover-fe-stag.edvisorly.com
+[config-json-exposure-fuzz] [http] [critical] https://dynamic-report-api.appsflyer.com/config.json [path="/config.json"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.cambrian.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.cambrian.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[laravel-debugbar-exposure] [http] [medium] https://discover-api-dev.edvisorly.com/_debugbar/open
+[laravel-debugbar-exposure] [http] [medium] https://discover-api-gw.edvisorly.com/_debugbar/open
+[laravel-debugbar-exposure] [http] [medium] https://discover-api-stag.edvisorly.com/_debugbar/open
