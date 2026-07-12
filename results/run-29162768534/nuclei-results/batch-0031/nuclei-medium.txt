@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://qa-chat.api.getpie.com/metrics
+[prometheus-metrics] [http] [medium] https://qa-fast-v2.api.getpie.com/metrics
+[prometheus-metrics] [http] [medium] https://qa-fast.api.getpie.com/metrics

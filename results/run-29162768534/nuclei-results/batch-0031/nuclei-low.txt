@@ -1,0 +1,5 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] releases.probably.dev:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] releases.probably.dev:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[python-metrics] [http] [low] https://qa-chat.api.getpie.com/metrics
+[python-metrics] [http] [low] https://qa-fast-v2.api.getpie.com/metrics
+[python-metrics] [http] [low] https://qa-fast.api.getpie.com/metrics
