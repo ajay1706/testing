@@ -1,0 +1,9 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] aml-api-rescreen.dev-platform.aws.elliptic.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] aml-api-rescreen.dev-platform.aws.elliptic.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] anthonyphc.probook.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] anthonyphc.probook.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[laravel-debugbar-exposure] [http] [medium] https://api-discovery.edvisorly.com/_debugbar/open
+[laravel-debugbar-exposure] [http] [medium] https://api-eddyai.edvisorly.com/_debugbar/open
+[laravel-debugbar-exposure] [http] [medium] https://api-university.edvisorly.com/_debugbar/open
+[kubernetes-fake-certificate] [ssl] [low] api-etsy.gcp.onprem.patronus.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-etsy.gcp.onprem.patronus.ai:443
