@@ -1,0 +1,5 @@
+[open-redirect-generic] [http] [medium] https://api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[mongodb-exporter-metrics] [http] [medium] https://api.daydream.live/metrics
+[prometheus-metrics] [http] [medium] https://api.centrifuge.io/metrics
+[prometheus-metrics] [http] [medium] https://api.daydream.live/metrics
+[CVE-2025-54793] [http] [medium] https://api.camelot.exchange//interact.sh/en//
