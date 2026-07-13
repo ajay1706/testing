@@ -1,0 +1,2 @@
+https://app.avnu.fi [307] [/en] [15] [Vercel] [216.150.16.193] [277.229431ms] [HSTS,Vercel]
+https://v1.avnu.fi [307] [/en] [15] [Vercel] [216.150.1.193] [1.496339669s] [HSTS,Vercel]
