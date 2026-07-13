@@ -1,0 +1,8 @@
+https://bridge.nillion.com [307] [https://nillion.com/] [0] [CloudFront] [18.165.83.31] [cloudfront] [55.95098ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://faucet.testnet.nillion.com [307] [https://nillion.com/] [0] [CloudFront] [18.165.83.37] [cloudfront] [59.938649ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://claims.nillion.com [307] [https://claim.nillion.com/] [15] [Vercel] [66.33.60.35] [223.350107ms] [HSTS,Vercel]
+https://mx.nillion.com [307] [https://nillion.com/] [0] [CloudFront] [18.165.83.6] [cloudfront] [127.419055ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://migrate.nillion.com [307] [https://claim.nillion.com/] [15] [Vercel] [216.150.1.193] [233.469227ms] [HSTS,Vercel]
+https://nilai.nillion.com [307] [https://developer.nillion.com/] [15] [Vercel] [216.150.16.193] [205.631784ms] [HSTS,Vercel]
+https://testnet.nillion.com [307] [https://nillion.com/] [0] [CloudFront] [18.165.83.37] [cloudfront] [128.808449ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://subscription.nillion.com [307] [https://developer.nillion.com/] [15] [Vercel] [216.150.16.193] [266.228664ms] [HSTS,Vercel]
