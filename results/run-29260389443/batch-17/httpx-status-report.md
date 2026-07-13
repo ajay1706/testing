@@ -1,0 +1,66 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:23:04 UTC 2026
+
+HTTPX lines: 38
+Live URLs: 38
+
+## 200
+https://api.usd.ai [200] [] [24] [nginx/1.24.0 (Ubuntu)] [165.227.84.122] [65.609303ms] [Nginx:1.24.0,Ubuntu]
+https://valorem.xyz [200] [] [30373] [Valorem - Pioneering On-Chain Derivatives] [GitHub.com] [185.199.108.153] [46.574301ms] [Adobe Fonts,Alpine.js,Fastly,GitHub Pages,Typekit,Varnish]
+https://pioneer.usual.money [200] [] [1211] [Become a Usual Pioneer] [Vercel] [66.33.60.67] [547.395145ms] [HSTS,Typeform,Vercel]
+https://app.valorem.xyz [200] [] [31875] [Valorem: Trade options on digital assets] [Vercel] [76.76.21.61] [320.184731ms] [HSTS,Vercel]
+https://testnet.valorem.xyz [200] [] [31875] [Valorem: Trade options on digital assets] [Vercel] [76.76.21.241] [401.123765ms] [HSTS,Vercel]
+https://www.usd.ai [200] [] [90297] [USD.AI — The Dollar That Scales AI] [Vercel] [216.150.1.129] [73.833032ms] [HSTS,Linkedin Ads,Next.js,Node.js,React,Vercel,Webpack]
+https://usd.ai [200] [] [90686] [USD.AI — The Dollar That Scales AI] [Vercel] [216.150.16.193] [111.552164ms] [HSTS,Linkedin Ads,Next.js,Node.js,React,Vercel,Webpack]
+https://app.usual.money [200] [] [131030] [Usual Interface] [Vercel] [76.76.21.142] [89.69542ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://app.usd.ai [200] [] [111027] [Buy | USD AI] [Vercel] [216.150.16.1] [148.708009ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://old.usd.ai [200] [] [170337] [USD AI] [Vercel] [216.150.16.129] [213.657626ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.usd.ai [200] [] [465375] [Welcome to USD.AI | USD.AI] [cloudflare] [172.64.147.209] [cloudflare] [228.979369ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://tech.usual.money [200] [] [443447] [Usual Tech Hub | Usual Tech Docs] [cloudflare] [172.64.147.209] [cloudflare] [228.342571ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.usual.money [200] [] [473572] [What is Usual? | Usual Docs] [cloudflare] [104.18.40.47] [cloudflare] [364.049491ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://usual.money [200] [] [1665877] [Usual Protocol] [Framer/c4751cc] [31.43.161.6] [550.034756ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React]
+
+## 301
+https://dune.usual.money [301] [https://dune.com/9992d/usual] [167] [301 Moved Permanently] [cloudflare] [104.20.43.137] [cloudflare] [36.966375ms] [Cloudflare]
+https://cmcusd0.usual.money [301] [https://coinmarketcap.com/currencies/usual-usd/] [167] [301 Moved Permanently] [cloudflare] [104.20.43.137] [cloudflare] [41.282761ms] [Cloudflare]
+https://x.usual.money [301] [https://x.com/usualmoney] [167] [301 Moved Permanently] [cloudflare] [104.20.43.137] [cloudflare] [46.400594ms] [Cloudflare]
+https://discord.usual.money [301] [https://discord.gg/tempusual] [167] [301 Moved Permanently] [cloudflare] [172.66.174.133] [cloudflare] [47.641379ms] [Cloudflare]
+https://www.valorem.xyz [301] [https://valorem.xyz/] [162] [301 Moved Permanently] [GitHub.com] [185.199.108.153] [49.62819ms] [Fastly,GitHub Pages,Varnish]
+https://galxe.usual.money [301] [https://app.galxe.com/quest/usual] [167] [301 Moved Permanently] [cloudflare] [104.20.43.137] [cloudflare] [48.980198ms] [Cloudflare]
+https://cgusd0.usual.money [301] [https://www.coingecko.com/en/coins/usual-usd] [167] [301 Moved Permanently] [cloudflare] [104.20.43.137] [cloudflare] [64.993141ms] [Cloudflare]
+https://telegram.usual.money [301] [https://t.me/UsualCommunity] [167] [301 Moved Permanently] [cloudflare] [172.66.174.133] [cloudflare] [64.720379ms] [Cloudflare]
+https://rwa.usual.money [301] [https://app.rwa.xyz/assets/USD0] [167] [301 Moved Permanently] [cloudflare] [104.20.43.137] [cloudflare] [65.086285ms] [Cloudflare]
+https://dlusd0.usual.money [301] [https://defillama.com/stablecoin/usual-usd] [167] [301 Moved Permanently] [cloudflare] [104.20.43.137] [cloudflare] [82.945368ms] [Cloudflare]
+https://blog.usual.money [301] [https://usual.money/blog] [167] [301 Moved Permanently] [cloudflare] [104.20.43.137] [cloudflare] [417.964031ms] [Cloudflare]
+https://linkedin.usual.money [301] [https://www.linkedin.com/company/usualmoney] [167] [301 Moved Permanently] [cloudflare] [104.20.43.137] [cloudflare] [547.7514ms] [Cloudflare]
+
+## 302
+https://help.usual.money [302] [https://help.usual.money/en/] [0] [cloudflare] [104.20.43.137] [cloudflare] [185.675862ms] [Cloudflare,HSTS]
+
+## 307
+https://gitbook.usual.money [307] [https://app.gitbook.com/o/qhhUYNkfevGh3Y1MDQaS/sites/site_hJWH6/] [15] [cloudflare] [172.64.147.209] [cloudflare] [126.864606ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.old.usd.ai [307] [https://old.usd.ai/] [15] [Vercel] [216.150.1.65] [355.988884ms] [HSTS,Vercel]
+
+## 308
+https://www.usual.money [308] [https://usual.money/] [56] [Framer/c4751cc] [31.43.160.6] [116.480984ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+https://helm-charts.valorem.xyz [401] [] [51] [cloudflare] [104.21.94.173] [cloudflare] [175.248566ms] [Basic,Cloudflare,HTTP/3]
+
+## 403
+
+## 404
+https://privy.usual.money [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [121.766463ms] [Cloudflare,Cloudflare Bot Management]
+https://wildcard.preview.valorem.xyz [404] [] [107] [Vercel] [66.33.60.35] [227.827427ms] [HSTS,Vercel]
+https://app-preview.valorem.xyz [404] [] [107] [Vercel] [66.33.60.129] [418.390525ms] [HSTS,Vercel]
+https://preview.valorem.xyz [404] [] [107] [Vercel] [216.198.79.65] [438.73106ms] [HSTS,Vercel]
+http://privy.borrow.usd.ai [404] [] [107] [Vercel] [216.150.1.129] [531.179052ms] [Vercel]
+
+## 500
+
+## 502
+https://api-dev.usd.ai [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [165.227.84.122] [121.447248ms] [Nginx:1.24.0,Ubuntu]
+
+## 503
+
