@@ -1,0 +1,2 @@
+http://cap.finance [301] [https://cap.io] [49] [namecheap-nginx] [162.255.119.78] [92.228777ms] [Nginx]
+http://www.cap.finance [301] [https://www.cap.io] [53] [namecheap-nginx] [162.255.119.78] [85.647138ms] [Nginx]
