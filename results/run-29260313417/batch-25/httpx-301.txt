@@ -1,0 +1,3 @@
+https://www.merchantmoe.com [301] [https://merchantmoe.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.150.31] [cloudflare] [187.160565ms] [Cloudflare,HSTS,HTTP/3]
+http://test-index.merlinchain.io [301] [https://test-index.merlinchain.io/] [665] [301 Moved Permanently] [cloudflare] [104.26.12.202] [cloudflare] [26.909859ms] [Cloudflare,Cloudflare Browser Insights]
+http://testnet-ordinals.merlinchain.io [301] [https://testnet-ordinals.merlinchain.io/] [665] [301 Moved Permanently] [cloudflare] [104.26.13.202] [cloudflare] [27.275605ms] [Cloudflare,Cloudflare Browser Insights]

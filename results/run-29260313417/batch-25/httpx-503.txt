@@ -1,0 +1,2 @@
+https://api.mendi.finance [503] [] [660] [503 Service Temporarily Unavailable] [cloudflare] [172.67.69.234] [cloudflare] [77.940638ms] [Cloudflare,Cloudflare Browser Insights]
+https://testnet-erigon-scan.merlinchain.io [503] [] [27] [cloudflare] [104.26.12.202] [cloudflare] [388.52492ms] [Cloudflare,Google Cloud,Google Cloud CDN]
