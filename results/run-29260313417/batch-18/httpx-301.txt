@@ -1,0 +1,6 @@
+https://docs.lulo.fi [301] [https://lulo.fi/docs] [167] [301 Moved Permanently] [cloudflare] [104.21.39.59] [cloudflare] [87.355781ms] [Cloudflare]
+http://staging.v2.lynex.fi [301] [https://staging.v2.lynex.fi/] [671] [301 Moved Permanently] [cloudflare] [104.26.5.37] [cloudflare] [82.535908ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://everything.m0.org [301] [https://m0.org/everything/] [0] [AmazonS3] [3.163.175.120] [cloudfront] [488.886368ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://m0.org [301] [https://www.m0.org/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [755.147963ms] [Cloudflare,HSTS,HTTP/3]
+https://webmail.lulo.fi [301] [https://webmail.eu.com] [0] [cloudflare] [104.21.39.59] [cloudflare] [838.112515ms] [Cloudflare,HTTP/3,Varnish]
+http://v2.swapper.m0.org [301] [https://v2.swapper.m0.org/] [0] [] [69.46.46.72] [59.011511ms]
