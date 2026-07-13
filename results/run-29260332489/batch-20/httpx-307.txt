@@ -1,0 +1,2 @@
+https://docs.phantom.app [307] [https://docs.phantom.com/] [15] [cloudflare] [172.64.152.29] [cloudflare] [144.437132ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Vercel]
+https://staging-auth.phantom.app [307] [/] [37] [cloudflare] [104.18.35.227] [cloudflare] [119.005097ms] [Cloudflare,Cloudflare Bot Management,Envoy,HTTP/3]
