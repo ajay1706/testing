@@ -1,0 +1,8 @@
+https://beta.rpc.mainnet.near.org [403] [] [200] [cloudflare] [104.18.31.232] [cloudflare] [58.039162ms] [Cloudflare,HTTP/3]
+https://archive-internal-rpc.testnet.near.org [403] [] [200] [cloudflare] [104.18.31.232] [cloudflare] [80.29172ms] [Cloudflare,HTTP/3]
+https://nf-archival-rpc.mainnet.near.org [403] [] [134] [403] [] [34.111.151.60] [google] [141.747528ms] [HTTP/3]
+https://rpc.mainnet.internal.near.org [403] [] [200] [cloudflare] [104.18.31.232] [cloudflare] [204.982783ms] [Cloudflare,HTTP/3]
+https://rpc.betanet.near.org [403] [] [134] [403] [] [107.178.241.0] [google] [305.089488ms] [HTTP/3]
+https://rpc.betanet.internal.near.org [403] [] [134] [403] [] [107.178.241.0] [google] [343.857445ms] [HTTP/3]
+https://rpc.testnet.internal.near.org [403] [] [200] [cloudflare] [104.18.30.232] [cloudflare] [233.122067ms] [Cloudflare,HTTP/3]
+https://v2.rpc.mainnet.near.org [403] [] [200] [cloudflare] [104.18.30.232] [cloudflare] [343.579657ms] [Cloudflare,HTTP/3]
