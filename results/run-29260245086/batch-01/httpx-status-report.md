@@ -1,0 +1,85 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:01:11 UTC 2026
+
+HTTPX lines: 58
+Live URLs: 58
+
+## 200
+https://auction-vm.beta.staging.across.to [200] [] [612] [Welcome to nginx!] [nginx/1.18.0 (Ubuntu)] [8.232.144.25] [google] [48.884868ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.18.0,Ubuntu]
+https://abracadabra.money [200] [] [1166] [abracadabra.money] [Vercel] [76.76.21.21] [40.585509ms] [HSTS,Vercel]
+https://design.across.to [200] [] [3447] [Across Design] [cloudflare] [172.67.70.25] [cloudflare] [88.565105ms] [Cloudflare,HSTS,Vercel]
+https://app.abracadabra.money [200] [] [1002] [abracadabra.money] [Vercel] [76.76.21.123] [119.294298ms] [HSTS,Vercel]
+https://preview.across.to [200] [] [3] [cloudflare] [172.67.70.25] [cloudflare] [87.623888ms] [Cloudflare,HSTS,Vercel]
+https://legacy.abracadabra.money [200] [] [775] [abracadabra.money] [Vercel] [66.33.60.194] [237.378572ms] [HSTS,Vercel]
+https://preview.testnet.across.to [200] [] [3344] [Across Protocol – Transfer Assets Between Layer 2s and Mainnet] [cloudflare] [172.67.70.25] [cloudflare] [198.427015ms] [C3.js,Cloudflare,Google Tag Manager,HSTS,Twitter,Vercel]
+https://docs.across.to [200] [] [41972] [Across Developer Documentation] [Vercel] [216.150.16.1] [57.54182ms] [HSTS,Vercel]
+https://analytics.abracadabra.money [200] [] [881] [Abracadabra Statistic] [Vercel] [76.76.21.93] [657.822577ms] [HSTS,Vercel]
+https://testnet.across.to [200] [] [3] [cloudflare] [172.67.70.25] [cloudflare] [170.378868ms] [Cloudflare,HSTS,Vercel]
+https://exclusive.docs.across.to [200] [] [42164] [Across Developer Documentation] [Vercel] [216.150.16.193] [232.203013ms] [HSTS,Vercel]
+https://v2.across.to [200] [] [3] [cloudflare] [104.26.3.12] [cloudflare] [180.873393ms] [Cloudflare,HSTS,Vercel]
+https://links.across.to [200] [] [21856] [Across | Links] [Vercel] [216.150.1.129] [432.374345ms] [HSTS,Vercel]
+https://v1.across.to [200] [] [4948] [Across - Bridge Layer 1 and Layer 2 assets] [Vercel] [76.76.21.123] [201.37002ms] [HSTS,Vercel]
+https://status.across.to [200] [] [8995] [Across Protocol - Status] [cloudflare] [104.26.3.12] [cloudflare] [379.968528ms] [Cloudflare,HSTS,Vercel]
+https://forum.across.to [200] [] [218575] [Across Protocol] [nginx] [184.105.99.75] [559.499034ms] [Discourse:2026.7.0,HSTS,Nginx,Ruby on Rails]
+https://across.to [200] [] [296225] [Across Protocol - Transfer Assets Between Layer 2s and Mainnet] [cloudflare] [172.67.70.25] [cloudflare] [80.738058ms] [Adobe Fonts,Cloudflare,Contentful,Google Tag Manager,HSTS,Typekit,Vercel]
+https://dev.abracadabra.money [200] [] [323349] [Introduction | Abracadabra Developer Docs] [cloudflare] [172.64.147.209] [cloudflare] [491.671297ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://staging.across.to [200] [] [290718] [Across Protocol - Transfer Assets Between Layer 2s and Mainnet] [Vercel] [216.150.16.129] [254.524311ms] [Adobe Fonts,Contentful,Google Tag Manager,HSTS,Typekit,Vercel]
+https://v2.staging.across.to [200] [] [290576] [Across Protocol - Transfer Assets Between Layer 2s and Mainnet] [Vercel] [216.150.1.193] [356.966108ms] [Adobe Fonts,Contentful,Google Tag Manager,HSTS,Typekit,Vercel]
+https://www.across.to [200] [] [296225] [Across Protocol - Transfer Assets Between Layer 2s and Mainnet] [cloudflare] [104.26.2.12] [cloudflare] [207.085519ms] [Adobe Fonts,Cloudflare,Contentful,Google Tag Manager,HSTS,Typekit,Vercel]
+https://legacy-docs.across.to [200] [] [606610] [Welcome to Across | Across Documentation] [cloudflare] [104.18.40.47] [cloudflare] [165.593579ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://github.abracadabra.money [301] [https://github.com/Abracadabra-money/] [166] [301 Moved Permanently] [BunnyCDN-ASB1-1310] [37.19.207.37] [28.547883ms] [Bunny]
+https://blog.abracadabra.money [301] [https://mirror.xyz/0x5744b051845B62D6f5B6Db095cc428bCbBBAc6F9] [166] [301 Moved Permanently] [BunnyCDN-ASB1-925] [37.19.207.38] [32.449567ms] [Bunny]
+https://discord.abracadabra.money [301] [https://discord.gg/wcsUNxYrFM] [166] [301 Moved Permanently] [BunnyCDN-ASB1-925] [37.19.207.38] [112.363778ms] [Bunny]
+https://discord.across.to [301] [https://discord.gg/sKSkhTtu8s] [44] [cloudflare] [104.26.2.12] [cloudflare] [145.324381ms] [Cloudflare]
+https://abstractchain.com [301] [https://www.brandbucket.com/names/abstractchain] [679] [301 Moved Permanently] [cloudflare] [104.26.0.61] [cloudflare] [387.243402ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://snapshot.abracadabra.money [301] [https://snapshot.org/#/abracadabrabymerlinthemagician.eth] [166] [301 Moved Permanently] [BunnyCDN-ASB1-925] [37.19.207.38] [176.195017ms] [Bunny]
+https://www.abstractchain.com [301] [https://www.brandbucket.com/names/abstractchain] [679] [301 Moved Permanently] [cloudflare] [104.26.1.61] [cloudflare] [520.282455ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://stickbird-staging.across.to [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=308020036798-33f84a8c4r8stsoi8t3jbjla94e22v1l.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/308020036798-33f84a8c4r8stsoi8t3jbjla94e22v1l.apps.googleusercontent.com:handleRedirect&code_challenge=rJ1ZUCKcFEoEDgx0JfA7HSRfN6ixwDYkCCwKGhadPsM&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEebTD0qXWb0eQNNvgDMhG5hIPFwdbuIPEwaXK4AbPEAo6sfcAfU4lr1pk1kFFSMN-pJAmmr2GMAjOSQP2EmW3jKQl5SpxgoTtHjSkGfbZ7mpVGjry9eVFo69ULuJ8pw2fXLIXh7nhTeaX3jtcqwvW2fsOmM3RjEUqwDUCPc3gvheNgPlVBFJjzR6dBeORWkl8gCxf3MOsYL03E5EqHrGNDiPf5UG7ZQRgTFq92JniddszOLc0TqyLHssuyEgyPgXp7Xmg7rFlR70JMELEvTYZVh1ggQo9CM0NilWSsHP3Qr20hepUChOrUfm1FCRS7cx6CE23GNOazbVjd86D-6QTt2wKHxqupzJpL8bbj6kfW9QdIesrk5N2IIcFBNm1xjDHPvHYYy6_czspTXuWTB60Bhpm-6dNZ1TolpmPQhqaDIaaVKlKBPiIl7fuV4Y7uPQEYxRVco-X7eQw__i_se9426QfdNAi-q87km-ghrAq9bx0AJHSHkGXonM3L3MkFw9C3uA7afT5a5ohTwVAbjsWKZ4pD4oYp-uEtZ6oN-m7S0yhE_N6cszEXaf76ow2y5h3UzbZjAUdcOGDu7fJA2R160nd2SQoVf91RhuAm341BflkZisF-DR3BsPmUTfTkAUyf9nyqBtBGjnJLKhyR62iqBFJZu1-0mcqKn4OqD9oZLSWjIAdm-y502F0KQbmrwxgOaWLvW-g8UawmQXwLk_X2Vm0I1a0r8AdFKviX2QPNz0hfW-tUYZiIPdSWNJjbE3yJsdOeJ21jb0aeilZO_eZzrWX3p-eEO8Xpbk24W7AqiaciPNfDQbTnkDXrsw-Fn5iHSbHAYUNxMfHz0KcwHA3544g6pFwxWIDW0c_tMXqjBodq-4FSiI-dGb6yB344vefJhYKq91TBYZp6Prl92KMphFd-cbIBzf-CyiSBaj5dpFQR-xxfc3vCF9pkCZuD875911HOGjjfrDk5qMATAUBx0cQsKHZaL6G0Vb7K7s2mSM-UqWwcdGOapfjwHW1PogBRFkPug7Lwd5sZ7RWtgU7Swb9GqQg6EHL4I95fHgYVQ7XlV9137QHXL4H5cX8a2jg0TX4-hlqid0t_A5VA6NAx6vuJZ_7tndAU97bL5pNEamw-9n1FtOuc2AVf5Gk2WviJFxPxkOOAKngOvB1wAbXnv9VJG3FL60T5vwJzySGiw] [36] [] [8.228.231.143] [google] [157.639417ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://stickbird.across.to [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=308020036798-sdufk7107l2v3sadp0bo6b0nfq8146gc.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/308020036798-sdufk7107l2v3sadp0bo6b0nfq8146gc.apps.googleusercontent.com:handleRedirect&code_challenge=7se2Xl_JzTh0n8ZlN2JcaVSuU4g6rPqZWvOtdvjX5jo&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEbnp6wP_QLDEwm2lXH75lNxE7vpx5sr2o2KgP8A2M8WNKJTD6K2u14NgfqUNHcKI8l9FAzcbH4iBxd4LreCbfF0UOgci2tQAGPFv1jlQM3iwhJl_62xW5TKxvEmLFk89xXfvZXyJgtlSbI0I9wP5rNS2yOG-UpL1mcBJsM_q9ZWH5W2ETsv_opgk6_m4fWVPiwaIY4pCs8Kh4Nvk7IVEYi1k3NpHBeOf3rD7WM19UE_kiCPadI2t6zgFYineaVRFZ6JBp4XVc81shBmsHUoNp_B8gyc4T7tz6UG_QtaHMUBcdkCLdE2h8Khk_z93Li37tssTXZm3_F_nCYS-ULzA-NaFXEM_Y3wSQDjyzNGDNqLlOIyNhE5h7iIXOuirtP5gw02vqTGeagkdvCXUM6CaKQNx1L7mqBp4eeAY2AZ_9W1OakEqTIJTI7p87YbO7xkhHeBA5N2RihjZiycz6d0k-N9K-ldcPFYBZrWGIpTvIsXYmtXNAIk4bkXhM6eVXfEZQOQABPrPqZNGS-_Gvf5ZKbPUTIqlGnw34Ylashd0MnNFgYhgFgBC80x4cxeS5RQ4tmCyQkrDc3tKFCo9oRvY7yV5p7LzzFV_RxYvlH04ySCTp-c6VehCkdJ6rQyNlLbA-8Xqjaz6-2MKB-3DC87GVq4Kwi7dN_FsTuv2TOJPPW5UN-jSx6Rem-drp97Kwf46Gy-6lEHVUV7AkSWJo9jFXOq3ITQa64O_t9vbarQaffNmrTkfKa2wyHFgiNiPchEINR-27RQ_O2VgbbSWcYZpp3WHyUYre4cTav0S_lDekOD1P_ejKIQdQ1dHAs6l-QRQwSTBwuao_PGQ32yMiqUi7DmB0RlJeYKHB5aWM-DYxtYssIc_xu3V2YMDijanYe25MIvmenniZFv03FOkrj4Y1tfc7dXzhVRsUw2deJtGWZoqDZRWPMGdt-wEdIT8J-HukMUvX6Gld83gVZPtPFRMqhxcxPKTWbjT7nqyG1XcF6PFISs6gOxPlwk8sTUaJ_HDUazQFotjv-zLcE3GiW9HZeaTJNkpqhDkSkbnF9N_tL2RucG59v0QnDmMuH-qpJzOsDDIC7NmH1vcMHrVYkoH6ECmunVrtijH5kkdBTzpKfGtffKe9nYjAvf5xUZqw77o] [36] [cloudflare] [104.26.2.12] [cloudflare] [172.221659ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://stickbird-staging-selector.across.to [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=308020036798-g94op9fv8keogf4nrrqg6uf5oantgl3i.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/308020036798-g94op9fv8keogf4nrrqg6uf5oantgl3i.apps.googleusercontent.com:handleRedirect&code_challenge=5Vcb22Gd3vgD8v3HukXBJlR4xEuhd-znWTsKbgaHxfg&code_challenge_method=S256&cred_ref=true&state=ARrt-m8ESO5DCMKfKwD7SVCHWtVRyQASzHJkPafcfeZPKjjSyrx3UjZjBIYGPhS13UDxxAerieTdjxZacedyNsj_j_YpkNQoy2kAN5R28U8W-V9AoiqceNkSVy242rTdHvajYBNkSWWqHK7q6-0fh8tc4Rmi3s06HQAxQrfVzTdyibayLqL5RX2I6eWgn9h82DEzfH2HN_K9EonC5fwR2t6nqaezgnR4NBjHrp1ji1rrxVWN86rM00IHTTNtkVCNGBJaiq1XB9A-h5qV4Q8f2PtF9zr9HVcyj-RJ0eAIIlWxkdwqBrdy-idGw3KoH_wsF8SkwjtKnljwEHRl4TbYv7TP5jkIoaIzATjIxcKaqAQZtcbzJfuFlJVnaystws22xfcW-edx0RfzE9MNbYLBHAWjdDfp9sf3mTMI4LVWnBjSoCBKHabq_sHZVBZZbSEfJTGHrXiQvcEuZjQqHfLigXxkmBU_G0zZabqT_N0qy5uv8kYAoZTIrtVUgmNI1JwTSFi8gVuI7PrI5P_iqi5lYltbsz0r1kg73hI-4GzHyRGs3e-NYmP5FTor6UhT0bvRWkykeJZ7eoM5UnbqZG0oB79pV4xmOVUYZqKMi2zaAFotFfzLwEWYsgbXOXJGfN4oaKGf4QXxBAHdbVtLOsu1CqIfDI4lE4Bd_KWrgnizcEum6NUNkYJHMveLqnk66pzhXpBNFgapTvYDKYiJ7a2YPf-XegZtbq_jlP-lVpfaxoHCEgn0L_SoRjqAJTutMrCwFgCnXpUXaKNicGSmdIJDKpXXgEOv_HGuIezmuCcDNiDZhtwFKp-ZEXYL75dHAOhldEKTsO1KCQb0uSw-4UNTkJ5O8hwMTabsWVewJpyvequM-I_pWGcC2lYZUzY0Bs_U6YP6U5f56bMlMrolv4em-k5VlciJaX26Q1Q7pL26-lTHdfUiFWrqiBLcGeucLcjC4fgFTgi4kspeXOpvkDODJgU5M2CXWYJFPiEdFWCkpKJLXzNWjqo_TyeeAuDpbxQhVUmn4su3ay09cc18prnSURlgTPasUJxoUtp2ymcMyZYccnsjnLR1BOMPH7Jj2m7S9JUoM_sIny-LoqrpeW9kMhHn-YRJuS5iX_Ea4ImySSLqyN1T2IWH3yHIPfV0LjbtUH22T2ydmdGvtN6VoYIBl3ZxBXJo2kH-dgseHObC32EErHTpHaqa20jBdQmtahlQGTxHQGoXklm_AQdKbbsPXZkwSIZjNhbu6g] [36] [] [35.244.158.171] [google] [185.030593ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+http://supply.across.to [302] [https://supply.across.to/] [0] [Google Frontend] [64.233.180.121] [google] [32.760949ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+
+## 307
+https://app.staging.across.to [307] [https://across.to/] [15] [Vercel] [216.150.16.193] [78.198377ms] [HSTS,Vercel]
+https://app.across.to [307] [https://across.to/] [15] [cloudflare] [172.67.70.25] [cloudflare] [85.185269ms] [Cloudflare,HSTS,Vercel]
+https://docs.abracadabra.money [307] [https://docs.abracadabra.money/learn/] [15] [cloudflare] [172.64.147.209] [cloudflare] [187.853953ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+https://auction.api.beta.staging.across.to [401] [] [15] [] [8.232.144.25] [google] [56.644478ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://exchange.across.to [401] [] [23] [Vercel] [216.150.16.193] [283.360662ms] [Basic,HSTS,Vercel]
+
+## 403
+https://skills.across.to [403] [] [59] [Vercel] [216.150.16.193] [131.939117ms] [Vercel]
+
+## 404
+https://dev.public.api.across.to [404] [] [63] [Google Frontend] [142.251.179.121] [google] [85.397689ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HSTS]
+https://alexandria.across.to [404] [] [79] [Vercel] [216.150.16.1] [85.97052ms] [HSTS,Vercel]
+https://dev.indexer.api.across.to [404] [] [61] [cloudflare] [104.26.3.12] [cloudflare] [110.584528ms] [Cloudflare,Express,Google Cloud,Google Cloud Trace,Node.js]
+https://indexer.api.across.to [404] [] [61] [Google Frontend] [64.233.180.121] [google] [82.858183ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://api.across.to [404] [] [63] [cloudflare] [104.26.3.12] [cloudflare] [151.993229ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://integrator.api.beta.staging.across.to [404] [] [66] [Google Frontend] [8.232.144.25] [google] [80.60036ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://indexer.across.to [404] [] [61] [Google Frontend] [142.251.179.121] [google] [111.404303ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://mcp.across.to [404] [] [9] [Google Frontend] [142.251.179.121] [google] [71.694229ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://public.api.across.to [404] [] [63] [cloudflare] [104.26.3.12] [cloudflare] [166.54291ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://mail.abracadabra.money [404] [] [13] [nginx/1.24.0 (Ubuntu)] [3.66.255.43] [425.827945ms] [Nginx:1.24.0,Ubuntu]
+https://preview.v2.across.to [404] [] [107] [Vercel] [66.33.60.34] [358.629684ms] [HSTS,Vercel]
+https://stage.auction.api.across.to [404] [] [272] [404 Page not found] [] [192.179.18.121] [google] [108.890904ms]
+http://stage.integrator.api.across.to [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [142.251.179.121] [google] [59.368342ms]
+https://vault-v-ledger.beta.staging.across.to [404] [] [0] [Google Frontend] [8.232.144.25] [google] [102.04179ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+
+## 500
+https://vault.ledger.beta.staging.across.to [500] [] [323] [500 Server Error] [Google Frontend] [8.232.144.25] [google] [143.425062ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+
+## 502
+https://dashboard.abracadabra.money [502] [] [1989] [502 Bad Gateway] [BunnyCDN-ASB1-925] [37.19.207.38] [500.30593ms] [Bunny,jQuery]
+
+## 503
+https://api.cloudrun.beta.staging.across.to [503] [] [19] [] [8.232.144.25] [google] [109.198528ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
