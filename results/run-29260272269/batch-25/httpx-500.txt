@@ -1,0 +1,2 @@
+https://sol-2z-oracle-api-v1.mainnet-beta.doublezero.xyz [500] [] [36] [] [18.206.70.184] [2.158768421s]
+https://sol-2z-oracle-api-v1.testnet.doublezero.xyz [500] [] [36] [] [3.234.115.167] [3.244900405s]
