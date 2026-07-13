@@ -1,0 +1,53 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:01:46 UTC 2026
+
+HTTPX lines: 25
+Live URLs: 25
+
+## 200
+https://app-x2.acryptos.com [200] [] [6032] [ACryptoS] [cloudflare] [172.67.168.203] [cloudflare] [125.066066ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://app.acryptos.com [200] [] [6032] [ACryptoS] [cloudflare] [104.21.46.172] [cloudflare] [121.402142ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://app-v2.acryptos.com [200] [] [1713] [ACryptoS :: Advanced Crypto Strategies] [cloudflare] [104.21.46.172] [cloudflare] [160.060428ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://app-x1.acryptos.com [200] [] [5997] [ACryptoS] [cloudflare] [172.67.168.203] [cloudflare] [149.396162ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://app3.acryptos.com [200] [] [5677] [ACryptoS :: Advanced Crypto Strategies] [cloudflare] [104.21.46.172] [cloudflare] [180.697653ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://app-legacy.acryptos.com [200] [] [5677] [ACryptoS :: Advanced Crypto Strategies] [cloudflare] [172.67.168.203] [cloudflare] [208.714574ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://app.aera.finance [200] [] [39050] [Aera Finance - Future-proof your onchain treasury] [Vercel] [66.33.60.193] [137.441856ms] [HSTS,Vercel]
+https://www.aera.finance [200] [] [68876] [Aera Finance - Future-proof your onchain treasury] [cloudflare] [18.211.166.153] [248.555553ms] [Cloudflare,Google Analytics,HSTS,HTTP/3,jQuery:3.5.1,jsDelivr]
+https://docs.acryptos.com [200] [] [391762] [Intro to ACryptoS | ACryptoS] [cloudflare] [104.18.40.47] [cloudflare] [229.90488ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.aera.finance [200] [] [409103] [Overview | Aera] [cloudflare] [172.64.147.209] [cloudflare] [131.909363ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://staging.app.aera.finance [200] [] [38723] [Aera Finance - Future-proof your onchain treasury] [Vercel] [76.76.21.93] [3.988106967s] [HSTS,Vercel]
+
+## 301
+http://app2.acryptos.com [301] [https://app2.acryptos.com/] [41] [Netlify] [98.84.224.111] [6.087533ms] [Netlify]
+https://app-core.acryptos.com [301] [https://app-legacy.acryptos.com/] [167] [301 Moved Permanently] [cloudflare] [104.21.46.172] [cloudflare] [59.641866ms] [Cloudflare]
+https://www.acryptos.com [301] [https://app.acryptos.com/about/] [671] [301 Moved Permanently] [cloudflare] [172.67.168.203] [cloudflare] [47.293315ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://acryptos.com [301] [https://app.acryptos.com/about/] [671] [301 Moved Permanently] [cloudflare] [172.67.168.203] [cloudflare] [54.579577ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://aera.finance [301] [https://www.aera.finance/] [166] [301 Moved Permanently] [] [99.83.190.102] [71.353948ms] [HSTS]
+https://app-x.acryptos.com [301] [https://app.acryptos.com/] [671] [301 Moved Permanently] [cloudflare] [172.67.168.203] [cloudflare] [94.351334ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://admin.app.aera.finance [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=716232996871-p0nqdtg4qa9tq9qtrrdt674fpk99gcpq.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/716232996871-p0nqdtg4qa9tq9qtrrdt674fpk99gcpq.apps.googleusercontent.com:handleRedirect&code_challenge=0BSnJUq2uS2JepeEC0mT99qhy9GkSTanY1nBcwkk8yQ&code_challenge_method=S256&cred_ref=true&state=ARrt-m8EIrN2NEoRJo1potPSVoD5O1aUkGo8Al3nbTmzqu4wl0a7QWMv86llCPVPALhF-o5OE_rZjZuHDqPo_SAg8alNGtIyWKofWDpt7s_FQI7GkWVDHJAYalhHXnIQojEvlbhutopeEYYjBcomTMGarYM8c7oqzjWuQFYNj1V8sVSQuHFRuisNbFEW7haKMbl4EAyb8hU5dCDJHX6Iu7WM5_goSepsu4det_Zt0biLAPDMfU750mYTAdj1Vbw-7zVVWfEePpIQF-xpl8tf-DlkYUMzADDgNzkEy_O8M3tmRRbEWXodK_YpV0eC-A-bqMq3goK1BOCarvAzhU0M_V050Hwziw37FoPKOccCliwihkZ7wn1eFeB7Yj68-i5gp9PYvN7i1V8hQatJi-_ruxYcu0Lx8Vz9fenB2dDu0TK5qL1xjJV3j2X7ysp1Yg4nvxRwDifHQvUhUSAdfBG4Z5hYny6zAfvtWg0T0a3HLrOQpvuxpk71n9yRvx-Rjmg9A4ZaQZAHLu3UpLDE25megogwhGlZslfUonZ_5B__g6O-r4V2c7gNTww3BjT6pnK8bZ0XDxpdGEOV6TyHO92vXvT4Bt77ROPEEjqa-soALepb3tDhvgePlg7jjJSDJn5wT10a5sPp1OAvtezuOODdY8li5t1Uip1whfCznigwHiNV5ZgESTbXoc6wdIBQ2hGWJ8q1zIjOJMYYt-s6UI5EBUfJdXdajTb52tj8PfMCr1Th5CC8sVL-gqkOlXLuPTqVoNaplTUluMcsNhDuiJBJD01WUY0hShrKtbaMgEMkj5dNXDdrk80IVDRO02d0nYADOqjqDL02av9PRJZdP3GXCXZObRiGA_onUTK_w7PgT24sRO2ZIt5Zp9MtrHute417dVF9U_9ra8Lmaj8uNiKxBbp7nVbdmpduZjGD6sDSFBot40dVL-yR2OExyDCIQoicH7qv6pzCsS6FsOMHPm_DyA9N7-_Y3zlGm6KKcigYcA80WtuZ9zAqUseW0N6JKcvh88OQzpp5c2UJ5ADSlzGDOyb3PLZaVFLY2B12NQmwIjMCEu8XdSSRA_m3u3l19awKr-k1dDMPOvFd3e9L1Wsub4JBBz4csqzABLGwxOKPv-dOeRifkc8j6u1pSbDog6TzUgOsEFlvDuMyy3kSpDGIXs0] [36] [] [34.117.221.135] [google] [42.092633ms] [HTTP/3]
+https://vaults.aera.finance [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=262820397500-qcsm3d1k0djmlvkkahie615cmn3uv690.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/262820397500-qcsm3d1k0djmlvkkahie615cmn3uv690.apps.googleusercontent.com:handleRedirect&code_challenge=u68neK3eTxAYg5SNdskOi4r332sFVTgqKulBL68IcCo&code_challenge_method=S256&cred_ref=true&state=AcVHNzoERews4uGd08qARUVNnYxksCqr80cU545JZg75MMbsyIH9NGVCriOmsdelh2M-rMFe1zbPIMK8LFq1qZXkssblARqKtHiIVOXpH7BgBQA1rkwH5okHSMgYlRjXgKOaaE4sxDbELyghZtOlxqsTEHmMUjRh1X_Saaf41bzbCOO1zcktznuVNRqY7eCL7QSNycbiNAv1nY_InJUsd8nj-Og4qfHmVeXnoyT8WpI_94QgfDskw7FfgqU9HVZEf2Tn-PWqkbfVgodOUg-vtn8spqYJbOWYTPX5KARSpLwB7Mim6twA9AW5FwYcxTxEGrfy9L1zk75w_3vD_atuP7d5we-7G0N1HzQBZJZIs5pLl6obnx48ExCV45yeyiMRDnjTMCe6-7-GET5F5PBGGs0FoTOksUBIzfZUiZNERaFLK9rSN1FZKJ8GQuSdSmcOKr9ZE79qRB3t2Zi4CjohAlCp7pwpcI6Xb0V9TB6-hExRKIcMfchtaadGAJPbU7rDHWtJmkQs5Uh9l3INN3aZRJYE34HfWPNslrXE-zoO4xqPRWzTVZnyvJe2P9DrDu_rJqYCY4rSXi1ktRBXWY-XUq_Mvb2EUEb1rS5FbFQQEGCZgiRHsiOqroJn9I3m8DN0Vo3azvHNrk4qO1JprfrPJDAHUdncGeh9pajWXfi2fQMasccFmS2JyXYRrc2s1zwXXXPIZL1GJlzcnXHtB1balnf0ethktiLUzSlqDNeF9EKlxx7CwXu9RQsFKH0MhSQLBFJ0gaCMESDOUoZGiKvR2PleG2vEy_vH5wmlbv2Gucpmdm0Y2C3sKg9e3iELE-Y_j_QOrTx93iQpm2ajpBeroACjmT0QbuJRxHgwFZu9L2KDlmgWBFSsXUYTsqGo0EthwzUyiy4X_wRiFPuT0C9S4Bt0KWLEENjO7dFvVK9w5BBCMeNCTOJ-JdpeV3Av3JEWWdiAgEKEFiASvsNglksRq9U1T7cKkjwQeZO2NR_nk3RSWNuXEGAbe4qT5anAbm7gqbWIQ_oJH4-KnfqrdPOw3yTLnebF3kOBBaacgu42FpYOlgKfuoixvzUH-5dVPHZ4b-74KfjpiVlxtp0hdf2XK4Fk-9C7bRIEbys4zYBH886az2doiCGEFR5K1aVOcnpsjlWZ67o] [36] [] [34.8.110.18] [google] [107.323673ms] [HTTP/3]
+https://vaults.staging.aera.finance [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=262820397500-34maudo2m5nkb5474foioloitggo2dbi.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/262820397500-34maudo2m5nkb5474foioloitggo2dbi.apps.googleusercontent.com:handleRedirect&code_challenge=nAyzxqaTiLSLv6zqRQtMi_0VhaZQWXkL-56LJd1Vs4k&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEbW-_-Qa-9Iec5MT2ntdXbs4JwyBYMfZdqdD6RyT80Jo3P3dzFWK9s_qLHJ64-ABEencFK_29anntTMKU8SdM50A3czTE5n_pgcoRphWmBnv2GQF6uuzKQpp6FqyNOD0Ji1QlqduPV8gKyY5QTxE4rr01uxyKNSvkZvFf-NbGXCkrGB05klPeYxRyTqh-pWUYvgtMuDHvkVUeiKc7b4jIEWxiYPdjRFbNf8zDGouEIRSJ5cD_YPEaLOceezQDUtqaIruWGp5TrV-lgJ-JisHSTu-m-l-3q2uEWRZi14V-cXZ4PCGZiro2vTXEwaWP-w_dy_onnDmIartjIg99DWbVPtnBH0JQWHeLLKnikF8RiTVw10K4I_s8Q1dQzO_jLBXlxE02GLW9U5EJLgSP2VjSCPrRZXg9TM_Z6514ctiGM_ZXnxEmthlUITL_Lr7y7Ls4ob3xnlSW2ZBLTLJYWzI7OPwDCzxN1SR2vP6Z6fGHBCIJW25kl-NVQdAxJ1Wk6nxfvkeDLJUAWxjOGozPes1khXqaM6qTnzdCmh3WLDE2210PzQu8lZLb6ycixHa4bUR3G5I0y3kxB7vuFKhEOldP4Ksl7dqTCu6Sv0k1TS-nLIP0d_1zmPNThJ7SEuYzBV48Zd4JMU5f0O61srQK5aX0xYE3vzwqdL28omoNRw8eNgDUFEmcBKICOnsoLYABhPOuJwF3ksxWkeMJpFjTFGhHFeo84fkrT5MvMLfypx1b3yU2viYwuHnJe91aJaIKYKRHcKK9heL54qr1dPbCK61-s7TYX5yasTfe8doIBjqa1GOqx65HYgIiMwJD0765TT6cDfGmD42Zug2N9o1hqeSCDVd4XqEn5uZ1w3QMBn45XLDMfmn329o1VbCQpSQW79nI6GqRmHL5SsUbTVx0IhnAD8iCqAc1a2btW-C98lyJbjS_VEWzY3vxcp6SS2bxlLOC3Xh1u4RwOEMgg-ZfeZXKsqa39clBk_I_Z77j5akmPFtad67yJZMn1KM4T-i3AF59bIhNxGmhIZFvZq6duO9J5vEPUrM0PQf_y8VrpoUP98AcNO9EWMDxgMDRSJT4lqZzBhCxhHmrjo5e-07Di7cS5hiVXC5lRMGGYJsqttKc-TnhCrmVA4Ngh9eef_zZU9UWc0evEFARpmDsqvt9anBkMHZcr6-mR8-4UusEGQURrA] [36] [] [34.8.64.168] [google] [112.334022ms] [HTTP/3]
+https://staging.admin.app.aera.finance [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=716232996871-k3d4vv9qtfjncbdfhu0kbiv9ucbf1grd.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/716232996871-k3d4vv9qtfjncbdfhu0kbiv9ucbf1grd.apps.googleusercontent.com:handleRedirect&code_challenge=Chv4HApzyu3E6wPy8sKe3eMORIWNeVUiP7TG-c7pKZA&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEFrozXLghkFQqg442HgPlWgwwQXzfLp7UhlE701OmAQZNj1fOAlwTiW7VIw0dwMP7hrciilkKQI5J7f6GAwTFcy6dtKTgrXc67djrYV-gnSm5huo1xmW0J6nWop7ydWUkxS3XrEgfA21DjODEjeu_qgxFtXJImRqIkmfbd-M4xuVQFswTrIGoj6sDFsQen3Kpr3w-pUCArEIM9tI2Y_fg5OXMXyL9um-pX2nAgcS1fYJfTjd9O98FYLR5qdSAwihKWB1-nmmYgzAANg0EtK7uCOg9pM43LChA4CE1MPysulFkt0R6gPuiuDqJ2V1x_o5E9ecb9yaz_o0HazFjlDUiPApKs_D9QwGXj3ErsFwKs8vkDHCNcnzACv4N3URCNPghDE46afaQ7EVTi7T2DbAs2J18hvO-p3P_mAMBGlPcOqhQbUmbZw2LHX5ycL_V_9C2eG3PXxQNKugrRuH_bTfC9ug1pFv_0__Pb32wt0HnxoDCpBfdH_RFQ6XRhiHzwer4kngelSAzbuWKW_tATfnq0hl5R9yABj--ttHRKu80JY07RaFyL7rh4GnhXgdEHJVgkrFCNEjXwHmALA_cghR1OOYgbwmy9bOlxhBOuNvsCZYWCq503gtExyNG-7b2c19LK9FcYBg90aC6-SUKSKn-uK-ze2Ycy4KRWPFV5_q6IxJBvxJD-sv8Qd0u6BUxDTygr0xs1yydg-xq3U_LeSkoEey93VntdLy-qwj3LD9NsO6skABNB6eKT7ddBaZf2sjhRUlQfZTz72xjSSwKBXhmrv9b8TmmMSMnrMK2vq2b-KLK_v0CQHhkKn5odBDj6JLNvgZtx-JE9mi0JjpY-Iyj8AgnsOD1fRc-zz8o5AMgiDsYVliAp78557zLpqpwHsapFi7bvJA6wAOiVE5gzqu-HMwTqB7uIV9nWH682KtSJajRGbdDMjfT_G6q2lsb3aHLjIRVqyg3LblUvlOHr2aMXP--Q9JWHC_KDyRQV9F0fACNb_bZn90G6xfHVZuIARTkHw2gmu9xOURxtq7sO_4cgKU_apHIFM_memeF2nmmU-NajjM9aFpTpANKdW_n5sROI6VmNqsrmPzKAE3ZClbB6mbD1HWBXnuzVYWHEwYZ3exsgV6N-xE1y0fHxSQp3N9Yb9865Kn89znwve5Z02lPZVjGLyulJ4DfW3uxXBK1Um3t1_5LLsBgPlv4iQ] [36] [] [34.120.106.122] [google] [120.089077ms] [HTTP/3]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://vote.acryptos.com [403] [] [1218] [BunnyCDN Node ASB1-925] [cloudflare] [104.21.46.172] [cloudflare] [99.717816ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 404
+https://nft-data.acryptos.com [404] [] [0] [cloudflare] [104.21.46.172] [cloudflare] [147.334515ms] [Cloudflare,HTTP/3]
+https://data-x.acryptos.com [404] [] [0] [cloudflare] [172.67.168.203] [cloudflare] [231.232758ms] [Cloudflare,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+

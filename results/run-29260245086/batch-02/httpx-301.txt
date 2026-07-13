@@ -1,0 +1,6 @@
+http://app2.acryptos.com [301] [https://app2.acryptos.com/] [41] [Netlify] [98.84.224.111] [6.087533ms] [Netlify]
+https://app-core.acryptos.com [301] [https://app-legacy.acryptos.com/] [167] [301 Moved Permanently] [cloudflare] [104.21.46.172] [cloudflare] [59.641866ms] [Cloudflare]
+https://www.acryptos.com [301] [https://app.acryptos.com/about/] [671] [301 Moved Permanently] [cloudflare] [172.67.168.203] [cloudflare] [47.293315ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://acryptos.com [301] [https://app.acryptos.com/about/] [671] [301 Moved Permanently] [cloudflare] [172.67.168.203] [cloudflare] [54.579577ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://aera.finance [301] [https://www.aera.finance/] [166] [301 Moved Permanently] [] [99.83.190.102] [71.353948ms] [HSTS]
+https://app-x.acryptos.com [301] [https://app.acryptos.com/] [671] [301 Moved Permanently] [cloudflare] [172.67.168.203] [cloudflare] [94.351334ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
