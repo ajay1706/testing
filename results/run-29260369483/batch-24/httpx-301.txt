@@ -1,0 +1,5 @@
+http://kitchen.steakhouse.financial [301] [https://kitchen.steakhouse.financial/] [0] [cloudflare] [172.64.151.232] [cloudflare] [3.166005459s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://portal.startale.com [301] [https://portal.scs.startale.com/] [0] [] [150.171.109.118] [2.053491202s] [Azure,Azure Front Door]
+http://potc-testnet-internal-001.starknet.io [301] [https://potc-testnet-internal-001.starknet.io:443/] [0] [] [34.160.15.221] [google] [3.081793142s]
+https://starknet.io [301] [https://www.starknet.io/] [349] [301 Moved Permanently] [cloudflare] [162.159.136.54] [cloudflare] [118.449395ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://sws.startale.com [301] [https://startale.com/en/scs] [113] [Google Frontend] [34.111.141.225] [google] [4.780102922s] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
