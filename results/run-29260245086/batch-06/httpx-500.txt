@@ -1,0 +1,2 @@
+https://indexer-api.explorer.bridge.alephium.org [500] [] [100] [] [34.141.176.99] [google] [452.368364ms] [HSTS]
+https://indexer-api.explorer.testnet.bridge.alephium.org [500] [] [100] [] [34.90.198.199] [google] [3.469830559s] [HSTS]
