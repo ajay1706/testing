@@ -1,0 +1,4 @@
+https://earn.portalbridge.com [301] [https://portalbridge.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.27.168] [cloudflare] [52.025704ms] [Cloudflare,HTTP/3]
+https://www.portalbridge.com [301] [https://portalbridge.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.26.168] [cloudflare] [54.666019ms] [Cloudflare,HTTP/3]
+http://prediction.market [301] [https://augur.net] [52] [ip-10-123-124-170.ec2.internal] [15.197.142.173] [11.278982ms]
+http://www.prediction.market [301] [https://augur.net] [52] [ip-10-123-124-153.ec2.internal] [3.33.152.147] [21.54927ms]
