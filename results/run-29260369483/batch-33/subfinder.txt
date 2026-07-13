@@ -1,0 +1,15 @@
+api.syncswap.xyz
+chdb.syncswap.xyz
+dl.syncswap.xyz
+docs.syncswap.xyz
+graph1.syncswap.xyz
+greenfield.syncswap.xyz
+info.syncswap.xyz
+ipfs.syncswap.xyz
+sophon-staging.syncswap.xyz
+sophon.syncswap.xyz
+staging-testing.syncswap.xyz
+staging.syncswap.xyz
+testnet-info.syncswap.xyz
+tokens.syncswap.xyz
+www.syncswap.xyz
