@@ -1,0 +1,4 @@
+https://docs.dydx.trade [301] [https://docs.dydx.xyz] [665] [301 Moved Permanently] [cloudflare] [172.66.166.30] [cloudflare] [76.704755ms] [Cloudflare,Cloudflare Browser Insights]
+https://app.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [172.66.166.30] [cloudflare] [202.801418ms] [Cloudflare,HSTS,Vercel]
+https://gov.dymension.xyz [301] [https://forum.dymension.xyz/] [0] [cloudflare] [172.66.148.17] [cloudflare] [422.071671ms] [Cloudflare]
+https://www.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [104.20.40.161] [cloudflare] [641.545524ms] [Cloudflare,HSTS,Vercel]
