@@ -1,0 +1,4 @@
+https://api.safe.global [403] [] [43] [CloudFront] [3.167.69.106] [cloudfront] [30.926084ms] [Amazon CloudFront,Amazon Web Services]
+https://claim.airdrop.saga.xyz [403] [] [1352] [Saga Airdrops - Region Restricted] [cloudflare] [104.26.1.108] [cloudflare] [96.691261ms] [Cloudflare]
+https://safe-transaction-assets.safe.global [403] [] [111] [AmazonS3] [13.226.238.129] [cloudfront] [325.722704ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://flower-transaction.staging.safe.saga.xyz [403] [] [146] [403 Forbidden] [] [95.217.175.239] [518.538106ms] [HSTS]
