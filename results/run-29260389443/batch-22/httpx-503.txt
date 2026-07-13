@@ -1,0 +1,2 @@
+https://staging.wl-push.walletconnect.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [18.158.165.38] [2.446633136s] [Amazon ELB,Amazon Web Services]
+https://test-automation-api.walletconnect.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [3.143.192.207] [4.111099352s] [Amazon ELB,Amazon Web Services]
