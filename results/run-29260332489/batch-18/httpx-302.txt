@@ -1,0 +1,2 @@
+https://auth0.standard.paxos.com [302] [https://standard.paxos.com/] [49] [cloudflare] [172.64.150.238] [cloudflare] [191.757099ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://vpn.paxos.com [302] [/global-protect/login.esp] [173] [] [204.174.31.170] [363.30607ms] [HSTS]
