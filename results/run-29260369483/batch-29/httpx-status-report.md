@@ -1,0 +1,96 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:38:59 UTC 2026
+
+HTTPX lines: 74
+Live URLs: 74
+
+## 200
+https://info.superform.xyz [200] [] [4207] [SuperVaults] [Heroku] [75.2.60.68] [280.187433ms]
+https://persephone-staging.superform.xyz [200] [] [15] [] [51.44.87.197] [835.042954ms]
+https://comms.superform.xyz [200] [] [12112] [Superform Communications] [cloudflare] [172.66.43.101] [cloudflare] [361.439138ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://persephone.superform.xyz [200] [] [15] [] [16.63.104.32] [926.72541ms]
+https://careers.superform.xyz [200] [] [8513] [Jobs at Superform] [cloudflare] [172.66.40.155] [cloudflare] [362.566846ms] [Cloudflare,Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus,Unpkg,reCAPTCHA]
+https://superman.superform.xyz [200] [] [1126] [uvicorn] [13.63.195.58] [1.049835411s] [Python,Uvicorn]
+https://waitlist.superform.xyz [200] [] [23471] [Superform | Android Waitlist] [Vercel] [216.150.1.1] [313.818361ms] [HSTS,Vercel]
+https://managers.superform.xyz [200] [] [13826] [Superman - Vault Manager Dashboard] [Vercel] [216.150.1.193] [260.295298ms] [HSTS,Vercel]
+https://www.superform.xyz [200] [] [22536] [Superform | App and OS] [cloudflare] [172.66.40.155] [cloudflare] [150.114817ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://scan.superform.xyz [200] [] [31113] [SuperScan | Superform Cross-Chain Explorer] [cloudflare] [172.66.43.101] [cloudflare] [268.140533ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://xpcalc.superform.xyz [200] [] [43304] [XP Calculator] [cloudflare] [172.66.40.155] [cloudflare] [230.269613ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://mini.superform.xyz [200] [] [68777] [Superform: Earn more] [Vercel] [216.150.1.129] [523.353462ms] [C3.js,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://blog.superform.xyz [200] [] [143588] [Superform - The user-owned neobank] [cloudflare] [172.66.43.101] [cloudflare] [105.201859ms] [Cloudflare,Gutenberg,HSTS,HTTP/3,Jetpack,MySQL,PHP,WordPress,WordPress Block Editor,WordPress Site Editor,WordPress.com]
+https://api.superform.xyz [200] [] [89] [cloudflare] [172.66.40.155] [cloudflare] [2.41067043s] [Cloudflare,HTTP/3]
+https://unsupportedtokens.superform.xyz [200] [] [194233] [Superform Unsupported Tokens] [cloudflare] [172.66.43.101] [cloudflare] [142.592188ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://institutions.superform.xyz [200] [] [66419] [SuperformOS] [Vercel] [216.150.1.1] [436.331376ms] [C3.js,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://os.superform.xyz [200] [] [66419] [SuperformOS] [Vercel] [216.150.1.193] [391.168358ms] [C3.js,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://access.superform.xyz [200] [] [100744] [Superform | Download Superform] [Vercel] [216.150.16.129] [249.718ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://status.superform.xyz [200] [] [111331] [Superform App Status Page Status] [Vercel] [76.76.21.164] [992.690274ms] [HSTS,Vercel,dc.js]
+https://legacy.superform.xyz [200] [] [170839] [Superform | Explore] [Vercel] [216.150.1.193] [646.651695ms] [HSTS,Vercel]
+https://transparency.superform.xyz [200] [] [172512] [Transparency | Superform] [cloudflare] [172.66.43.101] [cloudflare] [1.48760248s] [Cloudflare,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.superform.xyz [200] [] [249370] [What is Superform? - Superform] [Vercel] [66.33.60.193] [230.243252ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://app.superform.xyz [200] [] [902243] [Superform V2: Earn | Grow Your Onchain Wealth] [Vercel] [216.150.16.1] [122.626151ms] [HSTS,Vercel]
+
+## 301
+https://rewards.superform.xyz [301] [https://v2.superform.xyz/rewards] [167] [301 Moved Permanently] [cloudflare] [172.66.40.155] [cloudflare] [54.134376ms] [Cloudflare,HTTP/3]
+https://curators.superform.xyz [301] [https://institutions.superform.xyz/] [15] [Vercel] [216.150.1.193] [212.920666ms] [HSTS,Vercel]
+https://v2.superform.xyz [301] [https://app.superform.xyz/] [15] [Vercel] [216.150.16.129] [82.850837ms] [HSTS,Vercel]
+http://www.blog.superform.xyz [301] [https://www.blog.superform.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.155] [cloudflare] [102.929992ms] [Cloudflare,HTTP/3]
+
+## 302
+https://api.dev.superstate.co [302] [https://api.dev.superstate.com/] [143] [302 Found] [cloudflare] [104.26.15.189] [cloudflare] [44.997775ms] [Cloudflare]
+https://dev.superstate.co [302] [https://dev.superstate.com/] [143] [302 Found] [cloudflare] [104.26.14.189] [cloudflare] [51.109924ms] [Cloudflare]
+https://api.staging.superstate.co [302] [https://api.staging.superstate.com/] [143] [302 Found] [cloudflare] [172.67.69.45] [cloudflare] [54.423714ms] [Cloudflare]
+https://api.devddx.superstate.co [302] [https://api.devddx.superstate.com/] [143] [302 Found] [cloudflare] [104.26.15.189] [cloudflare] [70.056386ms] [Cloudflare]
+https://docs.superstate.co [302] [https://docs.superstate.com/] [143] [302 Found] [cloudflare] [104.26.15.189] [cloudflare] [72.745397ms] [Cloudflare]
+https://devddx.superstate.co [302] [https://devddx.superstate.com/] [143] [302 Found] [cloudflare] [172.67.69.45] [cloudflare] [75.646162ms] [Cloudflare]
+https://apidocs.superform.xyz [302] [/docs] [27] [cloudflare] [104.16.241.118] [cloudflare] [122.548202ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://staging.superstate.co [302] [https://staging.superstate.com/] [143] [302 Found] [cloudflare] [104.26.14.189] [cloudflare] [56.100034ms] [Cloudflare]
+https://help.superform.xyz [302] [https://help.superform.xyz/en/] [0] [cloudflare] [172.66.40.155] [cloudflare] [152.822134ms] [Cloudflare,HTTP/3]
+https://feedback.superform.xyz [302] [https://superform.canny.io/] [0] [cloudflare] [172.66.43.101] [cloudflare] [191.553814ms] [Cloudflare,HSTS,HTTP/3]
+https://superstate.co [302] [https://superstate.com/] [143] [302 Found] [cloudflare] [104.26.14.189] [cloudflare] [74.826709ms] [Cloudflare]
+https://www.superstate.co [302] [https://www.superstate.com/] [143] [302 Found] [cloudflare] [172.67.69.45] [cloudflare] [292.704015ms] [Cloudflare]
+
+## 307
+https://superform.xyz [307] [https://www.superform.xyz/] [15] [cloudflare] [172.66.43.101] [cloudflare] [132.473695ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://rd1.superform.xyz [307] [https://waitlist.superform.xyz/] [15] [cloudflare] [172.66.40.155] [cloudflare] [190.373054ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+https://42161.superform.xyz [401] [] [72] [cloudflare] [172.66.43.101] [cloudflare] [70.942912ms] [Cloudflare,HTTP/3]
+https://8453.superform.xyz [401] [] [79] [cloudflare] [172.66.43.101] [cloudflare] [95.293089ms] [Cloudflare,HTTP/3]
+https://137.superform.xyz [401] [] [71] [cloudflare] [172.66.43.101] [cloudflare] [112.127809ms] [Cloudflare,HTTP/3]
+https://56.superform.xyz [401] [] [73] [cloudflare] [172.66.40.155] [cloudflare] [121.728729ms] [Cloudflare,HTTP/3]
+https://10.superform.xyz [401] [] [81] [cloudflare] [172.66.43.101] [cloudflare] [124.749543ms] [Cloudflare,HTTP/3]
+https://1101.superform.xyz [401] [] [74] [cloudflare] [172.66.43.101] [cloudflare] [126.669951ms] [Cloudflare,HTTP/3]
+https://43114.superform.xyz [401] [] [74] [cloudflare] [172.66.43.101] [cloudflare] [128.290496ms] [Cloudflare,HTTP/3]
+https://59114.superform.xyz [401] [] [75] [cloudflare] [172.66.43.101] [cloudflare] [145.818865ms] [Cloudflare,HTTP/3]
+https://81457.superform.xyz [401] [] [75] [cloudflare] [172.66.43.101] [cloudflare] [151.541212ms] [Cloudflare,HTTP/3]
+https://100.superform.xyz [401] [] [75] [cloudflare] [172.66.43.101] [cloudflare] [163.139945ms] [Cloudflare,HTTP/3]
+https://1.superform.xyz [401] [] [71] [cloudflare] [172.66.43.101] [cloudflare] [180.594139ms] [Cloudflare,HTTP/3]
+https://250.superform.xyz [401] [] [78] [cloudflare] [172.66.40.155] [cloudflare] [187.566109ms] [Cloudflare,HTTP/3]
+https://managers-dev.superform.xyz [401] [] [13927] [Authentication Required] [Vercel] [216.150.1.193] [223.938399ms] [HSTS,Vercel]
+https://staging.superform.xyz [401] [] [13922] [Authentication Required] [Vercel] [216.150.16.129] [167.136874ms] [HSTS,Vercel]
+https://passkey.app.superform.xyz [401] [] [13926] [Authentication Required] [Vercel] [216.150.16.1] [402.728856ms] [HSTS,Vercel]
+https://staging.bundler.superform.xyz [401] [] [20] [] [3.253.201.96] [813.414225ms]
+https://bundler.superform.xyz [401] [] [20] [] [108.132.175.185] [896.452684ms]
+
+## 403
+
+## 404
+https://mta-sts.superstate.co [404] [] [9] [cloudflare] [104.26.14.189] [cloudflare] [68.713129ms] [Cloudflare]
+https://dynamic-staging-cookies.superform.xyz [404] [] [40] [cloudflare] [172.66.43.101] [cloudflare] [74.135037ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://api.superstate.co [404] [] [9] [cloudflare] [104.26.14.189] [cloudflare] [382.648572ms] [Cloudflare]
+https://pricing.superform.xyz [404] [] [22] [cloudflare] [172.66.40.155] [cloudflare] [311.055779ms] [Cloudflare,HTTP/3]
+https://pricing-dev.superform.xyz [404] [] [22] [cloudflare] [172.66.40.155] [cloudflare] [343.448413ms] [Cloudflare,HTTP/3]
+https://v2-growth-tools.superform.xyz [404] [] [207] [404 Not Found] [cloudflare] [172.66.40.155] [cloudflare] [258.796574ms] [Cloudflare,HTTP/3]
+https://tracking.superform.xyz [404] [] [22] [cloudflare] [172.66.43.101] [cloudflare] [322.744718ms] [Cloudflare,HTTP/3]
+https://tracking-dev.superform.xyz [404] [] [22] [cloudflare] [172.66.40.155] [cloudflare] [399.034087ms] [Cloudflare,HTTP/3]
+
+## 500
+
+## 502
+https://ipfs-gateway.superform.xyz [502] [] [16] [cloudflare] [172.66.40.155] [cloudflare] [162.900437ms] [Cloudflare,HTTP/3]
+
+## 503
+
