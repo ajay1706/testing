@@ -1,0 +1,5 @@
+https://link.zapper.xyz [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=link.zapper.xyz] [113] [nginx] [67.199.248.12] [61.571558ms] [HSTS,HTTP/3,Nginx]
+https://tv.zapper.xyz [302] [https://www.youtube.com/channel/UCYq3ZxBx7P2ckJyWVDC597g] [79] [] [45.55.126.223] [72.860712ms]
+https://features.zapper.xyz [302] [https://zapper.canny.io/] [0] [] [44.214.112.154] [115.43722ms] [HSTS]
+https://translate.zapper.xyz [302] [https://crowdin.com/project/zapperfi] [0] [Caddy] [44.223.149.160] [187.823352ms] [Caddy]
+https://help.zapper.xyz [302] [https://help.zapper.xyz/hc] [0] [cloudflare] [216.198.54.6] [215.117657ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]

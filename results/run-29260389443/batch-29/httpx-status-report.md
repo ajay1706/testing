@@ -1,0 +1,80 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:36:48 UTC 2026
+
+HTTPX lines: 53
+Live URLs: 53
+
+## 200
+https://api.zapper.xyz [200] [] [1013] [cloudflare] [104.20.31.50] [cloudflare] [115.160326ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HTTP/3]
+https://images.zapper.xyz [200] [] [1013] [cloudflare] [104.20.31.50] [cloudflare] [145.681998ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HTTP/3]
+https://account.zapper.xyz [200] [] [1118] [Zapper] [cloudflare] [172.66.172.189] [cloudflare] [317.051696ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://admin.zapper.xyz [200] [] [23353] [cloudflare] [104.20.31.50] [cloudflare] [243.720519ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://research.yuzu.money [200] [] [49567] [Yuzu Research] [Vercel] [66.33.60.34] [80.800706ms] [HSTS,Vercel]
+https://zapper.xyz [200] [] [50140] [cloudflare] [104.20.31.50] [cloudflare] [125.570475ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://beta.zapper.xyz [200] [] [50140] [cloudflare] [172.66.172.189] [cloudflare] [288.642286ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://pushgateway.yuzu.money [200] [] [10094] [Prometheus Pushgateway] [nginx] [35.186.145.103] [google] [828.451213ms] [Bootstrap:4.3.1,Glyphicons,HSTS,Nginx,jQuery:3.7.1]
+https://chainchat.zapper.xyz [200] [] [50140] [cloudflare] [104.20.31.50] [cloudflare] [353.539601ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://vpn.yuzu.money [200] [] [8558] [Sign In] [nginx/1.29.2] [34.124.250.6] [google] [1.276458896s] [HSTS,Nginx:1.29.2]
+https://app.yuzu.money [200] [] [59755] [Yuzu Money - Overview] [cloudflare] [172.67.157.148] [cloudflare] [792.805601ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HTTP/3]
+https://build.zapper.xyz [200] [] [133382] [Zapper - Blockchain Data API] [cloudflare] [172.66.172.189] [cloudflare] [103.025086ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.9.2,Google Analytics,HSTS,HTTP/3,React,Vercel,Webpack]
+https://status.zapper.xyz [200] [] [249672] [Zapper API Status] [cloudflare] [172.66.172.189] [cloudflare] [709.134249ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://yuzu.money [200] [] [208057] [Yuzu Money - Institutional-Grade Yield Infrastructure] [cloudflare] [104.21.40.232] [cloudflare] [389.731932ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HTTP/3]
+https://www.yuzu.money [200] [] [208057] [Yuzu Money - Institutional-Grade Yield Infrastructure] [cloudflare] [104.21.40.232] [cloudflare] [418.306084ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HTTP/3]
+https://dev.yuzu.money [200] [] [213219] [Yuzu Money - Institutional-Grade Yield Infrastructure] [cloudflare] [172.67.157.148] [cloudflare] [3.160877636s] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 301
+
+## 302
+https://link.zapper.xyz [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=link.zapper.xyz] [113] [nginx] [67.199.248.12] [61.571558ms] [HSTS,HTTP/3,Nginx]
+https://tv.zapper.xyz [302] [https://www.youtube.com/channel/UCYq3ZxBx7P2ckJyWVDC597g] [79] [] [45.55.126.223] [72.860712ms]
+https://features.zapper.xyz [302] [https://zapper.canny.io/] [0] [] [44.214.112.154] [115.43722ms] [HSTS]
+https://translate.zapper.xyz [302] [https://crowdin.com/project/zapperfi] [0] [Caddy] [44.223.149.160] [187.823352ms] [Caddy]
+https://help.zapper.xyz [302] [https://help.zapper.xyz/hc] [0] [cloudflare] [216.198.54.6] [215.117657ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+
+## 307
+https://blog.zapper.xyz [307] [https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fblog.zapper.xyz%2F] [119] [cloudflare] [104.20.31.50] [cloudflare] [73.455738ms] [Cloudflare,Envoy,HSTS,HTTP/3]
+https://www.zapper.xyz [307] [https://zapper.xyz/] [15] [cloudflare] [172.66.172.189] [cloudflare] [102.631224ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://protocol.zapper.xyz [307] [https://build.zapper.xyz/] [15] [cloudflare] [104.20.31.50] [cloudflare] [105.52132ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://studio.zapper.xyz [308] [https://protocol.zapper.xyz] [15] [cloudflare] [104.20.31.50] [cloudflare] [106.695552ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://docs.zapper.xyz [308] [https://studio.zapper.xyz/] [15] [cloudflare] [172.66.172.189] [cloudflare] [260.818889ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+https://btse-dev.yuzu.money [401] [] [30] [cloudflare] [172.67.157.148] [cloudflare] [1.127297435s] [Cloudflare,HSTS,HTTP/3]
+
+## 403
+https://ipfs.zapper.xyz [403] [] [5330] [Attention Required! | Cloudflare] [cloudflare] [172.66.172.189] [cloudflare] [59.544587ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://grafana.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [759.241017ms] [HSTS,Nginx]
+https://defi-asynqmon-prod.yuzu.money [403] [] [548] [403 Forbidden] [nginx] [35.186.145.103] [google] [770.612828ms] [HSTS,Nginx]
+https://workflows.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [789.599539ms] [HSTS,Nginx]
+https://encrypt.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [793.274486ms] [HSTS,Nginx]
+https://pmm.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [828.864673ms] [HSTS,Nginx]
+https://prometheus.yuzu.money [403] [] [548] [403 Forbidden] [nginx] [35.186.145.103] [google] [838.770073ms] [HSTS,Nginx]
+https://yuzu-asynqmon-prod.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [802.906901ms] [HSTS,Nginx]
+https://dbi.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [879.180435ms] [HSTS,Nginx]
+https://ops-devops.yuzu.money [403] [] [548] [403 Forbidden] [nginx] [35.186.145.103] [google] [906.678542ms] [HSTS,Nginx]
+https://pga.yuzu.money [403] [] [146] [403 Forbidden] [nginx] [35.186.145.103] [google] [1.07680844s] [HSTS,Nginx]
+
+## 404
+https://wallet-proxy.zapper.xyz [404] [] [0] [cloudflare] [172.66.172.189] [cloudflare] [170.881594ms] [Cloudflare,Google Cloud,Google Cloud Trace,HTTP/3]
+https://api-dev.yuzu.money [404] [] [776] [404 Page not found] [cloudflare] [172.67.157.148] [cloudflare] [369.841787ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://partner.zapper.xyz [404] [] [107] [cloudflare] [172.66.172.189] [cloudflare] [450.690553ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://inquiries.zapper.xyz [404] [] [107] [cloudflare] [172.66.172.189] [cloudflare] [521.596846ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://assets.yuzu.money [404] [] [27654] [Not Found] [cloudflare] [172.67.157.148] [cloudflare] [907.316654ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://assets-r2.yuzu.money [404] [] [27654] [Not Found] [cloudflare] [172.67.157.148] [cloudflare] [907.086224ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://assets-dev.yuzu.money [404] [] [27654] [Not Found] [cloudflare] [104.21.40.232] [cloudflare] [953.03707ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://assets-dev-r2.yuzu.money [404] [] [27654] [Not Found] [cloudflare] [172.67.157.148] [cloudflare] [941.366679ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 500
+
+## 502
+https://sse.zapper.xyz [502] [] [332] [502 Server Error] [] [34.117.202.4] [google] [105.604408ms] [HTTP/3]
+
+## 503
+http://k3s-devops.yuzu.money [503] [] [190] [503 Service Temporarily Unavailable] [nginx] [35.186.145.103] [google] [514.368708ms] [Nginx]
+http://vpn1.yuzu.money [503] [] [190] [503 Service Temporarily Unavailable] [nginx] [35.186.145.103] [google] [531.628703ms] [Nginx]
+http://vaultwarden.yuzu.money [503] [] [592] [503 Service Temporarily Unavailable] [nginx] [35.186.145.103] [google] [531.60926ms] [Nginx]
+http://sso-devops.yuzu.money [503] [] [190] [503 Service Temporarily Unavailable] [nginx] [35.186.145.103] [google] [587.359684ms] [Nginx]
+
