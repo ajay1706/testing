@@ -1,0 +1,5 @@
+https://beta.trade.polynomial.fi [500] [] [1771] [fetch failed] [cloudflare] [172.66.43.188] [cloudflare] [2.766509686s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Netlify]
+https://green.polygon.technology [500] [] [186] [500 Internal Server Error] [cloudflare] [104.18.41.110] [cloudflare] [1.640812117s] [Cloudflare,HSTS]
+https://limit-order-v2-ui.trade.polynomial.fi [500] [] [1771] [fetch failed] [cloudflare] [172.66.40.68] [cloudflare] [4.935937043s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Netlify]
+https://referral-prod-api.polynomial.fi [500] [] [0] [cloudflare] [172.66.43.188] [cloudflare] [1.326372345s] [Cloudflare,HTTP/3]
+https://referral-stage-api.polynomial.fi [500] [] [0] [cloudflare] [172.66.40.68] [cloudflare] [5.271536715s] [Cloudflare,HTTP/3]

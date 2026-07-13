@@ -1,0 +1,3 @@
+https://bon-indexer-wss.multiversx.com [503] [] [190] [503 Service Temporarily Unavailable] [] [145.239.193.253] [515.00431ms] [HSTS]
+https://cia.multiversx.com [503] [] [190] [503 Service Temporarily Unavailable] [] [145.239.193.253] [499.205972ms] [HSTS]
+https://testnet-play-api.multiversx.com [503] [] [688] [503 Service Temporarily Unavailable] [cloudflare] [104.20.18.64] [cloudflare] [3.70708997s] [Cloudflare,Cloudflare Browser Insights,HSTS]

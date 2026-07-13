@@ -1,0 +1,5 @@
+https://api.polynomial.fi [403] [] [840] [cloudflare] [172.66.40.68] [cloudflare] [1.020550066s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://faucet.polygon.technology [403] [] [5586] [Just a moment...] [cloudflare] [104.18.41.110] [cloudflare] [2.087166398s] [Cloudflare,HSTS]
+https://login.polygon.technology [403] [] [167] [CloudFront] [65.8.20.105] [cloudfront] [3.173539954s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://login.staging.polygon.technology [403] [] [167] [CloudFront] [65.8.20.105] [cloudfront] [6.295704398s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://login.development.polygon.technology [403] [] [167] [CloudFront] [65.8.20.99] [cloudfront] [6.876293373s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
