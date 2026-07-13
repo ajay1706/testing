@@ -1,0 +1,1 @@
+http://api-bnm.dev.edgevana.com [502] [] [524] [502 Bad Gateway] [awselb/2.0] [52.71.201.237] [4.705676ms] [Amazon ELB,Amazon Web Services]
