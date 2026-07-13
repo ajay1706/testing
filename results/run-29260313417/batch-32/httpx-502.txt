@@ -1,0 +1,2 @@
+https://beta.blue-api.morpho.org [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [18.160.213.40] [cloudfront] [2.07211454s] [Amazon CloudFront,Amazon Web Services]
+https://beta.app.morpho.org [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [13.227.87.18] [cloudfront] [6.526579159s] [Amazon CloudFront,Amazon Web Services,HSTS]
