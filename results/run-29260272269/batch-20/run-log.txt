@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jul 13 15:23:09 UTC 2026
+[+] Run ID: 29260272269
+[+] Batch name: batch-20
+[+] Batch targets:
+defillama.com
+defisaver.com
+defituna.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jul 13 15:24:15 UTC 2026
+[+] HTTPX input count: 101
+[+] Running httpx...
+[+] httpx completed: Mon Jul 13 15:24:33 UTC 2026
+[+] httpx line count: 62
+[+] Batch completed: Mon Jul 13 15:24:33 UTC 2026
