@@ -1,0 +1,2 @@
+https://app.vela.exchange [301] [https://app.vela.exchange/] [0] [cloudflare] [104.21.5.247] [cloudflare] [137.945427ms] [Cloudflare,HTTP/3]
+https://www.vela.exchange [301] [https://www.vela.exchange/] [0] [cloudflare] [172.67.134.15] [cloudflare] [292.438307ms] [Cloudflare,HTTP/3]
