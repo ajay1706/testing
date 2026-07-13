@@ -1,0 +1,4 @@
+https://beta.spectra.finance [308] [https://app.spectra.finance/] [15] [Vercel] [66.33.60.130] [178.110211ms] [HSTS,Vercel]
+https://spectra.finance [308] [https://www.spectra.finance/] [15] [Vercel] [76.76.21.21] [194.146207ms] [HSTS,Vercel]
+https://www.spherepay.co [308] [https://spherepay.co] [20] [Google Frontend] [64.233.180.121] [google] [424.461126ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://docs.spherepay.co [308] [/introduction] [227038] [cloudflare] [104.18.3.204] [cloudflare] [313.513656ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
