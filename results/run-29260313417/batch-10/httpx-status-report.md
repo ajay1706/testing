@@ -1,0 +1,77 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:12:20 UTC 2026
+
+HTTPX lines: 53
+Live URLs: 53
+
+## 200
+https://bridge.level.finance [200] [] [3159] [Bridge - Level] [Vercel] [76.76.21.98] [71.444906ms] [Google Analytics,HSTS,Vercel]
+https://api.lens.xyz [200] [] [506] [cloudflare] [104.26.13.28] [cloudflare] [111.581894ms] [Cloudflare]
+https://explorer.testnet.lens.xyz [200] [] [2197] [Lens Network Block Explorer] [cloudflare] [172.67.69.164] [cloudflare] [148.772953ms] [Cloudflare,HSTS,Vercel]
+https://app.lendle.xyz [200] [] [21991] [Lendle.xyz | Lend and borrow cryptocurrencies with Lendle] [Vercel] [216.150.1.1] [104.170853ms] [HSTS,Vercel]
+https://api.testnet.lens.xyz [200] [] [514] [cloudflare] [104.26.12.28] [cloudflare] [335.857802ms] [Cloudflare]
+https://api.staging.lens.xyz [200] [] [514] [cloudflare] [104.26.13.28] [cloudflare] [336.922984ms] [Cloudflare]
+https://app.level.finance [200] [] [3551] [Level - Decentralized Perpetual Exchange] [Vercel] [66.33.60.193] [265.01101ms] [Google Analytics,HSTS,Vercel]
+https://developer.lens.xyz [200] [] [30337] [Lens Developer Dashboard] [cloudflare] [104.26.12.28] [cloudflare] [91.343256ms] [Cloudflare,HSTS,Vercel]
+https://defiunited.lens.xyz [200] [] [8638] [I Was There When DeFi United] [Vercel] [216.150.1.129] [244.023112ms] [HSTS,Vercel]
+https://level.finance [200] [] [2755] [Level - Decentralized Perpetual Exchange] [Vercel] [76.76.21.21] [136.02782ms] [HSTS,Vercel]
+https://lendle.xyz [200] [] [21991] [Lendle.xyz | Lend and borrow cryptocurrencies with Lendle] [Vercel] [216.150.1.1] [176.592444ms] [HSTS,Vercel]
+https://explorer.lens.xyz [200] [] [77047] [Lens Chain Mainnet blockchain explorer - View Lens Chain Mainnet stats | Blockscout] [cloudflare] [104.26.13.28] [cloudflare] [726.487206ms] [Cloudflare,Next.js,Node.js,React,Webpack]
+https://explorer-next.lens.xyz [200] [] [77047] [Lens Chain Mainnet blockchain explorer - View Lens Chain Mainnet stats | Blockscout] [cloudflare] [104.26.12.28] [cloudflare] [807.625405ms] [Cloudflare,Next.js,Node.js,React,Webpack]
+https://login.staging.lens.xyz [200] [] [6401] [Lens ID] [cloudflare] [104.26.12.28] [cloudflare] [633.721761ms] [Cloudflare,HSTS,Vercel]
+https://support.level.finance [200] [] [57117] [Home | LEVEL Help Center] [] [3.222.127.200] [635.952292ms] [HTTP/3]
+https://onboarding.lens.xyz [200] [] [168370] [Lens] [cloudflare] [104.26.12.28] [cloudflare] [120.376759ms] [Cloudflare,HSTS,Vercel]
+https://docs.lendle.xyz [200] [] [315902] [Introduction | Lendle.xyz] [cloudflare] [104.18.40.47] [cloudflare] [134.096313ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://lens.xyz [200] [] [222664] [Lens] [cloudflare] [172.67.69.164] [cloudflare] [190.49587ms] [Cloudflare,HSTS,Vercel]
+https://docs.level.finance [200] [] [408647] [Introduction | Level Finance] [cloudflare] [104.18.40.47] [cloudflare] [128.960948ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://newsletter.level.finance [200] [] [293950] [LEVEL Newsletter] [cloudflare] [104.16.23.120] [cloudflare] [1.270716782s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+
+## 301
+https://docs.lens.xyz [301] [https://lens.xyz/docs] [167] [301 Moved Permanently] [cloudflare] [172.67.69.164] [cloudflare] [44.497456ms] [Cloudflare]
+https://appqa.lendle.xyz [301] [https://appqa.lendle.xyz/] [0] [] [34.49.155.11] [google] [66.98078ms] [HTTP/3]
+https://appt.lendle.xyz [301] [https://appt.lendle.xyz/] [0] [] [34.49.155.11] [google] [71.096632ms] [HTTP/3]
+https://dao.level.finance [301] [https://app.level.finance/] [15] [Vercel] [66.33.60.67] [320.704566ms] [HSTS,Vercel]
+https://legacy.level.finance [301] [https://app.level.finance/referral] [167] [301 Moved Permanently] [cloudflare] [172.66.43.202] [cloudflare] [222.743243ms] [Cloudflare]
+https://www.lendle.xyz [301] [https://lendle.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.16.79] [cloudflare] [119.261351ms] [Cloudflare,HTTP/3]
+https://www.lens.xyz [301] [https://lens.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.28] [cloudflare] [140.856783ms] [Cloudflare]
+http://collect.lens.xyz [301] [https://collect.lens.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.13.28] [cloudflare] [24.1216ms] [Cloudflare,HTTP/2]
+http://ipfs.level.finance [301] [https://ipfs.level.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.43.202] [cloudflare] [19.501213ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://share.lens.xyz [301] [https://share.lens.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.164] [cloudflare] [19.29716ms] [Cloudflare,HTTP/2]
+http://stats.lens.xyz [301] [https://stats.lens.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.28] [cloudflare] [26.547919ms] [Cloudflare]
+http://waitlist.lens.xyz [301] [https://waitlist.lens.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.28] [cloudflare] [25.241277ms] [Cloudflare]
+
+## 302
+http://status.testnet.lens.xyz [302] [https://status.testnet.lens.xyz/] [0] [Caddy] [142.132.149.97] [355.90508ms] [Caddy]
+http://status.lens.xyz [302] [https://status.lens.xyz/] [0] [Caddy] [142.132.149.97] [333.099447ms] [Caddy]
+
+## 307
+
+## 308
+https://claim.lens.xyz [308] [https://lens.xyz/] [15] [cloudflare] [104.26.13.28] [cloudflare] [96.473725ms] [Cloudflare,HSTS,Vercel]
+https://www.level.finance [308] [https://level.finance/] [15] [Vercel] [66.33.60.130] [101.447728ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://block-explorer-verify.testnet.lens.xyz [404] [] [0] [] [34.49.168.238] [google] [243.737907ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://app-qa.lendle.xyz [404] [] [272] [404 Page not found] [] [142.251.214.51] [google] [264.975156ms]
+https://block-explorer-api.testnet.lens.xyz [404] [] [63] [cloudflare] [104.26.12.28] [cloudflare] [331.505986ms] [Cloudflare,HSTS]
+https://block-explorer-api.lens.xyz [404] [] [63] [cloudflare] [104.26.12.28] [cloudflare] [345.334959ms] [Cloudflare,HSTS]
+https://explorer-api.lens.xyz [404] [] [63] [cloudflare] [172.67.69.164] [cloudflare] [361.633999ms] [Cloudflare,HSTS]
+https://explorer-api.testnet.lens.xyz [404] [] [63] [cloudflare] [104.26.13.28] [cloudflare] [393.795889ms] [Cloudflare,HSTS]
+https://faucet.lendle.xyz [404] [] [107] [Vercel] [66.33.60.66] [470.778631ms] [HSTS,Vercel]
+https://auction.level.finance [404] [] [107] [Vercel] [76.76.21.22] [519.00392ms] [HSTS,Vercel]
+https://integration.level.finance [404] [] [107] [Vercel] [66.33.60.194] [545.80479ms] [HSTS,Vercel]
+https://verify.lens.xyz [404] [] [0] [] [34.54.136.116] [google] [284.257154ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://subtest.lendle.xyz [404] [] [107] [Vercel] [76.76.21.61] [638.255782ms] [HSTS,Vercel]
+https://testnet.lendle.xyz [404] [] [107] [Vercel] [66.33.60.66] [560.713923ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+

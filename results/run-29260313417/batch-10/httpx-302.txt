@@ -1,0 +1,2 @@
+http://status.testnet.lens.xyz [302] [https://status.testnet.lens.xyz/] [0] [Caddy] [142.132.149.97] [355.90508ms] [Caddy]
+http://status.lens.xyz [302] [https://status.lens.xyz/] [0] [Caddy] [142.132.149.97] [333.099447ms] [Caddy]
