@@ -1,0 +1,67 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:31:15 UTC 2026
+
+HTTPX lines: 39
+Live URLs: 39
+
+## 200
+https://app.ipor.io [200] [] [4034] [Fusion by IPOR | Onchain Vault Infrastructure] [AmazonS3] [13.32.205.126] [cloudfront] [263.392064ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Cookiebot,HSTS,HTTP/3]
+http://doc.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [68.908663ms] [Nginx:1.28.3,Ubuntu]
+https://fusion-mini.ipor.io [200] [] [2082] [Fusion Mini · Base] [AmazonS3] [3.167.152.16] [cloudfront] [323.521511ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+http://docs.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [67.295585ms] [Nginx:1.28.3,Ubuntu]
+https://docs.jagpool.xyz [200] [] [23414] [Welcome to JagPool | JagPool Docs] [Vercel] [76.76.21.61] [353.733329ms] [Docusaurus:3.10.1,HSTS,React,Vercel,Webpack]
+https://ipor.io [200] [] [16271] [Fusion by IPOR | Onchain Vault Infrastructure] [AmazonS3] [108.156.107.54] [cloudfront] [92.287867ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+http://development.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [68.626545ms] [Nginx:1.28.3,Ubuntu]
+http://app.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [68.80437ms] [Nginx:1.28.3,Ubuntu]
+http://id.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [67.678061ms] [Nginx:1.28.3,Ubuntu]
+http://main.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [69.858223ms] [Nginx:1.28.3,Ubuntu]
+http://preview.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [67.0042ms] [Nginx:1.28.3,Ubuntu]
+http://ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [66.918478ms] [Nginx:1.28.3,Ubuntu]
+http://status.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [66.725748ms] [Nginx:1.28.3,Ubuntu]
+http://perps.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [66.903805ms] [Nginx:1.28.3,Ubuntu]
+https://fusion.ipor.io [200] [] [197459] [Fusion by IPOR | Onchain Vault Infrastructure] [AmazonS3] [13.32.205.81] [cloudfront] [308.569329ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+http://wildcard.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [66.386312ms] [Nginx:1.28.3,Ubuntu]
+http://www.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [67.797268ms] [Nginx:1.28.3,Ubuntu]
+https://www.ipor.io [200] [] [16271] [Fusion by IPOR | Onchain Vault Infrastructure] [AmazonS3] [108.156.107.55] [cloudfront] [236.694573ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://docs.ipor.io [200] [] [379070] [IPOR Fusion Docs | IPOR Fusion Protocol Documentation] [cloudflare] [172.64.147.209] [cloudflare] [435.385665ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://assets.mainnet.ipor.io [200] [] [144811] [AmazonS3] [3.167.138.100] [cloudfront] [1.070679949s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://www.app.ionic.money [200] [] [5300] [nginx/1.28.3 (Ubuntu)] [216.227.142.171] [67.280025ms] [Nginx:1.28.3,Ubuntu]
+https://worldcup.jagpool.xyz [200] [] [73267] [JagPool World Cup] [Vercel] [216.150.1.193] [379.805019ms] [HSTS,Vercel]
+https://www.jagpool.xyz [200] [] [93459] [JagPool] [Vercel] [66.33.60.67] [290.686892ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://api.ipor.io [200] [] [359548] [AmazonS3] [3.169.149.66] [cloudfront] [1.600303692s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 301
+http://goerli.ipor.io [301] [https://https://testnet.ipor.io/] [0] [AmazonS3] [52.219.47.62] [243.355645ms] [Amazon S3,Amazon Web Services]
+
+## 302
+
+## 307
+https://blog.ipor.io [307] [https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fblog.ipor.io%2F] [116] [cloudflare] [162.159.152.4] [cloudflare] [173.377295ms] [Cloudflare,Envoy,HSTS,HTTP/3]
+https://jagpool.xyz [307] [https://www.jagpool.xyz/] [15] [Vercel] [76.76.21.21] [329.222138ms] [HSTS,Vercel]
+
+## 308
+
+## 401
+https://develop.ipor.io [401] [] [0] [] [13.227.87.87] [cloudfront] [274.88969ms] [Amazon CloudFront,Amazon Web Services,Basic,HTTP/3]
+https://beta.ipor.io [401] [] [0] [] [143.204.204.20] [cloudfront] [359.776337ms] [Amazon CloudFront,Amazon Web Services,Basic,HTTP/3]
+https://develop.fusion.ipor.io [401] [] [0] [] [52.85.12.76] [cloudfront] [426.572187ms] [Amazon CloudFront,Amazon Web Services,Basic,HTTP/3]
+https://models.ipor.io [401] [] [0] [] [52.85.12.48] [cloudfront] [216.52215ms] [Amazon CloudFront,Amazon Web Services,Basic,HTTP/3]
+https://stage.ipor.io [401] [] [0] [] [3.167.152.120] [cloudfront] [207.644091ms] [Amazon CloudFront,Amazon Web Services,Basic,HTTP/3]
+
+## 403
+https://api-assets.mainnet.ipor.io [403] [] [42] [] [3.77.73.153] [493.794375ms]
+https://gateway.mainnet.ipor.io [403] [] [42] [] [63.177.202.82] [687.792394ms]
+
+## 404
+https://api-v2.jagpool.xyz [404] [] [435] [404 Not Found] [] [143.198.250.88] [447.404168ms] [HSTS]
+https://api.test.jagpool.xyz [404] [] [146] [404 Not Found] [] [143.198.250.88] [487.672957ms] [HSTS]
+
+## 500
+
+## 502
+
+## 503
+https://api.staging.jagpool.xyz [503] [] [592] [503 Service Temporarily Unavailable] [] [143.198.250.88] [493.469304ms] [HSTS]
+https://api.mainnet.ipor.io [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [18.199.43.202] [617.910007ms] [Amazon ELB,Amazon Web Services]
+

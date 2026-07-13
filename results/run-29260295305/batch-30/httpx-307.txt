@@ -1,0 +1,2 @@
+https://blog.ipor.io [307] [https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fblog.ipor.io%2F] [116] [cloudflare] [162.159.152.4] [cloudflare] [173.377295ms] [Cloudflare,Envoy,HSTS,HTTP/3]
+https://jagpool.xyz [307] [https://www.jagpool.xyz/] [15] [Vercel] [76.76.21.21] [329.222138ms] [HSTS,Vercel]
