@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jul 13 15:03:08 UTC 2026
+[+] Run ID: 29260332489
+[+] Batch name: batch-01
+[+] Batch targets:
+mynearwallet.com
+myswap.xyz
+mytonwallet.io
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jul 13 15:03:52 UTC 2026
+[+] HTTPX input count: 48
+[+] Running httpx...
+[+] httpx completed: Mon Jul 13 15:04:13 UTC 2026
+[+] httpx line count: 34
+[+] Batch completed: Mon Jul 13 15:04:13 UTC 2026
