@@ -1,0 +1,3 @@
+https://birdeye-proxy.raydium.io [403] [] [4512] [Attention Required! | Cloudflare] [cloudflare] [104.18.41.237] [cloudflare] [89.189424ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://monitor.raydium.io [403] [] [4512] [Attention Required! | Cloudflare] [cloudflare] [172.64.146.19] [cloudflare] [87.378849ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://helius-proxy.raydium.io [403] [] [4512] [Attention Required! | Cloudflare] [cloudflare] [104.18.41.237] [cloudflare] [129.542544ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
