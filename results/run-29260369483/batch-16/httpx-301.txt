@@ -1,0 +1,5 @@
+https://academy.solflare.com [301] [https://www.solflare.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.37.33] [cloudflare] [37.723332ms] [Cloudflare]
+https://forums.solana.com [301] [https://forum.solana.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.41.212] [cloudflare] [38.736309ms] [Cloudflare,HTTP/3]
+https://internal-metrics.solana.com [301] [https://grafana.internal.anza.xyz/] [169] [301 Moved Permanently] [nginx/1.27.5] [91.242.214.51] [1.195512891s] [Nginx:1.27.5]
+https://templates.solana.com [301] [https://solana.com/developers/templates] [665] [301 Moved Permanently] [cloudflare] [172.66.173.25] [cloudflare] [4.06192165s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://sandbox2.solflare.com [301] [https://sandbox2.solflare.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.156.249] [cloudflare] [6.062032811s] [Cloudflare]
