@@ -1,0 +1,2 @@
+https://help.kalshi.com [302] [https://help.kalshi.com/en/] [0] [cloudflare] [172.64.150.18] [cloudflare] [130.554943ms] [Cloudflare,HSTS]
+https://mkt.kalshi.com [302] [https://switchy.io] [40] [Google Frontend] [34.76.180.229] [google] [454.974529ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
