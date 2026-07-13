@@ -1,0 +1,8 @@
+https://canvas.sophon.xyz [302] [https://sophon.xyz/] [143] [302 Found] [cloudflare] [172.66.162.209] [cloudflare] [35.584059ms] [Cloudflare]
+https://app.staging.sophon.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fapp.staging.sophon.xyz%2F&nonce=d6f29e3f887c32bb344075332469ff6393c0cac649e68aa7f87ccad8f1353528] [15] [Vercel] [76.76.21.61] [303.07575ms] [HSTS,Vercel]
+https://claim.staging.sophon.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fclaim.staging.sophon.xyz%2F&nonce=9d1a73df74ead2f7c9182b3dc464e9698f79fc4093ba077987b24b7737658dac] [15] [cloudflare] [172.66.162.209] [cloudflare] [209.126204ms] [Cloudflare,HSTS,Vercel]
+https://link.spark.fi [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=link.spark.fi] [111] [nginx] [67.199.248.13] [123.954584ms] [HSTS,HTTP/3,Nginx]
+https://link.sophon.xyz [302] [https://link.sophon.xyz/?rb.routing.mode=proxy&rb.routing.signature=369515] [0] [cloudflare] [104.20.33.67] [cloudflare] [157.231047ms] [Cloudflare,HSTS]
+https://gateway.staging.safe.sophon.xyz [302] [/api] [26] [] [65.109.42.62] [468.653927ms] [Express,HSTS,Node.js]
+https://gateway.safe.sophon.xyz [302] [/api] [26] [] [95.217.168.214] [651.817657ms] [Express,HSTS,Node.js]
+https://stake.staging.sophon.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstake.staging.sophon.xyz%2F&nonce=53d1179d83f8d87118aee73900bf55159ef1747a65aafc6e19e421f7dcf2f09a] [15] [cloudflare] [172.66.162.209] [cloudflare] [370.88352ms] [Cloudflare,HSTS,Vercel]
