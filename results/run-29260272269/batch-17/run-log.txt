@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jul 13 15:19:25 UTC 2026
+[+] Run ID: 29260272269
+[+] Batch name: batch-17
+[+] Batch targets:
+cubesigner.com
+curve.finance
+d2.finance
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jul 13 15:19:39 UTC 2026
+[+] HTTPX input count: 52
+[+] Running httpx...
+[+] httpx completed: Mon Jul 13 15:19:42 UTC 2026
+[+] httpx line count: 36
+[+] Batch completed: Mon Jul 13 15:19:42 UTC 2026
