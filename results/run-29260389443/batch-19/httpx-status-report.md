@@ -1,0 +1,53 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:24:15 UTC 2026
+
+HTTPX lines: 24
+Live URLs: 24
+
+## 200
+https://venus.io [200] [] [6678] [Venus Protocol] [Vercel] [76.76.21.21] [32.464547ms] [HSTS,Vercel]
+https://flux.venus.io [200] [] [4653] [Venus Flux] [Vercel] [216.150.16.1] [79.324948ms] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://tokens.venus.io [200] [] [9788] [cloudflare] [172.67.142.111] [cloudflare] [226.988276ms] [Cloudflare,HSTS,HTTP/3]
+https://app-alt.venus.io [200] [] [6678] [Venus Protocol] [Vercel] [76.76.21.142] [191.112896ms] [HSTS,Vercel]
+https://app.vendor.finance [200] [] [1450] [Vendor] [Netlify] [98.84.224.111] [253.331988ms] [HSTS,Netlify]
+https://app-ipfs.venus.io [200] [] [5800] [Venus Protocol] [cloudflare] [172.67.142.111] [cloudflare] [270.410358ms] [Cloudflare,HSTS,HTTP/3,IPFS]
+https://cloudflare-dnslink-action.venus.io [200] [] [383] [Cloudflare IPFS On-Boarding] [cloudflare] [172.67.142.111] [cloudflare] [470.34242ms] [Cloudflare,HSTS,HTTP/3,IPFS]
+https://posthog.venus.io [200] [] [2] [nginx] [3.171.100.51] [cloudfront] [498.509367ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://app-preview.venus.io [200] [] [3746] [Venus Protocol] [AmazonS3] [3.171.85.88] [cloudfront] [676.483677ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://app-preview-cf.venus.io [200] [] [3746] [Venus Protocol] [AmazonS3] [3.171.85.88] [cloudfront] [823.982611ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://community.venus.io [200] [] [151257] [Venus Community - Venus Protocol Community] [cloudflare] [104.21.71.28] [cloudflare] [499.612521ms] [Cloudflare,Discourse:3.3.0,HSTS,HTTP/3,Ruby on Rails]
+https://docs.vendor.finance [200] [] [305555] [What is Vendor Finance? | Vendor Finance] [cloudflare] [172.64.147.209] [cloudflare] [330.691138ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs-v4.venus.io [200] [] [445074] [Overview | Venus Protocol] [cloudflare] [172.64.147.209] [cloudflare] [111.032056ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://docs.venus.io [301] [https://docs-v4.venus.io/] [0] [cloudflare] [104.21.71.28] [cloudflare] [132.980705ms] [Cloudflare,HSTS,HTTP/3]
+http://v1.vendor.finance [301] [https://v1.vendor.finance/] [41] [Netlify] [98.84.224.111] [6.157592ms] [Netlify]
+http://www.vendor.finance [301] [https://www.vendor.finance/] [42] [Netlify] [98.84.224.111] [9.231797ms] [Netlify]
+http://testnet.venus.io [301] [https://testnet.venus.io/] [167] [301 Moved Permanently] [cloudflare] [172.67.142.111] [cloudflare] [26.712416ms] [Cloudflare,HTTP/3]
+
+## 302
+
+## 307
+https://medium.vendor.finance [307] [https://vendorfinance.medium.com/] [168] [307 Temporary Redirect] [openresty] [52.33.207.7] [289.469688ms] [Nginx,OpenResty]
+https://discord.vendor.finance [307] [https://discord.gg/fzV8wFmeaS] [168] [307 Temporary Redirect] [openresty] [44.230.85.241] [390.03735ms] [Nginx,OpenResty]
+https://twitter.vendor.finance [307] [https://twitter.com/VendorFi] [168] [307 Temporary Redirect] [openresty] [44.230.85.241] [464.13467ms] [Nginx,OpenResty]
+
+## 308
+https://app.venus.io [308] [https://venus.io/] [15] [Vercel] [66.33.60.66] [50.97285ms] [HSTS,Vercel]
+https://www.venus.io [308] [https://venus.io/] [15] [Vercel] [76.76.21.241] [228.573231ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://api.venus.io [404] [] [139] [Error] [nginx] [3.167.99.115] [cloudfront] [419.827222ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://testnetapi.venus.io [404] [] [139] [Error] [nginx] [3.171.100.108] [cloudfront] [606.278447ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+
+## 500
+
+## 502
+
+## 503
+
