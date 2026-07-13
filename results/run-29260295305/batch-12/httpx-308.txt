@@ -1,0 +1,3 @@
+https://gnosis.io [308] [https://www.gnosis.io/] [58] [Framer/c4751cc] [52.223.52.2] [128.598439ms] [Framer Sites,HSTS,HTTP/3,React]
+https://goldfinch.finance [308] [https://www.goldfinch.finance/] [15] [Vercel] [76.76.21.21] [189.950221ms] [HSTS,Vercel]
+http://www.goldfinch.finance [308] [https://www.goldfinch.finance/] [14] [Vercel] [76.76.21.123] [74.902422ms] [Vercel]

@@ -1,0 +1,2 @@
+https://docs.goldfinch.finance [307] [https://docs.goldfinch.finance/goldfinch/] [15] [cloudflare] [104.26.7.2] [cloudflare] [238.887508ms] [Cloudflare,HSTS,Vercel]
+https://app.goldfinch.finance [307] [/earn] [15] [cloudflare] [104.26.6.2] [cloudflare] [476.542254ms] [Cloudflare,HSTS,Vercel]
