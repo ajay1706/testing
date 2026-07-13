@@ -1,0 +1,4 @@
+https://squads.so [308] [https://squads.xyz/] [55] [Framer/c4751cc] [35.71.142.77] [254.681862ms] [Framer Sites,HSTS,HTTP/3,React]
+https://squidrouter.com [308] [https://www.squidrouter.com/] [15] [cloudflare] [104.26.6.7] [cloudflare] [336.073727ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.squads.so [308] [https://squads.so/] [54] [Framer/c4751cc] [31.43.160.6] [556.300109ms] [Framer Sites,HSTS,HTTP/3,React]
+https://developers.squads.so [308] [/welcome] [236005] [Vercel] [76.76.21.93] [80.617566ms] [HSTS,Vercel]

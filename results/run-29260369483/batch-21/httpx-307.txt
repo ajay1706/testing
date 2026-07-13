@@ -1,0 +1,4 @@
+https://docs.squads.so [307] [https://docs.squads.so/main/] [15] [cloudflare] [104.18.40.47] [cloudflare] [135.857074ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://documentation.squads.so [307] [https://docs.squads.so/main/] [15] [cloudflare] [172.64.147.209] [cloudflare] [152.647897ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://v2.app.squidrouter.com [307] [https://app.squidrouter.com/] [15] [cloudflare] [104.26.7.7] [cloudflare] [387.182953ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.app.squidrouter.com [307] [https://app.squidrouter.com/] [15] [cloudflare] [104.26.7.7] [cloudflare] [298.092769ms] [Cloudflare,HSTS,HTTP/3,Vercel]

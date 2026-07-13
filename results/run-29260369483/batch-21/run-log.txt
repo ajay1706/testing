@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jul 13 15:25:39 UTC 2026
+[+] Run ID: 29260369483
+[+] Batch name: batch-21
+[+] Batch targets:
+sprinter.money
+squads.so
+squidrouter.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jul 13 15:25:48 UTC 2026
+[+] HTTPX input count: 126
+[+] Running httpx...
+[+] httpx completed: Mon Jul 13 15:25:59 UTC 2026
+[+] httpx line count: 88
+[+] Batch completed: Mon Jul 13 15:25:59 UTC 2026
