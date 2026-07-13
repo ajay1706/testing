@@ -1,0 +1,94 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:38:51 UTC 2026
+
+HTTPX lines: 66
+Live URLs: 66
+
+## 200
+https://clerk.zerion.io [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [172.973074ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://app.zengo.com [200] [] [1939] [ZenGo] [AmazonS3] [13.249.126.120] [cloudfront] [217.237982ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://dashboard.zerion.io [200] [] [571] [Developer Dashboard] [istio-envoy] [3.209.186.7] [215.850885ms] [Envoy,Typeform]
+https://bitrawr.zengo.com [200] [] [2355] [ZenGo: Bitcoin & Cryptocurrency Wallet] [AmazonS3] [99.84.41.14] [cloudfront] [242.364356ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://event-collector.zerion.io [200] [] [0] [cloudflare] [104.18.30.243] [cloudflare] [288.899929ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://eot.zerion.io [200] [] [1133] [Hello - EmailOctopus] [] [34.255.101.145] [433.671233ms] [HTTP/3]
+https://get.zengo.com [200] [] [1939] [ZenGo] [AmazonS3] [65.8.20.45] [cloudfront] [281.829594ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://design.zerion.io [200] [] [38437] [Zerion Design | Brand Guidelines] [cloudflare] [104.18.30.243] [cloudflare] [378.875925ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Envoy]
+https://render.zerion.io [200] [] [2620] [New Remix App] [cloudflare] [104.18.30.243] [cloudflare] [279.217663ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Envoy]
+https://metabase-analytics-public.zerion.io [200] [] [106407] [Metabase] [istio-envoy] [3.212.35.115] [291.758595ms] [Envoy,HSTS]
+https://metabase-analytics.zerion.io [200] [] [106407] [Metabase] [istio-envoy] [3.212.35.115] [281.390155ms] [Envoy,HSTS]
+https://new.zerion.io [200] [] [169380] [Crypto Wallet for Solana, Ethereum, DeFi - Zerion] [AmazonS3] [99.84.41.30] [cloudfront] [513.223691ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://status.zerion.io [200] [] [233708] [Zerion - Status] [Vercel] [76.76.21.142] [314.208655ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://webflow.zerion.io [200] [] [153407] [Crypto Wallet for Solana, Ethereum, DeFi - Zerion] [cloudflare] [198.202.211.1] [384.022922ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Plausible,jQuery:3.5.1,jsDelivr]
+https://www.zerion.io [200] [] [153403] [Crypto Wallet for Solana, Ethereum, DeFi - Zerion] [cloudflare] [198.202.211.1] [484.666565ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Plausible,jQuery:3.5.1,jsDelivr]
+https://zerion.io [200] [] [153905] [Crypto Wallet for Solana, Ethereum, DeFi - Zerion] [cloudflare] [104.18.31.243] [cloudflare] [462.831604ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Envoy,Google Tag Manager,HSTS,Plausible,jQuery:3.5.1,jsDelivr]
+
+## 301
+https://docs.zerion.io [301] [https://developers.zerion.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.243] [cloudflare] [74.541755ms] [Cloudflare]
+https://feature.zerion.io [301] [https://zerion.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.243] [cloudflare] [104.496465ms] [Cloudflare]
+https://blog.zerion.io [301] [http://zerion.io/blog/] [0] [cloudflare] [104.18.30.243] [cloudflare] [295.107969ms] [Cloudflare,Cloudflare Bot Management]
+https://roadmap.zerion.io [301] [https://zerion.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.243] [cloudflare] [86.719467ms] [Cloudflare]
+https://solana.zerion.io [301] [https://zerion.io/solana-wallet] [167] [301 Moved Permanently] [cloudflare] [104.18.30.243] [cloudflare] [87.274275ms] [Cloudflare]
+https://wallet.zerion.io [301] [https://app.zerion.io/wc] [0] [cloudflare] [104.18.30.243] [cloudflare] [262.859294ms] [Cloudflare,Cloudflare Bot Management]
+
+## 302
+https://help.zengo.com [302] [http://help.zengo.com/en/] [0] [nginx] [18.238.109.110] [cloudfront] [247.748149ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://grafana-external.zerion.io [302] [/login] [29] [cloudflare] [104.18.31.243] [cloudflare] [305.907021ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://help.zerion.io [302] [https://help.zerion.io/en/] [0] [cloudflare] [104.18.31.243] [cloudflare] [343.060512ms] [Cloudflare,Cloudflare Bot Management]
+https://scan.zerion.io [302] [https://scan.zerion.io/?rb.routing.mode=proxy&rb.routing.signature=955646] [0] [cloudflare] [104.18.30.243] [cloudflare] [289.035772ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 307
+https://app.zerion.io [307] [/connect-wallet] [0] [cloudflare] [104.18.30.243] [cloudflare] [213.559805ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://docs.zaros.fi [307] [https://docs.zaros.fi/overview/] [15] [cloudflare] [104.18.40.47] [cloudflare] [262.990251ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://beta.zerion.io [307] [/connect-wallet] [0] [cloudflare] [104.18.31.243] [cloudflare] [270.813722ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://blog.zaros.fi [307] [https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fblog.zaros.fi%2F] [117] [cloudflare] [162.159.152.4] [cloudflare] [298.422872ms] [Cloudflare,Envoy,HSTS,HTTP/3]
+https://link.zerion.io [307] [https://zerion.io] [0] [cloudflare] [104.18.30.243] [cloudflare] [265.959474ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 308
+https://developers.zerion.io [308] [/introduction] [158384] [cloudflare] [104.18.2.204] [cloudflare] [251.22584ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+
+## 401
+
+## 403
+https://accounts.zerion.io [403] [] [9470] [Just a moment...] [cloudflare] [104.18.34.146] [cloudflare] [117.359428ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://clicks.zengo.com [403] [] [5642] [Just a moment...] [cloudflare] [104.20.36.21] [cloudflare] [129.628156ms] [Cloudflare]
+https://go.zengo.com [403] [] [1148] [Access Denied] [cloudflare] [172.66.0.157] [cloudflare] [155.398415ms] [Cloudflare,HTTP/3]
+https://link.email.zengo.com [403] [] [42] [] [52.39.3.37] [150.668464ms]
+https://mail.zengo.com [403] [] [5618] [Just a moment...] [cloudflare] [104.20.36.21] [cloudflare] [92.948628ms] [Cloudflare]
+https://cdn.zerion.io [403] [] [263] [AmazonS3] [65.8.20.86] [cloudfront] [480.804108ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://web.zengo.com [403] [] [5617] [Just a moment...] [cloudflare] [172.66.150.49] [cloudflare] [105.086138ms] [Cloudflare]
+https://www.zengo.com [403] [] [5617] [Just a moment...] [cloudflare] [172.66.150.49] [cloudflare] [94.756023ms] [Cloudflare]
+https://zengo.com [403] [] [5485] [Just a moment...] [cloudflare] [172.66.150.49] [cloudflare] [87.440805ms] [Cloudflare]
+https://zpi.zerion.io [403] [] [5788] [Just a moment...] [cloudflare] [104.18.30.243] [cloudflare] [78.980142ms] [Cloudflare,Cloudflare Bot Management]
+
+## 404
+https://download.zerion.io [404] [] [14] [] [185.151.204.100] [62.864879ms] [HSTS]
+https://argo.zerion.io [404] [] [0] [istio-envoy] [3.209.186.7] [205.479903ms]
+https://click.zerion.io [404] [] [548] [404 Not Found] [nginx] [52.39.173.225] [213.8176ms] [Nginx]
+https://api-testnet.zerion.io [404] [] [0] [cloudflare] [104.18.30.243] [cloudflare] [329.018622ms] [Cloudflare,Cloudflare Bot Management]
+https://api-v4.zerion.io [404] [] [0] [cloudflare] [104.18.30.243] [cloudflare] [346.549361ms] [Cloudflare,Cloudflare Bot Management]
+https://api.zerion.io [404] [] [0] [cloudflare] [104.18.30.243] [cloudflare] [417.954863ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://api-staging.zerion.io [404] [] [14] [cloudflare] [104.18.31.243] [cloudflare] [459.098292ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://app.zaros.fi [404] [] [107] [Vercel] [76.76.21.164] [546.481722ms] [HSTS,Vercel]
+https://aa.app.zaros.fi [404] [] [107] [Vercel] [76.76.21.123] [562.883704ms] [HSTS,Vercel]
+https://proxy.zerion.io [404] [] [637] [Error] [cloudflare] [104.18.30.243] [cloudflare] [132.204305ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Envoy,Express,Node.js]
+https://mixpanel.zerion.io [404] [] [127] [cloudflare] [104.18.31.243] [cloudflare] [417.524802ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://sentry.zerion.io [404] [] [0] [cloudflare] [104.18.30.243] [cloudflare] [328.903283ms] [Cloudflare,Cloudflare Bot Management]
+https://verify-webhook.zerion.io [404] [] [18] [istio-envoy] [54.234.161.72] [202.921899ms] [Envoy]
+https://staging.testnet.app.zaros.fi [404] [] [107] [Vercel] [66.33.60.193] [490.482627ms] [HSTS,Vercel]
+https://transactions.zerion.io [404] [] [22] [cloudflare] [104.18.30.243] [cloudflare] [309.20188ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://transactions-staging.zerion.io [404] [] [22] [cloudflare] [104.18.30.243] [cloudflare] [345.266345ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://wallet-exporter.zerion.io [404] [] [0] [cloudflare] [104.18.31.243] [cloudflare] [301.845552ms] [Cloudflare,Cloudflare Bot Management]
+https://webhooks.zerion.io [404] [] [18] [cloudflare] [104.18.30.243] [cloudflare] [292.382634ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://zaros.fi [404] [] [107] [Vercel] [76.76.21.21] [166.021888ms] [HSTS,Vercel]
+https://testnet.app.zaros.fi [404] [] [107] [Vercel] [76.76.21.123] [795.88114ms] [HSTS,Vercel]
+https://www.zaros.fi [404] [] [107] [Vercel] [66.33.60.194] [482.780912ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+https://dna.zerion.io [503] [] [0] [cloudflare] [104.18.30.243] [cloudflare] [195.026087ms] [Cloudflare,Cloudflare Bot Management]
+https://rpc.zerion.io [503] [] [0] [cloudflare] [104.18.31.243] [cloudflare] [253.812299ms] [Cloudflare,Cloudflare Bot Management]
+
