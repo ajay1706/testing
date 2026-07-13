@@ -1,0 +1,3 @@
+[CVE-2025-30208] [http] [medium] https://angle.money/etc/passwd?raw
+[CVE-2026-23829] [tcp] [medium] amk-aladdinwealth.login.blackrock.com:443
+[prometheus-metrics] [http] [medium] https://analytics.availproject.org/api/metrics
