@@ -1,0 +1,4 @@
+https://rakkardigital.com [301] [https://www.rakkardigital.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [172.986053ms] [Cloudflare,HSTS,HTTP/3]
+https://game-stage.ratex.ai [301] [https://game-stage.ratex.ai/] [682] [301 Moved Permanently] [cloudflare] [172.67.165.4] [cloudflare] [476.850274ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://crm.rakkardigital.com [301] [https://rakkardigitalsupport.zendesk.com/hc] [0] [cloudflare] [3.170.185.79] [cloudfront] [1.131545037s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Envoy,HSTS,HTTP/3]
+https://www.ratex.ai [301] [https://ratex.ai/] [682] [301 Moved Permanently] [cloudflare] [172.67.165.4] [cloudflare] [438.479355ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
