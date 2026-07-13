@@ -1,0 +1,2 @@
+https://invest.parcl.co [308] [https://www.parcllabs.com/] [15] [Vercel] [216.150.16.193] [46.29128ms] [HSTS,Vercel]
+https://www.parcl.co [308] [https://parcl.co/] [53] [Framer/c4751cc] [31.43.161.6] [1.109833439s] [Framer Sites,HSTS,HTTP/3,React]

@@ -1,0 +1,2 @@
+https://api.dev.parcl.co [404] [] [13] [Fly/6db84cd2 (2026-07-07)] [137.66.4.164] [230.932985ms] [Fly.io]
+https://legal.parcl.co [404] [] [6873] [Site Not Found | Framer] [Framer/c4751cc] [31.43.160.6] [139.55042ms] [Framer Sites,HSTS,HTTP/3,React]
