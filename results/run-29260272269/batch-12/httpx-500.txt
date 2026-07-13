@@ -1,0 +1,2 @@
+https://api.alpha.compound.finance [500] [] [136] [cloudflare] [172.66.145.186] [cloudflare] [64.358239ms] [Cloudflare,HSTS,HTTP/3]
+https://prices.compound.finance [500] [] [39] [cloudflare] [104.20.28.98] [cloudflare] [513.221594ms] [Cloudflare,HSTS,HTTP/3]
