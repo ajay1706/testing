@@ -1,0 +1,3 @@
+https://claims.puffer.fi [403] [] [534] [Access Blocked] [cloudflare] [104.20.19.115] [cloudflare] [136.605253ms] [Cloudflare]
+https://faucet-unifi.puffer.fi [403] [] [40] [cloudflare] [104.20.19.115] [cloudflare] [753.621264ms] [Cloudflare,Express,Node.js]
+https://quest.puffer.fi [403] [] [535] [Access Blocked] [cloudflare] [104.20.19.115] [cloudflare] [233.996913ms] [Cloudflare]
