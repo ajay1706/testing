@@ -1,0 +1,6 @@
+https://exodus.com [301] [https://www.exodus.com/] [167] [301 Moved Permanently] [cloudflare] [172.64.151.44] [cloudflare] [36.998454ms] [Cloudflare,HSTS]
+https://blog.exodus.com [301] [https://www.exodus.com/blog] [167] [301 Moved Permanently] [cloudflare] [172.64.151.44] [cloudflare] [118.406939ms] [Cloudflare,HSTS]
+https://get.exodus.com [301] [https://www.exodus.com/download] [66] [nginx] [67.199.248.13] [175.799412ms] [HSTS,HTTP/3,Nginx]
+https://support.exodus.com [301] [https://www.exodus.com/support/] [0] [cloudflare] [172.64.151.44] [cloudflare] [164.008906ms] [Cloudflare,HSTS]
+https://uk-support.exodus.com [301] [https://www.exodus.com/support] [167] [301 Moved Permanently] [cloudflare] [104.18.36.212] [cloudflare] [99.518793ms] [Cloudflare,HSTS]
+https://uk.exodus.com [301] [https://www.exodus.com//] [167] [301 Moved Permanently] [cloudflare] [172.64.151.44] [cloudflare] [193.789634ms] [Cloudflare,HSTS]
