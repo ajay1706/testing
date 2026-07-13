@@ -1,0 +1,4 @@
+https://rain.xyz [301] [https://www.rain.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [280.106641ms] [Cloudflare,HSTS,HTTP/3]
+https://support.rainbow.me [301] [https://rainbow.me/support/] [0] [cloudflare] [104.20.16.62] [cloudflare] [129.580531ms] [Cloudflare]
+https://www.rainbow.me [301] [https://rainbow.me/] [665] [301 Moved Permanently] [cloudflare] [104.20.16.62] [cloudflare] [221.212575ms] [Cloudflare,Cloudflare Browser Insights]
+http://api-v2.rain.fi [301] [https://api-v2.rain.fi/] [665] [301 Moved Permanently] [cloudflare] [172.66.43.91] [cloudflare] [52.727242ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
