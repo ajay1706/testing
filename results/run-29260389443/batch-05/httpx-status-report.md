@@ -1,0 +1,106 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:12:14 UTC 2026
+
+HTTPX lines: 95
+Live URLs: 95
+
+## 200
+https://cli.thegraph.com [200] [] [1182] [Tooling | The Graph] [cloudflare] [104.18.40.31] [cloudflare] [205.762795ms] [Cloudflare,Cloudflare Browser Insights]
+https://gateway-arbitrum.network.thegraph.com [200] [] [14] [cloudflare] [172.64.147.225] [cloudflare] [101.766474ms] [Cloudflare,HSTS]
+https://api.registry.amp.staging.thegraph.com [200] [] [38] [cloudflare] [172.64.147.225] [cloudflare] [248.178113ms] [Cloudflare,HSTS]
+https://gateway-arbitrum.thegraph.com [200] [] [14] [cloudflare] [172.64.147.225] [cloudflare] [131.235514ms] [Cloudflare,HSTS]
+https://gateway.thegraph.com [200] [] [14] [cloudflare] [104.18.40.31] [cloudflare] [102.013609ms] [Cloudflare,HSTS]
+https://gateway.testnet.thegraph.com [200] [] [14] [cloudflare] [172.64.147.225] [cloudflare] [142.588999ms] [Cloudflare,HSTS]
+https://gateway.network.thegraph.com [200] [] [14] [cloudflare] [104.18.40.31] [cloudflare] [145.904903ms] [Cloudflare,HSTS]
+https://auth.amp.thegraph.com [200] [] [11525] [The Graph Amp Platform Auth] [Vercel] [216.150.1.193] [159.97287ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://arena-alpha.thena.fi [200] [] [3855] [Thena] [Vercel] [76.76.21.123] [356.802856ms] [HSTS,Vercel]
+https://basecamp.thegraph.com [200] [] [32638] [Graph Builders Basecamp] [Vercel] [216.150.1.193] [105.021046ms] [HSTS,Vercel]
+https://docs.hypergraph.thegraph.com [200] [] [72396] [Hello from Hypergraph | Hypergraph] [Vercel] [76.76.21.93] [205.254932ms] [Docusaurus:3.8.1,HSTS,React,Vercel,Webpack]
+https://ipfs.network.thegraph.com [200] [] [2] [cloudflare] [104.18.40.31] [cloudflare] [63.471844ms] [Cloudflare]
+https://ipfs.thegraph.com [200] [] [2] [cloudflare] [172.64.147.225] [cloudflare] [52.905641ms] [Cloudflare]
+https://indexer.upgrade.thegraph.com [200] [] [25] [cloudflare] [104.18.40.31] [cloudflare] [84.54459ms] [Cloudflare,HSTS]
+https://ipfs.testnet.thegraph.com [200] [] [2] [cloudflare] [172.64.147.225] [cloudflare] [79.808654ms] [Cloudflare]
+https://indexer.upgrade.staging.thegraph.com [200] [] [25] [cloudflare] [172.64.147.225] [cloudflare] [150.471882ms] [Cloudflare,HSTS]
+https://forum.thena.fi [200] [] [85030] [THENA] [nginx] [3.21.230.51] [166.705326ms] [Discourse:3.4.0,HSTS,Nginx,Ruby on Rails]
+https://loki-logs.thegraph.com [200] [] [2] [] [34.68.241.120] [google] [117.659616ms] [HSTS]
+https://legacy.thena.fi [200] [] [4067] [THENA] [cloudflare] [172.67.143.31] [cloudflare] [318.591101ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://forum.thegraph.com [200] [] [269548] [The Graph] [nginx] [184.105.99.75] [520.948817ms] [Discourse:2026.7.0,HSTS,Nginx,Ruby on Rails]
+https://mainnet-thegraph-arbitrum-05-us-west3.thegraph.com [200] [] [14] [cloudflare] [104.18.40.31] [cloudflare] [1.21722816s] [Cloudflare,HSTS]
+https://mainnet-thegraph-arbitrum-04-asia-east1.thegraph.com [200] [] [14] [cloudflare] [104.18.40.31] [cloudflare] [2.756832801s] [Cloudflare,HSTS]
+https://mainnet-thegraph-arbitrum-01-us-east4.thegraph.com [200] [] [14] [cloudflare] [104.18.40.31] [cloudflare] [6.095294703s] [Cloudflare,HSTS]
+https://test-cert.staging.thegraph.com [200] [] [1394] [Welcome to nginx!] [cloudflare] [172.64.147.225] [cloudflare] [1.146643707s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://thegraph.com [200] [] [449844] [The Graph] [cloudflare] [104.18.40.31] [cloudflare] [287.466242ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://v2.thena.fi [200] [] [1569312] [Home | THENA] [cloudflare] [172.67.143.31] [cloudflare] [1.512508689s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://vault.thegraph.com [200] [] [28760] [The Graph Foundation] [cloudflare] [172.67.72.83] [cloudflare] [5.563677836s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 301
+https://events.thegraph.com [301] [https://campsite.bio/graphprotocol] [665] [301 Moved Permanently] [cloudflare] [104.18.40.31] [cloudflare] [58.127244ms] [Cloudflare,Cloudflare Browser Insights]
+https://design.thegraph.com [301] [https://main--68814cb34f65164d9e856070.chromatic.com/] [665] [301 Moved Permanently] [cloudflare] [172.64.147.225] [cloudflare] [64.683568ms] [Cloudflare,Cloudflare Browser Insights]
+https://alpha.thena.fi [301] [https://perps.thena.fi/] [671] [301 Moved Permanently] [cloudflare] [104.21.54.230] [cloudflare] [97.599856ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://api-muon.thena.fi [301] [https://api-muon.thena.fi/] [671] [301 Moved Permanently] [cloudflare] [172.67.143.31] [cloudflare] [44.884947ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://mainnet-thegraph-arbitrum-02-eu-west3.thegraph.com [301] [https://mainnet-thegraph-arbitrum-02-eu-west3.thegraph.com/] [665] [301 Moved Permanently] [cloudflare] [172.64.147.225] [cloudflare] [3.057899533s] [Cloudflare,Cloudflare Browser Insights]
+https://networks-registry.thegraph.com [301] [https://github.com/graphprotocol/networks-registry] [65] [cloudflare] [172.64.147.225] [cloudflare] [4.08827092s] [Cloudflare]
+https://network.thegraph.com [301] [https://thegraph.com/explorer] [665] [301 Moved Permanently] [cloudflare] [172.64.147.225] [cloudflare] [6.060156051s] [Cloudflare,Cloudflare Browser Insights]
+https://playground.amp.thegraph.com [301] [https://platform-ui-edge-and-node.vercel.app/] [665] [301 Moved Permanently] [cloudflare] [104.18.40.31] [cloudflare] [4.114557604s] [Cloudflare,Cloudflare Browser Insights]
+http://subgraph-mcp.x402.sandbox.thegraph.com [301] [https://subgraph-mcp.x402.sandbox.thegraph.com/] [665] [301 Moved Permanently] [cloudflare] [104.18.40.31] [cloudflare] [21.628601ms] [Cloudflare,Cloudflare Browser Insights]
+http://subgraph-mcp.x402.staging.thegraph.com [301] [https://subgraph-mcp.x402.staging.thegraph.com/] [665] [301 Moved Permanently] [cloudflare] [172.64.147.225] [cloudflare] [25.547387ms] [Cloudflare,Cloudflare Browser Insights]
+http://thena.fi [301] [https://thena.fi/] [671] [301 Moved Permanently] [cloudflare] [172.67.143.31] [cloudflare] [2.282411167s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/2]
+
+## 302
+https://dev.thegraph.com [302] [https://thegraph.cloudflareaccess.com/cdn-cgi/access/login/dev.thegraph.com?kid=d5a89848eb35add35238c890d70800e3accd92097d96fef38156e6c5089a9e31&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjhjMzNkM2FjYTAyMmRhZjI0NDNjM2IwMTg1OWJmYWQ5OGE3MTVjNWY0ZGEzZTcwYmI3ZDYyOWY2MGFkYWRjMjgifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImQ1YTg5ODQ4ZWIzNWFkZDM1MjM4Yzg5MGQ3MDgwMGUzYWNjZDkyMDk3ZDk2ZmVmMzgxNTZlNmM1MDg5YTllMzEiLCJob3N0bmFtZSI6ImRldi50aGVncmFwaC5jb20iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc4Mzk1NTc4NiwibmJmIjoxNzgzOTU1NDg2LCJpYXQiOjE3ODM5NTU0ODYsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJmZjc0MjI3MWJlZTVhZGNhOTg1ZGY2YzY2ZTc0YzIyMTNhMWYzMDBmYTZmNjI5YmUwZThhMDEzNjFmZTk1ODEyIn0.pUV8qOBmAOMZGvg-f_jZutI6berTxNs1bQLH4BhKGSDoCVt6_gtxxKjVVfaYL1sfSg8y5VCPY4p39aRau6_Jj3Ma34HqYOv-eqUBAcw5OZhxfQUklvaxswwlsMelBDmHZAMsKydfo5MQ4Lm3F3OWI1VbQRZenycJPLGoV64Aw9UhsrJyO3Nh5H4R5K4d_jSErw1XxiycqOZ9EHZBXr2kfh5HnXgWvRLoOsSRLeToXzIdxQ8wPXqIdRrYA_WDTnKP1NtBvo4_en7gzB5EaGDPdtu-mwlJEzGQ9dcf4oItylpeptAmMmuLiItyO8Dxaf3WT1FFt4JjRdPo7O2jyoevpQ&redirect_url=%2F] [641] [302 Found] [cloudflare] [172.64.147.225] [cloudflare] [63.767017ms] [Cloudflare,Cloudflare Browser Insights]
+https://dexscreener-adapter.thena.fi [302] [https://dexscreener-adapter.thena.fi/bsc/latest-block] [658] [302 Found] [cloudflare] [172.67.143.31] [cloudflare] [89.730238ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://newtestnet.thegraph.com [302] [https://thegraph.cloudflareaccess.com/cdn-cgi/access/login/newtestnet.thegraph.com?kid=6d0c3d4bf93a8802d72fb8ba08b70077cfecff3e5b259b3cd8d9b36d620e50e5&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjhjMzNkM2FjYTAyMmRhZjI0NDNjM2IwMTg1OWJmYWQ5OGE3MTVjNWY0ZGEzZTcwYmI3ZDYyOWY2MGFkYWRjMjgifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjZkMGMzZDRiZjkzYTg4MDJkNzJmYjhiYTA4YjcwMDc3Y2ZlY2ZmM2U1YjI1OWIzY2Q4ZDliMzZkNjIwZTUwZTUiLCJob3N0bmFtZSI6Im5ld3Rlc3RuZXQudGhlZ3JhcGguY29tIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3ODM5NTU3OTgsIm5iZiI6MTc4Mzk1NTQ5OCwiaWF0IjoxNzgzOTU1NDk4LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiZDkyMjE4OGFjYWJlZTMxNzA5OTY2NjVkNTQ2ZDZiZTllODgzNjVmMzY3ZTIwYmYyNzAzYzg0ZGQyZGQzNzM4ZCJ9.TAPSjFGfJcY_jmJba4C0KFtUWdGq5dJAUcgHzMtCOlroUpemuwaZvoCxk5ss4acdOIIxoGNDn0-6ii5o_pccJOYxYWqy_dhZAejxNymil88HFnKB69gmRhxC771-s3zk49q2ea_lVEAhzFdP0WT4R4mB06NYYzd8rYKODGVjZ0cSzR8L_6o19fifAgRkbhRwXlcVCwM-zVv9TXhspdwqORRtx2bePJT_OWRRqJPH127dloNf_byPtu1h1HhPNOF0LTQ0ate5wTl25LHbmWAyJ9o4eI19qw3L6pUycFsAkg0aFcqk0jGYSEO0F0IUcz9V0g3l8ubg2_39EJNtb7czww&redirect_url=%2F] [641] [302 Found] [cloudflare] [172.64.147.225] [cloudflare] [2.069916184s] [Cloudflare,Cloudflare Browser Insights]
+https://studio.staging.thegraph.com [302] [https://thegraph.cloudflareaccess.com/cdn-cgi/access/login/studio.staging.thegraph.com?kid=7cd18cb604ab123657ec932b1300e44f34412a009f31443933c8179fa9ec8ecb&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjhjMzNkM2FjYTAyMmRhZjI0NDNjM2IwMTg1OWJmYWQ5OGE3MTVjNWY0ZGEzZTcwYmI3ZDYyOWY2MGFkYWRjMjgifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjdjZDE4Y2I2MDRhYjEyMzY1N2VjOTMyYjEzMDBlNDRmMzQ0MTJhMDA5ZjMxNDQzOTMzYzgxNzlmYTllYzhlY2IiLCJob3N0bmFtZSI6InN0dWRpby5zdGFnaW5nLnRoZWdyYXBoLmNvbSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzgzOTU1ODA5LCJuYmYiOjE3ODM5NTU1MDksImlhdCI6MTc4Mzk1NTUwOSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjdlZTRkMWIwYmU0ZWEyNDMwYjU0ZTY5MTNmYzcxMzc3M2IwMTBjNTYzZGNiNjRhNjQwNmQ4MjI0ZDg5OGUzZTcifQ.E0YpeWX4y1hVTU9-iR5TE9A_xcw3BwoPRwTmJfvIXlcAUhE2IWvNsy7kBt3mqirZya5LWHqOEpwGD9S8oV-BcW-1YAwe37c4fxFZnWy8fHo_BqGdsZWQOwGq8GLsmGW_-Q8NPS3M3r13mvqz0u4fjVZGfXNti7IAEIsnZasks3c3C8byjSbnPd83IfdVgyumE-THMZhz4nNWCasvlFY22ML7lWXjuy-8JKdRXzWrnBr0v5MHndnyS4U4kSuz2jC1jA6YeMNiG8W7m6Wk65J86-MaiOrklq6ZYFeSyw-eluUs1m_wxzYcZfE7y8mlLLxmkGUzXhQcoQFb0jimtUrxcg&redirect_url=%2F] [641] [302 Found] [cloudflare] [104.18.40.31] [cloudflare] [5.07414892s] [Cloudflare,Cloudflare Browser Insights]
+
+## 307
+https://docs.thena.fi [307] [https://docs.thena.fi/thena/] [15] [cloudflare] [172.67.143.31] [cloudflare] [194.907995ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://perps.thena.fi [307] [/trade] [15] [cloudflare] [104.21.54.230] [cloudflare] [2.137124075s] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://www.thegraph.com [308] [https://thegraph.com:443] [662] [308 Permanent Redirect] [cloudflare] [172.64.147.225] [cloudflare] [2.220251776s] [Cloudflare,Cloudflare Browser Insights]
+https://www.staging.thegraph.com [308] [https://staging.thegraph.com:443] [662] [308 Permanent Redirect] [cloudflare] [104.18.40.31] [cloudflare] [4.153345989s] [Cloudflare,Cloudflare Browser Insights]
+https://www.thena.fi [308] [https://thena.fi/] [15] [cloudflare] [104.21.54.230] [cloudflare] [4.307612964s] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+https://api-graphix.testnet.thegraph.com [401] [] [1072] [401 Authorization Required] [cloudflare] [172.64.147.225] [cloudflare] [272.720124ms] [Basic,Cloudflare,Cloudflare Browser Insights,HSTS]
+https://gateway.amp.staging.thegraph.com [401] [] [14] [envoy] [34.122.103.24] [google] [168.194838ms] [Envoy]
+https://gateway.amp.development.thegraph.com [401] [] [14] [cloudflare] [104.18.40.31] [cloudflare] [203.042881ms] [Cloudflare]
+https://gateway.amp.thegraph.com [401] [] [14] [envoy] [35.225.108.150] [google] [225.653492ms] [Envoy]
+https://hidden.api.thegraph.com [401] [] [41] [cloudflare] [104.18.40.31] [cloudflare] [188.010225ms] [Cloudflare]
+https://pinata.thegraph.com [401] [] [81] [cloudflare] [172.64.155.162] [cloudflare] [1.221158078s] [Cloudflare]
+https://victoria-metrics.thegraph.com [401] [] [670] [401 Authorization Required] [cloudflare] [104.18.40.31] [cloudflare] [3.155109854s] [Basic,Cloudflare,Cloudflare Browser Insights,HSTS]
+https://victorialogs.thegraph.com [401] [] [1072] [401 Authorization Required] [cloudflare] [172.64.147.225] [cloudflare] [5.170262985s] [Basic,Cloudflare,Cloudflare Browser Insights,HSTS]
+https://ws.hidden.api.thegraph.com [401] [] [41] [cloudflare] [104.18.40.31] [cloudflare] [5.171116812s] [Cloudflare]
+
+## 403
+https://eth.thegraph.com [403] [] [5046] [Attention Required! | Cloudflare] [cloudflare] [104.18.40.31] [cloudflare] [67.75071ms] [Cloudflare,Cloudflare Browser Insights]
+https://cdn.thena.fi [403] [] [111] [AmazonS3] [13.226.209.44] [cloudfront] [395.688248ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://storage.thegraph.com [403] [] [111] [cloudflare] [172.64.147.225] [cloudflare] [5.128570041s] [Cloudflare]
+
+## 404
+https://api.studio.thegraph.com [404] [] [644] [404 Not Found] [cloudflare] [172.64.147.225] [cloudflare] [112.630458ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://api.thegraph.com [404] [] [644] [404 Not Found] [cloudflare] [104.18.40.31] [cloudflare] [134.815525ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://api.thena.fi [404] [] [1562] [Error] [cloudflare] [172.67.143.31] [cloudflare] [134.874558ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://api.staging.thegraph.com [404] [] [644] [404 Not Found] [cloudflare] [172.64.147.225] [cloudflare] [148.805485ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://api.studio.staging.thegraph.com [404] [] [1046] [404 Not Found] [cloudflare] [172.64.147.225] [cloudflare] [163.490583ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://api-testnet.grc-20.thegraph.com [404] [] [13] [railway-hikari] [69.46.46.26] [374.420028ms]
+https://grt-supply-api.thegraph.com [404] [] [139] [Error] [Vercel] [66.33.60.34] [191.264969ms] [Express,HSTS,Node.js,Vercel]
+https://hs.thegraph.com [404] [] [12892] [Error 404 | Page not found] [cloudflare] [199.60.103.31] [444.410972ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub]
+https://staging.token-api.mcp.thegraph.com [404] [] [0] [] [64.203.83.98] [1.453951215s]
+https://staging.token-api.thegraph.com [404] [] [0] [] [64.203.83.98] [5.583934537s]
+https://subgraph-mcp.x402.thegraph.com [404] [] [0] [cloudflare] [104.18.40.31] [cloudflare] [2.160396534s] [Cloudflare,HSTS]
+https://subgraphs.mcp.thegraph.com [404] [] [0] [cloudflare] [104.18.40.31] [cloudflare] [3.511196249s] [Cloudflare,HSTS]
+https://ws.api.thegraph.com [404] [] [1046] [404 Not Found] [cloudflare] [172.64.147.225] [cloudflare] [5.142974544s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 500
+
+## 502
+
+## 503
+https://api-next.thegraph.com [503] [] [1090] [503 Service Temporarily Unavailable] [cloudflare] [172.64.147.225] [cloudflare] [164.390199ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://gateway-staging.testnet.thegraph.com [503] [] [688] [503 Service Temporarily Unavailable] [cloudflare] [104.18.40.31] [cloudflare] [221.056663ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://scim.thegraph.com [503] [] [190] [503 Service Temporarily Unavailable] [] [35.224.121.90] [google] [138.714712ms] [HSTS]
+https://subgraph-a2a.x402.thegraph.com [503] [] [688] [503 Service Temporarily Unavailable] [cloudflare] [104.18.40.31] [cloudflare] [3.148403159s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://subgraph-a2a.x402.sandbox.thegraph.com [503] [] [688] [503 Service Temporarily Unavailable] [cloudflare] [172.64.147.225] [cloudflare] [4.15996012s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
