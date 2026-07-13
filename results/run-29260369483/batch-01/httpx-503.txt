@@ -1,0 +1,2 @@
+https://api.stats.ref.finance [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [3.162.112.72] [cloudfront] [84.16755ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://test-fw.rendernetwork.com [503] [] [20] [cloudflare] [104.26.1.74] [cloudflare] [100.144811ms] [Cloudflare]

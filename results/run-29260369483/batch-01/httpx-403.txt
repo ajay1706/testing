@@ -1,0 +1,2 @@
+https://assets.ref.finance [403] [] [263] [AmazonS3] [52.85.193.29] [cloudfront] [76.019655ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://img.ref.finance [403] [] [263] [AmazonS3] [52.85.193.93] [cloudfront] [104.71703ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
