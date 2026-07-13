@@ -1,0 +1,4 @@
+https://discord.citrea.xyz [301] [https://discord.gg/citrea] [665] [301 Moved Permanently] [cloudflare] [172.66.153.195] [cloudflare] [173.254001ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://status.safe.citrea.xyz [301] [https://stats.uptimerobot.com:443/BQvZ2hGygU] [134] [301 Moved Permanently] [awselb/2.0] [18.235.63.118] [415.751267ms] [Amazon ELB,Amazon Web Services]
+https://www.citrea.xyz [301] [https://citrea.xyz/] [665] [301 Moved Permanently] [cloudflare] [104.20.25.34] [cloudflare] [1.034421247s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://withdrawal.devnet.citrea.xyz [301] [https://withdrawal.devnet.citrea.xyz/] [167] [301 Moved Permanently] [CloudFront] [65.8.54.42] [cloudfront] [41.126782ms] [Amazon CloudFront,Amazon Web Services]
