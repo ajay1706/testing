@@ -1,0 +1,3 @@
+https://terminal.hashnote.com [301] [https://circle.com/] [0] [CloudFront] [52.85.151.17] [cloudfront] [69.280215ms] [Amazon CloudFront,Amazon Web Services]
+https://portal.hashnote.com [301] [https://circle.com/] [0] [CloudFront] [52.85.151.17] [cloudfront] [74.342942ms] [Amazon CloudFront,Amazon Web Services]
+https://hashnote.com [301] [https://www.hashnote.com/] [166] [301 Moved Permanently] [] [75.2.70.75] [224.124337ms] [HSTS]
