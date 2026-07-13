@@ -1,0 +1,3 @@
+https://login.flipsidecrypto.xyz [302] [https://flipsidecrypto.xyz/] [49] [cloudflare] [172.64.144.74] [cloudflare] [264.705387ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://new.flipsidecrypto.xyz [302] [https://www.getbeamer.com/] [0] [nginx] [35.207.24.13] [google] [419.62786ms] [Google Cloud,Google Cloud CDN,Java,Nginx]
+https://science-server.flipsidecrypto.xyz [302] [https://science-server.flipsidecrypto.xyz/unsupported_browser.htm] [80] [RStudio] [52.73.114.72] [346.514531ms] [Amazon ALB,Amazon Web Services]
