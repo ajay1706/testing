@@ -1,0 +1,4 @@
+[cgi-printenv] [http] [medium] https://api.apollo.com/cgi-bin/printenv.pl
+[prometheus-metrics] [http] [medium] https://api.2quic.avnu.fi/metrics
+[prometheus-metrics] [http] [medium] https://api.stake.aztec.network/metrics
+[prometheus-metrics] [http] [medium] https://api.testnet.stake.aztec.network/metrics
