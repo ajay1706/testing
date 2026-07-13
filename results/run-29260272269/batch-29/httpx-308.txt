@@ -1,0 +1,4 @@
+https://elfi.xyz [308] [https://www.elfi.xyz/] [15] [Vercel] [76.76.21.21] [49.246247ms] [HSTS,Vercel]
+https://app.elfi.xyz [308] [/trade/ETHUSD] [15] [Vercel] [66.33.60.194] [220.75875ms] [HSTS,Vercel]
+https://testnet.elfi.xyz [308] [/trade/ETHUSD] [15] [Vercel] [66.33.60.193] [65.185312ms] [HSTS,Vercel]
+https://dicovertest.ellipal.com [403] [] [308] [403 Forbidden] [openresty] [98.98.253.40] [2.852099151s] [Nginx,OpenResty]
