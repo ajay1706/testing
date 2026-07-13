@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jul 13 15:33:00 UTC 2026
+[+] Run ID: 29260313417
+[+] Batch name: batch-27
+[+] Batch targets:
+meteorwallet.app
+metis.io
+metric.exchange
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jul 13 15:33:05 UTC 2026
+[+] HTTPX input count: 147
+[+] Running httpx...
+[+] httpx completed: Mon Jul 13 15:33:17 UTC 2026
+[+] httpx line count: 114
+[+] Batch completed: Mon Jul 13 15:33:17 UTC 2026
