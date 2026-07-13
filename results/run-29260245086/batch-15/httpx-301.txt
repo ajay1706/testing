@@ -1,0 +1,7 @@
+https://card.argent.xyz [301] [https://card.ready.co/] [0] [] [108.156.107.107] [cloudfront] [241.073553ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://argent.xyz [301] [https://www.argent.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [251.761026ms] [Cloudflare,HSTS,HTTP/3]
+https://gift.argent.xyz [301] [https://gift.ready.co/] [0] [] [3.169.149.80] [cloudfront] [300.057137ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://portfolio.argent.xyz [301] [https://portfolio.ready.co/] [0] [] [3.171.22.45] [cloudfront] [228.252269ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://web.argent.xyz [301] [https://web.ready.co/] [0] [] [108.159.227.9] [cloudfront] [197.15811ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://www.argent.xyz [301] [https://www.ready.co] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [181.732919ms] [Cloudflare,HSTS,HTTP/3]
+https://xplorer.argent.xyz [301] [https://xplorer.ready.co/] [0] [] [18.172.122.32] [cloudfront] [234.358141ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
