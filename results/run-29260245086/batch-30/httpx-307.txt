@@ -1,0 +1,2 @@
+https://greenfield.bnbchain.org [307] [/en/] [4] [Tengine] [108.159.227.31] [cloudfront] [487.654185ms] [Amazon CloudFront,Amazon Web Services,HSTS,Tengine]
+https://www.bnbchain.org [307] [/en] [3] [Tengine] [108.159.227.56] [cloudfront] [5.460269441s] [Amazon CloudFront,Amazon Web Services,HSTS,Tengine]

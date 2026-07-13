@@ -1,0 +1,1 @@
+https://producer.staging.api.arcadia.finance [500] [] [821] [500 Server Error] [cloudflare] [104.26.11.44] [cloudflare] [342.646263ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS,HTTP/3]

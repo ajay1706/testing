@@ -1,0 +1,8 @@
+https://allora-api.mainnet.allora.network [401] [] [12] [] [8.233.54.187] [google] [88.210584ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://allora-api.testnet.allora.network [401] [] [12] [] [8.233.44.232] [google] [233.503851ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://gcp-api.testnet.allora.network [401] [] [12] [] [8.233.44.232] [google] [81.242163ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://gcp-api.mainnet.allora.network [401] [] [12] [] [8.233.54.187] [google] [119.064275ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://use4.gcp-api.testnet.allora.network [401] [] [12] [] [34.111.154.85] [google] [163.979021ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://use4.gcp-api.mainnet.allora.network [401] [] [12] [] [34.149.218.60] [google] [197.773588ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://usw1.gcp-api.mainnet.allora.network [401] [] [12] [] [34.95.87.142] [google] [142.302345ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://usw1.gcp-api.testnet.allora.network [401] [] [12] [] [34.36.228.177] [google] [179.682263ms] [Google Cloud,Google Cloud CDN,HTTP/3]

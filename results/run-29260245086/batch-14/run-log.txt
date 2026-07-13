@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jul 13 15:16:06 UTC 2026
+[+] Run ID: 29260245086
+[+] Batch name: batch-14
+[+] Batch targets:
+aptoslabs.com
+arbitrum.io
+arcadia.finance
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jul 13 15:16:33 UTC 2026
+[+] HTTPX input count: 348
+[+] Running httpx...
+[+] httpx completed: Mon Jul 13 15:17:13 UTC 2026
+[+] httpx line count: 156
+[+] Batch completed: Mon Jul 13 15:17:13 UTC 2026
