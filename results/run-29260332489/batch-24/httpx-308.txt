@@ -1,0 +1,4 @@
+https://app.pooltogether.com [308] [https://pooltogether.com/interfaces] [169] [308 Permanent Redirect] [cloudflare] [172.67.194.231] [cloudflare] [86.900919ms] [Cloudflare]
+https://port.finance [308] [https://www.port.finance/] [15] [Vercel] [76.76.21.21] [264.538863ms] [HSTS,Vercel]
+https://v3.pooltogether.com [308] [https://migrate.cabana.fi/] [169] [308 Permanent Redirect] [cloudflare] [172.67.194.231] [cloudflare] [149.783487ms] [Cloudflare]
+https://v4.pooltogether.com [308] [https://migrate.cabana.fi/] [169] [308 Permanent Redirect] [cloudflare] [104.21.12.141] [cloudflare] [208.393148ms] [Cloudflare]
