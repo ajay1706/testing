@@ -1,0 +1,82 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:33:25 UTC 2026
+
+HTTPX lines: 57
+Live URLs: 57
+
+## 200
+https://analytics.metronome.io [200] [] [759] [Index of /] [Apache/2.4.52 (Ubuntu)] [18.223.93.3] [115.141022ms] [Apache HTTP Server:2.4.52,Ubuntu]
+https://faucet.test.mezo.org [200] [] [5573] [Mezo Faucet] [cloudflare] [104.20.19.243] [cloudflare] [220.70445ms] [Cloudflare]
+https://earn-bot.mezo.org [200] [] [2] [cloudflare] [104.20.19.243] [cloudflare] [275.716958ms] [Cloudflare]
+https://earn-bot.testnet.mezo.org [200] [] [2] [cloudflare] [172.66.169.66] [cloudflare] [277.217675ms] [Cloudflare]
+https://go.metronome.io [200] [] [12854] [Sign In] [] [18.208.125.13] [176.743796ms] [Bootstrap,Prototype,Salesforce Marketing Cloud Account Engagement,jQuery Migrate:3.3.0,jQuery UI,jQuery:3.5.1]
+https://liquidation-bot.test.mezo.org [200] [] [15] [cloudflare] [104.20.19.243] [cloudflare] [349.049479ms] [Cloudflare]
+https://comehome.mezo.org [200] [] [8450] [Bring Bitcoin Home | Mezo] [cloudflare] [104.20.19.243] [cloudflare] [523.934257ms] [Cloudflare,Next.js,Node.js,React,Webpack]
+https://mobile.mezo.org [200] [] [1017] [Mezo Mobile Beta] [cloudflare] [172.66.169.66] [cloudflare] [264.944773ms] [Cloudflare,HSTS,Netlify]
+https://test.metronome.io [200] [] [8738] [Metronome: The Built-to-Last Cryptocurrency] [AmazonS3] [13.32.205.89] [cloudfront] [106.363192ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Bootstrap,Google Analytics,jQuery:3.4.1]
+https://discourse.metronome.io [200] [] [209911] [Metronome DAO - Metronome DAO - Governance Discourse] [nginx] [216.66.8.75] [341.28605ms] [Discourse:2026.7.0,HSTS,Nginx,Ruby on Rails]
+https://safe.mezo.org [200] [] [16755] [Mezo Safe] [AmazonS3] [3.170.152.20] [cloudfront] [305.565525ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,dc.js]
+https://safe.test.mezo.org [200] [] [22162] [Safe{Wallet}] [cloudflare] [104.20.19.243] [cloudflare] [246.220331ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://explorer.test.mezo.org [200] [] [191956] [Mezo Testnet blockchain explorer - View Mezo Testnet stats | Blockscout] [cloudflare] [172.66.169.66] [cloudflare] [611.497563ms] [Cloudflare,Google Cloud,Google Cloud CDN,Next.js,Node.js,React,Webpack,dc.js]
+https://vaults.mevcapital.com [200] [] [28594] [MEV Capital] [Vercel] [216.198.79.1] [523.478195ms] [C3.js,HSTS,Vercel]
+https://anchorage.mezo.org [200] [] [111831] [Mezo: Everyday finance using Bitcoin] [cloudflare] [172.66.169.66] [cloudflare] [1.552057499s] [Cloudflare]
+https://docs.metronome.io [200] [] [336407] [Introduction | Metronome] [cloudflare] [172.64.147.209] [cloudflare] [256.772584ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://explorer.mezo.org [200] [] [191299] [Mezo blockchain explorer - View Mezo stats | Blockscout] [cloudflare] [172.66.169.66] [cloudflare] [1.168579929s] [Cloudflare,Google Cloud,Google Cloud CDN,Next.js,Node.js,React,Webpack,dc.js]
+https://testnet.mezo.org [200] [] [111831] [Mezo: Everyday finance using Bitcoin] [cloudflare] [104.20.19.243] [cloudflare] [756.909956ms] [Cloudflare]
+https://www.mevcapital.com [200] [] [64055] [MEV Capital: On-chain liquidity & DeFi risk management] [cloudflare] [198.202.211.1] [371.494131ms] [Cloudflare,Google Analytics,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,LottieFiles,Unpkg,jQuery:3.5.1,jsDelivr,reCAPTCHA]
+https://mezo.org [200] [] [123890] [Mezo: Everyday finance using Bitcoin] [cloudflare] [104.20.19.243] [cloudflare] [2.193318529s] [Cloudflare]
+https://metronome.io [200] [] [449605] [Metronome] [Framer/c4751cc] [31.43.161.6] [188.605794ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 301
+https://docs.mezo.org [301] [https://mezo.org/docs] [167] [301 Moved Permanently] [cloudflare] [172.66.169.66] [cloudflare] [81.255015ms] [Cloudflare]
+https://discord.mezo.org [301] [https://discord.gg/mezo] [167] [301 Moved Permanently] [cloudflare] [104.20.19.243] [cloudflare] [101.495582ms] [Cloudflare]
+http://clay.prototype.mezo.org [301] [https://clay.prototype.mezo.org/] [167] [301 Moved Permanently] [cloudflare] [104.20.19.243] [cloudflare] [25.598628ms] [Cloudflare]
+https://bankfree.mezo.org [301] [https://mezo.org/] [167] [301 Moved Permanently] [cloudflare] [104.20.19.243] [cloudflare] [124.281546ms] [Cloudflare]
+https://blog.mezo.org [301] [https://mezo.org/blog/] [167] [301 Moved Permanently] [cloudflare] [104.20.19.243] [cloudflare] [148.886943ms] [Cloudflare]
+https://info.mezo.org [301] [https://mezo.org/docs/users/] [167] [301 Moved Permanently] [cloudflare] [172.66.169.66] [cloudflare] [99.169187ms] [Cloudflare]
+https://labitconf.mezo.org [301] [https://mezo.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.169.66] [cloudflare] [91.188857ms] [Cloudflare]
+https://mevcapital.com [301] [https://www.mevcapital.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [297.25085ms] [Cloudflare,HSTS,HTTP/3]
+https://monitoring.test.mezo.org [301] [https://monitoring.test.mezo.org/grafana/] [76] [cloudflare] [104.20.19.243] [cloudflare] [286.479207ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://friends.mezo.org [301] [https://mezo.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.169.66] [cloudflare] [1.143287941s] [Cloudflare]
+https://statement.mezo.org [301] [https://mezo.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.169.66] [cloudflare] [105.702193ms] [Cloudflare]
+https://status.mezo.org [301] [https://monitoring.mezo.org/grafana/public-dashboards/ce8d1e04916244b0908cb967b8530f5f] [167] [301 Moved Permanently] [cloudflare] [172.66.169.66] [cloudflare] [167.854865ms] [Cloudflare]
+http://tipping.test.mezo.org [301] [https://tipping.test.mezo.org/] [167] [301 Moved Permanently] [cloudflare] [104.20.19.243] [cloudflare] [67.448682ms] [Cloudflare]
+https://www.mezo.org [301] [https://mezo.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.169.66] [cloudflare] [275.329634ms] [Cloudflare]
+
+## 302
+https://anchorage-mainnet-preview.mezo.org [302] [https://thesisco.cloudflareaccess.com/cdn-cgi/access/login/anchorage-mainnet-preview.mezo.org?kid=548f4d5dbb1ca7354342a517aaf3e3fa50c5dbf504989b12a8f4778b23237042&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImU4YWI2Yjc4YmIzZTI4OTQ1ZTg0ZmViOTUzMTg1OGY5ODUxYTlkY2Y1MDZiOTRkZGY1NGEyNWY0OGQ5MzRhYzkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjU0OGY0ZDVkYmIxY2E3MzU0MzQyYTUxN2FhZjNlM2ZhNTBjNWRiZjUwNDk4OWIxMmE4ZjQ3NzhiMjMyMzcwNDIiLCJob3N0bmFtZSI6ImFuY2hvcmFnZS1tYWlubmV0LXByZXZpZXcubWV6by5vcmciLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc4Mzk1NzA4NSwibmJmIjoxNzgzOTU2Nzg1LCJpYXQiOjE3ODM5NTY3ODUsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJiNGYwMDBhMjFhYmFhNzQwM2RiZGIxYzFjODgzYjI1MGNlNGY0ZjViMGY0MzY3YWIzYmU5MTk5MDY5ODIwMzYxIn0.d3-r_RdEEdN2xQ9gMYbPq5wWGOAV8ToW2iVRLyzeGEn2eVmytqdWLzlIob6oOeB0XnesKT8tAzFSLf7mnu6U29AfAV8TZ681lmS72cDidkdnSytIMpG-wmIHmP0omJiiB2rAcnEXTzQvNy6Ns1f3lrc62LsAeoFyX437IQL2_lrPBC46Yui-a_vB3ueWc3RIaRG7vNQPkRBdRMdO4Xsf7nFgWgimEKvuuXykiT2wpiEtHtVaL2kWUqf-S6TCxL2Z4hHV0_yFPYcMs59vHoel4Row6l4Rlpxx5mU6z6BczbkzS09A4cd6CtmRffjUH6SibJRhFVr8XxAg8mab1Lf7yw&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.169.66] [cloudflare] [233.781488ms] [Cloudflare]
+https://lending-test.preview.mezo.org [302] [https://thesisco.cloudflareaccess.com/cdn-cgi/access/login/lending-test.preview.mezo.org?kid=4c37397fb15ec781d089dee321b0dd8605aeb6b2191593b1a0a49e74fc074031&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImU4YWI2Yjc4YmIzZTI4OTQ1ZTg0ZmViOTUzMTg1OGY5ODUxYTlkY2Y1MDZiOTRkZGY1NGEyNWY0OGQ5MzRhYzkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjRjMzczOTdmYjE1ZWM3ODFkMDg5ZGVlMzIxYjBkZDg2MDVhZWI2YjIxOTE1OTNiMWEwYTQ5ZTc0ZmMwNzQwMzEiLCJob3N0bmFtZSI6ImxlbmRpbmctdGVzdC5wcmV2aWV3Lm1lem8ub3JnIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3ODM5NTcwODUsIm5iZiI6MTc4Mzk1Njc4NSwiaWF0IjoxNzgzOTU2Nzg1LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiZWQ3MzkwNGJjNzQ3ZDI4MGFlZmE0ZDFhNGVlYzViN2NmMmU2ODczNTczNzQxZWMxM2ZjMDUzOWMxNWFkZDZhNSJ9.k9fDwZHvXO_xlIw9UynGSlSHJyhHZIlFt-xBvDyb3kJXpEdzD0f1pGy4X8p7feSlHWa0IFLmjrPdNjUq_NcGEZ7QyJb_eMvF7MBnag-9TjuKjbXLx7UoAwBWQbk5lSPq4szomXkc68zzZOnXcgoY90uB-oVDdNakke_Je6pLtptrlaGU89RxltKxNfJYTDAmZugI9ToKJsz7Gjk73izK9I-wmwEtF07NAUT2sTUnk4JQKo8P0wcQEhbsbvCQy0qRKTkV99b7MY02cVg8_latgn9hpA_UjkSS5-SPPWFp0oVaruzWwEUR3UP_olk62-9vXNwCZB8tPoAx0jbsAVIx-A&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.169.66] [cloudflare] [212.327032ms] [Cloudflare]
+https://prototype.mezo.org [302] [https://thesisco.cloudflareaccess.com/cdn-cgi/access/login/prototype.mezo.org?kid=dff01f4315e4ad3d2ce6f0db740a8360d416c8d10f0ba3aa22612f26d1a9c237&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImU4YWI2Yjc4YmIzZTI4OTQ1ZTg0ZmViOTUzMTg1OGY5ODUxYTlkY2Y1MDZiOTRkZGY1NGEyNWY0OGQ5MzRhYzkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImRmZjAxZjQzMTVlNGFkM2QyY2U2ZjBkYjc0MGE4MzYwZDQxNmM4ZDEwZjBiYTNhYTIyNjEyZjI2ZDFhOWMyMzciLCJob3N0bmFtZSI6InByb3RvdHlwZS5tZXpvLm9yZyIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzgzOTU3MDg2LCJuYmYiOjE3ODM5NTY3ODYsImlhdCI6MTc4Mzk1Njc4NiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6ImZmOThiZjhkYjA3N2Y4ZmY1OGI1NDhmYWI3MjY0YzU1MTVjMzBjNTU2OTViNWFiNTBiOGE5NzRhNzIwNzlkNjIifQ.WCr4sPzLEGCFEE6Crd-Mc-Ujrq4NtvQxIVtWYS0JBS-2JHyJwbFYaY-T2vALS2-ULlD4NBKY5bc0NJrR1sjRTgYLRwsxbtSNKSZDeZ0Q-o7fkiey4IxvgpGhSyVKT97ugojooyc7KkL1a8PRXNEH5hM33vrt3gKMX_pCP4n3ZS7nOgAvuvGWN62R8rlhhQFWKXWXJro3jdUdAIX5cbWvi3ekT2uNdwyOmylSyBotMdl_HBrJXvHVW__nzjkiLW5k73gTUKIsVVaLyIbFbRBr_y0KAJix8IfuwjOsEAxZJVRxEAv_2N5DS3tyDSJcSRYuJFS6Pc2jRxI-QwT4Tzrd-g&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.169.66] [cloudflare] [261.470287ms] [Cloudflare]
+https://preview.testnet.mezo.org [302] [https://thesisco.cloudflareaccess.com/cdn-cgi/access/login/preview.testnet.mezo.org?kid=c6aa2d70233e2ca585538891e3ecbcc2c40823f12184e36162510425c844824f&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImU4YWI2Yjc4YmIzZTI4OTQ1ZTg0ZmViOTUzMTg1OGY5ODUxYTlkY2Y1MDZiOTRkZGY1NGEyNWY0OGQ5MzRhYzkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImM2YWEyZDcwMjMzZTJjYTU4NTUzODg5MWUzZWNiY2MyYzQwODIzZjEyMTg0ZTM2MTYyNTEwNDI1Yzg0NDgyNGYiLCJob3N0bmFtZSI6InByZXZpZXcudGVzdG5ldC5tZXpvLm9yZyIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzgzOTU3MDg2LCJuYmYiOjE3ODM5NTY3ODYsImlhdCI6MTc4Mzk1Njc4NiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6ImJjOWIyOGVkNjI4YzIzMWYwZTkwNjExNmY4M2U1MjY2N2FiOTc2ZTMzYzVmMjY2MjU4Y2IzYTU4NWU2NTg0M2UifQ.e5oaYkFQQD9CG_cZ3rbj7NBSH3vNLxNdtJNXGFwsA5_6BZIl-7Ou9Eexpmwd51X5AjI93X2ZoxAzcDNZF-88PhP8VmX0Tt9igYVl8TZWa2VkYzSOKcx3WLyOjjfnWR82j7eruVh7CbKG2I4tZqz-0RFf8J_erZ0DocHDlDRU3VnhTTVOquF0-l4w_V2DE-wnPOoDejQOUd7WclEZfkUM6Km2fcQWAfKfj_nnaB6WGXzLRbhygtkiADYIyJWhhbJvyfU8MOuHaFF9sbKp2zbMHjE_nYupbvEXOoRl17HiKzIUYJR95sTsZQg7kVt7XV2O2LfbB97RUXlZ9WeaMAWI1Q&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.169.66] [cloudflare] [307.447849ms] [Cloudflare]
+
+## 307
+
+## 308
+https://app.metronome.io [308] [/eth/] [5] [nginx/1.22.1] [63.185.161.2] [540.646308ms] [Amazon ALB,Amazon Web Services,Nginx:1.22.1]
+https://www.metronome.io [308] [https://metronome.io/] [57] [Framer/c4751cc] [31.43.160.6] [281.001294ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+
+## 403
+https://monitoring.mezo.org [403] [] [5666] [Just a moment...] [cloudflare] [172.66.169.66] [cloudflare] [113.716142ms] [Cloudflare]
+https://liquidation.mevcapital.com [403] [] [6192] [Checking your browser before accessing. Just a moment...] [hcdn] [88.223.87.252] [686.515071ms] [HTTP/3,Hostinger CDN]
+https://test.mezo.org [403] [] [17] [cloudflare] [104.20.19.243] [cloudflare] [529.510971ms] [Cloudflare]
+
+## 404
+https://api.explorer.test.mezo.org [404] [] [74] [cloudflare] [172.66.169.66] [cloudflare] [122.326254ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://id.mezo.org [404] [] [37] [cloudflare] [172.64.149.246] [cloudflare] [50.087874ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://api.explorer.mezo.org [404] [] [74] [cloudflare] [172.66.169.66] [cloudflare] [243.491059ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://id.test.mezo.org [404] [] [37] [cloudflare] [104.18.38.10] [cloudflare] [127.063145ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://assts.mezo.org [404] [] [105] [cloudflare] [172.66.169.73] [cloudflare] [276.355713ms] [Cloudflare,HSTS]
+https://assets.mezo.org [404] [] [27150] [Not Found] [cloudflare] [104.20.19.243] [cloudflare] [439.50857ms] [Cloudflare]
+https://bridge-tbtc-api.mezo.org [404] [] [84] [cloudflare] [104.20.19.243] [cloudflare] [781.445274ms] [Cloudflare]
+https://api.mezo.org [404] [] [64] [cloudflare] [172.66.169.66] [cloudflare] [827.558126ms] [Cloudflare]
+https://rpc-ws-internal.mezo.org [404] [] [9] [cloudflare] [104.20.19.243] [cloudflare] [264.0617ms] [Cloudflare]
+
+## 500
+
+## 502
+
+## 503
+
