@@ -1,0 +1,4 @@
+https://freetez.tezos.com [301] [https://quests.tezos.com/] [0] [] [34.107.233.25] [google] [51.802886ms] [HTTP/3]
+https://developers.tezos.com [301] [https://tezos.com/developer-portal/] [0] [AmazonS3] [3.169.231.76] [cloudfront] [117.15632ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://gear.tezos.com [301] [https://tezos.com/] [0] [] [44.209.207.192] [216.236212ms]
+https://dal-dashboard.tezos.com [301] [https://dal-o-meter.tezos.com/] [15] [Vercel] [216.198.79.1] [393.067711ms] [HSTS,Vercel]
