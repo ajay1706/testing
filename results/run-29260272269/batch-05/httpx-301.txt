@@ -1,0 +1,4 @@
+https://www.blog.celer.network [301] [https://blog.celer.network/] [162] [301 Moved Permanently] [nginx] [192.0.78.132] [184.221182ms] [HSTS,Nginx]
+https://www.celestia.org [301] [https://celestia.org/] [671] [301 Moved Permanently] [cloudflare] [104.26.5.185] [cloudflare] [125.167577ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://catapult.network [301] [https://www.catapulting.com/] [162] [301 Moved Permanently] [nginx] [185.173.21.120] [1.63655865s] [HSTS,Nginx]
+https://www.catapult.network [301] [https://www.catapulting.com/] [162] [301 Moved Permanently] [nginx] [185.173.21.120] [1.065709672s] [HSTS,Nginx]

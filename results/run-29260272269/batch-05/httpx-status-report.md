@@ -1,0 +1,55 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:06:42 UTC 2026
+
+HTTPX lines: 26
+Live URLs: 26
+
+## 200
+https://cbridge-v2-test.celer.network [200] [] [612] [Welcome to nginx!] [nginx/1.18.0 (Ubuntu)] [44.225.63.70] [263.001476ms] [Nginx:1.18.0,Ubuntu]
+https://edensafe.celestia.org [200] [] [33621] [Eden Multisig wallet] [Vercel] [216.150.16.129] [210.456737ms] [HSTS,Vercel]
+https://im-docs.celer.network [200] [] [21161] [Celer IM Overview - Celer Inter-chain Messaging(IM)] [GitHub.com] [185.199.109.153] [210.91457ms] [Fastly,GitHub Pages,Varnish]
+https://cbridge-docs.celer.network [200] [] [19812] [👋 Welcome to cBridge - Celer cBridge] [GitHub.com] [185.199.111.153] [249.256115ms] [Fastly,GitHub Pages,Varnish]
+https://cbridge-analytics.celer.network [200] [] [3109] [Analytics page for Celer cBridge] [Netlify] [52.52.192.191] [494.142786ms] [HSTS,Netlify]
+https://agentpay-docs.celer.network [200] [] [25494] [Background & Overview - AgentPay] [GitHub.com] [185.199.109.153] [281.389365ms] [Fastly,GitHub Pages,Varnish]
+https://intent-docs.celer.network [200] [] [22115] [Introduction - Celer Intent Protocol] [GitHub.com] [185.199.110.153] [382.505853ms] [Fastly,GitHub Pages,Varnish]
+https://cips.celestia.org [200] [] [39401] [Overview - Celestia Improvement Proposals (CIPs)] [cloudflare] [104.26.5.185] [cloudflare] [260.751864ms] [Clipboard.js,Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HTTP/3,Lunr.js,Varnish]
+https://podcast.celestia.org [200] [] [3281] [Caddy nginx/1.31.1] [54.158.235.112] [282.431961ms] [HSTS,Nginx:1.31.1]
+https://blog.celestia.org [200] [] [31962] [Celestia Blog] [cloudflare] [104.26.5.185] [cloudflare] [720.190013ms] [Cloudflare,Cloudflare Browser Insights,Express,Ghost:5.115,HSTS,HTTP/3,Node.js,cdnjs,jsDelivr]
+https://forum.celer.network [200] [] [85515] [Celer Network Forum - The governance forum of Celer Network] [nginx] [52.10.42.252] [538.247788ms] [C3.js,Discourse:2.8.0,HSTS,Nginx,Ruby on Rails]
+https://plausible.celestia.org [200] [] [17118] [Plausible · Simple, privacy-friendly alternative to Google Analytics] [cloudflare] [104.26.4.185] [cloudflare] [816.113215ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://supply.celestia.org [200] [] [501] [cloudflare] [172.67.73.54] [cloudflare] [660.248012ms] [Cloudflare,HSTS,HTTP/3]
+https://docs.celestia.org [200] [] [159371] [Celestia Documentation] [cloudflare] [104.26.5.185] [cloudflare] [221.323489ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HTTP/3,Varnish]
+https://celer.network [200] [] [311201] [Celer Network] [Netlify] [75.2.60.5] [316.443819ms] [Gatsby:2.32.13,HSTS,Netlify,React,Webpack]
+https://forum.celestia.org [200] [] [264822] [Celestia Forum] [cloudflare] [172.67.73.54] [cloudflare] [721.721538ms] [Cloudflare,Cloudflare Browser Insights,Discourse:2026.5.0,HSTS,HTTP/3,Ruby on Rails]
+https://blog.celer.network [200] [] [260619] [Celer Network] [nginx] [192.0.78.132] [153.361096ms] [Cloudflare,Contact Form 7:6.1.6,GoDaddy CoBlocks,Gravatar,Gutenberg,HSTS,Jetpack,MySQL,Nginx,PHP,WordPress,WordPress Block Editor,WordPress.com,cdnjs,jQuery,jQuery Migrate]
+https://zk-verifier.testnet.celestia.org [200] [] [91580] [Bridge Tokens | Celestia ZK Verifier Testnet] [nginx/1.24.0 (Ubuntu)] [51.159.166.149] [653.292989ms] [Next.js,Nginx:1.24.0,Node.js,React,Ubuntu,Webpack]
+https://celestia.org [200] [] [179522] [Fibre Optic Performance for Millisecond Markets | Celestia] [cloudflare] [172.67.73.54] [cloudflare] [699.887595ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://status.celestia.org [200] [] [135427] [Celestia Network Status] [Vercel] [66.33.60.194] [664.596766ms] [HSTS,Vercel,dc.js]
+
+## 301
+https://www.blog.celer.network [301] [https://blog.celer.network/] [162] [301 Moved Permanently] [nginx] [192.0.78.132] [184.221182ms] [HSTS,Nginx]
+https://www.celestia.org [301] [https://celestia.org/] [671] [301 Moved Permanently] [cloudflare] [104.26.5.185] [cloudflare] [125.167577ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://catapult.network [301] [https://www.catapulting.com/] [162] [301 Moved Permanently] [nginx] [185.173.21.120] [1.63655865s] [HSTS,Nginx]
+https://www.catapult.network [301] [https://www.catapulting.com/] [162] [301 Moved Permanently] [nginx] [185.173.21.120] [1.065709672s] [HSTS,Nginx]
+
+## 302
+https://sgn-v1.celer.network [302] [https://sgn-v1.celer.network/explorer/] [154] [302 Found] [nginx/1.18.0 (Ubuntu)] [44.236.25.243] [286.996244ms] [Nginx:1.18.0,Ubuntu]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://explorer.celer.network [404] [] [107] [Vercel] [76.76.21.142] [132.66703ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
