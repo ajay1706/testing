@@ -1,0 +1,2 @@
+https://docs.exactly.finance [302] [https://docs.exact.ly/] [143] [302 Found] [cloudflare] [104.21.38.244] [cloudflare] [121.405536ms] [Cloudflare,HTTP/3]
+https://exactly.finance [302] [https://exact.ly/] [143] [302 Found] [cloudflare] [172.67.168.216] [cloudflare] [62.718933ms] [Cloudflare,HTTP/3]
