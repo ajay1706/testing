@@ -1,0 +1,100 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:06:42 UTC 2026
+
+HTTPX lines: 73
+Live URLs: 73
+
+## 200
+https://defi.teller.org [200] [] [2347] [Teller | Earn and Borrow Without Liquidations] [railway-hikari] [69.46.46.97] [136.914722ms] [Express,Node.js]
+https://internal-dash.teller.org [200] [] [748] [Teller Admin Dashboard] [railway-hikari] [69.46.46.25] [322.038521ms]
+https://delta-neutral-api.teller.org [200] [] [1120] [Teller Strategies Server] [cloudflare] [172.67.74.1] [cloudflare] [527.628702ms] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://eco.teller.org [200] [] [3235] [Teller ATM | Time-based defi loans on any ERC20, no liquidations.] [cloudflare] [172.67.74.1] [cloudflare] [651.112381ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,Netlify]
+https://ape.teller.org [200] [] [23421] [Teller | Lend & Borrow, with no margin-calls. Use Bitcoin & 100+ assets as      Collateral.] [cloudflare] [172.67.74.1] [cloudflare] [211.469993ms] [Amplitude,Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HSTS,Netlify]
+https://atm.teller.org [200] [] [3655] [Teller ATM | No margin call defi loans on any ERC20.] [cloudflare] [104.26.11.145] [cloudflare] [628.088081ms] [Amplitude,Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,Netlify]
+https://blog.team.finance [200] [] [67645] [Official Team Finance Blog - Locks, Vesting, Staking, Multisender, Minting and more] [cloudflare] [104.21.91.143] [cloudflare] [164.495021ms] [Cloudflare,Cloudflare Browser Insights,CookieYes,Ghost:6.52,Google Analytics,HTTP/3,Node.js,Varnish,jsDelivr]
+https://alpha.lite.app.teller.org [200] [] [22917] [Teller | Lend & Borrow, with no margin-calls. Use Bitcoin & 100+ assets as      Collateral.] [Netlify] [98.84.224.111] [414.469428ms] [Amplitude,Google Tag Manager,HSTS,Netlify]
+https://partner.teller.org [200] [] [1083] [Partner Intake — Teller] [cloudflare] [104.26.11.145] [cloudflare] [880.106167ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Netlify]
+https://lite.app.teller.org [200] [] [22917] [Teller | Lend & Borrow, with no margin-calls. Use Bitcoin & 100+ assets as      Collateral.] [Netlify] [18.208.88.157] [278.649056ms] [Amplitude,Google Tag Manager,HSTS,Netlify]
+https://develop.app.teller.org [200] [] [22811] [Teller | Lend & Borrow, with no margin-calls. Use Bitcoin & 100+ assets as      Collateral.] [Netlify] [18.208.88.157] [836.288994ms] [Amplitude,Atlassian Jira Issue Collector,HSTS,Netlify]
+https://algorand.team.finance [200] [] [36819] [Team Finance] [cloudflare] [104.21.91.143] [cloudflare] [705.168949ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://app.team.finance [200] [] [68399] [#1 Solution for Token & Digital Asset Management | Team.finance] [cloudflare] [104.21.91.143] [cloudflare] [128.996972ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,Google Tag Manager,HSTS,HTTP/3,Vercel]
+https://blog.teller.org [200] [] [60362] [Teller Blog] [cloudflare] [104.26.11.145] [cloudflare] [649.434233ms] [Cloudflare,Cloudflare Browser Insights,Express,Ghost:6.38,Google Tag Manager,Node.js,cdnjs,jQuery CDN,jQuery:3.5.1,jsDelivr]
+https://casper.team.finance [200] [] [40489] [Team Finance] [cloudflare] [104.21.91.143] [cloudflare] [555.220583ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://pro.teller.org [200] [] [41887] [Teller: Borrow cash without collateral] [cloudflare] [104.26.11.145] [cloudflare] [254.193986ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://consensus.team.finance [200] [] [131750] [Team Finance x Consensus 2026 — 20% Off Pro Plan] [cloudflare] [172.67.222.22] [cloudflare] [401.190094ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://storybook.teller.org [200] [] [2312] [Webpack App] [Netlify] [98.84.224.111] [908.737388ms] [HSTS,Netlify]
+https://taulabs.xyz [200] [] [22789] [TauLabs.xyz for sale | Spaceship.com] [openresty] [52.40.42.113] [618.842197ms] [HSTS,Nginx,OpenResty]
+https://conflux.team.finance [200] [] [83883] [Team Finance: Token & Liquidity Locks + Launch Tokens & Vesting Contracts] [cloudflare] [172.67.222.22] [cloudflare] [404.73294ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://widget-storybook.teller.org [200] [] [3350] [@storybook/cli - Storybook] [Netlify] [18.208.88.157] [792.218332ms] [HSTS,Netlify]
+https://v2.teller.org [200] [] [1622] [Teller V2 Marketplace] [Netlify] [98.84.224.111] [971.486468ms] [Atlassian Jira Issue Collector,Google Analytics,HSTS,Netlify]
+https://www.team.finance [200] [] [29688] [Team Finance: Token & Liquidity Locks + Launch Tokens & Vesting Contracts] [cloudflare] [172.67.222.22] [cloudflare] [204.403653ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack,jsDelivr]
+https://www.taulabs.xyz [200] [] [22789] [TauLabs.xyz for sale | Spaceship.com] [openresty] [44.232.173.249] [554.729929ms] [HSTS,Nginx,OpenResty]
+https://xdc.teller.org [200] [] [23421] [Teller | Lend & Borrow, with no margin-calls. Use Bitcoin & 100+ assets as      Collateral.] [cloudflare] [172.67.74.1] [cloudflare] [201.943149ms] [Amplitude,Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HSTS,Netlify]
+https://solana.team.finance [200] [] [73244] [Team Finance - Solana] [cloudflare] [104.21.91.143] [cloudflare] [579.717907ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://stellar.team.finance [200] [] [95498] [Team Finance - Stellar] [cloudflare] [104.21.91.143] [cloudflare] [634.143596ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://tezos.team.finance [200] [] [87949] [Team Finance] [cloudflare] [104.21.91.143] [cloudflare] [666.207068ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://perps.teller.org [200] [] [136523] [PERPS.TELLER.ORG - A Dub Custom Domain | Dub] [cloudflare] [172.67.74.1] [cloudflare] [633.673998ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://replit-demo.teller.org [200] [] [59624] [Teller: DeFi lending on ENS, NFTs, Tokens] [Google Frontend] [34.111.179.208] [google] [3.432192309s] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://www.teller.org [200] [] [169697] [Teller: Borrow cash without collateral] [cloudflare] [104.26.11.145] [cloudflare] [438.346104ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://test-dub.teller.org [200] [] [136709] [TEST-DUB.TELLER.ORG - A Dub Custom Domain | Dub] [cloudflare] [104.26.11.145] [cloudflare] [509.589656ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://handbook.team.finance [200] [] [374703] [What is Team Finance? | Team Finance] [cloudflare] [104.18.40.47] [cloudflare] [230.252451ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://debit.teller.org [200] [] [387804] [Introduction | Debit Whitepaper] [cloudflare] [172.67.74.1] [cloudflare] [357.945558ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://ad.teller.org [301] [https://teller.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.11.145] [cloudflare] [69.648717ms] [Cloudflare]
+https://list.teller.org [301] [https://app.teller.org/base/get-listed] [671] [301 Moved Permanently] [cloudflare] [104.26.11.145] [cloudflare] [160.296598ms] [Cloudflare,Cloudflare Browser Insights]
+https://nft.teller.org [301] [https://v2.nftx.io/vault/0x0372d9189e47daac7db1b11bea1598f3987fd74b/buy/] [671] [301 Moved Permanently] [cloudflare] [172.67.74.1] [cloudflare] [426.085492ms] [Cloudflare,Cloudflare Browser Insights]
+http://mini.teller.org [301] [https://mini.teller.org/] [39] [Netlify] [18.208.88.157] [173.26873ms] [Netlify]
+https://teller.org [301] [https://www.teller.org/] [166] [301 Moved Permanently] [cloudflare] [172.67.74.1] [cloudflare] [268.718542ms] [Cloudflare,HSTS,HTTP/3]
+http://alpha.app.teller.org [301] [https://alpha.app.teller.org/] [44] [Netlify] [18.208.88.157] [7.930525ms] [Netlify]
+http://ensmerkleproof.teller.org [301] [https://ensmerkleproof.teller.org/] [671] [301 Moved Permanently] [cloudflare] [104.26.10.145] [cloudflare] [22.800963ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://bloomwebhook.teller.org [301] [https://bloomwebhook.teller.org/] [671] [301 Moved Permanently] [cloudflare] [104.26.11.145] [cloudflare] [33.219943ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://api.subgraph.teller.org [301] [https://api.subgraph.teller.org/] [671] [301 Moved Permanently] [cloudflare] [104.26.10.145] [cloudflare] [29.594802ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://dash.internal.teller.org [301] [https://dash.internal.teller.org/] [671] [301 Moved Permanently] [cloudflare] [172.67.74.1] [cloudflare] [33.018065ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://backend.team.finance [301] [https://backend.team.finance:443/] [0] [cloudflare] [172.67.222.22] [cloudflare] [71.532212ms] [Cloudflare,HTTP/3]
+http://indexer.subgraph.teller.org [301] [https://indexer.subgraph.teller.org/] [671] [301 Moved Permanently] [cloudflare] [104.26.11.145] [cloudflare] [19.840506ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://ipfs.subgraph.teller.org [301] [https://ipfs.subgraph.teller.org/] [671] [301 Moved Permanently] [cloudflare] [172.67.74.1] [cloudflare] [23.849206ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://koala-api.teller.org [301] [https://koala-api.teller.org/] [671] [301 Moved Permanently] [cloudflare] [104.26.10.145] [cloudflare] [22.333035ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://obsidian-db.teller.org [301] [https://obsidian-db.teller.org/] [671] [301 Moved Permanently] [cloudflare] [104.26.10.145] [cloudflare] [31.184835ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://staging.app.teller.org [301] [https://staging.app.teller.org/] [46] [Netlify] [98.84.224.111] [8.925345ms] [Netlify]
+http://subgraph.teller.org [301] [https://subgraph.teller.org/] [671] [301 Moved Permanently] [cloudflare] [172.67.74.1] [cloudflare] [24.128331ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://v1.teller.org [301] [https://v1.teller.org/] [37] [Netlify] [18.208.88.157] [7.013519ms] [Netlify]
+http://validator.teller.org [301] [https://validator.teller.org/] [671] [301 Moved Permanently] [cloudflare] [172.67.74.1] [cloudflare] [22.219297ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://ws.subgraph.teller.org [301] [https://ws.subgraph.teller.org/] [671] [301 Moved Permanently] [cloudflare] [172.67.74.1] [cloudflare] [32.022144ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+
+## 302
+https://widget.teller.org [302] [https://widget.teller.org/?rb.routing.mode=proxy&rb.routing.signature=530051] [0] [cloudflare] [104.26.11.145] [cloudflare] [261.307201ms] [Cloudflare,HSTS]
+
+## 307
+https://docs.teller.org [307] [https://docs.teller.org/teller-docs/] [15] [cloudflare] [172.67.74.1] [cloudflare] [205.950051ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://team.finance [307] [https://www.team.finance/] [15] [Vercel] [216.150.16.1] [210.032567ms] [HSTS,Vercel]
+
+## 308
+https://widgets.team.finance [308] [https://www.team.finance/] [15] [cloudflare] [104.21.91.143] [cloudflare] [488.564735ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+
+## 403
+https://campaign.teller.org [403] [] [17] [cloudflare] [172.64.149.213] [cloudflare] [162.178341ms] [Cloudflare]
+https://go.team.finance [403] [] [17] [cloudflare] [104.21.91.143] [cloudflare] [595.847716ms] [Cloudflare,HTTP/3]
+
+## 404
+https://api-canary.team.finance [404] [] [139] [Error] [Google Frontend] [192.178.155.121] [google] [113.378994ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://branch.app.teller.org [404] [] [50] [Netlify] [98.84.224.111] [115.612523ms] [Netlify]
+https://future.app.teller.org [404] [] [50] [Netlify] [18.208.88.157] [138.151343ms] [Netlify]
+https://gpt.teller.org [404] [] [139] [Error] [railway-hikari] [69.46.46.53] [468.587841ms] [Express,Node.js]
+https://api.team.finance [404] [] [643] [Error] [cloudflare] [172.67.222.22] [cloudflare] [614.503023ms] [Cloudflare,Cloudflare Browser Insights,Express,Google Cloud,Google Cloud Trace,HTTP/3,Node.js]
+https://tbot2.teller.org [404] [] [139] [Error] [railway-hikari] [69.46.46.102] [246.450166ms] [Express,Node.js]
+https://webapi.teller.org [404] [] [0] [cloudflare] [162.159.140.98] [cloudflare] [319.331926ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://wildcard.internal.app.teller.org [404] [] [50] [Netlify] [18.208.88.157] [109.221416ms] [Netlify]
+https://wildcard.app.teller.org [404] [] [50] [Netlify] [98.84.224.111] [152.893021ms] [Netlify]
+
+## 500
+
+## 502
+https://tbot.teller.org [502] [] [16] [cloudflare] [172.67.74.1] [cloudflare] [370.299329ms] [Cloudflare]
+
+## 503
+https://db-discovery.teller.org [503] [] [1068] [503 Service Temporarily Unavailable] [cloudflare] [104.26.11.145] [cloudflare] [108.017366ms] [Cloudflare,Cloudflare Browser Insights]
+
