@@ -1,0 +1,41 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:39:34 UTC 2026
+
+HTTPX lines: 12
+Live URLs: 12
+
+## 200
+https://captain.eliza.zyfi.org [200] [] [1648] [3CX Webclient] [nginx] [157.245.15.194] [51.700494ms] [HSTS,Nginx]
+https://client.eliza.zyfi.org [200] [] [1648] [3CX Webclient] [nginx] [157.245.15.194] [51.466032ms] [HSTS,Nginx]
+https://eliza.eliza.zyfi.org [200] [] [1648] [3CX Webclient] [nginx] [157.245.15.194] [120.819954ms] [HSTS,Nginx]
+https://api.zyfi.org [200] [] [3847] [Zyfi API] [Vercel] [76.76.21.98] [166.671349ms] [HSTS,Vercel]
+https://www.zyfi.org [200] [] [5604] [Zyfi - Building the best on-chain user experience with Native AA and Intents] [Vercel] [76.76.21.21] [254.210631ms] [HSTS,Vercel]
+https://staging.ai.zyfi.org [200] [] [6778] [Zyfai | The Yield Agent for Onchain Wealth] [Vercel] [76.76.21.22] [311.271668ms] [Contentsquare,Google Analytics,HSTS,Vercel]
+https://staging.zyfi.org [200] [] [5604] [Zyfi - Building the best on-chain user experience with Native AA and Intents] [Vercel] [66.33.60.130] [338.090883ms] [HSTS,Vercel]
+https://staging.api.zyfi.org [200] [] [3847] [Zyfi API] [Vercel] [76.76.21.61] [377.995099ms] [HSTS,Vercel]
+https://ai.staging.zyfi.org [200] [] [6778] [Zyfai | The Yield Agent for Onchain Wealth] [Vercel] [66.33.60.67] [456.847165ms] [Contentsquare,Google Analytics,HSTS,Vercel]
+https://dev.api.zyfi.org [200] [] [3847] [Zyfi API] [Vercel] [66.33.60.66] [552.689121ms] [HSTS,Vercel]
+https://docs.zyfi.org [200] [] [430665] [What is Zyfi? | Zyfi] [cloudflare] [172.64.147.209] [cloudflare] [459.702372ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+
+## 302
+
+## 307
+
+## 308
+https://zyfi.org [308] [https://www.zyfi.org/] [15] [Vercel] [76.76.21.21] [230.094254ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+
+## 500
+
+## 502
+
+## 503
+
