@@ -1,0 +1,3 @@
+https://anchor-sep-server-dev.stellar.org [302] [https://anchor-sep-server-dev.stellar.org/.well-known/stellar.toml] [0] [cloudflare] [104.18.7.25] [cloudflare] [266.934238ms] [Cloudflare,HSTS]
+https://anchor-sep-server-stg.stellar.org [302] [https://anchor-sep-server-stg.stellar.org/.well-known/stellar.toml] [0] [cloudflare] [104.18.7.25] [cloudflare] [298.024717ms] [Cloudflare,HSTS]
+https://testanchor.stellar.org [302] [https://testanchor.stellar.org/.well-known/stellar.toml] [0] [cloudflare] [104.18.7.25] [cloudflare] [1.261761504s] [Cloudflare,HSTS]
