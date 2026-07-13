@@ -1,0 +1,6 @@
+https://dd.webacy.com [301] [https://www.webacy.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [336.861141ms] [Cloudflare,HSTS,HTTP/3]
+https://go.wisdomtree.com [301] [https://www.clearslide.com/] [162] [301 Moved Permanently] [nginx/1.14.1] [35.163.136.49] [432.882914ms] [Amazon ELB,Amazon Web Services,HSTS,Nginx:1.14.1]
+https://qr.wisdomtree.com [301] [https://uniqode.com] [162] [301 Moved Permanently] [nginx] [54.157.98.156] [605.750465ms] [HSTS,Nginx]
+https://wisdomtree.com [301] [https://www.wisdomtree.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.166.2] [cloudflare] [60.370139ms] [Cloudflare,HTTP/3]
+https://world.webacy.com [301] [https://www.webacy.com/blog/] [167] [301 Moved Permanently] [cloudflare] [172.67.138.89] [cloudflare] [66.784326ms] [Cloudflare,HSTS]
+https://webacy.com [301] [https://www.webacy.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [275.616084ms] [Cloudflare,HSTS,HTTP/3]
