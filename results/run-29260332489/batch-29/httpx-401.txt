@@ -1,0 +1,4 @@
+https://rpc-bsc.radiant.capital [401] [] [77] [] [38.246.35.73] [53.296199ms]
+https://rpc.mainnet.radiant.capital [401] [] [76] [] [64.130.59.13] [57.739951ms]
+https://rpc.radiant.capital [401] [] [75] [] [64.130.36.235] [54.155925ms]
+https://rpc.base.radiant.capital [401] [] [76] [] [64.130.51.230] [128.727912ms]
