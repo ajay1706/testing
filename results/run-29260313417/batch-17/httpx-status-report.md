@@ -1,0 +1,48 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:22:07 UTC 2026
+
+HTTPX lines: 19
+Live URLs: 19
+
+## 200
+https://loopscale.xyz [200] [] [114] [] [13.248.169.48] [32.806231ms]
+https://www.loopscale.xyz [200] [] [114] [] [13.248.169.48] [72.447073ms]
+https://pro.logx.trade [200] [] [3616] [LogX Pro] [Vercel] [64.29.17.65] [83.806425ms] [HSTS,Vercel]
+https://strapi.lombard.finance [200] [] [3290] [Welcome to your Strapi app] [nginx/1.20.0] [54.153.53.40] [258.062267ms] [Amazon S3,Amazon Web Services,HSTS,Nginx:1.20.0]
+https://claim.lombard.finance [200] [] [13565] [Lombard: Bitcoin Capital Markets Onchain] [AmazonS3] [13.35.78.98] [cloudfront] [223.260093ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS,reCAPTCHA]
+https://app.logx.trade [200] [] [3310] [Logx Network - DeFi Superapp 🚀] [Vercel] [64.29.17.1] [295.114631ms] [HSTS,Vercel]
+https://docs.lombard.finance [200] [] [292834] [Lombard, The Onchain Bitcoin Company] [] [3.170.42.49] [cloudfront] [33.529985ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.lombard.finance [200] [] [507867] [Lombard: Bitcoin Capital Markets Onchain] [AmazonS3] [3.167.37.117] [cloudfront] [50.701169ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+
+## 301
+https://logx.trade [301] [https://logx.network] [55] [ip-10-123-124-207.ec2.internal] [15.197.225.128] [53.820789ms]
+https://lombard.finance [301] [https://www.lombard.finance/] [0] [AmazonS3] [3.170.3.18] [cloudfront] [104.166013ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://www.logx.trade [301] [https://www.logx.network] [59] [ip-10-123-124-104.ec2.internal] [15.197.225.128] [327.69922ms]
+
+## 302
+https://backend-aggregator.logx.trade [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=715321537748-e2vm576p5b4d0lg2v5kl2d52ckbngls5.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/715321537748-e2vm576p5b4d0lg2v5kl2d52ckbngls5.apps.googleusercontent.com:handleRedirect&code_challenge=y509k0RtR9N2C6ITdZT_iJ2rNe4kX_iZo8QwMAu3-UM&code_challenge_method=S256&cred_ref=true&state=ARrt-m8EqMWh1Pf89E0xXmM832jLwZ2Z-_NGUr-poiCmbVBOtWb4Y2gW6aN38Q65VSPwUQbkoDf8iUSIWTmjCHwLutGwla8l3rtaWsgp1fe8GQNmso5KKDh6Yr4VVh7HdJTyamkXQ2wqsi0rgElz7yR71lirys-4SgnJsj43aOg-hH-yD2LBusCVmJr7qYf1dXj1FDHODiGQlXG8XUuyc5-zIK_6eV6xmLrJ0TglfX0yUFZmLvIi8d-ADD0UVQcKIkm7YXD-N1bo-OKaa-91YdlT8m_D0u9F0dTBnoK4eR5MrOkQPNcvuc_MitSxffV1rp6tlHP_e023blxBxz9cc_Wvd4sX6t98MJtADrpwnT3b_QSzlm_uon-zkOHXWCV7_ag3hXuMqB8CtTEfzRWloLm_nS2yLvpZWjkEMO8yycIBhVUCZQxHmc9XstRbF7lc2H4lfXpaFyFeuJ1sjDhZ8Eu5Eu8e95xMh1CKgVK3BrXMJQw_fmLjhMUEdZgvQvIgHv39ucbg9u5GoYcPcN7xYGG-fNzRv1mZmjsq2fMrR4Cqbt8gspnnzYlya0k9wqQTmyLLQEa3cBe01UBLxScko0CemC6vhwQH-PqttpauaQ3c3ZaTujn52LwqQ1TzfiwU6GqejRlWr6Fi1T1pnECvpOkU9Yfi_x_zfvI8m2Z9HuIYMzjB00GX01cdGu8Cpwb_CGUP5YzfZty3CKAxWbtE_nwj9EjJGNMFZEI_ePnk_IB7EeXC0XY_tCCdKAd0OF8gj2YEZVOfcyo30HfeVaAwyIho3H50tNym3HfXSG7wB0wEKCYOQoOg8HVqBfCuhKM-alSPGcPJedCJHSajo_qO7InH6dbf9Jgh8vR7cq6YqKEZLjmLUXXvO1cR0zxU_Rk_AnA1qfCuSBY0s5iZjjvAjuCoXRYpYNOZbVtpao5SKOrxGCip1CV34ASRgpsOX8pujdLibgP2Ocal4G708y9qxjEFqgMcpYwih9snfeGi-l9SYjEzV9l0bAaw4-iR0JPpvrFvwfyxt1PqxS2tMWHjd6qBS7AOM4MDUPuFql_qOeAhnF8ARTd1PCYx18GBtntBdWxASRXOYw6kC3rfk-iHnfN9gZ8gmy39io6cW11J1He1XMHI4GwvmNafAiMJ88Qr2xjeiQ8gBMVjut_GKJWMJv6wz012hvQeStXM4UOHyaFJDOa9SIrCycBaczsr] [36] [] [35.241.59.223] [google] [79.664095ms] [HTTP/3]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://backend-lp.logx.trade [403] [] [134] [403] [] [34.49.1.115] [google] [184.847836ms] [HSTS,HTTP/3]
+https://strapi-assets.lombard.finance [403] [] [111] [AmazonS3] [3.167.99.32] [cloudfront] [350.838286ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+http://bridge.logx.trade [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [142.251.179.121] [google] [21.978235ms]
+https://mainnet.prod.lombard.finance [404] [] [146] [404 Not Found] [] [18.160.46.102] [cloudfront] [278.775539ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://gastald-testnet.prod.lombard.finance [404] [] [33] [] [54.218.199.149] [349.95034ms] [HSTS]
+https://staging.prod.lombard.finance [404] [] [32] [] [3.162.112.58] [cloudfront] [574.214545ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://api.lombard.finance [404] [] [146] [404 Not Found] [] [52.85.193.19] [cloudfront] [611.880241ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 500
+
+## 502
+
+## 503
+

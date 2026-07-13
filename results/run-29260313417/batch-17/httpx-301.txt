@@ -1,0 +1,3 @@
+https://logx.trade [301] [https://logx.network] [55] [ip-10-123-124-207.ec2.internal] [15.197.225.128] [53.820789ms]
+https://lombard.finance [301] [https://www.lombard.finance/] [0] [AmazonS3] [3.170.3.18] [cloudfront] [104.166013ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://www.logx.trade [301] [https://www.logx.network] [59] [ip-10-123-124-104.ec2.internal] [15.197.225.128] [327.69922ms]
