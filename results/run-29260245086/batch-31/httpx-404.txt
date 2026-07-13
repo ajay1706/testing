@@ -1,0 +1,3 @@
+https://api.boros.finance [404] [] [18] [cloudflare] [172.66.166.155] [cloudflare] [126.63538ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://api-token.mainnet.boba.network [404] [] [9] [cloudflare] [172.66.174.131] [cloudflare] [189.742428ms] [Cloudflare,HSTS,HTTP/3]
+https://goerli.boba.network [404] [] [13] [awselb/2.0] [3.150.92.31] [306.166001ms] [Amazon ELB,Amazon Web Services]
