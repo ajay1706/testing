@@ -1,0 +1,3 @@
+https://grafana.internal.anza.xyz [302] [/login] [29] [nginx/1.27.5] [91.242.214.51] [386.99231ms] [Nginx:1.27.5]
+https://news.apex.exchange [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=news.apex.exchange] [116] [nginx] [67.199.248.13] [260.566846ms] [HSTS,HTTP/3,Nginx]
+https://metrics.internal.anza.xyz [302] [/login] [29] [nginx/1.27.5] [91.242.214.51] [397.688371ms] [Nginx:1.27.5]

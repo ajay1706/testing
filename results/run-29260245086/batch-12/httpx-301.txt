@@ -1,0 +1,6 @@
+https://deeplink.omni.apex.exchange [301] [https://omni.apex.exchange] [61] [] [138.113.24.210] [335.605714ms] [Amazon ALB,Amazon Web Services]
+https://blog.apex.exchange [301] [https://www.apex.exchange/blog/] [17] [] [138.113.24.210] [471.670101ms] [Amazon ALB,Amazon Web Services]
+https://deeplink.pro.apex.exchange [301] [https://pro.apex.exchange] [60] [] [138.113.24.210] [486.308298ms] [Amazon ALB,Amazon Web Services]
+https://apex.exchange [301] [https://www.apex.exchange//] [0] [AmazonS3] [3.169.173.82] [cloudfront] [493.647052ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://dev.pro.apex.exchange [301] [https://dev.pro.apex.exchange:443/] [134] [301 Moved Permanently] [awselb/2.0] [18.138.148.143] [322.188666ms] [Amazon ELB,Amazon Web Services]
+http://quote-dev.pro.apex.exchange [301] [https://quote-dev.pro.apex.exchange:443/] [134] [301 Moved Permanently] [awselb/2.0] [54.169.182.79] [324.386168ms] [Amazon ELB,Amazon Web Services]

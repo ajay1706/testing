@@ -1,0 +1,6 @@
+https://l.anza.xyz [404] [] [79] [Vercel] [76.76.21.142] [497.360042ms] [HSTS,Vercel]
+https://api.apex.exchange [404] [] [19] [] [52.76.117.173] [788.78648ms] [Amazon ALB,Amazon Web Services]
+https://quote.omni.apex.exchange [404] [] [19] [] [138.113.24.210] [391.359077ms]
+https://akamai-pro.apex.exchange [404] [] [19] [] [23.46.228.175] [1.207390376s] [Amazon ALB,Amazon Web Services]
+https://static-pro.apex.exchange [404] [] [538] [404 Not Found] [AmazonS3] [140.150.36.123] [570.475239ms] [Amazon S3,Amazon Web Services]
+https://tg-testnet.pro.apex.exchange [404] [] [19] [] [47.131.183.7] [887.222458ms]
