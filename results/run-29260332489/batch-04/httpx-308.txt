@@ -1,0 +1,2 @@
+http://fullnode.testnet.aptos.nightly.app [308] [https://fullnode.testnet.aptos.nightly.app/] [0] [Caddy] [136.243.176.175] [222.544762ms] [Caddy]
+http://index.testnet.aptos.nightly.app [308] [https://index.testnet.aptos.nightly.app/] [0] [Caddy] [136.243.176.175] [228.811392ms] [Caddy]
