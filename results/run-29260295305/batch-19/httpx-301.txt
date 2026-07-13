@@ -1,0 +1,6 @@
+http://www.shop.hivemapper.com [301] [https://www.shop.hivemapper.com/] [162] [301 Moved Permanently] [nginx] [18.211.166.153] [12.543253ms] [Nginx]
+http://www.bee.hivemapper.com [301] [https://www.bee.hivemapper.com/] [162] [301 Moved Permanently] [nginx] [18.211.166.153] [12.785492ms] [Nginx]
+http://info.hivemapper.com [301] [https://info.hivemapper.com/] [162] [301 Moved Permanently] [nginx] [34.202.203.47] [12.808786ms] [Nginx]
+http://www.info.hivemapper.com [301] [https://www.info.hivemapper.com/] [162] [301 Moved Permanently] [nginx] [18.211.166.153] [13.60182ms] [Nginx]
+http://shop.hivemapper.com [301] [https://shop.hivemapper.com/] [162] [301 Moved Permanently] [nginx] [54.243.86.28] [14.759345ms] [Nginx]
+https://bee.hivemapper.com [301] [https://beemaps.com/bee] [167] [301 Moved Permanently] [cloudflare] [104.20.46.61] [cloudflare] [148.20353ms] [Cloudflare]
