@@ -1,0 +1,146 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:36:48 UTC 2026
+
+HTTPX lines: 121
+Live URLs: 121
+
+## 200
+https://crypto.ethereum.org [200] [] [42717] [Home<!-- --> | <!-- -->Ethereum Foundation Cryptography Research] [Netlify] [15.197.167.90] [55.791156ms] [HSTS,Netlify,Next.js,Node.js,React,Webpack]
+https://challenges.ethereum.org [200] [] [1352] [Ethereum Bounties] [cloudflare] [104.19.239.224] [cloudflare] [405.480853ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,Varnish,jQuery,jQuery CDN]
+https://ceremony.ethereum.org [200] [] [2177] [KZG Summoning Ceremony] [AmazonS3] [65.8.54.72] [cloudfront] [459.637114ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://affiliate-form.ether.fi [200] [] [19290] [Ether.fi Affiliate Form] [Vercel] [64.239.109.65] [97.439271ms] [HSTS,Vercel]
+https://eest.ethereum.org [200] [] [3441] [execution-spec-tests docs have moved] [cloudflare] [104.18.176.152] [cloudflare] [209.387166ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,Varnish]
+https://eips.ethereum.org [200] [] [13556] [Home | Ethereum Improvement Proposals] [GitHub.com] [185.199.111.153] [168.157728ms] [Bootstrap:5.3.1,Cloudflare,Fastly,GitHub Pages,Popper:2.11.6,Varnish,cdnjs,jsDelivr]
+https://careers.ethena.fi [200] [] [65043] [Work with us - Ethena Labs] [] [207.120.32.133] [190.723365ms] [Font Awesome,HSTS,Ruby,Ruby on Rails,Section.io,Stimulus,Varnish]
+https://evmc.ethereum.org [200] [] [6196] [EVMC: EVMC – Ethereum Client-VM Connector API] [cloudflare] [104.18.176.152] [cloudflare] [205.716509ms] [Cloudflare,Cloudflare Browser Insights,Doxygen:1.9.6,Fastly,GitHub Pages,Varnish,jQuery]
+https://ercs.ethereum.org [200] [] [13914] [Home | Ethereum Improvement Proposals] [cloudflare] [104.19.239.224] [cloudflare] [287.355241ms] [Bootstrap:5.3.1,Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,Popper:2.11.6,Varnish,cdnjs,jsDelivr]
+https://gitsync.ethereum.org [200] [] [6451] [Ethereum Git Archive Program] [cloudflare] [104.18.176.152] [cloudflare] [314.405316ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,Varnish]
+https://fv.ethereum.org [200] [] [13908] [Home | Formal Verification Blog] [cloudflare] [104.19.239.224] [cloudflare] [298.670945ms] [Bootstrap,Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,Varnish]
+https://feedback.ether.fi [200] [] [20059] [Upvoty] [AmazonS3] [108.139.10.114] [cloudfront] [271.457044ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://grid.ethereum.org [200] [] [6282] [ethereum grid] [cloudflare] [104.19.239.224] [cloudflare] [339.001296ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,Jekyll:3.9.0,Ruby,Varnish,YouTube]
+https://eadc.ethereum.org [200] [] [63464] [Ethereum Application Developer Certification] [Vercel] [216.150.16.193] [194.302692ms] [HSTS,Vercel]
+https://au.meet.ethereum.org [200] [] [26433] [Jitsi Meet] [nginx] [212.99.218.66] [1.833714184s] [HSTS,HTTP/3,Jitsi,Nginx]
+https://eu.meet.ethereum.org [200] [] [26433] [Jitsi Meet] [nginx] [212.99.218.66] [1.521402197s] [HSTS,HTTP/3,Jitsi,Nginx]
+https://holesky.launchpad.ethereum.org [200] [] [6132] [Netlify] [3.33.186.135] [1.209911804s] [HSTS,Netlify]
+https://launchpad.ethereum.org [200] [] [6132] [Netlify] [3.33.186.135] [1.165873714s] [HSTS,Netlify]
+https://listmonk.ethereum.org [200] [] [1499] [listmonk - Ethereum Foundation Mailer] [] [212.99.218.66] [1.130366639s] [HSTS,HTTP/3]
+https://mainnet.ether.fi [200] [] [39987] [Home | etherfi] [Vercel] [76.76.21.22] [228.075543ms] [HSTS,Vercel]
+https://remix.ethereum.org [200] [] [7388] [Remix IDE - Smart Contract Development] [cloudflare] [104.19.239.224] [cloudflare] [274.99896ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,Tally,Varnish]
+https://pad.ethereum.org [200] [] [3913] [CryptPad: Collaboration suite, encrypted and open-source] [] [212.99.218.66] [981.447102ms] [Express,HSTS,HTTP/3,Node.js,RequireJS]
+https://pad-sandbox.ethereum.org [200] [] [3913] [CryptPad: Collaboration suite, encrypted and open-source] [] [212.99.218.66] [1.023054237s] [Express,HSTS,HTTP/3,Node.js,RequireJS]
+https://security.ethereum.org [200] [] [1453] [Protocol Security Research Team] [] [212.99.218.66] [728.258147ms] [HSTS,HTTP/3]
+https://notes.ethereum.org [200] [] [47753] [HackMD - Collaborative Markdown Knowledge Base] [cloudflare] [104.18.176.152] [cloudflare] [702.91555ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://geth.ethereum.org [200] [] [207908] [Home | go-ethereum] [Netlify] [3.33.186.135] [259.645969ms] [HSTS,Netlify,Next.js,Node.js,React,Webpack]
+https://beta.ether.fi [200] [] [227946] [Save, Grow, Spend. Do more with your crypto | ether.fi] [Vercel] [64.239.109.1] [509.016698ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://pq.ethereum.org [200] [] [87034] [pq.ethereum.org — Post-Quantum Ethereum] [cloudflare] [104.18.176.152] [cloudflare] [265.10727ms] [Astro:5.18.1,Cloudflare,Cloudflare Browser Insights,HSTS,Netlify]
+https://dev.ethereum.org [200] [] [331921] [Ethereum - The complete guide from ethereum.org] [cloudflare] [104.18.176.152] [cloudflare] [216.011252ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Netlify,Next.js,Node.js,React,Webpack]
+https://ethena.fi [200] [] [108002] [Ethena - Digital Dollars for the Internet Economy] [Vercel] [216.230.86.1] [836.687116ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://secure-drop.ethereum.org [200] [] [3727] [Securely Submit Files and Messages to the EF] [gunicorn] [212.99.218.66] [1.756164831s] [HSTS,HTTP/3,Pure CSS,Python,gunicorn]
+https://ethereum.org [200] [] [332647] [Ethereum - The complete guide from ethereum.org] [cloudflare] [104.18.176.152] [cloudflare] [198.626711ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Netlify,Next.js,Node.js,React,Webpack]
+https://governance.ether.fi [200] [] [278965] [ether.fi] [nginx] [216.66.8.43] [692.51203ms] [Discourse:2026.7.0,HSTS,Nginx,Ruby on Rails]
+https://blog.ethereum.org [200] [] [784482] [Home | Ethereum Foundation Blog] [cloudflare] [104.19.239.224] [cloudflare] [88.162795ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Netlify,Next.js,Node.js,React,Webpack]
+https://docs.ethena.fi [200] [] [465655] [Ethena Overview | Ethena] [cloudflare] [104.18.40.47] [cloudflare] [142.347112ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://snakecharmers.ethereum.org [200] [] [38378] [Snake Charmers] [openresty] [151.101.203.7] [fastly] [2.347055967s] [Cloudflare,Ghost:6.52,Nginx,Node.js,OpenResty,Varnish,cdnjs,jsDelivr]
+https://staging.ethereum.org [200] [] [332327] [Ethereum - The complete guide from ethereum.org] [cloudflare] [104.19.239.224] [cloudflare] [1.208816019s] [Cloudflare,Cloudflare Browser Insights,HSTS,Netlify,Next.js,Node.js,React,Webpack]
+https://hack.ether.fi [200] [] [387401] [Etherfi - Blow Up the Bank] [Vercel] [76.76.21.142] [289.032348ms] [HSTS,Vercel]
+https://travel.ether.fi [200] [] [1033] [ether.fi | Travel] [] [35.242.243.173] [google] [2.491138329s] [HSTS]
+https://tour.ethereum.org [200] [] [44706] [Ethereum on Tour] [Vercel] [216.150.1.1] [4.054588155s] [HSTS,Vercel]
+https://ventures.ether.fi [200] [] [1080] [ether.fi Ventures] [Vercel] [76.76.21.21] [2.200048653s] [HSTS,Vercel]
+https://us.meet.ethereum.org [200] [] [26433] [Jitsi Meet] [nginx] [212.99.218.66] [4.525938611s] [HSTS,HTTP/3,Jitsi,Nginx]
+https://www.mainnet.ether.fi [200] [] [39987] [Home | etherfi] [Vercel] [66.33.60.194] [1.069563002s] [HSTS,Vercel]
+https://withdraw.ether.fi [200] [] [55458] [eETH | etherfi] [Vercel] [66.33.60.34] [3.274203223s] [HSTS,Vercel]
+https://www.ether.fi [200] [] [227948] [Save, Grow, Spend. Do more with your crypto | ether.fi] [Vercel] [64.239.123.193] [1.205517936s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.whitelabel.ethena.fi [200] [] [138640] [Ethena Whitelabel] [Vercel] [216.230.84.193] [1.112680481s] [HSTS,Vercel]
+
+## 301
+https://bounty.ethereum.org [301] [https://ethereum.org/en/bug-bounty/] [0] [] [212.99.218.66] [1.214604568s]
+https://gov.ethena.fi [301] [https://gov.ethenafoundation.com/] [0] [] [216.66.8.43] [372.12287ms]
+https://esp.ethereum.org [301] [https://esp.ethereum.foundation] [0] [] [212.99.218.66] [674.267331ms]
+https://ess.ethereum.org [301] [https://ecosystem.support/] [0] [] [212.99.218.66] [703.152191ms]
+https://fe.ethereum.org [301] [https://fe-lang.org] [0] [] [212.99.218.66] [1.013255899s]
+https://grants.ethereum.org [301] [https://esp.ethereum.foundation] [0] [] [212.99.218.66] [710.105193ms]
+https://eth2bounty.ethereum.org [301] [https://ethereum.org/en/bug-bounty/] [0] [] [212.99.218.66] [1.341840185s]
+https://forum.ethereum.org [301] [https://wayback.archive-it.org/16516/20210618210825/https://forum.ethereum.org/] [0] [] [212.99.218.66] [1.216904349s]
+http://mail.ethereum.org [301] [http://mail.google.com/a/ethereum.org] [234] [301 Moved] [ghs] [142.251.32.179] [google] [58.722127ms]
+https://iptf.ethereum.org [301] [https://ethsystems.org/] [0] [] [212.99.218.66] [841.948187ms]
+http://institutions.ethereum.org [301] [https://institutions.ethereum.org/] [49] [Netlify] [15.197.167.90] [1.065869569s] [Netlify]
+http://hoodi.launchpad.ethereum.org [301] [https://hoodi.launchpad.ethereum.org/] [52] [Netlify] [3.33.186.135] [1.135133098s] [Netlify]
+https://mist.ethereum.org [301] [https://github.com/ethereum/mist] [0] [] [212.99.218.66] [969.158898ms]
+https://python.ethereum.org [301] [https://snakecharmers.ethereum.org/] [0] [] [212.99.218.66] [1.00529599s]
+http://rig.ethereum.org [301] [https://rig.ethereum.org/] [40] [Netlify] [3.33.186.135] [1.124029819s] [Netlify]
+http://snake-charmers.ethereum.org [301] [https://snakecharmers.ethereum.org/] [0] [] [212.99.218.66] [2.356477796s]
+https://zkevm.ethereum.org [301] [https://zkevm.ethereum.foundation] [0] [] [212.99.218.66] [3.035417543s]
+
+## 302
+https://dev-app.ethena.fi [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev-app.ethena.fi%2F&nonce=eddf2e5645549298581e6b631f6985dfe206f63e19a5e27a18108aba3f520cdb] [15] [Vercel] [216.230.86.193] [440.264965ms] [HSTS,Vercel]
+https://dev.whitelabel.ethena.fi [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.whitelabel.ethena.fi%2F&nonce=c5357f54036a8dbe98a37634a525586d31395ad4174a8b399510da429d1189a0] [15] [Vercel] [216.230.86.193] [210.980402ms] [HSTS,Vercel]
+https://card.ether.fi [302] [https://lovable.dev/auth-bridge?project_id=dcb71b58-476e-4a2f-8247-1792eb3eec24&return_url=https%3A%2F%2Fcard.ether.fi%2F] [0] [cloudflare] [185.158.133.1] [861.96381ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://devcon.ethereum.org [302] [https://devcon.org] [0] [] [212.99.218.66] [995.836849ms]
+https://devcon5.ethereum.org [302] [https://devcon.org] [0] [] [212.99.218.66] [1.433732771s]
+https://help.ether.fi [302] [https://help.ether.fi/en/] [0] [nginx] [13.249.74.117] [cloudfront] [616.994121ms] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx]
+https://devcon4.ethereum.org [302] [https://devcon.org] [0] [] [212.99.218.66] [1.542790111s]
+https://keycloak.ethereum.org [302] [https://keycloak.ethereum.org/admin/] [0] [] [212.99.218.66] [913.84606ms] [HSTS,HTTP/3]
+https://meet.ethereum.org [302] [https://us.meet.ethereum.org/] [51] [] [212.99.218.66] [900.33791ms] [Express,HSTS,HTTP/3,Node.js]
+https://staging.whitelabel.ethena.fi [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.whitelabel.ethena.fi%2F&nonce=0b6d3ffe289b5b2152e818b717809e5a4c5c6b21d89f54d4a5229173c97f4ac4] [15] [Vercel] [216.230.84.65] [2.197331847s] [HSTS,Vercel]
+https://staging-app.ethena.fi [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging-app.ethena.fi%2F&nonce=ce10de6032e0af6ea1474e9d0d3870fe620133c5ac5e55301911a0a8bc4a9080] [15] [Vercel] [216.230.84.1] [4.066979971s] [HSTS,Vercel]
+https://translate.ethereum.org [302] [https://crowdin.com/project/ethereum-org] [0] [cloudflare] [104.19.239.224] [cloudflare] [6.32910822s] [Cloudflare]
+https://www.staging.whitelabel.ethena.fi [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fwww.staging.whitelabel.ethena.fi%2F&nonce=48c3021d5dc8fd7bbebaaeca12555a710ad387006a074c85c49e1383ea5a87d0] [15] [Vercel] [216.230.84.1] [7.04806129s] [HSTS,Vercel]
+
+## 307
+https://claim.ethena.fi [307] [https://ethena.fi/restricted] [35] [Vercel] [216.230.84.129] [56.588265ms] [HSTS,Vercel]
+https://app.ether.fi [307] [https://ether.fi/app/] [15] [Vercel] [76.76.21.123] [85.459043ms] [HSTS,Vercel]
+https://app.ethena.fi [307] [https://ethena.fi/restricted] [35] [Vercel] [216.230.86.193] [182.422916ms] [HSTS,Vercel]
+https://ernest.ether.fi [307] [/auth/login] [7021] [Ernest — Topgrading Interviews] [Vercel] [216.150.1.193] [289.800383ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://vote.ether.fi [307] [/delegates] [15] [Vercel] [76.76.21.241] [4.228331734s] [HSTS,Vercel]
+https://www.app.ethena.fi [307] [https://ethena.fi/restricted] [35] [Vercel] [216.230.84.193] [5.054679998s] [HSTS,Vercel]
+https://www.claim.ethena.fi [307] [https://ethena.fi/restricted] [35] [Vercel] [216.230.84.193] [5.116898266s] [HSTS,Vercel]
+
+## 308
+https://ether.fi [308] [https://www.ether.fi/] [15] [Vercel] [64.239.109.1] [133.955537ms] [HSTS,Vercel]
+https://www.ethena.fi [308] [https://ethena.fi/] [15] [Vercel] [216.230.84.193] [4.090784266s] [HSTS,Vercel]
+http://whitelabel.ethena.fi [308] [https://whitelabel.ethena.fi/] [14] [Vercel] [216.230.84.193] [157.001766ms] [Vercel]
+http://www.dev.whitelabel.ethena.fi [308] [https://www.dev.whitelabel.ethena.fi/] [14] [Vercel] [216.230.84.65] [3.036613013s] [Vercel]
+
+## 401
+https://dev-claim.ethena.fi [401] [] [13920] [Authentication Required] [Vercel] [216.230.84.129] [114.457468ms] [HSTS,Vercel]
+https://dev-landing.ethena.fi [401] [] [13922] [Authentication Required] [Vercel] [216.230.84.129] [297.889029ms] [HSTS,Vercel]
+https://dev.ether.fi [401] [] [13913] [Authentication Required] [Vercel] [64.239.123.1] [143.761929ms] [HSTS,Vercel]
+https://staging-claim.ethena.fi [401] [] [13924] [Authentication Required] [Vercel] [216.230.84.1] [4.229094873s] [HSTS,Vercel]
+https://staging-landing.ethena.fi [401] [] [13926] [Authentication Required] [Vercel] [216.230.84.193] [5.18959315s] [HSTS,Vercel]
+
+## 403
+https://buidl.ethereum.org [403] [] [17] [cloudflare] [162.159.4.114] [cloudflare] [253.2706ms] [Cloudflare]
+https://api.staging.ethena.fi [403] [] [23] [] [18.163.144.241] [544.674738ms]
+https://api.ethena.fi [403] [] [23] [] [95.41.20.57] [547.469078ms]
+https://kabochan.ethereum.org [403] [] [17] [cloudflare] [162.159.5.45] [cloudflare] [349.356781ms] [Cloudflare]
+https://private.api.staging.ethena.fi [403] [] [55] [cloudflare] [172.66.155.145] [cloudflare] [199.144414ms] [Cloudflare]
+https://private.api.ethena.fi [403] [] [55] [cloudflare] [172.66.155.145] [cloudflare] [242.016371ms] [Cloudflare]
+https://peaceandlove.ethereum.org [403] [] [17] [cloudflare] [162.159.6.18] [cloudflare] [462.745676ms] [Cloudflare]
+https://public.api.ethena.fi [403] [] [55] [cloudflare] [104.20.19.91] [cloudflare] [212.094736ms] [Cloudflare]
+https://public.api.staging.ethena.fi [403] [] [55] [cloudflare] [104.20.19.91] [cloudflare] [261.532699ms] [Cloudflare]
+https://tothemoon.ethereum.org [403] [] [17] [cloudflare] [162.159.7.8] [cloudflare] [3.230941019s] [Cloudflare]
+
+## 404
+https://cashapp.ether.fi [404] [] [107] [Vercel] [64.239.109.1] [481.714489ms] [HSTS,Vercel]
+https://dev.cash-api.aws.ether.fi [404] [] [63] [istio-envoy] [99.81.9.124] [501.139731ms] [Envoy,HSTS]
+https://dev.cash-transactions-api.aws.ether.fi [404] [] [63] [istio-envoy] [63.32.175.171] [726.152179ms] [Envoy,HSTS]
+https://email.mail.ether.fi [404] [] [19] [] [34.102.239.211] [google] [204.878587ms]
+https://llm-api.dev.api.aws.ether.fi [404] [] [0] [istio-envoy] [99.81.9.124] [715.728234ms]
+https://p.sandbox.sd.ether.fi [404] [] [19] [] [34.70.221.170] [google] [567.71744ms]
+https://p.production.sd.eu.ether.fi [404] [] [19] [] [34.159.35.202] [google] [754.144155ms]
+https://production.cash-api.aws.ether.fi [404] [] [63] [istio-envoy] [54.194.242.90] [612.752026ms] [Envoy,HSTS]
+https://production.cash-transactions-api.aws.ether.fi [404] [] [63] [istio-envoy] [54.154.213.183] [672.783688ms] [Envoy,HSTS]
+https://sd.sandbox.ether.fi [404] [] [21] [] [34.120.42.7] [google] [2.313432612s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://sd.prod.eu.ether.fi [404] [] [21] [] [34.49.118.196] [google] [2.397060509s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://vestingschedule.ethena.fi [404] [] [23] [] [34.253.1.56] [2.458619187s]
+
+## 500
+
+## 502
+https://prod.cash-be.aws.ether.fi [502] [] [122] [502 Bad Gateway] [awselb/2.0] [108.133.41.37] [986.600402ms] [Amazon ELB,Amazon Web Services]
+
+## 503
+https://beta.cash-be.aws.ether.fi [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [54.77.143.239] [564.232478ms] [Amazon ELB,Amazon Web Services]
+https://dev.cash-be.aws.ether.fi [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [34.250.144.41] [603.27515ms] [Amazon ELB,Amazon Web Services]
+
