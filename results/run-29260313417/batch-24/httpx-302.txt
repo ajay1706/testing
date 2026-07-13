@@ -1,0 +1,2 @@
+https://mint.mayaprotocol.com [302] [/404.html] [0] [Apache] [162.241.30.178] [119.342824ms] [Apache HTTP Server,Bluehost]
+https://go.mayaprotocol.com [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=go.mayaprotocol.com] [117] [nginx] [67.199.248.13] [196.323293ms] [HSTS,HTTP/3,Nginx]
