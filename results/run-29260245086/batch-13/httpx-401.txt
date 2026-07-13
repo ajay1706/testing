@@ -1,0 +1,3 @@
+https://coredev.apollo.com [401] [] [421] [401 Unauthorized] [] [151.101.195.10] [fastly] [651.029866ms] [Basic,HSTS]
+https://partners-dev.apollo.com [401] [] [381] [401 Unauthorized] [] [150.171.109.151] [5.500319419s] [Azure,Azure Front Door]
+https://uat.apollo.com [401] [] [421] [401 Unauthorized] [] [151.101.75.10] [fastly] [5.319473609s] [Basic,HSTS]
