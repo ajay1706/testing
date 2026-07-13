@@ -1,0 +1,2 @@
+https://indexer-aptos.amnis.finance [403] [] [666] [403 Forbidden] [cloudflare] [104.21.84.101] [cloudflare] [339.943679ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://rpc.amnis.finance [403] [] [1068] [403 Forbidden] [cloudflare] [104.21.84.101] [cloudflare] [317.59662ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
