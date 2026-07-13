@@ -1,0 +1,2 @@
+https://sbt.dinari.com [301] [https://app.dinari.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.6.164] [cloudflare] [117.547649ms] [Cloudflare,HTTP/3]
+https://www.dinari.com [301] [https://dinari.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [154.118209ms] [Cloudflare,HSTS,HTTP/3]
