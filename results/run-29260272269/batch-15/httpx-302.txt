@@ -1,0 +1,8 @@
+https://api-dev.creditcoop.xyz [302] [/docs] [0] [] [54.209.81.208] [244.414108ms] [Amazon ALB,Amazon Web Services]
+https://admin-dev.creditcoop.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fadmin-dev.creditcoop.xyz%2F&nonce=35b6158738b6cc5b6b61f86d5366c9ecb03876dbcc6658e18d1543c81958c19e] [15] [Vercel] [216.150.1.1] [322.019651ms] [HSTS,Vercel]
+https://admin-staging.creditcoop.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fadmin-staging.creditcoop.xyz%2F&nonce=c40c7cbe825b4ac70b7f3d99e89f93f3bf35968d072e8bf8d333dbe079d16cc4] [15] [Vercel] [216.150.1.1] [324.011748ms] [HSTS,Vercel]
+https://api-staging.creditcoop.xyz [302] [/docs] [0] [] [100.57.129.110] [231.213192ms] [Amazon ALB,Amazon Web Services]
+https://api.creditcoop.xyz [302] [/docs] [0] [] [3.209.141.248] [249.934955ms] [Amazon ALB,Amazon Web Services]
+https://app-staging.creditcoop.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fapp-staging.creditcoop.xyz%2F&nonce=185ac9f78e9d9bfa03d9dbddebceefce4592a9dfb6afeac6f76bee31998255be] [15] [Vercel] [216.150.1.1] [198.885961ms] [HSTS,Vercel]
+https://app-develop.creditcoop.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fapp-develop.creditcoop.xyz%2F&nonce=bf7953793a1ea2d2bd2018c5e564d01079997202d0ca6cbac9e791784b256568] [15] [Vercel] [216.150.16.129] [300.26917ms] [HSTS,Vercel]
+https://landing-page-develop.creditcoop.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Flanding-page-develop.creditcoop.xyz%2F&nonce=32813f18239f9c1f643e5365f9da9140a74e337461a20be6942dcdd9e58d7e09] [15] [Vercel] [216.150.1.129] [2.317075552s] [HSTS,Vercel]
