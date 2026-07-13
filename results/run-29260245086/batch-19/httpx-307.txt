@@ -1,0 +1,2 @@
+https://elements.nexus.availproject.org [307] [https://widgets.availproject.org/] [15] [Vercel] [216.150.1.193] [1.754606865s] [HSTS,Vercel]
+https://mini.avantisfi.com [307] [/home] [15] [Vercel] [216.150.16.193] [601.979972ms] [HSTS,Vercel]

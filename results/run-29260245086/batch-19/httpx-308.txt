@@ -1,0 +1,4 @@
+https://avantisfi.com [308] [https://www.avantisfi.com/] [15] [cloudflare] [172.66.163.149] [cloudflare] [244.224347ms] [Cloudflare,HSTS,Vercel]
+https://nexus-ui-components-demo.availproject.org [308] [https://nexus-demo.availproject.org/] [15] [Vercel] [216.150.16.193] [440.41457ms] [HSTS,Vercel]
+https://xpserv-testnet.availproject.org [308] [https://xpserv-testnet.availproject.org/] [0] [cloudflare] [172.66.150.78] [cloudflare] [580.343752ms] [Cloudflare]
+https://www.availproject.org [308] [https://availproject.org/] [61] [Framer/c4751cc] [31.43.161.6] [800.493951ms] [Framer Sites,HSTS,HTTP/3,React]

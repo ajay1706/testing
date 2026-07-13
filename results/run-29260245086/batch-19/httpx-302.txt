@@ -1,0 +1,4 @@
+https://beta.avantisfi.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbeta.avantisfi.com%2F&nonce=03bf8990ec1f974748a496a6c15aad5f40f8130c66b3acd78e78a2d22d5cd98a] [15] [Vercel] [216.150.1.129] [517.485556ms] [HSTS,Vercel]
+https://minidev.avantisfi.com [302] [/?blocked=true] [143] [302 Found] [cloudflare] [104.20.34.8] [cloudflare] [407.396393ms] [Cloudflare]
+https://sepolia.avantisfi.com [302] [https://avantisfi.com/] [143] [302 Found] [cloudflare] [104.20.34.8] [cloudflare] [335.820208ms] [Cloudflare]
+https://showcase.nexus.availproject.org [302] [https://elements.nexus.availproject.org/] [143] [302 Found] [cloudflare] [172.66.150.78] [cloudflare] [289.410625ms] [Cloudflare]
