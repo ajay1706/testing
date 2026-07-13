@@ -1,0 +1,3 @@
+https://api.openlabs.bio.xyz [307] [/api/v1/health] [15] [Vercel] [216.150.16.193] [110.362786ms] [HSTS,Vercel]
+https://docs.bio.xyz [307] [https://docs.bio.xyz/bio/] [15] [cloudflare] [104.18.40.47] [cloudflare] [124.024841ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://testnet.bio.xyz [307] [/markets] [15] [Vercel] [66.33.60.66] [2.083829369s] [HSTS,Vercel]
