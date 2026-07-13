@@ -1,0 +1,3 @@
+https://waitlist.deepbook.tech [200] [] [21862] [DeepBook — early access opens in waves] [Vercel] [216.150.1.193] [142.989407ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://clerk.chat.decaf.so [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [379.858237ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://www.deepbook.tech [200] [] [266777] [DeepBook on Sui | Fully On-Chain Order Book for DeFi] [cloudflare] [198.202.211.1] [217.663015ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,Unpkg,Webflow,Weglot,jQuery:3.5.1]
