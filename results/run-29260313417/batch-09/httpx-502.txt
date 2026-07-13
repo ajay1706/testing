@@ -1,0 +1,2 @@
+https://api.leapwallet.io [502] [] [332] [502 Server Error] [] [34.49.178.13] [google] [80.326496ms] [HTTP/3]
+https://sponsor-testnet.leather.io [502] [] [16] [cloudflare] [104.26.7.46] [cloudflare] [1.573714624s] [Cloudflare]

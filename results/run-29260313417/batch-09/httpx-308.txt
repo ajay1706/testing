@@ -1,0 +1,6 @@
+https://blog.ledger.com [308] [https://www.ledger.com/blog/] [169] [308 Permanent Redirect] [cloudflare] [172.64.153.104] [cloudflare] [24.060078ms] [Cloudflare]
+https://developers-test.ledger.com [308] [https://developers.ledger.com/] [15] [Vercel] [216.150.16.193] [6.063071662s] [HSTS,Vercel]
+https://help.vault.ledger.com [308] [https://help.enterprise.ledger.com/] [169] [308 Permanent Redirect] [cloudflare] [104.18.34.152] [cloudflare] [3.024839031s] [Cloudflare]
+http://leapwallet.io [308] [https://leapwallet.io/] [0] [] [35.71.142.77] [2.063103835s] [HSTS,HTTP/3]
+https://www.leather.io [308] [https://leather.io/] [55] [Framer/c4751cc] [31.43.160.6] [1.120361252s] [Framer Sites,HSTS,HTTP/3,React]
+http://www.leapwallet.io [308] [https://www.leapwallet.io/] [0] [] [31.43.161.6] [1.079478013s] [HSTS,HTTP/3]
