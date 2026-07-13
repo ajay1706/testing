@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jul 13 15:06:07 UTC 2026
+[+] Run ID: 29260272269
+[+] Batch name: batch-07
+[+] Batch targets:
+cetus.zone
+chain.link
+chainflip.io
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jul 13 15:07:04 UTC 2026
+[+] HTTPX input count: 442
+[+] Running httpx...
+[+] httpx completed: Mon Jul 13 15:08:19 UTC 2026
+[+] httpx line count: 214
+[+] Batch completed: Mon Jul 13 15:08:19 UTC 2026
