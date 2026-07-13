@@ -1,0 +1,3 @@
+https://apps-backend-indexer.sui.io [502] [] [16] [cloudflare] [104.18.32.227] [cloudflare] [122.416686ms] [Cloudflare]
+https://api-testnet.suifrens.sui.io [502] [] [332] [502 Server Error] [] [34.110.199.145] [google] [121.896403ms] [HTTP/3]
+https://gateway.loki-dev.sui.io [502] [] [332] [502 Server Error] [] [34.49.219.56] [google] [184.846622ms] [HTTP/3]
