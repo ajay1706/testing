@@ -1,0 +1,1 @@
+[CVE-2026-23829] [tcp] [medium] admin-int.www.gw.api.cookie.fun:443
