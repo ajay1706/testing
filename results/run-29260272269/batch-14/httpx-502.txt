@@ -1,0 +1,2 @@
+https://api.staging.cookie.fun [502] [] [16] [cloudflare] [104.26.12.98] [cloudflare] [584.125272ms] [Cloudflare]
+https://coaistg.api.cookie.fun [502] [] [16] [cloudflare] [104.26.12.98] [cloudflare] [598.724232ms] [Cloudflare]
