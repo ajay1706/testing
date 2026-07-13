@@ -1,0 +1,53 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:31:20 UTC 2026
+
+HTTPX lines: 25
+Live URLs: 25
+
+## 200
+https://metadata.bitbond.com [200] [] [1624] [NFT Metadata Tracking] [Google Frontend] [34.111.179.208] [google] [316.01747ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://eot.bitbond.com [200] [] [1133] [Hello - EmailOctopus] [] [54.171.65.116] [589.561107ms] [HTTP/3]
+https://status.bitbond.com [200] [] [3989] [Bitbond Status — Service availability and incident history] [cloudflare] [172.67.73.15] [cloudflare] [543.958761ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://tokentool.bitbond.com [200] [] [66505] [] [63.180.157.49] [580.122404ms] [HSTS,Next.js,Node.js,React,Webpack]
+https://om.bitbond.com [200] [] [88133] [Bitbond Offering Manager – End to End Token Offering Platform] [cloudflare] [172.67.73.15] [cloudflare] [389.026896ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS,Next.js,Node.js,React,Webpack]
+https://staging.tokentool.bitbond.com [200] [] [66553] [] [18.153.246.249] [758.628902ms] [HSTS,Next.js,Node.js,React,Webpack]
+https://developer.bitcoin.org [200] [] [125700] [Getting Started — Bitcoin] [cloudflare] [172.67.189.49] [cloudflare] [89.627628ms] [Bootstrap:4,Cloudflare,Cloudflare Browser Insights,HTTP/3,Pygments,Underscore.js,jQuery]
+https://www.bitbond.com [200] [] [328696] [Bitbond - Tokenization Technology] [cloudflare] [104.26.13.124] [cloudflare] [342.18871ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS,Next.js,Node.js,React,Webpack,YouTube]
+
+## 301
+https://bitbond.com [301] [https://www.bitbond.com/] [24] [cloudflare] [172.67.73.15] [cloudflare] [265.387303ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS]
+https://www.bitcoin.org [301] [https://bitcoin.org/] [682] [301 Moved Permanently] [cloudflare] [172.67.189.49] [cloudflare] [216.616729ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://bitcoin.org [302] [https://bitcoin.org/en/] [658] [302 Found] [cloudflare] [104.21.9.86] [cloudflare] [125.762505ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 307
+https://docs.bitbond.com [307] [https://docs.bitbond.com/asset-tokenization-suite/] [15] [cloudflare] [172.64.147.209] [cloudflare] [212.787462ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://docs.biswap.org [307] [https://docs.biswap.org/biswap/] [15] [cloudflare] [104.18.40.47] [cloudflare] [233.450798ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+
+## 403
+http://stage-cdn.tokentool.bitbond.com [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [52.85.12.122] [cloudfront] [3.626552ms] [Amazon CloudFront,Amazon Web Services]
+https://biswap.org [403] [] [5529] [Just a moment...] [cloudflare] [104.26.1.150] [cloudflare] [59.77119ms] [Cloudflare,HTTP/3]
+https://legacy.biswap.org [403] [] [5664] [Just a moment...] [cloudflare] [172.67.69.9] [cloudflare] [62.941989ms] [Cloudflare,HTTP/3]
+https://blog.biswap.org [403] [] [5576] [Just a moment...] [cloudflare] [172.67.69.9] [cloudflare] [137.390854ms] [Cloudflare,HTTP/3]
+https://static.biswap.org [403] [] [5621] [Just a moment...] [cloudflare] [104.26.1.150] [cloudflare] [152.546362ms] [Cloudflare,HTTP/3]
+https://marketplace.biswap.org [403] [] [5669] [Just a moment...] [cloudflare] [104.26.0.150] [cloudflare] [160.877989ms] [Cloudflare,HTTP/3]
+https://perp.biswap.org [403] [] [5513] [Just a moment...] [cloudflare] [104.26.1.150] [cloudflare] [202.362479ms] [Cloudflare,HTTP/3]
+https://www.biswap.org [403] [] [5597] [Just a moment...] [cloudflare] [104.26.0.150] [cloudflare] [206.6653ms] [Cloudflare,HTTP/3]
+
+## 404
+https://help.bitbond.com [404] [] [1021] [Not Found] [Caddy istio-envoy] [18.210.189.28] [166.380598ms] [Envoy,HSTS,HTTP/3]
+https://metis.bitbond.com [404] [] [0] [] [3.65.168.245] [559.689991ms] [HSTS]
+https://wildcard.metis.bitbond.com [404] [] [9] [awselb/2.0] [3.65.168.245] [521.489564ms] [Amazon ELB,Amazon Web Services]
+
+## 500
+
+## 502
+
+## 503
+

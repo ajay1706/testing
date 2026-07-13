@@ -1,0 +1,2 @@
+https://bitbond.com [301] [https://www.bitbond.com/] [24] [cloudflare] [172.67.73.15] [cloudflare] [265.387303ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS]
+https://www.bitcoin.org [301] [https://bitcoin.org/] [682] [301 Moved Permanently] [cloudflare] [172.67.189.49] [cloudflare] [216.616729ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
