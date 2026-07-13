@@ -1,0 +1,6 @@
+https://privacy.angle.money [301] [https://storage.googleapis.com/app-terms/Angle_Privacy_and_Cookies_Policy.pdf] [167] [301 Moved Permanently] [cloudflare] [104.26.12.233] [cloudflare] [63.048251ms] [Cloudflare]
+https://terms.angle.money [301] [https://storage.googleapis.com/app-terms/Angle_Terms_of_Service.pdf] [167] [301 Moved Permanently] [cloudflare] [104.26.13.233] [cloudflare] [39.830389ms] [Cloudflare]
+https://api.angle.money [301] [/api-docs] [43] [cloudflare] [104.26.13.233] [cloudflare] [325.374064ms] [Cloudflare]
+https://amplewave.ampleforth.org [301] [https://dewatotonew.com/] [15] [Vercel] [76.76.21.123] [330.097001ms] [HSTS,Vercel]
+https://antarctic.exchange [301] [https://www.antarctic.exchange/] [660] [301 Moved Permanently] [cloudflare] [172.67.69.210] [cloudflare] [617.54539ms] [Cloudflare,Cloudflare Browser Insights]
+http://analytics.angle.money [301] [https://analytics.angle.money/] [45] [Netlify] [98.84.224.111] [14.55299ms] [Netlify]
