@@ -1,0 +1,14 @@
+[+] Batch started: Mon Jul 13 15:06:52 UTC 2026
+[+] Run ID: 29260295305
+[+] Batch name: batch-07
+[+] Batch targets:
+frameworks.network
+franklintempleton.com
+frax.finance
+[+] Running subfinder...
+[+] Subfinder completed: Mon Jul 13 15:08:01 UTC 2026
+[+] HTTPX input count: 281
+[+] Running httpx...
+[+] httpx completed: Mon Jul 13 15:08:57 UTC 2026
+[+] httpx line count: 115
+[+] Batch completed: Mon Jul 13 15:08:57 UTC 2026
