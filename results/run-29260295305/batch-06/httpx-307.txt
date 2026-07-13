@@ -1,0 +1,4 @@
+https://app.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.16.193] [154.526598ms] [HSTS,Vercel]
+https://perptools.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.1.193] [238.377368ms] [HSTS,Vercel]
+https://what.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.1.129] [219.110091ms] [HSTS,Vercel]
+https://staging.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.1.1] [1.107991481s] [HSTS,Vercel]

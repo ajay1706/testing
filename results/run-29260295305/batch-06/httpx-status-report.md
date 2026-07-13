@@ -1,0 +1,112 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:06:51 UTC 2026
+
+HTTPX lines: 85
+Live URLs: 85
+
+## 200
+https://bot.fluxbeam.xyz [200] [] [0] [nginx/1.22.1] [138.68.164.161] [279.477754ms] [Nginx:1.22.1]
+https://bouncer.fluxbeam.xyz [200] [] [0] [nginx/1.18.0] [165.232.102.2] [282.691387ms] [Nginx:1.18.0]
+https://bot.fogo.fluxbeam.xyz [200] [] [0] [nginx] [159.89.22.252] [313.877204ms] [Nginx]
+https://blog.frame.sh [200] [] [12739] [Frame Labs Blog] [nginx/1.18.0 (Ubuntu)] [143.198.17.15] [250.956257ms] [Express,Ghost:4.34,HSTS,Nginx:1.18.0,Node.js,Ubuntu,Unpkg]
+https://buy.foxify.trade [200] [] [9709] [Exchange | Foxify Trade] [Vercel] [66.33.60.129] [289.955155ms] [HSTS,Vercel]
+https://docs.frame.sh [200] [] [14240] [Frame Docs | Frame] [GitHub.com] [185.199.108.153] [111.885921ms] [Docusaurus:2.3.1,Fastly,GitHub Pages,HSTS,React,Varnish,Webpack]
+https://dashboard.fluxbeam.xyz [200] [] [9924] [Solana & Fogo RPC Infrastructure | FluxRPC] [Netlify] [98.84.224.111] [502.776943ms] [HSTS,Netlify]
+https://dydx.foxify.trade [200] [] [1796] [dYdX] [Vercel] [216.150.1.193] [305.795952ms] [HSTS,Vercel]
+https://gas.frame.sh [200] [] [394] [CRM Admin] [nginx/1.24.0 (Ubuntu)] [165.227.252.207] [146.673988ms] [Nginx:1.24.0,Ubuntu]
+https://cursosguerra.frame.sh [200] [] [130676] [] [45.55.99.25] [174.554181ms] [Google Analytics]
+https://kodiak.foxify.trade [200] [] [3434] [Vercel] [216.150.16.193] [320.103775ms] [HSTS,Vercel]
+https://app.frame.sh [200] [] [130676] [] [45.55.99.25] [331.912864ms] [Google Analytics]
+https://fluxbeam.xyz [200] [] [4773] [FluxBeam] [nginx] [164.90.195.154] [334.555952ms] [Bootstrap:5.1.3,Cloudflare,Google Analytics,Nginx,Node.js,Socket.io,cdnjs,jsDelivr]
+https://kitfarm.foxify.trade [200] [] [917] [Foxify Kitsune Dashboard] [openresty] [20.243.130.40] [597.512253ms] [Nginx,OpenResty]
+https://kitsunedev.foxify.trade [200] [] [917] [Foxify Kitsune Dashboard] [openresty] [20.243.130.40] [607.608872ms] [Nginx,OpenResty]
+https://kitsune.foxify.trade [200] [] [917] [Foxify Kitsune Dashboard] [openresty] [20.243.130.40] [743.282183ms] [Nginx,OpenResty]
+http://infra-jp-foxifyprod2.foxify.trade [200] [] [1033] [Default Site] [openresty] [20.243.130.40] [349.941639ms] [Bootstrap:3.4.1,Nginx,OpenResty]
+https://kitsune-arb.foxify.trade [200] [] [26251] [Kitsune | Foxify - Copy Trade on Arbitrum] [Vercel] [76.76.21.61] [287.953604ms] [HSTS,Vercel]
+https://realtime.frame.sh [200] [] [152] [] [138.197.60.6] [227.397002ms]
+https://fogo.fluxbeam.xyz [200] [] [4886] [FluxBeam] [Netlify] [98.84.224.111] [758.393335ms] [Bootstrap:5.1.3,Cloudflare,Google Analytics,HSTS,Netlify,Node.js,Socket.io,cdnjs,jsDelivr]
+https://hostmaster.frame.sh [200] [] [130676] [] [45.55.99.25] [223.633709ms] [Google Analytics]
+https://frame.sh [200] [] [130676] [] [45.55.99.25] [290.71366ms] [Google Analytics]
+https://ufc.foxify.trade [200] [] [782] [FUNDED Leaderboard] [Vercel] [216.150.16.193] [329.310045ms] [HSTS,Vercel]
+https://staging.fluxbeam.xyz [200] [] [4773] [FluxBeam] [nginx] [164.90.195.154] [385.03867ms] [Bootstrap:5.1.3,Cloudflare,Google Analytics,Nginx,Node.js,Socket.io,cdnjs,jsDelivr]
+https://t2e.foxify.trade [200] [] [41360] [Foxify FUNDED | Start your challenge today] [] [34.202.203.47] [150.520971ms] [Cloudflare,Elfsight,Google Font API,Google Hosted Libraries,HTTP/3,jQuery:3.5.1]
+https://www.fluxbeam.xyz [200] [] [4773] [FluxBeam] [nginx] [164.90.195.154] [342.871587ms] [Bootstrap:5.1.3,Cloudflare,Google Analytics,Nginx,Node.js,Socket.io,cdnjs,jsDelivr]
+https://docs.foxify.trade [200] [] [278648] [Overview | Foxify - Whitepaper] [cloudflare] [104.18.40.47] [cloudflare] [342.632933ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://litepaper.foxify.trade [200] [] [242608] [Introduction & Vision | Foxify Litepaper] [cloudflare] [104.18.40.47] [cloudflare] [288.604845ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://waitlist.foxify.trade [200] [] [57787] [Foxify - Trade Perpetuals Decentralized] [Vercel] [76.76.21.61] [231.615256ms] [HSTS,Vercel]
+https://docs.fluxbeam.xyz [200] [] [342378] [About FluxBeam | FluxBeam DEX] [cloudflare] [172.64.147.209] [cloudflare] [215.509704ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://wildcard.frame.sh [200] [] [130676] [] [45.55.99.25] [364.686694ms] [Google Analytics]
+https://www.frame.sh [200] [] [130676] [] [45.55.99.25] [312.41177ms] [Google Analytics]
+https://www.foxify.trade [200] [] [143981] [FOXIFY - Trade Perpetuals Decentralized] [Vercel] [76.76.21.22] [483.590443ms] [HSTS,Vercel]
+http://push.frame.sh [200] [] [19640] [nginx/1.18.0 (Ubuntu)] [167.71.107.248] [199.22474ms] [Google Analytics,Nginx:1.18.0,Ubuntu]
+
+## 301
+https://foxify.trade [301] [https://www.foxify.trade] [59] [ip-10-123-124-168.ec2.internal] [3.33.251.168] [102.602243ms]
+https://v3.foxify.trade [301] [/perpetuals?market=BTC-PERP] [15] [Vercel] [76.76.21.93] [94.434181ms] [HSTS,Vercel]
+http://cms.foxify.trade [301] [https://cms.foxify.trade/] [166] [301 Moved Permanently] [openresty] [20.243.130.40] [329.597329ms] [Nginx,OpenResty]
+
+## 302
+https://feedback.frame.sh [302] [https://frame.canny.io/] [0] [] [44.214.112.154] [147.821937ms] [HSTS]
+https://testnet.v3.foxify.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Ftestnet.v3.foxify.trade%2F&nonce=f34aed232334ef0e99ecfce550c9dcea7f1f311a674b6c6e5149054325f852f0] [15] [Vercel] [66.33.60.130] [428.514477ms] [HSTS,Vercel]
+
+## 307
+https://app.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.16.193] [154.526598ms] [HSTS,Vercel]
+https://perptools.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.1.193] [238.377368ms] [HSTS,Vercel]
+https://what.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.1.129] [219.110091ms] [HSTS,Vercel]
+https://staging.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.1.1] [1.107991481s] [HSTS,Vercel]
+
+## 308
+https://beta.foxify.trade [308] [https://app.foxify.trade/] [15] [Vercel] [216.150.1.129] [209.926383ms] [HSTS,Vercel]
+https://v3o.foxify.trade [308] [https://app.foxify.trade/] [15] [Vercel] [216.150.1.1] [273.166731ms] [HSTS,Vercel]
+
+## 401
+https://eu.shield.rpc.fluxbeam.xyz [401] [] [27] [nginx] [164.92.211.56] [316.91016ms] [Nginx]
+https://eu.rpc.fogo.fluxbeam.xyz [401] [] [27] [nginx] [164.92.253.237] [337.180654ms] [HTTP/3,Nginx]
+https://eu.rpc.fluxbeam.xyz [401] [] [27] [nginx] [164.92.211.56] [358.612493ms] [Nginx]
+https://shield.data.fluxbeam.xyz [401] [] [27] [nginx] [206.189.96.54] [411.400636ms] [Nginx]
+https://shield.data.fogo.fluxbeam.xyz [401] [] [27] [nginx] [159.89.22.252] [396.371849ms] [Nginx]
+https://us.rpc.fluxbeam.xyz [401] [] [27] [nginx] [161.35.15.9] [80.778933ms] [Nginx]
+
+## 403
+
+## 404
+https://bot-api.fluxbeam.xyz [404] [] [52] [nginx/1.22.1] [138.68.164.161] [271.978279ms] [Nginx:1.22.1]
+https://bonk-api.fluxbeam.xyz [404] [] [52] [nginx/1.18.0] [165.232.102.2] [274.53983ms] [Nginx:1.18.0]
+https://api.dashboard.fluxbeam.xyz [404] [] [18] [nginx/1.22.1] [188.166.151.214] [276.758379ms] [Nginx:1.22.1]
+https://auth.fluxbeam.xyz [404] [] [18] [nginx/1.22.1] [188.166.151.214] [280.739921ms] [Nginx:1.22.1]
+https://api.fluxbeam.xyz [404] [] [52] [nginx/1.18.0] [165.232.102.2] [286.002683ms] [Nginx:1.18.0]
+https://bot-api.fogo.fluxbeam.xyz [404] [] [52] [nginx] [159.89.22.252] [309.634869ms] [Nginx]
+https://data.fluxbeam.xyz [404] [] [52] [nginx] [206.189.96.54] [325.245559ms] [Nginx]
+https://api.fogo.fluxbeam.xyz [404] [] [52] [nginx] [159.89.22.252] [353.605055ms] [Nginx]
+https://data.fogo.fluxbeam.xyz [404] [] [52] [nginx] [159.89.22.252] [334.912806ms] [Nginx]
+https://api.foxify.trade [404] [] [139] [Error] [openresty] [20.243.130.40] [546.788857ms] [Express,Nginx,Node.js,OpenResty]
+https://e367be4336f7.fluxbeam.xyz [404] [] [63] [nginx/1.22.1] [138.68.164.161] [359.748581ms] [Nginx:1.22.1]
+https://gateway.fogo.fluxbeam.xyz [404] [] [16] [nginx] [159.89.22.252] [354.450511ms] [Nginx]
+https://gateway.fluxbeam.xyz [404] [] [16] [nginx/1.22.1] [161.35.156.159] [399.348225ms] [Nginx:1.22.1]
+https://leaderboard.fluxbeam.xyz [404] [] [18] [nginx/1.22.1] [159.223.6.21] [333.44966ms] [Nginx:1.22.1]
+https://launch.fogo.fluxbeam.xyz [404] [] [12] [nginx] [159.89.22.252] [407.697714ms] [Nginx]
+http://preview.fluxbeam.xyz [404] [] [50] [Netlify] [98.84.224.111] [78.895139ms] [Netlify]
+http://public.fluxbeam.xyz [404] [] [50] [Netlify] [98.84.224.111] [50.078308ms] [Netlify]
+https://sandbox.fluxbeam.xyz [404] [] [50] [Netlify] [98.84.224.111] [158.954112ms] [Netlify]
+https://pools.fluxbeam.xyz [404] [] [52] [nginx/1.22.1] [165.232.95.18] [378.709095ms] [Nginx:1.22.1]
+https://nft.foxify.trade [404] [] [63] [openresty] [20.243.130.40] [834.733018ms] [Express,Nginx,Node.js,OpenResty]
+https://scratch.fluxbeam.xyz [404] [] [18] [nginx/1.22.1] [159.223.6.21] [386.097642ms] [Nginx:1.22.1]
+https://scratch.fogo.fluxbeam.xyz [404] [] [12] [nginx] [159.89.22.252] [424.27402ms] [Nginx]
+https://smartmoney.fluxbeam.xyz [404] [] [52] [nginx/1.22.1] [209.38.47.200] [390.813015ms] [Nginx:1.22.1]
+https://smartmoney.fogo.fluxbeam.xyz [404] [] [52] [nginx] [159.89.22.252] [386.837717ms] [Nginx]
+https://services.foxify.trade [404] [] [139] [Error] [openresty] [20.243.130.40] [582.689606ms] [Express,Nginx,Node.js,OpenResty]
+https://swap.fluxbeam.xyz [404] [] [63] [nginx/1.22.1] [138.68.164.161] [320.618154ms] [Nginx:1.22.1]
+https://swap.fogo.fluxbeam.xyz [404] [] [63] [nginx] [159.89.22.252] [381.659101ms] [Nginx]
+https://webhook.fluxbeam.xyz [404] [] [52] [nginx/1.22.1] [64.225.68.87] [332.250427ms] [Nginx:1.22.1]
+
+## 500
+
+## 502
+https://dev-bot.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.22.1] [159.223.9.115] [323.252605ms] [Nginx:1.22.1]
+https://leaderboard.fogo.fluxbeam.xyz [502] [] [25] [nginx] [159.89.22.252] [414.874853ms] [Nginx]
+https://pool-bot.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.22.1] [138.68.164.161] [341.19183ms] [Nginx:1.22.1]
+https://stats.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.18.0] [159.65.58.224] [359.95048ms] [Nginx:1.18.0]
+
+## 503
+
