@@ -1,0 +1,90 @@
+# HTTPX Status Report
+
+Generated at: Mon Jul 13 15:20:13 UTC 2026
+
+HTTPX lines: 64
+Live URLs: 64
+
+## 200
+http://_dmarc.mx.mx.para.xyz [200] [] [114] [] [13.248.169.48] [55.219743ms]
+https://developer.pancakeswap.finance [200] [] [14417] [PancakeSwap Developer] [cloudflare] [104.26.2.169] [cloudflare] [152.848422ms] [Cloudflare,HSTS,HTTP/3,React,Vercel]
+http://_dmarc.mx.para.xyz [200] [] [114] [] [13.248.169.48] [51.48932ms]
+http://mx.mx.mx.mx.para.xyz [200] [] [114] [] [76.223.54.146] [81.512031ms]
+https://para.xyz [200] [] [114] [] [13.248.169.48] [277.127475ms]
+http://_dmarc.mx.mx.mx.para.xyz [200] [] [114] [] [76.223.54.146] [75.649732ms]
+https://bridge.pancakeswap.finance [200] [] [5759] [Bridge | PancakeSwap] [cloudflare] [104.26.2.169] [cloudflare] [191.85709ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Vercel]
+https://pfp.paradex.trade [200] [] [702] [Paradex PFP] [GitHub.com] [185.199.110.153] [174.061065ms] [Fastly,GitHub Pages,Varnish]
+https://app2.nightly.paradex.trade [200] [] [4087] [Paradex] [nginx/1.24.0 (Ubuntu)] [35.77.32.155] [581.753995ms] [Google Tag Manager,Nginx:1.24.0,Ubuntu]
+https://app.testnet.paradex.trade [200] [] [4057] [Paradex] [AmazonS3] [13.227.87.84] [cloudfront] [559.466986ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS,HTTP/3]
+https://app.paradex.trade [200] [] [4041] [Paradex] [AmazonS3] [3.167.163.80] [cloudfront] [571.196446ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS,HTTP/3]
+https://juno.api.testnet.paradex.trade [200] [] [0] [] [13.159.123.60] [753.002493ms]
+https://pathfinder.api.testnet.paradex.trade [200] [] [0] [nginx/1.27.5] [52.197.133.141] [700.899016ms] [Nginx:1.27.5]
+https://gigavault.paradex.trade [200] [] [1558] [Gigavault LP : 0.87% APR] [cloudflare] [172.66.44.164] [cloudflare] [817.748061ms] [Cloudflare,HTTP/3]
+https://legacy-zkevm.pancakeswap.finance [200] [] [4223] [PancakeSwap] [cloudflare] [104.26.2.169] [cloudflare] [395.937938ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Vercel,dc.js]
+https://cakepad.pancakeswap.finance [200] [] [11010] [CAKE.PAD | PancakeSwap] [cloudflare] [104.26.3.169] [cloudflare] [349.398971ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://blog.pancakeswap.finance [200] [] [94203] [Blog | PancakeSwap] [cloudflare] [104.26.3.169] [cloudflare] [206.793583ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://pancakeswap.finance [200] [] [12390] [Home | PancakeSwap] [cloudflare] [104.26.2.169] [cloudflare] [214.895727ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://tokens.pancakeswap.finance [200] [] [3610] [PancakeSwap Token Lists] [cloudflare] [172.67.75.76] [cloudflare] [487.227151ms] [Cloudflare,HTTP/3]
+https://status.paradex.trade [200] [] [4318] [Paradex Status] [] [3.168.51.3] [cloudfront] [690.169987ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+http://wildcard.para.xyz [200] [] [114] [] [13.248.169.48] [76.476002ms]
+https://v1exchange.pancakeswap.finance [200] [] [4560] [Pancake Swap] [cloudflare] [172.67.75.76] [cloudflare] [397.969904ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Vercel]
+https://www.para.xyz [200] [] [114] [] [13.248.169.48] [337.101742ms]
+https://status.testnet.paradex.trade [200] [] [36773] [Paradex Testnet Status] [Vercel] [66.33.60.66] [470.055101ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://faq.pancakeswap.finance [200] [] [99683] [PancakeSwap FAQ] [cloudflare] [104.26.3.169] [cloudflare] [917.838675ms] [Cloudflare,Google Analytics,HSTS,HTTP/3,Vercel]
+https://info-v1.pancakeswap.finance [200] [] [11307] [Home | PancakeSwap] [cloudflare] [104.26.2.169] [cloudflare] [1.199295545s] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://paradex.trade [200] [] [92314] [Paradex - Perp & Options DEX | ZK-Encrypted Trading] [cloudflare] [198.202.211.1] [203.670144ms] [Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,cdnjs,jQuery:3.5.1,jsDelivr]
+https://smart-router.pancakeswap.finance [200] [] [7391] [Home | PancakeSwap] [cloudflare] [104.26.3.169] [cloudflare] [1.191639326s] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://v1-farms.pancakeswap.finance [200] [] [9118] [PancakeSwap] [Vercel] [76.76.21.93] [1.055203274s] [Google Tag Manager,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://forum.pancakeswap.finance [200] [] [194870] [PancakeSwap] [nginx] [184.104.178.43] [679.074884ms] [Discourse:2026.7.0,HSTS,Nginx,Ruby on Rails]
+https://pfp.pancakeswap.finance [200] [] [79666] [PFPancake Generator - Create Your PancakeSwap PFP] [cloudflare] [172.67.75.76] [cloudflare] [1.520440438s] [Cloudflare,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://www.paradex.trade [200] [] [92318] [Paradex - Perp & Options DEX | ZK-Encrypted Trading] [cloudflare] [198.202.211.1] [262.541335ms] [Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,cdnjs,jQuery:3.5.1,jsDelivr]
+https://docs.pancakeswap.finance [200] [] [602106] [Product Overview | PancakeSwap] [cloudflare] [104.18.40.47] [cloudflare] [157.775146ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://voyager.prod.paradex.trade [301] [https://app.paradex.trade:443/explorer/] [134] [301 Moved Permanently] [awselb/2.0] [13.112.95.180] [746.777653ms] [Amazon ELB,Amazon Web Services]
+
+## 302
+https://perp.pancakeswap.finance [302] [https://pancakeswap.finance/451] [143] [302 Found] [cloudflare] [104.26.3.169] [cloudflare] [93.137922ms] [Cloudflare,HTTP/3]
+
+## 307
+https://aptos.pancakeswap.finance [307] [/swap] [15] [cloudflare] [104.26.3.169] [cloudflare] [151.096353ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://quest.pancakeswap.finance [307] [/quests] [15] [cloudflare] [104.26.2.169] [cloudflare] [241.138642ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://docs.paradex.trade [307] [/home] [202121] [Vercel] [66.33.60.193] [136.481849ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 308
+https://legacy-pm.pancakeswap.finance [308] [https://pancakeswap.finance/] [15] [cloudflare] [104.26.2.169] [cloudflare] [163.601921ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://solana.pancakeswap.finance [308] [https://pancakeswap.finance/swap?chain=sol] [15] [cloudflare] [104.26.2.169] [cloudflare] [289.045409ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.pancakeswap.finance [308] [https://pancakeswap.finance/] [15] [cloudflare] [172.67.75.76] [cloudflare] [232.493615ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+https://sol-swap.pancakeswap.finance [401] [] [13929] [Authentication Required] [cloudflare] [104.26.3.169] [cloudflare] [312.98146ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 403
+https://mta-sts.paradex.trade [403] [] [263] [AmazonS3] [18.172.122.118] [cloudfront] [535.369457ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://api.prod.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [35.71.137.239] [641.419843ms] [Amazon ELB,Amazon Web Services]
+https://api.testnet.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [13.248.175.188] [645.667356ms] [Amazon ELB,Amazon Web Services]
+https://api.nightly.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [75.2.90.153] [710.191801ms] [Amazon ELB,Amazon Web Services]
+https://perp-static.pancakeswap.finance [403] [] [111] [AmazonS3] [18.64.183.121] [cloudfront] [546.648871ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://springboard.pancakeswap.finance [403] [] [5466] [Attention Required! | Cloudflare] [cloudflare] [172.67.74.56] [cloudflare] [226.398927ms] [Cloudflare]
+
+## 404
+https://locales.pancakeswap.finance [404] [] [0] [cloudflare] [104.26.3.169] [cloudflare] [112.299609ms] [Cloudflare,HTTP/3]
+https://assets.pancakeswap.finance [404] [] [0] [cloudflare] [104.26.2.169] [cloudflare] [122.643732ms] [Cloudflare,HTTP/3]
+https://mcp.paradex.trade [404] [] [9] [] [3.170.103.106] [cloudfront] [457.225136ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://mcp.nightly.paradex.trade [404] [] [9] [] [3.167.183.65] [cloudfront] [484.310429ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://privy.paradex.trade [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [163.329503ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.pancakeswap.finance [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [172.250354ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.testnet.paradex.trade [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [295.680749ms] [Cloudflare,Cloudflare Bot Management]
+https://squad-assets.pancakeswap.finance [404] [] [0] [cloudflare] [104.26.3.169] [cloudflare] [259.41417ms] [Cloudflare,HTTP/3]
+https://rpc.api.prod.paradex.trade [404] [] [24] [] [166.117.49.34] [656.840947ms]
+https://rpc.api.testnet.paradex.trade [404] [] [24] [] [13.114.66.155] [802.546315ms]
+https://ws-public.api.testnet.paradex.trade [404] [] [24] [] [18.172.122.127] [cloudfront] [502.639822ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://ws-public.api.prod.paradex.trade [404] [] [24] [] [13.225.47.11] [cloudfront] [648.989663ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://ws.api.prod.paradex.trade [404] [] [24] [] [3.33.130.209] [646.319681ms]
+
+## 500
+
+## 502
+
+## 503
+

@@ -1,0 +1,6 @@
+https://mta-sts.paradex.trade [403] [] [263] [AmazonS3] [18.172.122.118] [cloudfront] [535.369457ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://api.prod.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [35.71.137.239] [641.419843ms] [Amazon ELB,Amazon Web Services]
+https://api.testnet.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [13.248.175.188] [645.667356ms] [Amazon ELB,Amazon Web Services]
+https://api.nightly.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [75.2.90.153] [710.191801ms] [Amazon ELB,Amazon Web Services]
+https://perp-static.pancakeswap.finance [403] [] [111] [AmazonS3] [18.64.183.121] [cloudfront] [546.648871ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://springboard.pancakeswap.finance [403] [] [5466] [Attention Required! | Cloudflare] [cloudflare] [172.67.74.56] [cloudflare] [226.398927ms] [Cloudflare]
