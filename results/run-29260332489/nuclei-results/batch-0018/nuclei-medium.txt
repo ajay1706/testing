@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://history-generator-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history-generator.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history.ostium.io/metrics
