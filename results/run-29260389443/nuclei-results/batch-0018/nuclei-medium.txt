@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://api.vfat.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://api.testnets.smart-routing-address.zerodev.app/metrics
