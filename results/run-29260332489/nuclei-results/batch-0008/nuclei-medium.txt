@@ -1,0 +1,1 @@
+[nextjs-vite-public-env:public_env] [http] [medium] https://backoffice.prod.polygon.technology [""VITE_GITCOMMIT":"42fafc9e5eef0e46f4bfc6efd0468993d1d68865"",""VITE_VERSION":"v26.7.6-42fafc9"",""VITE_API_URL":"https://backoffice-api.prod.polygon.technology""]
