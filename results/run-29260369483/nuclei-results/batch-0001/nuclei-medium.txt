@@ -1,0 +1,2 @@
+[git-config] [http] [medium] http://stake-afb-grpc.ib-local.dev.skip.build/.git/config
+[git-config] [http] [medium] http://stake-afb-lcd.ib-local.dev.skip.build/.git/config

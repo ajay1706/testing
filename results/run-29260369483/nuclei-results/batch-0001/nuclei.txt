@@ -1,0 +1,11 @@
+[ssh-cbc-mode-ciphers] [javascript] [low] stake-grt-grpc.ib-local.dev.skip.build:22
+[ssh-weakkey-exchange-algo] [javascript] [low] stake-grt-grpc.ib-local.dev.skip.build:22
+[ssh-weakkey-exchange-algo] [javascript] [low] stake-xmm-grpc.ib-local.dev.skip.build:22
+[ssh-weakkey-exchange-algo] [javascript] [low] stake-xmm-lcd.ib-local.dev.skip.build:22
+[ssh-weakkey-exchange-algo] [javascript] [low] stake-xmm-rpc.ib-local.dev.skip.build:22
+[xss-uri-reflected] [http] [low] http://stake-yqi-grpc.ib-local.dev.skip.build/a%22%3E%3Cinjectable%3E
+[xss-uri-reflected] [http] [low] http://stake-yqi-rpc.ib-local.dev.skip.build/a%22%3E%3Cinjectable%3E
+[wp-user-enum:usernames] [http] [low] http://stake-afb-grpc.ib-local.dev.skip.build/?rest_route=/wp/v2/users/ ["admin"]
+[wp-user-enum:usernames] [http] [low] http://stake-afb-lcd.ib-local.dev.skip.build/?rest_route=/wp/v2/users/ ["admin"]
+[git-config] [http] [medium] http://stake-afb-grpc.ib-local.dev.skip.build/.git/config
+[git-config] [http] [medium] http://stake-afb-lcd.ib-local.dev.skip.build/.git/config
