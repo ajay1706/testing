@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://aether-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://aether.ostium.io/metrics
