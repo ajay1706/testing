@@ -1,2 +1,2 @@
-https://feedback.frame.sh [302] [https://frame.canny.io/] [0] [] [44.214.112.154] [147.821937ms] [HSTS]
-https://testnet.v3.foxify.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Ftestnet.v3.foxify.trade%2F&nonce=f34aed232334ef0e99ecfce550c9dcea7f1f311a674b6c6e5149054325f852f0] [15] [Vercel] [66.33.60.130] [428.514477ms] [HSTS,Vercel]
+https://feedback.frame.sh [302] [https://frame.canny.io/] [0] [] [44.214.112.154] [108.941893ms] [HSTS]
+https://testnet.v3.foxify.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Ftestnet.v3.foxify.trade%2F&nonce=3290b5583249a5e3f24c713e414dedf840e9461fb3b6f6e20bd2f96c13f213ea] [15] [Vercel] [66.33.60.67] [184.775296ms] [HSTS,Vercel]

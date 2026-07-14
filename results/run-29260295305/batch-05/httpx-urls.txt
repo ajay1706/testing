@@ -1,4 +1,3 @@
-http://go.fluence.network
 http://race.fluence.network
 https://aave-v3-atoken-swap.fluid.io
 https://access-mainnet-beta.flow.com
@@ -52,6 +51,7 @@ https://fluence.network
 https://fluid.io
 https://forum.flow.com
 https://gateway.staging.safe.flow.com
+https://go.fluence.network
 https://gov.fluence.network
 https://gov.fluid.io
 https://grants.flow.com

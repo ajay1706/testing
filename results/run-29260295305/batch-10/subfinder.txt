@@ -2,7 +2,6 @@ academy.gammaswap.com
 account.gains.trade
 api.gammaswap.com
 app-v2.gammaswap.com
-app.gains.trade
 app.gammaswap.com
 azure.gains.trade
 backend-apechain.gains.trade
@@ -40,6 +39,7 @@ secure.gains.trade
 sentry.gains.trade
 sgp1-01-api.gammaswap.com
 sgp1-01-staging-api.gammaswap.com
+shop.gammaswap.com
 sol.gains.trade
 staging-api.gammaswap.com
 staging-exchange-api.gammaswap.com

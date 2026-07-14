@@ -1,2 +1,2 @@
-https://api-marketing.franklintempleton.com [503] [] [280] [Error] [AkamaiGHost] [96.7.20.103] [291.07678ms]
-https://beta.franklintempleton.com [503] [] [280] [Error] [AkamaiGHost] [96.7.20.103] [1.171152944s]
+https://api-marketing.franklintempleton.com [503] [] [280] [Error] [AkamaiGHost] [96.7.20.103] [340.151526ms]
+https://beta.franklintempleton.com [503] [] [280] [Error] [AkamaiGHost] [96.7.20.103] [1.193835122s]

@@ -1,2 +1,1 @@
-https://assets.flaunch.gg [403] [] [263] [cloudflare] [104.18.16.93] [cloudflare] [389.494583ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management]
-https://stage.flipsuite.xyz [403] [] [4547] [Attention Required! | Cloudflare] [cloudflare] [104.26.11.128] [cloudflare] [177.586941ms] [Cloudflare]
+https://assets.flaunch.gg [403] [] [243] [cloudflare] [104.18.16.93] [cloudflare] [213.895171ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management]

@@ -1,8 +1,6 @@
 http://home.flipsidecrypto.xyz
 http://www.data.flipsidecrypto.xyz
-https://api.flaunch.gg
 https://api.flipsidecrypto.xyz
-https://api.flipsuite.xyz
 https://app.flaunch.gg
 https://app.flipsidecrypto.xyz
 https://assets.flaunch.gg
@@ -27,7 +25,6 @@ https://flipsidecrypto.xyz
 https://flipsuite.xyz
 https://gitbook.flaunch.gg
 https://if.flaunch.gg
-https://images.flaunch.gg
 https://ipfs.flaunch.gg
 https://ipfs2.flaunch.gg
 https://legacy.flaunch.gg
@@ -51,7 +48,6 @@ https://rpc-docs.flipsidecrypto.xyz
 https://science-server.flipsidecrypto.xyz
 https://science.flipsidecrypto.xyz
 https://snowflake.flipsidecrypto.xyz
-https://stage.flipsuite.xyz
 https://staging.flipsidecrypto.xyz
 https://status.flaunch.gg
 https://stratum.flipsidecrypto.xyz

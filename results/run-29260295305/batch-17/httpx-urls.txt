@@ -1,9 +1,7 @@
 http://api.hegic.co
 http://hegic.co
 http://news.helium.com
-http://transactiontool.hedera.com
 http://whitepaper.helium.com
-http://www.blog.helium.com
 https://accounts.carrier.helium.com
 https://ai-artifacts.helium.com
 https://ai-bounties.hedera.com
@@ -78,9 +76,12 @@ https://sustainability.hedera.com
 https://swap.hegic.co
 https://testnet.mirrornode.hedera.com
 https://tokenization-studio.hedera.com
+https://transactiontool.hedera.com
 https://v1.hegic.co
 https://wallet-api-v2.helium.com
 https://wallet.helium.com
 https://world-beta.helium.com
 https://world.helium.com
+https://www.hedera.com
 https://www.hegic.co
+https://www.helium.com

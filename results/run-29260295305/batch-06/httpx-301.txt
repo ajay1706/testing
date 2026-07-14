@@ -1,3 +1,4 @@
-https://foxify.trade [301] [https://www.foxify.trade] [59] [ip-10-123-124-168.ec2.internal] [3.33.251.168] [102.602243ms]
-https://v3.foxify.trade [301] [/perpetuals?market=BTC-PERP] [15] [Vercel] [76.76.21.93] [94.434181ms] [HSTS,Vercel]
-http://cms.foxify.trade [301] [https://cms.foxify.trade/] [166] [301 Moved Permanently] [openresty] [20.243.130.40] [329.597329ms] [Nginx,OpenResty]
+https://foxify.trade [301] [https://www.foxify.trade] [59] [ip-10-123-124-168.ec2.internal] [15.197.225.128] [65.817345ms]
+https://v3.foxify.trade [301] [/perpetuals?market=BTC-PERP] [15] [Vercel] [76.76.21.93] [123.8121ms] [HSTS,Vercel]
+http://dashboard.fluxbeam.xyz [301] [https://dashboard.fluxbeam.xyz/] [46] [Netlify] [98.84.224.111] [6.173336ms] [Netlify]
+http://cms.foxify.trade [301] [https://cms.foxify.trade/] [166] [301 Moved Permanently] [openresty] [20.243.130.40] [321.202425ms] [Nginx,OpenResty]

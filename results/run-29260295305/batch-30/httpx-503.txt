@@ -1,2 +1,2 @@
-https://api.staging.jagpool.xyz [503] [] [592] [503 Service Temporarily Unavailable] [] [143.198.250.88] [493.469304ms] [HSTS]
-https://api.mainnet.ipor.io [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [18.199.43.202] [617.910007ms] [Amazon ELB,Amazon Web Services]
+https://api.staging.jagpool.xyz [503] [] [592] [503 Service Temporarily Unavailable] [] [143.198.250.88] [508.241035ms] [HSTS]
+https://api.mainnet.ipor.io [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [18.194.172.51] [617.178349ms] [Amazon ELB,Amazon Web Services]

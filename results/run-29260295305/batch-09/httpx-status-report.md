@@ -1,74 +1,74 @@
 # HTTPX Status Report
 
-Generated at: Mon Jul 13 15:08:42 UTC 2026
+Generated at: Mon Jul 13 22:28:12 UTC 2026
 
 HTTPX lines: 49
 Live URLs: 49
 
 ## 200
-https://bridge.gaib.ai [200] [] [3115] [GAIB Bridge | Cross-Chain Bridge for AID & GAIB Tokens] [Vercel] [216.150.16.193] [124.356572ms] [Google Analytics,HSTS,Vercel]
-https://card.fusewallet.com [200] [] [145] [Not found] [Vercel] [76.76.21.142] [238.790337ms] [HSTS,Vercel]
-https://audits.gaib.ai [200] [] [3369] [GAIB Audit reports] [Vercel] [216.150.1.129] [256.195615ms] [Google Analytics,HSTS,Vercel]
-https://gonka-invest.gaib.ai [200] [] [6450] [Gonka - Decentralized AI Computing Network] [cloudflare] [172.67.155.185] [cloudflare] [191.876054ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
-https://fremenessence-stg.gaib.ai [200] [] [1365] [Fremen Essence NFT by GAIB] [Vercel] [216.150.16.193] [335.959335ms] [HSTS,Vercel]
-https://aid-dashboard-stg.gaib.ai [200] [] [4041] [AID Alpha Dashboard - Multi-Chain Cryptocurrency Analytics] [Vercel] [216.150.1.193] [276.164364ms] [HSTS,Vercel]
-https://app.fxdx.exchange [200] [] [3452] [fxdx] [cloudflare] [104.21.5.129] [cloudflare] [196.629987ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
-https://gonka-invest-march.gaib.ai [200] [] [5946] [Gonka - Decentralized AI Computing Network] [Vercel] [216.150.1.1] [214.860018ms] [Google Analytics,HSTS,Vercel]
-https://holdings.gaib.ai [200] [] [4700] [GAIB AI - RWAiFi Infra] [Vercel] [216.150.1.129] [225.054469ms] [Google Analytics,HSTS,Vercel]
-https://gaic.gaib.ai [200] [] [5600] [Gonka - Decentralized AI Computing Network] [Vercel] [216.150.1.193] [277.147043ms] [Google Analytics,HSTS,Vercel]
-https://fremenessence.gaib.ai [200] [] [1869] [Fremen Essence NFT by GAIB] [cloudflare] [104.21.48.180] [cloudflare] [439.689847ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
-https://aid.gaib.ai [200] [] [6188] [GAIB | Where Capital Meets Compute] [cloudflare] [104.21.48.180] [cloudflare] [366.641399ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
-https://aid-dashboard.gaib.ai [200] [] [4041] [AID Alpha Dashboard - Multi-Chain Cryptocurrency Analytics] [Vercel] [216.150.16.193] [406.872766ms] [HSTS,Vercel]
-https://fxdx.exchange [200] [] [10398] [FXDX] [cloudflare] [104.21.5.129] [cloudflare] [177.174125ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
-https://dynamic.gaib.ai [200] [] [5684] [GAIB | Where Capital Meets Compute] [Vercel] [216.150.16.1] [367.006341ms] [Google Analytics,HSTS,Vercel]
-https://aidalpha.gaib.ai [200] [] [5860] [AID Alpha - The Final Spice] [cloudflare] [104.21.48.180] [cloudflare] [475.430261ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
-https://beta.fxdx.exchange [200] [] [10398] [FXDX] [cloudflare] [104.21.5.129] [cloudflare] [227.256553ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
-https://institutional.gaib.ai [200] [] [7963] [GAIB | Private Credit in AI and Robotics] [Vercel] [216.150.1.193] [342.102818ms] [Google Analytics,HSTS,Vercel]
-https://gaib.ai [200] [] [15981] [GAIB AI - Where Capital Meets Compute] [cloudflare] [104.21.48.180] [cloudflare] [276.309717ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
-https://pfpmaker.gaib.ai [200] [] [2585] [GAIB MEME Editor] [Vercel] [216.150.1.129] [265.754676ms] [HSTS,Vercel]
-https://docs-agent.gaib.ai [200] [] [52827] [Token Kiosk — OpenAI-compatible LLM gateway, pay with crypto] [Vercel] [216.150.16.1] [406.313092ms] [HSTS,Vercel]
-https://pre-vault-api.gaib.ai [200] [] [15] [cloudflare] [172.67.155.185] [cloudflare] [545.754356ms] [Cloudflare,Express,HTTP/3,Node.js]
-https://share.fxdx.exchange [200] [] [1192] [Fxdx Share] [cloudflare] [104.21.5.129] [cloudflare] [295.556623ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
-https://spacex-ipo.gaib.ai [200] [] [5511] [SpaceX IPO — Short Duration Opportunity with GAIB] [Vercel] [216.150.1.193] [234.180631ms] [Google Analytics,HSTS,Vercel]
-https://monstats.fxdx.exchange [200] [] [2152] [3CX Webclient] [cloudflare] [172.67.133.119] [cloudflare] [842.634991ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
-https://blog.gaib.ai [200] [] [58822] [GAIB AI] [cloudflare] [172.67.155.185] [cloudflare] [1.147571768s] [Cloudflare,Cloudflare Browser Insights,Express,Ghost:6.44,HSTS,HTTP/3,Node.js,jsDelivr]
-https://tgpu-ath1.gaib.ai [200] [] [18379] [GAIB | Tokenized GPUs Sales] [Vercel] [76.76.21.93] [155.909931ms] [Ant Design,HSTS,Vercel]
-https://tronbridge.gaib.ai [200] [] [4118] [GAIB] [Vercel] [66.33.60.66] [364.364485ms] [Google Analytics,HSTS,Vercel]
-https://select.gaib.ai [200] [] [6415] [GAIB Select | Frontier AI Investment Opportunities] [cloudflare] [172.67.155.185] [cloudflare] [826.019009ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
-https://token-kiosk.gaib.ai [200] [] [52827] [Token Kiosk — OpenAI-compatible LLM gateway, pay with crypto] [Vercel] [216.150.16.193] [400.310479ms] [HSTS,Vercel]
-https://docs.gaib.ai [200] [] [354248] [About GAIB | GAIB] [cloudflare] [104.21.48.180] [cloudflare] [256.657286ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,HTTP/3,Vercel,dc.js]
-https://fusewallet.com [200] [] [501983] [Fuse - Your Money, Upgraded] [Framer/c4751cc] [52.223.52.2] [181.246028ms] [Framer Sites,HSTS,HTTP/3,React]
+https://card.fusewallet.com [200] [] [145] [Not found] [Vercel] [76.76.21.93] [199.51632ms] [HSTS,Vercel]
+https://holdings.gaib.ai [200] [] [4700] [GAIB AI - RWAiFi Infra] [Vercel] [216.150.1.1] [174.531766ms] [Google Analytics,HSTS,Vercel]
+https://audits.gaib.ai [200] [] [3369] [GAIB Audit reports] [Vercel] [216.150.1.193] [213.096695ms] [Google Analytics,HSTS,Vercel]
+https://gonka-invest-march.gaib.ai [200] [] [5946] [Gonka - Decentralized AI Computing Network] [Vercel] [216.150.1.193] [239.080127ms] [Google Analytics,HSTS,Vercel]
+https://gaib.ai [200] [] [15981] [GAIB AI - Where Capital Meets Compute] [cloudflare] [172.67.155.185] [cloudflare] [239.742598ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://fxdx.exchange [200] [] [10398] [FXDX] [cloudflare] [172.67.133.119] [cloudflare] [295.428506ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://institutional.gaib.ai [200] [] [7963] [GAIB | Private Credit in AI and Robotics] [Vercel] [216.150.1.193] [341.881113ms] [Google Analytics,HSTS,Vercel]
+https://app.fxdx.exchange [200] [] [3452] [fxdx] [cloudflare] [104.21.5.129] [cloudflare] [432.549117ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://dynamic.gaib.ai [200] [] [5684] [GAIB | Where Capital Meets Compute] [Vercel] [216.150.1.1] [364.050435ms] [Google Analytics,HSTS,Vercel]
+https://fremenessence-stg.gaib.ai [200] [] [1365] [Fremen Essence NFT by GAIB] [Vercel] [216.150.16.193] [478.243958ms] [HSTS,Vercel]
+https://aid-dashboard-stg.gaib.ai [200] [] [4041] [AID Alpha Dashboard - Multi-Chain Cryptocurrency Analytics] [Vercel] [216.150.1.129] [497.227731ms] [HSTS,Vercel]
+https://bridge.gaib.ai [200] [] [3115] [GAIB Bridge | Cross-Chain Bridge for AID & GAIB Tokens] [Vercel] [216.150.16.193] [519.722033ms] [Google Analytics,HSTS,Vercel]
+https://aidalpha.gaib.ai [200] [] [5860] [AID Alpha - The Final Spice] [cloudflare] [172.67.155.185] [cloudflare] [448.458328ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://aid-dashboard.gaib.ai [200] [] [4041] [AID Alpha Dashboard - Multi-Chain Cryptocurrency Analytics] [Vercel] [216.150.1.193] [568.600555ms] [HSTS,Vercel]
+https://fremenessence.gaib.ai [200] [] [1869] [Fremen Essence NFT by GAIB] [cloudflare] [172.67.155.185] [cloudflare] [597.752838ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://beta.fxdx.exchange [200] [] [10398] [FXDX] [cloudflare] [172.67.133.119] [cloudflare] [351.188761ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://aid.gaib.ai [200] [] [6188] [GAIB | Where Capital Meets Compute] [cloudflare] [104.21.48.180] [cloudflare] [557.498167ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://gaic.gaib.ai [200] [] [5600] [Gonka - Decentralized AI Computing Network] [Vercel] [216.150.1.129] [638.700391ms] [Google Analytics,HSTS,Vercel]
+https://gonka-invest.gaib.ai [200] [] [6450] [Gonka - Decentralized AI Computing Network] [cloudflare] [172.67.155.185] [cloudflare] [612.860415ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://docs-agent.gaib.ai [200] [] [52827] [Token Kiosk — OpenAI-compatible LLM gateway, pay with crypto] [Vercel] [216.150.1.193] [373.951489ms] [HSTS,Vercel]
+https://pfpmaker.gaib.ai [200] [] [2585] [GAIB MEME Editor] [Vercel] [216.150.1.129] [281.058424ms] [HSTS,Vercel]
+https://select.gaib.ai [200] [] [6415] [GAIB Select | Frontier AI Investment Opportunities] [cloudflare] [172.67.155.185] [cloudflare] [206.566965ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Vercel]
+https://share.fxdx.exchange [200] [] [1192] [Fxdx Share] [cloudflare] [104.21.5.129] [cloudflare] [352.071293ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://pre-vault-api.gaib.ai [200] [] [15] [cloudflare] [104.21.48.180] [cloudflare] [642.6514ms] [Cloudflare,Express,HTTP/3,Node.js]
+https://monstats.fxdx.exchange [200] [] [2152] [3CX Webclient] [cloudflare] [172.67.133.119] [cloudflare] [886.329068ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://tronbridge.gaib.ai [200] [] [4118] [GAIB] [Vercel] [66.33.60.66] [125.876492ms] [Google Analytics,HSTS,Vercel]
+https://spacex-ipo.gaib.ai [200] [] [5511] [SpaceX IPO — Short Duration Opportunity with GAIB] [Vercel] [216.150.1.1] [534.044585ms] [Google Analytics,HSTS,Vercel]
+https://blog.gaib.ai [200] [] [58849] [GAIB AI] [cloudflare] [172.67.155.185] [cloudflare] [1.37330358s] [Cloudflare,Cloudflare Browser Insights,Express,Ghost:6.44,HSTS,HTTP/3,Node.js,jsDelivr]
+https://tgpu-ath1.gaib.ai [200] [] [18379] [GAIB | Tokenized GPUs Sales] [Vercel] [76.76.21.241] [655.301279ms] [Ant Design,HSTS,Vercel]
+https://docs.gaib.ai [200] [] [354248] [About GAIB | GAIB] [cloudflare] [104.21.48.180] [cloudflare] [421.950533ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://token-kiosk.gaib.ai [200] [] [52827] [Token Kiosk — OpenAI-compatible LLM gateway, pay with crypto] [Vercel] [216.150.1.1] [915.359301ms] [HSTS,Vercel]
+https://fusewallet.com [200] [] [501983] [Fuse - Your Money, Upgraded] [Framer/c4751cc] [52.223.52.2] [805.330848ms] [Framer Sites,HSTS,HTTP/3,React]
 
 ## 301
-https://test.fxdx.exchange [301] [https://testnet.fxdx.exchange/] [15] [cloudflare] [104.21.5.129] [cloudflare] [259.569995ms] [Cloudflare,HSTS,HTTP/3,Vercel]
-http://bad.fxdx.exchange [301] [https://bad.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [172.67.133.119] [cloudflare] [40.768934ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
-http://adm.fxdx.exchange [301] [https://adm.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [172.67.133.119] [cloudflare] [40.743106ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
-http://data.fxdx.exchange [301] [https://data.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [104.21.5.129] [cloudflare] [47.585484ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
-http://monoral.fxdx.exchange [301] [https://monoral.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [172.67.133.119] [cloudflare] [33.576941ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
-http://monad.fxdx.exchange [301] [https://monad.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [172.67.133.119] [cloudflare] [44.795512ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
-http://stats.fxdx.exchange [301] [https://stats.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [104.21.5.129] [cloudflare] [35.823087ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
-http://waitlist.fxdx.exchange [301] [https://waitlist.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [104.21.5.129] [cloudflare] [34.570425ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://test.fxdx.exchange [301] [https://testnet.fxdx.exchange/] [15] [cloudflare] [104.21.5.129] [cloudflare] [324.456739ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+http://adm.fxdx.exchange [301] [https://adm.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [104.21.5.129] [cloudflare] [42.017057ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://data.fxdx.exchange [301] [https://data.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [104.21.5.129] [cloudflare] [42.018751ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://bad.fxdx.exchange [301] [https://bad.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [172.67.133.119] [cloudflare] [60.40919ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://monad.fxdx.exchange [301] [https://monad.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [172.67.133.119] [cloudflare] [40.176509ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://monoral.fxdx.exchange [301] [https://monoral.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [172.67.133.119] [cloudflare] [34.47451ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://stats.fxdx.exchange [301] [https://stats.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [172.67.133.119] [cloudflare] [23.391044ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://waitlist.fxdx.exchange [301] [https://waitlist.fxdx.exchange/] [671] [301 Moved Permanently] [cloudflare] [104.21.5.129] [cloudflare] [21.670947ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
 
 ## 302
-https://emails.fusewallet.com [302] [https://fuse-5ae1da3d173a.intercom-mail.com/admins/sign_in] [0] [nginx] [18.154.206.124] [cloudfront] [368.691058ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Nginx]
-https://telemetry.gaib.ai [302] [/auth/login/] [0] [cloudflare] [172.67.155.185] [cloudflare] [566.325541ms] [Cloudflare,HTTP/3]
+https://emails.fusewallet.com [302] [https://fuse-5ae1da3d173a.intercom-mail.com/admins/sign_in] [0] [nginx] [3.170.185.44] [cloudfront] [254.935917ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Nginx]
+https://telemetry.gaib.ai [302] [/auth/login/] [0] [cloudflare] [104.21.48.180] [cloudflare] [568.880003ms] [Cloudflare,HTTP/3]
 
 ## 307
 
 ## 308
-https://www.gaib.ai [308] [https://gaib.ai/] [15] [Vercel] [76.76.21.22] [162.77342ms] [HSTS,Vercel]
-https://www.fusewallet.com [308] [https://fusewallet.com/] [59] [Framer/c4751cc] [31.43.160.6] [260.128863ms] [Framer Sites,HSTS,HTTP/3,React]
-https://www.fxdx.exchange [308] [https://fxdx.exchange/] [15] [cloudflare] [104.21.5.129] [cloudflare] [307.934718ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.fusewallet.com [308] [https://fusewallet.com/] [59] [Framer/c4751cc] [31.43.160.6] [212.653082ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.gaib.ai [308] [https://gaib.ai/] [15] [Vercel] [66.33.60.129] [230.990832ms] [HSTS,Vercel]
+https://www.fxdx.exchange [308] [https://fxdx.exchange/] [15] [cloudflare] [104.21.5.129] [cloudflare] [324.799709ms] [Cloudflare,HSTS,HTTP/3,Vercel]
 
 ## 401
 
 ## 403
 
 ## 404
-https://insti-aida.gaib.ai [404] [] [107] [Vercel] [216.150.1.1] [631.700839ms] [HSTS,Vercel]
-https://invite.fusewallet.com [404] [] [7137] [404: This page could not be found.] [Vercel] [76.76.21.241] [309.931857ms] [HSTS,Vercel]
-https://recovery.fusewallet.com [404] [] [8253] [404: This page could not be found.] [Vercel] [66.33.60.34] [244.069577ms] [HSTS,Vercel]
-https://whitepaper.gaib.ai [404] [] [107] [cloudflare] [104.21.48.180] [cloudflare] [596.053174ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://insti-aida.gaib.ai [404] [] [107] [Vercel] [216.150.1.193] [618.001163ms] [HSTS,Vercel]
+https://invite.fusewallet.com [404] [] [7137] [404: This page could not be found.] [Vercel] [66.33.60.129] [552.993629ms] [HSTS,Vercel]
+https://recovery.fusewallet.com [404] [] [8253] [404: This page could not be found.] [Vercel] [76.76.21.98] [196.873248ms] [HSTS,Vercel]
+https://whitepaper.gaib.ai [404] [] [107] [cloudflare] [172.67.155.185] [cloudflare] [513.442107ms] [Cloudflare,HSTS,HTTP/3,Vercel]
 
 ## 500
 

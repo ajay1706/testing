@@ -1,3 +1,3 @@
-https://www.gaib.ai [308] [https://gaib.ai/] [15] [Vercel] [76.76.21.22] [162.77342ms] [HSTS,Vercel]
-https://www.fusewallet.com [308] [https://fusewallet.com/] [59] [Framer/c4751cc] [31.43.160.6] [260.128863ms] [Framer Sites,HSTS,HTTP/3,React]
-https://www.fxdx.exchange [308] [https://fxdx.exchange/] [15] [cloudflare] [104.21.5.129] [cloudflare] [307.934718ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.fusewallet.com [308] [https://fusewallet.com/] [59] [Framer/c4751cc] [31.43.160.6] [212.653082ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.gaib.ai [308] [https://gaib.ai/] [15] [Vercel] [66.33.60.129] [230.990832ms] [HSTS,Vercel]
+https://www.fxdx.exchange [308] [https://fxdx.exchange/] [15] [cloudflare] [104.21.5.129] [cloudflare] [324.799709ms] [Cloudflare,HSTS,HTTP/3,Vercel]

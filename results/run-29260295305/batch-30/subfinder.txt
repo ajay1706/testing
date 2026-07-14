@@ -1,4 +1,3 @@
-adam.ipor.io
 api-assets.mainnet.ipor.io
 api-goerli.ipor.io
 api-private.ipor.io
@@ -20,9 +19,6 @@ assets.sepolia.ipor.io
 bco.ipor.io
 beta.ipor.io
 blog.ipor.io
-cockpit-goerli.ipor.io
-cockpit-mainnet.ipor.io
-cockpit-rinkeby.ipor.io
 cockpit-v2.goerli.ipor.io
 cockpit-v2.mainnet.ipor.io
 cockpit.goerli-v2.ipor.io
@@ -44,13 +40,9 @@ gateway.mainnet.ipor.io
 goerli-v2.ipor.io
 goerli.ipor.io
 id.ionic.money
-internal-goerli.ipor.io
-internal-mainnet.ipor.io
-internal-rinkeby.ipor.io
 internal-sepolia.ipor.io
 internal.mainnet.ipor.io
 internal.sepolia.ipor.io
-mailer.ipor.io
 main.ionic.money
 mcp.ipor.io
 models.ipor.io
@@ -58,7 +50,6 @@ oracle.ipor.io
 perps.ionic.money
 pilot.ipor.io
 pre-testnet.ipor.io
-preview.ionic.money
 private.ipor.io
 rinkeby.ipor.io
 rpc1.jagpool.xyz
@@ -68,10 +59,8 @@ status.ionic.money
 testnet.ipor.io
 vpn.ipor.io
 website-v2.ipor.io
-wildcard.ionic.money
 worldcup.jagpool.xyz
 www.app.ionic.money
-www.cockpit-rinkeby.ipor.io
 www.ionic.money
 www.ipor.io
 www.jagpool.xyz

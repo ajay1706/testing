@@ -1,2 +1,2 @@
-https://api-v2.jagpool.xyz [404] [] [435] [404 Not Found] [] [143.198.250.88] [447.404168ms] [HSTS]
-https://api.test.jagpool.xyz [404] [] [146] [404 Not Found] [] [143.198.250.88] [487.672957ms] [HSTS]
+https://api.test.jagpool.xyz [404] [] [548] [404 Not Found] [] [143.198.250.88] [502.359422ms] [HSTS]
+https://api-v2.jagpool.xyz [404] [] [435] [404 Not Found] [] [143.198.250.88] [507.822485ms] [HSTS]

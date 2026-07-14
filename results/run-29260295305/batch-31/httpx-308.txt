@@ -1,1 +1,1 @@
-https://jito.network [308] [https://www.jito.network/] [15] [cloudflare] [172.66.158.221] [cloudflare] [399.989997ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://jito.network [308] [https://www.jito.network/] [15] [cloudflare] [172.66.158.221] [cloudflare] [229.845657ms] [Cloudflare,HSTS,HTTP/3,Vercel]

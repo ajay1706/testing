@@ -1,2 +1,2 @@
-https://claim.hyperswap.exchange [301] [https://app.hyperswap.exchange/] [167] [301 Moved Permanently] [cloudflare] [172.67.70.200] [cloudflare] [121.636884ms] [Cloudflare,HTTP/3]
-https://tap.hyperswap.exchange [301] [https://app.hyperswap.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.183] [cloudflare] [120.347551ms] [Cloudflare,HTTP/3]
+https://claim.hyperswap.exchange [301] [https://app.hyperswap.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.183] [cloudflare] [76.184804ms] [Cloudflare,HTTP/3]
+https://tap.hyperswap.exchange [301] [https://app.hyperswap.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.183] [cloudflare] [160.732878ms] [Cloudflare,HTTP/3]

@@ -1,5 +1,3 @@
-https://evmos.org [404] [] [9379] [Page not found · GitHub Pages] [GitHub.com] [185.199.109.153] [65.160805ms] [Fastly,GitHub Pages,Varnish]
-https://healthdata-playground.euler.finance [404] [] [1624] [404 Not Found] [cloudflare] [104.18.13.35] [cloudflare] [462.118713ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
-https://healthdata.euler.finance [404] [] [1624] [404 Not Found] [cloudflare] [104.18.13.35] [cloudflare] [498.334093ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
-https://tma-backend.euler.finance [404] [] [0] [cloudflare] [104.18.12.35] [cloudflare] [2.45329253s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
-https://token-images.euler.finance [404] [] [21] [cloudflare] [104.18.12.35] [cloudflare] [4.177157041s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://evmos.org [404] [] [9379] [Page not found · GitHub Pages] [GitHub.com] [185.199.109.153] [113.830125ms] [Fastly,GitHub Pages,Varnish]
+https://healthdata-playground.euler.finance [404] [] [1624] [404 Not Found] [cloudflare] [104.18.12.35] [cloudflare] [667.109103ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://healthdata.euler.finance [404] [] [1624] [404 Not Found] [cloudflare] [104.18.13.35] [cloudflare] [690.586218ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]

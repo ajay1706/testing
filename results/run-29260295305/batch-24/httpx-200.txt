@@ -1,2 +1,2 @@
-https://www.hyward.xyz [200] [] [883] [Hyward Finance] [Vercel] [216.198.79.1] [296.608498ms] [HSTS,Vercel]
-https://doc.hyward.xyz [200] [] [518921] [Introduction | Hward] [cloudflare] [172.67.158.105] [cloudflare] [485.292569ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://www.hyward.xyz [200] [] [883] [Hyward Finance] [Vercel] [64.29.17.65] [414.525186ms] [HSTS,Vercel]
+https://doc.hyward.xyz [200] [] [518921] [Introduction | Hward] [cloudflare] [172.67.158.105] [cloudflare] [283.570901ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]

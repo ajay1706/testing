@@ -2,9 +2,9 @@
 
 Run ID: 29260295305
 Batch: batch-12
-Saved at: Mon Jul 13 15:13:24 UTC 2026
+Saved at: Mon Jul 13 22:33:16 UTC 2026
 
 Input domains: 3
-Subdomains: 162
-HTTPX lines: 45
-Live URLs: 45
+Subdomains: 158
+HTTPX lines: 44
+Live URLs: 44

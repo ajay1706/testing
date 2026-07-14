@@ -1,2 +1,2 @@
-https://prism-cf.grass.io [500] [] [0] [cloudflare] [104.18.12.205] [cloudflare] [181.153264ms] [Cloudflare,Cloudflare Bot Management]
-https://prism.grass.io [500] [] [0] [] [45.38.8.13] [241.325669ms]
+https://prism-cf.grass.io [500] [] [0] [cloudflare] [104.18.13.205] [cloudflare] [203.621159ms] [Cloudflare,Cloudflare Bot Management]
+https://prism.grass.io [500] [] [0] [] [45.38.8.13] [266.59107ms]

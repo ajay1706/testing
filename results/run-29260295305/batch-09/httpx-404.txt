@@ -1,4 +1,4 @@
-https://insti-aida.gaib.ai [404] [] [107] [Vercel] [216.150.1.1] [631.700839ms] [HSTS,Vercel]
-https://invite.fusewallet.com [404] [] [7137] [404: This page could not be found.] [Vercel] [76.76.21.241] [309.931857ms] [HSTS,Vercel]
-https://recovery.fusewallet.com [404] [] [8253] [404: This page could not be found.] [Vercel] [66.33.60.34] [244.069577ms] [HSTS,Vercel]
-https://whitepaper.gaib.ai [404] [] [107] [cloudflare] [104.21.48.180] [cloudflare] [596.053174ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://insti-aida.gaib.ai [404] [] [107] [Vercel] [216.150.1.193] [618.001163ms] [HSTS,Vercel]
+https://invite.fusewallet.com [404] [] [7137] [404: This page could not be found.] [Vercel] [66.33.60.129] [552.993629ms] [HSTS,Vercel]
+https://recovery.fusewallet.com [404] [] [8253] [404: This page could not be found.] [Vercel] [76.76.21.98] [196.873248ms] [HSTS,Vercel]
+https://whitepaper.gaib.ai [404] [] [107] [cloudflare] [172.67.155.185] [cloudflare] [513.442107ms] [Cloudflare,HSTS,HTTP/3,Vercel]

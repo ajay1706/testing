@@ -1,3 +1,2 @@
-https://learn.internetcomputer.org [302] [https://learn.internetcomputer.org/hc] [0] [cloudflare] [216.198.54.11] [265.955357ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
-https://success.io.net [302] [https://success.io.net/support/home] [101] [cloudflare] [172.66.0.145] [cloudflare] [1.329140857s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
-https://support.io.net [302] [https://support.io.net/support/home] [101] [cloudflare] [172.66.0.145] [cloudflare] [3.195475508s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://learn.internetcomputer.org [302] [https://learn.internetcomputer.org/hc] [0] [cloudflare] [216.198.53.11] [285.519678ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://success.io.net [302] [https://success.io.net/support/home] [101] [cloudflare] [162.159.140.147] [cloudflare] [2.316044897s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]

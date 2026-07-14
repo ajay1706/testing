@@ -1,2 +1,2 @@
-https://www.growi.fi [301] [https://growi.fi/] [225] [301 Moved Permanently] [Apache] [51.255.26.63] [489.884778ms] [Apache HTTP Server]
-http://api.harmonix.fi [301] [https://api.harmonix.fi:443/] [134] [301 Moved Permanently] [awselb/2.0] [99.83.251.75] [409.566266ms] [Amazon ELB,Amazon Web Services]
+https://www.growi.fi [301] [https://growi.fi/] [225] [301 Moved Permanently] [Apache] [51.255.26.63] [326.742914ms] [Apache HTTP Server]
+http://api.harmonix.fi [301] [https://api.harmonix.fi:443/] [134] [301 Moved Permanently] [awselb/2.0] [75.2.85.105] [434.982238ms] [Amazon ELB,Amazon Web Services]

@@ -1,8 +1,4 @@
 http://governance.euler.finance
-http://tma-frontend.euler.finance
-http://toolbox.euler.finance
-http://www.euler.finance
-http://www.oracle-deployer.euler.finance
 https://1-liquidations.euler.finance
 https://130-liquidations.euler.finance
 https://143-liquidations.euler.finance
@@ -31,7 +27,6 @@ https://devlb.euler.finance
 https://discord.euler.finance
 https://docs-v1.euler.finance
 https://docs.euler.finance
-https://docs.exactly.finance
 https://earn.euler.finance
 https://eul.euler.finance
 https://euler-lite.euler.finance
@@ -63,12 +58,11 @@ https://oracles.euler.finance
 https://redemptions.euler.finance
 https://rpc.euler.finance
 https://rpc2.euler.finance
-https://rpc3.euler.finance
-https://stage-lite.euler.finance
+https://swap-dev.euler.finance
 https://swap.euler.finance
-https://tma-backend.euler.finance
-https://token-images.euler.finance
+https://tma-frontend.euler.finance
+https://toolbox.euler.finance
 https://v3.euler.finance
 https://www.app.euler.finance
 https://www.legacy.euler.finance
-https://www.oracles.euler.finance
+https://www.oracle-deployer.euler.finance

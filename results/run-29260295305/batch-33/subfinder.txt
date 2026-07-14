@@ -63,6 +63,7 @@ customer-portal-api-staging.jup.ag
 customer-portal-api.jup.ag
 das-proxy-api.jup.ag
 data.datapi.jup.ag
+data.dca.jup.ag
 datapi.jup.ag
 dayone.jup.ag
 dca-api.jup.ag
@@ -74,18 +75,22 @@ dev-api.aws-beta-api.jup.ag
 dev-customer.aws-beta-api.jup.ag
 dev.datapi.jup.ag
 dev.jup.ag
+dev.rfq-quote-proxy.jup.ag
 developers.jup.ag
 developers.v3.compute.jup.ag
 developers.v3.jup.ag
 devnet-fox.jup.ag
+devnet.fox.jup.ag
 devnet.jup.ag
 discuss.jup.ag
 dns.datapi.jup.ag
+doc.jup.ag
 docs.jup.ag
 dtf.jup.ag
 dummy.jup.ag
 edge-quote-api.jup.ag
 edge.jup.ag
+edge1.jup.ag
 enjoyoors-api.jup.ag
 enjoyoors.jup.ag
 errors.jup.ag
@@ -137,6 +142,8 @@ insights-cf.jup.ag
 int.lite-api.jup.ag
 internal-api-staging.jup.ag
 internal-api.jup.ag
+internal-quote-api.jup.ag
+internal-test.jup.ag
 internal.jup.ag
 invite-api.jup.ag
 invite.jup.ag
@@ -156,10 +163,12 @@ kl.jup.ag
 labs.jup.ag
 landing.global.jup.ag
 launch-test.jup.ag
+launch.jup.ag
 legacy.jup.ag
 lend-api.jup.ag
 lend.preprod.jup.ag
 lfg-design.jup.ag
+lfg-preview.jup.ag
 lfg.jup.ag
 limit-order-api.jup.ag
 limit.jup.ag
@@ -171,6 +180,7 @@ lock-api.jup.ag
 lock.jup.ag
 login.jup.ag
 m.datapi.jup.ag
+mainnet.jup.ag
 market-stream.jup.ag
 mcp.jup.ag
 mcp.offerbook.jup.ag
@@ -222,6 +232,7 @@ preprod.ultra-api.jup.ag
 preprodtrigger.jup.ag
 preview.jup.ag
 price-beta.jup.ag
+price-curve.jup.ag
 price.jup.ag
 prices.prediction.jup.ag
 privy.global.jup.ag
@@ -239,6 +250,7 @@ rfq-quote-proxy-dev.jup.ag
 s3.jup.ag
 sandbox-api-staging.jup.ag
 sandbox-dev-api.aws-beta-api.jup.ag
+secret.jup.ag
 sender.offerbook.jup.ag
 sentry.jup.ag
 simple.portfolio.jup.ag
@@ -291,6 +303,7 @@ trigger-v2.jup.ag
 trigger.jup.ag
 tx-sender.jup.ag
 tx.jup.ag
+uiv2.jup.ag
 ultra-api.jup.ag
 unified.jup.ag
 unprotected.jup.ag
@@ -299,7 +312,9 @@ uptime.jup.ag
 v2.jup.ag
 v2.mod.portfolio.jup.ag
 v3-quote.jup.ag
+v6-test-api.jup.ag
 va.jup.ag
+va1.jup.ag
 verified.jup.ag
 verify-api.jup.ag
 verify.jup.ag

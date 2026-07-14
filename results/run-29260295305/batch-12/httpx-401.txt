@@ -1,1 +1,2 @@
-https://email.templates.gnosis.io [401] [] [12] [CloudFront] [13.249.141.123] [cloudfront] [573.808604ms] [Amazon CloudFront,Amazon Web Services,Basic,HSTS]
+https://email.templates.gnosis.io [401] [] [12] [CloudFront] [13.35.78.28] [cloudfront] [437.282627ms] [Amazon CloudFront,Amazon Web Services,Basic,HSTS]
+https://thanos.gnosis.io [401] [] [179] [401 Authorization Required] [nginx/1.29.8] [52.29.50.38] [4.294642484s] [Basic,Nginx:1.29.8]

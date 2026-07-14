@@ -4,9 +4,7 @@ alpha.flipsidecrypto.xyz
 api-dev.vertex.flipsidecrypto.xyz
 api-docs.flipsidecrypto.xyz
 api-staging.vertex.flipsidecrypto.xyz
-api.flaunch.gg
 api.flipsidecrypto.xyz
-api.flipsuite.xyz
 api.vertex.flipsidecrypto.xyz
 app.flaunch.gg
 app.flipsidecrypto.xyz
@@ -44,7 +42,6 @@ godmode.flipsidecrypto.xyz
 growth.flipsidecrypto.xyz
 home.flipsidecrypto.xyz
 if.flaunch.gg
-images.flaunch.gg
 insights.flipsidecrypto.xyz
 ipfs.flaunch.gg
 ipfs2.flaunch.gg
@@ -82,7 +79,6 @@ science.flipsidecrypto.xyz
 sdk-playground.flipsidecrypto.xyz
 sdk.flipsidecrypto.xyz
 snowflake.flipsidecrypto.xyz
-stage.flipsuite.xyz
 staging.flipsidecrypto.xyz
 status.flaunch.gg
 storage.flipsidecrypto.xyz

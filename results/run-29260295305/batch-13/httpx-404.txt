@@ -1,4 +1,4 @@
-https://api.gopluslabs.io [404] [] [102] [cloudflare] [104.26.2.51] [cloudflare] [266.291129ms] [Cloudflare]
-https://open-api.gopluslabs.io [404] [] [102] [cloudflare] [172.67.74.93] [cloudflare] [507.051342ms] [Cloudflare]
-https://x402.gopluslabs.io [404] [] [107] [Vercel] [216.150.16.193] [320.535346ms] [HSTS,Vercel]
-https://go.gopluslabs.io [404] [] [6609] [Not Found] [Tengine/2.3.3] [16.162.28.247] [953.813955ms] [PHP:7.4.33,Tengine]
+https://api.gopluslabs.io [404] [] [102] [cloudflare] [104.26.3.51] [cloudflare] [196.833727ms] [Cloudflare]
+https://open-api.gopluslabs.io [404] [] [102] [cloudflare] [172.67.74.93] [cloudflare] [521.918841ms] [Cloudflare]
+https://go.gopluslabs.io [404] [] [6609] [Not Found] [Tengine/2.3.3] [16.162.28.247] [640.458795ms] [PHP:7.4.33,Tengine]
+https://x402.gopluslabs.io [404] [] [107] [Vercel] [216.150.16.193] [482.122644ms] [HSTS,Vercel]

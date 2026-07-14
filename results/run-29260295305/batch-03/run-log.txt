@@ -1,4 +1,4 @@
-[+] Batch started: Mon Jul 13 15:00:57 UTC 2026
+[+] Batch started: Mon Jul 13 22:06:07 UTC 2026
 [+] Run ID: 29260295305
 [+] Batch name: batch-03
 [+] Batch targets:
@@ -6,9 +6,9 @@ filecoin.io
 fileverse.io
 fireblocks.com
 [+] Running subfinder...
-[+] Subfinder completed: Mon Jul 13 15:02:18 UTC 2026
-[+] HTTPX input count: 250
+[+] Subfinder completed: Mon Jul 13 22:09:08 UTC 2026
+[+] HTTPX input count: 237
 [+] Running httpx...
-[+] httpx completed: Mon Jul 13 15:02:47 UTC 2026
+[+] httpx completed: Mon Jul 13 22:09:35 UTC 2026
 [+] httpx line count: 166
-[+] Batch completed: Mon Jul 13 15:02:47 UTC 2026
+[+] Batch completed: Mon Jul 13 22:09:35 UTC 2026

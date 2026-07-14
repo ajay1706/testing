@@ -3,7 +3,7 @@ http://ocr.ac.janushenderson.com
 http://ocr.dv.janushenderson.com
 http://ocr.janushenderson.com
 http://ocr.ts.janushenderson.com
-http://www.janushenderson.com
+http://subscribe.janushenderson.com
 https://account.ac.janushenderson.com
 https://account.dv.janushenderson.com
 https://account.janushenderson.com
@@ -60,10 +60,9 @@ https://preprod.janushenderson.com
 https://preview.janushenderson.com
 https://preview2.janushenderson.com
 https://qr.janushenderson.com
-https://shop.jito.network
-https://subscribe.janushenderson.com
-https://test.janushenderson.com
-https://test2.janushenderson.com
+https://servicehub.ac.janushenderson.com
+https://servicehub.dv.janushenderson.com
 https://webreg.janushenderson.com
+https://www.janushenderson.com
 https://www.jito.network
 https://www.my.janushenderson.com

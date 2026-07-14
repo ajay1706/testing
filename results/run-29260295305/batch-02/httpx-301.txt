@@ -1,2 +1,2 @@
-https://www.farcaster.xyz [301] [https://farcaster.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.64.145.121] [cloudflare] [70.859734ms] [Cloudflare,HSTS,HTTP/3]
-https://link.farcaster.xyz [301] [https://linklyhq.com/no-default-redirect?domain=link.farcaster.xyz] [132] [] [34.133.74.21] [google] [500.721783ms] [HSTS]
+https://link.farcaster.xyz [301] [https://linklyhq.com/no-default-redirect?domain=link.farcaster.xyz] [132] [] [34.133.74.21] [google] [252.19456ms] [HSTS]
+https://www.farcaster.xyz [301] [https://farcaster.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.18.42.135] [cloudflare] [88.409472ms] [Cloudflare,HSTS,HTTP/3]

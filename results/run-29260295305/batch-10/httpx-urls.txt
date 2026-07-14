@@ -10,6 +10,7 @@ http://nyc1-01-staging-api.gammaswap.com
 http://old.gammaswap.com
 http://rpctest.gammaswap.com
 http://sgp1-01-staging-api.gammaswap.com
+http://shop.gammaswap.com
 http://staging-indexer-api.gammaswap.com
 http://store.gammaswap.com
 http://test-staging-api.gammaswap.com
@@ -47,6 +48,7 @@ https://staging-exchange-api.gammaswap.com
 https://staging.gammaswap.com
 https://v2-app.gammaswap.com
 https://v2-staging.gammaswap.com
+https://vote.gammaswap.com
 https://wrkr.gains.trade
 https://www.gains.trade
 https://www.gammaswap.com

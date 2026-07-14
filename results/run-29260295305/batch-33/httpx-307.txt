@@ -1,2 +1,2 @@
-https://eval.galileo.jup.ag [307] [/login?redirect=%2F] [19] [] [108.138.85.110] [cloudfront] [246.995556ms] [Amazon CloudFront,Amazon Web Services]
-https://offerbook.jup.ag [307] [/offers] [48772] [Offerbook | Decentralized Lending on Solana] [cloudflare] [104.18.43.59] [cloudflare] [5.171315388s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://eval.galileo.jup.ag [307] [/login?redirect=%2F] [19] [] [18.238.192.14] [cloudfront] [414.573683ms] [Amazon CloudFront,Amazon Web Services]
+https://offerbook.jup.ag [307] [/offers] [48772] [Offerbook | Decentralized Lending on Solana] [cloudflare] [172.64.144.197] [cloudflare] [4.155655124s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]

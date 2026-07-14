@@ -1,4 +1,4 @@
-[+] Batch started: Mon Jul 13 15:17:13 UTC 2026
+[+] Batch started: Mon Jul 13 22:38:08 UTC 2026
 [+] Run ID: 29260295305
 [+] Batch name: batch-17
 [+] Batch targets:
@@ -6,9 +6,9 @@ hedera.com
 hegic.co
 helium.com
 [+] Running subfinder...
-[+] Subfinder completed: Mon Jul 13 15:17:48 UTC 2026
-[+] HTTPX input count: 187
+[+] Subfinder completed: Mon Jul 13 22:38:55 UTC 2026
+[+] HTTPX input count: 170
 [+] Running httpx...
-[+] httpx completed: Mon Jul 13 15:18:16 UTC 2026
-[+] httpx line count: 86
-[+] Batch completed: Mon Jul 13 15:18:16 UTC 2026
+[+] httpx completed: Mon Jul 13 22:39:18 UTC 2026
+[+] httpx line count: 87
+[+] Batch completed: Mon Jul 13 22:39:18 UTC 2026

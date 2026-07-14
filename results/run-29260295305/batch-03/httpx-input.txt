@@ -1,21 +1,15 @@
 about.fileverse.io
 academy.fireblocks.com
 adhoc.fileverse.io
-admin.calibration.spacerace.filecoin.io
 admin.spacerace.filecoin.io
-admin.staging.spacerace.filecoin.io
 agents.fileverse.io
-alt.proofs.filecoin.io
 api-reference.fireblocks.com
-api.calibration.spacerace.filecoin.io
 api.evergreen.filecoin.io
 api.filecoin.io
 api.fileverse.io
 api.fireblocks.com
-api.orbital.filecoin.io
 api.orbitalburn.filecoin.io
 api.spacerace.filecoin.io
-api.staging.spacerace.filecoin.io
 app.fireblocks.com
 apps-indexer.fileverse.io
 apps-ipfs.fileverse.io
@@ -67,7 +61,6 @@ devcon-files.fileverse.io
 devcon-images.fileverse.io
 devcon.fileverse.io
 develop.ecosystem.filecoin.io
-develop.slingshot.filecoin.io
 developers.fireblocks.com
 discuss.filecoin.io
 docs-ng.fireblocks.com
@@ -133,8 +126,6 @@ largedata.filecoin.io
 legacy-docs.filecoin.io
 legacy.datasets.filecoin.io
 liftoff.filecoin.io
-logs.calibration.spacerace.filecoin.io
-logs.spacerace.filecoin.io
 lotus.filecoin.io
 mailchimp.filecoin.io
 marketplaceapi.gcp.fireblocks.com
@@ -150,7 +141,6 @@ nh-poc.fireblocks.com
 ns3.fireblocks.com
 onchain-proxy.fileverse.io
 orbit.filecoin.io
-orbital.filecoin.io
 orbitalburn.filecoin.io
 orbitcommunity.filecoin.io
 origin.filecoin.io
@@ -163,7 +153,6 @@ referral.fireblocks.com
 research.filecoin.io
 retrievalproxy.browser-retrieval.filecoin.io
 reward.testnet.filecoin.io
-ribinfra.internal.filecoin.io
 rtc.fileverse.io
 safe.filecoin.io
 sandbox.status.fireblocks.com
@@ -189,7 +178,6 @@ staging.events.filecoin.io
 staging.fileverse.io
 staging.hackathons.filecoin.io
 staging.safe.filecoin.io
-staging.spacerace.filecoin.io
 stats-staging.testnet.filecoin.io
 stats.filecoin.io
 stats.testnet.filecoin.io
@@ -227,7 +215,6 @@ vendors.fireblocks.com
 venus.filecoin.io
 verify-ens.fileverse.io
 video.filecoin.io
-vintage.filecoin.io
 walkaway.fileverse.io
 web.filecoin.io
 webrtc-star-1.browser-retrieval.filecoin.io

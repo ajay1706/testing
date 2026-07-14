@@ -7,9 +7,7 @@ http://id.ionic.money
 http://ionic.money
 http://main.ionic.money
 http://perps.ionic.money
-http://preview.ionic.money
 http://status.ionic.money
-http://wildcard.ionic.money
 http://www.app.ionic.money
 http://www.ionic.money
 https://api-assets.mainnet.ipor.io

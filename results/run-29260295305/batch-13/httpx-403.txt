@@ -1,2 +1,2 @@
-https://statics.gopluslabs.io [403] [] [263] [AmazonS3] [3.170.19.15] [cloudfront] [702.044849ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
-https://static2.gopluslabs.io [403] [] [263] [AmazonS3] [18.160.18.102] [cloudfront] [798.21153ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://static2.gopluslabs.io [403] [] [263] [AmazonS3] [65.8.54.89] [cloudfront] [547.655878ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://statics.gopluslabs.io [403] [] [243] [AmazonS3] [3.169.183.3] [cloudfront] [551.235316ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]

@@ -1,4 +1,4 @@
-https://downloads.exodus.com [302] [https://www.exodus.com/download/] [143] [302 Found] [cloudflare] [172.64.151.44] [cloudflare] [45.322995ms] [Cloudflare,HSTS]
-https://extension.exodus.com [302] [https://www.exodus.com/browser-extension/] [143] [302 Found] [cloudflare] [172.64.151.44] [cloudflare] [46.506572ms] [Cloudflare,HSTS]
-https://referrals.exodus.com [302] [https://www.exodus.com/] [143] [302 Found] [cloudflare] [104.18.36.212] [cloudflare] [30.218894ms] [Cloudflare,HSTS]
-https://investors.exodus.com [302] [/investors] [0] [cloudflare] [104.18.36.212] [cloudflare] [170.409063ms] [Cloudflare,HSTS,hCaptcha]
+https://downloads.exodus.com [302] [https://www.exodus.com/download/] [143] [302 Found] [cloudflare] [172.64.151.44] [cloudflare] [29.200442ms] [Cloudflare,HSTS]
+https://extension.exodus.com [302] [https://www.exodus.com/browser-extension/] [143] [302 Found] [cloudflare] [172.64.151.44] [cloudflare] [52.229741ms] [Cloudflare,HSTS]
+https://investors.exodus.com [302] [/investors] [0] [cloudflare] [104.18.36.212] [cloudflare] [290.387626ms] [Cloudflare,HSTS,hCaptcha]
+https://referrals.exodus.com [302] [https://www.exodus.com/] [143] [302 Found] [cloudflare] [104.18.36.212] [cloudflare] [168.975605ms] [Cloudflare,HSTS]

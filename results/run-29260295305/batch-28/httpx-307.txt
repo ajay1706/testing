@@ -1,2 +1,2 @@
-https://bridge-gel.inkonchain.com [307] [/bridge/ink] [15] [cloudflare] [104.18.36.214] [cloudflare] [254.635851ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
-https://bridge-gel-sepolia.inkonchain.com [307] [/bridge/ink-sepolia] [15] [cloudflare] [104.18.36.214] [cloudflare] [290.44981ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://bridge-gel.inkonchain.com [307] [/bridge/ink] [15] [cloudflare] [172.64.151.42] [cloudflare] [208.684591ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://bridge-gel-sepolia.inkonchain.com [307] [/bridge/ink-sepolia] [15] [cloudflare] [172.64.151.42] [cloudflare] [300.249093ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]

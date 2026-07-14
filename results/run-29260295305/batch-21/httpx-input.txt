@@ -12,13 +12,11 @@ api.internal.k8s.hubbleprotocol.io
 api2.dev.hubbleprotocol.io
 app.hubbleprotocol.io
 app.hydrex.fi
-app2.hubbleprotocol.io
 backup.api.hydrex.fi
 backup.hydrex.fi
 beta-t.hybra.finance
 blog.hubbleprotocol.io
 dev.hubbleprotocol.io
-dev2.hubbleprotocol.io
 dexscreener-backup.hydrex.fi
 dexscreener.hydrex.fi
 docs.hubbleprotocol.io

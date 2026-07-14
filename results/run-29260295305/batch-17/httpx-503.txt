@@ -1,1 +1,1 @@
-https://solana-status.helium.com [503] [] [567] [Application Error] [Heroku] [3.33.193.101] [402.12716ms]
+https://solana-status.helium.com [503] [] [567] [Application Error] [Heroku] [15.197.246.237] [375.867783ms]

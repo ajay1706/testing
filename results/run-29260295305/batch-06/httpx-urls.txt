@@ -1,7 +1,7 @@
 http://cms.foxify.trade
+http://dashboard.fluxbeam.xyz
 http://infra-jp-foxifyprod2.foxify.trade
 http://preview.fluxbeam.xyz
-http://public.fluxbeam.xyz
 http://push.frame.sh
 https://api.dashboard.fluxbeam.xyz
 https://api.fluxbeam.xyz
@@ -20,7 +20,6 @@ https://bot.fogo.fluxbeam.xyz
 https://bouncer.fluxbeam.xyz
 https://buy.foxify.trade
 https://cursosguerra.frame.sh
-https://dashboard.fluxbeam.xyz
 https://data.fluxbeam.xyz
 https://data.fogo.fluxbeam.xyz
 https://dev-bot.fluxbeam.xyz
@@ -34,13 +33,13 @@ https://eu.rpc.fogo.fluxbeam.xyz
 https://eu.shield.rpc.fluxbeam.xyz
 https://feedback.frame.sh
 https://fluxbeam.xyz
-https://fogo.fluxbeam.xyz
 https://foxify.trade
 https://frame.sh
 https://gas.frame.sh
 https://gateway.fluxbeam.xyz
 https://gateway.fogo.fluxbeam.xyz
 https://hostmaster.frame.sh
+https://i.fluxbeam.xyz
 https://kitfarm.foxify.trade
 https://kitsune-arb.foxify.trade
 https://kitsune.foxify.trade
@@ -55,7 +54,6 @@ https://perptools.foxify.trade
 https://pool-bot.fluxbeam.xyz
 https://pools.fluxbeam.xyz
 https://realtime.frame.sh
-https://sandbox.fluxbeam.xyz
 https://scratch.fluxbeam.xyz
 https://scratch.fogo.fluxbeam.xyz
 https://services.foxify.trade

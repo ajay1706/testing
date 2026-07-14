@@ -1,2 +1,2 @@
-https://grass.io [301] [https://www.grass.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.13.205] [cloudflare] [152.470696ms] [Cloudflare,Cloudflare Bot Management]
-https://files.grass.io [301] [https://www.backblaze.com/b2/cloud-storage.html] [0] [nginx] [18.172.134.108] [cloudfront] [242.467727ms] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx]
+https://grass.io [301] [https://www.grass.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.12.205] [cloudflare] [69.679191ms] [Cloudflare,Cloudflare Bot Management]
+https://files.grass.io [301] [https://www.backblaze.com/b2/cloud-storage.html] [0] [nginx] [99.84.41.99] [cloudfront] [280.82636ms] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx]

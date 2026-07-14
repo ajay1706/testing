@@ -26,8 +26,6 @@ dev.jpool.one
 dev.pumpjack.jpool.one
 docs.jonesdao.io
 docs.jpool.one
-etherfi.juice.finance
-etherfi.prod.juice.finance
 events.juice.finance
 git.jpool.one
 guardedlaunch.jonesdao.io
@@ -37,7 +35,6 @@ integrations.juice.finance
 jonesdao.io
 jpool.one
 juice.finance
-kelp.juice.finance
 landing-dev.jpool.one
 llm.jpool.one
 main.juice.finance

@@ -3,7 +3,6 @@ accounts.franklintempleton.com
 advice.franklintempleton.com
 advicedev.franklintempleton.com
 adviceuat.franklintempleton.com
-airdrop.frax.finance
 analytics.frameworks.network
 api-dev.franklintempleton.com
 api-global.frax.finance
@@ -55,9 +54,6 @@ community.frax.finance
 competitorprofile.franklintempleton.com
 content.analytics.franklintempleton.com
 core-central-primary.frameworks.network
-cpanel.frax.finance
-cpcalendars.frax.finance
-cpcontacts.frax.finance
 da-dev.franklintempleton.com
 da.franklintempleton.com
 data.analytics.franklintempleton.com
@@ -75,7 +71,6 @@ digitalassets.franklintempleton.com
 docs.franklintempleton.com
 docs.frax.finance
 e.franklintempleton.com
-edge-3d79dfc6.frameworks.network
 edge-egress.frameworks.network
 edge-ingest.frameworks.network
 edge-processing.frameworks.network
@@ -102,7 +97,6 @@ frameworks.cdn.frameworks.network
 frkemail.franklintempleton.com
 ftguest.franklintempleton.com
 ftinode.franklintempleton.com
-ftp.frameworks.network
 ftp.frax.finance
 ftsig-aptos-phase1-prod01.ftinode.franklintempleton.com
 ftsig-aptos-phase1-prod02.ftinode.franklintempleton.com
@@ -153,7 +147,6 @@ livepeer-gateway.regional-us-1.infra.frameworks.network
 livepeer-gateway.regional-us-2.infra.frameworks.network
 livepeer-gateway.regional-us-3.infra.frameworks.network
 livepeer.frameworks.network
-localhost.frameworks.network
 login-kyc-uat.franklintempleton.com
 login-kyc.franklintempleton.com
 login-preview.digitalassets.franklintempleton.com
@@ -163,9 +156,7 @@ lyncdiscover.franklintempleton.com
 m-app.franklintempleton.com
 m.events.franklintempleton.com
 m.franklintempleton.com
-mail.frameworks.network
 mail.frax.finance
-mainnet.frax.finance
 marco-stronk-tech-4c89f0dc.cdn.frameworks.network
 markmobius.ro.franklintempleton.com
 media-central-primary.frameworks.network
@@ -255,9 +246,7 @@ tdvapi-dev.franklintempleton.com
 tdvapi.franklintempleton.com
 testmeetingplace.franklintempleton.com
 uat-competitorprofile.franklintempleton.com
-v1.app.frax.finance
 webcast.franklintempleton.com
-webdisk.frax.finance
 webmail.frax.finance
 whale-dev.franklintempleton.com
 wiki.franklintempleton.com
@@ -272,7 +261,6 @@ www.frameworks.network
 www.franklintempleton.com
 www.frax.finance
 www.frkemail.franklintempleton.com
-www.ftp.frameworks.network
 www1.franklintempleton.com
 xrp-dev.franklintempleton.com
 xrp.franklintempleton.com

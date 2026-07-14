@@ -1,4 +1,3 @@
-80000.infrared.finance
 80094.infrared.finance
 acc-creator-api.initia.xyz
 acc-creator-api.initiation-2.initia.xyz
@@ -30,10 +29,6 @@ anvil.initia.xyz
 anvil.staging.europe-west.initia.xyz
 anvil.staging.initia.xyz
 anvil.testnet.initia.xyz
-api-consensysnet.infura.io
-api-infuranet.infura.io
-api-mainnet.infura.io
-api-ropsten.infura.io
 api-test.stone-16.initia.xyz
 api-test.stone-test.initia.xyz
 api.dev.infrared.finance
@@ -90,8 +85,6 @@ base-mainnet.infura.io
 beta.initia.xyz
 bitcoin-mainnet.infura.io
 blog.infura.io
-bm.infrared.finance
-borgcube.80000.infrared.finance
 borgcube.80094.infrared.finance
 borgcube.infrared.finance
 borgcube.staging.infrared.finance
@@ -116,7 +109,6 @@ community.infura.io
 compiler.initiation-2.initia.xyz
 compiler.testnet.initia.xyz
 consensys-zkevm-goerli-prealpha.infura.io
-consensysnet.infura.io
 contents.initia.xyz
 contracts.devnet.initia.xyz
 contracts.testnet.initia.xyz
@@ -129,9 +121,7 @@ demo.initia.xyz
 demo.linea-mainnet.infura.io
 deposit-api.initia.xyz
 dev-router-api.initia.xyz
-dev.api.infrared.finance
 dev.internal.infura.io
-develop.infrared.finance
 devnet.initia.xyz
 devtools.devnet.initia.xyz
 devtools.mahalo-3.initia.xyz
@@ -160,7 +150,6 @@ email.mg3.infura.io
 eth2-beacon-mainnet.infura.io
 ethql-denver.infura.io
 explorer.devnet.initia.xyz
-explorer.infura.io
 explorer.mahalo-1.initia.xyz
 explorer.mahalo-2.initia.xyz
 explorer.mahalo-3.initia.xyz
@@ -180,7 +169,6 @@ faucet.mahalo-2.initia.xyz
 faucet.mahalo-3.initia.xyz
 faucet.testnet.initia.xyz
 files.initia.xyz
-firetest.infura.io
 forum.initia.xyz
 free-4.initia.xyz
 freeze-jennie.testnet.initia.xyz
@@ -191,7 +179,6 @@ gateway.avalanche-mainnet.infura.io
 global-rpc.mahalo-1.initia.xyz
 glyph.initia.xyz
 glyph.initiation-2.initia.xyz
-gmainnet.infura.io
 go.initia.xyz
 goerli.infura.io
 grafana.testnet.initia.xyz
@@ -202,7 +189,6 @@ graphql.initia.xyz
 graphql.initiation-2.initia.xyz
 graphql.staging.initia.xyz
 graphql.testnet.initia.xyz
-gropsten.infura.io
 grpc-skip-b.initia.xyz
 grpc-skip-test.initia.xyz
 grpc-skip-test.initiation-2.initia.xyz
@@ -261,7 +247,6 @@ ipns.ipfs-staging.infura.io
 ipns.ipfs.infura.io
 jenkins.initia.xyz
 jennie.initia.xyz
-jobs.infrared.finance
 jsonrpc-1-rave-1.anvil.asia-southeast.initia.xyz
 jsonrpc-embr-1.anvil.asia-southeast.initia.xyz
 k8s.initia.xyz
@@ -288,7 +273,6 @@ list.stone-13.initia.xyz
 list.stone-16.initia.xyz
 list.testnet.initia.xyz
 llcd.initiation-1.initia.xyz
-logging.infura.io
 login.base-mainnet.infura.io
 mahalo-1.initia.xyz
 mahalo-2.initia.xyz
@@ -296,7 +280,6 @@ mahalo-3.initia.xyz
 mail.initia.xyz
 mail1.base-mainnet.infura.io
 mail2.initia.xyz
-mainnet-nf.infura.io
 mainnet.infura.io
 mainnet.node-pool.production.infrared.finance
 mainnet.node-pool.staging.infrared.finance
@@ -325,10 +308,6 @@ miniwasm-1.initia.xyz
 miniwasm-2.initia.xyz
 miniwasm-3.initia.xyz
 monad-mainnet-gateway.infura.io
-monitoring.infura.io
-morden-staging.infura.io
-morden.infura.io
-morden2.infura.io
 move-verify-api-test.stone-16.initia.xyz
 move-verify-api-test.stone-test.initia.xyz
 movemove-1.initia.xyz
@@ -354,16 +333,12 @@ optimism-mainnet.infura.io
 optimism-sepolia.infura.io
 p2p.initiation-2.initia.xyz
 palm-mainnet.infura.io
-pfp.infrared.finance
 pintracker.dev.internal.infura.io
 pintracker.internal.infura.io
 pintracker.staging.internal.infura.io
 pintrackerv7.dev.internal.infura.io
 pintrackerv7.internal.infura.io
 pintrackerv7.staging.internal.infura.io
-pmainnet.infura.io
-pmainnet14.infura.io
-pmainnet15.infura.io
 polygon-mainnet.infura.io
 polygon-mumbai.infura.io
 preview.avalanche-mainnet.infura.io
@@ -375,8 +350,6 @@ prometheus.anvil.europe-west.initia.xyz
 prometheus.anvil.initia.xyz
 prometheus.anvil.staging.initia.xyz
 prometheus.linea-mainnet.infura.io
-propsten.infura.io
-proxyd.node-pool.staging.infrared.finance
 recovery.initia.xyz
 registry.devnet.initia.xyz
 registry.initia.xyz
@@ -430,12 +403,7 @@ rpc.miniwasm-1.initia.xyz
 rpc.rehearsal-1.initia.xyz
 rpc.staging.initia.xyz
 rpc.testnet.initia.xyz
-sandbox-consensysnet.infura.io
 sandbox-ipfs.infura.io
-sandbox-mainnet.infura.io
-sandbox-morden.infura.io
-sandbox-ropsten.infura.io
-sandbox-www.infura.io
 scan-api.initia.xyz
 scan-api.initiation-2.initia.xyz
 scan-api.staging.initia.xyz
@@ -521,7 +489,6 @@ test2.stone-test2.initia.xyz
 testgrpc.initia.xyz
 testgrpc.testnet.initia.xyz
 testimg.initia.xyz
-testnet-explorer.infura.io
 testnet.infura.io
 testnet.initia.xyz
 text-battle-api.staging.initia.xyz
@@ -583,5 +550,3 @@ www.blog.infura.io
 www.infrared.finance
 www.infura.io
 www.initia.xyz
-xmainnet.infura.io
-xropsten.infura.io

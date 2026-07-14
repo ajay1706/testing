@@ -53,7 +53,6 @@ discord.euler.finance
 docs-v1.euler.finance
 docs.euler.finance
 docs.evmos.org
-docs.exactly.finance
 earn.euler.finance
 escan-mainnet.euler.finance
 escan-ropsten.euler.finance

@@ -1,2 +1,2 @@
-https://auth.hashnote.com [302] [https://hashnote.com/] [43] [cloudflare] [104.18.43.182] [cloudflare] [205.168369ms] [Auth0,Cloudflare,HSTS,HTTP/3]
-https://www.harvest.finance [302] [https://harvest.finance/] [641] [302 Found] [cloudflare] [172.67.68.60] [cloudflare] [209.256449ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://www.harvest.finance [302] [https://harvest.finance/] [641] [302 Found] [cloudflare] [172.67.68.60] [cloudflare] [34.380467ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://auth.hashnote.com [302] [https://hashnote.com/] [43] [cloudflare] [172.64.144.74] [cloudflare] [247.04482ms] [Auth0,Cloudflare,HSTS,HTTP/3]

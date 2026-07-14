@@ -1,1 +1,1 @@
-https://stats-data.hyperliquid.xyz [403] [] [111] [AmazonS3] [13.35.78.48] [cloudfront] [56.927618ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://stats-data.hyperliquid.xyz [403] [] [111] [AmazonS3] [13.35.78.77] [cloudfront] [117.969166ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]

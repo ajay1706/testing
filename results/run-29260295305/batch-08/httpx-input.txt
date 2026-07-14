@@ -33,6 +33,7 @@ block-storage.mainnet.fuel.network
 block-storage.testnet.fuel.network
 blog.frontier.xyz
 bonding.fuel.network
+bsc-testnet.frontier.xyz
 bsc.frontier.xyz
 bundle.frontier.xyz
 cdn.fuel.network

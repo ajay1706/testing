@@ -1,11 +1,11 @@
 http://blog.injective.com
 http://blog.instadapp.io
-http://injective.com
 http://mail.inkonchain.com
-http://multivm.injective.com
 http://old.instadapp.io
 http://revenue.instadapp.io
-http://www.injective.com
+http://ws-fb-gel.inkonchain.com
+http://ws-gel.inkonchain.com
+http://www.instadapp.io
 https://admin.blockquery.instadapp.io
 https://admin.dev.inkonchain.com
 https://ads.dev.inkonchain.com
@@ -31,7 +31,6 @@ https://broadcaster.avocado.instadapp.io
 https://cdn.instadapp.io
 https://chat.instadapp.io
 https://chatgpt.instadapp.io
-https://community.injective.com
 https://custom.rpc.instadapp.io
 https://dash.instadapp.io
 https://defi.instadapp.io
@@ -66,6 +65,7 @@ https://guides.instadapp.io
 https://help.avocado.instadapp.io
 https://home.dev.inkonchain.com
 https://influx.instadapp.io
+https://injective.com
 https://ink-kit.inkonchain.com
 https://inkonchain.com
 https://instadapp.io
@@ -75,6 +75,7 @@ https://lite.guides.instadapp.io
 https://lite.instadapp.io
 https://manta.avocado.instadapp.io
 https://microservices.instadapp.io
+https://multivm.injective.com
 https://mx.dev.inkonchain.com
 https://mystery-faucet.inkonchain.com
 https://ninjapass.injective.com
@@ -106,15 +107,10 @@ https://staging.inkonchain.com
 https://status.avocado.instadapp.io
 https://status.inkonchain.com
 https://status.instadapp.io
-https://team.avocado.instadapp.io
-https://toolbox.instadapp.io
 https://vpn.dev.inkonchain.com
 https://web.dev.inkonchain.com
 https://ws-fb-gel-sepolia.inkonchain.com
-https://ws-fb-gel.inkonchain.com
 https://ws-gel-sepolia.inkonchain.com
-https://ws-gel.inkonchain.com
-https://ws-qnd-sepolia.inkonchain.com
 https://ws-qnd.inkonchain.com
+https://www.injective.com
 https://www.inkonchain.com
-https://www.instadapp.io

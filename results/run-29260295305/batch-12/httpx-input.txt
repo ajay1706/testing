@@ -24,7 +24,6 @@ beta.goldfinch.finance
 beta.subgraph.goldfinch.finance
 blog.gnosis.io
 blog.goldfinch.finance
-bnc.gnosis.io
 borrow.app.goldfinch.finance
 bsc.gnosis.io
 careers.goldfinch.finance
@@ -72,7 +71,6 @@ impact.gnosis.io
 invest.goldfinch.finance
 jenkins.gmx.io
 k8s-gno1.gnosis.io
-kovan.gnosis.io
 live.gnosis.io
 lock.gnosis.io
 logs.gnosis.io
@@ -103,7 +101,6 @@ ramp.gnosis.io
 remote.gnosis.io
 research.gnosis.io
 rinkeby.gnosis.io
-riot.gnosis.io
 rsk.gnosis.io
 safe-relay.gnosis.io
 safe-relay.goerli.gnosis.io
@@ -140,7 +137,6 @@ uramp-a918192d9f1c.gnosis.io
 uramp-ph-proxy.gnosis.io
 uramp.gnosis.io
 v1.app.gmx.io
-validators.gnosis.io
 volta.gnosis.io
 wallet.gnosis.io
 walletconnect.gnosis.io

@@ -24,6 +24,7 @@ test.app.hf.growi.fi
 test.en.growi.fi
 test.hf.growi.fi
 testnet.harmonix.fi
+testsite.harmonix.fi
 tools.harmonix.fi
 www.app.growi.fi
 www.app.hf.growi.fi

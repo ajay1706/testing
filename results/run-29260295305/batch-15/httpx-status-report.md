@@ -1,30 +1,30 @@
 # HTTPX Status Report
 
-Generated at: Mon Jul 13 15:16:54 UTC 2026
+Generated at: Mon Jul 13 22:36:13 UTC 2026
 
 HTTPX lines: 19
 Live URLs: 19
 
 ## 200
-https://app.harmonix.fi [200] [] [29465] [Harmonix Finance] [] [3.167.163.108] [cloudfront] [118.939497ms] [Amazon CloudFront,Amazon Web Services,Next.js,Node.js,React,Webpack]
-https://hf.growi.fi [200] [] [921] [Growi HF] [Apache] [51.255.26.63] [417.385165ms] [Apache HTTP Server]
-https://www.app.hf.growi.fi [200] [] [1563] [Growi HF - App] [Apache] [51.255.26.63] [525.098293ms] [Apache HTTP Server]
-https://app.hf.growi.fi [200] [] [1563] [Growi HF - App] [Apache] [51.255.26.63] [664.652033ms] [Apache HTTP Server]
-https://www.hf.growi.fi [200] [] [921] [Growi HF] [Apache] [51.255.26.63] [734.664555ms] [Apache HTTP Server]
-https://claim-service.harmonix.fi [200] [] [34] [istio-envoy] [13.228.141.199] [1.014963924s] [Envoy,Express,Node.js]
-https://sale.sandbox.nonprod.harmonix.fi [200] [] [41397] [Harmonix Finance - Token Sale] [istio-envoy] [52.77.21.191] [913.533118ms] [Envoy,Next.js,Node.js,React,Webpack]
-https://sale.harmonix.fi [200] [] [42282] [Harmonix Finance - Token Sale] [istio-envoy] [13.228.141.199] [878.113425ms] [Envoy,Next.js,Node.js,React,Webpack]
-https://claim.harmonix.fi [200] [] [63088] [Harmonix TGE] [istio-envoy] [52.77.21.191] [873.041541ms] [Envoy,Next.js,Node.js,React,Webpack]
-https://harmonix.fi [200] [] [304075] [Welcome to Harmonix Finance: Building the next generation of TradFi yield onchain] [] [3.170.185.117] [cloudfront] [1.324465695s] [Amazon CloudFront,Amazon Web Services]
-https://testnet.harmonix.fi [200] [] [29465] [Harmonix Finance] [] [3.167.138.122] [cloudfront] [3.725686158s] [Amazon CloudFront,Amazon Web Services,Next.js,Node.js,React,Webpack]
+https://hf.growi.fi [200] [] [921] [Growi HF] [Apache] [51.255.26.63] [343.279017ms] [Apache HTTP Server]
+https://www.app.hf.growi.fi [200] [] [1563] [Growi HF - App] [Apache] [51.255.26.63] [347.946232ms] [Apache HTTP Server]
+https://app.hf.growi.fi [200] [] [1563] [Growi HF - App] [Apache] [51.255.26.63] [366.954682ms] [Apache HTTP Server]
+https://app.harmonix.fi [200] [] [29465] [Harmonix Finance] [] [18.160.41.22] [cloudfront] [219.369857ms] [Amazon CloudFront,Amazon Web Services,Next.js,Node.js,React,Webpack]
+https://www.hf.growi.fi [200] [] [921] [Growi HF] [Apache] [51.255.26.63] [455.806797ms] [Apache HTTP Server]
+https://claim-service.harmonix.fi [200] [] [34] [istio-envoy] [52.77.21.191] [1.04924774s] [Envoy,Express,Node.js]
+https://sale.sandbox.nonprod.harmonix.fi [200] [] [41397] [Harmonix Finance - Token Sale] [istio-envoy] [3.0.136.92] [933.116095ms] [Envoy,Next.js,Node.js,React,Webpack]
+https://sale.harmonix.fi [200] [] [42282] [Harmonix Finance - Token Sale] [istio-envoy] [3.0.136.92] [1.045488119s] [Envoy,Next.js,Node.js,React,Webpack]
+https://claim.harmonix.fi [200] [] [63088] [Harmonix TGE] [istio-envoy] [13.228.141.199] [1.047391774s] [Envoy,Next.js,Node.js,React,Webpack]
+https://harmonix.fi [200] [] [304075] [Welcome to Harmonix Finance: Building the next generation of TradFi yield onchain] [] [108.138.85.101] [cloudfront] [1.095869958s] [Amazon CloudFront,Amazon Web Services]
+https://testnet.harmonix.fi [200] [] [29465] [Harmonix Finance] [] [13.226.209.11] [cloudfront] [3.214293164s] [Amazon CloudFront,Amazon Web Services,Next.js,Node.js,React,Webpack]
 
 ## 301
-https://www.growi.fi [301] [https://growi.fi/] [225] [301 Moved Permanently] [Apache] [51.255.26.63] [489.884778ms] [Apache HTTP Server]
-http://api.harmonix.fi [301] [https://api.harmonix.fi:443/] [134] [301 Moved Permanently] [awselb/2.0] [99.83.251.75] [409.566266ms] [Amazon ELB,Amazon Web Services]
+https://www.growi.fi [301] [https://growi.fi/] [225] [301 Moved Permanently] [Apache] [51.255.26.63] [326.742914ms] [Apache HTTP Server]
+http://api.harmonix.fi [301] [https://api.harmonix.fi:443/] [134] [301 Moved Permanently] [awselb/2.0] [75.2.85.105] [434.982238ms] [Amazon ELB,Amazon Web Services]
 
 ## 302
-https://growi.fi [302] [https://hf.growi.fi/] [204] [302 Found] [Apache] [51.255.26.63] [475.367279ms] [Apache HTTP Server]
-https://app.growi.fi [302] [https://app.hf.growi.fi/] [208] [302 Found] [Apache] [51.255.26.63] [661.593174ms] [Apache HTTP Server]
+https://growi.fi [302] [https://hf.growi.fi/] [204] [302 Found] [Apache] [51.255.26.63] [313.124536ms] [Apache HTTP Server]
+https://app.growi.fi [302] [https://app.hf.growi.fi/] [208] [302 Found] [Apache] [51.255.26.63] [345.946009ms] [Apache HTTP Server]
 
 ## 307
 
@@ -35,10 +35,10 @@ https://app.growi.fi [302] [https://app.hf.growi.fi/] [208] [302 Found] [Apache]
 ## 403
 
 ## 404
-https://info-api.growi.fi [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [82.165.58.104] [460.167261ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
-https://www.app.growi.fi [404] [] [4958] [Site not installed - OVHcloud] [openresty] [51.255.26.63] [571.193343ms] [Nginx,OpenResty]
-https://www.info-api.growi.fi [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [82.165.58.104] [660.36139ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
-https://operation.harmonix.fi [404] [] [9] [awselb/2.0] [13.228.141.199] [1.023768353s] [Amazon ELB,Amazon Web Services]
+https://info-api.growi.fi [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [82.165.58.104] [317.517314ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://www.app.growi.fi [404] [] [4959] [Site not installed - OVHcloud] [openresty] [51.255.26.63] [349.521976ms] [Nginx,OpenResty]
+https://www.info-api.growi.fi [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [82.165.58.104] [417.081592ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://operation.harmonix.fi [404] [] [9] [awselb/2.0] [13.228.141.199] [973.973416ms] [Amazon ELB,Amazon Web Services]
 
 ## 500
 

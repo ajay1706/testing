@@ -1,2 +1,2 @@
-https://exponent.finance [308] [https://www.exponent.finance/] [65] [Framer/c4751cc] [31.43.160.6] [269.523184ms] [Framer Sites,HSTS,HTTP/3,React]
-https://v1-docs.exponent.finance [308] [/starthere] [110623] [cloudflare] [104.18.2.204] [cloudflare] [903.509283ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://exponent.finance [308] [https://www.exponent.finance/] [65] [Framer/c4751cc] [31.43.161.6] [25.635545ms] [Framer Sites,HSTS,HTTP/3,React]
+https://v1-docs.exponent.finance [308] [/starthere] [110623] [cloudflare] [104.18.2.204] [cloudflare] [361.253084ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]

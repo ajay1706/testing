@@ -133,7 +133,6 @@ test.infinex.xyz
 test.internal.infinex.xyz
 user-api.test.internal.infinex.xyz
 video.infinex.xyz
-waitlist.infinifi.xyz
 wallet-recovery-legacy.app.infinex.xyz
 wallet-recovery-legacy.app.staging.infinex.xyz
 wallet-recovery-legacy.app.test.infinex.xyz
@@ -146,7 +145,6 @@ wallet-recovery2.app.test.infinex.xyz
 worker-main.app.infinex.xyz
 worker-main.app.staging.infinex.xyz
 worker-main.app.test.infinex.xyz
-ws-api.infinifi.xyz
 www.imtoken.com
 www.infinex.xyz
 www.infinifi.xyz

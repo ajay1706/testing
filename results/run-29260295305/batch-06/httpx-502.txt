@@ -1,4 +1,4 @@
-https://dev-bot.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.22.1] [159.223.9.115] [323.252605ms] [Nginx:1.22.1]
-https://leaderboard.fogo.fluxbeam.xyz [502] [] [25] [nginx] [159.89.22.252] [414.874853ms] [Nginx]
-https://pool-bot.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.22.1] [138.68.164.161] [341.19183ms] [Nginx:1.22.1]
-https://stats.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.18.0] [159.65.58.224] [359.95048ms] [Nginx:1.18.0]
+https://dev-bot.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.22.1] [159.223.9.115] [315.834754ms] [Nginx:1.22.1]
+https://leaderboard.fogo.fluxbeam.xyz [502] [] [25] [nginx] [159.89.22.252] [439.232963ms] [Nginx]
+https://pool-bot.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.22.1] [138.68.164.161] [356.014604ms] [Nginx:1.22.1]
+https://stats.fluxbeam.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.18.0] [159.65.58.224] [312.317693ms] [Nginx:1.18.0]

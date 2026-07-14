@@ -1,2 +1,2 @@
-https://carrier.helium.com [307] [/en] [15] [cloudflare] [172.67.73.83] [cloudflare] [711.827508ms] [Cloudflare,HSTS,Vercel]
-https://mvne.helium.com [307] [/login] [15] [Vercel] [216.150.16.1] [765.303122ms] [HSTS,Vercel]
+https://carrier.helium.com [307] [/en] [15] [cloudflare] [104.26.6.195] [cloudflare] [127.155333ms] [Cloudflare,HSTS,Vercel]
+https://mvne.helium.com [307] [/login] [15] [Vercel] [216.150.16.1] [439.764918ms] [HSTS,Vercel]

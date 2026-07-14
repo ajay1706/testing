@@ -6,7 +6,6 @@ http://recovery.slingshot.filecoin.io
 http://seed.fileverse.io
 http://stable.slingshot.filecoin.io
 http://staging.events.filecoin.io
-http://survey.fireblocks.com
 http://testnet.filecoin.io
 http://v2.slingshot.filecoin.io
 https://about.fileverse.io
@@ -139,6 +138,7 @@ https://status.filecoin.io
 https://status.fireblocks.com
 https://status.safe.filecoin.io
 https://storage.filecoin.io
+https://survey.fireblocks.com
 https://swag.fireblocks.com
 https://swagger.fireblocks.com
 https://sync.fileverse.io

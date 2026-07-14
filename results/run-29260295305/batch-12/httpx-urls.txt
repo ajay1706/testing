@@ -1,10 +1,8 @@
-http://v1.app.gmx.io
-http://www.goldfinch.finance
+http://app.gnosis.io
 https://alpha.goldfinch.finance
 https://api.analytics.gnosis.io
 https://api.gmx.io
 https://app.gmx.io
-https://app.gnosis.io
 https://app.goldfinch.finance
 https://beta.goldfinch.finance
 https://blog.gnosis.io
@@ -39,7 +37,8 @@ https://notifications.app.gnosis.io
 https://prime.goldfinch.finance
 https://research.gnosis.io
 https://share.gmx.io
+https://stg.notifications.app.gnosis.io
+https://thanos.gnosis.io
 https://uramp.gnosis.io
-https://world.gnosis.io
-https://www.gmx.io
 https://www.gnosis.io
+https://www.goldfinch.finance

@@ -1,2 +1,2 @@
-https://www.gains.trade [301] [https://gains.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.153.20] [cloudflare] [105.817484ms] [Cloudflare,HTTP/3]
-https://www.gammaswap.com [301] [https://gammaswap.com/] [15] [Vercel] [216.150.1.1] [279.931741ms] [HSTS,Vercel]
+https://www.gains.trade [301] [https://gains.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.153.20] [cloudflare] [46.59238ms] [Cloudflare,HTTP/3]
+https://www.gammaswap.com [301] [https://gammaswap.com/] [15] [Vercel] [216.150.16.193] [71.035237ms] [HSTS,Vercel]

@@ -1,2 +1,2 @@
-https://index-api.sequencer.testnet.fuel.network [503] [] [162] [503 Service Temporarily Unavailable] [cloudflare] [172.66.165.192] [cloudflare] [191.698401ms] [Cloudflare,HTTP/3]
-https://mtls-testnet.fuel.network [503] [] [30] [cloudflare] [104.20.16.56] [cloudflare] [206.704446ms] [Cloudflare,HTTP/3]
+https://index-api.sequencer.testnet.fuel.network [503] [] [162] [503 Service Temporarily Unavailable] [cloudflare] [104.20.16.56] [cloudflare] [328.682508ms] [Cloudflare,HTTP/3]
+https://mtls-testnet.fuel.network [503] [] [30] [cloudflare] [104.20.16.56] [cloudflare] [341.587948ms] [Cloudflare,HTTP/3]

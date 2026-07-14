@@ -1,3 +1,5 @@
-https://dummy.jup.ag [503] [] [167] [] [3.170.42.56] [cloudfront] [276.557599ms] [Amazon CloudFront,Amazon Web Services]
-https://identity.jup.ag [503] [] [167] [] [13.35.78.111] [cloudfront] [311.748499ms] [Amazon CloudFront,Amazon Web Services]
-https://prices.prediction.jup.ag [503] [] [0] [] [3.171.38.90] [cloudfront] [2.362501187s] [Amazon CloudFront,Amazon Web Services]
+https://dummy.jup.ag [503] [] [167] [] [108.139.10.80] [cloudfront] [116.05822ms] [Amazon CloudFront,Amazon Web Services]
+https://identity.jup.ag [503] [] [167] [] [65.8.54.3] [cloudfront] [200.566922ms] [Amazon CloudFront,Amazon Web Services]
+https://mcp.offerbook.jup.ag [503] [] [167] [] [18.155.192.114] [cloudfront] [5.37431349s] [Amazon CloudFront,Amazon Web Services]
+https://prices.prediction.jup.ag [503] [] [0] [] [13.249.74.126] [cloudfront] [1.395277688s] [Amazon CloudFront,Amazon Web Services]
+https://yield-store.jup.ag [503] [] [167] [] [65.8.54.34] [cloudfront] [5.377348233s] [Amazon CloudFront,Amazon Web Services]

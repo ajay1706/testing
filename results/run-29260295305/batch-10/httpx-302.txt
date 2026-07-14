@@ -1,4 +1,4 @@
-https://cms.gammaswap.com [302] [./admin] [29] [nginx/1.18.0 (Ubuntu)] [157.245.255.76] [137.90891ms] [Directus,Nginx:1.18.0,TinyMCE,Ubuntu,Vue.js,core-js]
-https://staging.gammaswap.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.gammaswap.com%2F&nonce=600e79ad92d8a2606dc4694578a724e8015534c49ecab25319eee218abc5c7ae] [15] [Vercel] [216.150.16.193] [502.571122ms] [HSTS,Vercel]
-https://geth.gammaswap.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fgeth.gammaswap.com%2F&nonce=5ed9c541ad282cc8ae6c06660b8333a2eb9e57e6d2c2fdd98f0b77ebbc537170] [15] [Vercel] [216.150.1.1] [689.476321ms] [HSTS,Vercel]
-http://gamilabs.xyz [302] [http://www.gamilabs.xyz/] [47] [namecheap-nginx] [192.64.119.211] [122.352225ms] [Nginx]
+https://staging.gammaswap.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.gammaswap.com%2F&nonce=be70d63602aa044cce2a1b4b668964dac173e5f417330e96dd545efce0ac7983] [15] [Vercel] [216.150.1.193] [145.898539ms] [HSTS,Vercel]
+https://cms.gammaswap.com [302] [./admin] [29] [nginx/1.18.0 (Ubuntu)] [157.245.255.76] [273.556995ms] [Directus,Nginx:1.18.0,TinyMCE,Ubuntu,Vue.js,core-js]
+https://geth.gammaswap.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fgeth.gammaswap.com%2F&nonce=5edb01e0adaa2d43e2057603feae804b3ccbf9138956e31fd8cdc680039686f3] [15] [Vercel] [216.150.1.193] [349.535553ms] [HSTS,Vercel]
+http://gamilabs.xyz [302] [http://www.gamilabs.xyz/] [47] [namecheap-nginx] [192.64.119.211] [34.791797ms] [Nginx]

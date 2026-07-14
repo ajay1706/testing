@@ -1,2 +1,2 @@
-https://beta.foxify.trade [308] [https://app.foxify.trade/] [15] [Vercel] [216.150.1.129] [209.926383ms] [HSTS,Vercel]
-https://v3o.foxify.trade [308] [https://app.foxify.trade/] [15] [Vercel] [216.150.1.1] [273.166731ms] [HSTS,Vercel]
+https://beta.foxify.trade [308] [https://app.foxify.trade/] [15] [Vercel] [216.150.16.193] [241.746947ms] [HSTS,Vercel]
+https://v3o.foxify.trade [308] [https://app.foxify.trade/] [15] [Vercel] [216.150.1.1] [147.454385ms] [HSTS,Vercel]

@@ -1,4 +1,6 @@
 http://backup.api.hydrex.fi
+http://backup.hydrex.fi
+http://mirror.hydrex.fi
 https://academy-api.hydrex.fi
 https://academy.hydrex.fi
 https://analytics-subgraph.hydrex.fi
@@ -7,7 +9,6 @@ https://api.hubbleprotocol.io
 https://api.hydrex.fi
 https://app.hubbleprotocol.io
 https://app.hydrex.fi
-https://backup.hydrex.fi
 https://blog.hubbleprotocol.io
 https://dev.hubbleprotocol.io
 https://dexscreener.hydrex.fi
@@ -30,7 +31,6 @@ https://internal.hydrex.fi
 https://k8sapi.dev.k8s.hubbleprotocol.io
 https://k8sapi.k8s.hubbleprotocol.io
 https://liquidity.api.hydrex.fi
-https://mirror.hydrex.fi
 https://periphery-subgraph.hydrex.fi
 https://perps.hydrex.fi
 https://router-docs.hydrex.fi
