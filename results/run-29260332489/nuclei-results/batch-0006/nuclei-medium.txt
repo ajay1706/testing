@@ -1,0 +1,5 @@
+[CVE-2024-46310] [http] [medium] https://api.pol.polygon.technology/players.json
+[gitlab-api-user-enum] [http] [medium] https://api.pol.polygon.technology/api/v4/users/22 [uid="22"]
+[config-json] [http] [medium] https://api.mainnet.orca.so/config/default.json
+[CVE-2024-5483] [http] [medium] https://api.pol.polygon.technology/wp-json/learnpress/v1/users
+[prometheus-metrics] [http] [medium] https://api.explorer.testnet.ondo.finance/metrics
