@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://api.kaio.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api.kuru.io/metrics
