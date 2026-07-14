@@ -1,0 +1,3 @@
+[CVE-2025-55184] [http] [high] https://closedalphastaketh.mantle.xyz/stake
+[CVE-2025-55184] [http] [high] https://console.kaio.xyz/login
+[CVE-2025-55184] [http] [high] https://console.pre.kaio.xyz/login
