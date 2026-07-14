@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://api-public.streamflow.finance/metrics
+[prometheus-metrics] [http] [medium] https://api-v3.silo.finance/metrics
+[prometheus-metrics] [http] [medium] https://api.dev.socket.tech/metrics
