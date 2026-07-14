@@ -1,0 +1,2 @@
+[CVE-2022-41697] [http] [medium] https://ghost.orai.io/ghost/api/admin/session
+[prometheus-metrics] [http] [medium] https://gather.ostium.io/metrics
