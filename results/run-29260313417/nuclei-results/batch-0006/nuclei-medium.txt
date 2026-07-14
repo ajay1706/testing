@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://api.pre.kaio.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api.stg.kaio.xyz/metrics
+[mongodb-exporter-metrics] [http] [medium] https://api.staging.kuru.io/metrics
