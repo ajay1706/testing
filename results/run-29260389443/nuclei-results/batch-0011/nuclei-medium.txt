@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://295.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://296.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://297.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://33139.rpc.thirdweb.com/metrics

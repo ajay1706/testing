@@ -1,0 +1,6 @@
+[debug-vars] [http] [low] https://295.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://296.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://297.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://33139.rpc.thirdweb.com/debug/vars
+[self-signed-ssl] [ssl] [low] 3031d59d3edb4f4c307f52162b65740b.tenderly.co:443
+[self-signed-ssl] [ssl] [low] 393e04f2ea48eaffc4618118e758ab0e.tenderly.co:443
