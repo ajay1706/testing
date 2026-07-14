@@ -1,0 +1,6 @@
+[CVE-2021-28918] [http] [critical] https://doc.particle.network/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://docs.nostra.finance/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://docs.pancakeswap.finance/?url=http://0177.0.0.1/server-status
+[pdf-signer-ssti-to-rce] [http] [critical] https://doc.particle.network
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.nostra.finance
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.pancakeswap.finance
