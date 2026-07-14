@@ -1,0 +1,18 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] autofarm.network:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] autofarm.network:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] avalanche.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] avantisfi.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] avantisfi.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] avalanche.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] backend-testnet-094f5e.alephium.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] backend-testnet-094f5e.alephium.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] balance-api.beefy.finance:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[graphiql-exposure] [http] [low] https://babylon-vault-indexer-api.testnet.babylonlabs.io/graphql
+[postgres-exporter-metrics] [http] [low] https://babylon-vault-indexer-api.testnet.babylonlabs.io/metrics
+[kubernetes-fake-certificate] [ssl] [low] b5d9d5-explorer.bridge.alephium.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] b5d9d5-explorer.bridge.alephium.org:443
+[kubernetes-fake-certificate] [ssl] [low] backend-ovh.testnet.alephium.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] backend-ovh.testnet.alephium.org:443
+[expired-ssl] [ssl] [low] bartio.berahub.berachain.com:443 ["2024-11-25 19:29:29 +0000 UTC"]
+[expired-ssl] [ssl] [low] bartio.bend.berachain.com:443 ["2026-05-24 19:59:30 +0000 UTC"]
+[expired-ssl] [ssl] [low] bartio.faucet.berachain.com:443 ["2026-05-23 03:57:46 +0000 UTC"]
