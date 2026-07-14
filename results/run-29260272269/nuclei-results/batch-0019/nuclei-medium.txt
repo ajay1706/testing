@@ -1,0 +1,3 @@
+[open-redirect-generic] [http] [medium] https://dev.api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[CVE-2026-23829] [tcp] [medium] dev.www.mail.api.cookie.fun:443
+[CVE-2025-54793] [http] [medium] https://dev.api.camelot.exchange//interact.sh/en//
