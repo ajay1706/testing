@@ -1,0 +1,1 @@
+[cgi-printenv] [http] [medium] https://dev-api.apollo.com/cgi-bin/printenv.pl
