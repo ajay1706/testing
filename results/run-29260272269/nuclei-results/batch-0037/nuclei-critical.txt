@@ -1,0 +1,1 @@
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://packages.dynamic.xyz/settings.json [""url": "https://github.com/joona/settings.json"",""url": "https://github.com/joona/settings.json/issues""] [path="/settings.json"]

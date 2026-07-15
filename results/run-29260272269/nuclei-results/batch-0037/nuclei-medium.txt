@@ -1,0 +1,1 @@
+[config-json] [http] [medium] https://packages.dynamic.xyz/config.json
