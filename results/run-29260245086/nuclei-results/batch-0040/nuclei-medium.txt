@@ -1,0 +1,3 @@
+[mongodb-exporter-metrics] [http] [medium] https://settlus-mainnet.bridge.alchemy.com/metrics
+[mongodb-exporter-metrics] [http] [medium] https://settlus-sep-testnet.bridge.alchemy.com/metrics
+[mongodb-exporter-metrics] [http] [medium] https://shape-mainnet.bridge.alchemy.com/metrics
