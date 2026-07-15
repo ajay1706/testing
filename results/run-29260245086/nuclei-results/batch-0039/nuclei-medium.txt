@@ -1,0 +1,1 @@
+[mongodb-exporter-metrics] [http] [medium] https://sepolia.api.avnu.fi/metrics
