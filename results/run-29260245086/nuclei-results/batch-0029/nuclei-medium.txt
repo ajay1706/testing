@@ -1,0 +1,1 @@
+[mongodb-exporter-metrics] [http] [medium] https://mainnet-dev.impulse.avnu.fi/metrics
