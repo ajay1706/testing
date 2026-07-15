@@ -1,0 +1,4 @@
+[git-config] [http] [medium] https://osmotest5.osmosis.zone/.git/config
+[docker-compose-config] [http] [medium] https://osmotest5.osmosis.zone/docker-compose.yml
+[prometheus-metrics] [http] [medium] https://p-testnet.blockexplorer.optimism.io/api/metrics
+[dockerfile-hidden-disclosure] [http] [medium] https://osmotest5.osmosis.zone/Dockerfile
