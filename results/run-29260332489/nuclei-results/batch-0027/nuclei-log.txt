@@ -1,0 +1,6 @@
+[+] Started: Wed Jul 15 03:34:09 UTC 2026
+[+] Run ID: 29260332489
+[+] Batch: batch-0027
+[+] URL count: 75
+[[1;31mFTL[0m] Could not run nuclei: no templates provided for scan
+[+] Finished: Wed Jul 15 03:34:10 UTC 2026
