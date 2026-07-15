@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://sqsprod.osmosis.zone/metrics
+[prometheus-metrics] [http] [medium] https://sqs.app.osmosis.zone/metrics
+[prometheus-metrics] [http] [medium] https://staging-api.pendle.finance/api/metrics
+[circleci-config] [http] [medium] https://static.optimism.io/.circleci/config.yml

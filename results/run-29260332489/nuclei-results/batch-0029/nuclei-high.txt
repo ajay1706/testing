@@ -1,0 +1,2 @@
+[CVE-2019-11248] [http] [high] https://sqsprod.osmosis.zone/debug/pprof/
+[CVE-2019-11248] [http] [high] https://sqs.app.osmosis.zone/debug/pprof/
