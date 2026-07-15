@@ -1,0 +1,4 @@
+[open-redirect-generic] [http] [medium] https://greenfield.syncswap.xyz/%5C%5Coast.me/%252e%252e%252f [redirect="%5C%5Coast.me/%252e%252e%252f"]
+[prometheus-metrics] [http] [medium] https://grafana-cp.rpcfast.com/metrics
+[nextjs-vite-public-env:public_env] [http] [medium] https://guardian.sophon.xyz [""VITE_WALLET_CONNECT_PROJECT_ID":"78874d9d35290d91658fb6113cef4902"",""VITE_ENV_NAME":"prod"",""VITE_SOPHON_KYC_CLIENT_ID":"sophon_node_sale_kyc_580af"",""VITE_API_URL":"https:\\u002F\\u002Fapi.easeflow.io\\u002Fv1""]
+[CVE-2022-28923] [http] [medium] https://greenfield.syncswap.xyz/%5C%5Cinteract.sh/%252e%252e%252f
