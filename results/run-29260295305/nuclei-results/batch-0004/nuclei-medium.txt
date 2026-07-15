@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://api.hc.jpool.one/metrics
+[prometheus-metrics] [http] [medium] https://api.production.play.flow.com/metrics
+[prometheus-metrics] [http] [medium] https://api.staging.play.flow.com/metrics
+[prometheus-metrics] [http] [medium] https://api.v1.play.flow.com/metrics
