@@ -1,0 +1,1 @@
+[azure-functions-hostjson-exposure] [http] [medium] http://push.frame.sh/host.json
