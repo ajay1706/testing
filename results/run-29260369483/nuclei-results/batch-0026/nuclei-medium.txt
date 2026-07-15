@@ -1,0 +1,2 @@
+[mongodb-exporter-metrics] [http] [medium] https://mainnet.suiet.app/metrics
+[mongodb-exporter-metrics] [http] [medium] https://mainnet-oracle.stakewise.io/metrics
