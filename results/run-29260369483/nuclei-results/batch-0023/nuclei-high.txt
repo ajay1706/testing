@@ -1,0 +1,2 @@
+[CVE-2019-11248] [http] [high] https://influx-tnworkq43qr5xmc8.b.redstone.finance/debug/pprof/
+[framer-takeover] [http] [high] https://interchain.synapseprotocol.com ["sites.framer.app"]
