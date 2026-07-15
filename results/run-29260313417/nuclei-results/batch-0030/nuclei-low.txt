@@ -1,0 +1,10 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] prime.vip.uat.lobster.kraken.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] prime.vip.uat.lobster.kraken.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] privy.kraken-onchain-privy.dev.onchain.kraken.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] privy.kraken-onchain-privy.dev.onchain.kraken.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pro.lobster.kraken.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pro.lobster.kraken.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[expired-ssl] [ssl] [low] prime.vip.uat.lobster.kraken.com:443 ["2020-10-14 23:59:59 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] price-staging.kwenta.io:443
+[expired-ssl] [ssl] [low] privy.kraken-onchain-privy.dev.onchain.kraken.com:443 ["2020-10-14 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] pro.lobster.kraken.com:443 ["2020-10-14 23:59:59 +0000 UTC"]
