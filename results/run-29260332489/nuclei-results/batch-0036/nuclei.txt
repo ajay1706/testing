@@ -1,0 +1,4 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] zeppelin.nansen.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] zeppelin.nansen.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://zkverify-prom-node1.monitor.staking.nansen.ai/metrics
+[prometheus-metrics] [http] [medium] https://zkverify-prom-node2.monitor.staking.nansen.ai/metrics

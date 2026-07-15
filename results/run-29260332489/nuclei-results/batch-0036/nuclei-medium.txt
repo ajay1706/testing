@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://zkverify-prom-node1.monitor.staking.nansen.ai/metrics
+[prometheus-metrics] [http] [medium] https://zkverify-prom-node2.monitor.staking.nansen.ai/metrics
