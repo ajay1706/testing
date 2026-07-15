@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://ipfs.syncswap.xyz/%5Coast.me [redirect="%5Coast.me"]
+[CVE-2022-28923] [http] [medium] https://ipfs.syncswap.xyz/%5C%5Cinteract.sh/%252e%252e%252f
