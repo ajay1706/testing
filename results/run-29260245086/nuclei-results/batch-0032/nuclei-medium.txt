@@ -1,0 +1,2 @@
+[mongodb-exporter-metrics] [http] [medium] https://opbnb-testnet-bridge.bnbchain.org/metrics
+[mongodb-exporter-metrics] [http] [medium] https://opbnb-bridge.bnbchain.org/metrics
