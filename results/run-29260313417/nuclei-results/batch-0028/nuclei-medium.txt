@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://ponder-eu2.moonwell.fi/metrics
+[prometheus-metrics] [http] [medium] https://portal-api.lisk.com/metrics
