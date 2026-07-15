@@ -1,0 +1,43 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://logging-grafana.infra2.candide.dev/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://logs.ops.candide.dev/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[weak-cipher-suites:tls-1.0] [ssl] [low] listen.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] listen.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] linking-org-resolver.cre.chain.link:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] litepaper.dymension.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] linking-org-resolver.cre.chain.link:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] litepaper.dymension.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] logging.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] logging.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lp.perseverance.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lp.perseverance.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lunie.cosmos.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lunie.cosmos.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mainnet-api.ekubo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mainnet-archive.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mainnet-api.ekubo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mainnet-archive.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mainnet-assethub-rpc-2.prod.do.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mainnet-assethub-rpc-2.prod.do.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mainnet-polkadot-rpc.prod.do.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mainnet.bitcoin.prod.do.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mainnet.bitcoin.prod.do.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mainnet-polkadot-rpc.prod.do.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure:version] [http] [low] https://logging-grafana.infra2.candide.dev/metrics ["11.3.0"]
+[kubernetes-metrics] [http] [low] https://logging-grafana.infra2.candide.dev/metrics
+[grafana-metrics-exposure:version] [http] [low] https://logs.ops.candide.dev/metrics ["11.3.0"]
+[kubernetes-metrics] [http] [low] https://logs.ops.candide.dev/metrics
+[CVE-2019-11248] [http] [high] https://logging-loki.infra2.candide.dev/debug/pprof/
+[CVE-2019-11248] [http] [high] https://loki.infra3.candide.dev/debug/pprof/
+[go-pprof-debug] [http] [low] https://logging-loki.infra2.candide.dev/debug/pprof/heap?debug=1
+[go-pprof-debug] [http] [low] https://loki.infra3.candide.dev/debug/pprof/heap?debug=1
+[unauthenticated-varnish-cache-purge] [http] [low] https://mail.chest.fi
+[prometheus-metrics] [http] [medium] https://logging-loki.infra2.candide.dev/metrics
+[prometheus-metrics] [http] [medium] https://loki.infra3.candide.dev/metrics
+[expired-ssl] [ssl] [low] login.crossmint.com:443 ["2023-07-20 13:35:40 +0000 UTC"]
+[expired-ssl] [ssl] [low] lufowdev.admin.hbzy1a14zx.api.cookie.fun:443 ["2026-06-17 10:50:34 +0000 UTC"]
+[expired-ssl] [ssl] [low] lwvmtapi.www.int.api.cookie.fun:443 ["2026-07-02 01:22:18 +0000 UTC"]
+[expired-ssl] [ssl] [low] lyexgapi.www.int.api.cookie.fun:443 ["2026-06-26 04:31:12 +0000 UTC"]
+[expired-ssl] [ssl] [low] lzcqhdemo.staging.playground.api.cookie.fun:443 ["2026-06-26 05:56:29 +0000 UTC"]
+[expired-ssl] [ssl] [low] madara-appchain.cosmostation.io:443 ["2024-04-25 14:26:42 +0000 UTC"]
+[expired-ssl] [ssl] [low] mail.chest.fi:443 ["2022-05-21 03:07:12 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] mail.chest.fi:443
