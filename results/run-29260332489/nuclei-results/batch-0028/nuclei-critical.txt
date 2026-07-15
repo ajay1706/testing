@@ -1,0 +1,1 @@
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-backend.phantom.app/mcp_message

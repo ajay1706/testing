@@ -1,0 +1,4 @@
+[CVE-2024-1183] [http] [medium] https://sd-generator-5.api.orai.io/file=http://oast.pro
+[CVE-2024-5936] [http] [medium] https://sd-generator-5.api.orai.io/file=https://oast.me
+[prometheus-metrics] [http] [medium] https://sqs-do-glb.osmosis.zone/metrics
+[prometheus-metrics] [http] [medium] https://sqs-lb.app.osmosis.zone/metrics
