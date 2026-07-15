@@ -1,0 +1,1 @@
+[CVE-2025-49825] [http] [critical] https://teleport.rakkardigital.com/webapi/ping ["Teleport Version: 11.3.1"]
