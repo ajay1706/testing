@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://metrics.stage.allora.network/metrics
+[prometheus-metrics] [http] [medium] https://metrics.allora.network/metrics
