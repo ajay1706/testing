@@ -1,0 +1,8 @@
+[CVE-2022-41697] [http] [medium] https://blog.teller.org/ghost/api/admin/session
+[prometheus-metrics] [http] [medium] https://blob.mainnet.taiko.xyz/metrics
+[prometheus-metrics] [http] [medium] https://blockscoutapi.internal.taiko.xyz/metrics
+[prometheus-metrics] [http] [medium] https://blockscoutapi.masaya.taiko.xyz/metrics
+[prometheus-metrics] [http] [medium] https://blockscoutapi.mainnet.taiko.xyz/metrics
+[prometheus-metrics] [http] [medium] https://blockscoutapi.hoodi.taiko.xyz/metrics
+[prisma-schema-exposure:db_provider] [http] [medium] https://blob.mainnet.taiko.xyz/schema.prisma ["provider = "tsx ./prisma/enum-generator"","provider              = "zod-prisma"","provider  = "postgresql"","provider        = "prisma-client-js""]
+[prisma-schema-exposure:db_url] [http] [medium] https://blob.mainnet.taiko.xyz/schema.prisma ["url       = env("DATABASE_URL")"]
