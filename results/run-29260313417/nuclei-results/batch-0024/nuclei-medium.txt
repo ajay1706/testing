@@ -1,0 +1,1 @@
+[nextjs-vite-public-env:public_env] [http] [medium] https://maru-dashboard.linea.build [""VITE_NETWORK_NAME":"mainnet"",""VITE_BEACON_API_URL":"https://maru.linea.build""]
