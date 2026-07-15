@@ -1,0 +1,2 @@
+[CVE-2026-55592] [http] [medium] https://base-eggs-vault.holdstation.com/healthz ["1"]
+[prometheus-metrics] [http] [medium] https://asdasd-c0b25935.frameworks.network/metrics
