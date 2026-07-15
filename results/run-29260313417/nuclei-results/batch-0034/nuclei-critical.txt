@@ -1,0 +1,1 @@
+[CVE-2022-26143:version] [http] [critical] https://solana.be.magiceden.io/ucs/micollab/version.json ["4.20.69"]
