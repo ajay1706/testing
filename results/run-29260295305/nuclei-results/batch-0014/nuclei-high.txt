@@ -1,0 +1,1 @@
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://feedback.hop.exchange/login [password="password456",username="bob"]
