@@ -1,0 +1,2 @@
+[CVE-2026-33032] [http] [critical] https://relayer-testnet.zerodev.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://relayer.zerodev.app/mcp_message

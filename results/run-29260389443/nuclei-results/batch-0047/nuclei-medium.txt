@@ -1,0 +1,5 @@
+[CVE-2025-30208] [http] [medium] https://replit-demo.teller.org/etc/passwd?raw
+[prometheus-metrics] [http] [medium] https://pushgateway.yuzu.money/metrics
+[prometheus-metrics] [http] [medium] https://quote.vfat.io/metrics
+[prometheus-metrics] [http] [medium] https://relayer-testnet.zerodev.app/metrics
+[prometheus-metrics] [http] [medium] https://relayer.zerodev.app/metrics
