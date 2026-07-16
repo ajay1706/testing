@@ -1,0 +1,1 @@
+[CVE-2026-23829] [tcp] [medium] staging.demo.staging.playground.api.cookie.fun:443
