@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://manage-vault.exponent.finance
+[aws-bucket-takeover] [http] [high] https://memberships.fewcha.app ["memberships.fewcha.app"]
