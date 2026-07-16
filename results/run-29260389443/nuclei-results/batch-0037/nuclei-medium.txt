@@ -1,0 +1,2 @@
+[mongodb-exporter-metrics] [http] [medium] https://global-address-api.zerodev.app/metrics
+[prometheus-metrics] [http] [medium] https://global.rpc.thirdweb.com/metrics
