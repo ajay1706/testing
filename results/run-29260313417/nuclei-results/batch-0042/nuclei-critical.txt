@@ -1,0 +1,1 @@
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://www.kraken.com/config.json ["https://www.kraken.com/api"] [path="/config.json"]
