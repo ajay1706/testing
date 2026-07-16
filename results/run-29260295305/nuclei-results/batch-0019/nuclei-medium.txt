@@ -1,0 +1,1 @@
+[mongodb-exporter-metrics] [http] [medium] https://ledger-api.internetcomputer.org/metrics
