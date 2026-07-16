@@ -1,0 +1,22 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.zapper.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.zapper.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] download.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] download.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] download.tokenpocket.pro:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] download.tokenpocket.pro:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dune.usual.money:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dune.usual.money:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[node-ecstatic-listing] [http] [low] https://download.tempo.xyz/img/
+[unauthenticated-varnish-cache-purge] [http] [low] https://docs.zksync.io
+[wp-mstore-plugin-listing] [http] [low] https://download.tempo.xyz/wp-content/plugins/mstore-api/
+[alfacgiapi-wordpress] [http] [low] https://download.tempo.xyz/wp-includes/ALFA_DATA/
+[alfacgiapi-wordpress] [http] [low] https://download.tempo.xyz/wp-content/uploads/alm_templates/ALFA_DATA/alfacgiapi/
+[alfacgiapi-wordpress] [http] [low] https://download.tempo.xyz/ALFA_DATA/alfacgiapi/
+[alfacgiapi-wordpress] [http] [low] https://download.tempo.xyz/cgi-bin/ALFA_DATA/alfacgiapi/
+[backup-directory-listing] [http] [low] https://download.tempo.xyz/backup/
+[wp-email-subscribers-listing] [http] [low] https://download.tempo.xyz/wp-content/plugins/email-subscribers
+[CVE-2020-15081] [http] [low] https://download.tempo.xyz/upload/
+[awstats-listing] [http] [low] https://download.tempo.xyz/awstats/data
+[wordpress-super-forms] [http] [low] https://download.tempo.xyz/wp-content/plugins/super-forms/
+[expired-ssl] [ssl] [low] dpdwlstage.wisdomtree.com:443 ["2021-02-24 12:00:00 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] draco.james.union.build:443
