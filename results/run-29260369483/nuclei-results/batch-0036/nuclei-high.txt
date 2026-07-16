@@ -1,0 +1,3 @@
+[CVE-2019-11248] [http] [high] https://remote-write.switchboard.xyz/debug/pprof/
+[prometheus-unauth] [http] [high] https://remote-write.switchboard.xyz/config
+[prometheus-unauth] [http] [high] https://remote-write.switchboard.xyz/api/v1/status/config
