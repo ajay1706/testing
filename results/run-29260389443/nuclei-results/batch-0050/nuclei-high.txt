@@ -1,0 +1,2 @@
+[framer-takeover] [http] [high] https://spin-event.verse8.io ["sites.framer.app"]
+[CVE-2019-11248] [http] [high] https://spamoor.internal.taiko.xyz/debug/pprof/

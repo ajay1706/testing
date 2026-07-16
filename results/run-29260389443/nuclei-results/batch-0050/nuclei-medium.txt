@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://spamoor.internal.taiko.xyz/metrics
+[prometheus-metrics] [http] [medium] https://staging-bundler.xo.market/metrics
