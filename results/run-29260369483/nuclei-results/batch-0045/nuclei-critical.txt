@@ -1,0 +1,1 @@
+[CVE-2025-49825] [http] [critical] https://teleport.infra.switchboard.xyz/webapi/ping ["Teleport Version: 17.5.1"]
