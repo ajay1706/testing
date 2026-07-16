@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://dev.pay.ton.org/api/metrics
