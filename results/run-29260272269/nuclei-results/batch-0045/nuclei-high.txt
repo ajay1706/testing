@@ -1,0 +1,7 @@
+[CVE-2020-27361] [http] [high] https://snapshots.citrea.xyz/pme/media/
+[CVE-2023-6505] [http] [high] https://snapshots.citrea.xyz/wp-content/uploads/prime-mover-export-files/1/
+[CVE-2023-6114] [http] [high] https://snapshots.citrea.xyz/wp-content/backups-dup-lite/tmp/
+[wp-w3-total-cache-exposure] [http] [high] https://snapshots.citrea.xyz/wp-content/w3tc/dbcache/
+[private-key-exposure] [http] [high] https://snapshots.citrea.xyz/node_modules/mqtt/test/helpers/
+[CVE-2022-2544] [http] [high] https://snapshots.citrea.xyz/wp/wp-content/uploads/wpjobboard/
+[laravel-sessions-exposure] [http] [high] https://snapshots.citrea.xyz/storage/framework/sessions/

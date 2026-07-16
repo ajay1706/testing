@@ -1,0 +1,76 @@
+[typo3-directory-listing] [http] [low] https://snapshots.citrea.xyz/typo3temp/
+[weak-cipher-suites:tls-1.0] [ssl] [low] shop.cosmos.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] shop.cosmos.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sidecar.eigenlayer.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sidecar.eigenlayer.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] signups.cosmos.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] signups.cosmos.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] simulations.cosmos.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] simulations.cosmos.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] simulation-api.cian.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sisyphos-assethub.prod.do.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sisyphos-assethub.prod.do.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] slack.cosmos.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] simulation-api.cian.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] slack.cosmos.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] snapshot.coin98.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] snapshot.coin98.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] snapshots.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] snapshots.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] snapshots.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] snapshots.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] solana-portal.edgevana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] solana-portal.edgevana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] solidity-summit.ethereum.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sol.backspin.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] solidity-summit.ethereum.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sol.backspin.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] solo-testnet.explorer.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] solo-testnet.explorer.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sonarx.cns.mainnet.canton.edgevana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sonarx.cns.mainnet.canton.edgevana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spacegate.coin98.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spacegate.coin98.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spellbook-docs.dune.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spellbook-docs.dune.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spheron-devnet-eth.explorer.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spheron-devnet-eth.explorer.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spicy-explorer-api.chiliz.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spicy-explorer.chiliz.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spicy-explorer.chiliz.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spicy-explorer-api.chiliz.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spicy-rpc-ws.chiliz.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spicy-rpc.chiliz.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spicy-rpc.chiliz.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spicy-rpc-ws.chiliz.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[cobbler-exposed-directory] [http] [medium] https://snapshots.citrea.xyz/cobbler/
+[cobbler-exposed-directory] [http] [medium] https://snapshots.citrea.xyz/cblr/
+[alfacgiapi-wordpress] [http] [low] https://snapshots.citrea.xyz/wp-includes/ALFA_DATA/
+[alfacgiapi-wordpress] [http] [low] https://snapshots.citrea.xyz/wp-content/uploads/alm_templates/ALFA_DATA/alfacgiapi/
+[alfacgiapi-wordpress] [http] [low] https://snapshots.citrea.xyz/ALFA_DATA/alfacgiapi/
+[alfacgiapi-wordpress] [http] [low] https://snapshots.citrea.xyz/cgi-bin/ALFA_DATA/alfacgiapi/
+[coldfusion-cfide-dir-listing] [http] [medium] https://snapshots.citrea.xyz/CFIDE/
+[unauthenticated-duplicator-disclosure] [http] [medium] https://snapshots.citrea.xyz/wp-content/backups-dup-lite/tmp/
+[CVE-2023-6592] [http] [medium] https://snapshots.citrea.xyz/wp-content/plugins/fastdup/logs/
+[backup-directory-listing] [http] [low] https://snapshots.citrea.xyz/backup/
+[joomla-file-listing] [http] [medium] https://snapshots.citrea.xyz/libraries/joomla/database/
+[CVE-2020-27361] [http] [high] https://snapshots.citrea.xyz/pme/media/
+[glpi-directory-listing] [http] [medium] https://snapshots.citrea.xyz/glpi/files/
+[CVE-2023-6505] [http] [high] https://snapshots.citrea.xyz/wp-content/uploads/prime-mover-export-files/1/
+[prometheus-metrics] [http] [medium] https://spicy-explorer.chiliz.com/api/metrics
+[CVE-2023-6114] [http] [high] https://snapshots.citrea.xyz/wp-content/backups-dup-lite/tmp/
+[wp-w3-total-cache-exposure] [http] [high] https://snapshots.citrea.xyz/wp-content/w3tc/dbcache/
+[wordpress-super-forms] [http] [low] https://snapshots.citrea.xyz/wp-content/plugins/super-forms/
+[wp-mstore-plugin-listing] [http] [low] https://snapshots.citrea.xyz/wp-content/plugins/mstore-api/
+[node-ecstatic-listing] [http] [low] https://snapshots.citrea.xyz/img/
+[CVE-2024-2340] [http] [medium] https://snapshots.citrea.xyz/wp-content/uploads/fusion-forms/
+[wp-email-subscribers-listing] [http] [low] https://snapshots.citrea.xyz/wp-content/plugins/email-subscribers
+[exposed-vscode] [http] [medium] https://snapshots.citrea.xyz/.vscode/
+[configuration-listing] [http] [medium] https://snapshots.citrea.xyz/config/
+[CVE-2024-13126] [http] [medium] https://snapshots.citrea.xyz/wp-content/uploads/download-manager-files/
+[CVE-2020-15081] [http] [low] https://snapshots.citrea.xyz/upload/
+[private-key-exposure] [http] [high] https://snapshots.citrea.xyz/node_modules/mqtt/test/helpers/
+[CVE-2022-2544] [http] [high] https://snapshots.citrea.xyz/wp/wp-content/uploads/wpjobboard/
+[laravel-sessions-exposure] [http] [high] https://snapshots.citrea.xyz/storage/framework/sessions/
+[expired-ssl] [ssl] [low] simulation-api.cian.app:443 ["2023-04-18 12:16:27 +0000 UTC"]
+[expired-ssl] [ssl] [low] snapmint.crossmint.com:443 ["2023-07-20 13:35:40 +0000 UTC"]
