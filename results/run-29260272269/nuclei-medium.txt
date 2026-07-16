@@ -1,0 +1,34 @@
+[CVE-2022-41697] [http] [medium] https://blog.celestia.org/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://blog.defisaver.com/ghost/api/admin/session
+[CVE-2023-6592] [http] [medium] https://snapshots.citrea.xyz/wp-content/plugins/fastdup/logs/
+[CVE-2024-13126] [http] [medium] https://snapshots.citrea.xyz/wp-content/uploads/download-manager-files/
+[CVE-2024-2340] [http] [medium] https://snapshots.citrea.xyz/wp-content/uploads/fusion-forms/
+[CVE-2025-54793] [http] [medium] https://api.camelot.exchange//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://dev.api.camelot.exchange//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://migration.api.camelot.exchange//interact.sh/en//
+[CVE-2026-23829] [tcp] [medium] admin-int.www.gw.api.cookie.fun:443
+[CVE-2026-23829] [tcp] [medium] dev.www.mail.api.cookie.fun:443
+[CVE-2026-23829] [tcp] [medium] staging.demo.staging.playground.api.cookie.fun:443
+[CVE-2026-55592] [http] [medium] https://portfolio-api.dflow.net/healthz ["0.1.0"]
+[cobbler-exposed-directory] [http] [medium] https://snapshots.citrea.xyz/cblr/
+[cobbler-exposed-directory] [http] [medium] https://snapshots.citrea.xyz/cobbler/
+[coldfusion-cfide-dir-listing] [http] [medium] https://snapshots.citrea.xyz/CFIDE/
+[config-json] [http] [medium] https://packages.dynamic.xyz/config.json
+[configuration-listing] [http] [medium] https://snapshots.citrea.xyz/config/
+[exposed-vscode] [http] [medium] https://snapshots.citrea.xyz/.vscode/
+[git-config] [http] [medium] https://compound.finance/.git/config ["eC1hY2Nlc3MtdG9rZW46Z2hzX1hxdW5wSHlQdjgySlZLdTZkdHJxeTZNQjBwWkFORzIwVTRycA=="]
+[glpi-directory-listing] [http] [medium] https://snapshots.citrea.xyz/glpi/files/
+[joomla-file-listing] [http] [medium] https://snapshots.citrea.xyz/libraries/joomla/database/
+[mongodb-exporter-metrics] [http] [medium] https://api.daydream.live/metrics
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.defillama.com [""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44""]
+[open-redirect-generic] [http] [medium] https://api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://dev.api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://migration.api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[prometheus-metrics] [http] [medium] https://api.centrifuge.io/metrics
+[prometheus-metrics] [http] [medium] https://api.daydream.live/metrics
+[prometheus-metrics] [http] [medium] https://dummy-exporter.perseverance.chainflip.io/metrics
+[prometheus-metrics] [http] [medium] https://explorer.chiliz.com/metrics
+[prometheus-metrics] [http] [medium] https://logging-loki.infra2.candide.dev/metrics
+[prometheus-metrics] [http] [medium] https://loki.infra3.candide.dev/metrics
+[prometheus-metrics] [http] [medium] https://spicy-explorer.chiliz.com/api/metrics
+[unauthenticated-duplicator-disclosure] [http] [medium] https://snapshots.citrea.xyz/wp-content/backups-dup-lite/tmp/

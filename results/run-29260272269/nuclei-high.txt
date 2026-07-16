@@ -1,0 +1,17 @@
+[CNVD-2023-96945] [http] [high] https://meta.elfi.xyz/Content/Plugins/uploader/FileChoose.html
+[CVE-2019-11248] [http] [high] https://logging-loki.infra2.candide.dev/debug/pprof/
+[CVE-2019-11248] [http] [high] https://loki.infra3.candide.dev/debug/pprof/
+[CVE-2020-27361] [http] [high] https://snapshots.citrea.xyz/pme/media/
+[CVE-2022-2544] [http] [high] https://snapshots.citrea.xyz/wp/wp-content/uploads/wpjobboard/
+[CVE-2023-6114] [http] [high] https://snapshots.citrea.xyz/wp-content/backups-dup-lite/tmp/
+[CVE-2023-6505] [http] [high] https://snapshots.citrea.xyz/wp-content/uploads/prime-mover-export-files/1/
+[CVE-2024-53991] [http] [high] https://forum.celer.network/stylesheets/discourse-details_176b72e6e38dee06dfc1be8f35778491bd6261ea.css?__ws=forum.celer.network&cachebuster=3GVuJ2vhPfkVAw8cBbNlXu6DiZr
+[CVE-2025-4123:open-redirect] [http] [high] https://bundlers-grafana.infra3.candide.dev/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://logging-grafana.infra2.candide.dev/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://logs.ops.candide.dev/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2026-27771] [http] [high] https://code-p9r.edgevana.com/v2/_catalog [""repositories":["max/pwned"]"]
+[github-takeover] [http] [high] https://docs.cosmostation.io
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://metrics.doublezero.xyz/api/search?type=dash-db
+[laravel-sessions-exposure] [http] [high] https://snapshots.citrea.xyz/storage/framework/sessions/
+[private-key-exposure] [http] [high] https://snapshots.citrea.xyz/node_modules/mqtt/test/helpers/
+[wp-w3-total-cache-exposure] [http] [high] https://snapshots.citrea.xyz/wp-content/w3tc/dbcache/
