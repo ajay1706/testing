@@ -1,0 +1,47 @@
+[CVE-2011-2744] [http] [medium] https://agentic-docs.polygon.technology/?action=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00
+[CVE-2022-41697] [http] [medium] https://ghost.orai.io/ghost/api/admin/session
+[CVE-2023-5561] [http] [medium] https://blog.onto.app/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2024-1183] [http] [medium] https://sd-generator-5.api.orai.io/file=http://oast.pro
+[CVE-2024-46310] [http] [medium] https://api.pol.polygon.technology/players.json
+[CVE-2024-46310] [http] [medium] https://xxl-job.orderly.network/players.json
+[CVE-2024-5483] [http] [medium] https://api.pol.polygon.technology/wp-json/learnpress/v1/users
+[CVE-2024-5936] [http] [medium] https://sd-generator-5.api.orai.io/file=https://oast.me
+[circleci-config] [http] [medium] https://static.optimism.io/.circleci/config.yml
+[config-json] [http] [medium] https://api.mainnet.orca.so/config/default.json
+[docker-compose-config] [http] [medium] https://osmotest5.osmosis.zone/docker-compose.yml
+[dockerfile-hidden-disclosure] [http] [medium] https://osmotest5.osmosis.zone/Dockerfile
+[git-config] [http] [medium] https://osmotest5.osmosis.zone/.git/config
+[gitlab-api-user-enum] [http] [medium] https://api.pol.polygon.technology/api/v4/users/22 [uid="22"]
+[mongodb-exporter-metrics] [http] [medium] https://builder-staging.ostium.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://builder.ostium.io/metrics
+[nextjs-vite-public-env:public_env] [http] [medium] https://backoffice.prod.polygon.technology [""VITE_GITCOMMIT":"42fafc9e5eef0e46f4bfc6efd0468993d1d68865"",""VITE_VERSION":"v26.7.6-42fafc9"",""VITE_API_URL":"https://backoffice-api.prod.polygon.technology""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://dashboard.polygon.technology [""VITE_MINTLIFY_DOMAIN":"polygon-labs"",""VITE_VERSION":"v26.7.8-7eec368"",""VITE_API_URL":"https://omsx-api.prod.polygon.technology"",""VITE_FRONTEGG_APP_ID":"436f1ce6-388e-4d30-baf9-fbd4d7178fa4"",""VITE_BPN_SANDBOX_API_URL":"https://sandbox-bpn-api.prod.polygon.technology/v0.10"",""VITE_OMS_LIVE_API_URL":"https://api.polygon.technology"",""VITE_GITCOMMIT":"7eec3685486069738f81a98a9bbf42426b4e5029"",""VITE_ENVIRONMENT":"production"",""VITE_SENTRY_DSN":"https://9f154cf712303a4036cf00c03feb938d@o242458.ingest.us.sentry.io/4510951825408000"",""VITE_FRONTEGG_CLIENT_ID":"931d4514-a315-4af5-a136-d9e1cb1a5285"",""VITE_BPN_LIVE_API_URL":"https://bpn-api.prod.polygon.technology/v0.10"",""VITE_OMS_SANDBOX_API_URL":"https://sandbox-api.polygon.technology"",""VITE_MINTLIFY_TOKEN":"mint_dsc_AXsHiye9wqDC3QsbcQTSQi"",""VITE_FRONTEGG_BASE_URL":"https://login.polygon.technology"",""VITE_MINTLIFY_DOCS_URL":"https://docs.polygon.technology""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://dashboard.staging.polygon.technology [""VITE_OMS_SANDBOX_API_URL":"https://sandbox-api.stg.polygon-dev.technology"",""VITE_SENTRY_DSN":"https://9f154cf712303a4036cf00c03feb938d@o242458.ingest.us.sentry.io/4510951825408000"",""VITE_MINTLIFY_TOKEN":"mint_dsc_AXsHiye9wqDC3QsbcQTSQi"",""VITE_VERSION":"v26.7.13-0937b66"",""VITE_OMS_LIVE_API_URL":"https://api.stg.polygon-dev.technology"",""VITE_BPN_SANDBOX_API_URL":"https://sandbox-bpn-api.stg.polygon-dev.technology/v0.10"",""VITE_BPN_LIVE_API_URL":"https://bpn-api.stg.polygon-dev.technology/v0.10"",""VITE_MINTLIFY_DOCS_URL":"https://docs.polygon.technology"",""VITE_GITCOMMIT":"0937b66c09ed9d9c77dd04646ad05425d3aaf783"",""VITE_ENVIRONMENT":"staging"",""VITE_API_URL":"https://omsx-api.stg.polygon-dev.technology"",""VITE_FRONTEGG_CLIENT_ID":"05273751-92d8-4b2a-93d9-caa6a8fc5671"",""VITE_MINTLIFY_DOMAIN":"polygon-labs"",""VITE_FRONTEGG_BASE_URL":"https://login.staging.polygon.technology"",""VITE_FRONTEGG_APP_ID":"fa313edf-e201-47a6-a731-517feaca1b16""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://polygon-pay.prod.polygon.technology [""VITE_GITCOMMIT":"23fcfb667027e5972e3cc31ae149cc6202b9fc7d"",""VITE_VERSION":"v26.7.7-23fcfb6"",""VITE_API_URL":"https://polygon-pay-api.prod.polygon.technology""]
+[prometheus-metrics] [http] [medium] https://aether-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://aether.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://airflow.ratex.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-v2.pendle.finance/api/metrics
+[prometheus-metrics] [http] [medium] https://api.explorer.testnet.ondo.finance/metrics
+[prometheus-metrics] [http] [medium] https://gather.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history-generator-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history-generator.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://history.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://listener-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://listener.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://live-market-data-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://live-market-data.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend-staging2.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://metadata-backend.ostium.io/metrics
+[prometheus-metrics] [http] [medium] https://openpanel.nightly.app/api/metrics
+[prometheus-metrics] [http] [medium] https://p-testnet.blockexplorer.optimism.io/api/metrics
+[prometheus-metrics] [http] [medium] https://sqs-do-glb.osmosis.zone/metrics
+[prometheus-metrics] [http] [medium] https://sqs-lb.app.osmosis.zone/metrics
+[prometheus-metrics] [http] [medium] https://sqs.app.osmosis.zone/metrics
+[prometheus-metrics] [http] [medium] https://sqsprod.osmosis.zone/metrics
+[prometheus-metrics] [http] [medium] https://staging-api.pendle.finance/api/metrics
+[prometheus-metrics] [http] [medium] https://trackall.nightly.app/metrics
+[prometheus-metrics] [http] [medium] https://zkverify-prom-node1.monitor.staking.nansen.ai/metrics
+[prometheus-metrics] [http] [medium] https://zkverify-prom-node2.monitor.staking.nansen.ai/metrics
