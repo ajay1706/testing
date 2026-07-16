@@ -1,0 +1,26 @@
+[CVE-2019-11248] [http] [high] https://api.suiet.app/debug/pprof/
+[CVE-2019-11248] [http] [high] https://influx-tnworkq43qr5xmc8.b.redstone.finance/debug/pprof/
+[CVE-2019-11248] [http] [high] https://remote-write.switchboard.xyz/debug/pprof/
+[CVE-2024-34351] [http] [high] https://spherepay.co/_next/image?w=16&q=10&url=https://d9c97attsdp3ejnfthvgkzey6a7ojbi7e.oast.fun
+[CVE-2024-34351] [http] [high] https://staging.spherepay.co/_next/image?w=16&q=10&url=https://d9c995g226q3em68n60gctxu6p1xtrcpp.oast.live
+[CVE-2024-34351] [http] [high] https://www.spherepay.co/_next/image?w=16&q=10&url=https://d9chf25tsdp3cnj3sh9g3dhuw4xaaik4m.oast.me
+[CVE-2025-4123:open-redirect] [http] [high] https://aevo-prod-monitor.socket.tech/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-cp.rpcfast.com/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://monitor.socket.tech/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-55184] [http] [high] https://polygon.rendernetwork.com
+[CVE-2025-55184] [http] [high] https://portal.soneium.org/en
+[CVE-2026-25892:version] [http] [high] https://stake-cqk-rpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-hab-grpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-hab-rpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-udm-grpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-udm-lcd.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-udm-rpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[framer-takeover] [http] [high] https://interchain.synapseprotocol.com ["sites.framer.app"]
+[framer-takeover] [http] [high] https://onboarding.soniclabs.com ["sites.framer.app"]
+[framer-takeover] [http] [high] https://summit.soniclabs.com ["sites.framer.app"]
+[framer-takeover] [http] [high] https://www.scroll.io
+[github-takeover] [http] [high] https://ekr6jla2zaskpecz5ggf7v.spiko.finance ["spiko-tech.github.io"]
+[github-takeover] [http] [high] https://uv4ucnaea3qpq5gk8fdcz7.spiko.finance ["spiko-tech.github.io"]
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://metrics.solana.com/api/search?type=dash-db
+[prometheus-unauth] [http] [high] https://remote-write.switchboard.xyz/api/v1/status/config
+[prometheus-unauth] [http] [high] https://remote-write.switchboard.xyz/config
