@@ -1,0 +1,6 @@
+[CVE-2021-28918] [http] [critical] https://docs.bsc.lista.org/?url=http://0177.0.0.1/server-status
+[CVE-2022-26143:version] [http] [critical] https://solana.be.magiceden.io/ucs/micollab/version.json ["4.20.69"]
+[CVE-2026-33032] [http] [critical] https://rpc1.monad.xyz/mcp_message
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://support.kraken.com/config.json ["https://www.kraken.com/api"] [path="/config.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://www.kraken.com/config.json ["https://www.kraken.com/api"] [path="/config.json"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.bsc.lista.org

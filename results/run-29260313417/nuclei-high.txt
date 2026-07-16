@@ -1,0 +1,11 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://mm-incentive-program.aws.kuru.io/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-48954:open-redirect-meta-refresh] [http] [high] https://forum.manifold.xyz/auth/failure?provider=%3Cmeta%20http-equiv%3D%22refresh%22%20content%3D%220%3Burl%3Dhttps%3A//evil.com%22%3E ["3.5.0.beta6"]
+[CVE-2025-55184] [http] [high] https://app.kasu.finance/lending
+[CVE-2025-55184] [http] [high] https://closedalphastaketh.mantle.xyz/stake
+[CVE-2025-55184] [http] [high] https://console.kaio.xyz/login
+[CVE-2025-55184] [http] [high] https://console.pre.kaio.xyz/login
+[CVE-2025-55184] [http] [high] https://console.stg.kaio.xyz/login
+[framer-takeover] [http] [high] https://bootcamp.meteora.ag
+[framer-takeover] [http] [high] https://kr.monad.xyz ["sites.framer.app"]
+[github-takeover] [http] [high] https://cdn.endpoints.security.ledger.com ["ledgerhq.github.io"]
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://mm-incentive-program.aws.kuru.io/api/search?type=dash-db
