@@ -1,0 +1,10 @@
+[CVE-2019-11248] [http] [high] https://quote.omni.apex.exchange/debug/pprof/
+[CVE-2024-34351] [http] [high] https://gen.akash.network/_next/image?w=16&q=10&url=https://d9bba98226q3direeeh0f3uanijxaw64w.oast.pro
+[CVE-2024-34351] [http] [high] https://staging.tokentool.bitbond.com/_next/image?w=16&q=10&url=https://d9c4c3g226q3efb99os087acpnos3yoqs.oast.site
+[CVE-2024-34351] [http] [high] https://tokentool.bitbond.com/_next/image?w=16&q=10&url=https://d9c525g226q3dj59jbkgfsqpx3zc68xew.oast.site
+[CVE-2025-4123:open-redirect] [http] [high] https://monitoring.bridge.alephium.org/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://monitoring.testnet.bridge.alephium.org/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-55184] [http] [high] https://book.arch.network/docs
+[CVE-2025-55184] [http] [high] https://manifesto.arch.network
+[CVE-2025-55184] [http] [high] https://status.across.to
+[leadpages-takeover] [http] [high] http://signup.brickken.com ["custom-proxy.leadpages.net"]
