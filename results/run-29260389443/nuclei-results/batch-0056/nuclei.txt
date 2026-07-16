@@ -1,0 +1,54 @@
+[open-redirect-generic] [http] [medium] https://virtual.af-nexus-mainnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.af-nexus-mainnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.af-nexus-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.af-nexus-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.alpen-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.apechain.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.arbitrum-polymarket.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] uptime.vela.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] us-west.canary-gateway.tenderly.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] uptime.vela.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] us-west.canary-gateway.tenderly.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v1.info.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v1.info.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v2.info.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v2.info.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v2.thorswap.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v2.thorswap.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v3.info.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v3.info.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v8-meme-api.verse8.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] validate.unisat.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v8-meme-api.verse8.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] validate.unisat.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] valscope-testnet.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] valscope.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] valscope-testnet.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] valscope.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] velodrome.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] velodrome.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] verify-api.vela.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] verify-api.vela.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] verify.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] verify.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] verify2-api.vela.exchange:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] verify2-api.vela.exchange:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] verse8.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] verse8.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] videos.cdn.union.build:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] videos.cdn.union.build:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[debug-vars] [http] [low] https://us1.rpc-mg.thirdweb.com/debug/vars
+[prometheus-metrics] [http] [medium] https://us1.rpc-mg.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://verify-webhook.zerion.io/metrics
+[CVE-2025-54793] [http] [medium] https://virtual.af-nexus-mainnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.af-nexus-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.af-nexus-mainnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.af-nexus-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.alpen-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.apechain.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.arbitrum-polymarket.eu.rpc.tenderly.co//interact.sh/en/
+[unauthenticated-varnish-cache-purge] [http] [low] https://v2.zksync.io
+[netlify-headers-config-exposure] [http] [low] https://v2.thorswap.finance/_headers
+[self-signed-ssl] [ssl] [low] us-west.ws.rpc.synthetix.io:443
+[untrusted-root-certificate] [ssl] [low] us.gateway.tenderly.co:443
+[expired-ssl] [ssl] [low] vaultdeploy.veda.tech:443 ["2026-02-22 15:41:32 +0000 UTC"]
