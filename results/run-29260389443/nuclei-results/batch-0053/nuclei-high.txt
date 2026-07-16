@@ -1,0 +1,1 @@
+[blockchain-rpc-txpool-exposed] [http] [high] https://testnet-rpc-1.xo.market
