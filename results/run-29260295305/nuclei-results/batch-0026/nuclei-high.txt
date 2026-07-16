@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://sale.harmonix.fi
+[CVE-2025-55184] [http] [high] https://sale.sandbox.nonprod.harmonix.fi
