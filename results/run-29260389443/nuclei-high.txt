@@ -1,0 +1,15 @@
+[CVE-2019-11248] [http] [high] https://metrics.mainnet.tempo.xyz/debug/pprof/
+[CVE-2019-11248] [http] [high] https://pushgateway.yuzu.money/debug/pprof/
+[CVE-2019-11248] [http] [high] https://spamoor.internal.taiko.xyz/debug/pprof/
+[CVE-2022-2544] [http] [high] https://download.tempo.xyz/wp/wp-content/uploads/wpjobboard/
+[CVE-2023-6114] [http] [high] https://download.tempo.xyz/wp-content/backups-dup-lite/tmp/
+[CVE-2023-6505] [http] [high] https://download.tempo.xyz/wp-content/uploads/prime-mover-export-files/1/
+[CVE-2024-34351] [http] [high] https://pro.teller.org/_next/image?w=16&q=10&url=https://d9cda75tsdp3dua7gcogna67c15mhzpt8.oast.site
+[CVE-2024-53991] [http] [high] https://community.venus.io/stylesheets/discourse-presence_c9ba78323842b5ede693429d2867ce490b07a7f8.css?__ws=community.venus.io&cachebuster=3GX2jQHgsG3j8obu3Cssm6ayy7A
+[CVE-2024-53991] [http] [high] https://forum.thena.fi/stylesheets/discourse-presence_dd8ef5859faf1fb5a06499fc10cc9ccbd1c5a1ce.css?__ws=forum.thena.fi&cachebuster=3GZ5hywqLTTwiNIwSxma6kySqxV
+[blockchain-rpc-txpool-exposed] [http] [high] https://testnet-rpc-1.xo.market
+[framer-takeover] [http] [high] https://itch-contest1.verse8.io ["sites.framer.app"]
+[framer-takeover] [http] [high] https://kr-contest1.verse8.io ["sites.framer.app"]
+[framer-takeover] [http] [high] https://spin-event.verse8.io ["sites.framer.app"]
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://analytics.zeta.markets/api/search?type=dash-db
+[laravel-sessions-exposure] [http] [high] https://download.tempo.xyz/storage/framework/sessions/
