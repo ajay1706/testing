@@ -1,0 +1,71 @@
+[open-redirect-generic] [http] [medium] https://virtual.plasma-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.plasma.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.polygon-amoy.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.plasma-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.polygon-polymarket.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.polygon.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.robinhood-chain-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.robinhood-chain.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.robinhood-chain-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.ronin-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.ronin.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.ronin.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.rsk-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.rsk-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.rsk.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.rsk.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.scroll-mainnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.scroll-mainnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.scroll-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.sei-pacific-1.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.sei-pacific-1.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.sepolia.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.sepolia.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.soneium.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.soneium-minato.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.sonic-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.sonic.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.sonic.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.stable-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.stable.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.taiko-hoodi.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.taiko-mainnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.unichain.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.worldchain-mainnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.worldchain-sepolia.us-east.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://virtual.plasma-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.polygon-polymarket.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.polygon-amoy.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.plasma-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.plasma.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.polygon.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.robinhood-chain-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.robinhood-chain-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.ronin-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.robinhood-chain.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.ronin.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.ronin.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.rsk.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.rsk-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.rsk-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.scroll-mainnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.rsk.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.scroll-mainnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.scroll-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.sei-pacific-1.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.sepolia.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.sei-pacific-1.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.sepolia.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.soneium-minato.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.sonic-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.soneium.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.sonic.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.sonic.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.stable-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.stable.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.taiko-hoodi.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.taiko-mainnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.unichain.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.worldchain-mainnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.worldchain-sepolia.us-east.rpc.tenderly.co//interact.sh/en/
