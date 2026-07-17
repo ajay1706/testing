@@ -1,0 +1,62 @@
+[open-redirect-generic] [http] [medium] https://virtual.lens-sepolia.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.lens.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.lens.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.linea-sepolia.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.linea-sepolia.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.linea.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.lisk.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.mainnet-aave.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.mainnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.mainnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.mainnet.us-east.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.mantle-sepolia.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.mantle-sepolia.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.mantle.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.mantle.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.megaeth.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.megaeth.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.metis-andromeda.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.metis-sepolia.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.monad-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.monad-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.monad.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.moonbase-alpha.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.moonbeam.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.moonriver.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.morph.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.morph.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.optimism-sepolia.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.optimism-sepolia.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.optimism-sepolia.us-east.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.optimism.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://virtual.linea.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.lens-sepolia.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.linea-sepolia.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.linea-sepolia.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.lens.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.lens.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.mainnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.mainnet-aave.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.lisk.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.mainnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.mainnet.us-east.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.mantle-sepolia.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.mantle.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.mantle-sepolia.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.mantle.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.megaeth.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.megaeth.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.metis-andromeda.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.metis-sepolia.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.monad-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.monad.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.monad-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.moonbase-alpha.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.moonbeam.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.moonriver.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.morph.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.morph.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.optimism-sepolia.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.optimism-sepolia.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.optimism-sepolia.us-east.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.optimism.rpc.tenderly.co//interact.sh/en/
