@@ -1,0 +1,52 @@
+[open-redirect-generic] [http] [medium] https://virtual.celo-sepolia.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.celo.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.cfx-espace-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.celo.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.cfx-espace.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.curtis.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.flare.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.flare.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.fraxtal-hoodi.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.fraxtal-hoodi.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.fraxtal.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.fraxtal.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.gnosis-chiado-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.gnosis-chiado-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.hoodi.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.hoodi.us-east.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.immutable-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.immutable.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.injective-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.injective.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.ink-sepolia.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.ink.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.ink.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.interval.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.katana.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.katana.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://virtual.cfx-espace.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.celo.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.celo-sepolia.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.celo.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.cfx-espace-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.curtis.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.flare.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.flare.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.fraxtal-hoodi.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.fraxtal.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.fraxtal-hoodi.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.fraxtal.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.gnosis-chiado-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.gnosis-chiado-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.hoodi.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.hoodi.us-east.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.immutable-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.immutable.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.injective-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.injective.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.ink-sepolia.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.ink.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.ink.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.interval.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.katana.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.katana.eu.rpc.tenderly.co//interact.sh/en/
