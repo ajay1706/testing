@@ -1,0 +1,104 @@
+# HTTPX Status Report
+
+Generated at: Sun Jul 19 03:17:10 UTC 2026
+
+HTTPX lines: 75
+Live URLs: 75
+
+## 200
+https://clerk.orthogonal.com [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [232.980285ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://support.ornn.com [200] [] [12774] [Ornn Support] [] [18.154.132.36] [cloudfront] [349.931386ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://compute.ornn.com [200] [] [43493] [Ornn Compute] [Google Frontend] [8.232.0.49] [google] [137.831565ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HSTS,HTTP/3]
+https://prathamdave.fabric.ornn.com [200] [] [43074] [Ornn Compute] [Google Frontend] [142.251.215.179] [google] [191.383795ms] [Google Cloud,Google Cloud Load Balancing,HSTS]
+https://fabric.ornn.com [200] [] [43493] [Ornn Compute] [Google Frontend] [8.232.0.49] [google] [135.272886ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HSTS,HTTP/3]
+https://trust.ornn.com [200] [] [3443] [Ornn Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [678.680135ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://legal.ornn.com [200] [] [12444] [Ornn Legal] [Vercel] [76.76.21.21] [868.55733ms] [HSTS,Vercel]
+https://tyephoenix.fabric.ornn.com [200] [] [43074] [Ornn Compute] [Google Frontend] [142.251.215.83] [google] [1.019455362s] [Google Cloud,Google Cloud Load Balancing,HSTS]
+https://status.ornn.com [200] [] [130849] [Ornn Status] [Vercel] [76.76.21.142] [683.038954ms] [HSTS,Vercel,dc.js]
+https://www.orthogonal.com [200] [] [114712] [Orthogonal: Your agent can reason. Now it can act.] [Vercel] [216.150.1.193] [249.322295ms] [HSTS,Vercel]
+https://docs.orthogonal.com [200] [] [269296] [Orthogonal - Orthogonal] [Vercel] [76.76.21.241] [301.584045ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://docs.multipli.fi [200] [] [381998] [rwaUSD - Where TradFi Meets DeFi | Multipli] [cloudflare] [104.18.40.47] [cloudflare] [177.729141ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://ornn.com [200] [] [415764] [Ornn | Financial Products for Compute] [Framer/71ecfbf] [31.43.161.6] [235.122767ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React,Warmly]
+https://status.orthogonal.com [200] [] [419169] [Orthogonal status] [] [167.235.220.62] [1.06449889s] [Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus]
+https://multipli.fi [200] [] [780377] [Multipli — Borrow against Real World Tokenized Assets (Gold, Stocks, S&P 500)] [Framer/71ecfbf] [31.43.161.6] [261.353203ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 301
+http://testnet.multipli.fi [301] [https://testnet.multipli.fi/] [43] [Netlify] [13.52.188.95] [95.75798ms] [Netlify]
+
+## 302
+https://commerce-staging.ornn.com [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=837561604668-spgfpm6lprv7a8vnu2m1cncva1481ur1.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/837561604668-spgfpm6lprv7a8vnu2m1cncva1481ur1.apps.googleusercontent.com:handleRedirect&code_challenge=rmHKKcpr2OGqks_P0rSbYNVR5Ske-9XUABo-XR39f9Y&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEJ950S_gR7zR8wp6IXHy5rLPPiuvaIWO_67TPWSIxwYagHUWr-kIDM32tB2kymrgVwTLHaGvY_yboXxIoUf3ZQcO33XlXR5Wi5sHefAPIKSxNQD_yfkO5hMVfFFUVZHuNloenk7_CRN-Hu2YDyfGjyJFISYp-4PQyiHNLz2TvYalt5MsDD3Sr6bUWQDWiVRwVo4XuHGKKTJyge6gTWV9eaEfqJS8rhzBuc5nO2Y-nigsgOm6BBMuUNHkDWNqWgu1uCRqc6FbATgMw-SbQ0SeJYnhoVDMjJZZAo54orKPGLLZ_CmmQQ9aQkFC2ko68Sc3dseaZC8f6nOuFP05MfGzdbU9qDvbTPpdsdGehBBx0cAsnxlN_L2kXIW5wpkAPkgdRJRmfDxLfb9epZ75ldJjL9uVhNbkyPoo_YEwIttf8StzfyD51OeWwozLDow9DTZeErzhOuZ3nCVIOzRXxuuJ0bMyFbEMt8jVUhI4L95nPR0ajZ4Oc0C6kpJErS0wZ4MnBxaPXyuDj_WdfLoZT61ns-d8MlpcL4wjnHnR-hXvYfaBoBmO7reUPfFRvEABDiaGAltvXpBE1J1-HPKnSbmrf1h_P8Be2FR3nOaUI1JsDEwFCGqoDdstkrmPR0IsJoADPKztX0BQqibRfQpHB7e4_W958gjoNzflaIktYdspdMtOvFLmUt3IBZxUMpBkMRoJK3fV04MudhaTxC5S2yF8cU4gTUv_TzkWzm0rKPrtF8JoyKZAAog8BujxGsDCx0jLQAT3MfnctNGB_XcCn5RCZcIBUBAYsa6WN2ebOEKCW1LRhqTbbiUFofqC_sUjUwxmOmdT3KsTPgbFgJ07n9dioyxjh3m6aDwM33SYBahJL4wavwkSYLs4lbgP__ogZuJa8-SWDJw6rkNGcHUpphwRV3a3zw0uv7Jq4xNtrp2-JHth38TJ3JDpNEAc1JB25MISYQMZI1N4XcNVnxfhG5sgEvKRbvFXdYapx8I-lXgQq0_m0OuMirZfzV0uedf9nTK4fX3AK1gv-v5kmzRZ1OncL6cfmSB6ov-ZZfMsSWn1UURaFDdKo6RmRUMUWGNYZGVIHW_2Oir3UnqS-NJvWAfLQGxyHcA86xaKo6CffQg_Gew9BT98JC7mr-kHdLD8ec7a_15tnzsHycj9B-y53pB4AUBuqlay9aSw] [36] [] [35.244.175.119] [google] [97.772676ms] [HTTP/3]
+http://finangammell.fabric.ornn.com [302] [https://finangammell.fabric.ornn.com/] [0] [Google Frontend] [142.251.45.19] [google] [72.542551ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://prathamdave-status.fabric.ornn.com [302] [https://prathamdave-status.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.243] [google] [73.225661ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://finangammell-status.fabric.ornn.com [302] [https://finangammell-status.fabric.ornn.com/] [0] [Google Frontend] [142.251.40.115] [google] [74.135301ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://shane277-snap.fabric.ornn.com [302] [https://shane277-snap.fabric.ornn.com/] [0] [Google Frontend] [142.251.35.83] [google] [76.400683ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://henryornn.fabric.ornn.com [302] [https://henryornn.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.179] [google] [76.668542ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://harrisontkeen.fabric.ornn.com [302] [https://harrisontkeen.fabric.ornn.com/] [0] [Google Frontend] [142.251.41.19] [google] [76.930758ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://devin-status.fabric.ornn.com [302] [https://devin-status.fabric.ornn.com/] [0] [Google Frontend] [142.251.34.83] [google] [77.951487ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://shydev-api.fabric.ornn.com [302] [https://shydev-api.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.179] [google] [78.292941ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://harrisontkeen-api.fabric.ornn.com [302] [https://harrisontkeen-api.fabric.ornn.com/] [0] [Google Frontend] [142.251.214.115] [google] [78.334791ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://prathamdave-api.fabric.ornn.com [302] [https://prathamdave-api.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.211] [google] [78.458122ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://finangammell-api.fabric.ornn.com [302] [https://finangammell-api.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.83] [google] [82.076766ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://harrisontkeen-status.fabric.ornn.com [302] [https://harrisontkeen-status.fabric.ornn.com/] [0] [Google Frontend] [142.251.41.19] [google] [91.864295ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://henryornn-api.fabric.ornn.com [302] [https://henryornn-api.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.243] [google] [93.183924ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://shydev.fabric.ornn.com [302] [https://shydev.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.83] [google] [79.5193ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://tejeswar0625-api.fabric.ornn.com [302] [https://tejeswar0625-api.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.179] [google] [74.17999ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://tyephoenix-api.fabric.ornn.com [302] [https://tyephoenix-api.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.179] [google] [77.639677ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://tyephoenix-status.fabric.ornn.com [302] [https://tyephoenix-status.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.211] [google] [78.123422ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://will-status.fabric.ornn.com [302] [https://will-status.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.179] [google] [74.254456ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://will.fabric.ornn.com [302] [https://will.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.179] [google] [87.862047ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://willornn-api.fabric.ornn.com [302] [https://willornn-api.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.179] [google] [76.854122ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://willornn-status.fabric.ornn.com [302] [https://willornn-status.fabric.ornn.com/] [0] [Google Frontend] [142.251.215.179] [google] [80.584553ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://willornn.fabric.ornn.com [302] [https://willornn.fabric.ornn.com/] [0] [Google Frontend] [142.251.35.83] [google] [79.40177ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+
+## 307
+https://orthogonal.com [307] [https://www.orthogonal.com/] [15] [Vercel] [216.150.16.1] [121.372762ms] [HSTS,Vercel]
+https://index.ornn.com [307] [/compute] [5946] [Ornn | Compute Index] [Vercel] [216.150.16.193] [124.294649ms] [HSTS,Vercel]
+https://data.ornn.com [307] [/auth/login?redirect=%2F] [15] [Vercel] [216.150.16.193] [268.860875ms] [HSTS,Vercel]
+https://harvey.ornn.com [307] [/assistant] [9128] [Ornn Legal] [Google Frontend] [142.251.215.179] [google] [2.800950965s] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Next.js,Node.js,React,Webpack]
+
+## 308
+https://www.multipli.fi [308] [https://multipli.fi/] [56] [Framer/71ecfbf] [31.43.161.6] [383.806617ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.ornn.com [308] [https://ornn.com/] [53] [Framer/71ecfbf] [31.43.161.6] [357.951012ms] [Framer Sites,HSTS,HTTP/3,React]
+https://docs.ornn.com [308] [/introduction] [114814] [cloudflare] [172.66.3.9] [cloudflare] [350.381306ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+
+## 401
+
+## 403
+https://accounts.orthogonal.com [403] [] [9518] [Just a moment...] [cloudflare] [172.64.153.110] [cloudflare] [413.534552ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://pix.orthogonal.com [404] [] [107] [Vercel] [216.150.16.193] [121.528006ms] [HSTS,Vercel]
+https://pay.orthogonal.com [404] [] [107] [Vercel] [216.150.1.1] [124.162723ms] [HSTS,Vercel]
+https://shane277-snap-api.fabric.ornn.com [404] [] [22] [Google Frontend] [142.251.215.179] [google] [140.217134ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://pratham.fabric.ornn.com [404] [] [272] [404 Page not found] [] [142.251.34.83] [google] [142.551141ms]
+https://id.ornn.com [404] [] [37] [cloudflare] [172.64.149.246] [cloudflare] [142.159767ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://harrisontkeen-orch.fabric.ornn.com [404] [] [0] [Google Frontend] [142.251.40.115] [google] [155.325539ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://finangammell-orch.fabric.ornn.com [404] [] [0] [Google Frontend] [142.251.41.19] [google] [158.489281ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://prathamdave-orch.fabric.ornn.com [404] [] [0] [Google Frontend] [142.251.215.179] [google] [154.944566ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://shane277-snap-orch.fabric.ornn.com [404] [] [0] [Google Frontend] [142.251.35.83] [google] [156.12112ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://orchestrator.ornn.com [404] [] [0] [Google Frontend] [142.251.210.147] [google] [155.091276ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://orch.ornn.com [404] [] [0] [Google Frontend] [142.251.40.115] [google] [176.580648ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://devin-orch.fabric.ornn.com [404] [] [0] [Google Frontend] [142.251.41.19] [google] [177.425518ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://henryornn-orch.fabric.ornn.com [404] [] [0] [Google Frontend] [142.251.215.179] [google] [177.473322ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://jzhouu-orch.fabric.ornn.com [404] [] [0] [Google Frontend] [142.251.45.19] [google] [212.568739ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://modal.ornn.com [404] [] [79] [Vercel] [216.150.16.129] [239.798501ms] [HSTS,Vercel]
+https://pay.ornn.com [404] [] [1009] [Pay Link Not Found] [] [100.49.0.246] [299.722274ms]
+https://staging.fabric.ornn.com [404] [] [272] [404 Page not found] [] [142.251.40.115] [google] [205.494809ms]
+https://staging.orchestrator.ornn.com [404] [] [272] [404 Page not found] [] [142.251.34.83] [google] [223.952403ms]
+https://staging.compute.ornn.com [404] [] [272] [404 Page not found] [] [142.251.218.19] [google] [240.411976ms]
+https://tejeswar0625-orch.fabric.ornn.com [404] [] [0] [Google Frontend] [142.251.215.179] [google] [242.896018ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://tyephoenix-orch.fabric.ornn.com [404] [] [0] [Google Frontend] [142.251.40.115] [google] [254.925152ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://will-api.fabric.ornn.com [404] [] [272] [404 Page not found] [] [142.251.45.19] [google] [206.430313ms]
+https://api.multipli.fi [404] [] [179] [Not Found] [gunicorn] [18.139.82.74] [634.414996ms] [Python,gunicorn]
+https://will-orch.fabric.ornn.com [404] [] [0] [Google Frontend] [142.251.210.147] [google] [306.965415ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://api-testnet.multipli.fi [404] [] [19] [] [13.250.189.204] [675.651806ms]
+https://willornn-orch.fabric.ornn.com [404] [] [0] [Google Frontend] [142.251.35.83] [google] [326.702289ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://www.pay.orthogonal.com [404] [] [107] [Vercel] [216.150.1.65] [567.996765ms] [HSTS,Vercel]
+https://www.pix.orthogonal.com [404] [] [107] [Vercel] [216.150.1.193] [541.288271ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+

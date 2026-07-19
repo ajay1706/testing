@@ -1,0 +1,4 @@
+https://orthogonal.com [307] [https://www.orthogonal.com/] [15] [Vercel] [216.150.16.1] [121.372762ms] [HSTS,Vercel]
+https://index.ornn.com [307] [/compute] [5946] [Ornn | Compute Index] [Vercel] [216.150.16.193] [124.294649ms] [HSTS,Vercel]
+https://data.ornn.com [307] [/auth/login?redirect=%2F] [15] [Vercel] [216.150.16.193] [268.860875ms] [HSTS,Vercel]
+https://harvey.ornn.com [307] [/assistant] [9128] [Ornn Legal] [Google Frontend] [142.251.215.179] [google] [2.800950965s] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Next.js,Node.js,React,Webpack]
