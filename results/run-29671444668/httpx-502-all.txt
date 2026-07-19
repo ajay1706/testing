@@ -1,0 +1,7 @@
+https://arch-node-regtest.utexo.com [502] [] [166] [502 Bad Gateway] [nginx/1.28.3 (Ubuntu)] [77.42.122.46] [351.896408ms] [Nginx:1.28.3,Ubuntu]
+https://filip-a.feat.cork.tech [502] [] [16] [cloudflare] [104.20.39.29] [cloudflare] [384.784844ms] [Cloudflare]
+https://filip-b.feat.cork.tech [502] [] [16] [cloudflare] [104.20.39.29] [cloudflare] [337.258731ms] [Cloudflare]
+https://gio-a.feat.cork.tech [502] [] [16] [cloudflare] [172.66.158.234] [cloudflare] [343.149896ms] [Cloudflare]
+https://gio-b.feat.cork.tech [502] [] [16] [cloudflare] [104.20.39.29] [cloudflare] [331.640684ms] [Cloudflare]
+https://heri-b.feat.cork.tech [502] [] [16] [cloudflare] [104.20.39.29] [cloudflare] [351.194139ms] [Cloudflare]
+https://swaps-signet.utexo.com [502] [] [0] [Caddy] [195.201.197.113] [567.418328ms] [Caddy,HTTP/3]
