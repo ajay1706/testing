@@ -1,0 +1,2 @@
+https://pixverse.ai [302] [https://pixverse.ai/en] [0] [cloudflare] [104.18.12.127] [cloudflare] [48.991981ms] [Cloudflare,HTTP/3]
+https://shoplift-app.pixverse.ai [302] [https://apps.shopify.com/pixverse-video-ads-generator] [0] [cloudflare] [104.18.13.127] [cloudflare] [316.261039ms] [Cloudflare,HTTP/3]

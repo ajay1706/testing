@@ -1,0 +1,2 @@
+https://docs.pacifica.fi [308] [/pacifica/readme] [140367] [cloudflare] [104.20.34.125] [cloudflare] [176.785889ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://docs.qfex.com [308] [/qfex/about] [128460] [Vercel] [76.76.21.241] [414.082833ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
