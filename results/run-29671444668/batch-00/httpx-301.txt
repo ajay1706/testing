@@ -1,0 +1,2 @@
+https://www.bettermoney.com [301] [https://bettermoney.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [140.849975ms] [Cloudflare,HSTS,HTTP/3]
+https://www.canton.foundation [301] [https://canton.foundation/] [0] [cloudflare] [104.21.45.156] [cloudflare] [824.317937ms] [Cloudflare,HSTS,HTTP/3]
