@@ -1,0 +1,13 @@
+bounty-hunter-api.zar.app
+bounty-hunter.zar.app
+development.zar.app
+production.zar.app
+ref.zar.app
+staging.zar.app
+trader.staging.zar.app
+trader.zar.app
+use.development.zar.app
+use.staging.zar.app
+use.zar.app
+www.zar.app
+zar.app
