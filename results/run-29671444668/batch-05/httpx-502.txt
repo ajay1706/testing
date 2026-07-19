@@ -1,0 +1,2 @@
+https://arch-node-regtest.utexo.com [502] [] [166] [502 Bad Gateway] [nginx/1.28.3 (Ubuntu)] [77.42.122.46] [351.896408ms] [Nginx:1.28.3,Ubuntu]
+https://swaps-signet.utexo.com [502] [] [0] [Caddy] [195.201.197.113] [567.418328ms] [Caddy,HTTP/3]

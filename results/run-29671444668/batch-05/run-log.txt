@@ -1,0 +1,14 @@
+[+] Batch started: Sun Jul 19 03:17:59 UTC 2026
+[+] Run ID: 29671444668
+[+] Batch name: batch-05
+[+] Batch targets:
+utexo.com
+venice.ai
+zodl.com
+[+] Running subfinder...
+[+] Subfinder completed: Sun Jul 19 03:19:30 UTC 2026
+[+] HTTPX input count: 162
+[+] Running httpx...
+[+] httpx completed: Sun Jul 19 03:19:52 UTC 2026
+[+] httpx line count: 111
+[+] Batch completed: Sun Jul 19 03:19:52 UTC 2026
