@@ -1,0 +1,2 @@
+https://helm.kresus.com [503] [] [190] [503 Service Temporarily Unavailable] [] [100.23.37.99] [271.468734ms]
+https://openvas.kresus.com [503] [] [384] [503 Service Unavailable] [Apache/2.4.52 (Ubuntu)] [35.155.193.194] [2.294554146s] [Apache HTTP Server:2.4.52,Ubuntu]

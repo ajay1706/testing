@@ -1,0 +1,5 @@
+https://dev.kresus.com [502] [] [932] [ERROR: The request could not be satisfied] [] [3.171.100.28] [cloudfront] [562.322545ms] [Amazon CloudFront,Amazon Web Services]
+https://lisr.kresus.com [502] [] [568] [502 Bad Gateway] [nginx/1.28.3 (Ubuntu)] [34.221.199.162] [277.685198ms] [Nginx:1.28.3,Ubuntu]
+https://matrix-v2.dev.kresus.com [502] [] [932] [ERROR: The request could not be satisfied] [] [3.171.100.28] [cloudfront] [3.03830062s] [Amazon CloudFront,Amazon Web Services]
+https://mecum.dev.kresus.com [502] [] [932] [ERROR: The request could not be satisfied] [] [18.164.116.72] [cloudfront] [6.535282117s] [Amazon CloudFront,Amazon Web Services]
+https://wildcard.dev.kresus.com [502] [] [932] [ERROR: The request could not be satisfied] [] [3.171.100.28] [cloudfront] [1.971377395s] [Amazon CloudFront,Amazon Web Services]

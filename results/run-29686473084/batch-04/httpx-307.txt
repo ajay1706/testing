@@ -1,0 +1,2 @@
+https://about.jojo.exchange [307] [https://about.jojo.exchange/jojo-1/] [15] [cloudflare] [172.64.147.209] [cloudflare] [66.996092ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://tokenization.kresus.com [307] [/login?callbackUrl=%2F] [15] [Vercel] [216.150.16.193] [4.343045177s] [HSTS,Vercel]
