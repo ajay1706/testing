@@ -1,0 +1,14 @@
+[+] Batch started: Sun Jul 19 12:14:02 UTC 2026
+[+] Run ID: 29686473084
+[+] Batch name: batch-06
+[+] Batch targets:
+nekohealth.com
+nu.fi
+openacti.com
+[+] Running subfinder...
+[+] Subfinder completed: Sun Jul 19 12:14:43 UTC 2026
+[+] HTTPX input count: 99
+[+] Running httpx...
+[+] httpx completed: Sun Jul 19 12:14:47 UTC 2026
+[+] httpx line count: 82
+[+] Batch completed: Sun Jul 19 12:14:47 UTC 2026

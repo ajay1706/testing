@@ -1,0 +1,7 @@
+https://blog.nu.fi [301] [https://nu.fi/blog] [167] [301 Moved Permanently] [cloudflare] [104.26.13.202] [cloudflare] [70.513801ms] [Cloudflare,HSTS,HTTP/3]
+https://confirm.nekohealth.com [301] [https://app.nekohealth.com/payment?code=aet5u9vj] [0] [] [150.171.109.148] [176.713342ms] [Azure,Azure Front Door]
+https://book.nekohealth.com [301] [https://app.nekohealth.com/claim/] [0] [] [13.107.226.71] [201.474127ms] [Azure,Azure Front Door]
+https://invite.nekohealth.com [301] [https://app.nekohealth.com/?code=] [0] [] [150.171.109.148] [160.735424ms] [Azure,Azure Front Door]
+https://prebook.nekohealth.com [301] [https://www.nekohealth.com/p/] [0] [] [150.171.109.148] [179.413472ms] [Azure,Azure Front Door]
+https://signup.nekohealth.com [301] [https://www.nekohealth.com/s/] [0] [] [13.107.253.71] [171.666405ms] [Azure,Azure Front Door]
+https://www.openacti.com [301] [https://openacti.com:443/] [0] [] [34.120.145.190] [google] [48.243142ms] [HTTP/3]
