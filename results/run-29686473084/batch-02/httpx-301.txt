@@ -1,0 +1,8 @@
+https://en.flamme.app [301] [https://www.flamme.app/] [0] [Pepyaka] [34.149.87.45] [google] [310.239532ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,React,Wix]
+https://flamme.app [301] [https://www.flamme.app/] [0] [Pepyaka] [185.230.63.171] [599.562254ms] [HSTS,React,Wix]
+https://api.flamme.app [301] [https://flamme.app/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [18.192.145.68] [660.892762ms] [Nginx:1.18.0,Ubuntu]
+https://ai.flamme.app [301] [https://flamme.app/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [3.67.24.122] [837.660641ms] [Nginx:1.18.0,Ubuntu]
+https://www.api.flamme.app [301] [https://flamme.app/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [18.192.145.68] [790.497368ms] [Nginx:1.18.0,Ubuntu]
+https://www.ai.flamme.app [301] [https://flamme.app/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [3.67.24.122] [896.808087ms] [Nginx:1.18.0,Ubuntu]
+http://otel-ingress.staging.fikajobs.ai [301] [https://otel-ingress.staging.fikajobs.ai:443/] [134] [301 Moved Permanently] [awselb/2.0] [16.16.87.67] [354.321558ms] [Amazon ELB,Amazon Web Services]
+http://otel-ingress.prod.fikajobs.ai [301] [https://otel-ingress.prod.fikajobs.ai:443/] [134] [301 Moved Permanently] [awselb/2.0] [16.170.67.223] [425.750707ms] [Amazon ELB,Amazon Web Services]
