@@ -1,0 +1,2 @@
+https://www.eldorado.io [301] [https://eldorado.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [254.868765ms] [Cloudflare,HSTS,HTTP/3]
+http://experimental.eldorado.io [301] [https://experimental.eldorado.io/] [671] [301 Moved Permanently] [cloudflare] [172.67.155.217] [cloudflare] [16.998644ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
