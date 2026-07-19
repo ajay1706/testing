@@ -1,0 +1,6 @@
+http://groove-detection2.selfinspection.com [308] [https://groove-detection2.selfinspection.com/] [0] [Caddy] [35.226.101.144] [google] [103.173258ms] [Caddy]
+https://docs.pacifica.fi [308] [/pacifica/readme] [140367] [cloudflare] [104.20.34.125] [cloudflare] [176.785889ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://docs.qfex.com [308] [/qfex/about] [128460] [Vercel] [76.76.21.241] [414.082833ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://docs.rime.ai [308] [/docs/introduction] [135034] [Vercel] [66.33.60.35] [181.560267ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://www.aethexai.com [308] [https://aethexai.com/] [57] [Framer/71ecfbf] [31.43.161.6] [80.204815ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.lighter.xyz [308] [https://lighter.xyz/] [56] [Framer/71ecfbf] [31.43.160.6] [129.766961ms] [Framer Sites,HSTS,HTTP/3,React]
