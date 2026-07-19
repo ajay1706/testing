@@ -1,0 +1,111 @@
+# HTTPX Status Report
+
+Generated at: Sun Jul 19 12:17:46 UTC 2026
+
+HTTPX lines: 86
+Live URLs: 86
+
+## 200
+https://launch.vultisig.com [200] [] [1983] [Vult Launch] [Vercel] [76.76.21.123] [106.367248ms] [HSTS,Vercel]
+https://developer.vultisig.com [200] [] [2138] [Vultisig Developer Portal] [Vercel] [216.150.16.1] [164.308653ms] [HSTS,Vercel]
+https://devnet-stats.xportal.com [200] [] [3484] [1 Year. Day 1.] [cloudflare] [104.26.6.129] [cloudflare] [202.584682ms] [Cloudflare]
+https://analytics.vultisig.com [200] [] [8566] [Vultisig Analytics] [Vercel] [216.150.16.193] [207.402258ms] [HSTS,Vercel]
+https://apps.vultisig.com [200] [] [3964] [Vultisig Plugin Marketplace] [Vercel] [216.150.16.129] [407.247948ms] [HSTS,Vercel]
+https://challenge.xportal.com [200] [] [9742] [xPortal] [cloudflare] [104.26.7.129] [cloudflare] [280.47459ms] [Cloudflare]
+https://omni.testnet.variational.io [200] [] [15550] [cloudflare] [104.18.23.115] [cloudflare] [71.564636ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://omni.variational.io [200] [] [15550] [cloudflare] [104.18.22.115] [cloudflare] [74.063549ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://omni-fe.testnet.ap-northeast-1.variational.io [200] [] [15550] [cloudflare] [104.18.23.115] [cloudflare] [256.818402ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://playground.vultisig.com [200] [] [466] [Vultisig playground] [Vercel] [216.150.16.129] [236.305274ms] [HSTS,Vercel]
+https://share-decoder.vultisig.com [200] [] [5465] [Vultisig Share Decoder] [Vercel] [216.150.16.1] [95.374244ms] [HSTS,Vercel]
+https://omni-fe.prod.ap-northeast-1.variational.io [200] [] [15550] [cloudflare] [104.18.22.115] [cloudflare] [380.530846ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://stats.xportal.com [200] [] [3484] [1 Year. Day 1.] [cloudflare] [172.67.73.142] [cloudflare] [233.59895ms] [Cloudflare]
+https://arena.vultisig.com [200] [] [37085] [Vultisig Achievements] [nginx] [45.76.160.82] [731.358049ms] [Nginx]
+https://www.variational.io [200] [] [59569] [Variational Protocol] [cloudflare] [198.202.211.1] [133.340397ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Unpkg,cdnjs,jQuery:3.5.1,jsDelivr]
+https://vultisig.com [200] [] [159916] [Vultisig: Free MPC Wallet - Secure Multi-Chain Crypto Vault] [cloudflare] [104.26.15.76] [cloudflare] [116.094752ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://uk.xportal.com [200] [] [214709] [xPortal: the ultimate financial super app & crypto wallet] [cloudflare] [198.202.211.1] [131.187807ms] [Cloudflare,Google Analytics,Google Tag Manager,HSTS,HTTP/3,jQuery:3.5.1,jsDelivr]
+https://xportal.com [200] [] [219778] [xPortal - The Crypto Super App] [cloudflare] [198.202.211.1] [161.691426ms] [Branch,Cloudflare,Google Analytics,Google Tag Manager,HSTS,HTTP/3,jQuery:3.5.1,jsDelivr]
+https://docs.variational.io [200] [] [404109] [What Is Variational | Variational Docs] [cloudflare] [172.64.147.209] [cloudflare] [122.54675ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.vultisig.com [200] [] [625970] [Overview | Vultisig Docs] [cloudflare] [104.26.14.76] [cloudflare] [246.699934ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://app.testnet.variational.io [301] [https://omni.testnet.variational.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.115] [cloudflare] [49.692985ms] [Cloudflare,HSTS,HTTP/3]
+https://app.vultisig.com [301] [https://apps.vultisig.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.166] [cloudflare] [54.758226ms] [Cloudflare,HTTP/3]
+https://variational.io [301] [https://www.variational.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [126.838755ms] [Cloudflare,HSTS,HTTP/3]
+https://www.xportal.com [301] [https://xportal.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [159.243057ms] [Cloudflare,HSTS,HTTP/3]
+https://talk.vultisig.com [301] [https://arena.vultisig.com/] [162] [301 Moved Permanently] [nginx] [45.76.160.82] [774.329915ms] [Nginx]
+http://backend-omni.variational.io [301] [https://backend-omni.variational.io/] [665] [301 Moved Permanently] [cloudflare] [104.18.23.115] [cloudflare] [25.3795ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/2]
+http://mon.variational.io [301] [https://mon.variational.io/] [665] [301 Moved Permanently] [cloudflare] [104.18.23.115] [cloudflare] [19.626949ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/2]
+http://mon.testnet.variational.io [301] [https://mon.testnet.variational.io/] [665] [301 Moved Permanently] [cloudflare] [104.18.23.115] [cloudflare] [24.357162ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+http://web.vultisig.com [301] [https://web.vultisig.com/] [665] [301 Moved Permanently] [cloudflare] [172.67.69.166] [cloudflare] [23.71787ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://ws.backend-omni.testnet.variational.io [301] [https://ws.backend-omni.testnet.variational.io/] [665] [301 Moved Permanently] [cloudflare] [104.18.22.115] [cloudflare] [20.441189ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://help.variational.io [302] [https://help.variational.io/en/] [0] [cloudflare] [172.64.150.18] [cloudflare] [94.940932ms] [Cloudflare,HSTS]
+https://help.xportal.com [302] [https://help.xportal.com/en/] [0] [nginx] [3.162.112.27] [cloudfront] [172.276796ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://risk.testnet.variational.io [302] [https://variational-research.cloudflareaccess.com/cdn-cgi/access/login/risk.testnet.variational.io?kid=770ac4dfea9967542f57cf20817212fd6b73ca87c496a7f160b35a48bfa44106&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImMwY2NlYmM3NDY4MDJhY2EyMzJhMDg4MjY3YjYzMDI3MDYzYzQ3MDkyMzk0MGJkYjg4MmQwY2VlNTQ3ODk4YWYifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6Ijc3MGFjNGRmZWE5OTY3NTQyZjU3Y2YyMDgxNzIxMmZkNmI3M2NhODdjNDk2YTdmMTYwYjM1YTQ4YmZhNDQxMDYiLCJob3N0bmFtZSI6InJpc2sudGVzdG5ldC52YXJpYXRpb25hbC5pbyIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzg0NDYzNzQ2LCJuYmYiOjE3ODQ0NjM0NDYsImlhdCI6MTc4NDQ2MzQ0NiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjgxNjBlMjY2NGIwMTEzMWI0YTllZTdkMjJkMjFiMDdmMzEyNDRhNTk1Njc3MmNiNjE4MGRkMmEwYTNmYzI5NDMifQ.Mq-rWWDcJIYxNOz9CNTlpHcLKwwYxsR1QXoPSVWkh90GoDOBjMeUQRyRhKDVimuz-JQmuosBbaAlQWuQN0twB3oOGQrTPP2dIBOHKxHSHzmvUf4IpkI_ycUYvl4PqXbmjbskDG0rMIpx4N_0YTd_Qfm1e45mSgcU3CiYbmY0QXhsui9KGZ4se3GxzyQFu1aQidOcSad6kC4lxZHFID11R2e_JUqPg0MrxP6QVgS4MNEgFs_dI9uA2ijIYs_6eS2Xr6VjyVQqucU_2pcOso5X-1OQOIizvLRF4Z6fBLfqTvVzNYrZ0EVzjP8OLJ8dnDShuiYk6GdMu04AKjehzACxWw&redirect_url=%2F] [641] [302 Found] [cloudflare] [104.18.23.115] [cloudflare] [74.026324ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://risk.variational.io [302] [https://variational-research.cloudflareaccess.com/cdn-cgi/access/login/risk.variational.io?kid=0b21dc96e916efcfb6ae7fff08e6dfb6b6607292b6b48d51017494c1ee0bfadf&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImMwY2NlYmM3NDY4MDJhY2EyMzJhMDg4MjY3YjYzMDI3MDYzYzQ3MDkyMzk0MGJkYjg4MmQwY2VlNTQ3ODk4YWYifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjBiMjFkYzk2ZTkxNmVmY2ZiNmFlN2ZmZjA4ZTZkZmI2YjY2MDcyOTJiNmI0OGQ1MTAxNzQ5NGMxZWUwYmZhZGYiLCJob3N0bmFtZSI6InJpc2sudmFyaWF0aW9uYWwuaW8iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc4NDQ2Mzc0NiwibmJmIjoxNzg0NDYzNDQ2LCJpYXQiOjE3ODQ0NjM0NDYsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiIzZTg5ZTJkMWUzNjlhNWZhMjMwZjNkNzMxNjdlZjdmZGRlNThkODJkYzQyMjk0OTY3YjA1MjU4YzRlZmVmNjQxIn0.YPyzUmNg3wVbICk0fahXLE4QCk1YSZKNhXaXurHdypzD5f5m6yYzCuTMDMvRgLzCpmte9TtNMqqCtYQjPHB93444yZKAI9UwiwUkBiHThP5OYBi5_GI6B0CHZOPoVr7LmpLsCrdyBesdDb5CDDelqqFgu-jntxLZn08UBskc8bga-cUj6SwRN7319QGkhA3mm9Pyi2m2FF2cdh7YzN-g5kn8oShJ2yj7F0AYeVSOuD0vW-WQLwFx0eHzP6acDTvf8GBlexC0cjMJ0ya7iTEZNEzJMIBoOtpnwOJq3anYgmgjtNVltACcu-hUV5UZGhFkc2RwmYnnCkA01zuaospQvg&redirect_url=%2F] [641] [302 Found] [cloudflare] [104.18.22.115] [cloudflare] [82.456967ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://monitoring.dev.plugins.vultisig.com [302] [/login] [29] [] [146.190.202.250] [776.679089ms]
+https://monitoring.prod.plugins.vultisig.com [302] [/login] [29] [] [129.212.210.189] [786.738826ms]
+
+## 307
+https://www.vultisig.com [307] [https://vultisig.com/] [15] [cloudflare] [104.26.14.76] [cloudflare] [283.016837ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+https://risk-server.testnet.ap-northeast-1.variational.io [401] [] [45] [cloudflare] [104.18.23.115] [cloudflare] [286.953554ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://portal-api.vultisig.com [401] [] [42] [cloudflare] [104.26.15.76] [cloudflare] [351.47146ms] [Cloudflare,HSTS,HTTP/3]
+https://portal.dev.plugins.vultisig.com [401] [] [42] [] [146.190.202.250] [820.918908ms]
+
+## 403
+https://get.xportal.com [403] [] [1148] [Access Denied] [cloudflare] [162.159.140.159] [cloudflare] [145.008524ms] [Cloudflare,HTTP/3]
+https://internal-api.xportal.com [403] [] [146] [403 Forbidden] [] [188.166.132.235] [314.257239ms] [HSTS]
+https://mainnet-portal-backoffice.xportal.com [403] [] [146] [403 Forbidden] [] [188.166.132.235] [313.956636ms] [HSTS]
+https://mainnet-private-anlytics.xportal.com [403] [] [146] [403 Forbidden] [] [188.166.132.235] [314.514391ms] [HSTS]
+https://devnet-internal-api.xportal.com [403] [] [146] [403 Forbidden] [] [137.74.127.149] [296.031342ms] [HSTS]
+https://devnet-portal-backoffice.xportal.com [403] [] [146] [403 Forbidden] [] [137.74.127.149] [339.124946ms] [HSTS]
+https://devnet-offlinejobs.xportal.com [403] [] [548] [403 Forbidden] [] [137.74.127.149] [362.657394ms] [HSTS]
+https://api.vultisig.com [403] [] [1062] [403 Forbidden] [cloudflare] [104.26.15.76] [cloudflare] [424.364108ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 404
+https://assets.variational.io [404] [] [0] [cloudflare] [104.18.23.115] [cloudflare] [111.338366ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://assets.testnet.variational.io [404] [] [0] [cloudflare] [104.18.23.115] [cloudflare] [112.09014ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://devnet-market-api.xportal.com [404] [] [21] [] [137.74.127.149] [358.607975ms] [HSTS]
+https://devnet2-growthbook.xportal.com [404] [] [21] [] [137.74.127.149] [375.873795ms] [HSTS]
+https://devnet-private-anlytics.xportal.com [404] [] [21] [] [137.74.127.149] [449.756197ms] [HSTS]
+https://devnet-api.xportal.com [404] [] [63] [cloudflare] [104.26.7.129] [cloudflare] [461.232296ms] [Cloudflare,Express,HSTS,Node.js]
+https://omni-client-api.testnet.ap-northeast-1.variational.io [404] [] [0] [cloudflare] [104.18.23.115] [cloudflare] [294.517431ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://omni-client-api.prod.ap-northeast-1.variational.io [404] [] [0] [cloudflare] [104.18.22.115] [cloudflare] [289.767134ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://agent-backend.prod.plugins.vultisig.com [404] [] [19] [] [129.212.210.189] [758.117875ms]
+https://agent-backend.dev.plugins.vultisig.com [404] [] [24] [] [146.190.202.250] [788.027795ms]
+https://analytics-dashboard-api.prod.plugins.vultisig.com [404] [] [207] [404 Not Found] [gunicorn] [129.212.210.189] [803.6094ms] [Python,gunicorn]
+https://mcp.dev.plugins.vultisig.com [404] [] [19] [] [146.190.202.250] [768.927244ms]
+https://notification.dev.plugins.vultisig.com [404] [] [24] [] [146.190.202.250] [754.743825ms]
+https://notification.prod.plugins.vultisig.com [404] [] [24] [] [129.212.210.189] [784.065121ms]
+https://argocd.dev.plugins.vultisig.com [404] [] [19] [] [146.190.202.250] [1.031022517s]
+https://agent.vultisig.com [404] [] [24] [cloudflare] [104.26.14.76] [cloudflare] [1.032157856s] [Cloudflare,HTTP/3]
+https://testnet-offlinejobs.xportal.com [404] [] [21] [] [137.74.127.149] [361.062389ms] [HSTS]
+https://testnet-internal-api.xportal.com [404] [] [21] [] [137.74.127.149] [376.007026ms] [HSTS]
+https://testnet-market-api.xportal.com [404] [] [21] [] [137.74.127.149] [391.987276ms] [HSTS]
+https://testnet-private-anlytics.xportal.com [404] [] [21] [] [137.74.127.149] [358.912944ms] [HSTS]
+https://testnet-portal-backoffice.xportal.com [404] [] [21] [] [137.74.127.149] [420.689467ms] [HSTS]
+https://abe.vultisig.com [404] [] [24] [cloudflare] [104.26.14.76] [cloudflare] [1.224516982s] [Cloudflare,HTTP/3]
+https://plugin-developer.prod.plugins.vultisig.com [404] [] [24] [] [129.212.210.189] [794.386357ms]
+https://plugin-dca-send.prod.plugins.vultisig.com [404] [] [24] [] [129.212.210.189] [795.033008ms]
+https://testnet-stats.xportal.com [404] [] [27150] [Not Found] [cloudflare] [104.26.7.129] [cloudflare] [239.459831ms] [Cloudflare]
+https://plugin-fee-server.prod.plugins.vultisig.com [404] [] [24] [] [129.212.210.189] [801.838967ms]
+https://relay-router.dev.plugins.vultisig.com [404] [] [19] [] [146.190.202.250] [791.282976ms]
+https://relay-router.prod.plugins.vultisig.com [404] [] [19] [] [129.212.210.189] [802.214013ms]
+https://plugin-dca-swap.prod.plugins.vultisig.com [404] [] [24] [] [129.212.210.189] [878.407032ms]
+https://verifier.dev.plugins.vultisig.com [404] [] [24] [] [146.190.202.250] [830.742399ms]
+https://verifier.vultisig.com [404] [] [24] [cloudflare] [104.26.14.76] [cloudflare] [1.084736693s] [Cloudflare,HSTS,HTTP/3]
+
+## 500
+
+## 502
+https://omni-ws-server.prod.ap-northeast-1.variational.io [502] [] [16] [cloudflare] [104.18.23.115] [cloudflare] [287.515319ms] [Cloudflare,HTTP/3]
+https://omni-ws-server.testnet.ap-northeast-1.variational.io [502] [] [16] [cloudflare] [104.18.23.115] [cloudflare] [266.726531ms] [Cloudflare,HTTP/3]
+
+## 503
+https://mcp.prod.plugins.vultisig.com [503] [] [20] [] [129.212.210.189] [769.419302ms]
+
