@@ -1,0 +1,4 @@
+[CVE-2024-46310] [http] [medium] https://documentation.fordefi.com/players.json
+[azure-functions-hostjson-exposure] [http] [medium] https://documentation.fordefi.com/host.json
+[nexus-repository-anonymous-access] [http] [medium] https://documentation.fordefi.com/service/rest/v1/repositories
+[CVE-2023-6592] [http] [medium] https://documentation.fordefi.com/wp-content/plugins/fastdup/logs/
