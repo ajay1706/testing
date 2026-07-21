@@ -1,0 +1,3 @@
+[gitlab-ci-yml] [http] [medium] https://static.edgex.exchange/.gitlab-ci.yml
+[gitlab-ci-yml] [http] [medium] https://static-test.edgex.exchange/.gitlab-ci.yml
+[CVE-2026-32230] [http] [medium] https://status.rime.ai/api/badge/1/ping/24
