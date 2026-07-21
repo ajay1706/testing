@@ -1,0 +1,11 @@
+[CVE-2023-5561] [http] [medium] https://kresus.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2023-5561] [http] [medium] https://www.kresus.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2023-6592] [http] [medium] https://documentation.fordefi.com/wp-content/plugins/fastdup/logs/
+[CVE-2024-46310] [http] [medium] https://documentation.fordefi.com/players.json
+[CVE-2025-30208] [http] [medium] https://analytics-mini.kresus.com/etc/passwd?raw
+[CVE-2026-32230] [http] [medium] https://status.rime.ai/api/badge/1/ping/24
+[CVE-2026-39365] [http] [medium] https://analytics-mini.kresus.com/node_modules/.vite/deps/../../../config.production.js.map ["/opt/mini-analytics/config.production.js"]
+[azure-functions-hostjson-exposure] [http] [medium] https://documentation.fordefi.com/host.json
+[gitlab-ci-yml] [http] [medium] https://static-test.edgex.exchange/.gitlab-ci.yml
+[gitlab-ci-yml] [http] [medium] https://static.edgex.exchange/.gitlab-ci.yml
+[nexus-repository-anonymous-access] [http] [medium] https://documentation.fordefi.com/service/rest/v1/repositories
