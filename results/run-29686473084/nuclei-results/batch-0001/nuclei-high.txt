@@ -1,0 +1,1 @@
+[CVE-2026-39364] [http] [high] https://analytics-mini.kresus.com/.env?raw??
