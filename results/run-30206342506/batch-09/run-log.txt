@@ -1,0 +1,14 @@
+[+] Batch started: Sun Jul 26 14:40:02 UTC 2026
+[+] Run ID: 30206342506
+[+] Batch name: batch-09
+[+] Batch targets:
+intentify.xyz
+kiln.fi
+lens.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Sun Jul 26 14:40:53 UTC 2026
+[+] HTTPX input count: 814
+[+] Running httpx...
+[+] httpx completed: Sun Jul 26 14:44:17 UTC 2026
+[+] httpx line count: 134
+[+] Batch completed: Sun Jul 26 14:44:17 UTC 2026
