@@ -1,0 +1,2 @@
+https://game.megaeth.com [308] [/crossy-fluffle] [15] [cloudflare] [104.18.9.172] [cloudflare] [172.189343ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Vercel]
+https://megaeth.com [308] [https://www.megaeth.com/] [15] [cloudflare] [104.18.9.172] [cloudflare] [147.229171ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Vercel]
