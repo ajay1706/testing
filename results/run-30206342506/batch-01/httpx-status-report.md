@@ -1,0 +1,71 @@
+# HTTPX Status Report
+
+Generated at: Sun Jul 26 14:36:22 UTC 2026
+
+HTTPX lines: 52
+Live URLs: 52
+
+## 200
+https://gov.bio.xyz [200] [] [2318] [Common] [Heroku] [3.33.148.61] [172.799992ms] [Adobe Fonts,Express,Google Analytics,Node.js,Typekit]
+https://ftm.beets.fi [200] [] [560] [Beethoven X - Fantom Exit UI] [Vercel] [216.150.16.193] [368.077186ms] [HSTS,Vercel]
+https://bridge.bio.xyz [200] [] [5930] [BIO Bridge] [Vercel] [66.33.60.193] [279.161457ms] [HSTS,Vercel]
+https://fleet.bio.xyz [200] [] [1724] [Fleet · Bio Project Monitoring] [] [46.101.154.129] [496.121249ms] [HSTS,HTTP/3]
+https://api.reporting.bio.xyz [200] [] [12829] [Reporting API] [Vercel] [216.150.1.129] [430.614178ms] [HSTS,Vercel]
+https://api.id.bio.xyz [200] [] [12991] [ID API] [Vercel] [216.150.1.193] [383.207231ms] [HSTS,Vercel]
+https://brand.beets.fi [200] [] [28107] [Beets. Brand Assets] [GitHub.com] [185.199.111.153] [251.699326ms] [Fastly,GitHub Pages,Google Analytics,Lightbox,Slick,Varnish,jQuery Migrate:1.4.1,jQuery:3.3.1]
+https://api.notifications.bio.xyz [200] [] [13333] [Notifications API] [Vercel] [216.150.1.129] [510.523103ms] [HSTS,Vercel]
+https://api-buildspace.bio.xyz [200] [] [14616] [Buildspace API] [Vercel] [216.150.1.193] [528.425862ms] [HSTS,Vercel]
+https://tokenlists.bio.xyz [200] [] [106] [Vercel] [216.150.1.193] [210.048579ms] [HSTS,Vercel]
+https://docs.beets.fi [200] [] [42456] [Introduction – Beets] [Vercel] [216.150.1.129] [324.905882ms] [HSTS,React,Vercel]
+https://docs-test.beets.fi [200] [] [42597] [Introduction – Beets] [Vercel] [216.150.1.193] [439.947627ms] [HSTS,React,Vercel]
+https://launch-model.bio.xyz [200] [] [38000] [Vercel] [216.150.1.129] [448.071909ms] [HSTS,Vercel]
+https://lbp.beets.fi [200] [] [43210] [LBP Simulator | Beets] [Vercel] [216.150.1.193] [558.543416ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://x402.chat.bio.xyz [200] [] [13333] [BIOS x402 Service] [Vercel] [216.150.16.193] [644.663446ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://openlabs-admin.bio.xyz [200] [] [53307] [Dashboard] [Vercel] [216.150.1.1] [633.020926ms] [HSTS,Vercel]
+https://x402.ai.bio.xyz [200] [] [13333] [BIOS x402 Service] [Vercel] [216.150.16.129] [1.230347779s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://openlabs.bio.xyz [200] [] [102144] [Bio OpenLabs / Open scientific collaboration] [Vercel] [216.150.1.193] [261.055945ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://buildspace.bio.xyz [200] [] [62860] [Bio Buildspace] [Vercel] [216.150.1.1] [1.228515942s] [HSTS,Vercel]
+https://buildspace-admin.bio.xyz [200] [] [65941] [BIO • Buildspace Admin] [Vercel] [216.150.1.193] [1.403780404s] [HSTS,Vercel]
+https://canary.beets.fi [200] [] [176821] [Beets] [Vercel] [216.150.1.193] [995.227567ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.bio.xyz [200] [] [167722] [Bio • Accelerate Science] [cloudflare] [198.202.211.1] [522.800453ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,dc.js,jQuery:3.5.1,jsDelivr,reCAPTCHA]
+https://petri.bio.xyz [200] [] [216624] [Petri by BIO] [Vercel] [216.150.1.193] [731.926023ms] [HSTS,Vercel]
+https://ai.bio.xyz [200] [] [363172] [BIOS · Design new medicines from a prompt] [Vercel] [216.150.1.193] [151.546189ms] [HSTS,Vercel]
+https://index.bio.xyz [200] [] [609885] [Bio Open Science Index] [Vercel] [216.150.1.1] [569.056542ms] [HSTS,Next.js,Node.js,React,Snowplow Analytics,Vercel,Webpack]
+https://auctions.bio.xyz [200] [] [1025227] [bio.xyz Launchpad] [Vercel] [66.33.60.193] [7.187535814s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://apply.bio.xyz [301] [https://buildspace.bio.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.4.8] [cloudflare] [54.679761ms] [Cloudflare]
+https://bio.xyz [301] [https://www.bio.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [266.588082ms] [Cloudflare,HSTS,HTTP/3]
+https://intake.bio.xyz [301] [https://buildspace.bio.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.131.112] [cloudflare] [227.081852ms] [Cloudflare]
+
+## 302
+https://dev-testnet.launchpad.bio.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev-testnet.launchpad.bio.xyz%2F&nonce=a191adfb82e5fcf848ba13a08be03200f62099b05ba3da6e3550d91473db493b] [15] [Vercel] [66.33.60.194] [276.804052ms] [HSTS,Vercel]
+https://bitsmiley.io [302] [https://www.bitsmiley.io] [0] [Squarespace] [198.49.23.145] [325.097143ms] [Squarespace,Squarespace Commerce]
+https://launcher.bio.xyz [302] [https://curly-pine-77d3.cloudflareaccess.com/cdn-cgi/access/login/launcher.bio.xyz?kid=ea9ea98e7ea31479cbb794927f52ead9ed5528ba25a50cd5101e0667913e673f&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjY5NmMwNmFlNDg4MDZhYTY5M2JmZmE4YWJlNDExY2I2MWQ4YmY4NGY2NDJkMmIwZjJkZmI2YWZlNjk4N2E3YTAifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImVhOWVhOThlN2VhMzE0NzljYmI3OTQ5MjdmNTJlYWQ5ZWQ1NTI4YmEyNWE1MGNkNTEwMWUwNjY3OTEzZTY3M2YiLCJob3N0bmFtZSI6ImxhdW5jaGVyLmJpby54eXoiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc4NTA3Njg2MiwibmJmIjoxNzg1MDc2NTYyLCJpYXQiOjE3ODUwNzY1NjIsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJhMDQ3MjIzODUzNTA3ZjZjNjgwYTc2MWVjMjRkNTc4ZTE3MjIzNGM3NzE2NjIyNzcyMjkxNDQ2N2YzZTQ5ZDc3In0.RrBJk9-gxyDoXfXt9DsYVRDU4fKyd8fP_EfPJKQdBkPm6bzTavYrLM0a902RlN1h1SGLxS9gN4xAFQxISOxJuOa8VDGwwv53iFwowkx6Q-A7y0eE-seLiwVzikzw4yF07tnX5D7D0W1p3oF-42Ovjwqqi32PEyVMDFFQX1KnoGxY-AMG3VhQW1SPndTRUYJEnVftSCSr4JO2wJFRVHRPCng_PxedY-SMGqghcoAo2VhCa491g16YUmukkjHG8VGmd9XJVLs0AZNt86jpQzmS4pLYQVST5eFh4wRvqWDYdKJikloZ7r7te2eZaCYhKYT7f-dJ4QvVDUC17znNZ5rcEA&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.21.4.8] [cloudflare] [167.813616ms] [Cloudflare,HTTP/3]
+https://dev-launchpad.bio.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev-launchpad.bio.xyz%2F&nonce=ac1471d25ff977430785f7e2eccde09d8440184482d8b87b0b2bc921962b4da7] [15] [Vercel] [66.33.60.194] [453.861458ms] [HSTS,Vercel]
+
+## 307
+https://api.openlabs.bio.xyz [307] [/api/v1/health] [15] [Vercel] [216.150.1.129] [238.757152ms] [HSTS,Vercel]
+https://docs.bio.xyz [307] [https://docs.bio.xyz/bio/] [15] [cloudflare] [104.18.40.47] [cloudflare] [369.049394ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://launchpad.bio.xyz [307] [https://auctions.bio.xyz/] [15] [Vercel] [76.76.21.98] [266.166465ms] [HSTS,Vercel]
+https://testnet.bio.xyz [307] [/markets] [15] [Vercel] [66.33.60.130] [203.639592ms] [HSTS,Vercel]
+
+## 308
+http://agents.bio.xyz [308] [https://agents.bio.xyz:18800/] [0] [Caddy] [46.101.244.233] [217.86274ms] [Caddy]
+
+## 401
+https://admin.app.bio.xyz [401] [] [23] [Vercel] [216.150.1.129] [189.298191ms] [Basic,HSTS,Vercel]
+
+## 403
+
+## 404
+https://email.bio.xyz [404] [] [19] [] [34.102.239.211] [google] [313.650604ms]
+https://api.ai.bio.xyz [404] [] [22] [uvicorn] [63.177.167.232] [676.925034ms] [Python,Uvicorn]
+
+## 500
+https://testnet.launchpad.bio.xyz [500] [] [6401] [bio.xyz Launchpad] [Vercel] [76.76.21.142] [2.770337102s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 502
+
+## 503
+
