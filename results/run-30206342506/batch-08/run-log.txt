@@ -1,0 +1,14 @@
+[+] Batch started: Sun Jul 26 14:38:22 UTC 2026
+[+] Run ID: 30206342506
+[+] Batch name: batch-08
+[+] Batch targets:
+hibachi.xyz
+infinex.xyz
+init.capital
+[+] Running subfinder...
+[+] Subfinder completed: Sun Jul 26 14:39:46 UTC 2026
+[+] HTTPX input count: 158
+[+] Running httpx...
+[+] httpx completed: Sun Jul 26 14:40:08 UTC 2026
+[+] httpx line count: 90
+[+] Batch completed: Sun Jul 26 14:40:08 UTC 2026

@@ -1,0 +1,5 @@
+https://init.capital [301] [https://app.init.capital/] [526] [301 Moved Permanently] [cloudflare] [172.67.157.53] [cloudflare] [80.998943ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://perps.app.infinex.xyz [301] [https://pro.app.infinex.xyz/] [15] [Vercel] [216.230.84.1] [216.783571ms] [HSTS,Vercel]
+https://support.hibachi.xyz [301] [https://support.hibachi.xyz/portal/en/newticket] [0] [ZGS] [136.143.190.74] [565.989562ms] [HSTS,Java]
+https://www.hibachi.xyz [301] [https://hibachi.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.102] [cloudflare] [185.587101ms] [Cloudflare,HSTS]
+https://www.init.capital [301] [https://app.init.capital/] [526] [301 Moved Permanently] [cloudflare] [104.21.74.107] [cloudflare] [140.36626ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
