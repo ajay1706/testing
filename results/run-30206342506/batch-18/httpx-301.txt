@@ -1,0 +1,4 @@
+https://app.xlink.network [301] [https://brotocol.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.11.35] [cloudflare] [50.316291ms] [Cloudflare]
+https://www.xlink.network [301] [https://brotocol.xyz/about] [167] [301 Moved Permanently] [cloudflare] [104.21.11.35] [cloudflare] [62.348291ms] [Cloudflare]
+https://docs.xlink.network [301] [https://docs.brotocol.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.165.29] [cloudflare] [65.171151ms] [Cloudflare]
+https://xlink.network [301] [https://www.xlink.network/] [166] [301 Moved Permanently] [] [75.2.70.75] [214.226257ms] [HSTS]
