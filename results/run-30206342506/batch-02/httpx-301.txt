@@ -1,0 +1,5 @@
+https://boundless.xyz [301] [https://www.boundless.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.18.36.24] [cloudflare] [40.360513ms] [Cloudflare,HTTP/3]
+https://loyalty.campnetwork.xyz [301] [https://claims.campnetwork.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.62] [cloudflare] [42.532763ms] [Cloudflare]
+https://testnet.campnetwork.xyz [301] [https://claims.campnetwork.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.20.39.143] [cloudflare] [55.100729ms] [Cloudflare]
+https://www.bitvm.org [301] [https://bitvm.org/] [162] [301 Moved Permanently] [GitHub.com] [185.199.108.153] [615.689002ms] [Fastly,GitHub Pages,Varnish]
+http://maitrix-backend.campnetwork.xyz [301] [https://maitrix-backend.campnetwork.xyz/] [0] [] [69.46.46.109] [16.767982ms]
