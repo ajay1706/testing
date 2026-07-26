@@ -1,0 +1,93 @@
+# HTTPX Status Report
+
+Generated at: Sun Jul 26 14:41:06 UTC 2026
+
+HTTPX lines: 64
+Live URLs: 64
+
+## 200
+https://claim.fluence.network [200] [] [655] [Fluence dev rewards] [Vercel] [76.76.21.142] [50.185742ms] [HSTS,Vercel]
+https://euphoria.finance [200] [] [3805] [Euphoria] [] [199.36.158.100] [73.313361ms] [Firebase,HSTS,HTTP/3]
+https://docs.farcaster.xyz [200] [] [18929] [Farcaster Docs] [Vercel] [76.76.21.142] [96.064784ms] [Google Analytics,HSTS,Vercel]
+https://farcaster.xyz [200] [] [4095] [Farcaster] [cloudflare] [104.21.28.145] [cloudflare] [261.223499ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://careers.euphoria.finance [200] [] [18169] [Notion] [cloudflare] [208.103.161.32] [152.832496ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,hCaptcha]
+https://miniapps.farcaster.xyz [200] [] [26736] [Farcaster Mini Apps] [Vercel] [76.76.21.98] [100.281348ms] [Fathom,HSTS,Vercel]
+https://pointless.fluence.network [200] [] [8254] [Pointless Program by Fluence] [Vercel] [76.76.21.93] [52.82004ms] [Google Analytics,HSTS,Vercel]
+https://providers.fluence.network [200] [] [1006] [Fluence Provider App] [Vercel] [66.33.60.194] [156.801558ms] [HSTS,Vercel]
+https://mainnet.euphoria.finance [200] [] [3805] [Euphoria] [] [199.36.158.100] [276.949937ms] [Firebase,HSTS,HTTP/3]
+https://admin.fluence.network [200] [] [2238] [Fluence Admin] [cloudflare] [172.67.195.206] [cloudflare] [652.515071ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://snapchain.farcaster.xyz [200] [] [18958] [What is Snapchain?] [Vercel] [66.33.60.66] [77.242694ms] [HSTS,Vercel]
+https://wallet.farcaster.xyz [200] [] [1744] [farcaster-wallet] [cloudflare] [172.67.170.223] [cloudflare] [377.410226ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://testnet.euphoria.finance [200] [] [3805] [Euphoria] [] [199.36.158.100] [738.522776ms] [Firebase,HSTS,HTTP/3]
+https://avatar.testnet.euphoria.finance [200] [] [94076] [UploadServer] [34.54.139.218] [google] [594.720357ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://gov.fluence.network [200] [] [216106] [Fluence DAO] [cloudflare] [172.67.195.206] [cloudflare] [558.16991ms] [Cloudflare,Cloudflare Browser Insights,Discourse:2026.7.0,HSTS,HTTP/3,Ruby on Rails]
+https://avatar.mainnet.euphoria.finance [200] [] [154202] [UploadServer] [34.54.254.241] [google] [1.031947805s] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://auctions.fluence.network [200] [] [240884] [Fluence GPU Marketplace: reserved GPU compute, matched by auction] [cloudflare] [172.67.195.206] [cloudflare] [1.192609835s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://flt.fluence.network [200] [] [30318] [Fluence Token App] [cloudflare] [104.21.65.246] [cloudflare] [2.601177599s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,dc.js]
+https://docs.euphoria.finance [200] [] [528081] [How To Tap Trade | Euphoria] [cloudflare] [172.64.147.209] [cloudflare] [193.327869ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://www.fluence.network [200] [] [2531123] [Slash your cloud bill by up to 85% with Fluence] [cloudflare] [172.67.195.206] [cloudflare] [365.771309ms] [Cloudflare,Cloudflare Browser Insights,Framer Sites,Google Analytics,HSTS,HTTP/3,React]
+
+## 301
+https://blog.fluence.network [301] [https://fluence.network/blog] [167] [301 Moved Permanently] [cloudflare] [172.67.195.206] [cloudflare] [42.523209ms] [Cloudflare]
+https://go.fluence.network [301] [https://go.fluence.network/index.html] [0] [] [136.65.175.28] [google] [291.379358ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+http://race.fluence.network [301] [https://race.fluence.network/] [162] [301 Moved Permanently] [nginx] [44.229.220.222] [87.916582ms] [Nginx]
+https://link.farcaster.xyz [301] [https://linklyhq.com/no-default-redirect?domain=link.farcaster.xyz] [132] [] [34.133.74.21] [google] [568.600262ms] [HSTS]
+https://www.farcaster.xyz [301] [https://farcaster.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.28.145] [cloudflare] [95.04388ms] [Cloudflare,HSTS,HTTP/3]
+https://stake.fluence.network [301] [https://flt.fluence.network/stake] [521] [301 Moved Permanently] [cloudflare] [104.21.65.246] [cloudflare] [722.211027ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 302
+https://debug.mainnet.euphoria.finance [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=702104458773-4c3chcq2f8jt92bk0iat92bcg10d5ct7.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/702104458773-4c3chcq2f8jt92bk0iat92bcg10d5ct7.apps.googleusercontent.com:handleRedirect&code_challenge=-4t-RicpB07PtHyfcsc27rRHWntrrVIsvoXmQZ4mbp0&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEnAobGyW5iuROulHAEuuHdbO3lpNWatw7wyaTmIf0GOqFeqQppToFKn3QKU75om5u6RLC0AxFJEPFxrWA0mIZSBZRrGdAUeJXebWBuUAnd7eE3a2Vw6hEoJJPkLxMMF8hKchwf_JK6aYUnQVgl1wVElKOxbmj77UOO_xRdR0gV6_y1n1LlpGUWHwsxo85_PLNhcgLI-sPzf2sCXJIDJORVI7iUEd1IYxBBhI46y0AM5r7PJJEAuIQWwekQ7sryVdNHVsSR-5gBySIUISwpJEvJ1XXKk9oRhyPOIsBaUiWKXBaBWTgTRuF6pd1L2PbK16NIFmuSZ3FtaC7_7ShV4PAR6rxTUKZxrDUNriTC3pnzYiQQU6ZWW6hFQhYjT1opN-vKmNAYBoKpwHc3EaiotioRrjXvtnKHJF3_Mvmp9BxAjejkvk5tMAimuMtUVLNtbDsNvq_Wu6dFMsfxLKPJUahql3Cvqf4KiIV5azMNK_iJu9SPsbZU4oEvq1IqdqAmog_Brf3vVrHRCqgE1WsxHDY0xtvw8MggE_0JFFwWs4vMMoY-kQCzI27cUeTRtZ9jUIG1mYNNKgxnE4-gunXltIzKTuPNar_4aTc4YDDIreDt6QpHtAohI6o0yKQbHkC_ATcOqOrhytzIZ-7abzTWgOkrHCi8RdliTkizK1mkQilVD6pyfWJUuqpS3LxVxfr-DTCYHgP-gMv3fmOqqyx5wtJu_K0tMEtezOqynjqUvpOhoJTPzpYUWstzFphmcwXpBMg286tUxFL9NNboSmZ5X-UUNzaJZxs_elXKp4YI4WG4qaf2r4-aPeEZgDdFtu6ZUlMaSs-dsJeO534eVeWX3F97fsZ7XvrjcO5K4yTRuk3khyyUdM0emLs0_0cz1UW4xAMGsnYerBF8uMXvE0Iy05QBqZsA_aHbmfA0bIl7REdscV6bMbbKB2g8PO7ut1eGoWWJLFNUBfwKazvIPnpsn7BsYocZ9_qg86hX_A5nXPwH2rnbJPsw9cOE8nOeQkwZTkKV1m3V7DsTK12ArnayvWUPmo1QSehPfWZyRq8sjqVr8-GcaIzY_5WL55PJSAb4JdrQwuqEMEhfhPVMufFI9DHvwDr8C2p-ED3Yzg_-rqR53JuQacmkliC6gD4FmCClaAYRSrQ-HGAspVKHTyUAtdnUteOEO75fMDYqB6BvY9KpV9qcRG3dbZhDlWbPQ] [36] [] [34.54.254.241] [google] [218.025616ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://deploy.testnet.euphoria.finance [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com:handleRedirect&code_challenge=QVV25vI0UKju0Tgf72wa1vOng0t6PWH-Q7UHPQgrsJI&code_challenge_method=S256&cred_ref=true&state=AcVHNzoES3cWNTL5J7__M3iDRJ69Ryo2_NzEfvnEEAZ0op9gYzvJQXDcY8MLlAyoHnaRu66KpE5zNxY8F22qfqCBcM03Ge9qgsbn8bBHQIUOeT6jUOKfM4rsBoOuFCLVt0J--qpZ2j6GkmN6ETG--92sHPXiEXWT2wvrw9fhi8EbVsjyWXfrbxWesCdL0i4u5Wn6uf98wweHn8KOVK_6wJD6ehaxpshqCf8AHuUyYDK9rsAz3Q7d145uJ-bVAK_2usvFE0hXf-SDEzl_8SGEVoToiYaBlaRRmCVTGoc6ZhAXwprvWX-ivmJdtij0dFOcLB5Y9hCC2J6l8uLD8sJVijJG8Tr5wadZPPZ2HrJOZrahXqFhf855-UktWnf9yylgWOr3du7mOoIGDIsszJTzpb8kY0kgTknLApwGZqxHSrl9_fG6au-MvDEpWSCeGr_PhiiCjMYNCJF3ZJrOIHguadlu-pufdmBDcKrekUBv9g7O5w00fOg4v7vDXZu_fgzv-LDRsnVewX1ea7ni7eWJLyOrzhyY_I6jF1Ka8xX7rZDLY1gjtxhjvXW7tPea4eKG2jM9m8bdOrIAoD4f26WiLrmFLK3DeA2HxvZqhmEa76_wr-pLfwPxueO453Eq33PDHivfXz3x7vVptgn0X09uP0LHZpP5dasf9x_xns4D89UL4SOMFGU5aE8PcBfysy9H2E4VpsImP9OODjJWz70FgQXruyeBdFaUS3GqFk0BbaP_fNwz3Iq77NkvBKgz1DpQf3FHSrJj4D2-YGbtQqWJJHkJsY0j6SzfIVXKazq9OC3H6BJzcOlWNSAjaHnWkOvHKw8oQlniqNbT_v2yA2r8ck4jomw_3hV1kySPrNdup9J4nSKMc2DUnNWXxfgq6FrLtt4n2weQLvM_A1f0WVlUZzvPjxOArMLo3nEfuJcjVQ2ja71-img46HniM-8zhWimntYeTIHSYtebsMB3ZnIesoKDa8zaw6iqLrNlUatkfSjHejSh42alQ4D0FmxIdtMR6IJVAEVqr2fxp8imKUzevg0z1shUr1I2hzieJFr3BqolgZF4OhS48gLzh-hvNlsrjNs6KQvHo8lZOb1rs6vLCATMh-v6ZcPXMioMPoIZqA5CggHIiwUSaU1rDDHEtG19yzUz6Mq5nTlTiPUlcsZV0BngfpQ9yG4onJeBrAF_E7ufr2wMAS_ojzguClbeSRT0yn8w4Gc] [36] [] [34.54.139.218] [google] [247.820101ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://debug.testnet.euphoria.finance [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=216481739711-8ui7l7v9cd609i99n7afo5j88s71qgb4.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/216481739711-8ui7l7v9cd609i99n7afo5j88s71qgb4.apps.googleusercontent.com:handleRedirect&code_challenge=nbPfZ1g5jAg9ByYtMG6s2L1YjFnwPPK93tPn5DUU4WA&code_challenge_method=S256&cred_ref=true&state=AcVHNzoE-2oD0lsoIr4VPuGrs4mipM_jCRQxthLknHp43rDDVjrIebLJHIMmPOXSFOu5_-QvEu-kOo8Z5RJoUrUJi5bB6sqPhMRfege2iB8iTSUY7ZufqyXekkdfst2WbfbCmHsp-L4xLHgwaPb969gQiIkSmDLCRsxo-wTVL4n1_ct1_vERFwG4EXhG6zXDf9b1zrmTy3nYpmvm2ZfGcNgosRXJi1Phgyzr1cyU15De8oUxigiUFCJj9PKdPnk6GlB90AwE1Bpt1rXcG57BWlR7jxEXXZJyxpRPsHDDO8AaSDMUYpXOLw809F2BT1zShUtaOH5X8rt1onax6ZYE8Zxin4tJjVHah4wKpZizfAZ8LUlbuR1qj523e8ibr_JiXaxRhjFK-SddXZvfbzWITC4IcgTICbzEfB1kcoR-tHR4tOFOmoawah4LlqIWQqo-JWuPV4zC1U-DAC_LSR9zsa11K7aigJ2mZjuJ9Iq56sRI0ScWpfaFMvt53w76FUH7zU-h32aGqHrhgtZP2bxair0KP3ox_2MgY2RfFyeV99vmPexOCkPtV-7If64rUG8gxtoP9sMG6jqZST8M2xtQmBlRz0O8Z9UQdKd0nj7JrbkyYyBgDP7r0oxnPiwyL2k12Dtq4P6yiVPAn80N5QsvqxrGIEbZmW5dGosvw-2yJSEJrniRDxZHu16lb6XPCrqF2OmVs26rD35ld7ee_sD17ld2PQWQ3iLEHrkLXwKDwmuRUjA5Omi42dwLVqRoZmhVIYjgGwGw0TA2iDJKSMBAgrbWBBtelPHi5zhNeMjz_gi1r6VEvQmY49WRQy7iLEXXgYPapUy8j2nD_OkUtOlK7Ig7VS5yjzWOEw3Nc2fO5YvFbkwzp0XI-PPNTX5-YZcSrRuShCnnlLn5pmp_KA7EvQ_ba8Mx8u3s1Cwlm6jyZuM9HjKY_m1tvvVHYKgK2TrkFcjphwz9twUzK-sWWklF8UqC2qjl0GBwUAgvPdHETxrkA5SWp5ydxYBkP9o5p6kP8tUoDOeFN5NXXaQG7IEv4x6sitZ0RLrxgJ_Nh9ICkxNbuThiawtZl20LUev1OrRqBbrRv8irepm9zgH3u9ztEk226_sWxzBUpBYgX0_iTMGhSpCc9Gp3YnRWNXTKZJIOpW5vtJyzu4NZqoW73gfU-IGvVu4Xvu_OedI9VEJcQqJjA-y0zdLEMsHwfFr_0Im8Yg] [36] [] [34.54.139.218] [google] [291.003543ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://deploy.mainnet.euphoria.finance [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com:handleRedirect&code_challenge=DqoLJNKCc0gPp9X86VXGn0ljPBMuIvqXfbrKdJnMm5w&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEAbDO7pTS4lnLqaJAQMjGSOVrLJfo_EIogNOTYcdc43MXsQi0CsThadiyjw0_4EKuw8TMggBAP-bLnZ_BCWMA65MC2BInzmJFBM6s8EVAiXbfERNevHKKoBNz147jvYRKPo2QUH0wV14XwlVkZb6nDsZ7zbULhLBVutx5Q2XXZE7cE1ULJpKIVApwEwKrD65Vgt3cuBW7J88OIKeCZ-d6YYf1aLI8Pu9iqIS9yEPQpUSS8JevyvFYvxTAFSH6qjBswpr3Vm3RE2m9u44AH8PyjD_gbZi2d_CqILg1dCleBJBqnUuzYik22kKJn0E4BqHltKT1fNqz85ozzXUS0kfs9iC1HNKpy4008ORHt3jqd7nsighy6mXY1KDiGvmSkR6FTSmaZqvG4JBR4Krr8Y_nIWgPshwX5-O-oIJkz5D3hxqQgHfWehXsKmHbjbUZzVayCVkYtRiVHaQGFvZxA2b6eFnjYRag9zUUDzhiz1EPOowH_OO4vudq7UVBGGrP3S5qWOnJtIqHwqYYYxxkHwtMasQ06_oJONFN-l4SiH2ZgFnckXazeqBgdxrRZ9BcGEDAn6XR9Yh5NCTHTSkJ8Ju9CajQWWrI0PRsyRmMg0zaLwXtPDirwqqnyGnzJsg2PKFFUR8V5p0Rfu7niVeVvlxzdBDVk67vcI5gJvfSFXCMW24JbgSBWEmwEJndfxzUrVlMeJu6GD5vYxnAQa5tI9dibCONtI7Aab37uAEWIR-GwuTuvLwHCblYveQWYsaGN1um_fEkUUIGbGxC1Ksh6FJMdJwIw8E76c-uYTKDKVSoqxtscwXPQhUVDsErgIlF7PHi7A7XFHIvYKfyP5gkMp0b6LQEV0X0G8jVZhKt6ylmaDMdn_P6dTGJvlji3tM0XBfysOw-hZmUdgGskN33n56NAcjByv2NOJhYrEb0m9sQbq4U7Mn0MZI5GnwATBRvupEk-GPN77do-N72ojnQzMbjUCFYjSjF4Ge8ln4YuPPYNUqjgfrIizMIpnP__vID9NLoAuLqlWy7ai6NYR5sbYgmVj9iTlV7yKnUXG6MW1TDOchYFey4og89DIItVrokruJP2YU-l4baBS5pV_4DuA7pAcU1itZo6mHyZA6PV1-N8Je2labl4G18U-LD-eDLSvZvKXDMePYqPiU4HyR7K5zVnBsu-VfTTdWKrQGZq0ec-8BPjiV3R2_kbMonTrF2YfA] [36] [] [34.54.254.241] [google] [382.841375ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 307
+https://app.euphoria.finance [307] [] [5263] [Euphoria] [Vercel] [76.76.21.93] [541.755049ms] [HSTS,Vercel,dc.js]
+https://console.fluence.network [307] [/public-cloud/compute] [21] [cloudflare] [172.67.195.206] [cloudflare] [672.916023ms] [Cloudflare,HSTS,HTTP/3]
+https://auth.fluence.network [307] [/auth/v1/account] [16] [cloudflare] [104.21.65.246] [cloudflare] [686.703248ms] [Cloudflare,HSTS,HTTP/3]
+https://poc.euphoria.finance [307] [] [5263] [Euphoria] [Vercel] [76.76.21.241] [387.486195ms] [HSTS,Vercel,dc.js]
+
+## 308
+https://fluence.network [308] [https://www.fluence.network/] [64] [cloudflare] [104.21.65.246] [cloudflare] [144.024051ms] [Cloudflare,HSTS,HTTP/3]
+https://www.euphoria.finance [308] [https://euphoria.finance/] [15] [Vercel] [66.33.60.193] [192.3176ms] [HSTS,Vercel]
+http://crackle.farcaster.xyz [308] [https://crackle.farcaster.xyz:3381/] [0] [Caddy] [54.87.204.167] [140.817888ms] [Caddy]
+http://iris.farcaster.xyz [308] [https://iris.farcaster.xyz:3383/] [0] [Caddy] [107.21.184.149] [142.931554ms] [Caddy]
+http://juno.farcaster.xyz [308] [https://juno.farcaster.xyz:3381/] [0] [Caddy] [18.214.165.252] [144.496355ms] [Caddy]
+http://pop.farcaster.xyz [308] [https://pop.farcaster.xyz:3381/] [0] [Caddy] [44.197.255.20] [136.899589ms] [Caddy]
+http://rho.farcaster.xyz [308] [https://rho.farcaster.xyz:3381/] [0] [Caddy] [44.218.110.143] [137.816017ms] [Caddy]
+http://snap.farcaster.xyz [308] [https://snap.farcaster.xyz:3381/] [0] [Caddy] [54.236.164.51] [141.637158ms] [Caddy]
+http://tau.farcaster.xyz [308] [https://tau.farcaster.xyz:3381/] [0] [Caddy] [23.23.151.66] [140.311926ms] [Caddy]
+http://vega.farcaster.xyz [308] [https://vega.farcaster.xyz:3381/] [0] [Caddy] [18.206.50.132] [134.944452ms] [Caddy]
+
+## 401
+
+## 403
+https://dev.euphoria.finance [403] [] [217] [] [34.146.138.128] [google] [416.620278ms]
+https://api.mainnet.euphoria.finance [403] [] [134] [403] [] [34.54.254.241] [google] [661.090666ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://wp-origin.fluence.network [403] [] [330] [403 Forbidden] [nginx] [64.23.255.79] [97.161362ms] [Nginx]
+
+## 404
+https://auth.farcaster.xyz [404] [] [13] [cloudflare] [172.67.170.223] [cloudflare] [57.230768ms] [Cloudflare,HSTS,HTTP/3]
+https://client.farcaster.xyz [404] [] [48] [cloudflare] [172.67.170.223] [cloudflare] [112.351925ms] [Cloudflare,HSTS,HTTP/3]
+https://email.mail.farcaster.xyz [404] [] [19] [] [34.102.239.211] [google] [173.492757ms]
+https://download.farcaster.xyz [404] [] [27150] [Not Found] [cloudflare] [104.21.28.145] [cloudflare] [87.221868ms] [Cloudflare,HSTS,HTTP/3]
+https://fnames.farcaster.xyz [404] [] [498] [Error] [cloudflare] [104.21.28.145] [cloudflare] [242.84065ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js]
+https://api.farcaster.xyz [404] [] [48] [cloudflare] [172.67.170.223] [cloudflare] [276.108994ms] [Cloudflare,HSTS,HTTP/3]
+https://api.testnet.euphoria.finance [404] [] [245] [] [34.54.139.218] [google] [325.96438ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://assets.pointless.fluence.network [404] [] [27150] [Not Found] [cloudflare] [104.21.65.246] [cloudflare] [250.604014ms] [Cloudflare,HTTP/3]
+https://bridge.fluence.network [404] [] [107] [Vercel] [76.76.21.164] [430.946632ms] [HSTS,Vercel]
+https://privy.farcaster.xyz [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [52.406459ms] [Cloudflare,Cloudflare Bot Management]
+https://snap-docs.farcaster.xyz [404] [] [79] [Vercel] [76.76.21.21] [76.085606ms] [HSTS,Vercel]
+https://relay.farcaster.xyz [404] [] [72] [cloudflare] [172.67.170.223] [cloudflare] [141.771987ms] [Cloudflare,HSTS,HTTP/3]
+https://privy.euphoria.finance [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [226.715372ms] [Cloudflare,Cloudflare Bot Management]
+https://mint.farcaster.xyz [404] [] [107] [Vercel] [66.33.60.34] [453.7213ms] [HSTS,Vercel]
+https://stream.farcaster.xyz [404] [] [48] [cloudflare] [172.67.170.223] [cloudflare] [332.360971ms] [Cloudflare,HSTS,HTTP/3]
+https://snap-assets.farcaster.xyz [404] [] [27150] [Not Found] [cloudflare] [104.21.28.145] [cloudflare] [228.790941ms] [Cloudflare,HSTS,HTTP/3]
+https://pointless-api.fluence.network [404] [] [71] [cloudflare] [172.67.195.206] [cloudflare] [1.261191687s] [Cloudflare,HSTS,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
