@@ -1,0 +1,114 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc-gateway-omega.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc-gateway-omega.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc-internal.mezo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc-internal.mezo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc-pdot.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc-pdot.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc-ws-internal.mezo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc-ws-internal.mezo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc-ws.test.mezo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc-ws.test.mezo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.archive-node.union-1.union.build:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.archive-node.union-1.union.build:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.archive.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.archive.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.archive.union-testnet-10.union.build:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.archive.union-testnet-10.union.build:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.assethub.mainnet.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.assethub.mainnet.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.backspin.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.backspin.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.devnet.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.devnet.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.dot.mainnet.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.dot.mainnet.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.florin.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.florin.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.internal.arch.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.internal.arch.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.lens.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.lens.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[kubernetes-fake-certificate] [ssl] [low] rosetta.mainnet.mezo.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.mainnet.mezo.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.mainnet.sei.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.mainnet.sei.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.mainnet.evmos.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.mainnet.evmos.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.mainnet.stride.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.mainnet.stride.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.pell-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.pell-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.mainnet.kava.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.mainnet.kava.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.mainnet.cronos.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.mainnet.cronos.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.mainnet.osmosis.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.mainnet.osmosis.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.provider.cosmos.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.provider.cosmos.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.testnet.allora.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.testnet.allora.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.testnet-dawn-1.astria.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.testnet-dawn-1.astria.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.testnet.sei.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.testnet.sei.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.testnet.celestia.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.testnet.celestia.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.testnet.duality.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.testnet.duality.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.testnet.mezo.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.testnet.mezo.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.testnet.stride.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.testnet.stride.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta.testnet2.saga.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta.testnet2.saga.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc-1-terra.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc-1-terra.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc-arch.testnet.neutron.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc-arch.testnet.neutron.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc-p2p.testnet3.saga.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc-p2p.testnet3.saga.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.0glabs-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.0glabs-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.archway-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.archway-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.archway-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.archway-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.baryon.remedy.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.baryon.remedy.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.bbn-1.babylon-full-node.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.bbn-1.babylon-full-node.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.bbn-1.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.bbn-1.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.bbn-test-2.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.bbn-test-2.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.bbn-test-3.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.bbn-test-3.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.bbn-test-5.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.bbn-test-5.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.bbn-test-6.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.bbn-test-6.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.composable-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.composable-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.devmainnet.story.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.devmainnet.story.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.dydx-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.dydx-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.dydx-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.dydx-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.dymension-blumbus.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.dymension-blumbus.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.dymension-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.dymension-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.dymension-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.dymension-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.ethos-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.ethos-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.haqq-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.haqq-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.kava-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.kava-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.kyve-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.kyve-testnet.tm.p2p.org:443
