@@ -1,0 +1,3 @@
+[ssh-weak-public-key] [javascript] [low] 45329878805b4469.dyndns.dappnode.io:22
+[CVE-2015-1419:version] [tcp] [medium] 80992ad1a80ab756.dyndns.dappnode.io:21 ["3.0.2"]
+[CVE-2021-30047:version] [tcp] [high] 80992ad1a80ab756.dyndns.dappnode.io:21 ["3.0.2"]
