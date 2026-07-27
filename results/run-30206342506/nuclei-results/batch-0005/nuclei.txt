@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://routerprotocol.com/
+[graphiql-exposure] [http] [low] https://query.hangar-testnet.defi.testnet.kiln.fi/
