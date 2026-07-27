@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://auth.dev.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.service.pinax.network/metrics
