@@ -1,0 +1,2 @@
+[smb-shares] [javascript] [low] dce69b7d7178892c.dyndns.dappnode.io:445 ["[print$ sambashare IPC$]"] [DN="dce69b7d7178892c",FQDN="dce69b7d7178892c.dyndns.dappnode.io",Host="dce69b7d7178892c.dyndns.dappnode.io",Hostname="dce69b7d7178892c.dyndns.dappnode.io:445",Port="445",RDN="dce69b7d7178892c.dyndns.dappnode.io",SD="",TLD="dyndns.dappnode.io",password="",username="administrator"]
+[intelbras-dvr-unauth] [http] [low] http://9d62d9b1184e2c84.dyndns.dappnode.io/cap.js
