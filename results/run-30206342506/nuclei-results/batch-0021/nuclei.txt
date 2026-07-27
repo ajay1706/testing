@@ -1,0 +1,89 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] eth-mainnet-test-v1.archive.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eth-mainnet-test-v1.archive.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eth-mainnet-rpc.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eth-mainnet-rpc.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eth-test.archive.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eth-test.archive.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eth.archive.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eth.archive.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eth.backspin.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eth.backspin.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ethereum-mainnet-beta.archive.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ethereum-mainnet-beta.archive.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] evan-app.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] evan-app.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] evan-pnw.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] evan-dendrite.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] evan-pnw.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] evan-dendrite.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] exosama.archive.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] exosama.archive.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer-api.lens.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer-api.lens.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer-api.testnet.lens.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer-api.testnet.lens.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer-beta.test.arch.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer-beta.test.arch.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer-service-indexer.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer-service-indexer.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer-service-processor.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer-service-processor.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer-stats.devnet.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer-stats.devnet.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer-stats.mainnet.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer-stats.mainnet.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://explorer-beta.test.arch.network/metrics
+[unauthenticated-varnish-cache-purge] [http] [low] https://euphoria.finance
+[expired-ssl] [ssl] [low] eth-mainnet-test-v1.archive.subsquid.io:443 ["2025-10-11 04:59:45 +0000 UTC"]
+[expired-ssl] [ssl] [low] eth-test.archive.subsquid.io:443 ["2025-10-11 04:59:45 +0000 UTC"]
+[expired-ssl] [ssl] [low] eth.archive.subsquid.io:443 ["2025-10-11 04:59:45 +0000 UTC"]
+[expired-ssl] [ssl] [low] ethereum-mainnet-beta.archive.subsquid.io:443 ["2025-10-11 04:59:45 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] ethos-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] ethos-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.bbn-1.babylon-full-node.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.bbn-1.babylon-full-node.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.bbn-1.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.bbn-1.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.bbn-test-5.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.bbn-test-5.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.bbn-test-6.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.bbn-test-6.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.dydx-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.dydx-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.haqq-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.haqq-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.mainnet.kava.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.mainnet.kava.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.mainnet.osmosis.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.mainnet.osmosis.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.testnet.allora.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.testnet.allora.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-ws.mainnet.mezo.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-ws.mainnet.mezo.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.bbn-1.babylon-full-node.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.bbn-1.babylon-full-node.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.bbn-1.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.bbn-1.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.bbn-test-5.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.bbn-test-5.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.bbn-test-6.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.bbn-test-6.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.devmainnet.story.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.devmainnet.story.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.dydx-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.dydx-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.mainnet.allora.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.mainnet.allora.tm.p2p.org:443
+[expired-ssl] [ssl] [low] exosama.archive.subsquid.io:443 ["2025-10-11 04:59:45 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] evm.mainnet.kava.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.mainnet.kava.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.mainnet.osmosis.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.mainnet.osmosis.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.testnet-dawn-1.astria.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.testnet-dawn-1.astria.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.testnet.mezo.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.testnet.mezo.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evmos-mainnet-api.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evmos-mainnet-api.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evmos-mainnet-rpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evmos-mainnet-rpc.tm.p2p.org:443
