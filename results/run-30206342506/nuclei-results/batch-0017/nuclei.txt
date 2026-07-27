@@ -1,0 +1,64 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] collectives.archive.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] composable-finance.archive.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] comehome.mezo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] collectives.archive.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] comehome.mezo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] composable-finance.archive.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] compose.goldsky.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] compose.goldsky.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] console.fluence.network:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] console.fluence.network:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] crab.archive.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] crab.archive.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] crust-shadow.archive.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] crust-shadow.archive.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] crust.archive.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] crust.archive.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ctr-api.mainnet.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ctr-api.mainnet.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] curve.tac.build:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] curve.tac.build:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[apache-server-status] [http] [low] https://d18614d71675c2b1.dyndns.dappnode.io/server-status
+[expired-ssl] [ssl] [low] collectives.archive.subsquid.io:443 ["2025-10-11 04:59:45 +0000 UTC"]
+[expired-ssl] [ssl] [low] composable-finance.archive.subsquid.io:443 ["2025-10-11 04:59:45 +0000 UTC"]
+[expired-ssl] [ssl] [low] content-preview.infinex.xyz:443 ["2026-02-03 03:20:39 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] composable-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] composable-testnet.tm.p2p.org:443
+[expired-ssl] [ssl] [low] contest.superseed.xyz:443 ["2026-04-20 02:18:13 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-archive-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-archive-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-archive-rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-archive-rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-archive-archive.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-archive-archive.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-archive-archive-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-archive-archive-grpc.tm.p2p.org:443
+[expired-ssl] [ssl] [low] crab.archive.subsquid.io:443 ["2025-10-11 04:59:45 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-archive.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-archive.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-full-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-full-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-full-rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-full-rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-full.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-full.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-testnet-sentry.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-testnet-sentry.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-testnet-sentry-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-testnet-sentry-grpc.tm.p2p.org:443
+[expired-ssl] [ssl] [low] crust-shadow.archive.subsquid.io:443 ["2025-10-11 04:59:45 +0000 UTC"]
+[expired-ssl] [ssl] [low] crust.archive.subsquid.io:443 ["2025-10-11 04:59:45 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] crynux-10000-2.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] crynux-10000-2.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] crynux-10000-1.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] crynux-10000-1.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] crynux-10000-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] crynux-10000-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] crynux-10000-rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] crynux-10000-rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] crynux-10000-json-rpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] crynux-10000-json-rpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] crynux-10000-ws.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] crynux-10000-ws.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] d2.d1.d0.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] d2.d1.d0.tm.p2p.org:443
