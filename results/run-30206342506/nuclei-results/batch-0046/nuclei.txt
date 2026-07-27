@@ -1,0 +1,34 @@
+[phpinfo-files] [http] [low] https://stake-fjv-grpc.ib-local.dev.skip.build/info.php ["8.2.30"] [paths="/info.php"]
+[ssh-cbc-mode-ciphers] [javascript] [low] stake-xmm-grpc.ib-local.dev.skip.build:22
+[ssh-cbc-mode-ciphers] [javascript] [low] stake-xmm-lcd.ib-local.dev.skip.build:22
+[ssh-cbc-mode-ciphers] [javascript] [low] stake-xmm-rpc.ib-local.dev.skip.build:22
+[ssh-weakkey-exchange-algo] [javascript] [low] stake-xmm-grpc.ib-local.dev.skip.build:22
+[ssh-weakkey-exchange-algo] [javascript] [low] stake-xmm-lcd.ib-local.dev.skip.build:22
+[ssh-weakkey-exchange-algo] [javascript] [low] stake-xmm-rpc.ib-local.dev.skip.build:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.graphql.union.build:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging-wallet-relay-testnet-worker.megaeth.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.graphql.union.build:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging-wallet-relay-testnet-worker.megaeth.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.atlas.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.atlas.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.nexus.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.saturnbtc.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.nexus.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.saturnbtc.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stake-testnet.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stake-testnet.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2026-25892:version] [http] [high] https://stake-cqk-grpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-cqk-rpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-hab-lcd.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-hab-rpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[graphiql-exposure] [http] [low] https://staging.graphql.union.build
+[wp-user-enum] [http] [low] https://stake-upj-grpc.ib-local.dev.skip.build/wp-json/wp/v2/users/
+[wp-user-enum] [http] [low] https://stake-upj-rpc.ib-local.dev.skip.build/wp-json/wp/v2/users/
+[expired-ssl] [ssl] [low] stake-fjv-grpc.ib-local.dev.skip.build:443 ["2026-06-23 17:54:47 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] stake-pql-grpc.ib-local.dev.skip.build:443
+[self-signed-ssl] [ssl] [low] stake-pql-lcd.ib-local.dev.skip.build:443
+[self-signed-ssl] [ssl] [low] stake-pql-rpc.ib-local.dev.skip.build:443
+[self-signed-ssl] [ssl] [low] stake-vjl-grpc.ib-local.dev.skip.build:443
+[expired-ssl] [ssl] [low] stake-xmm-grpc.ib-local.dev.skip.build:443 ["2025-12-27 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] stake-xmm-lcd.ib-local.dev.skip.build:443 ["2025-12-27 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] stake-xmm-rpc.ib-local.dev.skip.build:443 ["2025-12-27 23:59:59 +0000 UTC"]
