@@ -1,0 +1,3 @@
+[CVE-2022-0952] [http] [high] https://neon-proxy-mainnet.solana.p2p.org/wp-json/click5_sitemap/API/update_html_option_AJAX
+[CVE-2022-0952] [http] [high] https://neon-proxy-mainnet.solana.p2p.org/wp-json/click5_sitemap/API/update_html_option_AJAX
+[CVE-2025-55184] [http] [high] https://manifesto.arch.network
