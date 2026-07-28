@@ -1,0 +1,34 @@
+[CVE-2015-1419:version] [tcp] [medium] 80992ad1a80ab756.dyndns.dappnode.io:21 ["3.0.2"]
+[CVE-2020-28185] [http] [medium] https://check.allnodes.com/tos/index.php?user/login
+[CVE-2023-6592] [http] [medium] https://snapshots.citrea.xyz/wp-content/plugins/fastdup/logs/
+[CVE-2024-13126] [http] [medium] https://snapshots.citrea.xyz/wp-content/uploads/download-manager-files/
+[CVE-2024-2340] [http] [medium] https://snapshots.citrea.xyz/wp-content/uploads/fusion-forms/
+[behat-config] [http] [medium] https://38f4bd8eead9a2b3.dyndns.dappnode.io/behat.yml.dist
+[cobbler-exposed-directory] [http] [medium] https://snapshots.citrea.xyz/cblr/
+[cobbler-exposed-directory] [http] [medium] https://snapshots.citrea.xyz/cobbler/
+[coldfusion-cfide-dir-listing] [http] [medium] https://snapshots.citrea.xyz/CFIDE/
+[configuration-listing] [http] [medium] https://snapshots.citrea.xyz/config/
+[exposed-vscode] [http] [medium] https://snapshots.citrea.xyz/.vscode/
+[glpi-directory-listing] [http] [medium] https://snapshots.citrea.xyz/glpi/files/
+[joomla-file-listing] [http] [medium] https://snapshots.citrea.xyz/libraries/joomla/database/
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.arch.network [""VITE_STYTCH_SUBMIT_URL":"tw-bt.beehiiv.com"",""VITE_STYTCH_TELEMETRY_URL":"https://elements.stytch.com/telemetry.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_HUMAN_ENABLED":"true"",""VITE_STYTCH_DEVICE_FINGERPRINTING_ENABLED":"true"",""VITE_STYTCH_PUBLIC_TOKEN":"public-token-live-bb368f5c-d1e6-477a-b194-cba5627e95f1"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js""]
+[nexus-repository-anonymous-access] [http] [medium] https://check.allnodes.com/service/rest/v1/repositories
+[open-redirect-generic] [http] [medium] https://38c205205e3fb72e.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://4ec85751da30c8b7.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://546c2aee260ea1d9.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://66478f08737a8b87.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://8c2bbde118c250d9.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[prometheus-metrics] [http] [medium] https://180abb63f9f9525b.dyndns.dappnode.io/metrics
+[prometheus-metrics] [http] [medium] https://auth.dev.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.service.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://cloud.service.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://dummy-exporter.perseverance.chainflip.io/metrics
+[prometheus-metrics] [http] [medium] https://explorer-beta.test.arch.network/metrics
+[prometheus-metrics] [http] [medium] https://explorer.arch.network/metrics
+[prometheus-metrics] [http] [medium] https://status.dappnode.io/metrics
+[prometheus-metrics] [http] [medium] https://v2.archive.subsquid.io/metrics
+[prometheus-metrics] [http] [medium] https://wildcard.180abb63f9f9525b.dyndns.dappnode.io/metrics
+[smb-signing] [javascript] [medium] dce69b7d7178892c.dyndns.dappnode.io:445
+[ssh-weak-algo-supported] [javascript] [medium] wildcard.2a257d1bc7d3660b.dyndns.dappnode.io:22
+[unauthenticated-duplicator-disclosure] [http] [medium] https://snapshots.citrea.xyz/wp-content/backups-dup-lite/tmp/
