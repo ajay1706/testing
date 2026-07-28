@@ -1,0 +1,2 @@
+[ssh-weak-algo-supported] [javascript] [medium] wildcard.2a257d1bc7d3660b.dyndns.dappnode.io:22
+[prometheus-metrics] [http] [medium] https://wildcard.180abb63f9f9525b.dyndns.dappnode.io/metrics

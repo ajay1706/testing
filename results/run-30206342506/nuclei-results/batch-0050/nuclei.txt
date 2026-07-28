@@ -1,0 +1,65 @@
+[ssh-cbc-mode-ciphers] [javascript] [low] wildcard.2a257d1bc7d3660b.dyndns.dappnode.io:22
+[ssh-weak-algo-supported] [javascript] [medium] wildcard.2a257d1bc7d3660b.dyndns.dappnode.io:22
+[ssh-weak-mac-algo] [javascript] [low] wildcard.2a257d1bc7d3660b.dyndns.dappnode.io:22
+[ssh-weakkey-exchange-algo] [javascript] [low] wildcard.2a257d1bc7d3660b.dyndns.dappnode.io:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] walrus.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wallet.farcaster.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] walrus.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wallet.farcaster.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] websocket-hub.xlink.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] websocket-hub.xlink.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] westend-collectives.archive.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] westend-collectives.archive.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] widget.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] widget.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] widget.testnet.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] widget.testnet.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wiki.subsquid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wiki.subsquid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wildcard.17bc093e63403e72.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wildcard.17bc093e63403e72.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wildcard.2a257d1bc7d3660b.dyndns.dappnode.io:443 ["[tls10 TLS_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wordpress.freename.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wordpress.freename.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] worker.points.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] worker.points.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] worker.dollar.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] worker.dollar.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] worker.express.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] worker.express.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[wp-user-enum:usernames] [http] [low] https://wildcard.c0f7b2d2b6b13a6a.dyndns.dappnode.io/wp-json/wp/v2/users/ ["wkp-aadmin","WkP-Aadmin"]
+[prometheus-metrics] [http] [medium] https://wildcard.180abb63f9f9525b.dyndns.dappnode.io/metrics
+[postgres-exporter-metrics] [http] [low] https://wildcard.180abb63f9f9525b.dyndns.dappnode.io/metrics
+[python-metrics] [http] [low] https://wildcard.180abb63f9f9525b.dyndns.dappnode.io/metrics
+[expired-ssl] [ssl] [low] westend-collectives.archive.subsquid.io:443 ["2025-10-11 04:59:45 +0000 UTC"]
+[expired-ssl] [ssl] [low] wildcard.007a3e9d5925263e.dyndns.dappnode.io:443 ["2025-05-29 14:20:44 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] wildcard.007a3e9d5925263e.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] wildcard.0e80f9deef7353fb.dyndns.dappnode.io:443 ["2025-05-29 14:20:44 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] wildcard.0e80f9deef7353fb.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] web-git-feat-increase-caching.paragraph.xyz:443 ["2025-12-31 02:53:19 +0000 UTC"]
+[expired-ssl] [ssl] [low] wildcard.17bc093e63403e72.dyndns.dappnode.io:443 ["2026-07-27 14:52:27 +0000 UTC"]
+[expired-ssl] [ssl] [low] webmail.subsquid.io:443 ["2021-11-01 23:37:38 +0000 UTC"]
+[expired-ssl] [ssl] [low] wildcard.2a257d1bc7d3660b.dyndns.dappnode.io:443 ["2018-10-07 20:12:54 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] wildcard.2a257d1bc7d3660b.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.11085d41527af562.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] wildcard.5037ebddba99cade.dyndns.dappnode.io:443 ["2026-06-21 13:48:35 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] wildcard.5d7031f676f5d957.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.6962a458b6e154bb.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.1ef404ed43032681.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.e5ba4a6e4bb46874.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] wildcard.docs.paragraph.xyz:443 ["2025-12-30 12:03:52 +0000 UTC"]
+[expired-ssl] [ssl] [low] wildcard.paragraph.xyz:443 ["2025-12-31 02:53:19 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] wildcard.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wildcard.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] wormchain-mainnet-1-full-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wormchain-mainnet-1-full-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] wormchain-mainnet-1-full-old-endpoint.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wormchain-mainnet-1-full-old-endpoint.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] wormchain-mainnet-1-full-rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wormchain-mainnet-1-full-rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] wormchain-mainnet-1-full-ws-rpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wormchain-mainnet-1-full-ws-rpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] wormchain-mainnet-1-full-ws.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wormchain-mainnet-1-full-ws.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] wormchain-mainnet-1-full.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wormchain-mainnet-1-full.tm.p2p.org:443
