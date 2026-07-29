@@ -1,0 +1,58 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul 29 03:09:24 UTC 2026
+
+HTTPX lines: 30
+Live URLs: 30
+
+## 200
+https://devnet.makerapi.flint.trade [200] [] [0] [nginx/1.18.0 (Ubuntu)] [52.205.199.250] [198.276273ms] [Nginx:1.18.0,Ubuntu]
+https://devnet.api.flint.trade [200] [] [0] [nginx/1.18.0 (Ubuntu)] [52.205.199.250] [245.945167ms] [Nginx:1.18.0,Ubuntu]
+https://devnet.dash.flint.trade [200] [] [4397] [Flint - Solana Spot Infrastructure] [cloudflare] [172.67.157.216] [cloudflare] [268.478419ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mainnet.api.flint.trade [200] [] [0] [nginx/1.18.0 (Ubuntu)] [176.32.76.52] [403.269788ms] [Nginx:1.18.0,Ubuntu]
+https://flint.trade [200] [] [4397] [Flint - Solana Spot Infrastructure] [cloudflare] [172.67.157.216] [cloudflare] [338.299267ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mainnet.makerapi.flint.trade [200] [] [0] [nginx/1.18.0 (Ubuntu)] [176.32.76.52] [448.633643ms] [Nginx:1.18.0,Ubuntu]
+https://wd.flex.trade [200] [] [1247] [Wind Down | Flex Perpetuals] [cloudflare] [104.26.9.84] [cloudflare] [453.794468ms] [Cloudflare]
+https://design.extended.exchange [200] [] [3202] [storybook - Storybook] [AmazonS3] [99.84.215.92] [cloudfront] [483.108518ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://placemaker.flint.trade [200] [] [4416] [Flint - Solana Spot Infrastructure] [cloudflare] [172.67.157.216] [cloudflare] [500.176879ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app.extended.exchange [200] [] [7548] [Extended] [AmazonS3] [18.238.109.78] [cloudfront] [467.966521ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://mainnet.dash.flint.trade [200] [] [4416] [Flint - Solana Spot Infrastructure] [cloudflare] [172.67.157.216] [cloudflare] [591.112766ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://tge.flex.trade [200] [] [1843] [Flex Perpetuals TGE Pool (FTGE)] [cloudflare] [172.67.73.64] [cloudflare] [864.472726ms] [Cloudflare]
+https://starknet.sepolia.extended.exchange [200] [] [7548] [Extended] [AmazonS3] [18.238.109.36] [cloudfront] [814.654918ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://flex.trade [200] [] [19902] [Flex Perps - Unlock the Future of DeFi with Flex Perpetuals] [cloudflare] [104.26.9.84] [cloudflare] [698.877538ms] [Cloudflare,Google Analytics]
+https://showcase.starknet.sepolia.extended.exchange [200] [] [116944] [Extended Chain — Sealed. Ordered. Settled.] [AmazonS3] [65.8.20.103] [cloudfront] [500.013356ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://docs.extended.exchange [200] [] [366076] [Overview & Vision | Extended Documentation] [cloudflare] [104.18.40.47] [cloudflare] [294.75827ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.flex.trade [200] [] [392542] [Flex Perpetuals Wind-Down | FLEX Perpetuals] [cloudflare] [104.18.40.47] [cloudflare] [664.61752ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://extended.exchange [200] [] [400300] [Extended Exchange | One Margin for All Markets] [Framer/5d364ee] [31.43.160.6] [719.770972ms] [Framer Sites,HSTS,HTTP/3,React]
+https://api.docs.extended.exchange [200] [] [488674] [API Documentation] [GitHub.com] [185.199.109.153] [246.978184ms] [Fastly,GitHub Pages,Varnish]
+
+## 301
+https://app.flex.trade [301] [https://wd.flex.trade/] [167] [301 Moved Permanently] [cloudflare] [104.26.9.84] [cloudflare] [188.147279ms] [Cloudflare]
+
+## 302
+https://go.flex.trade [302] [https://go.flex.trade/?rb.routing.mode=proxy&rb.routing.signature=658675] [0] [] [52.72.49.79] [423.3713ms] [HSTS]
+https://rdr.flex.trade [302] [https://rdr.flex.trade/?rb.routing.mode=proxy&rb.routing.signature=378092] [0] [] [52.72.49.79] [425.304306ms] [HSTS]
+
+## 307
+
+## 308
+
+## 401
+https://staging.app.extended.exchange [401] [] [0] [CloudFront] [18.65.3.104] [cloudfront] [317.395932ms] [Amazon CloudFront,Amazon Web Services,Basic,HSTS]
+
+## 403
+https://cdn.extended.exchange [403] [] [111] [AmazonS3] [3.169.231.70] [cloudfront] [464.322562ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://api-ui.starknet.extended.exchange [403] [] [0] [awselb/2.0] [13.193.105.214] [220.086724ms] [Amazon ELB,Amazon Web Services]
+http://api-ui.starknet.sepolia.extended.exchange [403] [] [0] [awselb/2.0] [35.78.153.47] [223.807307ms] [Amazon ELB,Amazon Web Services]
+
+## 404
+https://privy.app.extended.exchange [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [202.363438ms] [Cloudflare,Cloudflare Bot Management]
+https://demo.starknet.sepolia.extended.exchange [404] [] [0] [awselb/2.0] [3.210.177.216] [387.094933ms] [Amazon ELB,Amazon Web Services]
+https://api.extended.exchange [404] [] [0] [awselb/2.0] [13.230.97.2] [575.928171ms] [Amazon ELB,Amazon Web Services]
+
+## 500
+
+## 502
+
+## 503
+
