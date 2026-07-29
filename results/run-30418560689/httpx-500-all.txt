@@ -1,0 +1,2 @@
+https://btc-rpc.lorenzo-protocol.xyz [500] [] [588] [500 Internal Server Error] [nginx/1.18.0 (Ubuntu)] [35.73.24.149] [544.027101ms] [Nginx:1.18.0,Ubuntu]
+https://runbooks.birdai.xyz [200] [] [500] [cloudflare] [172.67.69.60] [cloudflare] [157.177908ms] [Cloudflare,Cloudflare Browser Insights]
