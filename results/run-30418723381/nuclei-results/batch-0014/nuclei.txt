@@ -1,0 +1,47 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] email.gh-mail.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] email.gh-mail.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eeba9b0e4c367ecd.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eeba9b0e4c367ecd.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer.core.devnet.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer.core.devnet.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer.devnet.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer.devnet.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[self-signed-ssl] [ssl] [low] eeba9b0e4c367ecd.dyndns.dappnode.io:443
+[kubernetes-fake-certificate] [ssl] [low] ethos-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] ethos-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.haqq-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.haqq-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.mainnet.allora.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.mainnet.allora.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.mainnet.kava.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.mainnet.kava.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm-websocket.testnet.allora.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm-websocket.testnet.allora.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.bbn-1.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.bbn-1.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.bbn-test-5.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.bbn-test-5.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.bbn-test-6.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.bbn-test-6.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.haqq-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.haqq-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.mainnet.kava.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.mainnet.kava.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.mainnet.allora.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.mainnet.allora.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.mainnet.osmosis.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.mainnet.osmosis.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.namada-luminara.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.namada-luminara.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.mainnet.mezo.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.mainnet.mezo.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.testnet-dawn-1.astria.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.testnet-dawn-1.astria.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.testnet.mezo.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.testnet.mezo.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evm.testnet.axelar.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evm.testnet.axelar.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evmos-mainnet-api.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evmos-mainnet-api.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] evmos-mainnet-rpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] evmos-mainnet-rpc.tm.p2p.org:443
