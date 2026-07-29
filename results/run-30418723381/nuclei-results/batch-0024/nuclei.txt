@@ -1,0 +1,31 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] status.safe.morphl2.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.safe.morphl2.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stg.svc.blockdaemon.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stg.svc.blockdaemon.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[netlify-headers-config-exposure] [http] [low] https://stg.secured.finance/_headers
+[prometheus-metrics] [http] [medium] https://status.dappnode.io/metrics
+[expired-ssl] [ssl] [low] sui.omnibtc.finance:443 ["2025-10-07 00:56:51 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] stride-mainnet-1-full-rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] stride-mainnet-1-full-rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] stride-mainnet-1-full.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] stride-mainnet-1-full.tm.p2p.org:443
+[expired-ssl] [ssl] [low] swap-mevm.omnibtc.finance:443 ["2025-07-17 05:38:54 +0000 UTC"]
+[expired-ssl] [ssl] [low] swap-test.omnibtc.finance:443 ["2024-07-25 17:34:15 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] terra-classic-mainnet-1-full-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] terra-classic-mainnet-1-full-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] terra-classic-mainnet-1-full-ws-rpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] terra-classic-mainnet-1-full-ws-rpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] terra-mainnet-1-full-rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] terra-mainnet-1-full-rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] terra-mainnet-1-full-ws.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] terra-mainnet-1-full-ws.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] terra-mainnet-1-full-ws-rpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] terra-mainnet-1-full-ws-rpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] terra-mainnet-1-full.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] terra-mainnet-1-full.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] test-provider-fullnode-rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] test-provider-fullnode-rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] test-provider-fullnode-ws-rpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] test-provider-fullnode-ws-rpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] test-provider-fullnode.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] test-provider-fullnode.tm.p2p.org:443
