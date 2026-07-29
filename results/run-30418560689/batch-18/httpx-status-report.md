@@ -1,0 +1,82 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul 29 03:16:40 UTC 2026
+
+HTTPX lines: 55
+Live URLs: 55
+
+## 200
+https://clerk.venice.ai [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [160.149162ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+http://a.townsquare.xyz [200] [] [114] [] [76.223.54.146] [67.014247ms]
+https://api-preprod.velocity.xyz [200] [] [37] [Google Frontend] [35.190.85.131] [google] [399.455773ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://diem-calculator.venice.ai [200] [] [758] [Diem ⇆ sVVV Mint Rate Curve] [cloudflare] [104.18.28.226] [cloudflare] [416.842318ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+http://hostmaster.townsquare.xyz [200] [] [114] [] [13.248.169.48] [67.916602ms]
+https://clerk.outerface.venice.ai [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [531.444576ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://clerk.cc-staging.velocity.xyz [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [691.260206ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+http://mall.townsquare.xyz [200] [] [114] [] [13.248.169.48] [65.065518ms]
+http://d.townsquare.xyz [200] [] [114] [] [13.248.169.48] [69.376521ms]
+https://api.velocity.xyz [200] [] [37] [Google Frontend] [35.186.197.253] [google] [839.760704ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+http://pay.townsquare.xyz [200] [] [114] [] [13.248.169.48] [73.925747ms]
+https://clerk.portal-staging.velocity.xyz [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [872.392933ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://api-staging.velocity.xyz [200] [] [37] [Google Frontend] [35.241.63.225] [google] [899.772197ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://cdn.venice.ai [200] [] [191523] [Venice | Private AI for Unlimited Creative Freedom] [cloudflare] [104.18.28.226] [cloudflare] [267.2488ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel,dc.js]
+http://store.townsquare.xyz [200] [] [114] [] [13.248.169.48] [68.878141ms]
+https://townsquare.xyz [200] [] [114] [] [13.248.169.48] [246.798801ms]
+https://portal-staging.velocity.xyz [200] [] [890] [Velocity] [Google Frontend] [35.241.63.225] [google] [803.539192ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://portal-preprod.velocity.xyz [200] [] [890] [Velocity] [Google Frontend] [35.190.85.131] [google] [871.506425ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://portal.velocity.xyz [200] [] [890] [Velocity] [Google Frontend] [35.186.197.253] [google] [843.730001ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://mta-sts.venice.ai [200] [] [191876] [Venice | Private AI for Unlimited Creative Freedom] [cloudflare] [104.18.29.226] [cloudflare] [331.436724ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel,dc.js]
+https://www.townsquare.xyz [200] [] [114] [] [76.223.54.146] [251.054782ms]
+http://www.pay.townsquare.xyz [200] [] [114] [] [13.248.169.48] [75.486266ms]
+https://venice.ai [200] [] [191876] [Venice | Private AI for Unlimited Creative Freedom] [cloudflare] [104.18.29.226] [cloudflare] [136.926796ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel,dc.js]
+https://featurebase.venice.ai [200] [] [469519] [Feature Requests - Venice.ai] [cloudflare] [104.18.28.226] [cloudflare] [1.041683714s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://www.velocity.xyz [200] [] [150880] [Velocity | Money Rewired for Velocity] [cloudflare] [198.202.211.1] [436.585971ms] [Cloudflare,Cookiebot,HSTS,HTTP/3,Three.js,cdnjs,jQuery:3.5.1,jsDelivr]
+http://webmail.townsquare.xyz [200] [] [114] [] [13.248.169.48] [64.221959ms]
+https://preview.venice.ai [200] [] [191876] [Venice | Private AI for Unlimited Creative Freedom] [cloudflare] [104.18.28.226] [cloudflare] [1.172238046s] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel,dc.js]
+https://postman.venice.ai [200] [] [40112] [Venice.ai API Postman Documentation] [cloudflare] [100.25.145.89] [9.332612153s] [Cloudflare,Cloudflare Bot Management,HSTS,Postman API Documentation]
+
+## 301
+https://chat.venice.ai [301] [https://venice.ai/] [15] [cloudflare] [104.18.28.226] [cloudflare] [232.822779ms] [Cloudflare,HSTS,Vercel]
+https://velocity.xyz [301] [https://www.velocity.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [435.732181ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://btcpay.venice.ai [302] [https://btcpay.venice.ai/login?ReturnUrl=%2F] [0] [cloudflare] [104.18.28.226] [cloudflare] [138.535425ms] [Cloudflare,HSTS]
+https://docs.velocity.xyz [302] [/password?redirect=/] [42] [cloudflare] [104.16.241.118] [cloudflare] [432.250368ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://interface-emyr9tomd.staging.venice.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Finterface-emyr9tomd.staging.venice.ai%2F&nonce=dbbc94e7886eb0e69c50f342110e907cd77eeb7ed7a500d562a1107c4902d51f] [15] [Vercel] [76.76.21.61] [255.235685ms] [HSTS,Vercel]
+https://cc-preprod.velocity.xyz [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=528304050631-15cg1al6kki7lll4nftgv80ffe8c3b2b.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/528304050631-15cg1al6kki7lll4nftgv80ffe8c3b2b.apps.googleusercontent.com:handleRedirect&code_challenge=EmtNalxtfygDEOI6XGQUH1t35nISdeLM9m_5_RstqWc&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEdpVETF3qNelIcT0Ys3l5CC3AhiwheTM19TJrp7NO3nzuLhE2TnlBqTqB9Rwgh7bJSdgSbtnTtlHEAvVt0Ss6frGy-xXo57QMaA2sl1uuVqQ7r4FU-zszycOrKk8JvEFhKTD7Vw38t_p4hIJItQZd91wFgAoOdQfOoRqP-Tsz5K5aIfuIQmiAcdeVmqN24kebOue2nqzX08woQIDgzThrLTCvjHr0ycs8XE8E5EA14aJ0pvigWXLqauFht4hmMQYugFgCYV4GiaqN2JboJqKODsMMpwsTXN-k7Otyb8riw_ePVGEQGMOeh-l7CvKzEo8osh528sbOQ7J2c7ZbDjbwXAbMf5ShaRfkw4nkCO4VO5Okg-2cS4ikQc1u9KjwqzkDDjuYZEvGWBLp8KZspoGNfVhV0bW_pFhVtLrgORIottujqzIsMftsE0rwH6oEce4SeXDP33lEHXmOTj7J-cZdtwRAWFi_uX2h-KHMv9aG0IGSw69k8axBqSMxUk7x3erUVoaKsab9h1pW8oKI6qzTk3IH4i4uI3VsnZK6UNEvhohX5_eyE8u2ztxe7JJl3t27e1mZfgugbpn8ZbxgfT4bmeFk6wkQkwyM4Osh_EFAOW3i9xVr8uC_OzWR1Q6l-M_PVgsgFVWn9natikrduQqloffbUjp5NJ5wm7TJHsOq_OTzyeGtgHvDGRRa1KDnKm-LsGScOQCG_iDTbuOQPl3Ab_e7J4H_JqKryKxbJ7MYYJ0r3Uh_DW5DJcsLuVG4ORLx6ibwO-DnwGMCnxEp2kOECgmkgTNmK6P8y_-tPlE2Lv0MqyxbOo_m5f6KNH2XTnEHJP8d5EAe5pO9DnXauNrgKCVsf-dcH-url0mgt1JXnUMZwn0KbygzclzJyP6Tlvs70O5XQsnZNHhpU-8uzfC_geIyVwGW0h9NO5Q3hpynbNqBvssLd5x2A0NhAMTYvs-osQ9HJst1_v5oU1Tpyf3dTi3JvAO5fO3xmGLvvxkZRZfbOEwlNQbYT1l9YxtjAr-rLjQxnxY6sNCAAZA6kSLd_ebCscRfLD8Db0RUzFdh5pAOdLGEusdQd0fc0f7Z4um8AcE-BilBnyFbcgMooXJEPzQeFuMMED73vUJI8GEd5-Jg6FEQjIMnxQfUM0MgcJyE92giel8kEJQxToN5UR2J] [36] [] [35.190.85.131] [google] [807.222805ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://cc.velocity.xyz [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=125257468221-4anr2r4pbmn9lj8mnalr6vt80g32vtib.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/125257468221-4anr2r4pbmn9lj8mnalr6vt80g32vtib.apps.googleusercontent.com:handleRedirect&code_challenge=lkgEAf57cZej1DltXUWXLY5Xuesn6Howc86yoMYWv1c&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEwgEUKAggKXy5O5Rjavaly2E0vFtNsCEPs9O-9e5TllRf3K2PKGXhXDvk3j2AyG_ZsQeuhTvMLW52OTS4wjrbtdcLybDupH1GRZQOR0nesZhEOBC7SsfRl9zvGJ_PWfV2F3zNESgfIDZ6Fx9sJDPTWMx323kvuLAUhatGXx36fv_HTmHIon7ZonmtzA2lEqVF32iHdqlrDZqL7475GebBZEAfCHC8cQAm99we5_wlte1sERmrz-DdThacOL2bWQXX79ZSUbtAb6D5DIGpIFTCKj9YNuxmcDUXtZJOGeuWq8Pu4mAjcrmiCi0Fr896yWHs3LqL5cJ6ueCSPjngqzXm9fjsWxhMonmR9F8gNLzogiIQNt8hJsKICh1PWGvK1SyvkOc0X0psi5Op4dJMibmbO2pR-Ogg_wHIZmabPb9qHhgBtuGa2pKCVafDaYVd_7ff6Iwx3zBYW_mCHWIl6Oigj0IhupJ-sPsvcRfNAWtybVQ163DzbEdYFtHB1zVO-u7FHgOkSrueOawfcquLews1cDUl6Kpri9-GnEiu6VVxCqucy5rwtvbPj5DlYJ2GZPGD80wju_UUcp6zEVNZV5Rf2tOvx2k-2jKvMYXrpsFbYBWk42rS7tIRXOHnAHwvH1c3EYfLLTudcQXZVuQro826Vclykq-l4aSC8m8mMzinSVO_Guith9y3pkRyZ4MdkA_hrU-E7u8sicvz_ds_YoT2vpzdyTGac-8hZrJOl9tae2MK1n-QeZx8ebNZGGu8uUF2vL7XhSj_dvbdOy5y1p1hedE4uOj6Qf47y9Eb5DhylJqH69nDbcaB5tJXakB7lYYnfYN3baIablVHdus2wHNhfwtJxdst3Cxg6WARJNxhQbPZ2Fh9qZrkn6FrhDtM4ISYZ8MVpKlCJG9x2ZvH-D2uxr3giCACPR51zfp56dEhSGDxgfDd5vKCmDOd-UnHCUz_8hsCWimxWdSzchkogKcMgCFS7Q3qUAC-NEp8AEHTEN3S21VohajwgxOlBgi-5JAHp7N-_oNH46cbnhqgM8CU_4EJwt2CRNX3tozbek3TKPCPVZ782p0xNzFMFNd22wrljaaZMDH5JvK9X_Mytkv3sI06F2ZAxYMmlfQJVOmn7w] [36] [] [35.186.197.253] [google] [844.231297ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://cc-staging.velocity.xyz [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=1002745076044-ekeh8plcipskcin1qo9cs6lbj7r55brr.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/1002745076044-ekeh8plcipskcin1qo9cs6lbj7r55brr.apps.googleusercontent.com:handleRedirect&code_challenge=_4L2tY4Dtn8KREt7sui60_nZVxVTkCMh_ZiRzLraty4&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEwE3YLkWEVHoJEeUOfVyyoG2X9kAfe0lY5pmkxcvu-UdK0whxDh9RdgLdJ01coWDdXb9pPbC_Arct9V7PbKnQADHtPd4CYscV5Zs0eLLNXTQ_SMXOEHl8THvy9pYtuJwE-73BL4rsfn923QL7KhmbbmQ7WZDtoZb2FopPybPwTT-sMbpD4Y7aCPc1hrVx61LkkqvoDXPN4CNfRAKfd4N8wcpLyFZ38BBkd3yCpHv_9EGYK12kcSojBl5D_QD5tvD-PlQWF1_AJZ5cKtx8DNulxJnOcYM3JLP1fM0iAUNYPdIZbdRE6x8JSjOVSI6vD7T9D9XWmHEYF3RBAqQIYzPp_Yl2mt_Q4xamhK1jCs6bv5qPk-9-0A3J1NOw3qzVlK-MJ3pluuJZf358W3Gssc6d0gTUPh6kHbIIFMy7ajKGeGwUfSBCagRlz8lq408r80hVnTbcJSkjnh4QTqF8L-dpJFAyZGm8W01JH5CFwip1LB4_Lq08j7XnVh9F0vh86nvZ0UY-DVUhmh8FN8PnBLbkuuWQ8cjZlEbexeEi_rjAJnQx9fU_fw4ocfLHCwURtW4yM9KPLfBEWgr5e_Vdt8LEXsHuX33XxhWhvcD_xBwfyJ_ItyVBMSTKL_32pBaEWkd1CLch6keb1L1MSOIYgXWCiNruUlJPG0zXo0_fjqYIBJuK4yx8VJAskvZFyCWIWfSOkde89qkd98oxZ0gVkFgVVaNtDS4By_o1VC28DAA1cdT8gmMUhcpcwX0tkOeDd7mea_k7zUjefWH8e5ts56TWVHtumZnGocVjLCMY6WLa0HE2BTUMjuX3XVWpmYl-ej-5038ff7eQYex_jtGzflmvC2ppZ2bHDcB7Ajf4kyJmsPdxqtMRJOD6YGzcgwWOsTQ-foTD7XFLD3xsiAZNxlXr6OAa7c1OYJ4w0sJFpbUcj5RsU1zlMy9XfM8qREF1OcC2t-k0lKv2CLp0tWuTcb1hOlNg_4UBuuvEc-ko7409v_pvdCHqt8ASHailnejQmdpADivvNKtx56FJZDda6Awd4ocNQoyo_Ie38f2GNgN3vGw6yY3aaJL5WJ8j185TaumIxPECAyXd_lhwzRDsIc_8vQhGe55SllLs61GzFTlqqOCfKqjujwsThRz0_MJISRUJ52mFA4HC2XhmFdYFK5yzSA] [36] [] [35.241.63.225] [google] [865.792126ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://tidewatch.venice.ai [302] [https://veniceai.cloudflareaccess.com/cdn-cgi/access/login/tidewatch.venice.ai?kid=cf0cd7c90c9cfe6098c858161207cab31525fac601cb3e9cde280a9e2c5716a0&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjU0ZWVkNTRiMmFlODUyMTllYzNkODRkZjE2NWI4MGUyYzUwY2FiNWIxMzQzYTFhNzc4MDczYzRkMzAyNjdhZTIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImNmMGNkN2M5MGM5Y2ZlNjA5OGM4NTgxNjEyMDdjYWIzMTUyNWZhYzYwMWNiM2U5Y2RlMjgwYTllMmM1NzE2YTAiLCJob3N0bmFtZSI6InRpZGV3YXRjaC52ZW5pY2UuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc4NTI5NTI4MCwibmJmIjoxNzg1Mjk0OTgwLCJpYXQiOjE3ODUyOTQ5ODAsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI1ZDQwMGNmMWRhYmUzZmU1YWFhY2I1ZjdjNjljNzUzNmRkZTIwYjgwZmE1ZTZiMjM5NjA1MGEzY2RiMTc0NzNiIn0.sZtcjlMksX3g5aVpVm2HpEZDUw-qd2jUl-fgskF8GfTK3pCqlcX23FEZx2uPfobo51GeQK8WrQ-OqATDEPAJ8yEtsOhEvWcEwheV-q7QLhXW1riZgFaiIcsmuvblnwX2_zOQOdcfIWQUlKO1TUA4M6PURcy2OHE2Ewe9PjQxMz4MhuZIfIk3ww0Qge8PzSbnq0hfzmJC94bnuw7-emcPBmqAq-B-piTZjeJvC70pld8KDicurDOD5iJWXs5FbR7laWUxdmbl34_Leblx6rsvb4V0K_V2G91y2QmINr_UgI2cnBohicIKCpbpMesE6ieA08Minc4PX35c0TvWJhPUSQ&redirect_url=%2F] [496] [302 Found] [cloudflare] [104.18.29.226] [cloudflare] [132.626374ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://treasury-dashboard.agnt.venice.ai [302] [/auth/login?return_to=%2F] [0] [cloudflare] [104.18.28.226] [cloudflare] [174.32372ms] [Cloudflare,HSTS]
+https://support.venice.ai [302] [https://support.venice.ai/hc] [0] [cloudflare] [216.198.53.6] [308.077237ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+
+## 307
+
+## 308
+https://api.venice.ai [308] [https://docs.venice.ai] [57] [cloudflare] [104.18.28.226] [cloudflare] [142.827871ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://basehub.venice.ai [308] [https://venice.ai/] [15] [cloudflare] [104.18.29.226] [cloudflare] [302.499524ms] [Cloudflare,HSTS,Vercel]
+https://diem-calculator.staging.venice.ai [308] [https://diem-calculator.venice.ai/] [15] [Vercel] [66.33.60.193] [426.346244ms] [HSTS,Vercel]
+https://interface-prod-test.venice.ai [308] [https://interface-prod-test.venice.ai/chat] [42] [cloudflare] [104.18.29.226] [cloudflare] [182.003033ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://docs.venice.ai [308] [/overview/about-venice] [113248] [cloudflare] [104.18.29.226] [cloudflare] [272.271147ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://outerface.venice.ai [308] [https://docs.venice.ai] [57] [cloudflare] [104.18.29.226] [cloudflare] [145.66789ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://staging.venice.ai [308] [https://venice.ai/] [15] [Vercel] [64.239.109.1] [206.978862ms] [HSTS,Vercel]
+https://www.venice.ai [308] [https://venice.ai/] [15] [cloudflare] [104.18.29.226] [cloudflare] [292.945245ms] [Cloudflare,HSTS,Vercel]
+
+## 401
+
+## 403
+https://accounts.cc-staging.velocity.xyz [403] [] [9527] [Just a moment...] [cloudflare] [172.64.153.110] [cloudflare] [465.096491ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://trust.velocity.xyz [403] [] [5580] [Just a moment...] [cloudflare] [104.18.4.130] [cloudflare] [267.9991ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://email.venice.ai [404] [] [0] [cloudflare] [104.18.28.226] [cloudflare] [147.619385ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://go.velocity.xyz [404] [] [10322] [Error 404 | Page not found] [cloudflare] [199.60.103.228] [626.098027ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub]
+https://safe-backup-executor.agnt.venice.ai [404] [] [21] [cloudflare] [104.18.28.226] [cloudflare] [198.26373ms] [Cloudflare,HSTS]
+https://t.venice.ai [404] [] [105] [cloudflare] [104.18.29.226] [cloudflare] [117.283139ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+
+## 503
+
