@@ -1,0 +1,3 @@
+https://auth.clearing.edxmarkets.com [302] [https://clearing.edxmarkets.com/] [54] [cloudflare] [104.18.43.182] [cloudflare] [309.500405ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.uat.edxmarkets.com [302] [https://uat.edxmarkets.com/] [49] [cloudflare] [172.64.144.74] [cloudflare] [404.243002ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.prod.edxmarkets.com [302] [https://prod.edxmarkets.com/] [50] [cloudflare] [172.64.144.74] [cloudflare] [431.23465ms] [Auth0,Cloudflare,HSTS,HTTP/3]

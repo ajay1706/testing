@@ -1,0 +1,2 @@
+https://www.edxmarkets.com [301] [https://edxmarkets.com/] [162] [301 Moved Permanently] [cloudflare] [141.193.213.20] [242.257198ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://wp.edxmarkets.com [301] [https://edxmarkets.com/] [0] [cloudflare] [141.193.213.20] [3.921579783s] [Cloudflare,Cloudflare Bot Management,HTTP/3,WP Engine,WordPress]
