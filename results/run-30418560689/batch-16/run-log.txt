@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jul 29 03:14:04 UTC 2026
+[+] Run ID: 30418560689
+[+] Batch name: batch-16
+[+] Batch targets:
+securitize.io
+solana.com
+soon.foundation
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jul 29 03:14:15 UTC 2026
+[+] HTTPX input count: 1234
+[+] Running httpx...
+[+] httpx completed: Wed Jul 29 03:16:56 UTC 2026
+[+] httpx line count: 813
+[+] Batch completed: Wed Jul 29 03:16:56 UTC 2026
