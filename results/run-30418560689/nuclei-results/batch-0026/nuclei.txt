@@ -1,0 +1,3 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] zcash.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] zcash.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[expired-ssl] [ssl] [low] ypogba.app.pons.ai:443 ["2025-03-05 06:06:09 +0000 UTC"]
