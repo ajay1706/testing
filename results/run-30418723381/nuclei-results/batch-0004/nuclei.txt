@@ -1,0 +1,11 @@
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0c9fb5995d074e18.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 09e6688e3b85d642.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 09e6688e3b85d642.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[self-signed-ssl] [ssl] [low] 06805ddd57256330.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 05adec2cf0b41ca7.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] 007a3e9d5925263e.dyndns.dappnode.io:443 ["2025-05-29 14:20:44 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] 007a3e9d5925263e.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] 07881548b9ddd72d.dyndns.dappnode.io:443 ["2024-09-01 19:23:22 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] 07881548b9ddd72d.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] 0c9fb5995d074e18.dyndns.dappnode.io:443 ["2019-11-17 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] 0c9fb5995d074e18.dyndns.dappnode.io:443
