@@ -1,0 +1,4 @@
+https://router-staging.tenor.finance [404] [] [43] [] [3.93.110.53] [32.290413ms] [Amazon ALB,Amazon Web Services]
+https://router.tenor.finance [404] [] [43] [] [44.215.172.250] [53.668287ms] [Amazon ALB,Amazon Web Services]
+https://api.tenor.finance [404] [] [63] [] [184.73.69.164] [61.195459ms] [HSTS]
+https://api-staging.tenor.finance [404] [] [63] [] [52.1.15.46] [158.402303ms] [HSTS]
