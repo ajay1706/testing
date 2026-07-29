@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://tapi1.ant.fun/metrics
+[prometheus-metrics] [http] [medium] https://tapi2.ant.fun/metrics
+[prometheus-metrics] [http] [medium] https://tapi3.ant.fun/metrics
+[prometheus-metrics] [http] [medium] https://tapi4.ant.fun/metrics
