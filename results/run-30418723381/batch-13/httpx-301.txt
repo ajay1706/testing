@@ -1,0 +1,6 @@
+https://blog.secured.finance [301] [https://medium.com/secured-finance/] [526] [301 Moved Permanently] [cloudflare] [104.21.5.94] [cloudflare] [343.729146ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://dev-point-api.secured.finance [301] [https://dev-point-api.secured.finance:443/] [0] [] [34.111.14.164] [google] [23.158143ms]
+https://usdfc.secured.finance [301] [https://app.usdfc.net] [526] [301 Moved Permanently] [cloudflare] [172.67.133.65] [cloudflare] [80.830136ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://secured.finance [301] [https://secured.finance/] [162] [301 Moved Permanently] [nginx] [18.211.166.153] [120.879074ms] [Nginx]
+https://www.secured.finance [301] [https://secured.finance/] [166] [301 Moved Permanently] [] [34.202.203.47] [202.279172ms] [Cloudflare,HSTS,HTTP/3]
+http://stg-point-api.secured.finance [301] [https://stg-point-api.secured.finance:443/] [0] [] [34.111.14.164] [google] [24.25842ms]
