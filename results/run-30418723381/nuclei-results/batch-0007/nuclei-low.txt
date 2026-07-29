@@ -1,0 +1,80 @@
+[mDNS-enum] [javascript] [low] api.atoma.network:5353
+[weak-cipher-suites:tls-1.0] [ssl] [low] ai-docs.hyperbolic.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ai-docs.hyperbolic.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] alpha.ammalgam.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] alpha.ammalgam.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.ammalgam.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.ammalgam.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.archive.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.archive.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.flock.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.flock.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.florin.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.florin.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[self-signed-ssl] [ssl] [low] af4c1c6ef2be845f.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] alliance.flock.io:443 ["2026-02-06 23:59:59 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] agoric-mainnet-1-full-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] agoric-mainnet-1-full-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] agoric-mainnet-1-full.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] agoric-mainnet-1-full.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] alertmanager-rpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alertmanager-rpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] alerts.fr-par.scw.telemetry.kiln.fi:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alerts.fr-par.scw.telemetry.kiln.fi:443
+[kubernetes-fake-certificate] [ssl] [low] api-arch.testnet.neutron.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-arch.testnet.neutron.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api-axelar-mainnet-archive.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-axelar-mainnet-archive.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api-axelar-mainnet-archive-genesis.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-axelar-mainnet-archive-genesis.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api-axelar-mainnet-full-test.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-axelar-mainnet-full-test.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api-celestia-mainnet-full.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-celestia-mainnet-full.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api-namada-indexer.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-namada-indexer.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api-namada-mainnet-indexer.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-namada-mainnet-indexer.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api-neutron-mainnet-1-full.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-neutron-mainnet-1-full.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api-p2p.testnet3.saga.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-p2p.testnet3.saga.tm.p2p.org:443
+[self-signed-ssl] [ssl] [low] api.atoma.network:443
+[kubernetes-fake-certificate] [ssl] [low] api.0glabs-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.0glabs-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.archway-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.archway-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.archway-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.archway-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.baryon.remedy.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.baryon.remedy.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.bbn-1.babylon-full-node.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.bbn-1.babylon-full-node.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.bbn-1.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.bbn-1.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.bbn-test-2.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.bbn-test-2.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.bbn-test-3.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.bbn-test-3.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.bbn-test-6.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.bbn-test-6.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.bbn-test-5.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.bbn-test-5.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.composable-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.composable-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.devmainnet.story.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.devmainnet.story.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.dydx-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.dydx-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.dydx-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.dydx-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.dymension-blumbus.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.dymension-blumbus.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.dymension-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.dymension-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.dymension-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.dymension-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.ethos-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.ethos-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] api.haqq-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.haqq-mainnet.tm.p2p.org:443
