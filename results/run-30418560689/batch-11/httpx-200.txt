@@ -1,0 +1,6 @@
+https://memecoin.fun [200] [] [1998] [Memecoin Launchpad] [cloudflare] [172.67.164.218] [cloudflare] [576.969803ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://chat.magiclabs.com [200] [] [6962] [Magic AI Chat Demo] [Vercel] [76.76.21.241] [626.070634ms] [HSTS,Vercel]
+https://demo.stagef.magiclabs.com [200] [] [7031] [Magic Newton] [Vercel] [76.76.21.142] [692.349022ms] [HSTS,Vercel]
+https://demo.magiclabs.com [200] [] [7031] [Magic Newton] [Vercel] [66.33.60.129] [712.034578ms] [HSTS,Vercel]
+https://chat-stagef.magiclabs.com [200] [] [6987] [Magic Chat Prototype] [Vercel] [76.76.21.98] [815.794973ms] [HSTS,Vercel,dc.js]
+https://www.memecoin.fun [200] [] [1912] [Welcome to nginx!] [cloudflare] [104.21.10.251] [cloudflare] [551.562639ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]

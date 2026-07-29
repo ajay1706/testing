@@ -1,0 +1,2 @@
+https://magiclabs.com [301] [https://www.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.24.126] [cloudflare] [135.383551ms] [Cloudflare,HSTS]
+http://api.executor.preprod.magiclabs.com [301] [https://api.executor.preprod.magiclabs.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.24.126] [cloudflare] [17.234607ms] [Cloudflare,Cloudflare Bot Management]

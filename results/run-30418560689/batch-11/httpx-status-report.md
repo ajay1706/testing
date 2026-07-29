@@ -1,0 +1,71 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul 29 03:14:16 UTC 2026
+
+HTTPX lines: 43
+Live URLs: 43
+
+## 200
+https://memecoin.fun [200] [] [1998] [Memecoin Launchpad] [cloudflare] [172.67.164.218] [cloudflare] [576.969803ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://chat.magiclabs.com [200] [] [6962] [Magic AI Chat Demo] [Vercel] [76.76.21.241] [626.070634ms] [HSTS,Vercel]
+https://demo.stagef.magiclabs.com [200] [] [7031] [Magic Newton] [Vercel] [76.76.21.142] [692.349022ms] [HSTS,Vercel]
+https://demo.magiclabs.com [200] [] [7031] [Magic Newton] [Vercel] [66.33.60.129] [712.034578ms] [HSTS,Vercel]
+https://chat-stagef.magiclabs.com [200] [] [6987] [Magic Chat Prototype] [Vercel] [76.76.21.98] [815.794973ms] [HSTS,Vercel,dc.js]
+https://www.memecoin.fun [200] [] [1912] [Welcome to nginx!] [cloudflare] [104.21.10.251] [cloudflare] [551.562639ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 301
+https://magiclabs.com [301] [https://www.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.24.126] [cloudflare] [135.383551ms] [Cloudflare,HSTS]
+http://api.executor.preprod.magiclabs.com [301] [https://api.executor.preprod.magiclabs.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.24.126] [cloudflare] [17.234607ms] [Cloudflare,Cloudflare Bot Management]
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://assets.magiclabs.com [403] [] [111] [AmazonS3] [3.175.34.39] [cloudfront] [243.43333ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://assets.stagef.magiclabs.com [403] [] [111] [AmazonS3] [3.163.24.5] [cloudfront] [329.187034ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://policy-engine.magiclabs.com [403] [] [29] [cloudflare] [104.18.24.126] [cloudflare] [168.169784ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://locust-ap.magiclabs.com [403] [] [37789] [Error ・ Cloudflare Access] [cloudflare] [104.18.24.126] [cloudflare] [403.916707ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.nex.stagef.magiclabs.com [403] [] [37789] [Error ・ Cloudflare Access] [cloudflare] [104.18.24.126] [cloudflare] [428.772527ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://api.identity.stagef.magiclabs.com [404] [] [15] [cloudflare] [104.18.24.126] [cloudflare] [80.170221ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.identity.magiclabs.com [404] [] [15] [cloudflare] [104.18.25.126] [cloudflare] [86.468684ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.ops.stagef.magiclabs.com [404] [] [15] [cloudflare] [104.18.25.126] [cloudflare] [99.82852ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://app.stagef.magiclabs.com [404] [] [107] [Vercel] [76.76.21.241] [175.379457ms] [HSTS,Vercel]
+https://api.mcp.stagef.magiclabs.com [404] [] [9] [cloudflare] [104.18.25.126] [cloudflare] [187.559041ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://embedded-wallet.stagef.assets.magiclabs.com [404] [] [9] [cloudflare] [104.18.25.126] [cloudflare] [190.399005ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.mcp.magiclabs.com [404] [] [9] [cloudflare] [104.18.24.126] [cloudflare] [198.538319ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.ops.magiclabs.com [404] [] [15] [cloudflare] [104.18.25.126] [cloudflare] [202.05438ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://global-tee.stagef.magiclabs.com [404] [] [72] [cloudflare] [104.18.24.126] [cloudflare] [203.100011ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://global-tee.sandbox.magiclabs.com [404] [] [72] [] [184.32.90.47] [209.666999ms]
+https://global-tee.magiclabs.com [404] [] [72] [cloudflare] [104.18.25.126] [cloudflare] [209.712062ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.executor.stagef.magiclabs.com [404] [] [139] [Error] [cloudflare] [104.18.24.126] [cloudflare] [221.136867ms] [Cloudflare,Cloudflare Bot Management,Express,HSTS,Node.js]
+https://api.executor.magiclabs.com [404] [] [139] [Error] [cloudflare] [104.18.25.126] [cloudflare] [250.756533ms] [Cloudflare,Cloudflare Bot Management,Express,HSTS,Node.js]
+https://app.magiclabs.com [404] [] [107] [Vercel] [66.33.60.193] [257.042197ms] [HSTS,Vercel]
+https://embedded-wallet.assets.magiclabs.com [404] [] [9] [cloudflare] [104.18.24.126] [cloudflare] [356.738708ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://demo-newton.magiclabs.com [404] [] [107] [Vercel] [76.76.21.123] [459.499331ms] [HSTS,Vercel]
+https://app-next.magiclabs.com [404] [] [107] [Vercel] [66.33.60.194] [475.924448ms] [HSTS,Vercel]
+https://tee.express.stagef.magiclabs.com [404] [] [15] [cloudflare] [104.18.24.126] [cloudflare] [57.063694ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://tee.magiclabs.com [404] [] [72] [cloudflare] [104.18.24.126] [cloudflare] [154.420151ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://tee.prod-uswe2.magiclabs.com [404] [] [72] [] [184.33.235.165] [152.186978ms] [HSTS]
+https://tee.sandbox-uswe2.magiclabs.com [404] [] [72] [] [184.32.90.47] [117.163137ms]
+https://tee.stagef-uswe2.magiclabs.com [404] [] [72] [] [54.185.168.210] [111.733057ms] [HSTS]
+https://tee.sandbox.magiclabs.com [404] [] [72] [] [184.32.90.47] [167.546259ms]
+https://tee.stagef.magiclabs.com [404] [] [72] [cloudflare] [104.18.24.126] [cloudflare] [138.266591ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://tee.prod-apno2.magiclabs.com [404] [] [72] [] [3.37.250.174] [446.125141ms] [HSTS]
+https://tee.stagef-apno2.magiclabs.com [404] [] [72] [] [54.116.158.200] [436.315995ms] [HSTS]
+https://tee.express.magiclabs.com [404] [] [22] [cloudflare] [104.18.25.126] [cloudflare] [642.289342ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 500
+
+## 502
+https://locust-ap-worker.magiclabs.com [502] [] [16] [cloudflare] [104.18.25.126] [cloudflare] [560.825521ms] [Cloudflare]
+
+## 503
+https://sandbox-test.magiclabs.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [3.23.159.18] [314.719ms] [Amazon ELB,Amazon Web Services]
+
