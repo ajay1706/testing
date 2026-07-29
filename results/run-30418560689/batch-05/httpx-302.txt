@@ -1,0 +1,7 @@
+https://auth.custody.crypto.com [302] [https://custody.crypto.com] [0] [nginx] [35.71.190.245] [533.501501ms] [HSTS,Nginx]
+https://cql.crypto.com [302] [/hub] [5] [cloudflare] [104.19.223.17] [cloudflare] [355.967602ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://download.crypto.com [302] [https://itunes.apple.com/us/app/monaco-card/id1262148500?ls=1&mt=8] [136] [cloudflare] [104.19.223.17] [cloudflare] [5.15834109s] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://grpc.cql.crypto.com [302] [/hub] [5] [cloudflare] [104.19.223.17] [cloudflare] [421.097175ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://help.crypto.com [302] [https://help.crypto.com/en/] [0] [cloudflare] [104.19.223.17] [cloudflare] [422.299004ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://pay-api.crypto.com [302] [https://merchant.crypto.com/] [0] [cloudflare] [104.19.222.17] [cloudflare] [1.365347148s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://pay.crypto.com [302] [https://merchant.crypto.com/] [0] [cloudflare] [104.19.222.17] [cloudflare] [3.403648824s] [Cloudflare,Cloudflare Bot Management,HTTP/3]

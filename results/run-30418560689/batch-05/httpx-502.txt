@@ -1,0 +1,6 @@
+https://authws.crypto.com [502] [] [16] [cloudflare] [104.19.222.17] [cloudflare] [389.384132ms] [Cloudflare,HTTP/3]
+https://m12-t8ks94w9gu-market-stream.crypto.com [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [108.138.159.64] [cloudfront] [503.821424ms] [Amazon CloudFront,Amazon Web Services]
+https://market-stream.crypto.com [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [18.161.170.7] [cloudfront] [591.96931ms] [Amazon CloudFront,Amazon Web Services]
+https://pay-connect.crypto.com [502] [] [16] [cloudflare] [104.19.223.17] [cloudflare] [4.387978242s] [Cloudflare,HTTP/3]
+https://privacy.crypto.com [502] [] [16] [cloudflare] [104.19.222.17] [cloudflare] [151.251634ms] [Cloudflare,HTTP/3]
+https://serviceinfo.crypto.com [502] [] [16] [cloudflare] [104.19.223.17] [cloudflare] [167.30573ms] [Cloudflare,HTTP/3]
