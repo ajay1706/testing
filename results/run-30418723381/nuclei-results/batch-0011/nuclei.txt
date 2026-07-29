@@ -1,0 +1,54 @@
+[CVE-2020-28185] [http] [medium] https://check.allnodes.com/tos/index.php?user/login
+[weak-cipher-suites:tls-1.0] [ssl] [low] cf-eth-gateway.goldsky.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cf-ipfs-gateway.infra.goldsky.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cf-eth-gateway.goldsky.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cf-ipfs-gateway.infra.goldsky.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ce4fdb8f5ae406dc.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cf-ipfs-universal.goldsky.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cf-ipfs-universal.goldsky.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cg-api.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cg-api.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ce4fdb8f5ae406dc.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] chainbase.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] chainbase.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] claims.campnetwork.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] claims.campnetwork.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cli.goldsky.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cli.goldsky.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cms-assets.goldsky.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cms-assets.goldsky.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] compose.goldsky.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] compose.goldsky.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] console.chainbase.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] console.chainbase.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://cloud.service.pinax.network/metrics
+[nexus-repository-anonymous-access] [http] [medium] https://check.allnodes.com/service/rest/v1/repositories
+[dockerfile-hidden-disclosure] [http] [medium] https://cloud.atoma.network/Dockerfile
+[gude-default-login] [http] [high] https://check.allnodes.com/ov.html
+[kubernetes-fake-certificate] [ssl] [low] celestia-mainnet-full.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] celestia-mainnet-full.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] celestia-testnet-archive.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] celestia-testnet-archive.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] celestia-testnet-archive-archive.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] celestia-testnet-archive-archive.tm.p2p.org:443
+[self-signed-ssl] [ssl] [low] ce4fdb8f5ae406dc.dyndns.dappnode.io:443
+[kubernetes-fake-certificate] [ssl] [low] cfnode.routerprotocol.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cfnode.routerprotocol.com:443
+[kubernetes-fake-certificate] [ssl] [low] cfrpc.routerprotocol.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cfrpc.routerprotocol.com:443
+[kubernetes-fake-certificate] [ssl] [low] chris-testing.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] chris-testing.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] composable-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] composable-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-archive-archive-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-archive-archive-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-archive-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-archive-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-archive-archive.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-archive-archive.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-archive-rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-archive-rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-archive.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-archive.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] cosmoshub-mainnet-1-full-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cosmoshub-mainnet-1-full-grpc.tm.p2p.org:443

@@ -1,0 +1,4 @@
+[CVE-2020-28185] [http] [medium] https://check.allnodes.com/tos/index.php?user/login
+[prometheus-metrics] [http] [medium] https://cloud.service.pinax.network/metrics
+[nexus-repository-anonymous-access] [http] [medium] https://check.allnodes.com/service/rest/v1/repositories
+[dockerfile-hidden-disclosure] [http] [medium] https://cloud.atoma.network/Dockerfile
