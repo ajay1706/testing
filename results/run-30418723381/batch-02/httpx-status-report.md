@@ -1,0 +1,33 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul 29 03:10:47 UTC 2026
+
+HTTPX lines: 5
+Live URLs: 5
+
+## 200
+https://blazephoenix.xyz [200] [] [56547] [BlazePhoenix — On-chain DEX Aggregator, Staking & BZPX Airdrop] [cloudflare] [172.67.178.126] [cloudflare] [115.568113ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://www.bitsmiley.io [200] [] [603] [bitSmiley] [Tengine] [163.181.66.167] [691.82963ms] [Alibaba Cloud Object Storage Service,Tengine]
+https://dev.bitsmiley.io [200] [] [603] [bitSmiley] [AmazonS3] [13.227.246.24] [cloudfront] [1.547400576s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 301
+
+## 302
+https://bitsmiley.io [302] [https://www.bitsmiley.io] [0] [Squarespace] [198.49.23.145] [210.918335ms] [Squarespace,Squarespace Commerce]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+
+## 500
+
+## 502
+
+## 503
+
