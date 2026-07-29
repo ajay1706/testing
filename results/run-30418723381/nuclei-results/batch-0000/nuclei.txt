@@ -1,0 +1,5 @@
+[CVE-2020-4429] [javascript] [critical] 1f771a89d395bd00.dyndns.dappnode.io:22
+[ssh-weak-mac-algo] [javascript] [low] 6631a3474b05cf4b.dyndns.dappnode.io:22
+[CVE-2015-1419:version] [tcp] [medium] 80992ad1a80ab756.dyndns.dappnode.io:21 ["3.0.2"]
+[CVE-2021-30047:version] [tcp] [high] 80992ad1a80ab756.dyndns.dappnode.io:21 ["3.0.2"]
+[intelbras-dvr-unauth] [http] [low] http://9d62d9b1184e2c84.dyndns.dappnode.io/cap.js
