@@ -1,0 +1,48 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] testnet-rpc.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] testnet-api.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] testnet-grpc.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testnet-api.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testnet-rpc.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testnet-grpc.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] testnet.k2lend.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testnet.k2lend.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] traefik.api.testnet.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] traefik.api.testnet.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] traefik.dashboard.testnet.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] traefik.dashboard.testnet.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tops.chainbase.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tops.chainbase.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tvi.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tvi.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v1.express.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v1.express.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[kubernetes-fake-certificate] [ssl] [low] testnet.allora-worker-1.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet.allora-worker-1.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] testnet.axelar.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet.axelar.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] testnet.allora.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet.allora.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] testnet.astria.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet.astria.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] testnet.cosmos.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet.cosmos.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] testnet.kyve.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet.kyve.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] testnet.neutron.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet.neutron.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] testnet.saga.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet.saga.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] testnet.noble.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet.noble.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] testnet.story.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet.story.tm.p2p.org:443
+[expired-ssl] [ssl] [low] train-v1.flock.io:443 ["2026-01-15 06:16:18 +0000 UTC"]
+[expired-ssl] [ssl] [low] this-is.elizaos.ai:443 ["2026-02-06 20:55:59 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] thanos.fr-par.scw.telemetry.kiln.fi:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] thanos.fr-par.scw.telemetry.kiln.fi:443
+[kubernetes-fake-certificate] [ssl] [low] tm.p2p.world.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] tm.p2p.world.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] token.venom.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] token.venom.tm.p2p.org:443
+[expired-ssl] [ssl] [low] train-testnet.flock.io:443 ["2026-01-28 15:16:52 +0000 UTC"]
+[expired-ssl] [ssl] [low] v1.envio.dev:443 ["2025-02-04 08:55:05 +0000 UTC"]
