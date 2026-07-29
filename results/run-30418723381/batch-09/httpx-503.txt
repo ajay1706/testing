@@ -1,0 +1,4 @@
+https://cns.validator.kiln-testnet.canton.testnet.kiln.fi [503] [] [190] [503 Service Temporarily Unavailable] [] [34.76.188.6] [google] [3.375733462s] [HSTS]
+https://cns.validator.kiln-2.canton.mainnet.kiln.fi [503] [] [190] [503 Service Temporarily Unavailable] [] [35.195.93.114] [google] [5.42411948s] [HSTS]
+https://cns.validator.ledger-kiln.canton.mainnet.kiln.fi [503] [] [592] [503 Service Temporarily Unavailable] [] [35.195.93.114] [google] [5.427346813s] [HSTS]
+https://cns.validator.kiln.canton.mainnet.kiln.fi [503] [] [592] [503 Service Temporarily Unavailable] [] [35.195.93.114] [google] [6.415169496s] [HSTS]

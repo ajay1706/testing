@@ -1,0 +1,4 @@
+http://cub.validator.kiln-testnet.canton.testnet.kiln.fi [308] [https://cub.validator.kiln-testnet.canton.testnet.kiln.fi] [164] [308 Permanent Redirect] [] [34.76.188.6] [google] [283.227002ms]
+http://telemetry.kiln.fi [308] [https://telemetry.kiln.fi] [164] [308 Permanent Redirect] [] [176.34.239.138] [195.186089ms]
+http://watcher.hoodi.ethereum.testnet.kiln.fi [308] [https://watcher.hoodi.ethereum.testnet.kiln.fi] [164] [308 Permanent Redirect] [] [34.76.188.6] [google] [289.465527ms]
+http://www.pay.k2lend.com [308] [https://www.pay.k2lend.com/] [14] [cloudflare] [172.67.155.242] [cloudflare] [570.30774ms] [Cloudflare,HTTP/3]
