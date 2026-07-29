@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jul 29 03:15:38 UTC 2026
+[+] Run ID: 30418723381
+[+] Batch name: batch-10
+[+] Batch targets:
+morphl2.io
+noble.xyz
+omnibtc.finance
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jul 29 03:17:40 UTC 2026
+[+] HTTPX input count: 173
+[+] Running httpx...
+[+] httpx completed: Wed Jul 29 03:18:02 UTC 2026
+[+] httpx line count: 115
+[+] Batch completed: Wed Jul 29 03:18:02 UTC 2026
