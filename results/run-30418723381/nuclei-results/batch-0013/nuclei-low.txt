@@ -1,0 +1,29 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.ammalgam.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.ammalgam.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.api.testnet.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.api.testnet.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] e.goldsky.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] e.goldsky.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] e0b4a8d5a49dcdf7.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] e321feac73c0f4e2.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] e321feac73c0f4e2.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] e0b4a8d5a49dcdf7.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] earn.widget.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] earn.widget.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[expired-ssl] [ssl] [low] e01f0ca01338e0da.dyndns.dappnode.io:443 ["2026-04-13 18:10:15 +0000 UTC"]
+[expired-ssl] [ssl] [low] docs.atoma.network:443 ["2025-11-19 01:41:19 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] dydx-mainnet-1.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dydx-mainnet-1.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] dryrun-archive-archive-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dryrun-archive-archive-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] dydx-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dydx-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] dymension-1100-1-api.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dymension-1100-1-api.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] dymension-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dymension-mainnet.tm.p2p.org:443
+[expired-ssl] [ssl] [low] ecosystem.flock.io:443 ["2025-09-19 01:03:14 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] e5ba4a6e4bb46874.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] e8222becaecf8701.dyndns.dappnode.io:443
