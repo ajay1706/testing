@@ -1,0 +1,4 @@
+https://cap.app [307] [https://www.cap.app/] [522] [307 Temporary Redirect] [cloudflare] [104.20.24.167] [cloudflare] [163.256382ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.coti.io [307] [https://docs.coti.io/coti-documentation/] [15] [cloudflare] [172.64.147.209] [cloudflare] [258.301309ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://dashboard.cap.app [307] [/sign-in] [8] [cloudflare] [104.20.24.167] [cloudflare] [384.580136ms] [Cloudflare,HSTS,HTTP/3]
+https://dashboard.beta.cap.app [307] [/sign-in] [8] [cloudflare] [104.20.24.167] [cloudflare] [419.635201ms] [Cloudflare,HSTS,HTTP/3]

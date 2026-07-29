@@ -1,0 +1,2 @@
+http://community-enabler-2.fullnode.testnet.coti.io [308] [https://community-enabler-2.fullnode.testnet.coti.io/] [0] [Caddy] [15.204.31.151] [60.038191ms] [Caddy]
+http://explorer-devnet.coti.io [308] [https://explorer-devnet.coti.io/] [0] [Caddy] [37.16.1.34] [134.429021ms] [Caddy]

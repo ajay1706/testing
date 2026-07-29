@@ -1,0 +1,7 @@
+https://faucet.coti.io [301] [https://discord.gg/Z4r8D6ez49] [170] [301 Moved Permanently] [nginx/1.15.12] [40.160.4.213] [297.112944ms] [Nginx:1.15.12]
+https://discord.coti.io [301] [https://discord.gg/9tq6CP6XrT] [170] [301 Moved Permanently] [nginx/1.15.12] [40.160.4.213] [307.639957ms] [Nginx:1.15.12]
+https://build.coti.io [301] [https://bit.ly/coti-builders-program] [170] [301 Moved Permanently] [nginx/1.15.12] [40.160.4.213] [316.208697ms] [Nginx:1.15.12]
+https://github.coti.io [301] [https://github.com/coti-io] [170] [301 Moved Permanently] [nginx/1.15.12] [40.160.4.213] [323.146ms] [Nginx:1.15.12]
+https://telegram.coti.io [301] [https://t.me/COTInetwork] [170] [301 Moved Permanently] [nginx/1.15.12] [40.160.4.213] [294.795176ms] [Nginx:1.15.12]
+https://twitter.coti.io [301] [https://twitter.com/COTInetwork] [170] [301 Moved Permanently] [nginx/1.15.12] [40.160.4.213] [335.201812ms] [Nginx:1.15.12]
+http://influx.coti.io [301] [https://influx.coti.io/] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [40.160.5.84] [120.206864ms] [Nginx:1.24.0,Ubuntu]
