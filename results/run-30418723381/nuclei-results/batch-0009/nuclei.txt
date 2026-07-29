@@ -1,0 +1,58 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.k2lend.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.k2lend.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] arrowpad.fun:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] arrowpad.fun:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] auth.graph.p2p.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auth.graph.p2p.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] b147e46da4be4523.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] b147e46da4be4523.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] backup.api.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] backup.api.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] backup.rpc.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] backup.grpc.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] backup.rpc.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] backup.grpc.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://arweave-search-stage.goldsky.com
+[netlify-headers-config-exposure] [http] [low] https://app.secured.finance/_headers
+[prometheus-metrics] [http] [medium] https://auth.dev.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.service.pinax.network/metrics
+[expired-ssl] [ssl] [low] app.omnibtc.finance:443 ["2025-07-13 02:09:23 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] archway-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] archway-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] archive-archive-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] archive-archive-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] archive-01-archive-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] archive-01-archive-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] archway-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] archway-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] axelar-mainnet-archive-genesis.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] axelar-mainnet-archive-genesis.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] axelar-mainnet-archive.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] axelar-mainnet-archive.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] axelar-mainnet-full--grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] axelar-mainnet-full--grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] axelar-mainnet-full-full-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] axelar-mainnet-full-full-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] axelar-mainnet-full--rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] axelar-mainnet-full--rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] axelar-mainnet-full-full-rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] axelar-mainnet-full-full-rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] axelar-mainnet-full-test.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] axelar-mainnet-full-test.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] axelar-mainnet-full-full.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] axelar-mainnet-full-full.tm.p2p.org:443
+[self-signed-ssl] [ssl] [low] b4d62c32b21950b6.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] b672913994454680.dyndns.dappnode.io:443 ["2026-06-16 11:48:17 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] baryon.remedy.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] baryon.remedy.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] bbn-1.babylon-full-node.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] bbn-1.babylon-full-node.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] bbn-test-2.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] bbn-test-2.babylon.tm.p2p.org:443
+[expired-ssl] [ssl] [low] badge.flock.io:443 ["2025-02-05 07:48:57 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] bbn-test-3.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] bbn-test-3.babylon.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] bbn-test-5.babylon.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] bbn-test-5.babylon.tm.p2p.org:443
+[self-signed-ssl] [ssl] [low] b147e46da4be4523.dyndns.dappnode.io:443
