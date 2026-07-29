@@ -1,0 +1,44 @@
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://98c532994287578a.dyndns.dappnode.io/index ["index.html"] [path="/index"]
+[open-redirect-generic] [http] [medium] https://66478f08737a8b87.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://8c2bbde118c250d9.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[ssh-diffie-hellman-logjam] [javascript] [low] 6477b8900efb3f09.dyndns.dappnode.io:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] 657150f0a71410fb.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 657150f0a71410fb.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] 66efa70658a78fd2.dyndns.dappnode.io:443 ["[tls12 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 94c99d70b090b9bb.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 94c99d70b090b9bb.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] a3d.inferix.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] a3d.inferix.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] a3c559eb088d210f.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] a3c559eb088d210f.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] a924ec9825e13a1c.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] a924ec9825e13a1c.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ae6ec6cd2f8ba14d.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ae6ec6cd2f8ba14d.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[wp-user-enum:usernames] [http] [low] https://8905e0e144cba09f.dyndns.dappnode.io/?rest_route=/wp/v2/users/ ["admin"]
+[self-signed-ssl] [ssl] [low] 6e8b5c68c3b785cc.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 6962a458b6e154bb.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 7c76562a25bdcab7.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 75eecbf71c67c65f.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 7d0be89aab3512ec.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 87cd7a186df6cbe0.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 83ecdea55b21bb5d.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 87d28f91a5eb368b.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 8a95735304ae46f9.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 661f4e0b070b4836.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 89b49e5eb5ea63b0.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 7992f7b5542d0db1.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 8b592b1635ecaf07.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 8e4c0c2401c99209.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 9027dc362edde26c.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 93556f4457a1b7fe.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 8d161f67fa1302b2.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 934d5a2ab32eed8a.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] a3715f1270ca2830.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 94c99d70b090b9bb.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 9fe0d65e054796e6.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] a44ade96572d8dce.dyndns.dappnode.io:443 ["2026-04-13 18:10:15 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] ac1099f6d8fbc04e.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] a924ec9825e13a1c.dyndns.dappnode.io:443
+[untrusted-root-certificate] [ssl] [low] a924ec9825e13a1c.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] ae6ec6cd2f8ba14d.dyndns.dappnode.io:443 ["2026-06-27 06:08:43 +0000 UTC"]

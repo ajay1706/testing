@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://66478f08737a8b87.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://8c2bbde118c250d9.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
