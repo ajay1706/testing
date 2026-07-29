@@ -1,0 +1,5 @@
+https://rpc-monad-mainnet-0.stockholm.cherry.prd.validationcloud.io [301] [https://rpc-monad-mainnet-0.stockholm.cherry.prd.validationcloud.io:8080/] [17] [] [185.189.46.25] [481.7522ms]
+https://rpc-monad-mainnet-0.chicago.cherry.prd.validationcloud.io [301] [https://rpc-monad-mainnet-0.chicago.cherry.prd.validationcloud.io:8080/] [17] [] [84.32.32.28] [2.187956374s]
+https://rpc-monad-testnet-0.chicago.cherry.prd.validationcloud.io [301] [https://rpc-monad-testnet-0.chicago.cherry.prd.validationcloud.io:8080/] [17] [] [84.32.71.31] [1.203071959s]
+https://validationcloud.io [301] [https://www.validationcloud.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [1.224300686s] [Cloudflare,HSTS,HTTP/3]
+https://twinstake.com [301] [https://www.twinstake.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [6.450726024s] [Cloudflare,HSTS,HTTP/3]
