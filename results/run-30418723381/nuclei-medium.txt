@@ -1,0 +1,23 @@
+[CVE-2015-1419:version] [tcp] [medium] 80992ad1a80ab756.dyndns.dappnode.io:21 ["3.0.2"]
+[CVE-2020-28185] [http] [medium] https://check.allnodes.com/tos/index.php?user/login
+[CVE-2021-44451] [http] [medium] https://reports.p2p.org/dashboard/list/ [password="admin",username="admin"]
+[CVE-2022-41697] [http] [medium] https://blog.morphl2.io/ghost/api/admin/session
+[CVE-2023-48795] [javascript] [medium] fe913e9a3bf451ac.dyndns.dappnode.io:22 ["Vulnerable to Terrapin"]
+[behat-config] [http] [medium] https://38f4bd8eead9a2b3.dyndns.dappnode.io/behat.yml.dist
+[dockerfile-hidden-disclosure] [http] [medium] https://cloud.atoma.network/Dockerfile
+[mongodb-exporter-metrics] [http] [medium] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-hoodi-beta.morphl2.io/metrics
+[nexus-repository-anonymous-access] [http] [medium] https://check.allnodes.com/service/rest/v1/repositories
+[open-redirect-generic] [http] [medium] https://38c205205e3fb72e.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://4ec85751da30c8b7.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://546c2aee260ea1d9.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://66478f08737a8b87.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://8c2bbde118c250d9.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[prometheus-metrics] [http] [medium] https://180abb63f9f9525b.dyndns.dappnode.io/metrics
+[prometheus-metrics] [http] [medium] https://auth.dev.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.service.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://cloud.service.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://status.dappnode.io/metrics
+[prometheus-metrics] [http] [medium] https://wildcard.180abb63f9f9525b.dyndns.dappnode.io/metrics
+[prometheus-metrics] [http] [medium] https://xplore.api.v2.routerprotocol.com/metrics

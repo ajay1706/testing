@@ -1,0 +1,10 @@
+[CVE-2019-11248] [http] [high] https://api.ipfs.dappnode.io/debug/pprof/
+[CVE-2021-30047:version] [tcp] [high] 80992ad1a80ab756.dyndns.dappnode.io:21 ["3.0.2"]
+[CVE-2022-0952] [http] [high] https://neon-proxy-mainnet.solana.p2p.org/wp-json/click5_sitemap/API/update_html_option_AJAX
+[CVE-2025-55184] [http] [high] https://routerprotocol.com/
+[CVE-2025-55184] [http] [high] https://www.routerprotocol.com
+[github-takeover] [http] [high] https://alluvial.finance
+[github-takeover] [http] [high] https://solana.chorus.one ["chorusone.github.io"]
+[github-takeover] [http] [high] https://www.alluvial.finance ["alluvialfinance.github.io"]
+[gude-default-login] [http] [high] https://check.allnodes.com/ov.html
+[smb-anonymous-access] [javascript] [high] dce69b7d7178892c.dyndns.dappnode.io:445
