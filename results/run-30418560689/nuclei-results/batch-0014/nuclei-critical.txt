@@ -1,0 +1,1 @@
+[config-json-exposure-fuzz] [http] [critical] https://memecoin.fun/api/v1/config.json [path="/api/v1/config.json"]
