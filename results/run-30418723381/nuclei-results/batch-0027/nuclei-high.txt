@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://www.routerprotocol.com
+[github-takeover] [http] [high] https://www.alluvial.finance ["alluvialfinance.github.io"]

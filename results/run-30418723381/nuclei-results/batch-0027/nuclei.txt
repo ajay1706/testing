@@ -1,0 +1,29 @@
+[CVE-2025-55184] [http] [high] https://www.routerprotocol.com
+[weak-cipher-suites:tls-1.0] [ssl] [low] wraps.api.testnet.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wraps.api.testnet.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.blazephoenix.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.blazephoenix.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.boundless.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.boundless.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.bitsmiley.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.bitsmiley.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.fry.farm:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.fry.farm:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://xplore.api.v2.routerprotocol.com/metrics
+[github-takeover] [http] [high] https://www.alluvial.finance ["alluvialfinance.github.io"]
+[kubernetes-fake-certificate] [ssl] [low] wormchain-mainnet-1-full.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wormchain-mainnet-1-full.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] wormchain-mainnet-1-full-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] wormchain-mainnet-1-full-rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wormchain-mainnet-1-full-grpc.tm.p2p.org:443
+[self-signed-ssl] [ssl] [low] wormchain-mainnet-1-full-rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] wormchain-mainnet-1-full-ws-rpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wormchain-mainnet-1-full-ws-rpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] wormchain-mainnet-1-full-old-endpoint.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wormchain-mainnet-1-full-old-endpoint.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] xpla-dimension-37-1-full-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] xpla-dimension-37-1-full-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] xpla-dimension-37-1-full-rest.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] xpla-dimension-37-1-full-rest.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] xpla-dimension-37-1-full-ws.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] xpla-dimension-37-1-full-ws.tm.p2p.org:443
