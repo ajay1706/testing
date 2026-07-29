@@ -1,0 +1,4 @@
+https://300-errors.elizaos.ai [502] [] [11] [nginx] [206.81.100.157] [327.889318ms] [Nginx]
+https://this-is.elizaos.ai [502] [] [11] [nginx] [206.81.100.157] [405.364542ms] [Nginx]
+https://x402.elizaos.ai [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [206.81.100.188] [586.080326ms] [Nginx:1.24.0,Ubuntu]
+https://polaccelerator.elizaos.ai [502] [] [11] [nginx] [206.81.100.157] [3.410725646s] [Nginx]
