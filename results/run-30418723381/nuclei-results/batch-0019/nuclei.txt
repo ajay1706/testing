@@ -1,0 +1,56 @@
+[CVE-2022-0952] [http] [high] https://neon-proxy-mainnet.solana.p2p.org/wp-json/click5_sitemap/API/update_html_option_AJAX
+[CVE-2022-0952] [http] [high] https://neon-proxy-mainnet.solana.p2p.org/wp-json/click5_sitemap/API/update_html_option_AJAX
+[shellscripts] [http] [low] https://mirror.chorus.one/init.sh [paths="/init.sh"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] loyalty.campnetwork.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] loyalty.campnetwork.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mainnet.k2lend.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mainnet.k2lend.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] meta.spb.tac.build:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] meta.tac.build:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] meta.spb.tac.build:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] meta.tac.build:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] morpho.widget.testnet.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] morpho.widget.testnet.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nft.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nft.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] old.widget.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] old.widget.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure:version] [http] [low] https://ops.stats.pinax.network/metrics ["12.4.3"]
+[kubernetes-metrics] [http] [low] https://ops.stats.pinax.network/metrics
+[postgres-exporter-metrics] [http] [low] https://ops.stats.pinax.network/metrics
+[kubernetes-fake-certificate] [ssl] [low] madrid.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] madrid.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] mainnet.allora.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mainnet.allora.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] mainnet.celestia.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mainnet.celestia.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] mainnet.mezo.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mainnet.mezo.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] mainnet.osmosis.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mainnet.osmosis.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] mainnet.regen.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mainnet.regen.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] namada-archive-tmp.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] namada-archive.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] namada-archive-tmp.tm.p2p.org:443
+[self-signed-ssl] [ssl] [low] namada-archive.tm.p2p.org:443
+[expired-ssl] [ssl] [low] models.flock.io:443 ["2025-09-12 13:47:08 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] namada-luminara.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] namada-luminara.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] namada-mainnet-archive-snapshots.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] namada-mainnet-archive-snapshots.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] namada-dryrun-archive.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] namada-dryrun-archive.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] namada-testnet-archive-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] namada-testnet-archive-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] namada-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] namada-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] neutron-mainnet-1-full-grpc.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neutron-mainnet-1-full-grpc.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] neutron-mainnet-1-full.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] neutron-mainnet-1-full.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] novel.remedy.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] novel.remedy.tm.p2p.org:443
+[expired-ssl] [ssl] [low] opstorm.pinax.network:443 ["2026-04-28 17:47:59 +0000 UTC"]
