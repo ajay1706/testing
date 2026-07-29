@@ -1,0 +1,67 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.florin.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.florin.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.noble.v10.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.noble.v10.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.testnet.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.testnet.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.testnet.transcends.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.testnet.transcends.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc2.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc2.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[aws-object-listing] [http] [low] https://s3.parquet.pinax.network ["pinax-parquet-public"]
+[kubernetes-fake-certificate] [ssl] [low] rpc.haqq-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.haqq-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.ethos-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.ethos-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.haqq-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.haqq-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.kyve-mainnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.kyve-mainnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.kyve-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.kyve-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.mainnet.allora.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.mainnet.allora.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.mainnet.crescent.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.mainnet.crescent.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.mainnet.cronos.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.mainnet.cronos.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.madrid.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.madrid.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.mainnet.evmos.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.mainnet.evmos.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.mainnet.osmosis.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.mainnet.osmosis.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.mainnet.mezo.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.mainnet.mezo.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.mainnet.kava.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.mainnet.kava.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.mainnet.stride.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.mainnet.stride.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.namada-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.namada-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.provider.cosmos.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.provider.cosmos.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.testnet-dawn-1.astria.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.testnet-dawn-1.astria.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.testnet.allora.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.testnet.allora.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.testnet.astria.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.testnet.astria.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.testnet.aether.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.testnet.aether.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.testnet.axelar.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.testnet.axelar.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.testnet.noble.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.testnet.noble.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.testnet.sei.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.testnet.sei.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.testnet.stride.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.testnet.stride.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.testnet.story.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.testnet.story.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.testnet2.saga.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.testnet2.saga.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rpc.venom.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rpc.venom.tm.p2p.org:443
