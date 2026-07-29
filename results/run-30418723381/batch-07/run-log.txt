@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jul 29 03:12:25 UTC 2026
+[+] Run ID: 30418723381
+[+] Batch name: batch-07
+[+] Batch targets:
+flock.io
+fry.farm
+goldsky.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jul 29 03:13:39 UTC 2026
+[+] HTTPX input count: 133
+[+] Running httpx...
+[+] httpx completed: Wed Jul 29 03:14:00 UTC 2026
+[+] httpx line count: 91
+[+] Batch completed: Wed Jul 29 03:14:00 UTC 2026
