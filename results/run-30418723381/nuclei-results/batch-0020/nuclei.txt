@@ -1,0 +1,30 @@
+[CVE-2021-44451] [http] [medium] https://reports.p2p.org/dashboard/list/ [password="admin",username="admin"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pay.k2lend.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pay.k2lend.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ph.hyperbolic.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ph.hyperbolic.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] point-api.secured.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] point-api.secured.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] regent-test.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] regent-test.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] remix.campnetwork.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] remix.campnetwork.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] regent.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] regent.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[graphiql-exposure] [http] [low] https://query.hangar-testnet.defi.testnet.kiln.fi
+[graphiql-exposure] [http] [low] https://query.railnet-testnet.defi.testnet.kiln.fi
+[kubernetes-fake-certificate] [ssl] [low] provider-rpc-fullnode.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] provider-rpc-fullnode.tm.p2p.org:443
+[self-signed-ssl] [ssl] [low] prover.atoma.network:443
+[kubernetes-fake-certificate] [ssl] [low] rest.velvet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] rest.venom.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rest.venom.tm.p2p.org:443
+[self-signed-ssl] [ssl] [low] rest.velvet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rollapp-evm.dymension-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rollapp-evm.dymension-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rollapp-api.dymension-testnet.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rollapp-api.dymension-testnet.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rosetta-p2p.testnet3.saga.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rosetta-p2p.testnet3.saga.tm.p2p.org:443
+[kubernetes-fake-certificate] [ssl] [low] rewards.routerprotocol.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rewards.routerprotocol.com:443
