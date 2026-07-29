@@ -1,0 +1,2 @@
+https://grafana-aws.birdai.xyz [302] [/login] [29] [nginx/1.18.0 (Ubuntu)] [54.243.213.61] [31.888444ms] [Nginx:1.18.0,Ubuntu]
+https://grafana.birdai.xyz [302] [/login] [29] [cloudflare] [172.67.69.60] [cloudflare] [98.940171ms] [Cloudflare]
