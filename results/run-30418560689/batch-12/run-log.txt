@@ -1,0 +1,14 @@
+[+] Batch started: Wed Jul 29 03:11:17 UTC 2026
+[+] Run ID: 30418560689
+[+] Batch name: batch-12
+[+] Batch targets:
+mercadobitcoin.com.br
+minepi.com
+notabene.id
+[+] Running subfinder...
+[+] Subfinder completed: Wed Jul 29 03:11:54 UTC 2026
+[+] HTTPX input count: 184
+[+] Running httpx...
+[+] httpx completed: Wed Jul 29 03:12:25 UTC 2026
+[+] httpx line count: 116
+[+] Batch completed: Wed Jul 29 03:12:25 UTC 2026

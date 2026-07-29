@@ -1,0 +1,142 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul 29 03:12:25 UTC 2026
+
+HTTPX lines: 116
+Live URLs: 116
+
+## 200
+https://api.mainnet.minepi.com [200] [] [4358] [] [165.227.58.177] [80.203264ms]
+https://api.testnet.minepi.com [200] [] [4317] [] [138.197.233.224] [90.339105ms]
+https://cdn-app.minepi.com [200] [] [1542] [Pi] [AmazonS3] [13.32.230.30] [cloudfront] [78.208423ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://blockexplorer.minepi.com [200] [] [1939] [Pi Blockexplorer] [nginx/1.29.8] [34.96.80.247] [google] [93.458476ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.29.8]
+https://api.testnet2.minepi.com [200] [] [4381] [] [137.184.237.179] [124.867358ms]
+https://backend.demo-app.minepi.com [200] [] [27] [nginx/1.23.1] [159.89.141.202] [137.359229ms] [Express,Nginx:1.23.1,Node.js]
+https://api.minepi.com [200] [] [1714] [SocialChain] [nginx/1.24.0 + Phusion Passenger(R)] [34.149.10.176] [google] [133.166572ms] [Axios:0.18.0,Bootstrap:4.1.3,Cloudflare,Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.24.0,Phusion Passenger,Ruby,Ruby on Rails,cdnjs]
+https://app-cdn.minepi.com [200] [] [1542] [Pi] [AmazonS3] [65.8.20.6] [cloudfront] [165.386634ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://api2.mainnet.minepi.com [200] [] [4381] [cloudflare] [104.21.38.200] [cloudflare] [184.716241ms] [Cloudflare,HTTP/3]
+https://downloads.minepi.com [200] [] [383] [downloads.minepi.com] [nginx/1.14.0 (Ubuntu)] [64.227.96.68] [91.803141ms] [Nginx:1.14.0,Ubuntu]
+https://api.of.mercadobitcoin.com.br [200] [] [345] [] [3.138.79.240] [299.828133ms] [HSTS]
+https://downloads-cached.minepi.com [200] [] [517] [downloads.minepi.com] [AmazonS3] [65.8.20.103] [cloudfront] [159.787625ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://connect.notabene.id [200] [] [2561] [cloudflare] [172.66.43.179] [cloudflare] [367.9114ms] [Cloudflare,HTTP/3]
+https://cockpit-startups.mercadobitcoin.com.br [200] [] [4555] [cloudflare] [104.17.25.105] [cloudflare] [337.465668ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://frontend.demo-app.minepi.com [200] [] [1132] [React App] [nginx/1.23.1] [159.89.141.202] [121.966392ms] [Nginx:1.23.1]
+https://auth.of.mercadobitcoin.com.br [200] [] [345] [] [3.138.79.240] [475.726004ms] [HSTS]
+https://biofinanceira.mercadobitcoin.com.br [200] [] [4486] [BIO Financeira] [cloudflare] [104.17.24.105] [cloudflare] [451.415416ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Google Analytics,Google Cloud,Google Cloud Storage,HSTS]
+https://developers.minepi.com [200] [] [76136] [Pi Network – The First Digital Currency You Can Mine On Your Phone] [cloudflare] [141.193.213.20] [252.11913ms] [Cloudflare,Cloudflare Bot Management,CookieYes,Google Analytics,HTTP/3,MySQL,PHP,Site Kit:1.132.0,WP Engine,WordPress,WordPress Block Editor,WordPress Site Editor,jQuery,jQuery Migrate:3.4.1]
+https://beta-widget.notabene.id [200] [] [994] [Notabene Widget] [AmazonS3] [18.155.173.99] [cloudfront] [843.408421ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://mtls-api.of.mercadobitcoin.com.br [200] [] [345] [] [3.148.141.233] [353.924717ms] [HSTS]
+https://nodes.minepi.com [200] [] [4898] [Pi Node | Pi Blockchain] [AmazonS3] [18.155.173.126] [cloudfront] [201.232544ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Bootstrap,Google Analytics,jQuery:3.3.1]
+https://piverify.minepi.com [200] [] [581] [PiVerify Portal] [nginx/1.31.3] [35.241.44.151] [google] [220.306991ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.31.3]
+https://portfolio-startups.mercadobitcoin.com.br [200] [] [4555] [cloudflare] [104.17.24.105] [cloudflare] [270.403346ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://sandbox.minepi.com [200] [] [1542] [Pi] [AmazonS3] [13.32.230.90] [cloudfront] [271.823311ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://status.minepi.com [200] [] [2340] [Pi Network status] [AmazonS3] [65.8.20.84] [cloudfront] [210.759049ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Unpkg]
+https://sync.minepi.com [200] [] [15] [nginx/1.24.0 + Phusion Passenger(R) 6.1.2] [167.172.11.12] [177.127941ms] [Express,Nginx:1.24.0,Node.js,Phusion Passenger:6.1.2]
+https://node.minepi.com [200] [] [82594] [Pi Network – The First Digital Currency You Can Mine On Your Phone] [cloudflare] [141.193.213.21] [278.736665ms] [Cloudflare,Cloudflare Bot Management,CookieYes,Google Analytics,HTTP/3,MySQL,PHP,Site Kit:1.132.0,WP Engine,WordPress,WordPress Block Editor,WordPress Site Editor,jQuery,jQuery Migrate:3.4.1]
+https://supportbot.minepi.com [200] [] [11122] [Pi Support Chatbot] [] [8.232.135.24] [google] [264.909339ms] [Google Cloud,Google Cloud CDN,HTTP/3,Next.js,Node.js,React,Webpack]
+https://devx.notabene.id [200] [] [219541] [Notabene Travel Rule Integration] [cloudflare] [172.66.40.77] [cloudflare] [413.820765ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,HSTS,HTTP/3,ReadMe,Render]
+https://status.mercadobitcoin.com.br [200] [] [126597] [Mercado Bitcoin - Status] [Vercel] [66.33.60.193] [367.424607ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://trust.notabene.id [200] [] [4464] [Notabene Trust Center] [cloudflare] [172.66.43.179] [cloudflare] [1.322763452s] [Cloudflare,HSTS,HTTP/3]
+https://status.notabene.id [200] [] [112134] [Notabene] [Heroku] [151.101.193.91] [fastly] [457.256533ms] [Google Analytics,HSTS,Sorry,Varnish,reCAPTCHA]
+https://minepi.com [200] [] [314873] [Pi Blockchain, Community & Developer Platform | Pi Network] [cloudflare] [141.193.213.21] [264.81567ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HTTP/3,MySQL,NitroPack,PHP,Site Kit:1.180.0,WP Engine,WordPress,wpBakery]
+https://notabene.id [200] [] [157831] [Notabene - The open trust layer for global payments] [cloudflare] [172.66.43.179] [cloudflare] [498.848905ms] [Bootstrap,Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Linkedin Ads,WordLift,jQuery:3.5.1,jsDelivr]
+https://www.mercadobitcoin.com.br [200] [] [156604] [Sua plataforma de investimentos digitais | Mercado Bitcoin] [cloudflare] [104.17.25.105] [cloudflare] [330.065516ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Google Analytics,HSTS,MySQL,PHP,WordPress,WordPress VIP]
+https://history.testnet.minepi.com [200] [] [374733] [cloudflare] [104.18.42.227] [cloudflare] [347.217022ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://history.testnet2.minepi.com [200] [] [373298] [cloudflare] [104.18.42.227] [cloudflare] [249.908162ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://doc.notabene.id [200] [] [6970534] [Notabene] [cloudflare] [172.66.40.77] [cloudflare] [976.206812ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HTTP/3]
+
+## 301
+https://blog.mercadobitcoin.com.br [301] [https://www.mercadobitcoin.com.br/economia-digital] [520] [301 Moved Permanently] [cloudflare] [104.17.25.105] [cloudflare] [224.581135ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://blog.minepi.com [301] [https://minepi.com/blog/] [162] [301 Moved Permanently] [cloudflare] [141.193.213.11] [429.1362ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://intranet.mercadobitcoin.com.br [301] [https://sites.google.com/mb.com.br/intranet/home] [520] [301 Moved Permanently] [cloudflare] [104.17.24.105] [cloudflare] [142.405461ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://mercadobitcoin.com.br [301] [https://www.mercadobitcoin.com.br/] [520] [301 Moved Permanently] [cloudflare] [104.17.25.105] [cloudflare] [125.710522ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://startups.mercadobitcoin.com.br [301] [https://www.mercadobitcoin.com.br/mb-startups/] [520] [301 Moved Permanently] [cloudflare] [104.17.25.105] [cloudflare] [515.567068ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://www.minepi.com [301] [https://minepi.com/] [162] [301 Moved Permanently] [cloudflare] [141.193.213.20] [329.583248ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.notabene.id [301] [https://notabene.id/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.77] [cloudflare] [309.773041ms] [Cloudflare,HTTP/3]
+
+## 302
+https://conta.mercadobitcoin.com.br [302] [https://conta.mercadobitcoin.com.br/abrir-conta] [69] [cloudflare] [104.17.25.105] [cloudflare] [241.450574ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://central.ajuda.mercadobitcoin.com.br [302] [https://central.ajuda.mercadobitcoin.com.br/servicedesk] [0] [AtlassianEdge] [65.8.20.88] [cloudfront] [391.890368ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://auth.notabene.id [302] [https://notabene.id/] [42] [cloudflare] [172.66.40.77] [cloudflare] [561.00143ms] [Auth0,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://academy.notabene.id [302] [https://academy.notabene.id/app] [0] [] [18.210.76.61] [709.009819ms] [HSTS,Ruby,Ruby on Rails]
+https://mbbroker.mercadobitcoin.com.br [302] [https://www.mercadobitcoin.com.br/mercantil] [143] [302 Found] [cloudflare] [104.17.25.105] [cloudflare] [178.081819ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.notabene.id [302] [/health] [29] [cloudflare] [141.101.90.97] [cloudflare] [793.993574ms] [Cloudflare,Express,HTTP/3,Node.js]
+https://goodbyefiat.notabene.id [302] [/login] [0] [cloudflare] [172.66.40.77] [cloudflare] [596.797356ms] [Cloudflare,HTTP/3]
+https://metamorfose.mercadobitcoin.com.br [302] [https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/mercadobitcoin.com.br/meta&followup=https://sites.google.com/mercadobitcoin.com.br/meta] [0] [cloudflare] [104.17.24.105] [cloudflare] [364.080661ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://idiss.notabene.id [302] [/api/health] [33] [] [3.127.128.38] [831.157058ms] [Express,Node.js]
+https://pro.mercadobitcoin.com.br [302] [https://www.mercadobitcoin.com.br/conta/login?next=/] [74] [cloudflare] [104.17.25.105] [cloudflare] [277.799767ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://suporte.mercadobitcoin.com.br [302] [https://central.ajuda.mercadobitcoin.com.br/servicedesk/customer/portals] [143] [302 Found] [cloudflare] [104.17.24.105] [cloudflare] [155.877867ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://support.help.minepi.com [302] [https://support.help.minepi.com/servicedesk] [0] [AtlassianEdge] [18.238.96.21] [cloudfront] [645.707692ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://token-factory-stellar.mercadobitcoin.com.br [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com:handleRedirect&code_challenge=mVAHhrljnPHN12viMJdqXxzReXL-l5zA1rUNQy72g1g&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEgGJU0T-Jg9Hrsl82-DT_Pnw7ABYKPkBOHCtKx7eV16BFlhFsoWR9HKWWgDdEU0fYHOaiJhlRB7PyEJyNHQdZOlFraUYCDrcCZLmBNeV2OsAYxrPDu-rvnk8VKybp_zt8ebaXcZjnDozHaJJNKr7_T7jN4rsibM-mK5zEsW86Xr2IQ5gkmVrNUxYSmC4k5Ps3ewVTWpoURPIyanES5PTwtnxZSs23rWwTx-kudPrHuWDCiHZ7YYcQUQpl44_ic0lu1-9P-JC0aYrmAC5k4K2mWg_hjNhofpXZU82qoMFHFf3e-P7f8J0yU6u5PVwd5bS1HVhYV2yAL5cBJVE9ZoTUq5OFNnAK7U5TZH233nepEc7z9R--d6PSSbi0VLtv1hXONToO_zgp1I9HONdUjcja6PUEilaRVB4h6aC8rXgeeVPMDmd8TmSXaj_5P0VUNarnF064v96y5JQUIfKo-uYp7XEuY9sMe-5E2i9wpSrK8Ziyu-w8BUkRwLak9UqanOPrh3Ij8kzs0gphwde8IiVJrdBpXx-1ndjPWZs5CBZKHgVS0IDqkN6hTpAmDTVnpIGhX0RooHwLupOFTPrxJoGLzg7uxgt4D6Ev9cSWe9pSdYocrMWGTMs5WRdxBjLLD8BELfJWR9WxyMui9HGNhD9nI8t5eq7tcK17d9lDsUvG1hYzpD1exs3jMXLR7u4OMY2uHwpjf2GYb-wU1fcq1JM3dM2d_Lyi8T6bPyCiEDFw3uKn0nIz9-qoVwlzByBvaS18jW3lz6kDyi7KrPrEgCt0tuAT34XgSpI_dPowP01fdqNCmG_NEQhBieHICw7pRaWDA70YsDuChubxSpqZjLdgBP3w1xyonOZHRNb0FzXifTtsutZOSbPvMgvUshH9hLiwNl7B1coLKnQNrgcrhThqI7yQXVzWmhmh8aCPch_Sl67fFBzklP3JIVee1QRF9-1mvmW6bp2to0WLxuCJPCK-JIhaRC_DpL1G4mkzGW9__2QNYF3kFsRVPunFGiVOTqfLe35r6f79OL4cJWTgLfP_FiSX5wJcDVpGyJC2O4kc45H4adLgOzZji_Y2gydniSZzl_UCcHwJIIgtq20Wh9wxFhmtvZWjF8dp-IRgfFMyX6AvK8uLyrlnQ9cosyUawmjAiG7R4-uNH6ZjqM71HMYAnGtvQ_iL2BK9Qr5w4T6NSy_NnYmp6hK0wTjZUY7gxi7_RERjU4ygqdMqo3LHHBVe7eNMi1DY9gaBQUHxK0IByIkoiAhHgP8lle5i2eENo1o] [36] [cloudflare] [104.17.25.105] [cloudflare] [359.29866ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://support.minepi.com [302] [https://support.help.minepi.com/] [0] [CloudFront] [18.238.96.38] [cloudfront] [698.790811ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://us.auth.notabene.id [302] [https://auth.notabene.id/] [47] [cloudflare] [172.66.43.179] [cloudflare] [506.498086ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+
+## 307
+
+## 308
+
+## 401
+https://pii.notabene.id [401] [] [12] [] [63.185.63.111] [941.846975ms] [Express,Node.js]
+
+## 403
+https://cryptohub.mercadobitcoin.com.br [403] [] [17] [cloudflare] [199.60.103.225] [106.407843ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://cdn.minepi.com [403] [] [249] [cloudflare] [104.18.42.227] [cloudflare] [124.752571ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://app-cdn-02.minepi.com [403] [] [255] [cloudflare] [172.64.145.29] [cloudflare] [169.748413ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://apt.minepi.com [403] [] [146] [403 Forbidden] [nginx] [157.230.138.34] [207.566613ms] [HSTS,Nginx]
+https://conteudo.mercadobitcoin.com.br [403] [] [17] [cloudflare] [104.17.24.105] [cloudflare] [293.904482ms] [Cloudflare]
+https://docs.notabene.id [403] [] [17] [cloudflare] [172.66.40.77] [cloudflare] [117.743014ms] [Cloudflare,HTTP/3]
+https://developer-assets.minepi.com [403] [] [251] [cloudflare] [172.64.145.29] [cloudflare] [260.259636ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://history.mainnet.minepi.com [403] [] [251] [cloudflare] [104.18.42.227] [cloudflare] [183.051993ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://history2.testnet2.minepi.com [403] [] [252] [cloudflare] [104.18.42.227] [cloudflare] [150.380332ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://images.minepi.com [403] [] [252] [cloudflare] [104.18.42.227] [cloudflare] [169.274836ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://kyc-static.minepi.com [403] [] [245] [cloudflare] [104.18.42.227] [cloudflare] [197.58236ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://app.notabene.id [403] [] [5555] [Just a moment...] [cloudflare] [141.101.90.99] [cloudflare] [772.589084ms] [Cloudflare,HTTP/3]
+http://info.mercadobitcoin.com.br [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.238.109.68] [cloudfront] [26.425786ms] [Amazon CloudFront,Amazon Web Services]
+https://media.minepi.com [403] [] [251] [cloudflare] [172.64.145.29] [cloudflare] [263.61857ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://node-cdn.minepi.com [403] [] [243] [cloudflare] [104.18.42.227] [cloudflare] [205.841542ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://pi2day2024-rewards.minepi.com [403] [] [265] [cloudflare] [172.64.145.29] [cloudflare] [463.588381ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://sdk.minepi.com [403] [] [243] [AmazonS3] [65.8.20.98] [cloudfront] [337.233615ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://static.mercadobitcoin.com.br [403] [] [111] [cloudflare] [104.17.24.105] [cloudflare] [246.73181ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://registro.mercadobitcoin.com.br [403] [] [263] [cloudflare] [104.17.24.105] [cloudflare] [747.396537ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://talenthub.mercadobitcoin.com.br [403] [] [1586] [403 Forbidden] [cloudflare] [104.17.24.105] [cloudflare] [476.895872ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+
+## 404
+https://click.contato.mercadobitcoin.com.br [404] [] [1441] [404 Not Found] [cloudflare] [104.17.24.105] [cloudflare] [172.758417ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://click.assessor.mercadobitcoin.com.br [404] [] [1441] [404 Not Found] [cloudflare] [104.17.25.105] [cloudflare] [266.392608ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://click.news.mercadobitcoin.com.br [404] [] [1441] [404 Not Found] [cloudflare] [104.17.24.105] [cloudflare] [322.374302ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://click.info.mercadobitcoin.com.br [404] [] [1441] [404 Not Found] [cloudflare] [104.17.24.105] [cloudflare] [405.440654ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://email.mg.notabene.id [404] [] [19] [] [34.111.99.212] [google] [378.03756ms]
+https://campanhas.mercadobitcoin.com.br [404] [] [103] [cloudflare] [104.17.25.105] [cloudflare] [639.52146ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://mobile.mercadobitcoin.com.br [404] [] [103] [cloudflare] [104.17.24.105] [cloudflare] [212.939602ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://diddocs.notabene.id [404] [] [28088] [Not Found] [cloudflare] [172.66.40.77] [cloudflare] [708.16627ms] [Cloudflare,HTTP/3]
+https://partners.notabene.id [404] [] [48915] [Open main menu] [cloudflare] [199.60.103.226] [1.002926064s] [Cloudflare,Cloudflare Bot Management,Google Analytics,Google Tag Manager,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub,jQuery:1.7.1]
+
+## 500
+
+## 502
+
+## 503
+https://browser.minepi.com [503] [] [108] [] [165.227.20.220] [114.667543ms]
+https://apt-37bdqomm2smp1fwc3pxt.minepi.com [503] [] [108] [] [165.227.20.220] [115.2375ms]
+https://develipers.minepi.com [503] [] [108] [] [165.227.20.220] [124.419159ms]
+https://docs.minepi.com [503] [] [108] [] [165.227.20.220] [110.880097ms]
+https://demo-app.minepi.com [503] [] [108] [] [165.227.20.220] [205.586092ms]
+https://explorer.minepi.com [503] [] [108] [] [165.227.20.220] [104.469864ms]
+https://forum.minepi.com [503] [] [108] [] [165.227.20.220] [117.019454ms]
+https://help.minepi.com [503] [] [108] [] [165.227.20.220] [112.770073ms]
+https://history2.testnet.minepi.com [503] [] [108] [] [165.227.20.220] [134.698513ms]
+https://hostmaster.minepi.com [503] [] [108] [] [165.227.20.220] [128.59231ms]
+https://kyc-cdn.minepi.com [503] [] [108] [] [165.227.20.220] [138.575673ms]
+https://mainnet.minepi.com [503] [] [108] [] [165.227.20.220] [143.645509ms]
+https://node-releases.minepi.com [503] [] [108] [] [165.227.20.220] [191.823343ms]
+https://sdk.testnet.minepi.com [503] [] [108] [] [165.227.20.220] [338.217963ms]
+https://testnet-history.minepi.com [503] [] [108] [] [165.227.20.220] [263.229311ms]
+https://testnet2.minepi.com [503] [] [108] [] [165.227.20.220] [195.41967ms]
+https://testnet.minepi.com [503] [] [108] [] [165.227.20.220] [295.399065ms]
+https://testnet1.minepi.com [503] [] [108] [] [165.227.20.220] [303.483059ms]
+https://testnet3.minepi.com [503] [] [108] [] [165.227.20.220] [325.74436ms]
+https://u003edownloads.minepi.com [503] [] [108] [] [165.227.20.220] [212.695425ms]
+https://validator2.testnet2.minepi.com [503] [] [108] [] [146.190.128.59] [260.460349ms]
+https://validator3.testnet2.minepi.com [503] [] [108] [] [146.190.132.213] [256.312542ms]
+https://us-a.notabene.id [503] [] [1100] [503 Service Temporarily Unavailable] [cloudflare] [172.66.43.179] [cloudflare] [389.319021ms] [Cloudflare,HTTP/3]
+

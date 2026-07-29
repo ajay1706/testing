@@ -1,0 +1,7 @@
+https://blog.mercadobitcoin.com.br [301] [https://www.mercadobitcoin.com.br/economia-digital] [520] [301 Moved Permanently] [cloudflare] [104.17.25.105] [cloudflare] [224.581135ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://blog.minepi.com [301] [https://minepi.com/blog/] [162] [301 Moved Permanently] [cloudflare] [141.193.213.11] [429.1362ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://intranet.mercadobitcoin.com.br [301] [https://sites.google.com/mb.com.br/intranet/home] [520] [301 Moved Permanently] [cloudflare] [104.17.24.105] [cloudflare] [142.405461ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://mercadobitcoin.com.br [301] [https://www.mercadobitcoin.com.br/] [520] [301 Moved Permanently] [cloudflare] [104.17.25.105] [cloudflare] [125.710522ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://startups.mercadobitcoin.com.br [301] [https://www.mercadobitcoin.com.br/mb-startups/] [520] [301 Moved Permanently] [cloudflare] [104.17.25.105] [cloudflare] [515.567068ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://www.minepi.com [301] [https://minepi.com/] [162] [301 Moved Permanently] [cloudflare] [141.193.213.20] [329.583248ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.notabene.id [301] [https://notabene.id/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.77] [cloudflare] [309.773041ms] [Cloudflare,HTTP/3]
