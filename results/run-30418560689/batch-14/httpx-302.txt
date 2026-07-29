@@ -1,0 +1,2 @@
+http://config.staging.safe.pharosnetwork.xyz [403] [] [302] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [335.970074ms] [Apache HTTP Server:2.4.58,Ubuntu]
+http://events.staging.safe.pharosnetwork.xyz [403] [] [302] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [334.996247ms] [Apache HTTP Server:2.4.58,Ubuntu]

@@ -1,0 +1,136 @@
+# HTTPX Status Report
+
+Generated at: Wed Jul 29 03:14:03 UTC 2026
+
+HTTPX lines: 108
+Live URLs: 108
+
+## 200
+https://ai-api.pons.ai [200] [] [408] [PONS.ai] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [354.987868ms] [Nginx:1.18.0,Ubuntu]
+https://app-api.pons.ai [200] [] [8] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [401.872359ms] [HSTS,Nginx:1.18.0,Ubuntu]
+https://dscultureland.app.pons.ai [200] [] [524] [PONS.ai AI Magic Booth] [Vercel] [216.150.1.193] [473.364694ms] [HSTS,Vercel]
+https://7iw7qf4qaw2ptx77.pharosnetwork.xyz [200] [] [1339] [Pharos Testnet- Experience the Fastest EVM-Compatible Layer 1 for Real-World Assets & Crosschain Liquidity] [AmazonS3] [52.85.129.51] [cloudfront] [558.505741ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://kpmg80a.app.pons.ai [200] [] [524] [PONS.ai AI Magic Booth] [Vercel] [216.150.16.193] [91.752978ms] [HSTS,Vercel]
+https://career.pharosnetwork.xyz [200] [] [1387] [Pharos Open Positions] [AmazonS3] [52.85.129.102] [cloudfront] [641.999004ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://ijc25.app.pons.ai [200] [] [524] [PONS.ai AI Magic Booth] [Vercel] [216.150.16.193] [199.672599ms] [HSTS,Vercel]
+https://ai-magic-booth.app.pons.ai [200] [] [524] [PONS.ai AI Magic Booth] [Vercel] [216.150.1.129] [778.667151ms] [HSTS,Vercel]
+https://rosysky.app.pons.ai [200] [] [524] [PONS.ai AI Magic Booth] [Vercel] [216.150.16.193] [217.1137ms] [HSTS,Vercel]
+https://testnet.pharosnetwork.xyz [200] [] [1339] [Pharos Testnet- Experience the Fastest EVM-Compatible Layer 1 for Real-World Assets & Crosschain Liquidity] [AmazonS3] [3.163.158.39] [cloudfront] [71.880266ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://pascal.xyz [200] [] [23809] [Pascal.xyz for sale | Spaceship.com] [openresty] [52.40.42.113] [380.494028ms] [HSTS,Nginx,OpenResty]
+https://www.pascal.xyz [200] [] [23809] [Pascal.xyz for sale | Spaceship.com] [openresty] [44.232.173.249] [500.339488ms] [HSTS,Nginx,OpenResty]
+https://www.pons.ai [200] [] [1278517] [GenAI Hyper-Personalization for Brands | AI Photo Booth & AIUGC | PONS.ai] [Pepyaka] [34.149.87.45] [google] [329.492891ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Lodash,React,Wix]
+
+## 301
+https://docs.pharosnetwork.xyz [301] [https://docs.pharos.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.187.78] [cloudflare] [110.118308ms] [Cloudflare]
+https://cogx.cms.pons.ai [301] [https://cogx.cms.pons.ai/cogx/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [327.617968ms] [Nginx:1.18.0,Ubuntu]
+https://ad2go.cms.pons.ai [301] [https://ad2go.cms.pons.ai/ad2go-admin/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [327.392428ms] [Nginx:1.18.0,Ubuntu]
+https://firsthandsummit.cms.pons.ai [301] [https://firsthandsummit.cms.pons.ai/firsthand/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [336.710824ms] [Nginx:1.18.0,Ubuntu]
+https://cgc2.cms.pons.ai [301] [https://cgc2.cms.pons.ai/cgc2/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [372.657743ms] [Nginx:1.18.0,Ubuntu]
+https://chubbpicasso.cms.pons.ai [301] [https://chubbpicasso.cms.pons.ai/picasso/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [372.963305ms] [Nginx:1.18.0,Ubuntu]
+https://foodpandahk10a.cms.pons.ai [301] [https://foodpandahk10a.cms.pons.ai/food-panda/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [374.545199ms] [Nginx:1.18.0,Ubuntu]
+https://awstechfest.cms.pons.ai [301] [https://awstechfest.cms.pons.ai/aws/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [378.309374ms] [Nginx:1.18.0,Ubuntu]
+https://cms.pons.ai [301] [https://cms.pons.ai/admin/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [383.730789ms] [Nginx:1.18.0,Ubuntu]
+https://aiatownhall.cms.pons.ai [301] [https://aiatownhall.cms.pons.ai/aia/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [427.394388ms] [Nginx:1.18.0,Ubuntu]
+https://dscultureland.cms.pons.ai [301] [https://dscultureland.cms.pons.ai/dahsingbank/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [436.110226ms] [Nginx:1.18.0,Ubuntu]
+https://ba38cdf2888bffa1dd.pharosnetwork.xyz [301] [https://www.pharos.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [486.919436ms] [Cloudflare,HSTS,HTTP/3]
+https://goldjoy.cms.pons.ai [301] [https://goldjoy.cms.pons.ai/goldjoy/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [313.852949ms] [Nginx:1.18.0,Ubuntu]
+https://goc.cms.pons.ai [301] [https://goc.cms.pons.ai/goc/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [346.697062ms] [Nginx:1.18.0,Ubuntu]
+https://hkpread.cms.pons.ai [301] [https://hkpread.cms.pons.ai/hkp/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [318.298125ms] [Nginx:1.18.0,Ubuntu]
+https://hktdcusa-group.cms.pons.ai [301] [https://hktdcusa-group.cms.pons.ai/hktdc-americas/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [313.259234ms] [Nginx:1.18.0,Ubuntu]
+https://hkstptia.cms.pons.ai [301] [https://hkstptia.cms.pons.ai/hkstp/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [316.793819ms] [Nginx:1.18.0,Ubuntu]
+https://hkgcc30.cms.pons.ai [301] [https://hkgcc30.cms.pons.ai/hkgccibs/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [325.494823ms] [Nginx:1.18.0,Ubuntu]
+https://goose-island.cms.pons.ai [301] [https://goose-island.cms.pons.ai/goose-island/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [349.698963ms] [Nginx:1.18.0,Ubuntu]
+https://hktdcusa.cms.pons.ai [301] [https://hktdcusa.cms.pons.ai/hktdc/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [328.212898ms] [Nginx:1.18.0,Ubuntu]
+https://hsbcjs25.cms.pons.ai [301] [https://hsbcjs25.cms.pons.ai/hsbc/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [322.738788ms] [Nginx:1.18.0,Ubuntu]
+https://neun.pons.ai [301] [https://www.pons.ai/] [0] [Pepyaka] [34.149.87.45] [google] [215.990929ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,React,Wix]
+https://ihs.cms.pons.ai [301] [https://ihs.cms.pons.ai/ihs/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [311.93661ms] [Nginx:1.18.0,Ubuntu]
+https://kpmg80a.cms.pons.ai [301] [https://kpmg80a.cms.pons.ai/kpmg/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [310.376802ms] [Nginx:1.18.0,Ubuntu]
+https://ixp.cms.pons.ai [301] [https://ixp.cms.pons.ai/ixp/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [343.537341ms] [Nginx:1.18.0,Ubuntu]
+https://pharosnetwork.xyz [301] [https://www.pharosnetwork.xyz/] [166] [301 Moved Permanently] [] [75.2.70.75] [266.637641ms] [HSTS]
+https://manulife.cms.pons.ai [301] [https://manulife.cms.pons.ai/manulife/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [354.309732ms] [Nginx:1.18.0,Ubuntu]
+https://nvda.cms.pons.ai [301] [https://nvda.cms.pons.ai/nvda/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [343.750609ms] [Nginx:1.18.0,Ubuntu]
+https://preface.cms.pons.ai [301] [https://preface.cms.pons.ai/preface/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [313.814389ms] [Nginx:1.18.0,Ubuntu]
+https://pons.ai [301] [https://www.pons.ai/] [0] [Pepyaka] [23.236.62.147] [google] [360.584836ms] [HSTS,React,Wix]
+https://scmppf.cms.pons.ai [301] [https://scmppf.cms.pons.ai/scmphk/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [336.047217ms] [Nginx:1.18.0,Ubuntu]
+https://rosysky.cms.pons.ai [301] [https://rosysky.cms.pons.ai/rosysky/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [339.711903ms] [Nginx:1.18.0,Ubuntu]
+https://sohoconnectsasia.cms.pons.ai [301] [https://sohoconnectsasia.cms.pons.ai/soho-house/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [342.018269ms] [Nginx:1.18.0,Ubuntu]
+https://www.neun.pons.ai [301] [https://www.pons.ai/] [0] [Pepyaka] [34.149.87.45] [google] [217.662403ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,React,Wix]
+https://vistrageni.cms.pons.ai [301] [https://vistrageni.cms.pons.ai/vistrageni/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [340.586772ms] [Nginx:1.18.0,Ubuntu]
+https://wehk.cms.pons.ai [301] [https://wehk.cms.pons.ai/wehk/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [353.660355ms] [Nginx:1.18.0,Ubuntu]
+https://www.pharosnetwork.xyz [301] [https://www.pharos.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [312.65172ms] [Cloudflare,HSTS,HTTP/3]
+https://ypogba.cms.pons.ai [301] [https://ypogba.cms.pons.ai/ypo/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [312.31191ms] [Nginx:1.18.0,Ubuntu]
+https://zlabel.cms.pons.ai [301] [https://zlabel.cms.pons.ai/zlabel/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [323.897176ms] [Nginx:1.18.0,Ubuntu]
+http://pipeline-deploy.pons.ai [301] [https://pipeline-deploy.pons.ai/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [195.290232ms] [Nginx:1.18.0,Ubuntu]
+http://pipeline-dev.pons.ai [301] [https://pipeline-dev.pons.ai/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [195.205878ms] [Nginx:1.18.0,Ubuntu]
+
+## 302
+http://config.staging.safe.pharosnetwork.xyz [403] [] [302] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [335.970074ms] [Apache HTTP Server:2.4.58,Ubuntu]
+http://events.staging.safe.pharosnetwork.xyz [403] [] [302] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [334.996247ms] [Apache HTTP Server:2.4.58,Ubuntu]
+
+## 307
+https://ai-office.pons.ai [307] [https://ai-office.pons.ai/login?callbackUrl=https%3A%2F%2Fai-office.pons.ai%2F] [78] [Fly/3d7232b6e (2026-07-27)] [66.241.124.13] [365.706147ms] [Fly.io]
+http://transaction.staging.safe.pharosnetwork.xyz [403] [] [307] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [336.131475ms] [Apache HTTP Server:2.4.58,Ubuntu]
+
+## 308
+
+## 401
+https://ad2go-pipeline.pons.ai [401] [] [56] [cloudflare] [104.26.15.32] [cloudflare] [339.705569ms] [Cloudflare]
+https://generation-pipeline.pons.ai [401] [] [56] [cloudflare] [104.26.15.32] [cloudflare] [363.728124ms] [Cloudflare]
+https://ng-pipeline.pons.ai [401] [] [56] [cloudflare] [172.67.74.148] [cloudflare] [422.762203ms] [Cloudflare]
+https://polaroid-pipeline.pons.ai [401] [] [56] [cloudflare] [104.26.14.32] [cloudflare] [414.998307ms] [Cloudflare]
+
+## 403
+http://flower-transaction-testnet.staging.safe.pharosnetwork.xyz [403] [] [322] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [335.681645ms] [Apache HTTP Server:2.4.58,Ubuntu]
+http://config.staging.safe.pharosnetwork.xyz [403] [] [302] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [335.970074ms] [Apache HTTP Server:2.4.58,Ubuntu]
+http://gateway.staging.safe.pharosnetwork.xyz [403] [] [303] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [342.948433ms] [Apache HTTP Server:2.4.58,Ubuntu]
+http://flower-transaction.staging.safe.pharosnetwork.xyz [403] [] [314] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [340.642848ms] [Apache HTTP Server:2.4.58,Ubuntu]
+http://flower-transaction-atlantic-testnet.staging.safe.pharosnetwork.xyz [403] [] [331] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [339.267486ms] [Apache HTTP Server:2.4.58,Ubuntu]
+http://events.staging.safe.pharosnetwork.xyz [403] [] [302] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [334.996247ms] [Apache HTTP Server:2.4.58,Ubuntu]
+http://transaction-atlantic-testnet.staging.safe.pharosnetwork.xyz [403] [] [324] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [335.430227ms] [Apache HTTP Server:2.4.58,Ubuntu]
+http://transaction-testnet.staging.safe.pharosnetwork.xyz [403] [] [315] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [335.440695ms] [Apache HTTP Server:2.4.58,Ubuntu]
+http://transaction.staging.safe.pharosnetwork.xyz [403] [] [307] [403 Forbidden] [Apache/2.4.58 (Ubuntu)] [65.109.42.217] [336.131475ms] [Apache HTTP Server:2.4.58,Ubuntu]
+https://static.pharosnetwork.xyz [403] [] [111] [AmazonS3] [143.204.160.110] [cloudfront] [708.777787ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://chubbpicasso.app.pons.ai [404] [] [107] [Vercel] [66.33.60.193] [494.550202ms] [HSTS,Vercel]
+https://cn-app.pons.ai [404] [] [107] [Vercel] [66.33.60.35] [515.798448ms] [HSTS,Vercel]
+https://foodpandahk10a.app.pons.ai [404] [] [107] [Vercel] [66.33.60.130] [542.506211ms] [HSTS,Vercel]
+https://aiatownhall.app.pons.ai [404] [] [107] [Vercel] [76.76.21.98] [545.822373ms] [HSTS,Vercel]
+https://firsthandsummit.app.pons.ai [404] [] [107] [Vercel] [66.33.60.193] [553.649567ms] [HSTS,Vercel]
+https://ai-coolman-curator.app.pons.ai [404] [] [107] [Vercel] [66.33.60.66] [573.340193ms] [HSTS,Vercel]
+https://app.pons.ai [404] [] [107] [Vercel] [76.76.21.93] [580.161307ms] [HSTS,Vercel]
+https://awstechfest.app.pons.ai [404] [] [107] [Vercel] [66.33.60.66] [583.236559ms] [HSTS,Vercel]
+https://cogx.app.pons.ai [404] [] [107] [Vercel] [76.76.21.241] [611.432085ms] [HSTS,Vercel]
+https://goc.app.pons.ai [404] [] [107] [Vercel] [76.76.21.98] [585.912513ms] [HSTS,Vercel]
+https://cgc2.app.pons.ai [404] [] [107] [Vercel] [76.76.21.22] [722.365954ms] [HSTS,Vercel]
+https://goldjoy.app.pons.ai [404] [] [107] [Vercel] [66.33.60.35] [510.900036ms] [HSTS,Vercel]
+https://goose-island.app.pons.ai [404] [] [107] [Vercel] [76.76.21.22] [507.699494ms] [HSTS,Vercel]
+https://hkstptia.app.pons.ai [404] [] [107] [Vercel] [76.76.21.93] [501.288169ms] [HSTS,Vercel]
+https://soccer-fever-2026.app.pons.ai [404] [] [107] [Vercel] [216.150.1.193] [162.323213ms] [HSTS,Vercel]
+https://hsbcjs25.app.pons.ai [404] [] [107] [Vercel] [66.33.60.193] [489.730442ms] [HSTS,Vercel]
+https://hktdcusa-group.app.pons.ai [404] [] [107] [Vercel] [66.33.60.66] [561.085691ms] [HSTS,Vercel]
+https://hktdcusa.app.pons.ai [404] [] [107] [Vercel] [76.76.21.98] [566.57491ms] [HSTS,Vercel]
+https://hkgcc30.app.pons.ai [404] [] [107] [Vercel] [76.76.21.98] [590.967872ms] [HSTS,Vercel]
+https://ixp.app.pons.ai [404] [] [107] [Vercel] [66.33.60.66] [505.844928ms] [HSTS,Vercel]
+https://ihs.app.pons.ai [404] [] [107] [Vercel] [216.150.1.193] [619.123964ms] [HSTS,Vercel]
+https://manulife.app.pons.ai [404] [] [107] [Vercel] [66.33.60.66] [566.276766ms] [HSTS,Vercel]
+https://nvda.app.pons.ai [404] [] [107] [Vercel] [66.33.60.194] [558.412477ms] [HSTS,Vercel]
+https://preface.app.pons.ai [404] [] [107] [Vercel] [66.33.60.67] [596.363594ms] [HSTS,Vercel]
+https://scmppf.app.pons.ai [404] [] [107] [Vercel] [76.76.21.93] [559.749223ms] [HSTS,Vercel]
+https://sohoconnectsasia.app.pons.ai [404] [] [107] [Vercel] [76.76.21.22] [538.243357ms] [HSTS,Vercel]
+https://sandboxvrhk.app.pons.ai [404] [] [107] [Vercel] [66.33.60.66] [584.191203ms] [HSTS,Vercel]
+https://vistrageni.app.pons.ai [404] [] [107] [Vercel] [66.33.60.130] [525.867818ms] [HSTS,Vercel]
+https://wehk.app.pons.ai [404] [] [107] [Vercel] [76.76.21.93] [519.067056ms] [HSTS,Vercel]
+https://ypogba.app.pons.ai [404] [] [107] [Vercel] [66.33.60.35] [480.281195ms] [HSTS,Vercel]
+https://staging-app.pons.ai [404] [] [107] [Vercel] [216.150.16.1] [807.407484ms] [HSTS,Vercel]
+https://selfie-pipeline.pons.ai [404] [] [22] [cloudflare] [104.26.14.32] [cloudflare] [3.657412177s] [Cloudflare]
+
+## 500
+
+## 502
+https://app-asset.pons.ai [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [365.971768ms] [Nginx:1.18.0,Ubuntu]
+https://staging-cms.pons.ai [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [311.452775ms] [Nginx:1.18.0,Ubuntu]
+https://staging-app-api.pons.ai [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [20.78.121.183] [365.130788ms] [Nginx:1.18.0,Ubuntu]
+
+## 503
+
