@@ -1,0 +1,39 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] vault-api.secured.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vault-api.secured.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] widget.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] widget.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] widget.testnet.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] widget.testnet.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wildcard.17bc093e63403e72.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wildcard.17bc093e63403e72.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wildcard.b147e46da4be4523.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wildcard.b147e46da4be4523.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wildcard.e321feac73c0f4e2.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wildcard.e321feac73c0f4e2.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] worker.express.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] worker.dollar.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] worker.dollar.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] worker.express.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] worker.points.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] worker.points.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[postgres-exporter-metrics] [http] [low] https://wildcard.180abb63f9f9525b.dyndns.dappnode.io/metrics
+[python-metrics] [http] [low] https://wildcard.180abb63f9f9525b.dyndns.dappnode.io/metrics
+[wp-user-enum:usernames] [http] [low] https://wildcard.c0f7b2d2b6b13a6a.dyndns.dappnode.io/wp-json/wp/v2/users/ ["wkp-aadmin","WkP-Aadmin"]
+[kubernetes-fake-certificate] [ssl] [low] venom.tm.p2p.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] venom.tm.p2p.org:443
+[expired-ssl] [ssl] [low] wildcard.17bc093e63403e72.dyndns.dappnode.io:443 ["2026-07-27 14:52:27 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] veera-verifier.routerprotocol.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] veera-verifier.routerprotocol.com:443
+[expired-ssl] [ssl] [low] wildcard.007a3e9d5925263e.dyndns.dappnode.io:443 ["2025-05-29 14:20:44 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] wildcard.007a3e9d5925263e.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] wildcard.0e80f9deef7353fb.dyndns.dappnode.io:443 ["2025-05-29 14:20:44 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] wildcard.0e80f9deef7353fb.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.11085d41527af562.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.5d7031f676f5d957.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.6962a458b6e154bb.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.8a95735304ae46f9.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.7992f7b5542d0db1.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.c27e2a933e77b4c3.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.e5ba4a6e4bb46874.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.1ef404ed43032681.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.b147e46da4be4523.dyndns.dappnode.io:443
