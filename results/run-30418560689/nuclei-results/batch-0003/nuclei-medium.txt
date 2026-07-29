@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://analytics.aeon.xyz//oast.me/%2F.. [redirect="/oast.me/%2F.."]
+[CVE-2021-3654] [http] [medium] https://analytics.aeon.xyz//interact.sh/%2f..
