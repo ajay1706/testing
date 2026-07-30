@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://dummy-exporter.perseverance.chainflip.io/metrics
+[prometheus-metrics] [http] [medium] https://explorer-api.mayan.finance/metrics
