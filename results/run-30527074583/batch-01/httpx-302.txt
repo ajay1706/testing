@@ -1,0 +1,2 @@
+https://friends.axelar.network [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=friends.axelar.network] [120] [nginx] [67.199.248.12] [143.793167ms] [HSTS,HTTP/3,Nginx]
+https://trade-arb.bluefin.io [302] [https://trade.bluefin.io/] [496] [302 Found] [cloudflare] [172.66.43.105] [cloudflare] [3.029236024s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
