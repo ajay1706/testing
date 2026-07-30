@@ -1,0 +1,5 @@
+[CVE-2024-46310] [http] [medium] https://api.pol.polygon.technology/players.json
+[gitlab-api-user-enum] [http] [medium] https://api.pol.polygon.technology/api/v4/users/6 [uid="6"]
+[prometheus-metrics] [http] [medium] https://aevo-prod-monitor.socket.tech/metrics
+[CVE-2011-2744] [http] [medium] https://agentic-docs.polygon.technology/?action=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00
+[CVE-2024-5483] [http] [medium] https://api.pol.polygon.technology/wp-json/learnpress/v1/users
