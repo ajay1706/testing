@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul 30 08:40:23 UTC 2026
+[+] Run ID: 30527047197
+[+] Batch name: batch-15
+[+] Batch targets:
+union.build
+vana.org
+walrus.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul 30 08:41:54 UTC 2026
+[+] HTTPX input count: 439
+[+] Running httpx...
+[+] httpx completed: Thu Jul 30 08:42:30 UTC 2026
+[+] httpx line count: 338
+[+] Batch completed: Thu Jul 30 08:42:30 UTC 2026
