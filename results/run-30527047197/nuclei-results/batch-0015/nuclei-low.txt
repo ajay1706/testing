@@ -1,0 +1,5 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] 80085.union.build:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 80085.union.build:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[debug-vars] [http] [low] https://7560.rpc.thirdweb.com/debug/vars
+[self-signed-ssl] [ssl] [low] 68aec69abbd8ce86c1e38cfa7621bdeb.tenderly.co:443
+[self-signed-ssl] [ssl] [low] 80bc9fb656dcd1db984b56a549d60c4f.tenderly.co:443
