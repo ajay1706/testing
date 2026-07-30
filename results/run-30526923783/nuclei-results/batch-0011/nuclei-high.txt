@@ -1,0 +1,2 @@
+[framer-takeover] [http] [high] https://gamechain.b3.fun ["sites.framer.app"]
+[github-takeover] [http] [high] https://github-test.orderly.network ["orderlynetwork.github.io"]
