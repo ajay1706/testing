@@ -1,0 +1,3 @@
+https://sbt.dinari.com [301] [https://app.dinari.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.6.164] [cloudflare] [103.548135ms] [Cloudflare,HTTP/3]
+https://www.dinari.com [301] [https://dinari.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [208.061531ms] [Cloudflare,HSTS,HTTP/3]
+http://activity-form.bitlayer.org [301] [https://activity-form.bitlayer.org/] [519] [301 Moved Permanently] [cloudflare] [172.66.43.124] [cloudflare] [247.952947ms] [Cloudflare,Cloudflare Browser Insights]

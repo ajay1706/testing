@@ -1,0 +1,5 @@
+https://bitlayer.org [302] [https://www.bitlayer.org/] [143] [302 Found] [cloudflare] [172.66.43.124] [cloudflare] [22.138006ms] [Cloudflare]
+https://finality.bitlayer.org [302] [https://bitvmbridge.bitlayer.org/] [143] [302 Found] [cloudflare] [172.66.40.132] [cloudflare] [24.62739ms] [Cloudflare]
+https://docs.dinari.com [302] [/docs] [27] [cloudflare] [104.16.242.118] [cloudflare] [171.816582ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://app.bitlayer.org [302] [/btcfi] [0] [cloudflare] [172.66.43.124] [cloudflare] [679.054368ms] [Cloudflare]
+https://bitvmbridge.bitlayer.org [302] [/btcfi] [0] [cloudflare] [172.66.40.132] [cloudflare] [882.158201ms] [Cloudflare]
