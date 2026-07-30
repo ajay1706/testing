@@ -1,0 +1,2 @@
+https://disperser-v2-testnet-ussj1-hoodi.eigenda.xyz [502] [] [16] [cloudflare] [104.18.1.169] [cloudflare] [123.295568ms] [Cloudflare]
+https://relay-1-testnet-ussj1-hoodi.eigenda.xyz [502] [] [16] [cloudflare] [104.18.1.169] [cloudflare] [300.816813ms] [Cloudflare]
