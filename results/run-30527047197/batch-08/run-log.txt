@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul 30 08:36:31 UTC 2026
+[+] Run ID: 30527047197
+[+] Batch name: batch-08
+[+] Batch targets:
+megaeth.com
+mezo.org
+nodeops.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul 30 08:37:54 UTC 2026
+[+] HTTPX input count: 298
+[+] Running httpx...
+[+] httpx completed: Thu Jul 30 08:38:39 UTC 2026
+[+] httpx line count: 146
+[+] Batch completed: Thu Jul 30 08:38:39 UTC 2026
