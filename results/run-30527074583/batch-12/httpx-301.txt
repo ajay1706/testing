@@ -1,0 +1,5 @@
+http://dlapi.socket.tech [301] [https://dlapi.socket.tech/] [167] [301 Moved Permanently] [cloudflare] [172.66.162.67] [cloudflare] [3.027151439s] [Cloudflare]
+http://grpc.apis.scallop.io [301] [https://grpc.apis.scallop.io/] [169] [301 Moved Permanently] [nginx/1.30.1] [84.32.32.46] [3.12437916s] [Nginx:1.30.1]
+http://plugin.socket.tech [301] [https://plugin.socket.tech/] [167] [301 Moved Permanently] [CloudFront] [108.138.246.30] [cloudfront] [1.051869325s] [Amazon CloudFront,Amazon Web Services]
+http://scallop.io [301] [https://scallop.io/] [167] [301 Moved Permanently] [CloudFront] [3.166.96.98] [cloudfront] [1.099989685s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+http://www.socket.tech [301] [https://www.socket.tech/] [167] [301 Moved Permanently] [CloudFront] [18.244.214.102] [cloudfront] [4.04520002s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
