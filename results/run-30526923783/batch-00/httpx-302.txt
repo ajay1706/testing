@@ -1,0 +1,3 @@
+https://future.aethir.com [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=future.aethir.com] [115] [nginx] [67.199.248.12] [252.519951ms] [HSTS,HTTP/3,Nginx]
+https://checker.aethir.com [302] [https://app.aethir.com:443/] [137] [302 Found] [stgw] [43.173.141.245] [1.30056611s]
+https://showcase.nexus.availproject.org [302] [https://elements.nexus.availproject.org/] [143] [302 Found] [cloudflare] [104.20.34.137] [cloudflare] [270.077638ms] [Cloudflare]

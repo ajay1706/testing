@@ -1,0 +1,4 @@
+https://analytics.availproject.org [502] [] [0] [Caddy] [137.184.84.203] [171.365017ms] [Caddy,HTTP/3]
+https://cosmos03-coral.availproject.org [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [159.89.151.61] [349.330274ms] [Nginx:1.24.0,Ubuntu]
+https://cosmos02-coral.availproject.org [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [143.198.74.68] [469.250026ms] [Nginx:1.24.0,Ubuntu]
+https://vsc-test-02-coral.availproject.org [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [143.198.74.68] [427.149804ms] [Nginx:1.24.0,Ubuntu]
