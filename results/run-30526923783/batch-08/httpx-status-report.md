@@ -1,0 +1,67 @@
+# HTTPX Status Report
+
+Generated at: Thu Jul 30 08:35:44 UTC 2026
+
+HTTPX lines: 41
+Live URLs: 41
+
+## 200
+https://claim.lombard.finance [200] [] [13565] [Lombard: Bitcoin Capital Markets Onchain] [AmazonS3] [18.238.109.93] [cloudfront] [121.321165ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS,reCAPTCHA]
+https://explorer.testnet.lens.xyz [200] [] [2197] [Lens Network Block Explorer] [cloudflare] [172.67.69.164] [cloudflare] [263.849941ms] [Cloudflare,HSTS,Vercel]
+https://defiunited.lens.xyz [200] [] [8638] [I Was There When DeFi United] [Vercel] [216.150.16.193] [273.578777ms] [HSTS,Vercel]
+https://app.magmafinance.io [200] [] [2447] [Magma] [cloudflare] [104.21.65.196] [cloudflare] [390.690374ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3]
+https://developer.lens.xyz [200] [] [30337] [Lens Developer Dashboard] [cloudflare] [104.26.12.28] [cloudflare] [245.322461ms] [Cloudflare,HSTS,Vercel]
+https://api.lens.xyz [200] [] [506] [cloudflare] [104.26.12.28] [cloudflare] [449.302948ms] [Cloudflare]
+https://api.staging.lens.xyz [200] [] [514] [cloudflare] [104.26.12.28] [cloudflare] [454.900098ms] [Cloudflare]
+https://api.testnet.lens.xyz [200] [] [514] [cloudflare] [104.26.13.28] [cloudflare] [479.95756ms] [Cloudflare]
+https://login.staging.lens.xyz [200] [] [6401] [Lens ID] [cloudflare] [104.26.12.28] [cloudflare] [294.796517ms] [Cloudflare,HSTS,Vercel]
+https://magmafinance.io [200] [] [2284] [Magma] [cloudflare] [172.67.165.128] [cloudflare] [617.847957ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3]
+https://explorer.lens.xyz [200] [] [77047] [Lens Chain Mainnet blockchain explorer - View Lens Chain Mainnet stats | Blockscout] [cloudflare] [104.26.12.28] [cloudflare] [925.513696ms] [Cloudflare,Next.js,Node.js,React,Webpack]
+https://explorer-next.lens.xyz [200] [] [77047] [Lens Chain Mainnet blockchain explorer - View Lens Chain Mainnet stats | Blockscout] [cloudflare] [104.26.12.28] [cloudflare] [974.516244ms] [Cloudflare,Next.js,Node.js,React,Webpack]
+https://strapi.lombard.finance [200] [] [3290] [Welcome to your Strapi app] [nginx/1.20.0] [54.177.56.174] [157.563512ms] [Amazon S3,Amazon Web Services,HSTS,Nginx:1.20.0]
+https://docs.lombard.finance [200] [] [314755] [Lombard, The Onchain Bitcoin Company] [] [18.238.109.94] [cloudfront] [213.969446ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://onboarding.lens.xyz [200] [] [168370] [Lens] [cloudflare] [104.26.13.28] [cloudflare] [263.179297ms] [Cloudflare,HSTS,Vercel]
+https://lens.xyz [200] [] [222664] [Lens] [cloudflare] [104.26.12.28] [cloudflare] [215.125792ms] [Cloudflare,HSTS,Vercel]
+https://www.lombard.finance [200] [] [508735] [Lombard: Bitcoin Capital Markets Onchain] [AmazonS3] [3.167.212.100] [cloudfront] [138.342143ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS]
+
+## 301
+https://docs.lens.xyz [301] [https://lens.xyz/docs] [167] [301 Moved Permanently] [cloudflare] [104.26.13.28] [cloudflare] [167.841895ms] [Cloudflare]
+https://lombard.finance [301] [https://www.lombard.finance/] [0] [AmazonS3] [3.168.132.108] [cloudfront] [193.363703ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://www.lens.xyz [301] [https://lens.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.13.28] [cloudflare] [179.040869ms] [Cloudflare]
+http://collect.lens.xyz [301] [https://collect.lens.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.164] [cloudflare] [92.785706ms] [Cloudflare]
+http://share.lens.xyz [301] [https://share.lens.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.28] [cloudflare] [78.899624ms] [Cloudflare]
+http://stats.lens.xyz [301] [https://stats.lens.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.13.28] [cloudflare] [93.451483ms] [Cloudflare]
+http://waitlist.lens.xyz [301] [https://waitlist.lens.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.28] [cloudflare] [82.655629ms] [Cloudflare,HTTP/2]
+
+## 302
+
+## 307
+
+## 308
+https://claim.lens.xyz [308] [https://lens.xyz/] [15] [cloudflare] [172.67.69.164] [cloudflare] [354.782097ms] [Cloudflare,HSTS,Vercel]
+http://status.testnet.lens.xyz [308] [https://status.testnet.lens.xyz/] [0] [Caddy] [142.132.149.97] [295.76039ms] [Caddy]
+http://status.lens.xyz [308] [https://status.lens.xyz/] [0] [Caddy] [142.132.149.97] [287.566712ms] [Caddy]
+
+## 401
+
+## 403
+https://strapi-assets.lombard.finance [403] [] [111] [AmazonS3] [18.238.96.105] [cloudfront] [252.496619ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://gastald-testnet.prod.lombard.finance [404] [] [32] [] [54.218.199.149] [183.382374ms] [HSTS]
+https://api.lombard.finance [404] [] [146] [404 Not Found] [] [13.32.230.118] [cloudfront] [189.290018ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://explorer-api.testnet.lens.xyz [404] [] [63] [cloudflare] [172.67.69.164] [cloudflare] [451.106937ms] [Cloudflare,HSTS]
+https://block-explorer-api.lens.xyz [404] [] [63] [cloudflare] [172.67.69.164] [cloudflare] [457.108631ms] [Cloudflare,HSTS]
+https://explorer-api.lens.xyz [404] [] [63] [cloudflare] [104.26.13.28] [cloudflare] [478.037391ms] [Cloudflare,HSTS]
+https://block-explorer-api.testnet.lens.xyz [404] [] [63] [cloudflare] [172.67.69.164] [cloudflare] [481.583305ms] [Cloudflare,HSTS]
+https://mainnet.prod.lombard.finance [404] [] [146] [404 Not Found] [] [18.238.96.37] [cloudfront] [81.881358ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://block-explorer-verify.testnet.lens.xyz [404] [] [0] [] [34.49.168.238] [google] [671.90514ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://staging.prod.lombard.finance [404] [] [32] [] [3.168.132.73] [cloudfront] [240.513094ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://verify.lens.xyz [404] [] [0] [] [34.54.136.116] [google] [669.436194ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+

@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul 30 08:34:32 UTC 2026
+[+] Run ID: 30526923783
+[+] Batch name: batch-08
+[+] Batch targets:
+lens.xyz
+lombard.finance
+magmafinance.io
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul 30 08:35:32 UTC 2026
+[+] HTTPX input count: 92
+[+] Running httpx...
+[+] httpx completed: Thu Jul 30 08:35:44 UTC 2026
+[+] httpx line count: 41
+[+] Batch completed: Thu Jul 30 08:35:44 UTC 2026
