@@ -1,0 +1,8 @@
+https://deusd-api.sei.testnet.diy.elixir.xyz [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.26.2.157] [cloudflare] [234.764202ms] [Cloudflare]
+https://deusd-api.sei.mainnet.diy.elixir.xyz [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.26.2.157] [cloudflare] [421.833017ms] [Cloudflare]
+https://deusd-api.sei.testnet.dfy.elixir.xyz [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.26.3.157] [cloudflare] [422.013359ms] [Cloudflare]
+https://deusd-api.sei.mainnet.dfy.elixir.xyz [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [172.67.75.44] [cloudflare] [411.103623ms] [Cloudflare]
+https://deusd-api.eth.testnet.dfy.elixir.xyz [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [172.67.75.44] [cloudflare] [421.800298ms] [Cloudflare]
+https://deusd-api.eth.testnet.diy.elixir.xyz [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.26.2.157] [cloudflare] [422.099763ms] [Cloudflare]
+https://mint-redeem.prod.elixir.xyz [403] [] [86] [cloudflare] [104.26.2.157] [cloudflare] [141.158052ms] [Cloudflare]
+https://mint-redeem-v4.prod.elixir.xyz [403] [] [86] [cloudflare] [104.26.2.157] [cloudflare] [244.462521ms] [Cloudflare]

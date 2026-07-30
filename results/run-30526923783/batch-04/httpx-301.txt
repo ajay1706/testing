@@ -1,0 +1,5 @@
+https://dashboard.elixir.xyz [301] [https://www.elixir.xyz/deusd/dashboard] [167] [301 Moved Permanently] [cloudflare] [172.67.75.44] [cloudflare] [183.996412ms] [Cloudflare]
+https://app.elixir.xyz [301] [https://agg.elixir.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.157] [cloudflare] [221.099827ms] [Cloudflare]
+https://claim.elixir.xyz [301] [https://console.neo4j.io:443/] [0] [] [34.8.35.137] [google] [247.937745ms] [HTTP/3]
+https://elixir.xyz [301] [https://www.elixir.xyz/] [162] [301 Moved Permanently] [cloudflare] [104.26.3.157] [cloudflare] [206.416289ms] [Cloudflare,Fastly,GitHub Pages,Varnish]
+http://off-topics.prod.elixir.xyz [301] [https://off-topics.prod.elixir.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.157] [cloudflare] [144.760687ms] [Cloudflare]
