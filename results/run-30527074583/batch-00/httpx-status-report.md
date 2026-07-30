@@ -1,0 +1,110 @@
+# HTTPX Status Report
+
+Generated at: Thu Jul 30 08:34:26 UTC 2026
+
+HTTPX lines: 90
+Live URLs: 90
+
+## 200
+https://auction-vm.beta.staging.across.to [200] [] [612] [Welcome to nginx!] [nginx/1.18.0 (Ubuntu)] [8.232.144.25] [google] [166.420506ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.18.0,Ubuntu]
+https://design.across.to [200] [] [3447] [Across Design] [cloudflare] [172.67.70.25] [cloudflare] [398.961305ms] [Cloudflare,HSTS,Vercel]
+https://docs.across.to [200] [] [41972] [Across Developer Documentation] [Vercel] [216.150.16.129] [128.209377ms] [HSTS,Vercel]
+https://art.anoma.net [200] [] [65160] [Anoma Research Topics] [cloudflare] [104.21.31.42] [cloudflare] [249.949741ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HSTS,HTTP/3,MathJax,MkDocs:1.6.1,Python,Unpkg,Varnish,timeago]
+https://links.across.to [200] [] [21856] [Across | Links] [Vercel] [216.150.1.129] [347.092911ms] [HSTS,Vercel]
+https://preview.across.to [200] [] [3] [cloudflare] [104.26.3.12] [cloudflare] [541.731153ms] [Cloudflare,HSTS,Vercel]
+https://openapi.aftermath.finance [200] [] [1020] [Swagger UI] [cloudflare] [172.67.72.75] [cloudflare] [826.541961ms] [Cloudflare,Swagger UI]
+https://preview.testnet.across.to [200] [] [3344] [Across Protocol – Transfer Assets Between Layer 2s and Mainnet] [cloudflare] [172.67.70.25] [cloudflare] [524.55977ms] [C3.js,Cloudflare,Google Tag Manager,HSTS,Twitter,Vercel]
+https://exclusive.docs.across.to [200] [] [41745] [Across Developer Documentation] [Vercel] [216.150.1.193] [617.393154ms] [HSTS,Vercel]
+https://explorer.anoma.net [200] [] [35978] [Dashboard     · Anoma Explorer] [Cowboy] [18.172.170.73] [cloudfront] [1.013469898s] [Amazon CloudFront,Amazon Web Services,Chart.js:4,Cloudflare,Cowboy,Erlang,HSTS,Highlight.js,cdnjs,jsDelivr]
+https://server-17.aftermath.finance [200] [] [612] [Welcome to nginx!] [nginx/1.18.0 (Ubuntu)] [91.134.31.17] [654.670551ms] [Nginx:1.18.0,Ubuntu]
+https://specs.anoma.net [200] [] [921] [Redirecting] [cloudflare] [172.67.174.243] [cloudflare] [411.983245ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HSTS,HTTP/3,Varnish]
+https://forum.across.to [200] [] [168073] [Across Protocol] [nginx] [184.105.99.75] [283.020329ms] [Discourse:2026.8.0,HSTS,Nginx,Ruby on Rails]
+https://docs.anoma.net [200] [] [132580] [What is Anoma?] [Netlify] [52.52.192.191] [539.340603ms] [HSTS,Netlify,Next.js,Node.js,React,Webpack]
+https://v2.across.to [200] [] [3] [cloudflare] [104.26.3.12] [cloudflare] [335.776065ms] [Cloudflare,HSTS,Vercel]
+https://supply.across.to [200] [] [17] [Google Frontend] [142.251.45.147] [google] [510.657225ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://storage.walrus.testnet.aftermath.finance [200] [] [615] [Welcome to nginx!] [nginx/1.24.0 (Ubuntu)] [57.129.49.183] [596.044604ms] [Nginx:1.24.0,Ubuntu]
+https://testnet.across.to [200] [] [3] [cloudflare] [104.26.2.12] [cloudflare] [579.358929ms] [Cloudflare,HSTS,Vercel]
+https://v1.across.to [200] [] [4948] [Across - Bridge Layer 1 and Layer 2 assets] [Vercel] [76.76.21.142] [504.904268ms] [HSTS,Vercel]
+https://status.across.to [200] [] [8995] [Across Protocol - Status] [cloudflare] [172.67.70.25] [cloudflare] [724.481953ms] [Cloudflare,HSTS,Vercel]
+https://walrus-testnet.aftermath.finance [200] [] [615] [Welcome to nginx!] [nginx/1.24.0 (Ubuntu)] [57.129.49.183] [536.302469ms] [Nginx:1.24.0,Ubuntu]
+https://anoma.net [200] [] [196896] [Anoma: Every Chain at Your Command | Distributed OS] [cloudflare] [104.21.31.42] [cloudflare] [221.5435ms] [Cloudflare,Cloudflare Browser Insights,Fathom,HSTS,HTTP/3,Netlify]
+https://skills.across.to [200] [] [47843] [Across Skills — Crosschain Knowledge Base for AI Agents] [Vercel] [216.150.1.1] [409.592179ms] [HSTS,Vercel]
+https://walrus-mainnet.aftermath.finance [200] [] [615] [Welcome to nginx!] [nginx/1.24.0 (Ubuntu)] [57.129.64.138] [683.154805ms] [Nginx:1.24.0,Ubuntu]
+https://forum.anoma.net [200] [] [215891] [Anoma | Forum - Anoma Research & Development Forum. Topics include Cryptography, Compilers, PLT, Distributed Systems, Economics.] [nginx] [184.104.178.43] [829.985332ms] [Discourse:2026.8.0,HSTS,Nginx,Ruby on Rails]
+https://across.to [200] [] [298062] [Across Protocol - Transfer Assets Between Layer 2s and Mainnet] [cloudflare] [104.26.3.12] [cloudflare] [156.892185ms] [Adobe Fonts,Cloudflare,Contentful,Google Tag Manager,HSTS,Typekit,Vercel]
+https://ch-docs.aftermath.finance [200] [] [363077] [关于 Aftermath Finance | Aftermath 文档] [cloudflare] [104.18.40.47] [cloudflare] [388.196354ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://development.aftermath.finance [200] [] [115281] [Aftermath Finance | Empowering Secure and User-Friendly Decentralized Trading] [Vercel] [66.33.60.67] [4.093498971s] [Google Analytics,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.aftermath.finance [200] [] [417884] [About Us | Aftermath] [cloudflare] [172.64.147.209] [cloudflare] [324.980977ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://kr-docs.aftermath.finance [200] [] [365086] [Aftermath Finance 대해 | Aftermath 문서조사] [cloudflare] [172.64.147.209] [cloudflare] [1.420115258s] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://www.across.to [200] [] [298062] [Across Protocol - Transfer Assets Between Layer 2s and Mainnet] [cloudflare] [104.26.2.12] [cloudflare] [261.045523ms] [Adobe Fonts,Cloudflare,Contentful,Google Tag Manager,HSTS,Typekit,Vercel]
+https://staging.across.to [200] [] [292113] [Across Protocol - Transfer Assets Between Layer 2s and Mainnet] [Vercel] [216.150.16.193] [2.02370278s] [Adobe Fonts,Contentful,Google Tag Manager,HSTS,Typekit,Vercel]
+https://legacy-docs.across.to [200] [] [620667] [Welcome to Across | Across Documentation] [cloudflare] [104.18.40.47] [cloudflare] [405.626406ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://v2.staging.across.to [200] [] [291971] [Across Protocol - Transfer Assets Between Layer 2s and Mainnet] [Vercel] [216.150.1.193] [2.06796401s] [Adobe Fonts,Contentful,Google Tag Manager,HSTS,Typekit,Vercel]
+
+## 301
+https://discord.across.to [301] [https://discord.gg/sKSkhTtu8s] [44] [cloudflare] [104.26.3.12] [cloudflare] [121.578491ms] [Cloudflare]
+https://blog.anoma.net [301] [https://anoma.net/blog] [56] [openresty] [151.101.3.7] [fastly] [190.453182ms] [Nginx,OpenResty,Varnish]
+https://research.anoma.net [301] [https://forum.anoma.net/] [0] [] [184.104.178.43] [757.744424ms]
+https://skills.aftermath.finance [301] [https://github.com/AftermathFinance/skills] [167] [301 Moved Permanently] [cloudflare] [104.26.6.96] [cloudflare] [175.861915ms] [Cloudflare]
+https://server-27.aftermath.finance [301] [https://server-27.aftermath.finance/] [178] [301 Moved Permanently] [cloudflare] [172.67.72.75] [cloudflare] [486.758643ms] [Cloudflare]
+http://testnet.anoma.net [301] [https://testnet.anoma.net/] [41] [Netlify] [13.52.188.95] [317.923294ms] [Netlify]
+https://www.anoma.net [301] [https://anoma.net/] [526] [301 Moved Permanently] [cloudflare] [172.67.174.243] [cloudflare] [178.25952ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 302
+https://stickbird-staging-selector.across.to [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=308020036798-g94op9fv8keogf4nrrqg6uf5oantgl3i.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/308020036798-g94op9fv8keogf4nrrqg6uf5oantgl3i.apps.googleusercontent.com:handleRedirect&code_challenge=d1_QApfJfxYgT0cQYld-n7fs2RzSBx6jFLHvRyUoAC8&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEmyUe-jXVK-bmxcOMFDwbA8JQ3RAb1ZtyS-GYIEe8yGFVjauGQhEuO4vj0bsdi_HwHhwiWTk9NzyMsPp3r17hQyiyrhmNBUrBagObSqlcCxAY41bvalmL_5ikm9xXZ1HhECpbCQ9oIdffmobpCz9gD0ZKaaC5fA2P9AA9QMm3F9oijppQxF_O07tDHP-VXly-k-ZLwDJ6OuPXmkSm9TGwUIblsPQkRQ4YjNKZ9Om9_YxWIyzJwnirNKghjiggmw8L4grTzOe4kY8xVxC6CavZTHKHsrhmaeGhbiY4ppxOeVEpJ90RxDtT1pLx46UrdVDo0Fm-y3GMj8GgUmCemznHCBgQNDPJa92RsfJ8wl_hMUnUtRMo343SNTU1SlQY3q0RB_Hyh1tBQOgZimRR2xxlmleVS6yNUQ4PIlAv0uPp_xMHm3fKgT85xJqnVmilEXKTfncIKLSsA7LI3-AIPErZ4X2cMwof-LsfyJpqu_8X8DEv4VJjMOUeR6nQGMFjTWlCvjscYcvPNAt48oOz5Ax6au5ygZq6Cz9i0S62_mGlqrhQlw07SaMprwKPYohsGq3dP5PqRAJ0ZaGoMQIXf7bpLQo6JsxVvXeTaa6go0jG2yVWKWzLPNdJEuGE3KyWsnITQjwp7r0c21ajBCDwdm8IXcWzrSxki6tKwbzR2Y7ik0-Hygl4Co0ydCl_DZpFowNsMGPiAVnjdSrUZMRxIE6RHFFAUYujpYsRrqvfseLs7PZamwGNBzAm_qpAModBJYmHiL877t1hN1G2alur-I4R2DGyQvIRcr-OXrzpNhbKS2r0Fb0BoLfCoB3FPrgOKVq_go5xmKdiNwZFSf7ee0DLynFK_2VcaLEwk_v6hYOSp3L5PJxpaxjSRgzNZTMYck5BDqR4BBK7d5yAqDgIOFTlBsD5bmtx8EkCoWh6xhp838tjol_badCKfULjkLk3iuj_K5Ka-kpl4_JVXIDXO4fFDwkcmG-XVNrHTzXUC8-TbPvbUmc-fmQ0fL-j3OeDhKyWnQigGLGAiQFQfPbuBlNnmeNi1dHi3dyYLAKATZ2Vwf3zdtXhTJ3AEvBHdfvTQQ1Uvp5U42YhtaQa0Lb_qVnZwdNqrhmAJK34VHipU-8FouIxz-5XT51qdwZyGvi4l640bEXfLlzFszSHdzJk8eTLfcEsDseqHE3Txix_QTMcxLNJfvwuOMR7pgNCUoKXY2iUS8F2dFGp9BC7pW6fdx2f40a9Ag] [36] [] [35.244.158.171] [google] [266.312263ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://stickbird-staging.across.to [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=308020036798-33f84a8c4r8stsoi8t3jbjla94e22v1l.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/308020036798-33f84a8c4r8stsoi8t3jbjla94e22v1l.apps.googleusercontent.com:handleRedirect&code_challenge=RBrakobPxytqV7ZDtMbjsrx--7369hPKHliDlQ_bcII&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEFoTvOks--ir1aL9g3GhbCi-T4lDxEYcDDSIJu8m9RVUjSCCIDi3joHkYyHkERM89qS5HIpCIxnYGs6JrBEMNOCJ7xpvbyW9i5OONWANUopN8czHvmbi6ltXqPjXA8CdxylB2CL7ES8JShmJCQTwYq_MuWp0jvc5a68U3ptV6FR3KlYxvBsudRv1Eqg6XL69yZTOZfY20VEMVNuS2xzQLeOJrI7YwM7xvK3fZHEgVMDSJ2_1TDQy5JmWniirJSx3ebcz1bvB6Vf9fGQbuzwJ1KDYcWjmGnuB2Gwzob28UBBeZVr3-BE3l3BkqXpgagX05Z88hexJU40eY4WsUSkQJHoduH0FaANW_wrKlmQ8Iv_n2P51liPEj--InBoPYtjsFJTeZuJzTeFNBtg0044HNZrY17b6PxguYFLqrSKHaK27vIKCPI20h2sWN4phzZP77u8mi8lAsZBbun2K9zjfNcYW7Q1M3GlKcAsWnepCRqe-bGfbBZNpcrBZng7K2YllyYaKpP0HKYEoQNg1YJYa7KNPZgHhplUT4Q7iUyfvUG7mJG5PFpamKU35a5gnNuoyBBOpEb0sKLJe4XKmeSyEA7WcdFUGtKTG3Bo8oGxnI5xRC-81bqTFKezz9r_sc0MI7KCFpeGy497ZoWsF2JYHtzeL4csBzJ6mz0xBl4JPl1LxKzEMXHi6J7r2AosgEjOE3sMwRhprTe-YE76TNgNWxKgefNBD8xYa8cr95AdrCeY04IP-hLu-uqRWSsgcQf174gl7YlJZGHfLjKKeWWkLhKvMUo998YSOznUbLvlsYo60Zz1wAH9uURY0vmjNChM-q7z5EMXCxP34PiQav2bdxTKOkfYvgy94KvT8ySNC2N2eMZzBpQCVMInhM6wpSSlOTiPBnUTIajgliikqc4V_8lFF5y7A_IirQMzOIonrJJ42aE0BN3BS738pt2MIKnDLwYaIoBeI3W_WRXTRmDVcMBOVSfFLcgwNRpZk0tbe88YCcK5fBqQMBTYGxfam-cteBo0VJqmAbqdMQV9lL9xVeRkFFCANzC83TVes79Js_8OKDlPLE-m66CV0wjnbBHCq_aXAeEJ5uA6vMmQigS5hi7he2JD919NtOM_67Eue7PqR-LeYFuvOHWNZyjPfW-Jo5fbhqLHoiB21-Mz2z1CqBbjNHgdJcGAlIVc0YzNWBsQ] [36] [] [8.228.231.143] [google] [251.648947ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://stickbird.across.to [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=308020036798-sdufk7107l2v3sadp0bo6b0nfq8146gc.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/308020036798-sdufk7107l2v3sadp0bo6b0nfq8146gc.apps.googleusercontent.com:handleRedirect&code_challenge=SkG8hF8agkUqnbB0KpLhokpIQuP5tQUvHiAudxt44eQ&code_challenge_method=S256&cred_ref=true&state=AcVHNzoEECdBOBtboqLNDP5dFrbmKzk-_ImOjQDihnIRTqZY3R3AARUOCTrguA6YScuUqDJksv54KNeEYnuwlLEHzcCwybAX-kND4cUPr0mKKce131si8JKyP44-PCHGKbieGlYrqVw7NuWRO0AHU7UpAyRTWla46gG0NwczYiKAOsv4tAh_CtokeOs40p6AvwA8WDHb8ItXuPCe8HZD4jOpkw6rxizpy-rd0UXrsYZFheyjTMuNv7fM2HVUSMbpkTXFb1sqdkhUN7B2Dg2EgTbrZKCVF8gKM_lOULKrof1nZY4Usr2kSCNd0KMC70jRTg1znEwQbTk3f8snoiwOS0QqDNx6EV1gLAgc2gkdL9CLH3eP6JwBE8VzWwgngs2rl1yh_1Wl1Y7xqeFFYqlF53UiRycYWGoUy_zEnXWjqewr8hzW0hSiyP6P6gkXPvKjpv-gakdPwvYhiTn1nFACfRNFG9F6OsvXZxnw-lc-ufuwtV_I-nA3KI2a2TAwBR21R9N5NWPs-xjsCWTowWk7SFpnu60RA4JV20T-uAVLRTxkI1UYqRf7YNfo_6R3phaz49o0CKH3E9PGPV-ePwhDmEU_3LUcl2YquN6DGiYCXZgz3SE-SVc_YVgF7DLKKlUJM_5gCk3LUPmJW-m-a0PmFP-EFLJh5LT37uIYXv0_ExYWlagimPZPzXlmDdjNiqrwkOsm0r5P3zTkazszKUymhVKyOsPF1aR5JVnsVFCow2p5swLW3Grt2Ep0tKNKWpxagLb0aTDyzG1_6eUHTQVZvHNo-HA6MRkVUXePncg2m4803JlOhxLwtf_nWfEmEdRW5F13tkEegjdHWlXmvaTF5j2Cdo0I4nexpswkwSXPgHuQHHl49xJhwTa4tBu_GYUSJ0wH0Clcbska90AFIS3e6wFimTKyesPccNNhqGv22A-P0eECrVgQvlu3HvoHBU7Jv5osKquEgVvX88JJPdAD5usMPRGUMNNQX8qkifQPTz36wi7IxFocSX9QC0_Q8ub11W4mWsaFoVh-aaasrDYPsW0W3g7c6c_28gqnnWNzymHWMJnk3xYX_eIt6tgIeNYIwLuIbpwekVzVFIdfTmcSVTUeTkfJ5eEruEKvhp8pwR5PZySsvtwJwotluL0pv5JglW8WXpU] [36] [cloudflare] [104.26.2.12] [cloudflare] [292.55443ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+
+## 307
+https://app.across.to [307] [https://across.to/] [15] [cloudflare] [104.26.3.12] [cloudflare] [102.477828ms] [Cloudflare,HSTS,Vercel]
+https://app.staging.across.to [307] [https://across.to/] [15] [Vercel] [216.150.16.193] [143.268845ms] [HSTS,Vercel]
+https://aftermath.finance [307] [/trade] [6] [cloudflare] [172.67.72.75] [cloudflare] [684.906111ms] [Cloudflare]
+https://public-access-uveet9ua2a.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [172.67.72.75] [cloudflare] [822.033118ms] [Cloudflare]
+http://server-18.aftermath.finance [307] [/trade] [6] [nginx/1.31.3] [57.129.36.239] [351.55736ms] [Nginx:1.31.3]
+https://testnet.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [104.26.6.96] [cloudflare] [530.211954ms] [Cloudflare]
+https://www.aftermath.finance [307] [/trade] [6] [cloudflare] [104.26.6.96] [cloudflare] [1.065490782s] [Cloudflare]
+
+## 308
+https://foundation.aftermath.finance [308] [https://foundation.aftermath.finance/] [14] [cloudflare] [104.26.6.96] [cloudflare] [192.481429ms] [Cloudflare]
+
+## 401
+https://auction.api.beta.staging.across.to [401] [] [15] [] [8.232.144.25] [google] [343.39872ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://exchange.across.to [401] [] [23] [Vercel] [216.150.1.1] [765.257202ms] [Basic,HSTS,Vercel]
+
+## 403
+
+## 404
+https://dev.public.api.across.to [404] [] [63] [Google Frontend] [142.251.45.147] [google] [172.430012ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HSTS]
+https://api.across.to [404] [] [63] [cloudflare] [104.26.2.12] [cloudflare] [177.809104ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://dev.indexer.api.across.to [404] [] [61] [cloudflare] [104.26.2.12] [cloudflare] [270.193092ms] [Cloudflare,Express,Google Cloud,Google Cloud Trace,Node.js]
+https://alexandria.across.to [404] [] [79] [Vercel] [216.150.1.1] [270.095867ms] [HSTS,Vercel]
+https://indexer.across.to [404] [] [61] [Google Frontend] [142.251.45.147] [google] [183.710231ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://indexer.api.across.to [404] [] [61] [Google Frontend] [142.251.45.147] [google] [181.013601ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://mcp.across.to [404] [] [9] [Google Frontend] [142.250.73.83] [google] [325.82826ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://public.api.across.to [404] [] [63] [cloudflare] [104.26.2.12] [cloudflare] [485.831766ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://preview.v2.across.to [404] [] [107] [Vercel] [66.33.60.193] [642.875733ms] [HSTS,Vercel]
+http://stage.integrator.api.across.to [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [142.251.45.147] [google] [35.423174ms]
+https://stage.auction.api.across.to [404] [] [272] [404 Page not found] [] [142.251.45.147] [google] [317.278528ms]
+https://vault-v-ledger.beta.staging.across.to [404] [] [0] [Google Frontend] [8.232.144.25] [google] [261.660286ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://zz.aftermath.finance [404] [] [105] [cloudflare] [104.20.19.245] [cloudflare] [272.53775ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+https://bridge.sui.testnet.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [586.949823ms] [Nginx:1.24.0,Ubuntu]
+https://server-1.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.47.71] [864.659216ms] [Nginx:1.24.0,Ubuntu]
+https://server-2.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [141.95.98.112] [658.859482ms] [Nginx:1.18.0,Ubuntu]
+https://server-20.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.129.59.95] [719.968031ms] [Nginx:1.24.0,Ubuntu]
+https://server-4.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [669.867401ms] [Nginx:1.24.0,Ubuntu]
+https://server-6.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [51.178.74.185] [699.849829ms] [Nginx:1.18.0,Ubuntu]
+https://server-7.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [51.178.134.23] [764.322458ms] [Nginx:1.18.0,Ubuntu]
+https://validator.monad.testnet.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.230.73] [644.963265ms] [Nginx:1.24.0,Ubuntu]
+https://validator.sui.mainnet.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.47.71] [614.804047ms] [Nginx:1.24.0,Ubuntu]
+https://validator.sui.mainnet-hotspare.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [141.95.98.112] [646.292218ms] [Nginx:1.18.0,Ubuntu]
+https://validator.sui.testnet.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [633.357295ms] [Nginx:1.24.0,Ubuntu]
+
+## 503
+https://api.cloudrun.beta.staging.across.to [503] [] [19] [] [8.232.144.25] [google] [78.701085ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://integrator.api.beta.staging.across.to [503] [] [19] [] [8.232.144.25] [google] [177.47584ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://vault.ledger.beta.staging.across.to [503] [] [19] [Google Frontend] [8.232.144.25] [google] [1.936984785s] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+

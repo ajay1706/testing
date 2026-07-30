@@ -1,0 +1,7 @@
+https://app.across.to [307] [https://across.to/] [15] [cloudflare] [104.26.3.12] [cloudflare] [102.477828ms] [Cloudflare,HSTS,Vercel]
+https://app.staging.across.to [307] [https://across.to/] [15] [Vercel] [216.150.16.193] [143.268845ms] [HSTS,Vercel]
+https://aftermath.finance [307] [/trade] [6] [cloudflare] [172.67.72.75] [cloudflare] [684.906111ms] [Cloudflare]
+https://public-access-uveet9ua2a.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [172.67.72.75] [cloudflare] [822.033118ms] [Cloudflare]
+http://server-18.aftermath.finance [307] [/trade] [6] [nginx/1.31.3] [57.129.36.239] [351.55736ms] [Nginx:1.31.3]
+https://testnet.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [104.26.6.96] [cloudflare] [530.211954ms] [Cloudflare]
+https://www.aftermath.finance [307] [/trade] [6] [cloudflare] [104.26.6.96] [cloudflare] [1.065490782s] [Cloudflare]

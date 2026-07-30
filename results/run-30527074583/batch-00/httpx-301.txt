@@ -1,0 +1,7 @@
+https://discord.across.to [301] [https://discord.gg/sKSkhTtu8s] [44] [cloudflare] [104.26.3.12] [cloudflare] [121.578491ms] [Cloudflare]
+https://blog.anoma.net [301] [https://anoma.net/blog] [56] [openresty] [151.101.3.7] [fastly] [190.453182ms] [Nginx,OpenResty,Varnish]
+https://research.anoma.net [301] [https://forum.anoma.net/] [0] [] [184.104.178.43] [757.744424ms]
+https://skills.aftermath.finance [301] [https://github.com/AftermathFinance/skills] [167] [301 Moved Permanently] [cloudflare] [104.26.6.96] [cloudflare] [175.861915ms] [Cloudflare]
+https://server-27.aftermath.finance [301] [https://server-27.aftermath.finance/] [178] [301 Moved Permanently] [cloudflare] [172.67.72.75] [cloudflare] [486.758643ms] [Cloudflare]
+http://testnet.anoma.net [301] [https://testnet.anoma.net/] [41] [Netlify] [13.52.188.95] [317.923294ms] [Netlify]
+https://www.anoma.net [301] [https://anoma.net/] [526] [301 Moved Permanently] [cloudflare] [172.67.174.243] [cloudflare] [178.25952ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
