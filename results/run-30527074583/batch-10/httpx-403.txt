@@ -1,0 +1,3 @@
+https://faucet.polygon.technology [403] [] [5629] [Just a moment...] [cloudflare] [172.64.146.146] [cloudflare] [5.032233938s] [Cloudflare,HSTS]
+https://login.development.polygon.technology [403] [] [167] [CloudFront] [65.8.54.61] [cloudfront] [126.757272ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://login.polygon.technology [403] [] [167] [CloudFront] [65.8.54.119] [cloudfront] [3.02587813s] [Amazon CloudFront,Amazon Web Services,HTTP/3]

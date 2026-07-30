@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul 30 08:38:09 UTC 2026
+[+] Run ID: 30527074583
+[+] Batch name: batch-10
+[+] Batch targets:
+particle.network
+penumbra.zone
+polygon.technology
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul 30 08:38:52 UTC 2026
+[+] HTTPX input count: 1240
+[+] Running httpx...
+[+] httpx completed: Thu Jul 30 08:44:01 UTC 2026
+[+] httpx line count: 163
+[+] Batch completed: Thu Jul 30 08:44:01 UTC 2026
