@@ -1,0 +1,7 @@
+https://ceremony.namada.net [301] [https://namada.net/trusted-setup] [526] [301 Moved Permanently] [cloudflare] [104.21.51.139] [cloudflare] [84.144772ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://blog.namada.net [301] [https://namada.net/blog] [57] [openresty] [151.101.67.7] [fastly] [100.010044ms] [Nginx,OpenResty,Varnish]
+https://blog.nil.foundation [301] [https://nil.foundation/blog] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [18.170.7.91] [600.225737ms] [Nginx:1.24.0,Ubuntu]
+https://www.namada.net [301] [https://namada.net/] [526] [301 Moved Permanently] [cloudflare] [104.21.51.139] [cloudflare] [125.430777ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://testnet.namada.net [301] [https://namada.net/testnets] [526] [301 Moved Permanently] [cloudflare] [104.21.51.139] [cloudflare] [445.627664ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://community.namada.net [301] [https://community.namada.net/] [44] [Netlify] [98.84.224.111] [60.200726ms] [Netlify]
+http://namada.net [301] [https://namada.net/] [34] [Netlify] [18.208.88.157] [51.302767ms] [Netlify]
