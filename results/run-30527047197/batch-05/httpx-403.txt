@@ -1,0 +1,8 @@
+https://embed.freename.io [403] [] [5536] [Just a moment...] [cloudflare] [104.26.7.176] [cloudflare] [74.538726ms] [Cloudflare]
+https://apis.freename.io [403] [] [6124] [Attention Required! | Cloudflare] [cloudflare] [104.26.6.176] [cloudflare] [92.933307ms] [Cloudflare,Cloudflare Browser Insights]
+https://api.rollout.freename.io [403] [] [5542] [Just a moment...] [cloudflare] [104.26.6.176] [cloudflare] [144.060596ms] [Cloudflare]
+https://aftermarket-api-stage.freename.io [403] [] [5594] [Just a moment...] [cloudflare] [104.26.6.176] [cloudflare] [149.236806ms] [Cloudflare]
+https://mta.apibeta.freename.io [403] [] [17] [cloudflare] [104.26.7.176] [cloudflare] [107.827798ms] [Cloudflare]
+https://resapi.freename.io [403] [] [6124] [Attention Required! | Cloudflare] [cloudflare] [172.67.69.12] [cloudflare] [202.114401ms] [Cloudflare,Cloudflare Browser Insights]
+https://res.gaianet.ai [403] [] [111] [AmazonS3] [108.159.227.106] [cloudfront] [393.996447ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://metadata.freename.io [403] [] [111] [cloudflare] [104.26.6.176] [cloudflare] [883.982753ms] [Cloudflare]
