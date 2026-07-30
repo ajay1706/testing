@@ -1,0 +1,3 @@
+[mongodb-exporter-metrics] [http] [medium] https://api.smart-routing-address.zerodev.app/metrics
+[mongodb-exporter-metrics] [http] [medium] https://api.testnets.smart-routing-address.zerodev.app/metrics
+[prometheus-metrics] [http] [medium] https://arbitrum-goerli.rpc.thirdweb.com/metrics
