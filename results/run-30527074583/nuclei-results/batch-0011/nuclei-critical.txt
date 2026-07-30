@@ -1,0 +1,1 @@
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://mobile-api.mayan.finance/config.json [""url":"https://discord.gg/h5HUzkqrXK"",""url":"https://twitter.com/mayanfinance"",""url":"https://blog.mayan.finance/"",""url":"https://docs.mayan.finance/""] [path="/config.json"]
