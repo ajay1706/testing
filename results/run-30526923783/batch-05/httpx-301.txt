@@ -1,0 +1,2 @@
+https://fluent.xyz [301] [https://www.fluent.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [356.297852ms] [Cloudflare,HSTS,HTTP/3]
+http://safe.testnet.fluent.xyz [301] [https://safe.testnet.fluent.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.73.58] [cloudflare] [27.198894ms] [Cloudflare]

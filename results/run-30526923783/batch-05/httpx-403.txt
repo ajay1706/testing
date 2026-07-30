@@ -1,0 +1,3 @@
+https://faucet.testnet.fluent.xyz [403] [] [17] [cloudflare] [104.26.1.51] [cloudflare] [112.263343ms] [Cloudflare]
+https://devnet.fluent.xyz [403] [] [17] [cloudflare] [104.26.0.51] [cloudflare] [120.254799ms] [Cloudflare]
+https://cdn.fluent.xyz [403] [] [111] [AmazonS3] [3.175.34.78] [cloudfront] [680.83593ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]

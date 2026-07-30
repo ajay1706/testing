@@ -1,0 +1,5 @@
+https://app.dev.fragmetric.xyz [302] [/restake] [0] [] [18.238.238.18] [cloudfront] [274.974426ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://app.fragmetric.xyz [302] [/restake] [0] [] [3.163.158.8] [cloudfront] [299.128885ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://ref.fragmetric.xyz [302] [https://ref.fragmetric.xyz/?rb.routing.mode=proxy&rb.routing.signature=446362] [0] [] [13.248.148.104] [337.722454ms] [HSTS]
+https://www.fragmetric.xyz [302] [https://fragmetric.xyz/] [0] [] [3.169.173.97] [cloudfront] [355.122169ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://telemetry.gaib.ai [302] [/auth/login/] [0] [cloudflare] [172.67.155.185] [cloudflare] [450.076283ms] [Cloudflare,HTTP/3]
