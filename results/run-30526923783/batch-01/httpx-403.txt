@@ -1,0 +1,4 @@
+https://faucet-api.b3.fun [403] [] [9] [cloudflare] [104.26.5.44] [cloudflare] [111.432717ms] [Cloudflare]
+https://faucet.b3.fun [403] [] [5660] [Just a moment...] [cloudflare] [104.26.4.44] [cloudflare] [154.858469ms] [Cloudflare]
+https://explorer-nebula-ai.b3.fun [403] [] [109] [cloudflare] [104.26.5.44] [cloudflare] [494.180911ms] [Cloudflare]
+https://sim-dune-api.b3.fun [403] [] [43] [cloudflare] [172.67.70.120] [cloudflare] [336.053121ms] [Cloudflare]

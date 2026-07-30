@@ -1,0 +1,6 @@
+https://developer.docs.b3.fun [301] [https://docs.b3.fun/] [167] [301 Moved Permanently] [cloudflare] [104.26.4.44] [cloudflare] [147.303573ms] [Cloudflare]
+https://explore.b3.fun [301] [https://explorer.b3.fun/] [167] [301 Moved Permanently] [cloudflare] [104.26.5.44] [cloudflare] [117.234761ms] [Cloudflare]
+https://join.b3.fun [301] [https://basement.fun/] [167] [301 Moved Permanently] [cloudflare] [104.26.5.44] [cloudflare] [153.453594ms] [Cloudflare]
+https://learn.b3.fun [301] [https://docs.b3.fun/learn/getting-started/how-to-create-an-account] [167] [301 Moved Permanently] [cloudflare] [172.67.70.120] [cloudflare] [177.841647ms] [Cloudflare]
+https://magic.beraborrow.com [301] [https://app.beraborrow.com] [61] [ip-10-124-4-150.us-west-2.compute.internal] [3.33.251.168] [528.76491ms]
+https://sepolia-explorer.b3.fun [301] [https://sepolia.explorer.b3.fun/] [0] [cloudflare] [172.67.70.120] [cloudflare] [220.982927ms] [Cloudflare]
