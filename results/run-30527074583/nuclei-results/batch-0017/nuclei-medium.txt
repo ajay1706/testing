@@ -1,0 +1,2 @@
+[godaddy-parked-domain] [http] [medium] https://www.vertexedge.com/lander
+[prometheus-metrics] [http] [medium] https://xplore.api.v2.routerprotocol.com/metrics
