@@ -1,0 +1,3 @@
+https://explorer.garfield-testnet.zircuit.com [301] [https://exp.garfield-testnet.zircuit.com/] [0] [CloudFront] [18.173.121.32] [cloudfront] [47.85216ms] [Amazon CloudFront,Amazon Web Services]
+https://og.zircuit.com [301] [https://www.zircuit.com] [0] [CloudFront] [18.238.192.66] [cloudfront] [1.051460467s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://staging.zircuit.com [301] [http://www.staging.zircuit.com/] [166] [301 Moved Permanently] [] [18.238.192.69] [cloudfront] [1.302098854s] [Amazon CloudFront,Amazon Web Services,HSTS]

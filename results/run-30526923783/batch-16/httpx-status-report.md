@@ -1,0 +1,72 @@
+# HTTPX Status Report
+
+Generated at: Thu Jul 30 08:42:45 UTC 2026
+
+HTTPX lines: 46
+Live URLs: 46
+
+## 200
+https://ceremony.zircuit.com [200] [] [310] [Redirecting...] [AmazonS3] [52.85.151.92] [cloudfront] [283.299328ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://bridge.zircuit.com [200] [] [36932] [cloudflare] [65.8.180.13] [cloudfront] [238.91808ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,Render]
+https://bridge.garfield-testnet.zircuit.com [200] [] [102267] [Zircuit Bridge] [cloudflare] [18.155.202.115] [cloudfront] [417.59117ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,Render]
+https://explorer.zircuit.com [200] [] [26987] [cloudflare] [18.173.121.57] [cloudfront] [239.330099ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,Render]
+https://ethstats-eu.mainnet.zircuit.com [200] [] [10516] [{{ $root.networkName }} Network Status] [] [16.192.175.118] [694.514942ms] [AngularJS,Express,Node.js]
+https://ethstats.mainnet.zircuit.com [200] [] [10516] [{{ $root.networkName }} Network Status] [] [16.192.175.118] [688.887518ms] [AngularJS,Express,Node.js]
+https://ethstats.eu-north-1.mainnet.zircuit.com [200] [] [10516] [{{ $root.networkName }} Network Status] [] [16.192.105.136] [722.919865ms] [AngularJS,Express,Node.js]
+https://exp.garfield-testnet.zircuit.com [200] [] [81882] [zircuit-garfield-testnet blockchain explorer - View zircuit-garfield-testnet stats | Blockscout] [cloudflare] [104.20.30.246] [cloudflare] [392.996682ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://docs.zircuit.com [200] [] [522555] [Overview | Zircuit] [cloudflare] [104.18.40.47] [cloudflare] [132.791955ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://finance.zircuit.com [200] [] [171873] [Zircuit Finance: The Safe Haven for Onchain Finance] [] [3.227.169.121] [402.353609ms] [HSTS,hCaptcha]
+https://staging.safe.zircuit.com [200] [] [5003] [Zircuit Safe] [AmazonS3] [18.244.214.127] [cloudfront] [1.464926268s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://safe.zircuit.com [200] [] [5045] [Zircuit Safe] [AmazonS3] [52.85.151.127] [cloudfront] [4.433016907s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://upgrade.zircuit.com [200] [] [2658] [ZKR Upgrade Page] [cloudflare] [52.85.151.121] [cloudfront] [4.042008553s] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS]
+https://www.zircuit.com [200] [] [44157] [Zircuit - Innovation meets security. For everyone.] [] [65.8.54.54] [cloudfront] [1.040937703s] [Amazon CloudFront,Amazon Web Services,Google Analytics,Google Font API,Google Hosted Libraries,HSTS,jQuery:3.5.1]
+
+## 301
+https://explorer.garfield-testnet.zircuit.com [301] [https://exp.garfield-testnet.zircuit.com/] [0] [CloudFront] [18.173.121.32] [cloudfront] [47.85216ms] [Amazon CloudFront,Amazon Web Services]
+https://og.zircuit.com [301] [https://www.zircuit.com] [0] [CloudFront] [18.238.192.66] [cloudfront] [1.051460467s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://staging.zircuit.com [301] [http://www.staging.zircuit.com/] [166] [301 Moved Permanently] [] [18.238.192.69] [cloudfront] [1.302098854s] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 302
+https://gateway.safe.zircuit.com [302] [/api] [26] [nginx/1.29.0] [13.50.212.177] [806.26022ms] [Express,Nginx:1.29.0,Node.js]
+
+## 307
+https://docs.zaros.fi [307] [https://docs.zaros.fi/overview/] [15] [cloudflare] [104.18.40.47] [cloudflare] [122.160981ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://blog.zaros.fi [307] [https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fblog.zaros.fi%2F] [117] [cloudflare] [162.159.153.4] [cloudflare] [259.111206ms] [Cloudflare,Envoy,HSTS,HTTP/3]
+https://s-in-dash.zircuit.com [307] [/api/auth/signin?callbackUrl=%2F] [32] [Heroku] [52.85.151.17] [cloudfront] [6.222692695s] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 308
+https://app.zircuit.com [308] [/liquidity-hub] [14] [Heroku] [18.155.202.33] [cloudfront] [241.653982ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://claim.zircuit.com [308] [/liquidity-hub] [14] [Heroku] [18.155.202.2] [cloudfront] [275.233853ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://build.zircuit.com [308] [/liquidity-hub] [14] [Heroku] [18.155.202.2] [cloudfront] [322.661804ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://festival.zircuit.com [308] [/liquidity-hub] [14] [Heroku] [18.155.202.2] [cloudfront] [216.601453ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://rebates.zircuit.com [308] [/liquidity-hub] [14] [Heroku] [18.155.202.102] [cloudfront] [2.220770918s] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 401
+https://integration.zircuit.com [401] [] [24] [Heroku] [65.8.180.11] [cloudfront] [244.059579ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 403
+https://api.mainnet.zircuit.com [403] [] [268] [ERROR: The request could not be satisfied] [awselb/2.0] [13.62.235.198] [710.663953ms] [Amazon ELB,Amazon Web Services]
+https://blockexplorerapi.eu-north-1.mainnet.zircuit.com [403] [] [268] [ERROR: The request could not be satisfied] [awselb/2.0] [13.62.235.198] [727.310646ms] [Amazon ELB,Amazon Web Services]
+https://l1-mainnet-node2-beacon.mainnet.zircuit.com [403] [] [268] [ERROR: The request could not be satisfied] [awselb/2.0] [51.21.142.47] [686.833067ms] [Amazon ELB,Amazon Web Services]
+https://l1-mainnet-node2-beacon.eu-north-1.mainnet.zircuit.com [403] [] [268] [ERROR: The request could not be satisfied] [awselb/2.0] [13.63.118.143] [695.279095ms] [Amazon ELB,Amazon Web Services]
+https://l1-mainnet-node2-execution.eu-north-1.mainnet.zircuit.com [403] [] [268] [ERROR: The request could not be satisfied] [awselb/2.0] [13.63.185.89] [695.12977ms] [Amazon ELB,Amazon Web Services]
+https://l1-mainnet-node2-execution.mainnet.zircuit.com [403] [] [268] [ERROR: The request could not be satisfied] [awselb/2.0] [13.63.74.12] [726.437553ms] [Amazon ELB,Amazon Web Services]
+https://l2geth-replica1.eu-north-1.mainnet.zircuit.com [403] [] [268] [ERROR: The request could not be satisfied] [awselb/2.0] [13.63.177.214] [2.6739887s] [Amazon ELB,Amazon Web Services]
+https://static.zircuit.com [403] [] [111] [AmazonS3] [108.139.10.77] [cloudfront] [2.245427021s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+
+## 404
+https://app.zaros.fi [404] [] [107] [Vercel] [66.33.60.67] [459.104944ms] [HSTS,Vercel]
+https://aa.app.zaros.fi [404] [] [107] [Vercel] [76.76.21.22] [564.072593ms] [HSTS,Vercel]
+https://privy.finance.production.zircuit.com [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [1.08028144s] [Cloudflare,Cloudflare Bot Management]
+https://privy.finance.zircuit.com [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [2.04705228s] [Cloudflare,Cloudflare Bot Management]
+https://staging.testnet.app.zaros.fi [404] [] [107] [Vercel] [76.76.21.61] [4.441722864s] [HSTS,Vercel]
+https://testnet.app.zaros.fi [404] [] [107] [Vercel] [66.33.60.130] [3.40287129s] [HSTS,Vercel]
+https://www.zaros.fi [404] [] [107] [Vercel] [66.33.60.129] [6.471377759s] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+https://status.safe.zircuit.com [503] [] [25] [awselb/2.0] [13.50.212.177] [5.724247706s] [Amazon ELB,Amazon Web Services]
+

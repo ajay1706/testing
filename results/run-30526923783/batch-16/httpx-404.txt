@@ -1,0 +1,7 @@
+https://app.zaros.fi [404] [] [107] [Vercel] [66.33.60.67] [459.104944ms] [HSTS,Vercel]
+https://aa.app.zaros.fi [404] [] [107] [Vercel] [76.76.21.22] [564.072593ms] [HSTS,Vercel]
+https://privy.finance.production.zircuit.com [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [1.08028144s] [Cloudflare,Cloudflare Bot Management]
+https://privy.finance.zircuit.com [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [2.04705228s] [Cloudflare,Cloudflare Bot Management]
+https://staging.testnet.app.zaros.fi [404] [] [107] [Vercel] [76.76.21.61] [4.441722864s] [HSTS,Vercel]
+https://testnet.app.zaros.fi [404] [] [107] [Vercel] [66.33.60.130] [3.40287129s] [HSTS,Vercel]
+https://www.zaros.fi [404] [] [107] [Vercel] [66.33.60.129] [6.471377759s] [HSTS,Vercel]
