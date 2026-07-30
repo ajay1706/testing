@@ -1,0 +1,69 @@
+# HTTPX Status Report
+
+Generated at: Thu Jul 30 08:37:22 UTC 2026
+
+HTTPX lines: 40
+Live URLs: 40
+
+## 200
+https://kinetic.money [200] [] [114] [] [13.248.169.48] [126.682856ms]
+http://lockdrop.kinetic.money [200] [] [114] [] [76.223.54.146] [27.094567ms]
+http://launch.kinetic.money [200] [] [114] [] [76.223.54.146] [28.391894ms]
+http://docs.kinetic.money [200] [] [114] [] [76.223.54.146] [30.033945ms]
+http://app.kinetic.money [200] [] [114] [] [13.248.169.48] [26.281045ms]
+https://tv.intentx.io [200] [] [1586] [Vercel] [76.76.21.164] [98.313082ms] [HSTS,Vercel]
+https://intentx.io [200] [] [7484] [IntentX | Home] [Vercel] [76.76.21.21] [118.342973ms] [HSTS,Vercel]
+http://www.docs.kinetic.money [200] [] [114] [] [13.248.169.48] [39.644265ms]
+https://paper.intentx.io [200] [] [4501] [Create Next App] [cloudflare] [172.66.0.96] [cloudflare] [297.983608ms] [Cloudflare,Cloudflare Bot Management,HTTP/3,Next.js,Node.js,React,Webpack]
+https://admincrm.intentx.io [200] [] [1423] [cloudflare] [104.26.8.21] [cloudflare] [335.709274ms] [Cloudflare,Cloudflare Bot Management,HTTP/3,Next.js,Node.js,React,Webpack]
+https://demo.layerzero.network [200] [] [20155] [LayerZero Labs] [Vercel] [216.230.86.193] [173.276455ms] [HSTS,Vercel]
+http://entropy.kinetic.money [200] [] [114] [] [76.223.54.146] [27.596755ms]
+https://www.intentx.io [200] [] [7484] [IntentX | Home] [Vercel] [66.33.60.67] [472.683125ms] [HSTS,Vercel]
+https://feerebate.intentx.io [200] [] [191] [It works! Apache httpd] [Google Frontend] [34.144.211.112] [google] [726.970033ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://api.layerzero.network [200] [] [18374] [LayerZero Partner Portal] [Vercel] [216.230.86.193] [1.043701312s] [HSTS,Vercel]
+https://events.layerzero.network [200] [] [85649] [LayerZero - A New Era] [] [52.213.47.89] [1.22872681s] [Bootstrap:5.3.0,HSTS,PHP,RequireJS,Swoogo,Yii,jQuery CDN,jQuery Migrate:3.5.2,jQuery:3.7.1,jsDelivr]
+https://layerzero.network [200] [] [573204] [LayerZero] [Vercel] [216.230.86.1] [357.058976ms] [Contentful,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.layerzero.network [200] [] [424493] [Introduction - LayerZero] [cloudflare] [172.66.3.9] [cloudflare] [552.07329ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://docs.intentx.io [200] [] [559467] [Welcome to IntentX | IntentX Docs] [cloudflare] [172.64.147.209] [cloudflare] [531.051911ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+http://www.kinetic.money [200] [] [114] [] [13.248.169.48] [29.163684ms]
+
+## 301
+http://blastpoints.intentx.io [301] [https://blastpoints.intentx.io:443/] [0] [] [34.49.56.127] [google] [25.063068ms]
+https://apiserver1.intentx.io [301] [http://apiserver1.carbon.inc/] [63] [cloudflare] [104.26.9.21] [cloudflare] [327.924409ms] [Cloudflare,Cloudflare Bot Management,Express,HTTP/3,Node.js]
+
+## 302
+https://enterprise.layerzero.network [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fenterprise.layerzero.network%2F&nonce=c1ea4e2d7ee67b1ed9fce06595401ea8b9c64bc8eb916e777c2e83d978e8513f] [15] [Vercel] [76.76.21.22] [197.20117ms] [HSTS,Vercel]
+
+## 307
+https://app.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [66.33.60.67] [81.842523ms] [HSTS,Vercel]
+https://alpha.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [66.33.60.129] [166.682099ms] [HSTS,Vercel]
+https://fallback.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [66.33.60.194] [390.625693ms] [HSTS,Vercel]
+https://v1.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [76.76.21.61] [626.431414ms] [HSTS,Vercel]
+https://preview.docs.layerzero.network [307] [/login?redirect=%2F] [15] [Vercel] [66.33.60.130] [766.871653ms] [HSTS,Vercel]
+
+## 308
+https://www.layerzero.network [308] [https://layerzero.network/] [15] [Vercel] [216.230.84.129] [126.11927ms] [HSTS,Vercel]
+http://status.intentx.io [308] [https://status.intentx.io/] [0] [Caddy] [167.235.220.62] [322.668596ms] [Caddy]
+
+## 401
+
+## 403
+https://relayer.intentx.io [403] [] [134] [403] [] [34.36.152.42] [google] [212.857635ms] [HTTP/3]
+https://assets.layerzero.network [403] [] [111] [AmazonS3] [52.85.129.109] [cloudfront] [602.684004ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+
+## 404
+https://gw.intentx.io [404] [] [215] [cloudflare] [104.26.8.21] [cloudflare] [221.298385ms] [Cloudflare,Express,Google Cloud,Google Cloud CDN,Google Cloud Trace,HTTP/3,Node.js]
+https://legacy.intentx.io [404] [] [107] [Vercel] [66.33.60.193] [224.218094ms] [HSTS,Vercel]
+https://thena.stoploss.intentx.io [404] [] [0] [] [34.49.57.251] [google] [232.284217ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://stage.intentx.io [404] [] [107] [Vercel] [66.33.60.35] [257.490903ms] [HSTS,Vercel]
+https://stats.intentx.io [404] [] [107] [Vercel] [76.76.21.164] [488.253789ms] [HSTS,Vercel]
+https://blast.intentx.io [404] [] [107] [Vercel] [76.76.21.123] [589.861252ms] [HSTS,Vercel]
+https://stoploss.intentx.io [404] [] [0] [] [34.160.110.195] [google] [675.994865ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://befi.stoploss.intentx.io [404] [] [0] [] [34.49.198.182] [google] [748.182357ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
