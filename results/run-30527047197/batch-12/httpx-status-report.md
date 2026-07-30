@@ -1,0 +1,128 @@
+# HTTPX Status Report
+
+Generated at: Thu Jul 30 08:39:21 UTC 2026
+
+HTTPX lines: 102
+Live URLs: 102
+
+## 200
+https://chat.tv.streamr.network [200] [] [715] [StreamrTV Chat] [AmazonS3] [52.222.205.15] [cloudfront] [289.280111ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://api-docs.streamr.network [200] [] [624] [AmazonS3] [52.222.205.106] [cloudfront] [440.831368ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://corea.streamr.network [200] [] [2825] [Streamr Core] [nginx/1.22.0] [65.109.38.126] [511.347135ms] [Google Analytics,Nginx:1.22.0,Polyfill:3]
+https://live-crawler.streamr.network [200] [] [3003] [Network Graph Visualization with Legend] [nginx/1.24.0 (Ubuntu)] [188.245.198.41] [503.894969ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://network-explorer-cdn.streamr.network [200] [] [3126] [Streamr Network Explorer] [AmazonS3] [13.225.61.66] [cloudfront] [342.397116ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://docs.streamr.network [200] [] [24520] [Overview | Streamr Docs] [AmazonS3] [108.138.159.67] [cloudfront] [621.254905ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Docusaurus:3.7.0,Google Tag Manager,React,Webpack]
+https://cdn.sqd.ai [200] [] [60055] [cloudflare] [172.67.164.145] [cloudflare] [401.187475ms] [Cloudflare,Google Cloud,Google Cloud CDN,HTTP/3]
+https://demo.story.foundation [200] [] [14818] [Story Demo] [Vercel] [216.150.16.1] [762.783813ms] [HSTS,Vercel]
+https://blog.streamr.network [200] [] [142315] [Streamr & Ecosystem News, Developer Guides & Tutorials] [nginx-rc] [88.99.13.243] [980.107959ms] [GenerateBlocks,Google Tag Manager,MySQL,Nginx,PHP,WordPress,WordPress Block Editor,jQuery,jQuery Migrate]
+https://streamgpt.streamr.network [200] [] [13] [nginx/1.18.0 (Ubuntu)] [37.27.27.102] [640.459831ms] [Express,Nginx:1.18.0,Node.js,Ubuntu]
+https://aeneid.portal.story.foundation [200] [] [312206] [IP Portal | Explore] [Vercel] [76.76.21.142] [249.153737ms] [HSTS,Vercel]
+https://storage-cluster-1.streamr.network [200] [] [63276] [MSR Horizon | דירות מניבות בסלוניקי למשקיעים ישראלים] [nginx/1.24.0 (Ubuntu)] [188.245.237.136] [681.073146ms] [Next.js,Nginx:1.24.0,Node.js,React,Ubuntu,Webpack]
+https://matomo.streamr.network [200] [] [236934] [Sign in - Matomo] [nginx/1.24.0 (Ubuntu)] [157.180.69.85] [959.394559ms] [Matomo Analytics,Nginx:1.24.0,PHP:8.3.19,Ubuntu]
+https://portal.story.foundation [200] [] [421947] [IP Portal | Explore] [cloudflare] [104.18.25.45] [cloudflare] [530.87475ms] [Cloudflare,HSTS,Vercel]
+https://streamr.network [200] [] [219709] [The decentralized real-time data network | Streamr] [nginx/1.22.0] [65.109.38.126] [955.963694ms] [Gatsby:3.15.0,Google Tag Manager,Nginx:1.22.0,React,Webpack]
+https://tv.streamr.network [200] [] [1387] [StreamrTV] [AmazonS3] [18.154.219.18] [cloudfront] [2.564203529s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://status.story.foundation [200] [] [974363] [Story Protocol status] [] [167.235.220.62] [1.269804942s] [Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus,ZURB Foundation]
+http://brubeck4.streamr.network [200] [] [0] [Microsoft-IIS/10.0] [65.21.235.190] [301.030083ms] [IIS:10.0,Microsoft ASP.NET,Windows Server]
+http://testnet4.streamr.network [200] [] [0] [Microsoft-IIS/10.0] [65.21.235.190] [300.198141ms] [IIS:10.0,Microsoft ASP.NET,Windows Server]
+
+## 301
+https://docs.sqd.ai [301] [https://docs.sqd.dev/] [167] [301 Moved Permanently] [cloudflare] [104.21.89.196] [cloudflare] [146.311006ms] [Cloudflare]
+https://ai-agents-summit.streamr.network [301] [https://tv.streamr.network/#/stream/stream-ni4w8onf26g?aesKey=a80dbefea122e28cb4a5333c5301d37a7fc2df3f74bfeb47d2efd4b8911e0874&publicKey=039cd9d5a1da9f1be615af3ee0e0a48e4a19ca1a8c21dffddfa8de5d66e707f49b&title=AI%20Agents%20Summit%202025&startTime=1750321200000] [308] [] [89.106.200.1] [163.832331ms]
+https://preview.streamr.network [301] [https://tv.streamr.network/] [0] [CloudFront] [18.238.152.109] [cloudfront] [214.590436ms] [Amazon CloudFront,Amazon Web Services]
+https://sqd.ai [301] [https://sqd.dev/] [167] [301 Moved Permanently] [cloudflare] [104.21.89.196] [cloudflare] [194.875079ms] [Cloudflare]
+https://storage-cluster-3.streamr.network [301] [https://storage-cluster-3.streamr.network/phpmyadmin/] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [188.245.237.94] [527.332219ms] [Nginx:1.24.0,Ubuntu]
+https://storage-main-3.streamr.network [301] [https://test-online.com.ua/] [178] [301 Moved Permanently] [nginx/1.28.3 (Ubuntu)] [168.119.178.26] [482.458185ms] [Nginx:1.28.3,Ubuntu]
+http://storage-main-5.streamr.network [301] [https://storage-main-5.streamr.network/] [0] [Caddy] [49.13.133.213] [288.089224ms] [Caddy]
+https://storage-main-4.streamr.network [301] [https://henrybellido.com/] [0] [nginx/1.31.3] [49.13.93.168] [719.458539ms] [Nginx:1.31.3,PHP:8.3.32]
+https://www.sqd.ai [301] [https://sqd.dev/] [167] [301 Moved Permanently] [cloudflare] [172.67.164.145] [cloudflare] [279.730232ms] [Cloudflare]
+https://vote.streamr.network [301] [https://snapshot.box/#/s:streamr.eth/] [111] [301] [] [51.91.60.76] [501.173903ms]
+https://storage-cluster-2.streamr.network [301] [https://staging.amg.twentyfour.dev/] [0] [Apache/2.4.58 (Ubuntu)] [188.245.237.96] [1.602679776s] [Apache HTTP Server:2.4.58,Ubuntu]
+https://www.streamr.network [301] [https://streamr.network/] [169] [301 Moved Permanently] [nginx/1.22.0] [65.109.38.126] [569.299794ms] [Nginx:1.22.0]
+
+## 302
+https://newsletter.story.foundation [302] [/subscribe] [0] [cloudflare] [104.16.23.120] [cloudflare] [406.299019ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 307
+https://explorer.story.foundation [307] [https://portal.story.foundation/] [15] [cloudflare] [104.18.24.45] [cloudflare] [313.151464ms] [Cloudflare,HSTS,Vercel]
+
+## 308
+https://ai-agents-summit.streamr.network [301] [https://tv.streamr.network/#/stream/stream-ni4w8onf26g?aesKey=a80dbefea122e28cb4a5333c5301d37a7fc2df3f74bfeb47d2efd4b8911e0874&publicKey=039cd9d5a1da9f1be615af3ee0e0a48e4a19ca1a8c21dffddfa8de5d66e707f49b&title=AI%20Agents%20Summit%202025&startTime=1750321200000] [308] [] [89.106.200.1] [163.832331ms]
+http://brubeck1.streamr.network [308] [https://brubeck1.streamr.network/] [0] [Caddy] [65.21.234.31] [330.788204ms] [Caddy]
+https://story.foundation [308] [https://www.datafdn.org/] [15] [cloudflare] [104.18.24.45] [cloudflare] [315.838237ms] [Cloudflare,HSTS,Vercel]
+http://storage2.streamr.network [308] [https://storage2.streamr.network/] [0] [Caddy] [188.34.155.144] [299.203411ms] [Caddy]
+https://www.story.foundation [308] [https://www.datafdn.org/] [15] [cloudflare] [104.18.24.45] [cloudflare] [379.341766ms] [Cloudflare,HSTS,Vercel]
+
+## 401
+
+## 403
+https://custompage.story.foundation [403] [] [5674] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [109.262545ms] [Cloudflare,HSTS]
+https://aeneid.tlv.story.foundation [403] [] [5674] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [112.283546ms] [Cloudflare,HSTS]
+https://aeneid.explorer.story.foundation [403] [] [5657] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [119.595836ms] [Cloudflare,HSTS]
+https://bot.story.foundation [403] [] [5560] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [153.718133ms] [Cloudflare,HSTS]
+https://faucet.story.foundation [403] [] [5584] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [153.721373ms] [Cloudflare,HSTS]
+https://devnet.tlv.story.foundation [403] [] [5674] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [182.810901ms] [Cloudflare,HSTS]
+https://canary.portal.story.foundation [403] [] [5677] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [184.17626ms] [Cloudflare,HSTS]
+https://gm2026.story.foundation [403] [] [5670] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [229.249655ms] [Cloudflare,HSTS]
+https://aeneid.faucet.story.foundation [403] [] [5677] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [278.352273ms] [Cloudflare,HSTS]
+https://eoy2025.story.foundation [403] [] [5713] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [302.23916ms] [Cloudflare,HSTS]
+https://claim.story.foundation [403] [] [5626] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [325.773336ms] [Cloudflare,HSTS]
+https://learn.story.foundation [403] [] [5669] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [147.849215ms] [Cloudflare,HSTS]
+https://hub.story.foundation [403] [] [5624] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [200.916922ms] [Cloudflare,HSTS]
+https://guava.story.foundation [403] [] [5583] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [396.596009ms] [Cloudflare,HSTS]
+https://incentives.story.foundation [403] [] [5631] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [229.525174ms] [Cloudflare,HSTS]
+https://marilyn.story.foundation [403] [] [5585] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [180.38889ms] [Cloudflare,HSTS]
+https://mv2.story.foundation [403] [] [5539] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [195.547479ms] [Cloudflare,HSTS]
+https://cdn-staging.streamr.network [403] [] [111] [AmazonS3] [52.84.217.37] [cloudfront] [553.16921ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://odyssey.explorer.story.foundation [403] [] [5722] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [134.494886ms] [Cloudflare,HSTS]
+https://aeneid.staking.story.foundation [403] [] [5742] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [571.770888ms] [Cloudflare,HSTS]
+https://odyssey.hub.story.foundation [403] [] [5632] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [191.654231ms] [Cloudflare,HSTS]
+https://playground.story.foundation [403] [] [5588] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [165.932011ms] [Cloudflare,HSTS]
+https://mint.story.foundation [403] [] [5710] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [308.616468ms] [Cloudflare,HSTS]
+https://play.story.foundation [403] [] [5668] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [190.636573ms] [Cloudflare,HSTS]
+https://odyssey.staking.story.foundation [403] [] [5700] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [224.692807ms] [Cloudflare,HSTS]
+https://odyssey.faucet.story.foundation [403] [] [5635] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [352.789818ms] [Cloudflare,HSTS]
+https://safe-transaction.story.foundation [403] [] [5552] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [158.897263ms] [Cloudflare,HSTS]
+https://rewards.story.foundation [403] [] [5671] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [210.167184ms] [Cloudflare,HSTS]
+https://sandbox.story.foundation [403] [] [5564] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [187.531646ms] [Cloudflare,HSTS]
+https://product.sqd.ai [403] [] [17] [cloudflare] [104.26.12.52] [cloudflare] [380.127358ms] [Cloudflare,HTTP/3]
+https://safe.story.foundation [403] [] [5668] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [238.756908ms] [Cloudflare,HSTS]
+https://stability.story.foundation [403] [] [5673] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [186.394254ms] [Cloudflare,HSTS]
+https://staging.faucet.story.foundation [403] [] [5720] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [169.311027ms] [Cloudflare,HSTS]
+https://staging.portal.story.foundation [403] [] [5678] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [180.471179ms] [Cloudflare,HSTS]
+https://staging.explorer.story.foundation [403] [] [5722] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [199.121679ms] [Cloudflare,HSTS]
+https://staging.story.foundation [403] [] [5713] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [177.021122ms] [Cloudflare,HSTS]
+https://staging.hub.story.foundation [403] [] [5675] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [232.65206ms] [Cloudflare,HSTS]
+https://safe-transaction-testnet.story.foundation [403] [] [5730] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [369.410333ms] [Cloudflare,HSTS]
+https://staking.story.foundation [403] [] [5671] [Just a moment...] [cloudflare] [104.18.25.45] [cloudflare] [207.461076ms] [Cloudflare,HSTS]
+https://schema.streamr.network [403] [] [263] [AmazonS3] [18.238.171.33] [cloudfront] [445.272001ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://tlv.story.foundation [403] [] [5624] [Just a moment...] [cloudflare] [104.18.24.45] [cloudflare] [215.199468ms] [Cloudflare,HSTS]
+
+## 404
+https://docs.story.foundation [404] [] [107] [Vercel] [66.33.60.34] [263.9021ms] [HSTS,Vercel]
+https://elink9cb.story.foundation [404] [] [1437] [404 Not Found] [cloudflare] [104.16.24.120] [cloudflare] [492.642763ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://gsn.streamr.network [404] [] [153] [404 Not Found] [nginx] [65.21.181.234] [621.407324ms] [Nginx]
+https://docs1.sqd.ai [404] [] [107] [cloudflare] [172.67.164.145] [cloudflare] [702.248262ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://polygon-entrypoint-2.streamr.network [404] [] [0] [] [5.161.118.128] [292.789502ms]
+https://mailerlite-proxy-server.streamr.network [404] [] [37] [nginx/1.24.0 (Ubuntu)] [157.180.115.23] [587.948906ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://polygon-entrypoint-3.streamr.network [404] [] [0] [] [91.107.235.111] [517.663146ms]
+https://polygon-entrypoint-1.streamr.network [404] [] [0] [] [91.107.211.8] [683.92246ms]
+https://polygon-entrypoint-4.streamr.network [404] [] [0] [] [135.181.46.235] [604.329626ms]
+https://storage-main-2.streamr.network [404] [] [63] [nginx/1.18.0 (Ubuntu)] [138.201.90.15] [503.472052ms] [Express,Nginx:1.18.0,Node.js,Ubuntu]
+https://storage5.streamr.network [404] [] [146] [404 Not Found] [] [138.201.174.95] [672.683354ms] [HSTS]
+https://streamrtv-encrypted-recorder.streamr.network [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [18.185.156.215] [489.091994ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://stream-metrics.streamr.network [404] [] [139] [Error] [nginx/1.18.0 (Ubuntu)] [65.21.185.60] [590.159694ms] [Express,Nginx:1.18.0,Node.js,Ubuntu]
+https://streamrtv-recorder.streamr.network [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [18.158.88.134] [545.481655ms] [Express,HSTS,Nginx:1.24.0,Node.js,Ubuntu]
+https://stream-metrics-polygonamoy.streamr.network [404] [] [139] [Error] [nginx/1.18.0 (Ubuntu)] [65.21.185.60] [694.760607ms] [Express,Nginx:1.18.0,Node.js,Ubuntu]
+https://tv-purchase-backend-staging.streamr.network [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [46.62.192.37] [572.468117ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://tv-thumbnail-uploader.streamr.network [404] [] [23] [] [63.184.60.248] [467.718044ms]
+https://tv-purchase-backend.streamr.network [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [46.62.142.8] [542.438615ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://tv-sponsorship-backend.streamr.network [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [16.170.88.137] [587.890339ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+
+## 500
+
+## 502
+
+## 503
+https://storage6.streamr.network [503] [] [20] [] [23.88.34.23] [485.474129ms] [HTTP/3]
+
