@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul 30 08:39:07 UTC 2026
+[+] Run ID: 30527074583
+[+] Batch name: batch-13
+[+] Batch targets:
+spaceandtime.io
+squidswap.xyz
+term.finance
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul 30 08:39:39 UTC 2026
+[+] HTTPX input count: 52
+[+] Running httpx...
+[+] httpx completed: Thu Jul 30 08:39:42 UTC 2026
+[+] httpx line count: 35
+[+] Batch completed: Thu Jul 30 08:39:42 UTC 2026

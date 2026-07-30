@@ -1,0 +1,5 @@
+https://guide.spaceandtime.io [302] [https://docs.google.com/forms/d/e/1FAIpQLSfljKk-zvOZrDKynMpKi2ACgie8Cw2VyPu_Dgqg1sb6yk81LA/viewform] [0] [Squarespace] [198.185.159.144] [269.205485ms] [Squarespace,Squarespace Commerce]
+https://www.guide.spaceandtime.io [302] [https://docs.google.com/forms/d/e/1FAIpQLSfljKk-zvOZrDKynMpKi2ACgie8Cw2VyPu_Dgqg1sb6yk81LA/viewform] [0] [Squarespace] [198.185.159.144] [291.003933ms] [Squarespace,Squarespace Commerce]
+https://shield.spaceandtime.io [302] [https://github.com/pages/auth?nonce=b50da9d8-f840-4b77-9ff6-be4ad4ecbf37&page_id=46482397&path=Lw] [138] [302 Found] [GitHub.com] [185.199.109.153] [321.062573ms] [Fastly,GitHub Pages,Varnish]
+https://id.spaceandtime.io [302] [https://id.spaceandtime.io/app/UserHome?iss=https%3A%2F%2Fid.spaceandtime.io&session_hint=AUTHENTICATED] [0] [nginx] [52.223.7.86] [447.537357ms] [HSTS,Nginx]
+https://docs.spaceandtime.io [302] [/docs] [27] [cloudflare] [104.16.242.118] [cloudflare] [476.503724ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]

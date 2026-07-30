@@ -1,0 +1,5 @@
+https://app.spaceandtime.io [301] [https://app.spaceandtime.ai/] [0] [cloudflare] [104.18.17.117] [cloudflare] [178.660338ms] [Cloudflare]
+https://campaign.term.finance [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [248.043237ms] [Caddy,HTTP/3]
+https://term.finance [301] [https://www.term.finance/] [166] [301 Moved Permanently] [] [99.83.190.102] [262.680653ms] [HSTS]
+https://www.app.spaceandtime.io [301] [https://app.spaceandtime.ai/] [0] [cloudflare] [104.18.17.117] [cloudflare] [295.262876ms] [Cloudflare]
+https://spaceandtime.io [301] [https://www.spaceandtime.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [306.275432ms] [Cloudflare,HSTS,HTTP/3]
