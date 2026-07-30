@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://docs.symbiotic.fi///%5Ctoast.me/ [redirect="//\\toast.me/"]
+[dockerfile-hidden-disclosure] [http] [medium] https://docs.rivalz.ai/.dockerfile
