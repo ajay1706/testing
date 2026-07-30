@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul 30 08:33:48 UTC 2026
+[+] Run ID: 30527074583
+[+] Batch name: batch-02
+[+] Batch targets:
+bucketprotocol.io
+burnt.com
+celestia.org
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul 30 08:34:00 UTC 2026
+[+] HTTPX input count: 360
+[+] Running httpx...
+[+] httpx completed: Thu Jul 30 08:35:03 UTC 2026
+[+] httpx line count: 153
+[+] Batch completed: Thu Jul 30 08:35:03 UTC 2026

@@ -1,0 +1,4 @@
+https://acme-dns.burnt.com [302] [/docs] [0] [cloudflare] [104.20.29.220] [cloudflare] [113.6476ms] [Cloudflare,HTTP/3]
+https://admin.bucketprotocol.io [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fadmin.bucketprotocol.io%2F&nonce=151a3acd8ba6870327f7ec3a83ecf2e77f65b7e97fbff85bf032c936850bf959] [15] [Vercel] [216.150.16.1] [275.256955ms] [HSTS,Vercel]
+https://faucet.xion.burnt.com [302] [https://dev.testnet.burnt.com/faucet] [0] [cloudflare] [104.20.29.220] [cloudflare] [326.3173ms] [Cloudflare,HTTP/3]
+https://oauth2.burnt.com [302] [https://dev.burnt.com/] [0] [cloudflare] [172.66.171.129] [cloudflare] [4.241977371s] [Cloudflare,HTTP/3]

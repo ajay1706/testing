@@ -1,0 +1,3 @@
+https://aa-api.xion-mainnet-1.burnt.com [403] [] [5571] [Just a moment...] [cloudflare] [104.20.29.220] [cloudflare] [45.353649ms] [Cloudflare,HTTP/3]
+https://staking.testnet.xion.burnt.com [403] [] [17] [cloudflare] [104.20.29.220] [cloudflare] [2.064746133s] [Cloudflare,HTTP/3]
+https://staking.xion.burnt.com [403] [] [17] [cloudflare] [104.20.29.220] [cloudflare] [3.059286148s] [Cloudflare,HTTP/3]
