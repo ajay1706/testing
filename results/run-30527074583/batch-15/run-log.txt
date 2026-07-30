@@ -1,0 +1,14 @@
+[+] Batch started: Thu Jul 30 08:41:18 UTC 2026
+[+] Run ID: 30527074583
+[+] Batch name: batch-15
+[+] Batch targets:
+witnesschain.com
+wormhole.com
+xion.burnt.com
+[+] Running subfinder...
+[+] Subfinder completed: Thu Jul 30 08:42:15 UTC 2026
+[+] HTTPX input count: 132
+[+] Running httpx...
+[+] httpx completed: Thu Jul 30 08:42:37 UTC 2026
+[+] httpx line count: 71
+[+] Batch completed: Thu Jul 30 08:42:37 UTC 2026
