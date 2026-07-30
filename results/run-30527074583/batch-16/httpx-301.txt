@@ -1,0 +1,2 @@
+http://use.zerolend.xyz [301] [https://use.zerolend.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.11.156] [cloudflare] [23.329335ms] [Cloudflare,HTTP/3]
+http://airdrop-api-v2.zerolend.xyz [301] [https://airdrop-api-v2.zerolend.xyz/] [526] [301 Moved Permanently] [cloudflare] [172.67.70.113] [cloudflare] [21.081767ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
