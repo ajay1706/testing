@@ -1,0 +1,4 @@
+https://beta.dfx.drift.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbeta.dfx.drift.trade%2F&nonce=44ae6bc83f0e503e9e0d5b971ddf63077a2850fc721384b3ba7a1bdeaece69ea] [15] [Vercel] [216.150.1.129] [127.195681ms] [HSTS,Vercel]
+http://mail.dolomite.io [302] [http://mail.google.com/a/dolomite.io] [233] [302 Moved] [ghs] [172.253.62.121] [google] [29.569275ms]
+https://master.dashboard.drift.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fmaster.dashboard.drift.trade%2F&nonce=3907935669cbd7394181932db689e0dfd496439fe972e4700f91f724feb7b6bf] [15] [Vercel] [76.76.21.142] [128.12363ms] [HSTS,Vercel]
+https://metrics.drift.trade [302] [/login] [29] [] [99.80.65.9] [422.674698ms]
