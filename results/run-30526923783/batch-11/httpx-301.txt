@@ -1,0 +1,8 @@
+https://pulsebot.ai [301] [https://www.pulsebot.ai/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [278.259894ms] [Cloudflare,HSTS,HTTP/3]
+https://pumpbtc.xyz [301] [https://mainnet.pumpbtc.xyz/] [537] [301 Moved Permanently] [cloudflare] [172.67.218.117] [cloudflare] [395.650734ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://makecash.playember.com [301] [https://makecash.playember.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.40] [cloudflare] [28.869433ms] [Cloudflare]
+http://bitcoinspin.playember.com [301] [https://bitcoinspin.playember.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.1.190] [cloudflare] [26.961355ms] [Cloudflare]
+http://bitcoincards.playember.com [301] [https://bitcoincards.playember.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.0.190] [cloudflare] [27.311235ms] [Cloudflare]
+http://telegram.playember.com [301] [https://telegram.playember.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.40] [cloudflare] [28.375964ms] [Cloudflare,HTTP/2]
+http://bitcoin-dev.playember.com [301] [https://bitcoin-dev.playember.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.40] [cloudflare] [31.138254ms] [Cloudflare]
+http://testnet.pumpbtc.xyz [301] [https://testnet.pumpbtc.xyz/] [526] [301 Moved Permanently] [cloudflare] [172.67.218.117] [cloudflare] [39.373379ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
