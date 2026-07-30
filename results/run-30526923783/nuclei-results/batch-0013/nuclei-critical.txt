@@ -1,0 +1,2 @@
+[CVE-2025-29927] [http] [critical] https://mozai.rivalz.ai
+[openwebui-default-login] [http] [critical] https://llm.availproject.org/api/v1/auths/signin
