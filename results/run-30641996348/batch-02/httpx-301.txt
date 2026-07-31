@@ -1,0 +1,7 @@
+https://docs.bluefin.io [301] [https://bluefin-exchange.readme.io/v2.0/reference/introduction/] [520] [301 Moved Permanently] [cloudflare] [172.66.40.151] [cloudflare] [45.726809ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://bucketprotocol.io [301] [https://www.bucketprotocol.io/] [15] [Vercel] [216.150.1.193] [62.487511ms] [HSTS,Vercel]
+https://private.bluefin.io [301] [https://dev-5.api.sui-staging.bluefin.io/] [167] [301 Moved Permanently] [cloudflare] [172.66.43.105] [cloudflare] [196.900102ms] [Cloudflare,HTTP/3]
+http://chat.bluefin.io [301] [https://chat.bluefin.io/] [520] [301 Moved Permanently] [cloudflare] [172.66.40.151] [cloudflare] [17.747715ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://beta.app.bluefin.io [301] [https://beta.app.bluefin.io/] [520] [301 Moved Permanently] [cloudflare] [172.66.43.105] [cloudflare] [26.792348ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://notification.staging.api.arcadia.finance [301] [https://notification.staging.api.arcadia.finance/] [520] [301 Moved Permanently] [cloudflare] [104.26.11.44] [cloudflare] [24.39764ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://producer.api.arcadia.finance [301] [https://producer.api.arcadia.finance/] [520] [301 Moved Permanently] [cloudflare] [172.67.74.48] [cloudflare] [25.230558ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]

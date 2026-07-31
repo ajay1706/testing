@@ -1,0 +1,4 @@
+https://candlesticks.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [254.687085ms] [Cloudflare,Envoy,HTTP/3]
+https://spot.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [447.653079ms] [Cloudflare,Envoy,HTTP/3]
+https://staging.api.arcadia.finance [403] [] [648] [403 Forbidden] [cloudflare] [104.26.11.44] [cloudflare] [542.453241ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://swap.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [382.161725ms] [Cloudflare,Envoy,HTTP/3]
