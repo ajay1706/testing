@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://global.rpc.thirdweb.com/metrics
