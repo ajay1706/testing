@@ -1,0 +1,3 @@
+https://auth.dev.platform.credora.io [302] [https://dev.platform.credora.io/] [54] [cloudflare] [172.64.153.85] [cloudflare] [326.654288ms] [Auth0,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://auth.stage.platform.credora.io [302] [https://stage.platform.credora.io/] [56] [cloudflare] [172.64.153.85] [cloudflare] [393.159462ms] [Auth0,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://auth.platform.credora.io [302] [https://platform.credora.io/] [50] [cloudflare] [104.18.34.171] [cloudflare] [513.857789ms] [Auth0,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
