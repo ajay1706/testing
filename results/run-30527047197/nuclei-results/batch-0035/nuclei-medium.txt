@@ -1,0 +1,2 @@
+[CVE-2022-41697] [http] [medium] https://ghost-corpresc.nodeops.xyz/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://ghost.nodeops.xyz/ghost/api/admin/session
