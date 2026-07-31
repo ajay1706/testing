@@ -1,0 +1,22 @@
+[open-redirect-generic] [http] [medium] https://virtual.af-nexus-mainnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.af-nexus-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.af-nexus-mainnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.af-nexus-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.alpen-testnet.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.alpen-testnet.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.apechain.canaryrpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.apechain.eu.canaryrpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.apechain.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://virtual.arbitrum-polymarket.eu.rpc.tenderly.co//oast.me/ [redirect="/oast.me/"]
+[prometheus-metrics] [http] [medium] https://us1.rpc-mg.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://us1.multiregion.thirdweb.com/metrics
+[CVE-2025-54793] [http] [medium] https://virtual.af-nexus-mainnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.af-nexus-mainnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.af-nexus-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.af-nexus-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.alpen-testnet.eu.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.alpen-testnet.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.apechain.canaryrpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.apechain.eu.canaryrpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.apechain.rpc.tenderly.co//interact.sh/en/
+[CVE-2025-54793] [http] [medium] https://virtual.arbitrum-polymarket.eu.rpc.tenderly.co//interact.sh/en/
