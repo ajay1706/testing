@@ -1,0 +1,8 @@
+https://docs2.fragmetric.xyz [200] [] [17397] [teambuild] [openresty] [151.101.3.7] [fastly] [47.417257ms] [Ghost:6.55,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://dev.fragmetric.xyz [200] [] [14944] [Fragmetric | Restaking on Solana] [AmazonS3] [108.139.29.111] [cloudfront] [71.664375ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://fragmetric.xyz [200] [] [14944] [Fragmetric | Restaking on Solana] [AmazonS3] [3.170.19.108] [cloudfront] [57.573906ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://airdrop.fragmetric.xyz [200] [] [12992] [Fragmetric | Restaking on Solana] [AmazonS3] [3.170.42.114] [cloudfront] [67.395387ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://stg.fragmetric.xyz [200] [] [14944] [Fragmetric | Restaking on Solana] [AmazonS3] [3.170.19.65] [cloudfront] [254.28992ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://forum.fragmetric.xyz [200] [] [120754] [Fragmetric] [nginx] [216.66.8.43] [252.456377ms] [Discourse:2026.8.0,HSTS,Nginx,Ruby on Rails]
+https://argo.inhouse.dev.fragmetric.xyz [200] [] [487] [Argo] [] [15.164.40.44] [817.183299ms] [HSTS]
+https://brand.fragmetric.xyz [200] [] [11432238] [AmazonS3] [13.226.238.124] [cloudfront] [3.220763731s] [Amazon CloudFront,Amazon S3,Amazon Web Services]

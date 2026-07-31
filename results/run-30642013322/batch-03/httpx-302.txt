@@ -1,0 +1,6 @@
+https://ref.fragmetric.xyz [302] [https://ref.fragmetric.xyz/?rb.routing.mode=proxy&rb.routing.signature=790483] [0] [] [76.223.20.46] [62.474901ms] [HSTS]
+https://app.fragmetric.xyz [302] [/restake] [0] [] [3.171.85.70] [cloudfront] [243.238492ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://www.fragmetric.xyz [302] [https://fragmetric.xyz/] [0] [] [3.170.19.101] [cloudfront] [250.226837ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://app.dev.fragmetric.xyz [302] [/restake] [0] [] [3.167.56.88] [cloudfront] [346.28482ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://www.fiva.fi [302] [https://www.finanssivalvonta.fi/] [0] [] [80.248.162.49] [704.290912ms]
+https://fiva.fi [302] [https://www.finanssivalvonta.fi/] [0] [] [80.248.162.49] [800.395177ms]
