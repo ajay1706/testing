@@ -1,0 +1,2 @@
+https://marginfi.com [308] [https://app.marginfi.com/] [15] [Vercel] [76.76.21.21] [64.267349ms] [HSTS,Vercel]
+https://www.marginfi.com [308] [https://app.marginfi.com/] [15] [Vercel] [76.76.21.22] [67.028857ms] [HSTS,Vercel]
