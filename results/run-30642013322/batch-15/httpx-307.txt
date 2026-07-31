@@ -1,0 +1,2 @@
+https://app.yup.io [307] [/login?callback=/] [17] [Google Frontend] [34.13.79.210] [google] [249.12384ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://www.app.yup.io [307] [/login?callback=/] [17] [Google Frontend] [34.13.79.210] [google] [358.541683ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]

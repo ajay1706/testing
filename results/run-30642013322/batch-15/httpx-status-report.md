@@ -1,0 +1,66 @@
+# HTTPX Status Report
+
+Generated at: Fri Jul 31 15:24:27 UTC 2026
+
+HTTPX lines: 39
+Live URLs: 39
+
+## 200
+https://design.zealy.io [200] [] [5125] [@storybook/core - Storybook] [Vercel] [66.33.60.67] [122.60234ms] [HSTS,Vercel]
+https://buzz.zealy.io [200] [] [1319] [] [108.133.47.135] [272.156269ms] [HTTP/3]
+https://eos-airdrop-claim.yup.io [200] [] [2325] [YUP Token CLAIM - EOS] [cloudflare] [172.66.47.156] [cloudflare] [282.245524ms] [Cloudflare,HTTP/3]
+https://dev.zkemail.xyz [200] [] [1638] [Proof of Twitter: ZK Email] [cloudflare] [216.24.57.15] [410.008565ms] [Cloudflare,HTTP/3]
+https://app-assets-1.yup.io [200] [] [32146] [UploadServer] [34.98.65.189] [google] [120.053932ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://apply.zealy.io [200] [] [18330] [Zealy - Candidate Portal] [Vercel] [76.76.21.22] [351.932046ms] [HSTS,Vercel]
+https://live.yup.io [200] [] [41285] [YUP Live Yup Social] [cloudflare] [172.66.47.59] [cloudflare] [98.485252ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Vue.js]
+https://blog.zealy.io [200] [] [66808] [Zealy | Community Blog] [openresty] [151.101.67.7] [fastly] [289.271868ms] [Ghost:6.55,Google Analytics,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://yup.io [200] [] [64526] [Yup • Decentralized Social All-In-One.] [GitHub.com] [185.199.108.153] [144.217374ms] [Fastly,GitHub Pages,Google Analytics,Google Hosted Libraries,Google Tag Manager,LottieFiles,RawGit,Unpkg,Varnish,YouTube,jQuery:3.5.1]
+https://docs.zealy.io [200] [] [305383] [Introduction | Zealy API] [cloudflare] [172.64.147.209] [cloudflare] [112.461553ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.yup.io [200] [] [327061] [Getting Started | Yup Docs] [cloudflare] [104.18.40.47] [cloudflare] [437.015241ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://media-uploads-1.yup.io [200] [] [272520] [UploadServer] [34.98.65.189] [google] [209.419482ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://ipfs-uploads-1.yup.io [200] [] [271192] [UploadServer] [34.98.65.189] [google] [326.396701ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://www.zealy.io [200] [] [325550] [Make a Living from Web3 with Zealy] [] [3.167.99.117] [cloudfront] [305.293485ms] [Amazon CloudFront,Amazon Web Services,C3.js,HTTP/3,Next.js,Node.js,React,Webpack,dc.js]
+https://zealy.io [200] [] [325550] [Make a Living from Web3 with Zealy] [] [3.167.99.114] [cloudfront] [184.789611ms] [Amazon CloudFront,Amazon Web Services,C3.js,HTTP/3,Next.js,Node.js,React,Webpack,dc.js]
+
+## 301
+http://jobs.yup.io [301] [https://angel.co/company/yupteam/jobs] [72] [ip-10-123-125-47.ec2.internal] [15.197.225.128] [9.980734ms]
+http://farcaster.yup.io [301] [https://app.yup.io/feed/farcaster] [68] [ip-10-123-125-138.ec2.internal] [3.33.251.168] [8.827215ms]
+http://new.yup.io [301] [https://app.yup.io/feed/new] [62] [ip-10-123-125-102.ec2.internal] [3.33.251.168] [8.776152ms]
+http://mobile.yup.io [301] [http://yupio.typeform.com/to/lXQyUc5e] [72] [ip-10-123-125-175.ec2.internal] [15.197.225.128] [39.943776ms]
+http://castle.yup.io [301] [https://gather.town/app/kjTwR9YguIVWMylX/Yup] [79] [ip-10-123-125-9.ec2.internal] [15.197.225.128] [69.203694ms]
+https://www.yup.io [301] [https://yup.io/] [162] [301 Moved Permanently] [GitHub.com] [185.199.109.153] [404.587683ms] [Fastly,GitHub Pages,Varnish]
+http://api.yup.io [301] [https://api.yup.io:443/] [0] [] [34.8.71.179] [google] [5.000219ms]
+http://mirror.yup.io [301] [https://app.yup.io/feed/mirror] [65] [ip-10-123-125-15.ec2.internal] [3.33.152.147] [10.118915ms]
+http://www.blog.yup.io [301] [https://yup.mirror.xyz] [57] [ip-10-123-124-140.ec2.internal] [15.197.142.173] [12.175231ms]
+
+## 302
+https://www.zkemail.xyz [302] [http://zk.email] [0] [Squarespace] [198.185.159.144] [316.045568ms] [Squarespace,Squarespace Commerce]
+https://zkemail.xyz [302] [http://zk.email] [0] [Squarespace] [198.185.159.145] [320.888946ms] [Squarespace,Squarespace Commerce]
+http://blog.yup.io [302] [https://yup.mirror.xyz] [45] [ip-10-123-124-155.ec2.internal] [3.33.152.147] [10.627166ms]
+
+## 307
+https://app.yup.io [307] [/login?callback=/] [17] [Google Frontend] [34.13.79.210] [google] [249.12384ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://www.app.yup.io [307] [/login?callback=/] [17] [Google Frontend] [34.13.79.210] [google] [358.541683ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+
+## 308
+
+## 401
+
+## 403
+https://api-v1.zealy.io [403] [] [70] [] [34.247.208.106] [250.374472ms] [HSTS]
+https://media.zealy.io [403] [] [243] [AmazonS3] [3.168.73.56] [cloudfront] [356.078889ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://api.zealy.io [403] [] [70] [] [99.81.51.13] [367.225481ms] [HSTS]
+
+## 404
+https://contributors.zealy.io [404] [] [1093] [Error 404] [] [99.83.181.15] [87.472306ms]
+https://api-v2.zealy.io [404] [] [139] [Error] [] [34.247.208.106] [270.015223ms] [HSTS]
+https://web3.zealy.io [404] [] [1093] [Error 404] [] [99.83.181.15] [302.592885ms]
+https://staging.yup.io [404] [] [107] [Vercel] [66.33.60.194] [367.370494ms] [HSTS,Vercel]
+https://creators.zealy.io [404] [] [1093] [Error 404] [] [99.83.181.15] [367.903639ms]
+
+## 500
+
+## 502
+
+## 503
+
