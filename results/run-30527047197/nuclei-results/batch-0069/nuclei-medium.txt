@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://zksync-era-testnet.rpc.thirdweb.com/metrics
+[mongodb-exporter-metrics] [http] [medium] https://www.bridge.alchemy.com/metrics
