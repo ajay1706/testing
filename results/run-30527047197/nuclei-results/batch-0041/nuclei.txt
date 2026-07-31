@@ -1,0 +1,53 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] nebula-testnet.explorer.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mta.apibeta.freename.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nebula-testnet.explorer.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mta.apibeta.freename.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nft.megaeth.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nft.megaeth.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nitro-testnet.explorer.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nitro-testnet.explorer.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nitro-testnet.rpc.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nitro-testnet.rpc.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] notification-sendit-omega.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] notification-sendit-omega.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] o-chain.explorer.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] o-chain.explorer.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] oauth-admin-dev.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] oauth-admin-dev.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] oauth-admin.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] oauth-dev.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] oauth-admin.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] oauth-dev.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] oauth.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] oauth.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] olive-network-testnet.explorer.caldera.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] olive-network-testnet.explorer.caldera.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] omega-03.us-west.canary-gateway.tenderly.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] omega-05.us-west.canary-gateway.tenderly.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] omega-05.us-west.canary-gateway.tenderly.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] omega-03.us-west.canary-gateway.tenderly.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] omega-12.us-west.canary-gateway.tenderly.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] omega-08.eu.canary-gateway.tenderly.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] omega-12.us-west.canary-gateway.tenderly.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] omega-08.eu.canary-gateway.tenderly.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] omega-13.us-west.canary-gateway.tenderly.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] omega-14.eu.canary-gateway.tenderly.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] omega-13.us-west.canary-gateway.tenderly.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] omega-14.eu.canary-gateway.tenderly.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[debug-vars] [http] [low] https://multiregion.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://mumbai.rpc.thirdweb.com/debug/vars
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.arch.network [""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_STYTCH_TELEMETRY_URL":"https://elements.stytch.com/telemetry.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_HUMAN_ENABLED":"true"",""VITE_STYTCH_DEVICE_FINGERPRINTING_ENABLED":"true"",""VITE_STYTCH_PUBLIC_TOKEN":"public-token-live-bb368f5c-d1e6-477a-b194-cba5627e95f1"",""VITE_STYTCH_SUBMIT_URL":"tw-bt.beehiiv.com""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.story.foundation/subscribe [""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_HUMAN_ENABLED":"true""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.thirdweb.com [""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js""]
+[prometheus-metrics] [http] [medium] https://multiregion.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://mumbai.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://n8n.dev.chainstack.com/metrics
+[prometheus-metrics] [http] [medium] https://n8n.console.chainstack.com/metrics
+[prometheus-metrics] [http] [medium] https://ofac-weighstation.quicknode.com/metrics
+[self-signed-ssl] [ssl] [low] nginx-test.staging.biconomy.io:443
+[self-signed-ssl] [ssl] [low] nv.sqgateway.subquery.network:443
+[kubernetes-fake-certificate] [ssl] [low] nexus-sepolia.explorer.alchemy.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] nexus-sepolia.explorer.alchemy.com:443
+[kubernetes-fake-certificate] [ssl] [low] nexus-testnet.explorer.alchemy.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] nexus-testnet.explorer.alchemy.com:443
+[expired-ssl] [ssl] [low] nft.paragraph.xyz:443 ["2025-12-31 02:53:19 +0000 UTC"]
