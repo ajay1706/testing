@@ -1,0 +1,107 @@
+# HTTPX Status Report
+
+Generated at: Fri Jul 31 15:16:48 UTC 2026
+
+HTTPX lines: 78
+Live URLs: 78
+
+## 200
+https://app.cetus.zone [200] [] [3007] [Cetus - Empower liquidity. Built for DeFi.] [Netlify] [3.168.132.75] [cloudfront] [145.027847ms] [Amazon CloudFront,Amazon Web Services,Google Analytics,HSTS,Netlify]
+https://alpha.concrete.xyz [200] [] [3334] [Alpha | Concrete] [Google Frontend] [34.111.179.208] [google] [178.520753ms] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3,Node.js]
+https://api-sui-cf.cetus.zone [200] [] [0] [cloudflare] [172.66.168.240] [cloudflare] [234.102698ms] [Cloudflare]
+https://clerk.alpha.concrete.xyz [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [319.167093ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://clerk.build.concrete.xyz [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [375.632781ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://mainnet-bridge.validator.cetus.zone [200] [] [0] [] [18.208.100.245] [220.650101ms] [HTTP/3]
+https://concrete.xyz [200] [] [79906] [Concrete] [cloudflare] [104.21.20.72] [cloudflare] [270.289099ms] [Cloudflare,Google Analytics,HSTS,HTTP/3,Osano,jQuery:3.5.1,jsDelivr]
+https://accountable.concrete.xyz [200] [] [2475] [Concrete Proof of Solvency | Accountable] [] [34.87.43.240] [google] [606.148387ms]
+https://cx.accountable.concrete.xyz [200] [] [2475] [Concrete Proof of Solvency | Accountable] [] [34.87.43.240] [google] [606.264863ms]
+https://playground.concrete.xyz [200] [] [468] [Concrete SDK Examples] [Vercel] [216.150.16.1] [344.397435ms] [HSTS,Vercel]
+https://v1.cetus.zone [200] [] [4115] [Cetus - Empower liquidity. Built for DeFi.] [Netlify] [18.238.109.3] [cloudfront] [135.076402ms] [Amazon CloudFront,Amazon Web Services,Google Analytics,HSTS,Netlify,Node.js,Nuxt.js,Vue.js]
+https://sales.concrete.xyz [200] [] [1581] [Concrete - Institutional DeFi yield strategies] [Google Frontend] [34.111.179.208] [google] [299.750369ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://withdraw.catalyst.exchange [200] [] [1271] [Catalyst AMM] [cloudflare] [104.26.14.28] [cloudflare] [138.6482ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.concrete.xyz [200] [] [5759] [Concrete Docs] [cloudflare] [172.67.191.223] [cloudflare] [1.185621909s] [Cloudflare,Docusaurus:3.9.2,HSTS,HTTP/3,React,Vercel,Webpack]
+https://www.cetus.zone [200] [] [68831] [Cetus, where On-Chain Trading happens] [Netlify] [52.84.20.105] [cloudfront] [99.554217ms] [Amazon CloudFront,Amazon Web Services,HSTS,Netlify]
+https://www.catalyst.exchange [200] [] [66518] [My Framer Site] [Framer/5d364ee] [31.43.161.6] [300.710297ms] [Framer Sites,HSTS,HTTP/3,React]
+https://status.catalyst.exchange [200] [] [127138] [Cata Labs Inc. status] [] [167.235.220.62] [915.692282ms] [Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus]
+https://arbitrumdrip.concrete.xyz [200] [] [284357] [Arbitrum Drip Vault | Concrete] [Vercel] [216.150.16.193] [1.16648854s] [HSTS,Storyblok,Vercel]
+https://points.concrete.xyz [200] [] [86546] [Concrete Points] [] [52.222.244.69] [cloudfront] [1.257657422s] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://eigen.concrete.xyz [200] [] [272536] [sEIGEN Vault | Concrete] [Vercel] [216.150.16.1] [1.314658017s] [HSTS,Storyblok,Vercel]
+https://stable.concrete.xyz [200] [] [269243] [Stable Pre-Deposit Vault | Concrete] [Vercel] [216.150.1.193] [1.105751258s] [HSTS,Storyblok,Vercel]
+https://wbtc.concrete.xyz [200] [] [289077] [WBTC Vault | Concrete] [Vercel] [216.150.16.129] [1.393688634s] [HSTS,Storyblok,Vercel]
+https://ctdeltaweeth-stats.concrete.xyz [200] [] [2070] [Concrete Delta WeETH Vault] [Google Frontend] [34.111.179.208] [google] [6.681456711s] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3,Node.js]
+
+## 301
+https://app.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.82] [cloudflare] [69.265339ms] [Cloudflare,HTTP/3]
+https://assets.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.28] [cloudflare] [69.369592ms] [Cloudflare,HTTP/3]
+https://catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.82] [cloudflare] [72.288456ms] [Cloudflare,HTTP/3]
+https://amm.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.82] [cloudflare] [76.062074ms] [Cloudflare,HTTP/3]
+https://api.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.28] [cloudflare] [88.461852ms] [Cloudflare,HTTP/3]
+https://crosscats-api-staging.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.28] [cloudflare] [89.50467ms] [Cloudflare,HTTP/3]
+https://corn.concrete.xyz [301] [https://app.concrete.xyz/vault/corn/btc] [167] [301 Moved Permanently] [cloudflare] [172.67.191.223] [cloudflare] [101.555357ms] [Cloudflare,HSTS]
+https://crosscats-development.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.28] [cloudflare] [175.516345ms] [Cloudflare,HTTP/3]
+https://omgcats-development.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.82] [cloudflare] [71.721149ms] [Cloudflare,HTTP/3]
+https://omgcats-staging.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.82] [cloudflare] [69.781568ms] [Cloudflare,HTTP/3]
+https://omgcats-production.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.28] [cloudflare] [95.685906ms] [Cloudflare,HTTP/3]
+https://blog.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.28] [cloudflare] [406.412235ms] [Cloudflare,HTTP/3]
+https://restricted.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.82] [cloudflare] [70.990968ms] [Cloudflare,HTTP/3]
+https://staging-api.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.28] [cloudflare] [75.828346ms] [Cloudflare,HTTP/3]
+https://testnet-api-staging.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.82] [cloudflare] [69.41806ms] [Cloudflare,HTTP/3]
+https://testnet.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.28] [cloudflare] [76.309497ms] [Cloudflare,HTTP/3]
+http://testnet.explorer.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.28] [cloudflare] [38.771672ms] [Cloudflare,HTTP/3]
+https://waitlist.catalyst.exchange [301] [https://withdraw.catalyst.exchange/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.82] [cloudflare] [78.819093ms] [Cloudflare,HTTP/3]
+https://whitepaper.catalyst.exchange [301] [https://catalystdao.github.io/papers/Catalyst%20-%20Asynchronous%20Autonomous%20Market%20Making%20via%20a%20Unit%20of%20Liquidity.pdf] [167] [301 Moved Permanently] [cloudflare] [172.67.69.82] [cloudflare] [63.546876ms] [Cloudflare,HTTP/3]
+https://www.concrete.xyz [301] [https://concrete.xyz/] [166] [301 Moved Permanently] [cloudflare] [104.21.20.72] [cloudflare] [223.950716ms] [Cloudflare,HSTS,HTTP/3]
+http://cetus.zone [301] [https://cetus.zone/] [34] [Netlify] [75.2.60.5] [45.781147ms] [Netlify]
+http://terminal.cetus.zone [301] [https://terminal.cetus.zone/] [43] [Netlify] [52.52.192.191] [38.552641ms] [Netlify]
+http://vesting.cetus.zone [301] [https://vesting.cetus.zone/] [42] [Netlify] [13.52.188.95] [39.115509ms] [Netlify]
+
+## 302
+https://docs.catalyst.exchange [302] [http://docs.li.fi/lifi-intents/introduction] [143] [302 Found] [cloudflare] [172.67.69.82] [cloudflare] [85.791017ms] [Cloudflare,HTTP/3]
+https://admin.concrete.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fadmin.concrete.xyz%2F&nonce=6a2a488376e2803844b4879ec165e9cb37d966bb47952809e6ba4c8f383d7723] [15] [Vercel] [76.76.21.123] [306.464764ms] [HSTS,Vercel]
+https://cx.accountable.api.concrete.xyz [302] [/dashboard] [207] [Redirecting...] [] [34.87.43.240] [google] [651.07154ms]
+https://accountable.api.concrete.xyz [302] [/dashboard] [207] [Redirecting...] [] [34.87.43.240] [google] [685.446853ms]
+https://strategy-ops.concrete.xyz [302] [https://strategy-ops.concrete.xyz/auth/login?next=/] [145] [302 Found] [nginx/1.22.1] [34.45.68.32] [google] [186.446667ms] [Nginx:1.22.1]
+
+## 307
+https://app.concrete.xyz [307] [/earn] [15] [Vercel] [216.150.16.193] [165.725925ms] [HSTS,Storyblok,Vercel]
+https://enterprise.concrete.xyz [307] [/nav/login?returnTo=%2F] [15] [Vercel] [216.150.16.193] [1.265759225s] [HSTS,Vercel]
+
+## 308
+https://arb.concrete.xyz [308] [https://arbitrumdrip.concrete.xyz/] [15] [Vercel] [216.150.1.193] [175.050332ms] [HSTS,Vercel]
+https://build.concrete.xyz [308] [https://enterprise.concrete.xyz/] [15] [Vercel] [216.150.1.129] [263.459489ms] [HSTS,Vercel]
+
+## 401
+https://developers.concrete.xyz [401] [] [14078] [Authentication Required] [Vercel] [66.33.60.193] [343.125335ms] [HSTS,Vercel]
+https://ctdefiusdt.concrete.xyz [401] [] [23] [Vercel] [216.150.1.129] [1.393190457s] [Basic,HSTS,Storyblok,Vercel]
+
+## 403
+https://launch.cetus.zone [403] [] [1867] [403] [CloudFront] [65.8.20.62] [cloudfront] [70.021155ms] [Amazon CloudFront,Amazon Web Services]
+https://accounts.build.concrete.xyz [403] [] [9522] [Just a moment...] [cloudflare] [104.18.34.146] [cloudflare] [164.664502ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://api-sui.cetus.zone [404] [] [30] [] [13.115.61.191] [373.034892ms]
+https://microsoft.concrete.xyz [404] [] [27150] [Not Found] [cloudflare] [104.21.20.72] [cloudflare] [340.735905ms] [Cloudflare,HSTS,HTTP/3]
+https://admin.api.concrete.xyz [404] [] [103] [] [34.87.43.240] [google] [656.848411ms]
+https://ltv.api.concrete.xyz [404] [] [103] [] [34.87.43.240] [google] [586.305394ms]
+https://apy.api.concrete.xyz [404] [] [103] [] [34.87.43.240] [google] [706.635652ms]
+https://build.api.concrete.xyz [404] [] [103] [] [34.87.43.240] [google] [730.179353ms]
+https://epaggregator.api.concrete.xyz [404] [] [103] [] [34.87.43.240] [google] [665.008342ms]
+https://rpc.concrete.xyz [404] [] [13] [cloudflare] [104.21.20.72] [cloudflare] [116.667949ms] [Cloudflare,HSTS,HTTP/3]
+https://mcp.concrete.xyz [404] [] [103] [] [34.87.43.240] [google] [602.811122ms]
+https://railway-prod.alpha.concrete.xyz [404] [] [101] [railway-hikari] [69.46.46.3] [171.460357ms]
+https://railway-stg.alpha.concrete.xyz [404] [] [101] [railway-hikari] [69.46.46.19] [169.747486ms]
+https://indexer.api.concrete.xyz [404] [] [103] [] [34.87.43.240] [google] [843.835077ms]
+https://position-monitor.api.concrete.xyz [404] [] [207] [404 Not Found] [] [34.87.43.240] [google] [628.889303ms]
+https://walrus-aggregator-testnet.cetus.zone [404] [] [0] [nginx/1.24.0 (Ubuntu)] [52.54.13.8] [212.280584ms] [Nginx:1.24.0,Ubuntu]
+https://oracle.api.concrete.xyz [404] [] [103] [] [34.87.43.240] [google] [679.085946ms]
+https://walrus-node-testnet.cetus.zone [404] [] [0] [nginx/1.24.0 (Ubuntu)] [52.54.13.8] [215.146107ms] [Nginx:1.24.0,Ubuntu]
+https://rewards.api.concrete.xyz [404] [] [103] [] [34.87.43.240] [google] [605.018011ms]
+https://redemption.api.concrete.xyz [404] [] [103] [] [34.87.43.240] [google] [635.118941ms]
+https://archive.cetus.zone [404] [] [948] [404 Not Found] [Netlify] [13.52.188.95] [3.242148674s] [HSTS,Netlify]
+
+## 500
+
+## 502
+
+## 503
+
