@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://mcp-vm.vel-fra-2.prod-networks.chainstack.com/metrics
+[prometheus-metrics] [http] [medium] https://mcp-vm.vel-nyc-2.prod-networks.chainstack.com/metrics
+[mailpit-app-info-disclosure] [http] [medium] https://mail-ui-design-system.studio-preview.nodeops.xyz/api/v1/messages
