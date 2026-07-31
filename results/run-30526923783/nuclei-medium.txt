@@ -1,0 +1,8 @@
+[CVE-2024-46310] [http] [medium] https://xxl-job.orderly.network/players.json
+[dockerfile-hidden-disclosure] [http] [medium] https://docs.rivalz.ai/.dockerfile
+[gitlab-api-user-enum] [http] [medium] https://farcaster-sync-cf-workflow.b3.fun/api/v4/users/10 [uid="10"]
+[open-redirect-generic] [http] [medium] https://docs.symbiotic.fi///%5Ctoast.me/ [redirect="//\\toast.me/"]
+[prometheus-metrics] [http] [medium] https://analytics.availproject.org/api/metrics
+[prometheus-metrics] [http] [medium] https://v1-backend-indexer.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v1-points-backend.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v2-backend.karak.network/metrics

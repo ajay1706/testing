@@ -1,0 +1,8 @@
+[CVE-2025-29927] [http] [critical] https://mozai.rivalz.ai
+[CVE-2025-55182] [http] [critical] https://xxl-job.orderly.network
+[CVE-2025-55182] [http] [critical] https://znode.rivalz.ai
+[CVE-2026-33032] [http] [critical] https://rpc.katana.network/mcp_message
+[config-json-exposure-fuzz:api_credentials] [http] [critical] https://farcaster-sync-cf-workflow.b3.fun/config.json [""api_key":"Pass API key via x-api-key header""] [path="/config.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://farcaster-sync-cf-workflow.b3.fun/config.json ["https://api.b3.fun/auth"] [path="/config.json"]
+[inspur-clusterengine-rce] [http] [critical] https://docs.availproject.org/docs/da/user-guides/staking-governance/overview
+[openwebui-default-login] [http] [critical] https://llm.availproject.org/api/v1/auths/signin
