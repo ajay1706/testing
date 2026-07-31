@@ -1,0 +1,14 @@
+[+] Batch started: Fri Jul 31 15:18:44 UTC 2026
+[+] Run ID: 30641996348
+[+] Batch name: batch-05
+[+] Batch targets:
+fluid.io
+gearbox.fi
+haedal.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Fri Jul 31 15:19:30 UTC 2026
+[+] HTTPX input count: 96
+[+] Running httpx...
+[+] httpx completed: Fri Jul 31 15:19:41 UTC 2026
+[+] httpx line count: 47
+[+] Batch completed: Fri Jul 31 15:19:41 UTC 2026

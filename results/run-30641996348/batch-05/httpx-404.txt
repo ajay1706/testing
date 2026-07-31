@@ -1,0 +1,4 @@
+https://solana.fluid.io [404] [] [107] [cloudflare] [172.67.74.232] [cloudflare] [74.439106ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://resources.haedal.xyz [404] [] [28441] [Not Found] [cloudflare] [104.26.4.106] [cloudflare] [318.782689ms] [Cloudflare,Cloudflare Browser Insights]
+https://walrus-node-testnet.haedal.xyz [404] [] [0] [nginx/1.24.0 (Ubuntu)] [35.171.77.122] [217.927229ms] [Nginx:1.24.0,Ubuntu]
+https://walrus-aggregator-testnet.haedal.xyz [404] [] [0] [nginx/1.24.0 (Ubuntu)] [35.171.77.122] [259.845762ms] [Nginx:1.24.0,Ubuntu]

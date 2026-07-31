@@ -1,0 +1,76 @@
+# HTTPX Status Report
+
+Generated at: Fri Jul 31 15:19:41 UTC 2026
+
+HTTPX lines: 47
+Live URLs: 47
+
+## 200
+https://api.fluid.io [200] [] [47] [cloudflare] [104.26.6.141] [cloudflare] [149.803245ms] [AdonisJS,Cloudflare,HSTS,HTTP/3,Node.js]
+https://fluid.io [200] [] [10702] [The Liquidity Layer For All Finance · Fluid] [Vercel] [216.150.1.1] [121.403963ms] [HSTS,Vercel]
+https://rpc.fluid.io [200] [] [175] [cloudflare] [104.26.6.141] [cloudflare] [123.676496ms] [Cloudflare,HSTS,HTTP/3]
+https://new.fluid.io [200] [] [10702] [The Liquidity Layer For All Finance · Fluid] [Vercel] [216.150.1.1] [130.732977ms] [HSTS,Vercel]
+https://old.fluid.io [200] [] [5129] [Fluid] [Vercel] [66.33.60.34] [219.207616ms] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://haedal.xyz [200] [] [2559] [Haedal | Stake SUI] [cloudflare] [104.26.4.106] [cloudflare] [426.993002ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://preprod.fluid.io [200] [] [10702] [The Liquidity Layer For All Finance · Fluid] [Vercel] [216.150.16.193] [373.744634ms] [HSTS,Vercel]
+https://www.haedal.xyz [200] [] [2559] [Haedal | Stake SUI] [cloudflare] [104.26.4.106] [cloudflare] [491.581707ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://gov.fluid.io [200] [] [238744] [Fluid Governance] [nginx] [134.209.238.36] [816.43297ms] [Discourse:2026.2.0,HSTS,Nginx,Ruby on Rails]
+https://aave-v3-atoken-swap.fluid.io [200] [] [4738] [Fluid] [Vercel] [216.150.1.193] [1.714241022s] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://resolv.fluid.io [200] [] [5020] [Fluid] [Vercel] [216.150.16.193] [1.645246399s] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://trace.fluid.io [200] [] [28623] [Vercel] [66.33.60.129] [1.628675277s] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://staging.fluid.io [200] [] [5267] [Fluid] [Vercel] [76.76.21.98] [2.893571546s] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://docs.fluid.io [200] [] [729037] [Contracts Overview | Fluid Technical Docs] [cloudflare] [172.67.74.232] [cloudflare] [130.064366ms] [Cloudflare,HSTS,HTTP/3,Vercel,Vue.js]
+https://uptime.fluid.io [200] [] [2159308] [Fluid status] [] [167.235.220.62] [2.52182299s] [Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus]
+
+## 301
+https://k3.gearbox.fi [301] [https://k3.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.17.7] [cloudflare] [40.477316ms] [Cloudflare]
+https://app.gearbox.fi [301] [https://app.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [40.982448ms] [Cloudflare]
+https://cp0x.gearbox.fi [301] [https://cp0x.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.17.7] [cloudflare] [46.413518ms] [Cloudflare]
+https://bcr.gearbox.fi [301] [https://bcr.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.17.7] [cloudflare] [47.58324ms] [Cloudflare]
+https://blog.gearbox.fi [301] [https://blog.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [46.954712ms] [Cloudflare]
+https://gearbox.fi [301] [https://gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [50.988026ms] [Cloudflare]
+https://gov.gearbox.fi [301] [https://gov.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.17.7] [cloudflare] [46.924172ms] [Cloudflare]
+https://invariant.gearbox.fi [301] [https://invariant.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [58.461706ms] [Cloudflare]
+https://am.gearbox.fi [301] [https://am.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.17.7] [cloudflare] [59.934501ms] [Cloudflare]
+https://dm.gearbox.fi [301] [https://dm.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [61.524501ms] [Cloudflare]
+https://data.gearbox.fi [301] [https://data.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.17.7] [cloudflare] [61.621688ms] [Cloudflare]
+https://docs.gearbox.fi [301] [https://docs.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [64.122423ms] [Cloudflare]
+https://dev.gearbox.fi [301] [https://dev.gearbox.finance/] [15] [Vercel] [216.150.1.193] [67.341227ms] [HSTS,Vercel]
+https://chaos.gearbox.fi [301] [https://chaos.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [73.570492ms] [Cloudflare]
+https://m11.gearbox.fi [301] [https://m11.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [54.797673ms] [Cloudflare]
+https://kpk.gearbox.fi [301] [https://kpk.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [60.744996ms] [Cloudflare]
+https://re7.gearbox.fi [301] [https://re7.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [32.479915ms] [Cloudflare]
+https://charts.gearbox.fi [301] [https://charts.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.17.7] [cloudflare] [198.090102ms] [Cloudflare]
+https://safe.gearbox.fi [301] [https://safe.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [44.520363ms] [Cloudflare]
+https://static.gearbox.fi [301] [https://static.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.17.7] [cloudflare] [56.48192ms] [Cloudflare]
+https://tulipa.gearbox.fi [301] [https://tulipa.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [77.26896ms] [Cloudflare]
+https://v1.gearbox.fi [301] [https://v1.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [72.759176ms] [Cloudflare]
+https://v2.gearbox.fi [301] [https://v2.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.218.42] [cloudflare] [81.531128ms] [Cloudflare]
+https://www.gearbox.fi [301] [https://www.gearbox.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.17.7] [cloudflare] [61.354396ms] [Cloudflare]
+
+## 302
+https://blog.fluid.io [302] [/blog/] [16] [Vercel] [66.33.60.194] [143.140507ms] [HSTS,Vercel]
+https://staging.blog.fluid.io [302] [/blog/] [16] [Vercel] [76.76.21.61] [2.89300543s] [HSTS,Vercel]
+
+## 307
+
+## 308
+https://www.fluid.io [308] [https://fluid.io/] [15] [Vercel] [216.150.1.1] [65.528995ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://assets.haedal.xyz [403] [] [1437] [403 Forbidden] [cloudflare] [104.26.4.106] [cloudflare] [454.163891ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 404
+https://solana.fluid.io [404] [] [107] [cloudflare] [172.67.74.232] [cloudflare] [74.439106ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://resources.haedal.xyz [404] [] [28441] [Not Found] [cloudflare] [104.26.4.106] [cloudflare] [318.782689ms] [Cloudflare,Cloudflare Browser Insights]
+https://walrus-node-testnet.haedal.xyz [404] [] [0] [nginx/1.24.0 (Ubuntu)] [35.171.77.122] [217.927229ms] [Nginx:1.24.0,Ubuntu]
+https://walrus-aggregator-testnet.haedal.xyz [404] [] [0] [nginx/1.24.0 (Ubuntu)] [35.171.77.122] [259.845762ms] [Nginx:1.24.0,Ubuntu]
+
+## 500
+
+## 502
+
+## 503
+
