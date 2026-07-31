@@ -1,0 +1,13 @@
+[+] Batch started: Fri Jul 31 15:25:13 UTC 2026
+[+] Run ID: 30642013322
+[+] Batch name: batch-16
+[+] Batch targets:
+zkpass.org
+zkverify.io
+[+] Running subfinder...
+[+] Subfinder completed: Fri Jul 31 15:25:20 UTC 2026
+[+] HTTPX input count: 101
+[+] Running httpx...
+[+] httpx completed: Fri Jul 31 15:25:24 UTC 2026
+[+] httpx line count: 80
+[+] Batch completed: Fri Jul 31 15:25:24 UTC 2026
