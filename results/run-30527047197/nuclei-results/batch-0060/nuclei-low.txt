@@ -1,0 +1,34 @@
+[ssh-weakkey-exchange-algo] [javascript] [low] stake-xmm-grpc.ib-local.dev.skip.build:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] stake.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stake.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staking.tac.build:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staking.tac.build:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stash.megaeth.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stash.megaeth.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] static.devnet.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] static.devnet.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] static.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] static.mainnet.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] static.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] static.megaeth.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] static.mainnet.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] static.megaeth.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stats.bless.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stats.biconomy.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stats.bless.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stats.biconomy.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stats.pimlico.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] status.mezo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.mezo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[wp-user-enum] [http] [low] https://stake-upj-grpc.ib-local.dev.skip.build/wp-json/wp/v2/users/
+[wp-user-enum] [http] [low] https://stake-upj-lcd.ib-local.dev.skip.build/wp-json/wp/v2/users/
+[wp-user-enum] [http] [low] https://stake-upj-rpc.ib-local.dev.skip.build/wp-json/wp/v2/users/
+[self-signed-ssl] [ssl] [low] stake-pql-rpc.ib-local.dev.skip.build:443
+[self-signed-ssl] [ssl] [low] stake-pql-lcd.ib-local.dev.skip.build:443
+[self-signed-ssl] [ssl] [low] stake-pql-grpc.ib-local.dev.skip.build:443
+[self-signed-ssl] [ssl] [low] stake-vjl-grpc.ib-local.dev.skip.build:443
+[self-signed-ssl] [ssl] [low] stake-vjl-lcd.ib-local.dev.skip.build:443
+[self-signed-ssl] [ssl] [low] stake-vjl-rpc.ib-local.dev.skip.build:443
+[expired-ssl] [ssl] [low] stake-xmm-rpc.ib-local.dev.skip.build:443 ["2025-12-27 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] stake-xmm-lcd.ib-local.dev.skip.build:443 ["2025-12-27 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] stake-xmm-grpc.ib-local.dev.skip.build:443 ["2025-12-27 23:59:59 +0000 UTC"]
