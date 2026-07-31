@@ -1,0 +1,14 @@
+[+] Batch started: Fri Jul 31 15:22:12 UTC 2026
+[+] Run ID: 30642013322
+[+] Batch name: batch-13
+[+] Batch targets:
+supra.com
+taskon.xyz
+time.fun
+[+] Running subfinder...
+[+] Subfinder completed: Fri Jul 31 15:23:57 UTC 2026
+[+] HTTPX input count: 377
+[+] Running httpx...
+[+] httpx completed: Fri Jul 31 15:25:11 UTC 2026
+[+] httpx line count: 155
+[+] Batch completed: Fri Jul 31 15:25:11 UTC 2026

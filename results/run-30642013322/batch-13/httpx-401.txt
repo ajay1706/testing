@@ -1,0 +1,2 @@
+https://loki.manage.supra.com [401] [] [112] [] [209.38.114.36] [390.536019ms] [Basic]
+https://op-monitoring.manage.supra.com [401] [] [12] [nginx/1.24.0 (Ubuntu)] [138.68.108.188] [451.739894ms] [Basic,Nginx:1.24.0,Ubuntu]
