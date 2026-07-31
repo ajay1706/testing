@@ -1,0 +1,25 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] faucet.test.mezo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] faucet.test.mezo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] faucet.timothy.megaeth.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] faucet.timothy.megaeth.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] files.phala.network:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] files.phala.network:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] flare.us-west.canary-gateway.tenderly.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] flashfund.pimlico.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] flare.us-west.canary-gateway.tenderly.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] flare.eu.canary-gateway.tenderly.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] flare.eu.canary-gateway.tenderly.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fleet.walrus.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fleet.walrus.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] flux.megaeth.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] flux.megaeth.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://fastly.int.chainstack.com
+[debug-vars] [http] [low] https://fantom-testnet.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://fantom.rpc.thirdweb.com/debug/vars
+[self-signed-ssl] [ssl] [low] feature-management-api.prod.biconomy.io:443
+[self-signed-ssl] [ssl] [low] feature-management-api.staging.biconomy.io:443
+[self-signed-ssl] [ssl] [low] feature-management-proxy.prod.biconomy.io:443
+[self-signed-ssl] [ssl] [low] feature-management.prod.biconomy.io:443
+[self-signed-ssl] [ssl] [low] feature-management.staging.biconomy.io:443
+[expired-ssl] [ssl] [low] flare.us-east.canary-gateway.tenderly.co:443 ["2026-04-24 11:10:09 +0000 UTC"]
+[expired-ssl] [ssl] [low] feed.poap.demo.goldsky.com:443 ["2026-06-24 04:46:35 +0000 UTC"]

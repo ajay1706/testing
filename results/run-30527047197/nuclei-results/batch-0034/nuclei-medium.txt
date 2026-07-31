@@ -1,0 +1,4 @@
+[open-redirect-generic] [http] [medium] https://fcd-terra-classic.nodeops.xyz//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://fcd-terra-classic.nodeops.xyz//interact.sh/en//
+[prometheus-metrics] [http] [medium] https://fantom-testnet.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://fantom.rpc.thirdweb.com/metrics
