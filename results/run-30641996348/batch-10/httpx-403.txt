@@ -1,0 +1,4 @@
+https://app.api.morpho.org [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [3.168.122.48] [cloudfront] [114.08892ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://cdn.morpho.org [403] [] [111] [AmazonS3] [18.160.18.31] [cloudfront] [380.229287ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://app.blue-api.morpho.org [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [3.168.122.48] [cloudfront] [413.626943ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://blue-services.morpho.org [403] [] [42] [] [52.85.193.100] [cloudfront] [472.485688ms] [Amazon CloudFront,Amazon Web Services,HSTS]
