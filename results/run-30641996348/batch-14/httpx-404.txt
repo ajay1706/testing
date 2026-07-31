@@ -1,0 +1,4 @@
+https://testnet.typus.finance [404] [] [21265] [Site Not Found] [] [199.36.158.100] [49.918916ms] [Firebase,HSTS,HTTP/3]
+https://perps.testnet.typus.finance [404] [] [21265] [Site Not Found] [] [199.36.158.100] [456.30047ms] [Firebase,HSTS,HTTP/3]
+https://r.turbos.finance [404] [] [365] [404 Not Found] [AmazonS3] [18.238.80.51] [cloudfront] [607.511673ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://walrus.typus.finance [404] [] [0] [Caddy] [57.128.116.30] [682.001073ms] [Caddy,HTTP/3]
