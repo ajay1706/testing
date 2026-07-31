@@ -1,0 +1,5 @@
+https://skills.aftermath.finance [301] [https://github.com/AftermathFinance/skills] [167] [301 Moved Permanently] [cloudflare] [172.67.72.75] [cloudflare] [101.984894ms] [Cloudflare]
+https://server-27.aftermath.finance [301] [https://server-27.aftermath.finance/] [178] [301 Moved Permanently] [cloudflare] [172.67.72.75] [cloudflare] [638.212145ms] [Cloudflare]
+https://www.academy.alphafi.xyz [301] [https://academy.alphafi.xyz/] [0] [Pepyaka] [34.149.87.45] [google] [259.070009ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,React,Wix]
+https://www.alphafi.xyz [301] [https://alphafi.xyz:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.221.178.209] [321.731772ms] [Amazon ELB,Amazon Web Services]
+http://nft.7k.ag [301] [https://nft.7k.ag/] [526] [301 Moved Permanently] [cloudflare] [172.67.185.14] [cloudflare] [25.028986ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]

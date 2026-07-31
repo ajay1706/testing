@@ -1,0 +1,14 @@
+[+] Batch started: Fri Jul 31 15:15:52 UTC 2026
+[+] Run ID: 30641996348
+[+] Batch name: batch-00
+[+] Batch targets:
+7k.ag
+aftermath.finance
+alphafi.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Fri Jul 31 15:16:24 UTC 2026
+[+] HTTPX input count: 84
+[+] Running httpx...
+[+] httpx completed: Fri Jul 31 15:16:45 UTC 2026
+[+] httpx line count: 53
+[+] Batch completed: Fri Jul 31 15:16:45 UTC 2026

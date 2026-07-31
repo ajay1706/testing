@@ -1,0 +1,5 @@
+https://public-access-uveet9ua2a.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [104.26.7.96] [cloudflare] [407.538795ms] [Cloudflare]
+https://aftermath.finance [307] [/trade] [6] [cloudflare] [104.26.7.96] [cloudflare] [409.022918ms] [Cloudflare]
+http://server-18.aftermath.finance [307] [/trade] [6] [nginx/1.31.3] [57.129.36.239] [334.257943ms] [Nginx:1.31.3]
+https://testnet.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [104.26.7.96] [cloudflare] [463.81669ms] [Cloudflare]
+https://www.aftermath.finance [307] [/trade] [6] [cloudflare] [104.26.7.96] [cloudflare] [435.130272ms] [Cloudflare]
