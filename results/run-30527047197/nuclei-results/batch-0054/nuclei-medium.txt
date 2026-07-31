@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://relayer-staging.memory.walrus.xyz/metrics
+[prometheus-metrics] [http] [medium] https://relayer-testnet.zerodev.app/metrics
+[prometheus-metrics] [http] [medium] https://relayer.zerodev.app/metrics
+[prometheus-metrics] [http] [medium] https://relayer.memory.walrus.xyz/metrics
