@@ -1,0 +1,6 @@
+https://button.infinifi.xyz [301] [https://infinifi.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.194] [cloudflare] [53.644209ms] [Cloudflare]
+https://bridge.human.tech [301] [https://shield.human.tech/] [15] [Vercel] [66.33.60.130] [166.624064ms] [HSTS,Vercel]
+https://docs.wallet.human.tech [301] [https://docs.waap.human.tech/] [15] [Vercel] [216.150.1.129] [370.772958ms] [HSTS,Vercel]
+https://api.idena.io [301] [https://api.idena.io/api/swagger/] [194] [301 Moved Permanently] [nginx/1.14.0 (Ubuntu)] [94.130.56.101] [787.426179ms] [Nginx:1.14.0,Ubuntu]
+https://wallet.human.tech [301] [https://human.tech/waap] [167] [301 Moved Permanently] [cloudflare] [172.67.151.243] [cloudflare] [573.172243ms] [Cloudflare]
+https://www.infinifi.xyz [301] [https://infinifi.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.171] [cloudflare] [587.064295ms] [Cloudflare]

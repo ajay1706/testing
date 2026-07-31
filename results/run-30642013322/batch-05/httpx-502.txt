@@ -1,0 +1,2 @@
+https://node.idena.io [502] [] [182] [502 Bad Gateway] [nginx/1.14.0 (Ubuntu)] [195.201.34.19] [1.956530936s] [Nginx:1.14.0,Ubuntu]
+https://test-node2.idena.io [502] [] [559] [502 Bad Gateway] [nginx/1.14.0 (Ubuntu)] [195.201.34.19] [1.992519863s] [Nginx:1.14.0,Ubuntu]

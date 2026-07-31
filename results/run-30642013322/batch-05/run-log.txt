@@ -1,0 +1,14 @@
+[+] Batch started: Fri Jul 31 15:18:15 UTC 2026
+[+] Run ID: 30642013322
+[+] Batch name: batch-05
+[+] Batch targets:
+human.tech
+idena.io
+infinifi.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Fri Jul 31 15:19:29 UTC 2026
+[+] HTTPX input count: 101
+[+] Running httpx...
+[+] httpx completed: Fri Jul 31 15:19:39 UTC 2026
+[+] httpx line count: 82
+[+] Batch completed: Fri Jul 31 15:19:39 UTC 2026
