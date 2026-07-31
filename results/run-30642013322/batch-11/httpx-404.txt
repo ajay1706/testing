@@ -1,0 +1,3 @@
+https://lb-test.sending.network [404] [] [74] [] [34.120.113.250] [google] [118.495655ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://mainnet-rpc.sign.global [404] [] [63] [] [18.155.202.114] [cloudfront] [170.963228ms] [Amazon CloudFront,Amazon Web Services,Express,Node.js]
+https://testnet-rpc.sign.global [404] [] [63] [] [18.238.192.55] [cloudfront] [242.534718ms] [Amazon CloudFront,Amazon Web Services,Express,HSTS,Node.js]
