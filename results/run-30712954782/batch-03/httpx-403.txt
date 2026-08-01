@@ -1,0 +1,6 @@
+https://rpc.ash.monad.fastlane.xyz [403] [] [153] [403 Forbidden] [nginx/1.30.1] [64.34.81.31] [142.650304ms] [Nginx:1.30.1]
+https://monad.fra2-2.direct.fastlane.xyz [403] [] [146] [403 Forbidden] [nginx] [103.219.171.235] [410.842472ms] [Nginx]
+https://rpc.monad.fastlane.xyz [403] [] [153] [403 Forbidden] [nginx/1.30.1] [64.34.81.31] [176.630128ms] [Nginx:1.30.1]
+https://rpc.fra2.monad.fastlane.xyz [403] [] [555] [403 Forbidden] [nginx/1.30.1] [67.213.121.73] [338.31131ms] [Nginx:1.30.1]
+https://rpc.monad-testnet-8.fastlane.xyz [403] [] [564] [403 Forbidden] [nginx/1.24.0 (Ubuntu)] [72.46.87.127] [698.169656ms] [Nginx:1.24.0,Ubuntu]
+https://rpc.sgp.monad.fastlane.xyz [403] [] [153] [403 Forbidden] [nginx/1.30.1] [177.54.154.175] [706.816287ms] [Nginx:1.30.1]
