@@ -1,0 +1,2 @@
+[CVE-2026-33032] [http] [critical] https://rpc1.monad.xyz/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc2.monad.xyz/mcp_message
