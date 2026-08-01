@@ -1,0 +1,4 @@
+https://docs.sapien.io [200] [] [10024] [Proof of Quality · Sapien Docs] [cloudflare] [104.18.29.147] [cloudflare] [67.100336ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,Node.js]
+https://www.sapien.io [200] [] [84723] [Sapien — Proof of Quality] [cloudflare] [104.18.29.147] [cloudflare] [43.240278ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Linkedin Ads,jQuery:3.5.1,jsDelivr]
+https://docs.secure3.io [200] [] [464200] [Secure3] [cloudflare] [104.18.40.47] [cloudflare] [790.343221ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://newsletter.sapien.io [200] [] [868608] [Home | Sapien Dispatch] [cloudflare] [104.16.23.120] [cloudflare] [279.116197ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
