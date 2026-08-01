@@ -1,0 +1,6 @@
+https://docs.reservoir.tools [301] [https://docs.relay.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.215] [cloudflare] [264.714384ms] [Cloudflare]
+https://devnet.routescan.io [301] [http://1010.routescan.io/] [25] [nginx] [108.138.159.122] [cloudfront] [388.716461ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Nginx]
+https://swap.reservoir.tools [301] [https://sakuraswap.com/migration] [167] [301 Moved Permanently] [cloudflare] [104.18.5.215] [cloudflare] [2.120626292s] [Cloudflare]
+http://rpc-43114-norge.routescan.io [301] [https://rpc-43114-norge.routescan.io/] [520] [301 Moved Permanently] [cloudflare] [104.20.44.172] [cloudflare] [136.463157ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://rpc-backup-17000.routescan.io [301] [https://rpc-backup-17000.routescan.io/] [167] [301 Moved Permanently] [CloudFront] [108.138.159.122] [cloudfront] [4.106679168s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+http://streaming-demo.routescan.io [301] [https://streaming-demo.routescan.io/] [520] [301 Moved Permanently] [cloudflare] [104.20.44.172] [cloudflare] [4.15555924s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
