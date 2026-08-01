@@ -1,0 +1,7 @@
+https://app.nexus.xyz [301] [https://nexus.xyz/] [33] [] [199.36.158.100] [50.792121ms] [Firebase,HTTP/3]
+https://exchange.nexus.xyz [301] [https://nexus.xyz/exchange] [15] [Vercel] [216.150.1.193] [54.557712ms] [HSTS,Vercel]
+https://join-discord.nexus.xyz [301] [https://discord.gg/] [34] [] [199.36.158.100] [223.74143ms] [Firebase,HTTP/3]
+https://mevcapital.com [301] [https://www.mevcapital.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [244.794812ms] [Cloudflare,HSTS,HTTP/3]
+https://prove.nexus.xyz [301] [https://nexus.xyz/] [33] [] [199.36.158.100] [165.60324ms] [Firebase,HTTP/3]
+http://testnet3.explorer.nexus.xyz [301] [https://nexus.testnet.blockscout.com/] [0] [cloudflare] [104.21.73.174] [cloudflare] [138.439704ms] [Cloudflare,HTTP/3]
+https://www.nexus.xyz [301] [https://nexus.xyz/] [33] [] [199.36.158.100] [360.540104ms] [Firebase,HSTS,HTTP/3]
