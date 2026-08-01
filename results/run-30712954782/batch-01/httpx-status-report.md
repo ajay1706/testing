@@ -1,0 +1,114 @@
+# HTTPX Status Report
+
+Generated at: Sat Aug  1 18:40:34 UTC 2026
+
+HTTPX lines: 87
+Live URLs: 87
+
+## 200
+https://examples.widget.cow.fi [200] [] [2482] [CoW Widget - Examples] [Vercel] [66.33.60.34] [114.982827ms] [HSTS,Vercel]
+https://dev.explorer.cow.fi [200] [] [1854] [CoW Explorer] [Vercel] [76.76.21.21] [117.323501ms] [HSTS,Vercel]
+https://explorer.cow.fi [200] [] [1854] [CoW Explorer] [Vercel] [216.150.16.129] [122.623688ms] [HSTS,Vercel]
+https://chronicleprotocol.xyz [200] [] [114] [] [13.248.169.48] [174.930623ms]
+https://barn.explorer.cow.fi [200] [] [1854] [CoW Explorer] [Vercel] [66.33.60.193] [152.740007ms] [HSTS,Vercel]
+https://dev.widget.cow.fi [200] [] [1137] [CoW Swap Widget Configurator] [Vercel] [66.33.60.66] [234.497842ms] [HSTS,Vercel]
+https://dev.swap.cow.fi [200] [] [4363] [CoW Swap | The smartest way to trade cryptocurrencies] [Vercel] [66.33.60.67] [288.133996ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://cosmos.cow.fi [200] [] [5055] [React Cosmos] [Vercel] [66.33.60.35] [398.650212ms] [HSTS,Vercel]
+https://cow.fi [200] [] [23061] [CoW DAO - CoW DAO develops the most user-protective products in Ethereum - so you can do more with less worry.] [Vercel] [216.150.1.1] [177.247759ms] [HSTS,Vercel]
+https://cms.cow.fi [200] [] [3308] [Welcome to your Strapi app] [cloudflare] [104.20.31.27] [cloudflare] [520.236279ms] [Cloudflare,HSTS,HTTP/3,Strapi]
+https://periphery.status.cow.fi [200] [] [7477] [Upptime for periphery services] [GitHub.com] [185.199.111.153] [281.281509ms] [Fastly,GitHub Pages,Node.js,Sapper,Svelte,Varnish]
+https://requestors.boundless.network [200] [] [5361] [AmazonS3] [65.8.20.112] [cloudfront] [227.144985ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://requestors-staging.boundless.network [200] [] [5361] [AmazonS3] [65.8.20.45] [cloudfront] [280.049771ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://sdk-tools.cow.fi [200] [] [1125] [SDK tools] [Vercel] [76.76.21.123] [226.839158ms] [HSTS,Vercel]
+https://ovh.nodes.cow.fi [200] [] [1391] [Welcome to WildFly] [nginx/1.20.1] [57.129.21.92] [579.620817ms] [Nginx:1.20.1]
+https://safe.widget.cow.fi [200] [] [827] [Your Safe App] [Vercel] [66.33.60.35] [244.827537ms] [HSTS,React,Vercel]
+https://mica.boundless.network [200] [] [11640] [MiCA Whitepaper] [Vercel] [216.150.16.1] [347.957003ms] [C3.js,HSTS,Vercel]
+https://staging.explorer.cow.fi [200] [] [1854] [CoW Explorer] [Vercel] [216.150.16.193] [194.868341ms] [HSTS,Vercel]
+https://shop.boundless.network [200] [] [6448] [Boundless Shop — Privacy-First Crypto Payments for Merchants] [Fly/30b4b59b0 (2026-07-30)] [66.241.125.212] [175.402389ms] [Fly.io]
+https://staging.swap.cow.fi [200] [] [4363] [CoW Swap | The smartest way to trade cryptocurrencies] [Vercel] [216.150.1.129] [254.563891ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://docs.cow.fi [200] [] [19807] [Welcome | CoW Protocol Documentation] [Vercel] [76.76.21.123] [682.746696ms] [Docusaurus:3.9.2,Google Analytics,HSTS,React,Vercel,Webpack]
+https://read.boundless.network [200] [] [18982] [Boundless Whitepaper] [Vercel] [216.150.16.1] [401.347982ms] [HSTS,Vercel]
+https://status.cow.fi [200] [] [6664] [CoW Protocol Status] [GitHub.com] [185.199.108.153] [280.26544ms] [Fastly,GitHub Pages,Node.js,Sapper,Svelte,Varnish]
+https://swap.cow.fi [200] [] [4363] [CoW Swap | The smartest way to trade cryptocurrencies] [Vercel] [216.150.16.1] [302.179133ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://vaults.boundless.network [200] [] [2273] [Boundless: Confidential Onchain Finance] [Vercel] [216.150.1.193] [189.163535ms] [Google Sign-in,HSTS,Vercel]
+https://widget.cow.fi [200] [] [1137] [CoW Swap Widget Configurator] [Vercel] [66.33.60.193] [226.228693ms] [HSTS,Vercel]
+https://www.chronicleprotocol.xyz [200] [] [114] [] [76.223.54.146] [245.516336ms]
+https://dev.cow.fi [200] [] [23148] [CoW DAO - CoW DAO develops the most user-protective products in Ethereum - so you can do more with less worry.] [Vercel] [216.150.16.193] [1.316896984s] [HSTS,Vercel]
+https://boundless.network [200] [] [263661] [AI compute is hiding in plain sight | Boundless] [Vercel] [216.150.1.1] [152.943711ms] [HSTS,Vercel]
+https://crosschain.boundless.network [200] [] [80754] [Strengthen Your Bridge with ZK Verification | Boundless: Cross Chain] [Vercel] [216.150.1.1] [1.144460809s] [HSTS,Vercel]
+https://signal.boundless.network [200] [] [95745] [The Signal | Boundless Signal] [Vercel] [216.150.16.129] [270.966223ms] [HSTS,Vercel]
+https://forum.cow.fi [200] [] [192941] [CoW DAO - CoW DAO is focused on fair and decentralized trading systems — in particular, building CoW Protocol, CoW Swap & MEV Blocker.] [nginx] [184.104.178.43] [801.248443ms] [Discourse:2026.8.0,HSTS,Nginx,Ruby on Rails]
+
+## 301
+https://grants.cow.fi [301] [https://docs.cow.fi/governance/grants/] [0] [AmazonS3] [65.8.20.35] [cloudfront] [932.952862ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.cow.fi [301] [https://cow.fi/] [15] [Vercel] [76.76.21.98] [208.247306ms] [HSTS,Vercel]
+https://track.cow.fi [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [486.026419ms] [Caddy,HTTP/3]
+
+## 302
+
+## 307
+https://develop.cow.fi [307] [https://dev.cow.fi/] [15] [Vercel] [216.150.16.193] [111.891616ms] [HSTS,Vercel]
+https://barn.cow.fi [307] [https://barn.cow.finance/] [15] [Vercel] [76.76.21.21] [152.988897ms] [HSTS,Vercel]
+https://learn.cow.fi [307] [/tutorial/getting-started] [15] [Vercel] [66.33.60.66] [236.709902ms] [HSTS,Vercel]
+https://blog.cow.fi [307] [https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fblog.cow.fi%2F] [115] [cloudflare] [162.159.153.4] [cloudflare] [392.759267ms] [Cloudflare,Envoy,HSTS,HTTP/3]
+https://app.boundless.network [307] [/login] [6455] [Vercel] [216.150.1.193] [328.532338ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://explorer.boundless.network [307] [/all] [32016] [Boundless Explorer] [Vercel] [216.150.1.1] [328.243168ms] [HSTS,Vercel]
+https://shield.boundless.network [307] [/auth?next=%2F] [15] [Vercel] [216.150.1.129] [1.04281218s] [HSTS,Vercel]
+https://inference.boundless.network [307] [/sign-in] [9343] [Vercel] [216.150.1.129] [1.504826445s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.staking.boundless.network [307] [/all] [32016] [Boundless Explorer] [Vercel] [216.150.1.193] [282.44797ms] [HSTS,Vercel]
+https://www.docs.boundless.network [307] [https://docs.boundless.network/] [15] [Vercel] [76.76.21.93] [744.828753ms] [HSTS,Vercel]
+
+## 308
+https://beta.docs.cow.fi [308] [https://docs.cow.fi/] [15] [Vercel] [76.76.21.93] [120.404372ms] [HSTS,Vercel]
+https://denver.boundless.network [308] [https://boundless.network/] [15] [Vercel] [216.150.16.129] [128.061992ms] [HSTS,Vercel]
+https://explorer.testnet.boundless.network [308] [https://explorer.boundless.network/] [15] [Vercel] [216.150.1.193] [275.441422ms] [HSTS,Vercel]
+https://airdrop.boundless.network [308] [https://boundless.network/] [15] [Vercel] [216.150.1.1] [377.391165ms] [HSTS,Vercel]
+https://mining.boundless.network [308] [https://boundless.network/] [15] [Vercel] [216.150.16.129] [247.240551ms] [HSTS,Vercel]
+https://beta.learn.cow.fi [308] [https://learn.cow.fi/] [15] [Vercel] [66.33.60.35] [560.894672ms] [HSTS,Vercel]
+https://docs.boundless.network [308] [/developers/quick-start] [89022] [Vercel] [66.33.60.67] [345.74077ms] [HSTS,Vercel]
+https://staking.boundless.network [308] [https://explorer.boundless.network/base/staking] [15] [Vercel] [216.150.16.193] [311.586097ms] [HSTS,Vercel]
+https://www.airdrop.boundless.network [308] [https://boundless.network/] [15] [Vercel] [216.150.1.129] [185.605939ms] [HSTS,Vercel]
+https://www.crosschain.boundless.network [308] [https://crosschain.boundless.network/] [15] [Vercel] [216.150.16.193] [198.954093ms] [HSTS,Vercel]
+https://www.denver.boundless.network [308] [https://boundless.network/] [15] [Vercel] [216.150.16.193] [200.256858ms] [HSTS,Vercel]
+https://www.boundless.network [308] [https://boundless.network/] [15] [Vercel] [216.150.1.193] [299.994075ms] [HSTS,Vercel]
+https://www.signal.boundless.network [308] [https://signal.boundless.network/] [15] [Vercel] [216.150.1.193] [169.41644ms] [HSTS,Vercel]
+https://www.explorer.boundless.network [308] [https://explorer.boundless.network/] [15] [Vercel] [216.150.16.1] [271.047663ms] [HSTS,Vercel]
+https://www.read.boundless.network [308] [https://read.boundless.network/] [15] [Vercel] [216.150.16.129] [188.615806ms] [HSTS,Vercel]
+https://www.explorer.testnet.boundless.network [308] [https://explorer.boundless.network/] [15] [Vercel] [216.150.16.193] [249.974702ms] [HSTS,Vercel]
+https://www.shield.boundless.network [308] [https://shield.boundless.network/] [15] [Vercel] [216.150.16.129] [182.654198ms] [HSTS,Vercel]
+https://www.mica.boundless.network [308] [https://mica.boundless.network/] [15] [Vercel] [216.150.16.193] [239.59293ms] [HSTS,Vercel]
+https://www.mining.boundless.network [308] [https://boundless.network/] [15] [Vercel] [216.150.1.193] [266.80081ms] [HSTS,Vercel]
+https://www.vaults.boundless.network [308] [https://vaults.boundless.network/] [15] [Vercel] [216.150.1.129] [205.010902ms] [HSTS,Vercel]
+https://www.inference.boundless.network [308] [https://inference.boundless.network/] [15] [Vercel] [216.150.1.129] [383.216742ms] [HSTS,Vercel]
+
+## 401
+https://execution.boundless.network [401] [] [40] [Caddy] [186.233.186.43] [170.846713ms] [Caddy,HTTP/3]
+https://execution.staging.boundless.network [401] [] [40] [Caddy] [64.34.93.37] [177.12461ms] [Caddy,HTTP/3]
+https://ipfs.cow.fi [401] [] [81] [cloudflare] [172.64.155.162] [cloudflare] [410.773494ms] [Cloudflare]
+
+## 403
+https://files.cow.fi [403] [] [111] [AmazonS3] [18.155.173.107] [cloudfront] [771.289107ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.files.cow.fi [403] [] [111] [AmazonS3] [18.155.173.118] [cloudfront] [651.718566ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://dev.cosmos.cow.fi [404] [] [107] [Vercel] [66.33.60.129] [117.370115ms] [HSTS,Vercel]
+https://base-mainnet.boundless.network [404] [] [0] [] [44.248.81.44] [173.215505ms]
+https://api.cow.fi [404] [] [548] [404 Not Found] [] [18.65.3.8] [cloudfront] [223.461781ms] [Amazon CloudFront,Amazon Web Services]
+https://boundless-artifacts.boundless.network [404] [] [27150] [Not Found] [cloudflare] [104.20.41.224] [cloudflare] [160.162354ms] [Cloudflare]
+https://boundless-artifacts-staging.boundless.network [404] [] [27150] [Not Found] [cloudflare] [104.20.41.224] [cloudflare] [204.274965ms] [Cloudflare]
+https://indexer.eth-mainnet.boundless.network [404] [] [71] [] [65.8.20.54] [cloudfront] [374.142024ms] [Amazon CloudFront,Amazon Web Services]
+https://barn.api.cow.fi [404] [] [146] [404 Not Found] [] [18.238.109.57] [cloudfront] [664.14834ms] [Amazon CloudFront,Amazon Web Services]
+https://taiko-mainnet.boundless.network [404] [] [0] [] [35.83.112.200] [239.81591ms]
+https://staging-taiko.explorer.boundless.network [404] [] [107] [Vercel] [216.150.1.129] [544.285722ms] [HSTS,Vercel]
+https://stake.boundless.network [404] [] [107] [Vercel] [216.150.16.129] [568.581726ms] [HSTS,Vercel]
+https://taiko.explorer.boundless.network [404] [] [107] [Vercel] [216.150.1.1] [648.675666ms] [HSTS,Vercel]
+https://www.stake.boundless.network [404] [] [107] [Vercel] [216.150.16.193] [574.316161ms] [HSTS,Vercel]
+https://zunstopleakingthisshit.boundless.network [404] [] [107] [Vercel] [216.150.1.193] [563.717803ms] [HSTS,Vercel]
+https://www.zunstopleakingthisshit.boundless.network [404] [] [107] [Vercel] [216.150.16.193] [588.000932ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
