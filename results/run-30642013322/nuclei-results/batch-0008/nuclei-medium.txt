@@ -1,0 +1,3 @@
+[CVE-2023-48795] [javascript] [medium] ipfs.idena.io:22 ["Vulnerable to Terrapin"]
+[git-config] [http] [medium] https://journey.pre.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://journey.credipay.credix.finance/.git/config
