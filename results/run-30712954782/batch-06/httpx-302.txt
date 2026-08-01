@@ -1,0 +1,2 @@
+https://cms.infinityg.ai [302] [/admin] [22] [nginx] [13.215.105.6] [570.646382ms] [Amazon S3,Amazon Web Services,HSTS,Nginx,Strapi]
+https://auction.infinityg.ai [302] [/login] [0] [nginx/1.24.0 (Ubuntu)] [13.214.61.8] [579.586197ms] [Nginx:1.24.0,Ubuntu]
