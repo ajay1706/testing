@@ -1,0 +1,2 @@
+[git-config] [http] [medium] https://app.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://app.pre.credipay.credix.finance/.git/config
