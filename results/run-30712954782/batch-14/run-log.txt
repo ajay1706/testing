@@ -1,0 +1,14 @@
+[+] Batch started: Sat Aug  1 18:46:12 UTC 2026
+[+] Run ID: 30712954782
+[+] Batch name: batch-14
+[+] Batch targets:
+tac.build
+titanbuilder.xyz
+treasure.lol
+[+] Running subfinder...
+[+] Subfinder completed: Sat Aug  1 18:46:45 UTC 2026
+[+] HTTPX input count: 177
+[+] Running httpx...
+[+] httpx completed: Sat Aug  1 18:47:06 UTC 2026
+[+] httpx line count: 107
+[+] Batch completed: Sat Aug  1 18:47:06 UTC 2026
