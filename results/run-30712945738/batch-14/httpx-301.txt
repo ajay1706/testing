@@ -1,0 +1,2 @@
+https://www.spearbit.com [301] [https://spearbit.com/] [56] [cloudflare] [104.21.94.12] [cloudflare] [189.332015ms] [Cloudflare,HTTP/3]
+https://shieldify.org [301] [https://www.shieldify.org/] [166] [301 Moved Permanently] [] [75.2.70.75] [323.8715ms] [HSTS]
