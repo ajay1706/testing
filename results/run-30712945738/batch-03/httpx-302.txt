@@ -1,0 +1,2 @@
+https://auth.cantina.xyz [302] [https://cantina.xyz/] [42] [cloudflare] [172.64.144.74] [cloudflare] [264.637587ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://support.cantina.xyz [302] [https://support.cantina.xyz/support/home] [106] [cloudflare] [162.159.140.147] [cloudflare] [449.749167ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
