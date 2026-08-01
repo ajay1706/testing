@@ -1,0 +1,5 @@
+https://velar.co [301] [https://velar.com/] [33] [Netlify] [99.83.231.61] [1.239433796s] [HSTS,Netlify]
+https://www.tashi.finance [301] [https://tashi.finance/] [0] [cloudflare] [104.21.31.138] [cloudflare] [3.731096585s] [Cloudflare,HTTP/3,LiteSpeed,LiteSpeed Cache,Litespeed Cache]
+http://beta.velar.co [301] [https://beta.velar.co/] [37] [Netlify] [98.84.224.111] [59.451033ms] [Netlify]
+http://perpdex.velar.co [301] [https://perpdex.velar.co/] [40] [Netlify] [18.208.88.157] [70.304533ms] [Netlify]
+http://testnet.velar.co [301] [https://testnet.velar.co/] [40] [Netlify] [98.84.224.111] [1.150434341s] [Netlify]
