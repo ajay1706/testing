@@ -1,0 +1,3 @@
+https://alpha-zksync-miner-download.lumoz.org [503] [] [204] [503 Service Temporarily Unavailable] [cloudflare] [172.67.68.37] [cloudflare] [893.845936ms] [Cloudflare]
+https://public-zksync-api-explorer.lumoz.org [503] [] [606] [503 Service Temporarily Unavailable] [cloudflare] [172.67.68.37] [cloudflare] [808.144567ms] [Cloudflare]
+https://public-zksync-main-node.lumoz.org [503] [] [204] [503 Service Temporarily Unavailable] [cloudflare] [172.67.68.37] [cloudflare] [1.031185252s] [Cloudflare]

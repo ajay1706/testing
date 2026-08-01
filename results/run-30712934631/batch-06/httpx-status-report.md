@@ -1,0 +1,132 @@
+# HTTPX Status Report
+
+Generated at: Sat Aug  1 18:42:44 UTC 2026
+
+HTTPX lines: 114
+Live URLs: 114
+
+## 200
+https://app.metalx.com [200] [] [7799] [Advanced Trading Tools for Digital Assets | Metal X] [Netlify] [13.52.188.95] [154.062581ms] [Fathom,HSTS,Netlify]
+https://claim.lumia.org [200] [] [856] [Lumia | Claim] [cloudflare] [104.26.1.225] [cloudflare] [197.728998ms] [Cloudflare]
+https://beam-bridge.lumia.org [200] [] [648] [Lumia Beam Testnet Bridge] [istio-envoy] [13.51.226.29] [500.282237ms] [Envoy]
+https://dollar.metalx.com [200] [] [2352] [Metal Dollar] [cloudflare] [104.18.28.178] [cloudflare] [88.092018ms] [Cloudflare,Vue.js]
+https://beam-faucet.lumia.org [200] [] [390] [Vite + Svelte] [istio-envoy] [13.51.226.29] [517.077548ms] [Envoy]
+https://bridge.lumia.org [200] [] [635] [Prism Bridge] [istio-envoy] [13.51.226.29] [527.538661ms] [Envoy]
+https://api.lumoz.org [200] [] [612] [Welcome to nginx!] [nginx] [43.133.156.207] [565.522101ms] [Nginx]
+https://alpha-zkrollup-rpc.lumoz.org [200] [] [612] [Welcome to nginx!] [cloudflare] [104.26.3.21] [cloudflare] [642.124503ms] [Cloudflare]
+https://claim.lumoz.org [200] [] [3571] [Lumoz | ZK-RaaS Network Featuring ZKP Mining] [nginx] [43.133.156.207] [784.615136ms] [Nginx,Node.js,Nuxt.js,Vue.js]
+https://hyper.lumia.org [200] [] [2790] [cloudflare] [104.26.0.225] [cloudflare] [83.782329ms] [Cloudflare]
+https://alpha-zkrollup-service.lumoz.org [200] [] [612] [Welcome to nginx!] [cloudflare] [104.26.3.21] [cloudflare] [860.386598ms] [Cloudflare]
+https://lens.lumia.org [200] [] [1135] [Lumia Lens] [cloudflare] [172.67.72.114] [cloudflare] [138.076151ms] [Cloudflare]
+https://lumia.org [200] [] [3211] [LUMIA | The Only Full Cycle RWA Chain] [cloudflare] [172.66.45.12] [cloudflare] [88.187668ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://download.lumoz.org [200] [] [601] [For SaaS file distribution] [cloudflare] [172.67.68.37] [cloudflare] [741.533087ms] [Cloudflare]
+https://node.lumia.org [200] [] [1590] [Lumia Hypernodes] [Vercel] [216.150.16.193] [134.369025ms] [HSTS,Vercel]
+https://hub-docker.lumoz.org [200] [] [785] [Harbor] [cloudflare] [172.67.68.37] [cloudflare] [825.92731ms] [Cloudflare]
+https://helpdesk.lumia.org [200] [] [3157] [Lumia Helpdesk] [cloudflare] [104.26.1.225] [cloudflare] [798.083574ms] [Cloudflare,Ruby,Ruby on Rails]
+https://lens-api.lumia.org [200] [] [603] [cloudflare] [104.26.1.225] [cloudflare] [697.351125ms] [Cloudflare,HSTS]
+https://power.lumia.org [200] [] [790] [Lumia Power] [cloudflare] [172.67.72.114] [cloudflare] [206.421426ms] [Cloudflare]
+https://md.lumia.org [200] [] [3112] [Lumia MD - Collaborative Markdown Editor] [cloudflare] [104.26.0.225] [cloudflare] [639.304512ms] [Cloudflare,HSTS]
+https://node-rpc-hk.lumoz.org [200] [] [0] [cloudflare] [104.26.3.21] [cloudflare] [810.758348ms] [Cloudflare]
+https://chat.lumoz.org [200] [] [118684] [Lumoz Decentralized AI] [nginx] [43.133.156.207] [1.159974804s] [Nginx,Node.js,Nuxt.js,Vue.js]
+https://explorer.lumia.org [200] [] [81288] [Lumia blockchain explorer - View Lumia stats | Blockscout] [istio-envoy] [13.51.226.29] [738.265546ms] [Envoy,Next.js,Node.js,React,Webpack]
+https://test.lumia.org [200] [] [3211] [LUMIA | The Only Full Cycle RWA Chain] [cloudflare] [172.66.45.12] [cloudflare] [161.928326ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://rpc-hk.lumoz.org [200] [] [0] [cloudflare] [172.67.68.37] [cloudflare] [768.035206ms] [Cloudflare]
+https://rpc.lumoz.org [200] [] [0] [cloudflare] [172.67.68.37] [cloudflare] [789.635281ms] [Cloudflare]
+https://docs.lumia.org [200] [] [329370] [What is Lumia Chain? | Lumia - The RWA Chain] [cloudflare] [172.64.147.209] [cloudflare] [111.998657ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.lumoz.org [200] [] [345940] [Welcome to Lumoz | Lumoz Docs] [cloudflare] [104.18.40.47] [cloudflare] [92.769689ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://testnet.dollar.metalx.com [200] [] [2142] [Metal Dollar] [cloudflare] [104.18.29.178] [cloudflare] [265.207112ms] [Cloudflare,Vue.js]
+https://node.lumoz.org [200] [] [237516] [Lumoz | Verifier Nodes] [nginx] [43.133.156.207] [913.340986ms] [Nginx,Node.js,Nuxt.js,Vue.js]
+https://docs.metalx.com [200] [] [422630] [What is Metal X? | Metal X Docs - DeFi App on XPR Network] [cloudflare] [104.18.40.47] [cloudflare] [111.073706ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://us-gdp.lumia.org [200] [] [623] [US GDP Dashboard] [cloudflare] [104.26.0.225] [cloudflare] [155.783166ms] [Cloudflare]
+https://lending.docs.metalx.com [200] [] [379631] [What is the LOAN Protocol? | LOAN Protocol] [cloudflare] [104.18.40.47] [cloudflare] [103.144716ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://token.lumia.org [200] [] [1022] [Lumia Protocol] [cloudflare] [104.26.0.225] [cloudflare] [631.405601ms] [Cloudflare]
+https://zkverifier-testnet.lumoz.org [200] [] [612] [Welcome to nginx!] [cloudflare] [172.67.68.37] [cloudflare] [606.350915ms] [Cloudflare]
+https://verifier.lumoz.org [200] [] [213307] [Lumoz Verifier Node] [nginx] [43.133.156.207] [769.637062ms] [Nginx,Node.js,Nuxt.js,Vue.js]
+https://zkverifier.lumoz.org [200] [] [215306] [Lumoz Verifier Node] [nginx] [43.133.156.207] [761.529406ms] [Nginx,Node.js,Nuxt.js,Vue.js]
+https://metalx.com [200] [] [690562] [Metal X | Compliance-First DeFi Trading, Lending & Staking] [Framer/5d364ee] [31.43.161.6] [211.732999ms] [Fathom,Framer Sites,HSTS,HTTP/3,React]
+
+## 301
+https://dex.docs.metalx.com [301] [https://docs.metalx.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.29.178] [cloudflare] [61.768655ms] [Cloudflare]
+https://dex.api.testnet.metalx.com [301] [https://api.dex.docs.metalx.com/] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [5.161.244.204] [513.927193ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://identity.metalx.com [301] [https://identity.metallicus.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.28.178] [cloudflare] [99.157122ms] [Cloudflare]
+https://dex.api.mainnet.metalx.com [301] [https://api.dex.docs.metalx.com/] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [138.197.111.108] [825.870072ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://lending.metalx.com [301] [https://app.metalx.com/lending] [45] [Netlify] [52.52.192.191] [255.886051ms] [HSTS,Netlify]
+http://alpha-us-http-archive-geth.lumoz.org [301] [https://alpha-us-http-archive-geth.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.37] [cloudflare] [9.8202ms] [Cloudflare]
+http://alpha-miner-download.lumoz.org [301] [https://alpha-miner-download.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.21] [cloudflare] [7.529865ms] [Cloudflare]
+http://alpha-hk-ws-geth.lumoz.org [301] [https://alpha-hk-ws-geth.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.21] [cloudflare] [9.041882ms] [Cloudflare,HTTP/2]
+http://alpha-hk-grpc-beacon.lumoz.org [301] [https://alpha-hk-grpc-beacon.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [14.491267ms] [Cloudflare]
+http://devnet-zkrollup-service.lumoz.org [301] [https://devnet-zkrollup-service.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [13.761093ms] [Cloudflare]
+http://alpha-us-grpc-archive-beacon.lumoz.org [301] [https://alpha-us-grpc-archive-beacon.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.21] [cloudflare] [15.371361ms] [Cloudflare]
+http://alpha-hk-http-geth.lumoz.org [301] [https://alpha-hk-http-geth.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.37] [cloudflare] [16.007082ms] [Cloudflare]
+http://alpha-us-ws-archive-geth.lumoz.org [301] [https://alpha-us-ws-archive-geth.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.37] [cloudflare] [16.532564ms] [Cloudflare,HTTP/2]
+http://alpha-us-grpc-beacon.lumoz.org [301] [https://alpha-us-grpc-beacon.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [18.331986ms] [Cloudflare,HTTP/2]
+http://devnet-rpc.lumoz.org [301] [https://devnet-rpc.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [20.62841ms] [Cloudflare]
+http://alpha-checkpoint.lumoz.org [301] [https://alpha-checkpoint.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [21.570055ms] [Cloudflare]
+http://devnet-zkrollup-rpc.lumoz.org [301] [https://devnet-zkrollup-rpc.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [21.272914ms] [Cloudflare]
+http://alpha-us-http-geth.lumoz.org [301] [https://alpha-us-http-geth.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [21.755452ms] [Cloudflare]
+http://alpha-us-ws-geth.lumoz.org [301] [https://alpha-us-ws-geth.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.37] [cloudflare] [23.302606ms] [Cloudflare]
+http://devnet.lumoz.org [301] [https://devnet.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [20.747327ms] [Cloudflare]
+http://beam-explorer.lumia.org [301] [https://beam-explorer.lumia.org/] [0] [istio-envoy] [13.51.226.29] [313.948315ms]
+http://internal-alpha-us-grpc-archive-beacon.lumoz.org [301] [https://internal-alpha-us-grpc-archive-beacon.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [7.600425ms] [Cloudflare]
+http://internal-alpha-us-http-archive-geth.lumoz.org [301] [https://internal-alpha-us-http-archive-geth.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [9.749404ms] [Cloudflare]
+http://internal-alpha-us-ws-archive-geth.lumoz.org [301] [https://internal-alpha-us-ws-archive-geth.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [20.912534ms] [Cloudflare]
+http://mainnet-saas-l1-rpc.lumoz.org [301] [https://mainnet-saas-l1-rpc.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.37] [cloudflare] [8.301157ms] [Cloudflare]
+http://mainnet-saas-l1-ws.lumoz.org [301] [https://mainnet-saas-l1-ws.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.37] [cloudflare] [21.630735ms] [Cloudflare]
+http://rollup-alpha-us-grpc-archive-beacon.lumoz.org [301] [https://rollup-alpha-us-grpc-archive-beacon.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.37] [cloudflare] [14.046415ms] [Cloudflare]
+http://rollup-alpha-us-http-archive-geth.lumoz.org [301] [https://rollup-alpha-us-http-archive-geth.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.21] [cloudflare] [20.298375ms] [Cloudflare,HTTP/2]
+http://rollup-alpha-us-ws-archive-geth.lumoz.org [301] [https://rollup-alpha-us-ws-archive-geth.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.21] [cloudflare] [27.090906ms] [Cloudflare]
+http://testnet.app.metalx.com [301] [https://testnet.app.metalx.com/] [46] [Netlify] [13.52.188.95] [5.997139ms] [Netlify]
+http://testnet.lending.metalx.com [301] [https://testnet.lending.metalx.com/] [50] [Netlify] [52.52.192.191] [5.87958ms] [Netlify]
+http://testnet.preview.app.metalx.com [301] [https://testnet.preview.app.metalx.com/] [54] [Netlify] [13.52.188.95] [6.089223ms] [Netlify]
+http://zksync-bridge.lumoz.org [301] [https://zksync-bridge.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.21] [cloudflare] [17.940993ms] [Cloudflare]
+http://zksync-scan.lumoz.org [301] [https://zksync-scan.lumoz.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.37] [cloudflare] [11.608694ms] [Cloudflare]
+
+## 302
+https://api.dex.docs.metalx.com [302] [/reference] [32] [cloudflare] [104.16.241.118] [cloudflare] [154.560102ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://help.metalx.com [302] [https://help.metalx.com/hc] [0] [cloudflare] [216.198.53.6] [183.543321ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://alpha-assetshub.lumoz.org [302] [/login/index.html?to=%2F] [207] [302 Found] [cloudflare] [104.26.2.21] [cloudflare] [880.520108ms] [Cloudflare]
+https://launch.lumoz.org [302] [/login/index.html?to=%2F] [207] [302 Found] [cloudflare] [104.26.3.21] [cloudflare] [987.719648ms] [Cloudflare]
+
+## 307
+
+## 308
+https://www.metalx.com [308] [https://metalx.com/] [55] [Framer/5d364ee] [31.43.161.6] [108.168092ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+
+## 403
+https://lumoz.org [403] [] [1649] [Access Restricted] [cloudflare] [104.26.2.21] [cloudflare] [69.121358ms] [Cloudflare]
+https://ws.lumoz.org [403] [] [17015] [Threat blocked] [cloudflare] [104.26.3.21] [cloudflare] [616.600003ms] [Cloudflare]
+
+## 404
+https://cdn.metalx.com [404] [] [27150] [Not Found] [cloudflare] [104.18.29.178] [cloudflare] [64.327242ms] [Cloudflare]
+https://cdn.lumia.org [404] [] [27150] [Not Found] [cloudflare] [104.26.0.225] [cloudflare] [286.233763ms] [Cloudflare]
+https://help-center.lumia.org [404] [] [1733] [Domain error] [openresty] [151.101.43.7] [fastly] [221.230246ms] [Nginx,OpenResty,Varnish]
+https://claim-api.lumoz.org [404] [] [2359] [Page not found at /] [cloudflare] [104.26.3.21] [cloudflare] [917.699497ms] [Cloudflare]
+https://identity.api.prod.metalx.com [404] [] [146] [404 Not Found] [] [15.197.254.86] [317.743721ms] [HSTS]
+https://identity.api.bsbx.metalx.com [404] [] [146] [404 Not Found] [] [75.2.94.115] [513.477485ms] [HSTS]
+https://identity.api.stage.metalx.com [404] [] [146] [404 Not Found] [] [3.33.204.22] [449.349119ms] [HSTS]
+https://identity.api.dev.metalx.com [404] [] [146] [404 Not Found] [] [75.2.94.115] [485.366622ms] [HSTS]
+https://launchpad.lumoz.org [404] [] [548] [404 Not Found] [cloudflare] [104.26.3.21] [cloudflare] [255.275361ms] [Cloudflare,HSTS]
+https://identity.api.dsbx.metalx.com [404] [] [146] [404 Not Found] [] [3.33.204.22] [521.584731ms] [HSTS]
+https://node-api.lumia.org [404] [] [72] [cloudflare] [172.67.72.114] [cloudflare] [188.93394ms] [Cloudflare,Render]
+https://ido-verifier.lumia.org [404] [] [139] [Error] [cloudflare] [104.26.1.225] [cloudflare] [813.197595ms] [Cloudflare,Express,Node.js]
+https://object-store-portal.lumia.org [404] [] [27150] [Not Found] [cloudflare] [172.67.72.114] [cloudflare] [333.977803ms] [Cloudflare]
+https://testing.app.metalx.com [404] [] [50] [Netlify] [52.52.192.191] [139.320714ms] [Netlify]
+https://stable.lumia.org [404] [] [2667] [Microsoft Azure Web App - Error 404] [] [20.29.155.69] [257.709833ms]
+https://wildcard.testing.app.metalx.com [404] [] [50] [Netlify] [13.52.188.95] [159.613167ms] [Netlify]
+https://trade.lumia.org [404] [] [548] [404 Not Found] [cloudflare] [172.67.72.114] [cloudflare] [521.920623ms] [Cloudflare,HSTS]
+https://ws-hk.lumoz.org [404] [] [14889] [Website does not exist] [cloudflare] [104.26.2.21] [cloudflare] [642.309137ms] [Cloudflare]
+https://verifier-api.lumoz.org [404] [] [179] [Not Found] [cloudflare] [104.26.2.21] [cloudflare] [858.981962ms] [Cloudflare]
+
+## 500
+
+## 502
+https://mcp-sse.lumoz.org [502] [] [552] [502 Bad Gateway] [nginx] [43.133.156.207] [731.483571ms] [Nginx]
+https://test.lumoz.org [502] [] [16] [cloudflare] [172.67.68.37] [cloudflare] [650.11341ms] [Cloudflare]
+
+## 503
+https://alpha-zksync-miner-download.lumoz.org [503] [] [204] [503 Service Temporarily Unavailable] [cloudflare] [172.67.68.37] [cloudflare] [893.845936ms] [Cloudflare]
+https://public-zksync-api-explorer.lumoz.org [503] [] [606] [503 Service Temporarily Unavailable] [cloudflare] [172.67.68.37] [cloudflare] [808.144567ms] [Cloudflare]
+https://public-zksync-main-node.lumoz.org [503] [] [204] [503 Service Temporarily Unavailable] [cloudflare] [172.67.68.37] [cloudflare] [1.031185252s] [Cloudflare]
+
