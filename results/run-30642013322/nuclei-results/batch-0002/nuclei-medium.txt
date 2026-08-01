@@ -1,0 +1,5 @@
+[CVE-2023-48795] [javascript] [medium] api.idena.io:22 ["Vulnerable to Terrapin"]
+[laravel-debugbar-exposure] [http] [medium] https://api-ide.manage.supra.com/_debugbar/open
+[prometheus-metrics] [http] [medium] https://api-public.streamflow.finance/metrics
+[prometheus-metrics] [http] [medium] https://api.centrifuge.io/metrics
+[prometheus-metrics] [http] [medium] https://api.taskon.xyz/metrics
