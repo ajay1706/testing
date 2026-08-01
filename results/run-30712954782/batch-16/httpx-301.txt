@@ -1,0 +1,2 @@
+https://bridge.xter.io [301] [http://bnb-bridge.xter.io/] [0] [AmazonS3] [3.162.103.21] [cloudfront] [30.018578ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://app.xter.io [301] [https://app.xter.io/] [167] [301 Moved Permanently] [CloudFront] [13.35.78.121] [cloudfront] [4.503191ms] [Amazon CloudFront,Amazon Web Services]
