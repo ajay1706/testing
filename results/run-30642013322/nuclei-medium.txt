@@ -1,0 +1,27 @@
+[CVE-2023-48795] [javascript] [medium] api.idena.io:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] ipfs.idena.io:22 ["Vulnerable to Terrapin"]
+[CVE-2025-58226] [http] [medium] https://autoconfig.guild.xyz/wp-admin/admin-ajax.php?action=fb3d_send_posts
+[CVE-2025-58226] [http] [medium] https://autodiscover.guild.xyz/wp-admin/admin-ajax.php?action=fb3d_send_posts
+[CVE-2025-58226] [http] [medium] https://teleport-proxy.guild.xyz/wp-admin/admin-ajax.php?action=fb3d_send_posts
+[CVE-2025-63387] [http] [medium] https://content.taskon.xyz/console/api/system-features
+[CVE-2026-55592] [http] [medium] https://based.guild.xyz/healthz ["1"]
+[git-config] [http] [medium] https://app.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://app.pre.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://buyer.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://buyer.staging.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://checkout.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://checkout.staging.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://journey.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://journey.pre.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://v2.app.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://v2.staging.app.credipay.credix.finance/.git/config
+[laravel-debugbar-exposure] [http] [medium] https://api-ide.manage.supra.com/_debugbar/open
+[prometheus-metrics] [http] [medium] https://api-public.streamflow.finance/metrics
+[prometheus-metrics] [http] [medium] https://api.centrifuge.io/metrics
+[prometheus-metrics] [http] [medium] https://api.taskon.xyz/metrics
+[prometheus-metrics] [http] [medium] https://bundler.superform.xyz/metrics
+[prometheus-metrics] [http] [medium] https://crm-api-test.taskon.xyz/metrics
+[prometheus-metrics] [http] [medium] https://operator-api-test.taskon.xyz/metrics
+[prometheus-metrics] [http] [medium] https://staging.bundler.superform.xyz/metrics
+[prometheus-metrics] [http] [medium] https://testtaskonbackend.taskon.xyz/metrics
+[prometheus-metrics] [http] [medium] https://testtaskondl.taskon.xyz/metrics
