@@ -1,0 +1,1 @@
+[crlf-injection-generic] [http] [low] http://dev-api.guild.xyz/%0D%0ASet-Cookie:***
