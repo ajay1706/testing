@@ -1,0 +1,6 @@
+https://discord.lagrange.dev [301] [https://discord.gg/2gXPSjbc2F] [167] [301 Moved Permanently] [cloudflare] [104.26.13.108] [cloudflare] [147.788351ms] [Cloudflare]
+https://kelpdao.xyz [301] [https://kerneldao.com:443/kelp/] [134] [301 Moved Permanently] [awselb/2.0] [34.225.153.186] [280.884555ms] [Amazon ELB,Amazon Web Services]
+https://beta.kelpdao.xyz [301] [https://beta.kerneldao.com:443/kelp/] [134] [301 Moved Permanently] [awselb/2.0] [32.192.96.245] [314.920279ms] [Amazon ELB,Amazon Web Services]
+https://stage.kelpdao.xyz [301] [https://stage.kerneldao.com:443/kelp/] [134] [301 Moved Permanently] [awselb/2.0] [54.84.18.74] [318.670621ms] [Amazon ELB,Amazon Web Services]
+https://www.lagrange.dev [301] [https://lagrange.dev/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [363.309159ms] [Cloudflare,HSTS,HTTP/3]
+https://www.kelpdao.xyz [301] [https://kerneldao.com:443/kelp/] [134] [301 Moved Permanently] [awselb/2.0] [34.225.153.186] [383.65111ms] [Amazon ELB,Amazon Web Services]
