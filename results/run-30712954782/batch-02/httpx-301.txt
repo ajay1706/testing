@@ -1,0 +1,6 @@
+https://staging.defi.app [301] [https://app.defi.app/] [520] [301 Moved Permanently] [cloudflare] [104.20.20.241] [cloudflare] [119.553095ms] [Cloudflare,Cloudflare Browser Insights]
+https://tos.defi.app [301] [https://docs.google.com/document/d/e/2PACX-1vRTo_7OfJWsfTUhMVRWW-tmKnCflp5lomK30h9ePoL-CBqsnkGlZZq_zXDF-_t62WdS-P1KA4TJcz5r/pub] [520] [301 Moved Permanently] [cloudflare] [104.20.20.241] [cloudflare] [84.352767ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.eden.network [301] [https://eden.network/] [526] [301 Moved Permanently] [cloudflare] [172.67.135.11] [cloudflare] [92.435533ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://www.staging.defi.app [301] [https://app.defi.app/] [520] [301 Moved Permanently] [cloudflare] [172.66.174.158] [cloudflare] [98.821792ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.app.defi.app [301] [https://app.defi.app/] [15] [Vercel] [216.150.16.1] [252.179295ms] [HSTS,Vercel]
+https://www.dev.defi.app [301] [https://dev.defi.app/] [15] [Vercel] [216.150.1.129] [230.832183ms] [HSTS,Vercel]
