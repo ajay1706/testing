@@ -1,0 +1,2 @@
+[CVE-2025-30208] [http] [medium] https://angle.money/etc/passwd?raw
+[dockerfile-hidden-disclosure] [http] [medium] https://agents.morpho.org/Dockerfile
