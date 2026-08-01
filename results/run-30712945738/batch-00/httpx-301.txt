@@ -1,0 +1,6 @@
+https://airdrop.archway.io [301] [https://us.airdrop.archway.io//] [167] [301 Moved Permanently] [cloudflare] [104.21.26.227] [cloudflare] [109.341555ms] [Cloudflare]
+http://partner.archway.io [301] [https://partner.archway.io/] [162] [301 Moved Permanently] [nginx] [54.243.86.28] [56.81116ms] [Nginx]
+https://rewards.archway.io [301] [https://us.rewards.archway.io//] [167] [301 Moved Permanently] [cloudflare] [172.67.139.126] [cloudflare] [257.828767ms] [Cloudflare]
+https://swap.archway.io [301] [https://connect.archway.io/] [42] [cloudflare] [172.67.139.126] [cloudflare] [289.410895ms] [Cloudflare,Firebase,HTTP/3]
+https://us.archway.io [301] [https://archway.io//] [167] [301 Moved Permanently] [cloudflare] [172.67.139.126] [cloudflare] [156.424185ms] [Cloudflare]
+https://www.archway.io [301] [https://archway.io/] [34] [cloudflare] [172.67.139.126] [cloudflare] [285.531059ms] [Cloudflare,Firebase,HTTP/3]
