@@ -1,0 +1,4 @@
+[git-config] [http] [medium] https://v2.app.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://v2.staging.app.credipay.credix.finance/.git/config
+[prometheus-metrics] [http] [medium] https://testtaskonbackend.taskon.xyz/metrics
+[prometheus-metrics] [http] [medium] https://testtaskondl.taskon.xyz/metrics
