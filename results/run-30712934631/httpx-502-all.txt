@@ -1,0 +1,8 @@
+https://api-por-data.primuslabs.xyz [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [35.200.54.64] [google] [626.98797ms] [Nginx:1.24.0,Ubuntu]
+https://api.xlink.network [502] [] [150] [502 Bad Gateway] [nginx] [164.92.81.128] [244.426413ms] [Nginx]
+https://forum.litentry.com [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [195.201.24.101] [548.546783ms] [Nginx:1.24.0,Ubuntu]
+https://grafana.svc.swellnetwork.io [502] [] [0] [Caddy] [149.202.83.214] [320.277158ms] [Caddy,HTTP/3]
+https://mcp-sse.lumoz.org [502] [] [552] [502 Bad Gateway] [nginx] [43.133.156.207] [731.483571ms] [Nginx]
+https://run.playground.lagrange.dev [502] [] [150] [502 Bad Gateway] [nginx] [37.27.57.180] [639.99509ms] [Nginx]
+https://test.lumoz.org [502] [] [16] [cloudflare] [172.67.68.37] [cloudflare] [650.11341ms] [Cloudflare]
+https://testnet.bridge.indexer.etherlink.com [502] [] [332] [502 Server Error] [] [34.128.153.43] [google] [9.136942699s] [Google Cloud,Google Cloud CDN,HTTP/3]
