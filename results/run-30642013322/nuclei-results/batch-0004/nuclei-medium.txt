@@ -1,0 +1,6 @@
+[CVE-2026-55592] [http] [medium] https://based.guild.xyz/healthz ["1"]
+[prometheus-metrics] [http] [medium] https://bundler.superform.xyz/metrics
+[git-config] [http] [medium] https://buyer.staging.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://buyer.credipay.credix.finance/.git/config
+[CVE-2025-58226] [http] [medium] https://autodiscover.guild.xyz/wp-admin/admin-ajax.php?action=fb3d_send_posts
+[CVE-2025-58226] [http] [medium] https://autoconfig.guild.xyz/wp-admin/admin-ajax.php?action=fb3d_send_posts
