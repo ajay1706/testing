@@ -1,0 +1,14 @@
+[+] Batch started: Sat Aug  1 18:46:56 UTC 2026
+[+] Run ID: 30712934631
+[+] Batch name: batch-15
+[+] Batch targets:
+xlink.network
+xprotocol.org
+yieldbasis.com
+[+] Running subfinder...
+[+] Subfinder completed: Sat Aug  1 18:47:34 UTC 2026
+[+] HTTPX input count: 45
+[+] Running httpx...
+[+] httpx completed: Sat Aug  1 18:47:39 UTC 2026
+[+] httpx line count: 29
+[+] Batch completed: Sat Aug  1 18:47:39 UTC 2026
