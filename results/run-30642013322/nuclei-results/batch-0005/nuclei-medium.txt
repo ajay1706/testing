@@ -1,0 +1,4 @@
+[CVE-2025-63387] [http] [medium] https://content.taskon.xyz/console/api/system-features
+[git-config] [http] [medium] https://checkout.credipay.credix.finance/.git/config
+[git-config] [http] [medium] https://checkout.staging.credipay.credix.finance/.git/config
+[prometheus-metrics] [http] [medium] https://crm-api-test.taskon.xyz/metrics
