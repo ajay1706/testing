@@ -1,0 +1,5 @@
+[CVE-2019-11248] [http] [high] https://influx.instadapp.io/debug/pprof/
+[CVE-2025-55184] [http] [high] https://preview1113.stakestone.io
+[CVE-2025-55184] [http] [high] https://stakestone.io
+[CVE-2025-55184] [http] [high] https://www.stakestone.io
+[framer-takeover] [http] [high] https://kr.monad.xyz ["sites.framer.app"]

