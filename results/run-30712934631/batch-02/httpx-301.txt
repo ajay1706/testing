@@ -1,0 +1,4 @@
+https://faucet.etherlink.com [301] [https://shadownet.faucet.etherlink.com] [15] [Vercel] [76.76.21.61] [2.302363362s] [HSTS,Vercel]
+https://status.safe.etherlink.com [301] [https://stats.uptimerobot.com:443/A53gwzzkqm] [134] [301 Moved Permanently] [awselb/2.0] [52.204.15.74] [191.772232ms] [Amazon ELB,Amazon Web Services]
+https://testnet.bridge.etherlink.com [301] [https://shadownet.bridge.etherlink.com] [15] [Vercel] [216.198.79.195] [172.446831ms] [HSTS,Vercel]
+https://testnet.explorer.etherlink.com [301] [http://shadownet.explorer.etherlink.com/] [162] [301 Moved Permanently] [cloudflare] [104.26.0.65] [cloudflare] [336.655386ms] [Cloudflare,HTTP/3]
