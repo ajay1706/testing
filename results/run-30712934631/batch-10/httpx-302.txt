@@ -1,0 +1,2 @@
+https://fund.primuslabs.xyz [302] [https://pay.primuslabs.xyz/?chain=monadtestnet] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [2.716802627s] [Nginx:1.24.0,Ubuntu]
+https://v2e.primuslabs.xyz [302] [https://primuslabs.xyz/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [615.519152ms] [Nginx:1.24.0,Ubuntu]
