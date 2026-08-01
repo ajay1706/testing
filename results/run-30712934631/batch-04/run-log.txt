@@ -1,0 +1,14 @@
+[+] Batch started: Sat Aug  1 18:38:42 UTC 2026
+[+] Run ID: 30712934631
+[+] Batch name: batch-04
+[+] Batch targets:
+hermetica.fi
+hyperlend.finance
+irys.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Sat Aug  1 18:39:01 UTC 2026
+[+] HTTPX input count: 153
+[+] Running httpx...
+[+] httpx completed: Sat Aug  1 18:39:25 UTC 2026
+[+] httpx line count: 117
+[+] Batch completed: Sat Aug  1 18:39:25 UTC 2026
