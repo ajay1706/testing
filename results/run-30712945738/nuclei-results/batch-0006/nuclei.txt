@@ -1,0 +1,6 @@
+[CVE-2020-11110] [http] [medium] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/api/snapshots ["http://localhost/dashboard/snapshot/BIMAkv97BukdA0YSBpk4UkRfGGTmUkAG"]
+[CVE-2021-27358] [http] [high] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/api/snapshots
+[grafana-metrics-exposure:version] [http] [low] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/metrics ["6.2.0"]
+[CVE-2020-13379] [http] [high] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/avatar/1%3fd%3dhttp%3A%252F%252Fimgur.com%252F..%25252F1.1.1.1
+[prometheus-metrics] [http] [medium] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/metrics
+[CVE-2021-39226] [http] [high] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/api/snapshots/:key

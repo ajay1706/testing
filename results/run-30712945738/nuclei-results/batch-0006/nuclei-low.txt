@@ -1,0 +1,1 @@
+[grafana-metrics-exposure:version] [http] [low] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/metrics ["6.2.0"]

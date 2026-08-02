@@ -1,0 +1,2 @@
+[CVE-2020-11110] [http] [medium] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/api/snapshots ["http://localhost/dashboard/snapshot/BIMAkv97BukdA0YSBpk4UkRfGGTmUkAG"]
+[prometheus-metrics] [http] [medium] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/metrics
