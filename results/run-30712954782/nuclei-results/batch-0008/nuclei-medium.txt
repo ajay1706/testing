@@ -1,0 +1,1 @@
+[gitlab-api-user-enum] [http] [medium] https://next-sentry.sequence.app/api/v4/users/2 [uid="2"]
