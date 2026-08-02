@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://metrics-api.irys.xyz/metrics
+[godaddy-parked-domain] [http] [medium] https://nilion.io/lander
