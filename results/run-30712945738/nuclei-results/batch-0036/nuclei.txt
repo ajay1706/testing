@@ -1,0 +1,10 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] new-docs.blockaid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] new-docs.blockaid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] news.zksecurity.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] news.zksecurity.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nodereal.nftscan.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] oneux.mintify.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] oneux.mintify.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.sapien.io [""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_STYTCH_DEVICE_FINGERPRINTING_ENABLED":"true"",""VITE_STYTCH_PUBLIC_TOKEN":"public-token-live-bb368f5c-d1e6-477a-b194-cba5627e95f1"",""VITE_STYTCH_SUBMIT_URL":"tw-bt.beehiiv.com"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_STYTCH_TELEMETRY_URL":"https://elements.stytch.com/telemetry.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com""]
+[kubernetes-fake-certificate] [ssl] [low] novastro-testnet.cname.blockscout.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] novastro-testnet.cname.blockscout.com:443
