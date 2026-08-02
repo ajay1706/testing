@@ -1,0 +1,4 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://metrics-api.irys.xyz/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://not-dashboard.irys.xyz/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-55184] [http] [high] https://multisig.miden.xyz/login
+[CVE-2026-25892:version] [http] [high] https://api-dev.primuslabs.xyz/adminer.php ["5.4.0"]
