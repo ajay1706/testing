@@ -1,0 +1,3 @@
+[zip-backup-files] [http] [medium] https://laion-data-assets.inference.net/db.sqlite [EXT="sqlite",FILENAME="db"]
+[zip-backup-files] [http] [medium] https://laion-data-assets.inference.net/db.sqlite [EXT="sqlite",FILENAME="db"]
+[godaddy-parked-domain] [http] [medium] https://lootchain.xyz/lander
