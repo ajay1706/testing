@@ -1,0 +1,6 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0x3b70c030a2baaa866f6ba6c03fde87706812d920.gaia.domains:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0x0c82e25e1f996fa3d227d23e83cef721ee42ff69.gaia.domains:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0xfa1fc68813d687215be75fba4fffb60f184590bc.gaia.domains:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0x3b70c030a2baaa866f6ba6c03fde87706812d920.gaia.domains:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0x0c82e25e1f996fa3d227d23e83cef721ee42ff69.gaia.domains:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0xfa1fc68813d687215be75fba4fffb60f184590bc.gaia.domains:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
