@@ -1,0 +1,1 @@
+[CVE-2024-29972] [http] [critical] https://cli.nexus.xyz/desktop,/cgi-bin/remote_help-cgi/favicon.ico?type=sshd_tdc
