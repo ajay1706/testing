@@ -1,0 +1,5 @@
+[gitlab-api-user-enum] [http] [medium] https://next-sentry.sequence.app/api/v4/users/2 [uid="2"]
+[godaddy-parked-domain] [http] [medium] https://lootchain.xyz/lander
+[godaddy-parked-domain] [http] [medium] https://www.lootchain.xyz/lander
+[smtp-user-enum] [tcp] [medium] mail.eden.network:25 [useraccounts="root"]
+[zip-backup-files] [http] [medium] https://laion-data-assets.inference.net/db.sqlite [EXT="sqlite",FILENAME="db"]

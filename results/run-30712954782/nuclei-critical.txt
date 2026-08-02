@@ -1,0 +1,4 @@
+[CVE-2021-28918] [http] [critical] https://docs.nexus.xyz/?url=http://0177.0.0.1/server-status
+[CVE-2024-29972] [http] [critical] https://cli.nexus.xyz/desktop,/cgi-bin/remote_help-cgi/favicon.ico?type=sshd_tdc
+[CVE-2026-24207] [http] [critical] https://smolclyde-api.treasure.lol/models
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.nexus.xyz
