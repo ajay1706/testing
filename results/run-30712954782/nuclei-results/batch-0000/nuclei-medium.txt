@@ -1,0 +1,1 @@
+[smtp-user-enum] [tcp] [medium] mail.eden.network:25 [useraccounts="root"]
