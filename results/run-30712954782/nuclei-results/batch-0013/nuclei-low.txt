@@ -1,0 +1,12 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.staging.defi.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.stable.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.staging.defi.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.stable.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.usdx.money:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.usdx.money:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xproxy.sequence.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xproxy.sequence.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://zkgm.nexus.xyz
+[expired-ssl] [ssl] [low] www.zunstopleakingthisshit.boundless.network:443 ["2026-02-07 14:19:00 +0000 UTC"]
+[expired-ssl] [ssl] [low] www.stake.boundless.network:443 ["2026-06-10 07:26:55 +0000 UTC"]
+[expired-ssl] [ssl] [low] zunstopleakingthisshit.boundless.network:443 ["2026-02-06 11:02:37 +0000 UTC"]
