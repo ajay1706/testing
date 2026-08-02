@@ -1,0 +1,1 @@
+[CVE-2026-25892:version] [http] [high] https://api-dev.primuslabs.xyz/adminer.php ["5.4.0"]
