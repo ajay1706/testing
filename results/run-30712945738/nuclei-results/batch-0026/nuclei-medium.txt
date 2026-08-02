@@ -1,0 +1,1 @@
+[CVE-2026-45397] [http] [medium] https://chat.fortytwo.network/api/v1/retrieval/
