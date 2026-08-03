@@ -1,0 +1,12 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] store.mintify.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] store.mintify.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] suibridgescan-api.chainbase.online:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] suibridgescan.chainbase.online:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] support.opensea.pro:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] support.opensea.pro:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] swap.archway.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] swap.archway.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stream.nftscan.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[expired-ssl] [ssl] [low] test-chain.chainopera.ai:443 ["2026-04-25 23:59:59 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] tangible-real.cname.blockscout.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] tangible-real.cname.blockscout.com:443
