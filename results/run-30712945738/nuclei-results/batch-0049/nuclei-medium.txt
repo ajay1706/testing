@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://vault.k8s.blockscout.com///%5Ctoast.me/ [redirect="//\\toast.me/"]
+[CVE-2025-54793] [http] [medium] https://vault.k8s.blockscout.com//interact.sh/en//
