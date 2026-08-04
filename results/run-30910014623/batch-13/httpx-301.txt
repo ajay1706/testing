@@ -1,0 +1,8 @@
+https://comarketing.soniclabs.com [301] [https://airtable.com/appeXnYBjdPETgohD/pagWAShipJ6XOJiAy/form] [167] [301 Moved Permanently] [cloudflare] [172.66.166.37] [cloudflare] [215.265481ms] [Cloudflare]
+https://brand.soniclabs.com [301] [https://soniclabs.notion.site/4518775d6a7c4b7685e43628431358ab?v=6a6b5746a3204e34ad75e28ea68ac986] [162] [301 Moved Permanently] [nginx] [34.31.98.239] [google] [234.956366ms] [Nginx]
+https://cal.soniclabs.com [301] [https://www.notion.so/soniclabs/7737f2af41e54e23bd95dc28e3cf8c7e?v=e2cdc0976c2946fe834610fe22f235d7] [162] [301 Moved Permanently] [nginx] [34.31.98.239] [google] [250.252685ms] [Nginx]
+http://gas.soniclabs.com [301] [https://gas.soniclabs.com/] [167] [301 Moved Permanently] [cloudflare] [185.158.133.1] [44.674146ms] [Cloudflare]
+https://applygems.soniclabs.com [301] [https://airtable.com/appeXnYBjdPETgohD/pagovLAwdwOdrjNcr/form] [167] [301 Moved Permanently] [cloudflare] [104.20.40.170] [cloudflare] [286.959393ms] [Cloudflare]
+https://howtobridge.soniclabs.com [301] [https://my.soniclabs.com/bridge] [167] [301 Moved Permanently] [cloudflare] [172.66.166.37] [cloudflare] [243.86557ms] [Cloudflare]
+https://my.silencio.network [301] [https://my.silencio.network/index.html] [0] [] [35.223.82.218] [google] [474.950817ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://points-api.soniclabs.com [301] [http://obl-data-gateway-dev-568660380.us-east-1.elb.amazonaws.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.40.170] [cloudflare] [208.66701ms] [Cloudflare]
