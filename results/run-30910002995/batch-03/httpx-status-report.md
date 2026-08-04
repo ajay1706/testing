@@ -1,0 +1,87 @@
+# HTTPX Status Report
+
+Generated at: Tue Aug  4 12:43:20 UTC 2026
+
+HTTPX lines: 60
+Live URLs: 60
+
+## 200
+https://install.exabits.ai [200] [] [131] [cloudflare] [104.26.2.44] [cloudflare] [70.381259ms] [Cloudflare]
+https://metrics-api.everclear.org [200] [] [285] [Google Frontend] [142.251.218.179] [google] [216.379476ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+http://blinks.gpu.exabits.ai [200] [] [10701] [Apache2 Debian Default Page: It works] [Apache/2.4.68 (Debian)] [34.19.42.215] [google] [82.070295ms] [Apache HTTP Server:2.4.68,Debian]
+https://gpu.exabits.ai [200] [] [10185] [Exabits] [cloudflare] [104.26.3.44] [cloudflare] [69.656795ms] [Cloudflare,Cloudflare Browser Insights]
+https://doppler.finance [200] [] [3695] [Doppler Finance: Infrastructure for tokenized capital markets] [Google Frontend] [216.239.34.21] [google] [487.735527ms] [Google Analytics,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://app.doppler.finance [200] [] [7373] [Doppler Finance] [Google Frontend] [34.120.184.110] [google] [450.28715ms] [Google Analytics,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,Google Tag Manager,HSTS,HTTP/3]
+https://staging.xerc20.everclear.org [200] [] [3723] [xERC20 Deployer] [Vercel] [216.150.1.1] [546.104015ms] [HSTS,Vercel]
+https://console.exabits.ai [200] [] [18692] [Developer Console | exaBITS: Low-cost Scalability and Protected Privacy] [cloudflare] [104.26.3.44] [cloudflare] [74.149549ms] [Bootstrap:d455d620,Cloudflare,Cloudflare Browser Insights,Lodash,Vue.js:6265]
+https://exclusive.doppler.finance [200] [] [9879] [Doppler Finance] [UploadServer] [34.111.22.156] [google] [546.949742ms] [Google Analytics,Google Cloud,Google Cloud CDN,Google Cloud Storage,Google Tag Manager,HTTP/3]
+https://supply.everclear.org [200] [] [1431] [Vercel] [76.76.21.93] [395.441536ms] [HSTS,Vercel]
+https://dcent.dev.doppler.finance [200] [] [9861] [Doppler Finance] [UploadServer] [34.54.47.56] [google] [611.860226ms] [Google Analytics,Google Cloud,Google Cloud CDN,Google Cloud Storage,Google Tag Manager,HTTP/3]
+https://api.gpu.exabits.ai [200] [] [49082] [Exabits Cloud | Exabit API Documentation] [Exabits] [198.11.168.153] [40.590993ms] [Vue.js]
+https://xerc20.everclear.org [200] [] [3723] [xERC20 Deployer] [Vercel] [216.150.1.193] [503.078038ms] [HSTS,Vercel]
+https://app.alpha.doppler.finance [200] [] [7308] [Doppler Finance] [Google Frontend] [34.36.92.218] [google] [1.168764715s] [Google Analytics,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,Google Tag Manager,HSTS,HTTP/3]
+https://gpu-api.exabits.ai [200] [] [50373] [Exabits Cloud | Exabit API Documentation] [cloudflare] [172.67.69.184] [cloudflare] [69.569048ms] [Cloudflare,Cloudflare Browser Insights,Vue.js]
+https://trn-lending.doppler.finance [200] [] [5099] [Doppler Finance] [UploadServer] [34.120.15.225] [google] [813.811288ms] [Google Analytics,Google Cloud,Google Cloud CDN,Google Cloud Storage,Google Tag Manager,HTTP/3]
+https://testnet-staging.explorer.everclear.org [200] [] [8238] [Everclear] [Vercel] [216.150.1.129] [478.290985ms] [HSTS,Vercel]
+https://testnet.explorer.everclear.org [200] [] [8235] [Everclear] [Vercel] [216.150.1.129] [630.372689ms] [HSTS,Vercel]
+https://exclusive-eng.doppler.finance [200] [] [9879] [Doppler Finance] [UploadServer] [34.117.99.198] [google] [959.105532ms] [Google Analytics,Google Cloud,Google Cloud CDN,Google Cloud Storage,Google Tag Manager,HTTP/3]
+https://trn-lst.doppler.finance [200] [] [478] [Doppler Finance - Liquid Staking] [UploadServer] [34.54.63.72] [google] [1.064723446s] [Google Cloud,Google Cloud CDN,Google Cloud Storage,HTTP/3]
+https://www.exabits.ai [200] [] [9281] [Exabits: The Backbone of AI Infrastructure | At The Pinnacle of AI, We Fuel Boundless Innovation |        GB200s, H100s, H200s and RTX5090s |        Exabits refines raw GPU assets from leading manufacturers] [cloudflare] [104.26.2.44] [cloudflare] [761.891253ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://sandbox.exclusive-eng.doppler.finance [200] [] [9936] [Doppler Finance] [UploadServer] [34.102.251.44] [google] [750.787593ms] [Google Analytics,Google Cloud,Google Cloud CDN,Google Cloud Storage,Google Tag Manager,HTTP/3]
+https://sandbox.exclusive.doppler.finance [200] [] [9936] [Doppler Finance] [UploadServer] [34.54.204.229] [google] [865.018175ms] [Google Analytics,Google Cloud,Google Cloud CDN,Google Cloud Storage,Google Tag Manager,HTTP/3]
+https://www.doppler.finance [200] [] [3695] [Doppler Finance: Infrastructure for tokenized capital markets] [Google Frontend] [142.251.218.243] [google] [1.067380573s] [Google Analytics,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://blog.doppler.finance [200] [] [31244] [Blog | Doppler Finance] [cloudflare] [198.202.211.1] [640.161404ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://explorer.everclear.org [200] [] [12021] [Everclear] [Vercel] [216.150.16.129] [385.257225ms] [HSTS,Vercel]
+https://mainnet-staging.explorer.everclear.org [200] [] [12024] [Everclear] [Vercel] [216.150.1.129] [217.292832ms] [HSTS,Vercel]
+https://earn.doppler.finance [200] [] [116858] [My Framer Site] [Framer/21b5ebf] [31.43.161.6] [490.00037ms] [Framer Sites,HSTS,HTTP/3,React]
+https://preview.explorer.everclear.org [200] [] [12024] [Everclear] [Vercel] [216.150.16.193] [337.050854ms] [HSTS,Vercel]
+https://developers.exabits.ai [200] [] [265402] [Overview | Exabits                 Developer] [cloudflare] [172.64.147.209] [cloudflare] [309.731464ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.exabits.ai [200] [] [274842] [Introduction | Exabits      Documentation] [cloudflare] [104.18.40.47] [cloudflare] [119.790394ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.everclear.org [200] [] [322090] [Overview | Everclear Docs] [cloudflare] [172.66.149.141] [cloudflare] [162.812484ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://docs.doppler.finance [200] [] [326022] [About Doppler Finance | Doppler Finance] [cloudflare] [172.64.147.209] [cloudflare] [136.073717ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://dao-docs.everclear.org [200] [] [324923] [What Is the Everclear Collective? | DAO Docs] [cloudflare] [172.64.147.209] [cloudflare] [196.998328ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://faq.exabits.ai [200] [] [432559] [FAQ | Exabits FAQ] [cloudflare] [172.64.147.209] [cloudflare] [330.984761ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://exabits.ai [301] [https://www.exabits.ai/] [515] [301 Moved Permanently] [cloudflare] [172.67.69.184] [cloudflare] [179.46467ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://blog.exabits.ai [301] [https://www.exabits.ai/blog/] [515] [301 Moved Permanently] [cloudflare] [104.26.3.44] [cloudflare] [217.67906ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://dcent-eng.doppler.finance [301] [https://exclusive-eng.doppler.finance:443/] [0] [] [34.111.132.116] [google] [318.740609ms] [HTTP/3]
+http://everclear.org [301] [https://everclear.org/] [162] [301 Moved Permanently] [nginx] [99.83.190.102] [105.886219ms] [Nginx]
+https://dcent.doppler.finance [301] [https://exclusive.doppler.finance:443/] [0] [] [34.8.238.101] [google] [401.214633ms] [HTTP/3]
+http://scan.testnet.everclear.org [301] [https://scan.testnet.everclear.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.72.116] [cloudflare] [222.096928ms] [Cloudflare,HTTP/2]
+http://www.everclear.org [301] [https://www.everclear.org/] [162] [301 Moved Permanently] [nginx] [34.217.231.110] [285.819007ms] [Nginx]
+
+## 302
+https://partner.sandbox.doppler.finance [302] [/docs] [27] [Google Frontend] [34.36.157.28] [google] [766.123453ms] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js]
+https://partner.doppler.finance [302] [/docs] [27] [Google Frontend] [34.49.107.161] [google] [1.091162244s] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js]
+
+## 307
+https://blog.everclear.org [307] [https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fblog.everclear.org%2F] [122] [cloudflare] [162.159.152.4] [cloudflare] [136.478274ms] [Cloudflare,Envoy,HSTS,HTTP/3]
+https://litepaper.exabits.ai [307] [https://docs.exabits.ai/] [15] [cloudflare] [172.64.147.209] [cloudflare] [476.3399ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://stake.everclear.org [307] [/dashboard] [15] [Vercel] [66.33.60.130] [260.891016ms] [HSTS,Vercel]
+https://testnet.stake.everclear.org [307] [/dashboard] [15] [Vercel] [76.76.21.98] [463.77781ms] [HSTS,Vercel]
+
+## 308
+
+## 401
+
+## 403
+https://airdrop.exabits.ai [403] [] [1453] [cloudflare] [104.26.2.44] [cloudflare] [38.217064ms] [Cloudflare,Cloudflare Browser Insights]
+https://medium.exabits.ai [403] [] [17] [cloudflare] [162.159.153.4] [cloudflare] [155.542294ms] [Cloudflare]
+https://api.doppler.finance [403] [] [134] [403] [] [34.107.135.76] [google] [623.217172ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 404
+https://partner.dev.doppler.finance [404] [] [0] [] [34.8.167.179] [google] [309.769395ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://node.doppler.finance [404] [] [43] [Google Frontend] [107.178.251.79] [google] [500.823595ms] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js]
+https://delegate.everclear.org [404] [] [107] [Vercel] [76.76.21.98] [824.430775ms] [HSTS,Vercel]
+https://staging.explorer.everclear.org [404] [] [107] [Vercel] [216.150.16.193] [707.301757ms] [HSTS,Vercel]
+https://api.alpha.doppler.finance [404] [] [43] [Google Frontend] [34.111.47.14] [google] [1.037633309s] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js]
+https://scan.everclear.org [404] [] [21] [] [95.217.170.171] [769.77982ms] [HSTS]
+
+## 500
+
+## 502
+https://finance.exabits.ai [502] [] [16] [cloudflare] [172.67.69.184] [cloudflare] [64.158065ms] [Cloudflare]
+
+## 503
+
