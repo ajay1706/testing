@@ -1,0 +1,3 @@
+https://gaianet.ai [301] [https://www.gaianet.ai/] [0] [CloudFront] [65.8.54.94] [cloudfront] [75.937716ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+http://legacy.factor.fi [301] [https://legacy.factor.fi/] [40] [Netlify] [13.52.188.95] [198.940292ms] [Netlify]
+http://discord.factor.fi [301] [http://discord.com/invite/factor-981676208251088916] [0] [nginx] [80.92.65.144] [330.046485ms] [Nginx]

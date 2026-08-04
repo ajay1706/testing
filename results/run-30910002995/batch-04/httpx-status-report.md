@@ -1,0 +1,51 @@
+# HTTPX Status Report
+
+Generated at: Tue Aug  4 12:43:48 UTC 2026
+
+HTTPX lines: 34
+Live URLs: 34
+
+## 200
+https://lllia.gaianet.ai [200] [] [563] [AI Agent] [Vercel] [64.29.17.67] [85.144315ms] [HSTS,Vercel]
+https://pulse.gaianet.ai [200] [] [26] [] [52.34.23.35] [94.350733ms]
+https://whitepaper.gaianet.ai [200] [] [2035] [Gaia Token Whitepaper] [Vercel] [216.198.79.1] [142.778319ms] [HSTS,Vercel]
+https://test.gaianet.ai [200] [] [8102] [Gaianet frp log explorer] [GitHub.com] [185.199.111.153] [142.142258ms] [Bootstrap:3.3.7,Fastly,GitHub Pages,Varnish]
+https://docs.gaianet.ai [200] [] [5363] [Gaia] [GitHub.com] [185.199.110.153] [133.833016ms] [Docusaurus:3.8.1,Fastly,GitHub Pages,Google Analytics,Google Tag Manager,HSTS,React,Varnish,Webpack,Weglot]
+https://llamacoder.gaianet.ai [200] [] [17568] [Llama Coder – AI Code Generator] [Vercel] [66.33.60.34] [176.891651ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://miniapp.gaianet.ai [200] [] [3565] [cloudflare] [172.66.47.148] [cloudflare] [161.030916ms] [Cloudflare,Google Analytics,HTTP/3,dc.js]
+https://mbti-test.gaianet.ai [200] [] [2577] [GAIA Discord Role Test] [Netlify] [52.52.192.191] [635.246063ms] [Google Analytics,HSTS,Netlify]
+https://link.gaianet.ai [200] [] [126119] [Sink - A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.] [cloudflare] [172.66.44.242] [cloudflare] [162.617025ms] [Cloudflare,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://www.gaianet.ai [200] [] [7914] [cloudflare] [104.21.89.166] [cloudflare] [1.289329905s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Google Analytics,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://app.factor.fi [200] [] [66265] [Factor App] [Netlify] [13.52.188.95] [800.441089ms] [HSTS,Netlify,Next.js,Node.js,React,Webpack,dc.js]
+https://developer.gaianet.ai [200] [] [329358] [Welcome to Gaia | Gaia Developer Handbook] [cloudflare] [172.64.147.209] [cloudflare] [126.747088ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://llamatutor.gaianet.ai [200] [] [806497] [Llama Tutor – AI Personal Tutor] [Vercel] [66.33.60.194] [459.900383ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.factor.fi [200] [] [752471] [Introduction to Factor | Factor Docs] [cloudflare] [104.18.40.47] [cloudflare] [334.952336ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://academy.gaianet.ai [200] [] [276251] [Gaia] [Vercel] [216.150.1.1] [2.244493259s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://gaianet.ai [301] [https://www.gaianet.ai/] [0] [CloudFront] [65.8.54.94] [cloudfront] [75.937716ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+http://legacy.factor.fi [301] [https://legacy.factor.fi/] [40] [Netlify] [13.52.188.95] [198.940292ms] [Netlify]
+http://discord.factor.fi [301] [http://discord.com/invite/factor-981676208251088916] [0] [nginx] [80.92.65.144] [330.046485ms] [Nginx]
+
+## 302
+http://video-translator.gaianet.ai [302] [http://video-translator.gaianet.ai/users/sign_in] [114] [nginx] [43.130.58.80] [53.228107ms] [HSTS,Nginx]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://res.gaianet.ai [403] [] [111] [AmazonS3] [108.139.10.31] [cloudfront] [131.867973ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+
+## 404
+https://api.gaianet.ai [404] [] [19] [] [52.25.78.157] [96.038825ms]
+https://ghost.gaianet.ai [404] [] [139] [Error] [openresty/1.25.3.2] [34.218.22.23] [107.267828ms] [Express,Nginx,Node.js,OpenResty:1.25.3.2]
+
+## 500
+
+## 502
+
+## 503
+
