@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://api-v3.silo.finance/metrics
+[git-config] [http] [medium] https://app-server2.segment.finance/.git/config
