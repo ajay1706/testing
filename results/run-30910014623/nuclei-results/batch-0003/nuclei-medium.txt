@@ -1,0 +1,2 @@
+[CVE-2022-41697] [http] [medium] https://cms.soniclabs.com/ghost/api/admin/session
+[CVE-2026-45397] [http] [medium] https://chat.fortytwo.network/api/v1/retrieval/
