@@ -1,0 +1,2 @@
+[zip-backup-files] [http] [medium] https://install.exabits.ai/install.tar.gz [EXT="tar.gz",FILENAME="install"]
+[godaddy-parked-domain] [http] [medium] https://kilnventures.com/lander
