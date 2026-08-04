@@ -1,0 +1,2 @@
+https://www.fortytwo.network [308] [https://fortytwo.network/] [15] [Vercel] [216.150.1.1] [226.577826ms] [HSTS,Vercel]
+https://docs.fortytwo.network [308] [/docs/introduction] [87932] [cloudflare] [162.159.143.13] [cloudflare] [178.933605ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]

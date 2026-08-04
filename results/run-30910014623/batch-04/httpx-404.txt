@@ -1,0 +1,8 @@
+https://api.qu.fortytwo.network [404] [] [179] [] [3.149.81.202] [72.143199ms] [HSTS,HTTP/3]
+https://downloads.fortytwo.network [404] [] [162] [404 Not Found] [nginx/1.24.0 (Ubuntu)] [3.15.225.228] [71.468126ms] [Nginx:1.24.0,Ubuntu]
+https://prod-api.qu.fortytwo.network [404] [] [179] [] [3.149.126.151] [73.435388ms] [HSTS,HTTP/3]
+https://7f8fee323b569e09mcp.fortytwo.network [404] [] [19] [] [18.219.206.55] [81.096711ms]
+https://prod-bugreport.fortytwo.network [404] [] [180] [] [3.149.126.151] [262.50963ms] [HSTS,HTTP/3]
+https://mcp.fortytwo.network [404] [] [19] [] [16.59.34.197] [266.430181ms]
+https://images.deagent.ai [404] [] [27509] [Not Found] [cloudflare] [172.67.197.36] [cloudflare] [357.348994ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://bugreport.fortytwo.network [404] [] [180] [] [3.149.81.202] [1.07544252s] [HSTS,HTTP/3]
