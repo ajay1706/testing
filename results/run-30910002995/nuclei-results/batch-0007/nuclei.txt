@@ -1,0 +1,7 @@
+[CVE-2025-55182] [http] [critical] https://explorer.layeredge.io
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer.allora.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer.allora.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer.rivalz.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer.rivalz.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer.testnet.allora.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer.testnet.allora.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
