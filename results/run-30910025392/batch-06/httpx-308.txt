@@ -1,0 +1,3 @@
+https://claim.lens.xyz [308] [https://lens.xyz/] [15] [cloudflare] [104.26.12.28] [cloudflare] [154.690157ms] [Cloudflare,HSTS,Vercel]
+http://status.lens.xyz [308] [https://status.lens.xyz/] [0] [Caddy] [142.132.149.97] [207.495466ms] [Caddy]
+http://status.testnet.lens.xyz [308] [https://status.testnet.lens.xyz/] [0] [Caddy] [142.132.149.97] [237.72983ms] [Caddy]
