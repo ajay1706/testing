@@ -1,0 +1,2 @@
+https://api.analytics.layeredge.io [502] [] [183] [502 Bad Gateway] [Microsoft-Azure-Application-Gateway/v2] [4.144.147.0] [575.418139ms]
+https://api-testnet.explorer.layeredge.io [502] [] [183] [502 Bad Gateway] [Microsoft-Azure-Application-Gateway/v2] [4.144.147.0] [577.573069ms]

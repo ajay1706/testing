@@ -1,0 +1,6 @@
+https://semi.layeredge.io [404] [] [2667] [Microsoft Azure Web App - Error 404] [] [20.99.163.40] [158.247832ms]
+https://rpc2.layeredge.io [404] [] [581] [404 Not Found] [Microsoft-Azure-Application-Gateway/v2] [4.144.147.0] [543.195318ms]
+https://prices-api.layeredge.io [404] [] [139] [Error] [] [4.144.147.0] [568.504645ms] [Express,Node.js]
+https://relayer-metrics.layeredge.io [404] [] [0] [] [4.144.147.0] [601.522187ms]
+https://validator-stats.layeredge.io [404] [] [38] [] [4.144.147.0] [573.136477ms] [HSTS]
+https://zkservice.layeredge.io [404] [] [0] [] [4.144.147.0] [550.795541ms]
