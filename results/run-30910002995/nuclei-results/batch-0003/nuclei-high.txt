@@ -1,0 +1,1 @@
+[wix-takeover] [http] [high] https://de.segment.finance ["cdn1.wixdns.net"]
