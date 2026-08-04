@@ -1,0 +1,2 @@
+https://feed.campnetwork.xyz [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [3.147.46.22] [157.636526ms] [Nginx:1.24.0,Ubuntu]
+https://ws.sol.backspin.chainflip.io [502] [] [16] [cloudflare] [104.26.9.210] [cloudflare] [1.173748885s] [Cloudflare]
