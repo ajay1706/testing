@@ -1,0 +1,2 @@
+https://manifesto.game7.io [307] [https://app.gitbook.com/o/Mak2Avnn1SOqI73waolD/sites/site_ivgxL/] [15] [cloudflare] [104.26.12.130] [cloudflare] [96.613219ms] [Cloudflare,HSTS,Vercel]
+https://wiki.game7.io [307] [https://app.gitbook.com/o/Mak2Avnn1SOqI73waolD/sites/site_lApYf/] [15] [cloudflare] [104.18.40.47] [cloudflare] [166.655338ms] [Cloudflare,HSTS,HTTP/3,Vercel]

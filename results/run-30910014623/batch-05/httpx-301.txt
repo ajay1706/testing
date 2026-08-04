@@ -1,0 +1,4 @@
+https://app.game7.io [301] [https://game7.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.130] [cloudflare] [40.9821ms] [Cloudflare]
+https://www.game7.io [301] [https://game7.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.13.130] [cloudflare] [38.272866ms] [Cloudflare]
+http://forum.game7.io [301] [https://forum.game7.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.130] [cloudflare] [17.764819ms] [Cloudflare]
+http://cdn.game7.io [301] [https://cdn.game7.io/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.8] [cloudflare] [18.597222ms] [Cloudflare]

@@ -1,0 +1,14 @@
+[+] Batch started: Tue Aug  4 12:42:55 UTC 2026
+[+] Run ID: 30910014623
+[+] Batch name: batch-05
+[+] Batch targets:
+gaia.domains
+game7.io
+giza.tech
+[+] Running subfinder...
+[+] Subfinder completed: Tue Aug  4 12:43:45 UTC 2026
+[+] HTTPX input count: 108
+[+] Running httpx...
+[+] httpx completed: Tue Aug  4 12:44:06 UTC 2026
+[+] httpx line count: 82
+[+] Batch completed: Tue Aug  4 12:44:06 UTC 2026
