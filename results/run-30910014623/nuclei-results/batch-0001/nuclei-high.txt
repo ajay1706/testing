@@ -1,0 +1,2 @@
+[CVE-2021-27358] [http] [high] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/api/snapshots
+[CVE-2021-39226] [http] [high] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/api/snapshots/:key

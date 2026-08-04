@@ -1,0 +1,5 @@
+[CVE-2026-33017] [http] [critical] https://agent.chainopera.ai/api/v1/version
+[CVE-2026-33017] [http] [critical] https://agent-test.chainopera.ai/api/v1/version
+[CVE-2026-55450] [http] [critical] https://agent.chainopera.ai/api/v1/upload/11111111-1111-1111-1111-111111111111
+[CVE-2026-55450] [http] [critical] https://agent-test.chainopera.ai/api/v1/upload/11111111-1111-1111-1111-111111111111
+[CVE-2026-21445] [http] [critical] https://agent-test.chainopera.ai/api/v1/monitor/messages
