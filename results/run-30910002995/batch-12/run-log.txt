@@ -1,0 +1,14 @@
+[+] Batch started: Tue Aug  4 12:47:39 UTC 2026
+[+] Run ID: 30910002995
+[+] Batch name: batch-12
+[+] Batch targets:
+ritual.net
+rivalz.ai
+satlayer.foundation
+[+] Running subfinder...
+[+] Subfinder completed: Tue Aug  4 12:47:50 UTC 2026
+[+] HTTPX input count: 53
+[+] Running httpx...
+[+] httpx completed: Tue Aug  4 12:48:11 UTC 2026
+[+] httpx line count: 48
+[+] Batch completed: Tue Aug  4 12:48:11 UTC 2026

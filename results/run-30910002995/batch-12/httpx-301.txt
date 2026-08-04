@@ -1,0 +1,2 @@
+https://www.rivalz.ai [301] [http://rivalz.ai/] [0] [cloudflare] [104.26.6.67] [cloudflare] [350.309995ms] [Cloudflare,HTTP/3]
+http://api.rivalz.ai [301] [https://api.rivalz.ai/] [167] [301 Moved Permanently] [cloudflare] [172.67.74.19] [cloudflare] [26.752248ms] [Cloudflare,HTTP/3]
