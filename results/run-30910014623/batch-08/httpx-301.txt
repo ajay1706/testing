@@ -1,0 +1,5 @@
+https://jobs.openfort.io [301] [https://joalavedra.notion.site/openfort-is-hiring] [167] [301 Moved Permanently] [cloudflare] [104.26.6.39] [cloudflare] [86.424323ms] [Cloudflare,HTTP/3]
+https://docs.openfort.io [301] [https://www.openfort.io/docs] [167] [301 Moved Permanently] [cloudflare] [104.26.6.39] [cloudflare] [96.52155ms] [Cloudflare,HTTP/3]
+https://feedback.openfort.io [301] [https://joalavedra.notion.site/roadmap] [167] [301 Moved Permanently] [cloudflare] [104.26.6.39] [cloudflare] [112.088757ms] [Cloudflare,HTTP/3]
+https://rapidfire.sample.openfort.io [301] [https://commerce.fort.dev/] [167] [301 Moved Permanently] [cloudflare] [104.26.6.39] [cloudflare] [81.484848ms] [Cloudflare,HTTP/3]
+https://assets.openfort.io [301] [https://drive.google.com/drive/folders/1vY0LohGN0MRFOQdTyxHedFOf9JkCoNyT] [167] [301 Moved Permanently] [cloudflare] [104.26.6.39] [cloudflare] [318.599957ms] [Cloudflare,HTTP/3]
