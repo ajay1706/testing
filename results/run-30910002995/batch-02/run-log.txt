@@ -1,0 +1,14 @@
+[+] Batch started: Tue Aug  4 12:40:23 UTC 2026
+[+] Run ID: 30910002995
+[+] Batch name: batch-02
+[+] Batch targets:
+catalyst.exchange
+conduit.xyz
+debridge.finance
+[+] Running subfinder...
+[+] Subfinder completed: Tue Aug  4 12:41:00 UTC 2026
+[+] HTTPX input count: 676
+[+] Running httpx...
+[+] httpx completed: Tue Aug  4 12:41:21 UTC 2026
+[+] httpx line count: 592
+[+] Batch completed: Tue Aug  4 12:41:21 UTC 2026
