@@ -1,0 +1,43 @@
+# HTTPX Status Report
+
+Generated at: Tue Aug  4 12:50:33 UTC 2026
+
+HTTPX lines: 15
+Live URLs: 15
+
+## 200
+https://www.satoshiisland.com [200] [] [114] [] [76.223.54.146] [34.047714ms]
+http://wildcard.satoshiisland.com [200] [] [114] [] [76.223.54.146] [7.136019ms]
+https://satoshiisland.com [200] [] [114] [] [13.248.169.48] [99.673995ms]
+https://app-server1.segment.finance [200] [] [4090] [Segment Finance] [cloudflare] [172.66.44.185] [cloudflare] [263.932879ms] [Cloudflare,Google Analytics,HTTP/3]
+https://stable.segment.finance [200] [] [4182] [Segment Finance] [BunnyCDN-ASB1-1503] [152.233.50.1] [400.289105ms] [Bunny,Google Analytics,IPFS]
+https://sentient.foundation [200] [] [109864] [Sentient Foundation | Open-Source AGI] [Vercel] [216.150.1.1] [54.421649ms] [Google Analytics,HSTS,Three.js,Vercel,Webflow,jQuery:3.5.1]
+https://bridge.segment.finance [200] [] [3771] [cloudflare] [172.66.47.178] [cloudflare] [378.783505ms] [Cloudflare,HTTP/3]
+https://app.segment.finance [200] [] [4090] [Segment Finance] [cloudflare] [172.66.47.71] [cloudflare] [579.047192ms] [Cloudflare,Google Analytics,HTTP/3]
+https://app-server2.segment.finance [200] [] [4090] [Segment Finance] [BunnyCDN-ASB1-1503] [152.233.50.1] [920.367356ms] [Bunny,Google Analytics,IPFS]
+https://docs.segment.finance [200] [] [322457] [Overview | Segment Finance] [cloudflare] [172.64.147.209] [cloudflare] [303.943065ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://www.segment.finance [200] [] [808238] [Start Segment Finance | Sega] [Pepyaka] [34.149.87.45] [google] [1.581387722s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Lodash,React,Wix]
+
+## 301
+https://segment.finance [301] [https://www.segment.finance/] [0] [Pepyaka] [185.230.63.171] [131.01904ms] [HSTS,React,Wix]
+
+## 302
+
+## 307
+
+## 308
+https://www.sentient.foundation [308] [https://sentient.foundation/] [15] [Vercel] [216.150.16.193] [47.852977ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://de.segment.finance [404] [] [2516] [ConnectYourDomain Error | Wix.com] [Pepyaka] [34.149.87.45] [google] [510.630412ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,React,Wix]
+
+## 500
+
+## 502
+
+## 503
+

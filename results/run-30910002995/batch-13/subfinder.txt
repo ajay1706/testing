@@ -1,0 +1,14 @@
+api-test.segment.finance
+app-server1.segment.finance
+app-server2.segment.finance
+app.segment.finance
+bridge.segment.finance
+de.segment.finance
+docs-v1.segment.finance
+docs.segment.finance
+jobs.sentient.foundation
+stable.segment.finance
+wildcard.satoshiisland.com
+www.satoshiisland.com
+www.segment.finance
+www.sentient.foundation
