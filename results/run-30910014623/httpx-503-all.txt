@@ -1,0 +1,3 @@
+https://explorer.nubit.org [503] [] [107] [cloudflare] [104.26.4.217] [cloudflare] [2.100858511s] [Cloudflare]
+https://faucet.nubit.org [503] [] [107] [cloudflare] [104.26.4.217] [cloudflare] [2.127358626s] [Cloudflare]
+https://rpc.osmosis.lambo.archway.io [503] [] [113] [kong/3.6.1] [35.202.219.42] [google] [58.87391ms]
