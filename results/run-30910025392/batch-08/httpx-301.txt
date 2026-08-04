@@ -1,0 +1,4 @@
+https://affiliate.noice.id [301] [https://clipper.noice.id/] [167] [301 Moved Permanently] [cloudflare] [172.67.167.175] [cloudflare] [282.332151ms] [Cloudflare]
+https://noice.id [301] [https://www.noice.id/] [526] [301 Moved Permanently] [cloudflare] [172.67.167.175] [cloudflare] [70.701402ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://miniapp-uat.noice.id [301] [https://miniapp-uat.noice.id/noice] [537] [301 Moved Permanently] [cloudflare] [104.21.41.224] [cloudflare] [670.959913ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://miniapp.noice.id [301] [https://miniapp.noice.id/noice] [537] [301 Moved Permanently] [cloudflare] [172.67.167.175] [cloudflare] [680.61586ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
