@@ -1,0 +1,5 @@
+https://airdrop.wormhole.com [403] [] [2008] [Wormhole Airdrop] [cloudflare] [104.26.3.117] [cloudflare] [31.581691ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://metricstest.wormhole.com [403] [] [217] [] [104.197.116.250] [google] [250.078343ms]
+https://prod-flat-files-min.wormhole.com [403] [] [17144] [Forbidden] [cloudflare] [104.26.3.117] [cloudflare] [198.155065ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://staking-terms.wormhole.com [403] [] [17144] [Forbidden] [cloudflare] [104.26.2.117] [cloudflare] [90.939165ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://test-flat-files.wormhole.com [403] [] [17144] [Forbidden] [cloudflare] [104.26.2.117] [cloudflare] [60.920997ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
