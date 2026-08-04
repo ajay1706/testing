@@ -1,0 +1,14 @@
+[+] Batch started: Tue Aug  4 12:43:16 UTC 2026
+[+] Run ID: 30910002995
+[+] Batch name: batch-05
+[+] Batch targets:
+glaze.finance
+grass.io
+hemi.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Tue Aug  4 12:44:38 UTC 2026
+[+] HTTPX input count: 155
+[+] Running httpx...
+[+] httpx completed: Tue Aug  4 12:45:04 UTC 2026
+[+] httpx line count: 52
+[+] Batch completed: Tue Aug  4 12:45:04 UTC 2026
