@@ -1,0 +1,8 @@
+[CVE-2020-11110] [http] [medium] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/api/snapshots ["http://localhost/dashboard/snapshot/fU2f608MYQl9Wuv6G64x4R1b1jJzpdq3"]
+[CVE-2022-41697] [http] [medium] https://cms.soniclabs.com/ghost/api/admin/session
+[CVE-2026-45397] [http] [medium] https://chat.fortytwo.network/api/v1/retrieval/
+[gitlab-api-user-enum] [http] [medium] https://dev-sentry.sequence.app/api/v4/users/7 [uid="7"]
+[gitlab-api-user-enum] [http] [medium] https://next-sentry.sequence.app/api/v4/users/24 [uid="24"]
+[godaddy-parked-domain] [http] [medium] https://lootchain.xyz/lander
+[godaddy-parked-domain] [http] [medium] https://www.lootchain.xyz/lander
+[prometheus-metrics] [http] [medium] https://70f70b14-043c-4b77-a108-441f8b9f30b5d-lnd-monitor.bevm.io/metrics
