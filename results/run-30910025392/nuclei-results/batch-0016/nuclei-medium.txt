@@ -1,0 +1,2 @@
+[zip-backup-files] [http] [medium] https://miniapp-uat.noice.id/noice.zip [EXT="zip",FILENAME="noice"]
+[zip-backup-files] [http] [medium] https://miniapp.noice.id/noice.zip [EXT="zip",FILENAME="noice"]
