@@ -1,0 +1,2 @@
+[laravel-debugbar-exposure] [http] [medium] https://api-ide.manage.supra.com/_debugbar/open
+[prometheus-metrics] [http] [medium] https://aevo-prod-monitor.socket.tech/metrics
