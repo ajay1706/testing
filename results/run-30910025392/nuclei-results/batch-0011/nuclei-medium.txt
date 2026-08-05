@@ -1,0 +1,1 @@
+[CVE-2024-2473:hidden_login_url] [http] [medium] https://creators.noice.id/wp-login.php?action=postpass ["https://creators.noice.id/backoffice/?action=lostpassword"]
