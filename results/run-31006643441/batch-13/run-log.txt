@@ -1,0 +1,14 @@
+[+] Batch started: Wed Aug  5 12:47:57 UTC 2026
+[+] Run ID: 31006643441
+[+] Batch name: batch-13
+[+] Batch targets:
+mito.fi
+native.xyz
+neutron.money
+[+] Running subfinder...
+[+] Subfinder completed: Wed Aug  5 12:48:09 UTC 2026
+[+] HTTPX input count: 15
+[+] Running httpx...
+[+] httpx completed: Wed Aug  5 12:48:12 UTC 2026
+[+] httpx line count: 7
+[+] Batch completed: Wed Aug  5 12:48:12 UTC 2026
