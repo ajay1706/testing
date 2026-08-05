@@ -1,0 +1,5 @@
+https://www.bondex.app [301] [https://bondex.app/] [167] [301 Moved Permanently] [cloudflare] [172.66.154.155] [cloudflare] [117.119465ms] [Cloudflare,HTTP/3]
+http://resume-parser-qa.bondex.app [301] [https://resume-parser-qa.bondex.app/] [0] [] [13.82.12.5] [136.381376ms]
+http://web-dev.bondex.app [301] [https://web-dev.bondex.app/] [0] [] [4.156.248.241] [142.019269ms]
+http://web-dev.network.bondex.app [301] [https://web-dev.network.bondex.app/] [0] [] [4.156.248.241] [128.042275ms]
+http://web-qa.network.bondex.app [301] [https://web-qa.network.bondex.app/] [0] [] [48.223.208.210] [135.92783ms]
