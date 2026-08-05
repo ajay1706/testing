@@ -1,0 +1,3 @@
+https://clave.com [302] [http://www.telepathy.com] [0] [] [54.215.31.113] [261.813372ms] [HSTS]
+https://preview.explorer.cartesi.io [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fpreview.explorer.cartesi.io%2F&nonce=e6f5ddce68e7af23f8e5f8bdfe2e02e1be91c650487aab644e6f543edb6efe48] [15] [Vercel] [66.33.60.35] [112.095394ms] [HSTS,Vercel]
+https://www.clave.com [302] [http://www.telepathy.com] [0] [] [54.215.31.113] [313.44649ms] [HSTS]
