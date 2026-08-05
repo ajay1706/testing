@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://vaults-api.relay.link/metrics
+[godaddy-parked-domain] [http] [medium] https://www.reveal.today/lander
