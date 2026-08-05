@@ -1,0 +1,7 @@
+https://mpc-middleware.maiga.ai [404] [] [63] [cloudflare] [104.21.24.201] [cloudflare] [196.435107ms] [Cloudflare,Express,HTTP/3,Node.js]
+https://token-management.api.maiga.ai [404] [] [72] [nginx/1.24.0 (Ubuntu)] [34.123.165.244] [google] [198.679539ms] [Nginx:1.24.0,Ubuntu]
+https://bot.maiga.ai [404] [] [162] [404 Not Found] [nginx/1.18.0 (Ubuntu)] [136.110.104.237] [google] [593.484479ms] [Nginx:1.18.0,Ubuntu]
+https://prediction-market-dev.maiga.ai [404] [] [555] [404 Not Found] [nginx/1.29.5] [34.124.236.150] [google] [689.917478ms] [Nginx:1.29.5]
+https://prediction-market-prod.maiga.ai [404] [] [153] [404 Not Found] [nginx/1.29.5] [34.126.139.66] [google] [754.530735ms] [Nginx:1.29.5]
+https://onchain.mintair.xyz [404] [] [37] [cloudflare] [104.26.6.140] [cloudflare] [973.297197ms] [Cloudflare,HSTS,HTTP/3]
+https://token-api.maiga.ai [404] [] [72] [nginx/1.18.0 (Ubuntu)] [136.110.18.27] [google] [711.217574ms] [Nginx:1.18.0,Ubuntu]

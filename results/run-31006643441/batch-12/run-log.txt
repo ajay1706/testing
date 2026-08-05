@@ -1,0 +1,14 @@
+[+] Batch started: Wed Aug  5 12:47:48 UTC 2026
+[+] Run ID: 31006643441
+[+] Batch name: batch-12
+[+] Batch targets:
+maiga.ai
+mintair.xyz
+mirai.finance
+[+] Running subfinder...
+[+] Subfinder completed: Wed Aug  5 12:48:24 UTC 2026
+[+] HTTPX input count: 65
+[+] Running httpx...
+[+] httpx completed: Wed Aug  5 12:48:45 UTC 2026
+[+] httpx line count: 30
+[+] Batch completed: Wed Aug  5 12:48:45 UTC 2026

@@ -1,0 +1,2 @@
+https://maiga.ai [308] [https://www.maiga.ai/] [57] [Framer/21b5ebf] [31.43.160.6] [197.347826ms] [Framer Sites,HSTS,HTTP/3,React]
+https://mintair.xyz [308] [https://www.mintair.xyz/] [15] [cloudflare] [104.26.7.140] [cloudflare] [279.957922ms] [Cloudflare,HSTS,HTTP/3,Vercel]

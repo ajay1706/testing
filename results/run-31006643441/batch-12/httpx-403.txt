@@ -1,0 +1,2 @@
+https://mindshare.maiga.ai [403] [] [217] [] [34.158.40.116] [google] [739.596888ms]
+https://kolbeta.maiga.ai [403] [] [217] [cloudflare] [104.21.24.201] [cloudflare] [1.086387612s] [Cloudflare,HTTP/3]
