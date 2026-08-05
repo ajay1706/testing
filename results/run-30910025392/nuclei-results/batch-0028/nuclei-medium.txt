@@ -1,0 +1,4 @@
+[CVE-2023-48795] [javascript] [medium] stake-grt-grpc.ib-local.dev.skip.build:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] stake-xmm-lcd.ib-local.dev.skip.build:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] stake-xmm-grpc.ib-local.dev.skip.build:22 ["Vulnerable to Terrapin"]
+[laravel-debug-enabled] [http] [medium] https://stake-pqf-lcd.ib-local.dev.skip.build/_ignition/health-check

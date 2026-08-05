@@ -1,0 +1,45 @@
+[phpinfo-files] [http] [low] https://stake-fjv-grpc.ib-local.dev.skip.build/info.php ["8.2.30"] [paths="/info.php"]
+[phpinfo-files] [http] [low] https://stake-fjv-rpc.ib-local.dev.skip.build/info.php ["8.2.30"] [paths="/info.php"]
+[CVE-2023-48795] [javascript] [medium] stake-grt-grpc.ib-local.dev.skip.build:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] stake-xmm-lcd.ib-local.dev.skip.build:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] stake-xmm-grpc.ib-local.dev.skip.build:22 ["Vulnerable to Terrapin"]
+[ssh-cbc-mode-ciphers] [javascript] [low] stake-grt-grpc.ib-local.dev.skip.build:22
+[ssh-weakkey-exchange-algo] [javascript] [low] stake-grt-grpc.ib-local.dev.skip.build:22
+[ssh-cbc-mode-ciphers] [javascript] [low] stake-xmm-grpc.ib-local.dev.skip.build:22
+[ssh-cbc-mode-ciphers] [javascript] [low] stake-xmm-lcd.ib-local.dev.skip.build:22
+[ssh-weakkey-exchange-algo] [javascript] [low] stake-xmm-grpc.ib-local.dev.skip.build:22
+[ssh-weakkey-exchange-algo] [javascript] [low] stake-xmm-lcd.ib-local.dev.skip.build:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] stackup-worker-delta.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stackup-worker-beta.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ssr.warpcast.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sqt.sophon.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stackup-worker-delta.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stackup-worker-beta.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sqt.sophon.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ssr.warpcast.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.atlas.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stackup-worker-test-beta.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.atlas.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stackup-worker.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stackup-worker-test-beta.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stackup-worker.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.graphql.union.build:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stackup-worker-alpha.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.graphql.union.build:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stackup-worker-alpha.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.nexus.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.nexus.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stake-testnet.chainflip.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stake-testnet.chainflip.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[laravel-debug-enabled] [http] [medium] https://stake-pqf-lcd.ib-local.dev.skip.build/_ignition/health-check
+[graphiql-exposure] [http] [low] https://staging.graphql.union.build
+[expired-ssl] [ssl] [low] stake-fjv-rpc.ib-local.dev.skip.build:443 ["2026-06-23 17:54:47 +0000 UTC"]
+[expired-ssl] [ssl] [low] stake-fjv-grpc.ib-local.dev.skip.build:443 ["2026-06-23 17:54:47 +0000 UTC"]
+[expired-ssl] [ssl] [low] stake-grt-grpc.ib-local.dev.skip.build:443 ["2025-12-27 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] staging.explorer.everclear.org:443 ["2025-11-17 07:12:13 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] stake-pql-rpc.ib-local.dev.skip.build:443
+[self-signed-ssl] [ssl] [low] stake-vjl-grpc.ib-local.dev.skip.build:443
+[self-signed-ssl] [ssl] [low] stake-vjl-rpc.ib-local.dev.skip.build:443
+[self-signed-ssl] [ssl] [low] stake-vjl-lcd.ib-local.dev.skip.build:443
+[expired-ssl] [ssl] [low] stake-xmm-lcd.ib-local.dev.skip.build:443 ["2025-12-27 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] stake-xmm-grpc.ib-local.dev.skip.build:443 ["2025-12-27 23:59:59 +0000 UTC"]
