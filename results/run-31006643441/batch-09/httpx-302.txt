@@ -1,0 +1,2 @@
+https://evals.gte.xyz [302] [https://evals.gte.xyz/login?callbackUrl=%2F] [0] [railway-hikari] [69.46.46.116] [148.896736ms]
+https://ai.gte.xyz [302] [/login?callbackUrl=%2F] [0] [railway-hikari] [69.46.46.6] [149.718364ms]
