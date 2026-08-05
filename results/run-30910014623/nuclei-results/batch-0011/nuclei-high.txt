@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://web-ui2.extension.dev.heyanon.ai
+[CVE-2025-55184] [http] [high] https://web-ui.extension.prod.heyanon.ai
