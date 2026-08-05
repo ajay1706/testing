@@ -1,0 +1,3 @@
+[CVE-2026-32230] [http] [medium] https://status.layeredge.io/api/badge/1/ping/24
+[CVE-2026-32230] [http] [medium] https://status.dashboard.layeredge.io/api/badge/1/ping/24
+[git-config] [http] [medium] https://stable.segment.finance/.git/config
