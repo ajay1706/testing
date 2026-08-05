@@ -1,0 +1,4 @@
+[CVE-2025-55184] [http] [high] https://layeredge.io
+[CVE-2025-55184] [http] [high] https://rome.rivalz.ai/dex
+[CVE-2025-55184] [http] [high] https://www.layeredge.io
+[wix-takeover] [http] [high] https://de.segment.finance ["cdn1.wixdns.net"]
