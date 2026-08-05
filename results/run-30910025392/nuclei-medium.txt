@@ -1,0 +1,40 @@
+[CVE-2023-48795] [javascript] [medium] stake-grt-grpc.ib-local.dev.skip.build:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] stake-xmm-grpc.ib-local.dev.skip.build:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] stake-xmm-lcd.ib-local.dev.skip.build:22 ["Vulnerable to Terrapin"]
+[CVE-2024-2473:hidden_login_url] [http] [medium] https://creators.noice.id/wp-login.php?action=postpass ["https://creators.noice.id/backoffice/?action=lostpassword"]
+[godaddy-parked-domain] [http] [medium] https://reveal.today/lander
+[godaddy-parked-domain] [http] [medium] https://www.reveal.today/lander
+[laravel-debug-enabled] [http] [medium] https://stake-pqf-lcd.ib-local.dev.skip.build/_ignition/health-check
+[laravel-debugbar-exposure] [http] [medium] https://api-ide.manage.supra.com/_debugbar/open
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.hyperlane.xyz [""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_STYTCH_SUBMIT_URL":"tw-bt.beehiiv.com"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_STYTCH_DEVICE_FINGERPRINTING_ENABLED":"true"",""VITE_STYTCH_PUBLIC_TOKEN":"public-token-live-bb368f5c-d1e6-477a-b194-cba5627e95f1"",""VITE_STYTCH_TELEMETRY_URL":"https://elements.stytch.com/telemetry.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj""]
+[prometheus-metrics] [http] [medium] https://aevo-prod-monitor.socket.tech/metrics
+[prometheus-metrics] [http] [medium] https://dummy-exporter.perseverance.chainflip.io/metrics
+[prometheus-metrics] [http] [medium] https://explorer-api.mayan.finance/metrics
+[prometheus-metrics] [http] [medium] https://price-api.mayan.finance/metrics
+[prometheus-metrics] [http] [medium] https://subgraph-api-omega.towns.com/metrics
+[prometheus-metrics] [http] [medium] https://vaults-api.relay.link/metrics
+[prometheus-metrics] [http] [medium] https://xplore.api.v2.routerprotocol.com/metrics
+[sql-server-dump] [http] [medium] https://static.tape.xyz/backup.bak [paths="/backup.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/data.bak [paths="/data.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/database.bak [paths="/database.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/db.bak [paths="/db.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/db_backup.bak [paths="/db_backup.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/dbdump.bak [paths="/dbdump.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/dump.bak [paths="/dump.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/localhost.bak [paths="/localhost.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/mysql.bak [paths="/mysql.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/mysqldump.bak [paths="/mysqldump.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/sa.bak [paths="/sa.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/site.bak [paths="/site.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/sql.bak [paths="/sql.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/static.tape.xyz.bak [paths="/static.tape.xyz.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/static.tape.xyz_db.bak [paths="/static.tape.xyz_db.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/temp.bak [paths="/temp.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/translate.bak [paths="/translate.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/users.bak [paths="/users.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/wp-content/mysql.bak [paths="/wp-content/mysql.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/wp-content/uploads/dump.bak [paths="/wp-content/uploads/dump.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/www.bak [paths="/www.bak"]
+[sql-server-dump] [http] [medium] https://static.tape.xyz/wwwroot.bak [paths="/wwwroot.bak"]
+[zip-backup-files] [http] [medium] https://miniapp-uat.noice.id/noice.zip [EXT="zip",FILENAME="noice"]
+[zip-backup-files] [http] [medium] https://miniapp.noice.id/noice.zip [EXT="zip",FILENAME="noice"]

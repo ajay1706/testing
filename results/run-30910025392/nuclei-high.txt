@@ -1,0 +1,7 @@
+[CVE-2019-11248] [http] [high] https://influx-tnworkq43qr5xmc8.b.redstone.finance/debug/pprof/
+[CVE-2019-11248] [http] [high] https://river-notification-service-omega.towns.com/debug/pprof/
+[CVE-2025-4123:open-redirect] [http] [high] https://aevo-prod-monitor.socket.tech/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://monitor.socket.tech/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-55184] [http] [high] https://www.routerprotocol.com
+[CVE-2026-25892:version] [http] [high] https://stake-hab-grpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
+[CVE-2026-25892:version] [http] [high] https://stake-hab-rpc.ib-local.dev.skip.build/adminer.php ["5.1.1"]
