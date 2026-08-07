@@ -1,0 +1,3 @@
+[open-redirect-generic] [http] [medium] https://testnet.mito.fi//oast.me/..;/css [redirect="/oast.me/..;/css"]
+[CVE-2025-54793] [http] [medium] https://testnet.mito.fi//interact.sh/en
+[mongodb-exporter-metrics] [http] [medium] https://theoriq-backend.infra.theoriq.ai/metrics
