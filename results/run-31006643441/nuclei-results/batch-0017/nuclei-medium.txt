@@ -1,0 +1,3 @@
+[godaddy-parked-domain] [http] [medium] https://www.native.xyz/lander
+[git-config] [http] [medium] https://www.exsat.io/.git/config
+[git-config] [http] [medium] https://www.unit.network/.git/config
