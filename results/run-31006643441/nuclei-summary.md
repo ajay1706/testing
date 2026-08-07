@@ -1,10 +1,10 @@
 # Nuclei Summary
 
 Run ID: 31006643441
-Saved at: Thu Aug  6 18:45:13 UTC 2026
+Saved at: Fri Aug  7 20:17:14 UTC 2026
 
-Total findings: 0
-Critical: 0
-High: 0
-Medium: 0
-Low: 0
+Total findings: 500
+Critical: 2
+High: 9
+Medium: 20
+Low: 469
