@@ -1,0 +1,4 @@
+http://www.adm-manage.common.fi [301] [https://adm-manage.common.fi/] [537] [301 Moved Permanently] [cloudflare] [172.67.160.179] [cloudflare] [125.208497ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.commondesign.common.fi [301] [https://commondesign.common.fi/] [537] [301 Moved Permanently] [cloudflare] [104.21.33.85] [cloudflare] [119.804398ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+https://www.common.fi [301] [https://common.fi/] [537] [301 Moved Permanently] [cloudflare] [172.67.160.179] [cloudflare] [318.01088ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.volume.common.fi [301] [https://volume.common.fi/] [537] [301 Moved Permanently] [cloudflare] [172.67.160.179] [cloudflare] [95.917287ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
