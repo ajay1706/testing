@@ -1,0 +1,2 @@
+https://contracts-api.mintair.xyz [502] [] [1416] [We're sorry, but something went wrong (502)] [nginx] [13.200.22.172] [869.551116ms] [HSTS,Nginx]
+https://apichecker.mintair.xyz [502] [] [16] [cloudflare] [104.26.6.140] [cloudflare] [927.915567ms] [Cloudflare,HTTP/3]

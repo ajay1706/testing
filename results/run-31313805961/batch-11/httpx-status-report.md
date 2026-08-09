@@ -1,0 +1,46 @@
+# HTTPX Status Report
+
+Generated at: Sun Aug  9 12:46:23 UTC 2026
+
+HTTPX lines: 17
+Live URLs: 17
+
+## 200
+https://mito.fi [200] [] [6139] [Mito] [AmazonS3] [3.167.246.80] [cloudfront] [326.160802ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Node.js,Nuxt.js,Vue.js]
+https://staging.mito.fi [200] [] [3593] [Mito] [AmazonS3] [18.238.132.106] [cloudfront] [371.850432ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Node.js,Nuxt.js,Vue.js]
+https://blogs.mintair.xyz [200] [] [27622] [Mintair | Blog] [Vercel] [66.33.60.67] [263.234922ms] [HSTS,Vercel]
+https://testnet.mito.fi [200] [] [5552] [Mito] [AmazonS3] [52.84.199.38] [cloudfront] [400.783269ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Node.js,Nuxt.js,Vue.js]
+https://stake.mintair.xyz [200] [] [48157] [Boundless Delegate ZKC | Mintair] [Vercel] [216.150.1.1] [445.508549ms] [HSTS,Vercel]
+https://artemis.mintair.xyz [200] [] [83] [cloudflare] [104.26.7.140] [cloudflare] [901.433855ms] [Cloudflare,Express,HSTS,HTTP/3,Node.js]
+https://support.mintair.xyz [200] [] [25] [nginx] [13.200.22.172] [920.057614ms] [Express,HSTS,Nginx,Node.js]
+https://cloud.mintair.xyz [200] [] [13501] [Mintair Cloud] [Vercel] [216.150.16.193] [800.554204ms] [HSTS,Vercel]
+https://43247c40-c3cf-4681-ad53-ba943914c65e.mintair.xyz [200] [] [83] [cloudflare] [104.26.6.140] [cloudflare] [962.507819ms] [Cloudflare,Express,HSTS,HTTP/3,Node.js]
+https://docs.mito.fi [200] [] [309602] [Welcome | Mito] [cloudflare] [104.18.40.47] [cloudflare] [485.081995ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://www.mintair.xyz [200] [] [443781] [Mintair] [cloudflare] [172.67.68.200] [cloudflare] [417.014801ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+
+## 301
+https://contracts.mintair.xyz [301] [https://onchaindaily.io/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.200] [cloudflare] [203.848298ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://blog.mito.fi [302] [https://mito.fi/] [143] [302 Found] [cloudflare] [104.21.30.106] [cloudflare] [156.625654ms] [Cloudflare]
+
+## 307
+
+## 308
+https://mintair.xyz [308] [https://www.mintair.xyz/] [15] [cloudflare] [104.26.7.140] [cloudflare] [341.683449ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://onchain.mintair.xyz [404] [] [37] [cloudflare] [104.26.6.140] [cloudflare] [983.451028ms] [Cloudflare,HSTS,HTTP/3]
+
+## 500
+
+## 502
+https://contracts-api.mintair.xyz [502] [] [1416] [We're sorry, but something went wrong (502)] [nginx] [13.200.22.172] [869.551116ms] [HSTS,Nginx]
+https://apichecker.mintair.xyz [502] [] [16] [cloudflare] [104.26.6.140] [cloudflare] [927.915567ms] [Cloudflare,HTTP/3]
+
+## 503
+
