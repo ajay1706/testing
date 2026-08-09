@@ -1,0 +1,3 @@
+https://blog.secured.finance [301] [https://medium.com/secured-finance/] [526] [301 Moved Permanently] [cloudflare] [104.21.5.94] [cloudflare] [118.781669ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.secured.finance [301] [https://secured.finance/] [166] [301 Moved Permanently] [] [34.202.203.47] [306.121012ms] [Cloudflare,HSTS,HTTP/3]
+https://usdfc.secured.finance [301] [https://app.usdfc.net] [526] [301 Moved Permanently] [cloudflare] [172.67.133.65] [cloudflare] [305.741933ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
