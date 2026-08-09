@@ -1,0 +1,68 @@
+# HTTPX Status Report
+
+Generated at: Sun Aug  9 12:41:20 UTC 2026
+
+HTTPX lines: 39
+Live URLs: 39
+
+## 200
+https://cloud.atoma.network [200] [] [5858] [atoma-dashboard] [GitHub.com] [185.199.109.153] [212.94035ms] [Cloudflare,Fastly,GitHub Pages,Jekyll:3.10.0,Ruby,Varnish,cdnjs]
+https://arrowpad.fun [200] [] [47441] [ArrowPad.fun — Token Launchpad on Robinhood Chain] [cloudflare] [104.21.46.94] [cloudflare] [781.566907ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://docs.alluvial.finance [200] [] [324297] [Who is Alluvial? | Alluvial] [cloudflare] [172.64.147.209] [cloudflare] [433.897469ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+https://status.alluvial.finance [200] [] [7518] [Alluvial] [GitHub.com] [185.199.109.153] [166.717818ms] [Fastly,GitHub Pages,Node.js,Sapper,Svelte,Varnish]
+
+## 301
+https://atoma.network [301] [https://atoma.ai] [51] [ip-10-124-5-38.us-west-2.compute.internal] [15.197.225.128] [519.315558ms]
+https://www.atoma.network [301] [https://atoma.network/] [0] [cloudflare] [104.16.36.105] [cloudflare] [388.175587ms] [Bubble,Cloudflare,Express,HSTS,HTTP/3,Node.js]
+
+## 302
+https://auth.sms.alluvial.finance [302] [https://sms.alluvial.finance/] [51] [cloudflare] [104.18.43.182] [cloudflare] [263.319895ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://api.alluvial.finance [302] [/docs] [28] [] [34.207.24.187] [294.442906ms] [HSTS]
+https://auth.sms.staging.alluvial.finance [302] [https://sms.staging.alluvial.finance/] [59] [cloudflare] [172.64.144.74] [cloudflare] [308.1333ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://authenticate.staging.alluvial.finance [302] [/.pomerium/] [34] [envoy] [52.70.27.113] [312.737496ms] [Envoy,HSTS]
+https://blockscout.dev.alluvial.finance [302] [https://authenticate.dev.alluvial.finance/.pomerium/sign_in?pomerium_hpke_query=JHeVNZzUAp437aasBPZ4nfe_3KzUVofsQ__OecAlbSy7LUja12DzHOJOmKL90JJ7ommI-b0qQLL-y92NdZFdVlLp_8Gas3ZSy5-vvRKKUWcS8iaWpC6KU9VAXPxwuEGjRQIxzgLRwpt2wa3Q1gx9M-7TJIVgz1VBW7SmPazKOEkUlZanAUAUwT1QZJiXP3GjkJUuvwA-2px8EAAH1xQLjBknwoFubYH2hKlR29UEsobdcLecv12eyGwIVWUfDwc3GlbZawKap6SOLSArdH8SZyxC3iRBhC1xdH5zwvIubLtsJY99ZO3o25wWHGII_GqxPJ3vsmbzbGtwUGcQ-gkcP2sES9VqpFghWbpgiSP23O0OWtY3SgFVNE3lpJZEq1-k1kkFVwnRnlwLskXBz8qaPDKPsGC2OIqpB4NwDYiKK_e2nE3CZhXG7C7honEmGP7c5Q&pomerium_hpke_sender_pub=vVAa5NEydkJofGCmlyxOTIYlWJeGIkf7X_7SqbSaJzQ] [1448] [User info dashboard] [envoy] [34.226.54.102] [305.962428ms] [Envoy,HSTS]
+https://columbus.alluvial.finance [302] [https://authenticate.alluvial.finance/.pomerium/sign_in?pomerium_hpke_query=d_vEfQL4aL6tezEARwTuOiEB-20Nt4n-U8MHYkheuCkYlcJwq0sZ4JTCBxBxH4HI6_S5HjVmhmbsBGMV5WEhO1diFzqhZulyC-g_293j2l8qRBQW9rxqpJszlLu_EIRPym8pqCjWtbeYTxzhE2yhv5ORj5UItANv5gXjdHdThVAY0OnFnoyJclTyJj-vsei-irlWYS99maRBLaeKTAPSW-OxBHqYZawh5pS7UqyGVHnFdI2wN_jISQO-dqk8TVubsX6mlyKMDUvdWBpr0CX3NUryrvxMzggCyzpPm9v4IM0gYsIbz-KDWxVox6yiGcZjnhOd86YuJNDJzIIXpniorOQFONr9w7FGC5I9vnmGrscACBw12gYEtED1NPh33MUgu1_BidE_tbtvYSg88jxhRzarLE7RmrkK5Osc8IgidAxRs-cltji9Ms6F0Q&pomerium_hpke_sender_pub=NQuZ9bCJAfI71zaL3hrl3VraLMOUEC6EUuuiiahDxQU] [1438] [User info dashboard] [envoy] [44.198.36.180] [314.730948ms] [Envoy,HSTS]
+https://auth.alluvial.finance [302] [https://alluvial.finance/] [47] [cloudflare] [104.18.43.182] [cloudflare] [332.022134ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.staging.alluvial.finance [302] [https://staging.alluvial.finance/] [55] [cloudflare] [104.18.43.182] [cloudflare] [344.501361ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.sms.dev.alluvial.finance [302] [https://sms.dev.alluvial.finance/] [55] [cloudflare] [104.18.43.182] [cloudflare] [356.657409ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.dev.alluvial.finance [302] [https://dev.alluvial.finance/] [51] [cloudflare] [172.64.144.74] [cloudflare] [571.972774ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://faucet.dev.alluvial.finance [302] [https://authenticate.dev.alluvial.finance/.pomerium/sign_in?pomerium_hpke_query=bm8AhWvUcjZ_w37xBMihr17iwPM1NkJX-iJEiMCcHE2OK3zqNkAFmkBtcHfvcjjpbzlpsvDQnuTQliFs20gF0-9oHngO02dlWY_9o4Z18ArbiNBzL10D31Mnh60mAYkFN2sD4hqX1Ze8MkGdX4-w0ZRViPVh3L7AlrF7pt9i__92sRANMo2mdHAjGIECFC_B2GnoQjwhg25kW1VId4Be66hTrH6UjEZ51YA0Gu70PU84jK-Omj1mUb3LfHAt-4TFnof6WzyzYsBqGdVHXP7AIj0_RVzGrzcX4J_Bjg5p2ZjLotlEFT7AcBndUX7SI5dOFxxZe155H_9lxcDhCJpXeEoeocGwcQrBlZYnQD33rHlbG6fBjTvbLqf1kgr99XNbgth_CDVYe2say6pe92WW5yGBKyf_laTE9HW56P-liQUAv48z5fZN4tNSzxYC&pomerium_hpke_sender_pub=vVAa5NEydkJofGCmlyxOTIYlWJeGIkf7X_7SqbSaJzQ] [1444] [User info dashboard] [envoy] [44.209.35.21] [319.464007ms] [Envoy,HSTS]
+https://telemetry.alluvial.finance [302] [/login] [29] [] [3.230.122.57] [228.950592ms]
+https://vespucci.alluvial.finance [302] [https://authenticate.alluvial.finance/.pomerium/sign_in?pomerium_hpke_query=CXEQbD1tJDvkyi1x-oOC6Xg7d4s5pN_q44TUzJM2Wym7HIMg5_9eN_z8LhwjSCGIUkY9e6QXR2y-NQ8-yssuf_CxLNGJoFUXLtsph8OZyzQLcwcFzp2v7KEuDv9BWqipI92kl1XOvbuF_Y6L_jp5VKap0wlyo9wgx1zkerkhMLNHPHvHxF9OSOFQ32hg896WHHk42AohOMshzyFbXE_PY_0xrgr1Ayq5UPQlPc6vEH3U8Ih48_uXg_Su22NE7ak52_2Tz3vNzrtbkmaCfywwUhVdGLZZWNRkUjN-XydOH-mvk3kQtt6g75sSpckWVBaRxrTvfMEbUugQrxQ6KfgHRYrTWkjppVUqT801TIUmS_Og_UnM-BmYHURnguTkPHMSpBh8ZtZ9YnyhSwVv_Tv6VCb1Nu3W9zZ5eM472kT9rxX1Z7qdDlHqPCroBA&pomerium_hpke_sender_pub=NQuZ9bCJAfI71zaL3hrl3VraLMOUEC6EUuuiiahDxQU] [1438] [User info dashboard] [envoy] [98.83.22.10] [334.557633ms] [Envoy,HSTS]
+https://vespucci.staging.alluvial.finance [302] [https://authenticate.staging.alluvial.finance/.pomerium/sign_in?pomerium_hpke_query=qLhyCb2_-dNxEkbmK33-2DJ2qg0GouLI5pY52sv3mV2JVPAeHqxZRxFoqI4yy4AKLaUIa_CUk8I2lijqJYpF6TQiWf305taRJq7O6CrUrezSSL5PMGVj_HJ6krNIFJE0pwK09atQv2iGQLQbMtXXyngAxZ-4C3YDJp3x8_JYd3XLNLLcoSsYzVCVJ0IqIIl1AEj4OloE-l3l25ErAlVz7xVCywIbdqt12RW8r_lCn51A-KUfIGqkejqBiWQ0DW-rkJx1Ew6CkE8BO1zi-1c7UALrnFhqcuwnygGtef8I7-vhB3JBSads3sD7F5yrSm9J96rx9jYUT1M_xFnLRQJk3ePx6cEUdVedkd6E7dCOZtTGorYSxkzmedEV-TjRIkBfdP4ZLsaJrs6TrqeuHY9Bp-chLaLepnAJ-ezYlN8glc6G50YZY5k8esqo_kpbC1BBzJHt&pomerium_hpke_sender_pub=u0tidjO36o4gBmz7KTmPD5AIz9jZXJ8i9Yx3LLznDSA] [1454] [User info dashboard] [envoy] [3.219.227.58] [337.906604ms] [Envoy,HSTS]
+
+## 307
+
+## 308
+
+## 401
+https://alerts.us-east-1.aws.prod.alluvial.finance [401] [] [17] [] [34.207.24.187] [245.929369ms] [Basic]
+https://alerts.us-east-1.aws.telemetry.staging.alluvial.finance [401] [] [17] [] [34.225.67.53] [370.613055ms] [Basic]
+https://alerts.eu-west-1.aws.telemetry.dev.alluvial.finance [401] [] [17] [] [54.74.142.254] [429.07756ms] [Basic]
+https://docs-di.alluvial.finance [401] [] [45] [cloudflare] [104.18.40.47] [cloudflare] [388.043999ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 403
+
+## 404
+https://alluvial.finance [404] [] [9115] [Site not found · GitHub Pages] [GitHub.com] [185.199.111.153] [212.237131ms] [Fastly,GitHub Pages,Varnish]
+https://concorde.alluvial.finance [404] [] [19] [] [44.195.58.163] [290.386018ms]
+https://blockscout-api.dev.alluvial.finance [404] [] [14] [Cowboy] [18.215.195.229] [349.239454ms] [Cowboy,Erlang]
+https://grpc.concorde.alluvial.finance [404] [] [19] [] [34.207.24.187] [184.049566ms]
+https://grpc.router.alluvial.finance [404] [] [19] [] [32.193.192.89] [288.438698ms]
+https://grpc.router.staging.alluvial.finance [404] [] [19] [] [34.225.67.53] [207.593755ms]
+https://normalised-reporting.dev.alluvial.finance [404] [] [19] [] [18.215.195.229] [179.883483ms]
+https://img.arrowpad.fun [404] [] [28088] [Not Found] [cloudflare] [104.21.46.94] [cloudflare] [304.941893ms] [Cloudflare,HTTP/3]
+https://docs.atoma.network [404] [] [107] [Vercel] [76.76.21.241] [688.506065ms] [HSTS,Vercel]
+https://normalised-reporting.staging.alluvial.finance [404] [] [19] [] [3.93.160.198] [270.273229ms]
+https://router.staging.alluvial.finance [404] [] [19] [] [32.195.192.176] [220.132194ms]
+https://www.alluvial.finance [404] [] [9115] [Site not found · GitHub Pages] [GitHub.com] [185.199.110.153] [316.582109ms] [Fastly,GitHub Pages,Varnish]
+
+## 500
+
+## 502
+
+## 503
+https://credentials.atoma.network [503] [] [20] [] [213.130.147.75] [549.585383ms] [HTTP/3]
+https://api.atoma.network [503] [] [20] [] [213.130.147.75] [593.473442ms] [HTTP/3]
+https://prover.atoma.network [503] [] [20] [] [213.130.147.75] [636.452781ms] [HTTP/3]
+
