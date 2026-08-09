@@ -1,0 +1,2 @@
+https://gte.xyz [308] [https://www.gte.xyz/] [56] [Framer/0ccde4a] [31.43.161.6] [173.907915ms] [Framer Sites,HSTS,HTTP/3,React]
+https://docs.gte.xyz [308] [/home/overview/about-gte] [91267] [Vercel] [76.76.21.241] [399.63592ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel,dc.js]

@@ -1,0 +1,4 @@
+https://function.network [301] [https://www.function.network/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.152] [cloudflare] [53.10048ms] [Cloudflare]
+https://platform.function.network [301] [https://platform.fxnrouter.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.73.21] [cloudflare] [98.124365ms] [Cloudflare]
+https://go.gte.xyz [301] [https://gte.xyz/] [15] [Vercel] [66.33.60.66] [227.10968ms] [HSTS,Vercel]
+https://www.fry.farm [301] [https://fry.farm/] [166] [301 Moved Permanently] [BunnyCDN-IL1-941] [107.150.176.1] [111.086472ms] [Bunny]

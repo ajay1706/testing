@@ -1,0 +1,8 @@
+https://fry.farm [200] [] [3499] [fry.farm by Fry Networks — DeFi Staking & Farming on Algorand] [BunnyCDN-IL1-941] [107.150.176.1] [135.012049ms] [Bunny,HSTS]
+https://chat.function.network [200] [] [772] [Function] [cloudflare] [104.26.14.152] [cloudflare] [173.286988ms] [Cloudflare]
+https://exchange-latency.gte.xyz [200] [] [1093] [Exchange Latency Tester - Test Your Trading Speed Today] [GitHub.com] [185.199.110.153] [183.716225ms] [Fastly,GitHub Pages,Varnish]
+https://heaven.gte.xyz [200] [] [39033] [GTE × Zero × Ethena] [Vercel] [76.76.21.22] [625.065204ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.function.network [200] [] [135765] [Function | Scalable, High-Performance AI Inference] [cloudflare] [172.67.73.21] [cloudflare] [100.213124ms] [Cloudflare]
+https://blog.function.network [200] [] [158048] [Function Network] [Vercel] [64.239.109.193] [388.214204ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.function.network [200] [] [339711] [Overview | Function Documentation] [cloudflare] [172.67.73.21] [cloudflare] [278.780411ms] [Cloudflare,GitBook,HSTS,Vercel,dc.js]
+https://www.gte.xyz [200] [] [675405] [GTE - The Internet Exchange] [Framer/0ccde4a] [31.43.161.6] [382.85543ms] [Amplitude,Framer Sites,HSTS,HTTP/3,React]
