@@ -1,0 +1,14 @@
+[+] Batch started: Sun Aug  9 12:42:48 UTC 2026
+[+] Run ID: 31313805961
+[+] Batch name: batch-06
+[+] Batch targets:
+fiamma.xyz
+fireverse.ai
+flock.io
+[+] Running subfinder...
+[+] Subfinder completed: Sun Aug  9 12:43:23 UTC 2026
+[+] HTTPX input count: 50
+[+] Running httpx...
+[+] httpx completed: Sun Aug  9 12:43:39 UTC 2026
+[+] httpx line count: 32
+[+] Batch completed: Sun Aug  9 12:43:39 UTC 2026
