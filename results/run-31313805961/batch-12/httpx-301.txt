@@ -1,0 +1,8 @@
+https://docs.morphl2.io [301] [https://docs.morph.network/] [167] [301 Moved Permanently] [cloudflare] [104.21.71.98] [cloudflare] [73.739105ms] [Cloudflare,HTTP/3]
+https://morphl2.io [301] [https://morph.network/] [167] [301 Moved Permanently] [cloudflare] [104.18.19.143] [cloudflare] [78.163032ms] [Cloudflare,HTTP/3]
+https://bridge.morphl2.io [301] [https://bridge.morph.network/] [167] [301 Moved Permanently] [cloudflare] [172.67.144.94] [cloudflare] [108.073357ms] [Cloudflare,HTTP/3]
+https://explorer.morphl2.io [301] [https://explorer.morph.network/] [167] [301 Moved Permanently] [cloudflare] [172.67.144.94] [cloudflare] [121.616421ms] [Cloudflare,HTTP/3]
+https://explorer-hoodi.morphl2.io [301] [https://explorer-hoodi.morph.network/] [167] [301 Moved Permanently] [cloudflare] [104.21.71.98] [cloudflare] [132.425048ms] [Cloudflare,HTTP/3]
+https://bridge-hoodi.morphl2.io [301] [https://bridge-hoodi.morph.network/] [167] [301 Moved Permanently] [cloudflare] [104.21.71.98] [cloudflare] [144.887169ms] [Cloudflare,HTTP/3]
+https://www.morphl2.io [301] [https://morph.network/] [167] [301 Moved Permanently] [cloudflare] [104.21.71.98] [cloudflare] [69.203085ms] [Cloudflare,HTTP/3]
+https://status.safe.morphl2.io [301] [https://stats.uptimerobot.com:443/PS05j3ozzz] [134] [301 Moved Permanently] [awselb/2.0] [35.75.234.129] [477.541452ms] [Amazon ELB,Amazon Web Services]
