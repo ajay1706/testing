@@ -1,0 +1,52 @@
+# HTTPX Status Report
+
+Generated at: Sun Aug  9 12:45:15 UTC 2026
+
+HTTPX lines: 23
+Live URLs: 23
+
+## 200
+https://www.api.iknowa.com [200] [] [29] [Google Frontend] [142.250.31.121] [google] [103.363967ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://api.iknowa.com [200] [] [29] [Google Frontend] [64.233.180.121] [google] [107.79726ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://www.app.iknowa.com [200] [] [1145] [iknowa] [Google Frontend] [64.233.180.121] [google] [126.109987ms] [Google Cloud,Google Cloud Load Balancing,Stripe]
+https://staging.k2lend.com [200] [] [3697] [K2 Lend - Institutional DeFi Lending on Stellar] [cloudflare] [104.21.56.211] [cloudflare] [92.068554ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://admin.iknowa.com [200] [] [553] [Iknowa - Admin] [Google Frontend] [173.194.45.121] [google] [165.120721ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://papi.iknowa.com [200] [] [29] [Google Frontend] [64.233.180.121] [google] [186.906636ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://www.admin.iknowa.com [200] [] [553] [Iknowa - Admin] [Google Frontend] [142.251.179.121] [google] [177.412283ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://app.iknowa.com [200] [] [1145] [iknowa] [Google Frontend] [142.251.179.121] [google] [191.49372ms] [Google Cloud,Google Cloud Load Balancing,Stripe]
+https://www.k2lend.com [200] [] [16771] [K2 — Institutional DeFi Lending on Stellar] [cloudflare] [172.67.155.242] [cloudflare] [92.273883ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://k2lend.com [200] [] [16771] [K2 — Institutional DeFi Lending on Stellar] [cloudflare] [104.21.56.211] [cloudflare] [94.915468ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mainnet.k2lend.com [200] [] [2749] [Kinetic] [cloudflare] [172.67.155.242] [cloudflare] [297.677942ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://testnet.k2lend.com [200] [] [2749] [Kinetic] [cloudflare] [104.21.56.211] [cloudflare] [358.728584ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://app.k2lend.com [200] [] [3677] [K2 Lend - Institutional DeFi Lending on Stellar] [cloudflare] [104.21.56.211] [cloudflare] [526.064519ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://info.hyperevmscan.io [200] [] [50570] [HyperEVMScan Information Center] [cloudflare] [104.26.8.251] [cloudflare] [211.376831ms] [Astro:4.11.5,Bootstrap,Cloudflare,Google Analytics,Microsoft ASP.NET]
+https://iknowa.com [200] [] [176184] [iknowa - Build Better. Insure Smarter. | iknowa] [Google Frontend] [216.239.32.21] [google] [132.60288ms] [Cookiebot,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js,Nuxt.js,Vue.js]
+https://hyperevmscan.io [200] [] [126703] [HyperEVM (HYPE) Blockchain Explorer] [cloudflare] [172.67.71.78] [cloudflare] [98.9887ms] [Bootstrap,Clipboard.js,Cloudflare,Google Analytics,Highcharts,Microsoft ASP.NET,jQuery,jQuery Migrate,jQuery UI]
+https://docs.k2lend.com [200] [] [379640] [Introduction | K2] [cloudflare] [172.67.155.242] [cloudflare] [301.333866ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel,dc.js]
+
+## 301
+https://docs.hyperevmscan.io [301] [https://docs.etherscan.io/etherscan-v2] [167] [301 Moved Permanently] [cloudflare] [104.26.9.251] [cloudflare] [39.93789ms] [Cloudflare]
+https://www.hyperevmscan.io [301] [https://hyperevmscan.io/] [0] [cloudflare] [104.26.9.251] [cloudflare] [164.616191ms] [Cloudflare]
+
+## 302
+
+## 307
+
+## 308
+http://www.pay.k2lend.com [308] [https://www.pay.k2lend.com/] [14] [cloudflare] [104.21.56.211] [cloudflare] [525.710055ms] [Cloudflare,HTTP/3]
+
+## 401
+
+## 403
+
+## 404
+http://www.papi.iknowa.com [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [64.233.180.121] [google] [31.493718ms]
+http://www.iknowa.com [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [142.251.167.121] [google] [101.045216ms]
+https://pay.k2lend.com [404] [] [107] [cloudflare] [172.67.155.242] [cloudflare] [448.893641ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
