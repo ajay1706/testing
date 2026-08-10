@@ -1,0 +1,1 @@
+[CVE-2022-41697] [http] [medium] https://blog.morphl2.io/ghost/api/admin/session
