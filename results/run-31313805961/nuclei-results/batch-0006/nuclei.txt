@@ -1,0 +1,47 @@
+[CVE-2026-33032] [http] [critical] https://rpc.katana.network/mcp_message
+[open-redirect-generic] [http] [medium] https://staging.mito.fi//oast.me/..;/css [redirect="/oast.me/..;/css"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] puzzle.lumiterra.net:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] preview.function.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pro.kaito.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] puzzle.lumiterra.net:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] preview.function.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pro.kaito.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] recruitment.valos.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] recruitment.valos.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] s.kaito.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] s.kaito.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] socials.eesee.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] socials.eesee.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sonic.lumiterra.net:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sonic.lumiterra.net:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.eesee.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.eesee.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staking.eesee.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] status-api.lumiterra.net:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staking.eesee.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status-api.lumiterra.net:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stg-point-api.secured.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stg-point-api.secured.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] status.safe.morphl2.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] superfluid.launchpad.kaito.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] superfluid.launchpad.kaito.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.safe.morphl2.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[netlify-headers-config-exposure] [http] [low] https://stg.secured.finance/_headers
+[CVE-2025-54793] [http] [medium] https://staging.mito.fi//interact.sh/en
+[kubernetes-metrics] [http] [low] https://rpc-consensus-beta.morphl2.io/metrics
+[kubernetes-metrics] [http] [low] https://rpc-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-consensus-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-beta.morphl2.io/metrics
+[postgres-exporter-metrics] [http] [low] https://rpc-consensus-beta.morphl2.io/metrics
+[postgres-exporter-metrics] [http] [low] https://rpc-beta.morphl2.io/metrics
+[kubernetes-metrics] [http] [low] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[postgres-exporter-metrics] [http] [low] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[kubernetes-metrics] [http] [low] https://rpc-hoodi-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-hoodi-beta.morphl2.io/metrics
+[postgres-exporter-metrics] [http] [low] https://rpc-hoodi-beta.morphl2.io/metrics
+[self-signed-ssl] [ssl] [low] prover.atoma.network:443
+[self-signed-ssl] [ssl] [low] rpc.testnet.cyber.co:443
+[expired-ssl] [ssl] [low] stg.earthling.cyber.co:443 ["2026-05-11 18:05:39 +0000 UTC"]
+[expired-ssl] [ssl] [low] status.valos.io:443 ["2025-10-07 06:03:01 +0000 UTC"]
+[expired-ssl] [ssl] [low] stats.common.fi:443 ["2026-05-29 23:08:02 +0000 UTC"]

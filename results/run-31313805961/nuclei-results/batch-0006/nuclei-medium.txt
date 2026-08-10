@@ -1,0 +1,6 @@
+[open-redirect-generic] [http] [medium] https://staging.mito.fi//oast.me/..;/css [redirect="/oast.me/..;/css"]
+[CVE-2025-54793] [http] [medium] https://staging.mito.fi//interact.sh/en
+[mongodb-exporter-metrics] [http] [medium] https://rpc-consensus-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-hoodi-beta.morphl2.io/metrics
