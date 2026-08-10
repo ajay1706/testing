@@ -1,0 +1,5 @@
+[CVE-2022-0952] [http] [high] https://neon-mainnet.everstake.one/wp-json/click5_sitemap/API/update_html_option_AJAX
+[CVE-2025-55184] [http] [high] https://bitdealer.launchpad.kaito.ai/end
+[CVE-2025-55184] [http] [high] https://novastro.launchpad.kaito.ai
+[github-takeover] [http] [high] https://alluvial.finance
+[github-takeover] [http] [high] https://www.alluvial.finance ["alluvialfinance.github.io"]
