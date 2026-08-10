@@ -1,0 +1,3 @@
+[CVE-2022-41697] [http] [medium] https://blog.morphl2.io/ghost/api/admin/session
+[mongodb-exporter-metrics] [http] [medium] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-hoodi-beta.morphl2.io/metrics

@@ -1,0 +1,72 @@
+[CVE-2022-41697] [http] [medium] https://blog.morphl2.io/ghost/api/admin/session
+[expired-ssl] [ssl] [low] alliance.flock.io:443 ["2026-02-06 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] badge.flock.io:443 ["2025-02-05 07:48:57 +0000 UTC"]
+[expired-ssl] [ssl] [low] beta.flock.io:443 ["2025-11-06 16:45:54 +0000 UTC"]
+[expired-ssl] [ssl] [low] blog.flock.io:443 ["2025-11-03 15:30:49 +0000 UTC"]
+[expired-ssl] [ssl] [low] demo.flock.io:443 ["2026-07-07 11:56:47 +0000 UTC"]
+[expired-ssl] [ssl] [low] ecosystem.flock.io:443 ["2025-09-19 01:03:14 +0000 UTC"]
+[expired-ssl] [ssl] [low] models.flock.io:443 ["2025-09-12 13:47:08 +0000 UTC"]
+[expired-ssl] [ssl] [low] status.valos.io:443 ["2025-10-07 06:03:01 +0000 UTC"]
+[expired-ssl] [ssl] [low] train-testnet.flock.io:443 ["2026-01-28 15:16:52 +0000 UTC"]
+[expired-ssl] [ssl] [low] train-v1.flock.io:443 ["2026-01-15 06:16:18 +0000 UTC"]
+[kubernetes-metrics] [http] [low] https://rpc-beta.morphl2.io/metrics
+[kubernetes-metrics] [http] [low] https://rpc-consensus-beta.morphl2.io/metrics
+[kubernetes-metrics] [http] [low] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[kubernetes-metrics] [http] [low] https://rpc-hoodi-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-hoodi-beta.morphl2.io/metrics
+[netlify-headers-config-exposure] [http] [low] https://app.secured.finance/_headers
+[netlify-headers-config-exposure] [http] [low] https://dev.secured.finance/_headers
+[netlify-headers-config-exposure] [http] [low] https://stg.secured.finance/_headers
+[postgres-exporter-metrics] [http] [low] https://rpc-beta.morphl2.io/metrics
+[postgres-exporter-metrics] [http] [low] https://rpc-consensus-beta.morphl2.io/metrics
+[postgres-exporter-metrics] [http] [low] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[postgres-exporter-metrics] [http] [low] https://rpc-hoodi-beta.morphl2.io/metrics
+[self-signed-ssl] [ssl] [low] vpn.valos.io:443
+[untrusted-root-certificate] [ssl] [low] vpn.valos.io:443
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.flock.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.usdax.finance:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.k2lend.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] arrowpad.fun:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blazephoenix.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-point-api.secured.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-vault-api.secured.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fed-ledger-prod.flock.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fry.farm:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gateway.safe.morphl2.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.valos.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] img.arrowpad.fun:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mainnet.k2lend.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pay.k2lend.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] point-api.secured.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] recruitment.valos.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] status.safe.morphl2.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stg-point-api.secured.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] testnet.k2lend.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usdax.finance:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] vault-api.secured.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.blazephoenix.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.fry.farm:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.flock.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.usdax.finance:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.k2lend.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] arrowpad.fun:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blazephoenix.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-point-api.secured.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-vault-api.secured.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fed-ledger-prod.flock.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fry.farm:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gateway.safe.morphl2.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.valos.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] img.arrowpad.fun:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mainnet.k2lend.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pay.k2lend.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] point-api.secured.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] recruitment.valos.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.safe.morphl2.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stg-point-api.secured.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testnet.k2lend.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usdax.finance:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vault-api.secured.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.blazephoenix.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.fry.farm:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
