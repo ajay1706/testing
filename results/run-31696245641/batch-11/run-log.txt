@@ -1,0 +1,14 @@
+[+] Batch started: Thu Aug 13 11:42:32 UTC 2026
+[+] Run ID: 31696245641
+[+] Batch name: batch-11
+[+] Batch targets:
+rivermarkets.xyz
+saharaai.com
+sapiom.ai
+[+] Running subfinder...
+[+] Subfinder completed: Thu Aug 13 11:43:08 UTC 2026
+[+] HTTPX input count: 81
+[+] Running httpx...
+[+] httpx completed: Thu Aug 13 11:43:13 UTC 2026
+[+] httpx line count: 78
+[+] Batch completed: Thu Aug 13 11:43:13 UTC 2026
