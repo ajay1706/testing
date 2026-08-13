@@ -1,0 +1,10 @@
+[CVE-2026-39365] [http] [medium] https://kaishuai-dev.allscale.io/node_modules/.vite/deps/../../../config.production.js.map ["/Users/wangkaishuai/allscale/allscale/config.production.js"]
+[claude-settings-exposure] [http] [medium] https://kaishuai-dev.allscale.io/.claude/settings.json
+[godaddy-parked-domain] [http] [medium] https://cambrian.network/lander
+[prometheus-metrics] [http] [medium] https://api.pro.daya.xyz/metrics
+[prometheus-metrics] [http] [medium] https://dev-pro-api.daya.xyz/metrics
+[rails-debug-mode] [http] [medium] https://qa-api.truex.com/3HrNt4RBNno8Zwo6DKcQRFX4OQd
+[rails-debug-mode] [http] [medium] https://qa-ee.truex.com/3HrNt4RBNno8Zwo6DKcQRFX4OQd
+[rails-debug-mode] [http] [medium] https://qa-facelift-tf.truex.com/3HrNt4RBNno8Zwo6DKcQRFX4OQd
+[rails-debug-mode] [http] [medium] https://qa-facelift.truex.com/3HrNt4RBNno8Zwo6DKcQRFX4OQd
+[wp-jetpack-ssrf] [http] [medium] https://topdocs.truex.com/wp-json/wpcom/v2/tweetstorm/generate-cards

@@ -1,0 +1,5 @@
+[CVE-2019-11248] [http] [high] https://prometheus.allscale.io/debug/pprof/
+[CVE-2024-34351] [http] [high] https://resolute.dukong.int.mantrachain.io/_next/image?w=16&q=10&url=https://d9ur3qaai4kjja7hvqs0735mgwhuq11aj.oast.me
+[CVE-2025-55184] [http] [high] https://harvey.ornn.com
+[github-takeover] [http] [high] https://upptime-poc.truex.com
+[prometheus-unauth] [http] [high] https://prometheus.allscale.io/api/v1/status/config
