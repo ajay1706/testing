@@ -1,0 +1,85 @@
+# HTTPX Status Report
+
+Generated at: Thu Aug 13 11:38:51 UTC 2026
+
+HTTPX lines: 57
+Live URLs: 57
+
+## 200
+https://bit2me.entravel.com [200] [] [1191] [Bit2Me Life | Exclusive Hotel Deals] [] [136.110.228.201] [google] [234.127992ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://bitgetwallet.entravel.com [200] [] [1299] [Bitget | Travel - Luxury Hotels, Exclusive Insider Rates] [cloudflare] [104.26.7.190] [cloudflare] [388.196972ms] [Cloudflare]
+https://link.entravel.com [200] [] [2334] [SMTP2GO] [] [170.187.131.209] [294.109229ms] [HSTS]
+https://c1travel.entravel.com [200] [] [1135] [C1 Travel] [cloudflare] [172.67.71.68] [cloudflare] [436.870781ms] [Cloudflare]
+https://entravel.com [200] [] [1355] [Entravel - VIP Hotels. Insider Prices] [cloudflare] [172.67.71.68] [cloudflare] [448.268841ms] [Cloudflare]
+https://introduction.entravel.com [200] [] [17237] [Travel,  Privileged] [cloudflare] [198.202.211.1] [287.450453ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://docs.entravel.com [200] [] [17362] [cloudflare] [172.67.71.68] [cloudflare] [528.914474ms] [Cloudflare,Mermaid,MkDocs:1.6.1,Python,Unpkg]
+https://partner.entravel.com [200] [] [5684] [Entravel] [] [91.197.243.143] [231.490087ms]
+https://dapp-backend-mainnet.fractionai.xyz [200] [] [42] [nginx/1.30.3] [65.1.73.96] [749.444015ms] [Express,Nginx:1.30.3,Node.js]
+https://dev-neural-arena-backend.fractionai.xyz [200] [] [35] [nginx/1.28.3 (Ubuntu)] [35.154.226.86] [797.93915ms] [Express,Nginx:1.28.3,Node.js,Ubuntu]
+https://dev-dapp-backend.fractionai.xyz [200] [] [42] [nginx/1.30.4] [52.66.255.18] [890.000711ms] [Express,Nginx:1.30.4,Node.js]
+https://opnsense.entravel.com [200] [] [2780] [Login | OPNsense] [OPNsense] [88.198.64.100] [503.63735ms] [PHP,jQuery:3.5.1]
+https://safepal.entravel.com [200] [] [1175] [SafePal | Exclusive Hotel Deals] [cloudflare] [172.67.71.68] [cloudflare] [378.117686ms] [Cloudflare]
+https://corporate.fractionai.xyz [200] [] [91633] [Fraction AI] [AmazonS3] [18.154.206.129] [cloudfront] [615.291807ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://fractionai.xyz [200] [] [159957] [Fraction AI] [] [3.167.192.60] [cloudfront] [437.416181ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://upload.entravel.com [200] [] [23802] [SecureMessage] [nginx/1.24.0 (Ubuntu)] [88.99.145.9] [467.138057ms] [Bootstrap:5.3.8,Nginx:1.24.0,Showdown:2.1.0,Ubuntu,jQuery:3.7.1]
+
+## 301
+https://entravel.io [301] [https://entravel.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.135.16] [cloudflare] [66.637702ms] [Cloudflare]
+https://bitmart.entravel.com [301] [https://travel.bitmart.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.71.68] [cloudflare] [104.362563ms] [Cloudflare]
+https://home.entravel.com [301] [http://entravel.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.6.190] [cloudflare] [77.289671ms] [Cloudflare]
+https://dapp.fractionai.xyz [301] [https://fractionai.xyz/dapp] [0] [] [18.155.173.23] [cloudfront] [557.724803ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://docs.fractionai.xyz [301] [https://fraction-ai.gitbook.io/fraction-ai-product-docs/] [0] [AmazonS3] [18.155.173.120] [cloudfront] [572.664926ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://press-kit.entravel.com [301] [https://press-kit.entravel.com/] [162] [301 Moved Permanently] [nginx] [34.210.109.146] [72.896232ms] [Nginx]
+https://www.entravel.io [301] [https://entravel.com/] [167] [301 Moved Permanently] [cloudflare] [104.21.6.172] [cloudflare] [73.995231ms] [Cloudflare]
+http://webflow.entravel.com [301] [https://webflow.entravel.com/] [162] [301 Moved Permanently] [nginx] [34.210.109.146] [74.237482ms] [Nginx]
+
+## 302
+https://affiliate.entravel.com [302] [https://entravel.com/] [143] [302 Found] [cloudflare] [104.26.7.190] [cloudflare] [72.469975ms] [Cloudflare]
+https://cloud.entravel.com [302] [https://cloud.entravel.com/login] [0] [cloudflare] [104.26.6.190] [cloudflare] [448.082327ms] [Cloudflare,HSTS,Nextcloud,PHP:8.4.20]
+https://eset.entravel.com [302] [https://eset.entravel.com/era/webconsole/] [0] [nginx/1.24.0 (Ubuntu)] [46.4.171.125] [509.493828ms] [Java,Nginx:1.24.0,Ubuntu]
+https://prometheus.entravel.com [302] [/login] [29] [cloudflare] [104.26.7.190] [cloudflare] [400.805848ms] [Cloudflare]
+
+## 307
+
+## 308
+https://www.entravel.com [308] [http://entravel.com] [164] [308 Permanent Redirect] [cloudflare] [104.26.6.190] [cloudflare] [376.52779ms] [Cloudflare]
+
+## 401
+
+## 403
+https://cdn.entravel.com [403] [] [111] [UploadServer] [136.110.228.201] [google] [632.831814ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 404
+https://email.mail.entravel.com [404] [] [19] [] [34.110.180.34] [google] [218.165448ms]
+https://belo.entravel.com [404] [] [548] [404 Not Found] [cloudflare] [104.26.7.190] [cloudflare] [380.420092ms] [Cloudflare]
+https://destinations.entravel.com [404] [] [906] [404 - Page not found] [cloudflare] [198.202.211.1] [430.24003ms] [Cloudflare,HTTP/3]
+https://internal-api.entravel.com [404] [] [0] [cloudflare] [104.26.7.190] [cloudflare] [405.45113ms] [Cloudflare]
+https://copperx-lb.entravel.com [404] [] [146] [404 Not Found] [] [35.242.243.173] [google] [453.995208ms] [HSTS]
+https://kibana.entravel.com [404] [] [146] [404 Not Found] [cloudflare] [104.26.7.190] [cloudflare] [398.39096ms] [Cloudflare]
+https://privy.fractionai.xyz [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [97.063267ms] [Cloudflare,Cloudflare Bot Management]
+https://moto-card-lb.entravel.com [404] [] [548] [404 Not Found] [] [35.242.243.173] [google] [465.462655ms] [HSTS]
+https://discord-issue-tracker.fractionai.xyz [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [13.234.66.134] [713.344965ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://dev-telegram.fractionai.xyz [404] [] [139] [Error] [nginx/1.24.0] [52.66.236.138] [726.585774ms] [Express,Nginx:1.24.0,Node.js]
+https://telegram.fractionai.xyz [404] [] [139] [Error] [nginx/1.24.0] [52.66.236.138] [763.612404ms] [Express,Nginx:1.24.0,Node.js]
+
+## 500
+
+## 502
+https://uat-dapp-backend.fractionai.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.26.3] [65.1.91.254] [815.958183ms] [Nginx:1.26.3]
+
+## 503
+https://fl-avalanchecard-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [42.852895ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://coca-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [45.258883ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://bookit-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [46.434851ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://ctd-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [47.067993ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://cricketvision-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [47.504685ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://fopayglobal-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [51.686771ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://folksmobile-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [55.206631ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://fluidkey-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [73.452327ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://alleo-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [79.042145ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://hyperbeat-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [106.9101ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://mocatravelx-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [46.608889ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://proofoftalk-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [42.129603ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://rocketpunch-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [48.096406ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://ready-lb.entravel.com [503] [] [19] [] [136.110.228.201] [google] [56.47754ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
