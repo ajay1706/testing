@@ -1,0 +1,14 @@
+[+] Batch started: Thu Aug 13 11:42:38 UTC 2026
+[+] Run ID: 31696286506
+[+] Batch name: batch-10
+[+] Batch targets:
+polysights.xyz
+raiku.xyz
+renaiss.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Thu Aug 13 11:43:17 UTC 2026
+[+] HTTPX input count: 32
+[+] Running httpx...
+[+] httpx completed: Thu Aug 13 11:43:22 UTC 2026
+[+] httpx line count: 31
+[+] Batch completed: Thu Aug 13 11:43:22 UTC 2026
