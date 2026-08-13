@@ -1,0 +1,8 @@
+https://apply.bio.xyz [301] [https://buildspace.bio.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.4.8] [cloudflare] [57.223002ms] [Cloudflare]
+https://bio.xyz [301] [https://www.bio.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [97.804587ms] [Cloudflare,HSTS,HTTP/3]
+https://biofy.bio.xyz [301] [https://biofy.xyz/] [0] [cloudflare] [23.227.38.74] [180.311005ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://fy.bio.xyz [301] [https://biofy.xyz/] [0] [cloudflare] [23.227.38.74] [179.928131ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://intake.bio.xyz [301] [https://buildspace.bio.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.131.112] [cloudflare] [186.905082ms] [Cloudflare]
+https://app.bulbaswap.io [301] [https://app.bulbaswap.io/swap] [166] [301 Moved Permanently] [cloudfront] [18.160.18.31] [cloudfront] [534.427289ms] [Amazon CloudFront,Amazon Web Services]
+https://shop.bio.xyz [301] [https://biofy.xyz/] [0] [cloudflare] [23.227.38.74] [222.567437ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://www.bulbaswap.io [301] [https://bulbaswap.io/] [166] [301 Moved Permanently] [cloudfront] [18.160.18.62] [cloudfront] [720.388501ms] [Amazon CloudFront,Amazon Web Services]
