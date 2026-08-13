@@ -1,0 +1,2 @@
+[CVE-2026-39365] [http] [medium] https://kaishuai-dev.allscale.io/node_modules/.vite/deps/../../../config.production.js.map ["/Users/wangkaishuai/allscale/allscale/config.production.js"]
+[claude-settings-exposure] [http] [medium] https://kaishuai-dev.allscale.io/.claude/settings.json
