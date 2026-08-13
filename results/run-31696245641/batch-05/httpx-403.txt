@@ -1,0 +1,6 @@
+https://www.jpyc.co.jp [403] [] [12852] [JPYC EX] [CloudFront] [52.85.12.118] [cloudfront] [58.71786ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://jpyc.co.jp [403] [] [12852] [JPYC EX] [CloudFront] [52.85.12.13] [cloudfront] [110.392084ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://assets.jpyc.co.jp [403] [] [111] [UploadServer] [34.117.127.10] [google] [326.452594ms] [HTTP/3]
+https://stg.faucet.jpyc.co.jp [403] [] [591] [403 Forbidden] [CloudFront] [3.168.40.53] [cloudfront] [343.88376ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://ex.jpyc.co.jp [403] [] [14404] [JPYC EX] [AmazonS3] [13.225.47.103] [cloudfront] [581.729179ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://stg.jpyc.co.jp [403] [] [12957] [JPYC EX] [CloudFront] [18.160.181.112] [cloudfront] [856.802735ms] [Amazon CloudFront,Amazon Web Services,HSTS]

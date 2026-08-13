@@ -1,0 +1,2 @@
+https://corporate.jpyc.co.jp [200] [] [21172] [JPYC株式会社 | 社会のジレンマを突破する] [Google Frontend] [34.111.141.225] [google] [335.902171ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://faucet.jpyc.co.jp [200] [] [15060] [JPYC Faucet] [AmazonS3] [18.160.213.54] [cloudfront] [715.046389ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
