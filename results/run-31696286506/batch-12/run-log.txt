@@ -1,0 +1,14 @@
+[+] Batch started: Thu Aug 13 11:43:46 UTC 2026
+[+] Run ID: 31696286506
+[+] Batch name: batch-12
+[+] Batch targets:
+sovra.network
+speedlabs.io
+speedlabs.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Thu Aug 13 11:44:08 UTC 2026
+[+] HTTPX input count: 23
+[+] Running httpx...
+[+] httpx completed: Thu Aug 13 11:44:09 UTC 2026
+[+] httpx line count: 23
+[+] Batch completed: Thu Aug 13 11:44:09 UTC 2026
