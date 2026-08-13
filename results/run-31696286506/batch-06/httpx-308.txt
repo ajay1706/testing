@@ -1,0 +1,5 @@
+https://bot.legend.trade [308] [https://www.legend.trade/] [15] [Vercel] [216.150.1.129] [112.069958ms] [HSTS,Vercel]
+https://grafana.legend.trade [308] [https://www.legend.trade/] [15] [Vercel] [216.150.16.129] [200.20858ms] [HSTS,Vercel]
+https://legend.trade [308] [https://www.legend.trade/] [15] [Vercel] [216.150.1.129] [148.055337ms] [HSTS,Vercel]
+https://staging-bot.legend.trade [308] [https://www.legend.trade/] [15] [Vercel] [216.150.1.129] [2.109598729s] [HSTS,Vercel]
+https://test-bot.legend.trade [308] [https://www.legend.trade/] [15] [Vercel] [216.150.1.129] [4.293318108s] [HSTS,Vercel]
