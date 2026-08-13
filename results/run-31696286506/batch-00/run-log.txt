@@ -1,0 +1,14 @@
+[+] Batch started: Thu Aug 13 11:38:29 UTC 2026
+[+] Run ID: 31696286506
+[+] Batch name: batch-00
+[+] Batch targets:
+allium.com
+allium.so
+allscale.io
+[+] Running subfinder...
+[+] Subfinder completed: Thu Aug 13 11:39:12 UTC 2026
+[+] HTTPX input count: 113
+[+] Running httpx...
+[+] httpx completed: Thu Aug 13 11:39:23 UTC 2026
+[+] httpx line count: 94
+[+] Batch completed: Thu Aug 13 11:39:23 UTC 2026
