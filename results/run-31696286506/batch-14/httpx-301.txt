@@ -1,0 +1,5 @@
+https://partners.truex.com [301] [https://partners.truex.com/s/] [0] [sfdcedge] [155.226.157.176] [653.545596ms]
+https://truex.com [301] [https://infillion.com/] [155] [301 Moved Permanently] [urllo] [13.248.160.137] [230.85255ms]
+https://www.truex.com [301] [https://infillion.com/] [155] [301 Moved Permanently] [urllo] [13.248.160.137] [345.036677ms]
+http://viacom.truex.com [301] [https://devaulascentrodemidiasp.educacao.sp.gov.br/slot123/] [0] [AmazonS3] [16.15.191.197] [111.425464ms] [Amazon S3,Amazon Web Services]
+http://unifi.truex.com [301] [https://unifi.truex.com:8443] [0] [lighttpd/1.4.35] [52.24.161.129] [103.826937ms] [lighttpd:1.4.35]
