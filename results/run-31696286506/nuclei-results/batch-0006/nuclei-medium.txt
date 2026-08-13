@@ -1,0 +1,4 @@
+[rails-debug-mode] [http] [medium] https://qa-api.truex.com/3HrNt4RBNno8Zwo6DKcQRFX4OQd
+[rails-debug-mode] [http] [medium] https://qa-ee.truex.com/3HrNt4RBNno8Zwo6DKcQRFX4OQd
+[rails-debug-mode] [http] [medium] https://qa-facelift.truex.com/3HrNt4RBNno8Zwo6DKcQRFX4OQd
+[rails-debug-mode] [http] [medium] https://qa-facelift-tf.truex.com/3HrNt4RBNno8Zwo6DKcQRFX4OQd

