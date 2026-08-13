@@ -1,0 +1,4 @@
+https://clicks.yellowcard.io [404] [] [1088] [404 Not Found] [cloudflare] [104.18.5.247] [cloudflare] [189.006594ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://sso-sandbox.portal.yellowcard.io [404] [] [0] [awselb/2.0] [18.238.109.127] [cloudfront] [227.029702ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://sso.portal.yellowcard.io [404] [] [0] [awselb/2.0] [216.137.39.71] [cloudfront] [525.441452ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://url4894.yellowcard.io [404] [] [1084] [404 Not Found] [cloudflare] [104.18.5.247] [cloudflare] [208.508975ms] [Cloudflare,Cloudflare Bot Management,HSTS]
