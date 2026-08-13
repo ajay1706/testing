@@ -1,0 +1,45 @@
+# HTTPX Status Report
+
+Generated at: Thu Aug 13 11:44:36 UTC 2026
+
+HTTPX lines: 16
+Live URLs: 16
+
+## 200
+https://wildcard.thea.network [200] [] [1963] [Coming Soon] [Apache] [208.109.75.99] [303.713414ms] [Apache HTTP Server]
+https://com.thea.network [200] [] [1963] [Coming Soon] [Apache] [208.109.75.99] [333.307123ms] [Apache HTTP Server]
+https://thea.ai [200] [] [121969] [Thea | Thea] [] [54.170.198.119] [806.19251ms] [Next.js,Node.js,React,Webpack]
+https://about.thea.network [200] [] [29558] [Home - THEA] [Apache] [208.109.75.99] [1.198149498s] [Apache HTTP Server,Enquire.js,Google Hosted Libraries,Google Tag Manager,Modernizr,MySQL,PHP:7.3.33,Slick,WordPress,Yoast SEO:5.5.1,jQuery:3.3.1]
+https://www.thea.network [200] [] [102414] [THEA] [Apache] [34.204.145.203] [1.085005637s] [Amazon ALB,Amazon Web Services,Apache HTTP Server,Google Analytics,Moment.js,Slick,jQuery:3.3.1]
+https://labs.thea.ai [200] [] [497835] [Thea | Thea] [] [52.208.43.106] [874.416322ms] [Next.js,Node.js,React,Webpack]
+
+## 301
+https://thea.network [301] [https://www.viewerprime.com/] [236] [301 Moved Permanently] [Apache] [107.23.90.32] [78.268734ms] [Apache HTTP Server]
+https://theanetwork.com.thea.network [301] [http://thea.network/404] [271] [301 Moved Permanently] [Apache] [208.109.75.99] [292.633621ms] [Apache HTTP Server]
+https://www.theanetwork.com.thea.network [301] [http://thea.network/404] [271] [301 Moved Permanently] [Apache] [208.109.75.99] [448.007372ms] [Apache HTTP Server]
+https://www.about.thea.network [301] [http://about.thea.network/] [274] [301 Moved Permanently] [Apache] [208.109.75.99] [653.836253ms] [Apache HTTP Server]
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://www.hq2.thea.network [403] [] [13] [Apache] [208.109.75.99] [289.933317ms] [Apache HTTP Server]
+https://beta.thea.network [403] [] [13] [Apache] [208.109.75.99] [306.624269ms] [Apache HTTP Server]
+https://www.hq2autologin.thea.network [403] [] [13] [Apache] [208.109.75.99] [309.925748ms] [Apache HTTP Server]
+https://hq2.thea.network [403] [] [13] [Apache] [208.109.75.99] [344.545465ms] [Apache HTTP Server]
+https://hq2autologin.thea.network [403] [] [13] [Apache] [208.109.75.99] [351.439425ms] [Apache HTTP Server]
+https://www.beta.thea.network [403] [] [13] [Apache] [208.109.75.99] [407.218535ms] [Apache HTTP Server]
+
+## 404
+
+## 500
+
+## 502
+
+## 503
+
