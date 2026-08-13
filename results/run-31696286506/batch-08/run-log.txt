@@ -1,0 +1,14 @@
+[+] Batch started: Thu Aug 13 11:41:12 UTC 2026
+[+] Run ID: 31696286506
+[+] Batch name: batch-08
+[+] Batch targets:
+neura.ai
+nova.markets
+onyxodds.com
+[+] Running subfinder...
+[+] Subfinder completed: Thu Aug 13 11:41:45 UTC 2026
+[+] HTTPX input count: 22
+[+] Running httpx...
+[+] httpx completed: Thu Aug 13 11:41:51 UTC 2026
+[+] httpx line count: 14
+[+] Batch completed: Thu Aug 13 11:41:51 UTC 2026
