@@ -1,0 +1,71 @@
+# HTTPX Status Report
+
+Generated at: Thu Aug 13 11:45:30 UTC 2026
+
+HTTPX lines: 47
+Live URLs: 47
+
+## 200
+https://clerk.venice.ai [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [179.973061ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://diem-calculator.venice.ai [200] [] [1696] [Diem ⇆ sVVV Mint Rate Curve] [cloudflare] [104.18.28.226] [cloudflare] [295.407276ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Vercel]
+https://clerk.outerface.venice.ai [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [319.063891ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://learn.venice.ai [200] [] [44739] [Learn Venice] [cloudflare] [104.18.29.226] [cloudflare] [316.712877ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Vercel]
+https://cdn.venice.ai [200] [] [194729] [Venice | Private AI for Unlimited Creative Freedom] [cloudflare] [104.18.28.226] [cloudflare] [423.585187ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Vercel,dc.js]
+https://mta-sts.venice.ai [200] [] [196020] [Venice | Private AI for Unlimited Creative Freedom] [cloudflare] [104.18.28.226] [cloudflare] [413.930455ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Vercel,dc.js]
+https://postman.venice.ai [200] [] [40112] [Venice.ai API Postman Documentation] [cloudflare] [54.197.125.254] [450.407565ms] [Cloudflare,Cloudflare Bot Management,HSTS,Postman API Documentation]
+https://venice.ai [200] [] [196020] [Venice | Private AI for Unlimited Creative Freedom] [cloudflare] [104.18.29.226] [cloudflare] [156.300147ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Vercel,dc.js]
+https://featurebase.venice.ai [200] [] [463346] [Feature Requests - Venice.ai] [cloudflare] [104.18.28.226] [cloudflare] [1.116782416s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://preview.venice.ai [200] [] [196020] [Venice | Private AI for Unlimited Creative Freedom] [cloudflare] [104.18.28.226] [cloudflare] [1.35553579s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Vercel,dc.js]
+
+## 301
+https://comingsoon.yeet.com [301] [https://yeet.com/] [0] [AmazonS3] [52.222.205.104] [cloudfront] [237.882517ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://chat.venice.ai [301] [https://venice.ai/] [15] [cloudflare] [104.18.28.226] [cloudflare] [313.037354ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://www.yeet.com [301] [https://yeet.com/] [0] [CloudFront] [52.84.199.75] [cloudfront] [283.63361ms] [Amazon CloudFront,Amazon Web Services]
+
+## 302
+https://btcpay.venice.ai [302] [https://btcpay.venice.ai/login?ReturnUrl=%2F] [0] [cloudflare] [104.18.29.226] [cloudflare] [171.293118ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://interface-emyr9tomd.staging.venice.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Finterface-emyr9tomd.staging.venice.ai%2F&nonce=4c4c6813f4353e8e1440ce33488359480aeaa1ef0e136fc5635d599a5dadf96a] [15] [Vercel] [76.76.21.93] [186.043153ms] [HSTS,Vercel]
+https://help.yeet.com [302] [https://help.yeet.com/en/] [0] [nginx] [52.84.199.110] [cloudfront] [243.352824ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://pla-events-fs.yeet.com [302] [https://www.eu1.fullstory.com] [52] [] [34.8.116.253] [google] [721.629529ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://tidewatch.venice.ai [302] [https://veniceai.cloudflareaccess.com/cdn-cgi/access/login/tidewatch.venice.ai?kid=cf0cd7c90c9cfe6098c858161207cab31525fac601cb3e9cde280a9e2c5716a0&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjU0ZWVkNTRiMmFlODUyMTllYzNkODRkZjE2NWI4MGUyYzUwY2FiNWIxMzQzYTFhNzc4MDczYzRkMzAyNjdhZTIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImNmMGNkN2M5MGM5Y2ZlNjA5OGM4NTgxNjEyMDdjYWIzMTUyNWZhYzYwMWNiM2U5Y2RlMjgwYTllMmM1NzE2YTAiLCJob3N0bmFtZSI6InRpZGV3YXRjaC52ZW5pY2UuYWkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc4NjYyMTgxMSwibmJmIjoxNzg2NjIxNTExLCJpYXQiOjE3ODY2MjE1MTEsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJlM2ExZTNmZjk0N2E5Nzc0NDYyNDQ2YTQ2ZDkxZjEzMGQwMzFhM2Q1YWE1ZDBkZDQ4NDY3YTg1ODBiY2M5MDllIn0.ylIm_loI0EZCJn-4NPN2g1YCzSgCxGMVDWSKiuqmIukJI5K-vjV85ZMAZcdYqrjswujT961FiY5zayhKrsNUlAaw3q_6TRVIh6R_HtDb8JXafhKDisxXZtWeehu8bJg5zN7kLtNF27BLBzrX_IW5q3ZVTqu2_w-PvTxu71gxumZ88_fnCYuvd2bhG8PW69Qb-YgAuJaKAZPKYh2dyB7tQ7dJHwTfs7FvG4rKTc6PZv9OcsDj6rQ_Uj83H5tlQKA0CnFgVO6WnnBLn56eeOhyprVb8jwGd4v3UoJ3bNZpXy_gCSISqGrXMxuxZf8zZPLV6wpMunh1mt88q12iNCbp_A&redirect_url=%2F] [496] [302 Found] [cloudflare] [104.18.29.226] [cloudflare] [180.765346ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://support.venice.ai [302] [https://support.venice.ai/hc] [0] [cloudflare] [216.198.54.6] [303.13976ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://yeet.com [302] [https://yeet.com/restricted/index.html] [0] [CloudFront] [3.161.225.66] [cloudfront] [193.446676ms] [Amazon CloudFront,Amazon Web Services]
+
+## 307
+
+## 308
+https://api.venice.ai [308] [https://docs.venice.ai] [57] [cloudflare] [104.18.29.226] [cloudflare] [161.561701ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://diem-calculator.staging.venice.ai [308] [https://diem-calculator.venice.ai/] [15] [Vercel] [66.33.60.35] [271.368451ms] [HSTS,Vercel]
+https://basehub.venice.ai [308] [https://venice.ai/] [15] [cloudflare] [104.18.28.226] [cloudflare] [310.57397ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://interface-prod-test.venice.ai [308] [https://interface-prod-test.venice.ai/chat] [42] [cloudflare] [104.18.29.226] [cloudflare] [226.426172ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://docs.venice.ai [308] [/overview/about-venice] [101036] [cloudflare] [104.18.28.226] [cloudflare] [425.558387ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Vercel]
+https://outerface.venice.ai [308] [https://docs.venice.ai] [57] [cloudflare] [104.18.28.226] [cloudflare] [222.626309ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud Trace,HSTS]
+https://staging.venice.ai [308] [https://venice.ai/] [15] [Vercel] [64.239.109.65] [174.154288ms] [HSTS,Vercel]
+https://www.venice.ai [308] [https://venice.ai/] [15] [cloudflare] [104.18.28.226] [cloudflare] [495.723065ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+
+## 401
+
+## 403
+https://api.yeet.com [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [18.161.170.98] [cloudfront] [127.638973ms] [Amazon CloudFront,Amazon Web Services]
+https://cdn.yeet.com [403] [] [111] [AmazonS3] [52.222.205.62] [cloudfront] [385.038566ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://analytics.yeet.com [403] [] [0] [awselb/2.0] [54.75.254.220] [547.507255ms] [Amazon ELB,Amazon Web Services]
+https://reactor.dev.yeet.com [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [3.168.24.83] [cloudfront] [173.90681ms] [Amazon CloudFront,Amazon Web Services]
+https://reactor.stg.yeet.com [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [108.156.224.52] [cloudfront] [225.560623ms] [Amazon CloudFront,Amazon Web Services]
+https://stg-analytics.yeet.com [403] [] [0] [awselb/2.0] [52.215.208.121] [561.593119ms] [Amazon ELB,Amazon Web Services]
+
+## 404
+https://email.venice.ai [404] [] [0] [cloudflare] [104.18.29.226] [cloudflare] [160.970064ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud CDN,HSTS]
+https://link.yeet.com [404] [] [548] [404 Not Found] [nginx] [18.245.124.113] [cloudfront] [431.108831ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://safe-backup-executor.agnt.venice.ai [404] [] [21] [cloudflare] [104.18.29.226] [cloudflare] [181.270207ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://t.venice.ai [404] [] [105] [cloudflare] [104.18.29.226] [cloudflare] [149.30174ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 500
+
+## 502
+
+## 503
+https://catalyst.dev.yeet.com [503] [] [14] [CloudFront] [108.156.245.47] [cloudfront] [126.358818ms] [Amazon CloudFront,Amazon Web Services]
+https://catalyst.stg.yeet.com [503] [] [14] [CloudFront] [18.161.134.7] [cloudfront] [163.470489ms] [Amazon CloudFront,Amazon Web Services]
+https://catalyst.yeet.com [503] [] [14] [CloudFront] [18.161.170.117] [cloudfront] [213.661697ms] [Amazon CloudFront,Amazon Web Services]
+https://reactor.yeet.com [503] [] [1137] [Coming Soon] [CloudFront] [13.225.61.60] [cloudfront] [243.199939ms] [Amazon CloudFront,Amazon Web Services]
+
