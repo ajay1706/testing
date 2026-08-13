@@ -1,0 +1,2 @@
+https://api.megapot.io [302] [/v1/docs] [0] [Vercel] [216.150.16.193] [131.131466ms] [HSTS,Vercel]
+https://api-testnet.megapot.io [302] [/v1/docs] [0] [Vercel] [216.150.1.193] [136.219255ms] [HSTS,Vercel]
