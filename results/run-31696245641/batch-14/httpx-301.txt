@@ -1,0 +1,6 @@
+https://app.testnet.variational.io [301] [https://omni.testnet.variational.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.115] [cloudflare] [28.583862ms] [Cloudflare,HSTS,HTTP/3]
+https://velocity.xyz [301] [https://www.velocity.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [139.381721ms] [Cloudflare,HSTS,HTTP/3]
+http://mon.testnet.variational.io [301] [https://mon.testnet.variational.io/] [520] [301 Moved Permanently] [cloudflare] [104.18.22.115] [cloudflare] [10.265479ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+http://backend-omni.variational.io [301] [https://backend-omni.variational.io/] [520] [301 Moved Permanently] [cloudflare] [104.18.22.115] [cloudflare] [9.677132ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+http://mon.variational.io [301] [https://mon.variational.io/] [520] [301 Moved Permanently] [cloudflare] [104.18.23.115] [cloudflare] [17.145891ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+http://ws.backend-omni.testnet.variational.io [301] [https://ws.backend-omni.testnet.variational.io/] [520] [301 Moved Permanently] [cloudflare] [104.18.23.115] [cloudflare] [10.195526ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
