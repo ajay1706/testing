@@ -1,0 +1,14 @@
+[+] Batch started: Thu Aug 13 11:45:40 UTC 2026
+[+] Run ID: 31696286506
+[+] Batch name: batch-15
+[+] Batch targets:
+untolabs.com
+vanta.exchange
+xeffy.io
+[+] Running subfinder...
+[+] Subfinder completed: Thu Aug 13 11:46:29 UTC 2026
+[+] HTTPX input count: 25
+[+] Running httpx...
+[+] httpx completed: Thu Aug 13 11:46:50 UTC 2026
+[+] httpx line count: 18
+[+] Batch completed: Thu Aug 13 11:46:50 UTC 2026

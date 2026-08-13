@@ -1,0 +1,2 @@
+https://api.xeffy.io [404] [] [79] [Vercel] [64.29.17.65] [403.002169ms] [HSTS,Vercel]
+https://api.go.xeffy.io [404] [] [13] [cloudflare] [162.159.140.98] [cloudflare] [1.53026523s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
