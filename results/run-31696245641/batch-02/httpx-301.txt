@@ -1,0 +1,5 @@
+https://energy.cudis.xyz [301] [https://app.cudis.xyz/] [0] [CloudFront] [65.8.180.35] [cloudfront] [45.285494ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://300.cudis.xyz [301] [https://www.cudis.xyz] [0] [CloudFront] [108.138.246.70] [cloudfront] [113.364486ms] [Amazon CloudFront,Amazon Web Services]
+https://shop.cudis.xyz [301] [https://www.cudis.xyz] [0] [CloudFront] [108.138.246.18] [cloudfront] [110.55182ms] [Amazon CloudFront,Amazon Web Services]
+https://cudis.xyz [301] [https://www.cudis.xyz/] [0] [cloudflare] [23.227.38.65] [160.446963ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://www.conduitpay.com [301] [https://conduitpay.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [203.960731ms] [Cloudflare,HSTS,HTTP/3]

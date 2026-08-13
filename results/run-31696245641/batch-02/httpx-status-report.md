@@ -1,0 +1,53 @@
+# HTTPX Status Report
+
+Generated at: Thu Aug 13 11:38:46 UTC 2026
+
+HTTPX lines: 24
+Live URLs: 24
+
+## 200
+https://cudis-data.cudis.xyz [200] [] [3404] [Cudis Data Platform] [nginx/1.22.0] [18.244.214.76] [cloudfront] [169.082532ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Nginx:1.22.0]
+https://app.cudis.xyz [200] [] [5353] [CUDIS | AI Smart Ring for Wellness and Rewards] [AmazonS3] [65.8.180.35] [cloudfront] [146.252919ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Cloudflare,Google Analytics,Google Tag Manager,HSTS,HTTP/3,cdnjs]
+https://cudis-web-dev.cudis.xyz [200] [] [12040] [CUDIS-The World’s first rewarding Longevity protocol.] [CloudFront] [18.244.214.89] [cloudfront] [198.997208ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://data-dev.cudis.xyz [200] [] [12040] [CUDIS-The World’s first rewarding Longevity protocol.] [CloudFront] [18.244.214.89] [cloudfront] [189.635618ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://cudis-web.cudis.xyz [200] [] [12040] [CUDIS-The World’s first rewarding Longevity protocol.] [CloudFront] [18.244.214.77] [cloudfront] [190.130399ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://data.cudis.xyz [200] [] [12040] [CUDIS-The World’s first rewarding Longevity protocol.] [CloudFront] [65.8.180.33] [cloudfront] [268.81657ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://trust.conduitpay.com [200] [] [6944] [Conduit Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [440.374442ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://support.conduitpay.com [200] [] [30033] [Conduit Support | Help Center for Payments, Account Setup & Compliance] [cloudflare] [198.202.211.1] [79.869535ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,jQuery:3.5.1,jsDelivr]
+https://affiliate.cudis.xyz [200] [] [60619] [CUDIS Affiliate program] [nginx/1.28.0] [76.223.38.176] [191.573957ms] [Nginx:1.28.0]
+https://conduitpay.com [200] [] [95813] [Conduit | Anydollar. Anytime. Anywhere.] [cloudflare] [198.202.211.1] [70.784318ms] [Cloudflare,Google Analytics,Google Tag Manager,HSTS,HTTP/3,jQuery:3.5.1,jsDelivr]
+https://whitepaper.cudis.xyz [200] [] [317388] [CUDIS: A Rewarding Longevity Protocol | CUDIS Whitepaper] [cloudflare] [65.8.54.95] [cloudfront] [353.219985ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,GitBook,HSTS,Vercel]
+https://vercel.cudis.xyz [200] [] [55872] [Cudis 360] [] [3.168.86.80] [cloudfront] [1.741734249s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.cudis.xyz [200] [] [420189] [AI Smart Ring Without Subscription for Sleep Tracking, HRV & Recovery – CUDIS] [cloudflare] [23.227.38.74] [383.250678ms] [Cloudflare,HSTS,HTTP/3,Klaviyo,Shopify,YouTube]
+
+## 301
+https://energy.cudis.xyz [301] [https://app.cudis.xyz/] [0] [CloudFront] [65.8.180.35] [cloudfront] [45.285494ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://300.cudis.xyz [301] [https://www.cudis.xyz] [0] [CloudFront] [108.138.246.70] [cloudfront] [113.364486ms] [Amazon CloudFront,Amazon Web Services]
+https://shop.cudis.xyz [301] [https://www.cudis.xyz] [0] [CloudFront] [108.138.246.18] [cloudfront] [110.55182ms] [Amazon CloudFront,Amazon Web Services]
+https://cudis.xyz [301] [https://www.cudis.xyz/] [0] [cloudflare] [23.227.38.65] [160.446963ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://www.conduitpay.com [301] [https://conduitpay.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [203.960731ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://account.cudis.xyz [302] [https://account.cudis.xyz/authentication/oauth/authorize?client_id=4e33001b-156e-4044-bc1c-ee573d3052f1&locale=en-US&nonce=3b6e9d77-c06b-4996-ae89-1ea67b5a3e95&redirect_uri=https%3A%2F%2Faccount.cudis.xyz%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNFbcr50t27YfSW5Q1fYTLO] [0] [cloudflare] [23.227.38.74] [352.912143ms] [Cloudflare,HSTS,HTTP/3]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://static.cudis.xyz [403] [] [243] [AmazonS3] [13.249.74.108] [cloudfront] [298.916984ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+
+## 404
+https://apps.cudis.xyz [404] [] [0] [awselb/2.0] [65.8.180.33] [cloudfront] [180.616689ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services,HTTP/3]
+https://cudis-agent-dev.cudis.xyz [404] [] [431] [HTTP Status 404 – Not Found] [] [18.244.214.61] [cloudfront] [199.533175ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://cudis-agent.cudis.xyz [404] [] [431] [HTTP Status 404 – Not Found] [] [65.8.180.94] [cloudfront] [190.864776ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 500
+
+## 502
+https://developer.cudis.xyz [502] [] [932] [ERROR: The request could not be satisfied] [] [13.249.74.124] [cloudfront] [69.59374ms] [Amazon CloudFront,Amazon Web Services]
+
+## 503
+
