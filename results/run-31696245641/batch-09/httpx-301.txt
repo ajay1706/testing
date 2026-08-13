@@ -1,0 +1,5 @@
+https://app.popdex.xyz [301] [https://app.popdex.xyz/trade] [169] [301 Moved Permanently] [cloudflare] [104.18.20.177] [cloudflare] [379.545298ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://pinai.io [301] [https://www.pinai.com/] [0] [Pepyaka] [185.230.63.171] [188.792603ms] [HSTS,React,Wix]
+https://testnet-app.popdex.xyz [301] [https://testnet-app.popdex.xyz/trade] [169] [301 Moved Permanently] [cloudflare] [104.18.20.177] [cloudflare] [189.588567ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.perpl.xyz [301] [https://perpl.xyz/] [520] [301 Moved Permanently] [cloudflare] [172.66.149.49] [cloudflare] [112.221611ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://www.pinai.io [301] [https://www.pinai.com/] [0] [Pepyaka] [199.15.163.138] [360.328448ms] [HSTS,React,Wix]

@@ -1,0 +1,6 @@
+https://en.pinai.io [404] [] [2517] [ConnectYourDomain Error | Wix.com] [Pepyaka] [199.15.163.128] [254.316961ms] [React,Wix]
+https://api.popdex.xyz [404] [] [15] [cloudflare] [104.18.21.177] [cloudflare] [384.841835ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://testnet-api.popdex.xyz [404] [] [15] [cloudflare] [104.18.21.177] [cloudflare] [392.048856ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://testnet-ws.popdex.xyz [404] [] [15] [cloudflare] [104.18.21.177] [cloudflare] [405.383621ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ws.popdex.xyz [404] [] [15] [cloudflare] [104.18.20.177] [cloudflare] [415.150758ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://public-assets-r2.perpl.xyz [404] [] [27503] [Not Found] [cloudflare] [172.66.149.49] [cloudflare] [310.31393ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
