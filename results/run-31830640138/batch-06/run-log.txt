@@ -1,0 +1,14 @@
+[+] Batch started: Fri Aug 14 18:56:24 UTC 2026
+[+] Run ID: 31830640138
+[+] Batch name: batch-06
+[+] Batch targets:
+ledger.com
+mellow.finance
+meta.com
+[+] Running subfinder...
+[+] Subfinder completed: Fri Aug 14 18:56:56 UTC 2026
+[+] HTTPX input count: 702
+[+] Running httpx...
+[+] httpx completed: Fri Aug 14 18:58:26 UTC 2026
+[+] httpx line count: 233
+[+] Batch completed: Fri Aug 14 18:58:26 UTC 2026
