@@ -1,0 +1,119 @@
+# HTTPX Status Report
+
+Generated at: Fri Aug 14 18:55:48 UTC 2026
+
+HTTPX lines: 91
+Live URLs: 91
+
+## 200
+https://explorer.marinade.finance [200] [] [4756] [Transaction Cost Explorer — Marinade] [cloudflare] [172.67.69.36] [cloudflare] [282.847658ms] [Cloudflare,HSTS]
+https://api.primuslabs.xyz [200] [] [53] [nginx/1.24.0 (Ubuntu)] [104.198.123.19] [google] [525.328928ms] [Nginx:1.24.0,Ubuntu]
+https://api-dev.primuslabs.xyz [200] [] [53] [nginx/1.24.0 (Ubuntu)] [34.84.80.178] [google] [525.756921ms] [Nginx:1.24.0,Ubuntu]
+https://app.primuslabs.xyz [200] [] [2215] [Primus] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [550.873232ms] [Nginx:1.24.0,Ubuntu]
+https://dev.primuslabs.xyz [200] [] [2478] [Primus Developer Hub] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [500.076737ms] [Nginx:1.24.0,Ubuntu]
+https://demo.primuslabs.xyz [200] [] [2214] [Primus] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [609.816915ms] [Nginx:1.24.0,Ubuntu]
+https://fhe.primuslabs.xyz [200] [] [3035] [Aegis] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [579.082223ms] [Docusaurus:3.6.2,Nginx:1.24.0,React,Ubuntu,Webpack]
+https://fhetransform.alphatrion.bnbmainnet.primuslabs.xyz [200] [] [612] [Welcome to nginx!] [nginx/1.18.0 (Ubuntu)] [136.110.51.60] [google] [667.314797ms] [Nginx:1.18.0,Ubuntu]
+http://fhetransform.alphatrion.primuslabs.xyz [200] [] [612] [Welcome to nginx!] [nginx/1.18.0 (Ubuntu)] [35.187.229.126] [google] [486.787745ms] [Nginx:1.18.0,Ubuntu]
+https://docs-beta.marinade.finance [200] [] [55994] [Marinade Documentation] [cloudflare] [104.26.6.52] [cloudflare] [332.784254ms] [Cloudflare,HSTS,MkDocs:1.6.1,Python]
+https://docs.primuslabs.xyz [200] [] [27732] [What is Primus | primus] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [526.946585ms] [Docusaurus:2.4.0,Nginx:1.24.0,React,Ubuntu,Webpack]
+https://fhe101.primuslabs.xyz [200] [] [22073] [欢迎来到 FHE101 | FHE101] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [558.941622ms] [Docusaurus:3.10.1,Nginx:1.24.0,React,Ubuntu,Webpack]
+https://ctransfer.primuslabs.xyz [200] [] [20481] [Confidential Transfer] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [590.066159ms] [Next.js,Nginx:1.24.0,Node.js,React,Ubuntu,Webpack]
+https://fhetransform.primuslabs.xyz [200] [] [25661] [FHETransform] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [550.089712ms] [Docusaurus:3.10.1,Nginx:1.24.0,React,Ubuntu,Webpack]
+https://hook.primuslabs.xyz [200] [] [2457] [Primus] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [716.764556ms] [Nginx:1.24.0,Ubuntu]
+https://hk-derper-tailscale.corp.galxe.com [200] [] [586] [] [35.220.143.62] [google] [935.788304ms] [HSTS]
+https://libra.galxe.com [200] [] [1740] [libra.galxe.com] [GitHub.com] [185.199.108.153] [485.943134ms] [Cloudflare,Fastly,GitHub Pages,Jekyll:3.9.3,Ruby,Varnish,cdnjs]
+https://ctransfer-test.primuslabs.xyz [200] [] [23928] [Confidential Transfer] [nginx/1.24.0 (Ubuntu)] [34.84.80.178] [google] [546.123725ms] [Next.js,Nginx:1.24.0,Node.js,React,Ubuntu,Webpack]
+https://dev.marinade.finance [200] [] [72627] [Manage Your Solana Staking Effortlessly] [cloudflare] [104.26.6.52] [cloudflare] [218.293259ms] [Cloudflare,HSTS]
+https://app.marinade.finance [200] [] [72627] [Manage Your Solana Staking Effortlessly] [cloudflare] [172.67.69.36] [cloudflare] [243.275921ms] [Cloudflare,HSTS]
+https://luckydraw.primuslabs.xyz [200] [] [2043] [Primus] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [682.909408ms] [Nginx:1.24.0,Ubuntu]
+https://playground.marinade.finance [200] [] [353] [Marinade - Delegation Strategy - Playground] [cloudflare] [104.26.6.52] [cloudflare] [207.10933ms] [Cloudflare,HSTS]
+https://mail-action.galxe.com [200] [] [4163] [cloudflare] [172.67.183.138] [cloudflare] [643.414503ms] [Cloudflare,HSTS,HTTP/3]
+https://psr.marinade.finance [200] [] [758] [Marinade - PSR Dashboard] [cloudflare] [104.26.7.52] [cloudflare] [241.522344ms] [Cloudflare,HSTS]
+https://pancakeswap-hook.primuslabs.xyz [200] [] [2457] [Primus] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [566.409319ms] [Nginx:1.24.0,Ubuntu]
+https://idtp-crafter.stg.galxe.com [200] [] [21] [Google Frontend] [34.111.233.196] [google] [1.517914058s] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://porconsole.primuslabs.xyz [200] [] [905] [PoR Admin Console frontend] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [575.617348ms] [Nginx:1.24.0,Ubuntu]
+https://select.marinade.finance [200] [] [414] [Select Dashboard / Marinade] [cloudflare] [104.26.7.52] [cloudflare] [323.697471ms] [Cloudflare,HSTS]
+https://pay.primuslabs.xyz [200] [] [3054] [Primus] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [596.257991ms] [Nginx:1.24.0,Ubuntu]
+https://primuslabs.xyz [200] [] [2232] [Primus] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [670.488468ms] [Google Analytics,Nginx:1.24.0,Ubuntu]
+https://ssa-demo.primuslabs.xyz [200] [] [454] [Demo] [nginx/1.24.0 (Ubuntu)] [34.84.80.178] [google] [630.483682ms] [Nginx:1.24.0,Ubuntu]
+https://shop.galxe.com [200] [] [2697] [Galxe Shop - Shop Online and Earn Cashback in $G] [Vercel] [216.198.79.1] [649.745462ms] [Google Analytics,HSTS,Vercel]
+https://sg-derper-tailscale.corp.galxe.com [200] [] [586] [] [35.198.207.150] [google] [799.889964ms] [HSTS]
+https://test-luckydraw.primuslabs.xyz [200] [] [2043] [Primus] [nginx/1.24.0 (Ubuntu)] [34.84.80.178] [google] [678.623981ms] [Nginx:1.24.0,Ubuntu]
+https://dashboard.galxe.com [200] [] [61272] [Galxe - Your Web3 Growth Engine] [istio-envoy] [34.149.3.84] [google] [230.402736ms] [Envoy,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://test-pancakeswap-hook.primuslabs.xyz [200] [] [2457] [Primus] [nginx/1.24.0 (Ubuntu)] [34.84.80.178] [google] [577.020879ms] [Nginx:1.24.0,Ubuntu]
+https://tokyo-derper-tailscale.corp.galxe.com [200] [] [586] [] [34.85.13.57] [google] [596.045067ms] [HSTS]
+https://dashboard.beta.galxe.com [200] [] [61349] [Galxe - Your Web3 Growth Engine] [istio-envoy] [34.36.174.15] [google] [368.025208ms] [Envoy,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://v2e-test.primuslabs.xyz [200] [] [1232] [primus] [nginx/1.24.0 (Ubuntu)] [34.84.80.178] [google] [591.224271ms] [Amazon S3,Amazon Web Services,Nginx:1.24.0,Ubuntu]
+https://validators-api.marinade.finance [200] [] [31] [cloudflare] [172.67.69.36] [cloudflare] [672.78372ms] [Cloudflare,HSTS]
+https://stats.marinade.finance [200] [] [63499] [Grafana] [cloudflare] [172.67.69.36] [cloudflare] [948.794513ms] [Cloudflare,HSTS]
+https://www.primuslabs.xyz [200] [] [2232] [Primus] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [615.637893ms] [Google Analytics,Nginx:1.24.0,Ubuntu]
+https://forum.marinade.finance [200] [] [253312] [Marinade - bringing security and capital efficiency to Solana] [cloudflare] [104.26.6.52] [cloudflare] [1.043236077s] [Cloudflare,Discourse:2026.4.0,HSTS,Ruby on Rails]
+https://docs.marinade.finance [200] [] [406540] [Welcome to Marinade | Marinade Documentation] [cloudflare] [104.26.7.52] [cloudflare] [186.326025ms] [Cloudflare,GitBook,HSTS,Vercel]
+https://v2dashboard.stg.galxe.com [200] [] [61280] [Galxe - Your Web3 Growth Engine] [istio-envoy] [34.95.112.59] [google] [422.652096ms] [Envoy,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://marinade.finance [200] [] [529328] [Marinade: Native & Liquid Solana Staking for Leading Rewards] [cloudflare] [198.202.211.1] [269.863668ms] [Chart.js:4.4.1,Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,jQuery:3.5.1,jsDelivr]
+https://app.galxe.com [200] [] [544206] [Galxe - Your Web3 Growth Engine] [istio-envoy] [34.149.3.84] [google] [1.117156477s] [Envoy,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://app.beta.galxe.com [200] [] [544414] [Galxe - Your Web3 Growth Engine] [istio-envoy] [34.36.174.15] [google] [2.613658817s] [Envoy,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://www.galxe.com [200] [] [774756] [Galxe - Your Web3 Growth Engine] [Framer/57d0062] [31.43.160.6] [389.624552ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React]
+https://app.stg.galxe.com [200] [] [377927] [Galxe - Your Web3 Growth Engine] [istio-envoy] [34.95.112.59] [google] [9.091552677s] [Envoy,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+
+## 301
+https://dao-forum.galxe.com [301] [http://forum.gravity.xyz/] [0] [istio-envoy] [34.149.3.84] [google] [131.560976ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://beta.galxe.com [301] [https://www.galxe.com/] [0] [istio-envoy] [34.36.174.15] [google] [282.102334ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://forum.galxe.com [301] [http://forum.gravity.xyz/] [0] [istio-envoy] [34.149.3.84] [google] [332.912958ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://galxe.com [301] [https://www.galxe.com/] [0] [istio-envoy] [34.149.3.84] [google] [345.485164ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://newsletter.galxe.com [301] [http://gal.xyz/newslettersignup/] [0] [AmazonS3] [52.85.129.102] [cloudfront] [237.017365ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://stg.galxe.com [301] [https://www.galxe.com/] [0] [istio-envoy] [34.95.112.59] [google] [359.301743ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://v2.app.galxe.com [301] [https://app.galxe.com/] [0] [istio-envoy] [34.149.3.84] [google] [458.18052ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://www.marinade.finance [301] [https://marinade.finance/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [319.840652ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://fund.primuslabs.xyz [302] [https://pay.primuslabs.xyz/?chain=monadtestnet] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [734.118937ms] [Nginx:1.24.0,Ubuntu]
+https://help.galxe.com [302] [https://help.galxe.com/en/] [0] [cloudflare] [172.64.150.18] [cloudflare] [710.498428ms] [Cloudflare,HSTS]
+https://help.marinade.finance [302] [https://help.marinade.finance/en/] [0] [cloudflare] [104.26.6.52] [cloudflare] [720.465166ms] [Cloudflare,HSTS]
+https://old.marinade.finance [302] [https://app.marinade.finance/msol-sol-lp/] [143] [302 Found] [cloudflare] [104.26.7.52] [cloudflare] [225.438414ms] [Cloudflare,HSTS]
+https://v2e.primuslabs.xyz [302] [https://primuslabs.xyz/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [572.311992ms] [Nginx:1.24.0,Ubuntu]
+
+## 307
+https://partner-docs.galxe.com [307] [https://www.papermark.com/] [15] [Vercel] [66.33.60.34] [499.05128ms] [HSTS,Vercel]
+https://por.primuslabs.xyz [307] [https://www.primuslabs.xyz/por] [30] [nginx/1.24.0 (Ubuntu)] [34.180.84.141] [google] [629.469941ms] [Nginx:1.24.0,Ubuntu]
+https://rm.galxe.com [307] [https://www.papermark.com/] [15] [Vercel] [66.33.60.34] [689.971735ms] [HSTS,Vercel]
+
+## 308
+https://docs.galxe.com [308] [/about/introduction] [91744] [Vercel] [76.76.21.98] [511.368026ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+
+## 401
+
+## 403
+https://blog.galxe.com [403] [] [5639] [Just a moment...] [cloudflare] [162.159.152.4] [cloudflare] [93.624535ms] [Cloudflare,HSTS,HTTP/3]
+https://cdn-2.galxe.com [403] [] [111] [BunnyCDN-LA1-1109] [169.150.249.163] [305.815056ms] [Amazon CloudFront,Amazon Web Services,Bunny]
+https://corp.prd.galxe.com [403] [] [134] [403] [] [35.244.168.80] [google] [306.510385ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://corp.stg.galxe.com [403] [] [134] [403] [] [34.117.167.49] [google] [362.526527ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://cdn.galxe.com [403] [] [243] [BunnyCDN-LA1-998] [143.244.49.183] [397.150349ms] [Amazon CloudFront,Amazon Web Services,Bunny]
+https://passport-persona-webhook.prd.galxe.com [403] [] [19] [istio-envoy] [34.149.3.84] [google] [268.320753ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://press.galxe.com [403] [] [19] [istio-envoy] [34.149.3.84] [google] [235.711797ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+
+## 404
+https://api.galxe.com [404] [] [0] [istio-envoy] [34.149.3.84] [google] [136.835497ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://appeco.galxe.com [404] [] [127] [UploadServer] [34.120.109.24] [google] [154.087105ms] [HTTP/3]
+https://api2.marinade.finance [404] [] [63] [cloudflare] [104.26.6.52] [cloudflare] [621.636877ms] [Cloudflare,HSTS]
+https://api.marinade.finance [404] [] [435] [404 Not Found] [cloudflare] [172.67.69.36] [cloudflare] [942.082647ms] [Cloudflare,HSTS]
+https://jazz-test.primuslabs.xyz [404] [] [0] [nginx/1.18.0 (Ubuntu)] [34.85.74.126] [google] [520.315472ms] [Nginx:1.18.0,Ubuntu]
+https://mnde-nft-api.mainnet-beta.marinade.finance [404] [] [36] [cloudflare] [172.67.69.36] [cloudflare] [651.201365ms] [Cloudflare,HSTS]
+https://native-staking.marinade.finance [404] [] [0] [cloudflare] [104.26.6.52] [cloudflare] [600.093463ms] [Cloudflare,HSTS]
+https://mnde-nft-api.devnet.marinade.finance [404] [] [36] [cloudflare] [104.26.6.52] [cloudflare] [824.13011ms] [Cloudflare,HSTS]
+https://sentry.corp.galxe.com [404] [] [18] [] [34.107.229.81] [google] [329.074693ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://public.marinade.finance [404] [] [27150] [Not Found] [cloudflare] [104.26.6.52] [cloudflare] [355.849179ms] [Cloudflare,HSTS]
+https://snapshots-api.marinade.finance [404] [] [63] [cloudflare] [172.67.69.36] [cloudflare] [641.092746ms] [Cloudflare,HSTS]
+https://contact.galxe.com [404] [] [183242] [Tally - Create Beautiful Forms for Free | Unlimited Forms & Submissions] [] [35.205.106.218] [google] [1.107383495s] [HSTS,Tally]
+https://webhook-receiver.prd.galxe.com [404] [] [0] [istio-envoy] [34.149.3.84] [google] [149.688496ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://twitter-static.galxe.com [404] [] [133] [UploadServer] [34.111.33.118] [google] [759.46016ms] [HTTP/3]
+
+## 500
+
+## 502
+https://api-por-data.primuslabs.xyz [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [35.200.54.64] [google] [362.133962ms] [Nginx:1.24.0,Ubuntu]
+https://prd.galxe.com [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [52.85.129.21] [cloudfront] [217.328711ms] [Amazon CloudFront,Amazon Web Services]
+
+## 503
+

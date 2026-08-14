@@ -1,0 +1,2 @@
+https://api-por-data.primuslabs.xyz [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [35.200.54.64] [google] [362.133962ms] [Nginx:1.24.0,Ubuntu]
+https://prd.galxe.com [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [52.85.129.21] [cloudfront] [217.328711ms] [Amazon CloudFront,Amazon Web Services]

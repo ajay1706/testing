@@ -1,0 +1,8 @@
+https://dao-forum.galxe.com [301] [http://forum.gravity.xyz/] [0] [istio-envoy] [34.149.3.84] [google] [131.560976ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://beta.galxe.com [301] [https://www.galxe.com/] [0] [istio-envoy] [34.36.174.15] [google] [282.102334ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://forum.galxe.com [301] [http://forum.gravity.xyz/] [0] [istio-envoy] [34.149.3.84] [google] [332.912958ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://galxe.com [301] [https://www.galxe.com/] [0] [istio-envoy] [34.149.3.84] [google] [345.485164ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://newsletter.galxe.com [301] [http://gal.xyz/newslettersignup/] [0] [AmazonS3] [52.85.129.102] [cloudfront] [237.017365ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://stg.galxe.com [301] [https://www.galxe.com/] [0] [istio-envoy] [34.95.112.59] [google] [359.301743ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://v2.app.galxe.com [301] [https://app.galxe.com/] [0] [istio-envoy] [34.149.3.84] [google] [458.18052ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://www.marinade.finance [301] [https://marinade.finance/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [319.840652ms] [Cloudflare,HSTS,HTTP/3]
