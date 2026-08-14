@@ -1,0 +1,2 @@
+http://chatapi2.akash.network [308] [https://chatapi2.akash.network/] [0] [Caddy] [184.105.162.180] [46.454513ms] [Caddy]
+http://homenode.akash.network [308] [https://homenode.akash.network] [1102] [308 Permanent Redirect] [cloudflare] [172.67.75.178] [cloudflare] [195.82762ms] [Cloudflare]
