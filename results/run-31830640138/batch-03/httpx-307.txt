@@ -1,0 +1,3 @@
+https://app.exponent.finance [307] [/en] [15] [Vercel] [216.150.16.193] [548.543117ms] [HSTS,Vercel]
+https://dawn.exponent.finance [307] [/en] [15] [Vercel] [216.150.1.1] [623.484985ms] [HSTS,Vercel]
+https://v2-launch.exponent.finance [307] [/en] [15] [Vercel] [216.150.1.1] [311.122508ms] [HSTS,Vercel]

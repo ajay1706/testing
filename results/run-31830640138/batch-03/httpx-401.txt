@@ -1,0 +1,2 @@
+https://cs-p9r.edgevana.com [401] [] [0] [nginx/1.18.0 (Ubuntu)] [3.235.208.59] [138.894409ms] [Nginx:1.18.0,Ubuntu]
+https://inventory.edgevana.com [401] [] [43] [nginx/1.18.0 (Ubuntu)] [18.232.206.12] [224.111279ms] [Nginx:1.18.0,Ubuntu]
