@@ -1,0 +1,38 @@
+# HTTPX Status Report
+
+Generated at: Fri Aug 14 19:04:40 UTC 2026
+
+HTTPX lines: 8
+Live URLs: 8
+
+## 200
+https://explorer.zeusnetwork.xyz [200] [] [22512] [ZeusScan | Bitcoin-Solana Interaction Explorer] [cloudflare] [104.21.39.207] [cloudflare] [294.978458ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://delegator.zeusnetwork.xyz [200] [] [43140] [Zeus Delegator | @$ZEUS Delegating & Cross-Chain Security for 1:1 pegged BTC on Solana] [cloudflare] [172.67.148.125] [cloudflare] [219.836565ms] [C3.js,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app.zeusnetwork.xyz [200] [] [38693] [Zeus - Earn with Bitcoin] [cloudflare] [104.21.39.207] [cloudflare] [260.847447ms] [Adobe Fonts,Cloudflare,Cloudflare Browser Insights,HTTP/3,Typekit,dc.js]
+https://www.zeusnetwork.xyz [200] [] [76065] [Zeus - Earn with Bitcoin] [cloudflare] [104.21.39.207] [cloudflare] [118.49576ms] [Astro:5.7.10,Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://zeusnetwork.xyz [200] [] [76065] [Zeus - Earn with Bitcoin] [cloudflare] [104.21.39.207] [cloudflare] [93.092892ms] [Astro:5.7.10,Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+
+## 301
+http://hq.zeusnetwork.xyz [301] [https://hq.zeusnetwork.xyz/] [169] [301 Moved Permanently] [nginx/1.29.5] [122.116.31.236] [273.971292ms] [Nginx:1.29.5]
+http://solana-rpc.zeusnetwork.xyz [301] [https://solana-rpc.zeusnetwork.xyz/] [169] [301 Moved Permanently] [nginx/1.29.5] [122.116.31.236] [273.654181ms] [Nginx:1.29.5]
+
+## 302
+https://docs.zeusnetwork.xyz [302] [https://zeus-network.gitbook.io/zeus-network] [502] [302 Found] [cloudflare] [104.21.39.207] [cloudflare] [60.357248ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+
+## 500
+
+## 502
+https://docs.zeusnetwork.xyz [302] [https://zeus-network.gitbook.io/zeus-network] [502] [302 Found] [cloudflare] [104.21.39.207] [cloudflare] [60.357248ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 503
+
