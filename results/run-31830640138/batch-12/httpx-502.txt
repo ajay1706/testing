@@ -1,0 +1,7 @@
+https://api.azure-stage01.sarvam.ai [502] [] [16] [cloudflare] [104.18.0.74] [cloudflare] [286.145903ms] [Cloudflare,HTTP/3]
+https://dashboard.azure-qa01.sarvam.ai [502] [] [16] [cloudflare] [104.18.1.74] [cloudflare] [1.132394396s] [Cloudflare,HTTP/3]
+https://l2geth-rpc-proxy.sepolia.aws.scroll.io [502] [] [157] [502 Bad Gateway] [] [52.36.196.185] [258.595988ms] [HSTS]
+https://sepolia-sequencer-proxy.scroll.io [502] [] [16] [cloudflare] [104.20.38.176] [cloudflare] [337.407983ms] [Cloudflare,HTTP/3]
+https://translation-studio-api.naavai.sarvam.ai [502] [] [585] [502 Bad Gateway] [] [150.171.110.209] [528.728441ms] [Azure,Azure Front Door]
+https://translation-studio-api.naavai.azure-qa01.sarvam.ai [502] [] [183] [502 Bad Gateway] [] [150.171.110.211] [1.453543563s] [Azure,Azure Front Door]
+https://translation-studio-api.naavai.azure-stage01.sarvam.ai [502] [] [183] [502 Bad Gateway] [] [150.171.110.210] [1.477031958s] [Azure,Azure Front Door]
