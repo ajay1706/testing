@@ -1,0 +1,4 @@
+https://grafana.switchboard.xyz [302] [/login] [29] [] [35.204.12.204] [google] [330.761623ms] [HSTS]
+https://teleport.infra.switchboard.xyz [302] [/web] [27] [] [104.196.134.42] [google] [118.743076ms] [HSTS]
+https://uptime.infra.switchboard.xyz [302] [/dashboard] [32] [] [34.23.241.184] [google] [223.392509ms] [HSTS]
+http://discord.switchboard.xyz [302] [https://discord.com/invite/switchboardxyz] [64] [namecheap-nginx] [192.64.119.75] [112.704544ms] [Nginx]

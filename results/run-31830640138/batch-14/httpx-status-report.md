@@ -1,0 +1,133 @@
+# HTTPX Status Report
+
+Generated at: Fri Aug 14 19:04:09 UTC 2026
+
+HTTPX lines: 105
+Live URLs: 105
+
+## 200
+https://app.switchboard.xyz [200] [] [1754] [App | Switchboard] [] [199.36.158.100] [49.921531ms] [Firebase,HSTS,HTTP/3]
+https://analytics.synapseprotocol.com [200] [] [771] [Synapse Analytics] [cloudflare] [172.66.47.113] [cloudflare] [101.663049ms] [Cloudflare,HTTP/3]
+https://beta.logs.switchboard.xyz [200] [] [1552] [Logs | Switchboard] [] [199.36.158.100] [96.032187ms] [Firebase,HSTS,HTTP/3]
+https://argo.infra.switchboard.xyz [200] [] [788] [Argo CD] [] [34.23.241.184] [google] [124.791554ms] [HSTS]
+https://beta.ondemand.switchboard.xyz [200] [] [1179] [On-Demand Explorer | Switchboard] [] [199.36.158.100] [122.032232ms] [Firebase,HSTS,HTTP/3]
+https://docs.synapseprotocol.com [200] [] [4073] [Synapse Docs] [Vercel] [66.33.60.130] [150.559346ms] [Docusaurus:3.5.2,Google Analytics,HSTS,React,Vercel,Webpack]
+https://bridge.synapseprotocol.com [200] [] [19750] [Synapse Protocol] [cloudflare] [104.26.1.225] [cloudflare] [161.331455ms] [Cloudflare]
+https://explorer.synapseprotocol.com [200] [] [36703] [Synapse Explorer] [Vercel] [64.29.17.131] [89.445045ms] [HSTS,Vercel]
+https://api.synapseprotocol.com [200] [] [20931] [cloudflare] [172.67.72.114] [cloudflare] [632.917645ms] [Cloudflare,Express,Node.js]
+https://bd-automation.taskon.xyz [200] [] [588] [BD Automation Dashboard - TaskOn] [nginx/1.26.3] [43.134.85.10] [719.735724ms] [Nginx:1.26.3]
+https://crm-test.taskon.xyz [200] [] [2700] [TaskOn CRM] [] [43.163.41.120] [739.081025ms] [HSTS]
+https://earn-test.taskon.xyz [200] [] [2390] [XXXX｜Best swap returns for decentralized crypto trading] [] [43.163.41.120] [729.928768ms] [HSTS]
+https://logs.switchboard.xyz [200] [] [1552] [Logs | Switchboard] [] [199.36.158.100] [80.536637ms] [Firebase,HSTS,HTTP/3]
+https://ondemand.switchboard.xyz [200] [] [1595] [On-Demand Explorer | Switchboard] [] [199.36.158.100] [121.938063ms] [Firebase,HSTS,HTTP/3]
+https://old.synapseprotocol.com [200] [] [1021] [Synapse] [cloudflare] [104.26.0.225] [cloudflare] [170.850124ms] [Cloudflare,Google Analytics]
+https://airdrop-test.taskon.xyz [200] [] [4709] [Airdrop Tool - Discover the Most Efficient Airdrop Solution for Cryptocurrency Token Distribution] [cloudflare] [104.26.9.64] [cloudflare] [856.050896ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://airdrop-api.taskon.xyz [200] [] [3769] [ABOARD | Crypto Perpetuals, Derivatives on Layer 2] [cloudflare] [104.26.8.64] [cloudflare] [1.004096919s] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3]
+https://airdrop.taskon.xyz [200] [] [3769] [ABOARD | Crypto Perpetuals, Derivatives on Layer 2] [cloudflare] [104.26.8.64] [cloudflare] [1.045531205s] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3]
+https://loki.switchboard.xyz [200] [] [2] [] [35.204.12.204] [google] [459.537036ms] [HSTS]
+https://forum.synapseprotocol.com [200] [] [24205] [Synapse Forum] [Caddy] [167.235.245.31] [442.167981ms] [Caddy,Flarum,HTTP/3,MySQL,PHP]
+https://chainscope.taskon.xyz [200] [] [23845] [ChainScope - BD Lead Discovery] [nginx/1.26.3] [43.134.85.10] [948.384006ms] [Nginx:1.26.3]
+https://interchain-contracts.synapseprotocol.com [200] [] [37054] [Home] [cloudflare] [104.26.0.225] [cloudflare] [213.942886ms] [Clipboard.js,Cloudflare,HSTS,Lunr.js,Vercel]
+https://remote-write.switchboard.xyz [200] [] [1151] [] [35.204.12.204] [google] [362.536626ms] [HSTS]
+https://saas-cf-test.taskon.xyz [200] [] [5134] [TaskOn] [cloudflare] [172.67.74.142] [cloudflare] [162.04548ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://secrets.switchboard.xyz [200] [] [1556] [Secrets App | Switchboard] [] [199.36.158.100] [193.062811ms] [Firebase,HSTS,HTTP/3]
+https://rfq-contracts.synapseprotocol.com [200] [] [21689] [Home] [cloudflare] [172.67.72.114] [cloudflare] [154.114564ms] [Clipboard.js,Cloudflare,HSTS,Lunr.js,Vercel]
+https://staging.app.switchboard.xyz [200] [] [1595] [On-Demand Explorer | Switchboard] [] [199.36.158.100] [98.694393ms] [Firebase,HSTS,HTTP/3]
+https://operator-test.taskon.xyz [200] [] [2706] [TaskOn Admin] [] [43.163.41.120] [753.227521ms] [HSTS]
+https://staging.switchboard.xyz [200] [] [1249] [Switchboard | The Everything Oracle] [] [199.36.158.100] [68.604481ms] [Firebase,HSTS,HTTP/3]
+https://switchboard.xyz [200] [] [1249] [Switchboard | The Everything Oracle] [] [199.36.158.100] [79.684134ms] [Firebase,HSTS,HTTP/3]
+https://staging.secrets.switchboard.xyz [200] [] [1556] [Secrets App | Switchboard] [] [199.36.158.100] [181.497141ms] [Firebase,HSTS,HTTP/3]
+https://stats.switchboard.xyz [200] [] [481] [Switchboard Analytics Dashboard] [Vercel] [64.29.17.1] [225.984584ms] [HSTS,Vercel]
+https://solana.synapseprotocol.com [200] [] [8921] [Synapse – Solana Bridge] [Vercel] [66.33.60.194] [230.018027ms] [HSTS,Vercel]
+https://peoplefinder.taskon.xyz [200] [] [9060] [Overview · PeopleFinder] [cloudflare] [172.67.74.142] [cloudflare] [940.115129ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Htmx:1.9.12,Unpkg]
+https://whitelabel-demo-rainbowkit.taskon.xyz [200] [] [1693] [TaskOn Embed Demo] [cloudflare] [104.26.8.64] [cloudflare] [102.329649ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://widget.synapseprotocol.com [200] [] [789] [Synapse] [cloudflare] [172.67.72.114] [cloudflare] [143.760322ms] [Cloudflare]
+https://contracts.synapseprotocol.com [200] [] [297974] [console | Contracts] [cloudflare] [104.18.40.47] [cloudflare] [229.094919ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://wiki.switchboard.xyz [200] [] [14378] [Switchboard] [] [34.23.241.184] [google] [139.015277ms] [HSTS,React]
+https://blog.taskon.xyz [200] [] [162988] [] [43.156.88.244] [1.168697219s] [Bootstrap,Gravatar,HSTS,MySQL,PHP:8.3.30,WordPress Block Editor,WordPress:7.0.4,jQuery,jQuery Migrate:3.4.1]
+https://saas.taskon.xyz [200] [] [20278] [nginx/1.18.0 (Ubuntu)] [43.156.185.103] [733.729148ms] [Nginx:1.18.0,Ubuntu]
+https://telegrambot.taskon.xyz [200] [] [449] [web] [nginx/1.26.3] [43.134.85.10] [720.900733ms] [Nginx:1.26.3]
+https://docs.switchboard.xyz [200] [] [384858] [Introduction | Switchboard Documentation] [cloudflare] [104.18.40.47] [cloudflare] [123.912327ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://xkeyword-monitor.taskon.xyz [200] [] [386] [TaskOn Keyword Monitor] [nginx/1.26.3] [43.134.85.10] [800.53966ms] [Nginx:1.26.3]
+https://taskon.xyz [200] [] [24306] [TaskOn] [cloudflare] [172.67.74.142] [cloudflare] [892.146212ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://testtaskonweb.taskon.xyz [200] [] [24226] [TaskOn] [cloudflare] [172.67.74.142] [cloudflare] [848.58158ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://token-finder.taskon.xyz [200] [] [167787] [TokenFinder Admin Panel] [nginx/1.26.3] [43.134.85.10] [1.461095224s] [Nginx:1.26.3]
+https://switchstats.switchboard.xyz [200] [] [1646743] [Switchstats – Switchboard Integrations Overview] [Vercel] [64.29.17.1] [555.592628ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://explorer.switchboard.xyz [301] [https://explorer.switchboardlabs.xyz] [162] [301 Moved Permanently] [] [35.204.12.204] [google] [318.07634ms] [HSTS]
+https://synapseprotocol.com [301] [https://hypercall.xyz/synapse] [0] [cloudflare] [104.26.0.225] [cloudflare] [119.883789ms] [Cloudflare]
+https://staging.explorer.switchboard.xyz [301] [https://staging.explorer.switchboardlabs.xyz] [162] [301 Moved Permanently] [] [35.204.12.204] [google] [360.549312ms] [HSTS]
+https://www.switchboard.xyz [301] [https://switchboard.xyz/] [39] [] [199.36.158.100] [64.813445ms] [Firebase,HSTS,HTTP/3]
+https://www.synapseprotocol.com [301] [https://hypercall.xyz/synapse] [0] [cloudflare] [104.26.1.225] [cloudflare] [174.373907ms] [Cloudflare]
+https://www.taskon.xyz [301] [https://taskon.xyz/] [515] [301 Moved Permanently] [cloudflare] [104.26.8.64] [cloudflare] [856.50853ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://gwstage.taskon.xyz [301] [https://gwstage.taskon.xyz/] [520] [301 Moved Permanently] [cloudflare] [104.26.8.64] [cloudflare] [37.550412ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://grafana.switchboard.xyz [302] [/login] [29] [] [35.204.12.204] [google] [330.761623ms] [HSTS]
+https://teleport.infra.switchboard.xyz [302] [/web] [27] [] [104.196.134.42] [google] [118.743076ms] [HSTS]
+https://uptime.infra.switchboard.xyz [302] [/dashboard] [32] [] [34.23.241.184] [google] [223.392509ms] [HSTS]
+http://discord.switchboard.xyz [302] [https://discord.com/invite/switchboardxyz] [64] [namecheap-nginx] [192.64.119.75] [112.704544ms] [Nginx]
+
+## 307
+https://content.taskon.xyz [307] [/apps] [5] [nginx/1.26.3] [43.134.85.10] [724.314892ms] [Nginx:1.26.3]
+https://customer-signal.taskon.xyz [307] [/login] [4125] [TaskOn 销售智能系统] [nginx/1.26.3] [43.134.85.10] [742.559049ms] [Next.js,Nginx:1.26.3,Node.js,React,Webpack]
+https://finance.taskon.xyz [307] [/login] [6] [nginx/1.26.3] [43.134.85.10] [781.408929ms] [Nginx:1.26.3]
+https://s3.wiki.switchboard.xyz [307] [http://s3.wiki.switchboard.xyz:35807] [72] [] [34.23.241.184] [google] [130.638673ms] [Amazon Web Services,HSTS]
+
+## 308
+http://airdrop-api-test.taskon.xyz [308] [https://airdrop-api-test.taskon.xyz] [164] [308 Permanent Redirect] [] [43.163.41.120] [452.073602ms]
+
+## 401
+https://ipfs.switchboard.xyz [401] [] [81] [cloudflare] [104.18.32.94] [cloudflare] [336.397928ms] [Cloudflare]
+
+## 403
+https://label-studio.taskon.xyz [403] [] [153] [403 Forbidden] [nginx/1.26.3] [43.134.85.10] [764.103677ms] [Nginx:1.26.3]
+https://img.taskon.xyz [403] [] [449] [cloudflare] [104.26.8.64] [cloudflare] [915.666697ms] [Cloudflare,HTTP/3]
+
+## 404
+https://api.switchboard.xyz [404] [] [272] [404 Page not found] [] [142.251.163.121] [google] [101.455982ms]
+https://crossbar.switchboard.xyz [404] [] [0] [] [35.204.12.204] [google] [307.610353ms] [HSTS]
+https://api-key-service.switchboard.xyz [404] [] [0] [] [35.204.12.204] [google] [318.235144ms] [HSTS]
+https://explorer-ws.switchboard.xyz [404] [] [548] [404 Not Found] [] [35.204.12.204] [google] [340.318217ms] [HSTS]
+https://crm-api-test.taskon.xyz [404] [] [19] [] [43.163.41.120] [729.437693ms] [HSTS]
+https://interchain.synapseprotocol.com [404] [] [6873] [Site Not Found | Framer] [Framer/57d0062] [31.43.160.6] [111.153786ms] [Framer Sites,HSTS,HTTP/3,React]
+https://gke-eu-west4-internal-apps.switchboard.xyz [404] [] [146] [404 Not Found] [] [35.204.12.204] [google] [317.861142ms] [HSTS]
+https://api.taskon.xyz [404] [] [19] [cloudflare] [172.67.74.142] [cloudflare] [856.745791ms] [Cloudflare,HSTS,HTTP/3]
+https://extension.taskon.xyz [404] [] [2912] [TaskOn] [cloudflare] [104.26.8.64] [cloudflare] [836.162104ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js]
+https://gw.taskon.xyz [404] [] [103] [nginx/1.18.0 (Ubuntu)] [43.156.185.103] [735.001222ms] [Nginx:1.18.0,Ubuntu]
+https://operator-api-test.taskon.xyz [404] [] [19] [] [43.163.41.120] [734.893879ms] [HSTS]
+https://rfq-indexer.synapseprotocol.com [404] [] [139] [Error] [cloudflare] [104.26.1.225] [cloudflare] [458.674385ms] [Cloudflare,Express,Node.js]
+https://simulator.switchboard.xyz [404] [] [0] [] [35.204.12.204] [google] [393.798689ms] [HSTS]
+https://staging.api-key-service.switchboard.xyz [404] [] [0] [] [35.204.12.204] [google] [389.904571ms] [HSTS]
+https://staging.crossbar.switchboard.xyz [404] [] [0] [] [35.204.12.204] [google] [377.193349ms] [HSTS]
+https://staging.simulator.switchboard.xyz [404] [] [0] [] [35.204.12.204] [google] [343.496692ms] [HSTS]
+https://staging.explorer-ws.switchboard.xyz [404] [] [146] [404 Not Found] [] [35.204.12.204] [google] [391.097752ms] [HSTS]
+https://rewards.taskon.xyz [404] [] [22] [cloudflare] [172.67.74.142] [cloudflare] [930.968404ms] [Cloudflare,HSTS,HTTP/3]
+https://tempo.switchboard.xyz [404] [] [19] [] [35.204.12.204] [google] [343.229158ms] [HSTS]
+https://testtaskonbackend.taskon.xyz [404] [] [19] [] [43.163.41.120] [749.052545ms] [HSTS]
+https://testtaskondl.taskon.xyz [404] [] [19] [] [43.163.41.120] [771.258822ms] [HSTS]
+https://white-label-api-test.taskon.xyz [404] [] [19] [] [43.163.41.120] [740.165628ms] [HSTS]
+https://ybl1xinvrpvgifx3.taskon.xyz [404] [] [19] [] [43.163.41.120] [733.875003ms] [HSTS]
+
+## 500
+
+## 502
+https://content2.taskon.xyz [502] [] [16] [cloudflare] [172.67.74.142] [cloudflare] [831.458269ms] [Cloudflare,HTTP/3]
+https://kcis.taskon.xyz [502] [] [157] [502 Bad Gateway] [nginx/1.26.3] [43.134.85.10] [777.945696ms] [Nginx:1.26.3]
+
+## 503
+https://bjko8tjcumnhwx26.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [710.98658ms] [HSTS]
+https://crm-stage.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [720.782608ms] [HSTS]
+https://8wnvzbt4wftonw8l.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [724.833277ms] [HSTS]
+https://crm-api-stage.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [729.60561ms] [HSTS]
+https://8wnvzbt4wftonw8l-dl.taskon.xyz [503] [] [1481] [503 Service Temporarily Unavailable] [cloudflare] [104.26.8.64] [cloudflare] [807.304169ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://feedback-stage.taskon.xyz [503] [] [592] [503 Service Temporarily Unavailable] [] [43.163.41.120] [754.925504ms] [HSTS]
+https://feedback-test.taskon.xyz [503] [] [592] [503 Service Temporarily Unavailable] [] [43.163.41.120] [749.353878ms] [HSTS]
+https://fghv9qvet1odrmvm.taskon.xyz [503] [] [1481] [503 Service Temporarily Unavailable] [cloudflare] [172.67.74.142] [cloudflare] [883.731701ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://operator-api-stage.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [732.380649ms] [HSTS]
+https://operator-stage.taskon.xyz [503] [] [592] [503 Service Temporarily Unavailable] [] [43.163.41.120] [732.892155ms] [HSTS]
+https://stagetgapp.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [745.897398ms] [HSTS]
+https://testtgapp.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [754.92995ms] [HSTS]
+https://white-label-api-stage.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [785.99392ms] [HSTS]
+
