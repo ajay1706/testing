@@ -1,0 +1,2 @@
+https://api-perps.asxn.xyz [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [95.216.184.239] [369.18238ms] [Nginx:1.24.0,Ubuntu]
+https://monad.testnet.asxn.xyz [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [64.31.48.126] [7.540750185s] [Nginx:1.24.0,Ubuntu]
