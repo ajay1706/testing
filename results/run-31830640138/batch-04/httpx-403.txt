@@ -1,0 +1,5 @@
+https://router-dev.fireworks.ai [403] [] [134] [403] [] [136.69.52.104] [google] [157.481232ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://router-preview.fireworks.ai [403] [] [134] [403] [] [8.232.10.61] [google] [150.865747ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://router.fireworks.ai [403] [] [134] [403] [] [8.233.219.225] [google] [152.271915ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://static.fireworks.ai [403] [] [17144] [Forbidden] [cloudflare] [104.18.7.91] [cloudflare] [60.254725ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://websdk-docs.fordefi.com [403] [] [263] [AmazonS3] [13.226.238.67] [cloudfront] [135.072619ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]

@@ -1,0 +1,14 @@
+[+] Batch started: Fri Aug 14 18:53:23 UTC 2026
+[+] Run ID: 31830640138
+[+] Batch name: batch-04
+[+] Batch targets:
+fireworks.ai
+flipsidecrypto.xyz
+fordefi.com
+[+] Running subfinder...
+[+] Subfinder completed: Fri Aug 14 18:54:24 UTC 2026
+[+] HTTPX input count: 465
+[+] Running httpx...
+[+] httpx completed: Fri Aug 14 18:54:54 UTC 2026
+[+] httpx line count: 323
+[+] Batch completed: Fri Aug 14 18:54:54 UTC 2026
