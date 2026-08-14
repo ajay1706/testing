@@ -1,0 +1,7 @@
+https://docs.vapi.ai [307] [/quickstart/introduction] [206820] [Vercel] [66.33.60.34] [321.288733ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://dwprepro-stg.corp.xerox.com [307] [https://www.xerox.com/en-us] [150] [Document Moved] [] [45.60.150.56] [incapsula] [1.152263094s] [HSTS,Imperva]
+https://msp.support.xerox.com [302] [https://msp.support.xerox.com/msp/] [307] [302 Found] [Apache/2.2.15 (Red Hat)] [13.13.40.228] [888.419124ms] [Apache HTTP Server:2.2.15,Red Hat]
+https://status.st.vapi.ai [307] [https://status.st.vapi.ai/password] [0] [] [167.235.220.62] [1.046091113s] [HSTS,HTTP/3]
+http://www.mainframe.xerox.com [307] [https://www.mainframe.xerox.com/] [0] [] [45.223.57.253] [incapsula] [311.66498ms] [Imperva]
+https://xphuk-stg.services.xerox.com [307] [https://www.xerox.com/en-us] [150] [Document Moved] [Microsoft-IIS/10.0] [45.60.150.56] [incapsula] [681.312845ms] [HSTS,IIS:10.0,Imperva,Windows Server]
+http://xww2.ssg.world.xerox.com [307] [https://xww2.ssg.world.xerox.com/] [0] [] [45.60.150.56] [incapsula] [71.394685ms] [Imperva]

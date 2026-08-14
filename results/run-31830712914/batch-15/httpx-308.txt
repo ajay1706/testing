@@ -1,0 +1,5 @@
+https://app.venus.io [308] [https://venus.io/] [15] [Vercel] [76.76.21.22] [1.17009188s] [HSTS,Vercel]
+https://integrations.vapi.ai [308] [https://api.nango.dev/oauth/callback] [0] [cloudflare] [104.18.24.64] [cloudflare] [151.994168ms] [Cloudflare,HTTP/3]
+https://mcprod.shop.xerox.com [308] [https://www.mcprod.shop.xerox.com/] [0] [] [151.101.1.124] [fastly] [345.862571ms] [HSTS]
+https://shop.xerox.com [308] [https://www.shop.xerox.com/] [0] [] [151.101.193.124] [fastly] [216.518207ms] [HSTS]
+https://www.venus.io [308] [https://venus.io/] [15] [Vercel] [76.76.21.22] [193.12232ms] [HSTS,Vercel]
