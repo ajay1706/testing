@@ -1,0 +1,5 @@
+https://faucet.polygon.technology [403] [] [5629] [Just a moment...] [cloudflare] [172.64.146.146] [cloudflare] [47.574851ms] [Cloudflare,HSTS]
+https://login.development.polygon.technology [403] [] [167] [CloudFront] [13.35.78.15] [cloudfront] [218.000451ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://login.polygon.technology [403] [] [167] [CloudFront] [13.35.78.120] [cloudfront] [3.335527564s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://login.staging.polygon.technology [403] [] [167] [CloudFront] [13.35.78.120] [cloudfront] [3.312735951s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://rpc-mumbai.polygon.technology [403] [] [134] [403] [cloudflare] [172.64.146.146] [cloudflare] [3.236200715s] [Cloudflare,HSTS]
