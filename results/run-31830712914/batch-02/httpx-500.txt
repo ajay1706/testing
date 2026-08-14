@@ -1,0 +1,4 @@
+https://inference.character.baseten.co [500] [] [34] [] [34.61.155.234] [google] [116.773968ms] [HSTS]
+https://inference.cursor.baseten.co [500] [] [34] [] [54.84.95.27] [56.59338ms] [HSTS]
+https://inference.uc1.cursor.baseten.co [500] [] [34] [] [34.41.116.156] [google] [137.370642ms] [HSTS]
+https://wp-gcp-us-central1-staging-mcm1.lb.staging.baseten.co [500] [] [34] [] [34.27.247.226] [google] [3.131965071s] [HSTS]

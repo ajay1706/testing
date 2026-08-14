@@ -1,0 +1,14 @@
+[+] Batch started: Fri Aug 14 18:54:24 UTC 2026
+[+] Run ID: 31830712914
+[+] Batch name: batch-02
+[+] Batch targets:
+arrakis.finance
+baseten.co
+bevm.io
+[+] Running subfinder...
+[+] Subfinder completed: Fri Aug 14 18:55:27 UTC 2026
+[+] HTTPX input count: 1144
+[+] Running httpx...
+[+] httpx completed: Fri Aug 14 18:57:28 UTC 2026
+[+] httpx line count: 531
+[+] Batch completed: Fri Aug 14 18:57:28 UTC 2026
