@@ -1,0 +1,3 @@
+[CVE-2019-11248] [http] [high] https://metrics.testnet.tempo.xyz/debug/pprof/
+[CVE-2019-11248] [http] [high] https://metrics.mainnet.tempo.xyz/debug/pprof/
+[CVE-2019-11248] [http] [high] https://metrics.tempo.xyz/debug/pprof/

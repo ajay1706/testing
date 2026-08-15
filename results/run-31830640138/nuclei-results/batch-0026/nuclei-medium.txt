@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://metrics.mainnet.tempo.xyz/metrics
+[prometheus-metrics] [http] [medium] https://metrics.tempo.xyz/metrics
+[prometheus-metrics] [http] [medium] https://metrics.testnet.tempo.xyz/metrics
