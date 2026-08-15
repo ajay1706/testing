@@ -1,0 +1,3 @@
+[open-redirect-generic] [http] [medium] https://azure-staging.sarvam.ai///https://oast.me// [redirect="//https://oast.me//"]
+[nextjs-vite-public-env:public_env] [http] [medium] https://backoffice.prod.polygon.technology [""VITE_SENTRY_DSN":"https://9f154cf712303a4036cf00c03feb938d@o242458.ingest.us.sentry.io/4510951825408000"",""VITE_ENVIRONMENT":"production"",""VITE_GITCOMMIT":"2c52f2fa7a8e1f146d754d9c5ce98bc425808632"",""VITE_VERSION":"v26.8.11-2c52f2f"",""VITE_API_URL":"https://backoffice-api.prod.polygon.technology""]
+[prometheus-metrics] [http] [medium] https://blockscout-api.dev.alluvial.finance/metrics
