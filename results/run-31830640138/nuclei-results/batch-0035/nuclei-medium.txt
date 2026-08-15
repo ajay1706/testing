@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://testtaskonbackend.taskon.xyz/metrics
+[prometheus-metrics] [http] [medium] https://testtaskondl.taskon.xyz/metrics
