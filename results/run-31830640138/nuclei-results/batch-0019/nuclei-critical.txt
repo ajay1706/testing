@@ -1,0 +1,2 @@
+[config-json-exposure-fuzz:api_credentials] [http] [critical] https://farcaster-sync-cf-workflow.b3.fun/application.json [""api_key":"Pass API key via x-api-key header""] [path="/application.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://farcaster-sync-cf-workflow.b3.fun/application.json ["https://api.b3.fun/auth"] [path="/application.json"]
