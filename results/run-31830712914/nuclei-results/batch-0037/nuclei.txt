@@ -1,0 +1,33 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://logging-grafana.infra2.candide.dev/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://logs.ops.candide.dev/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://lms.everstake.one/index ["index.php"] [path="/index"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] limitless.launchpad.kaito.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] limitless.launchpad.kaito.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lime.ext.uswestgw.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lime.ext.uswestgw.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] list.teller.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] lime.ext.uswestgw.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] list.teller.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] live-worker-alpha.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] live-worker-alpha.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] live-worker.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] live-worker.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lockers.stakedao.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lockers.stakedao.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] loans.teller.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] loans.teller.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] logs.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] logs.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] loki.dev.socket.tech:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] loki.dev.socket.tech:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure:version] [http] [low] https://logging-grafana.infra2.candide.dev/metrics ["11.3.0"]
+[kubernetes-metrics] [http] [low] https://logging-grafana.infra2.candide.dev/metrics
+[grafana-metrics-exposure:version] [http] [low] https://logs.ops.candide.dev/metrics ["11.3.0"]
+[kubernetes-metrics] [http] [low] https://logs.ops.candide.dev/metrics
+[prometheus-metrics] [http] [medium] https://logging-loki.infra2.candide.dev/metrics
+[prometheus-metrics] [http] [medium] https://loki.infra3.candide.dev/metrics
+[go-pprof-debug] [http] [low] https://logging-loki.infra2.candide.dev/debug/pprof/heap?debug=1
+[go-pprof-debug] [http] [low] https://loki.infra3.candide.dev/debug/pprof/heap?debug=1
+[CVE-2019-11248] [http] [high] https://logging-loki.infra2.candide.dev/debug/pprof/
+[CVE-2019-11248] [http] [high] https://loki.infra3.candide.dev/debug/pprof/
+[untrusted-root-certificate] [ssl] [low] licensingb.services.xerox.com:443

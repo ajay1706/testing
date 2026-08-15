@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://logging-loki.infra2.candide.dev/metrics
+[prometheus-metrics] [http] [medium] https://loki.infra3.candide.dev/metrics
