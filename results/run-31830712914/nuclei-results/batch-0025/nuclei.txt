@@ -1,0 +1,47 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] edgeanalytics.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] edgeanalytics.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] egw-origin-test.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] egw-origin-test.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eligibility-alpha.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eligibility-alpha.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eligibility-beta.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eligibility-beta.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eligibility-delta.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eligibility-gamma.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eligibility-gamma.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eligibility-delta.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eligibility.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eligibility.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] embed.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] en.ml.api.promova.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] embed.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] en.ml.api.promova.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] engagementstudio.truex.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ens-worker-alpha.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ens-worker-alpha.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ens-worker.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ens-worker.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] enterpriseenrollment.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] enterpriseenrollment.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] engservicedesk-staging.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] enterpriseregistration.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] enterpriseregistration.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] engservicedesk-staging.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[sap-netweaver-info-leak] [http] [medium] https://ecp.eur.xerox.com/sap/public/info ["<RFCDEST>vecpdi04_ECP_44</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ecp.idns-ext.xerox.com/sap/public/info ["<RFCDEST>vecpdi05_ECP_45</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ecr.eur.xerox.com/sap/public/info ["<RFCDEST>vecrci_ECR_40</RFCDEST>"]
+[untrusted-root-certificate] [ssl] [low] eipsupportassistantb.services.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eib.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eibns3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eip.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eipns3.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ecp.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eipns3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eip.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ecp.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ecr.eur.xerox.com:443
+[expired-ssl] [ssl] [low] emails-appgallery-stage.services.xerox.com:443 ["2026-02-27 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] eir.eur.xerox.com:443
+[expired-ssl] [ssl] [low] engservicedesk-staging.corp.xerox.com:443 ["2025-09-17 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] eirns3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ep3.eur.xerox.com:443

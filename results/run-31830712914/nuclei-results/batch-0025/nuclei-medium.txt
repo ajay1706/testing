@@ -1,0 +1,3 @@
+[sap-netweaver-info-leak] [http] [medium] https://ecp.eur.xerox.com/sap/public/info ["<RFCDEST>vecpdi04_ECP_44</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ecp.idns-ext.xerox.com/sap/public/info ["<RFCDEST>vecpdi05_ECP_45</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ecr.eur.xerox.com/sap/public/info ["<RFCDEST>vecrci_ECR_40</RFCDEST>"]
