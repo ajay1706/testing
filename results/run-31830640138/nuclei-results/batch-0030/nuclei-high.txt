@@ -1,0 +1,4 @@
+[github-takeover] [http] [high] https://proof.market.nil.foundation ["nilfoundation.github.io"]
+[prometheus-unauth] [http] [high] https://remote-write.switchboard.xyz/config
+[prometheus-unauth] [http] [high] https://remote-write.switchboard.xyz/api/v1/status/config
+[CVE-2019-11248] [http] [high] https://remote-write.switchboard.xyz/debug/pprof/
