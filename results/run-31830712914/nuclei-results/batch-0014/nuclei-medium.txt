@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://bridge.alephium.org/metrics
