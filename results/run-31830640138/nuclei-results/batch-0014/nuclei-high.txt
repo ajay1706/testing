@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://dawn.exponent.finance/en
+[wix-takeover] [http] [high] https://de.segment.finance ["cdn1.wixdns.net"]
