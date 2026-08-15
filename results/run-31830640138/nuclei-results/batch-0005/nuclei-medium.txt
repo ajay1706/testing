@@ -1,0 +1,5 @@
+[CVE-2024-46310] [http] [medium] https://api.pol.polygon.technology/players.json
+[gitlab-api-user-enum] [http] [medium] https://api.pol.polygon.technology/api/v4/users/23 [uid="23"]
+[prometheus-metrics] [http] [medium] https://api.kaio.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api.pre.kaio.xyz/metrics
+[CVE-2024-5483] [http] [medium] https://api.pol.polygon.technology/wp-json/learnpress/v1/users
