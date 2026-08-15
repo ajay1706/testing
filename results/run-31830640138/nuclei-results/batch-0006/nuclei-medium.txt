@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://api.stg.kaio.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api.taskon.xyz/metrics
+[git-config] [http] [medium] https://app-server2.segment.finance/.git/config
