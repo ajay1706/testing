@@ -1,0 +1,1 @@
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://portal.api.prd.ledger.com/assets/config.json [""baseURL": "https://mapi.eu.326ada.api.gravitee.io/portal""] [path="/assets/config.json"]
