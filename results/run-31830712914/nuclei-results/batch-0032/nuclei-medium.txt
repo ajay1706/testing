@@ -1,0 +1,2 @@
+[sap-netweaver-info-leak] [http] [medium] https://hr3.eur.xerox.com/sap/public/info ["<RFCDEST>vecbci_ECB_40</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://hrr.eur.xerox.com/sap/public/info ["<RFCDEST>vhrrci_HRR_75</RFCDEST>"]
