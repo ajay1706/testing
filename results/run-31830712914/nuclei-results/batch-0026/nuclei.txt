@@ -1,0 +1,67 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] epfl-meetup.alephium.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] epfl-meetup.alephium.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] es.ml.api.promova.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] es.ml.api.promova.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eth-mainnet.rpcfast.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eth-mainnet.rpcfast.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ethereumnyc-v0.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ethereumnyc-v0.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ethsf-images.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ethsf-images.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ethsf-relayer.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ethsf-relayer.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eutc2cssvip-13-16-33-160.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eutc2cssvip-13-16-33-160.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eutc2cssvip-13-16-33-161.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eutc2cssvip-13-16-33-162.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eutc2cssvip-13-16-33-164.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eutc2cssvip-13-16-33-182.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eutc2cssvip-13-16-33-162.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eutc2cssvip-13-16-33-161.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eutc2cssvip-13-16-33-164.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eutc2cssvip-13-16-33-182.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eutc2cssvip-13-16-33-215.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eutc2cssvip-13-16-33-216.epn.uksouthgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eutc2cssvip-13-16-33-215.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eutc2cssvip-13-16-33-216.epn.uksouthgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[sap-netweaver-info-leak] [http] [medium] https://eutc2cssvip-13-16-33-192.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vnrpci_NRP_25</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://eutc2cssvip-13-16-33-191.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vnpsdi14_NPS_14</RFCDEST>"]
+[grafana-metrics-exposure:version] [http] [low] https://erpc-monitoring.infra2.candide.dev/metrics ["12.4.5"]
+[kubernetes-metrics] [http] [low] https://erpc-monitoring.infra2.candide.dev/metrics
+[postgres-exporter-metrics] [http] [low] https://erpc-monitoring.infra2.candide.dev/metrics
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://es-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[sap-public-admin] [http] [low] https://eutc2cssvip-13-16-33-159.epn.uksouthgw.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://eutc2cssvip-13-16-33-191.epn.uksouthgw.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://eutc2cssvip-13-16-33-192.epn.uksouthgw.xerox.com/sap/admin/public/index.html
+[untrusted-root-certificate] [ssl] [low] epp.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eppns3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ep3ns3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] epbns3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] epb.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] epp.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eppns3.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] epr.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eprns3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] esaperrorpage.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] esaperrorpage.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-146.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-148.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-149.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-152.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-155.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-156.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-159.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-160.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-161.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-184.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-183.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-191.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-162.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-192.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-164.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-182.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-215.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-227.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-230.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-229.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] eutc2cssvip-13-16-33-216.epn.uksouthgw.xerox.com:443

