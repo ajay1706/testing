@@ -1,0 +1,3 @@
+[prometheus-unauth] [http] [high] https://hyper-prometheous.asxn.xyz/api/v1/status/config
+[CVE-2019-11248] [http] [high] https://hyper-prometheous.asxn.xyz/debug/pprof/
+[framer-takeover] [http] [high] https://interchain.synapseprotocol.com ["sites.framer.app"]
