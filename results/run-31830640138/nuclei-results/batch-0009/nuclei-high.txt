@@ -1,0 +1,3 @@
+[framer-takeover] [http] [high] https://blog.exponent.finance ["sites.framer.app"]
+[framer-takeover] [http] [high] https://bootcamp.meteora.ag
+[wix-takeover] [http] [high] https://build.blocto.io ["pointing.wixdns.net"]
