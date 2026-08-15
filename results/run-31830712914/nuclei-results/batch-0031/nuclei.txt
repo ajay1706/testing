@@ -1,0 +1,69 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-explore.dev.hubbleprotocol.io/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-explore.hubbleprotocol.io/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.sip-web.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.sip-web.eu.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.sip-web2.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.staging-sip-web.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.staging-sip-web1.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.staging-sip-web2.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.web-mini.vapi.ai/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[weak-cipher-suites:tls-1.0] [ssl] [low] gitops.hubbleprotocol.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gitops.dev.hubbleprotocol.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gitops.hubbleprotocol.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gitops.dev.hubbleprotocol.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gnosis-chain.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] go.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] go.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gnosis-chain.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana-explore.dev.hubbleprotocol.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana-explore.hubbleprotocol.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana-explore.dev.hubbleprotocol.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana-explore.hubbleprotocol.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.dev.hubbleprotocol.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.dev.hubbleprotocol.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.hubbleprotocol.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.hubbleprotocol.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.sip-web.eu.vapi.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] graphql.android.wallet.gateway.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] graphql.android.wallet.gateway.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] graphql.extension.gateway.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] graphql.extension.gateway.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.sip-web.eu.vapi.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] graphql.interface.gateway.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] graphql.ios.wallet.gateway.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] graphql.interface.gateway.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] graphql.ios.wallet.gateway.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gscbi-sharepoint.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gscbi-sharepoint.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana-explore.dev.hubbleprotocol.io/metrics ["9.5.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana-explore.hubbleprotocol.io/metrics ["9.5.1"]
+[grafana-metrics-exposure] [http] [low] https://grafana.aws-us-west-2-monitoring-production2.vapi.ai/metrics
+[kubernetes-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-production2.vapi.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-production2.vapi.ai/metrics
+[grafana-metrics-exposure] [http] [low] https://grafana.aws-us-west-2-monitoring-staging2.vapi.ai/metrics
+[kubernetes-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-staging2.vapi.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.aws-us-west-2-monitoring-staging2.vapi.ai/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.sip-web.eu.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.sip-web2.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.staging-sip-web.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.sip-web.vapi.ai/metrics ["10.4.1"]
+[kubernetes-metrics] [http] [low] https://grafana.sip-web.vapi.ai/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.staging-sip-web2.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.staging-sip-web1.vapi.ai/metrics ["10.4.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.web-mini.vapi.ai/metrics ["10.4.1"]
+[postgres-exporter-metrics] [http] [low] https://grafana.web-mini.vapi.ai/metrics
+[gitea-userenum:user] [http] [low] https://git.instadapp.io/explore/users/sitemap-1.xml ["gitea_admin"]
+[prometheus-metrics] [http] [medium] https://grafana-explore.dev.hubbleprotocol.io/metrics
+[prometheus-metrics] [http] [medium] https://grafana-explore.hubbleprotocol.io/metrics
+[untrusted-root-certificate] [ssl] [low] gocreate-uk-search.external.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] gocreate-uk-workflow.external.xerox.com:443
+[kubernetes-fake-certificate] [ssl] [low] grafana-mm.api.arrakis.finance:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] grafana-mm.api.arrakis.finance:443
+[untrusted-root-certificate] [ssl] [low] gocreate-uk.external.xerox.com:443
+[expired-ssl] [ssl] [low] grafana.staging-sip-web1.vapi.ai:443 ["2025-10-01 00:55:38 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] grafana-mm.staging-api.arrakis.finance:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] grafana-mm.staging-api.arrakis.finance:443
+[kubernetes-fake-certificate] [ssl] [low] grpc.wp-gcp-us-central1-dev-mcm1.lb.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] grpc.wp-gcp-us-central1-dev-mcm1.lb.mc-dev.baseten.co:443
+[expired-ssl] [ssl] [low] grpc.layeredge.io:443 ["2026-03-02 15:10:25 +0000 UTC"]
+[expired-ssl] [ssl] [low] gscbi-sharepoint.corp.xerox.com:443 ["2024-05-23 23:59:59 +0000 UTC"]

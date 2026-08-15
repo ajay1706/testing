@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://grafana-explore.dev.hubbleprotocol.io/metrics
+[prometheus-metrics] [http] [medium] https://grafana-explore.hubbleprotocol.io/metrics
