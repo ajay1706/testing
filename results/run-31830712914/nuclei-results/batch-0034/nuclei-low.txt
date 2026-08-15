@@ -1,0 +1,26 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] inference.uw2phx.cursor.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] inference.uw2phx.cursor.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] infisical-omega.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] infisical-omega.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] info.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] info.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] instantprintkiosk.services.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] instantprintkioskstage.services.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] instantprintkiosk.services.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] instantprintkioskstage.services.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] integration.staging.pieces.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] integration.pieces.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] integration.staging.pieces.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] integration.pieces.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] integration2b.services.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] integration4b.services.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] integration2b.services.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] integration4b.services.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[go-pprof-debug] [http] [low] https://influx-tnworkq43qr5xmc8.b.redstone.finance/debug/pprof/heap?debug=1
+[go-pprof-debug] [http] [low] https://influx.instadapp.io/debug/pprof/heap?debug=1
+[kubernetes-fake-certificate] [ssl] [low] inference.corue13a.cursor.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] inference.corue13a.cursor.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] inference.hydue2.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] inference.hydue2.baseten.co:443
+[expired-ssl] [ssl] [low] instantprintkiosk.services.xerox.com:443 ["2026-02-24 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] instantprintkioskstage.services.xerox.com:443 ["2026-02-06 23:59:59 +0000 UTC"]
