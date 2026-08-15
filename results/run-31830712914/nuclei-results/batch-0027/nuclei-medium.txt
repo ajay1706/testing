@@ -1,0 +1,6 @@
+[sap-netweaver-info-leak] [http] [medium] https://ewb.eur.xerox.com/sap/public/info ["<RFCDEST>vewbdi02_EWB_47</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ewp.eur.xerox.com/sap/public/info ["<RFCDEST>vewpdi01_EWP_46</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ewp.idns-ext.xerox.com/sap/public/info ["<RFCDEST>vewpdi02_EWP_47</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ewr.eur.xerox.com/sap/public/info ["<RFCDEST>vewrci_EWR_45</RFCDEST>"]
+[prometheus-metrics] [http] [medium] https://explorer-beta.test.arch.network/metrics
+[prometheus-metrics] [http] [medium] https://explorer.arch.network/metrics
