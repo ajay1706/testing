@@ -1,0 +1,12 @@
+[CVE-2024-53991] [http] [high] https://forum.untangled.finance/stylesheets/discourse-lazy-videos_d686e17d90db8c9b5b6abf9cdc5696a13ab44db0.css?__ws=forum.untangled.finance&cachebuster=3HwUZVQpv3joTL5QAjfEPOoA0PJ
+[CVE-2025-55184] [http] [high] https://app.beta.galxe.com
+[CVE-2025-55184] [http] [high] https://app.galxe.com
+[CVE-2025-55184] [http] [high] https://app.stg.galxe.com
+[CVE-2025-55184] [http] [high] https://dashboard.beta.galxe.com
+[CVE-2025-55184] [http] [high] https://dashboard.galxe.com
+[CVE-2025-55184] [http] [high] https://preview1113.stakestone.io
+[CVE-2025-55184] [http] [high] https://stakestone.io
+[CVE-2025-55184] [http] [high] https://v2dashboard.stg.galxe.com
+[CVE-2025-55184] [http] [high] https://www.stakestone.io
+[CVE-2026-25892:version] [http] [high] https://api-dev.primuslabs.xyz/adminer.php ["5.4.0"]
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://stats.marinade.finance/api/search?type=dash-db
