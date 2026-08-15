@@ -1,0 +1,5 @@
+[CVE-2022-41697] [http] [medium] https://cms.soniclabs.com/ghost/api/admin/session
+[CVE-2025-63387] [http] [medium] https://content.taskon.xyz/console/api/system-features
+[claude-settings-exposure] [http] [medium] https://cli.nexus.xyz/.claude/settings.json
+[claude-settings-exposure] [http] [medium] https://cli.nexus.xyz/.claude/settings.local.json
+[claude-settings-exposure] [http] [medium] https://cli.nexus.xyz/.mcp.json
