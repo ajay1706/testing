@@ -1,0 +1,41 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] contribium.alephium.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] contracts.play.irys.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] contribium.alephium.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] contracts.play.irys.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] courses.api.promova.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] courses.api.promova.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cr.dev.quotes.api.across.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cr.dev.quotes.api.across.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] crypto-xr.alephium.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] crypto-xr.alephium.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cs2.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cs2.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://creative-studio-frontend.ee.truex.com
+[oauth-credentials-json] [http] [low] https://content.vapi.ai/oauth-credentials.json
+[sap-public-admin] [http] [low] https://css-vip-037.epn.uknorthgw.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://css-vip-037.epn.uksouthgw.xerox.com/sap/admin/public/index.html
+[kubernetes-fake-certificate] [ssl] [low] control-plane-dev.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] control-plane-dev.cert.api.mc-dev.baseten.co:443
+[untrusted-root-certificate] [ssl] [low] content-ca.services.xerox.com:443
+[kubernetes-fake-certificate] [ssl] [low] cru-us-east1-dev-1.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cru-us-east1-dev-1.cert.api.mc-dev.baseten.co:443
+[untrusted-root-certificate] [ssl] [low] crb.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] cr3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] crp.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] crp.idns-ext.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] crr.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-032.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-032.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-034.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-036.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-035.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-033.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-036.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-037.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-037.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-039.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-039.epn.uksouthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-061.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-063.epn.eurgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-062.epn.uknorthgw.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] css-vip-063.epn.uknorthgw.xerox.com:443
