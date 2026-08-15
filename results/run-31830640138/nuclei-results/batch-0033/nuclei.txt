@@ -1,0 +1,91 @@
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-backend.phantom.app/mcp_message
+[weak-cipher-suites:tls-1.0] [ssl] [low] sim-dune-api.b3.fun:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sim-dune-api.b3.fun:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] smolclaude-updates-982373.treasure.lol:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] smolclaude-updates-982373.treasure.lol:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] smolfrens-cdn.treasure.lol:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] smolfrens-cdn.treasure.lol:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] snapshot.scroll.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] snapshot.scroll.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] snapshots.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] snapshots.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] snapshots.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] snapshots.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sicop.tokeny.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] solana-portal.edgevana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] solana-portal.edgevana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sonarqube.stg.kaio.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sonarqube.stg.kaio.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sonarx.api.mainnet.canton.edgevana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sonarx.cns.mainnet.canton.edgevana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sonarx.api.mainnet.canton.edgevana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sonarx.cns.mainnet.canton.edgevana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sonarx.wallet.mainnet.canton.edgevana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sonarx.wallet.mainnet.canton.edgevana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sponsor.devnet.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sponsor.moderato.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sponsor.devnet.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sponsor.moderato.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sponsor.testnet.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sponsor.testnet.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sponsor.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] squads-rpc.exponent.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] srv.edgevana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sponsor.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] squads-rpc.exponent.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] srv.edgevana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stable.segment.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stable.segment.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging-archery-evm.orderly.network:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging-archery-evm.orderly.network:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging-liquidity-monitor.orderly.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging-liquidity-monitor.orderly.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.agent8-games.verse8.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.agent8-games.verse8.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.blocto.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.blocto.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.exponent.finance:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.exponent.finance:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[wp-w3-total-cache-exposure] [http] [high] https://snapshots.citrea.xyz/wp-content/w3tc/dbcache/
+[unauthenticated-varnish-cache-purge] [http] [low] https://specification.nexus.xyz
+[unauthenticated-varnish-cache-purge] [http] [low] https://staging.app.switchboard.xyz
+[CVE-2023-6592] [http] [medium] https://snapshots.citrea.xyz/wp-content/plugins/fastdup/logs/
+[git-config] [http] [medium] https://stable.segment.finance/.git/config
+[wordpress-super-forms] [http] [low] https://snapshots.citrea.xyz/wp-content/plugins/super-forms/
+[CVE-2024-13126] [http] [medium] https://snapshots.citrea.xyz/wp-content/uploads/download-manager-files/
+[joomla-file-listing] [http] [medium] https://snapshots.citrea.xyz/libraries/joomla/database/
+[CVE-2022-2544] [http] [high] https://snapshots.citrea.xyz/wp/wp-content/uploads/wpjobboard/
+[CVE-2020-27361] [http] [high] https://snapshots.citrea.xyz/pme/media/
+[private-key-exposure] [http] [high] https://snapshots.citrea.xyz/node_modules/mqtt/test/helpers/
+[configuration-listing] [http] [medium] https://snapshots.citrea.xyz/config/
+[shell-history] [http] [low] https://specification.nexus.xyz/.bash_history
+[shell-history] [http] [low] https://specification.nexus.xyz/.ksh_history
+[shell-history] [http] [low] https://specification.nexus.xyz/.sh_history
+[shell-history] [http] [low] https://specification.nexus.xyz/.zsh_history
+[node-ecstatic-listing] [http] [low] https://snapshots.citrea.xyz/img/
+[cobbler-exposed-directory] [http] [medium] https://snapshots.citrea.xyz/cobbler/
+[cobbler-exposed-directory] [http] [medium] https://snapshots.citrea.xyz/cblr/
+[backup-directory-listing] [http] [low] https://snapshots.citrea.xyz/backup/
+[coldfusion-cfide-dir-listing] [http] [medium] https://snapshots.citrea.xyz/CFIDE/
+[CVE-2023-6114] [http] [high] https://snapshots.citrea.xyz/wp-content/backups-dup-lite/tmp/
+[exposed-vscode] [http] [medium] https://snapshots.citrea.xyz/.vscode/
+[glpi-directory-listing] [http] [medium] https://snapshots.citrea.xyz/glpi/files/
+[alfacgiapi-wordpress] [http] [low] https://snapshots.citrea.xyz/wp-includes/ALFA_DATA/
+[alfacgiapi-wordpress] [http] [low] https://snapshots.citrea.xyz/wp-content/uploads/alm_templates/ALFA_DATA/alfacgiapi/
+[alfacgiapi-wordpress] [http] [low] https://snapshots.citrea.xyz/ALFA_DATA/alfacgiapi/
+[alfacgiapi-wordpress] [http] [low] https://snapshots.citrea.xyz/cgi-bin/ALFA_DATA/alfacgiapi/
+[CVE-2023-6505] [http] [high] https://snapshots.citrea.xyz/wp-content/uploads/prime-mover-export-files/1/
+[laravel-sessions-exposure] [http] [high] https://snapshots.citrea.xyz/storage/framework/sessions/
+[unauthenticated-duplicator-disclosure] [http] [medium] https://snapshots.citrea.xyz/wp-content/backups-dup-lite/tmp/
+[CVE-2020-15081] [http] [low] https://snapshots.citrea.xyz/upload/
+[CVE-2024-2340] [http] [medium] https://snapshots.citrea.xyz/wp-content/uploads/fusion-forms/
+[CVE-2026-24207] [http] [critical] https://smolclyde-api.treasure.lol/models
+[wp-mstore-plugin-listing] [http] [low] https://snapshots.citrea.xyz/wp-content/plugins/mstore-api/
+[framer-takeover] [http] [high] https://snowflake.flipsidecrypto.xyz ["magnificent-balance-420911.framer.app"]
+[framer-takeover] [http] [high] https://spin-event.verse8.io ["sites.framer.app"]
+[github-takeover] [http] [high] https://staging-dex.orderly.network ["orderlynetwork.github.io"]
+[wp-email-subscribers-listing] [http] [low] https://snapshots.citrea.xyz/wp-content/plugins/email-subscribers
+[expired-ssl] [ssl] [low] sitter.tempo.xyz:443 ["2026-06-20 09:24:54 +0000 UTC"]
+[expired-ssl] [ssl] [low] solanaecosystemaccelerator.edgevana.com:443 ["2025-10-12 09:53:44 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] staging.explorer-ws.switchboard.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] staging.explorer-ws.switchboard.xyz:443
