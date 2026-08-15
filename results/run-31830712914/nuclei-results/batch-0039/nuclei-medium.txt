@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://metrics-api.irys.xyz/metrics
