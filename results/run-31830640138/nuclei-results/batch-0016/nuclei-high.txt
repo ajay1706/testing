@@ -1,0 +1,4 @@
+[CVE-2020-35234] [http] [high] https://documentation.fordefi.com/wp-content/plugins/easy-wp-smtp/
+[CVE-2020-35234] [http] [high] https://documentation.fordefi.com/wp-content/plugins/wp-mail-smtp-pro/
+[github-takeover] [http] [high] https://docs.psyoptions.io ["mithraiclabs.github.io"]
+[laravel-sessions-exposure] [http] [high] https://documentation.fordefi.com/storage/framework/sessions/

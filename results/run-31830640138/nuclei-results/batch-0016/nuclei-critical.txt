@@ -1,0 +1,2 @@
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.nexus.xyz
+[CVE-2021-28918] [http] [critical] https://docs.nexus.xyz/?url=http://0177.0.0.1/server-status

@@ -1,0 +1,32 @@
+[CVE-2024-46310] [http] [medium] https://documentation.fordefi.com/players.json
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs-proxy.arize.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.arize.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs-proxy.arize.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.b3.fun:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.arize.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.b3.fun:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.dbt-ml.nansen.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.flipsidecrypto.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.dbt-ml.nansen.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.flipsidecrypto.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.soniclabs.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.soniclabs.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.stake.edgevana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.stake.edgevana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.validate.edgevana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.validate.edgevana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.verse8.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.verse8.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dotinsights-be.subwallet.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dotinsights-be.subwallet.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.nexus.xyz
+[CVE-2021-28918] [http] [critical] https://docs.nexus.xyz/?url=http://0177.0.0.1/server-status
+[CVE-2020-35234] [http] [high] https://documentation.fordefi.com/wp-content/plugins/easy-wp-smtp/
+[CVE-2020-35234] [http] [high] https://documentation.fordefi.com/wp-content/plugins/wp-mail-smtp-pro/
+[CVE-2020-15081] [http] [low] https://documentation.fordefi.com/upload/
+[CVE-2023-6592] [http] [medium] https://documentation.fordefi.com/wp-content/plugins/fastdup/logs/
+[azure-functions-hostjson-exposure] [http] [medium] https://documentation.fordefi.com/host.json
+[github-takeover] [http] [high] https://docs.psyoptions.io ["mithraiclabs.github.io"]
+[nexus-repository-anonymous-access] [http] [medium] https://documentation.fordefi.com/service/rest/v1/repositories
+[laravel-sessions-exposure] [http] [high] https://documentation.fordefi.com/storage/framework/sessions/
+[expired-ssl] [ssl] [low] docs.edgevana.com:443 ["2025-11-08 07:42:52 +0000 UTC"]
