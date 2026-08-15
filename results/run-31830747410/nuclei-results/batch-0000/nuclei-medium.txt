@@ -1,0 +1,2 @@
+[CVE-2021-44848] [http] [medium] https://api-dev.primuslabs.xyz/changePassword?username=administrator
+[CVE-2021-44848] [http] [medium] https://api.primuslabs.xyz/changePassword?username=administrator
