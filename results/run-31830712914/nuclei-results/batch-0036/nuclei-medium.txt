@@ -1,0 +1,3 @@
+[CVE-2021-37598] [http] [medium] https://latam-es.news.xerox.com/wp-json
+[CVE-2021-37598] [http] [medium] https://legalpractice.support.xerox.com/wp-json
+[prometheus-metrics] [http] [medium] https://ledger.api.across.to/metrics
