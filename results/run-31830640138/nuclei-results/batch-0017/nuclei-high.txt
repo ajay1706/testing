@@ -1,0 +1,5 @@
+[CVE-2023-6505] [http] [high] https://download.tempo.xyz/wp-content/uploads/prime-mover-export-files/1/
+[laravel-sessions-exposure] [http] [high] https://download.tempo.xyz/storage/framework/sessions/
+[CVE-2023-6114] [http] [high] https://download.tempo.xyz/wp-content/backups-dup-lite/tmp/
+[wix-takeover] [http] [high] https://en.pinai.io ["cdn1.wixdns.net"]
+[CVE-2022-2544] [http] [high] https://download.tempo.xyz/wp/wp-content/uploads/wpjobboard/

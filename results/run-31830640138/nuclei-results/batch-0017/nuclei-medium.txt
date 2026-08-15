@@ -1,0 +1,6 @@
+[CVE-2024-2340] [http] [medium] https://download.tempo.xyz/wp-content/uploads/fusion-forms/
+[unauthenticated-duplicator-disclosure] [http] [medium] https://download.tempo.xyz/wp-content/backups-dup-lite/tmp/
+[exposed-vscode] [http] [medium] https://download.tempo.xyz/.vscode/
+[CVE-2023-6592] [http] [medium] https://download.tempo.xyz/wp-content/plugins/fastdup/logs/
+[cobbler-exposed-directory] [http] [medium] https://download.tempo.xyz/cobbler/
+[cobbler-exposed-directory] [http] [medium] https://download.tempo.xyz/cblr/
