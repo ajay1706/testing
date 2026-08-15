@@ -1,0 +1,37 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] dappcon-relayer.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dappcon-v1.fileverse.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dappcon-relayer.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dappcon-v1.fileverse.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dashboard.arrakis.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dashboard.arrakis.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[sap-netweaver-info-leak] [http] [medium] https://cvp.eur.xerox.com/sap/public/info ["<RFCDEST>vnrpdi14_NRP_14</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://cvt.eur.xerox.com/sap/public/info ["<RFCDEST>vnpsdi16_NPS_16</RFCDEST>"]
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-ap-southeast-2-backend-production2.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-ap-southeast-2-backend-production1.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-eu-central-1-backend-production1.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-eu-central-1-backend-staging1.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-eu-central-1-backend-production2.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-eu-central-1-backend-staging2.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-production-intuit1.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-production-hcs.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-production-weekly2.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-production1.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-staging-dev1.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-staging-dev2.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-staging-sagar.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-staging-sri-1.vapi.ai/_headers
+[netlify-headers-config-exposure] [http] [low] https://dashboard.aws-us-west-2-backend-staging1.vapi.ai/_headers
+[grafana-metrics-exposure:version] [http] [low] https://dash.instadapp.io/metrics ["13.0.1"]
+[kubernetes-metrics] [http] [low] https://dash.instadapp.io/metrics
+[postgres-exporter-metrics] [http] [low] https://dash.instadapp.io/metrics
+[sap-public-admin] [http] [low] https://cvp.eur.xerox.com/sap/admin/public/index.html
+[sap-public-admin] [http] [low] https://cvt.eur.xerox.com/sap/admin/public/index.html
+[unauthenticated-varnish-cache-purge] [http] [low] https://ctv.truex.com
+[kubernetes-fake-certificate] [ssl] [low] cw11.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cw11.baseten.co:443
+[untrusted-root-certificate] [ssl] [low] cvt.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] cvp.eur.xerox.com:443
+[expired-ssl] [ssl] [low] dappcon.fileverse.io:443 ["2026-07-01 03:52:22 +0000 UTC"]
+[expired-ssl] [ssl] [low] dashboard.arch.network:443 ["2025-11-24 03:44:12 +0000 UTC"]

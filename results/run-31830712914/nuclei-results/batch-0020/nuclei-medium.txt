@@ -1,0 +1,2 @@
+[sap-netweaver-info-leak] [http] [medium] https://cvp.eur.xerox.com/sap/public/info ["<RFCDEST>vnrpdi14_NRP_14</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://cvt.eur.xerox.com/sap/public/info ["<RFCDEST>vnpsdi16_NPS_16</RFCDEST>"]
