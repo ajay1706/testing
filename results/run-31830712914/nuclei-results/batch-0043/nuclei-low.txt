@@ -1,0 +1,10 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] perps.teller.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] perps.teller.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] platform.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] platform.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] playai.launchpad.kaito.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] playai.launchpad.kaito.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[self-signed-ssl] [ssl] [low] paymaster-worker.infra-stress.candide.dev:443
+[self-signed-ssl] [ssl] [low] paymaster-worker-d47f4b897e8e.infra.candide.dev:443
+[self-signed-ssl] [ssl] [low] paymaster-worker-v2-051b9dc35b10.infra.candide.dev:443
+[expired-ssl] [ssl] [low] pda-proxy.rivalz.ai:443 ["2025-10-08 04:04:10 +0000 UTC"]
