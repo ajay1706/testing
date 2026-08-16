@@ -1,0 +1,16 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] zkpass.launchpad.kaito.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] zkpass.launchpad.kaito.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] znode.rivalz.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] znode.rivalz.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] zuben.ext.uknorthgw.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] zuben.ext.uknorthgw.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] zuben.ext.uknorthgw.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[kubernetes-fake-certificate] [ssl] [low] zhang-vcluster.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] zhang-vcluster.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] zhang-zzpn.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] zhang-zzpn.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] yuhao-omtx.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] yuhao-omtx.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] zhangfirst-e6c8.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] zhangfirst-e6c8.cert.api.mc-dev.baseten.co:443
+[expired-ssl] [ssl] [low] zparemoteadmin.corp.xerox.com:443 ["2024-11-06 23:59:59 +0000 UTC"]
