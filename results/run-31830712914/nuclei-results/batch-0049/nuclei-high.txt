@@ -1,0 +1,3 @@
+[prometheus-unauth] [http] [high] https://prometheus.allscale.io/api/v1/status/config
+[CVE-2019-11248] [http] [high] https://prometheus.allscale.io/debug/pprof/
+[CVE-2019-11248] [http] [high] https://quote.omni.apex.exchange/debug/pprof/
