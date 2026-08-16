@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://status.across.to
+[CVE-2026-30824] [http] [high] https://staking-api.coredao.org/api/v1/nvidia-nim/get-token

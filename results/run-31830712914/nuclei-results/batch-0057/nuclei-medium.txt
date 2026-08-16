@@ -1,0 +1,7 @@
+[CVE-2020-28185] [http] [medium] https://staking-api.coredao.org/tos/index.php?user/login
+[CVE-2026-55592] [http] [medium] https://staking-api.coredao.org/healthz ["1.0.0"]
+[jolokia-config-exposure] [http] [medium] https://staking-api.coredao.org/jolokia-agent.properties
+[prometheus-metrics] [http] [medium] https://subgraph-api-omega.towns.com/metrics
+[CVE-2026-32230] [http] [medium] https://status.dashboard.layeredge.io/api/badge/1/ping/24
+[CVE-2026-32230] [http] [medium] https://status.layeredge.io/api/badge/1/ping/24
+[nexus-repository-anonymous-access] [http] [medium] https://staking-api.coredao.org/service/rest/v1/repositories
