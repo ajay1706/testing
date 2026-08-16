@@ -1,0 +1,24 @@
+[CVE-2022-0952] [http] [high] https://neon-mainnet.everstake.one/wp-json/click5_sitemap/API/update_html_option_AJAX
+[CVE-2022-0952] [http] [high] https://neon-mainnet.everstake.one/wp-json/click5_sitemap/API/update_html_option_AJAX
+[CVE-2025-55184] [http] [high] https://multisig.miden.xyz/login
+[weak-cipher-suites:tls-1.0] [ssl] [low] mta-sts.pieces.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mta-sts.pieces.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] n.plasma.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] n.plasma.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] n8n.dappier.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] n8n.dappier.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] new.plasma.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] new.plasma.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] news.pieces.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] network.govpurchasing.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] news.pieces.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] network.govpurchasing.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2026-21858] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2026-21877] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.arch.network [""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_STYTCH_DEVICE_FINGERPRINTING_ENABLED":"true"",""VITE_STYTCH_PUBLIC_TOKEN":"public-token-live-bb368f5c-d1e6-477a-b194-cba5627e95f1"",""VITE_STYTCH_SUBMIT_URL":"tw-bt.beehiiv.com"",""VITE_STYTCH_TELEMETRY_URL":"https://elements.stytch.com/telemetry.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false""]
+[prometheus-metrics] [http] [medium] https://n8n.dappier.com/metrics
+[expired-ssl] [ssl] [low] nafappsdev-new.corp.xerox.com:443 ["2025-12-26 23:59:59 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] newop.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] newop.cert.api.mc-dev.baseten.co:443
+[untrusted-root-certificate] [ssl] [low] mt1-its.eur.xerox.com:443
+[self-signed-ssl] [ssl] [low] netdata.infra-stress.candide.dev:443
