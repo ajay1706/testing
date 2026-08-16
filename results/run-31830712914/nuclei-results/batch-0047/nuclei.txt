@@ -1,0 +1,113 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] predictprint.business.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] predictprint.business.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tomcat-stacktraces] [http] [low] https://predictprint.business.xerox.com/?f=\[
+[kubernetes-fake-certificate] [ssl] [low] pr73-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr73-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr76-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr76-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr74-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr74-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr74-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr74-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr76-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr76-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr75-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr75-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr75-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr75-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr75-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr75-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr73-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr73-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr74-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr74-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr76-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr76-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr77-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr77-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr8-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr8-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr81-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr81-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr80-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr80-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr81-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr81-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr79-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr79-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr8-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr8-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr80-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr80-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr81-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr81-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr82-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr82-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr82-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr82-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr82-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr82-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr83-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr83-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr83-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr83-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr84-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr84-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr85-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr85-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr85-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr85-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr85-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr85-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr84-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr84-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr86-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr86-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr87-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr87-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr88-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr88-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr88-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr88-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr89-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr89-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr90-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr90-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr88-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr88-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr89-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr89-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr91-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr91-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr90-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr90-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr91-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr91-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr91-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr91-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr94-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr94-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr95-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr95-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr95-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr95-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr96-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr96-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr96-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr96-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr95-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr95-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr96-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr96-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr97-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr97-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr97-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr97-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr97-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr97-rpc2.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr98-leader.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr98-leader.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr98-rpc1.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr98-rpc1.dev.arch.network:443
+[kubernetes-fake-certificate] [ssl] [low] pr98-rpc2.dev.arch.network:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] pr98-rpc2.dev.arch.network:443
