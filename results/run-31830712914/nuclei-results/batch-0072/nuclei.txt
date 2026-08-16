@@ -1,0 +1,31 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] xrx-sedona-dev-apim.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xrx-sedona-qa-apim.corp.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xrx-sedona-dev-apim.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xrx-sedona-qa-apim.corp.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xvapex.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xvapextest.idns.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xwcdmstaging.services.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xwcdm.services.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xvapex.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xwcdmtest.services.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xvapextest.idns.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xwcdmstaging.services.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xwcdmtest.services.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xwcdm.services.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] yaps.kaito.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] yaps.kaito.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] yellah.ext.useastgw.xerox.com:443 ["[tls10 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] yellah.ext.useastgw.xerox.com:443 ["[tls11 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] yellah.ext.useastgw.xerox.com:443 ["[tls12 TLS_RSA_WITH_AES_256_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://xplore.api.v2.routerprotocol.com/metrics
+[unauthenticated-varnish-cache-purge] [http] [low] https://xwastage.services.xerox.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://xwadev.services.xerox.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://xwa.services.xerox.com
+[untrusted-root-certificate] [ssl] [low] xrastaging.services.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] xrm3b.services.xerox.com:443
+[expired-ssl] [ssl] [low] xrxappsemail-dev.services.xerox.com:443 ["2025-04-04 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] xvapex.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] xvapextest.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] xwp-its.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] xwp-its.idns.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] xwt-its.eur.xerox.com:443
