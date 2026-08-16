@@ -1,0 +1,8 @@
+[CVE-2025-55184] [http] [high] https://fireworks.ai/
+[github-takeover] [http] [high] https://www.alluvial.finance ["alluvialfinance.github.io"]
+[framer-takeover] [http] [high] https://www.blog.exponent.finance ["sites.framer.app"]
+[wix-takeover] [http] [high] https://www.build.blocto.io ["pointing.wixdns.net"]
+[github-takeover] [http] [high] https://www.nil.foundation ["nilfoundation.github.io"]
+[framer-takeover] [http] [high] https://www.scroll.io
+[framer-takeover] [http] [high] https://www.ufo.fm ["sites.framer.app"]
+[framer-takeover] [http] [high] https://year-in-review-2025.edgevana.com

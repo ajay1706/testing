@@ -1,0 +1,1 @@
+[open-redirect-generic] [http] [medium] https://www.sarvam.ai///https://oast.me// [redirect="//https://oast.me//"]
