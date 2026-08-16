@@ -1,0 +1,2 @@
+[wp-jetpack-ssrf] [http] [medium] https://topdocs.truex.com/wp-json/wpcom/v2/tweetstorm/generate-cards
+[eol-openssh-debian] [javascript] [medium] topdocs.truex.com:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4"]
