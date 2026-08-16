@@ -1,0 +1,2 @@
+[configuration-listing] [http] [medium] https://voipmonitor.vapi.ai/config/
+[prometheus-metrics] [http] [medium] https://vault-v-ledger.beta.staging.across.to/metrics

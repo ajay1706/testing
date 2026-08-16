@@ -1,0 +1,44 @@
+[CVE-2020-3952:version] [http] [critical] https://vlpconproxy-msp.support.xerox.com/sdk/ ["4.0.0"]
+[CVE-2020-5902] [http] [critical] https://vcm08.external.xerox.com/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/passwd
+[CVE-2020-5902] [http] [critical] https://vcm08.external.xerox.com/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/f5-release
+[CVE-2020-5902] [http] [critical] https://vcm08.external.xerox.com/tmui/locallb/workspace/tmshCmd.jsp
+[CVE-2020-5902] [http] [critical] https://vcm08.external.xerox.com/tmui/locallb/workspace/tmshCmd.jsp
+[CVE-2020-5902] [http] [critical] https://vcm08.external.xerox.com/tmui/locallb/workspace/tmshCmd.jsp
+[CVE-2022-1388] [http] [critical] https://vcm08.external.xerox.com/mgmt/tm/util/bash
+[CVE-2023-34048:version] [http] [critical] https://vlpconproxy-msp.support.xerox.com/sdk/ ["4.0.0"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa7061xmg001-ext.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa0300xmg002-ext.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa7061xmg002-ext.epn.uswestgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] usa0300xmg001-ext.epn.useastgw.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa7061xmg001-ext.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa7061xmg002-ext.epn.uswestgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa0300xmg002-ext.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] usa0300xmg001-ext.epn.useastgw.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] user-data-delivery.services.pieces.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] user-data-delivery.services.pieces.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v1.info.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v1.info.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v2.across.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v2.info.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v2.across.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v2.info.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v3.info.uniswap.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v3.info.uniswap.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v5.api.beta.staging.across.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v5.api.beta.staging.across.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] vars.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vars.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] vault.ledger.beta.staging.across.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vault.ledger.beta.staging.across.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] vault-v-ledger.beta.staging.across.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vault-v-ledger.beta.staging.across.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] verify.irys.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] verify.irys.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] vm.dev.quotes.api.across.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vm.dev.quotes.api.across.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tomcat-stacktraces] [http] [low] https://vippsupport.xerox.com/?f=\[
+[configuration-listing] [http] [medium] https://voipmonitor.vapi.ai/config/
+[prometheus-metrics] [http] [medium] https://vault-v-ledger.beta.staging.across.to/metrics
+[expired-ssl] [ssl] [low] v1-docs-preprod.fileverse.io:443 ["2025-07-16 08:02:07 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] v2.testnet.bridge.alephium.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] v2.testnet.bridge.alephium.org:443
