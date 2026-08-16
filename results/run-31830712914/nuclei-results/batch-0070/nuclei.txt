@@ -1,0 +1,12 @@
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://xog-13-13-59-132.epn.useastgw.xerox.com/index ["index.xml","index.html"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://xog-13-13-59-132.epn.useastgw.xerox.com/test ["test.html"] [path="/test"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xeroxventuresbrandcentral.external.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xeroxventuresbrandcentral-dev.external.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xeroxventuresbrandcentral.external.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xeroxventuresbrandcentral-dev.external.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xiqkb7.support.xerox.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xiqkb7.support.xerox.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[sap-netweaver-info-leak] [http] [medium] https://xi3.eur.xerox.com/sap/public/info ["<RFCDEST>vsrbci_SRB_20</RFCDEST>"]
+[untrusted-root-certificate] [ssl] [low] xewt.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] xi3.eur.xerox.com:443
+[untrusted-root-certificate] [ssl] [low] xewp.eur.xerox.com:443
