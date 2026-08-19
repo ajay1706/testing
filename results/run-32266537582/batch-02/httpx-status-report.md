@@ -1,0 +1,87 @@
+# HTTPX Status Report
+
+Generated at: Wed Aug 19 14:54:30 UTC 2026
+
+HTTPX lines: 62
+Live URLs: 62
+
+## 200
+https://doom.cartesi.io [200] [] [9905] [Doom Arena // Cartesi] [GitHub.com] [185.199.110.153] [115.922169ms] [Fastly,GitHub Pages,Varnish]
+https://creepts.cartesi.io [200] [] [5404] [Creepts by Cartesi - The Operating System for DApps] [AmazonS3] [18.154.253.129] [cloudfront] [179.139863ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://docs.cartesi.io [200] [] [5385] [Cartesi Documentation] [AmazonS3] [3.168.2.104] [cloudfront] [242.824017ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Docusaurus:3.6.3,Google Analytics,Google Tag Manager,HTTP/3,React,Webpack]
+https://cosmos.chorus.one [200] [] [3656] [cloudflare] [172.67.208.14] [cloudflare] [753.903817ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://graph.campnetwork.xyz [200] [] [283] [nginx/1.24.0 (Ubuntu)] [3.147.46.22] [370.377301ms] [Nginx:1.24.0,Ubuntu]
+https://explorer.cartesi.io [200] [] [55666] [Stake CTSI | Secure the Cartesi network and earn rewards] [Vercel] [76.76.21.93] [253.930584ms] [HSTS,Vercel]
+https://claims.campnetwork.xyz [200] [] [21436] [CAMP Airdrop] [istio-envoy] [34.49.241.17] [google] [721.145507ms] [Envoy,HTTP/3,Next.js,Node.js,React,Webpack]
+https://handbook.chorus.one [200] [] [15989] [Introduction - The Network Handbook] [GitHub.com] [185.199.111.153] [358.847979ms] [Clipboard.js,Fastly,GitHub Pages,HSTS,Lunr.js,Varnish]
+https://faucet.campnetwork.xyz [200] [] [65366] [Camp Network] [Vercel] [76.76.21.142] [377.296137ms] [HSTS,Vercel]
+https://chorus.one [200] [] [80539] [Chorus One | Stake Crypto Without Complexities | Most trusted institutional staking provider] [cloudflare] [198.202.211.1] [299.692839ms] [Cloudflare,Google Analytics,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Slick,Termly,Unpkg,jQuery:3.5.1,jsDelivr]
+https://dave-demo.cartesi.io [200] [] [45481] [Vercel] [216.150.1.129] [700.432516ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://honeypot.cartesi.io [200] [] [101207] [Crack the PRT Honeypot v2 and drain the locked funds] [AmazonS3] [108.138.167.80] [cloudfront] [376.887335ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Gatsby:5.15.0,Google Analytics,Google Tag Manager,HTTP/3,React,Webpack]
+https://cartesi.io [200] [] [218816] [Cartesi | Any Code. Ethereum’s Security.] [AmazonS3] [108.156.245.67] [cloudfront] [216.26243ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Crazy Egg,Gatsby:5.13.4,Google Analytics,Google Tag Manager,HTTP/3,React,Webpack]
+https://governance.cartesi.io [200] [] [148687] [Cartesi Governance - Grants and governance proposal area] [nginx] [184.104.178.43] [865.004229ms] [Discourse:2026.8.0,Google Tag Manager,HSTS,Nginx,Ruby on Rails]
+https://maitrix.campnetwork.xyz [200] [] [14589] [mAItrix by CampNetwork] [railway-hikari] [69.46.46.0] [455.257423ms] [Next.js,Node.js,React,Webpack]
+https://portal.campnetwork.xyz [200] [] [13124] [Camp Network] [Vercel] [216.150.16.193] [256.837464ms] [HSTS,Vercel]
+https://security.chorus.one [200] [] [2701] [Trust Center | Powered by Drata] [cloudflare] [104.18.41.248] [cloudflare] [393.832168ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Drata,HSTS,Merge,React]
+https://staging.docs.cartesi.io [200] [] [5385] [Cartesi Documentation] [AmazonS3] [18.154.219.73] [cloudfront] [239.797355ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Docusaurus:3.6.3,Google Analytics,Google Tag Manager,HTTP/3,React,Webpack]
+https://origin.campnetwork.xyz [200] [] [13838] [Camp Network - Origin] [Vercel] [76.76.21.164] [560.241978ms] [HSTS,Vercel]
+https://sui-bridge-mainnet.chorus.one [200] [] [0] [] [91.134.21.235] [542.174063ms]
+https://sui-bridge-mainnet.harbor.chorus.one [200] [] [0] [] [178.162.164.207] [526.673845ms]
+https://ecosystem.campnetwork.xyz [200] [] [256799] [Camp Network] [Vercel] [76.76.21.98] [200.455558ms] [HSTS,Vercel]
+https://docs.campnetwork.xyz [200] [] [411773] [Introducing Camp | CAMP Technical Docs] [cloudflare] [172.66.159.62] [cloudflare] [482.964123ms] [Cloudflare,GitBook,HSTS,Vercel]
+https://status.cartesi.io [200] [] [213066] [Cartesi Status] [AtlassianEdge] [3.170.115.14] [cloudfront] [744.361127ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://rolluplab.cartesi.io [200] [] [296516] [Rollup Lab - Projects Powered by Cartesi] [AmazonS3] [18.161.134.81] [cloudfront] [219.799174ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Docusaurus:3.7.0,Google Tag Manager,HTTP/3,React,Webpack]
+https://www.campnetwork.xyz [200] [] [132211] [Camp Network] [Vercel] [216.150.16.193] [356.235394ms] [Google Font API,Google Hosted Libraries,HSTS,Vercel,jQuery:3.5.1]
+https://www.cartesi.io [200] [] [218816] [Cartesi | Any Code. Ethereum’s Security.] [AmazonS3] [108.156.245.83] [cloudfront] [140.231681ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Crazy Egg,Gatsby:5.13.4,Google Analytics,Google Tag Manager,HTTP/3,React,Webpack]
+https://sdk.chorus.one [200] [] [1045601] [Getting Started | Chorus One SDK] [cloudflare] [104.18.40.47] [cloudflare] [527.225511ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+https://careers.chorus.one [301] [https://recruitee.com/careers_not_hosted] [106] [] [35.242.209.60] [google] [609.981968ms] [HSTS]
+https://guides.chorus.one [301] [https://chorus.one/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [620.883864ms] [Cloudflare,HSTS,HTTP/3]
+https://loyalty.campnetwork.xyz [301] [https://claims.campnetwork.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.62] [cloudflare] [284.748534ms] [Cloudflare]
+http://next.opus.chorus.one [301] [https://next.opus.chorus.one:443/] [0] [] [35.190.51.73] [google] [46.704852ms]
+https://testnet.campnetwork.xyz [301] [https://claims.campnetwork.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.20.39.143] [cloudflare] [270.148772ms] [Cloudflare]
+https://www.chorus.one [301] [https://chorus.one/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [404.004209ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://blog.chorus.one [302] [https://chorus.one/blog] [502] [302 Found] [cloudflare] [104.21.53.28] [cloudflare] [294.501663ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://preview.explorer.cartesi.io [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fpreview.explorer.cartesi.io%2F&nonce=5c817eb3f1484677e506425e9c3efc19c39bb5d9154e4ae13580e7ee4763392c] [15] [Vercel] [66.33.60.194] [327.400264ms] [HSTS,Vercel]
+https://staking.chorus.one [302] [https://staking.chorus.one/eth/stake] [5] [cloudflare] [104.21.53.28] [cloudflare] [573.925053ms] [Cloudflare,HSTS,HTTP/3]
+https://support.chorus.one [302] [https://support.chorus.one/hc] [0] [cloudflare] [216.198.53.6] [454.580071ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://www.careers.chorus.one [302] [https://careers.chorus.one/] [93] [] [35.242.209.60] [google] [568.475058ms] [HSTS]
+
+## 307
+https://kb.chorus.one [307] [https://app.gitbook.com/o/pEq7DqIRRV63MeJ6sKVS/sites/site_C856f/] [15] [cloudflare] [172.64.147.209] [cloudflare] [409.147358ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://campnetwork.xyz [308] [https://www.campnetwork.xyz/] [15] [Vercel] [216.150.1.129] [210.910793ms] [HSTS,Vercel]
+https://dev.campnetwork.xyz [308] [https://dev.campnetwork.xyz/] [14] [cloudflare] [172.66.159.62] [cloudflare] [391.235423ms] [Cloudflare]
+https://remix.campnetwork.xyz [308] [https://remix.campnetwork.xyz/] [14] [cloudflare] [104.20.39.143] [cloudflare] [331.46542ms] [Cloudflare]
+
+## 401
+https://bridge.campnetwork.xyz [401] [] [14077] [Authentication Required] [Vercel] [216.150.1.129] [471.04439ms] [HSTS,Vercel]
+https://dave-ui.cartesi.io [401] [] [61] [Caddy Qloaked] [137.66.11.6] [685.642794ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 403
+https://gather.campnetwork.xyz [403] [] [4551] [Attention Required! | Cloudflare] [cloudflare] [216.24.57.15] [316.28984ms] [Cloudflare]
+https://mirror.chorus.one [403] [] [263] [cloudflare] [104.21.53.28] [cloudflare] [435.240923ms] [Amazon Web Services,Cloudflare,HSTS,HTTP/3]
+
+## 404
+https://dev.opus.chorus.one [404] [] [127] [UploadServer] [34.49.184.162] [google] [332.828775ms] [HTTP/3]
+https://bucket-testnet.campnetwork.xyz [404] [] [27150] [Not Found] [cloudflare] [172.66.159.62] [cloudflare] [497.117665ms] [Cloudflare]
+https://k8s-ovh-ingress.chorus.one [404] [] [19] [] [51.210.159.154] [651.266788ms]
+https://maitrix-backend.campnetwork.xyz [404] [] [101] [railway-hikari] [69.46.46.109] [390.396925ms]
+https://native-staking.chorus.one [404] [] [19] [cloudflare] [104.21.53.28] [cloudflare] [639.699879ms] [Cloudflare,HSTS,HTTP/3]
+https://solana.chorus.one [404] [] [9379] [Page not found · GitHub Pages] [GitHub.com] [185.199.110.153] [312.193812ms] [Fastly,GitHub Pages,Varnish]
+https://testing.opus.chorus.one [404] [] [74] [] [34.102.138.51] [google] [636.330694ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://tinygraphs.cartesi.io [404] [] [19] [Fly/6ced60585 (2026-08-19)] [66.241.124.204] [461.100555ms] [Fly.io]
+https://widget.chorus.one [404] [] [10057] [Chorus One Widget] [cloudflare] [172.67.208.14] [cloudflare] [634.982257ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 500
+
+## 502
+https://blog.chorus.one [302] [https://chorus.one/blog] [502] [302 Found] [cloudflare] [104.21.53.28] [cloudflare] [294.501663ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://feed.campnetwork.xyz [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [3.147.46.22] [205.684525ms] [Nginx:1.24.0,Ubuntu]
+
+## 503
+
