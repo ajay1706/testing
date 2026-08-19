@@ -1,0 +1,6 @@
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://firstb.demo-statestreet.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://gft.demo-gft.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://gg.demo-bog-payment.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://green.demo-bank-of-greece.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://green.demo-bog-payment.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://hal.demo-abnamro.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
