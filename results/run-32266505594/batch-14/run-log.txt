@@ -1,0 +1,14 @@
+[+] Batch started: Wed Aug 19 15:01:45 UTC 2026
+[+] Run ID: 32266505594
+[+] Batch name: batch-14
+[+] Batch targets:
+sxt.io
+tartswap.xyz
+theoriq.ai
+[+] Running subfinder...
+[+] Subfinder completed: Wed Aug 19 15:02:49 UTC 2026
+[+] HTTPX input count: 13
+[+] Running httpx...
+[+] httpx completed: Wed Aug 19 15:03:01 UTC 2026
+[+] httpx line count: 8
+[+] Batch completed: Wed Aug 19 15:03:01 UTC 2026
