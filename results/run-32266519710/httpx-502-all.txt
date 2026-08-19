@@ -1,0 +1,7 @@
+https://developer.cudis.xyz [502] [] [932] [ERROR: The request could not be satisfied] [] [65.8.180.3] [cloudfront] [86.455848ms] [Amazon CloudFront,Amazon Web Services]
+https://filip-a.feat.cork.tech [502] [] [16] [cloudflare] [172.66.158.234] [cloudflare] [532.875657ms] [Cloudflare]
+https://filip-b.feat.cork.tech [502] [] [16] [cloudflare] [172.66.158.234] [cloudflare] [490.448773ms] [Cloudflare]
+https://gio-a.feat.cork.tech [502] [] [16] [cloudflare] [104.20.39.29] [cloudflare] [508.213899ms] [Cloudflare]
+https://gio-b.feat.cork.tech [502] [] [16] [cloudflare] [172.66.158.234] [cloudflare] [537.485502ms] [Cloudflare]
+https://heri-b.feat.cork.tech [502] [] [16] [cloudflare] [104.20.39.29] [cloudflare] [512.251266ms] [Cloudflare]
+https://uat-dapp-backend.fractionai.xyz [502] [] [559] [502 Bad Gateway] [nginx/1.26.3] [65.1.91.254] [750.905877ms] [Nginx:1.26.3]

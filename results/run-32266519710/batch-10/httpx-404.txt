@@ -1,0 +1,2 @@
+https://public-assets-r2.perpl.xyz [404] [] [27503] [Not Found] [cloudflare] [104.20.45.91] [cloudflare] [279.674238ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://en.pinai.io [404] [] [2516] [ConnectYourDomain Error | Wix.com] [Pepyaka] [34.149.87.45] [google] [481.00304ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,React,Wix]

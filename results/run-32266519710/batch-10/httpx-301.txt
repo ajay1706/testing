@@ -1,0 +1,3 @@
+https://www.perpl.xyz [301] [https://perpl.xyz/] [520] [301 Moved Permanently] [cloudflare] [172.66.149.49] [cloudflare] [87.977625ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://www.pinai.io [301] [https://www.pinai.com/] [0] [Pepyaka] [34.149.87.45] [google] [243.602242ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,React,Wix]
+https://pinai.io [301] [https://www.pinai.com/] [0] [Pepyaka] [185.230.63.107] [2.574461132s] [HSTS,React,Wix]
