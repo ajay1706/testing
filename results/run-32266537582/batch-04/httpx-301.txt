@@ -1,0 +1,3 @@
+https://release.element.market [301] [https://release.element.market/] [166] [301 Moved Permanently] [cloudflare] [172.66.172.237] [cloudflare] [963.046197ms] [Cloudflare,HTTP/3]
+https://www.element.market [301] [https://element.market/] [166] [301 Moved Permanently] [cloudflare] [104.20.31.90] [cloudflare] [1.004978709s] [Cloudflare,HTTP/3]
+http://api2.element.market [301] [https://api2.element.market/] [167] [301 Moved Permanently] [cloudflare] [104.20.31.90] [cloudflare] [22.441036ms] [Cloudflare,HTTP/3]

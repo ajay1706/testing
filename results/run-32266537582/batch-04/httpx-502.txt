@@ -1,0 +1,6 @@
+https://300-errors.elizaos.ai [502] [] [11] [nginx] [206.81.100.157] [260.680822ms] [Nginx]
+https://disperser-v2-testnet-ussj1-hoodi.eigenda.xyz [502] [] [16] [cloudflare] [104.18.1.169] [cloudflare] [313.765869ms] [Cloudflare]
+https://relay-1-testnet-ussj1-hoodi.eigenda.xyz [502] [] [16] [cloudflare] [104.18.1.169] [cloudflare] [337.553119ms] [Cloudflare]
+https://x402.elizaos.ai [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [206.81.100.188] [290.752267ms] [Nginx:1.24.0,Ubuntu]
+https://this-is.elizaos.ai [502] [] [11] [nginx] [206.81.100.157] [459.555662ms] [Nginx]
+https://polaccelerator.elizaos.ai [502] [] [11] [nginx] [206.81.100.157] [3.306130726s] [Nginx]
