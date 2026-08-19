@@ -1,0 +1,14 @@
+[+] Batch started: Wed Aug 19 14:56:03 UTC 2026
+[+] Run ID: 32266482231
+[+] Batch name: batch-07
+[+] Batch targets:
+midas.app
+mitosis.org
+nexus.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Wed Aug 19 14:56:10 UTC 2026
+[+] HTTPX input count: 213
+[+] Running httpx...
+[+] httpx completed: Wed Aug 19 14:56:45 UTC 2026
+[+] httpx line count: 93
+[+] Batch completed: Wed Aug 19 14:56:45 UTC 2026
