@@ -1,0 +1,3 @@
+https://private-debug.governors.mainnet.redbelly.network [403] [] [134] [403] [] [34.160.199.81] [google] [364.588082ms] [HTTP/3]
+https://private.governors.mainnet.redbelly.network [403] [] [134] [403] [] [34.111.221.155] [google] [326.154792ms] [HTTP/3]
+https://private-debug.governors.testnet.redbelly.network [403] [] [134] [403] [] [34.8.191.218] [google] [373.261042ms] [HTTP/3]
