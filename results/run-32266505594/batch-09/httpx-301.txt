@@ -1,0 +1,6 @@
+https://puzzle.lumiterra.net [301] [https://puzzle.lumiterra.net/puzzle-stake] [167] [301 Moved Permanently] [cloudflare] [104.26.15.246] [cloudflare] [81.005836ms] [Cloudflare]
+https://gmonad.lumiterra.net [301] [https://gmonad.lumiterra.net/lumonad] [167] [301 Moved Permanently] [cloudflare] [104.26.14.246] [cloudflare] [90.175913ms] [Cloudflare]
+https://play.lumiterra.net [301] [https://lumiterra.net/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.246] [cloudflare] [92.44198ms] [Cloudflare]
+https://help.liquidium.fi [301] [https://help.liquidium.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.15.217] [cloudflare] [108.167376ms] [Cloudflare,HSTS,HTTP/3]
+https://meltingfaces.liquidium.fi [301] [https://app.liquidium.wtf/] [520] [301 Moved Permanently] [cloudflare] [104.18.14.217] [cloudflare] [285.749573ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://app.maiga.ai [301] [https://token.maiga.ai/] [15] [Vercel] [216.150.1.193] [397.213924ms] [HSTS,Vercel]

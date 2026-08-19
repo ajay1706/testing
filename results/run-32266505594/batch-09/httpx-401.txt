@@ -1,0 +1,2 @@
+https://oracle-testnet.liquidium.fi [401] [] [12] [cloudflare] [104.18.14.217] [cloudflare] [454.763643ms] [Cloudflare,HSTS,HTTP/3]
+https://oracle-staging.liquidium.fi [401] [] [12] [cloudflare] [104.18.14.217] [cloudflare] [761.112045ms] [Cloudflare,HSTS,HTTP/3]
