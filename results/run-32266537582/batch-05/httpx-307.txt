@@ -1,0 +1,2 @@
+https://poc.euphoria.finance [307] [] [5263] [Euphoria] [Vercel] [66.33.60.35] [241.7951ms] [HSTS,Vercel,dc.js]
+https://app.euphoria.finance [307] [] [5263] [Euphoria] [Vercel] [66.33.60.194] [562.873455ms] [HSTS,Vercel,dc.js]
