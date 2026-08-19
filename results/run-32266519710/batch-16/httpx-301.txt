@@ -1,0 +1,3 @@
+https://www.yeet.com [301] [https://yeet.com/] [0] [CloudFront] [65.8.20.25] [cloudfront] [105.567226ms] [Amazon CloudFront,Amazon Web Services]
+https://www.zodl.com [301] [http://zodl.com/] [174] [301 Moved Permanently] [cloudflare] [104.26.7.93] [cloudflare] [211.446704ms] [Cloudflare,HSTS]
+https://comingsoon.yeet.com [301] [https://yeet.com/] [0] [AmazonS3] [18.238.96.114] [cloudfront] [337.268267ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
