@@ -1,0 +1,2 @@
+[CVE-2019-11248] [http] [high] https://hyper-prometheous.asxn.xyz/debug/pprof/
+[prometheus-unauth] [http] [high] https://hyper-prometheous.asxn.xyz/api/v1/status/config
