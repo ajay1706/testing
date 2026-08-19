@@ -1,0 +1,4 @@
+https://www.anoma.net [301] [https://anoma.net/] [526] [301 Moved Permanently] [cloudflare] [104.21.31.42] [cloudflare] [175.901597ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://blog.anoma.net [301] [https://anoma.net/blog] [56] [openresty] [151.101.195.7] [fastly] [265.228427ms] [Nginx,OpenResty,Varnish]
+https://research.anoma.net [301] [https://forum.anoma.net/] [0] [] [184.104.178.43] [396.154708ms]
+http://docs.anoma.net [301] [https://docs.anoma.net/] [38] [Netlify] [18.208.88.157] [100.436435ms] [Netlify]
