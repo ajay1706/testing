@@ -1,0 +1,1 @@
+[superset-default-login] [http] [high] https://dashboard.qa-hitpa.consint.ai/api/v1/security/login [password="admin",username="admin"]
