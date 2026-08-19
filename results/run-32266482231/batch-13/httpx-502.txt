@@ -1,0 +1,3 @@
+https://blue.pft-1.perftest.swiat.io [502] [] [559] [502 Bad Gateway] [nginx/1.27.0] [195.201.22.178] [665.353569ms] [Nginx:1.27.0]
+https://cyan.pft-1.perftest.swiat.io [502] [] [559] [502 Bad Gateway] [nginx/1.27.0] [195.201.22.178] [495.406079ms] [Nginx:1.27.0]
+https://swiat.pft-1.perftest.swiat.io [502] [] [157] [502 Bad Gateway] [nginx/1.27.0] [195.201.22.178] [1.503590396s] [Nginx:1.27.0]

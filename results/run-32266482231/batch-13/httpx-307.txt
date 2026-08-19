@@ -1,0 +1,2 @@
+https://servicedesk.swiat.io [307] [https://servicedesk.swiat.io/login?callbackUrl=%2F] [50] [nginx] [116.203.239.36] [432.715347ms] [HSTS,Nginx]
+https://tst.servicedesk.swiat.io [307] [https://tst.servicedesk.swiat.io/login?callbackUrl=%2F] [54] [nginx] [167.235.17.172] [615.718571ms] [HSTS,Nginx]

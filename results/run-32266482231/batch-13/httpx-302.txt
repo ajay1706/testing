@@ -1,0 +1,3 @@
+https://auth.swiat.io [302] [https://auth.swiat.io/admin/] [0] [nginx] [116.203.239.36] [512.08603ms] [HSTS,Nginx]
+https://qr.silencio.network [302] [https://silencio.network/] [47] [Caddy] [178.62.200.67] [435.833913ms] [Caddy,Express,HSTS,HTTP/3,Node.js]
+https://tst.auth.swiat.io [302] [https://tst.auth.swiat.io/admin/] [0] [nginx] [167.235.17.172] [769.85885ms] [HSTS,Nginx]
