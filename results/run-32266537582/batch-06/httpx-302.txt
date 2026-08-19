@@ -1,0 +1,5 @@
+https://delphi.gensyn.ai [302] [https://delphi.fyi/] [496] [302 Found] [cloudflare] [172.66.164.202] [cloudflare] [93.795112ms] [Cloudflare,Cloudflare Browser Insights]
+https://gensyn.ai [302] [https://www.gensyn.ai/] [496] [302 Found] [cloudflare] [104.20.38.215] [cloudflare] [141.68297ms] [Cloudflare,Cloudflare Browser Insights]
+https://developer.gensyn.ai [302] [https://github.com/pages/auth?nonce=031672c0-731f-4093-8718-2d5d7421f960&page_id=41689060&path=Lw] [138] [302 Found] [GitHub.com] [185.199.110.153] [202.563471ms] [Fastly,GitHub Pages,Varnish]
+https://ml-landing.gensyn.ai [302] [https://github.com/pages/auth?nonce=6d17ffea-fef2-408d-b552-b32ff6166d17&page_id=41766777&path=Lw] [138] [302 Found] [GitHub.com] [185.199.110.153] [345.655217ms] [Fastly,GitHub Pages,Varnish]
+http://video-translator.gaianet.ai [302] [http://video-translator.gaianet.ai/users/sign_in] [114] [nginx] [43.130.58.80] [89.321089ms] [HSTS,Nginx]
