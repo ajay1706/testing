@@ -1,0 +1,91 @@
+# HTTPX Status Report
+
+Generated at: Wed Aug 19 14:54:36 UTC 2026
+
+HTTPX lines: 74
+Live URLs: 74
+
+## 200
+https://bitcoin-kit.hemi.xyz [200] [] [10654] [Bitcoin Kit Demo] [cloudflare] [104.18.23.222] [cloudflare] [270.817622ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://app.hemi.xyz [200] [] [8283] [Hemi Portal] [cloudflare] [104.18.23.222] [cloudflare] [204.824811ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Hostinger,LiteSpeed,LiteSpeed Cache,Litespeed Cache]
+https://boost-relay-hoodi.flashbots.net [200] [] [32148] [Flashbots MEV-Boost Relay - Hoodi] [cloudflare] [104.20.21.179] [cloudflare] [160.006219ms] [Cloudflare,Pure CSS,React]
+https://boost-relay.flashbots.net [200] [] [31884] [Flashbots MEV-Boost Relay - Mainnet] [cloudflare] [104.20.21.179] [cloudflare] [138.883655ms] [Cloudflare,Pure CSS,React]
+https://beta-app.hemi.xyz [200] [] [8283] [Hemi Portal] [cloudflare] [104.18.22.222] [cloudflare] [347.636392ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Hostinger,LiteSpeed,LiteSpeed Cache,Litespeed Cache]
+https://boost-relay-sepolia.flashbots.net [200] [] [32430] [Flashbots MEV-Boost Relay - Sepolia] [cloudflare] [104.20.21.179] [cloudflare] [234.402674ms] [Cloudflare,Pure CSS,React]
+https://ctf-data.flashbots.net [200] [] [160] [cloudflare] [172.66.170.133] [cloudflare] [247.760804ms] [Cloudflare]
+https://builder-artifacts.flashbots.net [200] [] [18061] [Flashbots Builder Public Artifacts] [cloudflare] [172.66.170.133] [cloudflare] [627.043615ms] [Cloudflare]
+https://docs.fermah.xyz [200] [] [27509] [Fermah Documentation] [cloudflare] [104.18.29.149] [cloudflare] [139.915078ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.flashbots.net [200] [] [23468] [Welcome to Flashbots | Flashbots Docs] [Vercel] [66.33.60.129] [193.310683ms] [Docusaurus:3.0.1,HSTS,React,Vercel,Webpack]
+https://ethstats.hemi.xyz [200] [] [11807] [{{ $root.networkName }} Network Status] [cloudflare] [104.18.23.222] [cloudflare] [231.950969ms] [AngularJS,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://email.flashbots.net [200] [] [0] [Caddy] [34.91.249.129] [google] [377.63523ms] [Caddy]
+https://collective.flashbots.net [200] [] [205862] [The Flashbots Collective - Flashbots of the metaverse, unite.] [nginx] [3.135.81.182] [313.626149ms] [Discourse:3.5.0,HSTS,Nginx,Ruby on Rails,dc.js]
+https://boost.flashbots.net [200] [] [384055] [MEV-Boost in a Nutshell] [Vercel] [76.76.21.123] [260.146923ms] [HSTS,Vercel]
+https://explorer.hemi.xyz [200] [] [214074] [Hemi blockchain explorer - View Hemi stats | Blockscout] [cloudflare] [104.18.22.222] [cloudflare] [500.148221ms] [C3.js,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://matrix.flashbots.net [200] [] [0] [Caddy] [3.130.38.13] [248.908837ms] [Caddy,HTTP/3]
+https://docs.hemi.xyz [200] [] [470521] [Introduction | Hemi] [cloudflare] [104.18.40.47] [cloudflare] [233.812615ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://fermah.xyz [200] [] [97173] [Fermah | Protocols That Act] [cloudflare] [104.18.28.149] [cloudflare] [1.555245463s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://explorer.fermah.xyz [200] [] [248941] [Fermah Explorer] [cloudflare] [104.18.28.149] [cloudflare] [1.016738607s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://measurements.builder.flashbots.net [200] [] [26649] [nginx/1.30.1] [3.146.175.79] [1.210732687s] [Nginx:1.30.1]
+https://n8n.cluster.dev.fermah.xyz [200] [] [18207] [n8n.io - Workflow Automation] [] [34.8.73.62] [google] [1.113414019s] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://news.hemi.xyz [200] [] [19982] [Hemi Pulse] [openresty] [146.75.107.7] [fastly] [3.101963766s] [Ghost:6.58,Nginx,Node.js,OpenResty,Varnish,jQuery CDN,jQuery:3.3.1,jsDelivr]
+https://hemi.xyz [200] [] [1882951] [Activate compliant Bitcoin yield without leaving custody] [cloudflare] [104.18.22.222] [cloudflare] [366.778877ms] [Cloudflare,Cloudflare Browser Insights,Framer Sites,HSTS,HTTP/3,React]
+https://olympics.flashbots.net [200] [] [2929] [Flashbots #BUILDER_ OLYMPICS] [GitHub.com] [185.199.110.153] [3.082830349s] [Fastly,GitHub Pages,Varnish]
+https://por.hemi.xyz [200] [] [3798] [Hemi Proof of Solvency | Accountable] [cloudflare] [104.18.23.222] [cloudflare] [1.387179399s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://mev-share-sepolia.flashbots.net [200] [] [7] [cloudflare] [104.20.21.179] [cloudflare] [10.000601797s] [Cloudflare]
+https://protectrpc.flashbots.net [200] [] [18479] [Flashbots Protect] [Vercel] [216.150.1.193] [2.176639272s] [HSTS,Vercel]
+https://mev-share.flashbots.net [200] [] [510628] [cloudflare] [172.66.170.133] [cloudflare] [10.065163485s] [Cloudflare]
+https://relayscan-hoodi.flashbots.net [200] [] [25449] [MEV-Boost Relay & Builder Stats | relayscan.io] [] [3.150.249.36] [2.197538476s] [Popper:2,Pure CSS,Unpkg]
+https://swap.hemi.xyz [200] [] [6032] [Uniswap Interface] [cloudflare] [104.18.23.222] [cloudflare] [211.551922ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Hostinger,LiteSpeed,LiteSpeed Cache,Litespeed Cache]
+https://testnet.explorer.hemi.xyz [200] [] [210055] [Hemi Sepolia blockchain explorer - View Hemi Sepolia stats | Blockscout] [cloudflare] [104.18.22.222] [cloudflare] [5.156018343s] [C3.js,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://writings.flashbots.net [200] [] [37988] [Flashbots Writings] [cloudflare] [172.66.170.133] [cloudflare] [1.181267138s] [Cloudflare,Docusaurus:2.0.0-beta.6,HSTS,React,Vercel,Webpack]
+https://umami.hemi.xyz [200] [] [12744] [Umami] [cloudflare] [104.18.22.222] [cloudflare] [5.249731044s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://www.fermah.xyz [200] [] [97173] [Fermah | Protocols That Act] [cloudflare] [104.18.28.149] [cloudflare] [6.176398378s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 301
+https://passport.hemi.xyz [301] [https://hemi.xyz/] [520] [301 Moved Permanently] [cloudflare] [104.18.22.222] [cloudflare] [2.081535829s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://protect-staging.flashbots.net [301] [https://protect-staging.flashbots.net:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.128.51.143] [106.374254ms] [Amazon ELB,Amazon Web Services]
+http://protection.flashbots.net [301] [https://protection.flashbots.net/] [167] [301 Moved Permanently] [cloudflare] [104.20.21.179] [cloudflare] [41.012804ms] [Cloudflare]
+http://portal-api.hemi.xyz [301] [https://portal-api.hemi.xyz/] [520] [301 Moved Permanently] [cloudflare] [104.18.23.222] [cloudflare] [2.079906039s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://safe.hemi.xyz [301] [https://app.safe.global/] [520] [301 Moved Permanently] [cloudflare] [104.18.22.222] [cloudflare] [6.075350538s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://token.hemi.xyz [301] [https://hemi.xyz/token] [520] [301 Moved Permanently] [cloudflare] [104.18.23.222] [cloudflare] [1.090048602s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://subgraph.hemi.xyz [301] [https://subgraph.hemi.xyz/] [520] [301 Moved Permanently] [cloudflare] [104.18.23.222] [cloudflare] [2.071272692s] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+https://www.hemi.xyz [301] [https://hemi.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.18.23.222] [cloudflare] [3.068809865s] [Cloudflare,HSTS,HTTP/3]
+https://whitehat.flashbots.net [301] [https://flashbots.notion.site/2ac6b4a0d876805e825bf95d1db930df] [167] [301 Moved Permanently] [cloudflare] [104.20.21.179] [cloudflare] [7.088946026s] [Cloudflare]
+
+## 302
+https://calendar.flashbots.net [302] [https://calendar.google.com/calendar/embed?src=c_m2uaqdqnjssah5mca0lu0smle4%40group.calendar.google.com] [143] [302 Found] [cloudflare] [172.66.170.133] [cloudflare] [100.327801ms] [Cloudflare]
+https://atlantis.l2b-us-east5.l2b.flashbots.net [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com:handleRedirect&code_challenge=Ka4FcxkJW_mZzXsShrnDAWWGQUY1iaYjfWP_cznWmqE&code_challenge_method=S256&cred_ref=true&state=AfkGGlMEZeeKg44b4-6RcSrKbFJDmJD8zr2_H1tYShzCXa7uEr00Q6TOwW_oR1lOv4stnI1KsSugvKtR294Eem6Wr0L1-cl57l5P6jzVlcNQ3P6d_a2BRRlih7KRwZm857hWIDukefcQcSFSLJbWr63lTz7OAWYQpcMtaSraIixZtIQkSQcKmhScaD_eVn0TOSfq6DKCWSvvD9SL7PwgRu8MZ5gxNu8iasuC6MxuRIzMig66GwjpSwXleWYlbXJimXkhPU3W3a2I8bTVgeU01lc0MDzf4jSaGva5-3auU4j8J0wqc-2qGHptt7oRPkEy1_oZCF7etwbBzEPfIVh5_t4UTw35QD931L07fzcAlO_yZ42aXVHzYLfpSSIMUTlmixyFryEPea5FDbECYOMBWGqT7EeQn1wYSIe7ot8NKUw4olYAhB6BISnG2zzoDSZmvMk-4YYfYFxw0z5KiGw9nfHsPoTct0ty5kEUj3d9VLprkgZ2UlQAeT0ePebQ2CmUAXoJDQVeMAn5Mbq4hwkEsQsDmoVpPlhGzeOID3E_T56ZxEm0r41cuY2xhUMCJutI_HL9WOUDCr4rHYMjshWiwDh_FOZpOYhCWPMGu-oBbfXzZjJ9pIo0gJ56K7_YwFC45iJ-0BITlUft_UN9orUmlnZ-JkYGiCf_FHg6tKDx2hHjug1ruWcZgsbSaLdyf_MJ-YUhoKqtkoBttNFK4sliVJtdSqM-N6O5qUEju7oFRSAidTLnUiQcuLzTv1iNSQY_ClrFKL7gLGVv_mB01fOAJVU1m6wlfFXv1Fjoh9oNsbsy_b8_2eLU6SNt4GMNJ6xQaSYv48_Bfp4PKpceZy-8F74NlRYSrbDTPlNcivDt6Z4laKB2e9iVXsLRJDSd5vEwkd7dKqLMV3eGZI4xASCyeEsov6itDPo59V3khe3LRb-uFYLf_PMLRo042rpQ7cscDRXRMCFPuWcgnkvyAhLT0M05BCVlkYE-HVvVUtL5GrrMap71BpwO6BG61SENKK0tLNS1IpX64OKLPsGmonsU5Mpn5Gr-qcF1YlrZgSBlfcKV5m093khmoRNKl4Q-r7uzy8p-_QT1vls--CmyJcvWcxz8oB-8emL7mtH-O2iYnawrhILVUjfaUL90gEpe2W9CAddr1JL_OH7a9JFojUF6itYDdacm_PekxrdTe5itzWXxwlii4VdO-g9-RDR5jy8iBarNongCCOudW-Lc178G40iHIGkmHOdQEjhXrWTSMgKd4QbnaA] [36] [] [34.120.76.15] [google] [307.56165ms] [HTTP/3]
+https://flashbots.net [302] [https://www.flashbots.net/] [143] [302 Found] [cloudflare] [104.20.21.179] [cloudflare] [143.931234ms] [Cloudflare]
+https://grafana.flashbots.net [302] [https://g-54f0b681f8.grafana-workspace.us-east-2.amazonaws.com/] [143] [302 Found] [cloudflare] [104.20.21.179] [cloudflare] [101.688377ms] [Cloudflare]
+https://jobs.flashbots.net [302] [https://www.flashbots.net/jobs] [143] [302 Found] [cloudflare] [172.66.170.133] [cloudflare] [126.833692ms] [Cloudflare]
+https://mempool-dumpster.flashbots.net [302] [https://mempool-dumpster.flashbots.net/index.html] [143] [302 Found] [cloudflare] [172.66.170.133] [cloudflare] [3.08201987s] [Cloudflare]
+https://protect-sepolia.flashbots.net [302] [https://protectrpc.flashbots.net:443/] [110] [302 Found] [awselb/2.0] [3.149.138.11] [1.154391223s] [Amazon ELB,Amazon Web Services]
+https://protect.flashbots.net [302] [https://protectrpc.flashbots.net:443/] [110] [302 Found] [awselb/2.0] [52.14.113.237] [3.28956757s] [Amazon ELB,Amazon Web Services]
+https://por-api.hemi.xyz [302] [/dashboard] [560] [Redirecting...] [cloudflare] [104.18.22.222] [cloudflare] [5.429267515s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://relay.flashbots.net [302] [https://protectrpc.flashbots.net:443/] [110] [302 Found] [awselb/2.0] [3.135.174.242] [6.183067068s] [Amazon ELB,Amazon Web Services]
+https://rpc.flashbots.net [302] [https://protectrpc.flashbots.net:443/] [110] [302 Found] [awselb/2.0] [3.135.174.242] [4.149117116s] [Amazon ELB,Amazon Web Services]
+https://suave-docs-prev.flashbots.net [302] [https://flashbots.cloudflareaccess.com/cdn-cgi/access/login/suave-docs-prev.flashbots.net?kid=66acfb0fb4f7521d4a5ddcfbce744bd1cec9e0d1624ee9b8fb909d13f582837d&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjJlMTAxYTJiYWZmYWM3NDJlMGMxOTYwM2Y2YjA0ZDhlNThmMWMyMTJlMWMyOGEyYzg2ZTI2NWNkOTAwMTllOWYifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjY2YWNmYjBmYjRmNzUyMWQ0YTVkZGNmYmNlNzQ0YmQxY2VjOWUwZDE2MjRlZTliOGZiOTA5ZDEzZjU4MjgzN2QiLCJob3N0bmFtZSI6InN1YXZlLWRvY3MtcHJldi5mbGFzaGJvdHMubmV0IiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3ODcxNTE1NTAsIm5iZiI6MTc4NzE1MTI1MCwiaWF0IjoxNzg3MTUxMjUwLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiY2IwYTE0YzdlOGM0MjkzMjU3MWM5OTkwNmY3YzUwNjI3NzQ1MTA3MjhhMGY2NTQ5NTlhM2ZmMDFmNzNmYjI4YiJ9.X4ijhsqLZ7-Ht4g7AX5eq4lBzWBRswv1_2Fkh0BQr24M-jy9Pafs1BsbrlYYk5NrxGcThSUuZKSLgk8v9-gFYaa47UcvrL17QjjDvkFWcFuYw_7IZQOFLTR89-jnIuihRVMp8UPYGtTh58nMARUZIbm7YOI0fOyC4tnvekOkhZYkozy7AcWYjN3Wr5xWRNT5H6wdmcGkLKhEaB_qOtoMbTWe-OYYx0JlPGHjOlB3VWjaWrEv-hmwXeb9gi_3bHRSCeE062NSoiQLjCYJl8O3Rjoc-FFSeP2F-WtwHQ3_W-9mVHwspXzR-Ni2Y9rPDK3YZovmuoQOLH1EPNBXx8Pc3g&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.20.21.179] [cloudflare] [2.089565297s] [Cloudflare]
+
+## 307
+https://vault.l2b.flashbots.net [307] [/ui/] [40] [] [34.54.185.15] [google] [4.211880812s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+
+## 308
+http://status.flashbots.net [308] [https://status.flashbots.net/] [14] [Vercel] [66.33.60.129] [160.686719ms] [Vercel]
+
+## 401
+
+## 403
+https://gh-artifacts-sync.l2b-us-east5.l2b.flashbots.net [403] [] [134] [403] [] [34.117.170.156] [google] [310.852514ms] [HTTP/3]
+
+## 404
+https://booster-campaign-tasks-api.hemi.xyz [404] [] [1430] [Error] [cloudflare] [104.18.23.222] [cloudflare] [309.591995ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://ctf.flashbots.net [404] [] [107] [Vercel] [76.76.21.93] [421.103846ms] [HSTS,Vercel]
+https://static.fermah.xyz [404] [] [27509] [Not Found] [cloudflare] [104.18.28.149] [cloudflare] [4.178671311s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://sse.base-ofa.flashbots.net [404] [] [146] [404 Not Found] [] [51.210.195.167] [5.390410357s] [HSTS]
+
+## 500
+
+## 502
+
+## 503
+
