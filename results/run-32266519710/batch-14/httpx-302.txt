@@ -1,0 +1,7 @@
+https://production-facelift-tf.truex.com [302] [https://production-facelift-tf.truex.com/users/sign_in] [120] [nginx/1.30.3] [52.205.125.94] [55.785257ms] [Amazon ALB,Amazon Web Services,Nginx:1.30.3]
+https://api.truex.com [302] [https://api.truex.com/users/sign_in] [101] [nginx/1.28.0] [54.196.63.246] [66.623331ms] [Amazon ALB,Amazon Web Services,Nginx:1.28.0]
+https://ee.truex.com [302] [https://ee.truex.com/users/sign_in] [100] [nginx/1.30.3] [52.205.125.94] [67.267487ms] [Amazon ALB,Amazon Web Services,Nginx:1.30.3]
+https://qa-facelift-tf.truex.com [302] [https://qa-facelift-tf.truex.com/users/sign_in] [112] [nginx/1.26.3] [54.83.145.187] [49.129431ms] [Amazon ALB,Amazon Web Services,Nginx:1.26.3]
+https://qa-api.truex.com [302] [https://qa-api.truex.com/users/sign_in] [104] [nginx/1.26.3] [54.83.145.187] [79.51838ms] [Amazon ALB,Amazon Web Services,Nginx:1.26.3]
+https://qa-facelift.truex.com [302] [https://qa-ee.truex.com/] [90] [nginx/1.28.0] [54.83.145.187] [72.206288ms] [Amazon ALB,Amazon Web Services,Nginx:1.28.0]
+https://qa-ee.truex.com [302] [https://qa-ee.truex.com/users/sign_in] [103] [nginx/1.26.3] [54.83.145.187] [91.293118ms] [Amazon ALB,Amazon Web Services,Nginx:1.26.3]
