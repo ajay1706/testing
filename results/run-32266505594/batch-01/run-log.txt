@@ -1,0 +1,14 @@
+[+] Batch started: Wed Aug 19 14:53:19 UTC 2026
+[+] Run ID: 32266505594
+[+] Batch name: batch-01
+[+] Batch targets:
+asxn.xyz
+atoma.network
+attarius.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Aug 19 14:54:11 UTC 2026
+[+] HTTPX input count: 52
+[+] Running httpx...
+[+] httpx completed: Wed Aug 19 14:54:32 UTC 2026
+[+] httpx line count: 32
+[+] Batch completed: Wed Aug 19 14:54:32 UTC 2026
