@@ -1,0 +1,54 @@
+# HTTPX Status Report
+
+Generated at: Wed Aug 19 15:01:25 UTC 2026
+
+HTTPX lines: 25
+Live URLs: 25
+
+## 200
+https://app.secured.finance [200] [] [3495] [DeFi Lending Platform | Secured Finance] [Filebase] [15.204.196.123] [289.027836ms] [IPFS]
+https://dev.secured.finance [200] [] [3534] [DeFi Lending Platform | Secured Finance] [Filebase] [15.204.196.122] [313.200967ms] [IPFS]
+https://vaults.secured.finance [200] [] [12824] [SF Yield Vault: On-Chain Yield Strategy | Secured Finance] [cloudflare] [104.21.5.94] [cloudflare] [456.051423ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://dev-vaults.secured.finance [200] [] [12824] [SF Yield Vault: On-Chain Yield Strategy | Secured Finance] [cloudflare] [104.21.5.94] [cloudflare] [510.09227ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://vault-api.secured.finance [200] [] [32] [Google Frontend] [34.49.145.11] [google] [652.883764ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://stg.secured.finance [200] [] [3532] [DeFi Lending Platform | Secured Finance] [Filebase] [15.204.196.123] [658.668339ms] [IPFS]
+https://testnet-bridge.satoshivm.io [200] [] [8617] [Bridge to SatoshiVM Testnet] [cloudflare] [172.67.147.104] [cloudflare] [671.444551ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://dev-vault-api.secured.finance [200] [] [32] [Google Frontend] [34.49.145.11] [google] [755.749574ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://secured.finance [200] [] [101637] [Institutional On-Chain Markets | Secured Finance] [] [18.211.166.153] [216.873378ms] [Cloudflare,HSTS,HTTP/3,OWL Carousel,cdnjs,jQuery:3.5.1,jsDelivr]
+https://airdrop.satoshivm.io [200] [] [27795] [SatoshiVM Airdrop] [cloudflare] [104.21.28.193] [cloudflare] [920.053909ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://docs.satoshivm.io [200] [] [351343] [Abstract | SatoshiVM] [cloudflare] [172.64.147.209] [cloudflare] [281.474842ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.secured.finance [200] [] [471089] [About Secured Finance | Secured Finance Docs] [cloudflare] [104.18.40.47] [cloudflare] [246.205614ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://explorer.satoshivm.io [200] [] [181700] [SatoshiVM Alpha Mainnet blockchain explorer] [cloudflare] [104.21.28.193] [cloudflare] [1.24996087s] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+https://bridge.satoshivm.io [200] [] [8496] [Bridge to SatoshiVM] [cloudflare] [104.21.28.193] [cloudflare] [1.986230834s] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Node.js,Nuxt.js,Vue.js]
+
+## 301
+https://blog.secured.finance [301] [https://medium.com/secured-finance/] [526] [301 Moved Permanently] [cloudflare] [172.67.133.65] [cloudflare] [197.963704ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://usdfc.secured.finance [301] [https://app.usdfc.net] [526] [301 Moved Permanently] [cloudflare] [104.21.5.94] [cloudflare] [270.026346ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://satoshivm.io [301] [https://www.satoshivm.io/] [167] [301 Moved Permanently] [cloudflare] [172.67.147.104] [cloudflare] [338.490787ms] [Cloudflare]
+https://www.secured.finance [301] [https://secured.finance/] [166] [301 Moved Permanently] [] [18.211.166.153] [380.103258ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://predictstreet.com [302] [https://adipredictstreet.com] [51] [ip-10-123-124-155.ec2.internal] [3.33.251.168] [267.044235ms]
+https://www.predictstreet.com [302] [https://adipredictstreet.com] [51] [ip-10-123-124-22.ec2.internal] [15.197.225.128] [353.584076ms]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://point-api.secured.finance [404] [] [63] [Google Frontend] [34.111.14.164] [google] [353.341567ms] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js]
+https://wwww.satoshivm.io [404] [] [19] [cloudflare] [172.67.147.104] [cloudflare] [735.084232ms] [Cloudflare,HTTP/3]
+https://www.satoshivm.io [404] [] [19] [cloudflare] [104.21.28.193] [cloudflare] [1.765340756s] [Cloudflare,HTTP/3]
+https://dev-point-api.secured.finance [404] [] [63] [Google Frontend] [34.111.14.164] [google] [8.336897175s] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js]
+https://stg-point-api.secured.finance [404] [] [63] [Google Frontend] [34.111.14.164] [google] [9.290213756s] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js]
+
+## 500
+
+## 502
+
+## 503
+

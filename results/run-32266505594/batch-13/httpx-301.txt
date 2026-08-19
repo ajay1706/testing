@@ -1,0 +1,4 @@
+https://blog.secured.finance [301] [https://medium.com/secured-finance/] [526] [301 Moved Permanently] [cloudflare] [172.67.133.65] [cloudflare] [197.963704ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://usdfc.secured.finance [301] [https://app.usdfc.net] [526] [301 Moved Permanently] [cloudflare] [104.21.5.94] [cloudflare] [270.026346ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://satoshivm.io [301] [https://www.satoshivm.io/] [167] [301 Moved Permanently] [cloudflare] [172.67.147.104] [cloudflare] [338.490787ms] [Cloudflare]
+https://www.secured.finance [301] [https://secured.finance/] [166] [301 Moved Permanently] [] [18.211.166.153] [380.103258ms] [Cloudflare,HSTS,HTTP/3]
