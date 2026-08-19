@@ -1,0 +1,8 @@
+https://build.vana.org [301] [https://www.vana.org/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [343.775274ms] [Cloudflare,HSTS,HTTP/3]
+https://rpc-monad-testnet-0.chicago.cherry.prd.validationcloud.io [301] [https://rpc-monad-testnet-0.chicago.cherry.prd.validationcloud.io:8080/] [17] [] [84.32.71.31] [178.779377ms]
+https://rpc-solana-mainnet-beta-0.tokyo.latitude.prd.validationcloud.io [301] [https://rpc-solana-mainnet-beta-0.tokyo.latitude.prd.validationcloud.io:1881/] [17] [] [64.34.94.1] [373.556901ms]
+https://rpc-monad-mainnet-0.chicago.cherry.prd.validationcloud.io [301] [https://rpc-monad-mainnet-0.chicago.cherry.prd.validationcloud.io:8080/] [17] [] [84.32.32.28] [2.190783157s]
+https://rpc-monad-mainnet-0.stockholm.cherry.prd.validationcloud.io [301] [https://rpc-monad-mainnet-0.stockholm.cherry.prd.validationcloud.io:8080/] [17] [] [185.189.46.25] [1.519849917s]
+https://status.safe.vana.org [301] [https://stats.uptimerobot.com:443/eO7QdmyoTA] [134] [301 Moved Permanently] [awselb/2.0] [100.63.33.156] [226.444697ms] [Amazon ELB,Amazon Web Services]
+https://validationcloud.io [301] [https://www.validationcloud.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [237.390358ms] [Cloudflare,HSTS,HTTP/3]
+https://www.build.vana.org [301] [https://www.vana.org/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [437.246363ms] [Cloudflare,HSTS,HTTP/3]
