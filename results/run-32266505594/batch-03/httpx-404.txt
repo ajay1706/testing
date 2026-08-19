@@ -1,0 +1,8 @@
+https://accounts.bondex.app [404] [] [37] [cloudflare] [104.18.38.10] [cloudflare] [268.507333ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://server-qa.bondex.app [404] [] [0] [Kestrel] [48.223.208.210] [367.308864ms] [Kestrel,Microsoft ASP.NET]
+https://server-dev.bondex.app [404] [] [0] [Kestrel] [4.156.248.241] [429.062008ms] [Kestrel,Microsoft ASP.NET]
+https://speed-work.bondex.app [404] [] [2667] [Microsoft Azure Web App - Error 404] [] [20.48.204.0] [491.500506ms]
+https://uat.blockend.com [404] [] [50] [Netlify] [13.52.188.95] [421.521953ms] [Netlify]
+http://web-qa.bondex.app [404] [] [1946] [Azure Container App - Unavailable] [] [48.223.208.210] [149.575674ms]
+https://convo-job.bondex.app [404] [] [266389] [Page not found] [] [150.171.110.146] [127.794187ms] [Azure,Azure Front Door]
+https://web-prod.bondex.app [404] [] [266389] [Page not found] [] [13.107.226.70] [100.665826ms] [Azure,Azure Front Door]
