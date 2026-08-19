@@ -1,0 +1,14 @@
+[+] Batch started: Wed Aug 19 15:02:23 UTC 2026
+[+] Run ID: 32266519710
+[+] Batch name: batch-15
+[+] Batch targets:
+untolabs.com
+utxo.com
+xeffy.io
+[+] Running subfinder...
+[+] Subfinder completed: Wed Aug 19 15:03:02 UTC 2026
+[+] HTTPX input count: 24
+[+] Running httpx...
+[+] httpx completed: Wed Aug 19 15:03:22 UTC 2026
+[+] httpx line count: 14
+[+] Batch completed: Wed Aug 19 15:03:22 UTC 2026
