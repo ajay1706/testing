@@ -1,0 +1,5 @@
+https://dcent.doppler.finance [301] [https://exclusive.doppler.finance:443/] [0] [] [34.8.238.101] [google] [28.529348ms] [HTTP/3]
+https://dcent-eng.doppler.finance [301] [https://exclusive-eng.doppler.finance:443/] [0] [] [34.111.132.116] [google] [124.660671ms] [HTTP/3]
+https://grants.cow.fi [301] [https://docs.cow.fi/governance/grants/] [0] [AmazonS3] [108.138.64.19] [cloudfront] [289.280023ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://track.cow.fi [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [143.121944ms] [Caddy,HTTP/3]
+https://www.cow.fi [301] [https://cow.fi/] [15] [Vercel] [76.76.21.22] [353.060249ms] [HSTS,Vercel]

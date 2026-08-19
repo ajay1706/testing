@@ -1,0 +1,2 @@
+https://beta.learn.cow.fi [308] [https://learn.cow.fi/] [15] [Vercel] [66.33.60.193] [131.941868ms] [HSTS,Vercel]
+https://beta.docs.cow.fi [308] [https://docs.cow.fi/] [15] [Vercel] [66.33.60.193] [153.430748ms] [HSTS,Vercel]
