@@ -1,0 +1,14 @@
+[+] Batch started: Wed Aug 19 14:53:18 UTC 2026
+[+] Run ID: 32266505594
+[+] Batch name: batch-02
+[+] Batch targets:
+autorange.finance
+bitstable.finance
+blazephoenix.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Wed Aug 19 14:54:03 UTC 2026
+[+] HTTPX input count: 5
+[+] Running httpx...
+[+] httpx completed: Wed Aug 19 14:54:05 UTC 2026
+[+] httpx line count: 4
+[+] Batch completed: Wed Aug 19 14:54:05 UTC 2026
