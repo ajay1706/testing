@@ -1,0 +1,62 @@
+# HTTPX Status Report
+
+Generated at: Wed Aug 19 15:03:54 UTC 2026
+
+HTTPX lines: 36
+Live URLs: 36
+
+## 200
+https://api.opengradient.ai [200] [] [17] [uvicorn] [3.151.131.73] [319.35708ms] [Python,Uvicorn]
+https://eot.peaq.network [200] [] [1133] [Hello - EmailOctopus] [] [54.171.65.116] [471.641252ms] [HTTP/3]
+https://forum.penumbra.zone [200] [] [206392] [penumbra] [nginx] [216.66.8.75] [5.509709923s] [Discourse:2026.8.0,HSTS,Nginx,Ruby on Rails]
+https://hub.opengradient.ai [200] [] [2100] [OpenGradient Model Hub] [AmazonS3] [3.175.34.66] [cloudfront] [6.141348773s] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://guide.penumbra.zone [200] [] [73953] [Welcome to Penumbra – Penumbra Guide] [] [199.36.158.100] [6.266468178s] [Firebase,HSTS,HTTP/3]
+https://ogrpcdevnet.opengradient.ai [200] [] [3917] [] [3.134.41.42] [3.290478386s]
+https://preview.ui.penumbra.zone [200] [] [4961] [@storybook/core - Storybook] [] [199.36.158.100] [4.503687605s] [Firebase,HSTS,HTTP/3]
+https://uips.penumbra.zone [200] [] [16258] [Overview - Penumbra Improvement Proposals (UIPs)] [] [199.36.158.100] [2.239449807s] [Clipboard.js,Firebase,HSTS,HTTP/3,Lunr.js]
+https://www.opengradient.ai [200] [] [219650] [OpenGradient | OpenGradient Network] [Vercel] [216.150.1.1] [303.343456ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://ui.penumbra.zone [200] [] [4626] [@storybook/cli - Storybook] [] [199.36.158.100] [4.234133897s] [Firebase,HSTS,HTTP/3]
+
+## 301
+https://docs.peaq.network [301] [https://docs.peaq.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.71.68] [cloudflare] [5.120562545s] [Cloudflare]
+https://krest.peaq.network [301] [https://www.krest.network/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [2.498934644s] [Cloudflare,HSTS,HTTP/3]
+http://docs.opengradient.ai [301] [https://docs.opengradient.ai/] [162] [301 Moved Permanently] [GitHub.com] [185.199.110.153] [1.148188303s] [Fastly,GitHub Pages,Varnish]
+http://get-real.peaq.network [301] [https://get-real.peaq.xyz/] [167] [301 Moved Permanently] [cloudflare] [198.202.211.1] [2.074016692s] [Cloudflare]
+https://penumbra.zone [301] [https://www.penumbra.zone/] [166] [301 Moved Permanently] [] [99.83.190.102] [351.745307ms] [HSTS]
+http://lift-off-campaign-service.cf.peaq.network [301] [https://lift-off-campaign-service.cf.peaq.network/] [167] [301 Moved Permanently] [cloudflare] [104.26.6.190] [cloudflare] [3.077861163s] [Cloudflare]
+https://rustdoc.penumbra.zone [301] [/main/index.html] [31] [] [199.36.158.100] [1.220268176s] [Firebase,HTTP/3]
+https://ptp.peaq.network [301] [https://ptp.peaq.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.71.68] [cloudflare] [4.127171559s] [Cloudflare]
+https://portal.peaq.network [301] [https://portal.peaq.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.6.190] [cloudflare] [6.057916781s] [Cloudflare]
+http://portal-stg.peaq.network [301] [https://portal-stg.peaq.network/] [167] [301 Moved Permanently] [cloudflare] [104.26.7.190] [cloudflare] [28.994154ms] [Cloudflare]
+https://safe-wallet-integration.peaq.network [301] [https://safe-wallet-integration.peaq.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.6.190] [cloudflare] [7.097184399s] [Cloudflare]
+https://www.penumbra.zone [301] [https://penumbra.exchange/] [166] [301 Moved Permanently] [] [44.229.220.222] [1.428014687s] [Cloudflare,HSTS,HTTP/3]
+https://www.peaq.network [301] [https://www.peaq.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [2.33581973s] [Cloudflare,HSTS,HTTP/3]
+http://stg-portal-test.peaq.network [301] [https://stg-portal-test.peaq.network/] [167] [301 Moved Permanently] [cloudflare] [104.26.6.190] [cloudflare] [42.791663ms] [Cloudflare]
+http://www.get-real.peaq.network [301] [https://www.get-real.peaq.xyz/] [167] [301 Moved Permanently] [cloudflare] [198.202.211.1] [6.037388446s] [Cloudflare]
+
+## 302
+
+## 307
+
+## 308
+https://bitquant.opengradient.ai [308] [https://www.bitquant.io/] [15] [Vercel] [66.33.60.66] [6.149792513s] [HSTS,Vercel]
+https://quant.opengradient.ai [308] [https://www.bitquant.io/] [15] [Vercel] [66.33.60.35] [3.325657513s] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://peaq-gas-station-service.cf.peaq.network [404] [] [19] [] [35.157.86.28] [6.514965598s]
+https://stat.opengradient.ai [404] [] [22] [uvicorn] [3.20.253.98] [1.314778997s] [Python,Uvicorn]
+https://video-api-staging.opengradient.ai [404] [] [22] [uvicorn] [8.233.214.24] [google] [6.260419373s] [Google Cloud,Google Cloud CDN,HTTP/3,Python,Uvicorn]
+
+## 500
+
+## 502
+
+## 503
+https://agents-api.opengradient.ai [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [18.216.98.116] [353.35121ms] [Amazon ELB,Amazon Web Services]
+https://ogpublisher.opengradient.ai [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [52.15.181.40] [1.322716708s] [Amazon ELB,Amazon Web Services]
+https://quant-api.opengradient.ai [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [18.216.98.116] [2.282558752s] [Amazon ELB,Amazon Web Services]
+
