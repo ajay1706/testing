@@ -1,0 +1,4 @@
+https://api.megapot.io [302] [/v1/docs] [0] [Vercel] [216.150.16.193] [219.224966ms] [HSTS,Vercel]
+https://api-testnet.megapot.io [302] [/v1/docs] [0] [Vercel] [216.150.16.1] [248.986671ms] [HSTS,Vercel]
+https://dev-app.legend.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev-app.legend.trade%2F&nonce=e2354eb371c9b0d1a9cf9cae9b67968d11d9749212fcf2f46ac3394b89d27776] [15] [Vercel] [216.150.1.193] [249.269367ms] [HSTS,Vercel]
+https://legend-aavaaryi1.preview.legend.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Flegend-aavaaryi1.preview.legend.trade%2F&nonce=67371a28cacaa0fc8861984c672c9fe5fee4288923824f6c8d29b929bc9d8dc4] [15] [Vercel] [66.33.60.129] [620.141869ms] [HSTS,Vercel]
