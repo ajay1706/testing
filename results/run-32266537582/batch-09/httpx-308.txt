@@ -1,0 +1,4 @@
+http://api.onchain.hoodi.testnet.kiln.fi [308] [https://api.onchain.hoodi.testnet.kiln.fi/] [169] [308 Permanent Redirect] [cloudflare] [104.18.10.147] [cloudflare] [4.052202602s] [Cloudflare,HSTS,HTTP/3]
+http://docs.api.testnet.kiln.fi [308] [https://docs.api.testnet.kiln.fi/] [169] [308 Permanent Redirect] [cloudflare] [104.18.10.147] [cloudflare] [4.06356717s] [Cloudflare,HSTS,HTTP/3]
+http://earn.widget.kiln.fi [308] [https://earn.widget.kiln.fi/] [169] [308 Permanent Redirect] [cloudflare] [104.18.4.89] [cloudflare] [3.039133372s] [Cloudflare,HSTS,HTTP/3]
+http://ido-verifier.lumia.org [308] [https://ido-verifier.lumia.org/] [0] [cloudflare] [172.67.72.114] [cloudflare] [3.262074635s] [Cloudflare]

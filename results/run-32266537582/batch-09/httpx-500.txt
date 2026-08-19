@@ -1,0 +1,2 @@
+https://cns.validator.kiln-testnet.canton.testnet.kiln.fi [500] [] [0] [envoy] [34.79.9.128] [google] [2.269664713s] [Envoy]
+https://cns.validator.kiln-2.canton.mainnet.kiln.fi [500] [] [0] [envoy] [34.78.4.174] [google] [6.360585646s] [Envoy]
