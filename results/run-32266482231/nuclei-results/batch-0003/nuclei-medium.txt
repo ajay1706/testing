@@ -1,0 +1,3 @@
+[claude-settings-exposure] [http] [medium] https://cli.nexus.xyz/.claude/settings.json
+[claude-settings-exposure] [http] [medium] https://cli.nexus.xyz/.claude/settings.local.json
+[claude-settings-exposure] [http] [medium] https://cli.nexus.xyz/.mcp.json
