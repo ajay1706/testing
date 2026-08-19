@@ -1,0 +1,3 @@
+https://xmaquina.io [301] [https://www.xmaquina.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [197.677837ms] [Cloudflare,HSTS,HTTP/3]
+https://www.shop.xmaquina.io [301] [https://shop.xmaquina.io/] [0] [Pepyaka] [34.149.87.45] [google] [295.395844ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,React,Wix]
+https://www.witnesschain.com [301] [https://witnesschain.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [35.154.72.16] [687.651168ms] [Amazon ELB,Amazon Web Services]

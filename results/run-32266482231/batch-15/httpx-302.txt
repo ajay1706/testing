@@ -1,0 +1,6 @@
+https://adminpanel.vingo.app [302] [https://adminpanel.vingo.app/login] [382] [Redirecting to https://adminpanel.vingo.app/login] [LiteSpeed] [66.29.132.48] [1.049668319s] [LiteSpeed,LiteSpeed Cache,Litespeed Cache,PHP:8.1.34]
+https://www.adminpanel.vingo.app [302] [https://www.adminpanel.vingo.app/login] [398] [Redirecting to https://www.adminpanel.vingo.app/login] [LiteSpeed] [66.29.132.48] [352.324355ms] [LiteSpeed,LiteSpeed Cache,Litespeed Cache,PHP:8.1.34]
+https://www.store.vingo.app [302] [https://www.store.vingo.app/login] [378] [Redirecting to https://www.store.vingo.app/login] [LiteSpeed] [66.29.132.48] [867.793677ms] [LiteSpeed,LiteSpeed Cache,Litespeed Cache,PHP:8.1.34]
+https://store.vingo.app [302] [https://store.vingo.app/login] [362] [Redirecting to https://store.vingo.app/login] [LiteSpeed] [66.29.132.48] [1.309588703s] [LiteSpeed,LiteSpeed Cache,Litespeed Cache,PHP:8.1.34]
+https://web.vingo.app [302] [https://web.vingo.app/set-location] [382] [Redirecting to https://web.vingo.app/set-location] [LiteSpeed] [66.29.132.48] [1.421133687s] [LiteSpeed,LiteSpeed Cache,Litespeed Cache,PHP:8.1.34]
+https://www.web.vingo.app [302] [https://www.web.vingo.app/set-location] [398] [Redirecting to https://www.web.vingo.app/set-location] [LiteSpeed] [66.29.132.48] [1.245445369s] [LiteSpeed,LiteSpeed Cache,Litespeed Cache,PHP:8.1.34]
