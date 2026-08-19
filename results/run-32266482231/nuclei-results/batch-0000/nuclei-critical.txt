@@ -1,0 +1,3 @@
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://abn.abn-amro-sandbox.demo2.swiat.io/config/config.json [""baseUrl": "https://abn.abn-amro-sandbox.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://abn.demo-abnamro.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ads.demo-ads.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
