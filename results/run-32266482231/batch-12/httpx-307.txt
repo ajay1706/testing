@@ -1,0 +1,2 @@
+https://app.sapiom.ai [307] [/login?returnUrl=%2F] [20] [cloudflare] [172.67.71.244] [cloudflare] [161.519405ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+https://admin.sapiom.ai [307] [https://app.sapiom.ai/login?redirect=https%3A%2F%2Flocalhost%3A10000%2F] [71] [cloudflare] [104.26.1.175] [cloudflare] [1.232290163s] [Cloudflare,Render]

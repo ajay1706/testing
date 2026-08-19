@@ -1,0 +1,14 @@
+[+] Batch started: Wed Aug 19 14:58:35 UTC 2026
+[+] Run ID: 32266482231
+[+] Batch name: batch-12
+[+] Batch targets:
+rl1.network
+sapiom.ai
+sensity.ai
+[+] Running subfinder...
+[+] Subfinder completed: Wed Aug 19 14:59:21 UTC 2026
+[+] HTTPX input count: 121
+[+] Running httpx...
+[+] httpx completed: Wed Aug 19 14:59:43 UTC 2026
+[+] httpx line count: 94
+[+] Batch completed: Wed Aug 19 14:59:43 UTC 2026

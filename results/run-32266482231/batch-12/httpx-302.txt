@@ -1,0 +1,1 @@
+https://auth.sapiom.ai [302] [https://sapiom.ai/] [40] [cloudflare] [104.18.43.182] [cloudflare] [284.871056ms] [Auth0,Cloudflare,HSTS,HTTP/3]
