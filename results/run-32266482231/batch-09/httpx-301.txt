@@ -1,0 +1,2 @@
+http://autodiscover.pokebot.ai [301] [https://autodiscover.pokebot.ai/] [0] [Microsoft-HTTPAPI/2.0] [40.104.231.136] [1.852001ms] [Microsoft HTTPAPI:2.0]
+https://www.pokebot.ai [301] [https://pokebot.ai/] [19] [] [52.85.12.92] [cloudfront] [335.82421ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
