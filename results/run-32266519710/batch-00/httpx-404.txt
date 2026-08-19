@@ -1,0 +1,7 @@
+https://assistant.allium.so [404] [] [22] [cloudflare] [104.18.13.30] [cloudflare] [90.719348ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS]
+https://app-server.allium.so [404] [] [22] [cloudflare] [104.18.12.30] [cloudflare] [124.938604ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS]
+https://polaris.allium.so [404] [] [80] [cloudflare] [104.18.12.30] [cloudflare] [187.862802ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://centaur.bettermoney.com [404] [] [18] [] [8.233.21.64] [google] [278.327551ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api-staging.bettermoney.com [404] [] [72] [Google Frontend] [136.68.79.233] [google] [314.828373ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://api.bettermoney.com [404] [] [72] [Google Frontend] [34.13.123.207] [google] [346.907544ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://userhub-server.allium.so [404] [] [22] [cloudflare] [104.18.12.30] [cloudflare] [110.827886ms] [Cloudflare,HSTS]

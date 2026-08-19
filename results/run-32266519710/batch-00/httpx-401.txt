@@ -1,0 +1,2 @@
+https://mas.allium.so [401] [] [23] [cloudflare] [104.18.13.30] [cloudflare] [82.134168ms] [Basic,Cloudflare,HSTS]
+https://test-api.allium.so [401] [] [30] [cloudflare] [104.18.13.30] [cloudflare] [90.13379ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
