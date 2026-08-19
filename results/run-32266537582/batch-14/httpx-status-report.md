@@ -1,0 +1,68 @@
+# HTTPX Status Report
+
+Generated at: Wed Aug 19 15:09:30 UTC 2026
+
+HTTPX lines: 40
+Live URLs: 40
+
+## 200
+https://api.routerprotocol.com [200] [] [16] [nginx] [3.108.88.249] [722.827206ms] [Express,Nginx,Node.js]
+http://ci.runtimeverification.com [200] [] [615] [Welcome to nginx!] [nginx] [74.214.251.35] [58.586485ms] [Nginx]
+https://blog.satlayer.xyz [200] [] [63696] [SatLayer - Modular Security with Bitcoin] [openresty] [151.101.195.7] [fastly] [194.840027ms] [Ghost:6.58,Google Analytics,Nginx,Node.js,OpenResty,Varnish,iubenda,jQuery CDN,jQuery:3.5.1,jsDelivr]
+https://app.routerprotocol.com [200] [] [120901] [Router App – The Most Powerful Onchain Swaps & Cross-Chain Execution] [Vercel] [216.150.1.193] [166.590071ms] [C3.js,HSTS,Vercel]
+https://beta.grpc-v2.routerprotocol.com [200] [] [0] [nginx] [3.108.88.249] [737.331789ms] [Nginx]
+https://build.satlayer.xyz [200] [] [200391] [SatLayer Developer Docs] [Vercel] [76.76.21.123] [344.070745ms] [HSTS,Vercel]
+https://cube.satlayer.xyz [200] [] [93421] [Cube by SatLayer | Liquid $BABY] [Vercel] [76.76.21.241] [581.653901ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://app.satlayer.xyz [200] [] [160811] [Stake, Restake, Earn on SatLayer] [Vercel] [66.33.60.194] [2.212916526s] [C3.js,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.routerprotocol.com [200] [] [26050] [Router OGA Docs] [Vercel] [216.150.16.193] [4.147641228s] [Docusaurus:3.9.2,Google Analytics,HSTS,React,Vercel,Webpack]
+https://ecosystem.satlayer.xyz [200] [] [15223] [SatLayer Ecosystem | The New Economy on Bitcoin] [Vercel] [216.150.1.193] [4.709009707s] [HSTS,Next.js,Node.js,React,Unpkg,Vercel,Webpack]
+https://routerprotocol.com [200] [] [127724] [Router Protocol - Programmable Cross-Chain Execution] [] [99.84.41.30] [cloudfront] [66.374754ms] [Amazon CloudFront,Amazon Web Services,C3.js,HTTP/3,Next.js,Node.js,React,Webpack]
+https://runtimeverification.com [200] [] [74135] [Runtime Verification - Software Assurance for the AI Age] [] [18.164.154.129] [cloudfront] [3.286448959s] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://satlayer.xyz [200] [] [738539] [SatLayer | The New Economy, Built on Bitcoin] [Framer/6443c08] [31.43.161.6] [1.29178722s] [Bento,Framer Sites,Google Analytics,HSTS,HTTP/3,React]
+https://www.routerprotocol.com [200] [] [127724] [Router Protocol - Programmable Cross-Chain Execution] [] [18.155.173.62] [cloudfront] [1.080351353s] [Amazon CloudFront,Amazon Web Services,C3.js,HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.runtimeverification.com [200] [] [74135] [Runtime Verification - Software Assurance for the AI Age] [] [18.164.154.85] [cloudfront] [1.309745281s] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+
+## 301
+
+## 302
+https://strapi.runtimeverification.com [302] [https://strapi.runtimeverification.com/admin] [60] [] [18.238.109.125] [cloudfront] [280.155178ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3,Strapi]
+
+## 307
+https://docs.runtimeverification.com [307] [https://docs.runtimeverification.com/index/] [15] [cloudflare] [104.18.40.47] [cloudflare] [2.189710056s] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+http://grpc-v2.routerprotocol.com [308] [https://grpc-v2.routerprotocol.com/] [164] [308 Permanent Redirect] [nginx] [3.108.88.249] [495.087751ms] [Nginx]
+https://stake.satlayer.xyz [308] [https://app.satlayer.xyz/] [15] [Vercel] [66.33.60.130] [170.521238ms] [HSTS,Vercel]
+https://www.satlayer.xyz [308] [https://satlayer.xyz/] [57] [Framer/6443c08] [31.43.161.6] [1.185376754s] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+
+## 403
+
+## 404
+https://api.sui.xbtc.rewards.satlayer.xyz [404] [] [2317] [404: This page could not be found] [Vercel] [216.150.1.193] [150.522804ms] [HSTS,Vercel]
+https://api.sats2.satlayer.xyz [404] [] [79] [Vercel] [216.150.16.193] [288.456247ms] [HSTS,Vercel]
+https://babylon.satlayer.xyz [404] [] [107] [Vercel] [216.150.1.129] [122.887869ms] [HSTS,Vercel]
+https://api.ecosystem.satlayer.xyz [404] [] [13] [Vercel] [76.76.21.241] [474.22775ms] [HSTS,Vercel]
+https://api.v2.explorer.routerprotocol.com [404] [] [69] [nginx] [3.108.88.249] [756.633459ms] [Express,Nginx,Node.js]
+https://api.discover.routerprotocol.com [404] [] [146] [404 Not Found] [nginx] [3.108.88.249] [764.89517ms] [Nginx]
+https://dev.satlayer.xyz [404] [] [107] [Vercel] [66.33.60.193] [155.56011ms] [HSTS,Vercel]
+https://beta.api.discover.routerprotocol.com [404] [] [146] [404 Not Found] [nginx] [3.108.88.249] [728.738687ms] [Nginx]
+https://beta.api.v2.explorer.routerprotocol.com [404] [] [69] [nginx] [3.108.88.249] [740.649929ms] [Express,Nginx,Node.js]
+https://jobs.satlayer.xyz [404] [] [102395] [Vercel] [216.150.16.1] [929.105387ms] [HSTS,Vercel]
+https://journey.satlayer.xyz [404] [] [107] [Vercel] [216.150.16.193] [2.128811022s] [HSTS,Vercel]
+https://headscale.runtimeverification.com [404] [] [0] [] [74.214.251.35] [6.135244877s]
+https://meld.api.routerprotocol.com [404] [] [548] [404 Not Found] [nginx] [3.108.88.249] [1.733772447s] [Nginx]
+https://meld-deposit-flow.api.routerprotocol.com [404] [] [548] [404 Not Found] [nginx] [3.108.88.249] [2.724363479s] [Nginx]
+https://testnet.satlayer.xyz [404] [] [107] [Vercel] [216.150.16.1] [135.186157ms] [HSTS,Vercel]
+http://sepolia.indexer.whale.api.satlayer.xyz [404] [] [107] [Vercel] [216.150.1.65] [607.215828ms] [Vercel]
+http://staging.demo.satlayer.xyz [404] [] [107] [Vercel] [216.150.1.1] [650.88687ms] [Vercel]
+https://www.journey.satlayer.xyz [404] [] [107] [Vercel] [216.150.16.193] [2.421562156s] [HSTS,Vercel]
+https://xplore.api.v2.routerprotocol.com [404] [] [0] [nginx] [3.108.88.249] [1.72051455s] [Nginx]
+
+## 500
+
+## 502
+
+## 503
+
