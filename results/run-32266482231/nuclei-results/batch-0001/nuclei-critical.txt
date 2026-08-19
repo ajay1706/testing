@@ -1,0 +1,8 @@
+[CVE-2025-29927] [http] [critical] https://app.v1.mitosis.org
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://app.swiat.io/config/config.json [""baseUrl": "https://app.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://barclays.demo-barclays.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://bayernlb.demo-bayernlb-erc20.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://bayernlb.demo-bayernlb.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://bg.demo-bank-of-greece.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blb.demo-bayernlb.demo2.swiat.io/config/config.json [""baseUrl": "https://blb.demo-bayernlb.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blb.demo-pontes.demo2.swiat.io/config/config.json [""baseUrl": "https://blb.demo-pontes.demo2.swiat.io""] [path="/config/config.json"]
