@@ -1,0 +1,6 @@
+https://api-perps.asxn.xyz [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [95.216.184.239] [406.347437ms] [Nginx:1.24.0,Ubuntu]
+https://apichecker.mintair.xyz [502] [] [16] [cloudflare] [172.67.68.200] [cloudflare] [879.948857ms] [Cloudflare,HTTP/3]
+https://contracts-api.mintair.xyz [502] [] [1416] [We're sorry, but something went wrong (502)] [nginx] [13.200.22.172] [759.50287ms] [HSTS,Nginx]
+https://monad.testnet.asxn.xyz [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [64.31.48.126] [554.716535ms] [Nginx:1.24.0,Ubuntu]
+https://rpc-consensus-hoodi-beta.morphl2.io [502] [] [16] [cloudflare] [172.67.144.94] [cloudflare] [885.982649ms] [Cloudflare,HTTP/3]
+https://rpc-consensus-hoodi.morphl2.io [502] [] [16] [cloudflare] [172.67.144.94] [cloudflare] [790.237764ms] [Cloudflare,HTTP/3]
