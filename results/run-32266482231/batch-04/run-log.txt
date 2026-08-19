@@ -1,0 +1,14 @@
+[+] Batch started: Wed Aug 19 14:53:02 UTC 2026
+[+] Run ID: 32266482231
+[+] Batch name: batch-04
+[+] Batch targets:
+hito.security
+hulp.ai
+hyperbeat.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Wed Aug 19 14:53:56 UTC 2026
+[+] HTTPX input count: 11
+[+] Running httpx...
+[+] httpx completed: Wed Aug 19 14:53:59 UTC 2026
+[+] httpx line count: 1
+[+] Batch completed: Wed Aug 19 14:53:59 UTC 2026
