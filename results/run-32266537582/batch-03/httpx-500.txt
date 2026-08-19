@@ -1,0 +1,2 @@
+https://180abb63f9f9525b.dyndns.dappnode.io [500] [] [31] [nginx/1.24.0 (Ubuntu)] [135.181.100.206] [575.984678ms] [Nginx:1.24.0,Ubuntu]
+https://wildcard.180abb63f9f9525b.dyndns.dappnode.io [500] [] [31] [nginx/1.24.0 (Ubuntu)] [135.181.100.206] [583.336914ms] [Nginx:1.24.0,Ubuntu]
