@@ -1,0 +1,6 @@
+https://function.network [301] [https://www.function.network/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.152] [cloudflare] [94.310018ms] [Cloudflare]
+https://demo.flock.io [301] [https://demo.flock.io/fl/] [169] [301 Moved Permanently] [nginx/1.28.2] [34.207.183.17] [192.014365ms] [Nginx:1.28.2]
+https://alliance.flock.io [301] [https://forms.gle/frw3GfUtqrJFCozx8/] [0] [AmazonS3] [18.238.109.31] [cloudfront] [251.067398ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://go.gte.xyz [301] [https://gte.xyz/] [15] [Vercel] [66.33.60.66] [345.542652ms] [HSTS,Vercel]
+https://platform.function.network [301] [https://platform.fxnrouter.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.73.21] [cloudflare] [260.033538ms] [Cloudflare]
+https://wl.gte.xyz [301] [https://waitlist.gte.xyz/?dub_id=ThanL2yicFZTBwI7] [15] [Vercel] [66.33.60.66] [709.523099ms] [HSTS,Vercel]
