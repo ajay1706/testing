@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://8c2bbde118c250d9.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[prometheus-metrics] [http] [medium] https://9522f1f0cb3e394a.dyndns.dappnode.io/metrics
