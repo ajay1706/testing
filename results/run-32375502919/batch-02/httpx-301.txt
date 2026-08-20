@@ -1,0 +1,4 @@
+https://blog.jpyc.jp [301] [https://jpyc-support.freshdesk.com/support/home] [0] [CloudFront] [65.8.20.122] [cloudfront] [118.056374ms] [Amazon CloudFront,Amazon Web Services]
+https://docs.jpyc.jp [301] [https://jpyc-support.freshdesk.com/support/home/] [0] [AmazonS3] [99.84.215.38] [cloudfront] [195.916316ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://real.finance [301] [https://www.real.finance/] [166] [301 Moved Permanently] [cloudflare] [172.67.211.222] [cloudflare] [418.702438ms] [Cloudflare,HSTS,HTTP/3]
+https://gitbook.real.finance [301] [/docs/] [0] [cloudflare] [172.67.211.222] [cloudflare] [1.78479991s] [Cloudflare,HTTP/3,Hostinger,LiteSpeed,LiteSpeed Cache,Litespeed Cache,PHP:8.3.30]
