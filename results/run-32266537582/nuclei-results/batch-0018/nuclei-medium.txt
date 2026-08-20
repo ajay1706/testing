@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://not-dashboard.irys.xyz/metrics
+[dockerfile-hidden-disclosure] [http] [medium] https://nodebot.nodeops.xyz/Dockerfile
