@@ -1,0 +1,4 @@
+[git-config] [http] [medium] https://c17ecd95afb90166.dyndns.dappnode.io/.git/config
+[dockerfile-hidden-disclosure] [http] [medium] https://c17ecd95afb90166.dyndns.dappnode.io/Dockerfile
+[prometheus-metrics] [http] [medium] https://cloud.service.pinax.network/metrics
+[docker-compose-config] [http] [medium] https://c17ecd95afb90166.dyndns.dappnode.io/docker-compose.yml
