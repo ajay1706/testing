@@ -1,0 +1,9 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.mitosis.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.memebook.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.memebook.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.mitosis.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] yoursavvypurse.api.twyne.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] yoursavvypurse.api.twyne.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://www.nexus.xyz
+[unauthenticated-varnish-cache-purge] [http] [low] https://www.redbelly.network
+[unauthenticated-varnish-cache-purge] [http] [low] https://zkgm.nexus.xyz
