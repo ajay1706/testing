@@ -1,0 +1,2 @@
+[ssh-cbc-mode-ciphers] [javascript] [low] 17b42719ed013de5.dyndns.dappnode.io:22
+[ssh-weak-public-key] [javascript] [low] 45329878805b4469.dyndns.dappnode.io:22
