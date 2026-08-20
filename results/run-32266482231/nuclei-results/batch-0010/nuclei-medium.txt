@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://rates.pay.staging.kiichain.io/metrics
+[prometheus-metrics] [http] [medium] https://rates.pay.kiichain.io/metrics

@@ -1,0 +1,1 @@
+[superset-default-login] [http] [high] https://reports.qa-nia.consint.ai/api/v1/security/login [password="admin",username="admin"]
