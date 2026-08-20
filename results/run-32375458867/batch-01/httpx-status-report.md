@@ -1,0 +1,39 @@
+# HTTPX Status Report
+
+Generated at: Thu Aug 20 13:41:24 UTC 2026
+
+HTTPX lines: 10
+Live URLs: 10
+
+## 200
+http://hawkfi.xyz [200] [] [183058] [Registrant WHOIS contact information verification | Namecheap.com] [namecheap-web] [198.54.117.242] [233.688159ms]
+https://app.ensofi.xyz [200] [] [55207] [EnsoFi DAO: Evolved from Cross-Chain DeFi] [nginx] [47.129.226.210] [989.969382ms] [HSTS,Next.js,Nginx,Node.js,React,Webpack]
+https://ensofi.xyz [200] [] [123280] [EnsoFi - the Cross-chain DeFi Hub] [nginx] [47.129.226.210] [1.032135789s] [HSTS,Next.js,Nginx,Node.js,React,Webpack]
+https://www.edas.ensofi.xyz [200] [] [190499] [Enso DeFAI Agents Suite (E.D.A.S)] [] [18.154.227.51] [cloudfront] [3.211641378s] [Amazon CloudFront,Amazon Web Services,C3.js,HTTP/3,Next.js,Node.js,React,Webpack,dc.js]
+
+## 301
+
+## 302
+https://edas.ensofi.xyz [302] [https://www.edas.ensofi.xyz/] [0] [] [18.154.227.51] [cloudfront] [339.429954ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+http://mt-link.defai.ensofi.xyz [404] [] [9525] [404 - Not found] [] [34.96.69.148] [google] [13.129933ms] [Google Cloud,Google Cloud CDN]
+http://mt-link.edas-noreply.ensofi.xyz [404] [] [9525] [404 - Not found] [] [34.96.69.148] [google] [11.56656ms] [Google Cloud,Google Cloud CDN]
+https://service.ensofi.xyz [404] [] [63] [nginx] [13.214.36.91] [684.538294ms] [Express,HSTS,Nginx,Node.js]
+https://shop-service.ensofi.xyz [404] [] [63] [nginx] [47.129.226.210] [733.029097ms] [Express,HSTS,Nginx,Node.js]
+https://service-edas.ensofi.xyz [404] [] [63] [nginx] [13.251.43.101] [763.856356ms] [Express,HSTS,Nginx,Node.js]
+
+## 500
+
+## 502
+
+## 503
+
