@@ -1,0 +1,4 @@
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://sc.demo-sl.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://scb.demo-scb-dcm.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://scb.demo-scb.demo2.swiat.io/config/config.json [""baseUrl": "https://scb.demo-scb.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://sinan.dev-ops-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
