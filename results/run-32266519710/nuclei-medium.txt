@@ -1,0 +1,6 @@
+[godaddy-parked-domain] [http] [medium] https://cambrian.network/lander
+[godaddy-parked-domain] [http] [medium] https://twyne.finance/lander
+[godaddy-parked-domain] [http] [medium] https://www.twyne.finance/lander
+[rails-debug-mode] [http] [medium] https://qa-api.truex.com/3IA9M5jF9qxig1hlxdvjubcunQ7
+[rails-debug-mode] [http] [medium] https://qa-ee.truex.com/3IA9M5jF9qxig1hlxdvjubcunQ7
+[wp-jetpack-ssrf] [http] [medium] https://topdocs.truex.com/wp-json/wpcom/v2/tweetstorm/generate-cards
