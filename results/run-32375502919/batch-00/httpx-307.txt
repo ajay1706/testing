@@ -1,0 +1,2 @@
+https://console.bettermoney.com [307] [/login] [15] [Vercel] [216.150.1.193] [281.736616ms] [HSTS,Vercel]
+https://admin.bettermoney.com [307] [/login?callbackUrl=%2F] [15] [Vercel] [216.150.1.193] [289.325734ms] [HSTS,Vercel]

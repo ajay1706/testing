@@ -1,0 +1,5 @@
+https://community.arc.network [301] [https://community.arc.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.61] [cloudflare] [38.429401ms] [Cloudflare]
+https://docs.arc.network [301] [https://docs.arc.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.61] [cloudflare] [92.580471ms] [Cloudflare]
+https://arc.network [301] [https://www.arc.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [1.22206035s] [Cloudflare,HTTP/3]
+https://www.arc.network [301] [https://www.arc.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [175.77837ms] [Cloudflare,HTTP/3]
+https://www.bettermoney.com [301] [https://bettermoney.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [298.954007ms] [Cloudflare,HSTS,HTTP/3]

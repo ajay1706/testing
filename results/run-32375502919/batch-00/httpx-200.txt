@@ -1,0 +1,4 @@
+https://docs.bettermoney.com [200] [] [59428] [Overview] [Caddy] [34.56.95.36] [google] [207.669703ms] [Caddy,HTTP/3,Vue.js]
+https://bettermoney.com [200] [] [218393] [The Better Money Company] [cloudflare] [198.202.211.1] [253.903532ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,jQuery:3.5.1,jsDelivr]
+https://boundary.finance [200] [] [286628] [Boundary: The future of finance is decentralized] [cloudflare] [104.26.13.214] [cloudflare] [575.054904ms] [Cloudflare,Framer Sites,Google Analytics,HSTS,React,UIKit]
+https://public.bettermoney.com [200] [] [1237] [UploadServer] [8.233.150.35] [google] [196.217027ms] [Google Cloud,Google Cloud CDN,HTTP/3]
