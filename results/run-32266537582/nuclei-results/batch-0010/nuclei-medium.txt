@@ -1,0 +1,7 @@
+[open-redirect-generic] [http] [medium] https://benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[prometheus-metrics] [http] [medium] https://auth.dev.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.service.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.pinax.network/metrics
+[CVE-2025-54793] [http] [medium] https://benchmark.dev.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://benchmark.goldsky.com//interact.sh/en//
