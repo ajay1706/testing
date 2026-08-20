@@ -1,0 +1,8 @@
+[open-redirect-generic] [http] [medium] https://sin.benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://sin.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://sjc.benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://sjc.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://sin.benchmark.dev.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://sin.benchmark.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://sjc.benchmark.dev.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://sjc.benchmark.goldsky.com//interact.sh/en//

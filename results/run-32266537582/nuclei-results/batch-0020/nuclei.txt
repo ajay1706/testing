@@ -1,0 +1,43 @@
+[open-redirect-generic] [http] [medium] https://sin.benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://sin.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://sjc.benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://sjc.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.testnet.transcends.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.noble.v10.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.testnet.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.testnet.transcends.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.noble.v10.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.testnet.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc2.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc2.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] safe-wallet-integration.peaq.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] safe-wallet-integration.peaq.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] safe.irys.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] safe.irys.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] serve.nodeops.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] server-dev.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] serve.nodeops.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] server.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] server-dev.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] server.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] security.kiln.fi:443 ["[tls12 TLS_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] snapshots.noble.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] snapshots.noble.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] social-demo.irys.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] solana-rpc.irys.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] social-demo.irys.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] solana-rpc.irys.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[aws-object-listing] [http] [low] https://s3.parquet.pinax.network ["pinax-parquet-public"]
+[github-takeover] [http] [high] https://solana.chorus.one ["chorusone.github.io"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://rustdoc.penumbra.zone
+[CVE-2025-54793] [http] [medium] https://sin.benchmark.dev.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://sin.benchmark.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://sjc.benchmark.dev.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://sjc.benchmark.goldsky.com//interact.sh/en//
+[self-signed-ssl] [ssl] [low] rpc.testnet.cyber.co:443
+[expired-ssl] [ssl] [low] scroll.omnibtc.finance:443 ["2024-08-01 07:09:22 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] signoz.nodeops.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] signoz.nodeops.xyz:443
+[expired-ssl] [ssl] [low] smooth-holesky.dappnode.io:443 ["2025-06-08 14:27:49 +0000 UTC"]
