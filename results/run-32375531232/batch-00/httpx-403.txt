@@ -1,0 +1,4 @@
+https://media.legend.trade [403] [] [111] [AmazonS3] [13.226.238.83] [cloudfront] [366.946413ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://media-staging.legend.trade [403] [] [111] [AmazonS3] [18.165.98.118] [cloudfront] [367.102174ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://cdn.legend.trade [403] [] [111] [AmazonS3] [18.160.10.20] [cloudfront] [372.610818ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://media-dev.legend.trade [403] [] [111] [AmazonS3] [18.160.41.99] [cloudfront] [394.46425ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
