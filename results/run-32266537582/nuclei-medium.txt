@@ -1,0 +1,52 @@
+[CVE-2015-1419:version] [tcp] [medium] 80992ad1a80ab756.dyndns.dappnode.io:21 ["3.0.2"]
+[CVE-2022-41697] [http] [medium] https://ghost-corpresc.nodeops.xyz/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://ghost.nodeops.xyz/ghost/api/admin/session
+[CVE-2023-48795] [javascript] [medium] fe913e9a3bf451ac.dyndns.dappnode.io:22 ["Vulnerable to Terrapin"]
+[CVE-2025-54793] [http] [medium] https://benchmark.dev.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://benchmark.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://fcd-terra-classic.nodeops.xyz//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://fra.benchmark.dev.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://fra.benchmark.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://iad.benchmark.dev.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://iad.benchmark.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://sin.benchmark.dev.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://sin.benchmark.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://sjc.benchmark.dev.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://sjc.benchmark.goldsky.com//interact.sh/en//
+[behat-config] [http] [medium] https://38f4bd8eead9a2b3.dyndns.dappnode.io/behat.yml.dist
+[docker-compose-config] [http] [medium] https://6cbe472c1120ab91.dyndns.dappnode.io/docker-compose.yml
+[docker-compose-config] [http] [medium] https://c17ecd95afb90166.dyndns.dappnode.io/docker-compose.yml
+[dockerfile-hidden-disclosure] [http] [medium] https://6cbe472c1120ab91.dyndns.dappnode.io/Dockerfile
+[dockerfile-hidden-disclosure] [http] [medium] https://c17ecd95afb90166.dyndns.dappnode.io/Dockerfile
+[dockerfile-hidden-disclosure] [http] [medium] https://nodebot.nodeops.xyz/Dockerfile
+[git-config] [http] [medium] https://6cbe472c1120ab91.dyndns.dappnode.io/.git/config
+[git-config] [http] [medium] https://c17ecd95afb90166.dyndns.dappnode.io/.git/config
+[mailpit-app-info-disclosure] [http] [medium] https://mail-ui-design-system.studio-preview.nodeops.xyz/api/v1/messages
+[open-redirect-generic] [http] [medium] https://38c205205e3fb72e.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://4ec85751da30c8b7.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://546c2aee260ea1d9.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://66478f08737a8b87.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://8c2bbde118c250d9.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://fcd-terra-classic.nodeops.xyz//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://fra.benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://fra.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://iad.benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://iad.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://sin.benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://sin.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://sjc.benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://sjc.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[prometheus-metrics] [http] [medium] https://180abb63f9f9525b.dyndns.dappnode.io/metrics
+[prometheus-metrics] [http] [medium] https://9522f1f0cb3e394a.dyndns.dappnode.io/metrics
+[prometheus-metrics] [http] [medium] https://auth.dev.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://auth.service.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://cloud.service.pinax.network/metrics
+[prometheus-metrics] [http] [medium] https://metrics-api.irys.xyz/metrics
+[prometheus-metrics] [http] [medium] https://not-dashboard.irys.xyz/metrics
+[prometheus-metrics] [http] [medium] https://status.dappnode.io/metrics
+[prometheus-metrics] [http] [medium] https://wildcard.180abb63f9f9525b.dyndns.dappnode.io/metrics
+[prometheus-metrics] [http] [medium] https://xplore.api.v2.routerprotocol.com/metrics
+[smtp-user-enum] [tcp] [medium] df8a7655830eba56.dyndns.dappnode.io:25 [useraccounts="msfadmin"]

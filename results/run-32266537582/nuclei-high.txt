@@ -1,0 +1,14 @@
+[CVE-2019-11248] [http] [high] https://api.ipfs.dappnode.io/debug/pprof/
+[CVE-2021-30047:version] [tcp] [high] 80992ad1a80ab756.dyndns.dappnode.io:21 ["3.0.2"]
+[CVE-2025-4123:open-redirect] [http] [high] https://metrics-api.irys.xyz/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://not-dashboard.irys.xyz/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-55184] [http] [high] https://multisig.miden.xyz/login
+[CVE-2025-55184] [http] [high] https://routerprotocol.com
+[CVE-2025-55184] [http] [high] https://www.routerprotocol.com
+[codeigniter-env] [http] [high] https://6cbe472c1120ab91.dyndns.dappnode.io/.env.example [paths="/.env.example"]
+[codeigniter-env] [http] [high] https://c17ecd95afb90166.dyndns.dappnode.io/.env.example [paths="/.env.example"]
+[github-takeover] [http] [high] https://solana.chorus.one ["chorusone.github.io"]
+[laravel-log-file] [http] [high] https://6cbe472c1120ab91.dyndns.dappnode.io/storage/logs/laravel.log
+[laravel-log-file] [http] [high] https://c17ecd95afb90166.dyndns.dappnode.io/storage/logs/laravel.log
+[laravel-passport-keys-exposed] [http] [high] https://6cbe472c1120ab91.dyndns.dappnode.io/storage/oauth-public.key
+[laravel-passport-keys-exposed] [http] [high] https://c17ecd95afb90166.dyndns.dappnode.io/storage/oauth-public.key
