@@ -1,0 +1,5 @@
+[CVE-2019-11248] [http] [high] https://hyper-prometheous.asxn.xyz/debug/pprof/
+[CVE-2026-39364] [http] [high] https://staking.asxn.xyz/.env?raw??
+[github-takeover] [http] [high] https://alluvial.finance
+[github-takeover] [http] [high] https://www.alluvial.finance ["alluvialfinance.github.io"]
+[prometheus-unauth] [http] [high] https://hyper-prometheous.asxn.xyz/api/v1/status/config

