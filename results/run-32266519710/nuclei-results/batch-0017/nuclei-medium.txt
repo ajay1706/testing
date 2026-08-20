@@ -1,0 +1,2 @@
+[wp-jetpack-ssrf] [http] [medium] https://topdocs.truex.com/wp-json/wpcom/v2/tweetstorm/generate-cards
+[godaddy-parked-domain] [http] [medium] https://twyne.finance/lander
