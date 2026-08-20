@@ -1,0 +1,7 @@
+[open-redirect-generic] [http] [medium] https://fcd-terra-classic.nodeops.xyz//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://fra.benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://fra.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[CVE-2023-48795] [javascript] [medium] fe913e9a3bf451ac.dyndns.dappnode.io:22 ["Vulnerable to Terrapin"]
+[CVE-2025-54793] [http] [medium] https://fcd-terra-classic.nodeops.xyz//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://fra.benchmark.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://fra.benchmark.dev.goldsky.com//interact.sh/en//
