@@ -1,0 +1,3 @@
+https://www.margarita.finance [200] [] [1501] [Margarita Finance - Agentic DeFi Protocol | Agentic Yieldcoins] [Vercel] [216.150.16.1] [491.308048ms] [HSTS,Vercel]
+https://docs.margarita.finance [200] [] [548939] [Margarita Finance FAQ] [cloudflare] [104.18.40.47] [cloudflare] [491.420912ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://www.app.margarita.finance [200] [] [44444] [Margarita.finance] [Vercel] [216.150.16.193] [1.831634166s] [HSTS,Next.js,Node.js,React,Vercel,Webpack,dc.js]
