@@ -1,0 +1,6 @@
+[CVE-2022-41697] [http] [medium] https://ghost-corpresc.nodeops.xyz/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://ghost.nodeops.xyz/ghost/api/admin/session
+[open-redirect-generic] [http] [medium] https://iad.benchmark.dev.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://iad.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://iad.benchmark.dev.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://iad.benchmark.goldsky.com//interact.sh/en//
