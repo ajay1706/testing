@@ -1,0 +1,69 @@
+# HTTPX Status Report
+
+Generated at: Thu Aug 20 13:41:42 UTC 2026
+
+HTTPX lines: 44
+Live URLs: 44
+
+## 200
+https://app.heypocket.com [200] [] [1632] [Pocket] [Vercel] [216.150.16.129] [44.221202ms] [HSTS,Vercel]
+https://share.heypocket.com [200] [] [1632] [Pocket] [Vercel] [216.150.1.1] [83.571205ms] [HSTS,Vercel]
+https://mta-sts.cork.tech [200] [] [138] [GitHub.com] [185.199.111.153] [173.552688ms] [Fastly,GitHub Pages,Varnish]
+https://agentic-defi-demo.cork.tech [200] [] [492] [Cork — Demo Visualisation Dashboard] [cloudflare] [104.20.39.29] [cloudflare] [202.948983ms] [Cloudflare,HSTS,Vercel]
+https://app.insecure.cork.tech [200] [] [1758] [Vercel] [216.150.16.193] [119.629162ms] [HSTS,Vercel]
+https://referrals.heypocket.com [200] [] [24138] [ReferralCandy Portal] [AmazonS3] [13.249.74.44] [cloudfront] [93.981626ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://app.cork.tech [200] [] [1758] [Vercel] [216.150.1.193] [174.689813ms] [HSTS,Vercel]
+https://draft.app.insecure.cork.tech [200] [] [1757] [Vercel] [216.150.1.193] [212.663243ms] [HSTS,Vercel]
+https://heri-a.feat.cork.tech [200] [] [404] [Cork Covered Vaults] [cloudflare] [104.20.39.29] [cloudflare] [529.111917ms] [Cloudflare,HSTS]
+https://affiliate.heypocket.com [200] [] [11114] [Pocket | Login] [nginx] [143.244.145.116] [380.949175ms] [Bootstrap,HSTS,Laravel,Nginx,PHP,React,jQuery:3.1.1,reCAPTCHA]
+https://onchain.accelerant.cork.tech [200] [] [2835] [cloudflare] [104.20.39.29] [cloudflare] [546.132887ms] [Cloudflare,HSTS]
+https://website.cork.tech [200] [] [60979] [Cork — The Onchain Risk Primitive for Agentic Finance] [cloudflare] [104.20.39.29] [cloudflare] [146.509185ms] [Cloudflare,HSTS]
+https://feedback.heypocket.com [200] [] [28234] [Pocket feature requests] [] [44.225.42.86] [188.521573ms] [Frill,HSTS,HTTP/3]
+https://www.cork.tech [200] [] [220073] [Tokenized Risk Infrastructure - Cork] [cloudflare] [104.20.39.29] [cloudflare] [221.95627ms] [Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,cdnjs,jQuery:3.5.1,jsDelivr]
+https://community.heypocket.com [200] [] [213029] [Pocket Community] [nginx] [216.66.8.43] [588.330248ms] [Discourse:2026.8.0,HSTS,Nginx,Ruby on Rails]
+https://guide.heypocket.com [200] [] [135750] [Pocket Guide | Help Center] [cloudflare] [216.24.57.15] [1.999311772s] [Cloudflare,HSTS,HTTP/3,Node.js,Nuxt.js,Render,Vue.js]
+https://docs.cork.tech [200] [] [451500] [What is Cork? | Cork Protocol Docs] [cloudflare] [172.66.158.234] [cloudflare] [135.700593ms] [Cloudflare,GitBook,HSTS,Vercel]
+https://rc1.app.insecure.cork.tech [200] [] [1680] [Vercel] [216.150.16.129] [3.349611905s] [HSTS,Vercel]
+https://heypocket.com [200] [] [553995] [Pocket - Take Notes In The Real World] [cloudflare] [23.227.38.65] [153.481444ms] [Cloudflare,HSTS,HTTP/3,Klaviyo,Shopify]
+
+## 301
+http://staging.api.cork.tech [301] [https://staging.api.cork.tech/] [167] [301 Moved Permanently] [cloudflare] [104.20.39.29] [cloudflare] [26.82411ms] [Amazon S3,Amazon Web Services,Cloudflare,HTTP/2]
+http://prelaunch.www.cork.tech [301] [https://prelaunch.www.cork.tech/] [167] [301 Moved Permanently] [cloudflare] [198.202.211.1] [27.110467ms] [Cloudflare,HTTP/2]
+http://prelaunch.app.cork.tech [301] [https://prelaunch.app.cork.tech/] [167] [301 Moved Permanently] [cloudflare] [104.20.39.29] [cloudflare] [34.651511ms] [Cloudflare,HTTP/2]
+https://www.heypocket.com [301] [https://heypocket.com/] [0] [cloudflare] [23.227.38.74] [166.615102ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+
+## 302
+https://zian-b.feat.cork.tech [302] [/dashboard/] [0] [cloudflare] [172.66.158.234] [cloudflare] [517.590213ms] [Cloudflare,HSTS]
+https://zian-a.feat.cork.tech [302] [/dashboard/] [145] [302 Found] [cloudflare] [172.66.158.234] [cloudflare] [546.560323ms] [Cloudflare,HSTS]
+
+## 307
+https://cork.tech [307] [https://www.cork.tech/] [169] [307 Temporary Redirect] [cloudflare] [104.20.39.29] [cloudflare] [48.697001ms] [Cloudflare,HSTS]
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://interfold.xyz [404] [] [107] [Vercel] [216.150.1.193] [41.675316ms] [HSTS,Vercel]
+https://elinkccc.newsletter.cork.tech [404] [] [1437] [404 Not Found] [cloudflare] [104.16.24.120] [cloudflare] [83.393862ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://53479007.newsletter.cork.tech [404] [] [548] [404 Not Found] [nginx] [44.245.147.253] [114.32834ms] [Nginx]
+https://trk.email.heypocket.com [404] [] [1543] [Oops Error 404 - Klaviyo] [cloudflare] [104.17.94.1] [cloudflare] [126.441551ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Tailwind CSS]
+https://wildcard.interfold.xyz [404] [] [107] [Vercel] [216.150.1.129] [223.171687ms] [HSTS,Vercel]
+https://api-phoenix.cork.tech [404] [] [72] [] [52.51.56.224] [479.258224ms] [HSTS]
+https://accelerant.cork.tech [404] [] [72] [cloudflare] [104.20.39.29] [cloudflare] [529.819773ms] [Cloudflare,HSTS]
+https://breaking.cork.tech [404] [] [72] [cloudflare] [104.20.39.29] [cloudflare] [527.792578ms] [Cloudflare,HSTS]
+https://heri-a.feat.cork.tech [200] [] [404] [Cork Covered Vaults] [cloudflare] [104.20.39.29] [cloudflare] [529.111917ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+https://filip-b.feat.cork.tech [502] [] [16] [cloudflare] [104.20.39.29] [cloudflare] [513.519354ms] [Cloudflare]
+https://heri-b.feat.cork.tech [502] [] [16] [cloudflare] [104.20.39.29] [cloudflare] [514.666253ms] [Cloudflare]
+https://gio-a.feat.cork.tech [502] [] [16] [cloudflare] [104.20.39.29] [cloudflare] [524.585719ms] [Cloudflare]
+https://gio-b.feat.cork.tech [502] [] [16] [cloudflare] [172.66.158.234] [cloudflare] [529.296524ms] [Cloudflare]
+https://filip-a.feat.cork.tech [502] [] [16] [cloudflare] [172.66.158.234] [cloudflare] [526.559061ms] [Cloudflare]
+
+## 503
+

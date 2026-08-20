@@ -1,0 +1,4 @@
+http://staging.api.cork.tech [301] [https://staging.api.cork.tech/] [167] [301 Moved Permanently] [cloudflare] [104.20.39.29] [cloudflare] [26.82411ms] [Amazon S3,Amazon Web Services,Cloudflare,HTTP/2]
+http://prelaunch.www.cork.tech [301] [https://prelaunch.www.cork.tech/] [167] [301 Moved Permanently] [cloudflare] [198.202.211.1] [27.110467ms] [Cloudflare,HTTP/2]
+http://prelaunch.app.cork.tech [301] [https://prelaunch.app.cork.tech/] [167] [301 Moved Permanently] [cloudflare] [104.20.39.29] [cloudflare] [34.651511ms] [Cloudflare,HTTP/2]
+https://www.heypocket.com [301] [https://heypocket.com/] [0] [cloudflare] [23.227.38.74] [166.615102ms] [Cloudflare,HSTS,HTTP/3,Shopify]
