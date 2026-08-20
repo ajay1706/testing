@@ -1,0 +1,47 @@
+# HTTPX Status Report
+
+Generated at: Thu Aug 20 13:42:33 UTC 2026
+
+HTTPX lines: 19
+Live URLs: 19
+
+## 200
+https://api.nad.fun [200] [] [13] [cloudflare] [172.67.72.89] [cloudflare] [112.479123ms] [Cloudflare]
+https://plausible.monorail.xyz [200] [] [15754] [Plausible · Simple, privacy-friendly alternative to Google Analytics] [cloudflare] [104.26.11.24] [cloudflare] [231.197578ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://docs.monorail.xyz [200] [] [21862] [Welcome to Monorail - Monorail Documentation] [cloudflare] [104.26.10.24] [cloudflare] [197.841092ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HSTS,MathJax,MkDocs:1.6.1,Python,Unpkg,Varnish]
+https://dev-ws.nad.fun [200] [] [13] [] [15.235.225.129] [532.729505ms]
+https://dev-api.nad.fun [200] [] [13] [] [15.235.225.129] [533.573249ms]
+https://analytics.monorail.xyz [200] [] [16022] [Plausible · Simple, privacy-friendly alternative to Google Analytics] [cloudflare] [104.26.11.24] [cloudflare] [402.769207ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://signal.monorail.xyz [200] [] [55452] [Signal | Live soccer prediction market terminal] [cloudflare] [104.26.10.24] [cloudflare] [246.504211ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://monorail.xyz [200] [] [48444] [Monorail - The best swap aggregator on Monad] [cloudflare] [172.67.69.155] [cloudflare] [267.260388ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://www.monorail.xyz [200] [] [48444] [Monorail - The best swap aggregator on Monad] [cloudflare] [104.26.10.24] [cloudflare] [251.262138ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://nad.fun [200] [] [192785] [Nad.fun] [cloudflare] [104.26.10.192] [cloudflare] [1.187345608s] [C3.js,Cloudflare,Next.js,Node.js,React,Webpack]
+https://dev-mm-dashboard.nad.fun [200] [] [888171] [mm-bot · Scenario Dashboard] [Vercel] [76.76.21.21] [771.031596ms] [HSTS,Vercel]
+https://staging-tester.nad.fun [200] [] [193005] [Nad.fun] [cloudflare] [104.26.11.192] [cloudflare] [2.440527698s] [C3.js,Cloudflare,Next.js,Node.js,React,Webpack]
+
+## 301
+https://discord.monorail.xyz [301] [https://discord.gg/RS43FQuxAZ] [520] [301 Moved Permanently] [cloudflare] [104.26.11.24] [cloudflare] [41.079145ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://nad.finance [301] [https://expireddomains.com/domain/nad.finance?utm_source=redi] [86] [openresty] [5.78.156.59] [85.398235ms] [Nginx,OpenResty]
+https://status.monorail.xyz [301] [https://status.monorail.xyz/] [515] [301 Moved Permanently] [cloudflare] [104.26.10.24] [cloudflare] [124.636306ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://www.nad.finance [301] [https://expireddomains.com/domain/nad.finance?utm_source=redi] [86] [openresty] [5.78.156.59] [172.884147ms] [Nginx,OpenResty]
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://signal-at.monorail.xyz [404] [] [105] [cloudflare] [104.20.29.105] [cloudflare] [192.7313ms] [Cloudflare,HSTS]
+https://st.monorail.xyz [404] [] [105] [cloudflare] [104.20.29.105] [cloudflare] [237.345384ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+
+## 503
+
