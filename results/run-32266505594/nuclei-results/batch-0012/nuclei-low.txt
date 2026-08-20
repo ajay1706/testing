@@ -1,0 +1,12 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] status-api.lumiterra.net:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status-api.lumiterra.net:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stg-point-api.secured.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stg-point-api.secured.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] status.safe.morphl2.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] testnet-bridge.satoshivm.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testnet-bridge.satoshivm.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.safe.morphl2.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[netlify-headers-config-exposure] [http] [low] https://stg.secured.finance/_headers
+[kubernetes-metrics] [http] [low] https://theoriq-backend.infra.theoriq.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://theoriq-backend.infra.theoriq.ai/metrics
+[expired-ssl] [ssl] [low] tether.gte.xyz:443 ["2026-08-17 15:49:52 +0000 UTC"]
