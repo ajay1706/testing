@@ -1,0 +1,8 @@
+https://bluesky.ambient.xyz [302] [/auth/login?next=%2F] [43] [cloudflare] [104.26.0.19] [cloudflare] [220.10124ms] [Cloudflare]
+https://auth.ambient.xyz [302] [https://ambient.xyz/] [42] [cloudflare] [172.64.144.74] [cloudflare] [246.730464ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth-staging.ambient.xyz [302] [https://ambient.xyz/] [42] [cloudflare] [104.18.43.182] [cloudflare] [315.894495ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://id.ambient.xyz [302] [/flows/-/default/authentication/?next=/] [0] [cloudflare] [104.26.0.19] [cloudflare] [242.988868ms] [Cloudflare]
+http://pool.curvefi.xyz [302] [https://parking.onamae.com/?domain=pool.curvefi.xyz] [275] [302 Found] [Apache] [160.251.64.80] [559.476789ms] [Apache HTTP Server]
+http://polycon.curvefi.xyz [302] [https://parking.onamae.com/?domain=polycon.curvefi.xyz] [278] [302 Found] [Apache] [160.251.64.80] [4.026164821s] [Apache HTTP Server]
+http://rewards.curvefi.xyz [302] [https://parking.onamae.com/?domain=rewards.curvefi.xyz] [278] [302 Found] [Apache] [160.251.64.80] [1.054013707s] [Apache HTTP Server]
+http://www.curvefi.xyz [302] [https://parking.onamae.com/?domain=www.curvefi.xyz] [274] [302 Found] [Apache] [160.251.64.80] [217.38913ms] [Apache HTTP Server]
