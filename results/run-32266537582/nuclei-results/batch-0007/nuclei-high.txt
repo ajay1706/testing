@@ -1,0 +1,3 @@
+[codeigniter-env] [http] [high] https://6cbe472c1120ab91.dyndns.dappnode.io/.env.example [paths="/.env.example"]
+[laravel-log-file] [http] [high] https://6cbe472c1120ab91.dyndns.dappnode.io/storage/logs/laravel.log
+[laravel-passport-keys-exposed] [http] [high] https://6cbe472c1120ab91.dyndns.dappnode.io/storage/oauth-public.key

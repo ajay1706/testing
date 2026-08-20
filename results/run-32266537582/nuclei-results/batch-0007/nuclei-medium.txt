@@ -1,0 +1,9 @@
+[open-redirect-generic] [http] [medium] https://38c205205e3fb72e.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://4ec85751da30c8b7.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://546c2aee260ea1d9.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://66478f08737a8b87.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[behat-config] [http] [medium] https://38f4bd8eead9a2b3.dyndns.dappnode.io/behat.yml.dist
+[dockerfile-hidden-disclosure] [http] [medium] https://6cbe472c1120ab91.dyndns.dappnode.io/Dockerfile
+[docker-compose-config] [http] [medium] https://6cbe472c1120ab91.dyndns.dappnode.io/docker-compose.yml
+[prometheus-metrics] [http] [medium] https://180abb63f9f9525b.dyndns.dappnode.io/metrics
+[git-config] [http] [medium] https://6cbe472c1120ab91.dyndns.dappnode.io/.git/config

@@ -1,0 +1,64 @@
+[codeigniter-env] [http] [high] https://6cbe472c1120ab91.dyndns.dappnode.io/.env.example [paths="/.env.example"]
+[open-redirect-generic] [http] [medium] https://38c205205e3fb72e.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://4ec85751da30c8b7.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://546c2aee260ea1d9.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://66478f08737a8b87.dyndns.dappnode.io/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 17bc093e63403e72.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 17bc093e63403e72.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 14ada22ab0f65209.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 14ada22ab0f65209.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 1f644009857b4755.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 1f644009857b4755.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 5520b1a771efc7e6.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 5520b1a771efc7e6.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 657150f0a71410fb.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 67d506ce06138097.dyndns.dappnode.io:443 ["[tls10 TLS_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 657150f0a71410fb.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 67d506ce06138097.dyndns.dappnode.io:443 ["[tls11 TLS_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] 67d506ce06138097.dyndns.dappnode.io:443 ["[tls12 TLS_RSA_WITH_AES_128_CBC_SHA]"]
+[behat-config] [http] [medium] https://38f4bd8eead9a2b3.dyndns.dappnode.io/behat.yml.dist
+[postgres-exporter-metrics] [http] [low] https://180abb63f9f9525b.dyndns.dappnode.io/metrics
+[python-metrics] [http] [low] https://180abb63f9f9525b.dyndns.dappnode.io/metrics
+[dockerfile-hidden-disclosure] [http] [medium] https://6cbe472c1120ab91.dyndns.dappnode.io/Dockerfile
+[laravel-log-file] [http] [high] https://6cbe472c1120ab91.dyndns.dappnode.io/storage/logs/laravel.log
+[docker-compose-config] [http] [medium] https://6cbe472c1120ab91.dyndns.dappnode.io/docker-compose.yml
+[backup-directory-listing] [http] [low] https://38f4bd8eead9a2b3.dyndns.dappnode.io/backup/
+[apache-server-status] [http] [low] https://3457d31ca8ebc0a0.dyndns.dappnode.io/server-status
+[prometheus-metrics] [http] [medium] https://180abb63f9f9525b.dyndns.dappnode.io/metrics
+[wp-user-enum:usernames] [http] [low] https://47d12b139bdf1291.dyndns.dappnode.io/wp-json/wp/v2/users/ ["jure","Jure Jo\u0161t","jernej"]
+[git-config] [http] [medium] https://6cbe472c1120ab91.dyndns.dappnode.io/.git/config
+[laravel-passport-keys-exposed] [http] [high] https://6cbe472c1120ab91.dyndns.dappnode.io/storage/oauth-public.key
+[expired-ssl] [ssl] [low] 0e80f9deef7353fb.dyndns.dappnode.io:443 ["2025-05-29 14:20:44 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] 0e80f9deef7353fb.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] 17bc093e63403e72.dyndns.dappnode.io:443 ["2026-07-27 14:52:27 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] 11085d41527af562.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 1ebbb74da5deba23.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 14ada22ab0f65209.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 1766f3e0d3edb3a1.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 1f644009857b4755.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 2a1cd243465623c9.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] 297c0656ccc49b11.dyndns.dappnode.io:443 ["2025-10-20 12:35:26 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] 297c0656ccc49b11.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 1ef404ed43032681.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 44a5e239a317f531.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 3cb044b0420db0a0.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] 3ca4e656204d7715.dyndns.dappnode.io:443 ["2024-09-01 19:23:22 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] 3ca4e656204d7715.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 3cd21aa15bd433ea.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 3f0c30c06e3b5eb9.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 49cbf4dbec4c1832.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 52622e8dc86b9327.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 53edf52a77379911.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 559ba1932e425181.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 58ac9fdf89f6706d.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 5c72df670b26c5f4.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 5949225d0625aa2f.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 5d7031f676f5d957.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 6024130a1211f96e.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 627b1550b4941282.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 6360e3a641ab0899.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 5b59b82706f08de0.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 67d506ce06138097.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 6962a458b6e154bb.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 661f4e0b070b4836.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] 48b6a6079c79129f.dyndns.dappnode.io:443
