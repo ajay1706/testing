@@ -1,0 +1,2 @@
+[CVE-2026-39365] [http] [medium] https://testnet.swiat-erc20-signer.dev1.swiat.io/node_modules/.vite/deps/../../../config.production.js.map ["/opt/swiat-erc20-signer/config.production.js"]
+[docker-compose-config] [http] [medium] https://testnet.swiat-erc20-signer.dev1.swiat.io/docker-compose.yml

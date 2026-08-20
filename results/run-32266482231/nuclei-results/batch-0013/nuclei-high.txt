@@ -1,0 +1,1 @@
+[CVE-2026-39364] [http] [high] https://testnet.swiat-erc20-signer.dev1.swiat.io/.env?raw??
