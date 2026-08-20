@@ -1,0 +1,3 @@
+https://admin.bettermoney.com [307] [/login?callbackUrl=%2F] [15] [Vercel] [216.150.1.193] [289.325734ms] [HSTS,Vercel]
+https://console.bettermoney.com [307] [/login] [15] [Vercel] [216.150.1.193] [281.736616ms] [HSTS,Vercel]
+https://cork.tech [307] [https://www.cork.tech/] [169] [307 Temporary Redirect] [cloudflare] [104.20.39.29] [cloudflare] [48.697001ms] [Cloudflare,HSTS]
