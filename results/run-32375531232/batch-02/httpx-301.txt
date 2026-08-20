@@ -1,0 +1,3 @@
+https://www.perpl.xyz [301] [https://perpl.xyz/] [520] [301 Moved Permanently] [cloudflare] [104.20.45.91] [cloudflare] [35.117376ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://img.news.propr.xyz [301] [https://img.mailin.fr/] [0] [cloudflare] [104.17.155.243] [cloudflare] [213.842432ms] [Cloudflare,Envoy]
+https://r.news.propr.xyz [301] [https://img.mailin.fr/] [0] [envoy] [172.246.243.65] [513.724925ms] [Envoy]
