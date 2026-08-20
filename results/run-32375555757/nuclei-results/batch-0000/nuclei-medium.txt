@@ -1,0 +1,2 @@
+[nexus-repository-anonymous-access] [http] [medium] https://dev-mm-dashboard.nad.fun/service/rest/v1/repositories
+[prometheus-metrics] [http] [medium] https://api.ambient.xyz/metrics
