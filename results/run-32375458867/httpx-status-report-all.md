@@ -1,0 +1,150 @@
+# Final HTTPX Status Report
+
+Run ID: 32375458867
+Generated at: Thu Aug 20 13:44:58 UTC 2026
+
+Total HTTPX lines: 134
+Total live URLs: 134
+
+## 200
+http://hawkfi.xyz [200] [] [183058] [Registrant WHOIS contact information verification | Namecheap.com] [namecheap-web] [198.54.117.242] [233.688159ms]
+https://amulet.org [200] [] [3396] [Amulet Protocol] [] [150.171.110.193] [217.966746ms] [Azure,Azure Front Door,Google Analytics]
+https://api.amulet.org [200] [] [149794] [Your Azure Function App is up and running.] [] [150.171.109.77] [317.125942ms] [Azure,Azure Front Door,Microsoft Ajax Content Delivery Network,jQuery UI:1.13.2,jQuery:3.6.0]
+https://apiv2.amulet.org [200] [] [149794] [Your Azure Function App is up and running.] [] [150.171.110.193] [307.529288ms] [Azure,Azure Front Door,Microsoft Ajax Content Delivery Network,jQuery UI:1.13.2,jQuery:3.6.0]
+https://app.amulet.org [200] [] [2590] [Amulet] [] [150.171.109.65] [310.40976ms] [Azure,Azure Front Door,Google Analytics]
+https://app.ensofi.xyz [200] [] [55207] [EnsoFi DAO: Evolved from Cross-Chain DeFi] [nginx] [47.129.226.210] [989.969382ms] [HSTS,Next.js,Nginx,Node.js,React,Webpack]
+https://app.uponly.space [200] [] [17956] [UpOnly] [] [162.0.234.237] [199.328998ms] [Google Analytics,HTTP/3,Next.js,Node.js,React,Webpack]
+https://appv2.amulet.org [200] [] [2590] [Amulet] [] [150.171.109.71] [551.363718ms] [Azure,Azure Front Door,Google Analytics]
+https://claims.reflect.money [200] [] [28583] [Claim | Reflect] [cloudflare] [172.67.73.135] [cloudflare] [497.68943ms] [Cloudflare,HSTS,Vercel]
+https://docs.margarita.finance [200] [] [548939] [Margarita Finance FAQ] [cloudflare] [104.18.40.47] [cloudflare] [491.420912ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.ranger.finance [200] [] [227354] [Introduction to Ranger Earn - Ranger Earn Documentation] [Vercel] [76.76.21.123] [389.869692ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://docs.ryvo.network [200] [] [282248] [Ryvo Protocol - Ryvo Protocol] [cloudflare] [172.66.3.9] [cloudflare] [286.086725ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://docs.uponly.space [200] [] [346456] [Welcome | Uponly Documentation] [cloudflare] [172.64.147.209] [cloudflare] [371.830139ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://ensofi.xyz [200] [] [123280] [EnsoFi - the Cross-chain DeFi Hub] [nginx] [47.129.226.210] [1.032135789s] [HSTS,Next.js,Nginx,Node.js,React,Webpack]
+https://gql.amulet.org [200] [] [149794] [Your Azure Function App is up and running.] [] [150.171.109.77] [613.474288ms] [Azure,Azure Front Door,Microsoft Ajax Content Delivery Network,jQuery UI:1.13.2,jQuery:3.6.0]
+https://gqlv2.amulet.org [200] [] [149794] [Your Azure Function App is up and running.] [] [150.171.109.77] [310.344864ms] [Azure,Azure Front Door,Microsoft Ajax Content Delivery Network,jQuery UI:1.13.2,jQuery:3.6.0]
+https://info.amulet.org [200] [] [149794] [Your Azure Function App is up and running.] [] [150.171.109.72] [482.08411ms] [Azure,Azure Front Door,Microsoft Ajax Content Delivery Network,jQuery UI:1.13.2,jQuery:3.6.0]
+https://infov2.amulet.org [200] [] [149794] [Your Azure Function App is up and running.] [] [150.171.109.77] [449.248964ms] [Azure,Azure Front Door,Microsoft Ajax Content Delivery Network,jQuery UI:1.13.2,jQuery:3.6.0]
+https://jobs.reflect.money [200] [] [5849] [Reflect Jobs - Join us at the forefront of capital efficient assets] [cloudflare] [104.26.2.65] [cloudflare] [283.629937ms] [Cloudflare,HSTS,Vercel]
+https://landing.reflect.money [200] [] [80053] [Reflect Money] [cloudflare] [104.26.2.65] [cloudflare] [215.412772ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,Vercel,Webflow,jQuery:3.5.1]
+https://legal-review.recovery.reflect.money [200] [] [14331] [Claim | Reflect] [Vercel] [216.150.1.1] [1.785699432s] [HSTS,Vercel]
+https://playground.ryvo.network [200] [] [10672] [Ryvo Playground — call any gateway endpoint with your wallet] [Vercel] [216.150.16.129] [613.363476ms] [HSTS,Vercel]
+https://recovery.reflect.money [200] [] [28583] [Claim | Reflect] [Vercel] [216.150.1.129] [481.162504ms] [HSTS,Vercel]
+https://reflect.money [200] [] [80053] [Reflect Money] [cloudflare] [104.26.2.65] [cloudflare] [159.397184ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,Vercel,Webflow,jQuery:3.5.1]
+https://restricted.amulet.org [200] [] [2371] [Amulet Protocol] [] [150.171.109.72] [329.861429ms] [Azure,Azure Front Door]
+https://restrictedv2.amulet.org [200] [] [2371] [Amulet Protocol] [] [150.171.109.72] [500.934951ms] [Azure,Azure Front Door]
+https://tokenvesting.amulet.org [200] [] [1737] [Amulet Vesting] [] [150.171.110.194] [703.824134ms] [Azure,Azure Front Door]
+https://uponly.space [200] [] [233977] [UpOnly | The Token That Only Goes Up] [Framer/6443c08] [31.43.160.6] [280.855075ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React,YouTube]
+https://waitlist.reflect.money [200] [] [1862] [Reflect — Waitlist closed] [Vercel] [216.150.1.129] [196.532823ms] [HSTS,Vercel]
+https://whitelabel.reflect.money [200] [] [80053] [Reflect Money] [Vercel] [216.150.16.129] [191.512665ms] [Google Font API,Google Hosted Libraries,HSTS,Vercel,Webflow,jQuery:3.5.1]
+https://www.app.margarita.finance [200] [] [44444] [Margarita.finance] [Vercel] [216.150.16.193] [1.831634166s] [HSTS,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://www.edas.ensofi.xyz [200] [] [190499] [Enso DeFAI Agents Suite (E.D.A.S)] [] [18.154.227.51] [cloudfront] [3.211641378s] [Amazon CloudFront,Amazon Web Services,C3.js,HTTP/3,Next.js,Node.js,React,Webpack,dc.js]
+https://www.margarita.finance [200] [] [1501] [Margarita Finance - Agentic DeFi Protocol | Agentic Yieldcoins] [Vercel] [216.150.16.1] [491.308048ms] [HSTS,Vercel]
+https://www.ryvo.network [200] [] [18780] [Ryvo Network - the clearing layer for machine payments] [Vercel] [216.150.1.193] [354.25135ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+http://consolidation.amulet.org [301] [https://consolidation.amulet.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.40.47] [cloudflare] [164.058602ms] [Cloudflare,HTTP/3]
+http://docs.amulet.org [301] [https://docs.amulet.org/] [167] [301 Moved Permanently] [cloudflare] [172.64.147.209] [cloudflare] [89.51745ms] [Cloudflare,HTTP/3]
+https://www.amulet.org [301] [https://amulet.org/] [0] [] [150.171.109.74] [315.493392ms] [Azure,Azure Front Door]
+
+## 302
+http://admin.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [330.708223ms]
+http://cdn.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [363.034877ms]
+http://dev.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [408.615104ms]
+http://www.intranet.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [405.017712ms]
+https://admin.reflect.money [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fadmin.reflect.money%2F&nonce=6b195d54bb0de2d0671330dcce73359ec253a4086f4257a9c26f644401733f21] [15] [cloudflare] [104.26.2.65] [cloudflare] [276.839329ms] [Cloudflare,HSTS,Vercel]
+https://arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [626.020796ms]
+https://devnet.whitelabel.reflect.money [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdevnet.whitelabel.reflect.money%2F&nonce=6b9aadb227b56b5aa5f47945697565d6d8d7007701cbed0b83d2ac9b07655724] [15] [Vercel] [216.150.1.193] [213.441433ms] [HSTS,Vercel]
+https://edas.ensofi.xyz [302] [https://www.edas.ensofi.xyz/] [0] [] [18.154.227.51] [cloudfront] [339.429954ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://fairysnapmotherg.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [645.518975ms]
+https://giveaway.uponly.space [302] [https://kickoffpages.com/no-page-exists] [0] [Fly/e93089d61 (2026-08-20)] [213.188.193.98] [924.148382ms] [Fly.io,HSTS]
+https://intranet.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [819.531048ms]
+https://login.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [864.399698ms]
+https://m.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [830.887035ms]
+https://members.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [1.150829563s]
+https://premierg.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [1.781320028s]
+https://sitemaps.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [671.158579ms]
+https://staging.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [580.41217ms]
+https://wildcard.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [1.070792435s]
+https://www.arage.com [302] [https://sedo.com/search/details/?partnerid=324561&language=us&domain=arage.com&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage] [0] [Parking/1.0] [64.190.63.222] [775.913709ms]
+
+## 307
+https://analaytics.uponly.space [307] [/dashboard] [5205] [Umami] [] [162.0.234.237] [174.230958ms] [HTTP/3,Next.js,Node.js,React,Webpack]
+https://app.reflect.money [307] [/usdt] [15] [Vercel] [216.150.16.193] [141.343979ms] [HSTS,Vercel]
+https://legacy.reflect.money [307] [/usdt] [15] [Vercel] [216.150.16.129] [215.452664ms] [HSTS,Vercel]
+https://margarita.finance [307] [https://www.margarita.finance/] [15] [Vercel] [216.150.16.1] [124.171652ms] [HSTS,Vercel]
+https://ryvo.network [307] [https://www.ryvo.network/] [15] [Vercel] [216.150.1.1] [115.988902ms] [HSTS,Vercel]
+https://staging.reflect.money [307] [/usdc] [15] [cloudflare] [172.67.73.135] [cloudflare] [175.845651ms] [Cloudflare,HSTS,Vercel]
+https://trade.ranger.finance [307] [/ar] [3] [Google Frontend] [34.49.2.111] [google] [984.95653ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://www.reflect.money [307] [https://reflect.money/] [15] [cloudflare] [104.26.3.65] [cloudflare] [159.743593ms] [Cloudflare,HSTS,Vercel]
+
+## 308
+https://alpha.reflect.money [308] [https://app.reflect.money/] [15] [cloudflare] [172.67.73.135] [cloudflare] [274.501842ms] [Cloudflare,HSTS,Vercel]
+https://app.margarita.finance [308] [https://www.app.margarita.finance/] [15] [Vercel] [216.150.16.193] [166.302062ms] [HSTS,Vercel]
+https://docs.reflect.money [308] [/introduction] [97165] [cloudflare] [104.26.2.65] [cloudflare] [374.739564ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://www.uponly.space [308] [https://uponly.space/] [57] [Framer/6443c08] [31.43.161.6] [156.186724ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+https://node.uponly.space [401] [] [75] [] [64.130.58.18] [142.606001ms] [HSTS]
+https://preview.ratings.reflect.money [401] [] [13616] [Authentication Required] [Vercel] [216.150.1.193] [190.802982ms] [HSTS,Vercel]
+https://preview.tranches.reflect.money [401] [] [14085] [Authentication Required] [Vercel] [216.150.16.193] [212.916084ms] [HSTS,Vercel]
+https://rpc-mainnet.amulet.org [401] [] [0] [] [154.45.250.138] [89.197822ms]
+https://rpc-testnet.amulet.org [401] [] [0] [] [208.115.215.105] [112.261436ms]
+https://rpc.testnet.amulet.org [401] [] [0] [] [208.115.215.105] [423.910415ms]
+https://solanaqn.amulet.org [401] [] [79] [] [154.45.250.114] [396.696105ms]
+https://tranches.reflect.money [401] [] [13616] [Authentication Required] [cloudflare] [104.26.3.65] [cloudflare] [340.119771ms] [Cloudflare,HSTS,Vercel]
+
+## 403
+http://gtag.arage.com [403] [] [93] [] [64.190.63.222] [274.222043ms]
+https://cashelix.com [403] [] [6192] [Checking your browser before accessing. Just a moment...] [hcdn] [2.57.91.110] [148.153229ms] [HTTP/3,Hostinger CDN]
+https://www.cashelix.com [403] [] [6192] [Checking your browser before accessing. Just a moment...] [hcdn] [2.57.91.189] [238.689392ms] [HTTP/3,Hostinger CDN]
+
+## 404
+http://api.data.ranger.finance [404] [] [107] [Vercel] [216.150.1.129] [636.892693ms] [Vercel]
+http://mt-link.defai.ensofi.xyz [404] [] [9525] [404 - Not found] [] [34.96.69.148] [google] [13.129933ms] [Google Cloud,Google Cloud CDN]
+http://mt-link.edas-noreply.ensofi.xyz [404] [] [9525] [404 - Not found] [] [34.96.69.148] [google] [11.56656ms] [Google Cloud,Google Cloud CDN]
+http://ws.data.ranger.finance [404] [] [107] [Vercel] [216.150.16.129] [633.15323ms] [Vercel]
+https://airdrop.amulet.org [404] [] [266389] [Page not found] [] [150.171.110.194] [56.134984ms] [Azure,Azure Front Door]
+https://api.ratings.reflect.money [404] [] [66] [cloudflare] [104.20.32.190] [cloudflare] [879.123454ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+https://api.reflect.money [404] [] [55] [] [18.65.25.110] [cloudfront] [703.44154ms] [Amazon CloudFront,Amazon Web Services,Express,Node.js]
+https://api.uponly.space [404] [] [19] [] [162.0.234.237] [177.163912ms] [HTTP/3]
+https://appv1.amulet.org [404] [] [266389] [Page not found] [] [150.171.110.193] [49.254334ms] [Azure,Azure Front Door]
+https://bifrost-graphql.ranger.finance [404] [] [107] [Vercel] [216.150.16.1] [213.22888ms] [HSTS,Vercel]
+https://centaur.reflect.money [404] [] [13] [] [49.13.17.39] [537.810303ms]
+https://data.ranger.finance [404] [] [107] [Vercel] [216.150.16.193] [105.981505ms] [HSTS,Vercel]
+https://dev-api.uponly.space [404] [] [139] [Error] [] [162.0.234.237] [213.374508ms] [Express,HTTP/3,Node.js]
+https://dev.api.reflect.money [404] [] [55] [] [18.238.109.111] [cloudfront] [3.834520926s] [Amazon CloudFront,Amazon Web Services,Express,Node.js]
+https://devp-api.uponly.space [404] [] [19] [] [162.0.234.237] [186.825738ms] [HTTP/3]
+https://faucet.uponly.space [404] [] [19] [] [162.0.234.237] [227.197512ms] [HTTP/3]
+https://first-margarita-mixers-program.margarita.finance [404] [] [107] [Vercel] [216.150.1.193] [220.924114ms] [HSTS,Vercel]
+https://gateway.ryvo.network [404] [] [5524] [404: This page could not be found.] [Vercel] [216.150.1.193] [441.11136ms] [HSTS,Vercel]
+https://gql2.amulet.org [404] [] [266389] [Page not found] [] [150.171.109.71] [417.558682ms] [Azure,Azure Front Door]
+https://grafana.ranger.finance [404] [] [74] [] [34.36.28.41] [google] [233.924995ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://help.amulet.org [404] [] [266389] [Page not found] [] [150.171.109.65] [48.993638ms] [Azure,Azure Front Door]
+https://internal.api.reflect.money [404] [] [55] [] [18.238.96.4] [cloudfront] [614.527051ms] [Amazon CloudFront,Amazon Web Services,Express,Node.js]
+https://metabears.amulet.org [404] [] [266389] [Page not found] [] [150.171.109.77] [46.244661ms] [Azure,Azure Front Door]
+https://multisig.amulet.org [404] [] [266389] [Page not found] [] [150.171.109.74] [335.457304ms] [Azure,Azure Front Door]
+https://p999.margarita.finance [404] [] [107] [Vercel] [216.150.1.193] [140.575416ms] [HSTS,Vercel]
+https://preview.margarita.finance [404] [] [107] [Vercel] [216.150.1.129] [209.628256ms] [HSTS,Vercel]
+https://privy.reflect.money [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [95.183232ms] [Cloudflare,Cloudflare Bot Management]
+https://prod.api.reflect.money [404] [] [55] [] [65.8.20.89] [cloudfront] [682.724046ms] [Amazon CloudFront,Amazon Web Services,Express,Node.js]
+https://ranger.finance [404] [] [6873] [Site Not Found | Framer] [Framer/6443c08] [52.223.52.2] [165.515784ms] [Framer Sites,HSTS,HTTP/3,React]
+https://service-edas.ensofi.xyz [404] [] [63] [nginx] [13.251.43.101] [763.856356ms] [Express,HSTS,Nginx,Node.js]
+https://service.ensofi.xyz [404] [] [63] [nginx] [13.214.36.91] [684.538294ms] [Express,HSTS,Nginx,Node.js]
+https://shop-service.ensofi.xyz [404] [] [63] [nginx] [47.129.226.210] [733.029097ms] [Express,HSTS,Nginx,Node.js]
+https://solana.amulet.org [404] [] [266389] [Page not found] [] [150.171.109.74] [493.139572ms] [Azure,Azure Front Door]
+https://staging.amulet.org [404] [] [266389] [Page not found] [] [150.171.109.77] [295.890032ms] [Azure,Azure Front Door]
+https://testnet.uponly.space [404] [] [19] [] [162.0.234.237] [185.892662ms] [HTTP/3]
+https://transparency.api.reflect.money [404] [] [66] [cloudflare] [172.67.73.135] [cloudflare] [965.234965ms] [Amazon ALB,Amazon Web Services,Cloudflare]
+https://vault-data.amulet.org [404] [] [266389] [Page not found] [] [150.171.109.71] [428.193957ms] [Azure,Azure Front Door]
+https://vault-gql.amulet.org [404] [] [266389] [Page not found] [] [150.171.109.74] [501.796425ms] [Azure,Azure Front Door]
+https://wildcard.ranger.finance [404] [] [107] [Vercel] [216.150.1.193] [118.697966ms] [HSTS,Vercel]
+https://www.beta.ranger.finance [404] [] [107] [Vercel] [216.150.1.193] [702.510163ms] [HSTS,Vercel]
+https://www.ranger.finance [404] [] [6873] [Site Not Found | Framer] [Framer/6443c08] [31.43.160.6] [252.72623ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 500
+
+## 502
+
+## 503
+

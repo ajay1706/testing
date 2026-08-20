@@ -1,0 +1,4 @@
+https://rpc-mainnet.amulet.org [401] [] [0] [] [154.45.250.138] [89.197822ms]
+https://rpc-testnet.amulet.org [401] [] [0] [] [208.115.215.105] [112.261436ms]
+https://rpc.testnet.amulet.org [401] [] [0] [] [208.115.215.105] [423.910415ms]
+https://solanaqn.amulet.org [401] [] [79] [] [154.45.250.114] [396.696105ms]

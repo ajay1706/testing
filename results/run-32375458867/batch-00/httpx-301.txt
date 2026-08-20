@@ -1,0 +1,3 @@
+http://docs.amulet.org [301] [https://docs.amulet.org/] [167] [301 Moved Permanently] [cloudflare] [172.64.147.209] [cloudflare] [89.51745ms] [Cloudflare,HTTP/3]
+https://www.amulet.org [301] [https://amulet.org/] [0] [] [150.171.109.74] [315.493392ms] [Azure,Azure Front Door]
+http://consolidation.amulet.org [301] [https://consolidation.amulet.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.40.47] [cloudflare] [164.058602ms] [Cloudflare,HTTP/3]
