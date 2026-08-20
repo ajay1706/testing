@@ -1,0 +1,42 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] vault.lagrange.dev:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vault.lagrange.dev:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] verify.irys.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] verify.irys.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] video-api-staging.opengradient.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] video-api-staging.opengradient.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] volume.common.fi:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] volume.common.fi:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] vorpal.node.mainnet.bitfinity.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vorpal.node.mainnet.bitfinity.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wapo-testnet.phala.network:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wapo-testnet.phala.network:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] widget.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] widget.testnet.kiln.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wiki.phala.network:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] widget.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] widget.testnet.kiln.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wiki.phala.network:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wildcard.17bc093e63403e72.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wildcard.17bc093e63403e72.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wildcard.b147e46da4be4523.dyndns.dappnode.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wildcard.b147e46da4be4523.dyndns.dappnode.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[postgres-exporter-metrics] [http] [low] https://wildcard.180abb63f9f9525b.dyndns.dappnode.io/metrics
+[python-metrics] [http] [low] https://wildcard.180abb63f9f9525b.dyndns.dappnode.io/metrics
+[wp-user-enum:usernames] [http] [low] https://wildcard.c0f7b2d2b6b13a6a.dyndns.dappnode.io/wp-json/wp/v2/users/ ["wkp-aadmin","WkP-Aadmin"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://wallet.bitfinity.network
+[expired-ssl] [ssl] [low] v1.envio.dev:443 ["2025-02-04 08:55:05 +0000 UTC"]
+[expired-ssl] [ssl] [low] vesting.hyve.works:443 ["2025-09-19 22:48:55 +0000 UTC"]
+[expired-ssl] [ssl] [low] wildcard.007a3e9d5925263e.dyndns.dappnode.io:443 ["2025-05-29 14:20:44 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] wildcard.007a3e9d5925263e.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] wildcard.0e80f9deef7353fb.dyndns.dappnode.io:443 ["2025-05-29 14:20:44 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] wildcard.0e80f9deef7353fb.dyndns.dappnode.io:443
+[expired-ssl] [ssl] [low] wildcard.17bc093e63403e72.dyndns.dappnode.io:443 ["2026-07-27 14:52:27 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] wildcard.11085d41527af562.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.3cd21aa15bd433ea.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.5d7031f676f5d957.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.6962a458b6e154bb.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.8a95735304ae46f9.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.6ea8f1e0df9447d8.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.1ef404ed43032681.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.c27e2a933e77b4c3.dyndns.dappnode.io:443
+[self-signed-ssl] [ssl] [low] wildcard.b147e46da4be4523.dyndns.dappnode.io:443
