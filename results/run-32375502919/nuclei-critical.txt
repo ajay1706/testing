@@ -1,0 +1,1 @@
+[CVE-2026-33032] [http] [critical] https://rpc.testnet.arc.network/mcp_message
