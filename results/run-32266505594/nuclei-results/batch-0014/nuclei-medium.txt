@@ -1,0 +1,4 @@
+[CVE-2020-2096] [http] [medium] https://www.bulla.network/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[git-config] [http] [medium] https://www.exsat.io/.git/config
+[godaddy-parked-domain] [http] [medium] https://www.blocktorch.io/lander
+[godaddy-parked-domain] [http] [medium] https://www.native.xyz/lander
