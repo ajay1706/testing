@@ -1,0 +1,2 @@
+[mailpit-app-info-disclosure] [http] [medium] https://mail-ui-design-system.studio-preview.nodeops.xyz/api/v1/messages
+[prometheus-metrics] [http] [medium] https://metrics-api.irys.xyz/metrics
