@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://harvey.ornn.com
+[wix-takeover] [http] [high] https://en.pinai.io ["cdn1.wixdns.net"]
