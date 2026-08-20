@@ -1,0 +1,18 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] sandbox.octra.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] satoshivm.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sandbox.octra.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] satoshivm.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sonic.lumiterra.net:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sonic.lumiterra.net:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] speed-work.bondex.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staking.andromedaprotocol.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staking.andromedaprotocol.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] speed-work.bondex.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[kubernetes-metrics] [http] [low] https://rpc-beta.morphl2.io/metrics
+[kubernetes-metrics] [http] [low] https://rpc-consensus-beta.morphl2.io/metrics
+[postgres-exporter-metrics] [http] [low] https://rpc-beta.morphl2.io/metrics
+[kubernetes-metrics] [http] [low] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[postgres-exporter-metrics] [http] [low] https://rpc-consensus-beta.morphl2.io/metrics
+[postgres-exporter-metrics] [http] [low] https://rpc-consensus-hoodi-beta.morphl2.io/metrics
+[kubernetes-metrics] [http] [low] https://rpc-hoodi-beta.morphl2.io/metrics
+[postgres-exporter-metrics] [http] [low] https://rpc-hoodi-beta.morphl2.io/metrics
