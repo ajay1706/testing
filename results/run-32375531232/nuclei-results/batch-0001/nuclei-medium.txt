@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://robinhood-staging.o1.exchange/metrics
+[prometheus-metrics] [http] [medium] https://robinhood.o1.exchange/metrics
+[prometheus-metrics] [http] [medium] https://solana-staging.o1.exchange/metrics
+[prometheus-metrics] [http] [medium] https://solana.o1.exchange/metrics
