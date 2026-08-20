@@ -1,0 +1,5 @@
+https://img.news.propr.xyz [301] [https://img.mailin.fr/] [0] [cloudflare] [104.17.155.243] [cloudflare] [213.842432ms] [Cloudflare,Envoy]
+https://onyxodds.com [301] [https://www.onyxodds.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [181.355754ms] [Cloudflare,HSTS,HTTP/3]
+https://r.news.propr.xyz [301] [https://img.mailin.fr/] [0] [envoy] [172.246.243.65] [513.724925ms] [Envoy]
+https://www.perpl.xyz [301] [https://perpl.xyz/] [520] [301 Moved Permanently] [cloudflare] [104.20.45.91] [cloudflare] [35.117376ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://www.threecomma.xyz [301] [https://threecomma.xyz] [162] [301 Moved Permanently] [hcdn] [148.135.128.236] [162.105959ms] [HTTP/3,Hostinger CDN]

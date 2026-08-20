@@ -1,0 +1,138 @@
+# Final HTTPX Status Report
+
+Run ID: 32375531232
+Generated at: Thu Aug 20 13:43:50 UTC 2026
+
+Total HTTPX lines: 113
+Total live URLs: 113
+
+## 200
+http://059879e5-b2e8-4f58-aa46-95f69d92aa34.random.edge.markets [200] [] [114] [] [13.248.169.48] [16.235683ms]
+http://admin.edge.markets [200] [] [114] [] [13.248.169.48] [14.349751ms]
+http://api.edge.markets [200] [] [114] [] [13.248.169.48] [15.597745ms]
+http://aw.edge.markets [200] [] [114] [] [13.248.169.48] [15.279084ms]
+http://prd2-sudan-total-com.aw.edge.markets [200] [] [114] [] [76.223.54.146] [14.330939ms]
+http://random.edge.markets [200] [] [114] [] [76.223.54.146] [15.512795ms]
+http://wildcard.edge.markets [200] [] [114] [] [13.248.169.48] [15.017247ms]
+http://www1.edge.markets [200] [] [114] [] [76.223.54.146] [15.84079ms]
+https://admin.vanta.exchange [200] [] [459] [Vanta Admin] [Vercel] [216.198.79.3] [286.110381ms] [HSTS,Vercel]
+https://analytics.launch.o1.exchange [200] [] [79210] [o1 Launchpad Analytics | B20 on Base and Community Tokens on Robinhood Chain] [Vercel] [216.150.1.1] [170.941078ms] [HSTS,Vercel]
+https://analytics.o1.exchange [200] [] [471] [o1.exchange Analytics] [Vercel] [216.150.1.193] [305.911093ms] [HSTS,Vercel]
+https://analytics.swap.o1.exchange [200] [] [2582] [o1.exchange Analytics | Live Cross-Aggregator Swap Analytics] [Vercel] [216.150.1.129] [457.214328ms] [HSTS,Vercel]
+https://api-staging.legend.trade [200] [] [1163] [] [35.73.186.101] [616.691983ms]
+https://api.legend.trade [200] [] [1163] [] [18.154.227.41] [cloudfront] [531.473065ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://app.legend.trade [200] [] [285416] [Enter The Arena | Legend] [Vercel] [216.150.1.193] [906.035051ms] [Amazon S3,Amazon Web Services,HSTS,Vercel,hCaptcha]
+https://app.orbinum.network [200] [] [5579] [Orbinum Hub] [cloudflare] [104.21.75.196] [cloudflare] [85.325474ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app.perpl.xyz [200] [] [12611] [Perpl] [cloudflare] [104.20.45.91] [cloudflare] [668.70878ms] [Cloudflare,Cloudflare Browser Insights,Envoy,HSTS]
+https://app.vanta.exchange [200] [] [905] [Vanta] [Vercel] [216.150.1.193] [81.958997ms] [HSTS,Vercel]
+https://benchmark.swap.o1.exchange [200] [] [6669] [o1.exchange Quote Benchmark] [Vercel] [216.150.16.1] [223.573524ms] [HSTS,Vercel]
+https://blog.perpl.xyz [200] [] [35916] [Perpl Blog] [cloudflare] [172.66.149.49] [cloudflare] [79.020808ms] [Cloudflare,Cloudflare Browser Insights,Ghost:6.59,HSTS,Node.js,Varnish,jsDelivr]
+https://docs.legend.trade [200] [] [242750] [About - Legend Docs] [Vercel] [216.150.1.65] [229.781333ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://docs.orbinum.network [200] [] [29781] [Introduction | Orbinum Network] [cloudflare] [172.67.180.230] [cloudflare] [120.304102ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.9.2,HTTP/3,React,Webpack]
+https://docs.perpl.xyz [200] [] [437344] [Introduction | Perpl Docs] [cloudflare] [104.18.40.47] [cloudflare] [139.332507ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://edge.markets [200] [] [114] [] [13.248.169.48] [183.141985ms]
+https://explorer.testnet.orbinum.network [200] [] [5880] [Orbinum Privacy Explorer] [cloudflare] [104.21.75.196] [cloudflare] [110.810264ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://faucet.orbinum.network [200] [] [5234] [Orbinum Faucet] [cloudflare] [172.67.180.230] [cloudflare] [186.504578ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://landing.o1.exchange [200] [] [501153] [o1.exchange | Ultimate DEX Trading] [Framer/6443c08] [31.43.160.6] [243.110716ms] [Framer Sites,HSTS,HTTP/3,React]
+https://mm.propr.xyz [200] [] [12839] [Propr Market Making | Transparent On-Chain Market Making] [railway-hikari] [69.46.46.41] [124.874047ms] [Next.js,Node.js,React,Webpack]
+https://o1.exchange [200] [] [42929] [o1.exchange] [Vercel] [216.150.1.1] [50.69971ms] [Google Analytics,HSTS,Vercel]
+https://orbinum.network [200] [] [5248] [Orbinum Network - Blockchain Privacy Infrastructure | ZK Shielded Pools] [cloudflare] [104.21.75.196] [cloudflare] [98.590498ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://partners.onyxodds.com [200] [] [658] [Intelitics Platform] [AmazonS3] [52.85.31.38] [cloudfront] [408.534305ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,React]
+https://perpl.xyz [200] [] [218371] [Perpl | On-Chain Perpetual Futures Exchange] [cloudflare] [104.20.45.91] [cloudflare] [124.613009ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Webflow]
+https://recovery.perpl.xyz [200] [] [3947] [Perpl | Rescue Mode] [cloudflare] [172.66.149.49] [cloudflare] [112.117921ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://river.markets [200] [] [114] [] [13.248.169.48] [108.67694ms]
+https://sale.orbinum.network [200] [] [30706] [Orbinum Seed Sale] [cloudflare] [104.21.75.196] [cloudflare] [242.669368ms] [Astro:7.1.3,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://shop.propr.xyz [200] [] [35202] [Propr - Shop] [Vercel] [216.150.1.193] [823.718905ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://telemetry.orbinum.network [200] [] [5166] [Orbinum Telemetry - Live Network Node Monitoring] [cloudflare] [172.67.180.230] [cloudflare] [339.907742ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://testnet-status.perpl.xyz [200] [] [59556] [Status | Perpl Testnet Service Status] [cloudflare] [104.26.15.170] [cloudflare] [890.819732ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://testnet.perpl.xyz [200] [] [12627] [Perpl] [cloudflare] [104.20.45.91] [cloudflare] [602.729741ms] [Cloudflare,Cloudflare Browser Insights,Envoy,HSTS]
+https://waitlist.perpl.xyz [200] [] [8436] [Perpl — Request Access] [cloudflare] [172.66.149.49] [cloudflare] [877.121065ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://ws-staging.o1.exchange [200] [] [64] [cloudflare] [172.67.69.34] [cloudflare] [202.07899ms] [Cloudflare]
+https://ws.o1.exchange [200] [] [64] [cloudflare] [172.67.69.34] [cloudflare] [474.422397ms] [Cloudflare]
+https://www.edge.markets [200] [] [114] [] [76.223.54.146] [119.386068ms]
+https://www.legend.trade [200] [] [297923] [Trade Perps on Crypto, Stocks & Commodities | Legend] [Vercel] [216.150.16.129] [126.892779ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://www.onyxodds.com [200] [] [98952] [Onyx Odds] [cloudflare] [198.202.211.1] [226.865071ms] [Cloudflare,Google Analytics,HSTS,HTTP/3,Webflow,jQuery:3.5.1,jsDelivr]
+https://www.propr.xyz [200] [] [274983] [Crypto Prop Firm Built Onchain | Propr] [cloudflare] [172.67.149.141] [cloudflare] [307.829769ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://www.river.markets [200] [] [114] [] [76.223.54.146] [107.735198ms]
+https://www.vanta.exchange [200] [] [33082] [Vanta · All assets, one Vanta] [Vercel] [216.150.1.193] [479.85603ms] [HSTS,Vercel]
+
+## 301
+https://img.news.propr.xyz [301] [https://img.mailin.fr/] [0] [cloudflare] [104.17.155.243] [cloudflare] [213.842432ms] [Cloudflare,Envoy]
+https://onyxodds.com [301] [https://www.onyxodds.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [181.355754ms] [Cloudflare,HSTS,HTTP/3]
+https://r.news.propr.xyz [301] [https://img.mailin.fr/] [0] [envoy] [172.246.243.65] [513.724925ms] [Envoy]
+https://www.perpl.xyz [301] [https://perpl.xyz/] [520] [301 Moved Permanently] [cloudflare] [104.20.45.91] [cloudflare] [35.117376ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://www.threecomma.xyz [301] [https://threecomma.xyz] [162] [301 Moved Permanently] [hcdn] [148.135.128.236] [162.105959ms] [HTTP/3,Hostinger CDN]
+
+## 302
+https://dev-app.legend.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev-app.legend.trade%2F&nonce=dac025e214a5fa251b21f822d5cee214d712a22cac47ed1d805c73edb6130598] [15] [Vercel] [216.150.16.1] [108.051352ms] [HSTS,Vercel]
+https://legend-aavaaryi1.preview.legend.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Flegend-aavaaryi1.preview.legend.trade%2F&nonce=a4dadab34544367623e7b764ea78af62dead88d3304a50a2b0a09ceffeb37225] [15] [Vercel] [76.76.21.93] [197.225188ms] [HSTS,Vercel]
+https://staging.launch.o1.exchange [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.launch.o1.exchange%2F&nonce=a2c91a4988e720933d30c0439ecf63ba1d07782c3662aeecec2cdbe0bb0a1b62] [15] [Vercel] [216.150.1.1] [394.757417ms] [HSTS,Vercel]
+https://staging.o1.exchange [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.o1.exchange%2F&nonce=f76882d86ef648449224bdf8e7590578ba04c147e31cb66c85dd1d51248f7fad] [15] [Vercel] [76.76.21.22] [174.154607ms] [HSTS,Vercel]
+https://staging.swap.o1.exchange [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.swap.o1.exchange%2F&nonce=0f776ac1ff8167542ad3ad85f29e81f790e3650e2c644feb43864736a583c462] [15] [Vercel] [216.150.16.129] [116.007011ms] [HSTS,Vercel]
+
+## 307
+https://insights.o1.exchange [307] [https://analytics.o1.exchange/] [15] [Vercel] [216.150.16.193] [65.346078ms] [HSTS,Vercel]
+https://www.o1.exchange [307] [https://o1.exchange/] [15] [cloudflare] [104.26.6.51] [cloudflare] [280.067904ms] [Cloudflare,HSTS,Vercel]
+
+## 308
+https://bot.legend.trade [308] [https://www.legend.trade/] [15] [Vercel] [216.150.16.193] [94.414223ms] [HSTS,Vercel]
+https://docs.o1.exchange [308] [/introduction] [96619] [Vercel] [66.33.60.193] [106.244635ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://grafana.legend.trade [308] [https://www.legend.trade/] [15] [Vercel] [216.150.16.1] [58.000103ms] [HSTS,Vercel]
+https://legend.trade [308] [https://www.legend.trade/] [15] [Vercel] [216.150.1.129] [103.408798ms] [HSTS,Vercel]
+https://preview.legend.trade [308] [https://www.legend.trade/] [15] [Vercel] [216.150.16.1] [124.548696ms] [HSTS,Vercel]
+https://propr.xyz [308] [https://www.propr.xyz/] [15] [cloudflare] [104.21.29.173] [cloudflare] [99.991857ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://staging-bot.legend.trade [308] [https://www.legend.trade/] [15] [Vercel] [216.150.16.1] [67.635904ms] [HSTS,Vercel]
+https://test-bot.legend.trade [308] [https://www.legend.trade/] [15] [Vercel] [216.150.16.129] [122.091195ms] [HSTS,Vercel]
+https://vanta.exchange [308] [https://www.vanta.exchange/] [15] [Vercel] [216.198.79.1] [72.728797ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://api.onyxodds.com [403] [] [118] [403 Forbidden] [awselb/2.0] [13.59.176.177] [62.132384ms] [Amazon ELB,Amazon Web Services]
+https://api.orbinum.network [403] [] [21] [cloudflare] [104.21.75.196] [cloudflare] [321.380847ms] [Cloudflare,HSTS,HTTP/3]
+https://app.onyxodds.com [403] [] [118] [403 Forbidden] [awselb/2.0] [13.59.176.177] [85.420997ms] [Amazon ELB,Amazon Web Services]
+https://cdn.legend.trade [403] [] [111] [AmazonS3] [18.160.10.20] [cloudfront] [372.610818ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://media-dev.legend.trade [403] [] [111] [AmazonS3] [18.160.41.99] [cloudfront] [394.46425ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://media-staging.legend.trade [403] [] [111] [AmazonS3] [18.165.98.118] [cloudfront] [367.102174ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://media.legend.trade [403] [] [111] [AmazonS3] [13.226.238.83] [cloudfront] [366.946413ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://propr.trade [403] [] [6006] [Suspected Phishing | Cloudflare] [cloudflare] [104.21.28.254] [cloudflare] [58.770212ms] [Cloudflare]
+https://threecomma.xyz [403] [] [6192] [Checking your browser before accessing. Just a moment...] [hcdn] [147.79.120.40] [106.863975ms] [HTTP/3,Hostinger CDN]
+
+## 404
+https://all-staging.o1.exchange [404] [] [19] [cloudflare] [104.26.7.51] [cloudflare] [568.271408ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://all.o1.exchange [404] [] [19] [cloudflare] [172.67.69.34] [cloudflare] [106.44867ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://api-staging.o1.exchange [404] [] [24] [cloudflare] [172.67.69.34] [cloudflare] [136.575109ms] [Cloudflare]
+https://api.launch.o1.exchange [404] [] [79] [Vercel] [216.150.1.193] [55.809487ms] [HSTS,Vercel]
+https://api.o1.exchange [404] [] [24] [cloudflare] [104.26.6.51] [cloudflare] [106.606493ms] [Cloudflare]
+https://base-staging.o1.exchange [404] [] [19] [cloudflare] [104.26.7.51] [cloudflare] [106.095401ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://base.o1.exchange [404] [] [19] [cloudflare] [104.26.6.51] [cloudflare] [476.681744ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://bsc-staging.o1.exchange [404] [] [19] [cloudflare] [172.67.69.34] [cloudflare] [106.362947ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://bsc.o1.exchange [404] [] [19] [cloudflare] [104.26.7.51] [cloudflare] [239.932249ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://cf.o1.exchange [404] [] [9] [cloudflare] [172.67.69.34] [cloudflare] [80.304646ms] [Cloudflare]
+https://eth-staging.o1.exchange [404] [] [19] [cloudflare] [172.67.69.34] [cloudflare] [174.140216ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://eth.o1.exchange [404] [] [19] [cloudflare] [172.67.69.34] [cloudflare] [407.225009ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://hyperevm-staging.o1.exchange [404] [] [19] [] [8.232.223.226] [google] [136.654894ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://hyperevm.o1.exchange [404] [] [19] [] [136.110.152.76] [google] [73.751558ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://monad.o1.exchange [404] [] [19] [] [8.232.27.88] [google] [782.077378ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://privy.app.legend.trade [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [61.747589ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.dev-app.legend.trade [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [87.221116ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.legend.trade [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [75.218143ms] [Cloudflare,Cloudflare Bot Management]
+https://public-assets-r2.perpl.xyz [404] [] [27503] [Not Found] [cloudflare] [104.20.45.91] [cloudflare] [408.913551ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://robinhood-staging.o1.exchange [404] [] [19] [cloudflare] [104.26.7.51] [cloudflare] [275.744844ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://robinhood.o1.exchange [404] [] [19] [cloudflare] [104.26.6.51] [cloudflare] [85.134201ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://solana-staging.o1.exchange [404] [] [19] [cloudflare] [172.67.69.34] [cloudflare] [93.700537ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://solana.o1.exchange [404] [] [19] [cloudflare] [104.26.7.51] [cloudflare] [366.472528ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://staging.b20.o1.exchange [404] [] [107] [Vercel] [216.150.1.193] [575.713645ms] [HSTS,Vercel]
+https://staging.test.meta.o1.exchange [404] [] [107] [Vercel] [216.150.16.193] [343.459148ms] [HSTS,Vercel]
+https://test.meta.o1.exchange [404] [] [107] [Vercel] [216.150.1.193] [541.430166ms] [HSTS,Vercel]
+https://test.staging.swap.o1.exchange [404] [] [107] [Vercel] [216.150.16.1] [533.521162ms] [HSTS,Vercel]
+
+## 500
+https://api.vanta.exchange [500] [] [96] [Vercel] [216.198.79.195] [1.123352708s] [HSTS,Vercel]
+
+## 502
+https://socket1.o1.exchange [502] [] [16] [cloudflare] [104.26.6.51] [cloudflare] [105.846176ms] [Cloudflare]
+https://socket2.o1.exchange [502] [] [16] [cloudflare] [104.26.6.51] [cloudflare] [82.69165ms] [Cloudflare]
+
+## 503
+
