@@ -1,0 +1,1 @@
+[smtp-user-enum] [tcp] [medium] df8a7655830eba56.dyndns.dappnode.io:25 [useraccounts="msfadmin"]

@@ -1,0 +1,2 @@
+[smtp-user-enum] [tcp] [medium] df8a7655830eba56.dyndns.dappnode.io:25 [useraccounts="msfadmin"]
+[unauthenticated-varnish-cache-purge] [http] [low] http://f5af983f7bc5f4b3.dyndns.dappnode.io
