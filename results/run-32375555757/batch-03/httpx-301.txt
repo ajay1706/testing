@@ -1,0 +1,3 @@
+https://www.shmonad.xyz [301] [https://shmonad.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.7.213] [cloudflare] [128.528759ms] [Cloudflare]
+https://www.dev.shmonad.xyz [301] [https://dev.shmonad.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.7.213] [cloudflare] [141.836529ms] [Cloudflare]
+http://www.docs.shmonad.xyz [301] [https://docs.shmonad.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.6.213] [cloudflare] [49.949849ms] [Cloudflare,HTTP/2]
