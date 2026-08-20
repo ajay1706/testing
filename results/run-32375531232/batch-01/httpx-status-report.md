@@ -1,0 +1,81 @@
+# HTTPX Status Report
+
+Generated at: Thu Aug 20 13:41:42 UTC 2026
+
+HTTPX lines: 56
+Live URLs: 56
+
+## 200
+https://orbinum.network [200] [] [5248] [Orbinum Network - Blockchain Privacy Infrastructure | ZK Shielded Pools] [cloudflare] [104.21.75.196] [cloudflare] [98.590498ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app.orbinum.network [200] [] [5579] [Orbinum Hub] [cloudflare] [104.21.75.196] [cloudflare] [85.325474ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://analytics.o1.exchange [200] [] [471] [o1.exchange Analytics] [Vercel] [216.150.1.193] [305.911093ms] [HSTS,Vercel]
+https://ws-staging.o1.exchange [200] [] [64] [cloudflare] [172.67.69.34] [cloudflare] [202.07899ms] [Cloudflare]
+https://explorer.testnet.orbinum.network [200] [] [5880] [Orbinum Privacy Explorer] [cloudflare] [104.21.75.196] [cloudflare] [110.810264ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://faucet.orbinum.network [200] [] [5234] [Orbinum Faucet] [cloudflare] [172.67.180.230] [cloudflare] [186.504578ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://partners.onyxodds.com [200] [] [658] [Intelitics Platform] [AmazonS3] [52.85.31.38] [cloudfront] [408.534305ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,React]
+https://o1.exchange [200] [] [42929] [o1.exchange] [Vercel] [216.150.1.1] [50.69971ms] [Google Analytics,HSTS,Vercel]
+https://analytics.swap.o1.exchange [200] [] [2582] [o1.exchange Analytics | Live Cross-Aggregator Swap Analytics] [Vercel] [216.150.1.129] [457.214328ms] [HSTS,Vercel]
+https://ws.o1.exchange [200] [] [64] [cloudflare] [172.67.69.34] [cloudflare] [474.422397ms] [Cloudflare]
+https://benchmark.swap.o1.exchange [200] [] [6669] [o1.exchange Quote Benchmark] [Vercel] [216.150.16.1] [223.573524ms] [HSTS,Vercel]
+https://telemetry.orbinum.network [200] [] [5166] [Orbinum Telemetry - Live Network Node Monitoring] [cloudflare] [172.67.180.230] [cloudflare] [339.907742ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.orbinum.network [200] [] [29781] [Introduction | Orbinum Network] [cloudflare] [172.67.180.230] [cloudflare] [120.304102ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.9.2,HTTP/3,React,Webpack]
+https://sale.orbinum.network [200] [] [30706] [Orbinum Seed Sale] [cloudflare] [104.21.75.196] [cloudflare] [242.669368ms] [Astro:7.1.3,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://analytics.launch.o1.exchange [200] [] [79210] [o1 Launchpad Analytics | B20 on Base and Community Tokens on Robinhood Chain] [Vercel] [216.150.1.1] [170.941078ms] [HSTS,Vercel]
+https://www.onyxodds.com [200] [] [98952] [Onyx Odds] [cloudflare] [198.202.211.1] [226.865071ms] [Cloudflare,Google Analytics,HSTS,HTTP/3,Webflow,jQuery:3.5.1,jsDelivr]
+https://landing.o1.exchange [200] [] [501153] [o1.exchange | Ultimate DEX Trading] [Framer/6443c08] [31.43.160.6] [243.110716ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 301
+https://onyxodds.com [301] [https://www.onyxodds.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [181.355754ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://staging.swap.o1.exchange [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.swap.o1.exchange%2F&nonce=0f776ac1ff8167542ad3ad85f29e81f790e3650e2c644feb43864736a583c462] [15] [Vercel] [216.150.16.129] [116.007011ms] [HSTS,Vercel]
+https://staging.o1.exchange [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.o1.exchange%2F&nonce=f76882d86ef648449224bdf8e7590578ba04c147e31cb66c85dd1d51248f7fad] [15] [Vercel] [76.76.21.22] [174.154607ms] [HSTS,Vercel]
+https://staging.launch.o1.exchange [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.launch.o1.exchange%2F&nonce=a2c91a4988e720933d30c0439ecf63ba1d07782c3662aeecec2cdbe0bb0a1b62] [15] [Vercel] [216.150.1.1] [394.757417ms] [HSTS,Vercel]
+
+## 307
+https://insights.o1.exchange [307] [https://analytics.o1.exchange/] [15] [Vercel] [216.150.16.193] [65.346078ms] [HSTS,Vercel]
+https://www.o1.exchange [307] [https://o1.exchange/] [15] [cloudflare] [104.26.6.51] [cloudflare] [280.067904ms] [Cloudflare,HSTS,Vercel]
+
+## 308
+https://docs.o1.exchange [308] [/introduction] [96619] [Vercel] [66.33.60.193] [106.244635ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+
+## 401
+
+## 403
+https://api.onyxodds.com [403] [] [118] [403 Forbidden] [awselb/2.0] [13.59.176.177] [62.132384ms] [Amazon ELB,Amazon Web Services]
+https://app.onyxodds.com [403] [] [118] [403 Forbidden] [awselb/2.0] [13.59.176.177] [85.420997ms] [Amazon ELB,Amazon Web Services]
+https://api.orbinum.network [403] [] [21] [cloudflare] [104.21.75.196] [cloudflare] [321.380847ms] [Cloudflare,HSTS,HTTP/3]
+
+## 404
+https://api.launch.o1.exchange [404] [] [79] [Vercel] [216.150.1.193] [55.809487ms] [HSTS,Vercel]
+https://hyperevm.o1.exchange [404] [] [19] [] [136.110.152.76] [google] [73.751558ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://cf.o1.exchange [404] [] [9] [cloudflare] [172.67.69.34] [cloudflare] [80.304646ms] [Cloudflare]
+https://robinhood.o1.exchange [404] [] [19] [cloudflare] [104.26.6.51] [cloudflare] [85.134201ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://solana-staging.o1.exchange [404] [] [19] [cloudflare] [172.67.69.34] [cloudflare] [93.700537ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://all.o1.exchange [404] [] [19] [cloudflare] [172.67.69.34] [cloudflare] [106.44867ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://bsc-staging.o1.exchange [404] [] [19] [cloudflare] [172.67.69.34] [cloudflare] [106.362947ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://base-staging.o1.exchange [404] [] [19] [cloudflare] [104.26.7.51] [cloudflare] [106.095401ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://api.o1.exchange [404] [] [24] [cloudflare] [104.26.6.51] [cloudflare] [106.606493ms] [Cloudflare]
+https://api-staging.o1.exchange [404] [] [24] [cloudflare] [172.67.69.34] [cloudflare] [136.575109ms] [Cloudflare]
+https://hyperevm-staging.o1.exchange [404] [] [19] [] [8.232.223.226] [google] [136.654894ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://eth-staging.o1.exchange [404] [] [19] [cloudflare] [172.67.69.34] [cloudflare] [174.140216ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://bsc.o1.exchange [404] [] [19] [cloudflare] [104.26.7.51] [cloudflare] [239.932249ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://robinhood-staging.o1.exchange [404] [] [19] [cloudflare] [104.26.7.51] [cloudflare] [275.744844ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://solana.o1.exchange [404] [] [19] [cloudflare] [104.26.7.51] [cloudflare] [366.472528ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://staging.test.meta.o1.exchange [404] [] [107] [Vercel] [216.150.16.193] [343.459148ms] [HSTS,Vercel]
+https://eth.o1.exchange [404] [] [19] [cloudflare] [172.67.69.34] [cloudflare] [407.225009ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://base.o1.exchange [404] [] [19] [cloudflare] [104.26.6.51] [cloudflare] [476.681744ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://all-staging.o1.exchange [404] [] [19] [cloudflare] [104.26.7.51] [cloudflare] [568.271408ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://staging.b20.o1.exchange [404] [] [107] [Vercel] [216.150.1.193] [575.713645ms] [HSTS,Vercel]
+https://test.staging.swap.o1.exchange [404] [] [107] [Vercel] [216.150.16.1] [533.521162ms] [HSTS,Vercel]
+https://test.meta.o1.exchange [404] [] [107] [Vercel] [216.150.1.193] [541.430166ms] [HSTS,Vercel]
+https://monad.o1.exchange [404] [] [19] [] [8.232.27.88] [google] [782.077378ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 500
+
+## 502
+https://socket2.o1.exchange [502] [] [16] [cloudflare] [104.26.6.51] [cloudflare] [82.69165ms] [Cloudflare]
+https://socket1.o1.exchange [502] [] [16] [cloudflare] [104.26.6.51] [cloudflare] [105.846176ms] [Cloudflare]
+
+## 503
+
