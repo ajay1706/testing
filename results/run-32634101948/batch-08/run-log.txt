@@ -1,0 +1,14 @@
+[+] Batch started: Sun Aug 23 10:40:13 UTC 2026
+[+] Run ID: 32634101948
+[+] Batch name: batch-08
+[+] Batch targets:
+marginfi.com
+marinade.finance
+metamask.io
+[+] Running subfinder...
+[+] Subfinder completed: Sun Aug 23 10:41:39 UTC 2026
+[+] HTTPX input count: 478
+[+] Running httpx...
+[+] httpx completed: Sun Aug 23 10:43:06 UTC 2026
+[+] httpx line count: 197
+[+] Batch completed: Sun Aug 23 10:43:06 UTC 2026
