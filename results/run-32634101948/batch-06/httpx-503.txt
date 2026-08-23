@@ -1,0 +1,4 @@
+https://mcp.offerbook.jup.ag [503] [] [98] [] [3.171.22.111] [cloudfront] [3.300656417s] [Amazon CloudFront,Amazon Web Services]
+https://prices.prediction.jup.ag [503] [] [0] [] [3.168.40.106] [cloudfront] [303.499932ms] [Amazon CloudFront,Amazon Web Services]
+https://spend.global.jup.ag [503] [] [98] [] [54.192.55.52] [cloudfront] [245.108638ms] [Amazon CloudFront,Amazon Web Services]
+https://yield-store.jup.ag [503] [] [98] [] [108.159.227.19] [cloudfront] [522.84718ms] [Amazon CloudFront,Amazon Web Services]

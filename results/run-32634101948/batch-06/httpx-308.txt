@@ -1,0 +1,4 @@
+https://galileo-api.jup.ag [308] [https://api.galileo.jup.ag/] [169] [308 Permanent Redirect] [cloudflare] [104.18.43.59] [cloudflare] [206.474848ms] [Cloudflare,HTTP/3]
+https://go.jito.network [308] [https://www.jito.network/] [15] [Vercel] [66.33.60.67] [465.870709ms] [HSTS,Vercel]
+http://lfg-design.jup.ag [308] [https://lfg-design.jup.ag/] [14] [cloudflare] [104.18.43.59] [cloudflare] [163.615412ms] [Cloudflare,HTTP/3]
+http://lock.jup.ag [308] [https://lock.jup.ag/] [14] [cloudflare] [104.18.43.59] [cloudflare] [82.53794ms] [Cloudflare,HTTP/3]
