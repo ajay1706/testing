@@ -1,0 +1,1 @@
+https://admin-rn2-staging.botanika.ai [307] [/dashboard] [7374] [RN2 Admin Console - Centralized System Administration] [nginx/1.24.0 (Ubuntu)] [18.139.223.89] [761.185449ms] [Next.js,Nginx:1.24.0,Node.js,React,Ubuntu,Webpack]

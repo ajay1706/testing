@@ -1,0 +1,2 @@
+http://bern.beldex.io [301] [https://bern.beldex.io/] [520] [301 Moved Permanently] [cloudflare] [172.66.156.242] [cloudflare] [34.732251ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://blog.beldex.io [301] [https://blog.beldex.io/] [520] [301 Moved Permanently] [cloudflare] [172.66.156.242] [cloudflare] [35.201343ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
