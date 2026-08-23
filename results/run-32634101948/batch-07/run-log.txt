@@ -1,0 +1,14 @@
+[+] Batch started: Sun Aug 23 10:39:52 UTC 2026
+[+] Run ID: 32634101948
+[+] Batch name: batch-07
+[+] Batch targets:
+lido.fi
+magiceden.io
+maple.finance
+[+] Running subfinder...
+[+] Subfinder completed: Sun Aug 23 10:41:44 UTC 2026
+[+] HTTPX input count: 318
+[+] Running httpx...
+[+] httpx completed: Sun Aug 23 10:42:41 UTC 2026
+[+] httpx line count: 113
+[+] Batch completed: Sun Aug 23 10:42:41 UTC 2026
