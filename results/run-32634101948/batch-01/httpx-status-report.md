@@ -1,0 +1,99 @@
+# HTTPX Status Report
+
+Generated at: Sun Aug 23 10:38:13 UTC 2026
+
+HTTPX lines: 80
+Live URLs: 80
+
+## 200
+https://api-dexscreener-v3.balancer.fi [200] [] [3444] [Balancer V3 DEX Screener Adapter] [cloudflare] [172.66.157.70] [cloudflare] [305.330951ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://app.aevo.xyz [200] [] [4646] [Aevo] [Vercel] [66.33.60.34] [126.454353ms] [Google Tag Manager,HSTS,Vercel]
+https://admin-testnet-a94f1c7e8b3d20fa.aevo.xyz [200] [] [907] [Admin Dashboard] [Vercel] [66.33.60.66] [365.677294ms] [HSTS,Vercel]
+https://analytics.balancer.fi [200] [] [20714] [Balancer Analytics] [Vercel] [216.150.1.1] [233.78966ms] [HSTS,Vercel]
+https://admin-a94f1c7e8b3d20fa.aevo.xyz [200] [] [907] [Admin Dashboard] [Vercel] [76.76.21.142] [445.407577ms] [HSTS,Vercel]
+https://api.aevo.xyz [200] [] [327] [] [57.180.189.26] [475.176893ms] [HSTS]
+https://api-testnet.aevo.xyz [200] [] [338] [] [3.167.212.70] [cloudfront] [522.814937ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://api.dev.aevo.xyz [200] [] [338] [] [18.238.109.52] [cloudfront] [604.800942ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://charts.backpack.exchange [200] [] [3239] [Vercel] [216.150.1.193] [125.629651ms] [HSTS,Vercel]
+https://agp.aevo.xyz [200] [] [353658] [SNAPSHOT | Aevo Governance Proposals] [cloudflare] [104.18.40.47] [cloudflare] [152.546265ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://claw-api.aevo.xyz [200] [] [10098] [Alex] [] [54.254.195.239] [590.635482ms] [HTTP/3]
+https://gov.aevo.xyz [200] [] [1289] [Aevo Governance] [Vercel] [76.76.21.22] [245.121182ms] [HSTS,Vercel]
+https://dev-build.aevo.xyz [200] [] [3785] [Aevo] [Vercel] [76.76.21.22] [523.229097ms] [HSTS,Vercel]
+https://explorer.aevo.xyz [200] [] [14453] [Aevo Mainnet | Explorer] [cloudflare] [172.66.160.117] [cloudflare] [406.874399ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://explorer-testnet.aevo.xyz [200] [] [14466] [Aevo Testnet | Explorer] [cloudflare] [104.20.30.246] [cloudflare] [475.628427ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://discord.balancer.fi [200] [] [125861] [Balancer Discord Invite] [cloudflare] [172.66.157.70] [cloudflare] [278.75238ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://docs.balancer.fi [200] [] [45868] [Home | Balancer] [Vercel] [76.76.21.98] [128.206032ms] [Fathom,HSTS,Vercel,Vue.js]
+https://docs-v2.balancer.fi [200] [] [71921] [Home | Balancer] [Vercel] [76.76.21.123] [126.601459ms] [Fathom,HSTS,Vercel,Vue.js]
+https://forum.balancer.fi [200] [] [160772] [Balancer] [nginx] [216.66.8.43] [527.323557ms] [Discourse:2026.8.0,HSTS,Nginx,Ruby on Rails]
+https://eu.support.backpack.exchange [200] [] [393770] [Start Here | Backpack EU] [cloudflare] [104.18.40.47] [cloudflare] [206.924126ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://jp.support.backpack.exchange [200] [] [350423] [Trek Labs Japan -Backpack- | Backpack Exchange] [cloudflare] [172.64.147.209] [cloudflare] [494.527276ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://guide.backpack.exchange [200] [] [452467] [Welcome | Backpack Exchange] [cloudflare] [172.64.147.209] [cloudflare] [268.626892ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.aevo.xyz [200] [] [551768] [Welcome to Aevo | Aevo Documentation] [cloudflare] [104.18.40.47] [cloudflare] [176.501461ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://lbp.balancer.fi [200] [] [65037] [LBP Simulator | Balancer] [cloudflare] [172.66.157.70] [cloudflare] [4.352165171s] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://metrics.aevo.xyz [200] [] [0] [] [13.248.170.77] [4.819201485s] [HSTS]
+https://ops.balancer.fi [200] [] [883170] [Vercel] [216.150.1.1] [4.392797172s] [HSTS,Vercel]
+https://backpack.exchange [200] [] [2901885] [Backpack: Stock Broker, Crypto Exchange & Wallet] [] [18.155.173.51] [cloudfront] [1.063588147s] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://eu.backpack.exchange [200] [] [2901865] [Backpack: Stock Broker, Crypto Exchange & Wallet] [] [13.249.126.120] [cloudfront] [1.286465635s] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://status.backpack.exchange [200] [] [440695] [Backpack Exchange status] [] [167.235.220.62] [1.679439894s] [Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus]
+https://status.aevo.xyz [200] [] [33583] [Exchange REST API] [] [142.132.149.97] [3.6406878s] [HSTS,HTTP/3,UIKit,jQuery:3.7.1]
+https://status-testnet.aevo.xyz [200] [] [32485] [Testnet Exchange REST API] [] [142.132.149.97] [5.669524299s] [HSTS,HTTP/3,UIKit,jQuery:3.7.1]
+https://docs.backpack.exchange [200] [] [3533165] [Backpack Exchange API] [GitHub.com] [185.199.110.153] [333.948191ms] [Fastly,GitHub Pages,Varnish]
+https://vote.balancer.fi [200] [] [1363] [Snapshot] [Netlify] [13.52.188.95] [279.585638ms] [HSTS,Netlify]
+https://testnet.aevo.xyz [200] [] [4646] [Aevo] [Vercel] [76.76.21.164] [3.006281085s] [Google Tag Manager,HSTS,Vercel]
+https://test.balancer.fi [200] [] [176451] [Balancer—AMMs made easy] [cloudflare] [172.66.157.70] [cloudflare] [3.643065839s] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://support.backpack.exchange [200] [] [545612] [Start Here | Backpack Exchange] [cloudflare] [172.64.147.209] [cloudflare] [5.174876646s] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://www.aevo.xyz [200] [] [374086] [Aevo - Trade Perps, Options and Strategies] [Framer/6443c08] [31.43.160.6] [231.37864ms] [Framer Sites,HSTS,HTTP/3,React]
+https://wallet.backpack.exchange [200] [] [2901883] [Backpack: Stock Broker, Crypto Exchange & Wallet] [] [18.155.173.51] [cloudfront] [1.004849124s] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.backpack.exchange [200] [] [2901865] [Backpack: Stock Broker, Crypto Exchange & Wallet] [] [13.249.126.120] [cloudfront] [815.459528ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://ui.backpack.exchange [200] [] [2901883] [Backpack: Stock Broker, Crypto Exchange & Wallet] [] [3.113.66.230] [3.18350344s] [Next.js,Node.js,React,Webpack]
+
+## 301
+https://app.balancer.fi [301] [https://balancer.fi/pools] [520] [301 Moved Permanently] [cloudflare] [172.66.157.70] [cloudflare] [103.606033ms] [Cloudflare,Cloudflare Browser Insights]
+https://dev.balancer.fi [301] [https://docs.balancer.fi] [520] [301 Moved Permanently] [cloudflare] [172.66.157.70] [cloudflare] [89.896496ms] [Cloudflare,Cloudflare Browser Insights]
+https://docs-v3.balancer.fi [301] [https://docs.balancer.fi/] [15] [Vercel] [76.76.21.22] [153.958137ms] [HSTS,Vercel]
+https://grants.balancer.fi [301] [https://grants.balancer.community/] [520] [301 Moved Permanently] [cloudflare] [104.20.26.103] [cloudflare] [174.978245ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 302
+https://api-docs.aevo.xyz [302] [/reference] [32] [cloudflare] [104.16.242.118] [cloudflare] [241.580039ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://intents.backpack.exchange [302] [https://intents.backpack.exchange/login?redirect=%2F] [0] [cloudflare] [162.159.143.13] [cloudflare] [2.697730903s] [Cloudflare,HTTP/3]
+
+## 307
+https://cs.backpack.exchange [307] [https://integrations.gitbook.com/v1/integrations/oidc/installations/cad4783f4f8b70eb120eddbbec5cda7a5120def33215954b553fa80b0564f59d/sites/site_raLBH/visitor-auth?location=%2F] [15] [cloudflare] [104.18.40.47] [cloudflare] [139.505424ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://developers.backpack.exchange [307] [https://integrations.gitbook.com/v1/integrations/oidc/installations/cad4783f4f8b70eb120eddbbec5cda7a5120def33215954b553fa80b0564f59d/sites/site_StgGV/visitor-auth?location=%2F] [15] [cloudflare] [172.64.147.209] [cloudflare] [123.084907ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://employee.backpack.exchange [307] [https://integrations.gitbook.com/v1/integrations/oidc/installations/cad4783f4f8b70eb120eddbbec5cda7a5120def33215954b553fa80b0564f59d/sites/site_NkOOV/visitor-auth?location=%2F] [15] [cloudflare] [172.64.147.209] [cloudflare] [197.573371ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://aevo.xyz [308] [https://www.aevo.xyz/] [57] [Framer/6443c08] [52.223.52.2] [176.314132ms] [Framer Sites,HSTS,HTTP/3,React]
+http://merkl-api.balancer.fi [308] [https://merkl-api.balancer.fi/] [14] [Vercel] [216.150.16.129] [3.156805786s] [Vercel]
+
+## 401
+
+## 403
+https://api-v3-cow.balancer.fi [403] [] [4897] [Attention Required! | Cloudflare] [cloudflare] [104.20.26.103] [cloudflare] [91.174984ms] [Cloudflare,Cloudflare Browser Insights]
+https://api-v3-origin.balancer.fi [403] [] [520] [403 Forbidden] [awselb/2.0] [75.2.12.216] [342.344544ms] [Amazon ELB,Amazon Web Services]
+https://api.cdn2.backpack.exchange [403] [] [520] [403 Forbidden] [awselb/2.0] [13.158.99.230] [469.288585ms] [Amazon ELB,Amazon Web Services]
+https://api2.backpack.exchange [403] [] [520] [403 Forbidden] [awselb/2.0] [13.158.99.230] [474.723269ms] [Amazon ELB,Amazon Web Services]
+https://api.internal.backpack.exchange [403] [] [520] [403 Forbidden] [awselb/2.0] [13.158.99.230] [480.805207ms] [Amazon ELB,Amazon Web Services]
+https://api.cdn1.backpack.exchange [403] [] [520] [403 Forbidden] [awselb/2.0] [13.159.193.113] [481.707198ms] [Amazon ELB,Amazon Web Services]
+https://api.bolt.backpack.exchange [403] [] [46] [awselb/2.0] [54.248.146.27] [493.495765ms] [Amazon ELB,Amazon Web Services]
+https://api2.internal.backpack.exchange [403] [] [520] [403 Forbidden] [awselb/2.0] [13.159.193.113] [475.888306ms] [Amazon ELB,Amazon Web Services]
+https://test-api-v3-origin.balancer.fi [403] [] [118] [403 Forbidden] [awselb/2.0] [63.184.212.72] [4.595148405s] [Amazon ELB,Amazon Web Services]
+
+## 404
+https://api.eu.backpack.exchange [404] [] [9] [] [18.238.109.88] [cloudfront] [426.186874ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://admin-api-testnet.aevo.xyz [404] [] [19] [] [54.95.193.186] [487.609741ms]
+https://admin-api.aevo.xyz [404] [] [19] [] [13.193.115.59] [489.823257ms]
+https://api.backpack.exchange [404] [] [9] [] [18.238.109.103] [cloudfront] [516.665264ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://degen.aevo.xyz [404] [] [107] [Vercel] [76.76.21.142] [517.587092ms] [HSTS,Vercel]
+https://degen-testnet.aevo.xyz [404] [] [107] [Vercel] [76.76.21.142] [549.658706ms] [HSTS,Vercel]
+https://governance.aevo.xyz [404] [] [107] [Vercel] [66.33.60.35] [622.982246ms] [HSTS,Vercel]
+https://otc.aevo.xyz [404] [] [107] [Vercel] [66.33.60.66] [4.580341067s] [HSTS,Vercel]
+https://testnet-faucet.aevo.xyz [404] [] [79] [Vercel] [76.76.21.142] [3.39558214s] [HSTS,Vercel]
+
+## 500
+
+## 502
+https://address-watcher.backpack.exchange [502] [] [122] [502 Bad Gateway] [awselb/2.0] [54.199.131.12] [476.928086ms] [Amazon ELB,Amazon Web Services]
+
+## 503
+
