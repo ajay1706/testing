@@ -1,0 +1,4 @@
+[CVE-2025-46817:version] [javascript] [critical] admin-rn2-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46817:version] [javascript] [critical] api-rn2-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46817:version] [javascript] [critical] api-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46817:version] [javascript] [critical] grpc-staging.botanika.ai:6379 ["7.4.10"]
