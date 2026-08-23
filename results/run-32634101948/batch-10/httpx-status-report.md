@@ -1,0 +1,143 @@
+# HTTPX Status Report
+
+Generated at: Sun Aug 23 10:45:01 UTC 2026
+
+HTTPX lines: 123
+Live URLs: 123
+
+## 200
+https://api.mainnet.orca.so [200] [] [618] [cloudflare] [104.20.33.229] [cloudflare] [144.215723ms] [Cloudflare]
+https://app.pendle.finance [200] [] [25399] [Pendle V2] [cloudflare] [104.20.41.95] [cloudflare] [252.952078ms] [Cloudflare,Google Tag Manager,HSTS,Netlify]
+https://blog.orca.so [200] [] [39816] [Orca - Blog] [cloudflare] [104.20.33.229] [cloudflare] [209.666644ms] [Cloudflare,Cloudflare Browser Insights,Ghost:6.59,Node.js,Varnish,jsDelivr]
+https://api.orca.so [200] [] [618] [cloudflare] [104.20.33.229] [cloudflare] [556.656983ms] [Cloudflare]
+https://close-position.orca.so [200] [] [61294] [Whirlpool Position Closer] [cloudflare] [104.20.33.229] [cloudflare] [181.24751ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,Google Hosted Libraries,Unpkg,Varnish,cdnjs,decimal.js:10.4.0,jQuery:3.6.0]
+https://app.ondo.finance [200] [] [186629] [Ondo | Tokenized Stocks] [Vercel] [76.76.21.123] [356.570603ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://earn.orca.so [200] [] [94] [cloudflare] [104.20.33.229] [cloudflare] [105.019332ms] [Cloudflare]
+https://evaluate.orca.so [200] [] [63] [cloudflare] [172.66.175.133] [cloudflare] [105.169861ms] [Cloudflare]
+https://docs.pendle.finance [200] [] [4398] [Pendle Documentation] [GitHub.com] [185.199.109.153] [411.955638ms] [Docusaurus:3.8.1,Fastly,GitHub Pages,Google Analytics,HSTS,React,Varnish,Webpack]
+https://entity-tax-cert.ondo.finance [200] [] [472] [Entity Self-Certification] [Vercel] [64.239.109.193] [430.942641ms] [HSTS,Vercel]
+https://faucet.testnet.ondo.finance [200] [] [5514] [Ondo Chain Testnet Faucet] [Vercel] [66.33.60.34] [317.772033ms] [HSTS,Vercel]
+https://30ef597a-dvn-staging.ondo.finance [200] [] [7] [] [100.31.227.42] [1.306328013s]
+https://governance.orca.so [200] [] [20622] [Realms] [Vercel] [76.76.21.142] [257.123864ms] [Adobe Fonts,HSTS,Typekit,Vercel]
+https://7a9c8599-dvn.ondo.finance [200] [] [7] [] [32.195.241.142] [1.387205571s]
+https://funding-receipts.pendle.finance [200] [] [26963] [Funding Receipts] [cloudflare] [172.66.172.188] [cloudflare] [464.040321ms] [Cloudflare,HSTS,Netlify,Node.js,Nuxt.js,Vue.js]
+https://forums.orca.so [200] [] [192795] [Orca - A friendly welcome to the Orca forums, podmate!] [nginx] [216.66.8.75] [384.614641ms] [Discourse:2026.8.0,HSTS,Nginx,Ruby on Rails]
+https://mirror-v2.pendle.finance [200] [] [25287] [Pendle V2] [cloudflare] [104.20.41.95] [cloudflare] [282.243124ms] [Cloudflare,Google Tag Manager]
+https://docs.orca.so [200] [] [315626] [Orca Documentation - Orca Documentation] [cloudflare] [172.66.175.133] [cloudflare] [280.75682ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://docs.ondo.finance [200] [] [277764] [Welcome to Ondo - Ondo Finance] [Vercel] [66.33.60.193] [335.471829ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://legacy-v1.pendle.finance [200] [] [8929] [Pendle] [cloudflare] [104.20.41.95] [cloudflare] [930.278212ms] [Cloudflare,Crazy Egg,Google Tag Manager,HSTS,Netlify]
+https://betterstack.ondo.finance [200] [] [343865] [Ondo Finance status] [] [167.235.220.62] [1.502256057s] [Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus]
+https://portal-staging.pendle.finance [200] [] [456] [Portal | Pendle] [cloudflare] [104.20.41.95] [cloudflare] [990.158482ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://ondo.finance [200] [] [660911] [Ondo Finance — Institutional-grade finance, delivered onchain] [Vercel] [76.76.21.21] [261.991005ms] [C3.js,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://status.ondo.finance [200] [] [15114] [Status | Ondo Finance] [Vercel] [64.239.123.1] [4.329656502s] [HSTS,Next.js,Node.js,React,Vercel,Webpack,dc.js]
+https://www.orca.so [200] [] [53401] [Home | ORCA] [cloudflare] [104.20.33.229] [cloudflare] [206.01582ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Unpkg,Vercel,cdnjs,jsDelivr]
+https://www.pendle.finance [200] [] [98878] [Pendle - Liberating Yield] [cloudflare] [104.20.41.95] [cloudflare] [421.645897ms] [Cloudflare,HSTS,Netlify,Node.js,Nuxt.js,Vue.js]
+https://v1.ondo.finance [200] [] [729906] [DAO Markets | Ondo Finance] [Vercel] [76.76.21.22] [366.596899ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://dev.orca.so [301] [https://docs.orca.so/] [167] [301 Moved Permanently] [cloudflare] [104.20.33.229] [cloudflare] [64.756698ms] [Cloudflare]
+https://insights.orca.so [301] [https://g-b9bae906ea.grafana-workspace.ap-southeast-1.amazonaws.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.33.229] [cloudflare] [107.656944ms] [Cloudflare]
+https://orcanauts.orca.so [301] [https://www.orca.so/] [167] [301 Moved Permanently] [cloudflare] [172.66.175.133] [cloudflare] [103.420254ms] [Cloudflare]
+https://pendle.finance [301] [https://www.pendle.finance/] [42] [cloudflare] [104.20.41.95] [cloudflare] [375.760952ms] [Cloudflare,HSTS,Netlify]
+http://api-staging.pendle.finance [301] [https://api-staging.pendle.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.172.188] [cloudflare] [42.815506ms] [Cloudflare]
+http://pools-api.mainnet-production.orca.so [301] [https://pools-api.mainnet-production.orca.so/] [520] [301 Moved Permanently] [cloudflare] [104.20.33.229] [cloudflare] [1.066776125s] [Cloudflare,Cloudflare Browser Insights]
+http://graph.pendle.finance [301] [https://graph.pendle.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.172.188] [cloudflare] [22.78352ms] [Cloudflare]
+http://playground.pendle.finance [301] [https://playground.pendle.finance/] [167] [301 Moved Permanently] [cloudflare] [104.20.41.95] [cloudflare] [36.001116ms] [Cloudflare]
+http://pools-api.mainnet.orca.so [301] [https://pools-api.mainnet.orca.so/] [520] [301 Moved Permanently] [cloudflare] [172.66.175.133] [cloudflare] [3.073819128s] [Cloudflare,Cloudflare Browser Insights]
+http://sprig.orca.so [301] [https://sprig.orca.so/] [520] [301 Moved Permanently] [cloudflare] [172.66.175.133] [cloudflare] [1.056915409s] [Cloudflare,Cloudflare Browser Insights]
+http://stats-api.mainnet-canary.orca.so [301] [https://stats-api.mainnet-canary.orca.so/] [520] [301 Moved Permanently] [cloudflare] [172.66.175.133] [cloudflare] [29.683065ms] [Cloudflare,Cloudflare Browser Insights]
+http://test-api.pendle.finance [301] [https://test-api.pendle.finance/] [167] [301 Moved Permanently] [cloudflare] [104.20.41.95] [cloudflare] [30.526512ms] [Cloudflare]
+
+## 302
+https://brand.orca.so [302] [https://www.figma.com/community/file/1121222959383851720] [496] [302 Found] [cloudflare] [172.66.175.133] [cloudflare] [118.831414ms] [Cloudflare,Cloudflare Browser Insights]
+https://ai.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fai.ondo.finance%2F&nonce=0e0c5e1af22d9b4996414c6581e80a12d7b9733bd5eb71692545a51542c0c4d7] [15] [Vercel] [64.239.109.193] [302.271094ms] [HSTS,Vercel]
+https://dev.entity-tax-cert.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.entity-tax-cert.ondo.finance%2F&nonce=d8af90ea21129f79bd6fe430bc378287f3652b1512f02fc5a4ef69b89f2f75fd] [15] [Vercel] [64.239.123.65] [246.039152ms] [HSTS,Vercel]
+https://dev.app.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.app.ondo.finance%2F&nonce=000f428f4cdca5e8fd7b7ae87a1194ad241e3f570debc0a1e13dbdb57cd6e490] [15] [Vercel] [76.76.21.22] [371.056173ms] [HSTS,Vercel]
+https://dev.status.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.status.ondo.finance%2F&nonce=22779a4bd148e25001afef1a1bf4751c5c28b3e971404b0f644b96936188ee66] [15] [Vercel] [64.239.123.65] [314.486841ms] [HSTS,Vercel]
+https://discord.orca.so [302] [https://discord.gg/nSwGWn5KSG] [496] [302 Found] [cloudflare] [104.20.33.229] [cloudflare] [152.887478ms] [Cloudflare,Cloudflare Browser Insights]
+https://dev.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.ondo.finance%2F&nonce=2a221aa86884e4e06c92c31b1b1142a8088de7fdda67738f4c80483fbfabe898] [15] [Vercel] [76.76.21.164] [608.763088ms] [HSTS,Vercel]
+https://devnet.orca.so [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdevnet.orca.so%2F&nonce=b65635593b479e40105e29496f6fde486905633a71fdb93a6506d5f00968fa59] [15] [cloudflare] [172.66.175.133] [cloudflare] [384.647361ms] [Cloudflare,HSTS,Vercel]
+https://jobs.orca.so [302] [https://jobs.solana.com/companies/orca] [496] [302 Found] [cloudflare] [104.20.33.229] [cloudflare] [98.87047ms] [Cloudflare,Cloudflare Browser Insights]
+https://grafana.orca.so [302] [/login] [29] [cloudflare] [172.66.175.133] [cloudflare] [822.146224ms] [Cloudflare]
+https://mirror.pendle.finance [302] [https://mirror-v2.pendle.finance] [143] [302 Found] [cloudflare] [172.66.172.188] [cloudflare] [169.375791ms] [Cloudflare]
+https://orcapod.orca.so [302] [https://open.spotify.com/show/2hd7SggAjeaRzDvp2Ga7Cp?si=68b2f916e1974d59] [496] [302 Found] [cloudflare] [104.20.33.229] [cloudflare] [80.4295ms] [Cloudflare,Cloudflare Browser Insights]
+https://podcast.orca.so [302] [https://orcapod.orca.so] [496] [302 Found] [cloudflare] [104.20.33.229] [cloudflare] [79.241352ms] [Cloudflare,Cloudflare Browser Insights]
+https://pool-ops.orca.so [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fpool-ops.orca.so%2F&nonce=d3ece267261ca87a5b65b2a132de42cb1b2880e6a3c58f80c083f4dbd51aa742] [15] [cloudflare] [104.20.33.229] [cloudflare] [320.257329ms] [Cloudflare,HSTS,Vercel]
+https://staging.app.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.app.ondo.finance%2F&nonce=e4a6cda9cf07d48f1674a3d545b2f034b15802fd56a8233238a8b62fcd2ad64e] [15] [Vercel] [66.33.60.34] [3.271023641s] [HSTS,Vercel]
+https://staging.orca.so [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.orca.so%2F&nonce=294c1abc9735534924c97355af99cea950a9140ee4843f64afde3f1a109cdaa4] [15] [cloudflare] [172.66.175.133] [cloudflare] [5.315294528s] [Cloudflare,HSTS,Vercel]
+https://vibes.ondo.finance [302] [https://oktaondofinance.okta.com/oauth2/v1/authorize?response_type=code&client_id=0oa15381x9pJOnYAD698&state=mb35HiZ5uLma2i1EfczAYUy4vK4BLFiw&scope=openid+email+profile&redirect_uri=https%3A%2F%2Fvibes.ondo.finance%2Fauth%2Foauth2%2Fcallback%2Fokta] [0] [cloudflare] [104.18.0.174] [cloudflare] [757.52979ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 307
+https://arbitrum.pendle.finance [307] [https://app.sentio.xyz/share/_valciputw8kvg3e?from=%22-6M%22&to=%22now%22] [169] [307 Temporary Redirect] [cloudflare] [104.20.41.95] [cloudflare] [121.334427ms] [Cloudflare]
+https://analytics.pendle.finance [307] [https://app.sentio.xyz/share/lv18u9fyu1b558xf?from=%22-2M%22&to=%22now%22] [169] [307 Temporary Redirect] [cloudflare] [172.66.172.188] [cloudflare] [290.72643ms] [Cloudflare]
+https://beta.orca.so [307] [https://www.orca.so/] [15] [cloudflare] [104.20.33.229] [cloudflare] [363.097355ms] [Cloudflare,HSTS,Vercel]
+https://handbook.pendle.finance [307] [https://app.gitbook.com/o/-MbiLJyImKUhHkJRlxKV/sites/site_ThQxG/] [15] [cloudflare] [104.18.40.47] [cloudflare] [261.555186ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://listing.pendle.finance [307] [https://pendle.notion.site/pendle-listing/] [169] [307 Temporary Redirect] [cloudflare] [104.20.41.95] [cloudflare] [280.738408ms] [Cloudflare]
+https://summit.ondo.finance [307] [/2026] [6819] [Vercel] [66.33.60.130] [4.121832284s] [HSTS,Vercel]
+
+## 308
+https://blog.ondo.finance [308] [https://ondo.finance/blog/] [15] [Vercel] [64.239.109.193] [259.265331ms] [HSTS,Vercel]
+https://orca.so [308] [https://www.orca.so/] [15] [cloudflare] [172.66.175.133] [cloudflare] [213.889399ms] [Cloudflare,HSTS,Vercel]
+https://www.ondo.finance [308] [https://ondo.finance/] [15] [Vercel] [76.76.21.21] [117.220861ms] [HSTS,Vercel]
+http://staging.ondo.finance [308] [https://staging.ondo.finance/] [14] [Vercel] [66.33.60.194] [275.19154ms] [Vercel]
+
+## 401
+https://docs.testnet.ondo.finance [401] [] [14080] [Authentication Required] [Vercel] [76.76.21.241] [601.631587ms] [HSTS,Vercel]
+https://mycoloop.dev.infra.ondo.finance [401] [] [179] [401 Authorization Required] [nginx/1.27.5] [3.95.118.99] [239.592287ms] [Basic,Nginx:1.27.5]
+https://mycoloop.tooling.infra.ondo.finance [401] [] [179] [401 Authorization Required] [nginx/1.27.5] [18.235.40.35] [220.861419ms] [Basic,Nginx:1.27.5]
+https://staging-app.pendle.finance [401] [] [3551] [Password Protection] [cloudflare] [172.66.172.188] [cloudflare] [6.463192965s] [Cloudflare,HSTS,Netlify]
+
+## 403
+https://birdeye.orca.so [403] [] [4895] [Attention Required! | Cloudflare] [cloudflare] [172.66.175.133] [cloudflare] [135.757437ms] [Cloudflare,Cloudflare Browser Insights]
+https://api.gm-staging.ondo.finance [403] [] [42] [] [18.172.134.7] [cloudfront] [274.219071ms] [Amazon CloudFront,Amazon Web Services]
+https://api.gm-dev.ondo.finance [403] [] [42] [] [18.160.181.46] [cloudfront] [277.12246ms] [Amazon CloudFront,Amazon Web Services]
+https://api.gm.ondo.finance [403] [] [42] [] [3.168.51.33] [cloudfront] [426.823329ms] [Amazon CloudFront,Amazon Web Services]
+https://cdn.ondo.finance [403] [] [111] [AmazonS3] [3.162.163.55] [cloudfront] [279.83227ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://archive.orca.so [403] [] [111] [cloudflare] [172.66.175.133] [cloudflare] [1.126335597s] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://api.devnet.orca.so [403] [] [17] [cloudflare] [172.66.175.133] [cloudflare] [4.744300615s] [Cloudflare]
+
+## 404
+https://aggregators.orca.so [404] [] [13] [cloudflare] [104.20.33.229] [cloudflare] [109.958666ms] [Cloudflare]
+https://api.explorer.testnet.ondo.finance [404] [] [19] [] [100.51.119.146] [247.918367ms]
+https://api.pendle.finance [404] [] [63] [cloudflare] [104.20.41.95] [cloudflare] [247.949538ms] [Cloudflare,Express,Node.js]
+https://api-v2.pendle.finance [404] [] [18] [cloudflare] [172.66.172.188] [cloudflare] [349.32003ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://blob.orca.so [404] [] [27503] [Not Found] [cloudflare] [104.20.33.229] [cloudflare] [405.356871ms] [Cloudflare,Cloudflare Browser Insights]
+https://bh-api.orca.so [404] [] [9] [cloudflare] [104.20.33.229] [cloudflare] [830.856431ms] [Cloudflare]
+https://bh-api.devnet.orca.so [404] [] [9] [cloudflare] [104.20.33.229] [cloudflare] [844.356439ms] [Cloudflare]
+https://forgd.orca.so [404] [] [13] [cloudflare] [172.66.175.133] [cloudflare] [129.382462ms] [Cloudflare]
+https://explorer.testnet.ondo.finance [404] [] [19] [] [13.219.140.243] [160.597613ms]
+https://assets.orca.so [404] [] [27503] [Not Found] [cloudflare] [104.20.33.229] [cloudflare] [1.130353722s] [Cloudflare,Cloudflare Browser Insights]
+https://jito-proxy.orca.so [404] [] [13] [cloudflare] [172.66.175.133] [cloudflare] [99.933195ms] [Cloudflare]
+https://mcp.ondo.finance [404] [] [13] [cloudflare] [104.18.0.174] [cloudflare] [276.093004ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://mintlists.orca.so [404] [] [0] [cloudflare] [104.20.33.229] [cloudflare] [200.03808ms] [Cloudflare]
+https://mixpanel.orca.so [404] [] [90] [cloudflare] [104.20.33.229] [cloudflare] [266.060387ms] [Cloudflare]
+https://mta-sts.orca.so [404] [] [0] [cloudflare] [172.66.175.133] [cloudflare] [222.622925ms] [Cloudflare]
+https://lighthouse.mainnet.orca.so [404] [] [0] [cloudflare] [104.20.33.229] [cloudflare] [791.615463ms] [Cloudflare]
+https://metadata.devnet.orca.so [404] [] [9] [cloudflare] [172.66.175.133] [cloudflare] [809.457714ms] [Cloudflare]
+https://metadata.mainnet-staging.orca.so [404] [] [9] [cloudflare] [104.20.33.229] [cloudflare] [813.388658ms] [Cloudflare]
+https://metadata.orca.so [404] [] [9] [cloudflare] [172.66.175.133] [cloudflare] [862.756328ms] [Cloudflare]
+https://pools-api.devnet.orca.so [404] [] [9] [cloudflare] [172.66.175.133] [cloudflare] [1.847698247s] [Cloudflare]
+https://screening.orca.so [404] [] [13] [cloudflare] [104.20.33.229] [cloudflare] [3.118669072s] [Cloudflare]
+https://pools-api.mainnet-staging.orca.so [404] [] [9] [cloudflare] [172.66.175.133] [cloudflare] [5.791108977s] [Cloudflare]
+https://rpc.testnet.ondo.finance [404] [] [19] [] [100.51.119.146] [5.180983931s]
+https://staging-api.pendle.finance [404] [] [18] [cloudflare] [104.20.41.95] [cloudflare] [3.470106086s] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://stats-api.devnet.orca.so [404] [] [9] [cloudflare] [172.66.175.133] [cloudflare] [1.789758672s] [Cloudflare]
+https://stats-api.mainnet.orca.so [404] [] [9] [cloudflare] [172.66.175.133] [cloudflare] [1.295628366s] [Cloudflare]
+https://stats-api.mainnet-production.orca.so [404] [] [9] [cloudflare] [172.66.175.133] [cloudflare] [2.841560679s] [Cloudflare]
+https://stats-api.mainnet-staging.orca.so [404] [] [9] [cloudflare] [172.66.175.133] [cloudflare] [2.80510859s] [Cloudflare]
+http://testnet.ondo.finance [404] [] [107] [Vercel] [76.76.21.21] [502.210193ms] [Vercel]
+https://trident-api.mainnet-staging.orca.so [404] [] [9] [cloudflare] [104.20.33.229] [cloudflare] [790.408161ms] [Cloudflare]
+https://trident-api.orca.so [404] [] [9] [cloudflare] [172.66.175.133] [cloudflare] [760.053394ms] [Cloudflare]
+https://wavebreak-api.mainnet-production.orca.so [404] [] [9] [cloudflare] [104.20.33.229] [cloudflare] [808.280637ms] [Cloudflare]
+https://wavebreak-api.mainnet.orca.so [404] [] [9] [cloudflare] [104.20.33.229] [cloudflare] [796.062468ms] [Cloudflare]
+https://wavebreak-api.mainnet-staging.orca.so [404] [] [9] [cloudflare] [104.20.33.229] [cloudflare] [815.507761ms] [Cloudflare]
+
+## 500
+
+## 502
+
+## 503
+https://metadata.mainnet-canary.orca.so [503] [] [917] [503 Service Temporarily Unavailable] [cloudflare] [104.20.33.229] [cloudflare] [834.666701ms] [Cloudflare,Cloudflare Browser Insights]
+https://pools-api.mainnet-canary.orca.so [503] [] [515] [503 Service Temporarily Unavailable] [cloudflare] [104.20.33.229] [cloudflare] [4.850979392s] [Cloudflare,Cloudflare Browser Insights]
+https://wavebreak-api.mainnet-canary.orca.so [503] [] [515] [503 Service Temporarily Unavailable] [cloudflare] [172.66.175.133] [cloudflare] [850.299087ms] [Cloudflare,Cloudflare Browser Insights]
+

@@ -1,0 +1,14 @@
+[+] Batch started: Sun Aug 23 10:42:48 UTC 2026
+[+] Run ID: 32634101948
+[+] Batch name: batch-10
+[+] Batch targets:
+ondo.finance
+orca.so
+pendle.finance
+[+] Running subfinder...
+[+] Subfinder completed: Sun Aug 23 10:44:25 UTC 2026
+[+] HTTPX input count: 260
+[+] Running httpx...
+[+] httpx completed: Sun Aug 23 10:45:01 UTC 2026
+[+] httpx line count: 123
+[+] Batch completed: Sun Aug 23 10:45:01 UTC 2026
