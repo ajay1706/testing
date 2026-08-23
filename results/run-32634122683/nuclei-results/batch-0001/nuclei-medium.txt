@@ -1,0 +1,5 @@
+[CVE-2023-48795] [javascript] [medium] stun.call2.beldex.io:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] stun.call3.beldex.io:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] stun.test.beldex.io:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] turn.call2.beldex.io:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] turn.call3.beldex.io:22 ["Vulnerable to Terrapin"]
