@@ -1,0 +1,14 @@
+[+] Batch started: Sun Aug 23 10:40:41 UTC 2026
+[+] Run ID: 32634101948
+[+] Batch name: batch-09
+[+] Batch targets:
+meteora.ag
+moonwell.fi
+morpho.org
+[+] Running subfinder...
+[+] Subfinder completed: Sun Aug 23 10:41:57 UTC 2026
+[+] HTTPX input count: 248
+[+] Running httpx...
+[+] httpx completed: Sun Aug 23 10:42:21 UTC 2026
+[+] httpx line count: 161
+[+] Batch completed: Sun Aug 23 10:42:21 UTC 2026
