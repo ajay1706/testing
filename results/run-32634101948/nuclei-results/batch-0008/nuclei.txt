@@ -1,0 +1,17 @@
+[CVE-2022-41697] [http] [medium] https://blog.lido.fi/ghost/api/admin/session
+[CVE-2026-26980] [http] [critical] https://blog.lido.fi/ghost/api/content/tags/?key=1533352e47c2231a354ec1fc86&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2024-09-02-13-00]
+[weak-cipher-suites:tls-1.0] [ssl] [low] birdeye-proxy.raydium.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] birdeye-proxy.raydium.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.1inch.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog-cn.1inch.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog-cn.1inch.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.1inch.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.zeta.markets:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.zeta.markets:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] borrow-app.solflare.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] borrow-app.solflare.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bridge-api.solflare.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bridge-api.solflare.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[netlify-headers-config-exposure] [http] [low] https://bridge.treasure.lol/_headers
+[framer-takeover] [http] [high] https://bootcamp.meteora.ag
+[expired-ssl] [ssl] [low] blog.morpho.org:443 ["2026-05-26 23:59:59 +0000 UTC"]
