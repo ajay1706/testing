@@ -1,0 +1,16 @@
+[CVE-2022-41697] [http] [medium] https://blog.lido.fi/ghost/api/admin/session
+[CVE-2023-30019] [http] [medium] https://cdn.magiceden.io/111/rs:fit:400:400:0:0/plain/http://da5ede04fjmjfniv5hegp77bxmftdoedc.oast.online
+[CVE-2025-24354] [http] [medium] https://cdn.magiceden.io/unsafe/plain/http://da5ede04fjmjfniv5heg9yzs3ksuu7u3d.oast.online
+[CVE-2025-54793] [http] [medium] https://api.camelot.exchange//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://dev.api.camelot.exchange//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://resources.zerion.io//interact.sh/en
+[dockerfile-hidden-disclosure] [http] [medium] https://agents.morpho.org/Dockerfile
+[git-config] [http] [medium] https://compound.finance/.git/config ["eC1hY2Nlc3MtdG9rZW46Z2hzX1hxdW5wSHlQdjgySlZLdTZkdHJxeTZNQjBwWkFORzIwVTRycA=="]
+[open-redirect-generic] [http] [medium] https://api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://dev.api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://resources.zerion.io//oast.me/..;/css [redirect="/oast.me/..;/css"]
+[prometheus-metrics] [http] [medium] https://api.centrifuge.io/metrics
+[prometheus-metrics] [http] [medium] https://ponder-eu.moonwell.fi/metrics
+[prometheus-metrics] [http] [medium] https://ponder-eu2.moonwell.fi/metrics
+[prometheus-metrics] [http] [medium] https://ponder.moonwell.fi/metrics
+[prometheus-metrics] [http] [medium] https://verify-webhook.zerion.io/metrics

@@ -1,0 +1,5 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.orca.so/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[canny-takeover] [http] [high] https://feedback.treasure.lol
+[framer-takeover] [http] [high] https://bootcamp.meteora.ag
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://analytics.zeta.markets/api/search?type=dash-db
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://stats.marinade.finance/api/search?type=dash-db
