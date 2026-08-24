@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://resources.zerion.io//oast.me/..;/css [redirect="/oast.me/..;/css"]
+[CVE-2025-54793] [http] [medium] https://resources.zerion.io//interact.sh/en
