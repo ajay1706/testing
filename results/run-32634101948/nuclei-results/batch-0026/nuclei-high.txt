@@ -1,0 +1,1 @@
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://stats.marinade.finance/api/search?type=dash-db
