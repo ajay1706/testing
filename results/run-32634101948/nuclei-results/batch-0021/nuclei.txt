@@ -1,0 +1,14 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] perps-img-v1.raydium.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] perps-img-v1.raydium.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] private.api.ethena.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] private.api.ethena.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://ponder-eu.moonwell.fi/metrics
+[prometheus-metrics] [http] [medium] https://ponder-eu2.moonwell.fi/metrics
+[prometheus-metrics] [http] [medium] https://ponder.moonwell.fi/metrics
+[postgres-exporter-metrics] [http] [low] https://ponder-eu.moonwell.fi/metrics
+[postgres-exporter-metrics] [http] [low] https://ponder-eu2.moonwell.fi/metrics
+[postgres-exporter-metrics] [http] [low] https://ponder.moonwell.fi/metrics
+[netlify-headers-config-exposure] [http] [low] https://pr-26.bridge-previews.treasure.lol/_headers
+[graphiql-exposure] [http] [low] https://ponder-eu.moonwell.fi/graphql
+[graphiql-exposure] [http] [low] https://ponder-eu2.moonwell.fi/graphql
+[graphiql-exposure] [http] [low] https://ponder.moonwell.fi/graphql
