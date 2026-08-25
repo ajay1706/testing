@@ -1,0 +1,6 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] go.legora.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] go.legora.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[kubernetes-fake-certificate] [ssl] [low] harini-env-3.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] harini-env-3.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] ibjichi.assorthealth.com:443
+[untrusted-root-certificate] [ssl] [low] gp-amer-2.shield.ai:443
