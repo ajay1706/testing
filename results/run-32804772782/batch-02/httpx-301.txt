@@ -1,0 +1,4 @@
+http://info.peregrine.io [301] [https://info.peregrine.io/] [0] [cloudflare] [199.60.103.29] [2.028168029s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.shield.ai [301] [https://shield.ai/] [0] [cloudflare] [141.193.213.21] [3.082998996s] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,WP Engine,WordPress]
+https://www.staging.steno.com [301] [https://staging.steno.com/] [0] [Varnish] [151.101.43.42] [fastly] [3.0769445s] [HSTS,Varnish]
+https://www.steno.com [301] [https://steno.com/] [0] [Varnish] [151.101.195.42] [fastly] [4.031878344s] [HSTS,Varnish]
