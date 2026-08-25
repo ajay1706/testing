@@ -1,0 +1,20 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] corn.concrete.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] corn.concrete.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.concrete.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.concrete.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://demo.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://demo.steno.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://demo.steno.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://depos.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://depos.steno.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://depos.steno.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://depos.staging.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://depos.staging.steno.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://depos.staging.steno.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://demo.steno.com
+[kubernetes-fake-certificate] [ssl] [low] cru-us-east1-dev-1.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cru-us-east1-dev-1.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] cw11.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] cw11.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] dev-wp-crusoe-us-east1.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev-wp-crusoe-us-east1.cert.api.mc-dev.baseten.co:443
