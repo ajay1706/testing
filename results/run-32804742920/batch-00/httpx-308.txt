@@ -1,0 +1,4 @@
+https://beta.character.ai [308] [https://character.ai/] [169] [308 Permanent Redirect] [cloudflare] [104.18.222.226] [cloudflare] [51.08878ms] [Cloudflare,HTTP/3]
+https://app.captions.ai [308] [https://desktop.captions.ai/login] [33] [Google Frontend] [216.239.38.21] [google] [180.717737ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://plus.character.ai [308] [https://character.ai/] [169] [308 Permanent Redirect] [cloudflare] [104.18.223.226] [cloudflare] [18.35675ms] [Cloudflare,HTTP/3]
+https://web-tools.captions.ai [308] [https://desktop.captions.ai/login] [33] [Google Frontend] [216.239.38.21] [google] [141.176846ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
