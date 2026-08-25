@@ -1,0 +1,203 @@
+[CVE-2025-29927] [http] [critical] https://docs.taktile.com
+[apache-mod-negotiation-listing:exposed_files] [http] [low] http://academy.leapxpert.com/index ["index.php"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://external.academy.leapxpert.com/index ["index.php"] [path="/index"]
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://internal.academy.leapxpert.com/index ["index.php"] [path="/index"]
+[expired-ssl] [ssl] [low] 23.139.52.51.api.baseten.co:443 ["2026-07-19 03:00:15 +0000 UTC"]
+[expired-ssl] [ssl] [low] jakob-region.taktile-org.testing-decide.taktile.com:443 ["2024-09-04 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] testing.taktile-org.testing-decide.taktile.com:443 ["2023-12-21 23:59:59 +0000 UTC"]
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://app.demo.steno.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://app.steno.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://cli.beta.taktile.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://demo.steno.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://depos.staging.steno.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://depos.steno.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://engineering.taktile.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ops.staging.steno.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ops.steno.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://app.demo.steno.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://app.steno.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://cli.beta.taktile.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://demo.steno.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://depos.staging.steno.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://depos.steno.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://engineering.taktile.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ops.staging.steno.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ops.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://app.demo.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://app.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://cli.beta.taktile.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://demo.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://depos.staging.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://depos.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://engineering.taktile.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ops.staging.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ops.steno.com
+[github-takeover] [http] [high] https://cli.beta.taktile.com ["taktile-org.github.io"]
+[kubernetes-fake-certificate] [ssl] [low] ali-apse8-mpdev-1.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-03y8koew.cert.03y8koew.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-03y8koew.cert.03y8koew.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-4q9n7v0w.cert.4q9n7v0w.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-4q9n7v0w.cert.4q9n7v0w.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-4q9npkjw.cert.4q9npkjw.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-4q9npkjw.cert.4q9npkjw.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-4w50nxrq.cert.4w50nxrq.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-4w50nxrq.cert.4w50nxrq.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-5qe12ypw.cert.5qe12ypw.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-5qe12ypw.cert.5qe12ypw.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-7qk0go93.cert.7qk0go93.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-7qk0go93.cert.7qk0go93.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-8w6g9z5q.cert.8w6g9z5q.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-lqzjn8ow.cert.lqzjn8ow.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-lqzjn8ow.cert.lqzjn8ow.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-nwxdpryq.cert.nwxdpryq.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-nwxdpryq.cert.nwxdpryq.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-owpx2k83.cert.owpx2k83.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-owpx2k83.cert.owpx2k83.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-q848pe5w.cert.q848pe5w.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-qjddkojq.cert.qjddkojq.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-qjde82lq.cert.qjde82lq.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-rwn5204w.cert.rwn5204w.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-rwn5204w.cert.rwn5204w.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-test1.cert.test1.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-test1.cert.test1.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-v31j9mr3.cert.v31j9mr3.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-v31j9mr3.cert.v31j9mr3.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-v31p1y13.cert.v31p1y13.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-v31p1y13.cert.v31p1y13.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-vq0r467q.cert.vq0r467q.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-vq0r467q.cert.vq0r467q.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-w7p722ow.cert.w7p722ow.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-wd1ezjkw.cert.wd1ezjkw.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-wd1ezjkw.cert.wd1ezjkw.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-wl1l997q.cert.wl1l997q.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-wl1l997q.cert.wl1l997q.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-yqv7merq.cert.yqv7merq.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-yqv7merq.cert.yqv7merq.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-character.cert.inference.character.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-cursor.cert.inference.cursor.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-cursor.cert.inference.uc1.cursor.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-lb1.cert.gcp-us-central1-2gj.lb.staging.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-lb1.cert.gcp-us-central1-a9x.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-lb1.cert.test1.wp-gcp-us-central1-dev.lb.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-mcm1.cert.wp-gcp-us-central1-dev-mcm1.lb.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] alyx-xyla-7qrlzl0q.cert.gpt-oss-120b-lora-7qrlzl0q.api.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] aws-uw2phx-prod-1.cert.api.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] bridge.staging.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] control-plane-dev.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] cru-us-east1-dev-1.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] cw11.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] dev-wp-crusoe-us-east1.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] harini-env-3.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] marcel-4ra6.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] marcel-897d.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] marcel-r7eh.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] marcel-sp8n.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] marcel-vs7l.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] omar-70rp.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] test1.wp-gcp-us-central1-dev.lb.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[prometheus-metrics] [http] [medium] https://api-canary.assorthealth.com/metrics
+[prometheus-metrics] [http] [medium] https://api.assorthealth.com/metrics
+[self-signed-ssl] [ssl] [low] ali-apse8-mpdev-1.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-03y8koew.cert.03y8koew.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-03y8koew.cert.03y8koew.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-4q9n7v0w.cert.4q9n7v0w.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-4q9n7v0w.cert.4q9n7v0w.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-4q9npkjw.cert.4q9npkjw.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-4q9npkjw.cert.4q9npkjw.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-4w50nxrq.cert.4w50nxrq.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-4w50nxrq.cert.4w50nxrq.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-5qe12ypw.cert.5qe12ypw.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-5qe12ypw.cert.5qe12ypw.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-7qk0go93.cert.7qk0go93.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-7qk0go93.cert.7qk0go93.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-8w6g9z5q.cert.8w6g9z5q.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-lqzjn8ow.cert.lqzjn8ow.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-lqzjn8ow.cert.lqzjn8ow.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-nwxdpryq.cert.nwxdpryq.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-nwxdpryq.cert.nwxdpryq.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-owpx2k83.cert.owpx2k83.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-owpx2k83.cert.owpx2k83.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-q848pe5w.cert.q848pe5w.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-qjddkojq.cert.qjddkojq.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-qjde82lq.cert.qjde82lq.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-rwn5204w.cert.rwn5204w.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-rwn5204w.cert.rwn5204w.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-test1.cert.test1.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-test1.cert.test1.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-v31j9mr3.cert.v31j9mr3.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-v31j9mr3.cert.v31j9mr3.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-v31p1y13.cert.v31p1y13.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-v31p1y13.cert.v31p1y13.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-vq0r467q.cert.vq0r467q.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-vq0r467q.cert.vq0r467q.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-w7p722ow.cert.w7p722ow.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-wd1ezjkw.cert.wd1ezjkw.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-wd1ezjkw.cert.wd1ezjkw.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-wl1l997q.cert.wl1l997q.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-wl1l997q.cert.wl1l997q.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-yqv7merq.cert.yqv7merq.gcp-us-ctr1-abr.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-abridge-yqv7merq.cert.yqv7merq.gcp-us-e4-blt.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-character.cert.inference.character.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-cursor.cert.inference.cursor.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-cursor.cert.inference.uc1.cursor.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-lb1.cert.gcp-us-central1-2gj.lb.staging.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-lb1.cert.gcp-us-central1-a9x.lb.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-lb1.cert.test1.wp-gcp-us-central1-dev.lb.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-mcm1.cert.wp-gcp-us-central1-dev-mcm1.lb.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] alyx-xyla-7qrlzl0q.cert.gpt-oss-120b-lora-7qrlzl0q.api.baseten.co:443
+[self-signed-ssl] [ssl] [low] aws-uw2phx-prod-1.cert.api.baseten.co:443
+[self-signed-ssl] [ssl] [low] bridge.staging.baseten.co:443
+[self-signed-ssl] [ssl] [low] control-plane-dev.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] cru-us-east1-dev-1.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] cw11.baseten.co:443
+[self-signed-ssl] [ssl] [low] dev-wp-crusoe-us-east1.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] harini-env-3.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] ibjichi.assorthealth.com:443
+[self-signed-ssl] [ssl] [low] marcel-4ra6.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] marcel-897d.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] marcel-r7eh.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] marcel-sp8n.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] marcel-vs7l.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] omar-70rp.cert.api.mc-dev.baseten.co:443
+[self-signed-ssl] [ssl] [low] test1.wp-gcp-us-central1-dev.lb.mc-dev.baseten.co:443
+[unauth-ckfinder] [http] [high] https://partners.leapxpert.com/ckfinder/ckfinder.html ["CKFinder 3 - File Browser"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://app.demo.steno.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://app.steno.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://demo.steno.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://ops.staging.steno.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://ops.steno.com
+[untrusted-root-certificate] [ssl] [low] gp-amer-2.shield.ai:443
+[weak-cipher-suites:tls-1.0] [ssl] [low] auth.demo.steno.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] auth.staging.steno.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] auth.steno.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] aws-uw2phx-p7x.api.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] baseten-lb.mc-dev.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bei-heavy-ranker-v3-c.mc-dev.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] brief.steno.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] corn.concrete.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.concrete.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ftp.grpc.api.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] go.legora.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] inference-grpc.uw2phx.cursor.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail2.grpc.api.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] media.grpc.api.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] preview.grpc.api.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] qr.steno.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] registry.mc-dev.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auth.demo.steno.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auth.staging.steno.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auth.steno.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] aws-uw2phx-p7x.api.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] baseten-lb.mc-dev.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bei-heavy-ranker-v3-c.mc-dev.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] brief.steno.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] corn.concrete.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.concrete.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ftp.grpc.api.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] go.legora.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] inference-grpc.uw2phx.cursor.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail2.grpc.api.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] media.grpc.api.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] preview.grpc.api.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] qr.steno.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] registry.mc-dev.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
