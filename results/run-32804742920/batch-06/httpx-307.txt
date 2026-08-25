@@ -1,0 +1,6 @@
+https://api-cricket.you.com [307] [https://docs.you.com/] [0] [cloudflare] [104.18.41.176] [cloudflare] [151.357398ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api-staging.you.com [307] [https://docs.you.com/] [0] [cloudflare] [104.18.41.176] [cloudflare] [304.070517ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://dashboard.synthesia.io [307] [/api/auth/sign-in?returnPathname=%2F] [0] [] [52.85.151.66] [cloudfront] [862.440394ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://dashboard.dev.synthesia.io [307] [/api/auth/sign-in?returnPathname=%2F] [0] [] [65.8.54.54] [cloudfront] [1.078177834s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://login.synthesia.io [307] [https://api.workos.com/user_management/initiate_login?context=&client_id=client_01JHTZY0ZK03VMGDP7HV8TKXTE] [72957] [Sign in] [cloudflare] [172.64.152.23] [cloudflare] [5.672333112s] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+http://sam.williams-coffee-app.ngrok.dev.synthesia.io [307] [https://sam.williams-coffee-app.ngrok.dev.synthesia.io/] [91] [] [13.52.160.34] [8.0360939s]
