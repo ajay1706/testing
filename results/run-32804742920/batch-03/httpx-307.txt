@@ -1,0 +1,3 @@
+https://captures.lumalabs.ai [307] [https://lumalabs.ai/featured] [15] [Vercel] [76.76.21.241] [46.601623ms] [HSTS,Vercel]
+https://auth.lumalabs.ai [307] [https://auth.api.lumalabs.ai/user_management/initiate_login?context=&client_id=client_01JEPBX392F635E24E17DGY3NX] [67491] [Sign in] [cloudflare] [104.18.35.233] [cloudflare] [416.897098ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://app.lumalabs.ai [307] [/auth/sign-in?returnTo=%2F&screenHint=sign-up] [42589] [Luma | AI Creative Agents] [] [52.85.31.106] [cloudfront] [338.694305ms] [Amazon CloudFront,Amazon Web Services,Next.js,Node.js,React,Webpack]
