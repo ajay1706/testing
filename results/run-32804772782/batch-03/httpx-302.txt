@@ -1,0 +1,4 @@
+https://analytics.taktile.com [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=385151595434-ki9cti00sdgaan8m8r2evrqf36j4v88d.apps.googleusercontent.com&response_type=code&scope=openid%20email&redirect_uri=https%3A%2F%2Fanalytics.taktile.com%2F_callback&hd=taktile.com&nonce=33a0b3146126973c571ec8f1fc353555c607d116e67cb6528da8f9348212c38a&state=%2F] [28] [CloudFront] [13.226.238.48] [cloudfront] [5.565348958s] [Amazon CloudFront,Amazon Web Services]
+https://patient.xcures.com [302] [https://onboard.xcures.com/] [0] [CloudFront] [18.165.98.107] [cloudfront] [2.283745892s] [Amazon CloudFront,Amazon Web Services]
+https://provider.xcures.com [302] [https://partner.xcures.com/] [0] [CloudFront] [18.165.98.96] [cloudfront] [5.075141396s] [Amazon CloudFront,Amazon Web Services]
+http://trail.taktile.com [302] [https://trail.taktile.com/] [0] [Caddy] [188.165.50.182] [172.858197ms] [Caddy]
