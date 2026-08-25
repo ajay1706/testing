@@ -1,0 +1,15 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] media.grpc.api.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] media.grpc.api.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://ops.staging.steno.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://ops.steno.com
+[unauth-ckfinder] [http] [high] https://partners.leapxpert.com/ckfinder/ckfinder.html ["CKFinder 3 - File Browser"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ops.steno.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ops.staging.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ops.steno.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ops.staging.steno.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ops.staging.steno.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ops.steno.com
+[kubernetes-fake-certificate] [ssl] [low] marcel-vs7l.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] marcel-vs7l.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] omar-70rp.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] omar-70rp.cert.api.mc-dev.baseten.co:443
