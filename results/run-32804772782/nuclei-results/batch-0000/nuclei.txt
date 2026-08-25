@@ -1,0 +1,10 @@
+[apache-mod-negotiation-listing:exposed_files] [http] [low] http://academy.leapxpert.com/index ["index.php"] [path="/index"]
+[expired-ssl] [ssl] [low] 23.139.52.51.api.baseten.co:443 ["2026-07-19 03:00:15 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] ali-apse8-mpdev-1.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] ali-apse8-mpdev-1.cert.api.mc-dev.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-4q9n7v0w.cert.4q9n7v0w.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-4q9n7v0w.cert.4q9n7v0w.gcp-us-ctr1-abr.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-03y8koew.cert.03y8koew.gcp-us-ctr1-abr.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-03y8koew.cert.03y8koew.gcp-us-ctr1-abr.lb.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] alyx-abridge-03y8koew.cert.03y8koew.gcp-us-e4-blt.lb.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alyx-abridge-03y8koew.cert.03y8koew.gcp-us-e4-blt.lb.baseten.co:443
