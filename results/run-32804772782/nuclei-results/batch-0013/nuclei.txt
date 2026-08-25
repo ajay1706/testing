@@ -1,0 +1,3 @@
+[kubernetes-fake-certificate] [ssl] [low] test1.wp-gcp-us-central1-dev.lb.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] test1.wp-gcp-us-central1-dev.lb.mc-dev.baseten.co:443
+[expired-ssl] [ssl] [low] testing.taktile-org.testing-decide.taktile.com:443 ["2023-12-21 23:59:59 +0000 UTC"]
