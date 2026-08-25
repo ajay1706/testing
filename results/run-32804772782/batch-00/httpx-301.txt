@@ -1,0 +1,7 @@
+https://assorthealth.com [301] [https://www.assorthealth.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [222.789382ms] [Cloudflare,HSTS,HTTP/3]
+https://bridge.baseten.co [301] [https://docs.baseten.co/inference/calling-your-model] [162] [301 Moved Permanently] [] [34.69.45.22] [google] [190.54711ms] [HSTS]
+https://corn.concrete.xyz [301] [https://app.concrete.xyz/vault/corn/btc] [167] [301 Moved Permanently] [cloudflare] [172.67.191.223] [cloudflare] [36.086987ms] [Cloudflare,HSTS]
+http://dnstestingzbtzasklf.baseten.co [301] [https://dnstestingzbtzasklf.baseten.co/] [162] [301 Moved Permanently] [nginx] [44.229.220.222] [40.339653ms] [Nginx]
+http://railway-prod.alpha.concrete.xyz [301] [https://railway-prod.alpha.concrete.xyz/] [0] [] [69.46.46.3] [19.94656ms]
+http://sales.concrete.xyz [301] [https://sales.concrete.xyz:443/] [0] [] [34.111.179.208] [google] [4.038059532s]
+https://www.concrete.xyz [301] [https://concrete.xyz/] [166] [301 Moved Permanently] [cloudflare] [172.67.191.223] [cloudflare] [2.407198407s] [Cloudflare,HSTS,HTTP/3]
