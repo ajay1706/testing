@@ -1,0 +1,12 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] bei-heavy-ranker-v3-c.mc-dev.baseten.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bei-heavy-ranker-v3-c.mc-dev.baseten.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] brief.steno.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] brief.steno.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://cli.beta.taktile.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://cli.beta.taktile.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://cli.beta.taktile.com
+[github-takeover] [http] [high] https://cli.beta.taktile.com ["taktile-org.github.io"]
+[kubernetes-fake-certificate] [ssl] [low] bridge.staging.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] bridge.staging.baseten.co:443
+[kubernetes-fake-certificate] [ssl] [low] control-plane-dev.cert.api.mc-dev.baseten.co:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] control-plane-dev.cert.api.mc-dev.baseten.co:443
