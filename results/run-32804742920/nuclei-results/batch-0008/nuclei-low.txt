@@ -1,0 +1,41 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.api.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.api.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] media.pixverse.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] media.pixverse.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] metrics-prod.suno.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] metrics-prod.suno.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mnbvcxzlkjh9o4p.pika.art:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mnbvcxzlkjh9o4p.pika.art:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] msaocnoosm1a4.pika.art:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] msaocnoosm1a4.pika.art:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] neo.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] neo.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] next.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] next.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] old.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] old.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] omaha-server.genspark.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] parrot-test.pika.art:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] omaha-server.genspark.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] parrot-test.pika.art:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] parrot.pika.art:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] parrot.pika.art:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[wp-better-wp-security-fpd] [http] [low] https://partner.manus.im/wp-content/plugins/better-wp-security/core/admin-pages/page-logs.php
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://metadata.research.synthesia.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://metadata.research.synthesia.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://metadata.research.synthesia.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://newsletter.runwayml.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://newsletter.runwayml.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://newsletter.runwayml.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://open-app.runwayml.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://open-app.runwayml.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://open-app.runwayml.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://pay.lumalabs.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://pay.lumalabs.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://pay.lumalabs.ai
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://pay.pika.art
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://pay.pika.art
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://pay.pika.art
+[google-api-key] [http] [low] https://manus.im ["AIzaSyDcXHo-1cHpFHPMlBDoMHnvI6r00_XkNKg"]
+[google-api-key] [http] [low] https://manus.im/hopfully404 ["AIzaSyDcXHo-1cHpFHPMlBDoMHnvI6r00_XkNKg"]
+[wp-hello-dolly-fpd] [http] [low] https://partner.manus.im/wp-content/plugins/hello-dolly/hello.php
