@@ -1,0 +1,2 @@
+https://otel.eu.legora.com [401] [] [76] [] [4.223.234.223] [2.303123729s] [HSTS]
+https://search.staging.legora.com [401] [] [39] [Microsoft-Azure-Application-LB/AGC] [20.6.18.25] [2.425834839s]

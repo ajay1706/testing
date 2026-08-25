@@ -1,0 +1,14 @@
+[+] Batch started: Tue Aug 25 03:21:47 UTC 2026
+[+] Run ID: 32804772782
+[+] Batch name: batch-01
+[+] Batch targets:
+halterhq.com
+leapxpert.com
+legora.com
+[+] Running subfinder...
+[+] Subfinder completed: Tue Aug 25 03:23:01 UTC 2026
+[+] HTTPX input count: 413
+[+] Running httpx...
+[+] httpx completed: Tue Aug 25 03:23:56 UTC 2026
+[+] httpx line count: 248
+[+] Batch completed: Tue Aug 25 03:23:56 UTC 2026

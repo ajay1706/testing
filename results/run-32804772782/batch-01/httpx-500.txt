@@ -1,0 +1,2 @@
+https://otel2.us.legora.com [500] [] [58] [] [135.224.243.207] [4.03290368s] [HSTS]
+https://otel2.eu.legora.com [500] [] [58] [] [4.223.234.223] [4.313565856s] [HSTS]
