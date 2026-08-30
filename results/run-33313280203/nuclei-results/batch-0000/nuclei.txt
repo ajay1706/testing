@@ -1,0 +1,19 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] 1212port.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 1212port.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] affiliate.entravel.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] agent.de1.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] affiliate.entravel.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] agent.de1.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[self-signed-ssl] [ssl] [low] aave.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-mobile.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] actiity-trades-table.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-data.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-description.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-stats.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-trades-mm-col.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] add-link.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] add-staging.staging.liquorice.tech:443
+[kubernetes-fake-certificate] [ssl] [low] alpha.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] alpha.xctest.i.ripple.com:443
