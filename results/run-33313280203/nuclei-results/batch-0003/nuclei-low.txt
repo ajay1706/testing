@@ -1,0 +1,126 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] entravel.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] entravel.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] event.neosoul.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] event.neosoul.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] exchange.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] exchange.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fltest.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fltest.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://entropy.xyz
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://entropy.xyz
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://entropy.xyz
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://engineering.ripple.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://engineering.ripple.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://engineering.ripple.com
+[tomcat-stacktraces] [http] [low] https://eset.entravel.com/?f=\[
+[kubernetes-fake-certificate] [ssl] [low] elbtest106.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest106.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest11.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest11.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest12.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest12.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest103.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest103.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest104.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest104.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest102.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest102.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest125.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest125.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest114.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest114.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest107.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest107.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest105.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest105.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest13.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest13.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest130.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest130.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest128.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest128.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest126.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest126.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest127.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest127.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest129.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest129.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest135.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest135.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest133.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest133.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest131.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest131.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest134.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest134.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest136.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest136.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest159.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest159.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest155.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest155.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest209.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest209.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest212.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest212.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest22.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest22.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest23.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest23.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest20.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest20.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest21.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest21.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest3.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest3.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest302.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest302.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest300.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest300.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest304.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest304.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest301.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest301.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest310.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest310.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest312.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest312.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest31.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest31.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest303.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest303.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest32.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest32.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest321.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest321.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest340.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest340.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest4.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest4.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest35.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest35.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest401.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest401.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest403.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest403.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest350.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest350.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest400.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest400.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest404.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest404.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest405.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest405.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest6.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest6.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest7.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest7.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest5.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest5.xctest.i.ripple.com:443
+[self-signed-ssl] [ssl] [low] entry-fee.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] fix-activity-mobile.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] fix-activity-page-size.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] fix-deps-in-workflow.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] fix-pipeline.dev.liquorice.tech:443
