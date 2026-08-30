@@ -1,0 +1,45 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana-natm8pbsouynhqer.smartx.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] front.xhunt.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana-natm8pbsouynhqer.smartx.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] front.xhunt.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] harbor.xhunt.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] harbor.xhunt.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] home.entravel.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] home.entravel.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] internal-api.entravel.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] internal-api.entravel.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] kb.xhunt.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] kibana.entravel.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] kb.xhunt.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] kol-staging3421.xhunt.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] kibana.entravel.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] kol.xhunt.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] kol-staging3421.xhunt.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] kol.xhunt.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] leaderboard.xhunt.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] leaderboard.xhunt.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] magne.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] magne.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[framer-takeover] [http] [high] https://go.catapult.trade ["sites.framer.app"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana-natm8pbsouynhqer.smartx.io/metrics ["12.0.2"]
+[kubernetes-metrics] [http] [low] https://grafana-natm8pbsouynhqer.smartx.io/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana-natm8pbsouynhqer.smartx.io/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.liquorice.tech/metrics ["12.3.1"]
+[kubernetes-metrics] [http] [low] https://grafana.liquorice.tech/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.liquorice.tech/metrics
+[self-signed-ssl] [ssl] [low] footer.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] graph.dev.liquorice.tech:443
+[kubernetes-fake-certificate] [ssl] [low] james01.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] james01.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] jessieistired.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] jessieistired.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] kube-dashboard.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] kube-dashboard.xctest.i.ripple.com:443
+[self-signed-ssl] [ssl] [low] landing.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] layouts.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] libs-update.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] light-theme.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] liq-1014-deploy-main-to-staging.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] liq-1048-scheduled-vuln-checks.dev.liquorice.tech:443
+[kubernetes-fake-certificate] [ssl] [low] mail.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mail.xctest.i.ripple.com:443
