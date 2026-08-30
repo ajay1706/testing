@@ -1,0 +1,7 @@
+https://mindshare.catapult.trade [301] [https://catapult.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.252] [cloudflare] [309.611323ms] [Cloudflare,HTTP/3]
+https://www.catapult.trade [301] [https://catapult.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.43.4] [cloudflare] [156.52322ms] [Cloudflare,HTTP/3]
+http://blog.beldex.io [301] [https://blog.beldex.io/] [520] [301 Moved Permanently] [cloudflare] [172.66.156.242] [cloudflare] [52.642538ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://bern.beldex.io [301] [https://bern.beldex.io/] [520] [301 Moved Permanently] [cloudflare] [172.66.156.242] [cloudflare] [54.896315ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://lwsapi.beldex.io [301] [https://lwsapi.beldex.io/] [520] [301 Moved Permanently] [cloudflare] [104.20.20.55] [cloudflare] [49.721682ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://t.catapult.trade [301] [https://t.catapult.trade/] [520] [301 Moved Permanently] [cloudflare] [172.66.40.252] [cloudflare] [52.135497ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://track.catapult.trade [301] [https://track.catapult.trade/] [520] [301 Moved Permanently] [cloudflare] [172.66.40.252] [cloudflare] [57.492756ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
