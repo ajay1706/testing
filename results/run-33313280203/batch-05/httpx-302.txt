@@ -1,0 +1,2 @@
+https://autodiscover.magne.ai [302] [/interface/root] [0] [nginx/1.22.1] [162.244.93.81] [336.912966ms] [Nginx:1.22.1]
+https://mail.magne.ai [302] [/interface/root] [0] [nginx/1.22.1] [162.244.93.81] [428.300537ms] [Nginx:1.22.1]
