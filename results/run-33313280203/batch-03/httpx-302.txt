@@ -1,0 +1,3 @@
+https://hermes.facto.to [302] [/login?next=%2F] [0] [nginx/1.24.0 (Ubuntu)] [69.10.38.82] [80.493537ms] [Nginx:1.24.0,Ubuntu]
+https://lab-meridian.facto.to [302] [/meridian/login?next=%2Fmeridian%2Fapp] [0] [] [100.30.74.98] [136.876914ms]
+https://dev-meridian.facto.to [302] [/meridian/login?next=%2Fmeridian%2Fapp] [0] [] [44.212.212.148] [260.722621ms]
