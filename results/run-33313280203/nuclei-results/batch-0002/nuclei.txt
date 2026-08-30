@@ -1,0 +1,82 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] data-staging.ripple.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] data-staging.ripple.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dd.magne.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dd.magne.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] de1.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] de1.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] deb.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] deb.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] depatriate.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] depatriate.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.xhunt.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.caspian-api.ingestion.ripple.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.xhunt.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.caspian-api.ingestion.ripple.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dex.chomp.meme:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dex.chomp.meme:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.entravel.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.entravel.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.neosoul.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.neosoul.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] download.ripple.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] download.ripple.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[web-config] [http] [low] https://dev.cptlb.com/web.config
+[git-config] [http] [medium] https://dd.magne.ai/.git/config
+[wp-user-enum:usernames] [http] [low] https://dev.cptlb.com/wp-json/wp/v2/users/ ["valentin","Valentin Kosanovic","jpcs","lrigaud","paul-emile","tbg_admin","Christophe","Jean-Philippe CASADEPAX-SOULET","Lionel Rigaud","Paul-Emile LATOUR","christophe","tdalverny"]
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://dex.chomp.meme
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://dex.chomp.meme
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://dex.chomp.meme
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.entropy.xyz
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.entropy.xyz
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.entropy.xyz
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.liquidity.ripple.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.liquidity.ripple.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.liquidity.ripple.com
+[expired-ssl] [ssl] [low] data-staging.ripple.com:443 ["2024-09-11 23:59:59 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] deemoney.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] deemoney.xctest.i.ripple.com:443
+[self-signed-ssl] [ssl] [low] dapp.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] connect.dev.liquorice.tech:443
+[kubernetes-fake-certificate] [ssl] [low] dev01.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev01.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev04.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev04.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev06.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev06.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev07.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev07.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev08.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev08.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev09.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev09.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev10.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev10.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev11.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev11.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev13.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev13.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev12.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev12.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev15.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] design-review.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] dev15.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev16.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev16.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev22.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev22.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev20.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev20.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev23.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev23.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev17.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev17.xctest.i.ripple.com:443
+[self-signed-ssl] [ssl] [low] dev.dev.liquorice.tech:443
+[kubernetes-fake-certificate] [ssl] [low] elbreceivingdemo.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbreceivingdemo.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbsendingdemo.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbsendingdemo.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest10.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest10.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] elbtest101.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] elbtest101.xctest.i.ripple.com:443
+[self-signed-ssl] [ssl] [low] discord-url.dev.liquorice.tech:443
