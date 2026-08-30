@@ -1,0 +1,62 @@
+[CVE-2025-29927] [http] [critical] https://trends.xhunt.ai
+[CVE-2025-55184] [http] [high] https://web3.magne.ai
+[weak-cipher-suites:tls-1.0] [ssl] [low] trends.xhunt.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] trending-history.xhunt.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] trending-history.xhunt.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] trends.xhunt.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ubri.ripple.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ubri.ripple.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] w3.magne.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] w3.magne.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wallet.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wdllocker.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wallet.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wdllocker.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ws.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ws.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.catapult.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.catapult.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.chomp.meme:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.chomp.meme:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.entravel.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.entravel.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.magne.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.magne.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.neosoul.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.neosoul.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.xhunt.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.xhunt.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[package-json] [http] [low] https://w3.magne.ai/package.json
+[package-json] [http] [low] https://w3.magne.ai/package-lock.json
+[package-json] [http] [low] https://www.magne.ai/package.json
+[git-config] [http] [medium] https://w3.magne.ai/.git/config
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://www.entropy.xyz
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://www.entropy.xyz
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://www.entropy.xyz
+[kubernetes-fake-certificate] [ssl] [low] trial08.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial08.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial10.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial10.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial02.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial02.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial12.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial12.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial03.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial03.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial04.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial04.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial05.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial05.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial11.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial11.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial20.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial20.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] wildcard.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wildcard.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] www.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] www.xctest.i.ripple.com:443
+[self-signed-ssl] [ssl] [low] www.landing.dev.liquorice.tech:443
+[kubernetes-fake-certificate] [ssl] [low] xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] xctest.i.ripple.com:443
