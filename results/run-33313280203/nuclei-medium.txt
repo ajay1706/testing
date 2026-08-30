@@ -1,0 +1,4 @@
+[CVE-2023-48795] [javascript] [medium] stun.call2.beldex.io:22 ["Vulnerable to Terrapin"]
+[CVE-2026-50229] [http] [medium] https://eset.entravel.com/examples/jsp/num/numguess.jsp?guess=5&hint=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[git-config] [http] [medium] https://dd.magne.ai/.git/config
+[git-config] [http] [medium] https://w3.magne.ai/.git/config

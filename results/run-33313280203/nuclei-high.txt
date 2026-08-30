@@ -1,0 +1,2 @@
+[CVE-2025-55184] [http] [high] https://web3.magne.ai
+[framer-takeover] [http] [high] https://go.catapult.trade ["sites.framer.app"]
