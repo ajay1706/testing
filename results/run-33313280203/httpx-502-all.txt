@@ -1,0 +1,8 @@
+https://aiagent.fintax.tech [200] [] [502] [FinTax AI AGENT] [nginx/1.20.1] [13.228.59.103] [700.621619ms] [Nginx:1.20.1]
+https://kyber.demo.liquorice.tech [502] [] [11] [] [3.123.24.63] [1.443213478s]
+https://kyber.staging.liquorice.tech [502] [] [11] [] [3.123.24.63] [318.25294ms]
+https://okx.demo.liquorice.tech [502] [] [11] [] [3.123.24.63] [2.438014373s]
+https://old.dev.liquorice.tech [502] [] [11] [] [3.123.24.63] [3.453458761s]
+https://test-web3-cms.magne.ai [502] [] [552] [502 Bad Gateway] [nginx] [167.179.80.178] [491.313007ms] [Nginx]
+https://test-web3.magne.ai [502] [] [16] [cloudflare] [172.67.169.46] [cloudflare] [536.736582ms] [Cloudflare,HTTP/3]
+https://www.app.demo.liquorice.tech [502] [] [11] [] [3.123.24.63] [4.529946174s]
