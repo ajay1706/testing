@@ -1,0 +1,1 @@
+[CVE-2023-48795] [javascript] [medium] stun.call2.beldex.io:22 ["Vulnerable to Terrapin"]
