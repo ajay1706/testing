@@ -1,0 +1,6 @@
+https://www.apiv1.smartx.io [404] [] [18] [nginx/1.24.0 (Ubuntu)] [8.216.46.60] [562.988847ms] [Nginx:1.24.0,Ubuntu]
+https://static.smartx.io [404] [] [28088] [Not Found] [cloudflare] [172.67.176.240] [cloudflare] [365.808255ms] [Cloudflare,HTTP/3]
+https://apiv1.smartx.io [404] [] [18] [nginx/1.24.0 (Ubuntu)] [8.216.46.60] [698.772946ms] [Nginx:1.24.0,Ubuntu]
+https://assets.smartx.io [404] [] [28088] [Not Found] [cloudflare] [172.67.176.240] [cloudflare] [557.24273ms] [Cloudflare,HTTP/3]
+https://apiv2.smartx.io [404] [] [18] [nginx/1.24.0 (Ubuntu)] [47.236.174.218] [750.677763ms] [Nginx:1.24.0,Ubuntu]
+https://www.apiv2.smartx.io [404] [] [18] [nginx/1.24.0 (Ubuntu)] [47.236.174.218] [864.768131ms] [Nginx:1.24.0,Ubuntu]
