@@ -1,0 +1,7 @@
+https://clicks.yellowcard.io [404] [] [1088] [404 Not Found] [cloudflare] [104.18.5.247] [cloudflare] [385.484894ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://deck.yellowcard.io [404] [] [2595] [Pitch 一 Collaborative presentation software for modern teams.] [] [54.155.99.178] [547.983982ms] [HTTP/3]
+https://sso-sandbox.portal.yellowcard.io [404] [] [0] [awselb/2.0] [3.167.138.86] [cloudfront] [300.968402ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://api.xhunt.ai [404] [] [103] [cloudflare] [104.21.0.186] [cloudflare] [800.679245ms] [Cloudflare,HTTP/3]
+https://kb.xhunt.ai [404] [] [59] [cloudflare] [172.67.128.50] [cloudflare] [800.587972ms] [Cloudflare,HSTS,HTTP/3]
+https://sso.portal.yellowcard.io [404] [] [0] [awselb/2.0] [3.170.152.4] [cloudfront] [402.60279ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://url4894.yellowcard.io [404] [] [1084] [404 Not Found] [cloudflare] [104.18.4.247] [cloudflare] [234.236147ms] [Cloudflare,Cloudflare Bot Management,HSTS]

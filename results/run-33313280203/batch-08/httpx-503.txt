@@ -1,0 +1,2 @@
+https://front.xhunt.ai [503] [] [20] [cloudflare] [104.21.0.186] [cloudflare] [990.988001ms] [Cloudflare,HTTP/3]
+https://leaderboard.xhunt.ai [503] [] [20] [cloudflare] [104.21.0.186] [cloudflare] [1.036894765s] [Cloudflare,HTTP/3]
