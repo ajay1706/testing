@@ -1,0 +1,14 @@
+[+] Batch started: Sat Sep 12 16:12:13 UTC 2026
+[+] Run ID: 34704423378
+[+] Batch name: batch-00
+[+] Batch targets:
+4dlabs.ai
+agentum.space
+antarctic.exchange
+[+] Running subfinder...
+[+] Subfinder completed: Sat Sep 12 16:14:43 UTC 2026
+[+] HTTPX input count: 10
+[+] Running httpx...
+[+] httpx completed: Sat Sep 12 16:14:45 UTC 2026
+[+] httpx line count: 9
+[+] Batch completed: Sat Sep 12 16:14:45 UTC 2026
