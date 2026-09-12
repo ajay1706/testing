@@ -1,0 +1,5 @@
+https://felixpago.com [301] [https://www.felixpago.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [101.409644ms] [Cloudflare,HTTP/3]
+http://hola.felixpago.com [301] [https://hola.felixpago.com/] [0] [] [34.149.87.45] [google] [41.083244ms] [Google Cloud,Google Cloud CDN,React,Wix]
+https://www.fasset.com [301] [https://fasset.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.10.67] [cloudflare] [172.42525ms] [Cloudflare,HSTS,HTTP/3]
+http://fs-bucket2.fasset.com [301] [https://fs-bucket2.fasset.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.11.67] [cloudflare] [39.445807ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://iownfiles.fasset.com [301] [https://iownfiles.fasset.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.10.67] [cloudflare] [35.610958ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]

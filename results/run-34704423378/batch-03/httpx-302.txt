@@ -1,0 +1,2 @@
+https://deployment-watcher.fasset.com [302] [/login] [560] [Redirecting...] [cloudflare] [104.18.11.67] [cloudflare] [974.118366ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://test.pay.felixpago.com [302] [https://felixpago.com/] [0] [Google Frontend] [34.54.202.195] [google] [5.505121458s] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
