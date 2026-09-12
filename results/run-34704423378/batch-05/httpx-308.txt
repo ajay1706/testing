@@ -1,0 +1,2 @@
+https://www.parlayx.com [308] [https://parlayx.com/] [56] [cloudflare] [104.21.80.96] [cloudflare] [291.349007ms] [Cloudflare,HSTS,HTTP/3]
+https://docs.parlayx.com [308] [/welcome] [100293] [cloudflare] [162.159.143.13] [cloudflare] [544.463528ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
