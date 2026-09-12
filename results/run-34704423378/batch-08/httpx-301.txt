@@ -1,0 +1,4 @@
+https://docs.tazapay.com [301] [https://developer.tazapay.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.161.239] [cloudflare] [136.302109ms] [Cloudflare]
+https://marketing.tazapay.com [301] [https://tazapay.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [416.924702ms] [Cloudflare,HSTS,HTTP/3]
+https://www.tazapay.com [301] [https://tazapay.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.42.201] [cloudflare] [90.987441ms] [Cloudflare]
+https://www.tina.im [301] [https://tina.im/] [0] [CloudFront] [52.85.129.118] [cloudfront] [3.2015656s] [Amazon CloudFront,Amazon Web Services]

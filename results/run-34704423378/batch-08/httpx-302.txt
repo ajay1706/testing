@@ -1,0 +1,5 @@
+https://careers.tazapay.com [302] [https://careers.tazapay.com/careers] [0] [ZGS] [169.148.148.126] [826.674251ms] [HSTS,Java]
+https://hr.tazapay.com [302] [https://hr.tazapay.com/jsp/iamlogin.jsp] [0] [ZGS] [169.148.148.76] [838.310714ms] [HSTS]
+https://planetsvpn.tazapay.com [302] [/login] [29] [] [18.138.8.211] [566.73342ms] [Amazon ALB,Amazon Web Services]
+https://vpn.tazapay.com [302] [/login] [29] [] [54.251.55.253] [626.674653ms]
+https://relay.tazapay.com [302] [https://www.fullstory.com] [48] [] [18.172.170.43] [cloudfront] [856.679422ms] [Amazon CloudFront,Amazon Web Services]

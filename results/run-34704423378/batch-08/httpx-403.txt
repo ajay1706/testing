@@ -1,0 +1,7 @@
+https://api.tazapay.com [403] [] [23] [] [108.138.94.113] [cloudfront] [724.369457ms] [Amazon CloudFront,Amazon Web Services]
+https://pioneer-admin.tina.im [403] [] [9] [Caddy] [54.116.96.193] [688.584925ms] [Caddy,HTTP/3]
+https://js.tazapay.com [403] [] [111] [AmazonS3] [18.161.6.49] [cloudfront] [1.151838293s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://js-sandbox.tazapay.com [403] [] [111] [AmazonS3] [18.172.170.99] [cloudfront] [1.177646167s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://service-sandbox.tazapay.com [403] [] [23] [] [18.142.191.188] [629.300133ms]
+https://service.tazapay.com [403] [] [23] [] [3.169.173.83] [cloudfront] [648.335482ms] [Amazon CloudFront,Amazon Web Services]
+https://pay.tazapay.com [403] [] [111] [AmazonS3] [3.163.189.119] [cloudfront] [1.239922121s] [Amazon CloudFront,Amazon S3,Amazon Web Services]

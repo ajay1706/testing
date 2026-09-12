@@ -1,0 +1,5 @@
+https://dev-pioneer-api.tina.im [404] [] [49] [] [54.116.96.193] [718.607149ms] [HSTS,HTTP/3]
+https://pioneer-api.tina.im [404] [] [49] [] [18.161.6.118] [cloudfront] [588.652207ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://tina-gacha-api.tina.im [404] [] [85] [] [52.78.157.235] [539.463398ms] [HTTP/3]
+https://prstats.tazapay.com [404] [] [0] [envoy] [13.215.117.35] [775.619649ms] [Envoy]
+https://sandbox.tazapay.com [404] [] [325] [AmazonS3] [108.138.94.82] [cloudfront] [813.007816ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
