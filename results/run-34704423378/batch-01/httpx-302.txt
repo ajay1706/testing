@@ -1,0 +1,8 @@
+https://auth.sales.cari.com [302] [https://sales.cari.com/] [45] [cloudflare] [104.18.43.182] [cloudflare] [174.416139ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.uat.cari.com [302] [https://uat.cari.com/] [43] [cloudflare] [104.18.43.182] [cloudflare] [185.425232ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.cari.com [302] [https://cari.com/] [39] [cloudflare] [104.18.43.182] [cloudflare] [189.374471ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.sandbox.cari.com [302] [https://sandbox.cari.com/] [47] [cloudflare] [172.64.144.74] [cloudflare] [205.709739ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.dev.cari.com [302] [https://dev.cari.com/] [43] [cloudflare] [104.18.43.182] [cloudflare] [296.840193ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.qa.cari.com [302] [https://qa.cari.com/] [42] [cloudflare] [104.18.43.182] [cloudflare] [323.0631ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://docs.qa.cari.com [302] [https://cub.qa.cari.com/?redirect=%2F] [59] [cloudflare] [104.16.242.118] [cloudflare] [2.135015136s] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://docs.sales.cari.com [302] [https://cub.qa.cari.com/?redirect=%2F] [59] [cloudflare] [104.16.242.118] [cloudflare] [2.146695764s] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]

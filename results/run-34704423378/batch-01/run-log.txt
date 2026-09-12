@@ -1,0 +1,14 @@
+[+] Batch started: Sat Sep 12 16:12:15 UTC 2026
+[+] Run ID: 34704423378
+[+] Batch name: batch-01
+[+] Batch targets:
+beldex.io
+bilinearlabs.io
+cari.com
+[+] Running subfinder...
+[+] Subfinder completed: Sat Sep 12 16:15:17 UTC 2026
+[+] HTTPX input count: 529
+[+] Running httpx...
+[+] httpx completed: Sat Sep 12 16:17:37 UTC 2026
+[+] httpx line count: 56
+[+] Batch completed: Sat Sep 12 16:17:37 UTC 2026

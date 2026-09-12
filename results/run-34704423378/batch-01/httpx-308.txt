@@ -1,0 +1,2 @@
+https://cari.com [308] [https://www.cari.com/] [57] [Framer/bea9510] [31.43.160.6] [94.421503ms] [Framer Sites,HSTS,HTTP/3,React]
+http://demo.cari.com [308] [https://demo.cari.com/] [14] [Vercel] [216.150.16.193] [113.309634ms] [Vercel]
