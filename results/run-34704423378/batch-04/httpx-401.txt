@@ -1,0 +1,6 @@
+https://rest.nodes.kraken.com [401] [] [65] [cloudflare] [104.17.187.205] [cloudflare] [71.081062ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://rest.nodes.uat.kraken.com [401] [] [65] [cloudflare] [104.18.40.9] [cloudflare] [93.364759ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://rpc.nodes.kraken.com [401] [] [65] [cloudflare] [104.17.188.205] [cloudflare] [1.039335594s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://rpc.nodes.uat.kraken.com [401] [] [65] [cloudflare] [104.18.40.9] [cloudflare] [1.069643226s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ws.nodes.uat.kraken.com [401] [] [65] [cloudflare] [172.64.147.247] [cloudflare] [69.141547ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ws.nodes.kraken.com [401] [] [65] [cloudflare] [104.17.188.205] [cloudflare] [1.087009285s] [Cloudflare,Cloudflare Bot Management,HSTS]
