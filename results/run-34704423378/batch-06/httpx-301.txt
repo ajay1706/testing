@@ -1,0 +1,6 @@
+https://docs.perpetuals.polymarket.com [301] [https://docs.polymarket.com/perps] [167] [301 Moved Permanently] [cloudflare] [104.18.34.205] [cloudflare] [27.581647ms] [Cloudflare,HSTS]
+https://gamma-api.polymarket.com [301] [/docs] [40] [cloudflare] [172.64.153.51] [cloudflare] [137.986101ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://gamma-cache.polymarket.com [301] [/docs] [40] [cloudflare] [104.18.34.205] [cloudflare] [156.895825ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://learn.polymarket.com [301] [https://docs.polymarket.com/polymarket-learn] [167] [301 Moved Permanently] [cloudflare] [172.64.153.51] [cloudflare] [160.223819ms] [Cloudflare,HSTS]
+https://legacy-docs.polymarket.com [301] [https://learn.polymarket.com] [528] [301 Moved Permanently] [cloudflare] [172.64.153.51] [cloudflare] [160.197781ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://status-clob.polymarket.com [301] [https://status.polymarket.com/] [167] [301 Moved Permanently] [cloudflare] [172.64.153.51] [cloudflare] [384.737314ms] [Cloudflare,HSTS]
