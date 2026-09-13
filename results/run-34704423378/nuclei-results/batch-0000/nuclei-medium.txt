@@ -1,0 +1,1 @@
+[claude-settings-exposure] [http] [medium] https://007.trmlabs.com/.claude/settings.local.json
