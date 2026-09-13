@@ -1,0 +1,2 @@
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://pro.kraken.com/config.json [""url": "https://www.googletagmanager.com/gtag/js?id=G-8XGH4PGY4S""] [path="/config.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://pro.kraken.com/config.json ["https://iapi.kraken.com/api","https://api-prime-md.kraken.com/api","https://www.kraken.com/api"] [path="/config.json"]
