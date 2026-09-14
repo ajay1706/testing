@@ -1,0 +1,47 @@
+# HTTPX Status Report
+
+Generated at: Mon Sep 14 08:01:49 UTC 2026
+
+HTTPX lines: 19
+Live URLs: 19
+
+## 200
+https://www.jpyc.jp [200] [] [3113] [JPYC | エンをつなげる日本円ステーブルコイン] [UploadServer] [35.190.2.115] [google] [396.721129ms] [Google Analytics,Google Cloud,Google Cloud Storage,Google Tag Manager,HTTP/3,React]
+https://jpyc.jp [200] [] [3113] [JPYC | エンをつなげる日本円ステーブルコイン] [UploadServer] [35.190.2.115] [google] [397.374095ms] [Google Analytics,Google Cloud,Google Cloud Storage,Google Tag Manager,HTTP/3,React]
+https://app.jpyc.jp [200] [] [31956] [JPYC Apps] [Google Frontend] [34.111.128.53] [google] [677.838755ms] [C3.js,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://docs.investifi.com [200] [] [85737] [Introduction] [Vercel] [216.150.1.193] [583.155023ms] [HSTS,Vercel]
+https://status.investifi.com [200] [] [478483] [InvestiFi Status] [cloudflare] [104.21.29.232] [cloudflare] [200.21435ms] [Cloudflare,HTTP/3]
+https://investifi.com [200] [] [277897] [InvestiFi] [cloudflare] [172.67.149.246] [cloudflare] [2.169648285s] [Cloudflare,Elementor:4.2.0,Font Awesome,Google Analytics,Google Tag Manager,HSTS,HTTP/3,MySQL,PHP:8.3.33,Swiper,WordPress:7.0.2,jQuery,jQuery Migrate:3.4.1]
+
+## 301
+https://blog.jpyc.jp [301] [https://jpyc-support.freshdesk.com/support/home] [0] [CloudFront] [3.167.183.92] [cloudfront] [133.83046ms] [Amazon CloudFront,Amazon Web Services]
+https://metrics.investifi.com [301] [https://metrics.investifi.com/index.html] [0] [] [34.57.83.26] [google] [215.445617ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://docs.jpyc.jp [301] [https://jpyc-support.freshdesk.com/support/home/] [0] [AmazonS3] [3.168.40.79] [cloudfront] [544.862713ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.investifi.com [301] [https://investifi.com/] [0] [cloudflare] [104.21.29.232] [cloudflare] [2.145187085s] [Cloudflare,HSTS,HTTP/3,PHP:8.3.33]
+
+## 302
+https://www.fortuneprotocol.com [302] [https://domains.atom.com/lpd/name/www.fortuneprotocol.com] [142] [302 Found] [openresty] [52.20.84.62] [180.957049ms] [Nginx,OpenResty]
+https://fortuneprotocol.com [302] [https://domains.atom.com/lpd/name/fortuneprotocol.com] [142] [302 Found] [openresty] [52.20.84.62] [196.782327ms] [Nginx,OpenResty]
+https://go.investifi.com [302] [https://investifi.co/] [0] [] [3.92.120.28] [256.479513ms] [Salesforce Marketing Cloud Account Engagement]
+
+## 307
+
+## 308
+https://faucet.jpyc.jp [308] [https://faucet.jpyc.co.jp/] [0] [Google Frontend] [142.251.210.243] [google] [1.076035199s] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+
+## 401
+
+## 403
+https://partner-api.investifi.com [403] [] [42] [] [52.3.40.96] [180.773342ms]
+https://trust.investifi.com [403] [] [5857] [Just a moment...] [cloudflare] [104.21.29.232] [cloudflare] [185.821129ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+
+## 404
+https://stg-app.jpyc.jp [404] [] [21265] [Site Not Found] [] [151.101.65.195] [fastly] [62.929088ms] [Firebase,HSTS,HTTP/3]
+https://merchant.jpyc.jp [404] [] [7793] [Page not found] [Google Frontend] [34.111.141.225] [google] [150.050848ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js,Nuxt.js,Vue.js]
+
+## 500
+
+## 502
+
+## 503
+

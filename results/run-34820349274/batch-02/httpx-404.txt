@@ -1,0 +1,2 @@
+https://stg-app.jpyc.jp [404] [] [21265] [Site Not Found] [] [151.101.65.195] [fastly] [62.929088ms] [Firebase,HSTS,HTTP/3]
+https://merchant.jpyc.jp [404] [] [7793] [Page not found] [Google Frontend] [34.111.141.225] [google] [150.050848ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js,Nuxt.js,Vue.js]

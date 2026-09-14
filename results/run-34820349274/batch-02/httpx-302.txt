@@ -1,0 +1,3 @@
+https://www.fortuneprotocol.com [302] [https://domains.atom.com/lpd/name/www.fortuneprotocol.com] [142] [302 Found] [openresty] [52.20.84.62] [180.957049ms] [Nginx,OpenResty]
+https://fortuneprotocol.com [302] [https://domains.atom.com/lpd/name/fortuneprotocol.com] [142] [302 Found] [openresty] [52.20.84.62] [196.782327ms] [Nginx,OpenResty]
+https://go.investifi.com [302] [https://investifi.co/] [0] [] [3.92.120.28] [256.479513ms] [Salesforce Marketing Cloud Account Engagement]
