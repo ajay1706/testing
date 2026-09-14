@@ -1,0 +1,6 @@
+https://cryptohub.mercadobitcoin.com.br [403] [] [17] [cloudflare] [199.60.103.225] [260.093123ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://info.mercadobitcoin.com.br [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.67.76.70] [cloudfront] [57.36396ms] [Amazon CloudFront,Amazon Web Services]
+https://registro.mercadobitcoin.com.br [403] [] [243] [cloudflare] [104.17.24.105] [cloudflare] [259.082714ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://conteudo.mercadobitcoin.com.br [403] [] [17] [cloudflare] [104.17.24.105] [cloudflare] [350.948412ms] [Cloudflare]
+https://static.mercadobitcoin.com.br [403] [] [111] [cloudflare] [104.17.24.105] [cloudflare] [309.348789ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://talenthub.mercadobitcoin.com.br [403] [] [1594] [403 Forbidden] [cloudflare] [104.17.25.105] [cloudflare] [454.716619ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
