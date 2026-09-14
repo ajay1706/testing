@@ -1,0 +1,2 @@
+[CVE-2024-49757] [http] [high] https://netbird.fasset.com/ui/login/register
+[framer-takeover] [http] [high] https://hiddenwealth.polymarket.com ["sites.framer.app"]
