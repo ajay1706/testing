@@ -1,0 +1,4 @@
+https://auth.clearing.edxmarkets.com [302] [https://clearing.edxmarkets.com/] [54] [cloudflare] [104.18.43.182] [cloudflare] [113.361147ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.uat.edxmarkets.com [302] [https://uat.edxmarkets.com/] [49] [cloudflare] [104.18.43.182] [cloudflare] [195.293619ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.prod.edxmarkets.com [302] [https://prod.edxmarkets.com/] [50] [cloudflare] [172.64.144.74] [cloudflare] [214.91112ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+http://cyclops.xyz [302] [http://www.cyclops.xyz/] [46] [namecheap-nginx] [162.255.119.105] [81.903522ms] [Nginx]
