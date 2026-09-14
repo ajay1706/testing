@@ -1,0 +1,4 @@
+https://ainote-dev.birdai.com [502] [] [16] [cloudflare] [104.21.48.149] [cloudflare] [597.637513ms] [Cloudflare,HTTP/3]
+https://ainote-server-dev.birdai.com [502] [] [16] [cloudflare] [104.21.48.149] [cloudflare] [597.86153ms] [Cloudflare,HTTP/3]
+https://simsimbox.birdai.com [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [202.83.16.121] [715.697709ms] [Nginx:1.18.0,Ubuntu]
+https://ubs-media-converter-dev.birdai.com [502] [] [16] [cloudflare] [104.21.48.149] [cloudflare] [559.065975ms] [Cloudflare,HTTP/3]
