@@ -1,0 +1,29 @@
+[CVE-2023-48795] [javascript] [medium] turn.call2.beldex.io:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] turn.call3.beldex.io:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] turn.test.beldex.io:22 ["Vulnerable to Terrapin"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] user-pnl-api.polymarket.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] user-pnl-api.polymarket.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wdllocker.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wdllocker.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://userresearch.kraken.com ["AIzaSyBXJ1nQx2ijeHTz6-uemJk_6X7K2K3I3AU"]
+[google-api-key] [http] [low] https://userresearch.kraken.com/hopfully404 ["AIzaSyBXJ1nQx2ijeHTz6-uemJk_6X7K2K3I3AU"]
+[shell-history] [http] [low] https://whitepaper.cari.com/.bash_history
+[shell-history] [http] [low] https://whitepaper.cari.com/.ksh_history
+[shell-history] [http] [low] https://whitepaper.cari.com/.sh_history
+[shell-history] [http] [low] https://whitepaper.cari.com/.zsh_history
+[kubernetes-fake-certificate] [ssl] [low] trial03.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial03.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial04.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial04.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial02.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial02.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial20.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial20.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial05.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial05.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial12.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial12.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] trial11.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] trial11.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] wildcard.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wildcard.xctest.i.ripple.com:443
