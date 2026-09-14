@@ -1,0 +1,12 @@
+[+] Batch started: Mon Sep 14 08:03:18 UTC 2026
+[+] Run ID: 34820349274
+[+] Batch name: batch-05
+[+] Batch targets:
+zerodelta.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Mon Sep 14 08:03:52 UTC 2026
+[+] HTTPX input count: 3
+[+] Running httpx...
+[+] httpx completed: Mon Sep 14 08:03:53 UTC 2026
+[+] httpx line count: 2
+[+] Batch completed: Mon Sep 14 08:03:53 UTC 2026
