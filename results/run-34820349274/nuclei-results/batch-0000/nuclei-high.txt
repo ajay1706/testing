@@ -1,0 +1,2 @@
+[erpnext-default-login] [http] [high] https://erp-next.birdai.com [password="admin",username="Administrator"]
+[frappe-default-login:full_name] [http] [high] https://erp-next.birdai.com/api/method/login ["Administrator"]
