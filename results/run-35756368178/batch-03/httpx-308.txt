@@ -1,0 +1,5 @@
+https://crossmint.com [308] [https://www.crossmint.com/] [1107] [308 Permanent Redirect] [cloudflare] [172.66.40.137] [cloudflare] [113.415031ms] [Cloudflare,HSTS,HTTP/3]
+https://demo.crossmint.com [308] [https://staging.crossmint.com/collections/demo/drop] [1107] [308 Permanent Redirect] [cloudflare] [172.66.40.137] [cloudflare] [155.084811ms] [Cloudflare,HSTS,HTTP/3]
+http://mail.crossmint.com [308] [https://mail.crossmint.com/] [14] [Vercel] [76.76.21.61] [1.454298884s] [Vercel]
+https://playground.crossmint.com [308] [https://www.crossmint.com/quickstarts] [15] [Vercel] [76.76.21.93] [3.319486119s] [HSTS,Vercel]
+http://pay.crossmint.com [308] [https://pay.crossmint.com/] [14] [Vercel] [76.76.21.142] [5.428151868s] [Vercel]
