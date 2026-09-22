@@ -1,0 +1,4 @@
+https://api.prod.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [35.71.137.239] [675.382868ms] [Amazon ELB,Amazon Web Services]
+https://mta-sts.paradex.trade [403] [] [263] [AmazonS3] [3.167.56.22] [cloudfront] [562.982003ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://api.nightly.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [99.83.235.5] [768.218316ms] [Amazon ELB,Amazon Web Services]
+https://api.testnet.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [13.248.175.188] [788.867932ms] [Amazon ELB,Amazon Web Services]

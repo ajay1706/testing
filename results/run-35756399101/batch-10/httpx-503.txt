@@ -1,0 +1,2 @@
+https://juno.api.testnet.paradex.trade [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [57.180.205.160] [706.958773ms] [Amazon ELB,Amazon Web Services]
+https://pathfinder.api.testnet.paradex.trade [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [13.192.31.87] [755.727118ms] [Amazon ELB,Amazon Web Services]

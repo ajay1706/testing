@@ -1,0 +1,14 @@
+[+] Batch started: Tue Sep 22 16:57:54 UTC 2026
+[+] Run ID: 35756399101
+[+] Batch name: batch-10
+[+] Batch targets:
+paradex.trade
+perpetualprotocol.com
+plume.org
+[+] Running subfinder...
+[+] Subfinder completed: Tue Sep 22 17:01:35 UTC 2026
+[+] HTTPX input count: 113
+[+] Running httpx...
+[+] httpx completed: Tue Sep 22 17:01:56 UTC 2026
+[+] httpx line count: 84
+[+] Batch completed: Tue Sep 22 17:01:56 UTC 2026
