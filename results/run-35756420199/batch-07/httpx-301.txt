@@ -1,0 +1,4 @@
+https://community.frax.finance [301] [https://frax.finance] [167] [301 Moved Permanently] [cloudflare] [172.66.147.89] [cloudflare] [75.312805ms] [Cloudflare,HSTS,HTTP/3]
+https://frax.finance [301] [https://frax.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.34.217] [cloudflare] [112.796908ms] [Cloudflare,HSTS,HTTP/3]
+https://www.frax.finance [301] [https://frax.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.147.89] [cloudflare] [167.568979ms] [Cloudflare,HSTS,HTTP/3]
+http://k2swap.karak.network [301] [https://k2swap.karak.network/] [44] [Netlify] [52.52.192.191] [62.034606ms] [Netlify]
