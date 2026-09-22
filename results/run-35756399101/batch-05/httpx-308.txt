@@ -1,0 +1,8 @@
+https://galileo-api.jup.ag [308] [https://api.galileo.jup.ag/] [169] [308 Permanent Redirect] [cloudflare] [172.64.144.197] [cloudflare] [137.474228ms] [Cloudflare,HTTP/3]
+https://go.jito.network [308] [https://www.jito.network/] [15] [Vercel] [66.33.60.67] [148.083829ms] [HSTS,Vercel]
+https://jito.network [308] [https://www.jito.network/] [15] [cloudflare] [172.66.158.221] [cloudflare] [322.467759ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+http://static-preview.jup.ag [308] [https://static-preview.jup.ag/] [14] [cloudflare] [172.64.144.197] [cloudflare] [2.121359681s] [Cloudflare,HTTP/3]
+http://support.jup.ag [308] [https://support.jup.ag/] [14] [cloudflare] [104.18.43.59] [cloudflare] [2.048993181s] [Cloudflare,HTTP/3]
+http://t0.jup.ag [308] [https://t0.jup.ag/] [14] [cloudflare] [172.64.144.197] [cloudflare] [3.43452874s] [Cloudflare,HTTP/3]
+http://v2.jup.ag [308] [https://v2.jup.ag/] [14] [cloudflare] [104.18.43.59] [cloudflare] [3.528040908s] [Cloudflare,HTTP/3]
+http://yabai-launch.jup.ag [308] [https://yabai-launch.jup.ag/] [14] [cloudflare] [172.64.144.197] [cloudflare] [1.482700732s] [Cloudflare,HTTP/3]
