@@ -1,0 +1,3 @@
+https://blog.redstone.finance [301] [https://www.redstone.finance/blog] [0] [nginx] [192.0.78.209] [180.745679ms] [HSTS,Nginx,WordPress,WordPress.com]
+https://www.blog.redstone.finance [301] [https://blog.redstone.finance/] [162] [301 Moved Permanently] [nginx] [192.0.78.209] [3.042401037s] [HSTS,Nginx]
+http://web-api.pyth.network [301] [https://web-api.pyth.network/] [528] [301 Moved Permanently] [cloudflare] [172.66.151.6] [cloudflare] [3.048397685s] [Cloudflare,Cloudflare Browser Insights]
