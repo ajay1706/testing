@@ -1,0 +1,2 @@
+https://beta.drift.trade [308] [https://beta.velocity.exchange/] [15] [Vercel] [216.150.1.1] [117.261277ms] [HSTS,Vercel]
+https://app.drift.trade [308] [https://app.velocity.exchange/] [15] [Vercel] [216.150.1.129] [135.114556ms] [HSTS,Vercel]
