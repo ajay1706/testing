@@ -1,0 +1,4 @@
+https://earn-api-mainnet.polynomial.fi [503] [] [19] [cloudflare] [172.66.40.68] [cloudflare] [267.186788ms] [Cloudflare,HTTP/3]
+https://earn-api.polynomial.fi [503] [] [19] [cloudflare] [172.66.40.68] [cloudflare] [235.281255ms] [Cloudflare,HTTP/3]
+https://earn-v1.polynomial.fi [503] [] [19] [cloudflare] [172.66.43.188] [cloudflare] [234.429248ms] [Cloudflare,HTTP/3]
+https://uforia.polynomial.fi [503] [] [27] [cloudflare] [172.66.43.188] [cloudflare] [641.944717ms] [Cloudflare,Google Cloud,Google Cloud CDN,HTTP/3]
