@@ -1,0 +1,14 @@
+[+] Batch started: Tue Sep 22 16:56:06 UTC 2026
+[+] Run ID: 35756420199
+[+] Batch name: batch-09
+[+] Batch targets:
+morpho.org
+near.org
+optimism.io
+[+] Running subfinder...
+[+] Subfinder completed: Tue Sep 22 17:01:11 UTC 2026
+[+] HTTPX input count: 535
+[+] Running httpx...
+[+] httpx completed: Tue Sep 22 17:03:04 UTC 2026
+[+] httpx line count: 153
+[+] Batch completed: Tue Sep 22 17:03:04 UTC 2026
