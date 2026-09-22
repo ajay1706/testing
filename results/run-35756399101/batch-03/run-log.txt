@@ -1,0 +1,14 @@
+[+] Batch started: Tue Sep 22 16:49:01 UTC 2026
+[+] Run ID: 35756399101
+[+] Batch name: batch-03
+[+] Batch targets:
+extended.exchange
+gains.trade
+gmx.io
+[+] Running subfinder...
+[+] Subfinder completed: Tue Sep 22 16:51:20 UTC 2026
+[+] HTTPX input count: 61
+[+] Running httpx...
+[+] httpx completed: Tue Sep 22 16:51:40 UTC 2026
+[+] httpx line count: 37
+[+] Batch completed: Tue Sep 22 16:51:40 UTC 2026
