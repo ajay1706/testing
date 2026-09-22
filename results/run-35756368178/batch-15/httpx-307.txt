@@ -1,0 +1,7 @@
+http://bid48km.40212532t.walletconnect.com [307] [https://policy.hubspot.com/abuse-complaints] [0] [] [158.247.28.20] [76.184654ms]
+https://blog.walletconnect.com [307] [https://walletconnect.network/blog/] [169] [307 Temporary Redirect] [cloudflare] [104.20.35.94] [cloudflare] [89.855178ms] [Cloudflare,HTTP/3]
+https://cloud.walletconnect.com [307] [https://cloud.reown.com/] [169] [307 Temporary Redirect] [cloudflare] [172.66.147.126] [cloudflare] [318.189207ms] [Cloudflare,HTTP/3]
+https://dev.pay.walletconnect.com [307] [/?pid=] [0] [cloudflare] [104.20.35.94] [cloudflare] [2.47557623s] [Cloudflare,HSTS,HTTP/3]
+https://explorer.walletconnect.com [307] [https://walletguide.walletconnect.network/] [169] [307 Temporary Redirect] [cloudflare] [172.66.147.126] [cloudflare] [88.915981ms] [Cloudflare,HTTP/3]
+https://pay.walletconnect.com [307] [https://walletconnect.com/] [169] [307 Temporary Redirect] [cloudflare] [104.20.35.94] [cloudflare] [118.561718ms] [Cloudflare,HTTP/3]
+https://staging.pay.walletconnect.com [307] [/?pid=] [0] [cloudflare] [172.66.147.126] [cloudflare] [491.249506ms] [Cloudflare,HSTS,HTTP/3]
