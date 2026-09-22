@@ -1,0 +1,14 @@
+[+] Batch started: Tue Sep 22 16:49:09 UTC 2026
+[+] Run ID: 35756420199
+[+] Batch name: batch-04
+[+] Batch targets:
+chain.link
+compound.finance
+curve.finance
+[+] Running subfinder...
+[+] Subfinder completed: Tue Sep 22 16:52:33 UTC 2026
+[+] HTTPX input count: 336
+[+] Running httpx...
+[+] httpx completed: Tue Sep 22 16:53:23 UTC 2026
+[+] httpx line count: 176
+[+] Batch completed: Tue Sep 22 16:53:23 UTC 2026
