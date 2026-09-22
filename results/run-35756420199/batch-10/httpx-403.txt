@@ -1,0 +1,8 @@
+https://claims.puffer.fi [403] [] [534] [Access Blocked] [cloudflare] [104.20.19.115] [cloudflare] [99.875262ms] [Cloudflare]
+https://faucet.polygon.technology [403] [] [5672] [Just a moment...] [cloudflare] [104.18.41.110] [cloudflare] [30.448797ms] [Cloudflare,HSTS]
+https://login.development.polygon.technology [403] [] [167] [CloudFront] [13.35.78.120] [cloudfront] [64.354414ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://login.staging.polygon.technology [403] [] [167] [CloudFront] [13.35.78.63] [cloudfront] [61.205805ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://login.polygon.technology [403] [] [167] [CloudFront] [13.35.78.15] [cloudfront] [193.195462ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://faucet-unifi.puffer.fi [403] [] [40] [cloudflare] [172.66.167.169] [cloudflare] [6.698418088s] [Cloudflare,Express,Node.js]
+https://quest.puffer.fi [403] [] [535] [Access Blocked] [cloudflare] [172.66.167.169] [cloudflare] [189.46262ms] [Cloudflare]
+https://rpc-mumbai.polygon.technology [403] [] [134] [403] [cloudflare] [172.64.146.146] [cloudflare] [197.27619ms] [Cloudflare,HSTS]

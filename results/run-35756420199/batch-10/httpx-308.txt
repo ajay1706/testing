@@ -1,0 +1,2 @@
+https://puffer.fi [308] [https://www.puffer.fi/] [15] [Vercel] [216.150.1.1] [51.951596ms] [HSTS,Vercel]
+https://unifi.puffer.fi [308] [https://puffer.fi/unifi] [15] [cloudflare] [104.20.19.115] [cloudflare] [5.120559466s] [Cloudflare,HSTS,Vercel]

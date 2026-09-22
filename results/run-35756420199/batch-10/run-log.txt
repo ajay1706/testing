@@ -1,0 +1,14 @@
+[+] Batch started: Tue Sep 22 16:56:28 UTC 2026
+[+] Run ID: 35756420199
+[+] Batch name: batch-10
+[+] Batch targets:
+pendle.finance
+polygon.technology
+puffer.fi
+[+] Running subfinder...
+[+] Subfinder completed: Tue Sep 22 17:00:23 UTC 2026
+[+] HTTPX input count: 1736
+[+] Running httpx...
+[+] httpx completed: Tue Sep 22 17:04:50 UTC 2026
+[+] httpx line count: 185
+[+] Batch completed: Tue Sep 22 17:04:50 UTC 2026
