@@ -1,0 +1,6 @@
+https://batches.base.org [301] [https://base.org/batches] [0] [Vercel] [64.239.109.65] [200.696124ms] [HSTS,Vercel]
+https://specs.base.org [301] [https://docs.base.org/base-chain/specs/] [167] [301 Moved Permanently] [cloudflare] [104.18.40.153] [cloudflare] [232.193375ms] [Cloudflare,HSTS]
+https://www.blog.celer.network [301] [https://blog.celer.network/] [162] [301 Moved Permanently] [nginx] [192.0.78.227] [238.905044ms] [HSTS,Nginx]
+https://www.celestia.org [301] [https://celestia.org/] [534] [301 Moved Permanently] [cloudflare] [172.67.73.54] [cloudflare] [193.874835ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.celer.network [301] [https://celer.network/] [37] [Netlify] [98.84.224.111] [315.629413ms] [HSTS,Netlify]
+http://cbridge-analytics.celer.network [301] [https://cbridge-analytics.celer.network/] [55] [Netlify] [98.84.224.111] [57.19354ms] [Netlify]
