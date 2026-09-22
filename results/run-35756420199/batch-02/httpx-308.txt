@@ -1,0 +1,2 @@
+https://avalanche.com [308] [https://www.avalanche.com/] [15] [Vercel] [64.239.123.193] [224.230925ms] [HSTS,Vercel]
+http://merkl-api.balancer.fi [308] [https://merkl-api.balancer.fi/] [14] [Vercel] [216.150.16.193] [49.185351ms] [Vercel]

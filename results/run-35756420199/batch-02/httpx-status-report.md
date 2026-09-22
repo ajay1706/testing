@@ -1,0 +1,71 @@
+# HTTPX Status Report
+
+Generated at: Tue Sep 22 16:51:09 UTC 2026
+
+HTTPX lines: 47
+Live URLs: 47
+
+## 200
+https://api-dexscreener-v3.balancer.fi [200] [] [3452] [Balancer V3 DEX Screener Adapter] [cloudflare] [172.66.157.70] [cloudflare] [313.327028ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://legacy.balancer.fi [200] [] [696] [Balancer Deprecated Chain Exit] [Vercel] [216.150.1.193] [312.414033ms] [HSTS,Vercel]
+https://analytics.balancer.fi [200] [] [19531] [Balancer Analytics] [Vercel] [216.150.1.193] [344.095449ms] [HSTS,Vercel]
+https://docs.rfq.axelar.network [200] [] [42595] [Axelar RFQ API] [Vercel] [216.150.1.193] [496.435527ms] [HSTS,Vercel]
+https://docs.balancer.fi [200] [] [45868] [Home | Balancer] [Vercel] [76.76.21.61] [247.305362ms] [Fathom,HSTS,Vercel,Vue.js]
+https://discord.balancer.fi [200] [] [125869] [Balancer Discord Invite] [cloudflare] [104.20.26.103] [cloudflare] [364.148487ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://docs-v2.balancer.fi [200] [] [71921] [Home | Balancer] [Vercel] [76.76.21.241] [369.462364ms] [Fathom,HSTS,Vercel,Vue.js]
+https://forum.balancer.fi [200] [] [165685] [Balancer] [nginx] [216.66.8.43] [348.979797ms] [Discourse:2026.9.0,HSTS,Nginx,Ruby on Rails]
+https://ops.balancer.fi [200] [] [172185] [Vercel] [216.150.1.193] [373.270712ms] [HSTS,Vercel]
+https://app.axelar.network [200] [] [70819] [Axelar - Bridge and swap crypto across chains] [] [16.59.222.131] [612.800071ms] [HSTS]
+https://vote.balancer.fi [200] [] [1848] [Snapshot] [Netlify] [13.52.188.95] [601.814744ms] [HSTS,Netlify]
+https://lbp.balancer.fi [200] [] [65045] [LBP Simulator | Balancer] [cloudflare] [172.66.157.70] [cloudflare] [1.415560949s] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.docs.rfq.axelar.network [200] [] [42595] [Axelar RFQ API] [Vercel] [216.150.1.193] [431.874252ms] [HSTS,Vercel]
+https://xrpl.docs.axelar.network [200] [] [65929] [Overview | XRPL ↔ Axelar Amplifier] [Vercel] [216.150.1.193] [692.191842ms] [Docusaurus:3.10.1,HSTS,React,Vercel,Webpack]
+https://test.balancer.fi [200] [] [176287] [Balancer—AMMs made easy] [cloudflare] [104.20.26.103] [cloudflare] [768.01494ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.avalanche.com [200] [] [216040] [Technology Built for Business | Avalanche] [Vercel] [64.239.123.65] [203.40571ms] [Contentful,Google Analytics,Google Tag Manager,HSTS,Vercel]
+https://www.axelar.network [200] [] [296184] [Axelar | The Gateway To Onchain Finance] [cloudflare] [198.202.211.1] [283.707567ms] [Cloudflare,Cookie Script,Google Analytics,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Slick,jQuery:3.5.1,jsDelivr]
+
+## 301
+https://app.balancer.fi [301] [https://balancer.fi/pools] [528] [301 Moved Permanently] [cloudflare] [104.20.26.103] [cloudflare] [175.53996ms] [Cloudflare,Cloudflare Browser Insights]
+https://docs-v3.balancer.fi [301] [https://docs.balancer.fi/] [15] [Vercel] [76.76.21.93] [246.728303ms] [HSTS,Vercel]
+https://dev.balancer.fi [301] [https://docs.balancer.fi] [528] [301 Moved Permanently] [cloudflare] [172.66.157.70] [cloudflare] [233.471602ms] [Cloudflare,Cloudflare Browser Insights]
+https://grants.balancer.fi [301] [https://grants.balancer.community/] [528] [301 Moved Permanently] [cloudflare] [104.20.26.103] [cloudflare] [185.980096ms] [Cloudflare,Cloudflare Browser Insights]
+https://axelar.network [301] [https://www.axelar.network/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [476.836182ms] [Cloudflare,HSTS,HTTP/3]
+https://pool-creator.balancer.fi [301] [https://balancer.fi/create] [528] [301 Moved Permanently] [cloudflare] [104.20.26.103] [cloudflare] [253.238731ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 302
+https://friends.axelar.network [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=friends.axelar.network] [120] [nginx] [67.199.248.13] [290.112581ms] [HSTS,HTTP/3,Nginx]
+
+## 307
+
+## 308
+https://avalanche.com [308] [https://www.avalanche.com/] [15] [Vercel] [64.239.123.193] [224.230925ms] [HSTS,Vercel]
+http://merkl-api.balancer.fi [308] [https://merkl-api.balancer.fi/] [14] [Vercel] [216.150.16.193] [49.185351ms] [Vercel]
+
+## 401
+
+## 403
+https://airdrop.axelar.network [403] [] [5630] [Just a moment...] [cloudflare] [104.18.8.184] [cloudflare] [179.046066ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://community.axelar.network [403] [] [5675] [Just a moment...] [cloudflare] [104.18.8.184] [cloudflare] [186.643842ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://api-v3-cow.balancer.fi [403] [] [4908] [Attention Required! | Cloudflare] [cloudflare] [172.66.157.70] [cloudflare] [195.79548ms] [Cloudflare,Cloudflare Browser Insights]
+https://airdrop-ctt-testing-mainnet.axelar.network [403] [] [5693] [Just a moment...] [cloudflare] [104.18.9.184] [cloudflare] [214.140829ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://cdn.testnet.app.axelar.network [403] [] [111] [AmazonS3] [3.168.2.27] [cloudfront] [274.450003ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://cdn.devnet.app.axelar.network [403] [] [111] [AmazonS3] [13.32.115.123] [cloudfront] [362.247536ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://api-v3-origin.balancer.fi [403] [] [118] [403 Forbidden] [awselb/2.0] [75.2.12.216] [591.955467ms] [Amazon ELB,Amazon Web Services]
+https://cdn.app.axelar.network [403] [] [111] [AmazonS3] [3.161.242.121] [cloudfront] [676.964942ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://old.axelar.network [403] [] [5583] [Just a moment...] [cloudflare] [104.18.8.184] [cloudflare] [297.202679ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://satellite.axelar.network [403] [] [5589] [Just a moment...] [cloudflare] [104.18.9.184] [cloudflare] [266.045214ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://test-api-v3-origin.balancer.fi [403] [] [118] [403 Forbidden] [awselb/2.0] [18.158.235.60] [672.284531ms] [Amazon ELB,Amazon Web Services]
+
+## 404
+https://dynamic-auth.axelar.network [404] [] [40] [cloudflare] [104.18.20.179] [cloudflare] [496.222767ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://api.axelar.network [404] [] [19] [] [3.13.120.115] [525.128446ms]
+https://scaffold.balancer.fi [404] [] [107] [Vercel] [66.33.60.193] [592.425133ms] [HSTS,Vercel]
+https://static.axelar.network [404] [] [28449] [Not Found] [cloudflare] [104.18.9.184] [cloudflare] [713.280297ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://xrpl-docs.axelar.network [404] [] [107] [Vercel] [216.150.16.1] [880.272307ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
