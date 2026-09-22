@@ -1,0 +1,8 @@
+https://coordinator-api.mainnet.aws.scroll.io [403] [] [146] [403 Forbidden] [] [100.21.0.40] [239.297911ms] [HSTS]
+https://coordinator.scroll.io [403] [] [44] [cloudflare] [104.20.38.176] [cloudflare] [405.298085ms] [Cloudflare,HTTP/3]
+https://mainnet-cloak-xen-coordinator.scroll.io [403] [] [44] [cloudflare] [172.66.145.15] [cloudflare] [1.219050864s] [Cloudflare,HTTP/3]
+https://sepolia-cloak-etherfi-coordinator.scroll.io [403] [] [44] [cloudflare] [172.66.145.15] [cloudflare] [274.010114ms] [Cloudflare,HTTP/3]
+https://sepolia-cloak-xen-coordinator.scroll.io [403] [] [44] [cloudflare] [172.66.145.15] [cloudflare] [197.885422ms] [Cloudflare,HTTP/3]
+https://sequencer-proxy.mainnet.aws.scroll.io [403] [] [146] [403 Forbidden] [] [100.21.0.40] [190.981464ms] [HSTS]
+https://status.rocketpool.net [403] [] [17] [cloudflare] [104.26.6.138] [cloudflare] [190.482637ms] [Cloudflare,HTTP/3]
+https://telemetry.rocketpool.net [403] [] [17] [cloudflare] [104.26.6.138] [cloudflare] [188.533644ms] [Cloudflare,HTTP/3]
