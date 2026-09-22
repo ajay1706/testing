@@ -1,0 +1,4 @@
+https://canton.network [301] [https://www.canton.network/] [0] [cloudflare] [199.60.103.131] [356.895643ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://pages.canton.network [301] [https://www.canton.network/] [80869] [cloudflare] [104.18.16.34] [cloudflare] [2.442602312s] [Cloudflare]
+http://www2.canton.network [301] [https://www2.canton.network/] [162] [301 Moved Permanently] [nginx] [52.73.38.90] [2.200501087s] [Nginx]
+http://www.canton.network [301] [https://www.canton.network/] [0] [cloudflare] [199.60.103.29] [3.197437772s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
