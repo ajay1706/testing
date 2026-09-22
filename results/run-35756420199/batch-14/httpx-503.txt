@@ -1,0 +1,2 @@
+https://fullnode.private-testnet.sui.io [503] [] [19] [] [34.54.176.184] [google] [156.101747ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://fullnode.ci.sui.io [503] [] [19] [] [35.241.16.51] [google] [179.474441ms] [Google Cloud,Google Cloud CDN,HTTP/3]
