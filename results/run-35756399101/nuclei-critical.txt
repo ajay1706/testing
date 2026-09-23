@@ -1,0 +1,1 @@
+[CVE-2026-72898] [http] [critical] https://data.maple.finance/api/session/reset_password
