@@ -1,0 +1,4 @@
+[mongodb-exporter-metrics] [http] [medium] https://hoodi-oracle11.stakewise.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://hoodi-oracle3.stakewise.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://hoodi-oracle2.stakewise.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://hoodi-oracle9.stakewise.io/metrics
