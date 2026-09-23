@@ -1,0 +1,1 @@
+[CVE-2026-27454] [http] [medium] https://voting.liquity.org/posts/331.json?version=1
