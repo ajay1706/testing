@@ -1,0 +1,35 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] devs.spark.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] development-api.puffer.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] devs.spark.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] development-api.puffer.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] discord.balancer.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] discord.balancer.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] discovery-api.stage.testnet.near.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] discovery-api.stage.testnet.near.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.1inch.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.1inch.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.chain.link:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.chain.link:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://docs.api3.org
+[unauthenticated-varnish-cache-purge] [http] [low] https://docs.lite.zksync.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://devnets.optimism.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://devnets.optimism.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://devnets.optimism.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.api3.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.api3.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.api3.org
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.celestia.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.celestia.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.celestia.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.compound.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.compound.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.compound.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.lido.fi
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.lido.fi
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.lido.fi
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.lite.zksync.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.lite.zksync.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.lite.zksync.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.pendle.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.pendle.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.pendle.finance

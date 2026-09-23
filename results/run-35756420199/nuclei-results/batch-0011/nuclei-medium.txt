@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://docs.prividium.zksync.io//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://docs.prividium.zksync.io//interact.sh/en//
