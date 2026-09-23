@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://v1-backend-indexer.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v1-points-backend.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v2-backend.karak.network/metrics
