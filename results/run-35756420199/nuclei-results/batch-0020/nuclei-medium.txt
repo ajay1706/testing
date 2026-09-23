@@ -1,0 +1,1 @@
+[nextjs-vite-public-env:public_env] [http] [medium] https://polygon-pay.prod.polygon.technology [""VITE_GITCOMMIT":"12a316d38a54b7abfa4c464b244f6d6318c30239"",""VITE_VERSION":"v26.7.28-12a316d"",""VITE_API_URL":"https://polygon-pay-api.prod.polygon.technology""]
