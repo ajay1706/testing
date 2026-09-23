@@ -1,0 +1,5 @@
+[claude-code-agents] [http] [low] https://snapshots.citrea.xyz/.claude/agents/
+[claude-code-agents] [http] [low] https://snapshots.citrea.xyz/.claude/agents/index.md
+[claude-code-agents] [http] [low] https://snapshots.citrea.xyz/.claude/agents/README.md
+[claude-code-agents] [http] [low] https://snapshots.citrea.xyz/.claude/agents/code-reviewer.md
+[CVE-2020-15081] [http] [low] https://snapshots.citrea.xyz/upload/
