@@ -1,0 +1,1 @@
+[CVE-2026-55224] [http] [high] https://api.pol.polygon.technology/admin/plugin/store/download
