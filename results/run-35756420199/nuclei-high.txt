@@ -1,0 +1,8 @@
+[CVE-2019-11248] [http] [high] https://influx-tnworkq43qr5xmc8.b.redstone.finance/debug/pprof/
+[CVE-2024-53991] [http] [high] https://forum.celer.network/stylesheets/discourse-details_176b72e6e38dee06dfc1be8f35778491bd6261ea.css?__ws=forum.celer.network&cachebuster=3JiO537fGMuwHon0kDUnStBUYze
+[CVE-2025-55184] [http] [high] https://status.across.to
+[CVE-2026-41432] [http] [high] https://jobs-api.polygon.technology/api/stripe/webhook
+[CVE-2026-55224] [http] [high] https://api.pol.polygon.technology/admin/plugin/store/download
+[CVE-2026-55224] [http] [high] https://jobs-api.polygon.technology/admin/plugin/store/download
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://metrics.solana.com/api/search?type=dash-db
+[unify-hipath-default-login] [http] [high] https://jobs-api.polygon.technology/cgi-bin/ikon_button.exe?page=1500&button=51&line=0&eventid=0&WbmSessionId=nosession&Username=Unify&Password=1q21q2&CountryCode=en&NoSessionTimeout=false&SwitchLanguage=false [pass="1q21q2",user="Unify"]

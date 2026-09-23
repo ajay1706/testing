@@ -1,0 +1,50 @@
+[CVE-2022-41697] [http] [medium] https://blog.celestia.org/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://blog.lido.fi/ghost/api/admin/session
+[CVE-2024-46310] [http] [medium] https://api.pol.polygon.technology/players.json
+[CVE-2024-46310] [http] [medium] https://templates.solana.com/players.json
+[CVE-2024-5483] [http] [medium] https://api.pol.polygon.technology/wp-json/learnpress/v1/users
+[CVE-2025-54793] [http] [medium] https://docs.prividium.zksync.io//interact.sh/en//
+[CVE-2026-27454] [http] [medium] https://community.linea.build/posts/30643.json?version=1
+[CVE-2026-27454] [http] [medium] https://community.starknet.io/posts/2360449.json?version=1
+[CVE-2026-27454] [http] [medium] https://dao.rocketpool.net/posts/11795.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum-staging.polygon.technology/posts/32748.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.across.to/posts/4079.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.balancer.fi/posts/17069.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.celestia.org/posts/3865.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.eigenlayer.xyz/posts/144904.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.euler.finance/posts/4410.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.morpho.org/posts/4180.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.polygon.technology/posts/35020.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.pyth.network/posts/7255.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.scroll.io/posts/4007.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.solana.com/posts/6680.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.stakewise.io/posts/4040.json?version=1
+[CVE-2026-27454] [http] [medium] https://forums.sui.io/posts/249803.json?version=2
+[CVE-2026-27454] [http] [medium] https://gov.frax.finance/posts/8120.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.near.org/posts/141646.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.optimism.io/posts/46809.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.renzoprotocol.com/posts/392.json?version=1
+[CVE-2026-27454] [http] [medium] https://governance.aave.com/posts/65520.json?version=1
+[CVE-2026-27454] [http] [medium] https://governance.ether.fi/posts/5237.json?version=1
+[CVE-2026-27454] [http] [medium] https://governance.puffer.fi/posts/602.json?version=1
+[CVE-2026-27454] [http] [medium] https://research.arbitrum.io/posts/181668.json?version=1
+[CVE-2026-27454] [http] [medium] https://research.lido.fi/posts/26621.json?version=1
+[CVE-2026-27454] [http] [medium] https://voting.liquity.org/posts/331.json?version=1
+[git-config] [http] [medium] https://compound.finance/.git/config ["eC1hY2Nlc3MtdG9rZW46Z2hzX1hxdW5wSHlQdjgySlZLdTZkdHJxeTZNQjBwWkFORzIwVTRycA=="]
+[gitlab-api-user-enum] [http] [medium] https://api.pol.polygon.technology/api/v4/users/2 [uid="2"]
+[mongodb-exporter-metrics] [http] [medium] https://hoodi-oracle11.stakewise.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://hoodi-oracle2.stakewise.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://hoodi-oracle3.stakewise.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://hoodi-oracle9.stakewise.io/metrics
+[nextjs-vite-public-env:public_env] [http] [medium] https://backoffice.prod.polygon.technology [""VITE_GITCOMMIT":"cea5f4846339b2859adbfee132c1666a359332aa"",""VITE_VERSION":"v26.9.14-cea5f48"",""VITE_API_URL":"https://backoffice-api.prod.polygon.technology"",""VITE_ANALYTICS_API_URL":"https://analytics-api.prod.polygon.technology"",""VITE_SENTRY_DSN":"https://9f154cf712303a4036cf00c03feb938d@o242458.ingest.us.sentry.io/4510951825408000"",""VITE_ENVIRONMENT":"production""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://maru-dashboard.linea.build [""VITE_BEACON_API_URL":"https://maru.linea.build"",""VITE_NETWORK_NAME":"mainnet""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://polygon-pay.prod.polygon.technology [""VITE_GITCOMMIT":"12a316d38a54b7abfa4c464b244f6d6318c30239"",""VITE_VERSION":"v26.7.28-12a316d"",""VITE_API_URL":"https://polygon-pay-api.prod.polygon.technology""]
+[open-redirect-generic] [http] [medium] https://docs.prividium.zksync.io//oast.me/ [redirect="/oast.me/"]
+[prometheus-metrics] [http] [medium] https://api-explorer.devnet.linea.build/metrics
+[prometheus-metrics] [http] [medium] https://api-kora-devnet.solana.com/metrics
+[prometheus-metrics] [http] [medium] https://governance-api.stakewise.io/metrics
+[prometheus-metrics] [http] [medium] https://linea-ccip-gateway.linea.build/metrics
+[prometheus-metrics] [http] [medium] https://router.inference.aptoslabs.com/metrics
+[prometheus-metrics] [http] [medium] https://v1-backend-indexer.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v1-points-backend.karak.network/metrics
+[prometheus-metrics] [http] [medium] https://v2-backend.karak.network/metrics
