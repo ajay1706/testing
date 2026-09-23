@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://api-explorer.devnet.linea.build/metrics
+[prometheus-metrics] [http] [medium] https://api-kora-devnet.solana.com/metrics
