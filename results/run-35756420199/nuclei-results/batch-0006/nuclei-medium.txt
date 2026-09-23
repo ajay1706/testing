@@ -1,0 +1,2 @@
+[CVE-2022-41697] [http] [medium] https://blog.celestia.org/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://blog.lido.fi/ghost/api/admin/session
