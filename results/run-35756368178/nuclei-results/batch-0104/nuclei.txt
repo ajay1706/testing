@@ -1,0 +1,11 @@
+[CVE-2025-55184] [http] [high] https://create-next-app.privy.io
+[weak-cipher-suites:tls-1.0] [ssl] [low] ctr-api.mainnet.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ctr-api.mainnet.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://coordinator.node-3.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-2.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-4.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-1.dev-node.web3auth.io/metrics
+[prometheus-metrics] [http] [medium] https://coordinator.node-5.dev-node.web3auth.io/metrics
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://core-platform-metrics.metamask.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://core-platform-metrics.metamask.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://core-platform-metrics.metamask.io
