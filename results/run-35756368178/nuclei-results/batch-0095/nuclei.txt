@@ -1,0 +1,16 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] cedefi-api.nonprod-cedefi.manta.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cedefi-api.cedefi.manta.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cedefi-api.nonprod-cedefi.manta.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cedefi-api.cedefi.manta.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cf-ipfs.phantom.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cf-ipfs.phantom.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] chainalysis.cantondevnet.alchemy.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] chainalysis.cantondevnet.alchemy.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] chainalysis.cantontestnet.alchemy.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] chainalysis.cantontestnet.alchemy.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://cdn.live.ledger.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://cdn.live.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://cdn.live.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://charts.livepeer.org
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://charts.livepeer.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://charts.livepeer.org
