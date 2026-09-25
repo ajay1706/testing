@@ -1,0 +1,6 @@
+[CVE-2026-27454] [http] [medium] https://community.fireblocks.com/posts/5720.json?version=1
+[CVE-2026-27454] [http] [medium] https://community.metamask.io/posts/90500.json?version=1
+[weak-cipher-suites:tls-1.0] [ssl] [low] comehome.mezo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] comehome.mezo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] compliance.circle.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] compliance.circle.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
