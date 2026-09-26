@@ -1,0 +1,86 @@
+# HTTPX Status Report
+
+Generated at: Sat Sep 26 15:32:46 UTC 2026
+
+HTTPX lines: 72
+Live URLs: 72
+
+## 200
+https://app.talisman.xyz [200] [] [2404] [Talisman Portal] [cloudflare] [172.67.172.100] [cloudflare] [117.127457ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://papi-console.talisman.xyz [200] [] [1181] [PAPI Console] [cloudflare] [172.67.172.100] [cloudflare] [125.275767ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ghosts.talisman.xyz [200] [] [2669] [Ghosts of the Past] [cloudflare] [104.21.71.243] [cloudflare] [132.01327ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://img.suiet.app [200] [] [55] [cloudflare] [104.26.1.14] [cloudflare] [234.822289ms] [Cloudflare,HSTS,HTTP/3]
+https://gandalf.talisman.xyz [200] [] [3109] [SwaggerUI] [cloudflare] [172.67.172.100] [cloudflare] [132.060148ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Swagger UI,jsDelivr]
+https://lifi.talisman.xyz [200] [] [2584] [LI.FI] [cloudflare] [104.21.71.243] [cloudflare] [208.650975ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://signet.talisman.xyz [200] [] [2326] [Signet] [cloudflare] [104.21.71.243] [cloudflare] [150.042607ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://pay.suiet.app [200] [] [6258] [Vercel] [66.33.60.130] [210.185544ms] [HSTS,Vercel]
+https://sui-verifier.suiet.app [200] [] [468] [cloudflare] [172.67.68.98] [cloudflare] [153.407774ms] [Cloudflare,HSTS,HTTP/3]
+https://esplora-api.talisman.xyz [200] [] [120] [cloudflare] [104.21.71.243] [cloudflare] [374.432724ms] [Cloudflare,HTTP/3]
+https://ssa.talisman.xyz [200] [] [3109] [SwaggerUI] [cloudflare] [104.21.71.243] [cloudflare] [154.814721ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Swagger UI,jsDelivr]
+https://support.talisman.xyz [200] [] [8513] [Support — Talisman] [cloudflare] [104.21.71.243] [cloudflare] [122.864706ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://tg.suiet.app [200] [] [825] [Vite + React + TS] [cloudflare] [104.26.0.14] [cloudflare] [225.622811ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://wallet-adapter-example.suiet.app [200] [] [644] [React App] [Vercel] [66.33.60.67] [230.91886ms] [HSTS,React,Vercel]
+https://seekwl.talisman.xyz [200] [] [9437] [Talisman SEEK Airdrop (Closed)] [cloudflare] [104.21.71.243] [cloudflare] [243.186417ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://thxbye.talisman.xyz [200] [] [1067] [Goodbye | Talisman] [cloudflare] [172.67.172.100] [cloudflare] [381.32795ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://sn45api.talisman.xyz [200] [] [3109] [SwaggerUI] [cloudflare] [104.21.71.243] [cloudflare] [431.611754ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Swagger UI,jsDelivr]
+https://tda.talisman.xyz [200] [] [3109] [SwaggerUI] [cloudflare] [172.67.172.100] [cloudflare] [357.479214ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Swagger UI,jsDelivr]
+https://wrc.talisman.xyz [200] [] [3109] [SwaggerUI] [cloudflare] [104.21.71.243] [cloudflare] [314.94404ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Swagger UI,jsDelivr]
+https://jobs.talisman.xyz [200] [] [50514] [Jobs | Talisman] [cloudflare] [172.67.172.100] [cloudflare] [148.50444ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Node.js,Nuxt.js,Vercel,Vue.js]
+https://std.suiet.app [200] [] [19550] [Overview | Sui Metadata Standards] [Vercel] [66.33.60.129] [280.26121ms] [HSTS,Vercel,Vue.js]
+https://ai.talisman.xyz [200] [] [47865] [TalismanAI] [cloudflare] [104.21.71.243] [cloudflare] [549.813968ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://checkmystake.talisman.xyz [200] [] [13724] [Check My Stake | Talisman 🪬] [cloudflare] [104.21.71.243] [cloudflare] [1.543879385s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Node.js,Nuxt.js,Vercel,Vue.js]
+https://kit.suiet.app [200] [] [158515] [Hello from Suiet Wallet Kit | Suiet Wallet Kit] [cloudflare] [104.26.0.14] [cloudflare] [185.96263ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:2.1.0,HSTS,HTTP/3,React,Webpack]
+https://seekers.talisman.xyz [200] [] [93026] [Seekers of the Talisman] [cloudflare] [104.21.71.243] [cloudflare] [267.156866ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://suiet.app [200] [] [354877] [Suiet, the Sui wallet built for everyone] [Framer/26fa766] [52.223.52.2] [221.158232ms] [Framer Sites,Google Tag Manager,HSTS,HTTP/3,React]
+https://talisman.xyz [200] [] [359764] [Talisman • Intelligent DeFi Wallet] [cloudflare] [172.67.172.100] [cloudflare] [280.096126ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://status.suiet.app [200] [] [415021] [Suiet status] [] [167.235.220.62] [914.806014ms] [Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus]
+
+## 301
+https://dc.suiet.app [301] [https://discord.gg/tgPrPu23eQ] [167] [301 Moved Permanently] [cloudflare] [172.67.68.98] [cloudflare] [86.290331ms] [Cloudflare,HSTS,HTTP/3]
+https://quests.talisman.xyz [301] [https://quest.talisman.xyz/] [534] [301 Moved Permanently] [cloudflare] [104.21.71.243] [cloudflare] [56.198106ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://devnet.suiet.app [301] [https://devnet.suiet.app/] [539] [301 Moved Permanently] [cloudflare] [172.67.68.98] [cloudflare] [647.665584ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://www.talisman.xyz [301] [https://talisman.xyz/] [534] [301 Moved Permanently] [cloudflare] [172.67.172.100] [cloudflare] [261.128742ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://superset.talisman.xyz [301] [https://superset.talisman.xyz/] [534] [301 Moved Permanently] [cloudflare] [172.67.172.100] [cloudflare] [26.52693ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+http://faucet.suiet.app [302] [https://faucet.suiet.app/] [48] [] [137.66.15.168] [244.602888ms]
+
+## 307
+https://docs.talisman.xyz [307] [https://docs.talisman.xyz/talisman/] [15] [cloudflare] [104.21.71.243] [cloudflare] [148.392159ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://goto.talisman.xyz [307] [https://talisman.xyz] [15] [cloudflare] [172.67.172.100] [cloudflare] [178.085092ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://api.suiet.app [307] [https://suiet.app] [53] [railway-hikari] [69.46.46.84] [513.186493ms]
+
+## 308
+https://www.suiet.app [308] [https://suiet.app/] [54] [Framer/26fa766] [31.43.161.6] [311.733288ms] [Framer Sites,HSTS,HTTP/3,React]
+https://docs.suiet.app [308] [/wallet/get-started/introduction] [109822] [Vercel] [66.33.60.130] [256.49809ms] [Cloudflare,HSTS,Vercel]
+
+## 401
+https://bfp.talisman.xyz [401] [] [12] [cloudflare] [172.67.172.100] [cloudflare] [94.395242ms] [Cloudflare,HTTP/3]
+https://coinbase-api.talisman.xyz [401] [] [65] [cloudflare] [172.67.172.100] [cloudflare] [119.559168ms] [Cloudflare,HTTP/3]
+https://nfts-api.talisman.xyz [401] [] [12] [cloudflare] [172.67.172.100] [cloudflare] [131.058957ms] [Cloudflare,HTTP/3]
+https://raa.talisman.xyz [401] [] [0] [cloudflare] [172.67.172.100] [cloudflare] [118.196919ms] [Cloudflare,HTTP/3]
+https://ramp-api.talisman.xyz [401] [] [12] [cloudflare] [104.21.71.243] [cloudflare] [138.760733ms] [Cloudflare,HTTP/3]
+
+## 403
+https://staging.quest.talisman.xyz [403] [] [17] [cloudflare] [172.67.172.100] [cloudflare] [160.176664ms] [Cloudflare,HTTP/3]
+https://tsp.talisman.xyz [403] [] [9] [cloudflare] [172.67.172.100] [cloudflare] [401.422087ms] [Cloudflare,HTTP/3]
+https://assets.suiet.app [403] [] [111] [AmazonS3] [52.85.193.63] [cloudfront] [1.219948949s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://coins.talisman.xyz [404] [] [10] [cloudflare] [104.21.71.243] [cloudflare] [81.007369ms] [Cloudflare,HTTP/3]
+https://bap.talisman.xyz [404] [] [103] [cloudflare] [172.67.172.100] [cloudflare] [91.531299ms] [Cloudflare,HTTP/3]
+https://cgp.talisman.xyz [404] [] [68] [cloudflare] [172.67.172.100] [cloudflare] [147.980442ms] [Cloudflare,HSTS,HTTP/3]
+https://coingecko.talisman.xyz [404] [] [68] [cloudflare] [172.67.172.100] [cloudflare] [162.039331ms] [Cloudflare,HSTS,HTTP/3]
+https://2023.suiet.app [404] [] [107] [Vercel] [66.33.60.130] [363.705198ms] [HSTS,Vercel]
+https://yap.talisman.xyz [404] [] [93] [cloudflare] [104.21.71.243] [cloudflare] [366.854636ms] [Cloudflare,HSTS,HTTP/3]
+https://yapdev.talisman.xyz [404] [] [93] [cloudflare] [172.67.172.100] [cloudflare] [503.067778ms] [Cloudflare,HSTS,HTTP/3]
+https://guardians.suiet.app [404] [] [27511] [Not Found] [cloudflare] [104.26.0.14] [cloudflare] [393.782074ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://data-warehouse.quest.talisman.xyz [404] [] [27150] [Not Found] [cloudflare] [172.67.172.100] [cloudflare] [969.487566ms] [Cloudflare]
+
+## 500
+https://stealthex.talisman.xyz [500] [] [17] [cloudflare] [104.21.71.243] [cloudflare] [148.493679ms] [Cloudflare,HTTP/3]
+
+## 502
+
+## 503
+
