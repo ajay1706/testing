@@ -1,0 +1,2 @@
+https://www.synapseprotocol.com [301] [https://hypercall.xyz/synapse] [0] [cloudflare] [104.26.0.225] [cloudflare] [123.260281ms] [Cloudflare]
+https://synapseprotocol.com [301] [https://hypercall.xyz/synapse] [0] [cloudflare] [104.26.0.225] [cloudflare] [123.749939ms] [Cloudflare]
