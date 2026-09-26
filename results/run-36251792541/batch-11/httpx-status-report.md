@@ -1,0 +1,76 @@
+# HTTPX Status Report
+
+Generated at: Sat Sep 26 15:32:41 UTC 2026
+
+HTTPX lines: 51
+Live URLs: 51
+
+## 200
+https://bridge.pancakeswap.finance [200] [] [5759] [Bridge | PancakeSwap] [cloudflare] [104.26.3.169] [cloudflare] [131.982654ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Vercel]
+https://developer.pancakeswap.finance [200] [] [14417] [PancakeSwap Developer] [cloudflare] [104.26.2.169] [cloudflare] [371.36482ms] [Cloudflare,HSTS,HTTP/3,React,Vercel]
+https://orders-sso.orders.paraswap.io [200] [] [0] [awselb/2.0] [13.249.141.108] [cloudfront] [138.319297ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://legacy-zkevm.pancakeswap.finance [200] [] [4223] [PancakeSwap] [cloudflare] [104.26.3.169] [cloudflare] [286.965679ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Vercel]
+https://blog.pancakeswap.finance [200] [] [98971] [Blog | PancakeSwap] [cloudflare] [172.67.75.76] [cloudflare] [120.53302ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://faq.pancakeswap.finance [200] [] [99683] [PancakeSwap FAQ] [cloudflare] [104.26.3.169] [cloudflare] [126.12479ms] [Cloudflare,Google Analytics,HSTS,HTTP/3,Vercel]
+https://info-v1.pancakeswap.finance [200] [] [14424] [Home | PancakeSwap] [cloudflare] [104.26.2.169] [cloudflare] [306.661847ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://pi.pancakeswap.finance [200] [] [1946] [cloudflare] [104.26.3.169] [cloudflare] [184.631465ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://pancakeswap.finance [200] [] [15507] [Home | PancakeSwap] [cloudflare] [104.26.3.169] [cloudflare] [163.211752ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://prod-sso.paraswap.io [200] [] [0] [awselb/2.0] [13.227.87.129] [cloudfront] [299.495739ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://v1exchange.pancakeswap.finance [200] [] [4560] [Pancake Swap] [cloudflare] [104.26.3.169] [cloudflare] [87.416513ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Vercel]
+https://forum.pancakeswap.finance [200] [] [150221] [PancakeSwap] [nginx] [184.104.178.43] [568.029014ms] [Discourse:2026.10.0,HSTS,Nginx,Ruby on Rails]
+https://tokens.pancakeswap.finance [200] [] [3610] [PancakeSwap Token Lists] [cloudflare] [104.26.2.169] [cloudflare] [322.922748ms] [Cloudflare]
+https://pfp.pancakeswap.finance [200] [] [79666] [PFPancake Generator - Create Your PancakeSwap PFP] [cloudflare] [104.26.2.169] [cloudflare] [870.139971ms] [Cloudflare,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://smart-router.pancakeswap.finance [200] [] [7390] [Home | PancakeSwap] [cloudflare] [104.26.2.169] [cloudflare] [909.271199ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://v1-farms.pancakeswap.finance [200] [] [9118] [PancakeSwap] [Vercel] [66.33.60.67] [791.342465ms] [Google Tag Manager,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.pancakeswap.finance [200] [] [693177] [Product Overview | PancakeSwap] [cloudflare] [172.67.75.76] [cloudflare] [158.701805ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://portalbridge.com [200] [] [38153] [Portal Bridge | Bridge USDC, ETH, SOL Across 30+ Chains] [cloudflare] [104.18.27.168] [cloudflare] [2.706473442s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+
+## 301
+https://earn.portalbridge.com [301] [https://portalbridge.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.26.168] [cloudflare] [33.9918ms] [Cloudflare,HTTP/3]
+https://app.paraswap.io [301] [https://app.velora.xyz/] [0] [AmazonS3] [3.162.163.84] [cloudfront] [78.861735ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://files.paraswap.io [301] [https://www.velora.xyz/] [0] [AmazonS3] [52.85.12.68] [cloudfront] [142.402471ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://help.paraswap.io [301] [https://help.velora.xyz/] [0] [AmazonS3] [13.249.141.110] [cloudfront] [178.410857ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://cdn.paraswap.io [301] [http://cdn.velora.xyz/index.html] [0] [AmazonS3] [13.32.164.103] [cloudfront] [304.486134ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://paraswap.io [301] [https://velora.xyz/] [0] [AmazonS3] [18.172.122.42] [cloudfront] [123.824464ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://portal.paraswap.io [301] [https://portal.velora.xyz/] [0] [AmazonS3] [3.167.183.93] [cloudfront] [193.502321ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://www.paraswap.io [301] [https://velora.xyz/] [0] [AmazonS3] [18.172.122.67] [cloudfront] [85.200683ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://www.portalbridge.com [301] [https://portalbridge.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.26.168] [cloudflare] [137.112861ms] [Cloudflare,HTTP/3]
+
+## 302
+https://dashboard.paraswap.io [302] [https://prod-sso.paraswap.io/oauth2/authorize?client_id=6lbjl70891q8vejgq1539v51g9&redirect_uri=https%3A%2F%2Fdashboard.paraswap.io%2Foauth2%2Fidpresponse&response_type=code&scope=openid&state=Mq7sj3j5YY6kAe7ozMXmP4U8ZzhBqHJzhfMoV7IQ5fFfGw%2BeuWTpWm6lDtLFV0d4QQ6qb2hxbq6yREVRMkCW%2B5ScdCV8eJwx10AZTaE7fnmQRz7Ds3auWKALPjXSKoZqirgDjncD5dj6ohfdGE5nHuG14yaiv3xsQslMrLF%2FzJvSjbwL%2Flzp8SumskQVW1zwFRp7zgmjCN16iZsTRunDQO8mGHJWUJDu75i0UCwOXCuCTWaIowd2Iw%3D%3D] [110] [302 Found] [awselb/2.0] [100.48.179.22] [89.461354ms] [Amazon ELB,Amazon Web Services]
+https://embedded.paraswap.io [302] [/app/] [0] [CloudFront] [3.170.152.22] [cloudfront] [325.86971ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://orders.paraswap.io [302] [/app/] [0] [CloudFront] [108.156.91.24] [cloudfront] [268.885057ms] [Amazon CloudFront,Amazon Web Services]
+https://perp.pancakeswap.finance [302] [https://pancakeswap.finance/451] [143] [302 Found] [cloudflare] [104.26.2.169] [cloudflare] [71.970942ms] [Cloudflare,HTTP/3]
+https://v5.paraswap.io [302] [/app/] [0] [CloudFront] [3.170.152.22] [cloudfront] [36.33259ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://staging.paraswap.io [302] [https://staging-sso.staging.paraswap.io/authorize?redirect_uri=https://staging.paraswap.io&response_type=code&client_id=40nuchn2j8g5flg6fq819e7afd&state=/] [0] [CloudFront] [13.225.47.127] [cloudfront] [739.446914ms] [Amazon CloudFront,Amazon Web Services]
+
+## 307
+https://aptos.pancakeswap.finance [307] [/swap] [15] [cloudflare] [172.67.75.76] [cloudflare] [108.818217ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://cakepad.pancakeswap.finance [307] [/cakepad] [15] [cloudflare] [104.26.3.169] [cloudflare] [198.71059ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://quest.pancakeswap.finance [307] [/quests] [15] [cloudflare] [104.26.3.169] [cloudflare] [119.686911ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://legacy-pm.pancakeswap.finance [308] [https://pancakeswap.finance/] [15] [cloudflare] [104.26.2.169] [cloudflare] [339.279833ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://solana.pancakeswap.finance [308] [https://pancakeswap.finance/swap?chain=sol] [15] [cloudflare] [104.26.2.169] [cloudflare] [138.493614ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.pancakeswap.finance [308] [https://pancakeswap.finance/] [15] [cloudflare] [104.26.2.169] [cloudflare] [149.230865ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+https://sol-swap.pancakeswap.finance [401] [] [15202] [Protected Page] [cloudflare] [104.26.3.169] [cloudflare] [150.278212ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 403
+https://perp-static.pancakeswap.finance [403] [] [111] [AmazonS3] [13.226.53.21] [cloudfront] [555.793085ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://springboard.pancakeswap.finance [403] [] [5485] [Attention Required! | Cloudflare] [cloudflare] [172.67.74.56] [cloudflare] [338.20157ms] [Cloudflare]
+
+## 404
+https://assets.pancakeswap.finance [404] [] [0] [cloudflare] [104.26.2.169] [cloudflare] [113.333667ms] [Cloudflare,HTTP/3]
+https://locales.pancakeswap.finance [404] [] [0] [cloudflare] [172.67.75.76] [cloudflare] [199.778868ms] [Cloudflare,HTTP/3]
+https://privy.pancakeswap.finance [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [157.850003ms] [Cloudflare,Cloudflare Bot Management]
+https://squad-assets.pancakeswap.finance [404] [] [0] [cloudflare] [172.67.75.76] [cloudflare] [145.369252ms] [Cloudflare,HTTP/3]
+https://privy.portalbridge.com [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [501.828861ms] [Cloudflare,Cloudflare Bot Management]
+
+## 500
+
+## 502
+
+## 503
+

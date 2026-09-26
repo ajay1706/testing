@@ -1,0 +1,3 @@
+https://legacy-pm.pancakeswap.finance [308] [https://pancakeswap.finance/] [15] [cloudflare] [104.26.2.169] [cloudflare] [339.279833ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://solana.pancakeswap.finance [308] [https://pancakeswap.finance/swap?chain=sol] [15] [cloudflare] [104.26.2.169] [cloudflare] [138.493614ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.pancakeswap.finance [308] [https://pancakeswap.finance/] [15] [cloudflare] [104.26.2.169] [cloudflare] [149.230865ms] [Cloudflare,HSTS,HTTP/3,Vercel]
