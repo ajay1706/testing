@@ -1,0 +1,2 @@
+https://support.rainbow.me [301] [https://rainbow.me/support/] [0] [cloudflare] [172.66.172.168] [cloudflare] [184.781789ms] [Cloudflare]
+https://www.rainbow.me [301] [https://rainbow.me/] [528] [301 Moved Permanently] [cloudflare] [104.20.16.62] [cloudflare] [206.945282ms] [Cloudflare,Cloudflare Browser Insights]
