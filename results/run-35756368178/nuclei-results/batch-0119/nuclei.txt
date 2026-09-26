@@ -1,0 +1,19 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs-w3s-node-sdk.circle.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs-w3s-node-sdk.circle.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.fireblocks.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.fireblocks.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.mezo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.mezo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.rendernetwork.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.rendernetwork.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.soniclabs.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.soniclabs.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://dnswatcher.security.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://dnswatcher.security.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://dnswatcher.security.ledger.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.libcore.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.libcore.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.libcore.ledger.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.liquidity.ripple.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.liquidity.ripple.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.liquidity.ripple.com
