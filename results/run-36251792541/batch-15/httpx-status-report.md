@@ -1,0 +1,81 @@
+# HTTPX Status Report
+
+Generated at: Sat Sep 26 15:34:41 UTC 2026
+
+HTTPX lines: 54
+Live URLs: 54
+
+## 200
+https://curation.yearn.fi [200] [] [26298] [Yearn Curation — DeFi Risk Curation] [Vercel] [216.150.1.193] [143.283161ms] [HSTS,Vercel]
+https://kalani.yearn.fi [200] [] [1638] [Kalani - Build, Allocate, Earn. Get your users the best yields in DeFi.] [Vercel] [216.150.16.193] [208.995209ms] [HSTS,Vercel]
+https://kong.yearn.fi [200] [] [19253] [Kong] [Vercel] [216.150.16.193] [156.081642ms] [HSTS,Vercel]
+https://cms.yearn.fi [200] [] [9743] [ycms] [Vercel] [216.150.1.1] [206.025227ms] [HSTS,Vercel]
+https://docs.yearn.fi [200] [] [11460] [Yearn Docs] [Vercel] [76.76.21.61] [221.557441ms] [Docusaurus:3.9.2,HSTS,React,Vercel,Webpack]
+https://bluepill.yearn.fi [200] [] [1798] [Yearn | The Blue Pill] [Vercel] [216.150.1.129] [265.737689ms] [HSTS,Vercel]
+https://flux.venus.io [200] [] [4653] [Venus Flux] [Vercel] [216.150.1.1] [265.925789ms] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://katana-apr.yearn.fi [200] [] [12633] [Katana Vault API] [Vercel] [216.150.1.129] [309.336702ms] [HSTS,Vercel]
+https://legacy-veyfi.yearn.fi [200] [] [27967] [veYFI] [Vercel] [216.150.16.1] [278.673182ms] [HSTS,Vercel]
+https://oracle.yearn.fi [200] [] [893] [yearn-oracle-watch] [Vercel] [216.150.16.193] [189.728458ms] [HSTS,Vercel]
+https://rpc.yearn.fi [200] [] [9958] [Yearn RPC Read Proxy] [cloudflare] [104.26.2.43] [cloudflare] [106.521761ms] [Cloudflare,Tailwind CSS]
+https://powerglove.yearn.fi [200] [] [1449] [Yearn Powerglove] [Vercel] [216.150.16.129] [289.850033ms] [HSTS,Vercel]
+https://splitter.yearn.fi [200] [] [884] [ySplitter] [Vercel] [216.150.1.1] [278.028722ms] [HSTS,Vercel]
+https://posthog.venus.io [200] [] [2] [nginx] [3.167.183.48] [cloudfront] [552.065609ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://app-preview.venus.io [200] [] [3746] [Venus Protocol] [AmazonS3] [52.84.127.98] [cloudfront] [944.484449ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://partners.yearn.fi [200] [] [99224] [Yearn Partners] [Vercel] [216.150.1.129] [220.897434ms] [HSTS,Vercel]
+https://presskit.yearn.fi [200] [] [40914] [Yearn Press Kit] [Vercel] [66.33.60.194] [299.349449ms] [HSTS,Vercel]
+https://token-assets.yearn.fi [200] [] [398] [Image Tools] [Vercel] [216.150.1.193] [197.744745ms] [HSTS,Vercel]
+https://blog.yearn.fi [200] [] [201170] [yearn] [Vercel] [64.239.109.193] [371.314741ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://community.venus.io [200] [] [148938] [Venus Community - Venus Protocol Community] [cloudflare] [104.18.13.85] [cloudflare] [710.182991ms] [Cloudflare,Cloudflare Bot Management,Discourse:3.3.0,HSTS,HTTP/3,Ruby on Rails]
+https://gov.yearn.fi [200] [] [176277] [yearn - DeFi made simple] [nginx] [184.104.178.43] [645.494305ms] [Discourse:2026.10.0,HSTS,Nginx,Ruby on Rails]
+https://tokens.venus.io [200] [] [9788] [cloudflare] [104.18.12.85] [cloudflare] [355.955157ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://velodrome.finance [200] [] [4391] [Velodrome Finance] [cloudflare] [104.18.14.32] [cloudflare] [138.728305ms] [Cloudflare]
+https://venus.io [200] [] [5626] [Venus Protocol] [Vercel] [76.76.21.21] [175.233948ms] [HSTS,Vercel]
+https://temple.yearn.fi [200] [] [47197] [yFu Temple] [Vercel] [66.33.60.67] [426.277008ms] [HSTS,Vercel]
+https://ydaemon.yearn.fi [200] [] [32] [nginx/1.22.1] [34.21.69.240] [google] [130.596183ms] [Nginx:1.22.1]
+https://docs-v4.venus.io [200] [] [479933] [Overview | Venus Protocol] [cloudflare] [172.64.147.209] [cloudflare] [280.572664ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://status.yearn.fi [200] [] [98071] [Yearn Status] [cloudflare] [172.67.75.49] [cloudflare] [697.422653ms] [Cloudflare,Tailwind CSS]
+https://yprisma.yearn.fi [200] [] [15629] [yPRISMA] [Vercel] [66.33.60.66] [176.595523ms] [HSTS,Vercel]
+https://ycrv.yearn.fi [200] [] [15929] [yCRV] [Vercel] [66.33.60.66] [325.940203ms] [HSTS,Vercel]
+https://teams.yearn.fi [200] [] [26752] [Team Finances | Yearn Finance] [cloudflare] [104.26.3.43] [cloudflare] [1.041177379s] [Cloudflare,HSTS,Next.js,Node.js,React,Webpack]
+https://www.velodrome.finance [200] [] [4391] [Velodrome Finance] [cloudflare] [104.18.15.32] [cloudflare] [598.529601ms] [Cloudflare]
+https://styfi.yearn.fi [200] [] [51665] [stYFI | Yearn Finance] [cloudflare] [172.67.75.49] [cloudflare] [1.09411624s] [Cloudflare,HSTS,Next.js,Node.js,React,Webpack]
+https://yearn.fi [200] [] [70806] [Yearn Vaults] [Vercel] [216.150.1.1] [192.993607ms] [HSTS,Vercel]
+https://yyb.yearn.fi [200] [] [16454] [yYB] [Vercel] [216.150.1.193] [273.980914ms] [HSTS,Vercel]
+https://ybc.yearn.fi [200] [] [24375] [Yearn Builder's Collective | Yearn Finance] [cloudflare] [172.67.75.49] [cloudflare] [1.16825561s] [Cloudflare,HSTS,Next.js,Node.js,React,Webpack]
+https://yvusd-api.yearn.fi [200] [] [16804] [yvUSD APR API] [Vercel] [216.150.1.129] [1.087234259s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://veyfi.yearn.fi [200] [] [41218] [veYFI | Yearn Finance] [cloudflare] [104.26.3.43] [cloudflare] [1.439734323s] [Cloudflare,HSTS,Next.js,Node.js,React,Webpack]
+https://yeth.yearn.fi [200] [] [25149] [yETH Recovery | Yearn Finance] [cloudflare] [104.26.2.43] [cloudflare] [1.733308411s] [Cloudflare,HSTS,Next.js,Node.js,React,Webpack]
+https://buyback.yearn.fi [200] [] [2601923] [YFI Buyback] [Vercel] [216.150.1.129] [3.521005267s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://docs.venus.io [301] [https://docs-v4.venus.io/] [0] [cloudflare] [104.18.12.85] [cloudflare] [392.007738ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://risk.yearn.fi [301] [https://curation.yearn.fi/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.43] [cloudflare] [102.611506ms] [Cloudflare]
+https://yfi.yearn.fi [301] [https://styfi.yearn.fi/] [167] [301 Moved Permanently] [cloudflare] [172.67.75.49] [cloudflare] [81.131423ms] [Cloudflare]
+
+## 302
+
+## 307
+
+## 308
+https://brand.yearn.fi [308] [https://presskit.yearn.fi/] [15] [Vercel] [66.33.60.67] [206.39811ms] [HSTS,Vercel]
+https://assets.yearn.fi [308] [https://github.com/yearn/tokenAssets] [15] [Vercel] [216.150.1.193] [225.60859ms] [HSTS,Vercel]
+https://app.venus.io [308] [https://venus.io/] [15] [Vercel] [66.33.60.194] [289.684172ms] [HSTS,Vercel]
+https://prizes.yearn.fi [308] [https://pooltogether.yearn.space/] [15] [Vercel] [66.33.60.66] [209.093202ms] [HSTS,Vercel]
+https://www.venus.io [308] [https://venus.io/] [15] [Vercel] [66.33.60.67] [204.550606ms] [HSTS,Vercel]
+https://www.yearn.fi [308] [https://yearn.fi/] [15] [Vercel] [216.150.1.129] [293.449643ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://api.venus.io [404] [] [139] [Error] [nginx] [3.170.51.44] [cloudfront] [460.15127ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://og.yearn.fi [404] [] [2305] [404: This page could not be found] [Vercel] [216.150.16.129] [448.803705ms] [HSTS,Vercel]
+https://testnetapi.venus.io [404] [] [139] [Error] [nginx] [3.167.183.76] [cloudfront] [456.927513ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+
+## 500
+
+## 502
+
+## 503
+
