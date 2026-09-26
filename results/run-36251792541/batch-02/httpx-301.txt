@@ -1,0 +1,7 @@
+https://beta.beefy.finance [301] [https://app.beefy.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.136.132] [cloudflare] [86.58305ms] [Cloudflare]
+https://dashboard.beefy.finance [301] [https://app.beefy.finance/] [534] [301 Moved Permanently] [cloudflare] [172.67.136.132] [cloudflare] [87.029013ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://blog.beefy.finance [301] [https://beefy.finance/articles/] [534] [301 Moved Permanently] [cloudflare] [104.21.26.147] [cloudflare] [92.569638ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://legacy.beefy.finance [301] [https://app.beefy.finance/] [534] [301 Moved Permanently] [cloudflare] [104.21.26.147] [cloudflare] [104.912096ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.beefy.finance [301] [https://beefy.finance/] [534] [301 Moved Permanently] [cloudflare] [172.67.136.132] [cloudflare] [114.307954ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.bebop.xyz [301] [https://bebop.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [342.916003ms] [Cloudflare,HSTS,HTTP/3]
+http://api-test.bebop.xyz [301] [https://api-test.bebop.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.66.147.34] [cloudflare] [42.823628ms] [Cloudflare]
