@@ -1,0 +1,7 @@
+https://www.qfex.com [200] [] [7740] [QFEX - The first 24/7 exchange only for US equities, commodities and FX] [cloudflare] [104.18.22.200] [cloudflare] [61.858575ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://polaris.finance [200] [] [18348] [Polaris] [cloudflare] [104.21.86.212] [cloudflare] [380.33322ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.polaris.finance [200] [] [18348] [Polaris] [cloudflare] [172.67.136.225] [cloudflare] [468.611678ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://status.qfex.com [200] [] [83129] [QFEX Status] [cloudflare] [104.18.22.200] [cloudflare] [200.958044ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://research.qfex.com [200] [] [79332] [QFEX Research | Annanay Kapila | Substack] [cloudflare] [172.64.151.232] [cloudflare] [64.081049ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,Google Analytics,HSTS,HTTP/3,Node.js,Substack]
+https://docs.polaris.finance [200] [] [238185] [Polaris Documentation - Polaris Docs] [GitHub.com] [185.199.110.153] [167.640815ms] [Fastly,GitHub Pages,Varnish]
+https://poolfish.xyz [200] [] [352260] [Find attractive V3 Pools - Poolfish (Prev Uniswap.fish)] [railway-hikari] [69.46.46.21] [526.049647ms] [Next.js,Node.js,React,Webpack]

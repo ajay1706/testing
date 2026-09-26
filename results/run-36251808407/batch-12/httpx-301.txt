@@ -1,0 +1,2 @@
+https://blog.qfex.com [301] [https://research.qfex.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.200] [cloudflare] [34.015565ms] [Cloudflare,HTTP/3]
+https://qfex.com [301] [https://www.qfex.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.23.200] [cloudflare] [46.914792ms] [Cloudflare,HTTP/3]

@@ -1,0 +1,8 @@
+https://verify.qfex.com [404] [] [37] [cloudflare] [104.18.38.10] [cloudflare] [80.395585ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://email.qfex.com [404] [] [0] [] [34.36.71.179] [google] [150.004875ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://click.qfex.com [404] [] [0] [] [34.36.71.179] [google] [295.746654ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://static.qfex.com [404] [] [27517] [Not Found] [cloudflare] [104.18.23.200] [cloudflare] [204.337104ms] [Cloudflare,Cloudflare Browser Insights]
+https://discord-bot.qfex.com [404] [] [19] [CloudFront] [3.167.69.42] [cloudfront] [706.950483ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://http.qfex.com [404] [] [22] [CloudFront] [3.167.69.61] [cloudfront] [743.093831ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://email-assets.qfex.com [404] [] [27517] [Not Found] [cloudflare] [104.18.22.200] [cloudflare] [419.276333ms] [Cloudflare,Cloudflare Browser Insights]
+https://assets.qfex.com [404] [] [27517] [Not Found] [cloudflare] [104.18.23.200] [cloudflare] [420.075331ms] [Cloudflare,Cloudflare Browser Insights]
