@@ -1,0 +1,2 @@
+https://activity-api.braavos.app [403] [] [42] [] [3.170.103.26] [cloudfront] [158.882355ms] [Amazon CloudFront,Amazon Web Services]
+http://test-bookreads.biconomy.io [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [52.84.127.55] [cloudfront] [59.082896ms] [Amazon CloudFront,Amazon Web Services]
