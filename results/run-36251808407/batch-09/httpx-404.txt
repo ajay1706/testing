@@ -1,0 +1,6 @@
+https://campanhas.mercadobitcoin.com.br [404] [] [103] [cloudflare] [104.17.24.105] [cloudflare] [245.733111ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://click.assessor.mercadobitcoin.com.br [404] [] [1449] [404 Not Found] [cloudflare] [104.17.25.105] [cloudflare] [271.985153ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://mobile.mercadobitcoin.com.br [404] [] [103] [cloudflare] [104.17.25.105] [cloudflare] [331.875586ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://click.contato.mercadobitcoin.com.br [404] [] [1449] [404 Not Found] [cloudflare] [104.17.24.105] [cloudflare] [391.601079ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://click.info.mercadobitcoin.com.br [404] [] [1449] [404 Not Found] [cloudflare] [104.17.24.105] [cloudflare] [391.656113ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://click.news.mercadobitcoin.com.br [404] [] [1449] [404 Not Found] [cloudflare] [104.17.25.105] [cloudflare] [547.988255ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
