@@ -1,0 +1,8 @@
+https://atlas.instadapp.io [301] [https://fluid.io/gov/] [167] [301 Moved Permanently] [cloudflare] [172.67.73.1] [cloudflare] [44.065918ms] [Cloudflare,HSTS,HTTP/3]
+https://fluid.instadapp.io [301] [https://fluid.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.0.27] [cloudflare] [132.030015ms] [Cloudflare,HSTS,HTTP/3]
+https://gov.instadapp.io [301] [https://gov.fluid.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.0.27] [cloudflare] [94.617228ms] [Cloudflare,HSTS,HTTP/3]
+https://lite.instadapp.io [301] [https://fluid.io/lite] [167] [301 Moved Permanently] [cloudflare] [104.26.0.27] [cloudflare] [188.952393ms] [Cloudflare,HSTS,HTTP/3]
+http://blog.instadapp.io [301] [https://blog.instadapp.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.0.27] [cloudflare] [19.39713ms] [Cloudflare,HTTP/3]
+http://old.instadapp.io [301] [https://old.instadapp.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.1.27] [cloudflare] [30.256216ms] [Cloudflare,HTTP/2]
+https://www.kittenswap.finance [301] [https://kittenswap.finance/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.219] [cloudflare] [4.040833931s] [Cloudflare]
+http://revenue.instadapp.io [301] [https://revenue.instadapp.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.0.27] [cloudflare] [19.3551ms] [Cloudflare,HTTP/2]
