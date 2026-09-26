@@ -1,0 +1,14 @@
+[+] Batch started: Sat Sep 26 15:30:14 UTC 2026
+[+] Run ID: 36251766127
+[+] Batch name: batch-08
+[+] Batch targets:
+onekey.so
+onto.app
+petra.app
+[+] Running subfinder...
+[+] Subfinder completed: Sat Sep 26 15:30:45 UTC 2026
+[+] HTTPX input count: 94
+[+] Running httpx...
+[+] httpx completed: Sat Sep 26 15:31:06 UTC 2026
+[+] httpx line count: 43
+[+] Batch completed: Sat Sep 26 15:31:06 UTC 2026
