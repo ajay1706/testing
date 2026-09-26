@@ -1,0 +1,3 @@
+https://order-staging.botanika.ai [404] [] [2213] [Botanika] [nginx/1.24.0 (Ubuntu)] [13.228.44.134] [685.995835ms] [Next.js,Nginx:1.24.0,Node.js,React,Ubuntu,Webpack]
+https://api-staging.botanika.ai [404] [] [103] [nginx/1.24.0 (Ubuntu)] [13.228.44.134] [733.564855ms] [Nginx:1.24.0,Ubuntu]
+https://api.botanika.ai [404] [] [103] [nginx/1.24.0 (Ubuntu)] [18.141.184.15] [997.087725ms] [Nginx:1.24.0,Ubuntu]
