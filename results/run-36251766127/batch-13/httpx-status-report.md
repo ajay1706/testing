@@ -1,0 +1,110 @@
+# HTTPX Status Report
+
+Generated at: Sat Sep 26 15:33:38 UTC 2026
+
+HTTPX lines: 82
+Live URLs: 82
+
+## 200
+https://developer.vultisig.com [200] [] [2138] [Vultisig Developer Portal] [Vercel] [216.150.1.193] [64.079586ms] [HSTS,Vercel]
+https://apps.vultisig.com [200] [] [3964] [Vultisig Plugin Marketplace] [Vercel] [216.150.1.1] [159.423132ms] [HSTS,Vercel]
+https://community.vultisig.com [200] [] [3572] [Vultisig Feature Board — Vote on What Vultisig Builds Next] [cloudflare] [104.26.15.76] [cloudflare] [158.563447ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://get.xportal.com [200] [] [2112] [Xportal] [cloudflare] [162.159.140.159] [cloudflare] [186.381211ms] [Cloudflare,HTTP/3]
+https://challenge.xportal.com [200] [] [13319] [xPortal] [Vercel] [216.150.16.1] [111.221913ms] [HSTS,Vercel]
+https://devnet-stats.xportal.com [200] [] [3484] [1 Year. Day 1.] [cloudflare] [104.26.6.129] [cloudflare] [325.446643ms] [Cloudflare]
+https://api-checkout.xverse.app [200] [] [15327] [Xverse API Checkout] [Netlify] [13.52.188.95] [343.384361ms] [HSTS,Netlify]
+https://analytics.vultisig.com [200] [] [8566] [Vultisig Analytics] [Vercel] [216.150.1.129] [300.343416ms] [HSTS,Vercel]
+https://playground.vultisig.com [200] [] [466] [Vultisig playground] [Vercel] [216.150.1.129] [62.622302ms] [HSTS,Vercel]
+https://share-decoder.vultisig.com [200] [] [5616] [Vultisig Share Decoder] [Vercel] [216.150.1.193] [159.151205ms] [HSTS,Vercel]
+https://stats.xportal.com [200] [] [3484] [1 Year. Day 1.] [cloudflare] [104.26.7.129] [cloudflare] [497.454872ms] [Cloudflare]
+https://portfolio.xverse.app [200] [] [70785] [Xverse Portfolio: Seamlessly Track, Analyze & Manage Your Bitcoin Assets] [] [34.8.108.70] [google] [195.509739ms] [Google Cloud,Google Cloud CDN,HSTS,Next.js,Node.js,React,Webpack]
+https://www.xverse.app [200] [] [64150] [Xverse – The Sovereign Onchain Bank & Bitcoin Wallet] [cloudflare] [198.202.211.1] [159.383949ms] [Cloudflare,Google Analytics,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Optibase,jQuery:3.5.1,jsDelivr]
+https://uk.xportal.com [200] [] [214709] [xPortal: the ultimate financial super app & crypto wallet] [cloudflare] [198.202.211.1] [105.996369ms] [Cloudflare,Google Analytics,Google Tag Manager,HSTS,HTTP/3,jQuery:3.5.1,jsDelivr]
+https://xportal.com [200] [] [223061] [xPortal - The Crypto Super App] [cloudflare] [198.202.211.1] [110.907022ms] [Branch,Cloudflare,Google Analytics,Google Tag Manager,HSTS,HTTP/3,jQuery:3.5.1,jsDelivr]
+https://docs.xverse.app [200] [] [651161] [Xverse Developer Documentation | xverse] [cloudflare] [172.64.147.209] [cloudflare] [156.022126ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.vultisig.com [200] [] [674711] [Vultisig Documentation | Seedless MPC Crypto Wallet | Vultisig Docs] [cloudflare] [172.67.69.166] [cloudflare] [384.749009ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,HTTP/3,Vercel]
+https://vultisig.com [200] [] [386323] [Vultisig: Free MPC Wallet - Secure Multi-Chain Crypto Vault] [cloudflare] [172.67.69.166] [cloudflare] [939.114974ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://app.vultisig.com [301] [https://apps.vultisig.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.166] [cloudflare] [90.488821ms] [Cloudflare,HTTP/3]
+http://pool.xverse.app [301] [https://pool.xverse.app/] [39] [Netlify] [13.52.188.95] [6.559755ms] [Netlify]
+https://xverse.app [301] [https://www.xverse.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [254.167033ms] [Cloudflare,HSTS,HTTP/3]
+https://www.xportal.com [301] [https://xportal.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [373.367655ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://connect.xverse.app [302] [https://www.xverse.app/] [145] [302 Found] [] [34.144.219.36] [google] [72.503842ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://brc20.xverse.app [302] [https://portfolio.xverse.app] [138] [302 Found] [] [34.144.219.36] [google] [93.191083ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://help.xportal.com [302] [https://help.xportal.com/en/] [0] [nginx] [65.8.180.98] [cloudfront] [237.191762ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://portfolio-staging.xverse.app [302] [https://portfolio.xverse.app/] [138] [302 Found] [] [34.8.108.70] [google] [70.627346ms] [Google Cloud,Google Cloud CDN,HSTS]
+https://support.xverse.app [302] [https://support.xverse.app/hc] [0] [cloudflare] [216.198.53.6] [172.233689ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://wallet.xverse.app [302] [https://portfolio.xverse.app/] [138] [302 Found] [] [34.8.108.70] [google] [162.548966ms] [Google Cloud,Google Cloud CDN,HSTS]
+
+## 307
+https://api-testnet4.xverse.app [307] [https://api-signet.xverse.app/] [0] [] [34.54.28.208] [google] [108.870556ms] [HTTP/3]
+https://api-dashboard.xverse.app [307] [/login] [6] [] [34.144.219.36] [google] [110.838614ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://launch.vultisig.com [307] [https://community.vultisig.com/] [15] [Vercel] [66.33.60.34] [272.464286ms] [HSTS,Vercel]
+https://ord-testnet4.xverse.app [307] [https://ord-signet.xverse.app/] [0] [] [34.54.28.208] [google] [160.922847ms] [HTTP/3]
+
+## 308
+https://www.vultisig.com [308] [https://vultisig.com/] [15] [cloudflare] [104.26.15.76] [cloudflare] [218.194862ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+https://portfolio-staging-x.xverse.app [401] [] [574] [401 Authorization Required] [] [34.8.108.70] [google] [151.616057ms] [Basic,Google Cloud,Google Cloud CDN,HSTS]
+
+## 403
+https://devnet-internal-api.xportal.com [403] [] [146] [403 Forbidden] [] [137.74.127.149] [537.598927ms] [HSTS]
+https://devnet-portal-backoffice.xportal.com [403] [] [548] [403 Forbidden] [] [137.74.127.149] [552.019517ms] [HSTS]
+https://devnet-offlinejobs.xportal.com [403] [] [146] [403 Forbidden] [] [137.74.127.149] [566.41484ms] [HSTS]
+https://internal-api.xportal.com [403] [] [146] [403 Forbidden] [] [188.166.132.235] [501.11889ms] [HSTS]
+https://mainnet-portal-backoffice.xportal.com [403] [] [146] [403 Forbidden] [] [188.166.132.235] [515.432398ms] [HSTS]
+https://mainnet-private-anlytics.xportal.com [403] [] [146] [403 Forbidden] [] [188.166.132.235] [548.230929ms] [HSTS]
+https://api.vultisig.com [403] [] [523] [403 Forbidden] [cloudflare] [104.26.15.76] [cloudflare] [1.303245853s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 404
+https://due-webhook-signet.xverse.app [404] [] [21] [] [34.49.192.207] [google] [77.213522ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://api-2.xverse.app [404] [] [80] [] [34.144.219.36] [google] [77.13472ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://api.xverse.app [404] [] [80] [] [34.144.219.36] [google] [85.099003ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://api-3.xverse.app [404] [] [80] [] [34.144.219.36] [google] [96.087671ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://btc-1.xverse.app [404] [] [27] [] [34.144.219.36] [google] [106.973073ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://btc-signet.xverse.app [404] [] [27] [] [34.49.192.207] [google] [152.339837ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://api-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [158.088072ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://k8s.xverse.app [404] [] [21] [] [34.144.219.36] [google] [89.752759ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://btc-9.xverse.app [404] [] [27] [] [34.144.219.36] [google] [261.520665ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://due-webhook.xverse.app [404] [] [21] [] [34.144.219.36] [google] [202.739237ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://inscribe.xverse.app [404] [] [80] [] [34.144.219.36] [google] [189.038681ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://inscribe-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [212.515733ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://ord.xverse.app [404] [] [80] [] [34.144.219.36] [google] [158.971669ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://ord-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [216.958888ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://ordinals.xverse.app [404] [] [80] [] [34.144.219.36] [google] [93.571236ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://devnet2-growthbook.xportal.com [404] [] [21] [] [137.74.127.149] [559.868048ms] [HSTS]
+https://devnet-private-anlytics.xportal.com [404] [] [21] [] [137.74.127.149] [579.575299ms] [HSTS]
+https://devnet-market-api.xportal.com [404] [] [21] [] [137.74.127.149] [607.798477ms] [HSTS]
+https://analytics-api.vultisig.com [404] [] [207] [404 Not Found] [gunicorn] [129.212.210.189] [620.743004ms] [Python,gunicorn]
+https://devnet-api.xportal.com [404] [] [63] [cloudflare] [104.26.6.129] [cloudflare] [796.442599ms] [Cloudflare,Express,HSTS,Node.js]
+https://devnet2-growthbook-api.xportal.com [404] [] [21] [cloudflare] [172.67.73.142] [cloudflare] [807.852643ms] [Cloudflare,HSTS]
+https://testnet-internal-api.xportal.com [404] [] [21] [] [137.74.127.149] [509.165515ms] [HSTS]
+https://testnet-offlinejobs.xportal.com [404] [] [21] [] [137.74.127.149] [520.520258ms] [HSTS]
+https://testnet-market-api.xportal.com [404] [] [21] [] [137.74.127.149] [540.981872ms] [HSTS]
+https://testnet-private-anlytics.xportal.com [404] [] [21] [] [137.74.127.149] [546.406233ms] [HSTS]
+https://testnet-portal-backoffice.xportal.com [404] [] [21] [] [137.74.127.149] [558.777515ms] [HSTS]
+https://testnet-stats.xportal.com [404] [] [27150] [Not Found] [cloudflare] [104.26.7.129] [cloudflare] [404.984055ms] [Cloudflare]
+https://wallet-signet.xverse.app [404] [] [21] [] [34.49.192.207] [google] [328.057215ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://testnet-api.xportal.com [404] [] [21] [cloudflare] [104.26.7.129] [cloudflare] [810.715867ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+https://agent.vultisig.com [502] [] [16] [cloudflare] [172.67.69.166] [cloudflare] [1.007415053s] [Cloudflare,HTTP/3]
+https://abe.vultisig.com [502] [] [16] [cloudflare] [172.67.69.166] [cloudflare] [1.263649884s] [Cloudflare,HTTP/3]
+
+## 503
+https://btc-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [101.644461ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api-dashboard-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [147.621021ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://due-webhook-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [135.395214ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://inscribegpt.xverse.app [503] [] [190] [503 Service Temporarily Unavailable] [] [34.144.219.36] [google] [170.113741ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://inscribe-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [196.383803ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://ordinals-signet.xverse.app [503] [] [592] [503 Service Temporarily Unavailable] [] [34.49.192.207] [google] [147.398628ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://ordinals-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [213.32099ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://stx20.xverse.app [503] [] [592] [503 Service Temporarily Unavailable] [] [34.144.219.36] [google] [162.560803ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://wallet-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [162.854818ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
