@@ -1,0 +1,2 @@
+https://staging4.digitalprimetechnologies.com [401] [] [172] [401 Authorization Required] [nginx] [35.208.4.74] [google] [199.064349ms] [Basic,Nginx]
+https://www.staging4.digitalprimetechnologies.com [401] [] [172] [401 Authorization Required] [nginx] [35.208.4.74] [google] [227.390281ms] [Basic,Nginx]
