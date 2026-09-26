@@ -1,0 +1,4 @@
+https://fullnode.mainnet.aptos.nightly.app [503] [] [20] [] [176.9.65.222] [503.472229ms] [HTTP/3]
+https://index.mainnet.aptos.nightly.app [503] [] [20] [] [176.9.65.222] [378.081646ms] [HTTP/3]
+https://movement.galxe.nightly.app [503] [] [20] [] [128.140.58.26] [470.964667ms] [HTTP/3]
+https://www.fullnode.mainnet.aptos.nightly.app [503] [] [20] [] [176.9.65.222] [333.356062ms] [HTTP/3]
