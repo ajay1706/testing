@@ -1,0 +1,14 @@
+[+] Batch started: Sat Sep 26 15:27:26 UTC 2026
+[+] Run ID: 36251766127
+[+] Batch name: batch-05
+[+] Batch targets:
+keplr.app
+kresus.com
+leapwallet.io
+[+] Running subfinder...
+[+] Subfinder completed: Sat Sep 26 15:28:21 UTC 2026
+[+] HTTPX input count: 475
+[+] Running httpx...
+[+] httpx completed: Sat Sep 26 15:29:42 UTC 2026
+[+] httpx line count: 215
+[+] Batch completed: Sat Sep 26 15:29:42 UTC 2026
