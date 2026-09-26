@@ -1,0 +1,15 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] eth-cf-gateway.megaeth.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eth-cf-gateway.megaeth.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] evm-rpc.wallet.atlantic-2.sei.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] evm-rpc.wallet.atlantic-2.sei.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] execution.metamask.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] execution.metamask.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer-stats.devnet.citrea.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer-stats.devnet.citrea.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://eth-mainnet-backup.g.alchemy.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://eth-mainnet-backup.g.alchemy.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://eth-mainnet-backup.g.alchemy.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://eth-mainnet-backup.g.alchemy.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ethereum-plugin-sdk.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ethereum-plugin-sdk.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ethereum-plugin-sdk.ledger.com
