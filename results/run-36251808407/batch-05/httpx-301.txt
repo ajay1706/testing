@@ -1,0 +1,6 @@
+https://felixpago.com [301] [https://www.felixpago.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [276.686486ms] [Cloudflare,HTTP/3]
+http://hola.felixpago.com [301] [https://hola.felixpago.com/] [0] [] [34.149.87.45] [google] [89.412595ms] [Google Cloud,Google Cloud CDN,React,Wix]
+http://sandbox.monitoring.fin.com [301] [https://sandbox.monitoring.fin.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.241] [cloudflare] [1.034156611s] [Cloudflare]
+http://sandbox.metabase.fin.com [301] [https://sandbox.metabase.fin.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.241] [cloudflare] [1.049761644s] [Cloudflare]
+http://vault.fin.com [301] [https://vault.fin.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.241] [cloudflare] [2.032929555s] [Cloudflare]
+http://www.fin.com [301] [https://www.fin.com/] [167] [301 Moved Permanently] [CloudFront] [18.239.199.60] [cloudfront] [4.055654392s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
