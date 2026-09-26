@@ -1,0 +1,8 @@
+[CVE-2026-27454] [http] [medium] https://gov.magpiexyz.io/posts/1623.json?version=1
+[package-json] [http] [low] https://governance.manta.network/package.json
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://governance.manta.network
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://governance.manta.network
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://governance.manta.network
+[grafana-metrics-exposure:version] [http] [low] https://grafana.dev.platform.sei.io/metrics ["12.4.0"]
+[kubernetes-metrics] [http] [low] https://grafana.dev.platform.sei.io/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.dev.platform.sei.io/metrics
