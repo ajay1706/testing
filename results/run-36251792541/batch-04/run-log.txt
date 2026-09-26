@@ -1,0 +1,14 @@
+[+] Batch started: Sat Sep 26 15:25:36 UTC 2026
+[+] Run ID: 36251792541
+[+] Batch name: batch-04
+[+] Batch targets:
+cellana.finance
+convexfinance.com
+cowswap.exchange
+[+] Running subfinder...
+[+] Subfinder completed: Sat Sep 26 15:27:42 UTC 2026
+[+] HTTPX input count: 38
+[+] Running httpx...
+[+] httpx completed: Sat Sep 26 15:27:48 UTC 2026
+[+] httpx line count: 11
+[+] Batch completed: Sat Sep 26 15:27:48 UTC 2026
