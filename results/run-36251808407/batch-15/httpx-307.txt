@@ -1,0 +1,2 @@
+https://app.testnet.umia.finance [307] [/login] [15] [Vercel] [216.150.1.193] [201.938402ms] [HSTS,Vercel]
+https://umia.finance [307] [https://www.umia.finance/] [15] [Vercel] [216.150.1.1] [132.54603ms] [HSTS,Vercel]
