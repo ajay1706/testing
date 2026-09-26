@@ -1,0 +1,14 @@
+[+] Batch started: Sat Sep 26 15:29:28 UTC 2026
+[+] Run ID: 36251792541
+[+] Batch name: batch-09
+[+] Batch targets:
+lynex.fi
+matcha.xyz
+maverickprotocol.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Sat Sep 26 15:29:53 UTC 2026
+[+] HTTPX input count: 82
+[+] Running httpx...
+[+] httpx completed: Sat Sep 26 15:30:14 UTC 2026
+[+] httpx line count: 79
+[+] Batch completed: Sat Sep 26 15:30:14 UTC 2026

@@ -1,0 +1,6 @@
+https://goerli.api.lynex.fi [503] [] [567] [Application Error] [Heroku] [3.33.241.96] [323.834812ms]
+https://da.lynex.fi [503] [] [1872] [Application Error] [cloudflare] [104.26.4.37] [cloudflare] [327.608885ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dev.da.lynex.fi [503] [] [567] [Application Error] [Heroku] [13.248.132.87] [340.365698ms]
+https://alpha.api.lynex.fi [503] [] [567] [Application Error] [Heroku] [3.33.241.96] [470.320803ms]
+https://v1.api.lynex.fi [503] [] [567] [Application Error] [Heroku] [15.197.246.237] [274.362189ms]
+https://v1-api.lynex.fi [503] [] [1872] [Application Error] [cloudflare] [104.26.5.37] [cloudflare] [321.120186ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]

@@ -1,0 +1,2 @@
+http://permit.meta.matcha.xyz [301] [https://permit.meta.matcha.xyz/] [528] [301 Moved Permanently] [cloudflare] [104.18.26.209] [cloudflare] [30.249669ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/2]
+http://staging.v2.lynex.fi [301] [https://staging.v2.lynex.fi/] [534] [301 Moved Permanently] [cloudflare] [104.26.4.37] [cloudflare] [38.243197ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
