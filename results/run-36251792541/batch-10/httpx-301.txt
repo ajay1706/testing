@@ -1,0 +1,2 @@
+https://www.merchantmoe.com [301] [https://merchantmoe.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.150.31] [cloudflare] [169.592786ms] [Cloudflare,HSTS,HTTP/3]
+http://dev-testing.moonwell.fi [301] [https://dev-testing.moonwell.fi/] [528] [301 Moved Permanently] [cloudflare] [172.66.166.238] [cloudflare] [33.398515ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
