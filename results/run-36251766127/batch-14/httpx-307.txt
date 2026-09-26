@@ -1,0 +1,4 @@
+https://app.zerion.io [307] [/trending] [0] [cloudflare] [104.18.31.243] [cloudflare] [40.492857ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://beta.zerion.io [307] [/trending] [0] [cloudflare] [104.18.31.243] [cloudflare] [53.621025ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://link.zerion.io [307] [https://zerion.io] [0] [cloudflare] [104.18.31.243] [cloudflare] [198.522758ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ref.zar.app [307] [https://www.zar.app/download] [0] [openresty] [35.167.216.18] [350.907915ms] [HSTS,Nginx,OpenResty]
