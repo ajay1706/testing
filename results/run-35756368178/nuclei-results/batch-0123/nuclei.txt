@@ -1,0 +1,2 @@
+[CVE-2026-33032] [http] [critical] https://erpc-ws-na.bepolia.berachain.com/mcp_message
+[CVE-2026-33032] [http] [critical] https://erpc-ws-eu.bepolia.berachain.com/mcp_message
