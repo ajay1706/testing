@@ -1,0 +1,3 @@
+https://backup.hydrex.fi [503] [] [256] [Service Suspended] [cloudflare] [216.24.57.18] [214.214446ms] [Cloudflare,HTTP/3]
+https://backup.api.hydrex.fi [503] [] [256] [Service Suspended] [cloudflare] [216.24.57.18] [412.96372ms] [Cloudflare,HTTP/3]
+https://mirror.hydrex.fi [503] [] [256] [Service Suspended] [cloudflare] [216.24.57.18] [232.017257ms] [Cloudflare,HTTP/3]
