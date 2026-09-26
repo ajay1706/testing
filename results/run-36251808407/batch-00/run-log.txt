@@ -1,0 +1,14 @@
+[+] Batch started: Sat Sep 26 15:25:52 UTC 2026
+[+] Run ID: 36251808407
+[+] Batch name: batch-00
+[+] Batch targets:
+aigaea.net
+beldex.io
+blox.my
+[+] Running subfinder...
+[+] Subfinder completed: Sat Sep 26 15:26:30 UTC 2026
+[+] HTTPX input count: 142
+[+] Running httpx...
+[+] httpx completed: Sat Sep 26 15:26:51 UTC 2026
+[+] httpx line count: 96
+[+] Batch completed: Sat Sep 26 15:26:51 UTC 2026
