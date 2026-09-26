@@ -1,0 +1,6 @@
+https://kaiko.com [301] [https://www.kaiko.com/] [0] [AmazonS3] [13.35.78.30] [cloudfront] [52.864256ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://blog.kaiko.com [301] [https://www.kaiko.com/resources/data-blog] [167] [301 Moved Permanently] [cloudflare] [104.18.23.126] [cloudflare] [56.534832ms] [Cloudflare,HSTS,HTTP/3]
+https://docs.jpyc.jp [301] [https://jpyc-support.freshdesk.com/support/home/] [0] [AmazonS3] [13.226.238.97] [cloudfront] [137.042378ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://blog.jpyc.jp [301] [https://jpyc-support.freshdesk.com/support/home] [0] [CloudFront] [3.167.99.63] [cloudfront] [138.019889ms] [Amazon CloudFront,Amazon Web Services]
+https://research.kaiko.com [301] [https://app.kaiko.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.126] [cloudflare] [140.085303ms] [Cloudflare,HSTS,HTTP/3]
+https://web-bo-i.kaiko.com [301] [/wp-admin] [0] [cloudflare] [104.18.22.126] [cloudflare] [558.654812ms] [Cloudflare,HSTS,HTTP/3,MySQL,PHP,WordPress]
