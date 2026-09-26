@@ -1,0 +1,57 @@
+# HTTPX Status Report
+
+Generated at: Sat Sep 26 15:34:01 UTC 2026
+
+HTTPX lines: 31
+Live URLs: 31
+
+## 200
+https://geo3.standx.com [200] [] [42] [cloudflare] [104.26.13.217] [cloudflare] [108.071594ms] [Cloudflare,HTTP/3]
+https://docs.standx.com [200] [] [1887] [cloudflare] [104.26.12.217] [cloudflare] [195.688548ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://alpha-docs.standx.com [200] [] [1887] [cloudflare] [104.26.13.217] [cloudflare] [184.151435ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://eot.info.standx.com [200] [] [1133] [Hello - EmailOctopus] [] [54.171.65.116] [473.331851ms] [HTTP/3]
+https://geo.standx.com [200] [] [42] [cloudflare] [104.26.12.217] [cloudflare] [588.283076ms] [Cloudflare,HTTP/3]
+https://standx.com [200] [] [56595] [StandX: Universal Markets. Universal Yield.] [cloudflare] [104.26.12.217] [cloudflare] [208.223983ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.tenbinlabs.xyz [200] [] [37967] [Tenbin] [cloudflare] [172.66.40.96] [cloudflare] [428.141824ms] [Cloudflare,Fathom,HTTP/3,Unpkg]
+https://alpha.standx.com [200] [] [56595] [StandX: Universal Markets. Universal Yield.] [cloudflare] [104.26.12.217] [cloudflare] [261.87297ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://commodities.tenbinlabs.xyz [200] [] [108836] [Where's Liquidity? The Fantastic Commodity (2026)] [Vercel] [216.150.16.193] [474.39785ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://skew.trade [200] [] [17087] [Skew | Markets in your favor.] [Vercel] [216.150.1.129] [1.324851701s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.tenbinlabs.xyz [200] [] [460337] [What is Tenbin? | Tenbin Docs] [cloudflare] [172.66.40.96] [cloudflare] [317.616708ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://status.tenbinlabs.xyz [200] [] [117155] [Tenbin Status] [cloudflare] [172.66.43.160] [cloudflare] [1.285913863s] [Cloudflare,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://www.standx.com [301] [https://standx.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.217] [cloudflare] [113.449207ms] [Cloudflare,HTTP/3]
+https://tenbinlabs.xyz [301] [https://www.tenbinlabs.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.66.43.160] [cloudflare] [115.122361ms] [Cloudflare]
+https://www.skew.trade [301] [https://skew.trade/] [15] [Vercel] [216.150.1.129] [155.45589ms] [HSTS,Vercel]
+
+## 302
+
+## 307
+https://www.staging.skew.trade [307] [https://staging.skew.trade/] [15] [Vercel] [216.150.1.1] [371.19299ms] [HSTS,Vercel]
+https://app.tenbinlabs.xyz [307] [/explore] [74703] [Tenbin] [cloudflare] [172.66.43.160] [cloudflare] [602.043575ms] [Cloudflare,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://beta.tenbinlabs.xyz [307] [/explore] [90188] [Tenbin] [Vercel] [216.150.16.129] [3.237410991s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 308
+
+## 401
+https://staging.skew.trade [401] [] [15192] [Protected Page] [Vercel] [216.150.16.129] [250.62301ms] [HSTS,Vercel]
+
+## 403
+https://fxcarry.tenbinlabs.xyz [403] [] [59] [Vercel] [216.150.1.129] [156.432194ms] [Vercel]
+
+## 404
+https://dashboard.skew.trade [404] [] [107] [Vercel] [216.150.1.193] [127.206918ms] [HSTS,Vercel]
+https://mta-sts.tenbinlabs.xyz [404] [] [9] [cloudflare] [172.66.43.160] [cloudflare] [163.390976ms] [Cloudflare,HTTP/3]
+https://api.skew.trade [404] [] [146] [404 Not Found] [] [146.190.186.63] [179.747167ms] [HSTS]
+https://localtmp.skew.trade [404] [] [107] [Vercel] [216.150.1.193] [210.210222ms] [HSTS,Vercel]
+https://lpa.skew.trade [404] [] [107] [Vercel] [216.150.1.193] [239.894054ms] [HSTS,Vercel]
+https://www.lpa.skew.trade [404] [] [107] [Vercel] [216.150.1.65] [368.989584ms] [HSTS,Vercel]
+https://wildcard.skew.trade [404] [] [107] [Vercel] [216.150.16.193] [409.90572ms] [HSTS,Vercel]
+https://marketdata.skew.trade [404] [] [146] [404 Not Found] [] [146.190.186.63] [425.858858ms] [HSTS]
+
+## 500
+
+## 502
+
+## 503
+
