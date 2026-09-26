@@ -1,0 +1,4 @@
+https://cari.com [308] [https://www.cari.com/] [57] [Framer/26fa766] [31.43.160.6] [231.590745ms] [Framer Sites,HSTS,HTTP/3,React]
+https://cork.tech [308] [https://www.cork.tech/] [169] [308 Permanent Redirect] [cloudflare] [172.66.158.234] [cloudflare] [81.145381ms] [Cloudflare,HSTS]
+https://www.catena.com [308] [https://catena.com/] [169] [308 Permanent Redirect] [cloudflare] [104.26.11.172] [cloudflare] [87.741298ms] [Cloudflare]
+http://www.cari.com [308] [https://www.cari.com/] [0] [] [31.43.161.6] [55.356223ms] [HSTS,HTTP/3]

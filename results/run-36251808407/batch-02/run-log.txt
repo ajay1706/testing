@@ -1,0 +1,14 @@
+[+] Batch started: Sat Sep 26 15:25:52 UTC 2026
+[+] Run ID: 36251808407
+[+] Batch name: batch-02
+[+] Batch targets:
+cari.com
+catena.com
+cork.tech
+[+] Running subfinder...
+[+] Subfinder completed: Sat Sep 26 15:28:53 UTC 2026
+[+] HTTPX input count: 197
+[+] Running httpx...
+[+] httpx completed: Sat Sep 26 15:29:33 UTC 2026
+[+] httpx line count: 66
+[+] Batch completed: Sat Sep 26 15:29:33 UTC 2026
