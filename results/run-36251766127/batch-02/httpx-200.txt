@@ -1,0 +1,6 @@
+https://docs.core.app [200] [] [21320] [Core developer documentation | Core Documentation] [cloudflare] [104.18.35.56] [cloudflare] [126.411736ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.10.2,React,Webpack]
+https://fide.core.app [200] [] [26983] [Download Core, the Best Crypto Wallet] [] [34.217.231.110] [252.606218ms] [Cloudflare,Google Font API,Google Hosted Libraries,HTTP/3,jQuery:3.5.1]
+https://identity.core.app [200] [] [2327] [Core | The Best Way to Connect to Web3] [cloudflare] [172.64.152.200] [cloudflare] [97.617867ms] [Cloudflare,Cloudflare Browser Insights]
+https://ctrl.xyz [200] [] [281804] [Secure and powerful crypto wallet | Ctrl Wallet] [cloudflare] [104.21.85.13] [cloudflare] [99.256369ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://www.ctrl.xyz [200] [] [281804] [Secure and powerful crypto wallet | Ctrl Wallet] [cloudflare] [172.67.200.178] [cloudflare] [108.871073ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://core.app [200] [] [987785] [Core Wallet. Buy, Sell & Manage Crypto | Free Crypto Wallet] [cloudflare] [172.64.152.200] [cloudflare] [480.232842ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
