@@ -1,0 +1,1 @@
+[CVE-2025-46817:version] [javascript] [critical] storage-staging.botanika.ai:6379 ["7.4.10"]

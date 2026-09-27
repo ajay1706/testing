@@ -1,0 +1,40 @@
+[CVE-2025-46817:version] [javascript] [critical] storage-staging.botanika.ai:6379 ["7.4.10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] supabase.qfex.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] supabase.qfex.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] switchboard-api.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] switchboard-api.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] switchboard.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] switchboard.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tenbinlabs.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tenbinlabs.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] test-app.pacifica.fi:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] test-app.pacifica.fi:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] test.credit.felixpago.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] test.credit.felixpago.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] test.kyc.felixpago.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] test.kyc.felixpago.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] test.ref.felixpago.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] testingbridge.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testingbridge.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] test.ref.felixpago.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://transfer.jpyc.jp
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://transfer.jpyc.jp
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://transfer.jpyc.jp
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://transfer.jpyc.jp
+[tomcat-stacktraces] [http] [low] https://testingbridge.beldex.io/?f=\[
+[self-signed-ssl] [ssl] [low] supply-page-fixes.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] supply-asset-volume.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] supply-page-fixes.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] supply-stats.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] svg.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] svg.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] swap-btn-bug.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] theme-refactor.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] theme-refactor.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] total-data.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] total-data.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] transfer-liquidity-fix.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] transfer-liquidity-fix.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] update-next.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] update-next.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] v1.dev.liquorice.tech:443
