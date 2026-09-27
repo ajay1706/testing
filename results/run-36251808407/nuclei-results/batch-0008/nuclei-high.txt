@@ -1,0 +1,2 @@
+[rocketlms-default-login] [http] [high] https://panel.fin.com/login [password="admin",username="admin@demo.com"]
+[CVE-2026-25892:version] [http] [high] https://panel.fin.com/adminer.php ["4.8.1"]

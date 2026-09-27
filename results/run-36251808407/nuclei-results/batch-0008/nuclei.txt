@@ -1,0 +1,37 @@
+[CVE-2024-46310] [http] [medium] https://quote.trade/players.json
+[rocketlms-default-login] [http] [high] https://panel.fin.com/login [password="admin",username="admin@demo.com"]
+[error-logs] [http] [low] https://panel.fin.com/error_log [paths="/error_log"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] passbolt.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] passbolt.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] portal.kaiko.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] portal.kaiko.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] prod.felixpago.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] prod.felixpago.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] promotions.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] promotions.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] protocol.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] protocol.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] public-api.tenbinlabs.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] public-api.tenbinlabs.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] qa-agent-dev.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] qfex.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] qa-agent-dev.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] qfex.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] quote.trade:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] quote.trade:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] re-mq.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] re-mq.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2026-25892:version] [http] [high] https://panel.fin.com/adminer.php ["4.8.1"]
+[wp-acf-fpd] [http] [low] https://pro.edgex.exchange/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-accordion.php
+[self-signed-ssl] [ssl] [low] privacy-terms.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] problematic-approve.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] problematic-approve.staging.liquorice.tech:443
+[expired-ssl] [ssl] [low] policy.hifi.com:443 ["2026-07-26 07:31:48 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] pwa-icons.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] pwa-icons.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] pwa.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] pwa.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] rainbowkit.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] revert-deploy-on-staging.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] revert-deploy-on-staging.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] review.dev.liquorice.tech:443
