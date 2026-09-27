@@ -1,0 +1,21 @@
+[CVE-2025-29927] [http] [critical] https://admin.blox.my
+[CVE-2025-29927] [http] [critical] https://admin.janjipay.development.blox.my
+[CVE-2023-48795] [javascript] [medium] social.beldex.io:22 ["Vulnerable to Terrapin"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 1212port.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 1212port.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] agents.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] agents.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[self-signed-ssl] [ssl] [low] aave.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] actiity-trades-table.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] actiity-trades-table.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-data.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-mobile.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-description.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-mobile.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-stats.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-stats.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-trades-mm-col.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] activity-trades-mm-col.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] add-link.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] add-staging.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] add-link.staging.liquorice.tech:443
