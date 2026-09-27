@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://ponder-eu.moonwell.fi/metrics
+[prometheus-metrics] [http] [medium] https://ponder-eu2.moonwell.fi/metrics
+[prometheus-metrics] [http] [medium] https://ponder.moonwell.fi/metrics
