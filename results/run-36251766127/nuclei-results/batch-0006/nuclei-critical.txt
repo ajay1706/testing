@@ -1,0 +1,1 @@
+[CVE-2026-33032] [http] [critical] https://evm-1.keplr.app/mcp_message
