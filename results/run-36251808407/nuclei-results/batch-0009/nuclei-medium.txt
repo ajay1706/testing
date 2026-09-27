@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://sandbox.webhook.fin.com/metrics
+[prometheus-metrics] [http] [medium] https://stage.console-api.fin.com/metrics
+[prometheus-metrics] [http] [medium] https://stage.odc-api.fin.com/metrics
+[prometheus-metrics] [http] [medium] https://stage.webhook.fin.com/metrics
