@@ -1,0 +1,2 @@
+[CVE-2026-39364] [http] [high] https://analytics-mini.kresus.com/.env?raw??
+[CVE-2019-11248] [http] [high] https://api.suiet.app/debug/pprof/
