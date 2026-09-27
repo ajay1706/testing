@@ -1,0 +1,42 @@
+[CVE-2026-26265] [http] [high] https://forum.moonwell.fi/directory_items.json?period=all&user_field_ids=1
+[CVE-2026-27454] [http] [medium] https://forum.moonwell.fi/posts/5109.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.pancakeswap.finance/posts/3014.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.yearn.fi/posts/36035.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.fluid.io/posts/3676.json?version=1
+[open-redirect-generic] [http] [medium] https://greenfield.syncswap.xyz/%5C%5Coast.me/%252e%252e%252f [redirect="%5C%5Coast.me/%252e%252e%252f"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] evm.ekubo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] evm.ekubo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] external.liquidswap.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] external.liquidswap.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] farms.movement.liquidswap.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] farms.movement.liquidswap.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] farms.liquidswap.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] farms.liquidswap.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] feedback.matcha.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] feedback.matcha.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] forum.hydrex.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] forum.hydrex.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] freelp.ekubo.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] freelp.ekubo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] governance.hydrex.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] governance.hydrex.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] graph1.syncswap.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] greenfield.syncswap.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] graph1.syncswap.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] greenfield.syncswap.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hair.liquidswap.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hair.liquidswap.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] help.avocado.instadapp.io:443 ["[tls12 TLS_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] home.liquidswap.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] home.liquidswap.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hydrex.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hydrex.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[web-config] [http] [low] https://forum.synapseprotocol.com/web.config
+[web-config] [http] [low] https://forum.synapseprotocol.com/../../web.config
+[graphiql-exposure] [http] [low] https://fullnode.sui.testnet.aftermath.finance/graphql
+[grafana-metrics-exposure:version] [http] [low] https://grafana.kodiak.finance/metrics ["13.2.1"]
+[kubernetes-metrics] [http] [low] https://grafana.kodiak.finance/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.kodiak.finance/metrics
+[CVE-2022-28923] [http] [medium] https://greenfield.syncswap.xyz/%5C%5Cinteract.sh/%252e%252e%252f
+[expired-ssl] [ssl] [low] go.matcha.xyz:443 ["2022-11-10 17:43:45 +0000 UTC"]
+[expired-ssl] [ssl] [low] hostmaster.matcha.xyz:443 ["2022-11-10 17:43:45 +0000 UTC"]

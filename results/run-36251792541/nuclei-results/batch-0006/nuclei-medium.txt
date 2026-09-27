@@ -1,0 +1,6 @@
+[CVE-2026-27454] [http] [medium] https://forum.moonwell.fi/posts/5109.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.pancakeswap.finance/posts/3014.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.yearn.fi/posts/36035.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.fluid.io/posts/3676.json?version=1
+[open-redirect-generic] [http] [medium] https://greenfield.syncswap.xyz/%5C%5Coast.me/%252e%252e%252f [redirect="%5C%5Coast.me/%252e%252e%252f"]
+[CVE-2022-28923] [http] [medium] https://greenfield.syncswap.xyz/%5C%5Cinteract.sh/%252e%252e%252f
