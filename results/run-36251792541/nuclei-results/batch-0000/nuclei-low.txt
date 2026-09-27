@@ -1,0 +1,15 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] academy.hydrex.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] academy-api.hydrex.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] academy.hydrex.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] academy-api.hydrex.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] aerodrome.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] aerodrome.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] airdrop.liquidswap.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] airdrop.liquidswap.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] alertmanager.stg.rhino.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] alertmanager.stg.rhino.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure:version] [http] [low] https://aevo-prod-monitor.socket.tech/metrics ["10.0.3"]
+[postgres-exporter-metrics] [http] [low] https://aevo-prod-monitor.socket.tech/metrics
+[ds-store-file] [http] [low] https://alpha.lynex.fi/.DS_Store
+[expired-ssl] [ssl] [low] admin.blockquery.instadapp.io:443 ["2025-03-03 03:20:57 +0000 UTC"]
+[expired-ssl] [ssl] [low] advanced.matcha.xyz:443 ["2022-11-10 17:43:45 +0000 UTC"]
