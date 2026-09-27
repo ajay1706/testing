@@ -1,0 +1,53 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] email-assets.qfex.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] email-assets.qfex.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] exchange.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] exchange.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] faucet.jpyc.jp:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] faucet.jpyc.jp:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] findmyfriends.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] findmyfriends.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fltest.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fltest.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] geo.standx.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] geo3.standx.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] geo.standx.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] geo3.standx.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] git.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] git.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hades.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hades.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] help.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] help.jojo.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] help.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] help.jojo.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hsbc-wrap.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hsbc-wrap.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ice.standx.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ice.standx.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.liquorice.tech/metrics ["12.3.1"]
+[kubernetes-metrics] [http] [low] https://grafana.liquorice.tech/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.liquorice.tech/metrics
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://handbook.kled.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://handbook.kled.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://handbook.kled.ai
+[google-api-key] [http] [low] https://get.felixpago.com ["AIzaSyDIMrj5vRvF4QyyB0QY-aKIkeH-AzS9Oz4"]
+[google-api-key] [http] [low] https://get.felixpago.com/hopfully404 ["AIzaSyDIMrj5vRvF4QyyB0QY-aKIkeH-AzS9Oz4"]
+[self-signed-ssl] [ssl] [low] entry-fee.dev.liquorice.tech:443
+[expired-ssl] [ssl] [low] enclave.samudera.blox.my:443 ["2025-10-02 11:19:26 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] fix-activity-mobile.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] fix-activity-mobile.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] fix-activity-page-size.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] fix-activity-page-size.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] fix-deps-in-workflow.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] fix-deps-in-workflow.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] fix-pipeline.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] fix-pipeline.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] footer.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] graph.dev.liquorice.tech:443
+[expired-ssl] [ssl] [low] hub.devnet.umia.finance:443 ["2026-05-18 13:19:12 +0000 UTC"]
+[expired-ssl] [ssl] [low] hub.sepolia.umia.finance:443 ["2026-06-16 08:51:37 +0000 UTC"]
+[expired-ssl] [ssl] [low] hub.umia.finance:443 ["2026-02-09 13:51:04 +0000 UTC"]
