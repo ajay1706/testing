@@ -1,0 +1,6 @@
+[CVE-2019-11248] [http] [high] https://influx.instadapp.io/debug/pprof/
+[CVE-2024-53991] [http] [high] https://community.venus.io/stylesheets/discourse-narrative-bot_c9ba78323842b5ede693429d2867ce490b07a7f8.css?__ws=community.venus.io&cachebuster=3Ju8dJr0uM5XX8GUspc6IQtu7uf
+[CVE-2025-4123:open-redirect] [http] [high] https://aevo-prod-monitor.socket.tech/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://monitor.socket.tech/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2026-26265] [http] [high] https://forum.moonwell.fi/directory_items.json?period=all&user_field_ids=1
+[framer-takeover] [http] [high] https://interchain.synapseprotocol.com ["sites.framer.app"]

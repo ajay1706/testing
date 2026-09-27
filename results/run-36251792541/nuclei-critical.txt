@@ -1,0 +1,2 @@
+[CVE-2026-72898] [http] [critical] https://dashboard.paraswap.io/api/session/reset_password
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.pancakeswap.finance

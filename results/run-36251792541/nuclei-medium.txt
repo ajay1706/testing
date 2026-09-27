@@ -1,0 +1,18 @@
+[CVE-2022-28923] [http] [medium] https://greenfield.syncswap.xyz/%5C%5Cinteract.sh/%252e%252e%252f
+[CVE-2022-28923] [http] [medium] https://ipfs.syncswap.xyz/%5C%5Cinteract.sh/%252e%252e%252f
+[CVE-2022-41697] [http] [medium] https://blog.defisaver.com/ghost/api/admin/session
+[CVE-2025-54793] [http] [medium] https://api.camelot.exchange//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://dev.api.camelot.exchange//interact.sh/en//
+[CVE-2026-27454] [http] [medium] https://community.venus.io/posts/13297.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.moonwell.fi/posts/5109.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.pancakeswap.finance/posts/3014.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.fluid.io/posts/3676.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.yearn.fi/posts/36035.json?version=1
+[open-redirect-generic] [http] [medium] https://api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://dev.api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://greenfield.syncswap.xyz/%5C%5Coast.me/%252e%252e%252f [redirect="%5C%5Coast.me/%252e%252e%252f"]
+[open-redirect-generic] [http] [medium] https://ipfs.syncswap.xyz/%5C%5Coast.me/%252e%252e%252f [redirect="%5C%5Coast.me/%252e%252e%252f"]
+[prometheus-metrics] [http] [medium] https://aevo-prod-monitor.socket.tech/metrics
+[prometheus-metrics] [http] [medium] https://ponder-eu.moonwell.fi/metrics
+[prometheus-metrics] [http] [medium] https://ponder-eu2.moonwell.fi/metrics
+[prometheus-metrics] [http] [medium] https://ponder.moonwell.fi/metrics
