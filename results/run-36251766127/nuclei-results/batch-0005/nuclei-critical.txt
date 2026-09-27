@@ -1,0 +1,2 @@
+[CVE-2025-29927] [http] [critical] https://developers.backpack.exchange
+[CVE-2025-29927] [http] [critical] https://employee.backpack.exchange
