@@ -1,0 +1,8 @@
+[CVE-2026-33032] [http] [critical] https://relayer-testnet.zerodev.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://relayer.zerodev.app/mcp_message
+[weak-cipher-suites:tls-1.0] [ssl] [low] recognizer.monad.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] recognizer.monad.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://relayer-testnet.zerodev.app/metrics
+[prometheus-metrics] [http] [medium] https://relayer.zerodev.app/metrics
+[weak-cipher-suites:tls-1.0] [ssl] [low] rendernetwork.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rendernetwork.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
