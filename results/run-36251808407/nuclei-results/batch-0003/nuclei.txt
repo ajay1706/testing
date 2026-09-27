@@ -1,0 +1,15 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] console-api.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] console-api.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] credit.felixpago.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] creditbuilder.felixpago.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] credit.felixpago.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] creditbuilder.felixpago.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://community.kled.ai/hopfully404 ["AIzaSyDe0LldBAVmT9ZzViJBZa0XQvR_iYEyA-0"]
+[netlify-headers-config-exposure] [http] [low] https://codecov.fasset.com/_headers
+[unauthenticated-varnish-cache-purge] [http] [low] https://community.umia.finance
+[prometheus-metrics] [http] [medium] https://console-api.fin.com/metrics
+[self-signed-ssl] [ssl] [low] build-pipeline.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] chains-ltv.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] ci-fix.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] connect.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] dapp.dev.liquorice.tech:443
