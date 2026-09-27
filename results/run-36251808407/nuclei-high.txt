@@ -1,0 +1,14 @@
+[CVE-2024-49757] [http] [high] https://netbird.fasset.com/ui/login/register
+[CVE-2025-46818:version] [javascript] [high] api-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46818:version] [javascript] [high] grpc-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46818:version] [javascript] [high] order-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-55184] [http] [high] https://www.orthogonal.com/
+[CVE-2026-25892:version] [http] [high] https://panel.fin.com/adminer.php ["4.8.1"]
+[redis-default-logins] [javascript] [high] order-staging.botanika.ai:6379 [DN="botanika",FQDN="order-staging.botanika.ai",Host="order-staging.botanika.ai",Hostname="order-staging.botanika.ai:6379",Port="6379",RDN="botanika.ai",SD="order-staging",TLD="ai",passwords=""]
+[redis-default-logins] [javascript] [high] order-staging.botanika.ai:6379 [DN="botanika",FQDN="order-staging.botanika.ai",Host="order-staging.botanika.ai",Hostname="order-staging.botanika.ai:6379",Port="6379",RDN="botanika.ai",SD="order-staging",TLD="ai",passwords="admin"]
+[redis-default-logins] [javascript] [high] order-staging.botanika.ai:6379 [DN="botanika",FQDN="order-staging.botanika.ai",Host="order-staging.botanika.ai",Hostname="order-staging.botanika.ai:6379",Port="6379",RDN="botanika.ai",SD="order-staging",TLD="ai",passwords="iamadmin"]
+[redis-default-logins] [javascript] [high] order-staging.botanika.ai:6379 [DN="botanika",FQDN="order-staging.botanika.ai",Host="order-staging.botanika.ai",Hostname="order-staging.botanika.ai:6379",Port="6379",RDN="botanika.ai",SD="order-staging",TLD="ai",passwords="password"]
+[redis-default-logins] [javascript] [high] order-staging.botanika.ai:6379 [DN="botanika",FQDN="order-staging.botanika.ai",Host="order-staging.botanika.ai",Hostname="order-staging.botanika.ai:6379",Port="6379",RDN="botanika.ai",SD="order-staging",TLD="ai",passwords="root"]
+[rocketlms-default-login] [http] [high] https://panel.fin.com/login [password="admin",username="admin@demo.com"]
+[wix-takeover] [http] [high] https://korprotocol.com
+[wix-takeover] [http] [high] https://www.korprotocol.com ["cdn1.wixdns.net"]

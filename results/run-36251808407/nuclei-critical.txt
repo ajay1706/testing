@@ -1,0 +1,10 @@
+[CVE-2025-29927] [http] [critical] https://admin.blox.my
+[CVE-2025-29927] [http] [critical] https://admin.janjipay.development.blox.my
+[CVE-2025-29927] [http] [critical] https://goinno-demo-admin.development.blox.my
+[CVE-2025-46817:version] [javascript] [critical] grpc-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46817:version] [javascript] [critical] storage-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-49844:version] [javascript] [critical] api-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-49844:version] [javascript] [critical] grpc-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-49844:version] [javascript] [critical] merchant-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-49844:version] [javascript] [critical] staging.botanika.ai:6379 ["7.4.10"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.kaiko.com

@@ -1,0 +1,20 @@
+[CVE-2023-48795] [javascript] [medium] social.beldex.io:22 ["Vulnerable to Terrapin"]
+[CVE-2023-5561] [http] [medium] https://levelmarkets.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2024-46310] [http] [medium] https://quote.trade/players.json
+[CVE-2024-46310] [http] [medium] https://www.quote.trade/players.json
+[godaddy-parked-domain] [http] [medium] https://www.zerodelta.xyz/lander
+[godaddy-parked-domain] [http] [medium] https://zerodelta.xyz/lander
+[open-redirect-generic] [http] [medium] https://meshwallet.app//https://meshwallet.appoast.me/ [redirect="/https://meshwallet.appoast.me/"]
+[open-redirect-generic] [http] [medium] https://wallet-exporter.edgex.exchange///%5Ctoast.me/ [redirect="//\\toast.me/"]
+[open-redirect-generic] [http] [medium] https://www.edgex.exchange///%5Ctoast.me/ [redirect="//\\toast.me/"]
+[prometheus-metrics] [http] [medium] https://api.fin.com/metrics
+[prometheus-metrics] [http] [medium] https://console-api.fin.com/metrics
+[prometheus-metrics] [http] [medium] https://little-unicorns-fund-backend.kaiko.com/metrics
+[prometheus-metrics] [http] [medium] https://odc-api.fin.com/metrics
+[prometheus-metrics] [http] [medium] https://sandbox.webhook.fin.com/metrics
+[prometheus-metrics] [http] [medium] https://stage.console-api.fin.com/metrics
+[prometheus-metrics] [http] [medium] https://stage.odc-api.fin.com/metrics
+[prometheus-metrics] [http] [medium] https://stage.webhook.fin.com/metrics
+[prometheus-metrics] [http] [medium] https://webhook.fin.com/metrics
+[roundcube-log-disclosure] [http] [medium] https://mail.meshwallet.app/logs/errors.log ["26434"] [roundcube_path="logs/errors.log"]
+[wp-security-hidden-login-exposure] [http] [medium] https://web-bo-i.kaiko.com/wp-login.php?redirect_to=https%3A%2F%2Fweb-bo-i.kaiko.com%2Fwp-admin%2F&reauth=1
