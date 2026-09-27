@@ -1,0 +1,2 @@
+[CVE-2026-72898] [http] [critical] https://metabase-analytics-public.zerion.io/api/session/reset_password
+[CVE-2026-72898] [http] [critical] https://metabase-analytics.zerion.io/api/session/reset_password
