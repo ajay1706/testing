@@ -1,0 +1,2 @@
+[CVE-2023-48795] [javascript] [medium] vpn.biconomy.io:22 ["Vulnerable to Terrapin"]
+[prometheus-metrics] [http] [medium] https://verify-webhook.zerion.io/metrics
