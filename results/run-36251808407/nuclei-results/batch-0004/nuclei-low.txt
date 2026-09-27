@@ -1,0 +1,19 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] depatriate2.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] deb.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] depatriate.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] deb.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] depatriate.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] depatriate2.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.back.credit.felixpago.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.back.credit.felixpago.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] doc.quote.trade:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] doc.quote.trade:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.polaris.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.polaris.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.polaris.finance
+[wp-user-enum:usernames] [http] [low] https://diameterpay.com/wp-json/wp/v2/users/ ["djlecbeaa5491fa","sunsoftpk","David Lighton","sunsoft.pk"]
+[self-signed-ssl] [ssl] [low] dev.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] design-review.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] discord-url.dev.liquorice.tech:443
+[expired-ssl] [ssl] [low] developers.blox.my:443 ["2025-11-19 08:26:32 +0000 UTC"]
+[expired-ssl] [ssl] [low] docs.samudera.blox.my:443 ["2025-11-18 22:42:51 +0000 UTC"]
