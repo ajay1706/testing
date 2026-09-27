@@ -1,0 +1,5 @@
+[CVE-2019-11248] [http] [high] https://api.suiet.app/debug/pprof/
+[CVE-2026-39364] [http] [high] https://analytics-mini.kresus.com/.env?raw??
+[CVE-2026-64638] [http] [high] https://blog.onto.app/wp-login.php ["<area id="ajaxurl" href="/?rest_route=/&amp;_method=GET&amp;_jsonp=alert">"]
+[canny-takeover] [http] [high] https://request.keplr.app ["cname.canny.io"]
+[framer-takeover] [http] [high] https://www.leapwallet.io ["sites.framer.app"]
