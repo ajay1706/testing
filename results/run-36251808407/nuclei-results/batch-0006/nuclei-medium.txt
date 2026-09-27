@@ -1,0 +1,3 @@
+[CVE-2023-5561] [http] [medium] https://levelmarkets.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[roundcube-log-disclosure] [http] [medium] https://mail.meshwallet.app/logs/errors.log ["26434"] [roundcube_path="logs/errors.log"]
+[prometheus-metrics] [http] [medium] https://little-unicorns-fund-backend.kaiko.com/metrics

@@ -1,0 +1,51 @@
+[CVE-2023-5561] [http] [medium] https://levelmarkets.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[roundcube-log-disclosure] [http] [medium] https://mail.meshwallet.app/logs/errors.log ["26434"] [roundcube_path="logs/errors.log"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] internal.base-sepolia.jojo.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] internal.base-mainnet.jojo.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] internal.base-sepolia.jojo.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] internal.base-mainnet.jojo.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] internal.holomind.jojo.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] internal.holomind.jojo.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] janus-api.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] janus-api.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] k8s.base-mainnet.jojo.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] k8s.base-sepolia.jojo.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] k8s.base-mainnet.jojo.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] k8s.holomind.jojo.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] k8s.base-sepolia.jojo.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] k8s.holomind.jojo.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] kafka-ui.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] kafka-ui.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] kyc.felixpago.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] kyc.felixpago.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] legal.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] legal.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lwsapi.beldex.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lwsapi.beldex.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.memebook.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] m.myx.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.memebook.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] m.myx.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] marag.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] marag.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://little-unicorns-fund-backend.kaiko.com/metrics
+[makefile-exposure] [http] [low] https://mail.meshwallet.app/Makefile
+[wix-takeover] [http] [high] https://korprotocol.com
+[editor-exposure] [http] [low] https://mail.meshwallet.app/.editorconfig
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://instruments.kaiko.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://instruments.kaiko.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://instruments.kaiko.com
+[wp-user-enum:usernames] [http] [low] https://jpmedia.edgex.exchange/wp-json/wp/v2/users/ ["always392d7f4120","uragadget","edgeX media","erick","Kai","edgex-media","erickbef3990698"]
+[self-signed-ssl] [ssl] [low] landing.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] layouts.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] layouts.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] libs-update.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] light-theme.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] liq-1014-deploy-main-to-staging.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] liq-1014-deploy-main-to-staging.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] liq-1048-scheduled-vuln-checks.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] liq-1048-scheduled-vuln-checks.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] mainnet-on.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] mainnet-on.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] maker-view.dev.liquorice.tech:443
+[wp-user-enum:usernames] [http] [low] https://levelmarkets.com/wp-json/wp/v2/users/ ["Brian Dempsey","Christy Bourne","John Doherty","bill-howarthlevelats-com","brian-dempsey-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2--2","christy-bournelevelmarkets-com","john-dohertyluminextrading-com","Bill Howarth"]
