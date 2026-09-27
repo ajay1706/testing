@@ -1,0 +1,58 @@
+[CVE-2023-5561] [http] [medium] https://www.kresus.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wallet.xverse.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wallet-signet.xverse.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wallet.xverse.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wallet-signet.xverse.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] web.petra.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] web.petra.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] webhooks.leapwallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] webhooks.leapwallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wrc.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wrc.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] workshop.meshconnect.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.ctrl.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.ctrl.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] workshop.meshconnect.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.enkrypt.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.enkrypt.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.glow.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.glow.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.production.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.production.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.senderwallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.senderwallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.staging.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.staging.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.staging.web.petra.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.web.petra.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.staging.web.petra.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.web.petra.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.vultisig.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.vultisig.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[package-json] [http] [low] https://web-runner-cron.subwallet.app/package.json
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://web.petra.app
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://web.petra.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://web.petra.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://webhooks.leapwallet.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://webhooks.leapwallet.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://webhooks.leapwallet.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://www.enkrypt.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://www.enkrypt.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://www.enkrypt.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://www.senderwallet.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://www.senderwallet.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://www.senderwallet.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://www.staging.web.petra.app
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://www.staging.web.petra.app
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://www.staging.web.petra.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://www.web.petra.app
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://www.web.petra.app
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://www.web.petra.app
+[wp-user-enum:usernames] [http] [low] https://www.kresus.com/wp-json/wp/v2/users/ ["joannakresus-com","Kresus"]
+[framer-takeover] [http] [high] https://www.leapwallet.io ["sites.framer.app"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://web.petra.app
+[unauthenticated-varnish-cache-purge] [http] [low] https://www.staging.web.petra.app
+[unauthenticated-varnish-cache-purge] [http] [low] https://www.web.petra.app
+[self-signed-ssl] [ssl] [low] www.fullnode.mainnet.aptos.nightly.app:443
