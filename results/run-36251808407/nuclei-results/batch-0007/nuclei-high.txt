@@ -1,0 +1,8 @@
+[CVE-2025-55184] [http] [high] https://www.orthogonal.com/
+[CVE-2025-46818:version] [javascript] [high] order-staging.botanika.ai:6379 ["7.4.10"]
+[redis-default-logins] [javascript] [high] order-staging.botanika.ai:6379 [DN="botanika",FQDN="order-staging.botanika.ai",Host="order-staging.botanika.ai",Hostname="order-staging.botanika.ai:6379",Port="6379",RDN="botanika.ai",SD="order-staging",TLD="ai",passwords="iamadmin"]
+[redis-default-logins] [javascript] [high] order-staging.botanika.ai:6379 [DN="botanika",FQDN="order-staging.botanika.ai",Host="order-staging.botanika.ai",Hostname="order-staging.botanika.ai:6379",Port="6379",RDN="botanika.ai",SD="order-staging",TLD="ai",passwords="root"]
+[redis-default-logins] [javascript] [high] order-staging.botanika.ai:6379 [DN="botanika",FQDN="order-staging.botanika.ai",Host="order-staging.botanika.ai",Hostname="order-staging.botanika.ai:6379",Port="6379",RDN="botanika.ai",SD="order-staging",TLD="ai",passwords="password"]
+[redis-default-logins] [javascript] [high] order-staging.botanika.ai:6379 [DN="botanika",FQDN="order-staging.botanika.ai",Host="order-staging.botanika.ai",Hostname="order-staging.botanika.ai:6379",Port="6379",RDN="botanika.ai",SD="order-staging",TLD="ai",passwords=""]
+[redis-default-logins] [javascript] [high] order-staging.botanika.ai:6379 [DN="botanika",FQDN="order-staging.botanika.ai",Host="order-staging.botanika.ai",Hostname="order-staging.botanika.ai:6379",Port="6379",RDN="botanika.ai",SD="order-staging",TLD="ai",passwords="admin"]
+[CVE-2024-49757] [http] [high] https://netbird.fasset.com/ui/login/register

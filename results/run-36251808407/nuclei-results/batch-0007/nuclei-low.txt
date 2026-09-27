@@ -1,0 +1,46 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] memebook.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] memebook.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] metabase.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] metabase.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mint.memebook.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mint.memebook.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] money.sandbox.felixpago.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] money.sandbox.felixpago.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] monitoring.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] monitoring.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mta-sts.tenbinlabs.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mta-sts.tenbinlabs.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] myx.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] myx.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] odc-api.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] odc.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] odc-api.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] odc.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] orchestration.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] orchestration.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ox-mq.fin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ox-mq.fin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pacifica.fi:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pacifica.fi:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://merchant.jpyc.jp ["AIzaSyDtGBC8qbNKQ_ibWHZSJmaNfjbOhs7pj5g"]
+[google-api-key] [http] [low] https://merchant.jpyc.jp/hopfully404 ["AIzaSyDtGBC8qbNKQ_ibWHZSJmaNfjbOhs7pj5g"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://onboarding-dev.felixpago.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://onboarding.felixpago.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://mta-sts.cork.tech
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://mta-sts.cork.tech
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://mta-sts.cork.tech
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://onboarding-dev.felixpago.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://onboarding-dev.felixpago.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://onboarding-dev.felixpago.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://onboarding.felixpago.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://onboarding.felixpago.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://onboarding.felixpago.com
+[self-signed-ssl] [ssl] [low] max-width.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] meta.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] mobile.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] modal.dev.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] modal.staging.liquorice.tech:443
+[self-signed-ssl] [ssl] [low] new-meta.dev.liquorice.tech:443
+[untrusted-root-certificate] [ssl] [low] mtls-api.of.mercadobitcoin.com.br:443
+[kubernetes-fake-certificate] [ssl] [low] oracle.kaiko.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] oracle.kaiko.com:443

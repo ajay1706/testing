@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://meshwallet.app//https://meshwallet.appoast.me/ [redirect="/https://meshwallet.appoast.me/"]
+[prometheus-metrics] [http] [medium] https://odc-api.fin.com/metrics
