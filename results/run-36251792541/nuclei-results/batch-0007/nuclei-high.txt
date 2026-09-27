@@ -1,0 +1,2 @@
+[framer-takeover] [http] [high] https://interchain.synapseprotocol.com ["sites.framer.app"]
+[CVE-2019-11248] [http] [high] https://influx.instadapp.io/debug/pprof/
