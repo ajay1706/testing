@@ -1,0 +1,47 @@
+[CVE-2023-5561] [http] [medium] https://blog.onto.app/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2026-64638] [http] [high] https://blog.onto.app/wp-login.php ["<area id="ajaxurl" href="/?rest_route=/&amp;_method=GET&amp;_jsonp=alert">"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] assets.reown.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] assets.reown.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] asset-strapi.onekey.so:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] asset.onekey.so:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] auth.leapwallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auth.leapwallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bap.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bap.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] beta.solflare.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] beta.solflare.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bfp.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bfp.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.enkrypt.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.enkrypt.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.pimlico.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.subwallet.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.subwallet.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] borrow-app.solflare.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] borrow-app.solflare.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bridge-api.solflare.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bridge-api.solflare.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] broker.chainflip.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] broker.chainflip.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] broker.perseverance.chainflip.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] broker.perseverance.chainflip.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://auth.leapwallet.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://auth.leapwallet.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://auth.leapwallet.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://based.squads.so
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://based.squads.so
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://based.squads.so
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://billing.dynamic.xyz
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://billing.dynamic.xyz
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://billing.dynamic.xyz
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.keplr.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.biconomy.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.enkrypt.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.keplr.app
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.biconomy.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.enkrypt.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.biconomy.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.keplr.app
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.enkrypt.com
+[wp-user-enum:usernames] [http] [low] https://blog.onto.app/wp-json/wp/v2/users/ ["Geoff Richard","Victor T","devopsont-io","geoff","victor","devops@ont.io"]
+[expired-ssl] [ssl] [low] appkit-web-examples-pay.reown.com:443 ["2026-06-30 10:09:03 +0000 UTC"]
