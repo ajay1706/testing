@@ -1,0 +1,3 @@
+[CVE-2026-27454] [http] [medium] https://community.venus.io/posts/13297.json?version=1
+[open-redirect-generic] [http] [medium] https://dev.api.camelot.exchange//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://dev.api.camelot.exchange//interact.sh/en//
