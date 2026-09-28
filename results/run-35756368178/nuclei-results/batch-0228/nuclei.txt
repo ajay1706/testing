@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://waterway.pacific-1.dev.platform.sei.io/metrics
