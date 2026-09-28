@@ -1,0 +1,17 @@
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-backend.phantom.app/mcp_message
+[weak-cipher-suites:tls-1.0] [ssl] [low] socialnetwork-testnet.explorer.alchemy.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] socialnetwork-testnet.explorer.alchemy.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sourcegraph-dev.internal.infura.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sourcegraph-dev.internal.infura.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spark.fireblocks.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spark.fireblocks.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spotlight-mainnet.explorer.alchemy.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spotlight-mainnet.explorer.alchemy.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spotlight-sepolia.explorer.alchemy.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spotlight-sepolia.explorer.alchemy.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://snaps.metamask.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://snaps.metamask.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://snaps.metamask.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://speculos.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://speculos.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://speculos.ledger.com
