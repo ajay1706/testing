@@ -1,0 +1,3 @@
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://support.kraken.com/config.json ["https://www.kraken.com/api"] [path="/config.json"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] support.infura.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] support.infura.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
