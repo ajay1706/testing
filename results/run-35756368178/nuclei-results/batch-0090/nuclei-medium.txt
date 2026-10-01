@@ -1,1 +1,2 @@
 [prometheus-metrics] [http] [medium] https://babylon-vault-indexer-api.testnet.babylonlabs.io/metrics
+[prometheus-metrics] [http] [medium] https://babylon-vault-indexer-api.vault-localnet.babylonlabs.io/metrics
