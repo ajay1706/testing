@@ -1,2 +1,5 @@
-[CVE-2026-33032] [http] [critical] https://erpc-ws-na.bepolia.berachain.com/mcp_message
 [CVE-2026-33032] [http] [critical] https://erpc-ws-eu.bepolia.berachain.com/mcp_message
+[CVE-2026-33032] [http] [critical] https://erpc-ws-na.bepolia.berachain.com/mcp_message
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://engineering.ripple.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://engineering.ripple.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://engineering.ripple.com
