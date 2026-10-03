@@ -1,0 +1,6 @@
+https://old.character.ai [301] [https://character.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.223.226] [cloudflare] [228.994229ms] [Cloudflare,HTTP/3]
+https://article.chai-research.com [301] [https://blog.chai-research.com/posts] [71] [ip-10-124-5-141.us-west-2.compute.internal] [15.197.225.128] [502.848682ms]
+https://research.character.ai [301] [https://blog.character.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.222.226] [cloudflare] [196.72265ms] [Cloudflare,HTTP/3]
+https://next.character.ai [301] [https://character.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.222.226] [cloudflare] [260.050077ms] [Cloudflare,HTTP/3]
+https://www.character.ai [301] [https://character.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.222.226] [cloudflare] [261.785416ms] [Cloudflare,HTTP/3]
+https://www.blog.chai-research.com [301] [http://blog.chai-research.com/posts] [70] [ip-10-124-4-136.us-west-2.compute.internal] [3.33.251.168] [407.414306ms]

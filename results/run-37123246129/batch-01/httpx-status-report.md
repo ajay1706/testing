@@ -1,0 +1,100 @@
+# HTTPX Status Report
+
+Generated at: Sat Oct  3 12:36:42 UTC 2026
+
+HTTPX lines: 74
+Live URLs: 74
+
+## 200
+https://careers.chai-research.com [200] [] [361] [Careers at Chai] [ip-10-124-5-234.us-west-2.compute.internal] [3.33.251.168] [439.574766ms]
+https://join.character.ai [200] [] [4693] [Vercel] [66.33.60.66] [362.185756ms] [GoatCounter,HSTS,Vercel]
+https://privacy.chai-research.com [200] [] [360] [CHAI Privacy Policy] [ip-10-124-5-234.us-west-2.compute.internal] [3.33.251.168] [522.23769ms]
+https://blog.character.ai [200] [] [25605] [character.ai blog] [openresty] [151.101.3.7] [fastly] [98.782961ms] [Ghost:6.68,Nginx,Node.js,OpenResty,Varnish,jQuery CDN,jQuery:3.5.1,jsDelivr]
+https://web.chai-research.com [200] [] [6233] [Chai Web Lite] [Google Frontend] [142.251.46.83] [google] [313.657323ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://join.chai-research.com [200] [] [54881] [CHAI — Work where the numbers are real.] [] [199.36.158.100] [502.976234ms] [Firebase,Google Analytics,HSTS,HTTP/3]
+https://companionlabs.in [200] [] [38729] [Companion Labs | AI-Native Software for the Next Billion Users] [Vercel] [216.198.79.1] [502.800646ms] [HSTS,Vercel]
+https://share.character.ai [200] [] [2123] [Character] [cloudflare] [162.159.140.159] [cloudflare] [740.918346ms] [Cloudflare,HTTP/3]
+https://chai-research.com [200] [] [73435] [CHAI | AI Characters & Stories] [Google Frontend] [216.239.36.21] [google] [363.068538ms] [Google Analytics,Google Cloud,Google Cloud Load Balancing]
+https://www.chai-research.com [200] [] [73435] [CHAI | AI Characters & Stories] [Google Frontend] [142.251.33.211] [google] [260.357922ms] [Google Analytics,Google Cloud,Google Cloud Load Balancing]
+https://n8n.companionlabs.in [200] [] [19800] [n8n.io - Workflow Automation] [nginx/1.24.0 (Ubuntu)] [104.211.91.34] [911.399269ms] [Nginx:1.24.0,Ubuntu]
+https://book.character.ai [200] [] [408248] [Welcome to Character Guide! | Character.AI] [cloudflare] [104.18.40.47] [cloudflare] [397.393056ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+https://old.character.ai [301] [https://character.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.223.226] [cloudflare] [228.994229ms] [Cloudflare,HTTP/3]
+https://article.chai-research.com [301] [https://blog.chai-research.com/posts] [71] [ip-10-124-5-141.us-west-2.compute.internal] [15.197.225.128] [502.848682ms]
+https://research.character.ai [301] [https://blog.character.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.222.226] [cloudflare] [196.72265ms] [Cloudflare,HTTP/3]
+https://next.character.ai [301] [https://character.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.222.226] [cloudflare] [260.050077ms] [Cloudflare,HTTP/3]
+https://www.character.ai [301] [https://character.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.222.226] [cloudflare] [261.785416ms] [Cloudflare,HTTP/3]
+https://www.blog.chai-research.com [301] [http://blog.chai-research.com/posts] [70] [ip-10-124-4-136.us-west-2.compute.internal] [3.33.251.168] [407.414306ms]
+
+## 302
+https://data-apps.character.ai [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com:handleRedirect&code_challenge=p4iEzDmnEDZ13KIhl3SypYoz43Q6msDt9OqV0NHOiQM&code_challenge_method=S256&cred_ref=true&state=ATbdjREE9hvf89CMxUyKJSdjxkT7DwG0myL_MFj8c3tf0qDQlMZ-k4xP2Wpgq8Q0wgsqTHQV-iGC-ju0QcHfSpCk_4wQiHXps74O7jZZb7yMxCHJIjpMypjqo8v4mi2e1s_vyCBZxltAMW2tK1jVIbK2aQZ2yJGfbVqhIWNuO3If5SB-ojJaQBlMpPXBN7LwSAPuRrJs55SlGoUiUe8syi-ijeId_bg8cYECs2cIp5V7i6RdjF4ezHzgHG2QFo3_xg451qUZfbXoSlrklKMVouKtLB_KKIMsUMvyz2Bk4hJg98wVv_DndaJD-JcyVHLxOHupR4mC1P6R2Zkjs6ytNLCRXHgr2u5zS3L25nqjy7JKoH8UyClMnwjaka2GKupek3WBOCetkzHoal6cdq5MqX2-cQVAqRZpsq1ZFQR3Us1frrwgRVojBBE4vnOGF9tohRDJNGv9YtHHhTMLp-BnYZWghg1mtLxfK1_On5UBHY4HFjXrOFnLYBUULuo0cnX3sRXB2MMGqAIphwXOyfsVRQi4GWVcurUwvQqsUpg0PFXchmO_JrH3b707eefADRhRz6UkwGcOdFC87tfBRJiVp-QMBETEGBEs_xZ2i7QbrT5iVbv0hXFq2KW8MXbn9lHG_s9m1v6ygN_S0_CpM0twN-AgB47f1hayt_BtVmhdzI3IL7_vi_drP6kieNdyp3u_-KHC5DinWITEUSwE5v43AmU5GgGTOKT52BmTRowSAidPu5K7TBzFTkIMt1SXKMn3R91GvdqCGUO20uZ7WMW1bi_u19ccXU6EOV2W__9uVOKKZCdxE28wrF3wquf2pXop9m3zFKFSycaiJhgweJLjafXWgaS7SLspfSZ24D9irend1lyhlqr-bHnq3Hqu2PfJyKBawe4qQwIQXsQMNo3pA2URxssd2kMfvz7dseZJhrdUuGLhY_A1wmgCDd_ptJNXPJd_V5wwzoiHeLJvxvnqM9p3ysO2e3723JQcv1kr-HAJHqItefuOl-q9-KG982xZyNO1wV1MU4w36JQhL7F7l3oQmO5qLePLKdFrF2oIbtzQ162PHfz7fSN41zTPSfhH81l3UIGm9N4BZpXhAjBlgB98log6y8cNtZcWBunt4xIbQp9TJ1aTxvYPaEBbUZSxOWpwCXeWyqVhsFjXYP2ER6Y] [36] [Google Frontend] [142.251.45.147] [google] [253.277783ms] [Google Cloud,Google Cloud Load Balancing]
+https://docs.character.ai [302] [https://docs.character.ai/en/latest/] [0] [cloudflare] [104.18.223.226] [cloudflare] [426.239498ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://databot.character.ai [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com:handleRedirect&code_challenge=cQuh52bMZbgBIO22ksEDuYEhMRKkPvpWuFUmeFXYIEw&code_challenge_method=S256&cred_ref=true&state=ATbdjREEOJbWm3LemjAxJ5XlxX1TTzVZ9w7AA7mVKc9jb3UnZlcsBjXlvB5S6-_djDr8Nf0X8_MgFKlyZufrhbzAm59HKn6Wpd8Lsx977rnTlm9qt-EKnppzsGEXk7LDL3vWiLPsBRzNQXwuJkZ35HTePuSyLqRmMWtrQPmmzuDcCU7fy-SfIawDnydM3Zk7SkT6jhjGvGrZF_iFwCclPPoGaF15ZgBmkmo51rb9Ljl_Fc_CxjcEj4AvNTn0nl5llkccECJE1ZgblR4kSTR1miZl9dmnZiK5DnUdZUv8XhIQy52hvw6ZVZxgZSGCroeo2qyqmxD3owGu1n-73OOBn0wLOqH1kYPw0kTm0nE7auin7v9lb7MUtqr68ZUrFwG6CBnfTXQQXpO3Uq8S0gt7gspuyj2evni4mgSTrFekHonX8gm_PN2OhaQdXJywNsu6qfitT5TUapAddzyiQf9nyYVRWuxLq-bNY5Ah5RzaW7xLKPhOYLKdvz9upkSB1xHv-bzDFUWzrB4_nCEISv-tDQ5MI4-vcKGgncKYG6rZpaVVNXC36JB1q_1KrvPnz-E8r3TIXS2EjRTA-twVhLbVtx_i3safp0CMbv3Vts5o-ZcBgDlTYjDoBC38OTFFtBYk-YyTRbkgHe97Bw7pPmXaa9daHC2ze3YYHzObumxl5uO7mVwpTDX91RHqv9jvyZzdah2oCqclN9v9k_9i7yomeFFRIXA5koLatPQ7eXOLLx4JUHtVt7aeofbtvGPtjpqWG4ohQS7ix1xzgEz_hTOlSv593lGIU5IZykN17QX4jYBeWkO7nItSKfiNnPtlSMUuJAWa6vfSKsIW0N-lc2H4rHjwEbR3Mw9SO9313O6cMQW72Twu0fcd2q4LDCcVl3rX50r7bGqEB8WNeQLyKdQCFgYFT3CKfufA_GazrmKuuEpoUDaeZY_4dZnLujM7klMY9IR_tMgxxY_6JIfBScGisxfXPC4GufstTzTRm1cImtxY5v75dVwcCj_zRkm_SVkPoLb8wt-Ct96tl-C4DTTBN8bAGPlHh0VoCdIWOznQxt8-OE7WJOtTlBycXOw5bBTIxXUfIerJ-7pBWFXMPx6HgIeH3pG2FPauxNgZVvXF5lcwq-AW-P4sZ31cTy9M37okGWQGbdJAfqGJ] [36] [Google Frontend] [142.251.45.147] [google] [629.110691ms] [Google Cloud,Google Cloud Load Balancing]
+https://status.character.ai [302] [https://www.statuspage.io] [0] [AtlassianEdge] [104.192.140.23] [344.514791ms] [Atlassian Statuspage,Fastly,HSTS]
+https://support.character.ai [302] [https://support.character.ai/hc] [0] [cloudflare] [216.198.54.6] [461.813858ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+
+## 307
+
+## 308
+https://beta.character.ai [308] [https://character.ai/] [169] [308 Permanent Redirect] [cloudflare] [104.18.222.226] [cloudflare] [64.242976ms] [Cloudflare,HTTP/3]
+https://plus.character.ai [308] [https://character.ai/] [169] [308 Permanent Redirect] [cloudflare] [104.18.223.226] [cloudflare] [273.978686ms] [Cloudflare,HTTP/3]
+https://www.companionlabs.in [308] [https://companionlabs.in/] [15] [Vercel] [216.198.79.1] [429.980455ms] [HSTS,Vercel]
+
+## 401
+https://rpauxr.character.ai [401] [] [15189] [Protected Page] [Vercel] [216.150.1.193] [375.225251ms] [HSTS,Vercel]
+https://storybook.character.ai [401] [] [61] [Caddy Qloaked] [137.66.11.6] [924.83145ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 403
+https://client-ads.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.223.226] [cloudflare] [41.35068ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://auth.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.223.226] [cloudflare] [36.811706ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://labs.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.223.226] [cloudflare] [44.765054ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://fred-next.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.223.226] [cloudflare] [64.793348ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://images.chai-research.com [403] [] [111] [UploadServer] [34.54.81.181] [google] [261.170925ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://links.email.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [52.749228ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [67.824887ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://exp.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [82.427606ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://feed.api.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [81.786995ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://links.account.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [81.216747ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://links.chat.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [96.455686ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://event.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [81.118746ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://client-prod.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.223.226] [cloudflare] [148.832931ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://experts.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [190.624458ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://events.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [158.168307ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://cdn.neo.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.223.226] [cloudflare] [157.905613ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://codepush-assets.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [231.262708ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://medium.chai-research.com [403] [] [5585] [Just a moment...] [cloudflare] [162.159.153.4] [cloudflare] [258.481959ms] [Cloudflare,HSTS,HTTP/3]
+https://client-canary.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.223.226] [cloudflare] [293.738233ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://client-dev.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [328.57318ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://mail.api.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [317.653476ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://neo.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.223.226] [cloudflare] [182.690706ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://prod-next.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [218.736991ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://policies.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.223.226] [cloudflare] [227.026738ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://proof.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.223.226] [cloudflare] [264.120912ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://updater.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [189.007815ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://updater-assets.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [225.780279ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://www.api.character.ai [403] [] [5193] [Attention Required! | Cloudflare] [cloudflare] [104.18.222.226] [cloudflare] [204.098624ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+
+## 404
+https://guanaco-auth.chai-research.com [404] [] [22] [Google Frontend] [142.250.73.115] [google] [143.284631ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://guanaco-feedback.chai-research.com [404] [] [22] [Google Frontend] [142.250.73.147] [google] [144.214961ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://character-survey.chai-research.com [404] [] [272] [404 Page not found] [] [142.250.73.147] [google] [148.539902ms]
+https://guanaco.chai-research.com [404] [] [272] [404 Page not found] [] [142.251.33.211] [google] [240.810724ms]
+https://guanaco-metrics.chai-research.com [404] [] [22] [Google Frontend] [142.250.73.115] [google] [261.758927ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://api.chai-research.com [404] [] [0] [] [34.111.217.120] [google] [291.920177ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://hiring-api.chai-research.com [404] [] [22] [Google Frontend] [142.251.33.211] [google] [293.403657ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://guanaco-app.chai-research.com [404] [] [22] [Google Frontend] [142.250.69.179] [google] [314.147273ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://guanaco-watchdog.chai-research.com [404] [] [272] [404 Page not found] [] [142.250.73.115] [google] [361.885586ms]
+https://guanaco-prometheus.chai-research.com [404] [] [22] [Google Frontend] [142.251.45.147] [google] [395.818066ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://guanaco-training.chai-research.com [404] [] [272] [404 Page not found] [] [142.250.73.147] [google] [420.521637ms]
+https://guanaco-data.chai-research.com [404] [] [272] [404 Page not found] [] [142.250.69.179] [google] [445.653667ms]
+https://guanaco-submitter.chai-research.com [404] [] [272] [404 Page not found] [] [142.250.73.147] [google] [497.133109ms]
+
+## 500
+
+## 502
+
+## 503
+https://app.chai-research.com [503] [] [256] [503 Service Unavailable] [Google Frontend] [34.120.203.232] [google] [139.66003ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]
+https://blog.chai-research.com [503] [] [256] [503 Service Unavailable] [Google Frontend] [142.251.33.211] [google] [292.633704ms] [Google Cloud,Google Cloud Load Balancing]
+
