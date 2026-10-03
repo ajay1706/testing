@@ -1,0 +1,7 @@
+https://help.poe.com [302] [https://help.poe.com/hc] [0] [cloudflare] [216.198.54.11] [247.609013ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://help.replika.com [302] [https://help.replika.com/hc] [0] [cloudflare] [216.198.54.6] [261.715995ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://link.retro.app [302] [https://retro.app] [0] [fiber] [18.238.152.109] [cloudfront] [557.056887ms] [Amazon CloudFront,Amazon Web Services]
+https://poe2.poe.com [302] [/login] [0] [cloudflare] [162.159.152.17] [cloudflare] [179.777262ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://shop-account.retro.app [302] [https://shop-account.retro.app/authentication/oauth/authorize?client_id=b4bf3fe1-3c5b-41c3-8d9d-51c97679863d&locale=en-US&nonce=e07ea987-4b60-47d9-b4ab-4e9f5fef291a&redirect_uri=https%3A%2F%2Fshop-account.retro.app%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNHXlTpOI2wSBxS8Cf8nWNO] [0] [cloudflare] [23.227.38.74] [416.429878ms] [Cloudflare,HSTS,HTTP/3]
+https://support.retro.app [302] [https://support.retro.app/en/] [0] [cloudflare] [104.18.37.238] [cloudflare] [450.205197ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.replika.com [302] [https://replika.com/] [5] [] [172.240.213.44] [122.602262ms]
