@@ -1,0 +1,5 @@
+https://help.captions.ai [301] [https://help.mirage.app/] [167] [301 Moved Permanently] [cloudflare] [172.66.150.225] [cloudflare] [64.609877ms] [Cloudflare]
+https://www.captions.ai [301] [https://captions.ai/] [167] [301 Moved Permanently] [cloudflare] [172.66.150.225] [cloudflare] [63.008497ms] [Cloudflare]
+https://text.captions.ai [301] [https://captions.ai/features/text-to-edit] [167] [301 Moved Permanently] [cloudflare] [172.66.150.225] [cloudflare] [68.67546ms] [Cloudflare]
+https://lipdub.captions.ai [301] [https://desktop.captions.ai/] [0] [cloudflare] [104.20.36.48] [cloudflare] [74.598098ms] [Cloudflare]
+http://www.lipdub.captions.ai [301] [https://www.lipdub.captions.ai/] [528] [301 Moved Permanently] [cloudflare] [172.66.150.225] [cloudflare] [35.752486ms] [Cloudflare,Cloudflare Browser Insights]

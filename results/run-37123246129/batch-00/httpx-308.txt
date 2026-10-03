@@ -1,0 +1,2 @@
+https://app.captions.ai [308] [https://desktop.captions.ai/login] [33] [Google Frontend] [216.239.38.21] [google] [108.655542ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://web-tools.captions.ai [308] [https://desktop.captions.ai/login] [33] [Google Frontend] [216.239.38.21] [google] [4.858670097s] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]

@@ -1,0 +1,6 @@
+https://desktop.captions.ai [302] [https://captions.ai/signup] [143] [302 Found] [cloudflare] [172.66.150.225] [cloudflare] [55.736298ms] [Cloudflare]
+https://share.captions.ai [302] [https://captions.ai/not-found] [143] [302 Found] [cloudflare] [104.20.36.48] [cloudflare] [73.307062ms] [Cloudflare]
+https://get.captions.ai [302] [https://captions.ai] [0] [cloudflare] [172.66.150.225] [cloudflare] [84.366728ms] [Cloudflare]
+http://www.desktop.captions.ai [302] [https://captions.ai/signup] [143] [302 Found] [cloudflare] [104.20.36.48] [cloudflare] [34.103023ms] [Cloudflare]
+https://www.bolt.new [302] [https://bolt.new/] [143] [302 Found] [cloudflare] [104.26.7.237] [cloudflare] [103.065825ms] [Cloudflare,HSTS]
+https://discord.bolt.new [302] [https://discord.gg/stackblitz] [143] [302 Found] [cloudflare] [104.26.6.237] [cloudflare] [111.829759ms] [Cloudflare,HSTS]
