@@ -1,0 +1,7 @@
+https://blog.perplexity.ai [308] [https://www.perplexity.ai/hub/blog/] [1107] [308 Permanent Redirect] [cloudflare] [104.18.26.48] [cloudflare] [86.382027ms] [Cloudflare,HSTS,HTTP/3]
+https://docs.perplexity.ai [308] [/docs/getting-started/overview] [111435] [Vercel] [66.33.60.129] [280.456773ms] [Cloudflare,HSTS,Vercel]
+https://podcast.perplexity.ai [308] [https://www.perplexity.ai/podcast] [1107] [308 Permanent Redirect] [cloudflare] [104.18.27.48] [cloudflare] [228.322109ms] [Cloudflare,HSTS,HTTP/3]
+http://segmentation-optimaze-api.cloud.openart.ai [308] [https://segmentation-optimaze-api.cloud.openart.ai/] [0] [Caddy] [44.217.9.182] [199.539978ms] [Caddy]
+https://www.openart.ai [308] [https://openart.ai] [18] [Google Frontend] [192.179.16.121] [google] [143.392479ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://www.overto.ne [308] [https://overto.ne/] [54] [cloudflare] [172.66.155.46] [cloudflare] [3.472037595s] [Cloudflare,HSTS,HTTP/3]
+https://webflow.openart.ai [308] [https://openart.ai] [18] [Google Frontend] [142.250.125.121] [google] [5.139636672s] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]

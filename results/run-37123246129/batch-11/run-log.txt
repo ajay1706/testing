@@ -1,0 +1,14 @@
+[+] Batch started: Sat Oct  3 12:42:17 UTC 2026
+[+] Run ID: 37123246129
+[+] Batch name: batch-11
+[+] Batch targets:
+openart.ai
+overto.ne
+perplexity.ai
+[+] Running subfinder...
+[+] Subfinder completed: Sat Oct  3 12:47:08 UTC 2026
+[+] HTTPX input count: 235
+[+] Running httpx...
+[+] httpx completed: Sat Oct  3 12:47:33 UTC 2026
+[+] httpx line count: 145
+[+] Batch completed: Sat Oct  3 12:47:33 UTC 2026
