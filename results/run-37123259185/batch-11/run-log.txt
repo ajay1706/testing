@@ -1,0 +1,14 @@
+[+] Batch started: Sat Oct  3 12:43:37 UTC 2026
+[+] Run ID: 37123259185
+[+] Batch name: batch-11
+[+] Batch targets:
+polymarket.com
+prediction.market
+pump.fun
+[+] Running subfinder...
+[+] Subfinder completed: Sat Oct  3 12:44:05 UTC 2026
+[+] HTTPX input count: 341
+[+] Running httpx...
+[+] httpx completed: Sat Oct  3 12:44:51 UTC 2026
+[+] httpx line count: 196
+[+] Batch completed: Sat Oct  3 12:44:51 UTC 2026
