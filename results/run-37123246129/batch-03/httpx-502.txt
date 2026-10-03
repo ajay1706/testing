@@ -1,0 +1,3 @@
+https://assets.api.gamma.app [502] [] [15] [cloudflare] [104.18.11.200] [cloudflare] [79.298796ms] [Cloudflare,Cloudflare Bot Management]
+https://assets.api.staging.gamma.app [502] [] [15] [cloudflare] [104.18.10.200] [cloudflare] [98.395918ms] [Cloudflare,Cloudflare Bot Management]
+https://imgproxy.gamma.app [502] [] [15] [cloudflare] [104.18.10.200] [cloudflare] [434.208002ms] [Cloudflare,Cloudflare Bot Management]
