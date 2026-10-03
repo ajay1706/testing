@@ -1,0 +1,8 @@
+https://help.midjourney.com [301] [https://docs.midjourney.com/] [167] [301 Moved Permanently] [cloudflare] [172.64.154.39] [cloudflare] [72.17554ms] [Cloudflare,HTTP/3]
+https://help.napkin.ai [301] [https://help.napkin.ai/en/] [167] [301 Moved Permanently] [cloudflare] [104.18.4.88] [cloudflare] [164.573265ms] [Cloudflare,HSTS,HTTP/3]
+https://legacy.midjourney.com [301] [https://midjourney.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.33.217] [cloudflare] [84.859563ms] [Cloudflare,HTTP/3]
+https://napkin.ai [301] [https://www.napkin.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.88] [cloudflare] [47.094217ms] [Cloudflare,HSTS,HTTP/3]
+https://or.napkin.ai [301] [https://openreplay.napkin.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.88] [cloudflare] [211.201988ms] [Cloudflare,HSTS,HTTP/3]
+https://team.napkin.ai [301] [https://www.napkin.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.88] [cloudflare] [67.561787ms] [Cloudflare,HSTS,HTTP/3]
+https://ww.napkin.ai [301] [https://www.napkin.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.88] [cloudflare] [161.510675ms] [Cloudflare,HSTS,HTTP/3]
+https://wwww.napkin.ai [301] [https://www.napkin.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.4.88] [cloudflare] [153.623089ms] [Cloudflare,HSTS,HTTP/3]
