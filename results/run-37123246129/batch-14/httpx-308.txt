@@ -1,0 +1,7 @@
+https://cpp.runwayml.com [308] [https://runwayml.com/creative-partners-program] [15] [Vercel] [66.33.60.193] [149.001559ms] [HSTS,Vercel]
+https://graphics.runwayml.com [308] [https://runwayml.com/] [15] [Vercel] [76.76.21.98] [150.997597ms] [HSTS,Vercel]
+https://gen48.runwayml.com [308] [https://runwayml.com/gen48] [15] [Vercel] [66.33.60.34] [183.692352ms] [HSTS,Vercel]
+https://research.runwayml.com [308] [https://runwayml.com/research] [15] [Vercel] [76.76.21.123] [4.04504482s] [HSTS,Vercel]
+http://prometheus.prod-g2.ops.runwayml.com [308] [https://prometheus.prod-g2.ops.runwayml.com] [164] [308 Permanent Redirect] [] [34.134.176.7] [google] [2.08747243s]
+https://runwayml.com [308] [https://runway.com/] [15] [Vercel] [76.76.21.21] [5.104939974s] [HSTS,Vercel]
+http://text-embedding-service.ray.research-g2.ops.runwayml.com [308] [https://text-embedding-service.ray.research-g2.ops.runwayml.com] [164] [308 Permanent Redirect] [] [34.173.255.215] [google] [4.082560086s]
