@@ -1,0 +1,13 @@
+[+] Batch started: Sat Oct  3 12:48:35 UTC 2026
+[+] Run ID: 37123259185
+[+] Batch name: batch-16
+[+] Batch targets:
+world.org
+zora.co
+[+] Running subfinder...
+[+] Subfinder completed: Sat Oct  3 12:48:55 UTC 2026
+[+] HTTPX input count: 149
+[+] Running httpx...
+[+] httpx completed: Sat Oct  3 12:49:01 UTC 2026
+[+] httpx line count: 132
+[+] Batch completed: Sat Oct  3 12:49:01 UTC 2026
