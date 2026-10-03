@@ -1,0 +1,7 @@
+https://api.mythicalgames.com [404] [] [45] [cloudflare] [172.66.167.217] [cloudflare] [289.325526ms] [Cloudflare,HSTS,HTTP/3]
+https://legacy.mythicalgames.com [404] [] [19] [cloudflare] [104.20.42.171] [cloudflare] [322.732771ms] [Cloudflare,HSTS,HTTP/3]
+https://www.mythicalgames.com [404] [] [19] [cloudflare] [104.20.42.171] [cloudflare] [252.299056ms] [Cloudflare,HSTS,HTTP/3]
+https://clicks.mythicalgames.com [404] [] [150] [404 Not Found] [cloudflare] [172.66.167.217] [cloudflare] [428.80684ms] [Cloudflare,HTTP/3]
+https://dev.mythicalgames.com [404] [] [107] [cloudflare] [104.20.42.171] [cloudflare] [536.382839ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://email.mythicalgames.com [404] [] [19] [] [34.102.239.211] [google] [599.252008ms]
+https://qa.mythicalgames.com [404] [] [107] [cloudflare] [104.20.42.171] [cloudflare] [614.901997ms] [Cloudflare,HSTS,HTTP/3,Vercel]
