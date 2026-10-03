@@ -1,0 +1,3 @@
+https://admin.shapes.inc [308] [https://admin.shapes.inc/] [14] [cloudflare] [104.26.7.11] [cloudflare] [605.386811ms] [Cloudflare]
+https://staging.shapes.inc [308] [https://staging.shapes.inc/] [14] [cloudflare] [104.26.6.11] [cloudflare] [645.072781ms] [Cloudflare]
+https://docs.shapes.inc [308] [/introduction] [101491] [Vercel] [66.33.60.66] [319.215008ms] [Cloudflare,HSTS,Vercel]
