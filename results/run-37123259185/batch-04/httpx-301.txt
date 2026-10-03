@@ -1,0 +1,3 @@
+https://info.etherscan.io [301] [https://info.etherscan.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.37.229] [cloudflare] [71.880098ms] [Cloudflare,HTTP/3]
+https://link.farcaster.xyz [301] [https://linklyhq.com/no-default-redirect?domain=link.farcaster.xyz] [132] [] [34.133.74.21] [google] [498.552885ms] [HSTS]
+https://www.farcaster.xyz [301] [https://farcaster.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.28.145] [cloudflare] [89.999026ms] [Cloudflare,HSTS,HTTP/3]

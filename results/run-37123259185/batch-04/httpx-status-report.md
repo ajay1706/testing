@@ -1,0 +1,108 @@
+# HTTPX Status Report
+
+Generated at: Sat Oct  3 12:36:20 UTC 2026
+
+HTTPX lines: 79
+Live URLs: 79
+
+## 200
+https://api-metadata.etherscan.io [200] [] [959] [cloudflare] [104.20.37.229] [cloudflare] [204.245887ms] [Cloudflare,HTTP/3]
+https://farcaster.xyz [200] [] [4103] [Farcaster] [cloudflare] [104.21.28.145] [cloudflare] [187.845638ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://api.etherscan.io [200] [] [172] [nginx] [162.252.84.9] [247.597494ms] [Nginx]
+https://docs.farcaster.xyz [200] [] [18929] [Farcaster Docs] [Vercel] [66.33.60.130] [265.501898ms] [Google Analytics,HSTS,Vercel]
+https://fomo.family [200] [] [51927] [fomo | Social Crypto Trading App & Web Platform] [cloudflare] [172.66.40.82] [cloudflare] [142.288029ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Google Analytics,HTTP/3]
+https://miniapps.farcaster.xyz [200] [] [26736] [Farcaster Mini Apps] [Vercel] [66.33.60.67] [185.200928ms] [Fathom,HSTS,Vercel]
+https://snapchain.farcaster.xyz [200] [] [18958] [What is Snapchain?] [Vercel] [66.33.60.130] [145.055951ms] [HSTS,Vercel]
+https://wallet.farcaster.xyz [200] [] [1752] [farcaster-wallet] [cloudflare] [172.67.170.223] [cloudflare] [329.416839ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://production.fomo.family [200] [] [51927] [fomo | Social Crypto Trading App & Web Platform] [cloudflare] [172.66.43.174] [cloudflare] [486.602166ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Google Analytics,HTTP/3]
+https://trust.etherscan.io [200] [] [7852] [Etherscan Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [393.534418ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://newsletter.fomo.family [200] [] [646904] [Home | fomo] [cloudflare] [104.16.23.120] [cloudflare] [470.849346ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://status.etherscan.io [200] [] [241727] [etherscan Status] [AtlassianEdge] [13.32.230.76] [cloudfront] [504.193721ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+
+## 301
+https://info.etherscan.io [301] [https://info.etherscan.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.37.229] [cloudflare] [71.880098ms] [Cloudflare,HTTP/3]
+https://link.farcaster.xyz [301] [https://linklyhq.com/no-default-redirect?domain=link.farcaster.xyz] [132] [] [34.133.74.21] [google] [498.552885ms] [HSTS]
+https://www.farcaster.xyz [301] [https://farcaster.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.28.145] [cloudflare] [89.999026ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://preprod.fomo.family [302] [https://fomo-labs.cloudflareaccess.com/cdn-cgi/access/login/preprod.fomo.family?kid=cf1707f96637d6997c04ba92ff06ce31bab3c0e15f1a76d6d2a9e36ab90e3f22&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM4MTIwZDUwOWQyZGI4YjAzZGM4ZmY5NjcyYTA3NjFlN2QwYjk0NjUzODNmOWQ0ZDI0ZmMwZDRhYzRjZTEwMzgifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImNmMTcwN2Y5NjYzN2Q2OTk3YzA0YmE5MmZmMDZjZTMxYmFiM2MwZTE1ZjFhNzZkNmQyYTllMzZhYjkwZTNmMjIiLCJob3N0bmFtZSI6InByZXByb2QuZm9tby5mYW1pbHkiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTAzMTI2MCwibmJmIjoxNzkxMDMwOTYwLCJpYXQiOjE3OTEwMzA5NjAsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI2NjIwNTM1OWFkYjNmMDhlOGVjOGQyZWEzZjc5ZGNmODZhMTc4Mjk4Nzc1Nzg5MGM3YWMwNmZkNzZiNTg5MjIwIn0.LlqzN4K6SE9VYLGrQNKu2pDs2LAcE8hloyMjYiu5RhwHj3BtN-CU4xCA30Qz2P_lkt5mTM11WQydyvu7kRQwwFhAkYX_Ym21M1sRGu76IpRGDXWs9y4gx09Kl8rJX7RcQRJ5MDEItJhwewBRdfeDUiWC3e0hqq6Pjg8N4q9rYuCJH_wDa_V-DtoJXufWJEpatbSvp-36wLiej304AzOKLvGcvk8aFcF3pT0U7VXiMmEH-P7fMqrM1wl4bpzrwI6u97kMhFHKPQYQhtAsCCuPZzDwCTmiGWmM8cdZcHZD-Lpx_6LmaslJhb43od1mwcvyIZ-Frw-4kIIRFephSzaWtA&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.43.174] [cloudflare] [157.300593ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.fomo.family [302] [https://fomo.family/] [143] [302 Found] [cloudflare] [172.66.43.174] [cloudflare] [80.643806ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 307
+
+## 308
+https://docs.etherscan.io [308] [/introduction] [108584] [Vercel] [66.33.60.67] [197.427402ms] [Cloudflare,HSTS,Vercel]
+http://juno.farcaster.xyz [308] [https://juno.farcaster.xyz:3381/] [0] [Caddy] [18.214.165.252] [106.499871ms] [Caddy]
+http://crackle.farcaster.xyz [308] [https://crackle.farcaster.xyz:3381/] [0] [Caddy] [54.87.204.167] [108.308956ms] [Caddy]
+http://iris.farcaster.xyz [308] [https://iris.farcaster.xyz:3381/] [0] [Caddy] [107.21.184.149] [109.07808ms] [Caddy]
+http://rho.farcaster.xyz [308] [https://rho.farcaster.xyz:3383/] [0] [Caddy] [44.218.110.143] [103.505713ms] [Caddy]
+http://snap.farcaster.xyz [308] [https://snap.farcaster.xyz:3381/] [0] [Caddy] [54.236.164.51] [105.799132ms] [Caddy]
+http://tau.farcaster.xyz [308] [https://tau.farcaster.xyz:3381/] [0] [Caddy] [23.23.151.66] [106.579319ms] [Caddy]
+http://vega.farcaster.xyz [308] [https://vega.farcaster.xyz:3381/] [0] [Caddy] [18.206.50.132] [99.80793ms] [Caddy]
+
+## 401
+
+## 403
+https://etherscan.io [403] [] [5577] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [59.624879ms] [Cloudflare,HTTP/3]
+https://hoodi.etherscan.io [403] [] [5626] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [79.178669ms] [Cloudflare,HTTP/3]
+https://api-sepolia-optimism.etherscan.io [403] [] [5747] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [73.224681ms] [Cloudflare,HTTP/3]
+https://advert.etherscan.io [403] [] [5542] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [73.927957ms] [Cloudflare,HTTP/3]
+https://abt.etherscan.io [403] [] [5624] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [64.376551ms] [Cloudflare,HTTP/3]
+https://gen.etherscan.io [403] [] [5646] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [59.317546ms] [Cloudflare,HTTP/3]
+https://arc.etherscan.io [403] [] [5624] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [63.990931ms] [Cloudflare,HTTP/3]
+https://api-optimistic.etherscan.io [403] [] [5635] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [63.882193ms] [Cloudflare,HTTP/3]
+https://goerli.etherscan.io [403] [] [5521] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [63.694264ms] [Cloudflare,HTTP/3]
+https://bi.etherscan.io [403] [] [5538] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [72.476587ms] [Cloudflare,HTTP/3]
+https://api-hoodi.etherscan.io [403] [] [5566] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [63.748166ms] [Cloudflare,HTTP/3]
+https://info-mega.etherscan.io [403] [] [5524] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [155.36952ms] [Cloudflare,HTTP/3]
+https://api-sepolia.etherscan.io [403] [] [5675] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [155.707688ms] [Cloudflare,HTTP/3]
+https://info-optimistic.etherscan.io [403] [] [5572] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [155.496983ms] [Cloudflare,HTTP/3]
+https://bi3.etherscan.io [403] [] [5667] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [165.467195ms] [Cloudflare,HTTP/3]
+https://beta.etherscan.io [403] [] [5519] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [166.402381ms] [Cloudflare,HTTP/3]
+https://mega.etherscan.io [403] [] [5625] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [83.100947ms] [Cloudflare,HTTP/3]
+https://mcp.etherscan.io [403] [] [5539] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [94.84731ms] [Cloudflare,HTTP/3]
+https://old.etherscan.io [403] [] [5667] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [85.544239ms] [Cloudflare,HTTP/3]
+https://api-sepolia-optimistic.etherscan.io [403] [] [5600] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [350.939698ms] [Cloudflare,HTTP/3]
+https://optimistic.etherscan.io [403] [] [5674] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [279.313062ms] [Cloudflare,HTTP/3]
+https://robin.etherscan.io [403] [] [5520] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [108.200167ms] [Cloudflare,HTTP/3]
+https://sepolia-optimism.etherscan.io [403] [] [5637] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [92.673893ms] [Cloudflare,HTTP/3]
+https://sepolia.etherscan.io [403] [] [5671] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [90.496957ms] [Cloudflare,HTTP/3]
+https://sepolia-optimistic.etherscan.io [403] [] [5596] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [102.110861ms] [Cloudflare,HTTP/3]
+https://socket.etherscan.io [403] [] [5670] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [71.287789ms] [Cloudflare,HTTP/3]
+https://stats.etherscan.io [403] [] [5541] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [63.97723ms] [Cloudflare,HTTP/3]
+https://testnet-mega.etherscan.io [403] [] [5633] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [76.25441ms] [Cloudflare,HTTP/3]
+https://testnet.etherscan.io [403] [] [5522] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [69.144042ms] [Cloudflare,HTTP/3]
+https://ww10.etherscan.io [403] [] [5603] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [61.310575ms] [Cloudflare,HTTP/3]
+https://ww2.etherscan.io [403] [] [5518] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [68.917026ms] [Cloudflare,HTTP/3]
+https://ww3.etherscan.io [403] [] [5539] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [68.428892ms] [Cloudflare,HTTP/3]
+https://ww7.etherscan.io [403] [] [5581] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [59.584044ms] [Cloudflare,HTTP/3]
+https://ww6.etherscan.io [403] [] [5539] [Just a moment...] [cloudflare] [172.66.149.96] [cloudflare] [64.06615ms] [Cloudflare,HTTP/3]
+https://www.etherscan.io [403] [] [5581] [Just a moment...] [cloudflare] [104.20.37.229] [cloudflare] [73.645626ms] [Cloudflare,HTTP/3]
+
+## 404
+https://feature-flags.fomo.family [404] [] [9] [cloudflare] [172.66.40.82] [cloudflare] [114.703883ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://auth.farcaster.xyz [404] [] [13] [cloudflare] [104.21.28.145] [cloudflare] [164.362914ms] [Cloudflare,HSTS,HTTP/3]
+https://client.farcaster.xyz [404] [] [48] [cloudflare] [104.21.28.145] [cloudflare] [166.662554ms] [Cloudflare,HSTS,HTTP/3]
+https://email.mail.farcaster.xyz [404] [] [19] [] [34.110.180.34] [google] [214.218862ms]
+https://api.farcaster.xyz [404] [] [48] [cloudflare] [104.21.28.145] [cloudflare] [214.764659ms] [Cloudflare,HSTS,HTTP/3]
+https://fnames.farcaster.xyz [404] [] [506] [Error] [cloudflare] [104.21.28.145] [cloudflare] [299.982331ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js]
+https://privy.farcaster.xyz [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [166.703957ms] [Cloudflare,Cloudflare Bot Management]
+https://app-actions.fomo.family [404] [] [105] [cloudflare] [104.20.19.245] [cloudflare] [404.680902ms] [Cloudflare,HSTS]
+https://banner.fomo.family [404] [] [9] [cloudflare] [172.66.43.174] [cloudflare] [428.953252ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://download.farcaster.xyz [404] [] [27150] [Not Found] [cloudflare] [172.67.170.223] [cloudflare] [279.852244ms] [Cloudflare,HSTS]
+https://relay.farcaster.xyz [404] [] [72] [cloudflare] [104.21.28.145] [cloudflare] [206.383798ms] [Cloudflare,HSTS,HTTP/3]
+https://elinkd9b.mail.fomo.family [404] [] [1847] [404 Not Found] [cloudflare] [104.16.24.120] [cloudflare] [538.995944ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://privy.fomo.family [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [372.985357ms] [Cloudflare,Cloudflare Bot Management]
+https://snap-docs.farcaster.xyz [404] [] [79] [Vercel] [76.76.21.21] [163.083589ms] [HSTS,Vercel]
+https://mint.farcaster.xyz [404] [] [107] [Vercel] [66.33.60.130] [484.242261ms] [HSTS,Vercel]
+https://status.fomo.family [404] [] [9] [cloudflare] [172.66.40.82] [cloudflare] [148.549306ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://stream.farcaster.xyz [404] [] [48] [cloudflare] [104.21.28.145] [cloudflare] [145.825435ms] [Cloudflare,HSTS,HTTP/3]
+https://wrapped-2025.fomo.family [404] [] [9] [cloudflare] [172.66.40.82] [cloudflare] [71.825713ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://snap-assets.farcaster.xyz [404] [] [27150] [Not Found] [cloudflare] [104.21.28.145] [cloudflare] [268.293632ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+
+## 503
+

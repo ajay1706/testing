@@ -1,0 +1,14 @@
+[+] Batch started: Sat Oct  3 12:35:02 UTC 2026
+[+] Run ID: 37123259185
+[+] Batch name: batch-04
+[+] Batch targets:
+etherscan.io
+farcaster.xyz
+fomo.family
+[+] Running subfinder...
+[+] Subfinder completed: Sat Oct  3 12:35:59 UTC 2026
+[+] HTTPX input count: 112
+[+] Running httpx...
+[+] httpx completed: Sat Oct  3 12:36:20 UTC 2026
+[+] httpx line count: 79
+[+] Batch completed: Sat Oct  3 12:36:20 UTC 2026
