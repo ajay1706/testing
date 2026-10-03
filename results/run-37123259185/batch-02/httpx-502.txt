@@ -1,0 +1,1 @@
+https://realtime-api.dev.defined.fi [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [13.32.205.38] [cloudfront] [177.829652ms] [Amazon CloudFront,Amazon Web Services]
