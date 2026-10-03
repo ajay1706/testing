@@ -1,0 +1,2 @@
+https://frontend-assets.sorare.com [500] [] [32] [] [18.238.192.127] [cloudfront] [620.308038ms] [Amazon CloudFront,Amazon Web Services]
+https://assets.sorare.com [500] [] [32] [] [65.8.180.116] [cloudfront] [708.874715ms] [Amazon CloudFront,Amazon Web Services]
