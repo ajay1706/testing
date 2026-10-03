@@ -1,0 +1,55 @@
+# HTTPX Status Report
+
+Generated at: Sat Oct  3 12:42:47 UTC 2026
+
+HTTPX lines: 29
+Live URLs: 29
+
+## 200
+https://metrics.manus.im [200] [] [0] [] [76.223.60.10] [30.929173ms] [HSTS]
+https://api.melloapp.in [200] [] [69] [cloudflare] [104.21.30.169] [cloudflare] [195.151385ms] [Cloudflare,Render]
+https://www.melloapp.in [200] [] [902] [Mello] [cloudflare] [104.21.30.169] [cloudflare] [206.683723ms] [Cloudflare]
+https://admin.melloapp.in [200] [] [461] [mello-admin] [cloudflare] [104.21.30.169] [cloudflare] [235.627861ms] [Cloudflare]
+https://trust.manus.im [200] [] [7557] [manus.ai Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [183.68004ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://usecase.manus.im [200] [] [19853] [Notion] [cloudflare] [208.103.161.32] [395.271255ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,hCaptcha]
+https://status.manus.im [200] [] [82809] [Manus Status] [AtlassianEdge] [3.171.61.34] [cloudfront] [460.468209ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://mellows.ai [200] [] [259416] [mellows | AI Sleep Coach, Sleep Insights & Spatial Soundscapes] [Vercel] [66.33.60.66] [302.476726ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://partner.manus.im [200] [] [369928] [Manus Business Partner Program] [cloudflare] [104.19.169.112] [cloudflare] [1.066931214s] [Cloudflare,Express,Google Cloud,Google Cloud Trace,HSTS,Node.js]
+https://learnai.manus.im [200] [] [371291] [Learn AI with Manus] [cloudflare] [104.19.169.112] [cloudflare] [1.108658666s] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://manus.im [200] [] [257126] [Manus: Hands On AI] [] [3.171.38.17] [cloudfront] [541.280683ms] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HSTS,Next.js,Node.js,React,Webpack]
+https://www.manus.im [200] [] [257126] [Manus: Hands On AI] [] [3.171.38.88] [cloudfront] [659.258408ms] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HSTS,Next.js,Node.js,React,Webpack]
+https://academy.manus.im [200] [] [302343] [Manus Academy] [Vercel] [216.150.16.193] [1.587001801s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://melloapp.in [301] [https://www.melloapp.in/] [59] [cloudflare] [104.21.30.169] [cloudflare] [178.085242ms] [Cloudflare]
+
+## 302
+https://pages.manus.im [302] [https://manus.im:443/] [110] [302 Found] [awselb/2.0] [100.26.11.145] [19.047258ms] [Amazon ELB,Amazon Web Services]
+https://help.manus.im [302] [https://help.manus.im/en/] [0] [nginx] [18.165.83.19] [cloudfront] [43.463136ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://staging.mellows.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.mellows.ai%2F&nonce=e566de1b9e73d594916a15e9c0409078f78b54785eabdf4a7b936c520994351e] [263] [Vercel] [66.33.60.193] [280.059423ms] [HSTS,Vercel]
+https://careers.manus.im [302] [/en] [25] [cloudflare] [104.19.169.112] [cloudflare] [892.449953ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+
+## 307
+https://dashboard.mellows.ai [307] [/login?redirect=%2F] [15] [Vercel] [76.76.21.61] [130.031991ms] [HSTS,Vercel]
+
+## 308
+http://events.manus.im [308] [https://events.manus.im/] [0] [] [31.43.160.6] [5.987281ms] [HSTS,HTTP/3]
+https://open.manus.im [308] [/docs] [15] [Vercel] [108.138.85.89] [cloudfront] [206.693373ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,Vercel]
+https://www.mellows.ai [308] [https://mellows.ai/] [15] [Vercel] [76.76.21.164] [228.006728ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://email.mail.manus.im [404] [] [19] [] [34.110.180.34] [google] [46.564406ms]
+https://api.manus.im [404] [] [36] [APISIX/3.11.0] [98.85.208.166] [168.467992ms] [Apache APISIX:3.11.0]
+https://assets.mellows.ai [404] [] [27150] [Not Found] [cloudflare] [104.21.32.75] [cloudflare] [230.49568ms] [Cloudflare]
+https://cdn.melloapp.in [404] [] [27150] [Not Found] [cloudflare] [104.21.30.169] [cloudflare] [852.663947ms] [Cloudflare]
+
+## 500
+
+## 502
+
+## 503
+
