@@ -1,0 +1,2 @@
+https://events.api.napkin.ai [404] [] [500] [Error] [cloudflare] [104.18.4.88] [cloudflare] [152.757251ms] [Cloudflare,Cloudflare Browser Insights,Express,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS,HTTP/3,Node.js]
+https://events.dev.api.napkin.ai [404] [] [500] [Error] [cloudflare] [104.18.4.88] [cloudflare] [134.048421ms] [Cloudflare,Cloudflare Browser Insights,Express,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS,HTTP/3,Node.js]
