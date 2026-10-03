@@ -1,0 +1,4 @@
+https://lpad-backend.stage.defi.ovh.gala.com [401] [] [63] [] [40.160.9.235] [200.029258ms] [HSTS]
+https://lpad-backend-prod1.defi.gala.com [401] [] [63] [] [40.160.4.227] [235.590297ms] [HSTS]
+https://lpad-backend.prod.defi.ovh.gala.com [401] [] [63] [] [40.160.4.227] [237.698955ms] [HSTS]
+https://workshop-fast.gala.com [401] [] [1093] [Caddy SimpleHTTP/0.6 Python/3.12.14] [40.160.7.133] [216.638059ms] [HTTP/3,Python:3.12.14,SimpleHTTP:0.6]
