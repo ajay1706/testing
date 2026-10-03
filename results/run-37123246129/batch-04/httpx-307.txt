@@ -1,0 +1,2 @@
+https://guppshupp.com [307] [https://www.guppshupp.com/] [15] [Vercel] [216.198.79.1] [51.85785ms] [HSTS,Vercel]
+https://mcp-auth.granola.ai [307] [https://auth.granola.ai/user_management/initiate_login?context=&client_id=client_01JZJ0XBDAT8PHJWQY09Y0VD61] [73382] [Sign in] [cloudflare] [172.64.152.23] [cloudflare] [190.05514ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]

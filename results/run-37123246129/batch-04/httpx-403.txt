@@ -1,0 +1,6 @@
+https://email-assets.granola.ai [403] [] [111] [AmazonS3] [3.162.112.100] [cloudfront] [56.67532ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://cdn.hailuoai.video [403] [] [374] [AliyunOSS] [23.53.11.108] [270.231794ms] [Alibaba Cloud Object Storage Service]
+https://mta-sts.granola.ai [403] [] [111] [AmazonS3] [13.35.78.82] [cloudfront] [1.307150896s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://stream.api.bradley.granola.ai [403] [] [144] [] [3.162.112.23] [cloudfront] [1.25416473s] [Amazon CloudFront,Amazon Web Services]
+https://stream.api.jacob.granola.ai [403] [] [144] [] [3.170.3.82] [cloudfront] [3.17365888s] [Amazon CloudFront,Amazon Web Services]
+https://stream.api.samtucker.granola.ai [403] [] [144] [] [3.170.19.102] [cloudfront] [3.234784663s] [Amazon CloudFront,Amazon Web Services]

@@ -1,0 +1,8 @@
+https://help.granola.ai [301] [https://docs.granola.ai:443/help-center/search] [134] [301 Moved Permanently] [awselb/2.0] [100.50.87.125] [17.286719ms] [Amazon ELB,Amazon Web Services]
+https://go.granola.ai [301] [https://www.granola.ai/] [15] [Vercel] [66.33.60.66] [57.634025ms] [HSTS,Vercel]
+http://public-api.bradley.granola.ai [301] [https://public-api.bradley.granola.ai:443/] [134] [301 Moved Permanently] [] [44.195.153.205] [3.110224476s]
+http://public-api.jacob.granola.ai [301] [https://public-api.jacob.granola.ai:443/] [134] [301 Moved Permanently] [] [32.193.89.252] [7.068109969s]
+http://stream.api.jk.granola.ai [301] [https://stream.api.jk.granola.ai/] [167] [301 Moved Permanently] [CloudFront] [13.226.209.110] [cloudfront] [4.092792452s] [Amazon CloudFront,Amazon Web Services]
+http://trust.granola.ai [301] [https://trust.granola.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.26.175] [cloudflare] [1.109871647s] [Cloudflare]
+http://stream.api.sarthak.granola.ai [301] [https://stream.api.sarthak.granola.ai/] [167] [301 Moved Permanently] [CloudFront] [3.162.112.71] [cloudfront] [6.138060478s] [Amazon CloudFront,Amazon Web Services]
+http://www.hailuoai.video [301] [https://hailuoai.video] [162] [301 Moved Permanently] [] [47.253.59.202] [649.178952ms]
