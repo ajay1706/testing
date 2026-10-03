@@ -1,0 +1,7 @@
+https://events.elevenlabs.io [403] [] [776] [elevenlabs.io] [DataDome] [151.101.130.133] [fastly] [113.573661ms] [DataDome,HSTS,Varnish]
+https://eleven-apps-public-cdn-elevenscribe.elevenlabs.io [403] [] [111] [UploadServer] [34.8.163.37] [google] [190.41364ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://eleven-public-cdn.elevenlabs.io [403] [] [111] [UploadServer] [34.98.93.216] [google] [205.144645ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://eleven-public-cdn-common.elevenlabs.io [403] [] [111] [UploadServer] [34.149.151.175] [google] [227.712931ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://eleven-public-cdn.eu.residency.elevenlabs.io [403] [] [111] [UploadServer] [34.149.37.131] [google] [397.019481ms] [HTTP/3]
+https://eleven-public-cdn.in.residency.elevenlabs.io [403] [] [111] [UploadServer] [34.149.211.209] [google] [731.675445ms] [HTTP/3]
+https://media.crafto.app [403] [] [111] [AmazonS3] [65.8.20.24] [cloudfront] [789.91566ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
