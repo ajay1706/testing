@@ -1,0 +1,2 @@
+[CVE-2023-5561] [http] [medium] https://myequal.ai/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[prometheus-metrics] [http] [medium] https://openapi.pixverse.ai/metrics
