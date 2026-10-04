@@ -1,0 +1,3 @@
+[mongodb-exporter-metrics] [http] [medium] https://guanaco-auth.chai-research.com/metrics
+[prometheus-metrics] [http] [medium] https://guanaco-metrics.chai-research.com/metrics
+[prometheus-metrics] [http] [medium] https://hailuoai.video/metrics
