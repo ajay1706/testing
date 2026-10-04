@@ -2,14 +2,14 @@
 [weak-cipher-suites:tls-1.1] [ssl] [low] status.mezo.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [weak-cipher-suites:tls-1.0] [ssl] [low] status.safe.berachain.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [weak-cipher-suites:tls-1.1] [ssl] [low] status.safe.berachain.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://stellar.coin.ledger.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://stellar.alpaca.api.ledger.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://status.manta.network
 [fastly-debug-headers:fastly-debug-ttl] [http] [low] https://status.manta.network
 [fastly-debug-headers:fastly-debug-digest] [http] [low] https://status.manta.network
-[fastly-debug-headers:fastly-debug-path] [http] [low] https://status.manta.network
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://stellar.alpaca.api.ledger.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://stellar.alpaca.api.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://stellar.alpaca.api.ledger.com
 [fastly-debug-headers:fastly-debug-path] [http] [low] https://stellar.coin.ledger.com
 [fastly-debug-headers:fastly-debug-ttl] [http] [low] https://stellar.coin.ledger.com
 [fastly-debug-headers:fastly-debug-digest] [http] [low] https://stellar.coin.ledger.com
-[fastly-debug-headers:fastly-debug-path] [http] [low] https://stellar.alpaca.api.ledger.com
-[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://stellar.alpaca.api.ledger.com
-[fastly-debug-headers:fastly-debug-digest] [http] [low] https://stellar.alpaca.api.ledger.com
-[unauthenticated-varnish-cache-purge] [http] [low] https://stellar.alpaca.api.ledger.com
-[unauthenticated-varnish-cache-purge] [http] [low] https://stellar.coin.ledger.com
