@@ -10,3 +10,5 @@
 [weak-cipher-suites:tls-1.1] [ssl] [low] pintrackerv7.internal.infura.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [weak-cipher-suites:tls-1.0] [ssl] [low] pintrackerv7.staging.internal.infura.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [weak-cipher-suites:tls-1.1] [ssl] [low] pintrackerv7.staging.internal.infura.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://pilot.quicknode.com/metrics
+[unauthenticated-varnish-cache-purge] [http] [low] https://playtest.fordefi.com
