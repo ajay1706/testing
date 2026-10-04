@@ -1,0 +1,2 @@
+[CVE-2025-29927] [http] [critical] https://peak.birdeye.so
+[config-json-exposure-fuzz] [http] [critical] https://passbolt.staging.talent.superteam.fun/settings.json [path="/settings.json"]
