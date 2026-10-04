@@ -1,0 +1,1 @@
+[nextjs-vite-public-env:public_env] [http] [medium] https://beta.replika.com [""VITE_WS_BASE_URL": "wss://ws.replika.com""]
