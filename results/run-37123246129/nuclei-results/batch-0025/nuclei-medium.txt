@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://www.yope.app/metrics
+[prometheus-metrics] [http] [medium] https://yope.app/metrics
