@@ -1,0 +1,11 @@
+[CVE-2023-5561] [http] [medium] https://myequal.ai/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[CVE-2023-5561] [http] [medium] https://www.myequal.ai/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2026-27454] [http] [medium] https://community.perplexity.ai/posts/7595.json?version=1
+[mongodb-exporter-metrics] [http] [medium] https://guanaco-auth.chai-research.com/metrics
+[nextjs-vite-public-env:public_env] [http] [medium] https://beta.replika.com [""VITE_WS_BASE_URL": "wss://ws.replika.com""]
+[nexus-repository-anonymous-access] [http] [medium] https://ctm-app.napkin.ai/service/rest/v1/repositories
+[prometheus-metrics] [http] [medium] https://guanaco-metrics.chai-research.com/metrics
+[prometheus-metrics] [http] [medium] https://hailuoai.video/metrics
+[prometheus-metrics] [http] [medium] https://openapi.pixverse.ai/metrics
+[prometheus-metrics] [http] [medium] https://www.yope.app/metrics
+[prometheus-metrics] [http] [medium] https://yope.app/metrics

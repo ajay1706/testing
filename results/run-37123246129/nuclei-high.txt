@@ -1,0 +1,4 @@
+[framer-takeover] [http] [high] https://curators-framer-prod.perplexity.ai ["sites.framer.app"]
+[framer-takeover] [http] [high] https://records.higgsfield.ai ["sites.framer.app"]
+[framer-takeover] [http] [high] https://teachers-prod.perplexity.ai ["sites.framer.app"]
+[framer-takeover] [http] [high] https://ventures.higgsfield.ai ["sites.framer.app"]

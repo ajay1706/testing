@@ -1,0 +1,4 @@
+[CVE-2025-29927] [http] [critical] https://fellowship.perplexity.ai
+[CVE-2025-29927] [http] [critical] https://platform.suno.com
+[CVE-2026-24207] [http] [critical] https://klingai.com/models
+[CVE-2026-24207] [http] [critical] https://www.klingai.com/models
