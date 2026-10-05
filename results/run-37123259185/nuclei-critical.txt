@@ -1,0 +1,4 @@
+[CVE-2025-29927] [http] [critical] https://beta-peak.birdeye.so
+[CVE-2025-29927] [http] [critical] https://peak.birdeye.so
+[CVE-2026-72898] [http] [critical] https://insights.audius.co/api/session/reset_password
+[config-json-exposure-fuzz] [http] [critical] https://passbolt.staging.talent.superteam.fun/settings.json [path="/settings.json"]
