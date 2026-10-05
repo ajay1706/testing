@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct  5 18:10:29 UTC 2026
+[+] Run ID: 37353439582
+[+] Batch name: batch-06
+[+] Batch targets:
+magicblock.xyz⁠￼
+manifest.trade⁠￼
+metaplex.foundation⁠￼
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct  5 18:11:12 UTC 2026
+[+] HTTPX input count: 3
+[+] Running httpx...
+[+] httpx completed: Mon Oct  5 18:11:13 UTC 2026
+[+] httpx line count: 0
+[+] Batch completed: Mon Oct  5 18:11:14 UTC 2026
