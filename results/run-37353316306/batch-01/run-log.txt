@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct  5 18:07:20 UTC 2026
+[+] Run ID: 37353316306
+[+] Batch name: batch-01
+[+] Batch targets:
+byreal.io⁠￼
+catchbackcards.com⁠￼
+collectorcrypt.com⁠￼
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct  5 18:09:59 UTC 2026
+[+] HTTPX input count: 3
+[+] Running httpx...
+[+] httpx completed: Mon Oct  5 18:10:01 UTC 2026
+[+] httpx line count: 0
+[+] Batch completed: Mon Oct  5 18:10:01 UTC 2026
