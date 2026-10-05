@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct  5 18:08:02 UTC 2026
+[+] Run ID: 37353439582
+[+] Batch name: batch-02
+[+] Batch targets:
+collectorcrypt.com⁠￼
+defi.app⁠￼
+family.co⁠￼
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct  5 18:09:27 UTC 2026
+[+] HTTPX input count: 3
+[+] Running httpx...
+[+] httpx completed: Mon Oct  5 18:09:29 UTC 2026
+[+] httpx line count: 0
+[+] Batch completed: Mon Oct  5 18:09:29 UTC 2026
