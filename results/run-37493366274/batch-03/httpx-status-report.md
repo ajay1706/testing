@@ -1,0 +1,71 @@
+# HTTPX Status Report
+
+Generated at: Tue Oct  6 16:11:59 UTC 2026
+
+HTTPX lines: 43
+Live URLs: 43
+
+## 200
+https://investor.flyingtulip.com [200] [] [8656] [Investor Relations - Flying Tulip] [AmazonS3] [18.67.76.35] [cloudfront] [67.784454ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://gov.gearbox.finance [200] [] [1221] [Gearbox Governance] [cloudflare] [172.67.209.224] [cloudflare] [181.454585ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://v1.gearbox.finance [200] [] [5116] [Gearbox protocol] [cloudflare] [104.21.93.123] [cloudflare] [231.705273ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://charts.gearbox.finance [200] [] [2493] [Gearbox Protocol] [cloudflare] [172.67.209.224] [cloudflare] [525.463968ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://staging-app.flyingtulip.com [200] [] [824] [Flying Tulip · Staging] [Caddy] [13.115.36.158] [777.089635ms] [Caddy,HTTP/3]
+https://re7.gearbox.finance [200] [] [15334] [Gearbox Protocol - Composable Leverage] [cloudflare] [104.21.93.123] [cloudflare] [135.578713ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://chaos.gearbox.finance [200] [] [15334] [Gearbox Protocol - Composable Leverage] [cloudflare] [104.21.93.123] [cloudflare] [153.659487ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://v4.gearbox.finance [200] [] [4877] [Gearbox Protocol - Composable Leverage] [cloudflare] [104.21.93.123] [cloudflare] [389.723758ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.flyingtulip.com [200] [] [21010] [Welcome | Flying Tulip Docs] [Vercel] [216.150.16.1] [309.150336ms] [Docusaurus:3.9.1,HSTS,React,Vercel,Webpack]
+https://bcr.gearbox.finance [200] [] [1237] [Gearbox Bytecode Repository] [cloudflare] [172.67.209.224] [cloudflare] [805.422587ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://v3.gearbox.finance [200] [] [4157] [Gearbox Protocol - Composable Leverage] [cloudflare] [104.21.93.123] [cloudflare] [781.187338ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.gearbox.finance [200] [] [6445] [Gearbox Protocol Docs] [cloudflare] [104.21.93.123] [cloudflare] [616.66322ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://flyingtulip.com [200] [] [39985] [Flying Tulip | On-chain Lending, Yield & Trading in One System] [AmazonS3] [3.170.42.5] [cloudfront] [93.771655ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://blog.gearbox.finance [200] [] [23981] [Gearbox Protocol Blog] [openresty] [151.101.3.7] [fastly] [496.475544ms] [Ghost:6.68,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://rider.flyingtulip.com [200] [] [47009] [Flying Tulip CHART RIDER — Trade the Line] [Vercel] [216.150.1.129] [293.570747ms] [HSTS,Vercel]
+https://data.gearbox.finance [200] [] [2485] [Gearbox Protocol] [cloudflare] [172.67.209.224] [cloudflare] [1.47643754s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://m11.gearbox.finance [200] [] [15334] [Gearbox Protocol - Composable Leverage] [cloudflare] [172.67.209.224] [cloudflare] [263.915734ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://tulipa.gearbox.finance [200] [] [15334] [Gearbox Protocol - Composable Leverage] [cloudflare] [104.21.93.123] [cloudflare] [294.305373ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app.gearbox.finance [200] [] [15334] [Gearbox Protocol - Composable Leverage] [cloudflare] [104.21.93.123] [cloudflare] [747.408497ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://safe.gearbox.finance [200] [] [8292] [Multisig] [cloudflare] [104.21.93.123] [cloudflare] [701.129303ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,IPFS]
+https://k3.gearbox.finance [200] [] [15334] [Gearbox Protocol - Composable Leverage] [cloudflare] [104.21.93.123] [cloudflare] [402.016443ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://cp0x.gearbox.finance [200] [] [15334] [Gearbox Protocol - Composable Leverage] [cloudflare] [172.67.209.224] [cloudflare] [605.275082ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://blog.flyingtulip.com [200] [] [44901] [Flying Tulip] [openresty] [151.101.3.7] [fastly] [391.081988ms] [Ghost:6.68,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://galaxy.flyingtulip.com [200] [] [34179] [Galaxy | On-chain Lending, Yield & Trading in One System] [AmazonS3] [3.171.139.28] [cloudfront] [479.8738ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,C3.js,HSTS]
+https://v5.gearbox.finance [200] [] [15334] [Gearbox Protocol - Composable Leverage] [cloudflare] [104.21.93.123] [cloudflare] [931.950585ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://invariant.gearbox.finance [200] [] [15334] [Gearbox Protocol - Composable Leverage] [cloudflare] [104.21.93.123] [cloudflare] [844.467757ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://kpk.gearbox.finance [200] [] [15334] [Gearbox Protocol - Composable Leverage] [cloudflare] [172.67.209.224] [cloudflare] [1.47325895s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.gearbox.finance [200] [] [90951] [Gearbox Protocol | Tokenisation Lending Stack] [Vercel] [216.150.1.193] [559.576847ms] [HSTS,Vercel]
+https://www.frontiertraders.com [200] [] [122012] [Frontier Traders | Trade on Solana] [cloudflare] [172.67.202.10] [cloudflare] [486.816997ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://dev.gearbox.finance [200] [] [274818] [Deployed Contracts – Nextra] [Vercel] [216.150.1.129] [102.382814ms] [HSTS,Vercel]
+https://dev.frontiertraders.com [200] [] [121867] [Frontier Traders | Trade on Solana] [cloudflare] [172.67.202.10] [cloudflare] [4.83960493s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://marketplace.flyingtulip.com [301] [https://flyingtulip.com/marketplace] [0] [CloudFront] [3.170.42.50] [cloudfront] [66.000508ms] [Amazon CloudFront,Amazon Web Services]
+
+## 302
+https://v2.gearbox.finance [302] [https://gearbox.fi/country_restricted] [0] [cloudflare] [172.67.209.224] [cloudflare] [1.319708483s] [Cloudflare,HTTP/3]
+
+## 307
+https://gearbox.finance [307] [https://www.gearbox.finance/] [15] [Vercel] [216.150.16.129] [988.57633ms] [HSTS,Vercel]
+
+## 308
+https://frontiertraders.com [308] [https://www.frontiertraders.com/] [15] [cloudflare] [172.67.202.10] [cloudflare] [153.118417ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+https://dn.flyingtulip.com [401] [] [0] [CloudFront] [3.170.19.50] [cloudfront] [294.319414ms] [Amazon CloudFront,Amazon Web Services,Basic]
+
+## 403
+https://mail.frontiertraders.com [403] [] [17] [cloudflare] [172.67.202.10] [cloudflare] [425.786867ms] [Cloudflare,HTTP/3]
+
+## 404
+https://api.flyingtulip.com [404] [] [10] [] [3.170.19.25] [cloudfront] [60.501475ms] [Amazon CloudFront,Amazon Web Services]
+https://api.galaxy.flyingtulip.com [404] [] [10] [] [3.167.88.129] [cloudfront] [211.301151ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://static.gearbox.finance [404] [] [0] [cloudflare] [172.67.209.224] [cloudflare] [333.384913ms] [Cloudflare,HTTP/3]
+https://am.gearbox.finance [404] [] [0] [cloudflare] [104.21.93.123] [cloudflare] [493.129191ms] [Cloudflare,HTTP/3]
+https://dm.gearbox.finance [404] [] [0] [cloudflare] [104.21.93.123] [cloudflare] [616.911344ms] [Cloudflare,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
