@@ -1,0 +1,3 @@
+https://arcium.com [308] [https://www.arcium.com/] [15] [Vercel] [216.150.16.193] [145.183425ms] [HSTS,Vercel]
+http://bin2.arcium.com [308] [https://bin2.arcium.com/] [0] [Caddy] [217.160.148.238] [347.584197ms] [Caddy]
+http://crates2.arcium.com [308] [https://crates2.arcium.com/] [0] [Caddy] [217.160.148.238] [369.788342ms] [Caddy]

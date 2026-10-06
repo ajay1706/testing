@@ -1,0 +1,2 @@
+https://dev-metrics.arcium.com [302] [/login] [29] [] [217.160.148.238] [506.239629ms] [HTTP/3]
+https://bin.arcium.com [302] [/download] [0] [Caddy] [217.160.148.238] [508.439533ms] [Caddy,HTTP/3]
