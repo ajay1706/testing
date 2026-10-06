@@ -1,0 +1,2 @@
+https://dex.katana.network [308] [/swap] [0] [cloudflare] [172.64.145.249] [cloudflare] [873.782266ms] [Cloudflare,HSTS]
+https://www.jtx.com [308] [https://jtx.com/] [15] [cloudflare] [104.26.13.57] [cloudflare] [362.663414ms] [Cloudflare,HSTS,Vercel]

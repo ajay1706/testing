@@ -1,0 +1,3 @@
+https://affiliate.kast.xyz [307] [/auth] [5] [cloudflare] [104.26.2.224] [cloudflare] [985.681348ms] [Cloudflare]
+https://app.business.kast.xyz [307] [/login] [6] [cloudflare] [104.26.3.224] [cloudflare] [1.2645201s] [Cloudflare,HSTS]
+https://app.kast.xyz [307] [https://kast.xyz] [5196] [Kast] [cloudflare] [104.26.3.224] [cloudflare] [1.225361615s] [Cloudflare,Cloudflare Browser Insights,Envoy,HSTS]
