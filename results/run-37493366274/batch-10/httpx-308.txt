@@ -1,0 +1,2 @@
+https://card.ready.co [308] [https://www.ready.co/card] [25] [] [3.167.138.18] [cloudfront] [1.340873208s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://ready.co [308] [https://www.ready.co/] [57] [Framer/26fa766] [31.43.161.6] [2.147188095s] [Framer Sites,HSTS,HTTP/3,React]

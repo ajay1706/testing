@@ -1,0 +1,54 @@
+# HTTPX Status Report
+
+Generated at: Tue Oct  6 16:19:07 UTC 2026
+
+HTTPX lines: 27
+Live URLs: 27
+
+## 200
+https://app.ready.co [200] [] [376] [Redirecting...] [AmazonS3] [3.169.149.91] [cloudfront] [243.866066ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://extension.revoke.cash [200] [] [2382] [Revoke Sidekick — Wallet Connection] [Vercel] [216.150.1.129] [277.804835ms] [HSTS,Vercel]
+https://extension-tests.revoke.cash [200] [] [3102] [Revoke.cash Browser Extension Test Cases] [cloudflare] [104.26.7.73] [cloudflare] [366.351775ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://hydrogen.app.ready.co [200] [] [376] [Redirecting...] [AmazonS3] [3.168.40.94] [cloudfront] [251.325921ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://docs.ready.co [200] [] [445749] [Build with Ready | Ready] [cloudflare] [172.64.147.209] [cloudflare] [332.327152ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.resupply.finance [200] [] [384650] [Welcome to Resupply | Resupply.fi] [cloudflare] [172.64.147.209] [cloudflare] [754.093301ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://gov.resupply.finance [200] [] [136068] [Resupply.fi] [nginx] [216.66.8.43] [488.799196ms] [Discourse:2026.10.0,HSTS,Nginx,Ruby on Rails]
+https://gift.ready.co [200] [] [126626] [Send your friends down the rabbit hole…] [] [3.162.163.22] [cloudfront] [3.898859091s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://scam-demo.revoke.cash [200] [] [4648] [Demo Scam Website] [cloudflare] [104.26.6.73] [cloudflare] [5.352086448s] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://resupply.finance [200] [] [89833] [Resupply] [BunnyCDN-BU1-717] [185.102.217.65] [7.050967676s] [Bunny]
+https://staging.app.ready.co [200] [] [376] [Redirecting...] [AmazonS3] [3.170.185.70] [cloudfront] [4.230691589s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://status.ready.co [200] [] [84111] [Ready Service Healthcheck Status] [AtlassianEdge] [13.249.141.63] [cloudfront] [3.633393758s] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://whois.revoke.cash [200] [] [3] [cloudflare] [172.67.74.89] [cloudflare] [248.760699ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://travel.ready.co [200] [] [1199] [Ready Travel | Exclusive Travel Deals] [AmazonS3] [3.171.22.111] [cloudfront] [4.387324091s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://www.ready.co [200] [] [298274] [Ready] [Framer/26fa766] [31.43.161.6] [3.21218099s] [Framer Sites,Google Tag Manager,HSTS,HTTP/3,React]
+https://xplorer.ready.co [200] [] [3341] [AmazonS3] [3.170.185.50] [cloudfront] [4.145760654s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+
+## 301
+http://staging.revoke.cash [301] [https://staging.revoke.cash/] [528] [301 Moved Permanently] [cloudflare] [104.26.6.73] [cloudflare] [4.225303139s] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+https://www.revoke.cash [301] [https://revoke.cash/] [15] [cloudflare] [104.26.6.73] [cloudflare] [333.513692ms] [Cloudflare,HSTS,Vercel]
+
+## 302
+https://help.ready.co [302] [https://help.ready.co/hc] [0] [cloudflare] [216.198.53.11] [269.40868ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://help.wallet.ready.co [302] [https://help.wallet.ready.co/hc] [0] [cloudflare] [216.198.54.11] [391.253421ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+
+## 307
+
+## 308
+https://card.ready.co [308] [https://www.ready.co/card] [25] [] [3.167.138.18] [cloudfront] [1.340873208s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://ready.co [308] [https://www.ready.co/] [57] [Framer/26fa766] [31.43.161.6] [2.147188095s] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+
+## 403
+https://www.resupply.finance [403] [] [714] [BunnyCDN Node IL1-1348] [BunnyCDN-IL1-1348] [143.244.60.195] [3.386826626s] [Bunny]
+
+## 404
+https://link.ready.co [404] [] [146] [404 Not Found] [nginx] [13.32.205.29] [cloudfront] [215.645015ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://links.ready.co [404] [] [0] [] [13.225.47.119] [cloudfront] [309.014377ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 500
+
+## 502
+
+## 503
+
