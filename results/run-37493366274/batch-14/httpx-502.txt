@@ -1,0 +1,3 @@
+https://de1.lifi.api.titan.exchange [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [64.34.85.55] [459.201943ms] [Nginx:1.24.0,Ubuntu]
+https://test1.api.titan.exchange [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [45.250.254.207] [230.674528ms] [Nginx:1.24.0,Ubuntu]
+https://use1.coinbase.api.titan.exchange [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [206.223.233.57] [198.417157ms] [Nginx:1.24.0,Ubuntu]
