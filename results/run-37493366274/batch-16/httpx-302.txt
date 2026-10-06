@@ -1,0 +1,4 @@
+https://paylink.test.zk.money [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fpaylink.test.zk.money%2F&nonce=4ecb3a486c2c7f6be3eb50292b95354df84c73536aa4a1309298182b5fdd47bf] [263] [Vercel] [216.150.16.1] [196.643744ms] [HSTS,Vercel]
+https://invite.zk.money [302] [https://launch.zk.money/] [0] [CloudFront] [18.238.109.101] [cloudfront] [476.044986ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://invite.dev.zk.money [302] [https://launch.dev.zk.money/] [0] [CloudFront] [13.32.230.95] [cloudfront] [528.061099ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://invite.staging.zk.money [302] [https://launch.staging.zk.money/] [0] [CloudFront] [52.222.244.16] [cloudfront] [573.349564ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]

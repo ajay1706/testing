@@ -1,0 +1,5 @@
+https://otel.wildcat.finance [404] [] [0] [Caddy] [206.189.216.31] [95.257676ms] [Caddy,HTTP/3]
+https://api.wildcat.finance [404] [] [139] [Error] [] [161.35.226.8] [105.378749ms] [HSTS]
+https://graph.wildcat.finance [404] [] [27] [] [146.190.206.30] [689.561965ms] [HTTP/3]
+https://repo-sentinel.wildcat.finance [404] [] [9] [Caddy] [157.245.132.97] [497.200755ms] [Caddy]
+https://rpc.wildcat.finance [404] [] [27] [] [146.190.206.30] [559.385162ms] [HTTP/3]
