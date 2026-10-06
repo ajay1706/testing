@@ -1,0 +1,108 @@
+# HTTPX Status Report
+
+Generated at: Tue Oct  6 16:17:02 UTC 2026
+
+HTTPX lines: 86
+Live URLs: 86
+
+## 200
+https://basics.rarible.com [200] [] [997] [Basics] [cloudflare] [104.26.3.77] [cloudflare] [135.473352ms] [Cloudflare,Cloudflare Browser Insights,HSTS,React]
+https://api.phygitals.com [200] [] [2] [cloudflare] [172.66.40.239] [cloudflare] [170.873938ms] [Cloudflare,Express,HTTP/3,Node.js,Render]
+https://built-together.rarible.com [200] [] [870] [Built Together — Open Edition by Peekcell] [Vercel] [216.150.1.193] [213.958042ms] [HSTS,Vercel]
+http://mail.phygitals.com [200] [] [114] [] [13.248.169.48] [47.12063ms]
+https://blog.rarible.com [200] [] [52890] [Rarible Blog] [railway-hikari] [69.46.46.106] [131.871064ms] [Express,Ghost:6.59,Google Analytics,Google Tag Manager,Node.js,jsDelivr]
+https://links.rarible.com [200] [] [945] [UploadServer] [192.178.155.207] [google] [329.47958ms] [HTTP/3]
+https://astery.x.rarible.com [200] [] [10096] [Astery Jewelry Official WEB3 Marketplace] [cloudflare] [104.26.3.77] [cloudflare] [681.032891ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://algorithms.x.rarible.com [200] [] [9768] [NFTs WITHOUT ALGORITHMS] [cloudflare] [172.67.73.50] [cloudflare] [699.02185ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://avatares.x.rarible.com [200] [] [11593] [{ AVATARES }] [cloudflare] [172.67.73.50] [cloudflare] [730.412227ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://b123.x.rarible.com [200] [] [8874] [Crypto Vans .io] [cloudflare] [104.26.2.77] [cloudflare] [730.70152ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://azportals.x.rarible.com [200] [] [9393] [Portals Collection] [cloudflare] [172.67.73.50] [cloudflare] [699.872525ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://b30r.x.rarible.com [200] [] [11620] [Music NFTs by Artyfile - Use, Get Paid & Own Premium Music!] [cloudflare] [172.67.73.50] [cloudflare] [702.934194ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://arkeoriginal.x.rarible.com [200] [] [9580] [ARKE Original] [cloudflare] [104.26.2.77] [cloudflare] [770.403757ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://anime.x.rarible.com [200] [] [8805] [ANIME] [cloudflare] [104.26.3.77] [cloudflare] [701.815779ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://10000htniic.x.rarible.com [200] [] [8538] [10,000 HTN/IIC] [cloudflare] [104.26.3.77] [cloudflare] [700.562056ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://artmagusz.x.rarible.com [200] [] [8275] [Magusz Art] [cloudflare] [172.67.73.50] [cloudflare] [812.976902ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://amazingkids.x.rarible.com [200] [] [9401] [Amazing Kids] [cloudflare] [104.26.3.77] [cloudflare] [835.534142ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://0xb986e49295619.x.rarible.com [200] [] [12280] [timenotspace ethereal market] [cloudflare] [172.67.73.50] [cloudflare] [749.431505ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://mintr.rarible.com [200] [] [3443] [Rarible - NFT Marketplace for Brands, Communities and Traders] [cloudflare] [104.26.2.77] [cloudflare] [447.496045ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://0xdeabc1a4c8507.x.rarible.com [200] [] [10277] [0x5a5dbc312266b0e8be26f8abaf4eb23b507369e0] [cloudflare] [104.26.2.77] [cloudflare] [699.294512ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://astroben.x.rarible.com [200] [] [10802] [The AstroBen] [cloudflare] [104.26.3.77] [cloudflare] [847.854195ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://og.rarible.com [200] [] [3060] [Rarible - NFT Marketplace for Brands, Communities and Traders] [cloudflare] [172.67.73.50] [cloudflare] [523.916404ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://0xa5a92cb915c48.x.rarible.com [200] [] [12333] [He Who Lives In Hidden Lakes - Movie Collectibles] [cloudflare] [104.26.3.77] [cloudflare] [847.294884ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://arkaine.x.rarible.com [200] [] [15577] [Arkaine] [cloudflare] [172.67.73.50] [cloudflare] [836.788473ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://matrix.playsolana.com [200] [] [14256] [Matrix Hackathon — PlaySolana] [Vercel] [66.33.60.129] [208.222561ms] [HSTS,Vercel]
+https://testnet.rarible.com [200] [] [3063] [Rarible - NFT Marketplace for Brands, Communities and Traders] [cloudflare] [104.26.3.77] [cloudflare] [345.963626ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://developers.playsolana.com [200] [] [99708] [PlaySolana-Unity.SDK] [Vercel] [76.76.21.22] [378.200952ms] [HSTS,Vercel,YouTube]
+https://summer.rarible.com [200] [] [25039] [Onchain Summer Postcards by RaribleX: Based NFT Memories] [cloudflare] [104.26.2.77] [cloudflare] [796.399941ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,Google Hosted Libraries,HSTS]
+https://www.x.rarible.com [200] [] [9498] [Wicked Weed Woman] [cloudflare] [104.26.3.77] [cloudflare] [938.023184ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://wlbl-proxy2.ext.rarible.com [200] [] [123533] [Metabase] [nginx/1.18.0 (Ubuntu)] [95.216.215.130] [614.135434ms] [HSTS,Nginx:1.18.0,Ubuntu]
+https://playgate.playsolana.com [200] [] [99075] [Play<Gate> | Play Solana] [Vercel] [216.150.1.193] [767.037454ms] [HSTS,Vercel,YouTube]
+https://partners.rarible.com [200] [] [229916] [Your Web3 Launch Partner] [Framer/26fa766] [31.43.161.6] [470.357083ms] [Framer Sites,HSTS,HTTP/3,React]
+https://varible.rarible.com [200] [] [272795] [VARIBLE · Tokenized Collectibles Market] [Vercel] [216.150.1.1] [294.516104ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.phygitals.com [200] [] [489501] [About Phygitals | Phygitals] [cloudflare] [172.64.147.209] [cloudflare] [212.752845ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://drops.rarible.com [200] [] [496541] [Rarible Drops] [Framer/26fa766] [31.43.161.6] [113.064352ms] [Cloudflare,Framer Sites,HSTS,HTTP/3,Matter.js,React,cdnjs]
+https://x.rarible.com [200] [] [679799] [Launch a Custom Web3 Marketplace with RaribleX] [Framer/26fa766] [31.43.160.6] [292.419346ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React,Tally,jQuery CDN,jQuery:3.2.1]
+https://www.playsolana.com [200] [] [672235] [Play Solana — PSG1, the first handheld gaming console on Solana] [Vercel] [216.150.1.129] [240.667403ms] [HSTS,Vercel]
+
+## 301
+https://app.rarible.com [301] [https://rarible.com/] [528] [301 Moved Permanently] [cloudflare] [104.26.3.77] [cloudflare] [39.479591ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://api.rarible.com [301] [https://rarible.org] [530] [301 Moved Permanently] [cloudflare] [172.67.73.50] [cloudflare] [333.064379ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://forum.ext.rarible.com [301] [https://forum.rari.foundation/] [162] [301 Moved Permanently] [nginx] [167.235.152.54] [353.555476ms] [HSTS,Nginx]
+https://koda.phygitals.com [301] [https://www.phygitals.com/drop/koda] [167] [301 Moved Permanently] [cloudflare] [172.66.40.239] [cloudflare] [132.360612ms] [Cloudflare,HTTP/3]
+https://partner.phygitals.com [301] [https://www.phygitals.com/partners] [167] [301 Moved Permanently] [cloudflare] [172.66.40.239] [cloudflare] [179.103189ms] [Cloudflare,HTTP/3]
+https://www.rarible.com [301] [https://rarible.com/] [528] [301 Moved Permanently] [cloudflare] [104.26.3.77] [cloudflare] [187.341844ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 302
+
+## 307
+https://p3.phygitals.com [307] [/play] [15] [Vercel] [216.150.16.193] [890.236141ms] [HSTS,Vercel]
+https://rarible.com [307] [/all] [4] [cloudflare] [104.26.3.77] [cloudflare] [469.156333ms] [Cloudflare,HSTS]
+https://rwa.rarible.com [307] [/marketplace] [21500] [RWA Marketplace] [Vercel] [216.150.1.193] [540.539141ms] [HSTS,Vercel]
+
+## 308
+https://playsolana.com [308] [https://www.playsolana.com/] [15] [Vercel] [216.150.1.193] [633.831584ms] [HSTS,Vercel]
+http://metadata.rarible.com [308] [https://metadata.rarible.com] [164] [308 Permanent Redirect] [Filebase] [15.204.196.122] [12.682815ms]
+
+## 401
+https://events.rarible.com [401] [] [62] [] [34.49.29.51] [google] [179.900436ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://img.rarible.com [401] [] [0] [Cloudinary] [151.101.194.92] [fastly] [219.361191ms] [HSTS]
+https://node.playsolana.com [401] [] [75] [] [154.45.250.138] [80.587348ms]
+https://preprod.phygitals.com [401] [] [14923] [Password Protected] [Vercel] [216.150.16.193] [697.905138ms] [HSTS,Vercel]
+
+## 403
+https://dynamic-auth.rarible.com [403] [] [17] [cloudflare] [104.26.2.77] [cloudflare] [64.444168ms] [Cloudflare]
+https://help.rarible.com [403] [] [17] [cloudflare] [216.198.54.2] [53.358403ms] [Cloudflare,HSTS]
+https://node-cryptoart.rarible.com [403] [] [17] [cloudflare] [172.67.73.50] [cloudflare] [90.123295ms] [Cloudflare]
+https://static.rarible.com [403] [] [111] [cloudflare] [172.67.73.50] [cloudflare] [343.206118ms] [Cloudflare,HSTS]
+
+## 404
+https://drops-static.rarible.com [404] [] [127] [cloudflare] [172.67.73.50] [cloudflare] [75.91948ms] [Cloudflare,HSTS]
+https://email.phygitals.com [404] [] [0] [] [34.98.83.137] [google] [81.41377ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://claim.playsolana.com [404] [] [107] [Vercel] [66.33.60.34] [135.010847ms] [HSTS,Vercel]
+https://bridge.playsolana.com [404] [] [107] [Vercel] [216.150.1.65] [162.5686ms] [HSTS,Vercel]
+https://genesis.playsolana.com [404] [] [107] [Vercel] [216.150.16.193] [128.798892ms] [HSTS,Vercel]
+https://h.phygitals.com [404] [] [105] [cloudflare] [172.66.43.17] [cloudflare] [56.140389ms] [Cloudflare,HSTS,HTTP/3]
+https://anime.phygitals.com [404] [] [107] [Vercel] [216.150.16.193] [329.366418ms] [HSTS,Vercel]
+https://img.phygitals.com [404] [] [28449] [Not Found] [cloudflare] [172.66.43.17] [cloudflare] [57.89248ms] [Cloudflare,Cloudflare Browser Insights]
+https://matchmaker.eggy.playsolana.com [404] [] [0] [] [164.90.234.185] [546.375576ms]
+https://playsolana.playsolana.com [404] [] [107] [Vercel] [216.150.16.1] [563.675835ms] [HSTS,Vercel]
+https://privy.phygitals.com [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [547.67222ms] [Cloudflare,Cloudflare Bot Management]
+https://segment-cdn.rarible.com [404] [] [49] [cloudflare] [104.26.3.77] [cloudflare] [326.734344ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS]
+https://assets.phygitals.com [404] [] [28449] [Not Found] [cloudflare] [172.66.43.17] [cloudflare] [938.916377ms] [Cloudflare,Cloudflare Browser Insights]
+https://metadata.phygitals.com [404] [] [28449] [Not Found] [cloudflare] [172.66.43.17] [cloudflare] [564.820129ms] [Cloudflare,Cloudflare Browser Insights]
+https://segment-api.rarible.com [404] [] [0] [cloudflare] [104.26.3.77] [cloudflare] [480.251308ms] [Cloudflare,HSTS]
+https://public.phygitals.com [404] [] [28449] [Not Found] [cloudflare] [172.66.43.17] [cloudflare] [793.650548ms] [Cloudflare,Cloudflare Browser Insights]
+https://forms.rarible.com [404] [] [184446] [Tally - Create Beautiful Forms for Free | Unlimited Forms & Submissions] [] [35.205.106.218] [google] [927.672602ms] [HSTS,Tally]
+
+## 500
+https://beta.x.rarible.com [500] [] [3075] [Error occurred] [cloudflare] [104.26.3.77] [cloudflare] [534.846017ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://ota.playsolana.com [500] [] [1326] [Apache/2.4.58 (Ubuntu)] [177.54.155.253] [114.906443ms] [Apache HTTP Server:2.4.58,Ubuntu]
+https://mail.x.rarible.com [500] [] [3075] [Error occurred] [cloudflare] [104.26.3.77] [cloudflare] [636.220631ms] [Cloudflare,Cloudflare Browser Insights,Google Hosted Libraries,HSTS]
+https://testnet-wlbl-proxy1.ext.rarible.com [500] [] [2818] [Error occurred] [nginx] [95.217.130.13] [896.361865ms] [Express,Google Hosted Libraries,Nginx,Node.js]
+
+## 502
+https://farcaster.rarible.com [502] [] [16] [cloudflare] [172.67.73.50] [cloudflare] [322.266408ms] [Cloudflare]
+https://node-mainnet.rarible.com [502] [] [16] [cloudflare] [172.67.73.50] [cloudflare] [523.631136ms] [Cloudflare]
+
+## 503
+
