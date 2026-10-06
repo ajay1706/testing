@@ -1,0 +1,2 @@
+https://stats.unstoppable.money [401] [] [204] [401 Authorization Required] [nginx/1.14.0 (Ubuntu)] [178.62.214.140] [649.542314ms] [Basic,Nginx:1.14.0,Ubuntu]
+https://stats-dev.unstoppable.money [401] [] [204] [401 Authorization Required] [nginx/1.14.0 (Ubuntu)] [178.62.214.140] [741.871419ms] [Basic,Nginx:1.14.0,Ubuntu]
