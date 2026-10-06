@@ -1,0 +1,5 @@
+https://www.shop.highlight.xyz [301] [https://shop.highlight.xyz/] [0] [] [34.117.223.165] [google] [130.802775ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://hardware.highlight.xyz [301] [https://hardware.jack.art/] [167] [301 Moved Permanently] [cloudflare] [172.67.192.71] [cloudflare] [169.212518ms] [Cloudflare]
+https://go.humidifi.xyz [301] [https://humidifi.xyz/] [15] [Vercel] [66.33.60.66] [462.652146ms] [HSTS,Vercel]
+https://humidifi.xyz [301] [https://www.humidifi.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [589.40312ms] [Cloudflare,HSTS,HTTP/3]
+https://www.highlight.xyz [301] [https://highlight.xyz/] [0] [cloudflare] [172.67.192.71] [cloudflare] [1.313235868s] [Cloudflare,HTTP/3]
