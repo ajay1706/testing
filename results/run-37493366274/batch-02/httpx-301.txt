@@ -1,0 +1,8 @@
+https://staging.defi.app [301] [https://app.defi.app/] [528] [301 Moved Permanently] [cloudflare] [104.20.20.241] [cloudflare] [340.987353ms] [Cloudflare,Cloudflare Browser Insights]
+https://tos.defi.app [301] [https://docs.google.com/document/d/e/2PACX-1vRTo_7OfJWsfTUhMVRWW-tmKnCflp5lomK30h9ePoL-CBqsnkGlZZq_zXDF-_t62WdS-P1KA4TJcz5r/pub] [528] [301 Moved Permanently] [cloudflare] [172.66.174.158] [cloudflare] [338.743856ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.app.defi.app [301] [https://app.defi.app/] [15] [Vercel] [216.150.1.193] [300.947964ms] [HSTS,Vercel]
+https://www.staging.defi.app [301] [https://app.defi.app/] [528] [301 Moved Permanently] [cloudflare] [172.66.174.158] [cloudflare] [245.629239ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.dev.defi.app [301] [https://dev.defi.app/] [15] [Vercel] [216.150.1.193] [385.967934ms] [HSTS,Vercel]
+https://www.shop.defi.app [301] [https://shop.defi.app/] [0] [] [34.117.223.165] [google] [405.802546ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+http://api.family.co [301] [https://api.family.co/] [528] [301 Moved Permanently] [cloudflare] [104.18.23.205] [cloudflare] [23.568445ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://pocket.family.co [301] [https://pocket.family.co/] [528] [301 Moved Permanently] [cloudflare] [104.18.23.205] [cloudflare] [28.35964ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
