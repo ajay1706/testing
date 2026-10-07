@@ -1,0 +1,2 @@
+[CVE-2022-26143:version] [http] [critical] https://tx-history.titan.exchange/ucs/micollab/version.json ["3.0.0"]
+[config-json-exposure-fuzz] [http] [critical] https://tx-history.titan.exchange/config.dev.json [path="/config.dev.json"]
