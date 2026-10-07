@@ -1,0 +1,2 @@
+[CVE-2026-27454] [http] [medium] https://gov.resupply.finance/posts/125.json?version=1
+[CVE-2026-27454] [http] [medium] https://governance.treehouse.finance/posts/144.json?version=1
