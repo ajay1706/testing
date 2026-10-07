@@ -1,0 +1,2 @@
+[CVE-2026-33032] [http] [critical] https://bsc-alchemy-aqbzpw.stepn.com/mcp_message
+[config-json-exposure-fuzz] [http] [critical] https://btc3.trezor.io/api/v1/config.json [path="/api/v1/config.json"]
