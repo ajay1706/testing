@@ -1,0 +1,1 @@
+[config-json-exposure-fuzz] [http] [critical] https://crew.cdn.staratlas.com/config.json [path="/config.json"]
