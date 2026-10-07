@@ -1,0 +1,74 @@
+[CVE-2022-41697] [http] [medium] https://blog.rarible.com/ghost/api/admin/session
+[CVE-2026-33032] [http] [critical] https://base-alchemy-6jwbhj.stepn.com/mcp_message
+[CVE-2026-64638] [http] [high] https://blog.treehouse.finance/wp-login.php ["<area id="ajaxurl" href="/?rest_route=/&amp;_method=GET&amp;_jsonp=alert">"]
+[github-workflows-disclosure] [http] [medium] https://blog.rarible.com/.github/workflows/test.yml [paths="/.github/workflows/test.yml"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] assets.phygitals.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] assets.highlight.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] assets.katana.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] assets.phygitals.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] artmagusz.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] astroben.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] astery.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] assets.cdn.staratlas.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] assets.highlight.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] assets.katana.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] astery.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] artmagusz.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] astroben.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] assets.cdn.staratlas.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] asia.data.solanatracker.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] asia.data.solanatracker.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] avatares.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] avatares.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] azportals.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] avatars.solanatracker.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] b123.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] b30r.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] azportals.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] b123.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] b30r.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] avatars.solanatracker.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] beta.myetherwallet.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] beta.myetherwallet.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] beta.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] beta.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] beta.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] beta.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blob.internal.taiko.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blobindexer.hoodi.taiko.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blob.mainnet.taiko.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blob.internal.taiko.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blockaid.defi.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blob.mainnet.taiko.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blockaid.defi.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blobindexer.hoodi.taiko.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blockscout.hoodi.taiko.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blockscoutapi.hoodi.taiko.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blockscout.hoodi.taiko.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blockscoutapi.hoodi.taiko.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blockscoutapi.internal.taiko.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blockscoutapi.internal.taiko.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.arcium.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.arcium.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] boss.collectorcrypt.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] brand.defi.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] boss.collectorcrypt.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] brand.defi.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.flyingtulip.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.flyingtulip.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.flyingtulip.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.gearbox.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.gearbox.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.gearbox.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.obol.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.obol.org
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.obol.org
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://brand.defi.app
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://brand.defi.app
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://brand.defi.app
+[crlf-injection-generic] [http] [low] https://blobindexer.hoodi.taiko.xyz/%0D%0ASet-Cookie:***
+[wordpress-click2shell] [http] [high] https://blog.treehouse.finance/wp-admin/js/theme.js
+[prisma-schema-exposure:db_provider] [http] [medium] https://blob.mainnet.taiko.xyz/schema.prisma ["provider        = "prisma-client-js"","provider = "tsx ./prisma/enum-generator"","provider              = "zod-prisma"","provider  = "postgresql""]
+[prisma-schema-exposure:db_url] [http] [medium] https://blob.mainnet.taiko.xyz/schema.prisma ["url       = env("DATABASE_URL")"]
+[prometheus-metrics] [http] [medium] https://blob.mainnet.taiko.xyz/metrics
+[prometheus-metrics] [http] [medium] https://blockscoutapi.internal.taiko.xyz/metrics

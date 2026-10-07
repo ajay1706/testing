@@ -1,0 +1,2 @@
+[CVE-2026-64638] [http] [high] https://blog.treehouse.finance/wp-login.php ["<area id="ajaxurl" href="/?rest_route=/&amp;_method=GET&amp;_jsonp=alert">"]
+[wordpress-click2shell] [http] [high] https://blog.treehouse.finance/wp-admin/js/theme.js
