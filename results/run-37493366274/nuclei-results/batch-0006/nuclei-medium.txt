@@ -1,0 +1,2 @@
+[CVE-2026-27454] [http] [medium] https://forum.arcium.com/posts/13.json?version=1
+[glitchtip-public-signup] [http] [medium] https://glitchtip.solanatracker.io/api/settings/
