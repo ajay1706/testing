@@ -1,0 +1,10 @@
+[CVE-2022-26143:version] [http] [critical] https://tx-history.titan.exchange/ucs/micollab/version.json ["3.0.0"]
+[CVE-2026-33032] [http] [critical] https://base-alchemy-6jwbhj.stepn.com/mcp_message
+[CVE-2026-33032] [http] [critical] https://bsc-alchemy-aqbzpw.stepn.com/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-alchemy-hwvcei.stepn.com/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-alchemy-szuthp.stepn.com/mcp_message
+[CVE-2026-33032] [http] [critical] https://sol-alchemy-v6ualo.stepn.com/mcp_message
+[config-json-exposure-fuzz] [http] [critical] https://btc3.trezor.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://crew.cdn.staratlas.com/config.json [path="/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://tbtc1.trezor.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://tx-history.titan.exchange/config.dev.json [path="/config.dev.json"]

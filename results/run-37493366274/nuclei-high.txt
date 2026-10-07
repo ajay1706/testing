@@ -1,0 +1,3 @@
+[CVE-2024-34351] [http] [high] https://dev.manifest.trade/_next/image?w=16&q=10&url=https://db2u3thn4nojihrqo7q06arwhkied9b9g.oast.site
+[CVE-2026-64638] [http] [high] https://blog.treehouse.finance/wp-login.php ["<area id="ajaxurl" href="/?rest_route=/&amp;_method=GET&amp;_jsonp=alert">"]
+[wordpress-click2shell] [http] [high] https://blog.treehouse.finance/wp-admin/js/theme.js
