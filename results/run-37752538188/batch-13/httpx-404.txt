@@ -1,0 +1,8 @@
+https://auth.tenka.fi [404] [] [37] [cloudflare] [104.18.38.10] [cloudflare] [51.309677ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://argocd-as.tare.ai [404] [] [19] [] [104.196.201.149] [google] [99.940594ms]
+https://grafana.tare.ai [404] [] [19] [] [104.196.201.149] [google] [99.664469ms]
+https://api.tare.ai [404] [] [160] [] [104.196.201.149] [google] [103.74255ms] [HSTS]
+https://kratos.tare.ai [404] [] [19] [] [104.196.201.149] [google] [161.400754ms]
+https://api-staging.tenka.fi [404] [] [94] [cloudflare] [104.21.65.254] [cloudflare] [189.663779ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS,HTTP/3]
+https://api-dev.tenka.fi [404] [] [94] [cloudflare] [104.21.65.254] [cloudflare] [308.04794ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS,HTTP/3]
+https://t.tenka.fi [404] [] [105] [cloudflare] [104.20.29.105] [cloudflare] [254.685161ms] [Cloudflare,HSTS]
