@@ -1,0 +1,2 @@
+[config-json-exposure-fuzz] [http] [critical] https://dgb-eu2.edge.app/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://doge-eusa1.edge.app/api/v1/config.json [path="/api/v1/config.json"]

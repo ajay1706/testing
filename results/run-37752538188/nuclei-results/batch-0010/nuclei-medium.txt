@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://devtron.phot.ai/metrics
+[dockerfile-hidden-disclosure] [http] [medium] https://docs.thorchain.org/.dockerfile
