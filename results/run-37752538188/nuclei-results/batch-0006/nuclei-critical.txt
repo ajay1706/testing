@@ -1,0 +1,1 @@
+[config-json-exposure-fuzz] [http] [critical] https://bch-eusa1.edge.app/api/config.json [path="/api/config.json"]
