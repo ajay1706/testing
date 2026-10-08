@@ -1,0 +1,1 @@
+[CVE-2026-41432] [http] [high] https://app.dtcpay.com/api/stripe/webhook
