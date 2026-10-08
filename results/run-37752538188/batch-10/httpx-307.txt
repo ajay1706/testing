@@ -1,0 +1,2 @@
+https://app.speak.com [307] [/region] [7] [] [34.36.119.200] [google] [130.527467ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://business-admin.speakx.com [307] [/login] [12283] [Speakx B2B | Enterprise English Learning Platform] [envoy] [34.47.197.6] [google] [944.429961ms] [C3.js,Envoy,Next.js,Node.js,React,Webpack]

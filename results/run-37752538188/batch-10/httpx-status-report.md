@@ -1,0 +1,131 @@
+# HTTPX Status Report
+
+Generated at: Thu Oct  8 09:05:50 UTC 2026
+
+HTTPX lines: 103
+Live URLs: 103
+
+## 200
+https://agent.shapeshift.com [200] [] [499] [ShapeShift Agent] [Vercel] [216.150.1.193] [45.231515ms] [HSTS,Vercel]
+https://app.shapeshift.com [200] [] [14141] [ShapeShift] [cloudflare] [104.20.3.55] [cloudflare] [81.010436ms] [Cloudflare]
+https://beard.shapeshift.com [200] [] [12583] [ShapeShift] [cloudflare] [104.20.3.55] [cloudflare] [100.635279ms] [Cloudflare]
+https://b2bhelp.speak.com [200] [] [93556] [Speak for Business] [] [151.101.65.91] [fastly] [522.60989ms] [Highlight.js,jsDelivr]
+https://blog.speak.com [200] [] [146726] [스픽 블로그] [nginx] [192.0.78.151] [63.283869ms] [HSTS,Jetpack,Morphext:2.9.3,MySQL,Nginx,PHP,WPML:4.9.2.1,WordPress,WordPress Block Editor,WordPress.com,Yoast SEO:28.6,jQuery,jQuery Migrate]
+https://dev-dashboard.affiliate.shapeshift.com [200] [] [524] [ShapeShift Affiliate Dashboard] [cloudflare] [104.20.3.55] [cloudflare] [4.100464709s] [Cloudflare]
+https://develop.shapeshift.com [200] [] [14327] [ShapeShift] [cloudflare] [104.20.3.55] [cloudflare] [3.234148825s] [Cloudflare]
+https://forum.shapeshift.com [200] [] [224421] [ShapeShift] [nginx] [184.104.178.43] [3.672132428s] [Discourse:2026.10.0,HSTS,Nginx,Ruby on Rails]
+https://private.shapeshift.com [200] [] [14093] [ShapeShift] [cloudflare] [104.20.3.55] [cloudflare] [1.136897791s] [Cloudflare]
+https://recover.shapeshift.com [200] [] [670] [Decrypt Secret Recovery Phrase] [cloudflare] [104.20.3.55] [cloudflare] [374.854968ms] [Cloudflare,IPFS,React]
+https://og.shapeshift.com [200] [] [463] [OG ShapeShift] [Vercel] [66.33.60.67] [5.065861082s] [HSTS,Vercel]
+https://partner.speak.com [200] [] [2193] [Speak Partner Portal] [nginx] [34.36.119.200] [google] [5.222468873s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Nginx]
+https://release-widget.shapeshift.com [200] [] [947] [ShapeShift Widget] [cloudflare] [104.20.3.55] [cloudflare] [2.104096638s] [Cloudflare]
+https://release.shapeshift.com [200] [] [14141] [ShapeShift] [cloudflare] [104.20.3.55] [cloudflare] [4.237098364s] [Cloudflare]
+https://start.speak.com [200] [] [9187] [] [35.245.40.244] [google] [4.307328954s] [Google Cloud,Google Cloud Trace,HTTP/3]
+https://webmail.shapeshift.com [200] [] [10893] [Welcome to] [nginx] [162.215.3.16] [4.290246381s] [Bootstrap,Cloudflare,Cloudflare Bot Management,Nginx,jQuery,jQuery UI]
+https://widget.shapeshift.com [200] [] [947] [ShapeShift Widget] [cloudflare] [104.20.3.55] [cloudflare] [6.085932979s] [Cloudflare]
+https://www.speakx.com [200] [] [642458] [SpeakX, AI English Speaking App | Speak English Confidently] [envoy] [34.47.197.6] [google] [2.463055857s] [Envoy,Next.js,Node.js,React,Webpack]
+https://yeet.shapeshift.com [200] [] [14380] [ShapeShift] [cloudflare] [104.20.3.55] [cloudflare] [2.152452757s] [Cloudflare]
+
+## 301
+https://beta.shapeshift.com [301] [https://app.shapeshift.com] [167] [301 Moved Permanently] [cloudflare] [104.20.3.55] [cloudflare] [40.684088ms] [Cloudflare]
+https://auth.speak.com [301] [https://app.speak.com/] [37] [] [199.36.158.100] [111.288988ms] [Firebase,HTTP/3]
+https://classic.shapeshift.com [301] [https://og.shapeshift.com] [167] [301 Moved Permanently] [cloudflare] [104.20.3.55] [cloudflare] [37.655948ms] [Cloudflare]
+http://dev-api.shapeshift.com [301] [https://dev-api.shapeshift.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.3.55] [cloudflare] [1.034200691s] [Cloudflare]
+http://dev-api.thorchain.shapeshift.com [301] [https://dev-api.thorchain.shapeshift.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.3.55] [cloudflare] [4.061571794s] [Cloudflare]
+http://dev-widget.shapeshift.com [301] [https://dev-widget.shapeshift.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.3.55] [cloudflare] [1.034798955s] [Cloudflare]
+https://forums.shapeshift.com [301] [https://forum.shapeshift.com] [167] [301 Moved Permanently] [cloudflare] [104.20.3.55] [cloudflare] [2.040470398s] [Cloudflare]
+https://exchange.shapeshift.com [301] [https://app.shapeshift.com] [167] [301 Moved Permanently] [cloudflare] [104.20.3.55] [cloudflare] [7.032277215s] [Cloudflare]
+https://mx-prod.shapeshift.com [301] [https://app.shapeshift.com] [167] [301 Moved Permanently] [cloudflare] [104.20.3.55] [cloudflare] [3.026622659s] [Cloudflare]
+https://prod.shapeshift.com [301] [https://app.shapeshift.com] [167] [301 Moved Permanently] [cloudflare] [104.20.3.55] [cloudflare] [3.055294104s] [Cloudflare]
+https://speak.com [301] [https://www.speak.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [1.147415931s] [Cloudflare,HSTS,HTTP/3]
+https://store.shapeshift.com [301] [https://shapeshift-fox.myshopify.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.3.55] [cloudflare] [4.069019178s] [Cloudflare]
+http://shapeshift.com [301] [https://shapeshift.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.3.55] [cloudflare] [2.052577877s] [Cloudflare,HTTP/2]
+https://www.blog.speak.com [301] [https://blog.speak.com/] [162] [301 Moved Permanently] [nginx] [192.0.78.151] [4.048806285s] [HSTS,Nginx]
+http://status.speak.com [301] [https://status.speak.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.16.64] [cloudflare] [6.035211947s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 302
+https://api.mayachain.shapeshift.com [302] [/docs/] [29] [cloudflare] [104.20.3.55] [cloudflare] [70.072801ms] [Cloudflare]
+https://api.avalanche.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [78.468328ms] [Cloudflare,Express,Node.js]
+https://api.bitcoincash.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [83.149288ms] [Cloudflare,Express,Node.js]
+https://api.ethereum.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [85.363706ms] [Cloudflare,Express,Node.js]
+https://api.base.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [93.613282ms] [Cloudflare,Express,Node.js]
+https://api.solana.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [93.368751ms] [Cloudflare,Express,Node.js]
+https://api.thorchain.shapeshift.com [302] [/docs/] [29] [cloudflare] [104.20.3.55] [cloudflare] [98.738605ms] [Cloudflare]
+https://api.cosmos.shapeshift.com [302] [/docs/] [29] [cloudflare] [104.20.3.55] [cloudflare] [101.738582ms] [Cloudflare]
+https://api.arbitrum.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [103.39387ms] [Cloudflare,Express,Node.js]
+https://api.zcash.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [110.422297ms] [Cloudflare,Express,Node.js]
+https://api.bitcoin.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [113.379266ms] [Cloudflare,Express,Node.js]
+https://api.thorchain-v1.shapeshift.com [302] [/docs/] [29] [cloudflare] [104.20.3.55] [cloudflare] [117.211997ms] [Cloudflare]
+https://api.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [120.238371ms] [Cloudflare,Express,Node.js]
+https://api.bnbsmartchain.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [124.968346ms] [Cloudflare,Express,Node.js]
+https://api.dogecoin.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [125.181094ms] [Cloudflare,Express,Node.js]
+https://api.proxy.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [128.00462ms] [Cloudflare,Express,Node.js]
+https://api.optimism.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [134.113348ms] [Cloudflare,Express,Node.js]
+https://api.polygon.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [137.268155ms] [Cloudflare,Express,Node.js]
+https://api.gnosis.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [144.511368ms] [Cloudflare,Express,Node.js]
+https://api.litecoin.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [160.049107ms] [Cloudflare,Express,Node.js]
+https://dev-api.bnbsmartchain.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [1.088657831s] [Cloudflare,Express,Node.js]
+https://dev-api.base.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [2.095829507s] [Cloudflare,Express,Node.js]
+https://dev-api.gnosis.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [1.106427372s] [Cloudflare,Express,Node.js]
+https://dev-api.bitcoin.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [2.132108988s] [Cloudflare,Express,Node.js]
+https://dev-api.dogecoin.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [3.090618502s] [Cloudflare,Express,Node.js]
+https://dev-api.bitcoincash.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [4.091763584s] [Cloudflare,Express,Node.js]
+https://dev-api.polygon.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [2.092398383s] [Cloudflare,Express,Node.js]
+https://dev-api.zcash.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [103.25408ms] [Cloudflare,Express,Node.js]
+https://dev-api.mayachain.shapeshift.com [302] [/docs/] [29] [cloudflare] [104.20.3.55] [cloudflare] [4.103041366s] [Cloudflare]
+https://dev-api.proxy.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [3.093449167s] [Cloudflare,Express,Node.js]
+https://dev-api.cosmos.shapeshift.com [302] [/docs/] [29] [cloudflare] [104.20.3.55] [cloudflare] [5.0824853s] [Cloudflare]
+https://dev-api.optimism.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [4.08814488s] [Cloudflare,Express,Node.js]
+https://dev-api.ethereum.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [7.241021807s] [Cloudflare,Express,Node.js]
+https://help.speak.com [302] [https://help.speak.com/en/] [0] [cloudflare] [104.26.9.226] [cloudflare] [4.282103394s] [Cloudflare]
+https://release-api.shapeshift.com [302] [/docs] [27] [cloudflare] [104.20.3.55] [cloudflare] [5.09425673s] [Cloudflare,Express,Node.js]
+https://secure.speakx.com [302] [https://secure.speakx.com/login] [249] [Redirecting...] [] [35.244.62.59] [google] [2.857098019s] [HSTS]
+https://strapi.shapeshift.com [302] [/admin] [22] [cloudflare] [104.20.3.55] [cloudflare] [100.758654ms] [Cloudflare,HSTS,Strapi]
+https://secure-biz.speakx.com [302] [https://secure-biz.speakx.com/login] [257] [Redirecting...] [] [34.93.14.210] [google] [4.858551782s] [HSTS]
+
+## 307
+https://app.speak.com [307] [/region] [7] [] [34.36.119.200] [google] [130.527467ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://business-admin.speakx.com [307] [/login] [12283] [Speakx B2B | Enterprise English Learning Platform] [envoy] [34.47.197.6] [google] [944.429961ms] [C3.js,Envoy,Next.js,Node.js,React,Webpack]
+
+## 308
+http://dashboard.revenue.shapeshift.com [308] [https://dashboard.revenue.shapeshift.com/] [14] [Vercel] [216.150.1.129] [1.029505612s] [Vercel]
+
+## 401
+
+## 403
+https://bcdn.speak.com [403] [] [243] [BunnyCDN-SIL1-915] [169.150.221.147] [219.015264ms] [Amazon CloudFront,Amazon Web Services,Bunny]
+https://zendesk1.shapeshift.com [403] [] [17] [cloudflare] [216.198.54.2] [4.039909407s] [Cloudflare]
+
+## 404
+https://api.t.speak.com [404] [] [0] [awselb/2.0] [35.80.196.143] [96.293324ms] [Amazon ELB,Amazon Web Services]
+https://api.revenue.shapeshift.com [404] [] [21] [cloudflare] [104.20.3.55] [cloudflare] [98.363381ms] [Cloudflare]
+https://api.notifications-service.shapeshift.com [404] [] [63] [cloudflare] [104.20.3.55] [cloudflare] [98.369561ms] [Cloudflare,Express,Node.js]
+https://api.user-service.shapeshift.com [404] [] [63] [cloudflare] [104.20.3.55] [cloudflare] [116.81228ms] [Cloudflare,Express,Node.js]
+https://api.swap-service.shapeshift.com [404] [] [63] [cloudflare] [104.20.3.55] [cloudflare] [121.608428ms] [Cloudflare,Express,Node.js]
+https://api.agent.shapeshift.com [404] [] [21] [cloudflare] [104.20.3.55] [cloudflare] [143.402962ms] [Cloudflare]
+https://br.shapeshift.com [404] [] [107] [Vercel] [216.150.1.193] [418.866768ms] [HSTS,Vercel]
+https://b2b.speak.com [404] [] [10599] [Error 404 | Page not found] [cloudflare] [199.60.103.228] [701.126808ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub]
+http://admin-api.dev.speakx.com [404] [] [0] [envoy] [34.47.197.6] [google] [450.399768ms] [Envoy]
+http://admin.dev.speakx.com [404] [] [0] [envoy] [34.47.197.6] [google] [451.888689ms] [Envoy]
+http://argo.dev.speakx.com [404] [] [0] [envoy] [34.47.197.6] [google] [461.069255ms] [Envoy]
+https://dev-api.notifications-service.shapeshift.com [404] [] [63] [cloudflare] [104.20.3.55] [cloudflare] [4.103806474s] [Cloudflare,Express,Node.js]
+https://dot-com-release.shapeshift.com [404] [] [107] [Vercel] [216.150.1.129] [2.581602019s] [HSTS,Vercel]
+https://es.shapeshift.com [404] [] [107] [Vercel] [216.150.1.193] [2.646625019s] [HSTS,Vercel]
+http://mail.speakx.com [404] [] [0] [envoy] [34.47.197.6] [google] [451.411695ms] [Envoy]
+http://overwatch.dev.speakx.com [404] [] [0] [envoy] [34.47.197.6] [google] [451.657871ms] [Envoy]
+https://ru.shapeshift.com [404] [] [107] [Vercel] [216.150.1.193] [1.417130412s] [HSTS,Vercel]
+https://redash.speakx.com [404] [] [146] [404 Not Found] [] [35.244.27.94] [google] [4.883610734s] [HSTS]
+http://secrets.dev.speakx.com [404] [] [0] [envoy] [34.47.197.6] [google] [2.605129878s] [Envoy]
+http://www.admin.dev.speakx.com [404] [] [0] [envoy] [34.47.197.6] [google] [460.073667ms] [Envoy]
+http://www.admin-api.dev.speakx.com [404] [] [0] [envoy] [34.47.197.6] [google] [464.851875ms] [Envoy]
+http://www.argo.dev.speakx.com [404] [] [0] [envoy] [34.47.197.6] [google] [457.214388ms] [Envoy]
+http://www.mail.speakx.com [404] [] [0] [envoy] [34.47.197.6] [google] [451.536783ms] [Envoy]
+http://www.dev.speakx.com [404] [] [0] [envoy] [34.47.197.6] [google] [3.542137632s] [Envoy]
+https://www.shapeshift.com [404] [] [107] [Vercel] [216.150.1.193] [2.447389921s] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
