@@ -1,0 +1,2 @@
+https://applink.dtcpay.com [301] [https://dtcpayment.com:443/] [134] [301 Moved Permanently] [] [23.46.228.178] [816.317598ms] [HTTP/3]
+https://www.cradlewise.com [301] [https://cradlewise.com/] [0] [CloudFront] [3.169.173.95] [cloudfront] [7.120384793s] [Amazon CloudFront,Amazon Web Services,HSTS]
