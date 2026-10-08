@@ -1,0 +1,4 @@
+https://chat.nousresearch.com [307] [https://hermes-agent.nousresearch.com/] [15] [Vercel] [216.150.1.193] [1.188123731s] [HSTS,Vercel]
+https://hermes.nousresearch.com [307] [https://hermes-agent.nousresearch.com/] [15] [Vercel] [216.150.16.193] [194.682226ms] [HSTS,Vercel]
+https://nous-compliance-docs-internal.nousresearch.com [307] [/login?callbackUrl=https%3A%2F%2Fnous-compliance-docs-internal.nousresearch.com%2F] [15] [Vercel] [216.150.16.193] [2.510674475s] [HSTS,Vercel]
+https://signin.nousresearch.com [307] [https://authenticate.nousresearch.com/user_management/initiate_login?context=&client_id=client_01KXFCEX9P8W31DP9WRWJ09RS9] [72548] [Sign in] [cloudflare] [104.18.0.79] [cloudflare] [3.944151347s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
