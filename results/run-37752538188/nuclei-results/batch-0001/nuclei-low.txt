@@ -1,0 +1,3 @@
+[fastly-debug-headers:fastly-debug-path] [http] [low] http://sms.ollie.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] http://sms.ollie.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] http://sms.ollie.ai
