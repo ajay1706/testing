@@ -1,0 +1,2 @@
+[CVE-2025-46818:version] [javascript] [high] staging-v2.oolka.in:6379 ["6.0.16"]
+[CVE-2025-46819:version] [javascript] [high] staging-v2.oolka.in:6379 ["6.0.16"]
