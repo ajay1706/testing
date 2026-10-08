@@ -1,0 +1,6 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.splash.trade:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.tenka.fi:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.splash.trade:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.tenka.fi:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[netlify-headers-config-exposure] [http] [low] https://www.vespr.xyz/_headers
+[expired-ssl] [ssl] [low] www.shapeshift.com:443 ["2026-05-19 23:59:43 +0000 UTC"]
