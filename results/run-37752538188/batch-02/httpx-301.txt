@@ -1,0 +1,2 @@
+https://npll.edge.app [301] [https://app.teamstation.app/] [0] [Caddy] [143.198.60.169] [5.048293377s] [Caddy,HTTP/3]
+https://www.edge.app [301] [https://edge.app/] [0] [nginx] [64.23.221.121] [5.813200389s] [Nginx]

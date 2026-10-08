@@ -1,0 +1,4 @@
+https://git-uk.edge.app [502] [] [0] [Caddy] [137.184.64.157] [2.270771886s] [Caddy]
+https://logindb-backup2.edge.app [502] [] [0] [Caddy] [46.101.9.223] [4.431843154s] [Caddy]
+https://monitor1.edge.app [502] [] [0] [Caddy] [147.182.198.226] [7.212168066s] [Caddy,HTTP/3]
+https://reports-staging1.edge.app [502] [] [0] [Caddy] [146.190.175.149] [2.042367236s] [Caddy,HTTP/3]

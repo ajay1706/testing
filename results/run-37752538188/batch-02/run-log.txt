@@ -1,0 +1,14 @@
+[+] Batch started: Thu Oct  8 08:52:31 UTC 2026
+[+] Run ID: 37752538188
+[+] Batch name: batch-02
+[+] Batch targets:
+edge.app
+eevi.ai
+eternl.io
+[+] Running subfinder...
+[+] Subfinder completed: Thu Oct  8 08:55:58 UTC 2026
+[+] HTTPX input count: 747
+[+] Running httpx...
+[+] httpx completed: Thu Oct  8 08:59:00 UTC 2026
+[+] httpx line count: 131
+[+] Batch completed: Thu Oct  8 08:59:00 UTC 2026
