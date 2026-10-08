@@ -1,0 +1,1 @@
+[config-json-exposure-fuzz] [http] [critical] https://btc-eu1.edge.app/api/v1/config.json [path="/api/v1/config.json"]

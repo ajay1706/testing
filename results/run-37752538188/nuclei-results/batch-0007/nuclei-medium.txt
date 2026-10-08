@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://business-dev.loora.com/api/metrics
+[prometheus-metrics] [http] [medium] https://business.loora.com/api/metrics
