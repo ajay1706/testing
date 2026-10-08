@@ -1,0 +1,7 @@
+https://devtron.phot.ai [301] [/dashboard] [45] [] [35.200.217.226] [google] [758.778087ms]
+https://multi-agent-cp.oolka.in [301] [https://multi-agent-cp.oolka.in/control-panel] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [3.6.91.101] [834.948377ms] [HSTS,Nginx:1.24.0,Ubuntu]
+http://photai-signoz.phot.ai [301] [https://photai-signoz.phot.ai/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [104.161.16.130] [39.160727ms] [Nginx:1.18.0,Ubuntu]
+http://sms.ollie.ai [301] [https://sms.ollie.ai/] [0] [Varnish] [151.101.2.133] [fastly] [6.114463098s] [Varnish]
+http://traces-photai-signoz.phot.ai [301] [https://traces-photai-signoz.phot.ai/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [104.161.16.130] [40.331706ms] [Nginx:1.18.0,Ubuntu]
+http://strapi.phot.ai [301] [https://strapi.phot.ai/] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [34.0.227.17] [google] [3.491028898s] [Nginx:1.24.0,Ubuntu]
+http://text2graphics.phot.ai [301] [https://text2graphics.phot.ai/] [170] [301 Moved Permanently] [nginx/1.19.10] [104.161.39.122] [5.047672372s] [Nginx:1.19.10]

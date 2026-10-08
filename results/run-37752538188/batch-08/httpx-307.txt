@@ -1,0 +1,4 @@
+https://listings-develop.phot.ai [307] [/auth/login] [0] [nginx/1.19.10] [104.161.39.122] [151.746105ms] [Nginx:1.19.10]
+https://ml-cost.phot.ai [307] [/login] [0] [nginx/1.19.10] [104.161.39.122] [130.776124ms] [Nginx:1.19.10]
+https://mlvideocomposer.phot.ai [307] [https://mlvideocomposer.phot.ai/login?next=%2F] [46] [nginx/1.19.10] [104.161.39.122] [144.663676ms] [Nginx:1.19.10]
+https://app.phot.ai [307] [https://studio.phot.ai] [6683] [Phot.AI - Deeplinks] [] [18.244.214.9] [cloudfront] [2.457599084s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
