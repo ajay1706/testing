@@ -1,0 +1,47 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.dedust.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.dedust.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.fotor.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.eevi.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.fotor.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.flows.kagi.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.eevi.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.flows.kagi.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.ollie.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.ollie.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.remnote.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.remnote.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.rujira.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.rujira.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.ston.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.ston.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.symbiosis.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.symbiosis.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.tenka.fi:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.tenka.fi:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.tonco.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.tonco.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.vespr.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.vespr.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api2-test.ston.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api2-test.ston.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app-download.infini.money:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app-download.infini.money:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app-telegram-dex-preprod.ston.fi:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app-telegram-dex-preprod.ston.fi:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://api.base.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.avalanche.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.bitcoin.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.cosmos.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.bitcoincash.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.bnbsmartchain.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.ethereum.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.dogecoin.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.gnosis.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.litecoin.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.mayachain.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.optimism.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.polygon.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.solana.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.thorchain-v1.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.thorchain.shapeshift.com/metrics
+[prometheus-metrics] [http] [medium] https://api.zcash.shapeshift.com/metrics
