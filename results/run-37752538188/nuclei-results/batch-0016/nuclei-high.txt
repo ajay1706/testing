@@ -1,0 +1,2 @@
+[CVE-2026-41432] [http] [high] https://personal-v3.dtcpay.com/api/stripe/webhook
+[CVE-2026-41432] [http] [high] https://personal.dtcpay.com/api/stripe/webhook
