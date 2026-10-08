@@ -1,0 +1,1 @@
+[config-json-exposure-fuzz] [http] [critical] https://pivx-eusa1.edge.app/api/v2/config.json [path="/api/v2/config.json"]
