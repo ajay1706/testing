@@ -1,0 +1,79 @@
+# HTTPX Status Report
+
+Generated at: Thu Oct  8 08:55:47 UTC 2026
+
+HTTPX lines: 54
+Live URLs: 54
+
+## 200
+https://business.infini.money [200] [] [1841] [Infini Business] [cloudflare] [104.26.14.138] [cloudflare] [67.553207ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://app.infini.money [200] [] [1494] [Infini] [cloudflare] [172.67.71.177] [cloudflare] [83.657752ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://auth.infini.money [200] [] [396] [Infini Auth] [Vercel] [216.150.16.1] [131.109014ms] [HSTS,Vercel]
+https://business-sandbox.infini.money [200] [] [1841] [Infini Business] [Vercel] [216.150.16.1] [184.981045ms] [HSTS,Vercel]
+https://app-sandbox.infini.money [200] [] [1494] [Infini] [Vercel] [216.150.16.193] [240.06199ms] [HSTS,Vercel]
+https://go.infini.money [200] [] [11381] [go.infini.money is a custom short domain] [] [207.174.61.1] [147.040413ms]
+https://cardholder.jumper.xyz [200] [] [5687] [Jumper Cardholder] [Vercel] [216.150.1.129] [269.711607ms] [HSTS,Vercel]
+https://auth-sandbox.infini.money [200] [] [2620] [Infini | Sign in] [Vercel] [216.150.16.129] [323.37986ms] [HSTS,Vercel]
+https://payment.infini.money [200] [] [9116] [Infini Hong Kong | Money Service Coming Soon] [cloudflare] [104.26.15.138] [cloudflare] [121.705294ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://haedal.xyz [200] [] [3242] [Haedal | Stake SUI] [cloudflare] [172.67.68.63] [cloudflare] [580.913256ms] [Alibaba Cloud CDN,Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://handbook.infini.money [200] [] [11488] [Lovable App] [cloudflare] [185.158.133.1] [607.375721ms] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://card-simulator.infini.money [200] [] [8098] [Card Simulator] [cloudflare] [172.67.71.177] [cloudflare] [866.335384ms] [Cloudflare,Cloudflare Bot Management]
+https://waitlist.jumper.xyz [200] [] [11172] [Jumper Waitlist] [cloudflare] [172.66.43.120] [cloudflare] [204.957676ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://api-price.infini.money [200] [] [35] [cloudflare] [172.67.71.177] [cloudflare] [1.048302248s] [Cloudflare,Cloudflare Bot Management]
+https://testnet3.haedal.xyz [200] [] [1956] [Haedal | Stake SUI] [cloudflare] [104.26.5.106] [cloudflare] [545.008395ms] [Cloudflare,Cloudflare Browser Insights]
+https://api-dev-webhook.infini.money [200] [] [35] [cloudflare] [104.26.14.138] [cloudflare] [1.135624234s] [Cloudflare,Cloudflare Bot Management]
+https://travel.jumper.xyz [200] [] [1507] [Jumper | Travel] [cloudflare] [172.66.40.136] [cloudflare] [588.006551ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS]
+https://www.haedal.xyz [200] [] [3242] [Haedal | Stake SUI] [cloudflare] [104.26.5.106] [cloudflare] [581.291292ms] [Alibaba Cloud CDN,Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://docs.jumper.xyz [200] [] [251339] [Welcome to Jumper - Jumper Docs] [cloudflare] [172.66.40.136] [cloudflare] [171.931098ms] [Cloudflare,HSTS,Vercel]
+https://updates.jumper.xyz [200] [] [392343] [Home | Jumper Newsletter] [cloudflare] [104.16.23.120] [cloudflare] [565.875687ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://infini.money [200] [] [511496] [AI-Powered Financial Platform for Global Business] [Vercel] [216.150.1.1] [388.666071ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://jumper.xyz [200] [] [643459] [Jumper | Smart App for the Universal Market] [cloudflare] [172.66.43.120] [cloudflare] [354.176418ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS,Snowplow Analytics]
+https://www.infini.money [200] [] [511496] [AI-Powered Financial Platform for Global Business] [Vercel] [216.150.16.129] [273.990369ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://wrapped.jumper.xyz [200] [] [407001] [Jumper Wrapped] [cloudflare] [172.66.43.120] [cloudflare] [249.043683ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://home-sandbox.infini.money [200] [] [510541] [AI-Powered Financial Platform for Global Business] [Vercel] [216.150.16.193] [2.896484688s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://www.jumper.xyz [301] [https://jumper.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.136] [cloudflare] [60.238289ms] [Cloudflare,HSTS]
+
+## 302
+https://bd-deck-cn.infini.money [302] [https://infini-assets.s3.ap-east-1.amazonaws.com/bdhtml.html] [143] [302 Found] [cloudflare] [104.26.14.138] [cloudflare] [167.925192ms] [Cloudflare,Cloudflare Bot Management]
+https://developer.infini.money [302] [/docs/en/1-overview] [0] [] [54.243.82.93] [303.322585ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://join.infini.money [302] [https://www.infini.money/auth] [0] [cloudflare] [172.67.71.177] [cloudflare] [85.774802ms] [Cloudflare,Cloudflare Bot Management]
+https://playground.jumper.xyz [302] [https://jumperexchange.cloudflareaccess.com/cdn-cgi/access/login/playground.jumper.xyz?kid=6e706f38311f7df56f3503ab55803292659f25562c694c009ba2d46f5cfde014&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRiZDMyMWUwZjBmMjQwY2QxYjQ2NWY3OTNjOWNjNWFjZDE5MDA5NTExZmEyMDFkM2RlY2UwMGM2NDI4NjY2Y2MifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjZlNzA2ZjM4MzExZjdkZjU2ZjM1MDNhYjU1ODAzMjkyNjU5ZjI1NTYyYzY5NGMwMDliYTJkNDZmNWNmZGUwMTQiLCJob3N0bmFtZSI6InBsYXlncm91bmQuanVtcGVyLnh5eiIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkxNDUwMDMxLCJuYmYiOjE3OTE0NDk3MzEsImlhdCI6MTc5MTQ0OTczMSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjY0ZThiOGU2NmJhM2FiYjY4YzliZjdkY2JjNzk4ZGU2NmNiMDlkYzk2OTRhOTg0OTQ3YjY1MDYyNDE4N2JhYzUifQ.qAr7wbI9V9xeJOhrf98CnxXUgiSmfuM8t1uyBGrfaMaWvGQaY65X9gqmXkVDURxNmErvDXzXaVBmdGafnno5kzSCx5w5SUinU91R-XsBCtYov2mYVSNeeHq61wRDYe7un3fQ4QdBjOCw_NFPLl7jgWfqi_06GJyWM3VnkhzHBeyCz-G1KHnO_fmybszIknMUCs83HC9AO3sLEFivne_SUSDD-DpE7cTGJeSQT5gfNybG_vgup90zeLG_r4FEo0rL5Xuj0fZ_Z9X4avjXEadlhMFkABmPCtq7plmcQt9Fdolb9UJ4tCrN9MCZ-CyBa-RnGKNG63QuYbYezfX9VwD-sA&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.43.120] [cloudflare] [81.242668ms] [Cloudflare,HSTS]
+https://status.jumper.xyz [302] [https://jumperexchange.cloudflareaccess.com/cdn-cgi/access/login/status.jumper.xyz?kid=9b2256a452fa01334970990e6cfdb539bcf31eccc3053cd1068cb51a6ad8168a&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRiZDMyMWUwZjBmMjQwY2QxYjQ2NWY3OTNjOWNjNWFjZDE5MDA5NTExZmEyMDFkM2RlY2UwMGM2NDI4NjY2Y2MifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjliMjI1NmE0NTJmYTAxMzM0OTcwOTkwZTZjZmRiNTM5YmNmMzFlY2NjMzA1M2NkMTA2OGNiNTFhNmFkODE2OGEiLCJob3N0bmFtZSI6InN0YXR1cy5qdW1wZXIueHl6IiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTE0NTAwMzEsIm5iZiI6MTc5MTQ0OTczMSwiaWF0IjoxNzkxNDQ5NzMxLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiODJiM2MwYzQ5ODBlMjZiYjk3OTVkYWZhZThlZGFmMDdiYTdiM2VhNmY0YmYzMWVjYTExNDEyNzI2MDM1ZGJiMyJ9.KjMgFu6c3QlntTos86HGT94orN4jMmnzqMmH8AhA1V_Oxpv4CCSD-_bNTAn4fK7w2eF0LhUwQS9EOynFgOmbL7F2FyqRTiavcI2B_wuSr6eSdR_40hhF4lmZepENbsBg5m7qadfK7baRoYwl3ux09_8clN-ALV4uyYdYg9H0VK1ZD817hWNllSd7Dq15elphCDv1ozAfsP0uebmKYc04yiO25N5D3bmMz2pP8iVWvLlgqVR9VuhkNvS7OBWE69nIgxSI_3Ztz9HV6PnYfuSwca78kPmUEVrzvus-2ich7D9JFUnDGYUo-NP93Saz2OqAn5AvE2tbv6_TR26EX53LSA&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.43.120] [cloudflare] [54.181483ms] [Cloudflare,HSTS]
+https://storybook.jumper.xyz [302] [https://jumperexchange.cloudflareaccess.com/cdn-cgi/access/login/storybook.jumper.xyz?kid=9d2ae6f2b0362ba6fe15f10205f708b114a69fd5f070d9cf02fbf7aadc04ff55&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRiZDMyMWUwZjBmMjQwY2QxYjQ2NWY3OTNjOWNjNWFjZDE5MDA5NTExZmEyMDFkM2RlY2UwMGM2NDI4NjY2Y2MifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjlkMmFlNmYyYjAzNjJiYTZmZTE1ZjEwMjA1ZjcwOGIxMTRhNjlmZDVmMDcwZDljZjAyZmJmN2FhZGMwNGZmNTUiLCJob3N0bmFtZSI6InN0b3J5Ym9vay5qdW1wZXIueHl6IiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTE0NTAwMzEsIm5iZiI6MTc5MTQ0OTczMSwiaWF0IjoxNzkxNDQ5NzMxLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiOWQ4OGVkYzBlNjBmNTU4YWMzZTU3YTA4OTI2ZjJmMzVmMDdiYjRmOWVjYmQ5NTM1Y2E0ZTdkYzMzNWY3YjczYiJ9.S8hoNj1irZDT6fh-rxtXd9FY7emyTfg68929P20fopAHrmBMzBdQYQNL4f3b8wUf4c-NWtHpWONUp81h5ax3Zp-Xj-d07vYPOjtlopSoCOsNZVzKoLgEeSIGiaNZQC6sv356lLp6Yr-s2lZ4RaKNgLhKylie0RMxcy0_WZtae4XzPg9mSxO2LjpM3kdtDUnNv9T0FIKX3AzUpAuclSgtCgx0sD8GvG1AOw9MJNRP2a-fdwf2QQcPrfOQJfnQ2TJSiZoQSm6_kyqXGnn0KsMK8dCnUIPBwoe8-1sR0G1QhqqcABQkpuXWnB1SU_OgX-HEGQdldaXEw1S8LNsV5_zvyg&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.43.120] [cloudflare] [54.453567ms] [Cloudflare,HSTS]
+https://studio.jumper.xyz [302] [https://jumperexchange.cloudflareaccess.com/cdn-cgi/access/login/studio.jumper.xyz?kid=2452ff7c5c48573a92c323a2a86522eb5b8a0891601ffd8bec18746295a045bc&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRiZDMyMWUwZjBmMjQwY2QxYjQ2NWY3OTNjOWNjNWFjZDE5MDA5NTExZmEyMDFkM2RlY2UwMGM2NDI4NjY2Y2MifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjI0NTJmZjdjNWM0ODU3M2E5MmMzMjNhMmE4NjUyMmViNWI4YTA4OTE2MDFmZmQ4YmVjMTg3NDYyOTVhMDQ1YmMiLCJob3N0bmFtZSI6InN0dWRpby5qdW1wZXIueHl6IiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTE0NTAwMzEsIm5iZiI6MTc5MTQ0OTczMSwiaWF0IjoxNzkxNDQ5NzMxLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiN2Y0OWE1OTM0MjYyOGVkY2NlMjdiYmM2ZThmNWVlMGVkMTliYjQwZjBjMDNkMzBiZTY0NmVkM2VhM2Q5NTcwOSJ9.YYSvy1UUZq_JnWI2-axUIQvxmjmaE0WBAqOwdd_XukgcZ74S37OgP6OjDUs8cwWcdYQwGNR_vA1fTFnCCRbPDLIvKor6j8doa0CJyiPG14LAWqGWGHD9Xq1LvxR2YCgrLkr2ytPVsKP87QziI671ryyV4G8b4Ezzo8oF28pClrFkZ_sB_Na8GU4IYT0MrWjvRQWoMxPEsVF1cpJDILaJI9lLonFlELmhALySxKe_-n5HW50iH8inTA7dd9e_rIaYTj7jA7Ahi5CxT1bsHZBVn4DS-aG7tBS-whnlDt5t-HyrYjt5aYy1a-9YO3nPhpKTpl8DDojUgfR0-gDL1RA0gw&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.43.120] [cloudflare] [57.920744ms] [Cloudflare,HSTS]
+https://strapi.jumper.xyz [302] [/admin] [22] [cloudflare] [172.66.40.136] [cloudflare] [164.908886ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://help.infini.money [302] [https://help.infini.money/en/] [0] [cloudflare] [172.67.71.177] [cloudflare] [470.052001ms] [Cloudflare,Cloudflare Bot Management]
+
+## 307
+https://checkout.infini.money [307] [/payment] [119763] [Start collecting global payments now] [cloudflare] [104.26.15.138] [cloudflare] [137.09272ms] [Cloudflare,Cloudflare Bot Management,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://checkout-sandbox.infini.money [307] [/payment] [119763] [Start collecting global payments now] [Vercel] [216.150.16.129] [282.833062ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 308
+
+## 401
+
+## 403
+https://docs.infini.money [403] [] [17] [cloudflare] [104.26.15.138] [cloudflare] [59.955748ms] [Cloudflare]
+https://assets.haedal.xyz [403] [] [1445] [403 Forbidden] [cloudflare] [104.26.5.106] [cloudflare] [527.294553ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 404
+https://app-version-check.infini.money [404] [] [58] [cloudflare] [172.67.71.177] [cloudflare] [55.44951ms] [Cloudflare,Cloudflare Bot Management]
+https://elink2a3.updates.jumper.xyz [404] [] [1445] [404 Not Found] [cloudflare] [104.16.23.120] [cloudflare] [61.66865ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://app-download.infini.money [404] [] [9] [cloudflare] [104.26.15.138] [cloudflare] [168.197536ms] [Cloudflare,Cloudflare Bot Management]
+https://pay-sandbox.infini.money [404] [] [107] [Vercel] [216.150.1.129] [427.838ms] [HSTS,Vercel]
+https://walrus-aggregator-testnet.haedal.xyz [404] [] [0] [nginx/1.24.0 (Ubuntu)] [35.171.77.122] [94.262299ms] [Nginx:1.24.0,Ubuntu]
+https://walrus-node-testnet.haedal.xyz [404] [] [0] [nginx/1.24.0 (Ubuntu)] [35.171.77.122] [109.464716ms] [Nginx:1.24.0,Ubuntu]
+https://gateway.infini.money [404] [] [36] [cloudflare] [104.26.14.138] [cloudflare] [920.786417ms] [Cloudflare,Cloudflare Bot Management]
+https://openapi-sandbox.infini.money [404] [] [36] [cloudflare] [172.67.71.177] [cloudflare] [922.972898ms] [Cloudflare,Cloudflare Bot Management]
+https://openapi.infini.money [404] [] [36] [cloudflare] [104.26.14.138] [cloudflare] [922.88288ms] [Cloudflare,Cloudflare Bot Management]
+https://resources.haedal.xyz [404] [] [28449] [Not Found] [cloudflare] [172.67.68.63] [cloudflare] [1.18188557s] [Cloudflare,Cloudflare Browser Insights]
+https://gateway-sandbox.infini.money [404] [] [36] [cloudflare] [172.67.71.177] [cloudflare] [1.993360377s] [Cloudflare,Cloudflare Bot Management]
+
+## 500
+
+## 502
+
+## 503
+
