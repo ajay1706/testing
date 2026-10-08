@@ -1,0 +1,2 @@
+[CVE-2023-48795] [javascript] [medium] midgard-native.thorwallet.org:22 ["Vulnerable to Terrapin"]
+[ssh-cbc-mode-ciphers] [javascript] [low] git-migration-eusa.edge.app:22
