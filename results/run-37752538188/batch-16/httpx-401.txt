@@ -1,0 +1,2 @@
+https://app.mainnet.staging.wingriders.com [401] [] [0] [] [18.155.173.25] [cloudfront] [228.017625ms] [Amazon CloudFront,Amazon Web Services,Basic]
+https://kotelna.mainnet.wingriders.com [401] [] [99] [] [18.155.173.57] [cloudfront] [1.23797253s] [Amazon ALB,Amazon CloudFront,Amazon Web Services,Basic]
