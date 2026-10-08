@@ -1,0 +1,6 @@
+[CVE-2026-72898] [http] [critical] https://metabase.oolka.in/api/session/reset_password
+[CVE-2026-72898] [http] [critical] https://metabase.phot.ai/api/session/reset_password
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://mobile-api.mayan.finance/application.json [""url":"https://discord.gg/h5HUzkqrXK"",""url":"https://twitter.com/mayanfinance"",""url":"https://blog.mayan.finance/"",""url":"https://docs.mayan.finance/""] [path="/application.json"]
+[CVE-2017-8225:password] [http] [critical] https://mobile-api.mayan.finance/system.ini?loginuse&loginpas ["sage":""},"walletConnectConfig"","bsc":0.001,"polygon":0.1,"avala","avalanche":15,"ethereum":70,"po","forceUpdateMessage":"A new vers"]
+[CVE-2017-8225:password] [http] [critical] https://monerolwsdb-eusa1.edge.app/system.ini?loginuse&loginpas ["iled replicator changes manager","ouchdb@127.0.0.1"} 0","s value is set by the GOGC envi","Int64. This value is set by the","taneously. Sourced from /sched/","spent in seconds."]
+[CVE-2017-8225:password] [http] [critical] https://monerolwsdb-wusa1.edge.app/system.ini?loginuse&loginpas ["s value is set by the GOGC envi","Int64. This value is set by the","taneously. Sourced from /sched/","spent in seconds.","iled replicator changes manager","ouchdb@monerolwsdb-wusa1-int.ed","ouchdb@monerolwsdb-wusa2-int.ed","ouchdb@monerolwsdb-wusa3-int.ed"]

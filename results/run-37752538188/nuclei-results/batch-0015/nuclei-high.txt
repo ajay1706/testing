@@ -1,0 +1,2 @@
+[codeigniter-env] [http] [high] https://mautic.phot.ai/.env [paths="/.env"]
+[laravel-env] [http] [high] https://mautic.phot.ai/.env [paths="/.env"]
