@@ -1,0 +1,2 @@
+https://billing-webhook-capture.stage.kagi.com [502] [] [332] [502 Server Error] [] [34.149.52.206] [google] [104.109157ms] [HTTP/3]
+https://code.browser.kagi.com [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [216.18.205.234] [234.332165ms] [Nginx:1.18.0,Ubuntu]

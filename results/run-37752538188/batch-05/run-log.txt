@@ -1,0 +1,14 @@
+[+] Batch started: Thu Oct  8 08:57:17 UTC 2026
+[+] Run ID: 37752538188
+[+] Batch name: batch-05
+[+] Batch targets:
+kagi.com
+keeperwallet.com
+known.com
+[+] Running subfinder...
+[+] Subfinder completed: Thu Oct  8 08:59:45 UTC 2026
+[+] HTTPX input count: 331
+[+] Running httpx...
+[+] httpx completed: Thu Oct  8 09:00:48 UTC 2026
+[+] httpx line count: 94
+[+] Batch completed: Thu Oct  8 09:00:48 UTC 2026
