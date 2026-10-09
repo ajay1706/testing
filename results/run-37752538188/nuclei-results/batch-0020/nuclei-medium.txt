@@ -1,0 +1,2 @@
+[CVE-2023-45648] [http] [medium] https://store.fotor.com/3KQd78fG7XiCZPA1md9icAZ5bVl ["8.5.35"]
+[prometheus-metrics] [http] [medium] https://ston.fi/metrics
