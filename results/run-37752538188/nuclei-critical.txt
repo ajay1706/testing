@@ -1,0 +1,16 @@
+[CVE-2017-8225:password] [http] [critical] https://mobile-api.mayan.finance/system.ini?loginuse&loginpas ["sage":""},"walletConnectConfig"","bsc":0.001,"polygon":0.1,"avala","avalanche":15,"ethereum":70,"po","forceUpdateMessage":"A new vers"]
+[CVE-2017-8225:password] [http] [critical] https://monerolwsdb-eusa1.edge.app/system.ini?loginuse&loginpas ["iled replicator changes manager","ouchdb@127.0.0.1"} 0","s value is set by the GOGC envi","Int64. This value is set by the","taneously. Sourced from /sched/","spent in seconds."]
+[CVE-2017-8225:password] [http] [critical] https://monerolwsdb-wusa1.edge.app/system.ini?loginuse&loginpas ["s value is set by the GOGC envi","Int64. This value is set by the","taneously. Sourced from /sched/","spent in seconds.","iled replicator changes manager","ouchdb@monerolwsdb-wusa1-int.ed","ouchdb@monerolwsdb-wusa2-int.ed","ouchdb@monerolwsdb-wusa3-int.ed"]
+[CVE-2025-46817:version] [javascript] [critical] staging-v2.oolka.in:6379 ["6.0.16"]
+[CVE-2025-49844:version] [javascript] [critical] staging-v2.oolka.in:6379 ["6.0.16"]
+[CVE-2026-72898] [http] [critical] https://metabase.oolka.in/api/session/reset_password
+[CVE-2026-72898] [http] [critical] https://metabase.phot.ai/api/session/reset_password
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://goartwebapi.fotor.com/api/config.json [""url":"https://dl.haozhaopian.net/launchAds/73E152A8E5E282D48720C72D833459B7.png"",""url":"https://dl.haozhaopian.net/launchAds/08A7A7A5E67DDCBBAAC8F659046419E3.png"",""url":"https://dl.haozhaopian.net/launchAds/67987241FDBD03051EAF855663F8868A.png"",""url":"https://pub-static.fotor.com/goart-nft/banners/96bafc36e65e449395814979c2b64080.png"",""url":"https://pub-static.fotor.com/goart-nft/banners/116774658b984abd92d0ff041f53d737.png""] [path="/api/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://mobile-api.mayan.finance/application.json [""url":"https://discord.gg/h5HUzkqrXK"",""url":"https://twitter.com/mayanfinance"",""url":"https://blog.mayan.finance/"",""url":"https://docs.mayan.finance/""] [path="/application.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://ss.symbiosis.finance/config.json [""url": "https://ss.symbiosis.finance/server""] [path="/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://bch-eusa1.edge.app/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://btc-eu1.edge.app/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://dgb-eu2.edge.app/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://doge-eusa1.edge.app/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://pivx-eusa1.edge.app/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://vtc-wusa1.edge.app/api/v1/config.json [path="/api/v1/config.json"]

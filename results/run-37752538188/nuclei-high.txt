@@ -1,0 +1,13 @@
+[CVE-2022-0952] [http] [high] https://fastapi-520.photoroom.com/wp-json/click5_sitemap/API/update_html_option_AJAX
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.mayan.finance/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-46818:version] [javascript] [high] staging-v2.oolka.in:6379 ["6.0.16"]
+[CVE-2025-46819:version] [javascript] [high] staging-v2.oolka.in:6379 ["6.0.16"]
+[CVE-2026-41432] [http] [high] https://app.dtcpay.com/api/stripe/webhook
+[CVE-2026-41432] [http] [high] https://business.dtcpay.com/api/stripe/webhook
+[CVE-2026-41432] [http] [high] https://business.wallet.dtcpay.com/api/stripe/webhook
+[CVE-2026-41432] [http] [high] https://personal-v3.dtcpay.com/api/stripe/webhook
+[CVE-2026-41432] [http] [high] https://personal.dtcpay.com/api/stripe/webhook
+[CVE-2026-64638] [http] [high] https://blog.ston.fi/wp-login.php ["<area id="ajaxurl" href="/?rest_route=/&amp;_method=GET&amp;_jsonp=alert">"]
+[codeigniter-env] [http] [high] https://mautic.phot.ai/.env [paths="/.env"]
+[framer-takeover] [http] [high] https://prim.buybuybaby.tzero.com ["sites.framer.app"]
+[laravel-env] [http] [high] https://mautic.phot.ai/.env [paths="/.env"]
