@@ -1,0 +1,3 @@
+[open-redirect-generic] [http] [medium] https://tgt-metrics.thorwallet.org//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://tgt-metrics.thorwallet.org//interact.sh/en//
+[prometheus-metrics] [http] [medium] https://testnet-indexer.tonco.io/metrics
