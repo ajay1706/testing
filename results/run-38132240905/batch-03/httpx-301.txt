@@ -1,0 +1,4 @@
+https://dextools.io [301] [https://www.dextools.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.28.31] [cloudflare] [60.925779ms] [Cloudflare,HTTP/3]
+https://oz.dextools.io [301] [https://oz.dextools.io/app/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [18.136.231.72] [551.766607ms] [Nginx:1.18.0,Ubuntu]
+https://shipd.datacurve.ai [301] [https://shipd.ai/] [167] [301 Moved Permanently] [cloudflare] [104.21.20.75] [cloudflare] [63.033591ms] [Cloudflare]
+https://www.dextools.io [301] [https://www.dextools.io/app/] [167] [301 Moved Permanently] [cloudflare] [104.18.29.31] [cloudflare] [63.61054ms] [Cloudflare,HTTP/3]
