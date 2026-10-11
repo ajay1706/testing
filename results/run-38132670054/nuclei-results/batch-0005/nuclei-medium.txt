@@ -1,0 +1,2 @@
+[CVE-2026-27454] [http] [medium] https://community.starknet.io/posts/2360449.json?version=1
+[CVE-2023-5089] [http] [medium] https://client.meanwhile.bm/?gf_page=randomstring ["https://start.meanwhile.bm/?redirect_url=https%3A%2F%2Fclient.meanwhile.bm%2F%3Fgf_page%3Drandomstring&reauth=1"]

@@ -1,0 +1,2 @@
+[wix-takeover] [http] [high] https://cal.confluxnetwork.org ["www160.wixdns.net"]
+[github-takeover] [http] [high] https://config.kaia.io ["kaiachain.github.io"]
