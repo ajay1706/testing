@@ -1,0 +1,14 @@
+[+] Batch started: Sun Oct 11 10:40:41 UTC 2026
+[+] Run ID: 38132695356
+[+] Batch name: batch-01
+[+] Batch targets:
+perptools.ai
+ripcars.io
+riva.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Sun Oct 11 10:42:36 UTC 2026
+[+] HTTPX input count: 31
+[+] Running httpx...
+[+] httpx completed: Sun Oct 11 10:42:43 UTC 2026
+[+] httpx line count: 30
+[+] Batch completed: Sun Oct 11 10:42:43 UTC 2026
