@@ -1,0 +1,8 @@
+https://jlab.pods.latch.bio [502] [] [122] [502 Bad Gateway] [awselb/2.0] [52.33.24.191] [260.320085ms] [Amazon ELB,Amazon Web Services,HSTS]
+https://custom.pods.latch.bio [502] [] [122] [502 Bad Gateway] [awselb/2.0] [52.33.24.191] [721.632359ms] [Amazon ELB,Amazon Web Services,HSTS]
+https://pods.latch.bio [502] [] [122] [502 Bad Gateway] [awselb/2.0] [54.68.237.89] [315.625938ms] [Amazon ELB,Amazon Web Services,HSTS]
+https://wildcard.custom.pods.latch.bio [502] [] [122] [502 Bad Gateway] [awselb/2.0] [52.33.24.191] [366.961524ms] [Amazon ELB,Amazon Web Services,HSTS]
+https://wildcard.pods.latch.bio [502] [] [524] [502 Bad Gateway] [awselb/2.0] [54.68.237.89] [375.020998ms] [Amazon ELB,Amazon Web Services,HSTS]
+https://rstudio.pods.latch.bio [502] [] [524] [502 Bad Gateway] [awselb/2.0] [184.33.219.147] [667.328423ms] [Amazon ELB,Amazon Web Services,HSTS]
+https://wildcard.jlab.pods.latch.bio [502] [] [122] [502 Bad Gateway] [awselb/2.0] [184.33.219.147] [400.877818ms] [Amazon ELB,Amazon Web Services,HSTS]
+https://wildcard.rstudio.pods.latch.bio [502] [] [122] [502 Bad Gateway] [awselb/2.0] [184.33.219.147] [374.860755ms] [Amazon ELB,Amazon Web Services,HSTS]

@@ -1,0 +1,14 @@
+[+] Batch started: Sun Oct 11 10:36:44 UTC 2026
+[+] Run ID: 38132240905
+[+] Batch name: batch-06
+[+] Batch targets:
+latch.bio
+layer3.xyz
+mechanize.work
+[+] Running subfinder...
+[+] Subfinder completed: Sun Oct 11 10:38:12 UTC 2026
+[+] HTTPX input count: 176
+[+] Running httpx...
+[+] httpx completed: Sun Oct 11 10:38:31 UTC 2026
+[+] httpx line count: 86
+[+] Batch completed: Sun Oct 11 10:38:31 UTC 2026
