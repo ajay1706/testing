@@ -1,0 +1,4 @@
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.internal-mainnet.pearlresearch.ai/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.internal.pearlresearch.ai/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.pearlresearch.ai/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.testnet.pearlresearch.ai/api/v2/config.json [path="/api/v2/config.json"]
