@@ -1,0 +1,71 @@
+# HTTPX Status Report
+
+Generated at: Sun Oct 11 10:41:32 UTC 2026
+
+HTTPX lines: 44
+Live URLs: 44
+
+## 200
+https://auth.walapay.io [200] [] [2] [cloudflare] [104.18.35.233] [cloudflare] [318.642168ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://sso.walapay.io [200] [] [2] [cloudflare] [104.18.38.202] [cloudflare] [371.813005ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://admin.devnet.umia.finance [200] [] [19745] [Umia Admin] [Fly/268b58352a (2026-10-09)] [66.241.125.9] [188.671757ms] [Fly.io,Next.js,Node.js,React,Webpack]
+https://minipay.walapay.io [200] [] [6086] [cloudflare] [216.24.57.16] [390.122931ms] [Cloudflare,HTTP/3,Next.js,Node.js,React,Render,Webpack]
+https://www.solanacompany.co [200] [] [21891] [Building the Preeminent Solana Treasury | Solana Company HSDT] [cloudflare] [198.202.211.1] [97.931094ms] [Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://develop.walapay.io [200] [] [47948] [Walapay | Global Money Movement] [cloudflare] [216.24.57.16] [264.665548ms] [Cloudflare,HTTP/3,Next.js,Node.js,React,Render,Webpack]
+https://dashboard.walapay.io [200] [] [48219] [Walapay | Global Money Movement] [cloudflare] [216.24.57.18] [302.113982ms] [Cloudflare,HTTP/3,Next.js,Node.js,React,Render,Webpack]
+https://sandbox.walapay.io [200] [] [50594] [Walapay | Global Money Movement] [cloudflare] [216.24.57.18] [454.62344ms] [Cloudflare,HTTP/3,Next.js,Node.js,React,Render,Webpack]
+https://www.walapay.io [200] [] [69473] [Modern Money Movement Infrastructure - Walapay] [cloudflare] [198.202.211.1] [235.42411ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,jQuery:3.5.1,jsDelivr]
+https://admin.umia.finance [200] [] [24700] [Umia Admin] [Vercel] [216.150.1.193] [1.024688713s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://app.devnet.umia.finance [200] [] [121666] [Umia] [Fly/268b58352a (2026-10-09)] [66.241.125.94] [244.315948ms] [C3.js,Fly.io,Next.js,Node.js,React,Webpack]
+https://staging.umia.finance [200] [] [148242] [Umia] [Vercel] [216.150.16.193] [922.833167ms] [HSTS,Vercel]
+https://umia.finance [200] [] [215520] [Umia | The Operating Stack for Token-Native Ventures] [Vercel] [216.150.1.1] [924.038359ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://app.umia.finance [200] [] [104775] [Umia] [Vercel] [216.150.16.193] [1.607802426s] [C3.js,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://admin.testnet.umia.finance [200] [] [31503] [Umia Admin] [Vercel] [216.150.16.129] [2.608454947s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://safe-console.umia.finance [200] [] [811357] [Umia Safe console] [Vercel] [216.150.1.1] [567.880255ms] [HSTS,Vercel]
+
+## 301
+http://autodiscover.solanacompany.co [301] [https://autodiscover.solanacompany.co/] [0] [Microsoft-HTTPAPI/2.0] [52.96.190.168] [1.265134ms] [Microsoft HTTPAPI:2.0]
+https://walapay.io [301] [https://www.walapay.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [276.08405ms] [Cloudflare,HSTS,HTTP/3]
+https://solanacompany.co [301] [https://www.solanacompany.co/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [293.700187ms] [Cloudflare,HSTS,HTTP/3]
+https://community.umia.finance [301] [http://t.me/+wB14whEtUno5ZDVk] [0] [Squarespace] [198.49.23.145] [770.932153ms] [Squarespace,Squarespace Commerce]
+
+## 302
+https://docs.walapay.io [302] [/docs] [27] [cloudflare] [104.16.242.118] [cloudflare] [328.012908ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://forms.umia.finance [302] [/login] [0] [Caddy] [135.181.191.125] [622.412038ms] [Caddy,HTTP/3]
+
+## 307
+https://develop-admin.walapay.io [307] [/login] [6] [cloudflare] [216.24.57.16] [238.236063ms] [Cloudflare,HTTP/3,Render]
+https://app.testnet.umia.finance [307] [/login] [15] [Vercel] [216.150.1.65] [240.701584ms] [HSTS,Vercel]
+https://admin.walapay.io [307] [/login] [6] [cloudflare] [216.24.57.16] [329.985872ms] [Cloudflare,HTTP/3,Render]
+https://intel.umia.finance [307] [/login] [6] [] [135.181.191.125] [526.564983ms] [HTTP/3]
+https://signin.walapay.io [307] [https://auth.walapay.io/user_management/initiate_login?context=&client_id=client_01K3KJHVFWK3J1E5QP4NDAD6ZE] [72892] [Sign in] [cloudflare] [104.18.35.233] [cloudflare] [732.415798ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+
+## 308
+https://blog.umia.finance [308] [https://umia.finance/blog] [15] [Vercel] [216.150.1.65] [199.672769ms] [HSTS,Vercel]
+https://docs.umia.finance [308] [https://umia.finance/docs] [15] [Vercel] [216.150.1.1] [316.766441ms] [HSTS,Vercel]
+https://www.umia.finance [308] [https://umia.finance/] [15] [Vercel] [216.150.16.193] [380.25238ms] [HSTS,Vercel]
+https://inbound.umia.finance [308] [https://umia.finance/contact] [15] [Vercel] [216.150.16.129] [1.353671393s] [HSTS,Vercel]
+
+## 401
+https://firehose.umia.finance [401] [] [0] [Caddy] [135.181.191.125] [679.734599ms] [Basic,Caddy,HTTP/3]
+
+## 403
+https://app.walapay.io [403] [] [151] [403 Forbidden] [cloudflare] [104.16.42.105] [cloudflare] [87.43274ms] [Cloudflare]
+https://ir.solanacompany.co [403] [] [371] [Access Denied] [] [23.200.88.61] [264.091839ms]
+
+## 404
+https://develop-api.walapay.io [404] [] [109] [cloudflare] [216.24.57.18] [217.358885ms] [Cloudflare,Express,HTTP/3,Node.js,Render]
+https://sandbox-api.walapay.io [404] [] [109] [cloudflare] [216.24.57.18] [301.515245ms] [Cloudflare,Express,HTTP/3,Node.js,Render]
+https://api.devnet.umia.finance [404] [] [100] [Fly/268b58352a (2026-10-09)] [66.241.125.181] [343.299159ms] [Fly.io]
+https://hub.devnet.umia.finance [404] [] [107] [Vercel] [216.150.16.1] [426.264777ms] [HSTS,Vercel]
+https://hub.sepolia.umia.finance [404] [] [107] [Vercel] [216.150.1.129] [532.170096ms] [HSTS,Vercel]
+https://api.walapay.io [404] [] [109] [cloudflare] [216.24.57.18] [544.619757ms] [Cloudflare,Express,HTTP/3,Node.js,Render]
+https://pay.solanacompany.co [404] [] [1009] [Pay Link Not Found] [] [100.49.0.246] [591.679763ms]
+https://hub.umia.finance [404] [] [107] [Vercel] [216.150.1.65] [955.834645ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+

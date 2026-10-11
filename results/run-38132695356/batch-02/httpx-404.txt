@@ -1,0 +1,8 @@
+https://develop-api.walapay.io [404] [] [109] [cloudflare] [216.24.57.18] [217.358885ms] [Cloudflare,Express,HTTP/3,Node.js,Render]
+https://sandbox-api.walapay.io [404] [] [109] [cloudflare] [216.24.57.18] [301.515245ms] [Cloudflare,Express,HTTP/3,Node.js,Render]
+https://api.devnet.umia.finance [404] [] [100] [Fly/268b58352a (2026-10-09)] [66.241.125.181] [343.299159ms] [Fly.io]
+https://hub.devnet.umia.finance [404] [] [107] [Vercel] [216.150.16.1] [426.264777ms] [HSTS,Vercel]
+https://hub.sepolia.umia.finance [404] [] [107] [Vercel] [216.150.1.129] [532.170096ms] [HSTS,Vercel]
+https://api.walapay.io [404] [] [109] [cloudflare] [216.24.57.18] [544.619757ms] [Cloudflare,Express,HTTP/3,Node.js,Render]
+https://pay.solanacompany.co [404] [] [1009] [Pay Link Not Found] [] [100.49.0.246] [591.679763ms]
+https://hub.umia.finance [404] [] [107] [Vercel] [216.150.1.65] [955.834645ms] [HSTS,Vercel]
