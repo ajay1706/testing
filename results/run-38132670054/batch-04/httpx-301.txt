@@ -1,0 +1,7 @@
+http://config-tdx.arbitrum.iex.ec [301] [https://config-tdx.arbitrum.iex.ec/] [17] [] [51.145.250.176] [2.705785157s]
+http://docker-regis.iex.ec [301] [https://docker-regis.iex.ec/] [17] [] [108.143.34.79] [2.540568971s]
+http://ipfs-upload.arbitrum-mainnet.iex.ec [301] [https://ipfs-upload.arbitrum-mainnet.iex.ec/] [169] [301 Moved Permanently] [nginx/1.23.3] [20.16.132.135] [1.530907094s] [Nginx:1.23.3]
+http://og.griffinai.io [301] [https://app.griffinai.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.10.250] [cloudflare] [4.19742944s] [Cloudflare,HTTP/2]
+http://sms-tdx-1.arbitrum-sepolia-testnet.iex.ec [301] [https://sms-tdx-1.arbitrum-sepolia-testnet.iex.ec/] [17] [] [91.134.56.214] [3.54581047s]
+https://status.iex.ec [301] [https://iexec.instatus.com/] [0] [nginx] [185.206.180.117] [3.625995765s] [Nginx]
+https://tools.docs.iex.ec [301] [https://docs.iex.ec/] [15] [Vercel] [216.150.1.129] [4.353412476s] [HSTS,Vercel]

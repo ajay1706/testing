@@ -1,0 +1,2 @@
+https://academy.iex.ec [307] [https://iex.ec/] [15] [Vercel] [216.150.16.193] [295.750425ms] [HSTS,Vercel]
+https://docs.iex.ec [307] [/get-started/welcome] [15] [Vercel] [216.150.16.193] [2.312911421s] [HSTS,Vercel]
