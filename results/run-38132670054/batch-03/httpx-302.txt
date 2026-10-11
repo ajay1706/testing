@@ -1,0 +1,2 @@
+https://admin.status.fastnear.com [302] [/status/main] [34] [cloudflare] [104.18.30.232] [cloudflare] [3.37009539s] [Cloudflare,HTTP/3]
+https://status.fastnear.com [302] [/status/main] [34] [cloudflare] [104.18.30.232] [cloudflare] [2.360881747s] [Cloudflare,HTTP/3]

@@ -1,0 +1,144 @@
+# HTTPX Status Report
+
+Generated at: Sun Oct 11 10:45:50 UTC 2026
+
+HTTPX lines: 133
+Live URLs: 133
+
+## 200
+https://03.click.fastnear.com [200] [] [4] [cloudflare] [104.18.30.232] [cloudflare] [453.09471ms] [Cloudflare,HTTP/3]
+https://08.api.fastnear.com [200] [] [22087] [FASTNEAR API] [cloudflare] [104.18.31.232] [cloudflare] [363.300553ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://07.api.fastnear.com [200] [] [22087] [FASTNEAR API] [cloudflare] [104.18.31.232] [cloudflare] [396.418961ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://09.api.fastnear.com [200] [] [22087] [FASTNEAR API] [cloudflare] [104.18.31.232] [cloudflare] [395.427881ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://06.api.fastnear.com [200] [] [22087] [FASTNEAR API] [cloudflare] [104.18.30.232] [cloudflare] [422.984627ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://api-key-service.fastnear.com [200] [] [5439] [FASTNEAR API Key Generator] [cloudflare] [104.18.31.232] [cloudflare] [1.292827356s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://byield.gonative.cc [200] [] [22492] [BYIELD App] [cloudflare] [172.67.171.246] [cloudflare] [1.20791925s] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://cm02.node.fastnear.com [200] [] [976] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [355.687594ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://call.fastnear.com [200] [] [867] [Video Calls - by FastNear] [cloudflare] [104.18.30.232] [cloudflare] [4.115612175s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ct01.node.fastnear.com [200] [] [976] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [1.392482668s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dash01.node.fastnear.com [200] [] [976] [Welcome to nginx!] [cloudflare] [104.18.30.232] [cloudflare] [2.274672296s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://cm01.node.fastnear.com [200] [] [973] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [6.403731171s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dm1a1.node.fastnear.com [200] [] [973] [Welcome to nginx!] [cloudflare] [104.18.30.232] [cloudflare] [2.390590224s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dm1a3.node.fastnear.com [200] [] [976] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [3.396863432s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dmf5.node.fastnear.com [200] [] [976] [Welcome to nginx!] [cloudflare] [104.18.30.232] [cloudflare] [401.721502ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dmf8.node.fastnear.com [200] [] [976] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [1.726651071s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dmf6.node.fastnear.com [200] [] [976] [Welcome to nginx!] [cloudflare] [104.18.30.232] [cloudflare] [2.356410257s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dt2.node.fastnear.com [200] [] [973] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [1.362930886s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dm2a1.node.fastnear.com [200] [] [973] [Welcome to nginx!] [cloudflare] [104.18.30.232] [cloudflare] [6.35873697s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dt1.node.fastnear.com [200] [] [973] [Welcome to nginx!] [cloudflare] [104.18.30.232] [cloudflare] [3.390069801s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dmf3.node.fastnear.com [200] [] [973] [Welcome to nginx!] [cloudflare] [104.18.30.232] [cloudflare] [5.067202385s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://fastnear.com [200] [] [65299] [FASTNEAR - High-Performance NEAR Protocol Infrastructure] [cloudflare] [104.18.30.232] [cloudflare] [1.075400813s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://fdi1.node.fastnear.com [200] [] [976] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [4.352446896s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://g04.click.fastnear.com [200] [] [13854] [ClickHouse] [cloudflare] [104.18.31.232] [cloudflare] [1.399576076s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://g03.node.fastnear.com [200] [] [976] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [3.393947202s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://kv.test.fastnear.com [200] [] [12203] [KV FastData API] [cloudflare] [104.18.30.232] [cloudflare] [2.394244894s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://js.fastnear.com [200] [] [60911] [FastNear JS — Agent-first NEAR RPC and API library] [cloudflare] [104.18.31.232] [cloudflare] [4.082223704s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://log-04.click.fastnear.com [200] [] [14474] [ClickHouse] [cloudflare] [104.18.30.232] [cloudflare] [2.262858479s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://kv.main.fastnear.com [200] [] [12203] [KV FastData API] [cloudflare] [104.18.31.232] [cloudflare] [5.158067204s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://log-02.click.fastnear.com [200] [] [14474] [ClickHouse] [cloudflare] [104.18.31.232] [cloudflare] [4.352849826s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://log-01.click.fastnear.com [200] [] [14474] [ClickHouse] [cloudflare] [104.18.31.232] [cloudflare] [6.397870938s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://logs.click.fastnear.com [200] [] [14474] [ClickHouse] [cloudflare] [104.18.31.232] [cloudflare] [7.284337392s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://outlayer.fastnear.com [200] [] [21868] [OutLayer. Verifiable off-chain computation for NEAR Blockchain] [cloudflare] [104.18.31.232] [cloudflare] [4.368241536s] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+https://remote.fastnear.com [200] [] [825] [Remote Workers] [cloudflare] [104.18.30.232] [cloudflare] [3.08053844s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://revenue.fastnear.com [200] [] [782] [NEAR Revenue Dashboard - by FastNear] [cloudflare] [104.18.31.232] [cloudflare] [6.102628576s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://sc01.node.fastnear.com [200] [] [973] [Welcome to nginx!] [cloudflare] [104.18.30.232] [cloudflare] [3.416941649s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://sc02.node.fastnear.com [200] [] [973] [Welcome to nginx!] [cloudflare] [104.18.30.232] [cloudflare] [4.424712557s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://sc04.node.fastnear.com [200] [] [973] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [4.373330904s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://sc06.node.fastnear.com [200] [] [976] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [5.393574787s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://sc05.node.fastnear.com [200] [] [973] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [6.391558549s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://test.api.fastnear.com [200] [] [22087] [FASTNEAR API] [cloudflare] [104.18.31.232] [cloudflare] [2.396584218s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://t01.api.fastnear.com [200] [] [22087] [FASTNEAR API] [cloudflare] [104.18.31.232] [cloudflare] [5.404531385s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://tra.click.fastnear.com [200] [] [4] [cloudflare] [104.18.31.232] [cloudflare] [1.407147463s] [Cloudflare,HTTP/3]
+https://transfers.main.fastnear.com [200] [] [10826] [Transfers API] [cloudflare] [104.18.30.232] [cloudflare] [3.151276772s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://tt01.click.fastnear.com [200] [] [14512] [ClickHouse] [cloudflare] [104.18.31.232] [cloudflare] [4.387709401s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://tx.main.fastnear.com [200] [] [10489] [FastNear Transactions API] [cloudflare] [104.18.31.232] [cloudflare] [5.158305644s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://tt02.node.fastnear.com [200] [] [976] [Welcome to nginx!] [cloudflare] [104.18.31.232] [cloudflare] [8.363412656s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.formation.so [200] [] [47653] [Formation] [cloudflare] [104.21.33.70] [cloudflare] [1.047231237s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://x.api.fastnear.com [200] [] [22087] [FASTNEAR API] [cloudflare] [104.18.30.232] [cloudflare] [5.367009282s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 301
+http://122.rpc.fastnear.com [301] [https://122.rpc.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [9.335449ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://145.rpc.fastnear.com [301] [https://145.rpc.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [11.516796ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://api-x.fastnear.com [301] [https://api-x.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [12.668975ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://api.remote.fastnear.com [301] [https://api.remote.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [3.026284408s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://api.fastnear.com [301] [https://api.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [4.0258085s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://archival-rpc.testnet.fastnear.com [301] [https://archival-rpc.testnet.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [3.030815146s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://builder-docs.fastnear.com [301] [https://builder-docs.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [4.031421921s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://explorer.fastnear.com [301] [https://near.rocks/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.232] [cloudflare] [27.271919ms] [Cloudflare,HTTP/3]
+http://dm1a2.node.fastnear.com [301] [https://dm1a2.node.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [23.434824ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://dm1a0.node.fastnear.com [301] [https://dm1a0.node.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.31.232] [cloudflare] [4.037571398s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://dm2a3.node.fastnear.com [301] [https://dm2a3.node.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [2.023547289s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://dmf7.node.fastnear.com [301] [https://dmf7.node.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [9.566386ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://docs.fastnear.com [301] [https://docs.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.31.232] [cloudflare] [4.021176629s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://external-dns.fastnear.com [301] [https://external-dns.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [2.019541374s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://gonative.cc [301] [https://gonative.cc/] [162] [301 Moved Permanently] [nginx] [99.83.190.102] [5.281296ms] [Nginx]
+http://g03.click.fastnear.com [301] [https://g03.click.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [3.017935173s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://grafana.fastnear.com [301] [https://grafana.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.31.232] [cloudflare] [2.024157463s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://test.rpc.fastnear.com [301] [https://test.rpc.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.31.232] [cloudflare] [2.030774977s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://tt01.node.fastnear.com [301] [https://tt01.node.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [1.06732332s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://tt02.click.fastnear.com [301] [https://tt02.click.fastnear.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.31.232] [cloudflare] [5.03375862s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://admin.status.fastnear.com [302] [/status/main] [34] [cloudflare] [104.18.30.232] [cloudflare] [3.37009539s] [Cloudflare,HTTP/3]
+https://status.fastnear.com [302] [/status/main] [34] [cloudflare] [104.18.30.232] [cloudflare] [2.360881747s] [Cloudflare,HTTP/3]
+
+## 307
+
+## 308
+
+## 401
+https://111.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [61.178024ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://120.rpc.fastnear.com [401] [] [951] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [59.754923ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://119.rpc.fastnear.com [401] [] [951] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [59.534651ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://105.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [394.43586ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://113.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [227.139961ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://123.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [349.327933ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://121.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [393.723429ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://142.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [781.710176ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://141.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [849.152458ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://144.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [846.853405ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://85.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [2.395753335s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://96.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [355.722723ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://86.rpc.fastnear.com [401] [] [951] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [5.358542843s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://95.rpc.fastnear.com [401] [] [951] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [6.352656748s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://i03.node.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [2.40508763s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://i02.node.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [7.355675374s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://i10.node.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [6.400731777s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ma01.node.fastnear.com [401] [] [951] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [394.848811ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://m02.node.fastnear.com [401] [] [951] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [4.405169295s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://m03.node.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [4.357349729s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ma08.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [3.278598599s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ma07.rpc.fastnear.com [401] [] [951] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [4.04293628s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://t04.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [359.150506ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://t05.rpc.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [1.391426244s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ta01.node.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [393.226512ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ta02.node.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [3.358901574s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ti04.node.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.30.232] [cloudflare] [2.392040959s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ti07.node.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [3.365384199s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ti08.node.fastnear.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.18.31.232] [cloudflare] [5.365030855s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 403
+http://c2.rpc.fastnear.com [403] [] [4906] [Attention Required! | Cloudflare] [cloudflare] [104.18.31.232] [cloudflare] [3.022699703s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://hot.rpc.fastnear.com [403] [] [4906] [Attention Required! | Cloudflare] [cloudflare] [104.18.30.232] [cloudflare] [1.032724371s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mw-test.rpc.fastnear.com [403] [] [4906] [Attention Required! | Cloudflare] [cloudflare] [104.18.30.232] [cloudflare] [1.033632558s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mw.rpc.fastnear.com [403] [] [4906] [Attention Required! | Cloudflare] [cloudflare] [104.18.30.232] [cloudflare] [5.034521424s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 404
+https://03.metrics.fastnear.com [404] [] [514] [404 Not Found] [cloudflare] [104.18.30.232] [cloudflare] [233.050712ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://01.metrics.fastnear.com [404] [] [523] [404 Not Found] [cloudflare] [104.18.30.232] [cloudflare] [360.709113ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://02.metrics.fastnear.com [404] [] [925] [404 Not Found] [cloudflare] [104.18.30.232] [cloudflare] [861.285999ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://api.berry.fastnear.com [404] [] [0] [cloudflare] [104.18.31.232] [cloudflare] [1.393222361s] [Cloudflare,HTTP/3]
+https://api.outlayer.fastnear.com [404] [] [50] [cloudflare] [104.18.31.232] [cloudflare] [5.367228876s] [Cloudflare,HTTP/3]
+https://inf.main.fastnear.com [404] [] [0] [cloudflare] [104.18.31.232] [cloudflare] [1.40195822s] [Cloudflare,HTTP/3]
+https://js.cdn.fastnear.com [404] [] [0] [cloudflare] [104.18.30.232] [cloudflare] [3.069324369s] [Cloudflare,HTTP/3]
+https://testnet-api.outlayer.fastnear.com [404] [] [50] [cloudflare] [104.18.31.232] [cloudflare] [5.364948259s] [Cloudflare,HTTP/3]
+https://wallet-adapter.fastnear.com [404] [] [0] [cloudflare] [104.18.31.232] [cloudflare] [7.074343457s] [Cloudflare,HTTP/3]
+
+## 500
+
+## 502
+https://bitcoin-devnet.gonative.cc [502] [] [0] [Caddy] [142.93.46.134] [6.351333658s] [Caddy,HTTP/3]
+https://chat.fastnear.com [502] [] [16] [cloudflare] [104.18.30.232] [cloudflare] [4.403461588s] [Cloudflare,HTTP/3]
+
+## 503
+
