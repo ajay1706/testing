@@ -1,0 +1,3 @@
+[github-takeover] [http] [high] https://config.kaia.io ["kaiachain.github.io"]
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://metrics.solana.com/api/search?type=dash-db
+[wix-takeover] [http] [high] https://cal.confluxnetwork.org ["www160.wixdns.net"]
