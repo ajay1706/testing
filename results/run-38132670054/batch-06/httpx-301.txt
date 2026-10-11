@@ -1,0 +1,8 @@
+https://developer.kaia.io [301] [https://kaia.io:443/developers] [134] [301 Moved Permanently] [awselb/2.0] [3.34.229.41] [901.713051ms] [Amazon ELB,Amazon Web Services]
+https://faucet.kaia.io [301] [https://kaia.io:443/faucet] [134] [301 Moved Permanently] [awselb/2.0] [52.79.136.29] [900.732866ms] [Amazon ELB,Amazon Web Services]
+https://kaia.io [301] [https://www.kaia.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [205.574814ms] [Cloudflare,HSTS,HTTP/3]
+https://ide.kaia.io [301] [https://remix.ethereum.org:443/?#activate=klaytn-remix-plugin,fileManager] [134] [301 Moved Permanently] [awselb/2.0] [3.34.229.41] [851.855982ms] [Amazon ELB,Amazon Web Services]
+http://lumia.org [301] [https://lumia.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.46.244] [cloudflare] [5.048149791s] [Cloudflare,HTTP/3]
+http://mev.node.kaia.io [301] [https://mev.node.kaia.io:443/] [0] [] [34.49.247.173] [google] [4.118962062s]
+http://save.meanwhile.bm [301] [https://save.meanwhile.bm/] [167] [301 Moved Permanently] [CloudFront] [52.85.193.71] [cloudfront] [4.061003868s] [Amazon CloudFront,Amazon Web Services]
+https://www.meanwhile.bm [301] [https://meanwhile.bm/] [0] [] [3.170.19.16] [cloudfront] [4.230759939s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
