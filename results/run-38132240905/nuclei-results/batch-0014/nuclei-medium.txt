@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://api-stage.realm.micro1.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-staging.merit.micro1.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.merit.micro1.ai/metrics

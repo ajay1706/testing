@@ -1,0 +1,19 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.bespokelabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.bespokelabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.cua.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.cua.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[python-metrics] [http] [low] https://api-stage.realm.micro1.ai/metrics
+[python-metrics] [http] [low] https://api-staging.merit.micro1.ai/metrics
+[python-metrics] [http] [low] https://api.merit.micro1.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-stage.realm.micro1.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-staging.merit.micro1.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.merit.micro1.ai/metrics
+[expired-ssl] [ssl] [low] api-internal.dla-ext.azure.workspace.egp.scale.com:443 ["2026-09-11 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] api-staging.merit.micro1.ai:443 ["2026-10-11 04:39:39 +0000 UTC"]
+[expired-ssl] [ssl] [low] api.ai-search.micro1.ai:443 ["2026-06-29 10:14:52 +0000 UTC"]
+[expired-ssl] [ssl] [low] api.captions.micro1.ai:443 ["2025-12-08 10:38:58 +0000 UTC"]
+[expired-ssl] [ssl] [low] api.demo.azure.workspace.egp.scale.com:443 ["2026-09-11 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] api.dla-ext.azure.workspace.egp.scale.com:443 ["2026-09-11 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] api.demo-agentic-rhea.micro1.ai:443 ["2026-09-16 14:23:27 +0000 UTC"]
+[expired-ssl] [ssl] [low] api.kairo.micro1.ai:443 ["2026-10-02 17:46:06 +0000 UTC"]
+[expired-ssl] [ssl] [low] api.mayo-ext.azure.workspace.egp.scale.com:443 ["2025-11-09 23:59:59 +0000 UTC"]
