@@ -1,0 +1,2 @@
+https://email.famousfoxes.com [302] [https://email.secureserver.net:443/auth] [471] [302 Found] [cloudflare] [172.67.70.164] [cloudflare] [363.938295ms] [Cloudflare,Cloudflare Browser Insights]
+https://staging.horizon.halluminate.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.horizon.halluminate.ai%2F&nonce=3dca9909147c79e8d3e333b0f65ce92e2188980e6bfcefcf5990c4c5c1813b3a] [263] [Vercel] [64.239.109.65] [688.824607ms] [HSTS,Vercel]

@@ -1,0 +1,90 @@
+# HTTPX Status Report
+
+Generated at: Sun Oct 11 10:36:04 UTC 2026
+
+HTTPX lines: 62
+Live URLs: 62
+
+## 200
+https://aa.halluminate.ai [200] [] [673] [Halluminate American Airlines] [Vercel] [64.239.123.65] [178.923408ms] [HSTS,Vercel]
+https://fortuna.famousfoxes.com [200] [] [2276] [Fortuna - By Famous Fox Federation] [cloudflare] [172.67.70.161] [cloudflare] [161.933126ms] [Cloudflare,Cloudflare Browser Insights]
+https://emulated.so [200] [] [12525] [Emulated] [Vercel] [216.198.79.1] [89.386411ms] [HSTS,Vercel]
+https://ibrokeprod.halluminate.ai [200] [] [4949] [Days Since Last Prod Incident] [Vercel] [216.150.16.1] [181.745881ms] [HSTS,Vercel]
+https://aptos.famousfoxes.com [200] [] [1022] [Famous Fox Federation] [cloudflare] [172.67.70.161] [cloudflare] [359.130956ms] [Cloudflare,Cloudflare Browser Insights]
+https://auction.famousfoxes.com [200] [] [1445] [Rafffle | Powered by Famous Fox Federation] [cloudflare] [104.26.9.55] [cloudflare] [391.258337ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://famousfoxes.com [200] [] [1085] [cloudflare] [172.67.70.169] [cloudflare] [340.873376ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://beta.famousfoxes.com [200] [] [1445] [Rafffle | Powered by Famous Fox Federation] [cloudflare] [104.26.8.55] [cloudflare] [376.203369ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://kayak.halluminate.ai [200] [] [726] [Halluminate Kayak Environment] [Vercel] [64.239.109.1] [364.106172ms] [HSTS,Vercel]
+https://ffflip.famousfoxes.com [200] [] [2006] [cloudflare] [172.67.70.161] [cloudflare] [474.528928ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://citrus.famousfoxes.com [200] [] [2969] [Citrus | Solana NFT Lending] [cloudflare] [104.26.9.55] [cloudflare] [474.061747ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,jsDelivr]
+https://grounding-env.halluminate.ai [200] [] [14096] [Halluminate Grounding Environment] [Vercel] [64.239.109.1] [350.150719ms] [HSTS,Vercel]
+https://mission.famousfoxes.com [200] [] [3363] [A New Mission] [cloudflare] [172.67.70.164] [cloudflare] [655.158124ms] [Cloudflare,Cloudflare Browser Insights]
+https://rafffle.famousfoxes.com [200] [] [1445] [Rafffle | Powered by Famous Fox Federation] [cloudflare] [172.67.70.168] [cloudflare] [599.034175ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://delta.halluminate.ai [200] [] [37096] [Halluminate Delta Environment] [Vercel] [64.239.109.1] [198.872296ms] [HSTS,Vercel]
+https://ebay.halluminate.ai [200] [] [27101] [Halluminate Environment] [Vercel] [64.239.109.1] [390.678486ms] [HSTS,Vercel]
+https://hipcamp.halluminate.ai [200] [] [37073] [Halluminate Hipcamp Environment] [Vercel] [64.239.123.1] [411.827045ms] [HSTS,Vercel]
+https://flights.halluminate.ai [200] [] [10491] [Halluminate Flights] [Vercel] [64.239.109.65] [876.243234ms] [HSTS,Vercel]
+https://captcha-env.halluminate.ai [200] [] [53162] [Secure Contact Form - Cloudflare Protected] [Vercel] [64.239.109.1] [331.635016ms] [HSTS,Vercel]
+https://auth-env.halluminate.ai [200] [] [36617] [Halluminate Authentication Environment] [Vercel] [64.239.109.1] [747.811771ms] [HSTS,Vercel]
+https://marriott.halluminate.ai [200] [] [17001] [Halluminate Marriott Environment] [Vercel] [64.239.109.65] [408.970587ms] [HSTS,Vercel]
+https://good-buy.halluminate.ai [200] [] [40135] [Halluminate Environment] [Vercel] [64.239.109.1] [341.992455ms] [HSTS,Vercel]
+https://momondo.halluminate.ai [200] [] [34683] [Halluminate Momondo Environment] [Vercel] [64.239.109.193] [348.214596ms] [HSTS,Vercel]
+https://skyscanner.halluminate.ai [200] [] [27135] [Halluminate SkyScanner Environment] [Vercel] [64.239.109.193] [485.788861ms] [HSTS,Vercel]
+https://azora.halluminate.ai [200] [] [60616] [Halluminate] [Vercel] [64.239.109.1] [341.184806ms] [HSTS,Vercel]
+https://superbowl.famousfoxes.com [200] [] [9534] [BONKsquares] [cloudflare] [172.67.70.161] [cloudflare] [747.854084ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://megamart.halluminate.ai [200] [] [44199] [Halluminate Environment] [Vercel] [64.239.123.129] [586.692921ms] [HSTS,Vercel]
+https://www.famousfoxes.com [200] [] [1085] [cloudflare] [172.67.70.161] [cloudflare] [438.164338ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://united.halluminate.ai [200] [] [22611] [Halluminate United Airlines Environment] [Vercel] [64.239.123.65] [466.689447ms] [HSTS,Vercel]
+https://trust.halluminate.ai [200] [] [7593] [Halluminate Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [879.668649ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://google-shopping.halluminate.ai [200] [] [105013] [Halluminate Shopping Environment] [Vercel] [64.239.123.65] [236.356356ms] [HSTS,Vercel]
+https://travelpedia.halluminate.ai [200] [] [22276] [Halluminate | Travelpedia] [Vercel] [64.239.123.129] [743.988189ms] [HSTS,Vercel]
+https://www.halluminate.ai [200] [] [17772] [Home | Halluminate] [Vercel] [64.239.109.1] [254.822756ms] [HSTS,Vercel,Vercel Analytics]
+https://horizon.halluminate.ai [200] [] [227567] [Horizon] [Vercel] [64.239.123.1] [142.415629ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://raffle.famousfoxes.com [301] [https://rafffle.famousfoxes.com/] [528] [301 Moved Permanently] [cloudflare] [172.67.70.169] [cloudflare] [314.890938ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 302
+https://email.famousfoxes.com [302] [https://email.secureserver.net:443/auth] [471] [302 Found] [cloudflare] [172.67.70.164] [cloudflare] [363.938295ms] [Cloudflare,Cloudflare Browser Insights]
+https://staging.horizon.halluminate.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.horizon.halluminate.ai%2F&nonce=3dca9909147c79e8d3e333b0f65ce92e2188980e6bfcefcf5990c4c5c1813b3a] [263] [Vercel] [64.239.109.65] [688.824607ms] [HSTS,Vercel]
+
+## 307
+https://halluminate.ai [307] [https://www.halluminate.ai/] [15] [Vercel] [216.150.1.1] [75.314865ms] [HSTS,Vercel]
+https://greenhouse-databricks-solutions-architect.halluminate.ai [307] [/trace3/jobs/6709420] [4753] [Job Application for Solutions Architect | Databricks/Microsoft Fabric (Remote)] [Vercel] [64.239.123.65] [234.774381ms] [HSTS,Vercel]
+https://experts.halluminate.ai [307] [https://halluminate.ai/experts] [9778] [Halluminate — Train financial superintelligence] [Vercel] [64.239.109.193] [301.296666ms] [HSTS,Vercel]
+https://datasets.emulated.so [307] [/login?next=%2F] [15] [Vercel] [216.150.16.193] [1.577777605s] [HSTS,Vercel]
+https://samples.emulated.so [307] [/login?next=%2F] [15] [Vercel] [216.150.16.1] [1.338051614s] [HSTS,Vercel]
+
+## 308
+
+## 401
+https://fortuna-stg.famousfoxes.com [401] [] [549] [401 Authorization Required] [cloudflare] [104.26.8.55] [cloudflare] [76.250575ms] [Basic,Cloudflare,Cloudflare Browser Insights]
+https://admin.halluminate.ai [401] [] [15282] [Password Protected] [Vercel] [64.239.109.193] [193.392323ms] [HSTS,Vercel]
+https://environments.halluminate.ai [401] [] [15282] [Password Protected] [Vercel] [64.239.109.129] [211.6791ms] [HSTS,Vercel]
+https://rafffle-stg.famousfoxes.com [401] [] [540] [401 Authorization Required] [cloudflare] [104.26.9.55] [cloudflare] [647.483925ms] [Basic,Cloudflare,Cloudflare Browser Insights]
+https://stg.famousfoxes.com [401] [] [540] [401 Authorization Required] [cloudflare] [172.67.70.166] [cloudflare] [596.690105ms] [Basic,Cloudflare,Cloudflare Browser Insights]
+https://linkedin.halluminate.ai [401] [] [15282] [Password Protected] [Vercel] [64.239.123.129] [1.35172579s] [HSTS,Vercel]
+
+## 403
+https://cdn.famousfoxes.com [403] [] [523] [403 Forbidden] [cloudflare] [172.67.70.169] [cloudflare] [72.687471ms] [Cloudflare,Cloudflare Browser Insights]
+https://3dstorage.famousfoxes.com [403] [] [4912] [Attention Required! | Cloudflare] [cloudflare] [172.67.70.160] [cloudflare] [53.437368ms] [Cloudflare,Cloudflare Browser Insights]
+https://dens.famousfoxes.com [403] [] [514] [403 Forbidden] [cloudflare] [172.67.70.169] [cloudflare] [235.302547ms] [Cloudflare,Cloudflare Browser Insights]
+https://rpc2.famousfoxes.com [403] [] [21] [cloudflare] [172.67.70.166] [cloudflare] [329.26922ms] [Cloudflare]
+
+## 404
+https://collab.halluminate.ai [404] [] [9] [] [54.157.251.107] [40.410475ms] [Amazon ALB,Amazon Web Services]
+https://identity-photos.halluminate.ai [404] [] [22] [Caddy BaseHTTP/0.6 Python/3.9.25] [52.6.96.222] [51.249839ms] [HTTP/3,Python:3.9.25]
+https://ipfs.famousfoxes.com [404] [] [9] [cloudflare] [104.26.8.55] [cloudflare] [169.172055ms] [Cloudflare]
+https://images.famousfoxes.com [404] [] [916] [404 Not Found] [cloudflare] [172.67.70.160] [cloudflare] [474.488091ms] [Cloudflare,Cloudflare Browser Insights]
+https://raffletxnhist.famousfoxes.com [404] [] [13] [cloudflare] [172.67.70.166] [cloudflare] [144.024007ms] [Cloudflare]
+https://pe-sample.halluminate.ai [404] [] [107] [Vercel] [216.150.16.193] [622.015543ms] [HSTS,Vercel]
+https://yutori.expedia.halluminate.ai [404] [] [107] [Vercel] [64.239.123.1] [337.076047ms] [HSTS,Vercel]
+
+## 500
+https://rpc.famousfoxes.com [500] [] [58] [cloudflare] [172.67.70.166] [cloudflare] [161.157059ms] [Cloudflare]
+
+## 502
+
+## 503
+https://japan-airlines.halluminate.ai [503] [] [99] [Vercel] [64.239.123.1] [433.313869ms] [HSTS,Vercel]
+
