@@ -1,0 +1,2 @@
+[expired-ssl] [ssl] [low] 90000012.azure.workspace.egp.scale.com:443 ["2026-06-17 15:13:47 +0000 UTC"]
+[expired-ssl] [ssl] [low] 90041516.azure.workspace.egp.scale.com:443 ["2025-07-14 22:53:51 +0000 UTC"]
