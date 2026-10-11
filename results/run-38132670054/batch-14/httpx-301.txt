@@ -1,0 +1,3 @@
+http://faucet.testnet.z.cash [301] [https://faucet.testnet.z.cash:443/] [0] [cloudflare] [104.20.24.177] [cloudflare] [46.80548ms] [Cloudflare]
+http://staging2.z.cash [301] [https://staging2.z.cash/] [0] [cloudflare] [104.20.24.177] [cloudflare] [648.880755ms] [Algolia,Cloudflare,SiteGround]
+https://www.z.cash [301] [https://z.cash/] [0] [cloudflare] [104.20.24.177] [cloudflare] [1.530608223s] [Algolia,Cloudflare,HSTS,SiteGround]
