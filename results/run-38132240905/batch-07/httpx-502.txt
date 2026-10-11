@@ -1,0 +1,2 @@
+https://api.mars.micro1.ai [502] [] [157] [502 Bad Gateway] [nginx/1.26.3] [13.219.15.245] [3.019588012s] [Nginx:1.26.3]
+https://gpt-vetting-feedbacks.micro1.ai [502] [] [157] [502 Bad Gateway] [nginx/1.24.0] [44.212.122.178] [5.022988576s] [Nginx:1.24.0]
