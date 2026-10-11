@@ -1,0 +1,5 @@
+https://blog.routable.com [301] [http://routable.com/blog/] [0] [AmazonS3] [18.238.96.68] [cloudfront] [132.362729ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://autodiscover.sharex.network [301] [https://autodiscover.sharex.network/] [0] [Microsoft-HTTPAPI/2.0] [52.96.166.168] [37.48957ms] [Microsoft HTTPAPI:2.0]
+https://deck.sharex.network [301] [https://docsend.com/view/eh8zgtgg32ma33md] [76] [ip-10-124-4-136.us-west-2.compute.internal] [15.197.225.128] [346.555481ms]
+https://quantus.com [301] [https://www.quantus.com/] [534] [301 Moved Permanently] [cloudflare] [104.21.85.20] [cloudflare] [66.363326ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://sharex.network [301] [https://www.sharex.network] [61] [ip-10-124-5-234.us-west-2.compute.internal] [15.197.225.128] [310.622557ms]
