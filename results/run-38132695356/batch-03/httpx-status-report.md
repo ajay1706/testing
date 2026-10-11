@@ -1,0 +1,71 @@
+# HTTPX Status Report
+
+Generated at: Sun Oct 11 10:41:36 UTC 2026
+
+HTTPX lines: 42
+Live URLs: 42
+
+## 200
+https://pool.xverse.app [200] [] [1712] [Xverse Pool - The easiest way to earn Bitcoin through Stacking] [Netlify] [18.208.88.157] [308.500527ms] [HSTS,Netlify]
+https://api-checkout.xverse.app [200] [] [15327] [Xverse API Checkout] [Netlify] [98.84.224.111] [740.105411ms] [HSTS,Netlify]
+https://portfolio.xverse.app [200] [] [70785] [Xverse Portfolio: Seamlessly Track, Analyze & Manage Your Bitcoin Assets] [] [34.8.108.70] [google] [180.360676ms] [Google Cloud,Google Cloud CDN,HSTS,Next.js,Node.js,React,Webpack]
+https://www.xverse.app [200] [] [64150] [Xverse – The Sovereign Onchain Bank & Bitcoin Wallet] [cloudflare] [198.202.211.1] [179.025247ms] [Cloudflare,Google Analytics,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Optibase,jQuery:3.5.1,jsDelivr]
+https://docs.xverse.app [200] [] [651523] [Xverse Developer Documentation | xverse] [cloudflare] [172.64.147.209] [cloudflare] [322.66585ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+https://xverse.app [301] [https://www.xverse.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [224.018742ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://brc20.xverse.app [302] [https://portfolio.xverse.app] [138] [302 Found] [] [34.144.219.36] [google] [259.324613ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://connect.xverse.app [302] [https://www.xverse.app/] [145] [302 Found] [] [34.144.219.36] [google] [316.915553ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://portfolio-staging.xverse.app [302] [https://portfolio.xverse.app/] [138] [302 Found] [] [34.8.108.70] [google] [129.198794ms] [Google Cloud,Google Cloud CDN,HSTS]
+https://wallet.xverse.app [302] [https://portfolio.xverse.app/] [138] [302 Found] [] [34.8.108.70] [google] [168.909035ms] [Google Cloud,Google Cloud CDN,HSTS]
+https://support.xverse.app [302] [https://support.xverse.app/hc] [0] [cloudflare] [216.198.54.6] [416.979707ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+
+## 307
+https://api-dashboard.xverse.app [307] [/login] [6] [] [34.144.219.36] [google] [184.390592ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://api-testnet4.xverse.app [307] [https://api-signet.xverse.app/] [0] [] [34.54.28.208] [google] [191.436271ms] [HTTP/3]
+https://ord-testnet4.xverse.app [307] [https://ord-signet.xverse.app/] [0] [] [34.54.28.208] [google] [197.739715ms] [HTTP/3]
+
+## 308
+
+## 401
+https://portfolio-staging-x.xverse.app [401] [] [172] [401 Authorization Required] [] [34.8.108.70] [google] [183.328854ms] [Basic,Google Cloud,Google Cloud CDN,HSTS]
+
+## 403
+
+## 404
+https://api-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [198.837701ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://api-3.xverse.app [404] [] [80] [] [34.144.219.36] [google] [205.611316ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://btc-9.xverse.app [404] [] [27] [] [34.144.219.36] [google] [213.992357ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://due-webhook.xverse.app [404] [] [21] [] [34.144.219.36] [google] [212.655004ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://btc-1.xverse.app [404] [] [27] [] [34.144.219.36] [google] [222.100568ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://inscribe-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [241.59133ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://api-2.xverse.app [404] [] [80] [] [34.144.219.36] [google] [253.20034ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://api.xverse.app [404] [] [80] [] [34.144.219.36] [google] [254.476249ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://due-webhook-signet.xverse.app [404] [] [21] [] [34.49.192.207] [google] [272.372921ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://k8s-signet.xverse.app [404] [] [21] [] [34.49.192.207] [google] [201.345119ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://ord-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [190.297351ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://ord.xverse.app [404] [] [80] [] [34.144.219.36] [google] [217.550208ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://inscribe.xverse.app [404] [] [80] [] [34.144.219.36] [google] [453.122982ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://btc-signet.xverse.app [404] [] [27] [] [34.49.192.207] [google] [487.759427ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://ordinals.xverse.app [404] [] [80] [] [34.144.219.36] [google] [274.000108ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://k8s.xverse.app [404] [] [21] [] [34.144.219.36] [google] [364.938912ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://wallet-signet.xverse.app [404] [] [21] [] [34.49.192.207] [google] [186.054547ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+https://inscribe-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [187.620501ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://btc-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [190.150096ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://inscribegpt.xverse.app [503] [] [190] [503 Service Temporarily Unavailable] [] [34.144.219.36] [google] [261.186807ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://due-webhook-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [274.850152ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api-dashboard-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [286.462214ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://k8s-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [154.098365ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://ordinals-signet.xverse.app [503] [] [190] [503 Service Temporarily Unavailable] [] [34.49.192.207] [google] [233.57892ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://ordinals-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [372.448119ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://stx20.xverse.app [503] [] [190] [503 Service Temporarily Unavailable] [] [34.144.219.36] [google] [336.532142ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://wallet-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [158.296665ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
