@@ -1,0 +1,4 @@
+https://00111212.azure.workspace.egp.scale.com [502] [] [1313] [Service unavailable] [] [150.171.110.3] [219.640225ms] [Azure,Azure Front Door,HSTS]
+https://agentex.hhc.azure.workspace.egp.scale.com [502] [] [1602] [Service unavailable] [] [150.171.109.183] [352.147876ms] [Azure,Azure Front Door]
+https://chat.hhc.azure.workspace.egp.scale.com [502] [] [1602] [Service unavailable] [] [150.171.109.183] [488.918701ms] [Azure,Azure Front Door]
+https://gafg-ext.azure.workspace.egp.scale.com [502] [] [1313] [Service unavailable] [] [150.171.110.195] [198.491712ms] [Azure,Azure Front Door,HSTS]
