@@ -1,0 +1,5 @@
+[CVE-2024-46310] [http] [medium] https://log-02.click.fastnear.com/players.json
+[CVE-2024-46310] [http] [medium] https://log-01.click.fastnear.com/players.json
+[CVE-2024-46310] [http] [medium] https://log-04.click.fastnear.com/players.json
+[CVE-2024-46310] [http] [medium] https://logs.click.fastnear.com/players.json
+[CVE-2026-27454] [http] [medium] https://kir.kaia.io/posts/1123.json?version=1
