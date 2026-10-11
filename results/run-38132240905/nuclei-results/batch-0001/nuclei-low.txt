@@ -1,0 +1,6 @@
+[fastly-debug-headers:fastly-debug-path] [http] [low] http://auth.data.mercor.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] http://auth.data.mercor.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] http://auth.data.mercor.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] http://cua-arena.turing.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] http://cua-arena.turing.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] http://cua-arena.turing.com
