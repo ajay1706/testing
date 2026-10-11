@@ -1,0 +1,5 @@
+[CVE-2026-27454] [http] [medium] https://forum.anvil.xyz/posts/256.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.solana.com/posts/6713.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.z.cash/posts/257197.json?version=1
+[CVE-2026-27454] [http] [medium] https://govforum.kaia.io/posts/2456.json?version=1
+[CVE-2026-27454] [http] [medium] https://governance.usd.ai/posts/40.json?version=1
