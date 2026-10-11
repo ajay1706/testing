@@ -1,0 +1,2 @@
+http://devnet-rest.bitway.com [301] [https://devnet-rest.bitway.com/] [534] [301 Moved Permanently] [cloudflare] [172.67.187.114] [cloudflare] [16.797784ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://devnet-rpc.bitway.com [301] [https://devnet-rpc.bitway.com/] [534] [301 Moved Permanently] [cloudflare] [104.21.40.167] [cloudflare] [23.904728ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]

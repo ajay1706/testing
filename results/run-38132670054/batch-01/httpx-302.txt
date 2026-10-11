@@ -1,0 +1,3 @@
+https://asterdex.com [302] [https://www.asterdex.com/] [138] [302 Found] [] [65.8.54.69] [cloudfront] [457.197263ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://preview.backable.biz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fpreview.backable.biz%2F&nonce=aa9358d917e6e63f74919c9f6af56c40a436a1a64ce02e293146716547b49306] [263] [cloudflare] [104.26.10.233] [cloudflare] [275.585133ms] [Cloudflare,HSTS,Vercel]
+https://www.asterdex.com [302] [/en] [3] [] [65.8.54.74] [cloudfront] [506.415215ms] [Amazon CloudFront,Amazon Web Services,HSTS]

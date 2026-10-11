@@ -1,0 +1,14 @@
+[+] Batch started: Sun Oct 11 10:40:11 UTC 2026
+[+] Run ID: 38132670054
+[+] Batch name: batch-01
+[+] Batch targets:
+asterdex.com
+backable.biz
+bitway.com
+[+] Running subfinder...
+[+] Subfinder completed: Sun Oct 11 10:43:59 UTC 2026
+[+] HTTPX input count: 113
+[+] Running httpx...
+[+] httpx completed: Sun Oct 11 10:44:20 UTC 2026
+[+] httpx line count: 34
+[+] Batch completed: Sun Oct 11 10:44:20 UTC 2026

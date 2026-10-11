@@ -1,0 +1,6 @@
+https://fstream.asterdex.com [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [18.173.121.114] [cloudfront] [43.418657ms] [Amazon CloudFront,Amazon Web Services]
+https://fapi.asterdex.com [403] [] [6892] [] [65.8.54.36] [cloudfront] [128.594577ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://grpc.bitway.com [403] [] [1647] [cloudflare] [172.67.187.114] [cloudflare] [507.398367ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://static.asterdex.com [403] [] [111] [AmazonS3] [13.249.74.108] [cloudfront] [380.878381ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://rest.bitway.com [403] [] [1647] [cloudflare] [104.21.40.167] [cloudflare] [479.314172ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://rpc.bitway.com [403] [] [1647] [cloudflare] [172.67.187.114] [cloudflare] [545.396289ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
