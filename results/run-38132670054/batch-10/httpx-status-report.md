@@ -1,0 +1,139 @@
+# HTTPX Status Report
+
+Generated at: Sun Oct 11 10:53:17 UTC 2026
+
+HTTPX lines: 111
+Live URLs: 111
+
+## 200
+https://blockbook.pearlresearch.ai [200] [] [4657] [Trezor Pearl Explorer] [] [136.69.18.254] [google] [110.021966ms] [Bootstrap:5.2.2,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://blockbook.internal.pearlresearch.ai [200] [] [4662] [Trezor Pearl Testnet Explorer] [] [136.68.192.166] [google] [280.421362ms] [Bootstrap:5.2.2,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://blockbook.internal-mainnet.pearlresearch.ai [200] [] [4657] [Trezor Pearl Explorer] [] [34.132.131.85] [google] [286.00057ms] [Bootstrap:5.2.2,HSTS]
+https://docs.papertrade.xyz [200] [] [2523] [Papertrade Docs] [cloudflare] [172.66.40.116] [cloudflare] [85.987352ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://blockbook.testnet.pearlresearch.ai [200] [] [4689] [Trezor Pearl Testnet2 Explorer] [] [34.107.185.250] [google] [387.456631ms] [Bootstrap:5.2.2,Google Cloud,Google Cloud CDN,HTTP/3]
+https://auth.platform.pearlresearch.ai [200] [] [2] [cloudflare] [172.64.152.23] [cloudflare] [480.384384ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://compute.pearlresearch.ai [200] [] [42676] [Pearl Compute Platform] [] [136.69.18.254] [google] [256.532138ms] [Adobe Fonts,Google Cloud,Google Cloud CDN,HTTP/3,Next.js,Node.js,React,Typekit,UserWay,Webpack]
+https://garments.papertrade.xyz [200] [] [8135] [papertrouser_ · papertrade] [cloudflare] [172.66.43.140] [cloudflare] [173.189256ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://betastudio.polymath.network [200] [] [3228] [Polymath] [cloudflare] [104.21.32.3] [cloudflare] [788.295125ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HTTP/3,Netlify,Zendesk]
+https://mcg-canary.internal.pearlresearch.ai [200] [] [345] [Werkzeug/3.1.3 Python/3.13.0] [136.68.192.166] [google] [161.798149ms] [Flask:3.1.3,Google Cloud,Google Cloud CDN,HTTP/3,Python:3.13.0]
+https://eth-tokenstudio.polymath.network [200] [] [3229] [Polymath] [cloudflare] [172.67.181.228] [cloudflare] [729.304354ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HTTP/3,Netlify,Zendesk]
+https://papertrade.xyz [200] [] [3749] [Papertrade — Synthetic perpetuals on Hyperliquid] [cloudflare] [172.66.40.116] [cloudflare] [98.264966ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://costcalc.polymath.network [200] [] [15352] [Polymath Capital Platform — Cost Calculator] [cloudflare] [185.158.133.1] [1.086271409s] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://pearlresearch.ai [200] [] [101295] [Pearl Research Labs - Making Inference Smarter] [] [136.69.18.254] [google] [180.951019ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,UserWay]
+https://arkohomes.polymath.network [200] [] [74361] [Arko Homes | Resilient Affordable Homes in Barbados] [cloudflare] [185.158.133.1] [1.527399505s] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://confidential.polymath.network [200] [] [40997] [Confidential Assets — Enterprise Infrastructure & Packages] [cloudflare] [185.158.133.1] [1.930021431s] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://kell-roadmap.polymath.network [200] [] [71975] [From Opportunity to Liquidity | Kell Kapital Partners] [cloudflare] [185.158.133.1] [1.404415308s] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://status.pearlresearch.ai [200] [] [35135] [Operational — Pearl Research Status] [AmazonS3] [18.155.173.21] [cloudfront] [473.826465ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Hugo:0.164.0]
+https://entoro-mackenzie.polymath.network [200] [] [132669] [Entoro × Polymath — Proposed Strategic Partnership] [cloudflare] [185.158.133.1] [1.652441486s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dibs.polymath.network [200] [] [109862] [From Relationships to Repeatable Revenue | Rich Dolan × DiBS × Polymath] [cloudflare] [185.158.133.1] [1.933836195s] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://trugolf.polymath.network [200] [] [44730] [Fund Your TruGolf Links Venue With Tokenization | Polymath] [cloudflare] [185.158.133.1] [1.09046951s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://filmfund.polymath.network [200] [] [183023] [One Fund. Two Ownership Experiences — Proposed $25M Film Finance Fund] [cloudflare] [185.158.133.1] [2.683956091s] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://stonehaven-phanes.polymath.network [200] [] [99611] [Phanes Fund II — The Digital Capital Formation Roadmap] [cloudflare] [185.158.133.1] [1.600159924s] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://professional.polymath.network [200] [] [83796] [Polymath Professional Services, Launch your tokenized capital raise] [cloudflare] [185.158.133.1] [3.188190436s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://transferagent.polymath.network [200] [] [46595] [Polymath for Transfer Agents | The Next Era of Transfer Agency] [cloudflare] [185.158.133.1] [4.217986093s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.pearlresearch.ai [200] [] [101295] [Pearl Research Labs - Making Inference Smarter] [] [136.69.18.254] [google] [3.130354919s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,UserWay]
+https://www.polymath.network [200] [] [235396] [Polymath | Tokenizing the Global Financial System] [cloudflare] [198.202.211.1] [4.113737883s] [Clipboard.js,Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Linkedin Ads,cdnjs,jQuery:3.5.1,jsDelivr]
+
+## 301
+http://autodiscover.polymath.network [301] [https://autodiscover.polymath.network/] [0] [Microsoft-HTTPAPI/2.0] [52.96.110.8] [30.475781ms] [Microsoft HTTPAPI:2.0]
+https://info.polymath.network [301] [https://www.polymath.network/] [534] [301 Moved Permanently] [cloudflare] [104.21.32.3] [cloudflare] [71.053542ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://polymath.network [301] [https://www.polymath.network/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [252.809868ms] [Cloudflare,HSTS,HTTP/3]
+https://tokenstudio.polymath.network [301] [https://portal.polymesh.network/] [167] [301 Moved Permanently] [cloudflare] [172.67.181.228] [cloudflare] [111.387118ms] [Cloudflare,HTTP/3]
+http://testnet-middleware.polymath.network [301] [https://testnet-middleware.polymath.network/] [534] [301 Moved Permanently] [cloudflare] [104.21.32.3] [cloudflare] [53.632539ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://testnet-polybridge.polymath.network [301] [https://testnet-polybridge.polymath.network/] [534] [301 Moved Permanently] [cloudflare] [104.21.32.3] [cloudflare] [36.78465ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://testnet-rewards.polymath.network [301] [https://testnet-rewards.polymath.network/] [534] [301 Moved Permanently] [cloudflare] [104.21.32.3] [cloudflare] [44.467249ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://admin.papertrade.xyz [302] [https://papertradexyz.cloudflareaccess.com/cdn-cgi/access/login/admin.papertrade.xyz?kid=27308e56e5a6ba029a9352e9709ccc2d07f871ec8d5cdf40bb9724a0ce7a234c&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEwZjljZTQwOTFiNzQ1ZGU0OWFhZDUyOGY0YjU5YjIxMDQyNDg2ODY1MjdhOGM0Y2FlMDhhNjViNmZmYTU5OWMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjI3MzA4ZTU2ZTVhNmJhMDI5YTkzNTJlOTcwOWNjYzJkMDdmODcxZWM4ZDVjZGY0MGJiOTcyNGEwY2U3YTIzNGMiLCJob3N0bmFtZSI6ImFkbWluLnBhcGVydHJhZGUueHl6IiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTE3MTYyNzUsIm5iZiI6MTc5MTcxNTk3NSwiaWF0IjoxNzkxNzE1OTc1LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiNTY4NWMxNzVjNTU0OTkyZWRiZWIzYmM4NWNiOGYzMWYyMWU1NjUxNjYwNmUxYmVkMjhjYjc2OTAzMGNjMjY0ZiJ9.W8mJgukkHnSvmBpeyAXVxQXnxNVjogQOtYhSthBXUFEyd9AC8noNKi_MPrPQRC7iJUPhMN_cTSxtEg4LiE_O1Vtoot4hgSADsU1hEDeMtK3np0Z6xE2bJstnfdgNkRzVpdrZg2EvOsROQYIzrgbYUKo_f2rY2Oxishu1Qr7f-M9z3-A-N2Dz0slvWVL_Qa31oRRZ7skqhyYFbswmIg-O0wpbdgND9B22wYeeO2d4SMiz57543-jTxSeEgW8HZNk8R3BJbn2abpkO-Obcsf4yzMDlcQ9a-028Ta0QieQx2B6QGKENPR0PPUFy1I9tdcVnSays2fPWmbrbBtB-v0rX6g&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.40.116] [cloudflare] [73.005592ms] [Cloudflare,Cloudflare Browser Insights]
+https://admin-sim.papertrade.xyz [302] [https://papertradexyz.cloudflareaccess.com/cdn-cgi/access/login/admin-sim.papertrade.xyz?kid=4751d6da7292280dcd781eb5bd5e86ed14be980b19e062d4b68c45845aab145d&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEwZjljZTQwOTFiNzQ1ZGU0OWFhZDUyOGY0YjU5YjIxMDQyNDg2ODY1MjdhOGM0Y2FlMDhhNjViNmZmYTU5OWMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjQ3NTFkNmRhNzI5MjI4MGRjZDc4MWViNWJkNWU4NmVkMTRiZTk4MGIxOWUwNjJkNGI2OGM0NTg0NWFhYjE0NWQiLCJob3N0bmFtZSI6ImFkbWluLXNpbS5wYXBlcnRyYWRlLnh5eiIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkxNzE2Mjc1LCJuYmYiOjE3OTE3MTU5NzUsImlhdCI6MTc5MTcxNTk3NSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6ImQxYmQ5OTE5ODNlZjczNjQwZjI4NTg0ZGY4YmU1MzA4MjBhYzczNzM4NzQ5NjRmMDE0ZmI4YzEyMTFkZWY2ZDYifQ.T5ve76eDi93VxNikehu4CvMQ9Us8gEmveWi2PJ51uw1bZU7tUECiKaxKRIWp52Mh1XasjeYftXiugc3osL80xZ7xwc6c-HliuN7V2EuMxG0F6zBUhBNT0_b5fRSuKow9K6AKG2sDQy56bHHSB1WZB7UvZEWVoKbC7o8KFTmC1dY2aRMVnqOZDltUjUQnDI4XLORfcSUkhZmD0pSdUY0kQESbv8lVse_EZ6LuabDBcHOfi_opHXqJCBG3cZzBbVhem4LbETv7gjXmuLiwNIoG9vZIvD1lPjs9W5jCu1N6HEJ0JesUJQoEFm5Obj8cLwZJMq0IHsA65a6s7_GpbdL9FA&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.40.116] [cloudflare] [85.684316ms] [Cloudflare,Cloudflare Browser Insights]
+https://admin-staging.papertrade.xyz [302] [https://papertradexyz.cloudflareaccess.com/cdn-cgi/access/login/admin-staging.papertrade.xyz?kid=71c7424784d791c3cd3de64a3fbb308215a00b6d319bef8c0038d8b43c0d7856&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEwZjljZTQwOTFiNzQ1ZGU0OWFhZDUyOGY0YjU5YjIxMDQyNDg2ODY1MjdhOGM0Y2FlMDhhNjViNmZmYTU5OWMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjcxYzc0MjQ3ODRkNzkxYzNjZDNkZTY0YTNmYmIzMDgyMTVhMDBiNmQzMTliZWY4YzAwMzhkOGI0M2MwZDc4NTYiLCJob3N0bmFtZSI6ImFkbWluLXN0YWdpbmcucGFwZXJ0cmFkZS54eXoiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTcxNjI3NSwibmJmIjoxNzkxNzE1OTc1LCJpYXQiOjE3OTE3MTU5NzUsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiIxNDhhMGViYWU4MzE3MWM5OWJhYzYzNTNlNzY4YjVkMDMwM2NiMmUyZTM3YTk3MmNlM2NhYTUzNmY2NzViMDJmIn0.CbnB3nR9SOwfaoZzUFKHSlBxAww75jUprJTtmcbzIdRG8J5Y3FSkSCXXciwVU8b0rp4mNlGrxxx6vd7QEyqlrogoJXGBHjLQaeH0REJ6MD7rIDcz0woZ8dYuG4wIjkKL2XOTevatnB8GLawcEQL2VCxQNWk4tCSwKpfDyiY54lwOz0mfaZkex8hGyn2hTm7TMIYXtztVohKe3kbiPbnOD7qv026zBmAv31ONCJ71BZvY_GDOB_NVUr0as4eYz_6tm2QW1Bib2-WkTnXRGMkQ-FJyw2C5Y6Exgmulo_1wr9vPZRILP46444jAW_mXJSZANt2cSrgusVi9PbTSnLYJgQ&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.43.140] [cloudflare] [87.476557ms] [Cloudflare,Cloudflare Browser Insights]
+https://dashboard.polymath.network [302] [https://portal.polymesh.network/] [510] [302 Found] [cloudflare] [104.21.32.3] [cloudflare] [87.979285ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://api.pool.internal.pearlresearch.ai [302] [https://auth.internal.pearlresearch.ai/oauth2/start?rd=https://api.pool.internal.pearlresearch.ai%2F] [138] [302 Found] [] [35.192.30.43] [google] [271.492816ms] [HSTS]
+https://api.pool.pearlresearch.ai [302] [https://auth.pearlresearch.ai/oauth2/start?rd=https://api.pool.pearlresearch.ai%2F] [138] [302 Found] [] [34.132.131.85] [google] [301.737728ms] [HSTS]
+https://docs.polymath.network [302] [https://developers.polymath.network] [510] [302 Found] [cloudflare] [104.21.32.3] [cloudflare] [67.707713ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://compute.internal.pearlresearch.ai [302] [https://auth.internal.pearlresearch.ai/oauth2/start?rd=https://compute.internal.pearlresearch.ai%2F] [138] [302 Found] [] [35.192.30.43] [google] [349.166709ms] [HSTS]
+https://explorer.internal.pearlresearch.ai [302] [https://auth.internal.pearlresearch.ai/oauth2/start?rd=https://explorer.internal.pearlresearch.ai%2F] [138] [302 Found] [] [35.192.30.43] [google] [375.532155ms] [HSTS]
+https://help.pearlresearch.ai [302] [https://help.pearlresearch.ai/hc] [0] [cloudflare] [216.198.54.6] [285.288612ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://merch-staging.papertrade.xyz [302] [/auth?next=%2F] [0] [cloudflare] [172.66.43.140] [cloudflare] [82.673924ms] [Cloudflare,HSTS]
+https://internal.pearlresearch.ai [302] [https://auth.internal.pearlresearch.ai/oauth2/start?rd=https://internal.pearlresearch.ai%2F] [138] [302 Found] [] [35.192.30.43] [google] [360.659579ms] [HSTS]
+https://metrics.internal.pearlresearch.ai [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=149359794694-noabv75i2vpjlsap3rlnppv8fqpfqjuu.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/149359794694-noabv75i2vpjlsap3rlnppv8fqpfqjuu.apps.googleusercontent.com:handleRedirect&code_challenge=3dlnIJYX21yfc6qPFfVzhregLpxyth0xpyvgQYB4yRk&code_challenge_method=S256&cred_ref=true&state=ATbdjREEDcXavZv7tFAgMUTiPmIp8xXNZyouATPgzW2vGjj36ofq9G5nZP8aWNKszyDJyKwYPaVAkUkl_1cjLmQMDJyvs-8zm3oE2xmI27VK7SMUDApWyVgYfnVFIMiia6v5HEN6sVuIw5I5fXEovaMCycrDZA_15vAb_i9OMLOBfNl6yUI6wrFtkHp4jmovSuWZoAieJN3cHE7gLTO0kcbqp8TB3MdnvHoRzwnm9OeFKoDtKNX5hy2gzjHcmYAIihtxlqEJsZjJZIPjFdFyrF-X64_hrsQWopGeZ9Dlhp7vItmyi25J-6qfa70hU0MizRUjAKlZ-PAvTsD4n0k0I2djY80HOpYAZDI00K6Mln7bIQFtsvG0g73o1wuUGAFkSTf_XIgNNOCG2BaKt1iKivI7JPBx0dhXVPUQ4Uu5RhJLXb__vvffPyHiYNiSz99LZYz1kcpiRxHCDwLQWcqcc32I5XBJY5d8LAA9dXcC9apZcuJQed71VOnVZYJSc_7J7gG-NHYTZw7EslYYM13Og0AjkTYjGyVSwwMriGby2RxjocSrJKt1mp_lTOFk3wHFgnJAADWfPc795GmGP_Lxp-66-NBNasbwsX47gKdIENExsR4jcxh_9ZtE0TnXYAxmM1tJVanAfzJTjx1fnzRPLpJj3mBxwMuxDuc_KrxTlaDn7KpidtBjkJgpu6TLM58hw9IDEUDcIwfA19sNPQZANI6HtuOCRnsG9b9asbFFFtKWIFQbgXHIVBYFd0ZsLh0HIcTNaDk1PyG_UG7cEInq1Wgc1tpcJN40XKNKp_7Frwoki7stQTc888S5G74QWhL7b4V_07p8v6eixpUGtjGkT9VLpCN433XtJHwJZrn7pXNuFD-3EN4ozXC_RZIV0zglcsG7zZlD-xrCGGW8CSspMDPLJ801eBdUurnpfAi5FwiiSlxyO3d2gREkLAuYqOkW_7uwUym57aaYhvSyj6nJYu7Y8VAMWuaq8X6_IQiCoxrI1AfFYLrIGTvVmU5lCA8_uKnOcnLHiqyp6QTOvhWpISe1jeZmMFpWfGEQktP8VsPS63NqETwgGvja9CU9YdJFZd5xgvcR4_SeCBtwryljbyd9yQi7MNedteBDcbKx2sY3jTWispzXpmpemQlSWSI7_nBnO1jK8MaRAXSlrOaXln3wTocAwmsiW8Xa8ThDd9PF2YntpIfExWVmrs6tEsLXndA5ql3UxxYXR5vkJw] [36] [] [34.54.171.248] [google] [215.195914ms] [HTTP/3]
+https://metrics.pearlresearch.ai [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=983579183122-v5o998i00lgcbfuaqucbb9pkqimkcsjq.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/983579183122-v5o998i00lgcbfuaqucbb9pkqimkcsjq.apps.googleusercontent.com:handleRedirect&code_challenge=FkkezR_F7Cm8U3Krrk8kH9mr3d2tUM317NwUjUSNBy8&code_challenge_method=S256&cred_ref=true&state=ATbdjREEulCwq4lqJ5g_zPstSJI8fr34S3Gu0ylvVIp7wLv1O4F-WX4CAQ4HG7L39CwV37Yo2hh3b9P5kMGbh7UKbJkvS7wzWhOX_gttnu9_s77QSVj790C4oJqY9x6BG1Sk_XGms2KZxZf8v14MX2Hk7X-_O-SAIC7rLbF-EukkbrYd5gC2c0zS8bawZwdX-k8O2rJ24y1_fiQZaf5eGvsHvlOy5pKfVgHhmYrkY1KqY5QuB1w5Opt0mLoplObs3u--cqbayTmVK7ezrkj2OR9_AfLoS7OV-uoUwG5ZDRYWtt8h8vQCm_vcOjkE4n0zS6tiwXOHtfbE_9XMivb2NV5yH8WiOI8s3fyviRQzNQ2F3-iFmVY5X8IQHCQq7k5b7t1iQJ8X2F1cM5IHe4ySw3eCNemj12_6YwfExt2VAYB65O6V88QZbZzrszpmIqBJLuT14WmZsRtDbgInbXVRZksOR_iCL727Um-ZI74I78GrhMYelcO1JY8kVe6_ztGAU-ZSUpmQ1t5e-DSw1LgExwC0ifw0vyxcsCuPgLRZsiTPQMOFKMJwm7WbB3a32AEDK2uhNqa-IYZeFAZHpOCbETx5Vkcb7glvRFoZxfs0vBiB7avTiBIPO6Nb2ZUAZVKDRaSbWlXshh_iV4MFlF5GBKClnFIsSeoSSiuC0ntxmpr_bqDaRVWJWXkju6jL2PE63nHDFVPP7qUJsRLCst0qtM4xpGAjQudsoFIb-Pk7sJnkNyjtO5KzTgSSOEjuy80X4vKFt9_GkfA53t9tjLDzxCUGoxWn250JMBMBQ3mr_gd54KR_vWiP6Em_ibPEGZzXiZBYdBbVEy5KbN4swErYbhqQACdJhXpZmRu25fF3DE8dMahXf0zw40IaUdilnsiUAgDIBgtPgpzk5vgPNOwXp3uUAPE9OI0c9itXE7aM3fi8xXnd7A_5yTfe2B5djBZaGLe8W096rt8huS912ZjtrbgMzi0pIh3RZweNJnCHRqN04N_6XxSUx_QRvy6W1sZBTzmz0VM3eDnEuN6kpZc3xgrI2ngDFkjXt3E_FkLzfIdoS6uOlJuyozLgPVZneOxDGFkUG_pf1Z0Inkxfs9Gxlu7Nj-bhH1GuOQz4C806Fbk9nQZyJ44mgteYNumjLSn4e1zb-9M_5xN1SzwoLLNIdNxt_cc-8Uoolw] [36] [] [34.49.115.149] [google] [233.690132ms] [HTTP/3]
+https://metrics.testnet.pearlresearch.ai [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=880083784246-513vc5ev27uv55k8qbibtthdskpavnq4.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/880083784246-513vc5ev27uv55k8qbibtthdskpavnq4.apps.googleusercontent.com:handleRedirect&code_challenge=bsa7AFCl5zn-LYe6ZagxYtD7-vDRLXj943q_eMsnDl4&code_challenge_method=S256&cred_ref=true&state=ATbdjREEsfnEfSEvgJVnFmutgc2yR3aDFMQhiG_jn2s5XEbLzoB1iWzjrWXEzboDMQR1yi7TTRzjybP8DQR0p1eyFVtLwcwUIEjYuAM9bwKPqq6JxK7bzSAi2KvSixG3ejZg1RuEC1ZRnZiYZYdEESrIoisoSX_rFEfQjix4OXOkA9i9wRhjYhpNN05-yu1_1LTgsGVvo6EHp2_6-Lqa94khFScLTjYRRpjKYjDOc2zIyrvJeOFF1BGN-KzGMjpO0h2aawW12yjXV2hGC2A7COtlO7a949_Hbj5YGx8Z6wbyXRBV_htkROOkI_azuENJ36tIEqwu81VkM5lIH_8rfnl-VAuXnoEsfylAwZ8Pd8kZQ-75RCk5Jqx8SNEUv2i1vG_779WueJGiXt6Ak0fP-sjM6j_FW3U1Zrl51GqJAKpAjG3IP-bORxsSiaOlo7Y3d3ICRYNfssI0ykrMSVMbtOYvCrBlddjJmVl06xV9BV8znXwn96sKkUtqHLNysENwUPbWEK8h2IPt8_eweqDxrK8u20D_FlClmZBkudFZbbWB5fLqr-d9EvzEGeNLGL2QgZmsKvLVAe-YHVAC2o0D3YtFYqDyTR2uvf4PvRkYgBZd-tqzzqHk1B1KUbG3c9Ocs-Oc5iBSDdgK05zzJCVlR4IXMejESGNltOFRomieolH5jOGSSEuInvTuzSlgTiLoleIysXUZk4ifnpSOx7ZNaGAowoWgew-oWVBKtvgUQ4TTcH9o74iVDiBvkC7GC1aB8dIYgBb52Uah2qSGYEEAzTjiGp3QImrnay7Yeezkw9_bdmd7uNF9NJRnK_RuZQsDXiUCRq_-50KQXcttb9bbQSm00CNz_hNicov4fBQJTBOcXNxIQw_21XHtBHV5jy83alYgov9qVrNuj-MTc-uhabIyCe7DBbKbZ6VUvHK6mTWzvWj-j1aj63RKMCP3DgNFlCAWVYQEExsn4u6x90N5r2eC_UZ7nmD7Ms1VgHvxKE7zpTD-NXfICYB4tN2h-QD4_7V-SSG8uZizOvd8c3Zq_H3VobafdpUXGnmZsUxR2rBr1Vk-VFp6F1tW4NyS69r7bej3IUp-2aUVqfbqnFwtCX_302vGKP_5SkUSNGwrQvoLg9awWKFyugC8reqVHdjfysBzc3t_Rko0v05bqTtY0_DkC0btgf0IKA0HlWsTFyv67ZOYwh5QoPIW4VuEhI-3ZeH-68_YQp-Z] [36] [] [34.8.166.159] [google] [245.140394ms] [HTTP/3]
+https://platform.internal.pearlresearch.ai [302] [https://auth.internal.pearlresearch.ai/oauth2/start?rd=https://platform.internal.pearlresearch.ai%2F] [138] [302 Found] [] [136.68.192.166] [google] [171.817268ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://platform-us.internal.pearlresearch.ai [302] [https://auth.internal.pearlresearch.ai/oauth2/start?rd=https://platform-us.internal.pearlresearch.ai%2F] [138] [302 Found] [] [35.192.30.43] [google] [259.109187ms] [HSTS]
+https://pool.pearlresearch.ai [302] [https://auth.pearlresearch.ai/oauth2/start?rd=https://pool.pearlresearch.ai%2F] [138] [302 Found] [] [34.132.131.85] [google] [273.943238ms] [HSTS]
+https://pool.internal.pearlresearch.ai [302] [https://auth.internal.pearlresearch.ai/oauth2/start?rd=https://pool.internal.pearlresearch.ai%2F] [138] [302 Found] [] [35.192.30.43] [google] [316.746994ms] [HSTS]
+https://platform-eu.internal.pearlresearch.ai [302] [https://auth.internal.pearlresearch.ai/oauth2/start?rd=https://platform-eu.internal.pearlresearch.ai%2F] [138] [302 Found] [] [34.107.120.129] [google] [629.549277ms] [HSTS]
+https://www.internal.pearlresearch.ai [302] [https://auth.internal.pearlresearch.ai/oauth2/start?rd=https://www.internal.pearlresearch.ai%2F] [138] [302 Found] [] [35.192.30.43] [google] [4.249855478s] [HSTS]
+
+## 307
+https://explorer.pearlresearch.ai [307] [/?network=mainnet] [17] [] [136.69.18.254] [google] [234.552263ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://developers.polymath.network [307] [https://developers.polymath.network/token-studio-api-walkthrough/] [15] [cloudflare] [104.18.40.47] [cloudflare] [1.115017829s] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://platform-us.pearlresearch.ai [307] [/dashboard] [12892] [Pearl Inference, OpenAI-compatible AI inference, 10% below Together AI] [] [34.132.131.85] [google] [282.290859ms] [HSTS]
+https://platform.pearlresearch.ai [307] [/dashboard] [12892] [Pearl Inference, OpenAI-compatible AI inference, 10% below Together AI] [] [136.68.198.189] [google] [311.638424ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://login.platform.pearlresearch.ai [307] [https://auth.platform.pearlresearch.ai/user_management/initiate_login?context=&client_id=client_01KVD1J3VPK9GZST4S73XBBQCT] [87772] [Sign in] [cloudflare] [172.64.152.23] [cloudflare] [786.057242ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://platform-eu.pearlresearch.ai [307] [/dashboard] [12892] [Pearl Inference, OpenAI-compatible AI inference, 10% below Together AI] [] [34.89.166.166] [google] [630.212241ms] [HSTS]
+https://offerings.polymath.network [307] [/?q=&type=&status=&region=&elig=&chain=&min=0&view=grid&page=1] [0] [cloudflare] [185.158.133.1] [1.393566828s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.explorer.pearlresearch.ai [307] [/?network=mainnet] [17] [] [136.69.18.254] [google] [4.35294014s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+
+## 308
+https://auth.polymath.network [308] [/dashboard] [10] [cloudflare] [104.21.32.3] [cloudflare] [354.050444ms] [Cloudflare,Envoy,HTTP/3]
+https://testnet-tokenstudio.polymath.network [308] [/dashboard] [10] [cloudflare] [172.67.181.228] [cloudflare] [354.086629ms] [Cloudflare,Envoy,HTTP/3]
+
+## 401
+https://coinbase.rpc.pearlresearch.ai [401] [] [18] [] [34.132.131.85] [google] [257.116364ms] [Basic,HSTS]
+https://exchange-sim.papertrade.xyz [401] [] [23] [cloudflare] [172.66.40.116] [cloudflare] [102.670586ms] [Cloudflare,HSTS]
+https://exchange-staging.papertrade.xyz [401] [] [23] [cloudflare] [172.66.43.140] [cloudflare] [126.222171ms] [Cloudflare,HSTS]
+https://garments-staging.papertrade.xyz [401] [] [23] [cloudflare] [172.66.43.140] [cloudflare] [140.109971ms] [Cloudflare,HSTS]
+https://api.polymath.network [401] [] [157] [] [13.250.0.192] [566.612859ms]
+
+## 403
+https://blockbook-node.pearlresearch.ai [403] [] [134] [403] [] [8.228.231.99] [google] [242.262387ms] [HTTP/3]
+https://anchorage.rpc.pearlresearch.ai [403] [] [134] [403] [] [136.68.177.254] [google] [285.588784ms] [HTTP/3]
+https://merch.papertrade.xyz [403] [] [15] [cloudflare] [172.66.40.116] [cloudflare] [102.237098ms] [Cloudflare,HSTS]
+https://nemo.pearlresearch.ai [403] [] [146] [403 Forbidden] [] [34.132.131.85] [google] [253.150877ms] [HSTS]
+https://rpc.testnet.pearlresearch.ai [403] [] [134] [403] [] [34.54.133.186] [google] [312.590248ms] [HTTP/3]
+https://rpc.internal.pearlresearch.ai [403] [] [134] [403] [] [34.49.20.180] [google] [377.048625ms] [HTTP/3]
+
+## 404
+https://alerts.papertrade.xyz [404] [] [0] [cloudflare] [172.66.43.140] [cloudflare] [91.985597ms] [Cloudflare]
+https://coin.pearlresearch.ai [404] [] [72] [] [136.69.18.254] [google] [145.769892ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://admin-gateway-sim.papertrade.xyz [404] [] [925] [404 Not Found] [cloudflare] [172.66.40.116] [cloudflare] [193.771896ms] [Cloudflare,Cloudflare Browser Insights]
+https://api.pearlresearch.ai [404] [] [63] [] [136.69.18.254] [google] [207.040293ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js]
+https://auth.compute.pearlresearch.ai [404] [] [1486] [404 Not Found] [cloudflare] [104.18.27.223] [cloudflare] [236.50486ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://cloud.pearlresearch.ai [404] [] [21] [] [34.132.131.85] [google] [253.470994ms] [HSTS]
+https://admin-gateway-staging.papertrade.xyz [404] [] [925] [404 Not Found] [cloudflare] [172.66.40.116] [cloudflare] [238.768306ms] [Cloudflare,Cloudflare Browser Insights]
+https://api.cloud.pearlresearch.ai [404] [] [21] [] [34.132.131.85] [google] [270.128148ms] [HSTS]
+https://compute-gke.pearlresearch.ai [404] [] [21] [] [34.132.131.85] [google] [281.827756ms] [HSTS]
+https://compute-gke.internal.pearlresearch.ai [404] [] [21] [] [35.192.30.43] [google] [299.597682ms] [HSTS]
+https://api.platform.pearlresearch.ai [404] [] [21] [] [34.132.131.85] [google] [311.366029ms] [HSTS]
+https://coin.internal.pearlresearch.ai [404] [] [72] [] [35.192.30.43] [google] [318.886087ms] [HSTS]
+https://api.internal.pearlresearch.ai [404] [] [63] [] [35.192.30.43] [google] [317.999166ms] [HSTS]
+https://api.cloud.internal.pearlresearch.ai [404] [] [21] [] [35.192.30.43] [google] [323.757755ms] [HSTS]
+https://exchange.papertrade.xyz [404] [] [9] [cloudflare] [172.66.40.116] [cloudflare] [107.966172ms] [Cloudflare,HSTS]
+https://api.platform.internal.pearlresearch.ai [404] [] [21] [] [35.192.30.43] [google] [421.497194ms] [HSTS]
+https://auth.compute.internal.pearlresearch.ai [404] [] [1486] [404 Not Found] [cloudflare] [104.18.26.223] [cloudflare] [429.706432ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://cloud.internal.pearlresearch.ai [404] [] [21] [] [35.192.30.43] [google] [438.98148ms] [HSTS]
+https://explorer-gke.pearlresearch.ai [404] [] [21] [] [34.132.131.85] [google] [228.043057ms] [HSTS]
+https://explorer.testnet.pearlresearch.ai [404] [] [0] [] [136.110.230.6] [google] [197.963734ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://explorer-gke.internal.pearlresearch.ai [404] [] [21] [] [35.192.30.43] [google] [272.559758ms] [HSTS]
+https://admin.platform.pearlresearch.ai [404] [] [0] [cloudflare] [104.18.35.233] [cloudflare] [603.216331ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://indexer.testnet.pearlresearch.ai [404] [] [0] [] [136.110.201.255] [google] [160.595396ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://inference.pearlresearch.ai [404] [] [112] [] [34.132.131.85] [google] [231.194737ms] [HSTS]
+https://mta-sts.pearlresearch.ai [404] [] [21] [] [34.132.131.85] [google] [222.78006ms] [HSTS]
+https://sign-sim.papertrade.xyz [404] [] [9] [cloudflare] [172.66.40.116] [cloudflare] [82.969039ms] [Cloudflare,HSTS]
+https://sign-staging.papertrade.xyz [404] [] [9] [cloudflare] [172.66.43.140] [cloudflare] [84.683092ms] [Cloudflare,HSTS]
+https://sign.papertrade.xyz [404] [] [9] [cloudflare] [172.66.40.116] [cloudflare] [60.73535ms] [Cloudflare,HSTS]
+https://stream-sim.papertrade.xyz [404] [] [925] [404 Not Found] [cloudflare] [172.66.43.140] [cloudflare] [194.137242ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://stream-staging.papertrade.xyz [404] [] [925] [404 Not Found] [cloudflare] [172.66.40.116] [cloudflare] [200.876644ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://stream.papertrade.xyz [404] [] [925] [404 Not Found] [cloudflare] [172.66.40.116] [cloudflare] [192.226292ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://website-gke.pearlresearch.ai [404] [] [21] [] [34.132.131.85] [google] [248.015482ms] [HSTS]
+https://website-gke.internal.pearlresearch.ai [404] [] [21] [] [35.192.30.43] [google] [264.680733ms] [HSTS]
+https://www.compute.pearlresearch.ai [404] [] [272] [404 Page not found] [] [136.69.18.254] [google] [4.180274795s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+

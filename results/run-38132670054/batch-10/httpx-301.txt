@@ -1,0 +1,7 @@
+http://autodiscover.polymath.network [301] [https://autodiscover.polymath.network/] [0] [Microsoft-HTTPAPI/2.0] [52.96.110.8] [30.475781ms] [Microsoft HTTPAPI:2.0]
+https://info.polymath.network [301] [https://www.polymath.network/] [534] [301 Moved Permanently] [cloudflare] [104.21.32.3] [cloudflare] [71.053542ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://polymath.network [301] [https://www.polymath.network/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [252.809868ms] [Cloudflare,HSTS,HTTP/3]
+https://tokenstudio.polymath.network [301] [https://portal.polymesh.network/] [167] [301 Moved Permanently] [cloudflare] [172.67.181.228] [cloudflare] [111.387118ms] [Cloudflare,HTTP/3]
+http://testnet-middleware.polymath.network [301] [https://testnet-middleware.polymath.network/] [534] [301 Moved Permanently] [cloudflare] [104.21.32.3] [cloudflare] [53.632539ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://testnet-polybridge.polymath.network [301] [https://testnet-polybridge.polymath.network/] [534] [301 Moved Permanently] [cloudflare] [104.21.32.3] [cloudflare] [36.78465ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://testnet-rewards.polymath.network [301] [https://testnet-rewards.polymath.network/] [534] [301 Moved Permanently] [cloudflare] [104.21.32.3] [cloudflare] [44.467249ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
