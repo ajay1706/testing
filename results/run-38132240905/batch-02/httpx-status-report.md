@@ -1,0 +1,61 @@
+# HTTPX Status Report
+
+Generated at: Sun Oct 11 10:39:14 UTC 2026
+
+HTTPX lines: 35
+Live URLs: 35
+
+## 200
+https://catalog.collinear.ai [200] [] [22670] [Environment catalog | Collinear AI] [cloudflare] [104.21.62.3] [cloudflare] [174.205721ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://blog.collinear.ai [200] [] [87281] [Collinear AI’s Blog | Substack] [cloudflare] [104.21.62.3] [cloudflare] [94.238705ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js,Substack]
+https://clerk.cua.ai [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [1.093321641s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://cua.ai [200] [] [196997] [Cua: Scale computer fleets for computer-use agents] [Vercel] [216.150.1.1] [3.169254768s] [HSTS,Vercel]
+https://dev.claimyoursol.com [200] [] [150555] [Claim Your Sol — Reclaim SOL, burn unwanted tokens & NFTs] [nginx] [167.172.59.50] [3.764969322s] [Alpine.js,Laravel,Livewire,Nginx]
+https://run.cua.ai [200] [] [2701] [Cua] [nginx/1.27.5] [44.228.20.154] [147.118848ms] [Nginx:1.27.5]
+https://spaces.cua.ai [200] [] [83571] [Cua Spaces: a free Space for every agent] [Vercel] [216.150.1.1] [117.951365ms] [HSTS,Vercel]
+https://status.cua.ai [200] [] [53123] [Grafana] [cloudflare] [104.18.3.196] [cloudflare] [181.01706ms] [Cloudflare,HTTP/3]
+https://trustcentre.collinear.ai [200] [] [581543] [Collinear AI - Trust Center - Security & Privacy] [cloudflare] [172.67.217.121] [cloudflare] [3.127059897s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 301
+http://collinear.ai [301] [https://collinear.ai/] [534] [301 Moved Permanently] [cloudflare] [104.21.62.3] [cloudflare] [6.13704653s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.cua.ai [301] [https://cua.ai/docs] [15] [Vercel] [216.150.16.193] [99.686359ms] [HSTS,Vercel]
+https://www.collinear.ai [301] [https://collinear.ai/] [167] [301 Moved Permanently] [cloudflare] [172.67.217.121] [cloudflare] [67.989836ms] [Cloudflare]
+https://www.cua.ai [301] [https://cua.ai/] [15] [Vercel] [216.150.16.193] [116.603137ms] [HSTS,Vercel]
+https://www.claimyoursol.com [301] [https://claimyoursol.com/] [523] [301 Moved Permanently] [cloudflare] [104.26.13.185] [cloudflare] [216.09644ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 302
+https://auth.cua.ai [302] [https://auth.cua.ai/realms/cyclops-cs/protocol/openid-connect/registrations?client_id=spaces-site&response_type=code&scope=openid&redirect_uri=https%3A%2F%2Fspaces.cua.ai%2Fwelcome&code_challenge=MnkcbtvWZViOP99H17nBx67Ccfx1_9yEfrtMfhkl5vU&code_challenge_method=S256&state=signup] [5] [] [44.228.20.154] [132.491682ms]
+https://auth.collinear.ai [302] [https://collinear.ai/] [43] [cloudflare] [104.21.62.3] [cloudflare] [176.621078ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+http://app.collinear.ai [302] [https://platform.collinear.ai] [52] [cloudflare] [104.21.62.3] [cloudflare] [85.112783ms] [Cloudflare,HTTP/2]
+https://rl-gym.collinear.ai [302] [/auth/login] [11] [cloudflare] [172.67.217.121] [cloudflare] [366.939579ms] [Cloudflare,HTTP/3]
+
+## 307
+
+## 308
+https://docs.collinear.ai [308] [/introduction] [109273] [cloudflare] [172.67.217.121] [cloudflare] [186.068551ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+
+## 401
+https://prom.cua.ai [401] [] [172] [401 Authorization Required] [nginx] [44.225.11.224] [134.972363ms] [Basic,Nginx]
+
+## 403
+https://accounts.cua.ai [403] [] [5555] [Just a moment...] [cloudflare] [104.18.34.146] [cloudflare] [104.463677ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://am.cua.ai [403] [] [8486] [Sign In] [cloudflare] [104.18.3.196] [cloudflare] [180.64233ms] [Cloudflare,HTTP/3]
+https://grafana.cua.ai [403] [] [8486] [Sign In] [cloudflare] [104.18.3.196] [cloudflare] [168.132303ms] [Cloudflare,HTTP/3]
+https://nexus-task-registry.collinear.ai [403] [] [17] [cloudflare] [172.67.217.121] [cloudflare] [326.254367ms] [Cloudflare,HTTP/3]
+
+## 404
+https://docs-mcp.cua.ai [404] [] [9] [] [44.217.60.1] [1.706217316s] [HTTP/3]
+https://inference.cua.ai [404] [] [107] [Vercel] [216.150.16.193] [6.563615939s] [HSTS,Vercel]
+https://relay.cua.ai [404] [] [23] [] [44.228.20.154] [1.136422246s]
+https://vk-mcp.cua.ai [404] [] [9] [uvicorn] [44.228.20.154] [164.165953ms] [Python,Uvicorn]
+
+## 500
+
+## 502
+
+## 503
+https://api.cua.ai [503] [] [256] [503 Service Unavailable] [Google Frontend] [34.149.244.101] [google] [83.495924ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]
+https://api.collinear.ai [503] [] [256] [Service Suspended] [cloudflare] [172.67.217.121] [cloudflare] [194.703253ms] [Cloudflare,HTTP/3]
+https://platform.collinear.ai [503] [] [256] [Service Suspended] [cloudflare] [172.67.217.121] [cloudflare] [1.178848135s] [Cloudflare,HTTP/3]
+https://stage.collinear.ai [503] [] [256] [Service Suspended] [cloudflare] [172.67.217.121] [cloudflare] [1.18684259s] [Cloudflare,HTTP/3]
+
