@@ -1,0 +1,14 @@
+[+] Batch started: Sun Oct 11 10:35:06 UTC 2026
+[+] Run ID: 38132240905
+[+] Batch name: batch-05
+[+] Batch targets:
+hawkfi.ag
+hylo.so
+joinhandshake.com
+[+] Running subfinder...
+[+] Subfinder completed: Sun Oct 11 10:39:04 UTC 2026
+[+] HTTPX input count: 2297
+[+] Running httpx...
+[+] httpx completed: Sun Oct 11 10:39:57 UTC 2026
+[+] httpx line count: 2149
+[+] Batch completed: Sun Oct 11 10:39:57 UTC 2026

@@ -1,0 +1,4 @@
+https://access-presenters.joinhandshake.com [403] [] [17] [cloudflare] [185.41.148.2] [107.2684ms] [Cloudflare]
+https://cdn.ai.joinhandshake.com [403] [] [111] [UploadServer] [35.227.218.237] [google] [123.815498ms] [HTTP/3]
+https://learn-cdn.joinhandshake.com [403] [] [111] [UploadServer] [136.68.249.201] [google] [1.56348404s] [HTTP/3]
+https://notifs.joinhandshake.com [403] [] [134] [403] [] [34.107.178.109] [google] [3.186356064s] [HTTP/3]
