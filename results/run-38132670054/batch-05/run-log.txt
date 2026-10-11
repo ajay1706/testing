@@ -1,0 +1,14 @@
+[+] Batch started: Sun Oct 11 10:44:54 UTC 2026
+[+] Run ID: 38132670054
+[+] Batch name: batch-05
+[+] Batch targets:
+imperial.space
+inflecta.io
+jumper.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Sun Oct 11 10:48:16 UTC 2026
+[+] HTTPX input count: 77
+[+] Running httpx...
+[+] httpx completed: Sun Oct 11 10:48:21 UTC 2026
+[+] httpx line count: 29
+[+] Batch completed: Sun Oct 11 10:48:21 UTC 2026
