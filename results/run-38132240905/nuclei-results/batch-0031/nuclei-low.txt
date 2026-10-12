@@ -1,0 +1,17 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] go.scale.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] go.scale.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.bespokelabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.cua.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.cua.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.bespokelabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] handshake-cdn.joinhandshake.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] handshake-cdn.joinhandshake.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.orbit.joinhandshake.com/metrics ["11.4.0"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.data-hub.turing.com/metrics ["13.0.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.stage.helix.micro1.ai/metrics ["13.1.5"]
+[kubernetes-metrics] [http] [low] https://grafana.data-hub.turing.com/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.data-hub.turing.com/metrics
+[kubernetes-metrics] [http] [low] https://grafana.stage.helix.micro1.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.stage.helix.micro1.ai/metrics
+[expired-ssl] [ssl] [low] gpt-vetting-feedbacks.micro1.ai:443 ["2026-05-06 12:34:02 +0000 UTC"]
+[expired-ssl] [ssl] [low] googleadsconversion.pareto.ai:443 ["2026-06-05 04:46:26 +0000 UTC"]
