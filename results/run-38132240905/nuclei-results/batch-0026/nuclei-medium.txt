@@ -1,0 +1,3 @@
+[open-redirect-generic] [http] [medium] https://docs.latch.bio/%5C%5Coast.me/%252e%252e%252f [redirect="%5C%5Coast.me/%252e%252e%252f"]
+[prometheus-metrics] [http] [medium] https://dp-idp-preprod.turing.com/metrics
+[CVE-2022-28923] [http] [medium] https://docs.latch.bio/%5C%5Cinteract.sh/%252e%252e%252f
