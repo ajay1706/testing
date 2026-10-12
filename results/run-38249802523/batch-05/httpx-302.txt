@@ -1,0 +1,3 @@
+https://documentation.fordefi.com [302] [https://documentation.fordefi.com/redoc] [0] [CloudFront] [18.160.181.19] [cloudfront] [164.68688ms] [Amazon CloudFront,Amazon Web Services]
+https://auth.fordefi.com [302] [https://fordefi.com/] [42] [cloudflare] [104.18.43.182] [cloudflare] [195.508391ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.preprod.fordefi.com [302] [https://preprod.fordefi.com/] [50] [cloudflare] [104.18.43.182] [cloudflare] [369.808775ms] [Auth0,Cloudflare,HSTS,HTTP/3]
