@@ -1,0 +1,7 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] console.bespokelabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] console.bespokelabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] crucible.bespokelabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] crucible.bespokelabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[expired-ssl] [ssl] [low] contributors.zealy.io:443 ["2025-08-24 23:02:16 +0000 UTC"]
+[expired-ssl] [ssl] [low] creators.zealy.io:443 ["2024-11-21 23:10:47 +0000 UTC"]
+[expired-ssl] [ssl] [low] crm.datacurve.ai:443 ["2026-06-07 05:15:57 +0000 UTC"]
