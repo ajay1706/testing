@@ -1,0 +1,10 @@
+[open-redirect-generic] [http] [medium] https://search.turing.com/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] share.aptura.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] share.aptura.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[ds-store-file] [http] [low] https://simulcast.photofinish.live/.DS_Store
+[package-json] [http] [low] https://signup.photofinish.live/package.json
+[package-json] [http] [low] https://signup.photofinish.live/package-lock.json
+[expired-ssl] [ssl] [low] sdlcbench-dev.turing.com:443 ["2026-10-12 08:07:40 +0000 UTC"]
+[expired-ssl] [ssl] [low] sgp-infra-staging-azure.scale.com:443 ["2026-09-04 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] senior-swe-bench-sample.snorkel.ai:443 ["2026-09-15 17:54:51 +0000 UTC"]
+[expired-ssl] [ssl] [low] sim.abundant.ai:443 ["2025-10-22 21:13:44 +0000 UTC"]
