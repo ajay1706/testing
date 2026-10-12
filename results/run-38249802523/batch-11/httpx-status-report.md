@@ -1,0 +1,113 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 12 12:46:08 UTC 2026
+
+HTTPX lines: 87
+Live URLs: 87
+
+## 200
+https://clerk.pimlico.io [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [318.152866ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://blog.pimlico.io [200] [] [3748] [Posts] [cloudflare] [104.20.38.212] [cloudflare] [295.151011ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://docs.pimlico.io [200] [] [20748] [Home | Pimlico Docs] [Vercel] [76.76.21.142] [392.154544ms] [HSTS,Vercel]
+https://app.safe.global [200] [] [12039] [Safe{Wallet}] [AmazonS3] [52.85.129.80] [cloudfront] [578.186596ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://ecosystem-database.safe.global [200] [] [1050] [Safe Ecosystem Database] [AmazonS3] [99.86.101.120] [cloudfront] [623.983906ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://developer.safe.global [200] [] [1603] [Safe Developer Dashboard] [AmazonS3] [18.238.238.10] [cloudfront] [898.278741ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://conf.safe.global [200] [] [30262] [Safe{Con} 2025] [AmazonS3] [143.204.160.87] [cloudfront] [562.091079ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Webflow,YouTube,jQuery:3.5.1]
+https://docs.safe.global [200] [] [27958] [AmazonS3] [52.85.129.38] [cloudfront] [616.143368ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://feedback.ryder.id [200] [] [25255] [Ryder feature requests | Frill.co] [] [44.241.189.93] [192.009119ms] [Frill,HSTS,HTTP/3]
+https://community.safe.global [200] [] [59261] [Safe{Pass}|{DAO}] [AmazonS3] [143.204.160.5] [cloudfront] [640.550786ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://mta-sts.safe.global [200] [] [254] [Redirecting to .well-known/mta-sts.txt] [GitHub.com] [185.199.110.153] [188.091049ms] [Fastly,GitHub Pages,Varnish]
+https://mta-sts.external.safe.global [200] [] [254] [Redirecting to .well-known/mta-sts.txt] [GitHub.com] [185.199.109.153] [229.117029ms] [Fastly,GitHub Pages,Varnish]
+https://news.ryder.id [200] [] [3922] [Ryder] [LiteSpeed] [198.54.115.219] [256.837166ms] [Bootstrap,Gravatar,LiteSpeed,LiteSpeed Cache,Litespeed Cache,PHP:7.0.33,jQuery UI:1.8.21,jQuery:3.5.1]
+https://help.safe.global [200] [] [30970] [Safe Knowledge Base] [] [143.204.160.39] [cloudfront] [419.974244ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://safe-config.safe.global [200] [] [2558] [Safe Config Service API] [] [18.65.238.119] [cloudfront] [262.747609ms] [Amazon CloudFront,Amazon Web Services,Django,Python,Swagger UI]
+https://permissionless-starter-kit.pimlico.io [200] [] [17772] [Starter Kit] [cloudflare] [104.20.38.212] [cloudflare] [202.249232ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://status.safe.global [200] [] [662] [safe-status] [CloudFront] [151.101.3.52] [fastly] [366.723406ms] [Amazon CloudFront,Amazon Web Services,HSTS,Varnish]
+https://apps-portal.safe.global [200] [] [230020] [Safe Apps] [AmazonS3] [52.85.129.86] [cloudfront] [1.10725148s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://handles.ryder.id [200] [] [157712] [Ryder Handles - Ryder] [Vercel] [76.76.21.61] [601.42083ms] [HSTS,Vercel]
+https://trust.safe.global [200] [] [8868] [Safe Labs GmbH Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [728.940436ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://get.ryder.id [200] [] [373062] [Ryder One - Hardware Crypto Wallet | Self-Custody Made Simple] [cloudflare] [104.19.169.112] [cloudflare] [1.272518761s] [Cloudflare,Express,Google Cloud,Google Cloud Trace,HSTS,Node.js]
+https://safe.global [200] [] [174221] [Safe | Smart Accounts for Secure Onchain Asset Management] [AmazonS3] [143.204.160.7] [cloudfront] [537.092025ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS]
+https://trust.pimlico.io [200] [] [130252] [Pimlico Trust Center | Powered by SafeBase] [cloudflare] [104.18.5.130] [cloudflare] [573.72445ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud CDN,HSTS,Linkedin Ads,PayPal]
+https://paperless.ryder.id [200] [] [388684] [Ryder One Security Landing Page] [cloudflare] [104.19.169.112] [cloudflare] [1.292919406s] [Cloudflare,HSTS]
+https://try.ryder.id [200] [] [369458] [9 Reasons Ryder One Is the Hardware Wallet That Finally Gets It Right] [cloudflare] [104.19.169.112] [cloudflare] [1.359990418s] [Cloudflare,HSTS]
+https://status.pimlico.io [200] [] [386352] [Pimlico - Status] [Vercel] [66.33.60.34] [397.502126ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://ryder.id [200] [] [524702] [Ryder | The Easiest Crypto Hardware Wallet] [cloudflare] [23.227.38.65] [610.443843ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Klaviyo,Shopify,Slick:1.9.0,cdnjs,jQuery:3.3.1]
+https://www.news.ryder.id [200] [] [4121] [Ryder] [LiteSpeed] [198.54.115.219] [5.296349606s] [Bootstrap,Gravatar,LiteSpeed,LiteSpeed Cache,Litespeed Cache,PHP:7.0.33,jQuery UI:1.8.21,jQuery:3.5.1]
+https://www.pimlico.io [200] [] [214539] [Pimlico: The gas sponsorship engine for onchain apps] [Vercel] [216.150.1.193] [4.172512199s] [HSTS,Vercel]
+
+## 301
+https://chat.safe.global [301] [https://discord.gg/nrQVY2566v] [0] [CloudFront] [18.238.238.94] [cloudfront] [201.505897ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://blog.safe.global [301] [https://safe.global/blog] [0] [CloudFront] [18.238.238.98] [cloudfront] [281.998649ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://ecosystem-contact.safe.global [301] [https://notionforms.io/forms/get-in-touch-with-the-safe-ecosystem-foundation] [0] [CloudFront] [18.238.238.98] [cloudfront] [124.848191ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://ecosystem.safe.global [301] [https://safe.global/ecosystem] [0] [CloudFront] [18.238.238.94] [cloudfront] [115.350567ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://core.safe.global [301] [https://safe.global/core] [0] [CloudFront] [143.204.1.15] [cloudfront] [386.066852ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://forum.safe.global [301] [https://forum.safefoundation.org/] [0] [CloudFront] [108.138.94.89] [cloudfront] [66.323592ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://grants.safe.global [301] [https://www.notion.so/safe-global/Safe-Funding-Programs-7a14a7403f1f44f0bfb236a7521dac91] [0] [CloudFront] [18.238.238.94] [cloudfront] [111.265085ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://gov.safe.global [301] [https://gov.safefoundation.org/] [0] [CloudFront] [18.238.238.94] [cloudfront] [194.643335ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://guardians.safe.global [301] [https://forum.safe.global/t/guardians-gather/265] [0] [CloudFront] [18.238.238.98] [cloudfront] [99.382484ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://governance.safe.global [301] [https://community.safe.global/governance] [0] [CloudFront] [18.238.238.98] [cloudfront] [433.452989ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://pass.safe.global [301] [https://safe.global/pass] [0] [CloudFront] [18.238.238.98] [cloudfront] [97.925624ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://net.safe.global [301] [https://safe.global/safenet] [0] [CloudFront] [18.238.238.94] [cloudfront] [140.156764ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://press.safe.global [301] [https://safe-global.notion.site/Safe-Media-Kit-35ce7ffc829c4bedbbf828464a1b7c00] [0] [CloudFront] [18.238.238.9] [cloudfront] [104.447343ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://wallet.safe.global [301] [https://safe.global/wallet] [0] [CloudFront] [18.238.238.67] [cloudfront] [168.339392ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://uptime.safe.global [301] [https://status.safe.global] [0] [CloudFront] [18.238.238.67] [cloudfront] [227.605227ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 302
+https://auth.safe.global [302] [https://safe.global/] [42] [cloudflare] [172.64.153.85] [cloudflare] [356.85952ms] [Auth0,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://jobs.safe.global [302] [https://jobs.safe.global/companies] [138] [302 Found] [nginx] [54.166.41.208] [327.103071ms] [HSTS,Nginx]
+https://safe-client.safe.global [302] [/api] [0] [] [108.138.94.30] [cloudfront] [246.020107ms] [Amazon CloudFront,Amazon Web Services]
+
+## 307
+https://safe-supply.safe.global [307] [/docs] [0] [] [143.204.160.74] [cloudfront] [572.021465ms] [Amazon CloudFront,Amazon Web Services]
+https://cal.ryder.id [307] [/auth/login] [11] [Vercel] [76.76.21.123] [2.3236069s] [HSTS,Vercel]
+
+## 308
+https://pimlico.io [308] [https://www.pimlico.io/] [15] [Vercel] [216.150.16.193] [91.026093ms] [HSTS,Vercel]
+https://safe-transaction-arbitrum.safe.global [308] [https://api.safe.global/tx-service/arb1/] [164] [308 Permanent Redirect] [] [18.65.238.34] [cloudfront] [229.18742ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-aurora.safe.global [308] [https://api.safe.global/tx-service/aurora/] [164] [308 Permanent Redirect] [] [143.204.160.53] [cloudfront] [261.263562ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-base.safe.global [308] [https://api.safe.global/tx-service/base/] [164] [308 Permanent Redirect] [] [18.65.238.74] [cloudfront] [260.855501ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-bsc.safe.global [308] [https://api.safe.global/tx-service/bnb/] [164] [308 Permanent Redirect] [] [108.138.94.27] [cloudfront] [275.427796ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-avalanche.safe.global [308] [https://api.safe.global/tx-service/avax/] [164] [308 Permanent Redirect] [] [52.85.129.37] [cloudfront] [322.262424ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-base-sepolia.safe.global [308] [https://api.safe.global/tx-service/basesep/] [164] [308 Permanent Redirect] [] [99.86.101.46] [cloudfront] [315.647336ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-celo.safe.global [308] [https://api.safe.global/tx-service/celo/] [164] [308 Permanent Redirect] [] [143.204.160.102] [cloudfront] [325.212179ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-linea.safe.global [308] [https://api.safe.global/tx-service/linea/] [164] [308 Permanent Redirect] [] [52.85.129.96] [cloudfront] [252.909052ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-mainnet.safe.global [308] [https://api.safe.global/tx-service/eth/] [164] [308 Permanent Redirect] [] [143.204.160.107] [cloudfront] [227.062819ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-chiado.safe.global [308] [https://api.safe.global/tx-service/chi/] [164] [308 Permanent Redirect] [] [143.204.160.11] [cloudfront] [333.995273ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-polygon.safe.global [308] [https://api.safe.global/tx-service/pol/] [164] [308 Permanent Redirect] [] [143.204.160.124] [cloudfront] [246.607704ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-gnosis-chain.safe.global [308] [https://api.safe.global/tx-service/gno/] [164] [308 Permanent Redirect] [] [99.86.101.22] [cloudfront] [335.524654ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-optimism.safe.global [308] [https://api.safe.global/tx-service/oeth/] [164] [308 Permanent Redirect] [] [143.204.160.49] [cloudfront] [263.55379ms] [Amazon CloudFront,Amazon Web Services]
+https://stats.pimlico.io [308] [/overview] [15] [cloudflare] [172.66.170.178] [cloudflare] [134.398946ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://safe-transaction-sepolia.safe.global [308] [https://api.safe.global/tx-service/sep/] [164] [308 Permanent Redirect] [] [52.85.129.69] [cloudfront] [234.292072ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-worldchain.safe.global [308] [https://api.safe.global/tx-service/wc/] [164] [308 Permanent Redirect] [] [99.86.101.60] [cloudfront] [243.181875ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-zksync.safe.global [308] [https://api.safe.global/tx-service/zksync/] [164] [308 Permanent Redirect] [] [52.85.129.82] [cloudfront] [253.4321ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-scroll.safe.global [308] [https://api.safe.global/tx-service/scr/] [164] [308 Permanent Redirect] [] [143.204.160.99] [cloudfront] [317.475841ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-mantle.safe.global [308] [https://api.safe.global/tx-service/mantle/] [164] [308 Permanent Redirect] [] [143.204.160.123] [cloudfront] [354.527936ms] [Amazon CloudFront,Amazon Web Services]
+https://safe-transaction-xlayer.safe.global [308] [https://api.safe.global/tx-service/okb/] [164] [308 Permanent Redirect] [] [143.204.160.113] [cloudfront] [291.054147ms] [Amazon CloudFront,Amazon Web Services]
+
+## 401
+https://api.pimlico.io [401] [] [86] [cloudflare] [172.66.170.178] [cloudflare] [178.105318ms] [Cloudflare,HSTS,HTTP/3]
+https://api.ryder.id [401] [] [29] [] [18.190.50.121] [245.982865ms] [Express,HTTP/3,Node.js]
+https://api-direct.pimlico.io [401] [] [86] [] [24.199.65.54] [331.482045ms]
+https://api-dev-01.ryder.id [401] [] [29] [] [18.190.50.121] [353.303945ms] [Express,HTTP/3,Node.js]
+https://api-staging.pimlico.io [401] [] [86] [cloudflare] [104.20.38.212] [cloudflare] [423.435102ms] [Cloudflare,HSTS,HTTP/3]
+
+## 403
+https://api.safe.global [403] [] [43] [CloudFront] [99.86.101.74] [cloudfront] [60.586516ms] [Amazon CloudFront,Amazon Web Services]
+https://accounts.pimlico.io [403] [] [5548] [Just a moment...] [cloudflare] [172.64.153.110] [cloudflare] [270.816408ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://safe-transaction-assets.safe.global [403] [] [111] [AmazonS3] [108.138.94.92] [cloudfront] [666.464884ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+
+## 404
+https://buy.ryder.id [404] [] [2627] [Site Not Found | Framer] [Framer/af6a429] [31.43.160.6] [145.334955ms] [Framer Sites,HSTS,HTTP/3,React]
+https://dashboard.pimlico.io [404] [] [6305] [404: This page could not be found.] [cloudflare] [172.66.170.178] [cloudflare] [182.888445ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://docs.ryder.id [404] [] [3496] [Craft - Document not found] [cloudflare] [104.21.77.68] [cloudflare] [561.923077ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://dashboard-staging.pimlico.io [404] [] [6305] [404: This page could not be found.] [cloudflare] [172.66.170.178] [cloudflare] [657.265997ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://public.pimlico.io [404] [] [72] [cloudflare] [172.66.170.178] [cloudflare] [197.877041ms] [Cloudflare,HSTS,HTTP/3]
+https://safe-claiming-app-data.safe.global [404] [] [327] [AmazonS3] [52.85.129.109] [cloudfront] [577.735432ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+
+## 500
+
+## 502
+
+## 503
+

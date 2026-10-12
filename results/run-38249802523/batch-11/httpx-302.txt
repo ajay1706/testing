@@ -1,0 +1,3 @@
+https://auth.safe.global [302] [https://safe.global/] [42] [cloudflare] [172.64.153.85] [cloudflare] [356.85952ms] [Auth0,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://jobs.safe.global [302] [https://jobs.safe.global/companies] [138] [302 Found] [nginx] [54.166.41.208] [327.103071ms] [HSTS,Nginx]
+https://safe-client.safe.global [302] [/api] [0] [] [108.138.94.30] [cloudfront] [246.020107ms] [Amazon CloudFront,Amazon Web Services]
