@@ -1,0 +1,6 @@
+https://cap.daimo.com [404] [] [107] [Vercel] [66.33.60.130] [663.145261ms] [HSTS,Vercel]
+https://qr.daimo.com [404] [] [107] [Vercel] [66.33.60.67] [618.545009ms] [HSTS,Vercel]
+https://staging-bursted-bubbles.deblock.com [404] [] [107] [Vercel] [216.150.16.1] [346.093646ms] [HSTS,Vercel]
+https://support.deblock.com [404] [] [9] [nginx] [15.197.195.197] [520.770209ms] [HSTS,Nginx]
+https://web-api.deblock.com [404] [] [0] [Heroku] [76.223.11.49] [518.673073ms]
+https://waitlist-api.deblock.com [404] [] [0] [Heroku] [99.83.217.1] [693.43219ms]
