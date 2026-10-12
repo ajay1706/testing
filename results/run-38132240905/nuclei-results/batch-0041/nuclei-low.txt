@@ -1,0 +1,22 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] mira-v1.rlgym.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mission.famousfoxes.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mira-v1.rlgym.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mission.famousfoxes.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] monitoring.pmo.gcp.workspace.egp.scale.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] monitoring.pmo.gcp.workspace.egp.scale.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[javascript-env-config] [http] [low] https://modal-develop.turing.com/env.js
+[javascript-env-config] [http] [low] https://modal.turing.com/env.js
+[javascript-env] [http] [low] https://modal-develop.turing.com/env.js
+[javascript-env] [http] [low] https://modal.turing.com/env.js
+[grafana-metrics-exposure:version] [http] [low] https://monitoring.agentex.azure.workspace.egp.scale.com/metrics ["12.4.11"]
+[kubernetes-metrics] [http] [low] https://monitoring.agentex.azure.workspace.egp.scale.com/metrics
+[grafana-metrics-exposure:version] [http] [low] https://monitoring.eydev.azure.workspace.egp.scale.com/metrics ["12.4.11"]
+[postgres-exporter-metrics] [http] [low] https://monitoring.agentex.azure.workspace.egp.scale.com/metrics
+[kubernetes-metrics] [http] [low] https://monitoring.eydev.azure.workspace.egp.scale.com/metrics
+[postgres-exporter-metrics] [http] [low] https://monitoring.eydev.azure.workspace.egp.scale.com/metrics
+[grafana-metrics-exposure:version] [http] [low] https://monitoring.manta-staging.azure.workspace.egp.scale.com/metrics ["12.1.0"]
+[grafana-metrics-exposure:version] [http] [low] https://monitoring.sgp-infra-staging-azure.scale.com/metrics ["12.4.12"]
+[kubernetes-metrics] [http] [low] https://monitoring.manta-staging.azure.workspace.egp.scale.com/metrics
+[kubernetes-metrics] [http] [low] https://monitoring.sgp-infra-staging-azure.scale.com/metrics
+[postgres-exporter-metrics] [http] [low] https://monitoring.manta-staging.azure.workspace.egp.scale.com/metrics
+[postgres-exporter-metrics] [http] [low] https://monitoring.sgp-infra-staging-azure.scale.com/metrics
