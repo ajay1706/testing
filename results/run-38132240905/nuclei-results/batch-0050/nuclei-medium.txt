@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://sandbox-dev.turing.com/metrics
+[prometheus-metrics] [http] [medium] https://sandbox-preprod.turing.com/metrics

@@ -1,0 +1,18 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] rwp.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rwp.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sandbox-dev.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sandbox-dev.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sandbox-preprod.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sandbox-preprod.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] scan.aptura.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] scan.aptura.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[python-metrics] [http] [low] https://sandbox-dev.turing.com/metrics
+[python-metrics] [http] [low] https://sandbox-preprod.turing.com/metrics
+[prometheus-metrics] [http] [medium] https://sandbox-dev.turing.com/metrics
+[prometheus-metrics] [http] [medium] https://sandbox-preprod.turing.com/metrics
+[expired-ssl] [ssl] [low] sda.demo.azure.workspace.egp.scale.com:443 ["2026-09-11 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] sda.dla-ext.azure.workspace.egp.scale.com:443 ["2026-09-11 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] sda.mayo-ext.azure.workspace.egp.scale.com:443 ["2025-11-09 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] s-apitest.preview.benchflow.ai:443 ["2026-09-25 22:57:40 +0000 UTC"]
+[expired-ssl] [ssl] [low] s-gwtest.preview.benchflow.ai:443 ["2026-09-25 22:55:11 +0000 UTC"]
+[expired-ssl] [ssl] [low] s-213ccd10.preview.benchflow.ai:443 ["2026-09-25 23:01:25 +0000 UTC"]
