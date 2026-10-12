@@ -1,0 +1,4 @@
+[javascript-env-config] [http] [low] https://labeling-mi.turing.com/env.js
+[javascript-env-config] [http] [low] https://labeling-s.turing.com/env.js
+[javascript-env] [http] [low] https://labeling-mi.turing.com/env.js
+[javascript-env] [http] [low] https://labeling-s.turing.com/env.js
