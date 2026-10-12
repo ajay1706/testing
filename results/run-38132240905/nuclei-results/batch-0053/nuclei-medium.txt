@@ -1,0 +1,1 @@
+[open-redirect-generic] [http] [medium] https://staging-search.turing.com/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]

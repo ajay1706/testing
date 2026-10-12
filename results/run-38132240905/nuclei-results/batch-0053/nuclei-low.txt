@@ -1,0 +1,49 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] spothub-v1.msr.rlgym.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spothub-v1.rlgym.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] spotcheck.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spothub-v1.msr.rlgym.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spothub-v1.rlgym.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] spotcheck.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ssp.dev.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ssp.dev.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.pearl-hfi.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.pearl-hfi.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.rl-world.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.stem.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.rl-world.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.stem.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staking.layer3.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staking.layer3.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] status.bespokelabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] status.cua.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.cua.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.bespokelabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] static.scale.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] status.sol-incinerator.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.sol-incinerator.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stem-wiki.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stem-hz.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stem.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stem-wiki.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stem-hz.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stem.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stg.famousfoxes.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stg.famousfoxes.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://staging.rl-world.turing.com ["AIzaSyD-x1c5PrwqL04a0mXtV-0HwP-CG8W4Rhg"]
+[google-api-key] [http] [low] https://staging.rl-world.turing.com/hopfully404 ["AIzaSyD-x1c5PrwqL04a0mXtV-0HwP-CG8W4Rhg"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://stage.flow-orchestration.micro1.ai
+[unauthenticated-varnish-cache-purge] [http] [low] https://stem-eval-tool-fe.rd.atlas.turing.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://stage.flow-orchestration.micro1.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://stage.flow-orchestration.micro1.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://stage.flow-orchestration.micro1.ai
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://stem-eval-tool-fe.rd.atlas.turing.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://stem-eval-tool-fe.rd.atlas.turing.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://stem-eval-tool-fe.rd.atlas.turing.com
+[grafana-metrics-exposure:version] [http] [low] https://status.cua.ai/metrics ["12.0.7"]
+[kubernetes-metrics] [http] [low] https://status.cua.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://status.cua.ai/metrics
+[expired-ssl] [ssl] [low] st.swebench-wms.turing.com:443 ["2026-03-17 16:42:21 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] staging.media-vault.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] staging.media-vault.turing.com:443
