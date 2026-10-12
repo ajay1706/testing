@@ -1,0 +1,4 @@
+https://bastion.americanfortress.io [302] [https://matterfi-bastion.auth.us-east-1.amazoncognito.com/oauth2/authorize?client_id=mf18p29nmem564bu6ufm21e1o&response_type=code&scope=openid+email+profile&redirect_uri=https%3A%2F%2Fbastion.americanfortress.io%2F_auth%2Fcallback&identity_provider=Google] [0] [CloudFront] [52.85.12.12] [cloudfront] [483.903792ms] [Amazon CloudFront,Amazon Web Services]
+https://help.ambire.com [302] [https://help.ambire.com/en/] [0] [cloudflare] [172.67.74.156] [cloudflare] [241.079156ms] [Cloudflare]
+https://monitor.ambire.com [302] [/auth/login/] [0] [cloudflare] [104.26.8.104] [cloudflare] [468.355676ms] [Cloudflare]
+https://videntes.ambire.com [302] [/login?next=%2F] [0] [nginx/1.18.0 (Ubuntu)] [143.198.103.157] [218.646584ms] [Nginx:1.18.0,Ubuntu]

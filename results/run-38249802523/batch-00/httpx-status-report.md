@@ -1,0 +1,107 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 12 12:38:05 UTC 2026
+
+HTTPX lines: 83
+Live URLs: 83
+
+## 200
+https://af-nf.dev.americanfortress.io [200] [] [2134] [AmazonS3] [13.249.141.105] [cloudfront] [278.525975ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://admin.dev.americanfortress.io [200] [] [1458] [FortressNames Admin] [AmazonS3] [99.84.203.10] [cloudfront] [281.906248ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://explorer.ambire.com [200] [] [2215] [Transaction details | Ambire Explorer] [cloudflare] [104.26.8.104] [cloudflare] [303.522319ms] [Cloudflare,Fastly,GitHub Pages,Varnish]
+https://admin.americanfortress.io [200] [] [1458] [FortressNames Admin] [AmazonS3] [3.170.185.24] [cloudfront] [301.978188ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://americanfortress.io [200] [] [94347] [AmericanFortress | Your Money. Your @Name. Nobody Else's Business.] [Vercel] [76.76.21.21] [151.785049ms] [HSTS,Vercel]
+https://admin.prod.americanfortress.io [200] [] [6194] [Administrator Access | MatterFi] [AmazonS3] [3.166.118.84] [cloudfront] [409.059827ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://autodiscover.armorwallet.ai [200] [] [3123] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [528.581182ms]
+https://app.armorwallet.ai [200] [] [3101] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [533.015255ms]
+https://airdrop.armorwallet.ai [200] [] [3104] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [568.166935ms]
+https://demo.armorwallet.ai [200] [] [3075] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [567.772008ms]
+https://beta.armorwallet.ai [200] [] [3065] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [565.567092ms]
+https://blog.armorwallet.ai [200] [] [3030] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [580.704899ms]
+https://blog.ambire.com [200] [] [88821] [Ambire Wallet Blog | Your Web3 Wallet That Just Works] [cloudflare] [172.67.74.156] [cloudflare] [427.79132ms] [Cloudflare,Express,Ghost:6.42,Google Tag Manager,Node.js,jsDelivr]
+https://codex.armorwallet.ai [200] [] [3055] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [639.138705ms]
+http://deck.armorwallet.ai [200] [] [3085] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [275.164603ms]
+https://handle.armorwallet.ai [200] [] [3090] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [557.041894ms]
+http://codexc.armorwallet.ai [200] [] [3065] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [288.72489ms]
+https://dev.armorwallet.ai [200] [] [3086] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [716.169622ms]
+http://docsc.armorwallet.ai [200] [] [3070] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [291.468769ms]
+https://info.armorwallet.ai [200] [] [3085] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [473.623499ms]
+https://mobile.ambire.com [200] [] [597] [AdEx Network] [cloudflare] [104.26.9.104] [cloudflare] [240.473068ms] [Cloudflare]
+https://docs.armorwallet.ai [200] [] [3075] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [859.322285ms]
+https://names.dev.americanfortress.io [200] [] [1935] [Send-to-Name – American Fortress] [AmazonS3] [108.156.107.121] [cloudfront] [264.103288ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://handlew.armorwallet.ai [200] [] [3064] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [282.150537ms]
+http://handlek.armorwallet.ai [200] [] [3084] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [283.366789ms]
+https://league.armorwallet.ai [200] [] [3115] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [572.161544ms]
+https://sigtool.ambire.com [200] [] [812] [SigTool for EVM] [cloudflare] [104.26.8.104] [cloudflare] [156.584476ms] [Cloudflare,Fastly,GitHub Pages,Varnish]
+https://new.armorwallet.ai [200] [] [3096] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [468.828788ms]
+https://rewards.ambire.com [200] [] [8464] [Ambire Rewards | Stake $WALLET & Earn Rewards] [cloudflare] [104.26.8.104] [cloudflare] [179.203412ms] [Cloudflare,Fastly,GitHub Pages,Google Tag Manager,Varnish]
+https://poc1.armorwallet.ai [200] [] [3040] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [452.409951ms]
+https://presale.armorwallet.ai [200] [] [3059] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [458.247519ms]
+https://quests.americanfortress.io [200] [] [3375] [cloudflare] [104.21.38.169] [cloudflare] [373.022282ms] [Amazon S3,Amazon Web Services,Cloudflare,HTTP/3,Next.js,Node.js,React,Render,Webpack]
+https://overrides.prod.americanfortress.io [200] [] [2163] [AmazonS3] [18.154.110.21] [cloudfront] [522.930782ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://wallet.ambire.com [200] [] [1008] [Ambire Wallet] [cloudflare] [104.26.9.104] [cloudflare] [200.811372ms] [Cloudflare,Fastly,GitHub Pages,Varnish]
+https://prompt.armorwallet.ai [200] [] [3095] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [518.230419ms]
+http://presale.dev.armorwallet.ai [200] [] [3108] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [291.249839ms]
+https://armorwallet.ai [200] [] [3042] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [1.556965609s]
+https://staging.armorwallet.ai [200] [] [3094] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [570.534983ms]
+https://test.armorwallet.ai [200] [] [3085] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [563.490487ms]
+https://www.armorwallet.ai [200] [] [3091] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [511.1414ms]
+https://wp.armorwallet.ai [200] [] [3076] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [612.340485ms]
+http://www.airdrop.armorwallet.ai [200] [] [3098] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [277.809249ms]
+http://www.codex.armorwallet.ai [200] [] [3079] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [299.921823ms]
+http://www.deck.armorwallet.ai [200] [] [3064] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [282.618057ms]
+http://www.league.armorwallet.ai [200] [] [3128] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [269.053669ms]
+http://www.info.armorwallet.ai [200] [] [3079] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [295.989232ms]
+http://www.poc1.armorwallet.ai [200] [] [3084] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [280.402984ms]
+http://www.presale.dev.armorwallet.ai [200] [] [3142] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [280.751098ms]
+http://www.presale.armorwallet.ai [200] [] [3123] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [292.584516ms]
+http://www.handle.armorwallet.ai [200] [] [3138] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [284.318559ms]
+http://www.prompt.armorwallet.ai [200] [] [3133] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [308.985963ms]
+http://www7.armorwallet.ai [200] [] [3060] [armorwallet.ai - armorwallet Resources and Information.] [Parking/1.0] [91.195.240.94] [282.329427ms]
+https://www.ambire.com [200] [] [476042] [Ambire Web3 Wallet for Ethereum & EVM] [cloudflare] [104.26.9.104] [cloudflare] [237.231307ms] [Cloudflare,Fastly,GitHub Pages,Google Tag Manager,Varnish]
+
+## 301
+https://ambire.com [301] [https://www.ambire.com] [167] [301 Moved Permanently] [cloudflare] [104.26.9.104] [cloudflare] [101.618186ms] [Cloudflare]
+https://codex.ambire.com [301] [https://help.ambire.com/en/collections/18211459-ambire-rewards] [167] [301 Moved Permanently] [cloudflare] [104.26.8.104] [cloudflare] [124.448651ms] [Cloudflare]
+https://forum.ambire.com [301] [https://discord.com/invite/ambire] [167] [301 Moved Permanently] [cloudflare] [104.26.9.104] [cloudflare] [133.151682ms] [Cloudflare]
+https://legends.ambire.com [301] [https://rewards.ambire.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.9.104] [cloudflare] [80.255191ms] [Cloudflare]
+http://zendesk-tickets.ambire.com [301] [https://zendesk-tickets.ambire.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.8.104] [cloudflare] [62.906116ms] [Cloudflare]
+
+## 302
+https://bastion.americanfortress.io [302] [https://matterfi-bastion.auth.us-east-1.amazoncognito.com/oauth2/authorize?client_id=mf18p29nmem564bu6ufm21e1o&response_type=code&scope=openid+email+profile&redirect_uri=https%3A%2F%2Fbastion.americanfortress.io%2F_auth%2Fcallback&identity_provider=Google] [0] [CloudFront] [52.85.12.12] [cloudfront] [483.903792ms] [Amazon CloudFront,Amazon Web Services]
+https://help.ambire.com [302] [https://help.ambire.com/en/] [0] [cloudflare] [172.67.74.156] [cloudflare] [241.079156ms] [Cloudflare]
+https://monitor.ambire.com [302] [/auth/login/] [0] [cloudflare] [104.26.8.104] [cloudflare] [468.355676ms] [Cloudflare]
+https://videntes.ambire.com [302] [/login?next=%2F] [0] [nginx/1.18.0 (Ubuntu)] [143.198.103.157] [218.646584ms] [Nginx:1.18.0,Ubuntu]
+
+## 307
+
+## 308
+https://www.americanfortress.io [308] [https://americanfortress.io/] [15] [Vercel] [76.76.21.21] [199.218442ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://af-nf-api.dev.americanfortress.io [403] [] [118] [403 Forbidden] [] [18.220.190.221] [220.472711ms]
+https://admin-api.prod.americanfortress.io [403] [] [118] [403 Forbidden] [] [50.17.177.197] [253.614757ms]
+https://admin-api.americanfortress.io [403] [] [520] [403 Forbidden] [] [98.84.204.37] [397.852592ms]
+https://admin-api.dev.americanfortress.io [403] [] [118] [403 Forbidden] [] [3.12.26.40] [470.050987ms]
+https://hooks.us.watchtower-stg.americanfortress.io [403] [] [520] [403 Forbidden] [awselb/2.0] [34.238.179.146] [262.371097ms] [Amazon ELB,Amazon Web Services]
+https://names.americanfortress.io [403] [] [5693] [Just a moment...] [cloudflare] [104.21.3.226] [cloudflare] [97.372152ms] [Cloudflare,HTTP/3]
+https://lt-nf-api.prod.americanfortress.io [403] [] [520] [403 Forbidden] [] [100.62.0.105] [250.991804ms]
+https://names-api.dev.americanfortress.io [403] [] [118] [403 Forbidden] [] [18.226.24.80] [215.115469ms]
+https://names-api.americanfortress.io [403] [] [118] [403 Forbidden] [] [52.3.52.229] [225.542473ms]
+https://overrides-api.prod.americanfortress.io [403] [] [520] [403 Forbidden] [] [13.223.219.53] [222.586613ms]
+https://sigstore.watchtower-stg.americanfortress.io [403] [] [118] [403 Forbidden] [awselb/2.0] [54.144.213.109] [145.211547ms] [Amazon ELB,Amazon Web Services]
+http://www.app.armorwallet.ai [403] [] [93] [] [91.195.240.94] [263.763932ms]
+
+## 404
+https://cena.ambire.com [404] [] [139] [Error] [cloudflare] [104.26.9.104] [cloudflare] [336.880056ms] [Cloudflare,Express,Node.js]
+https://nftcdn.ambire.com [404] [] [0] [cloudflare] [172.67.74.156] [cloudflare] [222.781135ms] [Cloudflare]
+https://relayer.ambire.com [404] [] [139] [Error] [cloudflare] [104.26.8.104] [cloudflare] [226.651104ms] [Cloudflare,Express,Node.js]
+
+## 500
+
+## 502
+
+## 503
+

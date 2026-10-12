@@ -1,0 +1,5 @@
+https://ambire.com [301] [https://www.ambire.com] [167] [301 Moved Permanently] [cloudflare] [104.26.9.104] [cloudflare] [101.618186ms] [Cloudflare]
+https://codex.ambire.com [301] [https://help.ambire.com/en/collections/18211459-ambire-rewards] [167] [301 Moved Permanently] [cloudflare] [104.26.8.104] [cloudflare] [124.448651ms] [Cloudflare]
+https://forum.ambire.com [301] [https://discord.com/invite/ambire] [167] [301 Moved Permanently] [cloudflare] [104.26.9.104] [cloudflare] [133.151682ms] [Cloudflare]
+https://legends.ambire.com [301] [https://rewards.ambire.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.9.104] [cloudflare] [80.255191ms] [Cloudflare]
+http://zendesk-tickets.ambire.com [301] [https://zendesk-tickets.ambire.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.8.104] [cloudflare] [62.906116ms] [Cloudflare]
