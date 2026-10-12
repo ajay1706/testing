@@ -1,0 +1,6 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] zenithcloud-v1.rlgym.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] zeta3-data-browser-migration.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] zenithcloud-v1.rlgym.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] zeta3-data-browser-migration.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[expired-ssl] [ssl] [low] yimin9962-35f5d775.preview.benchflow.ai:443 ["2026-10-03 06:29:46 +0000 UTC"]
+[expired-ssl] [ssl] [low] yutori.expedia.halluminate.ai:443 ["2025-12-23 00:29:29 +0000 UTC"]
