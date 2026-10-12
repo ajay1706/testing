@@ -1,0 +1,2 @@
+https://docs.joy.id [301] [https://docs.joyid.dev/] [15] [Vercel] [66.33.60.193] [78.155932ms] [HSTS,Vercel]
+https://keypal.pro [301] [https://www.keypal.pro/] [166] [301 Moved Permanently] [APISIX/2.13.1] [18.166.36.115] [634.33428ms] [Apache APISIX:2.13.1,HSTS]
