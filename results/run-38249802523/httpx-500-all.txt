@@ -1,4 +1,5 @@
 https://blowfish-blocklist-proxy.phantom.app [500] [] [17] [cloudflare] [172.64.152.29] [cloudflare] [47.402201ms] [Cloudflare,HTTP/3]
+https://nft-contracts.magic.link [500] [] [5511] [Vercel] [66.33.60.66] [2.42552333s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
 https://stock-logos.workers.backpack.app [500] [] [17] [cloudflare] [104.18.6.49] [cloudflare] [137.810841ms] [Cloudflare]
 https://sui-img.tokeo.io [500] [] [690] [500 Server Error] [cloudflare] [104.21.22.88] [cloudflare] [314.107719ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud Trace,HTTP/3]
 https://v2.verse.bitcoin.com [500] [] [21] [cloudflare] [104.18.3.139] [cloudflare] [2.619032044s] [Cloudflare,HTTP/3,Next.js,Node.js,React,Webpack]
