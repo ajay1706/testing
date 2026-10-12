@@ -1,0 +1,5 @@
+https://backup.squads.so [301] [https://docs.squads.so/main/additional-resources/what-if-the-squads-app-goes-down/] [0] [AmazonS3] [13.225.222.121] [cloudfront] [166.929422ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://devnet.squads.so [301] [https://squads.xyz/] [0] [CloudFront] [52.84.199.104] [cloudfront] [231.779429ms] [Amazon CloudFront,Amazon Web Services]
+https://sorted.io [301] [https://www.sorted.io/] [37] [Netlify] [75.2.60.5] [174.716695ms] [HSTS,Netlify]
+https://testnet.squads.so [301] [https://squads.xyz/] [0] [CloudFront] [52.84.199.104] [cloudfront] [106.336667ms] [Amazon CloudFront,Amazon Web Services]
+https://www.slush.app [301] [https://slush.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [431.345238ms] [Cloudflare,HSTS,HTTP/3]

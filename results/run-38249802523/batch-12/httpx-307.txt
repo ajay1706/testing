@@ -1,0 +1,4 @@
+https://docs.squads.so [307] [https://docs.squads.so/main/] [15] [cloudflare] [104.18.40.47] [cloudflare] [632.986172ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://documentation.squads.so [307] [https://docs.squads.so/main/] [15] [cloudflare] [104.18.40.47] [cloudflare] [1.330092536s] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://business.staging.sorted.io [307] [/login] [6] [] [18.238.152.42] [cloudfront] [2.039968674s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://business.sorted.io [307] [/login] [6] [] [18.154.219.53] [cloudfront] [2.087633435s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
