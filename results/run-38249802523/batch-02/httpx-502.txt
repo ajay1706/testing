@@ -1,0 +1,2 @@
+https://service-api.cakewallet.com [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [139.162.134.109] [1.302863036s] [Nginx:1.24.0,Ubuntu]
+https://walletconnect-v2.ops.bitcoin.com [502] [] [524] [502 Bad Gateway] [awselb/2.0] [3.115.131.111] [4.645796294s] [Amazon ELB,Amazon Web Services]
