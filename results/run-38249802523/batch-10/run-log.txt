@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 12 12:42:39 UTC 2026
+[+] Run ID: 38249802523
+[+] Batch name: batch-10
+[+] Batch targets:
+nabox.io
+oyl.io
+phantom.app
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 12 12:43:04 UTC 2026
+[+] HTTPX input count: 438
+[+] Running httpx...
+[+] httpx completed: Mon Oct 12 12:44:40 UTC 2026
+[+] httpx line count: 100
+[+] Batch completed: Mon Oct 12 12:44:40 UTC 2026
