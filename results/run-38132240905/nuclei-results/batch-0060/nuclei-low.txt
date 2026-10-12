@@ -1,0 +1,24 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] v2.api.sol-incinerator.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v2.api.sol-incinerator.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] vetting-engine-new.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vetting-engine-new.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] vetting-lab.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vetting-lab.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] waybill-v1.rlgym.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] waybill-v1.rlgym.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[javascript-env] [http] [low] https://vetting-engine-new.turing.com/__ENV.js
+[kubernetes-metrics] [http] [low] https://vetting-engine-new.turing.com/metrics
+[unauthenticated-varnish-cache-purge] [http] [low] https://vlm-bench.turing.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://vlm-bench.turing.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://vlm-bench.turing.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://vlm-bench.turing.com
+[kubernetes-fake-certificate] [ssl] [low] vetting-apt-ide.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] vetting-apt-ide.turing.com:443
+[kubernetes-fake-certificate] [ssl] [low] vetting-engine-socket-uat.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] vetting-engine-socket-uat.turing.com:443
+[kubernetes-fake-certificate] [ssl] [low] vetting-engine-socket-staging.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] vetting-engine-socket-staging.turing.com:443
+[expired-ssl] [ssl] [low] viewer.datacurve.ai:443 ["2025-01-27 15:50:43 +0000 UTC"]
+[expired-ssl] [ssl] [low] viewers.datacurve.ai:443 ["2025-02-06 05:11:11 +0000 UTC"]
+[expired-ssl] [ssl] [low] vpn.scale.com:443 ["2026-06-13 04:37:47 +0000 UTC"]
+[expired-ssl] [ssl] [low] vista.datacurve.ai:443 ["2025-02-26 08:51:33 +0000 UTC"]
