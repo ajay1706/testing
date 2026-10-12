@@ -1,0 +1,6 @@
+https://autodiscover.magne.ai [302] [/interface/root] [0] [nginx/1.22.1] [162.244.93.81] [250.275967ms] [Nginx:1.22.1]
+https://developers.magic.link [302] [https://magic.link/docs/connect/overview] [0] [cloudflare] [104.18.23.227] [cloudflare] [355.422671ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://developer.magic.link [302] [https://magic.link/docs/connect/overview] [0] [cloudflare] [104.18.22.227] [cloudflare] [365.381978ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://community.magic.link [302] [https://discord.gg/magiclabs] [0] [cloudflare] [104.18.23.227] [cloudflare] [1.099531047s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://go.magic.link [302] [https://go.magic.link/?rb.routing.mode=proxy&rb.routing.signature=211223] [0] [] [52.72.49.79] [4.210709576s] [HSTS]
+https://mail.magne.ai [302] [/interface/root] [0] [nginx/1.22.1] [162.244.93.81] [2.560986494s] [Nginx:1.22.1]

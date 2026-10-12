@@ -1,0 +1,5 @@
+https://dashboard.magic.link [308] [/login] [15] [Vercel] [76.76.21.21] [105.622716ms] [HSTS,Vercel]
+https://docs.magic.link [308] [/home/welcome] [112276] [cloudflare] [104.18.23.227] [cloudflare] [1.161192487s] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://magne.ai [308] [https://www.magne.ai/] [57] [cloudflare] [104.21.87.88] [cloudflare] [3.222084311s] [Cloudflare,HSTS,HTTP/3]
+https://treasury.stagef.magic.link [308] [/treasury] [15] [Vercel] [64.239.109.193] [115.610559ms] [HSTS,Vercel]
+http://www.meneseprotocol.io [308] [https://www.meneseprotocol.io/] [0] [] [63.251.162.11] [154.587606ms]

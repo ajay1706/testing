@@ -1,0 +1,151 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 12 12:59:41 UTC 2026
+
+HTTPX lines: 124
+Live URLs: 124
+
+## 200
+https://box.magic.link [200] [] [752] [AmazonS3] [65.8.20.56] [cloudfront] [186.487821ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Leadfeeder]
+https://demo.magic.link [200] [] [15922] [Demo | Magic] [Vercel] [76.76.21.93] [158.005079ms] [HSTS,Vercel]
+https://dd.magne.ai [200] [] [9189] [MAGNE.AI Due Diligence Data Room] [cloudflare] [172.67.169.46] [cloudflare] [513.505037ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dev.magic.link [200] [] [144168] [Magic Labs | The fastest way to build onchain] [Vercel] [76.76.21.21] [130.333064ms] [HSTS,Vercel]
+https://magic.link [200] [] [144168] [Magic Labs | The fastest way to build onchain] [Vercel] [76.76.21.21] [1.114818945s] [HSTS,Vercel]
+https://payment.magne.ai [200] [] [8913] [Magne.AI] [cloudflare] [104.21.87.88] [cloudflare] [456.749167ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://reveal.magic.link [200] [] [1396] [Vercel] [76.76.21.164] [132.505459ms] [HSTS,Vercel]
+https://vercel-test-app.magic.link [200] [] [4922] [Create Next App] [Vercel] [76.76.21.142] [141.235497ms] [HSTS,Vercel]
+https://test-payment.magne.ai [200] [] [8946] [Magne.AI] [cloudflare] [172.67.169.46] [cloudflare] [428.446668ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://stagef.magic.link [200] [] [144168] [Magic Labs | The fastest way to build onchain] [Vercel] [76.76.21.21] [116.952185ms] [HSTS,Vercel]
+https://web3.magne.ai [200] [] [94504] [MAGNE.AI] [nginx] [198.13.38.119] [567.960216ms] [C3.js,HSTS,Next.js,Nginx,Node.js,React,Webpack]
+https://w3.magne.ai [200] [] [114876] [W3.MAGNE.AI — Agent Infrastructure Control Layer] [cloudflare] [172.67.169.46] [cloudflare] [641.390147ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://status.magic.link [200] [] [135626] [Magic Status] [AtlassianEdge] [13.32.230.5] [cloudfront] [771.75068ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://www.magne.ai [200] [] [29610] [MAGNE.AI｜把所有權，放回手上] [cloudflare] [172.67.169.46] [cloudflare] [1.488817106s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 301
+http://apiw.toaster.uswe2.stagef.magic.link [301] [https://apiw.toaster.uswe2.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.227] [cloudflare] [26.16988ms] [Cloudflare,Cloudflare Bot Management]
+http://assets.auth.stagef.magic.link [301] [https://assets.auth.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.227] [cloudflare] [26.800224ms] [Cloudflare,Cloudflare Bot Management]
+http://api.toaster.uswe2.stagef.magic.link [301] [https://api.toaster.uswe2.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.23.227] [cloudflare] [30.700381ms] [Cloudflare,Cloudflare Bot Management]
+http://api.toaster.apno2.stagef.magic.link [301] [https://api.toaster.apno2.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.227] [cloudflare] [49.711607ms] [Cloudflare,Cloudflare Bot Management]
+http://editor.magic.link [301] [https://editor.magic.link/] [162] [301 Moved Permanently] [nginx] [34.217.231.110] [71.015249ms] [Nginx]
+http://email.magic.link [301] [https://email.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.227] [cloudflare] [3.06452s] [Cloudflare,Cloudflare Bot Management]
+http://gas-api.stagef.magic.link [301] [https://gas-api.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.23.227] [cloudflare] [63.28559ms] [Cloudflare,Cloudflare Bot Management]
+http://meneseprotocol.io [301] [https://cqby3-2qaaa-aaaad-aczdq-cai.icp0.io/] [162] [301 Moved Permanently] [hcdn] [2.57.91.91] [121.857284ms] [HTTP/3,Hostinger CDN]
+http://help.magic.link [301] [https://help.magic.link/] [0] [cloudflare] [199.60.103.29] [62.266277ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://toaster.apne2.stagef.magic.link [301] [https://toaster.apne2.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.227] [cloudflare] [40.439544ms] [Cloudflare,Cloudflare Bot Management]
+http://toaster.apno2.stagef.magic.link [301] [https://toaster.apno2.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.23.227] [cloudflare] [31.664558ms] [Cloudflare,Cloudflare Bot Management]
+http://toaster.usw2.stagef.magic.link [301] [https://toaster.usw2.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.23.227] [cloudflare] [24.92948ms] [Cloudflare,Cloudflare Bot Management]
+http://toaster.uswe2.stagef.magic.link [301] [https://toaster.uswe2.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.227] [cloudflare] [25.295333ms] [Cloudflare,Cloudflare Bot Management]
+http://walletconnect-stagef-ftmt-xyz.auth.stagef.magic.link [301] [https://walletconnect-stagef-ftmt-xyz.auth.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.23.227] [cloudflare] [35.686991ms] [Cloudflare,Cloudflare Bot Management]
+https://wallet.magic.link [301] [https://reveal.magic.link/magic-wallet] [167] [301 Moved Permanently] [cloudflare] [104.18.23.227] [cloudflare] [104.785418ms] [Cloudflare,HSTS]
+http://www.dkms-customer-api.stagef.magic.link [301] [https://www.dkms-customer-api.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.227] [cloudflare] [24.888491ms] [Cloudflare,Cloudflare Bot Management]
+http://www.fcl.stagef.magic.link [301] [https://www.fcl.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.227] [cloudflare] [30.992018ms] [Cloudflare,Cloudflare Bot Management]
+http://www.events.stagef.magic.link [301] [https://www.events.stagef.magic.link/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.227] [cloudflare] [28.752807ms] [Cloudflare,Cloudflare Bot Management]
+http://test-dex.magne.ai [301] [https://test-dex.magne.ai/] [534] [301 Moved Permanently] [cloudflare] [104.21.87.88] [cloudflare] [30.990373ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.magic.link [301] [https://magic.link/] [15] [Vercel] [76.76.21.21] [5.146805216s] [HSTS,Vercel]
+
+## 302
+https://autodiscover.magne.ai [302] [/interface/root] [0] [nginx/1.22.1] [162.244.93.81] [250.275967ms] [Nginx:1.22.1]
+https://developers.magic.link [302] [https://magic.link/docs/connect/overview] [0] [cloudflare] [104.18.23.227] [cloudflare] [355.422671ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://developer.magic.link [302] [https://magic.link/docs/connect/overview] [0] [cloudflare] [104.18.22.227] [cloudflare] [365.381978ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://community.magic.link [302] [https://discord.gg/magiclabs] [0] [cloudflare] [104.18.23.227] [cloudflare] [1.099531047s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://go.magic.link [302] [https://go.magic.link/?rb.routing.mode=proxy&rb.routing.signature=211223] [0] [] [52.72.49.79] [4.210709576s] [HSTS]
+https://mail.magne.ai [302] [/interface/root] [0] [nginx/1.22.1] [162.244.93.81] [2.560986494s] [Nginx:1.22.1]
+
+## 307
+https://1password.magic.link [307] [/app/] [41] [] [44.239.151.176] [141.617022ms]
+https://treasury.magic.link [307] [/treasury] [6796] [Magic Treasury] [Vercel] [64.239.109.193] [119.421131ms] [HSTS,Vercel]
+
+## 308
+https://dashboard.magic.link [308] [/login] [15] [Vercel] [76.76.21.21] [105.622716ms] [HSTS,Vercel]
+https://docs.magic.link [308] [/home/welcome] [112276] [cloudflare] [104.18.23.227] [cloudflare] [1.161192487s] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://magne.ai [308] [https://www.magne.ai/] [57] [cloudflare] [104.21.87.88] [cloudflare] [3.222084311s] [Cloudflare,HSTS,HTTP/3]
+https://treasury.stagef.magic.link [308] [/treasury] [15] [Vercel] [64.239.109.193] [115.610559ms] [HSTS,Vercel]
+http://www.meneseprotocol.io [308] [https://www.meneseprotocol.io/] [0] [] [63.251.162.11] [154.587606ms]
+
+## 401
+https://dashboard.stagef.magic.link [401] [] [15556] [Protected Page] [Vercel] [76.76.21.21] [106.897459ms] [HSTS,Vercel]
+https://dashboard.sandbox.magic.link [401] [] [15557] [Protected Page] [Vercel] [64.239.123.193] [189.104928ms] [HSTS,Vercel]
+
+## 403
+https://api.magic.link [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.23.227] [cloudflare] [58.15699ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.dev.magic.link [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.23.227] [cloudflare] [78.164224ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.stagef.magic.link [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.23.227] [cloudflare] [77.572887ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://assets.auth.magic.link [403] [] [111] [AmazonS3] [65.8.20.128] [cloudfront] [196.665209ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://assets.magic.link [403] [] [111] [AmazonS3] [18.238.96.21] [cloudfront] [165.431909ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://assets.dashboard.magic.link [403] [] [111] [AmazonS3] [18.238.109.102] [cloudfront] [202.718538ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://assets.dashboard.dev.magic.link [403] [] [111] [cloudflare] [104.18.23.227] [cloudflare] [310.059008ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://apno2.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.22.227] [cloudflare] [409.926949ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://apia.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.22.227] [cloudflare] [408.188374ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://apne2.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.22.227] [cloudflare] [406.615738ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://assets.auth.dev.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [411.197757ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.ops.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.22.227] [cloudflare] [443.748147ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://auth.dev.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [246.368264ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://box.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [129.882133ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://box.dev.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.22.227] [cloudflare] [161.222014ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://cognito.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [107.358889ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dashboard.dev.magic.link [403] [] [5564] [Just a moment...] [cloudflare] [104.18.23.227] [cloudflare] [68.102865ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dashboard3.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [101.641162ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dkms-customer-api.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.22.227] [cloudflare] [100.801975ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dkms-customer-apio.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.22.227] [cloudflare] [135.311876ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://events.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.22.227] [cloudflare] [2.12723781s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://gas-api.dev.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [3.132851615s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://legacy.stagef.magic.link [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.23.227] [cloudflare] [3.08231038s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://nft-api.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [121.485264ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://mail.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [3.135506787s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://legacy.magic.link [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.23.227] [cloudflare] [5.09431362s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://reds.dev.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [109.699946ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://reds.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.22.227] [cloudflare] [131.130317ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://nft-api.dev.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.22.227] [cloudflare] [2.094554177s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://trust.magic.link [403] [] [5662] [Just a moment...] [cloudflare] [172.64.146.8] [cloudflare] [115.790493ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://uswe2.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.22.227] [cloudflare] [129.472883ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://usw2.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [115.647966ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://wallet.dev.magic.link [403] [] [38011] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [129.466027ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://wallet.stagef.magic.link [403] [] [38011] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [153.794864ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://wildcard.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [220.412937ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.stagef.magic.link [403] [] [37790] [Error ・ Cloudflare Access] [cloudflare] [104.18.23.227] [cloudflare] [97.310338ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://api.toaster.magic.link [404] [] [22] [cloudflare] [104.18.22.227] [cloudflare] [113.616318ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.toaster.stagef.magic.link [404] [] [22] [cloudflare] [104.18.22.227] [cloudflare] [131.911919ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.dashboard.stagef.magic.link [404] [] [22] [cloudflare] [104.18.23.227] [cloudflare] [132.785237ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.toaster.usw2.stagef.magic.link [404] [] [22] [uvicorn] [100.20.30.129] [143.25666ms] [Python,Uvicorn]
+https://api.dashboard.sandbox.magic.link [404] [] [22] [cloudflare] [104.18.23.227] [cloudflare] [146.504733ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.toaster.sandbox.magic.link [404] [] [22] [cloudflare] [104.18.23.227] [cloudflare] [148.929325ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.toaster.usw2.magic.link [404] [] [22] [uvicorn] [52.39.249.221] [179.076097ms] [Python,Uvicorn]
+https://api.dashboard-api.prod-uswe2.magic.link [404] [] [22] [uvicorn] [52.43.180.119] [179.979481ms] [Python,Uvicorn]
+https://api.dashboard.magic.link [404] [] [22] [cloudflare] [104.18.22.227] [cloudflare] [204.580125ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.dashboard-api.stagef-uswe2.magic.link [404] [] [22] [uvicorn] [54.187.239.61] [221.894909ms] [Python,Uvicorn]
+https://auth-brella-io.partner-auth.magic.link [404] [] [0] [cloudflare] [104.18.22.227] [cloudflare] [131.113335ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://auth-clashofcoins-com.partner-auth.magic.link [404] [] [0] [cloudflare] [104.18.23.227] [cloudflare] [130.357143ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://auth-sportx-bet.partner-auth.magic.link [404] [] [0] [cloudflare] [104.18.23.227] [cloudflare] [132.754186ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://auth-plotx-io.partner-auth.magic.link [404] [] [0] [cloudflare] [104.18.23.227] [cloudflare] [157.997033ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://auth-sx-bet.partner-auth.magic.link [404] [] [0] [cloudflare] [104.18.22.227] [cloudflare] [134.046241ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.meneseprotocol.io [404] [] [146] [404 Not Found] [nginx] [194.31.150.154] [488.245064ms] [Nginx]
+https://auth.magic.link [404] [] [15193] [Magic] [Vercel] [66.33.60.66] [154.869436ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://auth.sandbox.magic.link [404] [] [15193] [Magic] [Vercel] [64.239.109.129] [214.063049ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://auth.preview.magic.link [404] [] [107] [Vercel] [76.76.21.21] [482.227201ms] [HSTS,Vercel]
+https://auth.stagef.magic.link [404] [] [15193] [Magic] [Vercel] [64.239.109.65] [231.334683ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://cloak-api.meneseprotocol.io [404] [] [139] [Error] [nginx] [194.31.150.154] [683.319444ms] [Express,Nginx,Node.js]
+https://gas-api.magic.link [404] [] [146] [404 Not Found] [cloudflare] [104.18.22.227] [cloudflare] [2.155908152s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://landing.magic.link [404] [] [47858] [Open main menu] [cloudflare] [199.60.103.29] [4.539002475s] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub]
+https://nft-api.magic.link [404] [] [70] [cloudflare] [104.18.22.227] [cloudflare] [1.125112959s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://links.magic.link [404] [] [0] [cloudflare] [104.18.22.227] [cloudflare] [4.165573717s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://partner-auth.magic.link [404] [] [0] [cloudflare] [104.18.22.227] [cloudflare] [1.137944192s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://next.stagef.magic.link [404] [] [15193] [Magic] [Vercel] [66.33.60.66] [3.193240106s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://next.magic.link [404] [] [107] [Vercel] [76.76.21.22] [3.479520747s] [HSTS,Vercel]
+https://register-walletconnect-com.partner-auth.magic.link [404] [] [107] [Vercel] [66.33.60.66] [471.976736ms] [HSTS,Vercel]
+https://walletconnect-ftmt-xyz.partner-auth.magic.link [404] [] [0] [cloudflare] [104.18.23.227] [cloudflare] [146.025902ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://url4625.magic.link [404] [] [146] [404 Not Found] [nginx] [52.85.132.35] [cloudfront] [197.827397ms] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx]
+https://treasury.staging.magic.link [404] [] [107] [Vercel] [64.239.109.193] [505.307628ms] [HSTS,Vercel]
+http://register-staging-walletconnect-com.partner-auth.magic.link [404] [] [107] [Vercel] [64.239.109.129] [600.731227ms] [Vercel]
+
+## 500
+https://nft-contracts.magic.link [500] [] [5511] [Vercel] [66.33.60.66] [2.42552333s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 502
+https://test-web3-cms.magne.ai [502] [] [150] [502 Bad Gateway] [nginx] [167.179.80.178] [377.054214ms] [Nginx]
+https://test-web3.magne.ai [502] [] [16] [cloudflare] [172.67.169.46] [cloudflare] [436.296253ms] [Cloudflare,HTTP/3]
+
+## 503
+https://api.toaster.apne2.magic.link [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [54.116.59.200] [468.223395ms] [Amazon ELB,Amazon Web Services]
+
