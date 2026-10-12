@@ -1,0 +1,42 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] rl-gym.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rl-gym.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rl-gym.collinear.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rl-world.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rl-gym.collinear.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rl-world.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rlhf-develop.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rlhf-develop.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rlworld.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rlworld.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc.famousfoxes.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rpc2.famousfoxes.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc.famousfoxes.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rpc2.famousfoxes.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rwp-pilot.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rwp-external.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rwp-pilot.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rwp-external.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://research.turing.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://research.turing.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://research.turing.com
+[google-api-key] [http] [low] https://rl-world.turing.com ["AIzaSyBdqek2VsKWxZOFjScZT6UKn6Ju1swKiR8"]
+[google-api-key] [http] [low] https://rl-world.turing.com/hopfully404 ["AIzaSyBdqek2VsKWxZOFjScZT6UKn6Ju1swKiR8"]
+[google-api-key] [http] [low] https://rlworld.turing.com ["AIzaSyBdqek2VsKWxZOFjScZT6UKn6Ju1swKiR8"]
+[google-api-key] [http] [low] https://rlworld.turing.com/hopfully404 ["AIzaSyBdqek2VsKWxZOFjScZT6UKn6Ju1swKiR8"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://research.turing.com
+[kubernetes-fake-certificate] [ssl] [low] rl-gym-advance-platform.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rl-gym-advance-platform.turing.com:443
+[kubernetes-fake-certificate] [ssl] [low] rl-gym-amazon-mcp.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rl-gym-amazon-mcp.turing.com:443
+[kubernetes-fake-certificate] [ssl] [low] rl-gym-labs-dev.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rl-gym-labs-dev.turing.com:443
+[kubernetes-fake-certificate] [ssl] [low] rl-gym-labs-uat.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rl-gym-labs-uat.turing.com:443
+[kubernetes-fake-certificate] [ssl] [low] rl-gym-labs.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rl-gym-labs.turing.com:443
+[kubernetes-fake-certificate] [ssl] [low] rl-gym-sf.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rl-gym-sf.turing.com:443
+[kubernetes-fake-certificate] [ssl] [low] rl-gym-m.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rl-gym-m.turing.com:443
+[kubernetes-fake-certificate] [ssl] [low] rl-gym-sn.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] rl-gym-sn.turing.com:443
