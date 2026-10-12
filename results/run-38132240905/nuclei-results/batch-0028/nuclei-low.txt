@@ -1,0 +1,22 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] experts.bespokelabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] experts.bespokelabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] famousfoxes.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] famousfoxes.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ffflip.famousfoxes.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ffflip.famousfoxes.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] forcesales-v1.rlgym.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] forcesales-v1.rlgym.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fortuna-stg.famousfoxes.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fortuna-stg.famousfoxes.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fortuna.famousfoxes.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fortuna.famousfoxes.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] forum.turing.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] forum.turing.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://flow-orchestration.micro1.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://flow-orchestration.micro1.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://flow-orchestration.micro1.ai
+[python-metrics] [http] [low] https://flower.gdm-agentic-vet.turing.com/metrics
+[unauthenticated-varnish-cache-purge] [http] [low] https://flow-orchestration.micro1.ai
+[ds-store-file] [http] [low] https://ffflip.famousfoxes.com/.DS_Store
+[expired-ssl] [ssl] [low] feedback-development.pareto.ai:443 ["2026-06-03 17:02:49 +0000 UTC"]
+[expired-ssl] [ssl] [low] forte.preview.pareto.ai:443 ["2025-11-17 12:45:50 +0000 UTC"]
