@@ -1,0 +1,85 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 12 12:38:04 UTC 2026
+
+HTTPX lines: 57
+Live URLs: 57
+
+## 200
+https://dev-mobile.bestwallet.com [200] [] [2127] [Best Bitcoin & Crypto Wallet: The Best Way to Buy & Sell Crypto] [] [199.36.158.100] [44.218897ms] [Firebase,HSTS,HTTP/3]
+https://dapps.bestwallet.com [200] [] [10695] [Best Wallet | DApps] [AmazonS3] [3.170.3.44] [cloudfront] [305.713648ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://backpack.app [200] [] [61659] [Backpack: Crypto Exchange & Wallet | Solana, Ethereum & BTC] [Vercel] [76.76.21.21] [49.978382ms] [Google Tag Manager,HSTS,Vercel]
+https://mobile.bestwallet.com [200] [] [2238] [Best Bitcoin & Crypto Wallet: The Best Way to Buy & Sell Crypto] [] [199.36.158.100] [39.401505ms] [Firebase,HSTS,HTTP/3]
+https://affiliate.ballet.com [200] [] [7389] [Affiliate Portal] [Caddy] [162.55.161.122] [441.872111ms] [Caddy,HTTP/3]
+https://jobs.backpack.app [200] [] [4906] [Backpack] [Vercel] [66.33.60.194] [65.796621ms] [HSTS,Vercel]
+https://mobile.workers.backpack.app [200] [] [11] [cloudflare] [104.18.6.49] [cloudflare] [144.757175ms] [Cloudflare,Cloudflare Bot Management]
+https://app.bestwallet.com [200] [] [8081] [Best Wallet] [AmazonS3] [52.85.193.18] [cloudfront] [562.367071ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://staging-mobile.bestwallet.com [200] [] [2236] [Best Bitcoin & Crypto Wallet: The Best Way to Buy & Sell Crypto] [] [199.36.158.100] [91.741387ms] [Firebase,HSTS,HTTP/3]
+https://social-trades.backpack.app [200] [] [441] [Social Trades] [cloudflare] [104.18.6.49] [cloudflare] [166.914245ms] [Cloudflare,Cloudflare Bot Management]
+https://sec-api.workers.backpack.app [200] [] [873] [cloudflare] [104.18.7.49] [cloudflare] [258.399623ms] [Cloudflare,Cloudflare Bot Management]
+https://qa-mobile.bestwallet.com [200] [] [2238] [Best Bitcoin & Crypto Wallet: The Best Way to Buy & Sell Crypto] [] [199.36.158.100] [292.819953ms] [Firebase,HSTS,HTTP/3]
+https://links.backpack.app [200] [] [135777] [LINKS.BACKPACK.APP - A Dub Custom Domain | Dub] [Vercel] [66.33.60.66] [101.967592ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.backpack.app [200] [] [330645] [Deeplinks | Backpack Wallet Docs] [cloudflare] [172.64.147.209] [cloudflare] [183.181255ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://onsite.ballet.com [200] [] [8516] [Ballet Cryptocurrency Wallet - Making Crypto Easy] [] [13.227.65.118] [cloudfront] [1.695707313s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://bitcoin.ballet.com [200] [] [350787] [Ballet Physical Bitcoin - Making Crypto Easy] [AmazonS3] [13.226.209.64] [cloudfront] [725.792695ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Ant Design,Gatsby:4.25.0,Google Tag Manager,HSTS,React,Webpack]
+https://news.backpack.app [200] [] [87056] [Backpack Newsletter | Substack] [cloudflare] [172.64.151.232] [cloudflare] [84.550695ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js,Substack]
+https://www.ballet.com [200] [] [298686] [Secure Your Crypto with Ballet Cold Storage Wallet] [AmazonS3] [13.226.238.51] [cloudfront] [4.632043495s] [Amazon CloudFront,Amazon S3,Amazon Web Services,Ant Design,Gatsby:5.2.0,Google Tag Manager,HSTS,React,Webpack]
+
+## 301
+https://help.bestwallet.com [301] [/en/] [38] [nginx] [172.65.251.114] [cloudflare] [349.343159ms] [HSTS,Nginx]
+https://bestwallet.com [301] [https://bestwallet.com/en/] [0] [cloudflare] [172.66.155.34] [cloudflare] [674.01321ms] [Cloudflare]
+https://links.crisp.bestwallet.com [301] [https://crisp.email/] [162] [301 Moved Permanently] [nginx] [172.65.225.161] [cloudflare] [394.602282ms] [HSTS,Nginx]
+https://support.bestwallet.com [301] [https://help.bestwallet.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.37.238] [cloudflare] [128.536638ms] [Cloudflare]
+https://www.bestwallet.com [301] [https://bestwallet.com/en/] [0] [cloudflare] [172.66.155.34] [cloudflare] [1.675247828s] [Cloudflare]
+
+## 302
+https://ballet.com [302] [https://www.ballet.com/] [2170] [AmazonS3] [13.35.78.51] [cloudfront] [262.472658ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://coin.ballet.com [302] [https://store.ballet.com/products/cold-storage-coin] [2170] [AmazonS3] [13.35.78.51] [cloudfront] [270.821414ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://blog.ballet.com [302] [https://store.ballet.com/blogs/ballet-blogs] [2190] [AmazonS3] [13.35.78.108] [cloudfront] [285.270285ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://app.ballet.com [302] [https://www.ballet.com/app/] [2166] [AmazonS3] [13.35.78.108] [cloudfront] [293.255097ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://forever.ballet.com [302] [https://support.ballet.com/hc/en-us/articles/42636376599065-Notice-FOREVER-Inscriptions-will-be-discontinued] [2182] [AmazonS3] [13.35.78.108] [cloudfront] [63.432114ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://pro.ballet.com [302] [https://www.ballet.com/pro/] [2166] [AmazonS3] [13.35.78.3] [cloudfront] [128.388266ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://real.ballet.com [302] [https://store.ballet.com/pages/real] [2170] [AmazonS3] [13.35.78.3] [cloudfront] [159.33945ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://support.ballet.com [302] [https://support.ballet.com/hc] [0] [cloudflare] [216.198.53.6] [302.168335ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+
+## 307
+
+## 308
+https://www.backpack.app [308] [https://backpack.app/] [15] [Vercel] [76.76.21.21] [1.050172891s] [HSTS,Vercel]
+
+## 401
+https://dev.bestwallet.com [401] [] [1516] [401 Authorization Required] [cloudflare] [172.66.155.34] [cloudflare] [467.164303ms] [Basic,Cloudflare]
+https://rpc.backpack.app [401] [] [188] [401 Authorization Required] [nginx/1.24.0 (Ubuntu)] [108.181.93.162] [178.508752ms] [Basic,Nginx:1.24.0,Ubuntu]
+https://staging.bestwallet.com [401] [] [1114] [401 Authorization Required] [cloudflare] [172.66.155.34] [cloudflare] [500.88373ms] [Basic,Cloudflare]
+
+## 403
+http://ca.bestwallet.com [403] [] [787] [403 Forbidden] [LiteSpeed] [92.113.18.182] [184.850091ms] [Hostinger,LiteSpeed]
+http://ch.bestwallet.com [403] [] [787] [403 Forbidden] [LiteSpeed] [92.113.18.182] [187.531763ms] [Hostinger,LiteSpeed]
+http://de.bestwallet.com [403] [] [787] [403 Forbidden] [LiteSpeed] [92.113.18.182] [186.609094ms] [Hostinger,LiteSpeed]
+https://download.backpack.app [403] [] [17] [cloudflare] [172.66.0.157] [cloudflare] [414.159449ms] [Cloudflare,Cloudflare Bot Management]
+http://fr.bestwallet.com [403] [] [787] [403 Forbidden] [LiteSpeed] [92.113.18.182] [193.641467ms] [Hostinger,LiteSpeed]
+http://kr.bestwallet.com [403] [] [787] [403 Forbidden] [LiteSpeed] [92.113.18.182] [237.071763ms] [Hostinger,LiteSpeed]
+http://jp.bestwallet.com [403] [] [787] [403 Forbidden] [LiteSpeed] [92.113.18.182] [258.751404ms] [Hostinger,LiteSpeed]
+https://static.ballet.com [403] [] [111] [AmazonS3] [13.226.209.76] [cloudfront] [334.935435ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://uk.bestwallet.com [403] [] [787] [403 Forbidden] [LiteSpeed] [92.113.18.182] [214.824591ms] [Hostinger,LiteSpeed]
+http://us.bestwallet.com [403] [] [787] [403 Forbidden] [LiteSpeed] [92.113.18.182] [215.039646ms] [Hostinger,LiteSpeed]
+
+## 404
+https://api.ballet.com [404] [] [207] [404 Not Found] [nginx] [18.160.41.74] [cloudfront] [181.232479ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://api.bestwallet.com [404] [] [82] [] [3.170.3.32] [cloudfront] [192.613033ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://bpx-social-trades.r2.backpack.app [404] [] [27150] [Not Found] [cloudflare] [104.18.7.49] [cloudflare] [115.033478ms] [Cloudflare,Cloudflare Bot Management]
+https://cisionone-email.bestwallet.com [404] [] [19] [] [34.111.99.212] [google] [269.319624ms]
+https://campaigns.backpack.app [404] [] [107] [Vercel] [76.76.21.98] [318.548342ms] [HSTS,Vercel]
+https://admin.bestwallet.com [404] [] [107] [Vercel] [76.76.21.61] [360.862269ms] [HSTS,Vercel]
+https://test.bestwallet.com [404] [] [107] [Vercel] [76.76.21.93] [372.489857ms] [HSTS,Vercel]
+https://stock-logos.backpack.app [404] [] [27150] [Not Found] [cloudflare] [104.18.7.49] [cloudflare] [166.319268ms] [Cloudflare,Cloudflare Bot Management]
+https://qr.ballet.com [404] [] [2403] [404: This page could not be found] [] [13.226.238.55] [cloudfront] [338.045406ms] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HTTP/3,Next.js,Node.js,React,Webpack]
+
+## 500
+https://stock-logos.workers.backpack.app [500] [] [17] [cloudflare] [104.18.6.49] [cloudflare] [137.810841ms] [Cloudflare]
+
+## 502
+
+## 503
+https://rd.ballet.com [503] [] [1019] [ERROR: The request could not be satisfied] [CloudFront] [13.35.78.3] [cloudfront] [236.918989ms] [Amazon CloudFront,Amazon Web Services]
+
