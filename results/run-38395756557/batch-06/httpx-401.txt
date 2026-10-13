@@ -1,0 +1,2 @@
+https://bootcamp.hudi.com [401] [] [60] [Google Frontend] [136.69.82.76] [google] [225.499545ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://bootcamp.staging.hudi.com [401] [] [60] [Google Frontend] [136.69.82.76] [google] [702.36034ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
