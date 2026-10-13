@@ -1,0 +1,4 @@
+https://grafana.avantisfi.com [302] [/login] [29] [cloudflare] [172.66.163.149] [cloudflare] [315.190604ms] [Cloudflare]
+https://mini.avantisfi.com [302] [/?blocked=true] [143] [302 Found] [cloudflare] [104.20.34.8] [cloudflare] [121.691726ms] [Cloudflare]
+https://minidev.avantisfi.com [302] [/?blocked=true] [143] [302 Found] [cloudflare] [104.20.34.8] [cloudflare] [112.882707ms] [Cloudflare]
+https://sepolia.avantisfi.com [302] [https://avantisfi.com/] [143] [302 Found] [cloudflare] [104.20.34.8] [cloudflare] [104.826913ms] [Cloudflare]

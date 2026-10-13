@@ -1,0 +1,2 @@
+https://exchange-api.bulk.trade [502] [] [16] [cloudflare] [172.66.42.221] [cloudflare] [281.251007ms] [Cloudflare,HTTP/3]
+https://price-feed.avantisfi.com [502] [] [16] [cloudflare] [172.66.163.149] [cloudflare] [645.653887ms] [Cloudflare]
