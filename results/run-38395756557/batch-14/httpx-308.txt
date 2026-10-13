@@ -1,0 +1,4 @@
+http://mail.synthetix.io [308] [https://mail.synthetix.io/] [0] [Caddy] [35.198.93.67] [google] [293.506611ms] [Caddy]
+http://sips.synthetix.io [308] [https://sips.synthetix.io/] [14] [Vercel] [216.150.16.193] [4.039262589s] [Vercel]
+http://tools.synthetix.io [308] [https://tools.synthetix.io/] [14] [Vercel] [216.150.16.1] [1.056374452s] [Vercel]
+https://www.synthetix.io [308] [https://synthetix.io/] [15] [Vercel] [216.150.16.1] [2.037060622s] [HSTS,Vercel]
