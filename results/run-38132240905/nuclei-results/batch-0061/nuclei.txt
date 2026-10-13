@@ -1,0 +1,10 @@
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://wiki.rl.patronus.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://wiki.rl.patronus.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://wiki.rl.patronus.ai
+[expired-ssl] [ssl] [low] web3.zealy.io:443 ["2024-12-12 23:03:14 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] wildcard.apt.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wildcard.apt.turing.com:443
+[kubernetes-fake-certificate] [ssl] [low] wildcard.gpt.turing.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wildcard.gpt.turing.com:443
+[untrusted-root-certificate] [ssl] [low] wildcard.99051710.azure.workspace.egp.scale.com:443
+[expired-ssl] [ssl] [low] wctest1.preview.benchflow.ai:443 ["2026-09-26 08:10:18 +0000 UTC"]
