@@ -1,0 +1,7 @@
+[CVE-2020-35234] [http] [high] https://documentation.fordefi.com/wp-content/plugins/easy-wp-smtp/
+[CVE-2020-35234] [http] [high] https://documentation.fordefi.com/wp-content/plugins/wp-mail-smtp-pro/
+[CVE-2026-26265] [http] [high] https://forum.zenrocklabs.io/directory_items.json?period=all&user_field_ids=9
+[aws-bucket-takeover] [http] [high] https://app.ballet.com ["app.ballet.com"]
+[framer-takeover] [http] [high] https://buy.ryder.id ["sites.framer.app"]
+[github-takeover] [http] [high] https://cdn.endpoints.security.ledger.com ["ledgerhq.github.io"]
+[laravel-sessions-exposure] [http] [high] https://documentation.fordefi.com/storage/framework/sessions/
