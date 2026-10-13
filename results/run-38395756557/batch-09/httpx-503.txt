@@ -1,0 +1,2 @@
+https://scheduler.dev2.mnx.fi [503] [] [27] [] [136.68.139.187] [google] [154.479822ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api.dev2.mnx.fi [503] [] [27] [] [34.49.8.120] [google] [526.557221ms] [Google Cloud,Google Cloud CDN,HTTP/3]
