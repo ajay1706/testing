@@ -1,0 +1,2 @@
+https://nodexx.co [301] [https://www.nodexx.co/] [0] [CloudFront] [13.226.238.128] [cloudfront] [45.683648ms] [Amazon CloudFront,Amazon Web Services]
+https://www.nodexx.co [301] [/en] [523] [301 Moved Permanently] [cloudflare] [104.18.1.39] [cloudflare] [353.538105ms] [Cloudflare,Cloudflare Browser Insights]
