@@ -1,0 +1,3 @@
+https://support.hibachi.xyz [301] [https://support.hibachi.xyz/portal/en/newticket] [0] [ZGS] [136.143.190.74] [272.235902ms] [HSTS,Java]
+https://www.hibachi.xyz [301] [https://hibachi.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.102] [cloudflare] [123.290192ms] [Cloudflare,HSTS]
+https://www.grvt.io [301] [https://grvt.io/] [167] [301 Moved Permanently] [cloudflare] [172.66.150.111] [cloudflare] [146.763218ms] [Cloudflare]
