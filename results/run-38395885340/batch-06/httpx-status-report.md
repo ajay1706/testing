@@ -1,0 +1,66 @@
+# HTTPX Status Report
+
+Generated at: Tue Oct 13 12:21:58 UTC 2026
+
+HTTPX lines: 37
+Live URLs: 37
+
+## 200
+https://invitation.tribeca.xyz [200] [] [7000] [Tribeca Invitation | The 24/7 Global Exchange] [Vercel] [216.150.16.1] [52.621993ms] [HSTS,Vercel]
+https://status.vdex.trade [200] [] [2534] [VDEX Status] [cloudflare] [172.67.69.135] [cloudflare] [113.725024ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://v1.typus.finance [200] [] [24369] [Typus Finance] [] [199.36.158.100] [30.526001ms] [Firebase,HSTS,HTTP/3]
+https://walrus-testnet.typus.finance [200] [] [612] [Welcome to nginx!] [nginx/1.18.0 (Ubuntu)] [217.182.136.92] [324.560328ms] [Nginx:1.18.0,Ubuntu]
+https://staging.vdex.trade [200] [] [1944] [VDEX] [AmazonS3] [3.170.19.100] [cloudfront] [424.084353ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Clicky]
+https://int.typus.finance [200] [] [38737] [Typus Finance - Trade Perps & Options with Real Yield] [] [199.36.158.100] [162.092801ms] [Firebase,HSTS,HTTP/3]
+https://testnet.tribeca.xyz [200] [] [30508] [Tribeca] [Vercel] [216.150.1.193] [160.287541ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://vdex.trade [200] [] [33614] [VDEX, ZK Perpetuals. Trade anything, from anywhere.] [cloudflare] [172.67.69.135] [cloudflare] [109.694797ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://tge.typus.finance [200] [] [54888] [Typus TGE] [] [199.36.158.100] [139.249881ms] [Firebase,HSTS,HTTP/3]
+https://app.vdex.trade [200] [] [1944] [VDEX] [AmazonS3] [3.170.42.126] [cloudfront] [566.103888ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Clicky]
+https://tlpcompensation.typus.finance [200] [] [30219] [TLP Compensation Portal | Typus Finance] [] [199.36.158.100] [337.292272ms] [Firebase,Google Tag Manager,HSTS,HTTP/3]
+https://status.staging.vdex.trade [200] [] [1596] [VDEX Status] [AmazonS3] [3.162.125.112] [cloudfront] [714.330094ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://typus.finance [200] [] [42086] [Typus Finance - Trade Perps & Options with Real Yield] [] [199.36.158.100] [337.166371ms] [Firebase,Google Tag Manager,HSTS,HTTP/3]
+https://www.tribeca.xyz [200] [] [6454] [Tribeca Exchange — The 24/7 Global Exchange] [Vercel] [216.150.16.193] [132.220608ms] [HSTS,Vercel]
+https://pro.typus.finance [200] [] [32510] [Pro | Typus Finance] [] [199.36.158.100] [732.247991ms] [Firebase,HSTS,HTTP/3]
+https://fantasy.vdex.trade [200] [] [2224] [Fantasy Perps — Limited Access] [Vercel] [64.29.17.1] [1.030318694s] [HSTS,Vercel]
+https://www.vdex.trade [200] [] [33614] [VDEX, ZK Perpetuals. Trade anything, from anywhere.] [cloudflare] [104.26.9.218] [cloudflare] [176.805991ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://docs.vdex.trade [200] [] [369204] [About | VDEX] [cloudflare] [104.18.40.47] [cloudflare] [211.467678ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.typus.finance [200] [] [105936] [Introduction - Typus Finance] [cloudflare] [104.20.22.94] [cloudflare] [643.070081ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 301
+https://www.v1.typus.finance [301] [https://v1.typus.finance/] [40] [] [199.36.158.100] [113.97401ms] [Firebase,HTTP/3]
+https://www.typus.finance [301] [https://typus.finance/] [37] [] [199.36.158.100] [131.592338ms] [Firebase,HTTP/3]
+
+## 302
+https://dapp.vdex.trade [302] [https://app.vdex.trade/] [143] [302 Found] [cloudflare] [172.67.69.135] [cloudflare] [54.57733ms] [Cloudflare]
+https://argocd-dex.vdex.trade [302] [https://vdex-trade.cloudflareaccess.com/cdn-cgi/access/login/argocd-dex.vdex.trade?kid=171e9368cf1288f94c8e6f96fe71e2e0f86e4fa53fa8aa510e5f24ac18226e96&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM4OWUyMzg4NmM4ZmUwY2RmMmE5NjgyYjg0MDc0NGM0NTgxZjI3MTVkNDlkZDNmMWZiY2VmMTZmNjIyM2VlODcifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjE3MWU5MzY4Y2YxMjg4Zjk0YzhlNmY5NmZlNzFlMmUwZjg2ZTRmYTUzZmE4YWE1MTBlNWYyNGFjMTgyMjZlOTYiLCJob3N0bmFtZSI6ImFyZ29jZC1kZXgudmRleC50cmFkZSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkxODk0NDE2LCJuYmYiOjE3OTE4OTQxMTYsImlhdCI6MTc5MTg5NDExNiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjUxNGIyZTZjMDdjMDMwN2FjMjRjZTE5Mjk4ZDZiOGE1YzU0NGI2YjgwNDZjNTE5Y2M5ZmIzODQ2MDNjZTMwM2IifQ.ZuRkwH806hOYAaOHl-i0DWNspGGP6MFJ_yImgpR86oFUBu5GP20Ign6hSh7uWKJhmUdkH2oEw9SnE_8kkDTaH06VC8GbXFpy_pt_5ZCx8M6UtyhQ4UerSUshHa3Jd5PRgdrq02vWR1oVsQj6sPQxhvJ3jwkQGj_Az5v-Zy3Ewtguc0nyedFaaFEutdc2ugFhM8EIS2TgBiJ1NUQnzEqfW5RrTxXa-nbO9n4t35h_3lpZ3NtSL9bcToJV4RWCzar14SDhh3wlLTgipxymwz0_drsOOaCblPLTPeZJ-_xWen11zjxkUosJQ5Us3S7O6a6QHihtIy9AQ4EuFoQFipbANw&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.67.69.135] [cloudflare] [63.446886ms] [Cloudflare]
+https://swagger.vdex.trade [302] [https://vdex-trade.cloudflareaccess.com/cdn-cgi/access/login/swagger.vdex.trade?kid=ce3eb75f3f8d3d95286bd1662ffcccb948b86a523353211444564f7bd33e82d6&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM4OWUyMzg4NmM4ZmUwY2RmMmE5NjgyYjg0MDc0NGM0NTgxZjI3MTVkNDlkZDNmMWZiY2VmMTZmNjIyM2VlODcifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImNlM2ViNzVmM2Y4ZDNkOTUyODZiZDE2NjJmZmNjY2I5NDhiODZhNTIzMzUzMjExNDQ0NTY0ZjdiZDMzZTgyZDYiLCJob3N0bmFtZSI6InN3YWdnZXIudmRleC50cmFkZSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkxODk0NDE2LCJuYmYiOjE3OTE4OTQxMTYsImlhdCI6MTc5MTg5NDExNiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjVlNjA2NTBhOTA4NWQ1ZGIyMWFjZjIzZjEzODdjNjYwN2JkMDYyOTE4OTFhNmVjNmZiMzdlNWFkMTVkMjMxMTEifQ.YjL_RASI5Dh4gKh_L_To0hl9_ZUMXn543uUsxPwurzdcf9-MpbPDoqFP4m4ePSN-UBbcs3EPy2mJvZ0I4gyXkwu49w1HWlxowaFL3dPEVYBcQviLWZIf3pJZV_CEXnr15U49VxUj_z1NCfDlAyIAx4D5mkjngRW29GLNvfEDHBAPZez24hNcr8dheQi67nXl3E1_iGcvteYew7BCEfSLUS9_j61e7hUfxHvB8SMMpF4wQdWW4VYTrAJB2LRC-wqWJ8xTWRkYQo_Jprw2FIM8CYk6FDngfvasSNzphriXW5jRyYBeOhRpFmnpmVm78FnIInpOiqKtyENGYLpMJztEPg&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.67.69.135] [cloudflare] [78.382526ms] [Cloudflare]
+https://grafana-vdex.vdex.trade [302] [https://vdex-trade.cloudflareaccess.com/cdn-cgi/access/login/grafana-vdex.vdex.trade?kid=dbb5430365aea99be018a698bec67afc334bf5986f71819a125de56adb2b4d5d&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM4OWUyMzg4NmM4ZmUwY2RmMmE5NjgyYjg0MDc0NGM0NTgxZjI3MTVkNDlkZDNmMWZiY2VmMTZmNjIyM2VlODcifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImRiYjU0MzAzNjVhZWE5OWJlMDE4YTY5OGJlYzY3YWZjMzM0YmY1OTg2ZjcxODE5YTEyNWRlNTZhZGIyYjRkNWQiLCJob3N0bmFtZSI6ImdyYWZhbmEtdmRleC52ZGV4LnRyYWRlIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTE4OTQ0MTYsIm5iZiI6MTc5MTg5NDExNiwiaWF0IjoxNzkxODk0MTE2LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiMWJhMmQyMTJkOGFhMmY2YzIwODJjMDU2ZThlMjU1NTg3YThiZTA4ZjljYWZmY2VlNTg2NTIzMTI1YzU3MzJmNyJ9.KrOowUcbdwGRI9HOedRikledYW3UcZUNcxaOZbqHKHBwT0xGQx3HJ5LnqTH21_Dkv26bYmlXuH7fKwl7uplh_mtSuayzyL6C5bBC7HW7HFtY5_EWI6IzgD4QGtlwvthtyUc9RyIvrMVo5kJV_HB0G-lpE-TG9xGL9dm8nb4Vi3dFR4KmlR9sTptPNOSXqh28fnVJeJxzAtUlM8NnVEcyCiv5QSDQ8VG855BWL8o6JLzNYnutwztCb43Ug79wpiWEBiNJNHuN9kxkp82tweNFPwPIq92Iwm_aqyp2CdGZN0CpB4BlvjfJwA2Ac5TTKiP6miuNAhtfkvAWnsP50Hd3CA&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.26.9.218] [cloudflare] [83.99181ms] [Cloudflare]
+https://redpanda-dex.vdex.trade [302] [https://vdex-trade.cloudflareaccess.com/cdn-cgi/access/login/redpanda-dex.vdex.trade?kid=575e815fb0b598b905b7ab3723e807ed5ee5c85d01973ba888eb1e3f6d49d3a5&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjM4OWUyMzg4NmM4ZmUwY2RmMmE5NjgyYjg0MDc0NGM0NTgxZjI3MTVkNDlkZDNmMWZiY2VmMTZmNjIyM2VlODcifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjU3NWU4MTVmYjBiNTk4YjkwNWI3YWIzNzIzZTgwN2VkNWVlNWM4NWQwMTk3M2JhODg4ZWIxZTNmNmQ0OWQzYTUiLCJob3N0bmFtZSI6InJlZHBhbmRhLWRleC52ZGV4LnRyYWRlIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTE4OTQ0MTYsIm5iZiI6MTc5MTg5NDExNiwiaWF0IjoxNzkxODk0MTE2LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiM2ZlNWQ1YzA5NWIxYjBkMDhlNDIwOWY2NTg0YzkzNTUwNjJiNmI0ZmQ3ZGU5ODE1ODU1MjBhZmE3ZTc3OTc1ZCJ9.mpAnCS_1R4uo9RjqEXbzrTtqFQ1GoA8vWWc5Q8ypmJtLuzHVDLkOITW5HfCfKD3O9nXgmTMOFchTeuKkq0jJPiY_9xiXtGTFqb8YfM7eNf2pApOaKYjqLwJG__Y0gEKj-42adBaBNBKcntLMZpVwBHO88kqgn-L8KELdXglN5LBJRp0DIpNKizpL79J97qfaYxyXfF1N9vhmQE1lx9Ztgd67Er_O5WWVcw1y2l1Qar2Ab0WRUex10HdGaMT4W9t8Owmnc5LcyI4nL-koW8KhxXp1Fil5waur1zcgz0XWdUOrgYzZE7tY_UPxNM5864hdJ87NqJfNAaAz0eNwI0MwsA&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.26.9.218] [cloudflare] [350.103569ms] [Cloudflare]
+
+## 307
+
+## 308
+https://tribeca.xyz [308] [https://www.tribeca.xyz/] [15] [Vercel] [216.150.1.1] [121.565358ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://pay.tribeca.xyz [404] [] [1009] [Pay Link Not Found] [] [100.49.0.246] [59.540647ms]
+https://testnet-app.tribeca.xyz [404] [] [107] [Vercel] [216.150.16.1] [197.840321ms] [HSTS,Vercel]
+https://cdn.vdex.trade [404] [] [1496] [404 Not Found] [cloudflare] [104.26.9.218] [cloudflare] [257.348879ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://testnet.typus.finance [404] [] [21265] [Site Not Found] [] [199.36.158.100] [196.673582ms] [Firebase,HSTS,HTTP/3]
+https://walrus.typus.finance [404] [] [0] [Caddy] [57.128.116.30] [343.191529ms] [Caddy,HTTP/3]
+https://stg.tribeca.xyz [404] [] [9] [awselb/2.0] [13.193.113.90] [565.908577ms] [Amazon ELB,Amazon Web Services]
+https://api.vdex.trade [404] [] [1084] [404 Not Found] [cloudflare] [172.67.69.135] [cloudflare] [625.98542ms] [Cloudflare,HSTS]
+https://status-api.vdex.trade [404] [] [18] [cloudflare] [172.67.69.135] [cloudflare] [641.230184ms] [Cloudflare,HSTS]
+https://perps.testnet.typus.finance [404] [] [21265] [Site Not Found] [] [199.36.158.100] [569.609615ms] [Firebase,HSTS,HTTP/3]
+https://staging-api.vdex.trade [404] [] [1486] [404 Not Found] [cloudflare] [104.26.9.218] [cloudflare] [644.06456ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+
+## 503
+
