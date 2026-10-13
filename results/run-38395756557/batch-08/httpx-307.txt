@@ -1,0 +1,5 @@
+https://app.legend.trade [307] [/trade/BTC] [75667] [Enter The Arena | Legend] [Vercel] [216.150.1.193] [286.224689ms] [Amazon S3,Amazon Web Services,HSTS,Vercel,hCaptcha]
+https://eval.galileo.jup.ag [307] [/login?redirect=%2F] [19] [] [13.249.141.94] [cloudfront] [3.392834609s] [Amazon CloudFront,Amazon Web Services]
+https://offerbook.jup.ag [307] [/borrow] [42797] [Offerbook | Decentralized Lending on Solana] [cloudflare] [172.64.144.197] [cloudflare] [411.895094ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://www.dev-app.legend.trade [307] [https://dev-app.legend.trade/] [15] [Vercel] [66.33.60.194] [1.267982526s] [HSTS,Vercel]
+https://www.docs.legend.trade [307] [https://docs.legend.trade/] [15] [Vercel] [216.150.1.65] [4.436893613s] [HSTS,Vercel]
