@@ -1,0 +1,18 @@
+[CVE-2022-28923] [http] [medium] https://docs.latch.bio/%5C%5Cinteract.sh/%252e%252e%252f
+[dagster-webserver-ui-exposure] [http] [medium] https://dagster-preprod.forms.merit.micro1.ai/
+[dagster-webserver-ui-exposure] [http] [medium] https://dagster-prod.forms.merit.micro1.ai/
+[forgejo-repo-exposure] [http] [medium] https://git.latch.bio/explore/repos
+[git-config] [http] [medium] https://aptura.ai/.git/config
+[git-config] [http] [medium] https://www.aptura.ai/.git/config
+[open-redirect-generic] [http] [medium] https://docs.latch.bio/%5C%5Coast.me/%252e%252e%252f [redirect="%5C%5Coast.me/%252e%252e%252f"]
+[open-redirect-generic] [http] [medium] https://search.turing.com/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[open-redirect-generic] [http] [medium] https://staging-search.turing.com/%5coast.me/%2f%2e%2e [redirect="%5coast.me/%2f%2e%2e"]
+[prometheus-metrics] [http] [medium] https://api-dev.merit.micro1.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-stage.realm.micro1.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-staging.merit.micro1.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.merit.micro1.ai/metrics
+[prometheus-metrics] [http] [medium] https://dp-idp-preprod.turing.com/metrics
+[prometheus-metrics] [http] [medium] https://flower.gdm-agentic-vet.turing.com/metrics
+[prometheus-metrics] [http] [medium] https://modal.turing.com/api/metrics
+[prometheus-metrics] [http] [medium] https://sandbox-dev.turing.com/metrics
+[prometheus-metrics] [http] [medium] https://sandbox-preprod.turing.com/metrics
