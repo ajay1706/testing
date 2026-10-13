@@ -1,0 +1,2 @@
+https://pear.garden [308] [https://www.pear.garden/] [60] [Framer/4b7df70] [31.43.160.6] [144.400433ms] [Framer Sites,HSTS,HTTP/3,React]
+https://symm.pear.garden [308] [https://intent.pear.garden/] [15] [Vercel] [216.150.1.193] [131.900557ms] [HSTS,Vercel]

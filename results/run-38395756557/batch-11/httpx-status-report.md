@@ -1,0 +1,88 @@
+# HTTPX Status Report
+
+Generated at: Tue Oct 13 12:23:19 UTC 2026
+
+HTTPX lines: 64
+Live URLs: 64
+
+## 200
+https://docs.papertrade.xyz [200] [] [2617] [Papertrade Docs] [cloudflare] [172.66.40.116] [cloudflare] [98.126929ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://papertrade.xyz [200] [] [3749] [Papertrade — Synthetic perpetuals on Hyperliquid] [cloudflare] [172.66.43.140] [cloudflare] [87.503636ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://garments.papertrade.xyz [200] [] [8135] [papertrouser_ · papertrade] [cloudflare] [172.66.43.140] [cloudflare] [241.065662ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://docs.pendle.finance [200] [] [4399] [Pendle Documentation] [GitHub.com] [185.199.110.153] [345.781923ms] [Docusaurus:3.8.1,Fastly,GitHub Pages,Google Analytics,HSTS,React,Varnish,Webpack]
+https://app.pendle.finance [200] [] [25712] [Pendle V2] [cloudflare] [172.66.172.188] [cloudflare] [392.63387ms] [Cloudflare,Google Tag Manager,HSTS,Netlify]
+https://mirror-v2.pendle.finance [200] [] [25600] [Pendle V2] [cloudflare] [104.20.41.95] [cloudflare] [207.56966ms] [Cloudflare,Google Tag Manager]
+https://docs.pear.garden [200] [] [192594] [Pear | The Orchard] [Vercel] [216.150.1.65] [146.854861ms] [HSTS,Vercel]
+https://legacy-v1.pendle.finance [200] [] [8929] [Pendle] [cloudflare] [172.66.172.188] [cloudflare] [565.461658ms] [Cloudflare,Crazy Egg,Google Tag Manager,HSTS,Netlify]
+https://portal-staging.pendle.finance [200] [] [456] [Portal | Pendle] [cloudflare] [172.66.172.188] [cloudflare] [767.3865ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://funding-receipts.pendle.finance [200] [] [26963] [Funding Receipts] [cloudflare] [172.66.172.188] [cloudflare] [966.181237ms] [Cloudflare,HSTS,Netlify,Node.js,Nuxt.js,Vue.js]
+https://www.pendle.finance [200] [] [35813] [Pendle - Liberating Yield] [cloudflare] [172.66.172.188] [cloudflare] [449.472798ms] [Cloudflare,HSTS,Netlify,Node.js,Nuxt.js,Vue.js]
+https://www.pear.garden [200] [] [738220] [Pear Protocol: The Home of Pair Trading] [Framer/4b7df70] [31.43.160.6] [244.388224ms] [Framer Sites,HSTS,HTTP/3,React,YouTube]
+
+## 301
+https://pendle.finance [301] [https://www.pendle.finance/] [42] [cloudflare] [172.66.172.188] [cloudflare] [684.173071ms] [Cloudflare,HSTS,Netlify]
+
+## 302
+https://admin-staging.papertrade.xyz [302] [https://papertradexyz.cloudflareaccess.com/cdn-cgi/access/login/admin-staging.papertrade.xyz?kid=71c7424784d791c3cd3de64a3fbb308215a00b6d319bef8c0038d8b43c0d7856&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEwZjljZTQwOTFiNzQ1ZGU0OWFhZDUyOGY0YjU5YjIxMDQyNDg2ODY1MjdhOGM0Y2FlMDhhNjViNmZmYTU5OWMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjcxYzc0MjQ3ODRkNzkxYzNjZDNkZTY0YTNmYmIzMDgyMTVhMDBiNmQzMTliZWY4YzAwMzhkOGI0M2MwZDc4NTYiLCJob3N0bmFtZSI6ImFkbWluLXN0YWdpbmcucGFwZXJ0cmFkZS54eXoiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MTg5NDQ4MCwibmJmIjoxNzkxODk0MTgwLCJpYXQiOjE3OTE4OTQxODAsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI4NTI1NjBlMzRjNjdhN2EzYzQwODBhMGExZGQwOTVlZDViZmIzNDM2ZjcyYmU5MDBjMmNiYWM4NmYwMzlhMjg3In0.SR4rrr4x-XnnIx_YB9-N6jAsxklN9qkhoEkOQhI2pFZChnD-7KiUdZYOwHkCrwIifn7weQo5O42sXdb4dvCVh6CgzatuK0gryfctkUH6av0QzrTvd_NDggKdvzaV_s7WaaXhzR8KqIXQ7JczJKD7h85FjwfhXKixkilhvFRx-7hG9_Wgs2lNk2NPV2Xqff9cXwuq64UglqbqBdtGyturrdDQAEp1XRDaOTSPX14Y1VukSEgdoV_ZZtxnd0nrnOoxJgqLg7dNqF9vrM4KwXhpengLsVuIv1lm7NRDnCSCV4HZ5nbQpmn3Spr_qV-_5oofwPqvCDrpM-zQKNkU5n2-aw&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.43.140] [cloudflare] [96.292265ms] [Cloudflare,Cloudflare Browser Insights]
+https://agents-staging.papertrade.xyz [302] [/auth?next=%2F] [0] [cloudflare] [172.66.43.140] [cloudflare] [122.686343ms] [Cloudflare,HSTS]
+https://admin.papertrade.xyz [302] [https://papertradexyz.cloudflareaccess.com/cdn-cgi/access/login/admin.papertrade.xyz?kid=27308e56e5a6ba029a9352e9709ccc2d07f871ec8d5cdf40bb9724a0ce7a234c&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEwZjljZTQwOTFiNzQ1ZGU0OWFhZDUyOGY0YjU5YjIxMDQyNDg2ODY1MjdhOGM0Y2FlMDhhNjViNmZmYTU5OWMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjI3MzA4ZTU2ZTVhNmJhMDI5YTkzNTJlOTcwOWNjYzJkMDdmODcxZWM4ZDVjZGY0MGJiOTcyNGEwY2U3YTIzNGMiLCJob3N0bmFtZSI6ImFkbWluLnBhcGVydHJhZGUueHl6IiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTE4OTQ0ODAsIm5iZiI6MTc5MTg5NDE4MCwiaWF0IjoxNzkxODk0MTgwLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiMjY3NzYyMjVmNjk5ODgyNDIxYzJiNTE5MGE2M2VkMmZhMzAxOTI4NDQwZTNmNDE0NDdjOTM5ZWQxNGMwYTljOCJ9.Ju027Jla709ep0Zf0v6ccOdqjWW9wEnnk0-gKCgBnWtF9_UMoZjIP_Ttm6KDRBu3Siq05JfWs4jOQ9uAEkQQmRDlqtuDCjlgEfonfvmpLQ-4qLhGAkRMJcjs9RJjTdGYZ2jYzUnTuCpJXlSf4EsA9McKjpwYuZTHZhrNNl_4Q9-CxPCuzg0QJnbY7jX-wMW5TPNXnoR-7M2dJ9Bf96VxFpBvpxolsZ4zptODHoX_edWuOg7b205i_xDyS1cmSugH1D4y6L_vNN6_BtO9gg1BzLHoRGilC9taCb0Fsx7yAo2eKtJlbsPro30LVvUAzYVApo_BfwZhvCj6uCDbhEQhPQ&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.40.116] [cloudflare] [163.954368ms] [Cloudflare,Cloudflare Browser Insights]
+https://merch-staging.papertrade.xyz [302] [/auth?next=%2F] [0] [cloudflare] [172.66.43.140] [cloudflare] [94.061011ms] [Cloudflare,HSTS]
+https://admin-sim.papertrade.xyz [302] [https://papertradexyz.cloudflareaccess.com/cdn-cgi/access/login/admin-sim.papertrade.xyz?kid=4751d6da7292280dcd781eb5bd5e86ed14be980b19e062d4b68c45845aab145d&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEwZjljZTQwOTFiNzQ1ZGU0OWFhZDUyOGY0YjU5YjIxMDQyNDg2ODY1MjdhOGM0Y2FlMDhhNjViNmZmYTU5OWMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjQ3NTFkNmRhNzI5MjI4MGRjZDc4MWViNWJkNWU4NmVkMTRiZTk4MGIxOWUwNjJkNGI2OGM0NTg0NWFhYjE0NWQiLCJob3N0bmFtZSI6ImFkbWluLXNpbS5wYXBlcnRyYWRlLnh5eiIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkxODk0NDgxLCJuYmYiOjE3OTE4OTQxODEsImlhdCI6MTc5MTg5NDE4MSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjUyN2ExZjkyNTZlN2QwNzNhYjgzOTY3NWMwZjM0YjlhOTUwYzExNDEwM2Q1YmJiZTU0ZjMyZGRmNjY1Y2ZkZjIifQ.LIOAcAXQZvPnWJbZdIh9bkJO2YgWWMZW9JjF_m3Wl7nX9AprisWdEryCTL3d0EOZRzuY0GbYkF_kazWYShgfXblHvM32kDdZgTKhrBUDn8dL96ICAapoz1KQGy_6gNOX-b15DnwheTkDLCpOjYAEvB0EGPFJ7WELhz8CTUy4Mro0-iDJLZamjTKFDXqn-FBuICnGgv86p6ExGFehbOrf8O21xKrQxi7YvYwGOlARVR3cQfr2y1Uxuvxyb7L5LMcmfSgOXQ21icrx8QcyiZOmObdzQR9U9HjLJrPUenbr-r-FXpqZ0xtL7vx_0Gibll94iE68mlqJGkVIG48tEBwNfw&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.40.116] [cloudflare] [277.568977ms] [Cloudflare,Cloudflare Browser Insights]
+https://mirror.pendle.finance [302] [https://mirror-v2.pendle.finance] [143] [302 Found] [cloudflare] [104.20.41.95] [cloudflare] [125.49588ms] [Cloudflare]
+
+## 307
+https://arbitrum.pendle.finance [307] [https://app.sentio.xyz/share/_valciputw8kvg3e?from=%22-6M%22&to=%22now%22] [169] [307 Temporary Redirect] [cloudflare] [172.66.172.188] [cloudflare] [61.942822ms] [Cloudflare]
+https://analytics.pendle.finance [307] [https://app.sentio.xyz/share/lv18u9fyu1b558xf?from=%22-2M%22&to=%22now%22] [169] [307 Temporary Redirect] [cloudflare] [172.66.172.188] [cloudflare] [81.054445ms] [Cloudflare]
+https://app.pear.garden [307] [/trade] [0] [Vercel] [216.150.1.65] [194.845988ms] [HSTS,Vercel]
+https://intent.pear.garden [307] [/deprecated] [15] [Vercel] [216.150.16.129] [124.627408ms] [HSTS,Vercel]
+https://handbook.pendle.finance [307] [https://app.gitbook.com/o/-MbiLJyImKUhHkJRlxKV/sites/site_ThQxG/] [15] [cloudflare] [104.18.40.47] [cloudflare] [177.487076ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://listing.pendle.finance [307] [https://pendle.notion.site/pendle-listing/] [169] [307 Temporary Redirect] [cloudflare] [104.20.41.95] [cloudflare] [183.634658ms] [Cloudflare]
+https://v3.pear.garden [307] [https://app.pear.garden/] [15] [Vercel] [216.150.1.65] [109.19658ms] [HSTS,Vercel]
+
+## 308
+https://pear.garden [308] [https://www.pear.garden/] [60] [Framer/4b7df70] [31.43.160.6] [144.400433ms] [Framer Sites,HSTS,HTTP/3,React]
+https://symm.pear.garden [308] [https://intent.pear.garden/] [15] [Vercel] [216.150.1.193] [131.900557ms] [HSTS,Vercel]
+
+## 401
+https://exchange-staging.papertrade.xyz [401] [] [23] [cloudflare] [172.66.43.140] [cloudflare] [96.631521ms] [Cloudflare,HSTS]
+https://exchange-sim.papertrade.xyz [401] [] [23] [cloudflare] [172.66.40.116] [cloudflare] [137.623743ms] [Cloudflare,HSTS]
+https://garments-staging.papertrade.xyz [401] [] [23] [cloudflare] [172.66.43.140] [cloudflare] [264.889565ms] [Cloudflare,HSTS]
+https://staging-app.pendle.finance [401] [] [3551] [Password Protection] [cloudflare] [104.20.41.95] [cloudflare] [277.514668ms] [Cloudflare,HSTS,Netlify]
+
+## 403
+https://merch.papertrade.xyz [403] [] [15] [cloudflare] [172.66.43.140] [cloudflare] [133.082492ms] [Cloudflare,HSTS]
+
+## 404
+https://beta-ay.pear.garden [404] [] [107] [Vercel] [216.150.1.129] [107.166102ms] [HSTS,Vercel]
+https://betam.pear.garden [404] [] [107] [Vercel] [216.150.16.129] [110.064091ms] [HSTS,Vercel]
+https://exchange.pear.garden [404] [] [107] [Vercel] [216.150.1.1] [109.86685ms] [HSTS,Vercel]
+https://exchange.papertrade.xyz [404] [] [9] [cloudflare] [172.66.40.116] [cloudflare] [127.688584ms] [Cloudflare,HSTS]
+https://api-v2.pendle.finance [404] [] [18] [cloudflare] [104.20.41.95] [cloudflare] [150.972253ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://api.pendle.finance [404] [] [63] [cloudflare] [104.20.41.95] [cloudflare] [151.355946ms] [Cloudflare,Express,Node.js]
+https://alerts.papertrade.xyz [404] [] [0] [cloudflare] [172.66.43.140] [cloudflare] [190.611716ms] [Cloudflare]
+https://mail.pear.garden [404] [] [107] [Vercel] [216.150.1.65] [101.718906ms] [HSTS,Vercel]
+https://admin-gateway-sim.papertrade.xyz [404] [] [925] [404 Not Found] [cloudflare] [172.66.40.116] [cloudflare] [213.439873ms] [Cloudflare,Cloudflare Browser Insights]
+https://admin-gateway-staging.papertrade.xyz [404] [] [523] [404 Not Found] [cloudflare] [172.66.40.116] [cloudflare] [217.794189ms] [Cloudflare,Cloudflare Browser Insights]
+https://beta.pear.garden [404] [] [107] [Vercel] [216.150.16.1] [411.629029ms] [HSTS,Vercel]
+https://remote.pear.garden [404] [] [107] [Vercel] [216.150.16.129] [129.107365ms] [HSTS,Vercel]
+https://sign-sim.papertrade.xyz [404] [] [9] [cloudflare] [172.66.43.140] [cloudflare] [112.557067ms] [Cloudflare,HSTS]
+https://sign-staging.papertrade.xyz [404] [] [9] [cloudflare] [172.66.43.140] [cloudflare] [94.641288ms] [Cloudflare,HSTS]
+https://sign.papertrade.xyz [404] [] [9] [cloudflare] [172.66.43.140] [cloudflare] [139.518363ms] [Cloudflare,HSTS]
+https://staging-api.pendle.finance [404] [] [18] [cloudflare] [104.20.41.95] [cloudflare] [137.226839ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://stream-sim.papertrade.xyz [404] [] [925] [404 Not Found] [cloudflare] [172.66.40.116] [cloudflare] [201.60388ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://stream.papertrade.xyz [404] [] [925] [404 Not Found] [cloudflare] [172.66.43.140] [cloudflare] [206.015465ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://stream-staging.papertrade.xyz [404] [] [523] [404 Not Found] [cloudflare] [172.66.43.140] [cloudflare] [228.006432ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://vpn.pear.garden [404] [] [107] [Vercel] [216.150.1.129] [105.165051ms] [HSTS,Vercel]
+https://wildcard.pear.garden [404] [] [107] [Vercel] [216.150.16.1] [106.072493ms] [HSTS,Vercel]
+https://webmail.pear.garden [404] [] [107] [Vercel] [216.150.1.65] [106.007157ms] [HSTS,Vercel]
+https://vertex.pear.garden [404] [] [107] [Vercel] [216.150.16.1] [542.01928ms] [HSTS,Vercel]
+https://www.beta.pear.garden [404] [] [107] [Vercel] [216.150.16.193] [2.745863168s] [HSTS,Vercel]
+https://www.wildcard.pear.garden [404] [] [107] [Vercel] [216.150.1.193] [1.383663533s] [HSTS,Vercel]
+https://www.vertex.pear.garden [404] [] [107] [Vercel] [216.150.16.129] [4.151440613s] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
