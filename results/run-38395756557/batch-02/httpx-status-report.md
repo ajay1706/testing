@@ -1,0 +1,91 @@
+# HTTPX Status Report
+
+Generated at: Tue Oct 13 12:19:35 UTC 2026
+
+HTTPX lines: 66
+Live URLs: 66
+
+## 200
+https://dappos.com [200] [] [1138] [DAPPOS: Web3 AI Operating System | xBubble AI] [AmazonS3] [52.85.151.26] [cloudfront] [107.352271ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://gmx.dappos.com [200] [] [2624] [GMX | Decentralized Perpetual Exchange] [AmazonS3] [108.138.246.106] [cloudfront] [265.555621ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://benqi.dappos.com [200] [] [751] [BENQI] [AmazonS3] [65.8.54.30] [cloudfront] [438.546619ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://eot.derive.xyz [200] [] [1133] [Hello - EmailOctopus] [] [54.171.65.116] [858.457905ms] [HTTP/3]
+https://staking.benqi.dappos.com [200] [] [1035] [BENQI] [AmazonS3] [13.226.38.12] [cloudfront] [427.77595ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://safe.derive.xyz [200] [] [23992] [Safe{Wallet}] [nginx/1.29.2] [184.32.99.161] [188.145982ms] [Nginx:1.29.2]
+https://portal.dappos.com [200] [] [15118] [dappOS] [AmazonS3] [108.139.10.55] [cloudfront] [410.369422ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://status.derive.xyz [200] [] [11307] [Derive Status | Uptime.com] [openresty] [52.14.73.211] [524.443523ms] [Google Tag Manager,Nginx,OpenResty]
+https://www.dappos.com [200] [] [1138] [DAPPOS: Web3 AI Operating System | xBubble AI] [AmazonS3] [52.85.151.25] [cloudfront] [368.003715ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://dev-fe.catalyst.app [200] [] [55321] [Catalyst] [cloudflare] [216.24.57.18] [417.600174ms] [Cloudflare,HTTP/3,Next.js,Node.js,React,Render,Webpack,hCaptcha]
+https://wallet.dappos.com [200] [] [13318] [dappOS] [AmazonS3] [13.226.38.55] [cloudfront] [306.490344ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://program0520b.dappos.com [200] [] [18484] [Credit Giveaway | xBubble] [Vercel] [216.198.79.1] [1.102385926s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://program0520xy.dappos.com [200] [] [18397] [Credit Giveaway | xBubble] [Vercel] [216.198.79.1] [1.228722196s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://forums.derive.xyz [200] [] [153496] [Derive] [nginx] [216.66.8.75] [483.230134ms] [Discourse:2026.10.0,HSTS,Nginx,Ruby on Rails]
+https://explorer.derive.xyz [200] [] [91862] [Derive blockchain explorer - View Derive stats | Blockscout] [cloudflare] [172.67.72.116] [cloudflare] [808.261181ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,RxJS,Webpack]
+https://wp.derive.xyz [200] [] [88868] [Derive.xyz - Trade Onchain Crypto Options & Perps] [cloudflare] [172.67.70.234] [cloudflare] [308.930402ms] [Cloudflare,Cloudways,MySQL,PHP,WordPress:7.1.3,Yoast SEO:27.0,jQuery,jQuery Migrate:3.4.1]
+https://catalyst.app [200] [] [178125] [Catalyst | Intelligence at Your Fingertips] [cloudflare] [216.24.57.1] [191.36967ms] [Cloudflare,HTTP/3,hCaptcha]
+https://staging.catalyst.app [200] [] [55327] [Catalyst] [cloudflare] [216.24.57.16] [517.303454ms] [Cloudflare,HTTP/3,Next.js,Node.js,React,Render,Webpack,hCaptcha]
+https://trade.catalyst.app [200] [] [55315] [Catalyst] [cloudflare] [216.24.57.18] [481.025171ms] [Cloudflare,HTTP/3,Next.js,Node.js,React,Render,Webpack,hCaptcha]
+https://legacy.docs.derive.xyz [200] [] [245549] [Derive] [cloudflare] [104.16.242.118] [cloudflare] [225.907606ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,ReadMe,Render]
+https://testnet-explorer.derive.xyz [200] [] [92515] [Derive Testnet blockchain explorer - View Derive Testnet stats | Blockscout] [cloudflare] [104.26.0.65] [cloudflare] [966.729671ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://docs.derive.xyz [200] [] [477472] [Derive v3 API - Derive API] [cloudflare] [162.159.143.13] [cloudflare] [143.30434ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.derive.xyz [200] [] [591615] [Derive.xyz | Trade Onchain Crypto Options & Perps] [cloudflare] [172.67.70.234] [cloudflare] [512.101597ms] [Cloudflare,Framer Sites,Google Analytics,HSTS,React]
+https://insights.derive.xyz [200] [] [721335] [Derive Insights] [openresty] [151.101.43.7] [fastly] [193.354892ms] [Ghost:6.70,Nginx,Node.js,OpenResty,Popper,Varnish,jsDelivr]
+
+## 301
+https://blog.derive.xyz [301] [https://insights.derive.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.70.234] [cloudflare] [44.880394ms] [Cloudflare]
+https://pro.derive.xyz [301] [https://app.derive.xyz/] [15] [Vercel] [216.150.1.193] [173.148005ms] [HSTS,Vercel]
+https://www.catalyst.app [301] [https://catalyst.app/] [56] [cloudflare] [216.24.57.16] [416.167731ms] [Cloudflare,HTTP/3]
+
+## 302
+https://help.derive.xyz [302] [https://help.derive.xyz/en/] [0] [cloudflare] [172.67.70.234] [cloudflare] [323.84093ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 307
+https://app.derive.xyz [307] [/trade/options] [15] [Vercel] [216.150.16.1] [78.163239ms] [HSTS,Vercel]
+https://gov.derive.xyz [307] [/info] [15] [Vercel] [66.33.60.66] [249.272241ms] [HSTS,Vercel]
+https://testnet.derive.xyz [307] [/trade/options] [15] [Vercel] [216.150.16.1] [192.724779ms] [HSTS,Vercel]
+https://testnet.app.derive.xyz [307] [https://testnet.derive.xyz/] [15] [Vercel] [216.150.1.193] [211.11004ms] [HSTS,Vercel]
+https://www.trade.catalyst.app [307] [https://trade.catalyst.app] [26] [cloudflare] [216.24.57.16] [1.240757224s] [Cloudflare,HTTP/3,Render]
+
+## 308
+https://drv.derive.xyz [308] [https://app.derive.xyz/] [15] [Vercel] [216.150.16.1] [68.696258ms] [HSTS,Vercel]
+https://account.derive.xyz [308] [https://app.derive.xyz/] [15] [Vercel] [216.150.16.193] [77.90962ms] [HSTS,Vercel]
+https://derive.xyz [308] [https://www.derive.xyz/] [59] [Framer/4b7df70] [31.43.160.6] [96.790043ms] [Framer Sites,HSTS,HTTP/3,React]
+https://academy.dappos.com [308] [/academy] [15] [Vercel] [64.29.17.1] [128.081774ms] [HSTS,Vercel]
+http://code.dappos.com [308] [https://code.dappos.com/] [0] [Caddy] [159.223.160.163] [136.60139ms] [Caddy]
+https://legacy.derive.xyz [308] [https://app.derive.xyz/] [15] [Vercel] [216.150.16.193] [319.688995ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://pub-resource.dappos.com [403] [] [111] [AmazonS3] [18.173.121.38] [cloudfront] [474.342306ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://api.derive.xyz [404] [] [0] [cloudflare] [172.67.70.234] [cloudflare] [157.178184ms] [Cloudflare]
+https://email.ghost.insights.derive.xyz [404] [] [19] [] [34.110.180.34] [google] [229.571374ms]
+https://cm-manual-test-site-001.code.dappos.com [404] [] [44] [awselb/2.0] [35.174.183.65] [242.54686ms] [Amazon ELB,Amazon Web Services]
+https://api.catalyst.app [404] [] [15] [cloudflare] [216.24.57.18] [349.981396ms] [Cloudflare,HTTP/3]
+https://legacy-testnet.derive.xyz [404] [] [107] [Vercel] [216.150.1.1] [561.107848ms] [HSTS,Vercel]
+https://mail.preview.catalyst.app [404] [] [18] [cloudflare] [216.24.57.16] [613.499471ms] [Cloudflare,HTTP/3,Render]
+https://privy.derive.xyz [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [207.157893ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.staging.catalyst.app [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [167.312769ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.staging1.catalyst.app [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [167.147087ms] [Cloudflare,Cloudflare Bot Management]
+https://preview.catalyst.app [404] [] [18] [cloudflare] [216.24.57.16] [256.920002ms] [Cloudflare,HTTP/3,Render]
+https://pr-407-sg.preview.catalyst.app [404] [] [18] [cloudflare] [216.24.57.18] [367.465374ms] [Cloudflare,HTTP/3,Render]
+https://privy.preprod.catalyst.app [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [293.37589ms] [Cloudflare,Cloudflare Bot Management]
+https://stats-api.derive.xyz [404] [] [107] [Vercel] [216.150.1.129] [184.480562ms] [HSTS,Vercel]
+https://pr-407.preview.catalyst.app [404] [] [10] [cloudflare] [216.24.57.18] [526.543746ms] [Cloudflare,HTTP/3]
+https://r.catalyst.app [404] [] [105] [cloudflare] [104.20.19.245] [cloudflare] [395.412878ms] [Cloudflare,HSTS]
+https://staging1.catalyst.app [404] [] [101] [railway-hikari] [69.46.46.17] [269.125821ms]
+https://search.catalyst.app [404] [] [101] [railway-hikari] [69.46.46.17] [330.68441ms]
+https://staging-api.catalyst.app [404] [] [15] [cloudflare] [216.24.57.18] [361.489228ms] [Cloudflare,HTTP/3]
+https://testnet-pro.derive.xyz [404] [] [107] [Vercel] [216.150.1.129] [242.724848ms] [HSTS,Vercel]
+https://testnet.api.derive.xyz [404] [] [0] [cloudflare] [172.67.70.234] [cloudflare] [391.289055ms] [Cloudflare]
+https://www.preview.catalyst.app [404] [] [18] [cloudflare] [216.24.57.16] [4.247333254s] [Cloudflare,HTTP/3,Render]
+
+## 500
+
+## 502
+
+## 503
+https://preprod.catalyst.app [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [100.58.149.100] [396.709312ms] [Amazon ELB,Amazon Web Services]
+
