@@ -1,0 +1,3 @@
+http://autodiscover.antarctic.exchange [301] [https://autodiscover.antarctic.exchange/] [0] [Microsoft-HTTPAPI/2.0] [52.96.164.232] [2.677628ms] [Microsoft HTTPAPI:2.0]
+https://antarctic.exchange [301] [https://www.antarctic.exchange/] [530] [301 Moved Permanently] [cloudflare] [104.26.3.132] [cloudflare] [835.38836ms] [Cloudflare,Cloudflare Browser Insights]
+http://services.01.xyz [301] [https://services.01.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.207.90] [cloudflare] [28.209799ms] [Cloudflare,HTTP/3]
