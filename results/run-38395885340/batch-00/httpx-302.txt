@@ -1,0 +1,2 @@
+http://mail.dolomite.io [302] [http://mail.google.com/a/dolomite.io] [233] [302 Moved] [ghs] [142.251.179.121] [google] [37.430752ms]
+https://verification.dolomite.io [302] [https://galxe.com/oauth?client_id=4f1d1db83374414de6ac9e79ceaead6656ca013e9b0746920007bc89b7db1a13&scope=Discord%20EVMAddress&redirect_uri=http://verification.dolomite.io/oauth/callback&state=2f00802a-84bc-4a04-b8ca-00d642b66c5b] [665] [Redirecting...] [Heroku] [3.33.241.96] [58.441148ms]

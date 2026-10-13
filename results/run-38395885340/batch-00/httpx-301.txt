@@ -1,0 +1,4 @@
+https://classy-eleven.dolomite.io [301] [https://usefathom.com] [330] [Redirecting to https://usefathom.com] [BunnyCDN-ASB1-1310] [37.19.207.37] [58.233919ms] [Bunny]
+https://deus.finance [301] [https://www.deus.finance/] [166] [301 Moved Permanently] [] [34.202.203.47] [321.421047ms] [Cloudflare,HSTS,HTTP/3]
+http://info.deus.finance [301] [https://info.deus.finance/] [534] [301 Moved Permanently] [cloudflare] [104.21.72.69] [cloudflare] [37.461341ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://simulate.deus.finance [301] [https://simulate.deus.finance/] [534] [301 Moved Permanently] [cloudflare] [104.21.72.69] [cloudflare] [28.729779ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
