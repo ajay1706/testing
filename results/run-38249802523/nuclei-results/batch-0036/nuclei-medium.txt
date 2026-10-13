@@ -1,0 +1,2 @@
+[CVE-2026-32230] [http] [medium] https://status.cakewallet.com/api/badge/1/ping/24
+[CVE-2026-32230] [http] [medium] https://status.unisat.io/api/badge/1/ping/24
