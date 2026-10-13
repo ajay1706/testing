@@ -1,0 +1,4 @@
+https://api.bitway.com [500] [] [1893] [500 Internal Server Error] [cloudflare] [172.67.187.114] [cloudflare] [1.004529218s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://api.vanta.exchange [500] [] [96] [Vercel] [216.198.79.3] [1.22552792s] [HSTS,Vercel]
+https://blog.avantisfi.com [500] [] [2792] [Database Error] [cloudflare] [104.20.34.8] [cloudflare] [341.462031ms] [Cloudflare,Cloudflare Browser Insights,PHP:8.1.33]
+https://mizar-gateway.signalplus.com [500] [] [48] [nginx/1.21.6] [18.180.45.248] [532.937918ms] [Nginx:1.21.6]
