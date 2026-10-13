@@ -1,0 +1,14 @@
+[+] Batch started: Tue Oct 13 12:16:33 UTC 2026
+[+] Run ID: 38395885340
+[+] Batch name: batch-01
+[+] Batch targets:
+glowfinance.xyz
+meridian.xyz
+merkle.trade
+[+] Running subfinder...
+[+] Subfinder completed: Tue Oct 13 12:17:01 UTC 2026
+[+] HTTPX input count: 131
+[+] Running httpx...
+[+] httpx completed: Tue Oct 13 12:17:21 UTC 2026
+[+] httpx line count: 43
+[+] Batch completed: Tue Oct 13 12:17:21 UTC 2026

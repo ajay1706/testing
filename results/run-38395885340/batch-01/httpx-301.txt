@@ -1,0 +1,8 @@
+http://api-test.prod.merkle.trade [301] [https://api-test.prod.merkle.trade/] [534] [301 Moved Permanently] [cloudflare] [172.67.136.234] [cloudflare] [49.799102ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://api.prod.merkle.trade [301] [https://api.prod.merkle.trade/] [534] [301 Moved Permanently] [cloudflare] [104.21.73.10] [cloudflare] [46.738962ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://api.testnet.merkle.trade [301] [https://api.testnet.merkle.trade/] [534] [301 Moved Permanently] [cloudflare] [172.67.136.234] [cloudflare] [58.040747ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://go.meridian.xyz [301] [https://meridian.xyz/] [15] [Vercel] [66.33.60.66] [386.741201ms] [HSTS,Vercel]
+http://node.k8s.merkle.trade [301] [https://node.k8s.merkle.trade/] [534] [301 Moved Permanently] [cloudflare] [172.67.136.234] [cloudflare] [61.738513ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://node.prod.merkle.trade [301] [https://node.prod.merkle.trade/] [534] [301 Moved Permanently] [cloudflare] [104.21.73.10] [cloudflare] [49.021971ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://node.testnet.merkle.trade [301] [https://node.testnet.merkle.trade/] [534] [301 Moved Permanently] [cloudflare] [172.67.136.234] [cloudflare] [56.160899ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://proxy.prod.merkle.trade [301] [https://proxy.prod.merkle.trade/] [534] [301 Moved Permanently] [cloudflare] [172.67.136.234] [cloudflare] [53.46071ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]

@@ -1,0 +1,6 @@
+https://37511397.merkle.trade [404] [] [146] [404 Not Found] [nginx] [34.218.83.191] [205.381519ms] [Nginx]
+https://cf-api.merkle.trade [404] [] [13] [cloudflare] [172.67.136.234] [cloudflare] [545.22822ms] [Cloudflare,HTTP/3]
+https://cdn.merkle.trade [404] [] [27517] [Not Found] [cloudflare] [104.21.73.10] [cloudflare] [655.5282ms] [Cloudflare,Cloudflare Browser Insights]
+https://api.glowfinance.xyz [404] [] [0] [] [34.143.246.163] [google] [752.652894ms]
+https://url1142.merkle.trade [404] [] [548] [404 Not Found] [nginx] [18.119.8.95] [203.857697ms] [Nginx]
+https://oracle.api.glowfinance.xyz [404] [] [0] [] [34.143.246.163] [google] [769.550046ms]
