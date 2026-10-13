@@ -1,0 +1,3 @@
+https://app.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [104.20.40.161] [cloudflare] [180.808334ms] [Cloudflare,HSTS,Vercel]
+https://docs.dydx.trade [301] [https://docs.dydx.xyz] [528] [301 Moved Permanently] [cloudflare] [104.20.40.161] [cloudflare] [316.019087ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [104.20.40.161] [cloudflare] [236.752035ms] [Cloudflare,HSTS,Vercel]

@@ -1,0 +1,6 @@
+https://privy.dydx.trade [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [210.884999ms] [Cloudflare,Cloudflare Bot Management]
+https://v.derpetual.com [404] [] [105] [cloudflare] [104.20.19.245] [cloudflare] [232.617892ms] [Cloudflare,HSTS]
+https://indexer.dydx.trade [404] [] [0] [cloudflare] [172.66.166.30] [cloudflare] [880.418431ms] [Cloudflare]
+https://oracle-relay.dydx.trade [404] [] [9] [cloudflare] [172.66.166.30] [cloudflare] [666.398032ms] [Cloudflare]
+https://tvchart.dexari.com [404] [] [27150] [Not Found] [cloudflare] [104.18.0.52] [cloudflare] [316.278737ms] [Cloudflare]
+https://oracle-relay-staging.dydx.trade [404] [] [9] [cloudflare] [172.66.166.30] [cloudflare] [739.838194ms] [Cloudflare]
