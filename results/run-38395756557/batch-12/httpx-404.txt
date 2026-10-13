@@ -1,0 +1,8 @@
+https://a.perptools.ai [404] [] [105] [cloudflare] [104.20.29.105] [cloudflare] [238.278738ms] [Cloudflare,HSTS]
+https://api.popdex.xyz [404] [] [15] [cloudflare] [104.18.20.177] [cloudflare] [250.718271ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://share.popdex.xyz [404] [] [15] [cloudflare] [104.18.21.177] [cloudflare] [271.238339ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://testnet-api.popdex.xyz [404] [] [15] [cloudflare] [104.18.20.177] [cloudflare] [266.568625ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://testnet-share.popdex.xyz [404] [] [15] [cloudflare] [104.18.20.177] [cloudflare] [469.007094ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://public-assets-r2.perpl.xyz [404] [] [27511] [Not Found] [cloudflare] [172.66.149.49] [cloudflare] [227.822087ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://testnet-ws.popdex.xyz [404] [] [15] [cloudflare] [104.18.21.177] [cloudflare] [356.313448ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ws.popdex.xyz [404] [] [15] [cloudflare] [104.18.20.177] [cloudflare] [379.024393ms] [Cloudflare,Cloudflare Bot Management,HSTS]

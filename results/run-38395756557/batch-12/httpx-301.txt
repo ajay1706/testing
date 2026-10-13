@@ -1,0 +1,3 @@
+https://app.popdex.xyz [301] [https://app.popdex.xyz/trade] [169] [301 Moved Permanently] [cloudflare] [104.18.21.177] [cloudflare] [226.586129ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://testnet-app.popdex.xyz [301] [https://testnet-app.popdex.xyz/trade] [169] [301 Moved Permanently] [cloudflare] [104.18.21.177] [cloudflare] [467.151508ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.perpl.xyz [301] [https://perpl.xyz/] [528] [301 Moved Permanently] [cloudflare] [172.66.149.49] [cloudflare] [5.071648809s] [Cloudflare,Cloudflare Browser Insights,HSTS]
