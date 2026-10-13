@@ -1,0 +1,3 @@
+https://support.rainbow.me [301] [https://rainbow.me/support/] [0] [cloudflare] [172.66.172.168] [cloudflare] [87.583389ms] [Cloudflare]
+https://www.ratex.ai [301] [https://ratex.ai/] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [95.217.72.204] [575.77799ms] [Nginx:1.24.0,Ubuntu]
+https://www.rainbow.me [301] [https://rainbow.me/] [528] [301 Moved Permanently] [cloudflare] [172.66.172.168] [cloudflare] [1.083204604s] [Cloudflare,Cloudflare Browser Insights]
