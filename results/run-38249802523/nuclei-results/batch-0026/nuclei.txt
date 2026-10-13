@@ -1,0 +1,37 @@
+[CVE-2024-46310] [http] [medium] https://documentation.fordefi.com/players.json
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.unisat.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.tiplink.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.unisat.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.tiplink.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] developer.unisat.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] developer.unisat.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] devops.ops.bitcoin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] devops-web.ops.bitcoin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] diaso.us.bitcoin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] devops.ops.bitcoin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] devops-web.ops.bitcoin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] diaso.us.bitcoin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] do2.ru.bitcoin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] do2.ru.bitcoin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.oyl.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.oyl.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dogeos.dev-embedded-wallet.tomo.inc:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dogeos.embedded-wallet.tomo.inc:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dogeos.dev-embedded-wallet.tomo.inc:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dogeos.embedded-wallet.tomo.inc:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://dnswatcher.security.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://dnswatcher.security.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://dnswatcher.security.ledger.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.libcore.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.libcore.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.libcore.ledger.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://donjon.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://donjon.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://donjon.ledger.com
+[CVE-2020-15081] [http] [low] https://documentation.fordefi.com/upload/
+[laravel-sessions-exposure] [http] [high] https://documentation.fordefi.com/storage/framework/sessions/
+[nexus-repository-anonymous-access] [http] [medium] https://documentation.fordefi.com/service/rest/v1/repositories
+[CVE-2023-6592] [http] [medium] https://documentation.fordefi.com/wp-content/plugins/fastdup/logs/
+[azure-functions-hostjson-exposure] [http] [medium] https://documentation.fordefi.com/host.json
+[CVE-2020-35234] [http] [high] https://documentation.fordefi.com/wp-content/plugins/easy-wp-smtp/
+[CVE-2020-35234] [http] [high] https://documentation.fordefi.com/wp-content/plugins/wp-mail-smtp-pro/
