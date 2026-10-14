@@ -1,0 +1,3 @@
+[CVE-2026-27454] [http] [medium] https://forum.world.inc/posts/201.json?version=1
+[CVE-2026-27454] [http] [medium] https://forums.derive.xyz/posts/598.json?version=2
+[prometheus-metrics] [http] [medium] https://hoodi-relay.ethgas.com/metrics
