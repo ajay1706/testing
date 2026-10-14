@@ -1,0 +1,1 @@
+[wordpress-click2shell] [http] [high] https://blog.avantisfi.com/wp-admin/js/theme.js
