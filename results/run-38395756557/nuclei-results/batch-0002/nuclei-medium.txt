@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://api.vaults.testnet.arcus.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api.vaults.arcus.xyz/metrics
+[prometheus-metrics] [http] [medium] https://app.hudi.com/api/metrics
+[prometheus-metrics] [http] [medium] https://app.perptools.ai/api/metrics
