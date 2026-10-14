@@ -1,0 +1,2 @@
+[aws-bucket-takeover] [http] [high] https://storage.nodexx.co ["storage.nodexx.co"]
+[aws-bucket-takeover] [http] [high] https://webstatic.nodexx.co ["webstatic.nodexx.co"]
