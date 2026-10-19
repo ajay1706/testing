@@ -1,0 +1,2 @@
+[wp-acf-fpd] [http] [low] http://careers.near.org/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-accordion.php
+[unauthenticated-varnish-cache-purge] [http] [low] http://agentic.near.org
