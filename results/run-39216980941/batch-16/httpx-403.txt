@@ -1,0 +1,2 @@
+https://relayer.mainnet.zama.org [403] [] [169] [cloudflare] [172.66.151.95] [cloudflare] [157.945545ms] [Cloudflare]
+https://cdn.zama.org [403] [] [474] [403 Forbidden] [AmazonS3] [13.225.47.18] [cloudfront] [592.734035ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]

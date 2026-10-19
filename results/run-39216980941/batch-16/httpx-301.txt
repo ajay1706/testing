@@ -1,0 +1,5 @@
+https://3min.zama.org [301] [https://www.zama.org/introduction-to-homomorphic-encryption] [167] [301 Moved Permanently] [cloudflare] [104.20.45.246] [cloudflare] [141.567466ms] [Cloudflare]
+https://6min.zama.org [301] [https://www.zama.org/introduction-to-homomorphic-encryption] [167] [301 Moved Permanently] [cloudflare] [172.66.151.95] [cloudflare] [159.652031ms] [Cloudflare]
+https://claim.zama.org [301] [https://www.zama.org/claim] [167] [301 Moved Permanently] [cloudflare] [104.20.45.246] [cloudflare] [161.669003ms] [Cloudflare]
+https://auction.zama.org [301] [https://www.zama.org/post/118m-committed-for-the-first-encrypted-ico-on-ethereum] [167] [301 Moved Permanently] [cloudflare] [104.20.45.246] [cloudflare] [176.686227ms] [Cloudflare]
+https://zama.org [301] [https://www.zama.org/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [349.980202ms] [Cloudflare,HTTP/3]
