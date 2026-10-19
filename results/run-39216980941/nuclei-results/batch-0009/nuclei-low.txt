@@ -1,0 +1,32 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.caspian-api.ingestion.ripple.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.ethereum.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.ethereum.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.caspian-api.ingestion.ripple.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.efyfinance.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.efyfinance.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[postgres-exporter-metrics] [http] [low] https://dev.markets.metrics.doppler.lol/metrics
+[expired-ssl] [ssl] [low] dev.basedapp.io:443 ["2026-01-17 15:29:01 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] dev04.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev04.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev05.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev05.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev06.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev06.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev08.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev08.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev09.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev09.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev10.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev10.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev11.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev11.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev13.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev13.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev15.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev15.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev20.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev20.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev22.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev22.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] dev23.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] dev23.xctest.i.ripple.com:443

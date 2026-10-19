@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://dev.markets.metrics.doppler.lol/metrics
+[laravel-debug-enabled] [http] [medium] https://dev.efyfinance.com/_ignition/health-check
