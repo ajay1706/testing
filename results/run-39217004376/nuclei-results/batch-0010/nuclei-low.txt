@@ -1,0 +1,27 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.arklabs.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.arklabs.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bmn2.mining.blockstream.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bmn2.mining.blockstream.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bsky.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bsky.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] btcpayserver.blockstream.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] btcpayserver.blockstream.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] capital.dev.axiym.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] capital.dev.axiym.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cardyb.bsky.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cardyb.bsky.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cascade.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cascade.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.blockstream.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.blockstream.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] central.api.across.to:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] central.api.across.to:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://brand.panoptic.xyz
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://brand.panoptic.xyz
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://brand.panoptic.xyz
+[wp-user-enum:usernames] [http] [low] https://blog.redstone.finance/wp-json/wp/v2/users/ ["danielszerszen","filipbergerer","mikolaj","mindfullymoon904fc8cddc","wolf","Filip","Mikolaj","maja","Maja","Wolf"]
+[ds-store-file] [http] [low] https://blog.gumi-cryptos.com/.DS_Store
+[expired-ssl] [ssl] [low] blogvw.redstone.finance:443 ["2026-08-22 11:26:31 +0000 UTC"]
+[expired-ssl] [ssl] [low] blogo.redstone.finance:443 ["2026-08-22 11:26:31 +0000 UTC"]
+[expired-ssl] [ssl] [low] bonusk.redstone.finance:443 ["2026-08-22 11:26:31 +0000 UTC"]
+[expired-ssl] [ssl] [low] cache-layer-lite-7.redstone.finance:443 ["2026-08-22 11:26:31 +0000 UTC"]
