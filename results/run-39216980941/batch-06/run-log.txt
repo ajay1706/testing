@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 19 07:43:10 UTC 2026
+[+] Run ID: 39216980941
+[+] Batch name: batch-06
+[+] Batch targets:
+ethena.fi
+ethereum.org
+farcaster.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 19 07:46:25 UTC 2026
+[+] HTTPX input count: 546
+[+] Running httpx...
+[+] httpx completed: Mon Oct 19 07:48:33 UTC 2026
+[+] httpx line count: 105
+[+] Batch completed: Mon Oct 19 07:48:33 UTC 2026
