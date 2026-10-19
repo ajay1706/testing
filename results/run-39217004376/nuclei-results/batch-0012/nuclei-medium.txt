@@ -1,0 +1,2 @@
+[CVE-2023-48795] [javascript] [medium] dcim.infra.northerndata.de:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] dcim5.infra.northerndata.de:22 ["Vulnerable to Terrapin"]
