@@ -1,0 +1,6 @@
+[CVE-2026-27454] [http] [medium] https://forum.datafdn.org/posts/497391.json?version=1
+[CVE-2026-27454] [http] [medium] https://forums.sui.io/posts/249846.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.morpho.org/posts/4222.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.vitadao.com/posts/5699.json?version=3
+[open-redirect-generic] [http] [medium] https://glossary.ethereum.org//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://glossary.ethereum.org//interact.sh/en//
