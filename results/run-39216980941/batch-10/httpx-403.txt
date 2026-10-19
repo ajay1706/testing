@@ -1,0 +1,7 @@
+https://archive-internal-rpc.testnet.near.org [403] [] [200] [cloudflare] [104.18.30.232] [cloudflare] [4.046230729s] [Cloudflare,HTTP/3]
+https://beta.rpc.mainnet.near.org [403] [] [200] [cloudflare] [104.18.31.232] [cloudflare] [3.036358355s] [Cloudflare,HTTP/3]
+https://git.novig.com [403] [] [9] [awselb/2.0] [52.5.163.217] [6.118593838s] [Amazon ELB,Amazon Web Services]
+https://nf-archival-rpc.mainnet.near.org [403] [] [134] [403] [] [34.111.151.60] [google] [3.032790669s] [HTTP/3]
+https://rpc.betanet.near.org [403] [] [134] [403] [] [107.178.241.0] [google] [5.195701506s] [HTTP/3]
+http://rpc.mainnet.internal.near.org [403] [] [200] [cloudflare] [104.18.31.232] [cloudflare] [5.017761395s] [Cloudflare,HTTP/3]
+http://tempstatus.novig.com [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [3.170.42.32] [cloudfront] [3.194588ms] [Amazon CloudFront,Amazon Web Services]

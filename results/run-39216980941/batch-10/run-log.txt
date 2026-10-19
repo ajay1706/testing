@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 19 07:47:40 UTC 2026
+[+] Run ID: 39216980941
+[+] Batch name: batch-10
+[+] Batch targets:
+near.org
+nervos.org
+novig.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 19 07:48:53 UTC 2026
+[+] HTTPX input count: 683
+[+] Running httpx...
+[+] httpx completed: Mon Oct 19 07:51:50 UTC 2026
+[+] httpx line count: 82
+[+] Batch completed: Mon Oct 19 07:51:50 UTC 2026

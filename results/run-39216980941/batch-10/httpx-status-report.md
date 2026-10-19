@@ -1,0 +1,109 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 19 07:51:50 UTC 2026
+
+HTTPX lines: 82
+Live URLs: 82
+
+## 200
+https://admin-demo.novig.com [200] [] [1013] [Novig Admin Portal] [AmazonS3] [13.226.209.57] [cloudfront] [2.352803733s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://archive-internal-rpc.testnet.near.org [403] [] [200] [cloudflare] [104.18.30.232] [cloudflare] [4.046230729s] [Cloudflare,HTTP/3]
+https://beta.rpc.mainnet.near.org [403] [] [200] [cloudflare] [104.18.31.232] [cloudflare] [3.036358355s] [Cloudflare,HTTP/3]
+https://auth.near.org [200] [] [112199] [NEAR Auth — Sign in with Google or Apple on NEAR · Social-login Web3 onboarding] [] [52.54.0.48] [4.10398986s] [Next.js,Node.js,React,Webpack]
+https://blueboot.novig.com [200] [] [10735] [Blue Boot Jackpot | Novig] [Vercel] [216.150.16.193] [2.183564906s] [HSTS,Vercel]
+http://careers.near.org [200] [] [922] [namecheap-nginx] [192.64.119.140] [247.476061ms] [Nginx]
+https://data-demo.novig.com [200] [] [840478] [Novig Exchange Data · Daily trading volume] [AmazonS3] [3.162.112.124] [cloudfront] [2.310941546s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://data.novig.com [200] [] [959977] [Novig Exchange Data · Daily trading volume] [AmazonS3] [3.170.3.122] [cloudfront] [4.3524494s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://docs-old.nervos.org [200] [] [14521] [Nervos CKB] [Vercel] [76.76.21.142] [4.063435476s] [Docusaurus:2.0.0-beta.21,Google Analytics,HSTS,React,Vercel,Webpack]
+https://docs.near.org [200] [] [330251] [Home - NEAR Docs] [Vercel] [66.33.60.193] [1.153995355s] [Cloudflare,HSTS,Vercel]
+https://docs.nervos.org [200] [] [66884] [Home | Nervos CKB] [Vercel] [76.76.21.123] [2.073233771s] [Docusaurus:3.3.2,Google Analytics,HSTS,React,Vercel,Webpack]
+https://eth-rpc.testnet.near.org [200] [] [0] [] [34.36.53.183] [google] [2.188672828s] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://explorer.near.org [200] [] [11013] [Near Explorer Selector] [cloudflare] [172.67.71.204] [cloudflare] [1.373354382s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://explorer.testnet.near.org [200] [] [11013] [Near Explorer Selector] [cloudflare] [104.26.2.239] [cloudflare] [2.518473914s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://faucet.nervos.org [200] [] [397] [Nervos Pudge Faucet] [Vercel] [76.76.21.61] [4.059239951s] [HSTS,Vercel]
+https://lbtest.wallet.mainnet.near.org [200] [] [877] [NEAR Wallet] [UploadServer] [34.120.109.212] [google] [1.093468678s] [Google Cloud,Google Cloud Storage,HTTP/3]
+https://intents-resources.near.org [200] [] [44738] [NEAR Intents] [railway-hikari] [69.46.46.83] [4.128475701s] [Next.js,Node.js,React,Webpack]
+https://lbtest.wallet.staging.near.org [200] [] [877] [NEAR Wallet] [UploadServer] [34.111.170.186] [google] [5.096976954s] [Google Cloud,Google Cloud Storage,HTTP/3]
+https://internal.near.org [200] [] [57074] [Artiline — Share AI artifacts with your team] [railway-hikari] [69.46.46.38] [7.191470061s] [Next.js,Node.js,React,Webpack]
+https://intents.near.org [200] [] [651413] [NEAR Intents - The Universal Liquidity Protocol] [Vercel] [216.150.16.1] [6.192941628s] [HSTS,Vercel]
+https://near.org [200] [] [186361] [NEAR: The Currency of Agents] [railway-hikari] [69.46.46.126] [3.057169987s] [Google Tag Manager,Next.js,Node.js,React,Webpack]
+https://paper.novig.com [200] [] [3875] [Novig Paper] [AmazonS3] [13.226.238.60] [cloudfront] [1.210233311s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://novig.com [200] [] [3871] [Novig | The Prediction Market Built for Sports Fans] [AmazonS3] [3.170.19.106] [cloudfront] [5.07761479s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://partner.novig.com [200] [] [61038] [Novig Partner Onboarding] [Vercel] [216.150.16.193] [3.188689805s] [HSTS,Vercel]
+https://talk.nervos.org [200] [] [163085] [Nervos Talk] [cloudflare] [104.26.5.114] [cloudflare] [2.585823306s] [Cloudflare,Discourse:2026.7.1,Google Analytics,HSTS,Ruby on Rails]
+http://rpc.mainnet.internal.near.org [403] [] [200] [cloudflare] [104.18.31.232] [cloudflare] [5.017761395s] [Cloudflare,HTTP/3]
+https://wallet.testnet.near.org [200] [] [724] [NEAR Wallet] [UploadServer] [34.96.117.163] [google] [27.344538ms] [Google Cloud,Google Cloud Storage,HTTP/3]
+https://wallet.near.org [200] [] [23711] [NEAR Wallet] [Vercel] [64.29.17.131] [4.04409588s] [HSTS,Vercel]
+https://wallet.staging.near.org [200] [] [877] [NEAR Wallet] [UploadServer] [34.111.170.186] [google] [5.032542084s] [Google Cloud,Google Cloud Storage,HTTP/3]
+https://widgets.novig.com [200] [] [34709] [Novig Widgets] [Vercel] [216.150.16.193] [3.123998648s] [HSTS,Vercel,Vercel Analytics]
+https://www.near.org [200] [] [186361] [NEAR: The Currency of Agents] [railway-hikari] [69.46.46.20] [4.053594499s] [Google Tag Manager,Next.js,Node.js,React,Webpack]
+
+## 301
+http://affiliates-qa.novig.com [301] [https://affiliates-qa.novig.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [13.223.161.3] [2.073532495s] [Amazon ELB,Amazon Web Services]
+http://agentic.near.org [301] [https://www.agentic.near.org/] [0] [Squarespace] [198.49.23.145] [1.110026046s] [Squarespace,Squarespace Commerce]
+http://beta.rpc.testnet.near.org [301] [https://beta.rpc.testnet.near.org:443/] [0] [] [34.36.193.20] [google] [6.293922ms]
+http://bench-ingress-01.benchmarking.novig.com [301] [https://bench-ingress-01.benchmarking.novig.com/] [167] [301 Moved Permanently] [CloudFront] [3.170.19.37] [cloudfront] [1.147415223s] [Amazon CloudFront,Amazon Web Services]
+http://certificates.learn.near.org [301] [https://certificates.learn.near.org/] [71] [cloudflare] [216.24.57.18] [6.102918041s] [Cloudflare,HTTP/3]
+http://docs.auth.near.org [301] [https://docs.auth.near.org/] [167] [301 Moved Permanently] [cloudflare] [172.66.3.9] [cloudflare] [4.378486271s] [Cloudflare,HTTP/3]
+http://eth-rpc.mainnet.near.org [301] [https://eth-rpc.mainnet.near.org:443/] [0] [] [130.211.43.152] [google] [3.012979516s]
+http://explorer.mainnet.near.org [301] [https://explorer.mainnet.near.org/] [528] [301 Moved Permanently] [cloudflare] [104.26.2.239] [cloudflare] [321.157137ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://revenue.near.org [301] [https://revenue.near.org/] [0] [] [69.46.46.56] [3.028130228s]
+http://rpc.near.org [301] [https://rpc.near.org/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [2.013325556s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://rpc.mainnet.near.org [301] [https://rpc.mainnet.near.org/] [528] [301 Moved Permanently] [cloudflare] [104.18.31.232] [cloudflare] [4.027222127s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://rpc.testnet.near.org [301] [https://rpc.testnet.near.org/] [528] [301 Moved Permanently] [cloudflare] [104.18.30.232] [cloudflare] [5.038425571s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://status.novig.com [301] [https://status.novig.com/] [167] [301 Moved Permanently] [CloudFront] [3.170.42.106] [cloudfront] [3.037389066s] [Amazon CloudFront,Amazon Web Services]
+http://talk-staging.nervos.org [301] [https://talk-staging.nervos.org/] [169] [301 Moved Permanently] [cloudflare] [104.26.5.114] [cloudflare] [3.555503093s] [Cloudflare]
+http://www.agentic.near.org [301] [https://www.agentic.near.org/] [0] [Squarespace] [198.49.23.145] [2.029547632s] [Squarespace,Squarespace Commerce]
+https://www.novig.com [301] [https://novig.com/] [0] [] [3.170.19.106] [cloudfront] [4.15408279s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 302
+https://ckba.nervos.org [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fckba.nervos.org%2F&nonce=67ea4ee96ffc6de32d5993836a00c60c79adc17ee3490668389df36d639b0dc5] [263] [Vercel] [216.150.16.129] [2.238306431s] [HSTS,Vercel]
+https://centaur.near.org [302] [https://accounts.google.com/o/oauth2/auth?access_type=offline&approval_prompt=force&client_id=732583985699-cio7pvt98resnscbv3dtcfpacsv44s38.apps.googleusercontent.com&code_challenge=2R1L8p-zFNPJTL5dAssZlR3lrmviEa5_haXSBR6u4wk&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fcentaur.near.org%2Foauth2%2Fcallback&response_type=code&scope=openid+email+profile&state=zTFOVrdKNuTLKOseu1n0PMtOAnGyY8v3mGUwmr0LZdw%3A%2F] [473] [] [34.65.192.65] [google] [7.315758097s] [HSTS]
+https://eagle.centaur.near.org [302] [https://accounts.google.com/o/oauth2/auth?access_type=offline&approval_prompt=force&client_id=732583985699-cio7pvt98resnscbv3dtcfpacsv44s38.apps.googleusercontent.com&code_challenge=EQnNuTxWizQbc58lRp3vAqOSYwahD_ryR8cYiIWtlH0&code_challenge_method=S256&redirect_uri=https%3A%2F%2Feagle.centaur.near.org%2Foauth2%2Fcallback&response_type=code&scope=openid+email+profile&state=PwofbXEKl02D9imhCCHZMDeltLeM3R3nUjHpCjJ1aRo%3A%2F] [479] [] [34.65.192.65] [google] [2.32229851s] [HSTS]
+https://laminar.centaur.near.org [302] [https://accounts.google.com/o/oauth2/auth?access_type=offline&approval_prompt=force&client_id=732583985699-3rtl90t5pa36dt2kg1h7fsbhpa4rffhs.apps.googleusercontent.com&code_challenge=_ahoQ7UMi0Ys0aClSsxM77Z5gm2u9G2R-whYNcP95RM&code_challenge_method=S256&redirect_uri=https%3A%2F%2Flaminar.centaur.near.org%2Foauth2%2Fcallback&response_type=code&scope=openid+email+profile&state=u7rybqaoEHdsUoce6VF4BkPdGx1xPz-d9FgETSGJrOY%3A%2F] [481] [] [34.65.192.65] [google] [3.306601746s]
+https://login.auth.near.org [302] [https://auth.near.org/] [44] [cloudflare] [104.18.43.182] [cloudflare] [7.158231367s] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://sentry.nervos.org [302] [/auth/login/] [0] [cloudflare] [172.67.74.150] [cloudflare] [2.320549666s] [Cloudflare]
+https://testnet.ckba.nervos.org [302] [https://vercel.com/sso-api?url=https%3A%2F%2Ftestnet.ckba.nervos.org%2F&nonce=ad46700f2a600b1711320560ff4b952bb4746c29d3b4fbf628f159f700724613] [263] [Vercel] [216.150.16.1] [4.303773967s] [HSTS,Vercel]
+https://wallet.shardnet.near.org [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=48902075913-pkcnpgh9c4voa2ck58a1mbubnpq5349q.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/48902075913-pkcnpgh9c4voa2ck58a1mbubnpq5349q.apps.googleusercontent.com:handleRedirect&code_challenge=li2DLk5SWIHO2bu-6gKZ8Ae9L0X67pYXZjhhv81hlyY&code_challenge_method=S256&cred_ref=true&state=ATbdjREEka3vIRt9wBHUEUsAyiOFuFhAE0gKNHYpO0DNACDYRS5JuntNvSSRZ1d4ru1Nz9_HbYlVpVLS_XUdl0V1eiD8jCHvfSBmcgI923ZmSSD4Z4q92kmEKcalDAoXp7ik77wqh1JEaEsgF3-aJu5APbbABJ4xuxgN6wFMyk0KkfpYjHt8gUzihx3lqMFc4-Kq1POvyKdQih2ehW1Q2LxVz3UM1ec2Nqq9D0QrR5gIo2Hzd3jBUBRkJXD20d9u0ShkVfy2DH0yQIO5qBbbH9_hzhkChwl6ffUWW2mpYAYn5K0HVQ7uCJaU6j-BhSVz1Vvi8r3l27RiRJq3NvKS8mkw8iA61C9VyDM3bjxJDi5A-0s4zLcQ1ANGcV1pzzS_VQ5hxi_oFFu0kBTQf6TU-__8TlH8EQcOkc9dcKHOfjJsr2ACCVLD8nYDuTkOn1LH1AdT-JvyPbYBOn5teugT7qmaj5mW6pmGLj-tw8ACtXrmiYDHtqkZEHezkPCDdg-eG-ZruxFfTfUBvGkR8kpHsjOUcLm1ENLGUWREpDykU0kayNG8V-G8wZWpCUegGL7DJbIVFGQnzaIWxJhVX0ET6Pa3NAc5y_wBTTg4d2HNSG-s1L7-zdb4qNQIrYO_cjKkfH2ktspC9AsQDnJE6SXAC1sk9qxX4JA1HUjPw5WAUXlBSMW4_uMeYkypQCtOnVMucXVs7yX0aBOutMI8U2yVtkITMkCwQRBbm2-OcQdFuVw4c26MRjL6xnS9IWtytsrrjoQ_L5leDGFoS3RscXLHkWQoCbE6DU7xX6G1PZrFKLq-_3Jw7T4Wbn6ogdh_5WEeRkiaokUjtuCp8oAFY_npYNKZNo_ohtb1Fv3bYt1QNFsHXLM_7LfhJfdGNN_nxF5yXXHGd3YPpWQLFFJpGabDSFtcv62RCENidiy5K0ep9Fplu13skz5t7fVrpEz43cHQrLj6EdBNFcoDOZPp2Lu7lrxNdvIuLvODPNBmowOex0Aoiwo9QVr3h5_MdDEf9kUzQMXqDmMTpyBve85O6hO6bmQpoXgW1xuWNYHBvPQIHh9m5NTZKbCf0jWRM4pYOr0Rs1o_hmn6eTfeIEgUtUnnKZds29qN37UYJZy42f0Tu0Fdze0vzO4XD6AJ4Omr4bWouFxy0WKBg7VNcscOb7_4IE86_i_UwYDx] [36] [] [34.111.72.176] [google] [6.086310073s] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 307
+https://app.jarvis.near.org [307] [/login?callbackUrl=%2F] [22] [] [34.158.18.133] [google] [1.313680281s] [HSTS,HTTP/3]
+https://pages.near.org [307] [https://docs.near.org] [15] [Vercel] [216.150.16.193] [3.078034306s] [HSTS,Vercel]
+https://tools.novig.com [307] [/odds-calculator] [15] [Vercel] [216.150.16.129] [2.139129628s] [HSTS,Vercel]
+
+## 308
+http://landing.novig.com [308] [https://landing.novig.com/] [14] [Vercel] [216.150.16.129] [6.083611757s] [Vercel]
+https://odds-calculator.novig.com [308] [https://tools.novig.com/] [15] [Vercel] [216.150.16.129] [3.061425806s] [HSTS,Vercel]
+http://testnet.explorer.nervos.org [308] [https://testnet.explorer.nervos.org/] [14] [Vercel] [66.33.60.66] [5.035824273s] [Vercel]
+
+## 401
+
+## 403
+https://archive-internal-rpc.testnet.near.org [403] [] [200] [cloudflare] [104.18.30.232] [cloudflare] [4.046230729s] [Cloudflare,HTTP/3]
+https://beta.rpc.mainnet.near.org [403] [] [200] [cloudflare] [104.18.31.232] [cloudflare] [3.036358355s] [Cloudflare,HTTP/3]
+https://git.novig.com [403] [] [9] [awselb/2.0] [52.5.163.217] [6.118593838s] [Amazon ELB,Amazon Web Services]
+https://nf-archival-rpc.mainnet.near.org [403] [] [134] [403] [] [34.111.151.60] [google] [3.032790669s] [HTTP/3]
+https://rpc.betanet.near.org [403] [] [134] [403] [] [107.178.241.0] [google] [5.195701506s] [HTTP/3]
+http://rpc.mainnet.internal.near.org [403] [] [200] [cloudflare] [104.18.31.232] [cloudflare] [5.017761395s] [Cloudflare,HTTP/3]
+http://tempstatus.novig.com [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [3.170.42.32] [cloudfront] [3.194588ms] [Amazon CloudFront,Amazon Web Services]
+
+## 404
+https://api.qa.novig.com [404] [] [9] [awselb/2.0] [108.138.106.103] [cloudfront] [135.427073ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://api.affiliates-qa.novig.com [404] [] [9] [awselb/2.0] [13.223.161.3] [3.108692279s] [Amazon ELB,Amazon Web Services]
+https://api.novig.com [404] [] [9] [awselb/2.0] [13.226.209.89] [cloudfront] [2.065620662s] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+http://claim-tokens.near.org [404] [] [107] [Vercel] [64.29.17.131] [449.773085ms] [Vercel]
+https://eth-explorer-testnet.near.org [404] [] [3236] [Squarespace - Domain Not Claimed] [Squarespace] [198.185.159.145] [1.121652282s] [Squarespace,Squarespace Commerce]
+https://eth-explorer.near.org [404] [] [3224] [Squarespace - Domain Not Claimed] [Squarespace] [198.49.23.144] [1.106469341s] [Squarespace,Squarespace Commerce]
+https://helper.mainnet.near.org [404] [] [9] [cloudflare] [216.24.57.16] [3.261317094s] [Cloudflare,HTTP/3,Render]
+https://hooks.centaur.near.org [404] [] [13] [] [34.65.192.65] [google] [2.314824735s]
+https://helper.testnet.near.org [404] [] [9] [cloudflare] [216.24.57.16] [5.271373578s] [Cloudflare,HTTP/3,Render]
+https://learn.near.org [404] [] [3216] [Squarespace - Domain Not Claimed] [Squarespace] [198.185.159.145] [5.108234623s] [Squarespace,Squarespace Commerce]
+https://rpc.shardnet.near.org [404] [] [74] [] [34.117.25.209] [google] [4.081833397s] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 500
+
+## 502
+https://api.jarvis.near.org [502] [] [0] [Caddy] [34.158.18.133] [google] [303.865997ms] [Caddy,HTTP/3]
+
+## 503
+

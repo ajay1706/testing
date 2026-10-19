@@ -1,0 +1,3 @@
+http://landing.novig.com [308] [https://landing.novig.com/] [14] [Vercel] [216.150.16.129] [6.083611757s] [Vercel]
+https://odds-calculator.novig.com [308] [https://tools.novig.com/] [15] [Vercel] [216.150.16.129] [3.061425806s] [HSTS,Vercel]
+http://testnet.explorer.nervos.org [308] [https://testnet.explorer.nervos.org/] [14] [Vercel] [66.33.60.66] [5.035824273s] [Vercel]
