@@ -1,0 +1,6 @@
+https://beta.agoric.com [302] [https://docs.agoric.com] [143] [302 Found] [cloudflare] [104.18.20.112] [cloudflare] [128.052558ms] [Cloudflare,HSTS]
+https://dev2.4pillars.io [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev2.4pillars.io%2F&nonce=0e50cac431571fbfc94d1bdceb7953c23ad6dd2e1df376fd9e91a91382e7007f] [263] [Vercel] [216.150.16.129] [177.725376ms] [HSTS,Vercel]
+https://stake.agoric.com [302] [https://docs.google.com/document/d/1OcFQMTh-kJoNLGC0GebHl_LIzag6cDl-9dJiQ5zMCIE/edit?usp=sharing] [143] [302 Found] [cloudflare] [104.18.20.112] [cloudflare] [106.094668ms] [Cloudflare,HSTS]
+https://status.agoric.com [302] [https://incidents.betterstack.com?unpublished-status-page=true] [0] [] [167.235.220.62] [640.001505ms] [HSTS,HTTP/3]
+https://www.agoric.com [302] [https://agoric.com/] [143] [302 Found] [cloudflare] [104.18.20.112] [cloudflare] [173.320563ms] [Cloudflare,HSTS]
+https://wording.4pillars.io [302] [/login?callbackUrl=%2F] [15] [Vercel] [216.150.1.193] [533.50234ms] [HSTS,Vercel]
