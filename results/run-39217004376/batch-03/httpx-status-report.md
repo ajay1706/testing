@@ -1,0 +1,91 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 19 07:38:50 UTC 2026
+
+HTTPX lines: 62
+Live URLs: 62
+
+## 200
+https://cdn.bsky.app [200] [] [5340] [Hey, I'm imgproxy!] [BunnyCDN-LA1-993] [143.244.50.91] [71.296241ms] [Bunny]
+https://app.capricorn.tech [200] [] [2723] [Capricorn Staking] [Vercel] [216.150.1.193] [171.857276ms] [Google Analytics,HSTS,Vercel]
+https://clerk.cambrian.org [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [244.449687ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://bsky.app [200] [] [26120] [Bluesky] [] [18.227.179.171] [253.524262ms] [HSTS]
+https://communities.bsky.app [200] [] [13332] [Bluesky Communities] [cloudflare] [172.66.47.53] [cloudflare] [240.103038ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://account.bsky.app [200] [] [4836] [New domains — Bluesky] [AmazonS3] [18.164.154.68] [cloudfront] [397.786556ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://console.cambrian.org [200] [] [1016] [Cambrian API Console] [UploadServer] [136.110.244.110] [google] [441.998938ms] [Google Cloud,Google Cloud Storage,HTTP/3]
+https://docs.cambrian.org [200] [] [5421] [Cambrian Docs | API Reference Documentation] [Google Frontend] [172.217.75.121] [google] [249.781735ms] [Google Analytics,Google Cloud,Google Cloud Load Balancing,HSTS]
+https://blog.cambrian.org [200] [] [141561] [Cambrian Network | Financial intelligence for evolving markets] [Vercel] [76.76.21.241] [437.997222ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://endpoints.bsky.app [200] [] [12593] [Bluesky HTTP API Reference] [cloudflare] [216.24.57.16] [219.685273ms] [Cloudflare,HTTP/3]
+https://events.bsky.app [200] [] [16] [] [18.221.142.205] [267.852843ms] [HSTS]
+https://embed.bsky.app [200] [] [2282] [Bluesky Embed] [] [3.129.2.251] [270.035432ms] [HSTS,p5.js]
+https://k.gifs.bsky.app [200] [] [78534] [BunnyCDN-PHX1-1155] [38.32.110.58] [71.850879ms] [Bunny,Cloudflare,HSTS]
+https://dashboard.cambrian.org [200] [] [141561] [Cambrian Network | Financial intelligence for evolving markets] [Vercel] [66.33.60.67] [487.000916ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://forms.bsky.app [200] [] [447] [Bluesky Forms] [] [18.224.245.42] [451.477693ms]
+https://mcp.cambrian.org [200] [] [330] [Google Frontend] [136.110.244.110] [google] [168.387532ms] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js]
+https://kf.cambrian.org [200] [] [556] [KnowledgeFlow] [nginx/1.18.0 (Ubuntu)] [35.226.200.58] [google] [274.711647ms] [Nginx:1.18.0,Ubuntu]
+https://dev.dashboard.cambrian.org [200] [] [248594] [Cambrian Network | Build financial agents that win] [Vercel] [76.76.21.123] [1.593028571s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://public.api.bsky.app [200] [] [376] [BunnyCDN-PHX1-1155] [38.32.110.58] [1.043259141s] [Bunny,Express,HSTS,Node.js]
+https://video-origin.bsky.app [200] [] [992] [Bluesky Video Service] [] [3.136.124.246] [250.387573ms]
+https://status.cambrian.org [200] [] [587202] [Cambrian Network status] [] [167.235.220.62] [2.062368687s] [Google Analytics,HSTS,HTTP/3,Ruby,Ruby on Rails,Stimulus]
+https://video.bsky.app [200] [] [992] [Bluesky Video Service] [BunnyCDN-LA1-1111] [169.150.249.165] [2.071420382s] [Bunny]
+https://status.bsky.app [200] [] [190977] [Bluesky - Status] [Vercel] [76.76.21.22] [7.187290787s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.capricorn.tech [200] [] [36133] [Capricorn Tech] [Vercel] [216.150.16.1] [617.025737ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.cambrian.org [200] [] [141561] [Cambrian Network | Financial intelligence for evolving markets] [Vercel] [216.150.16.193] [1.256099147s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://go.bsky.app [301] [https://bsky.app] [0] [] [3.14.95.8] [277.353379ms] [Express,Node.js]
+https://staging.bsky.app [301] [https://bsky.app/] [169] [301 Moved Permanently] [cloudflare] [216.24.57.18] [2.15694303s] [Cloudflare,HTTP/3]
+http://apimgmt.dev.cambrian.org [301] [https://apimgmt.dev.cambrian.org:443/] [0] [] [136.110.244.110] [google] [6.231545ms]
+http://api.dev.cambrian.org [301] [https://api.dev.cambrian.org:443/] [0] [] [136.110.244.110] [google] [7.508292ms]
+
+## 302
+https://cms.cambrian.org [302] [https://powerful-growth-55b6167eac.strapiapp.com/admin] [70] [cloudflare] [172.66.172.174] [cloudflare] [457.084516ms] [Cloudflare,HSTS,HTTP/3,Strapi]
+https://internal.grafana.cambrian.org [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com:handleRedirect&code_challenge=3THNViWYzwne2nBgikuIekxCgUXc2y9thGZ0yRX4Ohc&code_challenge_method=S256&cred_ref=true&state=ATbdjREETxkbONFEkT0blWTRUVInrkpH5x3MzqDs288brpE1hEsMVh4WuA4RIcQpzSuKhkX67Ium8luEyrm_yEOhTQSsMw-eMKhQKwpczOuVM1ksAX1j26NLqyWeGqzURe3tFDbRDQuxPW3JYkNA7zfoaP9OiPZLxHz8VVACqUxhx6_7tEYaQHjbVV7YNkutzrRQMc5HBmS2XQBg9DFySy3SH40TZ8-iuL8yjBcvQSp-E5R3yBxTRMMqBhroj3yEnMn7Wn1G-RftvVqlaENYnKrUvmZTH2IPkI3NNdn9qWQ6UdyQbE-KF8oCBH-sX-VLI5XK8dvTr0xU20dYfNTi0jqxwwwwzp4dmKjGozNVC-1f08aVOyTlo3-qBGaBI6NZKwne4U0nVf_vHvhGqI5pIHDJmrkRwWhd_9hstvK6RSYz-iOiZRgJR91vHVHCG3Ott3WOKE1KT8R8cYhUy7ZuyX8uYi0BHFly_8rUAfgNOnTQB73qOEV8_Rt5hBtmVKk7lNtO8uH-f_Mt8bV9-Kh2RqCrthFEJhQYWg4EGHlJem7kss6RjKRqdW-e2enXGJMMrW_rZOqNYORHirOGNIPn3wc9ukCRq9tGtLvtne54fmnn53a3Zwil78Tz5uQ-7nvtIwExXPCYNg042oFE-oSnExr4z0kfJU5TAIKuPZ1RPfBbgdECspQuGg52JZ1j4weTFChP6V29CtF-ogfXW80uzn4a4fkXA1Q5XSWuyL-H_BqKnPgxLRWcuMIMtfWl2hk2wZJ1yeB0uNRs_AsAUcYSMewC46U3pFTRPbMH_YUqkTV85Kb-_j43q1OhmzSPZavENK6T4SY6s7ICC3aG6_CtAHnjcaKIfV32D-_NL2e8lDhOOrUgC9JEqfQjahu7utsukK_PiGzpyTlDoaq09zmZvorVESaWVYOcMlpHSu7thNYnXqopiVueuzigCdrKPMLzI4mcaMnpKTHQL9cnjpeiopci-3siBEpY2RzejS6DzYMt7p-FXJywW-2nxrMs1aB4ymP7ijvYfK1VBWCu9Py8C6PUjzKynjSGcN-YB5JLQLsSzTo5iScPgvUAHZR2YF51tBavJDlivbD7lLA_Zpe3u7HTZkUv9B2MFi9C0mL0fbF8XqT1eH9fhRFatb6v8Y6aqxgf24rYW0XRfz4dqdHJR5823dteUACUt-sk_qLh6HYsrrmeIlKd9AU9HSI1] [36] [] [8.232.242.96] [google] [271.03995ms] [HTTP/3]
+https://arbitrum-research.cambrian.org [302] [/login?next=/] [0] [Google Frontend] [136.110.244.110] [google] [2.543781048s] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+
+## 307
+https://cambrian.org [307] [https://www.cambrian.org/] [15] [Vercel] [216.150.1.193] [156.111522ms] [HSTS,Vercel]
+https://cardyb.bsky.app [307] [https://bsky.app/] [0] [] [18.225.41.158] [318.846663ms] [HSTS]
+https://gifs.bsky.app [307] [https://bsky.app/] [0] [] [3.138.227.151] [318.363974ms] [HSTS]
+https://dashy.bsky.app [307] [/api/auth/signin] [3461] [Dashy] [Caddy] [51.81.223.62] [816.120504ms] [Caddy,HTTP/3,Next.js,Node.js,React,Webpack]
+https://redirect.bsky.app [307] [https://bsky.app/profile/redirect.bsky.app] [0] [] [3.23.16.254] [4.247117808s]
+
+## 308
+https://capricorn.tech [308] [https://www.capricorn.tech/] [15] [Vercel] [216.150.1.1] [114.565509ms] [HSTS,Vercel]
+https://docs.bsky.app [308] [https://bsky.network/] [0] [CloudFront] [54.239.180.117] [cloudfront] [63.16242ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 401
+https://api.cambrian.org [401] [] [30] [Google Frontend] [136.110.244.110] [google] [143.921882ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+
+## 403
+https://accounts.cambrian.org [403] [] [5572] [Just a moment...] [cloudflare] [104.18.34.146] [cloudflare] [113.00387ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://video.cdn.bsky.app [403] [] [2334] [403 Forbidden] [BunnyCDN-LA1-900] [143.244.49.180] [2.090510595s] [Bunny]
+https://web-cdn.bsky.app [403] [] [2334] [403 Forbidden] [BunnyCDN-LA1-1001] [143.244.50.211] [2.078262903s] [Bunny]
+https://t.gifs.bsky.app [403] [] [2334] [403 Forbidden] [BunnyCDN-LA1-912] [143.244.49.178] [6.083057001s] [Bunny]
+
+## 404
+https://app-config.workers.bsky.app [404] [] [13] [cloudflare] [172.66.147.242] [cloudflare] [87.804477ms] [Cloudflare,HTTP/3]
+https://apimgmt.cambrian.org [404] [] [23] [Google Frontend] [136.110.244.110] [google] [368.935307ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://discover.bsky.app [404] [] [24] [openresty] [108.179.136.12] [120.568129ms] [HSTS,Nginx,OpenResty]
+https://evt.bsky.app [404] [] [49] [AmazonS3] [52.84.20.23] [cloudfront] [152.73455ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://ip.bsky.app [404] [] [13] [cloudflare] [172.66.147.242] [cloudflare] [100.651021ms] [Cloudflare,HTTP/3]
+https://elink656.cambrian.org [404] [] [1847] [404 Not Found] [cloudflare] [104.16.24.120] [cloudflare] [317.670055ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://live-events.workers.bsky.app [404] [] [13] [cloudflare] [172.66.147.242] [cloudflare] [62.362983ms] [Cloudflare,HTTP/3]
+https://mod-de.bsky.app [404] [] [139] [Error] [] [18.220.237.134] [242.013845ms] [Express,Node.js]
+https://mod-br.bsky.app [404] [] [139] [Error] [] [3.12.200.136] [261.11338ms] [Express,Node.js]
+https://mod-in.bsky.app [404] [] [139] [Error] [] [77.113.173.101] [249.258204ms] [Express,Node.js]
+https://mod-ru.bsky.app [404] [] [139] [Error] [] [18.226.108.203] [258.896509ms] [Express,Node.js]
+https://mod-tr.bsky.app [404] [] [139] [Error] [] [18.223.137.83] [268.478849ms] [Express,Node.js]
+https://mod.bsky.app [404] [] [139] [Error] [] [3.140.133.151] [270.613806ms] [Express,Node.js]
+https://ogcard.cdn.bsky.app [404] [] [139] [Error] [BunnyCDN-LA1-1110] [169.150.249.164] [1.303270031s] [Bunny,Express,Node.js]
+https://ogcard.bsky.app [404] [] [139] [Error] [] [3.141.67.23] [4.262881762s] [Express,Node.js]
+https://updates.bsky.app [404] [] [0] [BunnyCDN-LA1-985] [143.244.50.85] [4.185753943s] [Bunny]
+http://topics.bsky.app [404] [] [24] [BunnyCDN-PHX1-1155] [38.32.110.58] [1.15865564s] [Bunny,HSTS]
+https://x402.cambrian.org [404] [] [139] [Error] [Google Frontend] [136.110.244.110] [google] [145.096043ms] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js]
+
+## 500
+
+## 502
+
+## 503
+

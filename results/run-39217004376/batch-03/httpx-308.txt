@@ -1,0 +1,2 @@
+https://capricorn.tech [308] [https://www.capricorn.tech/] [15] [Vercel] [216.150.1.1] [114.565509ms] [HSTS,Vercel]
+https://docs.bsky.app [308] [https://bsky.network/] [0] [CloudFront] [54.239.180.117] [cloudfront] [63.16242ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
