@@ -1,0 +1,2 @@
+[CVE-2026-27454] [http] [medium] https://community.agoric.com/posts/2079.json?version=1
+[CVE-2026-27454] [http] [medium] https://community.zama.org/posts/8712.json?version=1
