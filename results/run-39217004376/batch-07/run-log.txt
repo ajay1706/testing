@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 19 07:41:57 UTC 2026
+[+] Run ID: 39217004376
+[+] Batch name: batch-07
+[+] Batch targets:
+lemfi.com
+m0.org
+mercadobitcoin.com.br
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 19 07:43:12 UTC 2026
+[+] HTTPX input count: 327
+[+] Running httpx...
+[+] httpx completed: Mon Oct 19 07:44:29 UTC 2026
+[+] httpx line count: 50
+[+] Batch completed: Mon Oct 19 07:44:29 UTC 2026

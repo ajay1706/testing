@@ -1,0 +1,8 @@
+https://blog.mercadobitcoin.com.br [301] [https://www.mercadobitcoin.com.br/economia-digital] [528] [301 Moved Permanently] [cloudflare] [104.17.24.105] [cloudflare] [116.279604ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://everything.m0.org [301] [https://m0.org/everything/] [0] [AmazonS3] [13.224.187.77] [cloudfront] [3.17474475s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://explorer.dev.m0.org [301] [https://explorer.dev.m0.org:443/] [134] [301 Moved Permanently] [awselb/2.0] [54.163.94.97] [83.013889ms] [Amazon ELB,Amazon Web Services]
+https://intranet.mercadobitcoin.com.br [301] [https://sites.google.com/mb.com.br/intranet/home] [528] [301 Moved Permanently] [cloudflare] [104.17.25.105] [cloudflare] [2.162326749s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://research.m0.org [301] [https://www.m0.org/blog] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [1.520023034s] [Cloudflare,HSTS,HTTP/3]
+http://launchpad.m0.org [301] [https://launchpad.m0.org/] [0] [] [69.46.46.59] [2.158079314s]
+http://mtls-api.of.mercadobitcoin.com.br [301] [https://mtls-api.of.mercadobitcoin.com.br:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.20.255.98] [1.129996873s] [Amazon ELB,Amazon Web Services]
+https://startups.mercadobitcoin.com.br [301] [https://www.mercadobitcoin.com.br/mb-startups/] [528] [301 Moved Permanently] [cloudflare] [104.17.25.105] [cloudflare] [3.114314655s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]

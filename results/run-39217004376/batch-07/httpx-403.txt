@@ -1,0 +1,5 @@
+https://asset.lemfi.com [403] [] [111] [AmazonS3] [18.245.124.43] [cloudfront] [330.22837ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://conteudo.mercadobitcoin.com.br [403] [] [17] [cloudflare] [104.17.24.105] [cloudflare] [6.133586151s] [Cloudflare]
+http://info.mercadobitcoin.com.br [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [13.225.61.93] [cloudfront] [33.955268ms] [Amazon CloudFront,Amazon Web Services]
+https://registro.mercadobitcoin.com.br [403] [] [243] [cloudflare] [104.17.24.105] [cloudflare] [218.990806ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://static.mercadobitcoin.com.br [403] [] [111] [cloudflare] [104.17.24.105] [cloudflare] [4.166163332s] [Cloudflare,Cloudflare Bot Management,HSTS]
