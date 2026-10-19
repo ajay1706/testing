@@ -1,0 +1,118 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 19 07:55:51 UTC 2026
+
+HTTPX lines: 90
+Live URLs: 90
+
+## 200
+https://auth.world.org [200] [] [2625] [World ID for Agents] [AmazonS3] [18.154.227.111] [cloudfront] [98.376775ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://alpha.wintermute.com [200] [] [30251] [Wintermute Alpha Challenge] [Vercel] [216.150.16.129] [76.065398ms] [HSTS,Vercel]
+https://foundation.world.org [200] [] [17003] [World Foundation] [cloudflare] [172.66.167.18] [cloudflare] [334.582812ms] [Cloudflare,HSTS]
+https://mini-apps-ui-kit.world.org [200] [] [4957] [@storybook/core - Storybook] [cloudflare] [172.66.167.18] [cloudflare] [139.708452ms] [Cloudflare,HSTS,Vercel]
+https://developer.world.org [200] [] [129192] [Developer Portal] [cloudflare] [104.20.36.171] [cloudflare] [246.53706ms] [Cloudflare,HSTS]
+https://armitage.wintermute.com [200] [] [255100] [Armitage by Wintermute] [Vercel] [216.150.16.193] [274.017805ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://foundation-dev.world.org [200] [] [17011] [World Foundation] [cloudflare] [104.20.36.171] [cloudflare] [1.694982967s] [Cloudflare,HSTS]
+https://docs.world.org [200] [] [345393] [World Developer Docs] [cloudflare] [172.66.3.9] [cloudflare] [58.15097ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://music.world.org [200] [] [112744] [Exclusive Ticket Pre-Sales for Verified Humans | World] [Vercel] [64.239.123.193] [553.149206ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://dev.world.org [200] [] [373238] [World - The real human network] [cloudflare] [104.20.36.171] [cloudflare] [475.573598ms] [Cloudflare,HSTS]
+https://orb-museum.world.org [200] [] [22209] [World Orb Museum App] [cloudflare] [104.20.36.171] [cloudflare] [1.295007234s] [Cloudflare,HSTS]
+https://orb-museum-dev.world.org [200] [] [22217] [World Orb Museum App] [cloudflare] [172.66.167.18] [cloudflare] [1.450963864s] [Cloudflare,HSTS]
+https://status.world.org [200] [] [9113] [Status page] [] [3.170.19.54] [cloudfront] [2.071718139s] [Amazon CloudFront,Amazon Web Services]
+https://staging-developer.world.org [200] [] [129192] [Developer Portal] [cloudflare] [104.20.36.171] [cloudflare] [4.457133264s] [Cloudflare,HSTS]
+https://sandbox.auth.world.org [200] [] [2625] [World ID for Agents] [AmazonS3] [3.167.69.109] [cloudfront] [6.17419591s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://sandbox.world.org [200] [] [316791] [World - The real human network] [Vercel] [64.239.109.1] [6.684574812s] [Amazon S3,Amazon Web Services,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://trade.wintermute.com [200] [] [2602] [nginx/1.31.1] [13.226.238.10] [cloudfront] [4.363518111s] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx:1.31.1]
+https://whitepaper.world.org [200] [] [28643] [World Whitepapers] [cloudflare] [104.20.36.171] [cloudflare] [2.401347518s] [Cloudflare,HSTS,Next.js,Node.js,React,Webpack]
+https://whitepaper-dev.world.org [200] [] [28581] [World Whitepapers] [cloudflare] [104.20.36.171] [cloudflare] [4.793081242s] [Cloudflare,HSTS,Next.js,Node.js,React,Webpack]
+https://world.org [200] [] [371785] [World - The real human network] [cloudflare] [172.66.167.18] [cloudflare] [3.426494404s] [Cloudflare,HSTS]
+
+## 301
+https://investors.xxi.money [301] [/overview/default.aspx] [500] [Object moved] [cloudflare] [162.159.129.11] [cloudflare] [505.725157ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://report.wintermute.com [301] [http://node.wintermute.com/reports/lp] [15] [Vercel] [216.230.84.1] [4.49042555s] [HSTS,Vercel]
+https://www.world.org [301] [https://world.org/] [167] [301 Moved Permanently] [cloudflare] [104.20.36.171] [cloudflare] [3.03427145s] [Cloudflare]
+https://www.xxi.money [301] [https://xxi.money/] [0] [cloudflare] [162.159.135.42] [cloudflare] [6.144890012s] [Cloudflare,Cloudflare Bot Management,HTTP/3,Kinsta,WordPress]
+http://xxi.money [301] [https://xxi.money/] [162] [301 Moved Permanently] [cloudflare] [162.159.135.42] [cloudflare] [5.12867027s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 302
+https://communityoperator.support.world.org [302] [https://communityoperator.support.world.org/hc] [0] [cloudflare] [216.198.54.11] [101.920467ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://enterprise.support.world.org [302] [https://enterprise.support.world.org/hc] [0] [cloudflare] [216.198.54.11] [91.965996ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://auth.staging.orbapp.world.org [302] [https://staging.orbapp.world.org/] [55] [cloudflare] [104.18.34.171] [cloudflare] [284.345122ms] [Auth0,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://auth.orbapp.world.org [302] [https://orbapp.world.org/] [47] [cloudflare] [172.64.153.85] [cloudflare] [379.597424ms] [Auth0,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://go.world.org [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=go.world.org] [110] [nginx] [67.199.248.12] [43.212299ms] [HSTS,HTTP/3,Nginx]
+https://id.world.org [302] [https://world.org/world-id-app] [143] [302 Found] [cloudflare] [104.20.36.171] [cloudflare] [118.718522ms] [Cloudflare]
+https://hasura-pipeline.staging-developer.world.org [302] [console] [0] [cloudflare] [172.66.167.18] [cloudflare] [395.104649ms] [Cloudflare]
+https://live.world.org [302] [https://youtube.com/live/1hvkxrEUWEo?feature=share] [143] [302 Found] [cloudflare] [104.20.36.171] [cloudflare] [77.619546ms] [Cloudflare]
+https://report.world.org [302] [https://report.world.org/hc] [0] [cloudflare] [216.198.54.11] [5.154193496s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://trade-login.wintermute.com [302] [https://wintermute.com/] [45] [cloudflare] [172.64.144.74] [cloudflare] [3.269117419s] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://vc-jobs.wintermute.com [302] [/jobs] [27] [nginx] [35.71.172.103] [4.3799455s] [HSTS,Nginx]
+https://world-id.support.world.org [302] [https://world-id.support.world.org/hc] [0] [cloudflare] [104.20.36.171] [cloudflare] [8.079099206s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+
+## 307
+https://beta.orbapp.world.org [307] [https://beta.orbapp.worldcoin.org/] [0] [CloudFront] [13.226.209.26] [cloudfront] [57.051036ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://de-de.world.org [307] [https://world.org/] [15] [cloudflare] [104.20.36.171] [cloudflare] [106.263558ms] [Cloudflare,HSTS,Vercel]
+https://beta.staging.orbapp.world.org [307] [https://beta.staging.orbapp.worldcoin.org/] [0] [CloudFront] [3.170.42.124] [cloudfront] [136.735463ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://es-la.world.org [307] [https://world.org/] [15] [cloudflare] [104.20.36.171] [cloudflare] [61.661705ms] [Cloudflare,HSTS,Vercel]
+https://es-es.world.org [307] [https://world.org/] [15] [cloudflare] [104.20.36.171] [cloudflare] [249.450467ms] [Cloudflare,HSTS,Vercel]
+https://fr-fr.world.org [307] [https://world.org/] [15] [cloudflare] [172.66.167.18] [cloudflare] [93.055892ms] [Cloudflare,HSTS,Vercel]
+https://hu-hu.world.org [307] [https://world.org/] [15] [cloudflare] [104.20.36.171] [cloudflare] [177.052504ms] [Cloudflare,HSTS,Vercel]
+https://hi-in.world.org [307] [https://world.org/] [15] [cloudflare] [104.20.36.171] [cloudflare] [278.773034ms] [Cloudflare,HSTS,Vercel]
+https://ja-jp.world.org [307] [https://world.org/] [15] [cloudflare] [104.20.36.171] [cloudflare] [95.199632ms] [Cloudflare,HSTS,Vercel]
+https://join.world.org [307] [/index] [15] [cloudflare] [172.66.167.18] [cloudflare] [160.013975ms] [Cloudflare,HSTS,Vercel]
+https://ko-kr.world.org [307] [https://world.org/] [15] [cloudflare] [172.66.167.18] [cloudflare] [160.009158ms] [Cloudflare,HSTS,Vercel]
+https://id-id.world.org [307] [https://world.org/] [15] [cloudflare] [172.66.167.18] [cloudflare] [309.165064ms] [Cloudflare,HSTS,Vercel]
+https://learn.world.org [307] [/auth/sign-in?callbackUrl=%2F] [15] [Vercel] [3.162.112.44] [cloudfront] [231.366652ms] [Amazon CloudFront,Amazon Web Services,HSTS,Vercel]
+https://ms-my.world.org [307] [https://world.org/] [15] [cloudflare] [172.66.167.18] [cloudflare] [97.43819ms] [Cloudflare,HSTS,Vercel]
+https://nl-nl.world.org [307] [https://world.org/] [15] [cloudflare] [104.20.36.171] [cloudflare] [116.994029ms] [Cloudflare,HSTS,Vercel]
+https://node.wintermute.com [307] [/auth/login?returnTo=%2F] [15] [Vercel] [216.230.84.65] [199.673179ms] [HSTS,Vercel]
+https://orbapp.world.org [307] [https://orbapp.worldcoin.org/] [0] [CloudFront] [13.226.209.26] [cloudfront] [99.425079ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://pl-pl.world.org [307] [https://world.org/] [15] [cloudflare] [172.66.167.18] [cloudflare] [95.295301ms] [Cloudflare,HSTS,Vercel]
+https://pt-pt.world.org [307] [https://world.org/] [15] [cloudflare] [172.66.167.18] [cloudflare] [2.115987344s] [Cloudflare,HSTS,Vercel]
+https://ro-ro.world.org [307] [https://world.org/] [15] [cloudflare] [172.66.167.18] [cloudflare] [2.076769037s] [Cloudflare,HSTS,Vercel]
+https://pt-br.world.org [307] [https://world.org/] [15] [cloudflare] [104.20.36.171] [cloudflare] [3.078218346s] [Cloudflare,HSTS,Vercel]
+https://staging.orbapp.world.org [307] [https://staging.orbapp.worldcoin.org/] [0] [CloudFront] [3.170.42.76] [cloudfront] [58.871134ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://staging.world.org [307] [https://world.org] [15] [cloudflare] [104.20.36.171] [cloudflare] [4.089912883s] [Cloudflare,HSTS,Vercel]
+https://sw-ke.world.org [307] [https://world.org/] [15] [cloudflare] [104.20.36.171] [cloudflare] [3.086077443s] [Cloudflare,HSTS,Vercel]
+https://uk-ua.world.org [307] [https://world.org/] [15] [cloudflare] [172.66.167.18] [cloudflare] [2.095843485s] [Cloudflare,HSTS,Vercel]
+https://tl-ph.world.org [307] [https://world.org/] [15] [cloudflare] [104.20.36.171] [cloudflare] [3.07654911s] [Cloudflare,HSTS,Vercel]
+https://vi-vn.world.org [307] [https://world.org/] [15] [cloudflare] [172.66.167.18] [cloudflare] [7.202551419s] [Cloudflare,HSTS,Vercel]
+https://zh-cn.world.org [307] [https://world.org/] [15] [cloudflare] [104.20.36.171] [cloudflare] [2.076046772s] [Cloudflare,HSTS,Vercel]
+
+## 308
+https://wintermute.com [308] [https://www.wintermute.com/] [15] [Vercel] [216.230.86.1] [3.199358766s] [HSTS,Vercel]
+
+## 401
+https://uploader-prod-493559427-node.wintermute.com [401] [] [25] [] [3.64.123.197] [3.375469458s]
+
+## 403
+https://client-api.staging.orbapp.world.org [403] [] [42] [] [35.173.146.158] [46.272287ms]
+https://data.world.org [403] [] [4544] [Attention Required! | Cloudflare] [cloudflare] [104.20.36.171] [cloudflare] [42.090603ms] [Cloudflare]
+https://api.airdrop.world.org [403] [] [93] [awselb/2.0] [44.208.188.113] [316.705754ms] [Amazon ELB,Amazon Web Services]
+https://liftoff.world.org [403] [] [769] [world.org] [DataDome] [151.101.194.133] [fastly] [179.769897ms] [DataDome,HSTS,Varnish]
+https://stage.api.airdrop.world.org [403] [] [93] [awselb/2.0] [34.203.145.189] [3.054453566s] [Amazon ELB,Amazon Web Services]
+https://webhooks.max.dev.orbapp.world.org [403] [] [42] [] [184.195.254.160] [49.919655ms]
+
+## 404
+https://assets.orbapp.world.org [404] [] [0] [CloudFront] [3.162.125.90] [cloudfront] [34.139337ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://assets.staging.orbapp.world.org [404] [] [0] [CloudFront] [18.154.227.97] [cloudfront] [36.008438ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://assets.test.orbapp.world.org [404] [] [0] [CloudFront] [18.67.65.62] [cloudfront] [38.977242ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://assets.paveldev.dev.orbapp.world.org [404] [] [0] [CloudFront] [3.170.3.105] [cloudfront] [85.038008ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://assets.uat.orbapp.world.org [404] [] [0] [CloudFront] [3.162.125.44] [cloudfront] [213.704375ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://assets.grechka.dev.orbapp.world.org [404] [] [0] [CloudFront] [3.162.103.95] [cloudfront] [267.79816ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://eu.id-infra.world.org [404] [] [0] [cloudflare] [172.66.167.18] [cloudflare] [489.579458ms] [Cloudflare]
+https://hasura-pipeline.developer.world.org [404] [] [65] [cloudflare] [104.20.36.171] [cloudflare] [384.781377ms] [Cloudflare]
+https://ap.id-infra.world.org [404] [] [0] [cloudflare] [104.20.36.171] [cloudflare] [1.101783767s] [Cloudflare]
+https://mobile-api.staging.orbapp.world.org [404] [] [9] [] [54.152.36.117] [94.009007ms]
+https://mobile-api.test.orbapp.world.org [404] [] [9] [] [34.206.132.28] [84.070722ms]
+https://us.id-infra.world.org [404] [] [0] [cloudflare] [104.20.36.171] [cloudflare] [4.059022321s] [Cloudflare]
+https://webhooks.staging.orbapp.world.org [404] [] [23] [] [32.199.31.122] [3.109254302s]
+https://webhooks.orbapp.world.org [404] [] [23] [] [52.22.43.109] [4.029515986s]
+https://webhooks.uat.orbapp.world.org [404] [] [23] [] [184.196.24.108] [4.068800961s]
+
+## 500
+https://investors.xxi.money [301] [/overview/default.aspx] [500] [Object moved] [cloudflare] [162.159.129.11] [cloudflare] [505.725157ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 502
+
+## 503
+

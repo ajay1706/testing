@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 19 07:53:32 UTC 2026
+[+] Run ID: 39216980941
+[+] Batch name: batch-15
+[+] Batch targets:
+wintermute.com
+world.org
+xxi.money
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 19 07:54:56 UTC 2026
+[+] HTTPX input count: 287
+[+] Running httpx...
+[+] httpx completed: Mon Oct 19 07:55:51 UTC 2026
+[+] httpx line count: 90
+[+] Batch completed: Mon Oct 19 07:55:51 UTC 2026
