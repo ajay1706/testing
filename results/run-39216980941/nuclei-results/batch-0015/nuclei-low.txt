@@ -1,0 +1,33 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] ipkit.datafdn.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ipkit.datafdn.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] jessica.agoric.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] jessica.agoric.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] it.circle.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] it.circle.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] kabochan.ethereum.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] kabochan.ethereum.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lbtest.wallet.mainnet.near.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lbtest.wallet.mainnet.near.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lbtest.wallet.staging.near.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] learn.datafdn.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] learn.datafdn.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lbtest.wallet.staging.near.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] link-supported-pairs.meshconnect.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] link.arbitrum.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] link.arbitrum.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] link-supported-pairs.meshconnect.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://learn.near.org
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://jessica.agoric.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://jessica.agoric.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://jessica.agoric.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://liftoff.world.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://liftoff.world.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://liftoff.world.org
+[kubernetes-fake-certificate] [ssl] [low] jessieistired.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] jessieistired.xctest.i.ripple.com:443
+[kubernetes-fake-certificate] [ssl] [low] k8s.msp.chia.net:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] k8s.msp.chia.net:443
+[kubernetes-fake-certificate] [ssl] [low] k8s.fmt.chia.net:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] k8s.fmt.chia.net:443
+[expired-ssl] [ssl] [low] lbtest.wallet.mainnet.near.org:443 ["2025-05-24 17:20:18 +0000 UTC"]
+[expired-ssl] [ssl] [low] lighthouse.ext.it.ripple.com:443 ["2025-07-15 18:52:54 +0000 UTC"]
