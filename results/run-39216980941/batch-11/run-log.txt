@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 19 07:47:57 UTC 2026
+[+] Run ID: 39216980941
+[+] Batch name: batch-11
+[+] Batch targets:
+ns.com
+ondo.finance
+openfx.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 19 07:51:07 UTC 2026
+[+] HTTPX input count: 428
+[+] Running httpx...
+[+] httpx completed: Mon Oct 19 07:52:08 UTC 2026
+[+] httpx line count: 64
+[+] Batch completed: Mon Oct 19 07:52:08 UTC 2026
