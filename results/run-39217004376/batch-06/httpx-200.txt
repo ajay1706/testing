@@ -1,0 +1,4 @@
+https://gumi-cryptos.com [200] [] [9027] [gumi Cryptos Capital] [AmazonS3] [52.85.193.31] [cloudfront] [520.036855ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics,HTTP/3,Linkedin Ads,jQuery:3.1.1]
+https://www.gumi-cryptos.com [200] [] [9027] [gumi Cryptos Capital] [AmazonS3] [52.85.193.31] [cloudfront] [236.067682ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics,HTTP/3,Linkedin Ads,jQuery:3.1.1]
+https://blog.gumi-cryptos.com [200] [] [195081] [gCC - Blockchain Venture Fund] [nginx] [108.59.80.229] [google] [1.59237905s] [FitVids.JS,Google Analytics,Linkedin Ads,MonsterInsights:11.3.0,MySQL,Nginx,PHP,WP Engine,WordPress,Yoast SEO:25.7,imagesLoaded:5.0.0,jQuery,jQuery Migrate:3.4.1]
+https://www.irreducible.com [200] [] [580271] [Irreducible] [Framer/24ab00f] [31.43.161.6] [148.735247ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,KaTeX:@,React,Web Font Loader:1.6.28,jsDelivr]
