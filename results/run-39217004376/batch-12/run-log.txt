@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 19 07:47:05 UTC 2026
+[+] Run ID: 39217004376
+[+] Batch name: batch-12
+[+] Batch targets:
+stabledev.com
+superstate.co
+takenos.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 19 07:48:26 UTC 2026
+[+] HTTPX input count: 115
+[+] Running httpx...
+[+] httpx completed: Mon Oct 19 07:48:40 UTC 2026
+[+] httpx line count: 46
+[+] Batch completed: Mon Oct 19 07:48:41 UTC 2026

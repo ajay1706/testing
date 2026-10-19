@@ -1,0 +1,4 @@
+https://www.app.takenos.com [301] [https://app.takenos.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.80] [cloudflare] [65.692812ms] [Cloudflare,HSTS]
+http://www.business.takenos.com [301] [https://www.business.takenos.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.5.215] [cloudflare] [18.911063ms] [Cloudflare,HSTS]
+http://strong-api.takenos.com [301] [https://strong-api.takenos.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.5.215] [cloudflare] [28.347692ms] [Cloudflare,HSTS]
+http://strongapi.takenos.com [301] [https://strongapi.takenos.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.4.215] [cloudflare] [41.383734ms] [Cloudflare,HSTS,HTTP/2]
