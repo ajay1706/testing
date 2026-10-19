@@ -1,0 +1,5 @@
+https://arkanis.tether.to [301] [https://tether.to/] [162] [301 Moved Permanently] [cloudflare] [104.18.16.207] [cloudflare] [581.881495ms] [Cloudflare,HSTS]
+https://wallet.tether.to [301] [https://tether.to/] [167] [301 Moved Permanently] [cloudflare] [104.18.17.207] [cloudflare] [5.110489422s] [Cloudflare]
+http://game.virtuals.io [301] [https://game.virtuals.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.13.48] [cloudflare] [46.501963ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://virtuals.io [301] [https://virtuals.io/] [167] [301 Moved Permanently] [CloudFront] [13.225.222.86] [cloudfront] [3.177609211s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://www.tether.to [301] [https://tether.to/] [162] [301 Moved Permanently] [cloudflare] [104.18.17.207] [cloudflare] [1.509326441s] [Cloudflare,HSTS]
