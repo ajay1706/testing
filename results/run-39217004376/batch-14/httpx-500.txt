@@ -1,0 +1,2 @@
+https://esplora-mainnet.utexo.com [500] [] [35] [nginx/1.24.0 (Ubuntu)] [46.224.75.237] [627.216202ms] [Nginx:1.24.0,Ubuntu]
+https://esplora-testnet4.utexo.com [500] [] [35] [nginx/1.24.0 (Ubuntu)] [46.224.75.237] [844.26836ms] [Nginx:1.24.0,Ubuntu]
