@@ -1,0 +1,2 @@
+[CVE-2023-5561] [http] [medium] https://baincapitalcrypto.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2023-48795] [javascript] [medium] auth7.infra.northerndata.de:22 ["Vulnerable to Terrapin"]
