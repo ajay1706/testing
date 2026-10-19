@@ -1,0 +1,30 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] help.basedapp.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] help.basedapp.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hub.datafdn.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hub.datafdn.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hydropower.sui.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hydropower.sui.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] icons.hashi.sui.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] icons.hashi.sui.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] incentives.datafdn.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] incentives.datafdn.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] intranet.forte.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] intranet.forte.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://instruments.kaiko.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://instruments.kaiko.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://instruments.kaiko.com
+[postgres-exporter-metrics] [http] [low] https://indexer-bankr.doppler.lol/metrics
+[postgres-exporter-metrics] [http] [low] https://indexer-prod.doppler.lol/metrics
+[postgres-exporter-metrics] [http] [low] https://indexer-testnet.doppler.lol/metrics
+[postgres-exporter-metrics] [http] [low] https://indexer-staging.doppler.lol/metrics
+[prometheus-metrics] [http] [medium] https://indexer-bankr.doppler.lol/metrics
+[prometheus-metrics] [http] [medium] https://indexer-prod.doppler.lol/metrics
+[prometheus-metrics] [http] [medium] https://indexer-testnet.doppler.lol/metrics
+[prometheus-metrics] [http] [medium] https://indexer-staging.doppler.lol/metrics
+[ds-store-file] [http] [low] https://hosted.chia.net/.DS_Store
+[graphiql-exposure] [http] [low] https://indexer-bankr.doppler.lol/graphql
+[graphiql-exposure] [http] [low] https://indexer-prod.doppler.lol/graphql
+[graphiql-exposure] [http] [low] https://indexer-staging.doppler.lol/graphql
+[graphiql-exposure] [http] [low] https://indexer-testnet.doppler.lol/graphql
+[kubernetes-fake-certificate] [ssl] [low] hidallas.xcteselbtest301.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] hidallas.xcteselbtest301.xctest.i.ripple.com:443

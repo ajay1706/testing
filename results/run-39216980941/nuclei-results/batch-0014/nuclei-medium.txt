@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://indexer-bankr.doppler.lol/metrics
+[prometheus-metrics] [http] [medium] https://indexer-prod.doppler.lol/metrics
+[prometheus-metrics] [http] [medium] https://indexer-testnet.doppler.lol/metrics
+[prometheus-metrics] [http] [medium] https://indexer-staging.doppler.lol/metrics
