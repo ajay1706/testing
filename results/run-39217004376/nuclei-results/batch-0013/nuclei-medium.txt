@@ -1,0 +1,2 @@
+[laravel-debugbar-exposure] [http] [medium] https://e.rumble.com/_debugbar/open
+[laravel-debugbar-exposure] [http] [medium] https://e.dev-rbx-1.rumble.com/_debugbar/open
