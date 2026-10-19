@@ -1,0 +1,5 @@
+http://bid478l.21417672m.gemini.com [307] [https://policy.hubspot.com/abuse-complaints] [0] [] [158.247.26.99] [137.614477ms]
+https://creditcard.exchange.gemini.com [307] [/credit-card/dashboard] [0] [istio-envoy] [166.117.190.39] [214.14938ms] [Envoy,HSTS,Linkedin Ads,Onfido,PayPal,Very Good Security]
+https://creditcard.staging.gemini.com [307] [/credit-card/dashboard] [0] [cloudflare] [104.18.18.178] [cloudflare] [338.393376ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://creditcard.exchange.staging.gemini.com [307] [/credit-card/dashboard] [0] [cloudflare] [104.18.18.178] [cloudflare] [1.33206977s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://creditcard.gemini.com [307] [/credit-card/dashboard] [0] [istio-envoy] [166.117.190.39] [2.234302398s] [Envoy,HSTS,Linkedin Ads,Onfido,PayPal,Very Good Security]
