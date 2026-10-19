@@ -1,0 +1,21 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] distributor.stg.kaio.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] distributor.pre.kaio.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] distributor.stg.kaio.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] distributor.pre.kaio.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs-w3s-node-sdk.circle.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs-w3s-node-sdk.circle.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.bluvo.dev:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.bluvo.dev:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] download.farcaster.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] download.farcaster.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://direct.panteracapital.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://direct.panteracapital.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://direct.panteracapital.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.chia.net
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.chia.net
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.chia.net
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.mobile.gemini.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.mobile.gemini.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.mobile.gemini.com
+[kubernetes-fake-certificate] [ssl] [low] devfeb3c.xctest.i.ripple.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] devfeb3c.xctest.i.ripple.com:443
