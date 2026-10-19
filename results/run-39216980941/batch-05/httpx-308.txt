@@ -1,0 +1,2 @@
+https://doppler.lol [308] [https://www.doppler.lol/] [15] [Vercel] [76.76.21.21] [236.009823ms] [HSTS,Vercel]
+https://efforce.io [308] [https://www.efforce.io/] [15] [cloudflare] [172.67.191.197] [cloudflare] [404.229903ms] [Cloudflare,HSTS,HTTP/3,Vercel]

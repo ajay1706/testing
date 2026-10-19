@@ -1,0 +1,2 @@
+https://efyfinance.com [301] [https://www.efyfinance.com/] [0] [] [13.32.164.73] [cloudfront] [148.970287ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Linkedin Ads]
+http://exchange.efyfinance.com [301] [https://exchange.efyfinance.com/] [162] [301 Moved Permanently] [nginx] [18.211.166.153] [76.483563ms] [Nginx]

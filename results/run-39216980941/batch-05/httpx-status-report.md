@@ -1,0 +1,76 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 19 07:45:35 UTC 2026
+
+HTTPX lines: 47
+Live URLs: 47
+
+## 200
+https://indexer-testnet.doppler.lol [200] [] [1953] [Ponder Playground] [] [134.199.245.81] [147.334047ms] [HTTP/3,jsDelivr]
+https://bankr.indexer.doppler.lol [200] [] [1953] [Ponder Playground] [Caddy] [138.197.53.210] [190.647162ms] [Caddy,HTTP/3,jsDelivr]
+https://indexer-prod.doppler.lol [200] [] [1953] [Ponder Playground] [] [134.199.245.81] [197.486382ms] [HTTP/3,jsDelivr]
+https://indexer-bankr.doppler.lol [200] [] [1953] [Ponder Playground] [Caddy] [138.197.53.210] [237.896627ms] [Caddy,HTTP/3,jsDelivr]
+https://prod.indexer.doppler.lol [200] [] [1953] [Ponder Playground] [] [134.199.245.81] [169.845264ms] [HTTP/3,jsDelivr]
+https://sv.efyfinance.com [200] [] [2183] [EFY · Capital in Motion] [AmazonS3] [18.160.213.27] [cloudfront] [174.127809ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://dev.efyfinance.com [200] [] [26460] [DEV - Efy Finance] [nginx/1.24.0 (Ubuntu)] [52.7.220.146] [295.68322ms] [Alpine.js,Bootstrap:5,Clipboard.js,Laravel,Livewire,Nginx:1.24.0,SweetAlert2:10,Ubuntu,jsDelivr]
+https://app.efyfinance.com [200] [] [29099] [EFY Finance] [nginx/1.24.0 (Ubuntu)] [52.22.184.224] [303.549093ms] [Alpine.js,Bootstrap:5,Clipboard.js,Google Analytics,Google Tag Manager,HSTS,Laravel,Livewire,Nginx:1.24.0,SweetAlert2:10,Ubuntu,jsDelivr]
+https://test.indexer.doppler.lol [200] [] [1953] [Ponder Playground] [] [134.199.245.81] [168.071033ms] [HTTP/3,jsDelivr]
+https://sim.doppler.lol [200] [] [16826] [Doppler Simulator] [Vercel] [216.150.1.193] [223.135945ms] [HSTS,Vercel]
+https://staging.indexer.doppler.lol [200] [] [1953] [Ponder Playground] [] [159.203.147.17] [268.625531ms] [HTTP/3,jsDelivr]
+https://testnet-indexer.doppler.lol [200] [] [1953] [Ponder Playground] [] [134.199.245.81] [229.033238ms] [HTTP/3,jsDelivr]
+https://demo.doppler.lol [200] [] [463] [Doppler Demo App] [Vercel] [216.150.1.1] [480.510514ms] [HSTS,Vercel]
+https://indexer-staging.doppler.lol [200] [] [1953] [Ponder Playground] [] [159.203.147.17] [508.134286ms] [HTTP/3,jsDelivr]
+https://simulator.doppler.lol [200] [] [16826] [Doppler Simulator] [Vercel] [216.150.1.193] [340.01124ms] [HSTS,Vercel]
+https://www.doppler.lol [200] [] [216997] [Doppler] [Vercel] [66.33.60.193] [160.078236ms] [HSTS,Vercel]
+https://www.efyfinance.com [200] [] [235622] [Pagos internacionales y cuentas multimoneda | efy Finance] [AmazonS3] [13.32.164.73] [cloudfront] [337.805818ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3,Linkedin Ads]
+https://docs.efforce.io [200] [] [338394] [Get started | Efforce] [cloudflare] [172.64.147.209] [cloudflare] [561.881483ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://www.efforce.io [200] [] [575435] [Energy Efficiency. Reinvented. | EFFORCE] [cloudflare] [172.67.191.197] [cloudflare] [394.006861ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://docs.doppler.lol [200] [] [678764] [Home | Doppler Docs] [cloudflare] [104.18.40.47] [cloudflare] [409.090216ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://app.doppler.lol [200] [] [317334] [Doppler] [Vercel] [216.150.1.1] [1.144481058s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://efyfinance.com [301] [https://www.efyfinance.com/] [0] [] [13.32.164.73] [cloudfront] [148.970287ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Linkedin Ads]
+http://exchange.efyfinance.com [301] [https://exchange.efyfinance.com/] [162] [301 Moved Permanently] [nginx] [18.211.166.153] [76.483563ms] [Nginx]
+
+## 302
+https://grafana.efyfinance.com [302] [/login] [29] [] [107.20.144.208] [143.522899ms] [HTTP/3]
+https://grafana.indexer.doppler.lol [302] [/login] [29] [] [209.38.49.100] [265.382669ms] [HTTP/3]
+https://dev.doppler.lol [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.doppler.lol%2F&nonce=b2106f920cdbc1472ddbb588687b59b702a8f8b01b0c431a0e62913b7d1db726] [263] [Vercel] [216.150.1.1] [297.410306ms] [HSTS,Vercel]
+https://staging.doppler.lol [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.doppler.lol%2F&nonce=7021e1e18bfc0d5a777bddad3771f897b2fd9b0d05bbcf12416e39ba2ec48cdd] [263] [Vercel] [216.150.1.1] [281.893629ms] [HSTS,Vercel]
+
+## 307
+https://app.efforce.io [307] [/repo] [15] [cloudflare] [172.67.191.197] [cloudflare] [959.66129ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://b2b.efyfinance.com [307] [/es/onboarding/login] [20] [] [3.170.103.64] [cloudfront] [2.732956541s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 308
+https://doppler.lol [308] [https://www.doppler.lol/] [15] [Vercel] [76.76.21.21] [236.009823ms] [HSTS,Vercel]
+https://efforce.io [308] [https://www.efforce.io/] [15] [cloudflare] [172.67.191.197] [cloudflare] [404.229903ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+https://mailhog.efyfinance.com [401] [] [0] [Caddy] [44.214.111.110] [125.91479ms] [Basic,Caddy,HTTP/3]
+https://ledger.efyfinance.com [401] [] [85] [] [34.230.219.162] [143.594125ms] [HSTS]
+https://markets.docs.doppler.lol [401] [] [15282] [Password Protected] [Vercel] [76.76.21.21] [212.008062ms] [HSTS,Vercel]
+
+## 403
+
+## 404
+https://dre.efyfinance.com [404] [] [72] [] [34.224.109.95] [169.839095ms]
+https://api3-dev.efyfinance.com [404] [] [23] [] [3.167.138.82] [cloudfront] [195.261565ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://metrics.api.doppler.lol [404] [] [13] [railway-hikari] [69.46.46.101] [215.491784ms]
+https://api.solana.doppler.lol [404] [] [13] [railway-hikari] [69.46.46.116] [259.18605ms]
+https://api3-staging.efyfinance.com [404] [] [23] [] [99.86.77.109] [cloudfront] [259.670406ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://dev-app.metrics.doppler.lol [404] [] [13] [railway-hikari] [69.46.46.58] [334.637182ms]
+https://app-metrics.doppler.lol [404] [] [13] [railway-hikari] [69.46.46.31] [336.299016ms]
+https://dev.markets.metrics.doppler.lol [404] [] [13] [railway-hikari] [69.46.46.106] [361.989605ms]
+https://devnet.solana.doppler.lol [404] [] [139] [Error] [railway-hikari] [69.46.46.15] [366.412608ms] [Express,Node.js]
+https://api3.efyfinance.com [404] [] [23] [] [99.84.203.34] [cloudfront] [451.985781ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://dev-metrics.api.doppler.lol [404] [] [13] [railway-hikari] [69.46.46.39] [480.092081ms]
+https://v2-dev-app.metrics.doppler.lol [404] [] [13] [railway-hikari] [69.46.46.90] [411.337328ms]
+https://api.efforce.io [404] [] [546] [Not Found] [cloudflare] [172.67.191.197] [cloudflare] [641.651492ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
