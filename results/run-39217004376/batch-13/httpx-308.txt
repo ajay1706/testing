@@ -1,0 +1,2 @@
+https://docs.turnkey.com [308] [/welcome] [113721] [Vercel] [66.33.60.193] [109.968014ms] [Cloudflare,HSTS,Vercel]
+https://www.whitepaper.turnkey.com [308] [https://whitepaper.turnkey.com/] [15] [Vercel] [216.150.16.193] [65.133374ms] [HSTS,Vercel]

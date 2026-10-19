@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 19 07:46:57 UTC 2026
+[+] Run ID: 39217004376
+[+] Batch name: batch-13
+[+] Batch targets:
+thetatoken.org
+turnkey.com
+usat.io
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 19 07:48:53 UTC 2026
+[+] HTTPX input count: 480
+[+] Running httpx...
+[+] httpx completed: Mon Oct 19 07:49:29 UTC 2026
+[+] httpx line count: 299
+[+] Batch completed: Mon Oct 19 07:49:29 UTC 2026
