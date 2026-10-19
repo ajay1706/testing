@@ -1,0 +1,3 @@
+https://checkpoints.ci.sui.io [401] [] [17732] [Unauthorized] [cloudflare] [172.64.155.29] [cloudflare] [100.549328ms] [Cloudflare,Cloudflare Bot Management]
+https://db-snapshot.mainnet.sui.io [401] [] [17732] [Unauthorized] [cloudflare] [172.64.155.29] [cloudflare] [109.025405ms] [Cloudflare,Cloudflare Bot Management]
+https://db-snapshot.testnet.sui.io [401] [] [17732] [Unauthorized] [cloudflare] [172.64.155.29] [cloudflare] [287.387384ms] [Cloudflare,Cloudflare Bot Management]
