@@ -1,0 +1,2 @@
+[CVE-2026-27454] [http] [medium] https://research.arbitrum.io/posts/181683.json?version=1
+[prometheus-metrics] [http] [medium] https://prod.indexer.doppler.lol/metrics
