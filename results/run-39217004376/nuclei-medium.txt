@@ -1,0 +1,18 @@
+[CVE-2022-41697] [http] [medium] https://blog.blockstream.com/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://blog.celestia.org/ghost/api/admin/session
+[CVE-2023-48795] [javascript] [medium] auth7.infra.northerndata.de:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] dcim.infra.northerndata.de:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] dcim5.infra.northerndata.de:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] www.auth.infra.northerndata.de:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] www.dashboard.infra.northerndata.de:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] www.infra.northerndata.de:22 ["Vulnerable to Terrapin"]
+[CVE-2023-5561] [http] [medium] https://baincapitalcrypto.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2023-5561] [http] [medium] https://www.baincapitalcrypto.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2026-27454] [http] [medium] https://forum.across.to/posts/4079.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.celestia.org/posts/3885.json?version=1
+[CVE-2026-27454] [http] [medium] https://governance.solv.finance/posts/87.json?version=1
+[CVE-2026-27454] [http] [medium] https://hall.0g.ai/posts/421.json?version=1
+[laravel-debugbar-exposure] [http] [medium] https://e.dev-rbx-1.rumble.com/_debugbar/open
+[laravel-debugbar-exposure] [http] [medium] https://e.rumble.com/_debugbar/open
+[prometheus-metrics] [http] [medium] https://api.panoptic.xyz/metrics
+[prometheus-metrics] [http] [medium] https://zendesk-bot.dxp-staging.blockstream.com/metrics

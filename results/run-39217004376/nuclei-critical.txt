@@ -1,0 +1,3 @@
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://e.dev-rbx-1.rumble.com/config/config.json [""url":"https://e.dev-rbx-1.rumble.com/config/config.json""] [path="/config/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://e.rumble.com/config.local.json [""url":"https://e.rumble.com/config.local.json""] [path="/config.local.json"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://legacy-docs.across.to
