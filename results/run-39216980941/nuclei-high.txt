@@ -1,0 +1,2 @@
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://dashboard.chia.net/api/search?type=dash-db
+[wordpress-click2shell] [http] [high] https://panteracapital.com/wp-admin/js/theme.js

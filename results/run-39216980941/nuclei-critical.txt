@@ -1,0 +1,5 @@
+[CVE-2026-27960] [http] [critical] http://api.fission.xyz/graphql [""]
+[CVE-2026-27960] [http] [critical] https://api.stage.fission.xyz/graphql [""]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://riot.bitgo.com/config.json [""url": "https://element.io/privacy"",""url": "https://riot.bitgo.com/privacy_policy/en/cookie_policy.html"",""url": "https://riot.bitgo.com/privacy_policy/en/privacy_notice.html""] [path="/config.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://riot.bitgo.com/config.json ["https://scalar.vector.im/api"] [path="/config.json"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.kaiko.com
