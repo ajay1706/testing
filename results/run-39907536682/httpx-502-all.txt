@@ -1,0 +1,8 @@
+http://eval.duolingo-usc1.platform-duolingo.replit.com [502] [] [332] [502 Server Error] [] [35.186.200.153] [google] [4.152267559s]
+https://api.dev.blackbird.xyz [502] [] [122] [502 Bad Gateway] [] [52.20.241.125] [252.718395ms]
+https://assets.api.gamma.app [502] [] [15] [cloudflare] [104.19.157.25] [cloudflare] [43.599525ms] [Cloudflare,Cloudflare Bot Management]
+https://assets.api.staging.gamma.app [502] [] [15] [cloudflare] [104.19.157.25] [cloudflare] [58.96272ms] [Cloudflare,Cloudflare Bot Management]
+https://eval2.duolingo-usc1.platform-duolingo.replit.com [502] [] [332] [502 Server Error] [] [35.186.200.153] [google] [1.166424142s] [HTTP/3]
+https://imgproxy.gamma.app [502] [] [15] [cloudflare] [104.19.156.25] [cloudflare] [4.048785306s] [Cloudflare,Cloudflare Bot Management]
+https://staging-tunnel-connect.poke.com [502] [] [332] [502 Server Error] [] [34.160.168.215] [google] [3.090148758s] [HTTP/3]
+https://staging-tunnel.poke.com [502] [] [332] [502 Server Error] [] [34.49.71.219] [google] [1.067396767s] [HTTP/3]
