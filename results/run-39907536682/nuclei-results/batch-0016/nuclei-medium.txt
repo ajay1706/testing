@@ -1,0 +1,4 @@
+[open-redirect-generic] [http] [medium] https://docs.heygen.com////oast.me/%2f%2e%2e [redirect="///oast.me/%2f%2e%2e"]
+[CVE-2018-11784] [http] [medium] https://docs.heygen.com//interact.sh
+[CVE-2021-3654] [http] [medium] https://docs.heygen.com//interact.sh/%2f..
+[CVE-2018-14574] [http] [medium] https://docs.heygen.com//www.interact.sh
