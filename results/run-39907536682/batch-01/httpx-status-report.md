@@ -1,0 +1,127 @@
+# HTTPX Status Report
+
+Generated at: Fri Oct 23 05:48:15 UTC 2026
+
+HTTPX lines: 103
+Live URLs: 103
+
+## 200
+https://app.base44.com [200] [] [10339] [Base44] [cloudflare] [172.66.161.188] [cloudflare] [230.88034ms] [Base44,Cloudflare,Cloudflare Bot Management,Google Sign-in,HSTS]
+https://app.blackbird.xyz [200] [] [16076] [Blackbird Labs Inc.] [] [13.225.47.14] [cloudfront] [283.682516ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://ambassadors.base44.com [200] [] [4377] [Base44 Ambassador Program] [cloudflare] [216.24.57.18] [480.869339ms] [Base44,Cloudflare,HSTS,HTTP/3]
+https://bags.fm [200] [] [58360] [Bags] [Vercel] [216.150.1.1] [216.803163ms] [HSTS,Vercel]
+https://careers.base44.com [200] [] [6895] [Base44  -  Careers] [cloudflare] [216.24.57.16] [576.534001ms] [Base44,Cloudflare,HSTS,HTTP/3]
+https://dev.bags.fm [200] [] [33443] [Bags] [cloudflare] [172.66.40.149] [cloudflare] [289.874983ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://base44.com [200] [] [275258] [Turn an Idea Into a Working App or Website with AI | Base44] [cloudflare] [172.66.161.188] [cloudflare] [341.575ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS]
+https://feedback.base44.com [200] [] [18906] [Base44 Feedback] [cloudflare] [216.24.57.16] [371.188691ms] [Base44,Cloudflare,HSTS,HTTP/3]
+https://frog.base44.com [200] [] [43] [nginx] [32.194.235.128] [179.228201ms] [Nginx]
+https://enterprise-webinars.base44.com [200] [] [51260] [Run Your GTM on Base44 | Enterprise Webinar Series] [cloudflare] [216.24.57.16] [501.188805ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,React]
+https://flycar.blackbird.xyz [200] [] [13053] [Blackbird Pay] [] [3.170.185.101] [cloudfront] [202.281621ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://docs.bags.fm [200] [] [341461] [Bags API Documentation - Bags API Documentation] [cloudflare] [172.66.40.149] [cloudflare] [257.624606ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://migrate.bags.fm [200] [] [16874] [Bags] [Vercel] [66.33.60.34] [397.593878ms] [HSTS,Vercel]
+https://play-api.bags.fm [200] [] [61] [cloudflare] [172.66.40.149] [cloudflare] [200.37615ms] [Cloudflare,HTTP/3]
+https://docs.base44.com [200] [] [924891] [Build apps, websites, and AI agents - Base44 Support Documentation] [Vercel] [66.33.60.130] [215.11236ms] [Base44,Cloudflare,HSTS,Vercel]
+https://os.blackbird.xyz [200] [] [12496] [Blackbird OS] [] [108.156.91.26] [cloudfront] [313.830491ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://app-dev.blackbird.xyz [200] [] [15935] [Blackbird Labs Inc.] [] [3.170.103.106] [cloudfront] [2.601770617s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://app-staging.blackbird.xyz [200] [] [15935] [Blackbird Labs Inc.] [] [18.160.102.81] [cloudfront] [3.011877401s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://admin.blackbird.xyz [200] [] [12836] [Blackbird Admin] [] [13.226.53.2] [cloudfront] [3.178781108s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://flycar-staging.blackbird.xyz [200] [] [13053] [Blackbird Pay] [] [99.86.77.14] [cloudfront] [2.543430799s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://fly-staging.blackbird.xyz [200] [] [13018] [Blackbird Pay] [] [108.159.227.113] [cloudfront] [2.638510272s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://flycar-dev.blackbird.xyz [200] [] [13053] [Blackbird Pay] [] [18.172.134.126] [cloudfront] [2.645951043s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://fly.blackbird.xyz [200] [] [15415] [Blackbird Pay] [] [65.8.27.31] [cloudfront] [2.720278051s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://fly-dev.blackbird.xyz [200] [] [13018] [Blackbird Pay] [] [13.249.141.50] [cloudfront] [2.835903646s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://os-staging.blackbird.xyz [200] [] [12496] [Blackbird OS] [] [99.84.203.44] [cloudfront] [2.421317166s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://marketing-dev.blackbird.xyz [200] [] [21120] [Blackbird] [] [65.8.27.51] [cloudfront] [2.765203554s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://pos-dev.blackbird.xyz [200] [] [13018] [Blackbird Pay] [] [13.225.47.4] [cloudfront] [2.43657537s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://pos.blackbird.xyz [200] [] [15415] [Blackbird Pay] [] [13.227.87.55] [cloudfront] [2.504831134s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://marketing-staging.blackbird.xyz [200] [] [21120] [Blackbird] [] [99.84.203.2] [cloudfront] [3.091549068s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://os-dev.blackbird.xyz [200] [] [12496] [Blackbird OS] [] [99.84.203.81] [cloudfront] [3.010925484s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://superagent.base44.com [200] [] [10339] [Base44] [cloudflare] [172.66.161.188] [cloudflare] [2.392076804s] [Base44,Cloudflare,Cloudflare Bot Management,Google Sign-in,HSTS]
+https://trust.base44.com [200] [] [595160] [Base44 Trust Center | Powered by Conveyor] [nginx] [52.23.73.225] [1.271394772s] [Amazon S3,Amazon Web Services,Express,HSTS,Nginx,Node.js]
+https://ws.base44.com [200] [] [10339] [Base44] [cloudflare] [216.24.57.16] [305.79181ms] [Base44,Cloudflare,Google Sign-in,HSTS,HTTP/3]
+https://wen.bags.fm [200] [] [230279] [BAGS] [cloudflare] [104.26.0.153] [cloudflare] [1.640930284s] [Cloudflare,HSTS]
+https://widget.blackbird.xyz [200] [] [11486] [Blackbird Labs Inc.] [] [18.154.110.47] [cloudfront] [5.608455615s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.blackbird.xyz [200] [] [21120] [Blackbird] [] [108.156.107.85] [cloudfront] [1.155940369s] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.flycar.blackbird.xyz [200] [] [13053] [Blackbird Pay] [] [3.170.185.101] [cloudfront] [192.053639ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.flycar-dev.blackbird.xyz [200] [] [13053] [Blackbird Pay] [] [18.172.134.88] [cloudfront] [299.637005ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.thesupersonic.blackbird.xyz [200] [] [84305] [The Supersonic: Blackbird's Secret Substack | Substack] [cloudflare] [172.64.151.232] [cloudflare] [185.477151ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js,Substack]
+
+## 301
+http://www.analytics.bags.fm [301] [https://www.analytics.bags.fm/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.149] [cloudflare] [27.193594ms] [Cloudflare,HTTP/3]
+http://studio.base44.com [301] [https://studio.base44.com/] [61] [cloudflare] [216.24.57.18] [3.253428919s] [Cloudflare,HTTP/3]
+https://www.base44.com [301] [https://base44.com/] [0] [cloudflare] [104.20.18.160] [cloudflare] [1.15064209s] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://www.ai-auto.bags.fm [301] [https://www.ai-auto.bags.fm/] [167] [301 Moved Permanently] [cloudflare] [172.66.43.107] [cloudflare] [3.131193183s] [Cloudflare,HTTP/3]
+http://www.verify.bags.fm [301] [https://www.verify.bags.fm/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.149] [cloudflare] [38.209988ms] [Cloudflare,HTTP/3]
+
+## 302
+https://blackbird.xyz [302] [https://www.blackbird.xyz/] [0] [] [13.227.47.126] [cloudfront] [223.20111ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://admin.bags.fm [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fadmin.bags.fm%2F&nonce=0428b98884fc874de3a0e36432b6ff7889175f8af3d743f19b4a89161a80e465] [263] [Vercel] [216.150.1.129] [446.405339ms] [HSTS,Vercel]
+https://login-dev.blackbird.xyz [302] [https://blackbird.xyz/] [44] [cloudflare] [104.18.43.182] [cloudflare] [489.787176ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://manage.base44.com [302] [https://app.base44.com/login?from_url=https%3A%2F%2Fmanage.base44.com&redirectTo=https%3A%2F%2Fmanage.base44.com%2F] [137] [Pepyaka] [34.149.206.255] [google] [452.189931ms] [Google Cloud,Google Cloud CDN,HTTP/3,React,Wix]
+
+## 307
+https://analytics.bags.fm [307] [/login?next=%2F] [15] [cloudflare] [172.66.40.149] [cloudflare] [468.849899ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.bags.fm [307] [https://bags.fm/] [15] [Vercel] [216.150.1.1] [2.144778675s] [HSTS,Vercel]
+
+## 308
+
+## 401
+https://ai-auto.bags.fm [401] [] [16220] [Password Protected] [cloudflare] [172.66.40.149] [cloudflare] [405.971814ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://img.bags.fm [401] [] [25] [cloudflare] [172.66.43.107] [cloudflare] [139.43477ms] [Cloudflare,HTTP/3]
+https://ipfs.bags.fm [401] [] [28] [Filebase] [15.204.196.123] [247.87716ms]
+
+## 403
+https://assets.dev.blackbird.xyz [403] [] [111] [AmazonS3] [13.32.205.107] [cloudfront] [197.782204ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://assets.phoenix-test2.dev.blackbird.xyz [403] [] [111] [AmazonS3] [54.192.55.47] [cloudfront] [229.788531ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://api.base44.com [403] [] [1865] [403 Error: Forbidden] [Pepyaka] [34.149.206.255] [google] [196.810305ms] [Adobe Fonts,Google Cloud,Google Cloud CDN,HTTP/3,React,Typekit,Wix]
+https://assets.staging.blackbird.xyz [403] [] [111] [AmazonS3] [18.160.181.19] [cloudfront] [304.896658ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://assets.blackbird.xyz [403] [] [111] [AmazonS3] [18.160.102.35] [cloudfront] [308.271406ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://backoffice.base44.com [403] [] [12] [cloudflare] [216.24.57.16] [370.052452ms] [Cloudflare,HTTP/3]
+https://cdn.bags.fm [403] [] [111] [cloudflare] [172.66.40.149] [cloudflare] [361.095346ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HTTP/3]
+https://hook-flux.staging.bags.fm [403] [] [118] [403 Forbidden] [awselb/2.0] [34.232.67.215] [204.181093ms] [Amazon ELB,Amazon Web Services]
+https://images.blackbird.xyz [403] [] [111] [AmazonS3] [18.172.122.20] [cloudfront] [238.297297ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://images.dev.blackbird.xyz [403] [] [111] [AmazonS3] [3.162.174.9] [cloudfront] [208.130968ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://images.staging.blackbird.xyz [403] [] [111] [AmazonS3] [3.169.149.119] [cloudfront] [212.226974ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://images.phoenix-test2.dev.blackbird.xyz [403] [] [111] [AmazonS3] [65.8.27.16] [cloudfront] [225.076931ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://mail.base44.com [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.160.181.86] [cloudfront] [55.090895ms] [Amazon CloudFront,Amazon Web Services]
+https://nft-metadata.dev.blackbird.xyz [403] [] [111] [AmazonS3] [13.227.87.82] [cloudfront] [211.975295ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://nft-metadata.blackbird.xyz [403] [] [111] [AmazonS3] [52.84.127.97] [cloudfront] [250.483799ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://nft-metadata.phoenix-test2.dev.blackbird.xyz [403] [] [111] [AmazonS3] [18.160.102.3] [cloudfront] [226.443093ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://nft-metadata.staging.blackbird.xyz [403] [] [111] [AmazonS3] [13.32.205.20] [cloudfront] [213.616274ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://payments.base44.com [403] [] [1865] [403 Error: Forbidden] [Pepyaka] [34.149.206.255] [google] [146.584303ms] [Adobe Fonts,Google Cloud,Google Cloud CDN,HTTP/3,React,Typekit,Wix]
+https://status.base44.com [403] [] [6279] [Just a moment...] [cloudflare] [104.18.16.64] [cloudflare] [142.91824ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://status.blackbird.xyz [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [65.8.27.30] [cloudfront] [57.586303ms] [Amazon CloudFront,Amazon Web Services]
+http://www.flycar-staging.blackbird.xyz [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [52.84.127.57] [cloudfront] [54.950746ms] [Amazon CloudFront,Amazon Web Services]
+
+## 404
+https://api.blackbird.xyz [404] [] [227] [] [100.56.168.193] [156.477031ms] [Amazon ALB,Amazon Web Services]
+https://auth.bags.fm [404] [] [13] [cloudflare] [172.66.43.107] [cloudflare] [165.315978ms] [Cloudflare,HSTS,HTTP/3]
+https://api.bags.fm [404] [] [1077] [Error] [cloudflare] [172.66.43.107] [cloudflare] [185.52488ms] [Cloudflare,HSTS,HTTP/3]
+https://auth.base44.com [404] [] [114] [cloudflare] [216.24.57.18] [296.185594ms] [Cloudflare,HSTS,HTTP/3]
+https://api.staging.blackbird.xyz [404] [] [227] [] [3.219.254.57] [350.940437ms] [Amazon ALB,Amazon Web Services]
+https://concierge.api.blackbird.xyz [404] [] [22] [uvicorn] [184.197.197.224] [162.40452ms] [Python,Uvicorn]
+https://concierge.staging.blackbird.xyz [404] [] [22] [uvicorn] [32.194.32.67] [176.454846ms] [Python,Uvicorn]
+https://data-api.bags.fm [404] [] [72] [cloudflare] [172.66.40.149] [cloudflare] [171.894007ms] [Cloudflare,HTTP/3]
+https://connectors.base44.com [404] [] [22] [cloudflare] [104.20.18.160] [cloudflare] [321.222227ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://cwebhooks.base44.com [404] [] [22] [cloudflare] [216.24.57.16] [362.924772ms] [Cloudflare,HTTP/3]
+https://em.engage.base44.com [404] [] [146] [404 Not Found] [cloudflare] [172.66.161.188] [cloudflare] [245.640607ms] [Cloudflare,Cloudflare Bot Management]
+https://em.marketing.base44.com [404] [] [548] [404 Not Found] [cloudflare] [104.20.18.160] [cloudflare] [256.440413ms] [Cloudflare,Cloudflare Bot Management]
+https://em.notifications.base44.com [404] [] [548] [404 Not Found] [cloudflare] [172.66.161.188] [cloudflare] [240.468853ms] [Cloudflare,Cloudflare Bot Management]
+https://hook-flux.bags.fm [404] [] [0] [awselb/2.0] [34.192.179.186] [207.768429ms] [Amazon ELB,Amazon Web Services]
+https://mkt.base44.com [404] [] [9] [cloudflare] [172.66.161.188] [cloudflare] [140.393604ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://media.base44.com [404] [] [18] [] [99.84.203.112] [cloudfront] [198.90422ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://public-api-v2.bags.fm [404] [] [1077] [Error] [cloudflare] [172.66.40.149] [cloudflare] [106.981909ms] [Cloudflare,HSTS,HTTP/3]
+https://rpc-sol-read.bags.fm [404] [] [52] [cloudflare] [172.66.43.107] [cloudflare] [221.559206ms] [Cloudflare,HTTP/3]
+https://sso.blackbird.xyz [404] [] [1692] [Okta - Page Not Found] [Apache] [52.223.7.86] [391.821941ms] [Apache HTTP Server]
+https://www.manage.base44.com [404] [] [2517] [ConnectYourDomain Error | Base44] [Pepyaka] [34.149.206.255] [google] [245.296085ms] [Google Cloud,Google Cloud CDN,HTTP/3,React,Wix]
+
+## 500
+
+## 502
+https://api.dev.blackbird.xyz [502] [] [122] [502 Bad Gateway] [] [52.20.241.125] [252.718395ms]
+
+## 503
+https://catalog.base44.com [503] [] [256] [Service Suspended] [cloudflare] [216.24.57.18] [256.32495ms] [Cloudflare,HTTP/3]
+https://events.base44.com [503] [] [10339] [Base44] [cloudflare] [216.24.57.18] [341.902584ms] [Base44,Cloudflare,Google Sign-in,HSTS,HTTP/3]
+https://jup.bags.fm [503] [] [1502] [503 Service Temporarily Unavailable] [cloudflare] [172.66.40.149] [cloudflare] [168.604431ms] [Cloudflare,HTTP/3]
+
