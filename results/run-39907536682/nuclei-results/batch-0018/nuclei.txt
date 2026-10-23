@@ -1,0 +1,21 @@
+[CVE-2022-0952] [http] [high] https://fastapi-520.photoroom.com/wp-json/click5_sitemap/API/update_html_option_AJAX
+[CVE-2022-0952] [http] [high] https://fastapi-520.photoroom.com/wp-json/click5_sitemap/API/update_html_option_AJAX
+[apache-skywalking-default-login] [http] [high] https://fastapi-520.photoroom.com/api/auth/login [password="skywalking",username="skywalking"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] event.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] events.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] event.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] events.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] exp.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] exp.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] feed.api.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] feed.api.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] flute-api-prod.suno.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] flute-api-prod.suno.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] flute-api-staging.suno.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] flute-api-staging.suno.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://events.elevenlabs.io
+[xss-uri-reflected] [http] [low] https://feedback.base44.com/a%22%3E%3Cinjectable%3E
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://events.elevenlabs.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://events.elevenlabs.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://events.elevenlabs.io
+[expired-ssl] [ssl] [low] filecoin-first.lighthouse.storage:443 ["2026-07-28 10:20:38 +0000 UTC"]
