@@ -1,0 +1,8 @@
+http://autodiscover.higgsfield.ai [301] [https://autodiscover.higgsfield.ai/] [0] [Microsoft-HTTPAPI/2.0] [52.96.229.216] [1.884144ms] [Microsoft HTTPAPI:2.0]
+https://cloud.higgsfield.ai [301] [https://open.higgsfield.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.14.164] [cloudflare] [129.783261ms] [Cloudflare,HSTS,HTTP/3]
+https://console.higgsfield.ai [301] [https://open.higgsfield.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.15.164] [cloudflare] [3.124969954s] [Cloudflare,HTTP/3]
+http://creators.higgsfield.ai [301] [https://creators.higgsfield.ai/] [528] [301 Moved Permanently] [cloudflare] [104.18.15.164] [cloudflare] [2.080939599s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+http://cs-chat-dev.higgsfield.ai [301] [https://cs-chat-dev.higgsfield.ai/] [528] [301 Moved Permanently] [cloudflare] [104.18.15.164] [cloudflare] [2.090465043s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+http://dd.higgsfield.ai [301] [https://dd.higgsfield.ai/] [167] [301 Moved Permanently] [CloudFront] [18.161.134.61] [cloudfront] [3.149610834s] [Amazon CloudFront,Amazon Web Services]
+http://l10n.higgsfield.ai [301] [https://l10n.higgsfield.ai/] [528] [301 Moved Permanently] [cloudflare] [104.18.15.164] [cloudflare] [3.068596621s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+http://open.higgsfield.ai [301] [https://open.higgsfield.ai/] [528] [301 Moved Permanently] [cloudflare] [104.18.14.164] [cloudflare] [4.084128494s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
