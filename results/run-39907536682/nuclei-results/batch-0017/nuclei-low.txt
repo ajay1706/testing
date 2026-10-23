@@ -1,0 +1,8 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] doorman.internal.suno.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] doorman.internal.suno.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] engagement.api.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] engagement.api.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[expired-ssl] [ssl] [low] dylan.poke.com:443 ["2026-09-16 18:06:12 +0000 UTC"]
+[expired-ssl] [ssl] [low] eness.poke.com:443 ["2026-09-16 17:54:28 +0000 UTC"]
+[expired-ssl] [ssl] [low] ernesto.poke.com:443 ["2026-09-16 18:29:22 +0000 UTC"]
+[expired-ssl] [ssl] [low] ethanm.poke.com:443 ["2026-09-16 18:12:01 +0000 UTC"]
