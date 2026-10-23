@@ -1,0 +1,4 @@
+https://mural.xyz [301] [https://www.muralpay.com/] [167] [301 Moved Permanently] [cloudflare] [104.21.58.131] [cloudflare] [97.288797ms] [Cloudflare]
+https://app.mural.xyz [301] [https://app.muralpay.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.204.12] [cloudflare] [112.213887ms] [Cloudflare]
+https://blog.mural.xyz [301] [https://www.muralpay.com/blog/] [167] [301 Moved Permanently] [cloudflare] [104.21.58.131] [cloudflare] [137.17486ms] [Cloudflare]
+https://www.mural.xyz [301] [https://www.muralpay.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.204.12] [cloudflare] [80.389907ms] [Cloudflare]
