@@ -1,0 +1,109 @@
+# HTTPX Status Report
+
+Generated at: Fri Oct 23 05:52:37 UTC 2026
+
+HTTPX lines: 92
+Live URLs: 92
+
+## 200
+https://auth.heygen.com [200] [] [5242] [HeyGen - Login] [Vercel] [216.150.1.193] [134.846916ms] [Google Tag Manager,HSTS,Vercel]
+https://auth-api.heygen.com [200] [] [2] [cloudflare] [172.64.152.23] [cloudflare] [295.971633ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://10x.heygen.com [200] [] [61228] [HeyGen 10X Hackathon — Top 10 Demos] [cloudflare] [104.18.9.242] [cloudflare] [193.690644ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Fastly,GitHub Pages,HTTP/3,Varnish]
+https://app.heygen.com [200] [] [44713] [HeyGen - AI Spokesperson Video Creator] [Unknow] [13.249.141.12] [cloudfront] [256.860545ms] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HSTS,HTTP/3]
+https://api-studio.heygen.com [200] [] [536] [HeyGen API Studio] [AmazonS3] [13.227.87.102] [cloudfront] [421.749472ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://blog.genspark.ai [200] [] [31052] [MainFunc.ai. Passion to innovate.] [cloudflare] [104.18.24.139] [cloudflare] [469.037245ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vue.js]
+https://gocollect.fun [200] [] [3271] [GoCollect] [cloudflare] [172.67.74.25] [cloudflare] [242.610852ms] [Cloudflare,Cloudflare Browser Insights]
+https://developers.heygen.com [200] [] [49928] [HeyGen Developers - AI Video API for Developers] [cloudflare] [104.18.8.242] [cloudflare] [249.450384ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://jerry-dev.heygen.com [200] [] [35] [cloudflare] [104.18.8.242] [cloudflare] [160.566788ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://hyperframes.heygen.com [200] [] [61493] [HyperFrames: The video editor built for agents] [cloudflare] [104.18.8.242] [cloudflare] [234.64065ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Google Tag Manager,HSTS,HTTP/3,Vercel]
+https://mesh-derp-dev.genspark.ai [200] [] [586] [] [40.65.85.238] [183.365921ms] [HSTS]
+https://offer.heygen.com [200] [] [9543] [HeyGen Offer Letter - Software Engineer] [cloudflare] [104.18.8.242] [cloudflare] [133.659197ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://sanitycms.heygen.com [200] [] [8774] [Sanity Studio] [Vercel] [76.76.21.164] [109.93063ms] [HSTS,Vercel]
+https://security.heygen.com [200] [] [2701] [Trust Center | Powered by Drata] [cloudflare] [104.18.41.248] [cloudflare] [182.229238ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Drata,HSTS,Merge,React]
+https://portal.heygen.com [200] [] [37813] [HeyGen Inc. Feature requests] [cloudflare] [104.26.13.52] [cloudflare] [1.025567065s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://shop.genspark.ai [200] [] [306338] [Genspark SecondBrain Note – Genspark Shop] [cloudflare] [23.227.38.74] [430.924285ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Matter.js,Shopify]
+https://status.heygen.com [200] [] [542137] [HeyGen Status] [Vercel] [66.33.60.66] [2.852750779s] [HSTS,Vercel]
+https://trust.genspark.ai [200] [] [7311] [Genspark Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [3.357685149s] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://academy.genspark.ai [200] [] [7167775] [Genspark Academy] [cloudflare] [104.18.24.139] [cloudflare] [991.366174ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://www-redesign-staging.heygen.com [200] [] [461883] [HeyGen: Create AI Videos with Your Personal Avatar] [cloudflare] [104.18.8.242] [cloudflare] [4.303102628s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Google Tag Manager,HSTS,HTTP/3,Vercel]
+https://www-redesign.heygen.com [200] [] [461250] [HeyGen: Create AI Videos with Your Personal Avatar] [Vercel] [216.150.1.129] [5.294339349s] [Google Tag Manager,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.genspark.ai [200] [] [214084] [Genspark - Your All-in-One AI Workspace] [cloudflare] [104.18.25.139] [cloudflare] [1.42916249s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Envoy,HSTS,Node.js,Nuxt.js,Vue.js]
+https://www.heygen.com [200] [] [462362] [HeyGen: Create AI Videos with Your Personal Avatar] [cloudflare] [104.18.9.242] [cloudflare] [149.592761ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Google Tag Manager,HSTS,HTTP/3,Vercel]
+
+## 301
+https://apolo.heygen.com [301] [https://apolo.heygen.com/index.html] [0] [] [35.223.82.218] [google] [175.154059ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://community.heygen.com [301] [https://www.heygen.com/geniverse] [528] [301 Moved Permanently] [cloudflare] [104.18.9.242] [cloudflare] [87.753018ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://docs.heygen.com [301] [https://developers.heygen.com/] [0] [cloudflare] [104.18.8.242] [cloudflare] [56.834187ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://developer.heygen.com [301] [https://developers.heygen.com/] [0] [cloudflare] [104.18.8.242] [cloudflare] [107.535357ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://genspark.ai [301] [https://www.genspark.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.24.139] [cloudflare] [91.117135ms] [Cloudflare,HSTS]
+https://heygen.com [301] [https://www.heygen.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.9.242] [cloudflare] [46.516995ms] [Cloudflare,HTTP/3]
+https://m.heygen.com [301] [https://app.heygen.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.9.242] [cloudflare] [53.852266ms] [Cloudflare,HTTP/3]
+http://pm-bounces.heygen.com [301] [https://pm-bounces.heygen.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.8.242] [cloudflare] [30.639876ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+http://superapp.genspark.ai [301] [https://superapp.genspark.ai/] [528] [301 Moved Permanently] [cloudflare] [104.18.24.139] [cloudflare] [6.078788736s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+
+## 302
+https://help.heygen.com [302] [https://help.heygen.com/en/] [0] [cloudflare] [104.18.9.242] [cloudflare] [204.928513ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://labs.heygen.com [302] [https://www.liveavatar.com/] [143] [302 Found] [cloudflare] [104.18.8.242] [cloudflare] [58.437206ms] [Cloudflare,HTTP/3]
+https://latest.heygen.com [302] [https://heygenteam.cloudflareaccess.com/cdn-cgi/access/login/latest.heygen.com?kid=9145cbee2d61b8f59d5956dff166894a60fb17293e224019f93eb2c2feadda67&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjZiZDk1OTMxODU5ZWNmNzVkNWZkMDcwOWYyNDliNmZjZGE5NjYwNzc3NTVkNDE4NzVjNTdhMjZjNWE4YjNmZmIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjkxNDVjYmVlMmQ2MWI4ZjU5ZDU5NTZkZmYxNjY4OTRhNjBmYjE3MjkzZTIyNDAxOWY5M2ViMmMyZmVhZGRhNjciLCJob3N0bmFtZSI6ImxhdGVzdC5oZXlnZW4uY29tIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTI3MzUwMzcsIm5iZiI6MTc5MjczNDczNywiaWF0IjoxNzkyNzM0NzM3LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiZDFhMWNkNWQ4OGVlZTZmOGU2YTlmNGViOWJhYTc5Nzk0NmY2MGUzYWViY2VkZWYzMzlkZmUxZGUyMjNiNjZhMCJ9.OZwH1MJyy-yaQdv0opnePAwDQxJebiyUaKLoZvRYQ8oCJEDkzSc6RpQezlMqPZcF_Xo8Wdcer505CeYXmnTE0yzHUyHBFSMpEqpqXT5nj7gezAP5ForuH7ovnrLdsDfX1il_EiF3xkHV9T47vx2RPatKdIcfP8LfljnJq14Kroar2enmh52ANojTMpzbBaNoDOV8oDgI_Kluzp5N0NKZ80f9zr1v1ErLlRhsAL0QG2-D9TpKjxNY0o3x8yY3M3ffghOAzG4YHnigSg-obYejs1rfeRtWTx38O16_6t9IdrreBkX3gockGHmDD5RTCcDRYPO-67SjCSgEZXfhfMANLw&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.18.9.242] [cloudflare] [80.798221ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://login.genspark.ai [302] [https://www.genspark.ai/login] [0] [] [150.171.110.194] [98.188761ms] [Azure,Azure Front Door]
+https://openai-plugin.heygen.com [302] [https://www.heygen.com] [592] [Redirecting...] [cloudflare] [104.18.8.242] [cloudflare] [172.393486ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://protodemo.heygen.com [302] [https://heygenteam.cloudflareaccess.com/cdn-cgi/access/login/protodemo.heygen.com?kid=0a148d2da966f72335a83ac9ad87d5d4892d738599ec98815d13ee4c0867653e&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjZiZDk1OTMxODU5ZWNmNzVkNWZkMDcwOWYyNDliNmZjZGE5NjYwNzc3NTVkNDE4NzVjNTdhMjZjNWE4YjNmZmIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjBhMTQ4ZDJkYTk2NmY3MjMzNWE4M2FjOWFkODdkNWQ0ODkyZDczODU5OWVjOTg4MTVkMTNlZTRjMDg2NzY1M2UiLCJob3N0bmFtZSI6InByb3RvZGVtby5oZXlnZW4uY29tIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTI3MzUwMzcsIm5iZiI6MTc5MjczNDczNywiaWF0IjoxNzkyNzM0NzM3LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiOWQ5NGM0NzQwOTk5Yzg2YjI3MGEwNTQ3Y2VjMDJkMjc3N2E1NmMyOWNkODA4MjAyY2VmZTZkOWZmNmNiOWY0ZCJ9.BgupbstJ2w-w4hU29r28jvWq_jrAOrY6r8BK7cErWxcCO3eeklcuHqYP1-4EuKfFcmy4wksm96KrCG7OR84_JudE5c0vUcs-iJdj3ioAR4c9_-uSBUTSpNR4AKiUVatdZyXKLVqGDv4lrvYeCY0VvQxyvpGCPY7rV_0hyKsXQvBJKJp8fgCzkqOxSNcAaCqRPTbmnCWW1YI-wEJQ8bM9uXKjmUJTY6r7iNrtyWLzZYss8MwkkRaCcaSAE9Rn4mGzt7ZVf0gYY0s30wc0g4IXgoVP-g8A1dUrrlucQxpx5atIQUqqhz10KxnooUINQriuDt1oJhhn5Ljxh0Pk3iLSVQ&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.18.9.242] [cloudflare] [103.663543ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+
+## 307
+
+## 308
+
+## 401
+https://dev2.heygen.com [401] [] [0] [Unknow] [13.32.164.101] [cloudfront] [286.563739ms] [Amazon CloudFront,Amazon Web Services,Basic,HSTS,HTTP/3]
+
+## 403
+https://cdn2.genspark.ai [403] [] [111] [cloudflare] [104.18.24.139] [cloudflare] [340.193073ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://api2.heygen.com [404] [] [1506] [404 Not Found] [cloudflare] [104.18.8.242] [cloudflare] [88.727269ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://api.heygen.com [404] [] [207] [404 Not Found] [gunicorn] [3.146.211.124] [125.540243ms] [Python,gunicorn]
+https://api-labs.heygen.com [404] [] [0] [awselb/2.0] [3.138.95.167] [145.726626ms] [Amazon ELB,Amazon Web Services]
+https://api-canary.heygen.com [404] [] [1506] [404 Not Found] [cloudflare] [104.18.9.242] [cloudflare] [136.111116ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://api2.dev.heygen.com [404] [] [1506] [404 Not Found] [cloudflare] [104.18.8.242] [cloudflare] [165.326727ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://astral.dev.heygen.com [404] [] [0] [cloudflare] [104.18.8.242] [cloudflare] [185.356864ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api2-labs.dev.heygen.com [404] [] [0] [cloudflare] [104.18.8.242] [cloudflare] [188.206186ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api-fast.dev.heygen.com [404] [] [22] [cloudflare] [104.18.8.242] [cloudflare] [189.470228ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://astral.heygen.com [404] [] [0] [cloudflare] [104.18.9.242] [cloudflare] [198.230828ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api-fast.heygen.com [404] [] [22] [cloudflare] [104.18.9.242] [cloudflare] [210.126418ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api-staging.heygen.com [404] [] [0] [cloudflare] [104.18.8.242] [cloudflare] [225.327303ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api2-canary.heygen.com [404] [] [1506] [404 Not Found] [cloudflare] [104.18.9.242] [cloudflare] [231.023798ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://api.dev.heygen.com [404] [] [1506] [404 Not Found] [cloudflare] [104.18.9.242] [cloudflare] [246.416633ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://cutroom-api.dev.heygen.com [404] [] [0] [cloudflare] [104.18.9.242] [cloudflare] [151.374983ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://cdn-static.genspark.ai [404] [] [9] [cloudflare] [104.18.24.139] [cloudflare] [305.855773ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://cutroom-api.heygen.com [404] [] [0] [cloudflare] [104.18.9.242] [cloudflare] [196.091298ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://data.heygen.com [404] [] [105] [envoy] [99.84.203.109] [cloudfront] [219.45769ms] [Amazon CloudFront,Amazon Web Services,Envoy,HSTS,HTTP/3]
+https://discord-bot.dev.heygen.com [404] [] [63] [cloudflare] [104.18.8.242] [cloudflare] [198.539347ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://080125-analytics.heygen.com [404] [] [107] [Vercel] [216.150.1.129] [449.612481ms] [HSTS,Vercel]
+https://email.heygen.com [404] [] [0] [cloudflare] [104.18.9.242] [cloudflare] [174.594404ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://auth-admin.heygen.com [404] [] [0] [cloudflare] [172.64.152.23] [cloudflare] [516.520433ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://email.learn.heygen.com [404] [] [19] [cloudflare] [104.18.8.242] [cloudflare] [222.122427ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://email.email.heygen.com [404] [] [19] [cloudflare] [104.18.9.242] [cloudflare] [349.437728ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://learn.heygen.com [404] [] [0] [cloudflare] [104.18.9.242] [cloudflare] [118.969833ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://mcp.heygen.com [404] [] [22] [cloudflare] [104.18.8.242] [cloudflare] [119.034382ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://mcp.dev.heygen.com [404] [] [22] [cloudflare] [104.18.9.242] [cloudflare] [172.466566ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://mesh-control-dev.genspark.ai [404] [] [0] [Caddy] [4.149.161.98] [213.00752ms] [Caddy,HTTP/3]
+https://model-video-api-canary.heygen.com [404] [] [0] [cloudflare] [104.18.8.242] [cloudflare] [161.012469ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://mesh-control.genspark.ai [404] [] [0] [Caddy] [4.149.211.21] [190.644071ms] [Caddy,HTTP/3]
+https://omaha-server.genspark.ai [404] [] [2833] [nginx/1.22.1] [52.33.185.13] [276.524269ms] [Bootstrap,Nginx:1.22.1]
+https://stream.heygen.com [404] [] [29] [cloudflare] [104.18.9.242] [cloudflare] [2.367066541s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://telemetry.heygen.com [404] [] [196] [] [54.244.230.133] [2.224910445s]
+https://voice-api-dev.heygen.com [404] [] [52] [cloudflare] [104.18.8.242] [cloudflare] [156.93974ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://telegram-bot.dev.heygen.com [404] [] [9] [cloudflare] [104.18.9.242] [cloudflare] [3.174553738s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://voice.dev.heygen.com [404] [] [0] [cloudflare] [104.18.8.242] [cloudflare] [1.137012638s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://widgets.heygen.com [404] [] [79] [Vercel] [216.150.1.1] [127.248644ms] [HSTS,Vercel]
+https://upload.heygen.com [404] [] [207] [404 Not Found] [gunicorn] [52.15.227.27] [4.116290299s] [Python,gunicorn]
+https://url2040.genspark.ai [404] [] [548] [404 Not Found] [nginx] [3.129.50.107] [5.239948421s] [Nginx]
+https://www-staging.heygen.com [404] [] [107] [Vercel] [66.33.60.193] [3.35897985s] [HSTS,Vercel]
+https://www-static-assets.heygen.com [404] [] [28449] [Not Found] [cloudflare] [104.18.9.242] [cloudflare] [4.224256438s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+
+## 500
+
+## 502
+
+## 503
+

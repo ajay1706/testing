@@ -1,0 +1,14 @@
+[+] Batch started: Fri Oct 23 05:49:38 UTC 2026
+[+] Run ID: 39907536682
+[+] Batch name: batch-05
+[+] Batch targets:
+genspark.ai
+gocollect.fun
+heygen.com
+[+] Running subfinder...
+[+] Subfinder completed: Fri Oct 23 05:52:15 UTC 2026
+[+] HTTPX input count: 244
+[+] Running httpx...
+[+] httpx completed: Fri Oct 23 05:52:37 UTC 2026
+[+] httpx line count: 92
+[+] Batch completed: Fri Oct 23 05:52:37 UTC 2026
