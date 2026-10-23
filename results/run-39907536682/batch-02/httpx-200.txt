@@ -1,0 +1,8 @@
+https://blog.character.ai [200] [] [25501] [character.ai blog] [openresty] [151.101.131.7] [fastly] [234.816664ms] [Ghost:6.73,Nginx,Node.js,OpenResty,Varnish,jQuery CDN,jQuery:3.5.1,jsDelivr]
+https://dfarm.fi [200] [] [32234] [DFarm] [cloudflare] [104.21.89.182] [cloudflare] [976.702103ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://app.dfarm.fi [200] [] [33274] [DFarm - Farm Best Yields] [cloudflare] [172.67.190.142] [cloudflare] [966.626293ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://join.character.ai [200] [] [4693] [Vercel] [76.76.21.241] [798.843861ms] [GoatCounter,HSTS,Vercel]
+https://share.character.ai [200] [] [2123] [Character] [cloudflare] [172.66.0.157] [cloudflare] [516.855921ms] [Cloudflare,HTTP/3]
+https://book.character.ai [200] [] [408442] [Welcome to Character Guide! | Character.AI] [cloudflare] [172.64.147.209] [cloudflare] [229.304427ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://brand.dataline.xyz [200] [] [331598] [Dataline — Logo Media Kit] [Google Frontend] [34.8.107.67] [google] [553.405968ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]
+https://www.dataline.xyz [200] [] [68367] [Dataline — Clean Web3 data for AI agents] [Google Frontend] [34.8.107.67] [google] [4.693883915s] [Google Analytics,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,React]

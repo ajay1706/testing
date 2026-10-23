@@ -1,0 +1,3 @@
+https://beta.character.ai [308] [https://character.ai/] [169] [308 Permanent Redirect] [cloudflare] [104.18.222.226] [cloudflare] [120.978311ms] [Cloudflare,HTTP/3]
+https://plus.character.ai [308] [https://character.ai/] [169] [308 Permanent Redirect] [cloudflare] [104.18.222.226] [cloudflare] [118.318244ms] [Cloudflare,HTTP/3]
+http://www.dfarm.fi [308] [https://www.dfarm.fi/] [0] [cloudflare] [172.67.190.142] [cloudflare] [1.555057352s] [Cloudflare,HTTP/3]
