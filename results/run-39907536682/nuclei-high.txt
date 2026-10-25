@@ -1,0 +1,9 @@
+[CVE-2022-0952] [http] [high] https://fastapi-520.photoroom.com/wp-json/click5_sitemap/API/update_html_option_AJAX
+[CVE-2026-27771] [http] [high] https://git.tensorcash.org/v2/_catalog [""repositories":["tensorcash/ci-runner","tensorcash/tensorcash/tensorcash-tests"]"]
+[apache-skywalking-default-login] [http] [high] https://fastapi-520.photoroom.com/api/auth/login [password="skywalking",username="skywalking"]
+[framer-takeover] [http] [high] https://backtoschool-prod-framer.perplexity.ai ["sites.framer.app"]
+[framer-takeover] [http] [high] https://curators-framer-prod.perplexity.ai ["sites.framer.app"]
+[framer-takeover] [http] [high] https://encyclopedia-prod-framer.perplexity.ai ["sites.framer.app"]
+[framer-takeover] [http] [high] https://records.higgsfield.ai ["sites.framer.app"]
+[framer-takeover] [http] [high] https://teachers-prod.perplexity.ai ["sites.framer.app"]
+[framer-takeover] [http] [high] https://ventures.higgsfield.ai ["sites.framer.app"]
