@@ -1,0 +1,6 @@
+https://assets.synthetix.io [404] [] [79] [Vercel] [216.150.1.193] [131.902913ms] [HSTS,Vercel]
+https://papi.synthetix.io [404] [] [24] [] [35.75.101.115] [461.88698ms]
+https://perps.testnet.typus.finance [404] [] [21265] [Site Not Found] [] [199.36.158.100] [2.583968458s] [Firebase,HSTS,HTTP/3]
+https://tpu-public.tf.xyz [404] [] [14591] [] [18.176.182.87] [2.338730793s]
+https://testnet.typus.finance [404] [] [21265] [Site Not Found] [] [199.36.158.100] [5.445727653s] [Firebase,HSTS,HTTP/3]
+https://walrus.typus.finance [404] [] [0] [Caddy] [57.128.116.30] [4.565894005s] [Caddy,HTTP/3]
