@@ -1,0 +1,2 @@
+https://dev-perp.coolwallet.io [308] [/PERP_ETH_USDC] [15] [Vercel] [76.76.21.164] [369.241217ms] [HSTS,Vercel]
+https://perp.coolwallet.io [308] [/PERP_ETH_USDC] [15] [Vercel] [66.33.60.194] [2.157213036s] [HSTS,Vercel]

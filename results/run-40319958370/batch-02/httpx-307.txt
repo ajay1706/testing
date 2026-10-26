@@ -1,0 +1,2 @@
+https://app.coolwallet.io [307] [https://www.coolwallet.io/] [0] [openresty] [44.252.253.233] [242.323694ms] [HSTS,Nginx,OpenResty]
+https://test-app.coolwallet.io [307] [https://www.coolwallet.io/] [0] [openresty] [44.252.253.233] [3.263751844s] [HSTS,Nginx,OpenResty]
