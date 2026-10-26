@@ -1,0 +1,4 @@
+https://api-wallet-service.thetatoken.org [404] [] [139] [Error] [] [77.112.139.246] [199.356409ms] [Express,Node.js]
+https://governance.status.app [404] [] [50] [Netlify] [98.84.224.111] [491.219727ms] [Netlify]
+https://mainnet-data.thetatoken.org [404] [] [1077] [Error] [cloudflare] [104.20.34.80] [cloudflare] [178.575138ms] [Cloudflare,Express,Google Cloud,Google Cloud CDN,Node.js]
+https://theta-edge-jobs-api.thetatoken.org [404] [] [1077] [Error] [cloudflare] [104.20.34.80] [cloudflare] [6.066500937s] [Cloudflare,Express,Google Cloud,Google Cloud CDN,Node.js]
