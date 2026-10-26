@@ -1,0 +1,5 @@
+https://admin.askloyal.com [302] [/login?next=%2F] [38] [cloudflare] [104.21.22.66] [cloudflare] [253.088543ms] [Cloudflare,HTTP/3]
+https://app.askloyal.com [302] [/app] [27] [cloudflare] [104.21.22.66] [cloudflare] [297.908713ms] [Cloudflare,HTTP/3]
+https://auth-dev.askloyal.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fauth-dev.askloyal.com%2F&nonce=6c96418aa5691c7f282689dfeb5b21b2718af642aa1d0ac7c277dfe52aedc6f4] [263] [Vercel] [216.150.1.193] [447.01298ms] [HSTS,Vercel]
+https://staging.askloyal.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.askloyal.com%2F&nonce=105368af0636417551b0af911572fc893a77b5a88bb9640f7604856dc99a218c] [263] [Vercel] [216.150.1.193] [425.186617ms] [HSTS,Vercel]
+https://www.drake.exchange [302] [https://drake.exchange/] [0] [cloudflare] [172.67.71.153] [cloudflare] [523.550115ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS]
