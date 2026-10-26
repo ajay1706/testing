@@ -1,0 +1,4 @@
+http://autodiscover.apex.exchange [302] [https://autodiscover-service.mail.us-east-1.awsapps.com:443/] [110] [302 Found] [awselb/2.0] [35.172.207.105] [157.626834ms] [Amazon ELB,Amazon Web Services]
+https://email.antarctic.exchange [302] [https://email.secureserver.net:443/auth] [110] [302 Found] [awselb/2.0] [15.197.155.180] [4.145527975s] [Amazon ELB,Amazon Web Services]
+https://go.arcus.xyz [302] [https://arcus.xyz] [0] [] [52.201.106.159] [2.280177975s] [HSTS]
+https://news.apex.exchange [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=news.apex.exchange] [116] [nginx] [67.199.248.12] [5.185974824s] [HSTS,HTTP/3,Nginx]

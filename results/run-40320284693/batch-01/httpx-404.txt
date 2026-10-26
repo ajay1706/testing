@@ -1,0 +1,8 @@
+https://aggregator.spot.arcus.xyz [404] [] [13] [cloudflare] [104.18.13.22] [cloudflare] [263.66087ms] [Cloudflare]
+https://aggregator.spot.testnet.arcus.xyz [404] [] [13] [cloudflare] [104.18.13.22] [cloudflare] [431.90782ms] [Cloudflare]
+https://assets.arcus.xyz [404] [] [27150] [Not Found] [cloudflare] [104.18.13.22] [cloudflare] [243.678642ms] [Cloudflare]
+https://akamai-pro.apex.exchange [404] [] [19] [] [23.46.216.198] [923.03469ms] [Amazon ALB,Amazon Web Services]
+https://cloudfront-pro.apex.exchange [404] [] [19] [] [65.8.180.119] [cloudfront] [668.559602ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services]
+https://mail.preview.arcus.xyz [404] [] [107] [cloudflare] [104.18.12.22] [cloudflare] [5.070595937s] [Cloudflare,HSTS,Vercel]
+https://quote.omni.apex.exchange [404] [] [19] [] [138.113.24.210] [3.311747987s]
+https://www.preview.arcus.xyz [404] [] [107] [cloudflare] [104.18.13.22] [cloudflare] [1.069283447s] [Cloudflare,HSTS,Vercel]
