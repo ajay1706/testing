@@ -1,0 +1,7 @@
+https://api.issuer.tezotopia.altme.io [301] [https://talao.io] [185] [301 Moved Permanently] [nginx/1.14.2] [18.190.21.227] [102.907472ms] [Nginx:1.14.2]
+https://arago.altme.io [301] [https://talao.io] [185] [301 Moved Permanently] [nginx/1.14.2] [18.190.21.227] [112.072348ms] [Nginx:1.14.2]
+https://api.arago.altme.io [301] [https://talao.io] [185] [301 Moved Permanently] [nginx/1.14.2] [18.190.21.227] [114.480567ms] [Nginx:1.14.2]
+https://issuer.tezotopia.altme.io [301] [https://talao.io] [185] [301 Moved Permanently] [nginx/1.14.2] [18.190.21.227] [132.059273ms] [Nginx:1.14.2]
+https://api.verifier.tezotopia.altme.io [301] [https://talao.io] [185] [301 Moved Permanently] [nginx/1.14.2] [18.190.21.227] [135.600091ms] [Nginx:1.14.2]
+https://verifier.tezotopia.altme.io [301] [https://talao.io] [185] [301 Moved Permanently] [nginx/1.14.2] [18.190.21.227] [200.911642ms] [Nginx:1.14.2]
+https://anchorage.com [301] [https://www.anchorage.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [205.137069ms] [Cloudflare,HSTS,HTTP/3]
