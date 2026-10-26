@@ -1,0 +1,3 @@
+https://btc-test-node-1.mtpelerin.com [502] [] [16] [cloudflare] [104.26.14.90] [cloudflare] [500.639914ms] [Cloudflare]
+https://btcpay.mtpelerin.com [502] [] [16] [cloudflare] [104.26.14.90] [cloudflare] [704.026184ms] [Cloudflare]
+https://mempool.mtpelerin.com [502] [] [16] [cloudflare] [104.26.15.90] [cloudflare] [6.754034379s] [Cloudflare]
