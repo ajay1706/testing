@@ -1,0 +1,7 @@
+https://android.muun.com [301] [https://play.google.com/store/apps/details?id=io.muun.apollo&/] [0] [AmazonS3] [18.67.65.32] [cloudfront] [70.941894ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://get.muun.com [301] [https://go.onelink.me/5hqR/muun/] [0] [AmazonS3] [52.85.193.15] [cloudfront] [75.235545ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://ios.muun.com [301] [https://apps.apple.com/app/id1482037683/] [0] [AmazonS3] [18.160.46.115] [cloudfront] [2.153546936s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://mail.mycelium.com [301] [https://csc.magentabusiness.at/] [239] [301 Moved Permanently] [Apache/2.4.37 (AlmaLinux)] [80.109.253.237] [1.069917518s] [AlmaLinux,Apache HTTP Server:2.4.37]
+https://www.android.muun.com [301] [https://play.google.com/store/apps/details?id=io.muun.apollo&/] [0] [AmazonS3] [18.67.65.32] [cloudfront] [3.028308305s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.ios.muun.com [301] [https://apps.apple.com/app/id1482037683/] [0] [AmazonS3] [18.160.46.115] [cloudfront] [52.347337ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://www.dev.muun.com [301] [https://www.dev.muun.com/] [167] [301 Moved Permanently] [CloudFront] [3.170.42.122] [cloudfront] [2.049135785s] [Amazon CloudFront,Amazon Web Services]

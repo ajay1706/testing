@@ -1,0 +1,2 @@
+https://admin.gear.mycelium.com [302] [https://admin.gear.mycelium.com/users/sign_in] [111] [nginx/1.14.2] [35.156.111.34] [566.082465ms] [HSTS,Nginx:1.14.2]
+https://sentry.mycelium.com [302] [/auth/login/] [0] [nginx] [3.121.120.219] [553.732322ms] [HSTS,Nginx]
