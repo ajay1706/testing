@@ -1,0 +1,3 @@
+https://app2.thorwallet.org [301] [https://app.thorwallet.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.137] [cloudflare] [44.330293ms] [Cloudflare]
+https://app.v1.thorwallet.org [301] [https://app.thorwallet.org/swap] [0] [] [18.165.98.38] [cloudfront] [423.475271ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://tholos.app [301] [https://www.tholos.app/] [167] [301 Moved Permanently] [cloudflare] [104.26.4.33] [cloudflare] [60.862948ms] [Cloudflare]

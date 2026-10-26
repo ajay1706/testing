@@ -1,0 +1,3 @@
+https://admin-card-dev.thorwallet.org [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fadmin-card-dev.thorwallet.org%2F&nonce=64e6724e03935655f9d77ec281b8b1562f317d8e85085f14900745042a90f265] [263] [Vercel] [216.150.16.193] [175.835787ms] [HSTS,Vercel]
+https://app2-dev.thorwallet.org [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fapp2-dev.thorwallet.org%2F&nonce=ad54f80df8578220c3252843fa99e8b7fee7ab10ca16a47df10601179e2af34d] [263] [Vercel] [216.150.16.1] [364.986135ms] [HSTS,Vercel]
+https://beta.thorwallet.org [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbeta.thorwallet.org%2F&nonce=4640b3a04a9fb8ce3ceaacf5adbe9cb77689ce31d749d7b725a5f1f9a7644328] [263] [Vercel] [216.150.16.129] [486.678471ms] [HSTS,Vercel]
