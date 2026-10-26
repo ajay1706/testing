@@ -1,0 +1,4 @@
+https://swap.fxwallet.com [301] [https://www.fxwallet.com/features/swap-bridge] [167] [301 Moved Permanently] [cloudflare] [104.21.15.39] [cloudflare] [98.381696ms] [Cloudflare]
+https://batchtransfer.fxwallet.com [301] [https://www.fxwallet.com/features/wallet] [167] [301 Moved Permanently] [cloudflare] [172.67.161.81] [cloudflare] [112.781598ms] [Cloudflare]
+https://fxwallet.com [301] [https://www.fxwallet.com/] [534] [301 Moved Permanently] [cloudflare] [172.67.161.81] [cloudflare] [122.431463ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://portfolio.fxwallet.com [301] [https://www.fxwallet.com/features/wallet] [167] [301 Moved Permanently] [cloudflare] [172.67.161.81] [cloudflare] [137.199882ms] [Cloudflare]
