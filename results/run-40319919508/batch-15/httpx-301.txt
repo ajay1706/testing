@@ -1,0 +1,2 @@
+http://mail.zeal.app [301] [https://mail.google.com/a/zeal.app] [231] [301 Moved] [ghs] [74.125.69.121] [google] [44.294021ms]
+https://zeal.app [301] [https://www.zeal.app/] [162] [301 Moved Permanently] [GitHub.com] [185.199.110.153] [169.02753ms] [Fastly,GitHub Pages,Varnish]
