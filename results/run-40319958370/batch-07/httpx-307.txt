@@ -1,0 +1,2 @@
+https://chain-status.klever.io [307] [/402] [4] [cloudflare] [104.18.13.193] [cloudflare] [1.230613763s] [Cloudflare,HSTS,HTTP/3]
+https://www.testnet.keplr.app [307] [https://testnet.keplr.app/] [15] [Vercel] [66.33.60.34] [1.171730757s] [HSTS,Vercel]
