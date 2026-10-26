@@ -1,0 +1,8 @@
+https://blog.qfex.com [301] [https://research.qfex.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.200] [cloudflare] [108.639819ms] [Cloudflare,HTTP/3]
+http://autodiscover.synfutures.com [301] [https://autodiscover.synfutures.com/] [0] [Microsoft-HTTPAPI/2.0] [40.104.230.200] [2.047792ms] [Microsoft HTTPAPI:2.0]
+https://discord.qfex.com [301] [https://discord.gg/BRN9ezbj2h] [167] [301 Moved Permanently] [cloudflare] [104.18.22.200] [cloudflare] [132.854971ms] [Cloudflare,HTTP/3]
+https://alpha.sosovalue.com [301] [https://sosovalue.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.11.213] [cloudflare] [156.329473ms] [Cloudflare]
+https://qfex.com [301] [https://www.qfex.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.22.200] [cloudflare] [114.259647ms] [Cloudflare,HTTP/3]
+https://trade.synfutures.com [301] [http://oyster.synfutures.com/] [0] [AmazonS3] [143.204.204.11] [cloudfront] [76.725851ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://new-ws.sosovalue.com [301] [https://new-ws.sosovalue.com/] [176] [301 Moved Permanently] [cloudflare] [104.18.11.213] [cloudflare] [308.750304ms] [Cloudflare]
+http://www.synfutures.com [301] [https://www.synfutures.com/] [167] [301 Moved Permanently] [CloudFront] [143.204.204.46] [cloudfront] [74.752216ms] [Amazon CloudFront,Amazon Web Services]
