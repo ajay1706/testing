@@ -1,0 +1,2 @@
+http://l2.pontem.network [301] [https://l2.pontem.network/] [162] [301 Moved Permanently] [nginx] [44.229.220.222] [70.77634ms] [Nginx]
+https://www.pontem.network [301] [https://pontem.network/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [417.144538ms] [Cloudflare,HSTS,HTTP/3]
