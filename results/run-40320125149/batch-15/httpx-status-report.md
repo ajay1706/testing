@@ -1,0 +1,85 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:35:56 UTC 2026
+
+HTTPX lines: 56
+Live URLs: 56
+
+## 200
+https://cdn.xaman.app [200] [] [12103] [cloudflare] [104.26.5.118] [cloudflare] [66.031964ms] [Amazon Web Services,Cloudflare,HSTS]
+https://docs.wasabiwallet.io [200] [] [13363] [Wasabi Docs] [cloudflare] [172.67.188.28] [cloudflare] [236.86231ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HTTP/3,Varnish,Vue.js,VuePress:2.0.0]
+https://pool.xverse.app [200] [] [1712] [Xverse Pool - The easiest way to earn Bitcoin through Stacking] [Netlify] [18.208.88.157] [101.937752ms] [HSTS,Netlify]
+https://git.wasabiwallet.io [200] [] [14879] [Forgejo] [cloudflare] [104.21.7.245] [cloudflare] [450.697566ms] [Cloudflare,Cloudflare Browser Insights,Forgejo,Go,HSTS,HTTP/3,PWA,RSS,jQuery]
+https://relay.wasabiwallet.io [200] [] [18] [cloudflare] [172.67.188.28] [cloudflare] [368.662769ms] [Cloudflare,HTTP/3]
+https://api-checkout.xverse.app [200] [] [15327] [Xverse API Checkout] [Netlify] [98.84.224.111] [644.131767ms] [HSTS,Netlify]
+https://portfolio.xverse.app [200] [] [85004] [Xverse Portfolio: Seamlessly Track, Analyze & Manage Your Bitcoin Assets] [] [34.8.108.70] [google] [268.193519ms] [Google Cloud,Google Cloud CDN,HSTS,Next.js,Node.js,React,Webpack]
+https://webflow.xaman.app [200] [] [78661] [Xaman – The Best XRP Wallet for Security & Control. Trusted by Millions] [cloudflare] [198.202.211.1] [86.779085ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,jQuery:3.5.1,jsDelivr]
+https://wasabiwallet.io [200] [] [133133] [Wasabi Wallet - The Privacy focused Bitcoin Wallet] [nginx/1.24.0 (Ubuntu)] [209.38.41.34] [444.354878ms] [Nginx:1.24.0,Ubuntu]
+https://docs.xverse.app [200] [] [651766] [Xverse Developer Documentation | xverse] [cloudflare] [104.18.40.47] [cloudflare] [205.123284ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://www.wasabiwallet.io [200] [] [133500] [Wasabi Wallet - The Privacy focused Bitcoin Wallet] [cloudflare] [172.67.188.28] [cloudflare] [559.306758ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.xverse.app [200] [] [64150] [Xverse – The Sovereign Onchain Bank & Bitcoin Wallet] [cloudflare] [198.202.211.1] [5.058935106s] [Cloudflare,Google Analytics,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Optibase,jQuery:3.5.1,jsDelivr]
+
+## 301
+https://blog.xaman.app [301] [https://xaman.app/blog] [167] [301 Moved Permanently] [cloudflare] [104.26.4.118] [cloudflare] [133.721611ms] [Cloudflare]
+https://www.xaman.app [301] [https://xaman.app/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.182] [cloudflare] [3.065274282s] [Cloudflare]
+https://xverse.app [301] [https://www.xverse.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [4.123718309s] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://connect.xverse.app [302] [https://www.xverse.app/] [145] [302 Found] [] [34.144.219.36] [google] [125.006998ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://brc20.xverse.app [302] [https://portfolio.xverse.app] [138] [302 Found] [] [34.144.219.36] [google] [133.134821ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://portfolio-staging.xverse.app [302] [https://portfolio.xverse.app/] [138] [302 Found] [] [34.8.108.70] [google] [84.941225ms] [Google Cloud,Google Cloud CDN,HSTS]
+https://wallet.xverse.app [302] [https://portfolio.xverse.app/] [138] [302 Found] [] [34.8.108.70] [google] [100.341589ms] [Google Cloud,Google Cloud CDN,HSTS]
+https://support.xverse.app [302] [https://support.xverse.app/hc] [0] [cloudflare] [216.198.54.6] [155.130271ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+
+## 307
+https://api-testnet4.xverse.app [307] [https://api-signet.xverse.app/] [0] [] [34.54.28.208] [google] [91.88618ms] [HTTP/3]
+https://api-dashboard.xverse.app [307] [/login] [6] [] [34.144.219.36] [google] [92.833622ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://help.xaman.app [307] [https://help.xaman.app/app/] [15] [cloudflare] [104.18.40.47] [cloudflare] [118.72528ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://ord-testnet4.xverse.app [307] [https://ord-signet.xverse.app/] [0] [] [34.54.28.208] [google] [43.422884ms] [HTTP/3]
+
+## 308
+
+## 401
+https://portfolio-staging-x.xverse.app [401] [] [172] [401 Authorization Required] [] [34.8.108.70] [google] [95.886769ms] [Basic,Google Cloud,Google Cloud CDN,HSTS]
+
+## 403
+https://community.xaman.app [403] [] [17] [cloudflare] [172.64.148.115] [cloudflare] [187.571086ms] [Cloudflare]
+https://webflow-proxy-cdn.xaman.app [403] [] [243] [cloudflare] [104.26.5.118] [cloudflare] [296.50889ms] [Amazon Web Services,Cloudflare]
+
+## 404
+https://btc-1.xverse.app [404] [] [27] [] [34.144.219.36] [google] [96.673733ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://api-3.xverse.app [404] [] [80] [] [34.144.219.36] [google] [97.318353ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://btc-signet.xverse.app [404] [] [27] [] [34.49.192.207] [google] [112.077091ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://btc-9.xverse.app [404] [] [27] [] [34.144.219.36] [google] [124.77993ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://api.xverse.app [404] [] [80] [] [34.144.219.36] [google] [130.034648ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://due-webhook-signet.xverse.app [404] [] [21] [] [34.49.192.207] [google] [88.322006ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://api-2.xverse.app [404] [] [80] [] [34.144.219.36] [google] [143.887253ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://inscribe-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [86.969728ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://k8s-signet.xverse.app [404] [] [21] [] [34.49.192.207] [google] [86.223971ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://due-webhook.xverse.app [404] [] [21] [] [34.144.219.36] [google] [128.178033ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://api-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [229.128639ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://inscribe.xverse.app [404] [] [80] [] [34.144.219.36] [google] [100.507969ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://k8s.xverse.app [404] [] [21] [] [34.144.219.36] [google] [81.088861ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://ord-signet.xverse.app [404] [] [80] [] [34.49.192.207] [google] [96.786296ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://api.wasabiwallet.io [404] [] [0] [nginx/1.24.0 (Ubuntu)] [209.38.41.34] [395.433449ms] [Nginx:1.24.0,Ubuntu]
+https://ordinals.xverse.app [404] [] [80] [] [34.144.219.36] [google] [106.408609ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://ord.xverse.app [404] [] [80] [] [34.144.219.36] [google] [260.05607ms] [Express,Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Node.js]
+https://wallet-signet.xverse.app [404] [] [21] [] [34.49.192.207] [google] [91.663885ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+
+## 500
+https://order.xaman.app [500] [] [12713] [cloudflare] [172.67.69.182] [cloudflare] [909.568836ms] [Cloudflare,HSTS]
+
+## 502
+
+## 503
+https://btc-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [93.238347ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api-dashboard-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [104.000458ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://due-webhook-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [81.316421ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://inscribe-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [91.99491ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://inscribegpt.xverse.app [503] [] [190] [503 Service Temporarily Unavailable] [] [34.144.219.36] [google] [110.324005ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://k8s-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [101.149442ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://ordinals-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [85.14932ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://ordinals-signet.xverse.app [503] [] [190] [503 Service Temporarily Unavailable] [] [34.49.192.207] [google] [109.404937ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://stx20.xverse.app [503] [] [190] [503 Service Temporarily Unavailable] [] [34.144.219.36] [google] [269.647166ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://wallet-testnet4.xverse.app [503] [] [27] [] [34.54.28.208] [google] [101.350711ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
