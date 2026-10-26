@@ -1,0 +1,9 @@
+[CVE-2026-27454] [http] [medium] https://gov.sparkdex.ai/posts/22.json?version=1
+[weak-cipher-suites:tls-1.0] [ssl] [low] geo.standx.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] geo3.standx.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] images.strikefinance.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] geo.standx.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] images.strikefinance.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] geo3.standx.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ice.standx.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ice.standx.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
