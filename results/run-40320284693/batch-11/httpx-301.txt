@@ -1,0 +1,2 @@
+https://onlypoints.ostium.io [301] [https://onlypoints.prod.bedrock.ostium.io/] [167] [301 Moved Permanently] [cloudflare] [104.20.35.185] [cloudflare] [38.716168ms] [Cloudflare]
+https://www.perpl.xyz [301] [https://perpl.xyz/] [528] [301 Moved Permanently] [cloudflare] [172.66.149.49] [cloudflare] [151.178867ms] [Cloudflare,Cloudflare Browser Insights,HSTS]

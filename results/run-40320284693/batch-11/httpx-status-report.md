@@ -1,0 +1,75 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:35:35 UTC 2026
+
+HTTPX lines: 50
+Live URLs: 50
+
+## 200
+https://intel.pacifica.fi [200] [] [6251] [Global Intel - Real-Time Global Intelligence Dashboard] [Vercel] [216.150.1.193] [78.467677ms] [HSTS,Vercel]
+https://live-market-data.ostium.io [200] [] [110] [cloudflare] [104.20.35.185] [cloudflare] [345.853955ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Express,Node.js]
+https://blog.perpl.xyz [200] [] [35438] [Perpl Blog] [cloudflare] [172.66.149.49] [cloudflare] [287.019944ms] [Cloudflare,Cloudflare Browser Insights,Ghost:6.73,HSTS,Node.js,Varnish,jsDelivr]
+https://app.pacifica.fi [200] [] [55601] [Pacifica | Decentralized Perpetual Exchange on Solana] [Vercel] [66.33.60.34] [156.525397ms] [HSTS,Vercel]
+https://app.perpl.xyz [200] [] [12708] [Perpl] [cloudflare] [172.66.149.49] [cloudflare] [741.065586ms] [Cloudflare,Cloudflare Browser Insights,Envoy,HSTS]
+https://recovery.perpl.xyz [200] [] [3955] [Perpl | Rescue Mode] [cloudflare] [172.66.149.49] [cloudflare] [292.680471ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://stats.perpl.xyz [200] [] [93011] [cloudflare] [172.66.149.49] [cloudflare] [233.506339ms] [Cloudflare,HSTS]
+https://perpl.xyz [200] [] [218379] [Perpl | On-Chain Perpetual Futures Exchange] [cloudflare] [172.66.149.49] [cloudflare] [226.845624ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Webflow]
+https://test-app.pacifica.fi [200] [] [55959] [Pacifica | Decentralized Perpetual Exchange on Solana] [cloudflare] [104.20.34.125] [cloudflare] [224.58977ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://testnet.perpl.xyz [200] [] [12724] [Perpl] [cloudflare] [172.66.149.49] [cloudflare] [774.95267ms] [Cloudflare,Cloudflare Browser Insights,Envoy,HSTS]
+https://www.pacifica.fi [200] [] [29477] [Pacifica - Next-Gen Hybrid Exchange] [cloudflare] [172.66.150.31] [cloudflare] [167.220314ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://status.perpl.xyz [200] [] [52555] [Status | Perpl Mainnet Service Status] [cloudflare] [172.67.69.148] [cloudflare] [737.858268ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://waitlist.perpl.xyz [200] [] [8444] [Perpl — Request Access] [cloudflare] [172.66.149.49] [cloudflare] [1.044248972s] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://testnet-status.perpl.xyz [200] [] [52963] [Status | Perpl Testnet Service Status] [cloudflare] [104.26.15.170] [cloudflare] [983.878652ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://docs.perpl.xyz [200] [] [435200] [Introduction | Perpl Docs] [cloudflare] [172.64.147.209] [cloudflare] [692.336599ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://status.pacifica.fi [200] [] [181771] [Pacifica status] [] [167.235.220.62] [555.08619ms] [Google Analytics,HSTS,Stimulus]
+
+## 301
+https://onlypoints.ostium.io [301] [https://onlypoints.prod.bedrock.ostium.io/] [167] [301 Moved Permanently] [cloudflare] [104.20.35.185] [cloudflare] [38.716168ms] [Cloudflare]
+https://www.perpl.xyz [301] [https://perpl.xyz/] [528] [301 Moved Permanently] [cloudflare] [172.66.149.49] [cloudflare] [151.178867ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 302
+https://portal.stage.ostium.io [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fportal.stage.ostium.io%2F&nonce=d3a7884e048644ce6916f33946e95c9a2e9a9a52a69e1e781dda6b2fc9b75ef6] [263] [Vercel] [216.150.1.193] [387.174114ms] [HSTS,Vercel]
+
+## 307
+https://app.ostium.io [307] [/trade] [15] [Vercel] [216.150.1.193] [138.965226ms] [HSTS,Vercel]
+https://alpha-test.pacifica.fi [307] [https://test-app.pacifica.fi/] [15] [Vercel] [76.76.21.142] [147.877166ms] [HSTS,Vercel]
+https://frontend-console.pacifica.fi [307] [/signin] [5584] [Announcement Admin] [Vercel] [216.150.1.1] [191.777105ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://pacifica.fi [307] [https://www.pacifica.fi/] [15] [cloudflare] [104.20.34.125] [cloudflare] [168.641796ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.ostium.io [307] [https://www.ostium.com/] [15] [Vercel] [216.150.1.1] [72.955521ms] [HSTS,Vercel]
+
+## 308
+https://docs.pacifica.fi [308] [/pacifica/readme] [0] [cloudflare] [172.66.150.31] [cloudflare] [431.705234ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://ostium.io [308] [https://www.ostium.com/] [15] [Vercel] [216.150.1.1] [144.803584ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://static.ostium.io [403] [] [111] [AmazonS3] [18.160.249.60] [cloudfront] [370.78374ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://builder.prod.bedrock.ostium.io [404] [] [0] [awselb/2.0] [3.141.147.179] [72.318709ms] [Amazon ELB,Amazon Web Services]
+https://api.pacifica.fi [404] [] [85] [] [13.225.47.78] [cloudfront] [235.122966ms] [Amazon CloudFront,Amazon Web Services]
+https://builder.ostium.io [404] [] [0] [cloudflare] [172.66.149.3] [cloudflare] [264.865402ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://aether.ostium.io [404] [] [0] [cloudflare] [104.20.35.185] [cloudflare] [297.449998ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://history.ostium.io [404] [] [0] [cloudflare] [104.20.35.185] [cloudflare] [307.118288ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://metadata-backend.ostium.io [404] [] [0] [cloudflare] [104.20.35.185] [cloudflare] [125.323775ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://cms.pacifica.fi [404] [] [0] [] [13.225.47.57] [cloudfront] [477.022918ms] [Amazon CloudFront,Amazon Web Services]
+https://reown.pacifica.fi [404] [] [107] [Vercel] [216.150.1.129] [102.764446ms] [HSTS,Vercel]
+https://public-assets-r2.perpl.xyz [404] [] [27511] [Not Found] [cloudflare] [172.66.149.49] [cloudflare] [335.239569ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://test-ws.pacifica.fi [404] [] [0] [] [3.33.159.53] [401.755383ms]
+https://test-api.pacifica.fi [404] [] [85] [] [13.225.47.37] [cloudfront] [457.53559ms] [Amazon CloudFront,Amazon Web Services]
+https://ws.pacifica.fi [404] [] [0] [] [3.33.159.53] [457.93412ms]
+
+## 500
+
+## 502
+https://data-lake.ostium.io [502] [] [16] [cloudflare] [104.20.35.185] [cloudflare] [249.359326ms] [Cloudflare]
+https://market-events-staging.ostium.io [502] [] [16] [cloudflare] [104.20.35.185] [cloudflare] [131.311735ms] [Cloudflare]
+https://metadata-backend-staging2.ostium.io [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [54.192.55.122] [cloudfront] [48.473599ms] [Amazon CloudFront,Amazon Web Services]
+https://market-events.ostium.io [502] [] [16] [cloudflare] [172.66.149.3] [cloudflare] [192.492794ms] [Cloudflare]
+https://metadata-backend-staging.ostium.io [502] [] [16] [cloudflare] [172.66.149.3] [cloudflare] [115.944433ms] [Cloudflare]
+https://onlypoints-staging.ostium.io [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [54.192.55.122] [cloudfront] [224.912107ms] [Amazon CloudFront,Amazon Web Services]
+https://rollover-fees.ostium.io [502] [] [16] [cloudflare] [104.20.35.185] [cloudflare] [186.132585ms] [Cloudflare]
+
+## 503
+
