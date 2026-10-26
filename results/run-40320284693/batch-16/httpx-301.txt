@@ -1,0 +1,2 @@
+https://zofai.io [301] [https://www.zofai.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [197.053196ms] [Cloudflare,HSTS,HTTP/3]
+http://api-testnet.waterx.app [301] [https://api-testnet.waterx.app/] [528] [301 Moved Permanently] [cloudflare] [104.26.13.174] [cloudflare] [34.876122ms] [Cloudflare,Cloudflare Browser Insights]

@@ -1,0 +1,49 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:38:35 UTC 2026
+
+HTTPX lines: 21
+Live URLs: 21
+
+## 200
+https://staging.zofai.io [200] [] [3167] [ZO - Next-Gen Intelligent Perpetual Protocol] [cloudflare] [172.66.44.56] [cloudflare] [151.828734ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://app.zofai.io [200] [] [2953] [ZO - Next-Gen Intelligent Perpetual Protocol] [AmazonS3] [65.8.20.43] [cloudfront] [263.48807ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics,HTTP/3]
+https://www.zofai.io [200] [] [85852] [ZO - Everything Perpetual DEX on Sui] [cloudflare] [198.202.211.1] [112.619386ms] [Cloudflare,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://api.zofai.io [200] [] [12] [] [52.220.22.223] [581.689113ms] [Express,Node.js]
+https://waitlist.waterx.app [200] [] [22754] [WaterX | Join the Waitlist] [cloudflare] [104.26.12.174] [cloudflare] [500.823209ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://status.waterx.app [200] [] [3321] [WaterX Service Status] [cloudflare] [104.26.13.174] [cloudflare] [796.757716ms] [Cloudflare,Cloudflare Browser Insights]
+https://docs.waterx.app [200] [] [409769] [What is WaterX | WaterX Docs] [cloudflare] [104.26.13.174] [cloudflare] [231.6899ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,Vercel]
+https://staging.waterx.app [200] [] [3017] [WaterX] [cloudflare] [104.26.12.174] [cloudflare] [1.412057795s] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+
+## 301
+https://zofai.io [301] [https://www.zofai.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [197.053196ms] [Cloudflare,HSTS,HTTP/3]
+http://api-testnet.waterx.app [301] [https://api-testnet.waterx.app/] [528] [301 Moved Permanently] [cloudflare] [104.26.13.174] [cloudflare] [34.876122ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 302
+https://grafana.waterx.app [302] [/login] [29] [cloudflare] [104.26.12.174] [cloudflare] [335.857854ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+
+## 307
+https://waterx.app [307] [/en] [15] [Vercel] [216.150.16.193] [771.868201ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://www.waterx.app [307] [/en] [15] [Vercel] [216.150.1.193] [835.653489ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://cn.waterx.app [307] [/en] [15] [Vercel] [216.150.16.193] [840.185744ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://demo.waterx.app [307] [/en] [15] [Vercel] [216.150.16.129] [959.124973ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://testnet.waterx.app [307] [/en] [15] [Vercel] [216.150.1.1] [1.031238868s] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://gift.waterx.app [307] [/en] [15] [Vercel] [216.150.1.193] [1.231974282s] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://config.waterx.app [404] [] [0] [cloudflare] [104.26.12.174] [cloudflare] [269.509455ms] [Cloudflare]
+https://v2.waterx.app [404] [] [107] [Vercel] [216.150.16.1] [607.126631ms] [HSTS,Vercel]
+https://storage.waterx.app [404] [] [28449] [Not Found] [cloudflare] [104.26.13.174] [cloudflare] [913.190637ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 500
+
+## 502
+
+## 503
+
