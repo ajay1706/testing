@@ -1,0 +1,6 @@
+https://candlesticks.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [229.571083ms] [Cloudflare,Envoy,HTTP/3]
+https://fapi.asterdex.com [403] [] [6892] [] [3.168.40.42] [cloudfront] [2.456549311s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://info.decibel.trade [403] [] [17] [cloudflare] [104.21.55.50] [cloudflare] [2.075443292s] [Cloudflare,HTTP/3]
+https://spot.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.43.105] [cloudflare] [207.087151ms] [Cloudflare,Envoy,HTTP/3]
+https://swap.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.43.105] [cloudflare] [202.933171ms] [Cloudflare,Envoy,HTTP/3]
+https://static.asterdex.com [403] [] [111] [AmazonS3] [13.227.87.117] [cloudfront] [488.05553ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]

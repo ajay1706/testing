@@ -1,0 +1,4 @@
+https://app.decibel.trade [308] [/trade] [15] [Vercel] [216.150.1.193] [118.08863ms] [HSTS,Vercel]
+https://staging-app.decibel.trade [308] [/trade] [15] [Vercel] [216.150.1.193] [269.261261ms] [HSTS,Vercel]
+https://testnet-app.decibel.trade [308] [/trade] [15] [Vercel] [216.150.1.129] [468.493699ms] [HSTS,Vercel]
+http://www.decibel.trade [308] [https://www.decibel.trade/] [14] [cloudflare] [104.21.55.50] [cloudflare] [1.068517932s] [Cloudflare,HTTP/3]

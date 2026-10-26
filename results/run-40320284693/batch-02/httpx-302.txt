@@ -1,0 +1,5 @@
+https://asterdex.com [302] [https://www.asterdex.com/] [138] [302 Found] [] [3.168.40.85] [cloudfront] [668.175878ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://guilds.decibel.trade [302] [/claim] [0] [Vercel] [216.150.1.1] [4.180940737s] [HSTS,Vercel]
+https://trade-arb.bluefin.io [302] [https://trade.bluefin.io/] [504] [302 Found] [cloudflare] [172.66.43.105] [cloudflare] [61.125458ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://staging.decibel.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.decibel.trade%2F&nonce=d17593c6ac7536aa867bc80dca9da6e04b56fd592d6d290d811dce52bac5e5e4] [263] [Vercel] [216.150.1.129] [509.667593ms] [HSTS,Vercel]
+https://www.asterdex.com [302] [/en] [3] [] [3.168.40.42] [cloudfront] [5.082782526s] [Amazon CloudFront,Amazon Web Services,HSTS]
