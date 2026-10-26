@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:14:06 UTC 2026
+[+] Run ID: 40320253399
+[+] Batch name: batch-01
+[+] Batch targets:
+bitnovo.com
+bonuz.xyz
+compasswallet.io
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:15:51 UTC 2026
+[+] HTTPX input count: 786
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:17:54 UTC 2026
+[+] httpx line count: 40
+[+] Batch completed: Mon Oct 26 12:17:54 UTC 2026
