@@ -1,0 +1,4 @@
+http://tma.mywallet.io [301] [https://tma.mywallet.io/] [39] [Netlify] [13.52.188.95] [310.065678ms] [Netlify]
+https://www.mywallet.io [301] [https://mywallet.io/] [35] [Netlify] [52.52.192.191] [165.97559ms] [HSTS,Netlify]
+https://beta.mywallet.io [301] [https://web-beta.mywallet.io/] [166] [301 Moved Permanently] [openresty] [5.39.219.76] [611.64216ms] [HSTS,Nginx,OpenResty]
+http://mywallet.io [301] [https://mywallet.io/] [35] [Netlify] [75.2.60.5] [40.404874ms] [Netlify]
