@@ -1,0 +1,6 @@
+https://buildon.okto.tech [301] [https://drive.google.com/file/d/1b0AGXSe7HahdwpsuuFe4AE0AFsYRwtVB/view?usp=sharing] [167] [301 Moved Permanently] [cloudflare] [104.18.4.245] [cloudflare] [82.123056ms] [Cloudflare,HSTS]
+https://discord.okto.tech [301] [https://discord.gg/yDF4cR8z2K] [167] [301 Moved Permanently] [cloudflare] [104.18.4.245] [cloudflare] [79.576971ms] [Cloudflare,HSTS]
+https://academy.pintu.co.id [301] [https://pintu.co.id/academy] [0] [cloudflare] [104.20.47.162] [cloudflare] [981.276106ms] [Cloudflare,Envoy]
+https://oasys-wallet.com [301] [https://www.oasys-wallet.com/] [0] [AmazonS3] [65.8.20.56] [cloudfront] [368.11094ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+http://dashboards.okto.tech [301] [https://dashboards.okto.tech/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.245] [cloudflare] [40.975428ms] [Cloudflare,Cloudflare Bot Management]
+https://whitepaper.okto.tech [301] [https://315fb7f7-df61-4346-8daf-35877e58a9f2.usrfiles.com/ugd/315fb7_8e4c75dde1324307b246b6d43879496b.pdf] [167] [301 Moved Permanently] [cloudflare] [104.18.5.245] [cloudflare] [4.706069131s] [Cloudflare,Cloudflare Bot Management,HSTS]

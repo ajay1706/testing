@@ -1,0 +1,2 @@
+https://blog.staging.pintu.co.id [302] [https://blog.staging.pintu.co.id/id/] [0] [cloudflare] [172.66.149.117] [cloudflare] [908.792488ms] [Cloudflare,Envoy]
+https://blog.pintu.co.id [302] [https://blog.pintu.co.id/id/] [0] [cloudflare] [104.20.47.162] [cloudflare] [912.801391ms] [Cloudflare,Envoy]

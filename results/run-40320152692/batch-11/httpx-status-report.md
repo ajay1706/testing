@@ -1,0 +1,95 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:29:09 UTC 2026
+
+HTTPX lines: 84
+Live URLs: 84
+
+## 200
+https://3p-sandbox.okto.tech [200] [] [2957] [okto_3p_widget] [] [199.36.158.100] [165.732091ms] [Firebase,HSTS,HTTP/3]
+https://apps.pintu.co.id [200] [] [2104] [Pintu] [cloudflare] [162.159.140.159] [cloudflare] [460.838715ms] [Cloudflare,HTTP/3]
+https://app.pintu.co.id [200] [] [5719] [Pintu] [cloudflare] [104.20.47.162] [cloudflare] [483.125695ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://game.pintu.co.id [200] [] [3302] [404] [AmazonS3] [18.238.109.38] [cloudfront] [210.794225ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://game.staging.pintu.co.id [200] [] [3302] [404] [AmazonS3] [99.84.215.34] [cloudfront] [318.142844ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://kyc.pintu.co.id [200] [] [551] [KYC] [AmazonS3] [52.85.132.60] [cloudfront] [250.461131ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://kyc.uat.pintu.co.id [200] [] [551] [KYC] [AmazonS3] [18.155.173.126] [cloudfront] [258.964068ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://kyc.staging.pintu.co.id [200] [] [551] [KYC] [AmazonS3] [18.238.96.2] [cloudfront] [310.456585ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://lp.oasys-wallet.com [200] [] [46823] [Oasysチェーン - ブロックチェーンをもっと手軽に！] [Vercel] [216.150.16.193] [583.449783ms] [Google Tag Manager,HSTS,Vercel]
+https://okto.tech [200] [] [263826] [Okto] [Framer/24ab00f] [31.43.161.6] [192.083212ms] [Framer Sites,HSTS,HTTP/3,React]
+https://norge-stream-v2.okto.tech [200] [] [27] [istio-envoy] [43.205.188.224] [960.576704ms] [Envoy,Express,Node.js]
+https://app-staging.pintu.co.id [200] [] [5718] [Pintu] [cloudflare] [172.66.149.117] [cloudflare] [2.826274347s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://pro-chart.staging.pintu.co.id [200] [] [593] [PINTU Pro] [AmazonS3] [18.155.173.34] [cloudfront] [1.27291307s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://pro-chart.pintu.co.id [200] [] [593] [PINTU Pro] [AmazonS3] [65.8.20.104] [cloudfront] [3.197347137s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://pintu.co.id [200] [] [216790] [Pintu: Trading Crypto & Futures | Aplikasi Crypto All in One] [cloudflare] [172.66.149.117] [cloudflare] [3.113974974s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,Google Tag Manager,Next.js,Node.js,React,Webpack]
+https://www.oasys-wallet.com [200] [] [47668] [Oasys Wallet株式会社] [Vercel] [66.33.60.130] [242.168841ms] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://www.pintu.co.id [200] [] [216790] [Pintu: Trading Crypto & Futures | Aplikasi Crypto All in One] [cloudflare] [172.66.149.117] [cloudflare] [130.811849ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,Google Tag Manager,Next.js,Node.js,React,Webpack]
+https://website.okto.tech [200] [] [53971] [Okto: DeFi Crypto Wallet | Earn Crypto Passive Income Through Web3 & DeFi Investments] [cloudflare] [104.18.4.245] [cloudflare] [5.119420999s] [Cloudflare,Cloudflare Bot Management,Envoy,Google Analytics,HSTS,Next.js,Node.js,React,Webpack]
+
+## 301
+https://buildon.okto.tech [301] [https://drive.google.com/file/d/1b0AGXSe7HahdwpsuuFe4AE0AFsYRwtVB/view?usp=sharing] [167] [301 Moved Permanently] [cloudflare] [104.18.4.245] [cloudflare] [82.123056ms] [Cloudflare,HSTS]
+https://discord.okto.tech [301] [https://discord.gg/yDF4cR8z2K] [167] [301 Moved Permanently] [cloudflare] [104.18.4.245] [cloudflare] [79.576971ms] [Cloudflare,HSTS]
+https://academy.pintu.co.id [301] [https://pintu.co.id/academy] [0] [cloudflare] [104.20.47.162] [cloudflare] [981.276106ms] [Cloudflare,Envoy]
+https://oasys-wallet.com [301] [https://www.oasys-wallet.com/] [0] [AmazonS3] [65.8.20.56] [cloudfront] [368.11094ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+http://dashboards.okto.tech [301] [https://dashboards.okto.tech/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.245] [cloudflare] [40.975428ms] [Cloudflare,Cloudflare Bot Management]
+https://whitepaper.okto.tech [301] [https://315fb7f7-df61-4346-8daf-35877e58a9f2.usrfiles.com/ugd/315fb7_8e4c75dde1324307b246b6d43879496b.pdf] [167] [301 Moved Permanently] [cloudflare] [104.18.5.245] [cloudflare] [4.706069131s] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 302
+https://blog.staging.pintu.co.id [302] [https://blog.staging.pintu.co.id/id/] [0] [cloudflare] [172.66.149.117] [cloudflare] [908.792488ms] [Cloudflare,Envoy]
+https://blog.pintu.co.id [302] [https://blog.pintu.co.id/id/] [0] [cloudflare] [104.20.47.162] [cloudflare] [912.801391ms] [Cloudflare,Envoy]
+
+## 307
+https://dvhxudaq370or.pro.pintu.co.id [307] [/pro] [4] [] [65.8.20.129] [cloudfront] [230.831077ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://pay.okto.tech [307] [/deposit/payment-methods] [24] [cloudflare] [104.18.5.245] [cloudflare] [4.920834116s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+
+## 308
+https://www.okto.tech [308] [https://okto.tech/] [54] [Framer/24ab00f] [31.43.161.6] [203.551445ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+https://pro-preprod.pintu.co.id [401] [] [0] [] [65.8.20.120] [cloudfront] [2.301949724s] [Amazon CloudFront,Amazon Web Services,Basic,HTTP/3]
+https://pro.staging.pintu.co.id [401] [] [0] [] [65.8.20.51] [cloudfront] [2.325738655s] [Amazon CloudFront,Amazon Web Services,Basic,HTTP/3]
+
+## 403
+https://auth.okto.tech [403] [] [4543] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [99.778148ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://assets.pintu.co.id [403] [] [111] [AmazonS3] [18.238.109.81] [cloudfront] [662.013131ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://cdn.pintu.co.id [403] [] [111] [AmazonS3] [65.8.20.77] [cloudfront] [708.18342ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://mail.kyc.staging.pintu.co.id [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [65.9.126.103] [cloudfront] [18.912358ms] [Amazon CloudFront,Amazon Web Services]
+https://norge-bff.okto.tech [403] [] [4543] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.245] [cloudflare] [65.2885ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://images.okto.tech [403] [] [111] [cloudflare] [104.18.5.245] [cloudflare] [877.055828ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://preprod-pay.okto.tech [403] [] [4543] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [127.298219ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://pro.codecommit.staging.pintu.co.id [403] [] [1276] [ERROR: The request could not be satisfied] [cloudflare] [104.20.47.162] [cloudflare] [54.209564ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+http://www.cam-superset.staging.pintu.co.id [403] [] [1276] [ERROR: The request could not be satisfied] [cloudflare] [172.66.149.117] [cloudflare] [71.964054ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+http://www.cam.staging.pintu.co.id [403] [] [1276] [ERROR: The request could not be satisfied] [cloudflare] [172.66.149.117] [cloudflare] [51.885101ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+http://test.staging.pintu.co.id [403] [] [1276] [ERROR: The request could not be satisfied] [cloudflare] [172.66.149.117] [cloudflare] [94.279784ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+http://www.internal-tools.staging.pintu.co.id [403] [] [1276] [ERROR: The request could not be satisfied] [cloudflare] [172.66.149.117] [cloudflare] [57.166682ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+http://www.internal.staging.pintu.co.id [403] [] [1276] [ERROR: The request could not be satisfied] [cloudflare] [172.66.149.117] [cloudflare] [47.340271ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+http://www.kyc.pintu.co.id [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [52.85.132.129] [cloudfront] [3.718482ms] [Amazon CloudFront,Amazon Web Services]
+http://www.kyc.staging.pintu.co.id [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [65.9.126.96] [cloudfront] [18.174804ms] [Amazon CloudFront,Amazon Web Services]
+http://www.pro-chart.staging.pintu.co.id [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.155.173.62] [cloudfront] [3.347171ms] [Amazon CloudFront,Amazon Web Services]
+http://www.pro.staging.pintu.co.id [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [65.8.20.50] [cloudfront] [2.765639ms] [Amazon CloudFront,Amazon Web Services]
+http://www.pintu-web.staging.pintu.co.id [403] [] [1276] [ERROR: The request could not be satisfied] [cloudflare] [172.66.149.117] [cloudflare] [72.67441ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+http://www.staging.pintu.co.id [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [65.8.20.13] [cloudfront] [3.180461ms] [Amazon CloudFront,Amazon Web Services]
+http://www.test.staging.pintu.co.id [403] [] [1276] [ERROR: The request could not be satisfied] [cloudflare] [172.66.149.117] [cloudflare] [55.929911ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+
+## 404
+https://auth.staging.pintu.co.id [404] [] [21265] [Site Not Found] [] [199.36.158.100] [197.512375ms] [Firebase,HSTS,HTTP/3]
+https://api.pintu.co.id [404] [] [19] [cloudflare] [172.66.149.117] [cloudflare] [265.53063ms] [Cloudflare,Envoy]
+https://auth.pintu.co.id [404] [] [21265] [Site Not Found] [] [199.36.158.100] [360.054214ms] [Firebase,HSTS,HTTP/3]
+https://click.okto.tech [404] [] [146] [404 Not Found] [nginx] [35.164.210.137] [185.469966ms] [Nginx]
+https://callback.pintu.co.id [404] [] [0] [cloudflare] [172.66.149.117] [cloudflare] [865.084574ms] [Cloudflare]
+https://api.staging.pintu.co.id [404] [] [19] [cloudflare] [172.66.149.117] [cloudflare] [877.639439ms] [Cloudflare,Envoy]
+https://content.pintu.co.id [404] [] [19] [cloudflare] [172.66.149.117] [cloudflare] [295.048567ms] [Cloudflare,Envoy]
+https://invite.okto.tech [404] [] [21265] [Site Not Found] [cloudflare] [104.18.4.245] [cloudflare] [109.23962ms] [Cloudflare,Cloudflare Bot Management,Firebase,HSTS]
+https://game.pintu.co.id [200] [] [3302] [404] [AmazonS3] [18.238.109.38] [cloudfront] [210.794225ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://game.staging.pintu.co.id [200] [] [3302] [404] [AmazonS3] [99.84.215.34] [cloudfront] [318.142844ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://ablink.marketing.pintu.co.id [404] [] [913] [404 Not Found] [cloudflare] [172.66.149.117] [cloudflare] [1.363683305s] [Cloudflare,Cloudflare Browser Insights]
+https://ablink.info.pintu.co.id [404] [] [511] [404 Not Found] [cloudflare] [172.66.149.117] [cloudflare] [1.380206306s] [Cloudflare,Cloudflare Browser Insights]
+https://info.pintu.co.id [404] [] [511] [404 Not Found] [cloudflare] [104.20.47.162] [cloudflare] [1.33979864s] [Cloudflare,Cloudflare Browser Insights]
+https://marketing.pintu.co.id [404] [] [511] [404 Not Found] [cloudflare] [172.66.149.117] [cloudflare] [1.338392524s] [Cloudflare,Cloudflare Browser Insights]
+https://pintu-content-strapi.staging.pintu.co.id [404] [] [0] [cloudflare] [104.20.47.162] [cloudflare] [5.858991051s] [Cloudflare]
+
+## 500
+
+## 502
+
+## 503
+
