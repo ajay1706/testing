@@ -1,0 +1,83 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:29:54 UTC 2026
+
+HTTPX lines: 58
+Live URLs: 58
+
+## 200
+https://investors.rainbow.me [200] [] [35709] [Rainbow Investor Relations] [cloudflare] [104.20.16.62] [cloudflare] [125.588929ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://link.rainbow.me [200] [] [2667] [Rainbow.me] [cloudflare] [172.66.172.168] [cloudflare] [173.711194ms] [Cloudflare,Cloudflare Browser Insights,HSTS,React,Vercel]
+https://mail.ready.io [200] [] [0] [Caddy] [34.91.249.129] [google] [321.017812ms] [Caddy]
+https://rds-web.rainbow.me [200] [] [15825] [Rainbow Design System] [cloudflare] [104.20.16.62] [cloudflare] [142.592059ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://rainbow.me [200] [] [27720] [Rainbow | Trade Any Market from Your Phone] [cloudflare] [172.66.172.168] [cloudflare] [196.715297ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://rabby.io [200] [] [2774] [Rabby Wallet | Your Go-to Wallet for Ethereum and EVM] [dbkserver] [13.227.65.33] [cloudfront] [505.312653ms] [Amazon CloudFront,Amazon Web Services,HSTS,jQuery]
+https://rabbykit.rabby.io [200] [] [44129] [RabbyKit - A Real Web3 Way to connect all wallets for all Dapp developers] [dbkserver] [3.170.3.51] [cloudfront] [544.310658ms] [Amazon CloudFront,Amazon Web Services,HSTS,Rspack,Rspress:2.0.23]
+https://staging.rainbow.me [200] [] [810249] [Rainbow | Fun, powerful, and secure crypto wallets] [cloudflare] [172.66.172.168] [cloudflare] [164.614547ms] [Cloudflare,Cloudflare Browser Insights,Framer Sites,Front Chat,Google Analytics,Google Tag Manager,HSTS,React]
+https://www.rabby.io [200] [] [2774] [Rabby Wallet | Your Go-to Wallet for Ethereum and EVM] [dbkserver] [13.226.94.69] [cloudfront] [3.634966227s] [Amazon CloudFront,Amazon Web Services,HSTS,jQuery]
+
+## 301
+https://support.rainbow.me [301] [https://rainbow.me/support/] [0] [cloudflare] [172.66.172.168] [cloudflare] [115.121033ms] [Cloudflare]
+https://www.rainbow.me [301] [https://rainbow.me/] [528] [301 Moved Permanently] [cloudflare] [104.20.16.62] [cloudflare] [3.084341344s] [Cloudflare,Cloudflare Browser Insights]
+
+## 302
+https://addys.api.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [98.89.51.212] [27.151857ms] [Amazon ELB,Amazon Web Services]
+https://addys.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [3.170.42.6] [cloudfront] [45.795051ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://datadog-metrics.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [13.226.209.73] [cloudfront] [57.952693ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://addys.s.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [18.160.41.60] [cloudfront] [64.90481ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://bx-docs.rainbow.me [302] [https://rainbowdotme.cloudflareaccess.com/cdn-cgi/access/login/bx-docs.rainbow.me?kid=31ad2963ae527057a1ed1d7335192efcc95bf4f52c7c77025f3fa48108338802&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImU1NzcwMTE2NDU5MmQyZTI3YzVjNjJiZDhlMWI3MjI5NTljZDA1Yjk3NjRjZjY0YjYzYzg2OTNmNjBkN2M4YmMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjMxYWQyOTYzYWU1MjcwNTdhMWVkMWQ3MzM1MTkyZWZjYzk1YmY0ZjUyYzdjNzcwMjVmM2ZhNDgxMDgzMzg4MDIiLCJob3N0bmFtZSI6ImJ4LWRvY3MucmFpbmJvdy5tZSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkzMDE4MDYxLCJuYmYiOjE3OTMwMTc3NjEsImlhdCI6MTc5MzAxNzc2MSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6ImU2MjBlOTBlZWZjYjExYjNlODY1ODM4YjM2ZWE4MTNlNjIwMTllNTdiYjBmNTQ0ZTc3MzU1NGIyMmFiY2YzY2QifQ.KHa9CaDAnCZbcPTlaAl_e_h7A23H7RzW5Buy759u2blK8pKE9krC8GZ8u9isrDYDN_oiSFORoWfaN8bnWQD10oBbYh1Vb_HgtzfO5gGAEK_9b78Dj58gqAvnXoukLt9tz3dsaPRQ6F5bMa-Kjb4YPUbPuM-pXYXU-xSdtrQoxTpAE3mGG8Hf10pDjWk8SYbXNMWtct5zRS3Nqwfj2s4K3RzoloFxtO2ZZ0lThClRCzW4ab7BNoXGkUktLe92o_C-9_Og93AlzoTI3a6_-lYXZDbZmFXuTOob32nYocCwd9Ozfv1AlYDWJAHKrDV6Dsvayykrx_80PMMlRIFEAFr_ZQ&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.172.168] [cloudflare] [85.955822ms] [Cloudflare,Cloudflare Browser Insights]
+https://metadata.api.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [44.223.212.219] [22.70905ms] [Amazon ELB,Amazon Web Services]
+https://datadog-metrics.s.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [3.162.103.51] [cloudfront] [370.981742ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://meteorology.api.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [100.55.116.243] [33.382587ms] [Amazon ELB,Amazon Web Services]
+https://notifications.api.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [54.175.120.51] [51.429822ms] [Amazon ELB,Amazon Web Services]
+https://points.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [18.165.98.14] [cloudfront] [40.400117ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://points.s.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [3.167.88.59] [cloudfront] [41.566512ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://platform.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [18.160.41.113] [cloudfront] [64.532047ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://notifications.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [18.67.76.36] [cloudfront] [82.177091ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://notifications.s.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [3.167.99.70] [cloudfront] [141.177673ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://platform.s.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [52.85.193.65] [cloudfront] [157.792394ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://swap.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [18.235.70.177] [29.711006ms] [Amazon ELB,Amazon Web Services]
+https://swap.s.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [52.85.193.79] [cloudfront] [41.527639ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://tokens.s.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [3.167.88.117] [cloudfront] [50.978419ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://wcpush.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [18.67.76.103] [cloudfront] [109.961482ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://wcpush.s.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [52.85.193.81] [cloudfront] [105.647854ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://tokens.p.rainbow.me [302] [https://rainbow.me:443/?k=v] [110] [302 Found] [awselb/2.0] [3.171.38.120] [cloudfront] [154.725148ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://support.rabby.io [302] [https://support.rabby.io/en/] [0] [nginx] [52.85.193.7] [cloudfront] [197.761665ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://app-team.p.rainbow.me [403] [] [111] [AmazonS3] [3.167.56.59] [cloudfront] [76.654339ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://img.p.rainbow.me [403] [] [42] [] [3.171.85.89] [cloudfront] [29.948053ms] [Amazon CloudFront,Amazon Web Services]
+https://img.s.rainbow.me [403] [] [42] [] [3.171.100.103] [cloudfront] [47.915517ms] [Amazon CloudFront,Amazon Web Services]
+https://download.rabby.io [403] [] [111] [AmazonS3] [18.154.227.12] [cloudfront] [264.894451ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://metadata.p.rainbow.me [403] [] [111] [AmazonS3] [3.162.125.43] [cloudfront] [58.856724ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://metadata.s.rainbow.me [403] [] [111] [AmazonS3] [13.226.238.7] [cloudfront] [74.922691ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://rpc.p.rainbow.me [403] [] [79] [CloudFront] [52.85.193.52] [cloudfront] [35.810269ms] [Amazon CloudFront,Amazon Web Services]
+https://rpc.s.rainbow.me [403] [] [79] [CloudFront] [3.170.42.23] [cloudfront] [54.283909ms] [Amazon CloudFront,Amazon Web Services]
+https://rpc-staging.rainbow.me [403] [] [79] [CloudFront] [3.170.42.90] [cloudfront] [111.228964ms] [Amazon CloudFront,Amazon Web Services]
+https://rpc.rainbow.me [403] [] [79] [CloudFront] [52.85.193.52] [cloudfront] [112.328464ms] [Amazon CloudFront,Amazon Web Services]
+https://static-assets.rabby.io [403] [] [111] [AmazonS3] [13.227.65.111] [cloudfront] [294.25641ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://s.ready.io [403] [] [111] [AmazonS3] [3.170.3.111] [cloudfront] [780.107494ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://api.rainbow.me [404] [] [21376] [Page Not Found] [] [199.36.158.100] [57.362771ms] [Firebase,HSTS,HTTP/3]
+https://api.rabby.io [404] [] [232] [404 Not Found] [dbkserver] [3.167.56.83] [cloudfront] [181.132214ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://arc-graphql.rainbow.me [404] [] [61] [cloudflare] [104.20.16.62] [cloudflare] [283.373539ms] [Cloudflare]
+https://api.ready.io [404] [] [513] [404 Not Found] [cloudflare] [104.21.0.139] [cloudflare] [380.346488ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://ndn.s.rainbow.me [404] [] [18] [] [13.226.238.81] [cloudfront] [43.384765ms] [Amazon CloudFront,Amazon Web Services]
+https://learn.rainbow.me [404] [] [107] [cloudflare] [104.20.16.62] [cloudflare] [144.157961ms] [Cloudflare,HSTS,Vercel]
+https://ndn.p.rainbow.me [404] [] [18] [] [99.84.237.19] [cloudfront] [95.681739ms] [Amazon CloudFront,Amazon Web Services]
+https://f.ready.io [404] [] [27517] [Not Found] [cloudflare] [172.67.128.15] [cloudflare] [364.24409ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 500
+
+## 502
+
+## 503
+https://ready.io [503] [] [557] [503 Service Temporarily Unavailable] [cloudflare] [172.67.128.15] [cloudflare] [476.913055ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
