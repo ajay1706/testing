@@ -1,0 +1,5 @@
+https://galileo-api.jup.ag [308] [https://api.galileo.jup.ag/] [169] [308 Permanent Redirect] [cloudflare] [104.18.43.59] [cloudflare] [4.031758072s] [Cloudflare,HTTP/3]
+http://jupiterz.jup.ag [308] [https://jupiterz.jup.ag/] [14] [Vercel] [64.239.123.1] [1.027120096s] [Vercel]
+http://meteora-static-git-main.preview.jup.ag [308] [https://meteora-static-git-main.preview.jup.ag/] [14] [cloudflare] [172.64.144.197] [cloudflare] [2.029502643s] [Cloudflare,HTTP/3]
+http://static-bluhe77ku.preview.jup.ag [308] [https://static-bluhe77ku.preview.jup.ag/] [14] [cloudflare] [172.64.144.197] [cloudflare] [1.039636537s] [Cloudflare,HTTP/3]
+http://static-qb39odzou.preview.jup.ag [308] [https://static-qb39odzou.preview.jup.ag/] [14] [cloudflare] [172.64.144.197] [cloudflare] [4.028762416s] [Cloudflare,HTTP/3]
