@@ -1,0 +1,2 @@
+https://support.morsemoney.com [302] [https://support.morsemoney.com/en/] [0] [cloudflare] [104.20.37.34] [cloudflare] [280.702003ms] [Cloudflare]
+https://login.morsemoney.com [302] [https://morsemoney.com/] [45] [cloudflare] [104.20.37.34] [cloudflare] [407.579746ms] [Auth0,Cloudflare,Cloudflare Bot Management,HSTS]

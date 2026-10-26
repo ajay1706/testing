@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:23:01 UTC 2026
+[+] Run ID: 40320398152
+[+] Batch name: batch-02
+[+] Batch targets:
+lynx.finance
+moonlander.trade
+morsemoney.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:25:15 UTC 2026
+[+] HTTPX input count: 40
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:25:35 UTC 2026
+[+] httpx line count: 25
+[+] Batch completed: Mon Oct 26 12:25:36 UTC 2026
