@@ -1,0 +1,2 @@
+https://kiloex.io [301] [https://www.kiloex.io/] [0] [AmazonS3] [18.154.227.12] [cloudfront] [32.759007ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://spotapi.kiloex.io [301] [https://spotapi.kiloex.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.27.102] [cloudflare] [45.502471ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]

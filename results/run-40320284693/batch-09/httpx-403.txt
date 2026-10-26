@@ -1,0 +1,2 @@
+https://assets.lighter.xyz [403] [] [263] [AmazonS3] [13.226.238.95] [cloudfront] [112.727307ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://downloads.lighter.xyz [403] [] [111] [AmazonS3] [13.35.78.93] [cloudfront] [138.162476ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
