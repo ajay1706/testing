@@ -1,0 +1,8 @@
+https://chainnotifier.breez.technology [404] [] [0] [Caddy] [91.134.145.202] [514.821405ms] [Caddy,HTTP/3]
+https://help.bluewallet.io [404] [] [9] [nginx] [18.97.36.93] [298.76252ms] [Nginx]
+https://keys.breez.technology [404] [] [0] [Caddy] [94.23.68.139] [584.373311ms] [Caddy,HTTP/3]
+https://lq1.breez.technology [404] [] [19] [Caddy] [94.23.68.139] [533.359135ms] [Caddy,HTTP/3]
+https://notifier.breez.technology [404] [] [18] [Caddy] [91.134.145.202] [518.087762ms] [Caddy,HTTP/3]
+https://nd1.breez.technology [404] [] [19] [Caddy] [94.23.68.139] [568.496099ms] [Caddy,HTTP/3]
+https://waterfalls-liquid-testnet.breez.technology [404] [] [18] [Fly/331937a822 (2026-10-23)] [66.241.124.20] [248.732439ms] [Fly.io]
+https://webauthn.breez.technology [404] [] [0] [Caddy] [94.23.68.139] [554.378072ms] [Caddy,HTTP/3]

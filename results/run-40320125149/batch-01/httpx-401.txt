@@ -1,0 +1,4 @@
+https://davtest.breez.technology [401] [] [0] [Caddy] [164.132.137.138] [718.957369ms] [Basic,Caddy]
+https://n.breez.technology [401] [] [0] [Caddy] [94.23.68.139] [568.975557ms] [Basic,Caddy,HTTP/3]
+https://packages.breez.technology [401] [] [0] [Caddy] [164.132.137.138] [538.97398ms] [Basic,Caddy]
+https://nr1.breez.technology [401] [] [0] [Caddy] [65.109.145.24] [696.48963ms] [Basic,Caddy,HTTP/3]

@@ -1,0 +1,7 @@
+http://flashnet-validator.breez.technology [308] [https://flashnet-validator.breez.technology:50059/] [0] [Caddy] [16.147.129.77] [47.034758ms] [Caddy]
+http://electrumz.bluewallet.io [308] [https://electrumz.bluewallet.io:8443/] [0] [Caddy] [134.122.78.233] [300.145121ms] [Caddy]
+http://electrum1.bluewallet.io [308] [https://electrum1.bluewallet.io/] [0] [Caddy] [65.109.99.229] [357.770295ms] [Caddy]
+http://bytes.bluewallet.io [308] [https://bytes.bluewallet.io:8445/] [0] [Caddy] [65.109.99.229] [353.023744ms] [Caddy]
+http://electrum3.bluewallet.io [308] [https://electrum3.bluewallet.io/] [0] [Caddy] [65.109.99.229] [343.511806ms] [Caddy]
+http://electrum2.bluewallet.io [308] [https://electrum2.bluewallet.io:444/] [0] [Caddy] [65.109.99.229] [361.689687ms] [Caddy]
+http://lnurl.breez.technology [308] [https://lnurl.breez.technology/] [0] [Caddy] [65.109.145.24] [344.920566ms] [Caddy]
