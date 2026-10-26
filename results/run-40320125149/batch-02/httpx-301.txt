@@ -1,0 +1,6 @@
+https://app.crossmark.io [301] [https://chrome.google.com/webstore/detail/crossmark/canipghmckojpianfgiklhbgpfmhjkjg] [0] [Squarespace] [198.185.159.145] [467.13496ms] [Squarespace,Squarespace Commerce]
+https://discord.crossmark.io [301] [https://discord.gg/BrHRshZz5p] [0] [Squarespace] [198.49.23.144] [513.153357ms] [Squarespace,Squarespace Commerce]
+http://newsfeed.daedaluswallet.io [301] [https://newsfeed.daedaluswallet.io/] [167] [301 Moved Permanently] [cloudflare] [104.21.39.160] [cloudflare] [39.024126ms] [Cloudflare,HTTP/3]
+http://multisig.defly.app [301] [https://multisig.defly.app/] [167] [301 Moved Permanently] [cloudflare] [104.26.11.94] [cloudflare] [51.370851ms] [Cloudflare,HTTP/3]
+https://www.daedaluswallet.io [301] [https://daedaluswallet.io/] [41] [Netlify] [104.198.14.52] [google] [92.586736ms] [HSTS,Netlify]
+https://www.defly.app [301] [https://defly.app/] [266] [301 Moved Permanently] [cloudflare] [104.26.10.94] [cloudflare] [619.672782ms] [Cloudflare,HSTS,HTTP/3]
