@@ -1,0 +1,4 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] pyth-api.drake.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] prod-images.strikefinance.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] prod-images.strikefinance.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pyth-api.drake.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
