@@ -1,0 +1,2 @@
+https://api.gerowallet.io [403] [] [89] [cloudflare] [104.26.12.85] [cloudflare] [511.837034ms] [Cloudflare,HSTS,HTTP/3]
+https://sync.gerowallet.io [403] [] [89] [cloudflare] [172.67.69.14] [cloudflare] [572.616824ms] [Cloudflare,HSTS,HTTP/3]

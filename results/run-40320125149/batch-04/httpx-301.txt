@@ -1,0 +1,6 @@
+https://autoconfig.gamechanger.finance [301] [https://c232.ferozo.com/] [639] [301 Moved Permanently] [cloudflare] [104.21.42.31] [cloudflare] [601.663196ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.gemwallet.app [301] [https://gemwallet.app/] [162] [301 Moved Permanently] [GitHub.com] [185.199.109.153] [470.629935ms] [Fastly,GitHub Pages,Varnish]
+https://www.gerowallet.io [301] [https://gerowallet.io/] [22] [cloudflare] [104.26.13.85] [cloudflare] [570.719923ms] [Cloudflare,HSTS,HTTP/3]
+https://www.gamechanger.finance [301] [https://gamechanger.finance/] [643] [301 Moved Permanently] [cloudflare] [172.67.199.185] [cloudflare] [668.666678ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://mobile.gerowallet.io [301] [https://mobile.gerowallet.io/] [534] [301 Moved Permanently] [cloudflare] [172.67.69.14] [cloudflare] [33.292168ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://grafana.gerowallet.io [301] [https://grafana.gerowallet.io/] [534] [301 Moved Permanently] [cloudflare] [104.26.12.85] [cloudflare] [37.023332ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
