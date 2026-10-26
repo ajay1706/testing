@@ -1,0 +1,14 @@
+[CVE-2022-41697] [http] [medium] https://blog.leverup.xyz/ghost/api/admin/session
+[weak-cipher-suites:tls-1.0] [ssl] [low] avatar.mainnet.euphoria.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] avatar.testnet.euphoria.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] avatar.mainnet.euphoria.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] avatar.testnet.euphoria.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.leverup.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.leverup.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bulk.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bulk.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[ds-store-file] [http] [low] https://arcade-usdfi.lynx.finance/.DS_Store
+[unauthenticated-varnish-cache-purge] [http] [low] https://arcade-usdfi.lynx.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://arcade-usdfi.lynx.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://arcade-usdfi.lynx.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://arcade-usdfi.lynx.finance
