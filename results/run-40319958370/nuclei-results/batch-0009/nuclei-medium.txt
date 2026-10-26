@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://gravitee.api.prd.ledger.com/metrics
