@@ -1,0 +1,14 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] drake.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] drake.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] exchange-api.bulk.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] exchange-api.bulk.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://euphoria.finance
+[unauthenticated-varnish-cache-purge] [http] [low] https://exotix.lynx.finance
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.reya.xyz
+[ds-store-file] [http] [low] https://exotix.lynx.finance/.DS_Store
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://exotix.lynx.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://exotix.lynx.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://exotix.lynx.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://euphoria.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://euphoria.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://euphoria.finance
