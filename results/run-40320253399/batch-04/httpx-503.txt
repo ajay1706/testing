@@ -1,0 +1,3 @@
+https://card-api.qa.girin.app [503] [] [256] [503 Service Unavailable] [Google Frontend] [35.227.201.40] [google] [699.905898ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]
+https://api.staging.girin.app [503] [] [256] [503 Service Unavailable] [Google Frontend] [34.49.126.115] [google] [857.806127ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]
+https://api.alpha.girin.app [503] [] [256] [503 Service Unavailable] [Google Frontend] [34.144.208.172] [google] [918.763736ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]

@@ -1,0 +1,54 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:15:32 UTC 2026
+
+HTTPX lines: 24
+Live URLs: 24
+
+## 200
+https://card.fusewallet.com [200] [] [145] [Not found] [Vercel] [66.33.60.193] [193.515603ms] [HSTS,Vercel]
+https://www.girin.app [200] [] [1687] [Girin Labs] [UploadServer] [34.54.182.233] [google] [300.475341ms] [Google Cloud,Google Cloud CDN,Google Cloud Storage,HTTP/3]
+https://girin.app [200] [] [1687] [Girin Labs] [UploadServer] [34.54.182.233] [google] [299.789878ms] [Google Cloud,Google Cloud CDN,Google Cloud Storage,HTTP/3]
+https://qa-dashboard.girin.app [200] [] [500] [QA Dashboard] [UploadServer] [34.13.78.68] [google] [361.701658ms] [Google Cloud,Google Cloud CDN,Google Cloud Storage,HTTP/3]
+https://static.girin.app [200] [] [8798] [UploadServer] [34.49.223.6] [google] [416.39082ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://get-verso.com [200] [] [17904] [Verso - Web3 Crypto Wallets] [Apache] [217.160.0.216] [586.095246ms] [Apache HTTP Server,Google Analytics]
+https://fusewallet.com [200] [] [501983] [Fuse - Your Money, Upgraded] [Framer/24ab00f] [52.223.52.2] [32.800087ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.get-verso.com [200] [] [17904] [Verso - Web3 Crypto Wallets] [Apache] [217.160.0.216] [1.59165643s] [Apache HTTP Server,Google Analytics]
+
+## 301
+https://helpcenter.girin.app [301] [https://help.girin.app/] [0] [] [34.54.182.233] [google] [244.780603ms] [HTTP/3]
+
+## 302
+https://help.girin.app [302] [https://help.girin.app/en/] [0] [cloudflare] [172.64.150.18] [cloudflare] [162.330252ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://emails.fusewallet.com [302] [https://fuse-5ae1da3d173a.intercom-mail.com/admins/sign_in] [0] [nginx] [3.170.19.69] [cloudfront] [191.723506ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Nginx]
+https://card-admin.dev.girin.app [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/369001918367-t5qrahnqdaasaifvk6akpqkpjk9vli58.apps.googleusercontent.com:handleRedirect&code_challenge=2Owv3GMMP9XtaqnSupVhvnHqB_QyjAiD2VGkGC44Rts&code_challenge_method=S256&cred_ref=true&state=ATbdjREEnuDC4Z1R4uP-TujbRYOZB9HdspdlNXl0XaqQMIaj3pNWbkBPp9z6DhBCNT7o0tvkbDZkGfAXBjXAYb0xGC4CB2EEZ27I2TL6KbhmQ-CdBJzS8II4gxKu1JqB075-_aSC0NduwN_vqkV-SWrlv_DPytrzVikyuVOCyPd-YvBPokhFTLTJyDu_I5UEGnjm_KQFGQDhu6psLdzXopZDYcUJD5bdhgGLkYEK9WUPvzFD8VOY9J-PZVf3uoirnSxIRJLM3rQhsvv2zDMSmti5gl6lu4kJihbNzit5oTl15Su3-DqRmuw9eTNw4GAv7r-NZyE6SPPH1Cg-CervxdrLcbXh-krdSDGefsxmC9Z9O5L0W-q3_ZX4fgJf6RBiukj10DFKPJ_8ezLiLOG55pxHJYXUoIxcotU1rJpIO9MO5GCzLlHJ4Z64SWfY1AUT9tKdXY4BcAVfJBSC9dElBc7RQLnNkR7Cb1UEaZlNleEu86q0gzqx2_WHXyxqeSP5fhRYRekyA4gehuLPQtsXf9MU96rXIYXONj-MIFePBdPYeM4MwXATiY8fq7yp4ooGplKkAcP-pKhtI7bTcK2PaGHBWP0Z22BLRkFHGyqMd0dS78pKQ1R3tzVJF_M-zq3Zf3Jgs382fB2pqzcIxyO1SaCTD8bSE7wF5I-bx0s81bP2Z29DmomMmxdBXn3Ebr-RJaz4t6jOt9rUs-PbdoNr6EODhkER9kvEPcAzOIBjp5LDtaXOKhH5WzQAu4PCBEcrZpvFOYKFPLJOnsMs6BkehkfLogtLLZ2TCOhTKD3aXj_ApbnzuzahwgZRLk6W3C4Zo4Bd8WAjLgt6g3LIhUTMfYBQKCI-iu31QCrzZdmP_f6tcSv2LmSWWD8pz7swcPlYl_mCZ6oBGXp-FmncWEYxfMeuUz7ntSQKdYO6nWZhDGo2Noi_lxLYH-oeyXHo1GWdswJLFnrvmnm6bTl3tRSw1zIusMNtutcJPSldHNYWVi2o4Rkhs6ZK568bjbp_0Cstnrx-I4_g2U5glb-IAkhlm8igRzQOap5vt8RQJiwANlFmZbw5-B8Kqxz4JcA2FbYHsTPoaL4lZuWSnC0EKBNZ_hqpNyEzVFFgjloPFNL9HrIRo0eaTAma8KmncsKZZwIAjSRcSAZtAUG61EmvAEGWDvjdyNIavt5x4Q] [36] [] [34.111.242.8] [google] [817.927033ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 307
+
+## 308
+https://www.fusewallet.com [308] [https://fusewallet.com/] [59] [Framer/24ab00f] [31.43.161.6] [76.220225ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+
+## 403
+
+## 404
+https://recovery.fusewallet.com [404] [] [8253] [404: This page could not be found.] [Vercel] [66.33.60.35] [86.762061ms] [HSTS,Vercel]
+https://invite.fusewallet.com [404] [] [7137] [404: This page could not be found.] [Vercel] [76.76.21.98] [183.56463ms] [HSTS,Vercel]
+https://api.girin.app [404] [] [63] [Google Frontend] [34.54.13.168] [google] [267.051697ms] [Express,Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3,Node.js]
+https://wallet-api-develop.girin.app [404] [] [0] [] [35.227.237.128] [google] [282.833326ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://card-api.girin.app [404] [] [43] [Google Frontend] [34.110.252.187] [google] [337.478418ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://career.girin.app [404] [] [9] [] [45.76.79.55] [499.216744ms]
+https://card-api.dev.girin.app [404] [] [43] [Google Frontend] [34.111.242.8] [google] [788.013722ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://wallet-api.girin.app [404] [] [0] [] [34.102.137.6] [google] [1.00528468s] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 500
+https://qa-dashboard.girin.app [200] [] [500] [QA Dashboard] [UploadServer] [34.13.78.68] [google] [361.701658ms] [Google Cloud,Google Cloud CDN,Google Cloud Storage,HTTP/3]
+
+## 502
+
+## 503
+https://card-api.qa.girin.app [503] [] [256] [503 Service Unavailable] [Google Frontend] [35.227.201.40] [google] [699.905898ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]
+https://api.staging.girin.app [503] [] [256] [503 Service Unavailable] [Google Frontend] [34.49.126.115] [google] [857.806127ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]
+https://api.alpha.girin.app [503] [] [256] [503 Service Unavailable] [Google Frontend] [34.144.208.172] [google] [918.763736ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]
+
