@@ -1,0 +1,2 @@
+https://en.test.gb.wallet.tg [404] [] [0] [cloudflare] [45.196.29.102] [460.754131ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ar.test.wallet.tg [404] [] [0] [cloudflare] [45.196.29.102] [559.379599ms] [Cloudflare,Cloudflare Bot Management,HSTS]

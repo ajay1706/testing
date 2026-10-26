@@ -1,0 +1,7 @@
+https://wallet.tg [301] [https://walt.io/] [167] [301 Moved Permanently] [cloudflare] [45.196.29.101] [40.371486ms] [Cloudflare,HSTS]
+https://help.wallet.tg [301] [https://help.walt.io/] [167] [301 Moved Permanently] [cloudflare] [45.196.29.102] [128.97892ms] [Cloudflare,HSTS]
+https://docs.wallet.tg [301] [https://docs.walt.io/] [167] [301 Moved Permanently] [cloudflare] [45.196.29.101] [150.174035ms] [Cloudflare,HSTS]
+https://help.ru.wallet.tg [301] [https://help.ru.walt.io/] [167] [301 Moved Permanently] [cloudflare] [45.196.29.101] [195.310538ms] [Cloudflare,HSTS]
+https://help.uz.wallet.tg [301] [https://help.uz.walt.io/] [167] [301 Moved Permanently] [cloudflare] [45.196.29.100] [237.867036ms] [Cloudflare,HSTS]
+https://help.uz.ru.wallet.tg [301] [https://help.uz.ru.walt.io/] [167] [301 Moved Permanently] [cloudflare] [45.196.29.100] [334.849979ms] [Cloudflare,HSTS]
+https://www.wallet.tg [301] [https://wallet.tg/] [167] [301 Moved Permanently] [cloudflare] [45.196.29.101] [401.509423ms] [Cloudflare,Cloudflare Bot Management,HSTS]
