@@ -1,0 +1,5 @@
+https://app.nado.xyz [308] [/perpetuals] [15] [Vercel] [216.150.1.193] [223.557264ms] [HSTS,Vercel]
+https://legacy.nado.xyz [308] [/perpetuals] [15] [cloudflare] [104.18.6.134] [cloudflare] [271.567751ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://docs.paradex.trade [308] [/home] [0] [Vercel] [66.33.60.66] [603.865752ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://nado.xyz [308] [https://www.nado.xyz/] [57] [cloudflare] [104.18.7.134] [cloudflare] [249.574677ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://testnet.nado.xyz [308] [/perpetuals] [15] [Vercel] [216.150.1.193] [133.969002ms] [HSTS,Vercel]
