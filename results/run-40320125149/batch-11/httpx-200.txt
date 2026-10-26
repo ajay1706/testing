@@ -1,0 +1,8 @@
+https://specter.solutions [200] [] [23979] [Open-Source Bitcoin Self-Custody — Specter] [Netlify] [98.84.224.111] [267.172146ms] [HSTS,Netlify,reCAPTCHA]
+https://eot.specter.solutions [200] [] [1133] [Hello - EmailOctopus] [] [34.255.101.145] [461.440475ms] [HTTP/3]
+https://code.sparrowwallet.com [200] [] [7148] [Making sure you're not a bot!] [nginx/1.18.0 (Ubuntu)] [93.95.231.89] [465.829003ms] [Nginx:1.18.0,Ubuntu]
+https://www.sparrowwallet.com [200] [] [10128] [Sparrow Bitcoin Wallet - Sparrow Wallet] [nginx/1.18.0 (Ubuntu)] [93.95.231.89] [574.431362ms] [HSTS,Lightbox,Nginx:1.18.0,Ubuntu]
+https://sparrowwallet.com [200] [] [10128] [Sparrow Bitcoin Wallet - Sparrow Wallet] [nginx/1.18.0 (Ubuntu)] [93.95.231.89] [602.581596ms] [HSTS,Lightbox,Nginx:1.18.0,Ubuntu]
+https://senderwallet.io [200] [] [158036] [Sender Wallet - Your favorite Web3 wallet.] [cloudflare] [172.67.165.150] [cloudflare] [319.200106ms] [Ant Design,Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HTTP/3,Varnish,Zendesk]
+https://docs.specter.solutions [200] [] [4618] [Specter Solutions | Your Keys, Your Bitcoin] [Netlify] [98.84.224.111] [954.57502ms] [HSTS,Netlify]
+https://docs.senderwallet.io [200] [] [376708] [Introduction | Sender Wallet Developer Documentation] [cloudflare] [172.67.165.150] [cloudflare] [399.799314ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]

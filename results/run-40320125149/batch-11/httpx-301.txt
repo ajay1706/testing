@@ -1,0 +1,2 @@
+https://www.specter.solutions [301] [https://specter.solutions/] [41] [Netlify] [18.208.88.157] [275.620305ms] [HSTS,Netlify]
+https://www.senderwallet.io [301] [https://senderwallet.io/] [529] [301 Moved Permanently] [cloudflare] [104.21.34.215] [cloudflare] [300.151984ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HTTP/3,Varnish]
