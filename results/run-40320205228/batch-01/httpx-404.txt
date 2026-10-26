@@ -1,0 +1,2 @@
+https://docs.authentrend.com [404] [] [454] [Sorry] [cloudflare] [104.21.34.157] [cloudflare] [340.288145ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://paygate.banksocial.io [404] [] [6964] [Not Found] [cloudflare] [104.26.1.79] [cloudflare] [203.382277ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS]

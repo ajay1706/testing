@@ -1,0 +1,7 @@
+http://autodiscover.authentrend.com [301] [https://autodiscover.authentrend.com/] [0] [Microsoft-HTTPAPI/2.0] [52.96.165.88] [30.894079ms] [Microsoft HTTPAPI:2.0]
+https://jobs.banksocial.io [301] [https://jobs.gusto.com/boards/fivancial-inc-dba-banksocial-65e6e824-681b-42a4-91d6-2a717804d239] [167] [301 Moved Permanently] [cloudflare] [104.26.0.79] [cloudflare] [138.912824ms] [Cloudflare,HSTS]
+https://kzfl2bemjn4b589j4llx.authentrend.com [301] [https://authentrend.com/] [0] [Squarespace] [198.49.23.177] [347.850136ms] [HSTS,Squarespace,Squarespace Commerce]
+https://tw.authentrend.com [301] [https://zh-tw.authentrend.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.162.134] [cloudflare] [112.112451ms] [Cloudflare]
+https://us.authentrend.com [301] [https://authentrend.com/] [167] [301 Moved Permanently] [cloudflare] [104.21.34.157] [cloudflare] [93.673896ms] [Cloudflare]
+https://www.authentrend.com [301] [https://authentrend.com/] [0] [Squarespace] [198.49.23.144] [4.167024652s] [HSTS,Squarespace,Squarespace Commerce]
+http://uat.banksocial.io [301] [https://uat.banksocial.io/] [528] [301 Moved Permanently] [cloudflare] [172.67.70.2] [cloudflare] [33.213667ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
