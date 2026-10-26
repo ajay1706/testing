@@ -1,0 +1,2 @@
+https://asigna.io [308] [https://www.asigna.io/] [15] [Vercel] [216.150.1.1] [303.373181ms] [HSTS,Vercel]
+http://onramper.alephium.org [308] [https://onramper.alephium.org] [531] [308 Permanent Redirect] [cloudflare] [172.67.195.212] [cloudflare] [357.500391ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
