@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:27:22 UTC 2026
+[+] Run ID: 40320125149
+[+] Batch name: batch-12
+[+] Batch targets:
+surfwallet.app
+tonhub.com
+tonkeeper.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:27:43 UTC 2026
+[+] HTTPX input count: 113
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:28:04 UTC 2026
+[+] httpx line count: 37
+[+] Batch completed: Mon Oct 26 12:28:04 UTC 2026
