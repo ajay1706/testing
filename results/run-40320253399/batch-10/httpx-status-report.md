@@ -1,0 +1,50 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:32:19 UTC 2026
+
+HTTPX lines: 21
+Live URLs: 21
+
+## 200
+https://vsvesting.plena.finance [200] [] [799] [Plena Vesting Dashboard] [Vercel] [66.33.60.193] [169.83634ms] [HSTS,Vercel]
+https://solanapay.salmonwallet.io [200] [] [3717] [Solana Pay by Salmon Wallet] [AmazonS3] [3.167.37.107] [cloudfront] [184.579845ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://solana-pay.salmonwallet.io [200] [] [328] [Solana Pay] [Vercel] [216.198.79.67] [236.207333ms] [HSTS,Vercel]
+https://community-testers.salmonwallet.io [200] [] [757] [Salmon Early Access] [Vercel] [64.29.17.65] [244.948738ms] [HSTS,Vercel]
+https://docs.salmonwallet.io [200] [] [33177] [Salmon Wallet Docs - Salmon Wallet Docs] [Vercel] [216.198.79.65] [115.509115ms] [Google Analytics,HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://tgprod.plena.finance [200] [] [891] [Plena] [AmazonS3] [3.171.76.111] [cloudfront] [316.751772ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://pumpwallet.com [200] [] [91475] [Pump Wallet | Trade meme tokens on Solana and earn points] [cloudflare] [104.21.2.65] [cloudflare] [384.60957ms] [Cloudflare,Cloudflare Browser Insights,Framer Sites,HSTS,HTTP/3,React]
+https://deck.salmonwallet.io [200] [] [81446] [Salmon Investor Deck] [Vercel] [64.29.17.65] [703.675064ms] [HSTS,Vercel]
+https://www.salmonwallet.io [200] [] [147194] [Salmon — Open Wallet Infrastructure for Solana] [Vercel] [216.198.79.65] [798.064982ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+http://plena.finance [301] [https://plena.finance/] [162] [301 Moved Permanently] [nginx] [75.2.70.75] [14.221366ms] [Nginx]
+https://noah.plena.finance [301] [https://trynoah.ai] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [34.100.240.31] [google] [1.197510256s] [Nginx:1.24.0,Ubuntu]
+
+## 302
+
+## 307
+https://salmonwallet.io [307] [https://www.salmonwallet.io/] [15] [Vercel] [216.198.79.1] [62.042721ms] [HSTS,Vercel]
+
+## 308
+
+## 401
+
+## 403
+https://cdn.salmonwallet.io [403] [] [111] [AmazonS3] [3.171.100.110] [cloudfront] [128.876143ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://static.salmonwallet.io [403] [] [263] [AmazonS3] [3.167.112.63] [cloudfront] [132.818483ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://content.plena.finance [403] [] [243] [AmazonS3] [18.165.83.66] [cloudfront] [764.837906ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://quest.plena.finance [403] [] [45] [] [13.234.0.39] [1.031606542s]
+
+## 404
+https://app.plena.finance [404] [] [21376] [Page Not Found] [] [199.36.158.100] [52.830204ms] [Firebase,HSTS,HTTP/3]
+https://www.plena.finance [404] [] [906] [404 - Page not found] [cloudflare] [198.202.211.1] [427.759473ms] [Cloudflare,HTTP/3]
+https://docs.noah.plena.finance [404] [] [107] [Vercel] [66.33.60.34] [625.324047ms] [HSTS,Vercel]
+https://actions.salmonwallet.io [404] [] [56] [] [18.160.41.14] [cloudfront] [2.616930648s] [Amazon CloudFront,Amazon Web Services,Express,Node.js]
+
+## 500
+
+## 502
+https://api.salmonwallet.io [502] [] [36] [] [3.171.100.89] [cloudfront] [1.142379563s] [Amazon CloudFront,Amazon Web Services]
+
+## 503
+

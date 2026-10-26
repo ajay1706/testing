@@ -1,0 +1,2 @@
+http://plena.finance [301] [https://plena.finance/] [162] [301 Moved Permanently] [nginx] [75.2.70.75] [14.221366ms] [Nginx]
+https://noah.plena.finance [301] [https://trynoah.ai] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [34.100.240.31] [google] [1.197510256s] [Nginx:1.24.0,Ubuntu]
