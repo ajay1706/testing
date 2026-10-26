@@ -1,0 +1,5 @@
+https://backup.squads.so [301] [https://docs.squads.so/main/additional-resources/what-if-the-squads-app-goes-down/] [0] [AmazonS3] [13.225.222.92] [cloudfront] [247.273452ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://devnet.squads.so [301] [https://squads.xyz/] [0] [CloudFront] [52.84.199.104] [cloudfront] [579.696771ms] [Amazon CloudFront,Amazon Web Services]
+https://testnet.squads.so [301] [https://squads.xyz/] [0] [CloudFront] [52.84.199.89] [cloudfront] [230.567901ms] [Amazon CloudFront,Amazon Web Services]
+https://www.samui.build [301] [https://samui.build/] [167] [301 Moved Permanently] [cloudflare] [104.21.77.63] [cloudflare] [1.12573823s] [Cloudflare]
+https://www.splits.org [301] [https://splits.org/] [15] [Vercel] [216.150.1.193] [4.199932533s] [HSTS,Vercel]
