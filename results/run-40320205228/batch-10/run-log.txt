@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:27:48 UTC 2026
+[+] Run ID: 40320205228
+[+] Batch name: batch-10
+[+] Batch targets:
+ownbit.io
+peakdefi.com
+puzzle.online
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:28:33 UTC 2026
+[+] HTTPX input count: 190
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:28:53 UTC 2026
+[+] httpx line count: 80
+[+] Batch completed: Mon Oct 26 12:28:53 UTC 2026

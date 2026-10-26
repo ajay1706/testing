@@ -1,0 +1,6 @@
+https://app.puzzle.online [301] [https://puzzle.online/] [167] [301 Moved Permanently] [cloudflare] [172.66.149.78] [cloudflare] [88.253193ms] [Cloudflare,HTTP/3]
+https://gov.peakdefi.com [301] [https://peakdefi.com/] [312] [301 Moved Permanently] [Apache/2.4.41 (Ubuntu)] [128.140.123.143] [900.601694ms] [Apache HTTP Server:2.4.41,Ubuntu]
+https://bsc.peakdefi.com [301] [https://bsc.peakdefi.com/investor-portal/] [332] [301 Moved Permanently] [Apache/2.4.41 (Ubuntu)] [128.140.123.143] [1.097179026s] [Apache HTTP Server:2.4.41,Ubuntu]
+https://testnet.puzzle.online [301] [https://404.urbn.com:443/] [0] [cloudflare] [104.20.37.220] [cloudflare] [119.879788ms] [Cloudflare,HTTP/3]
+http://mainnet-nodes.puzzle.online [301] [https://mainnet-nodes.puzzle.online/] [534] [301 Moved Permanently] [cloudflare] [172.66.149.78] [cloudflare] [33.733175ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://testnet-nodes.puzzle.online [301] [https://testnet-nodes.puzzle.online/] [534] [301 Moved Permanently] [cloudflare] [104.20.37.220] [cloudflare] [40.791019ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
