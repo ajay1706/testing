@@ -1,0 +1,39 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-media.subwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] deluge.blockstream.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] deluge.blockstream.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-media.subwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-playground-assistant.kabila.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-onramp.ngrave.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-playground-assistant.kabila.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-onramp.ngrave.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-store.cypherock.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-store.cypherock.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] devnet-stats.xportal.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] devnet-stats.xportal.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] devnet.suiet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] discord.nightly.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] discord.nightly.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dicovertest.ellipal.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.blockstream.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dicovertest.ellipal.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.blockstream.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[s3-username-disclosure] [http] [low] https://docs.kaiawallet.io ["X-Amz-Meta-S3cmd-Attrs: md5:121482979fc0750af81159d32e16036f"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://dnswatcher.security.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://dnswatcher.security.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://dnswatcher.security.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.cosmostation.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.cosmostation.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.cosmostation.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.libcore.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.libcore.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.libcore.ledger.com
+[expired-ssl] [ssl] [low] dev-market.kabila.app:443 ["2026-05-11 21:50:56 +0000 UTC"]
+[expired-ssl] [ssl] [low] dev-token.kabila.app:443 ["2026-03-20 23:46:26 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] devnet-market-api.xportal.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] devnet-market-api.xportal.com:443
+[expired-ssl] [ssl] [low] devnet-offlinejobs.xportal.com:443 ["2026-09-18 23:59:59 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] devnet-private-anlytics.xportal.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] devnet-private-anlytics.xportal.com:443
+[kubernetes-fake-certificate] [ssl] [low] devnet2-growthbook.xportal.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] devnet2-growthbook.xportal.com:443
+[expired-ssl] [ssl] [low] devnet.rpc.canton.nightly.app:443 ["2026-09-01 14:45:02 +0000 UTC"]
