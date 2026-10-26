@@ -1,0 +1,55 @@
+[shellscripts] [http] [low] https://dl.brave.com/install.sh [paths="/install.sh"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dashboard.aktionariat.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dashboard.aktionariat.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dashboard.holdstation.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dashboard.holdstation.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] defi-assets.krystal.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] defi-assets.krystal.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] defi.krystal.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] defi.krystal.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-api.wigwam.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-auth.wigwam.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-enclave.wigwam.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-api.wigwam.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-auth.wigwam.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-enclave.wigwam.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-check.brave.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-in.wigwam.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-in.wigwam.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-check.brave.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-onchain.wigwam.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-walletg.wigwam.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-onchain.wigwam.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-walletg.wigwam.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.bestwallet.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.bestwallet.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] developer-testnet.interlinklabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] developer-testnet.interlinklabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dex-mainnet-api.interlinklabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dex-testnet-api.interlinklabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dex-mainnet-api.interlinklabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dex-testnet-api.interlinklabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.bitizen.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.bitizen.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.fireblocks.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.fireblocks.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[framer-takeover] [http] [high] https://dawnwallet.xyz
+[github-takeover] [http] [high] https://docs.bitizen.org
+[unauthenticated-varnish-cache-purge] [http] [low] https://deeplink.templewallet.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://dev-mobile.bestwallet.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://cr.brave.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://cr.brave.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://cr.brave.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://deeplink.templewallet.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://deeplink.templewallet.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://deeplink.templewallet.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://dev-mobile.bestwallet.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://dev-mobile.bestwallet.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://dev-mobile.bestwallet.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.cloud.krystal.app
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.cloud.krystal.app
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.cloud.krystal.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.bitizen.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.bitizen.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.bitizen.org
+[expired-ssl] [ssl] [low] dbots.avacus.cc:443 ["2026-10-06 06:25:03 +0000 UTC"]
