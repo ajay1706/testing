@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:13:37 UTC 2026
+[+] Run ID: 40320253399
+[+] Batch name: batch-02
+[+] Batch targets:
+decaf.so
+dexari.com
+diamante.io
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:15:24 UTC 2026
+[+] HTTPX input count: 145
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:15:46 UTC 2026
+[+] httpx line count: 48
+[+] Batch completed: Mon Oct 26 12:15:46 UTC 2026
