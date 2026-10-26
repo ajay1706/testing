@@ -1,0 +1,7 @@
+https://aark.digital [301] [https://aark.digital/en/] [0] [] [34.36.124.248] [google] [172.937978ms] [HTTP/3]
+https://landing.aark.digital [301] [https://landing.aark.digital/en] [0] [] [34.110.172.102] [google] [168.915487ms] [HTTP/3]
+https://server-27.aftermath.finance [301] [https://server-27.aftermath.finance/] [178] [301 Moved Permanently] [cloudflare] [172.67.72.75] [cloudflare] [301.29499ms] [Cloudflare]
+https://skills.aftermath.finance [301] [https://github.com/AftermathFinance/skills] [167] [301 Moved Permanently] [cloudflare] [172.67.72.75] [cloudflare] [176.454016ms] [Cloudflare]
+http://validator.sui.mainnet-hotspare.aftermath.finance [301] [https://validator.sui.mainnet-hotspare.aftermath.finance/] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [57.128.47.71] [272.373412ms] [Nginx:1.24.0,Ubuntu]
+https://www.aark.digital [301] [https://www.aark.digital/en/] [0] [] [34.36.124.248] [google] [1.143796058s] [HTTP/3]
+http://walrus-mainnet.aftermath.finance [301] [https://walrus-mainnet.aftermath.finance/] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [57.129.64.138] [7.2633995s] [Nginx:1.24.0,Ubuntu]

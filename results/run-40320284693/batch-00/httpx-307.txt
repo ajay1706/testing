@@ -1,0 +1,5 @@
+https://aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [172.67.72.75] [cloudflare] [394.924227ms] [Cloudflare,HSTS]
+https://docs.aevo.xyz [307] [https://www.aevo.xyz/docs/] [15] [cloudflare] [104.18.40.47] [cloudflare] [191.446918ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+http://server-18.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [nginx/1.31.6] [57.129.36.239] [247.423073ms] [HSTS,Nginx:1.31.6]
+https://testnet.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [172.67.72.75] [cloudflare] [4.280595865s] [Cloudflare]
+https://www.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [104.26.7.96] [cloudflare] [1.413514841s] [Cloudflare,HSTS]

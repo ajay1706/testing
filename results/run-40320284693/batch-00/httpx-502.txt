@@ -1,0 +1,7 @@
+https://bridge.sui.testnet.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [650.912389ms] [Nginx:1.24.0,Ubuntu]
+https://server-1.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.47.71] [479.461562ms] [Nginx:1.24.0,Ubuntu]
+https://server-6.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [51.178.74.185] [446.958709ms] [Nginx:1.18.0,Ubuntu]
+https://server-7.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [51.178.134.23] [483.462203ms] [Nginx:1.18.0,Ubuntu]
+https://server-4.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [656.799449ms] [Nginx:1.24.0,Ubuntu]
+https://validator.sui.testnet.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [362.077753ms] [Nginx:1.24.0,Ubuntu]
+https://validator.monad.testnet.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.230.73] [2.411311021s] [Nginx:1.24.0,Ubuntu]
