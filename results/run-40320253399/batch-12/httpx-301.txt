@@ -1,0 +1,6 @@
+http://autodiscover.talken.io [301] [https://autodiscover.talken.io/] [0] [Microsoft-HTTPAPI/2.0] [40.99.226.136] [51.626981ms] [Microsoft HTTPAPI:2.0]
+https://api.talken.io [301] [https://api.talken.io/api/v1/docs] [162] [301 Moved Permanently] [nginx] [133.186.143.102] [1.012241193s] [Nginx]
+https://admin.talken.io [301] [https://wallet.talken.io/] [162] [301 Moved Permanently] [nginx] [133.186.143.102] [1.385014898s] [Nginx]
+https://talken.io [301] [https://wallet.talken.io/] [162] [301 Moved Permanently] [nginx] [133.186.143.102] [673.557016ms] [Nginx]
+https://www.sspwallet.io [301] [https://sspwallet.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.17.215] [cloudflare] [89.642756ms] [Cloudflare,HSTS]
+https://www.talken.io [301] [https://wallet.talken.io/] [162] [301 Moved Permanently] [nginx] [133.186.143.102] [814.098914ms] [Nginx]

@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:32:37 UTC 2026
+[+] Run ID: 40320253399
+[+] Batch name: batch-12
+[+] Batch targets:
+sspwallet.io
+talken.io
+tiduswallet.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:33:39 UTC 2026
+[+] HTTPX input count: 153
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:33:59 UTC 2026
+[+] httpx line count: 63
+[+] Batch completed: Mon Oct 26 12:33:59 UTC 2026
