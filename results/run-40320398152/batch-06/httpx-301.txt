@@ -1,0 +1,3 @@
+http://autodiscover.sunx.io [301] [https://autodiscover.sunx.io/] [0] [Microsoft-HTTPAPI/2.0] [52.96.163.24] [19.431263ms] [Microsoft HTTPAPI:2.0]
+http://autodiscover.unruggable.io [301] [https://autodiscover.unruggable.io/] [0] [Microsoft-HTTPAPI/2.0] [52.96.157.104] [23.678739ms] [Microsoft HTTPAPI:2.0]
+https://sunx.io [301] [https://www.sunx.io/] [166] [301 Moved Permanently] [openresty] [13.196.134.58] [533.380508ms] [Nginx,OpenResty]
