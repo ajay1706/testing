@@ -1,0 +1,8 @@
+http://3app.wigwam.orgorg.wigwam.app [301] [https://3app.wigwam.orgorg.wigwam.app/] [534] [301 Moved Permanently] [cloudflare] [172.67.142.220] [cloudflare] [25.260695ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://staging-api5.test.wigwam.app [301] [https://staging-api5.test.wigwam.app/] [534] [301 Moved Permanently] [cloudflare] [172.67.142.220] [cloudflare] [47.644321ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://3app.wigwam.coco.wigwam.app [301] [https://3app.wigwam.coco.wigwam.app/] [534] [301 Moved Permanently] [cloudflare] [104.21.46.215] [cloudflare] [57.873226ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://www.blog.wigwam.app [301] [https://www.blog.wigwam.app/] [534] [301 Moved Permanently] [cloudflare] [172.67.142.220] [cloudflare] [39.57605ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://wigwam.orgorg.wigwam.app [301] [https://wigwam.orgorg.wigwam.app/] [534] [301 Moved Permanently] [cloudflare] [104.21.46.215] [cloudflare] [57.239736ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://wigwam.coco.wigwam.app [301] [https://wigwam.coco.wigwam.app/] [534] [301 Moved Permanently] [cloudflare] [172.67.142.220] [cloudflare] [68.302072ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.test-web.wigwam.app [301] [https://www.test-web.wigwam.app/] [534] [301 Moved Permanently] [cloudflare] [172.67.142.220] [cloudflare] [46.982094ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.wigwam.app [301] [https://wigwam.app/] [534] [301 Moved Permanently] [cloudflare] [104.21.46.215] [cloudflare] [110.352548ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
