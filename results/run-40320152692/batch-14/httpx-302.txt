@@ -1,0 +1,4 @@
+https://support.valoraapp.com [302] [https://support.valoraapp.com/hc] [0] [cloudflare] [216.198.53.6] [107.258595ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://valoraapp.com [302] [https://valora.xyz] [0] [Squarespace] [198.49.23.145] [316.001587ms] [Squarespace,Squarespace Commerce]
+https://www.valoraapp.com [302] [https://valora.xyz] [0] [Squarespace] [198.49.23.144] [412.278892ms] [Squarespace,Squarespace Commerce]
+http://api-pop.universaleverything.io [302] [https://api-pop.universaleverything.io/] [0] [Google Frontend] [142.251.219.179] [google] [172.370283ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
