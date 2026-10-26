@@ -1,0 +1,3 @@
+https://private-mainnet-app.leverup.xyz [301] [https://app.leverup.xyz/] [15] [cloudflare] [104.21.25.62] [cloudflare] [195.119595ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.fulcrom.finance [301] [https://fulcrom.finance/] [167] [301 Moved Permanently] [cloudflare] [104.18.15.176] [cloudflare] [172.526531ms] [Cloudflare,HSTS]
+https://www.euphoria.finance [301] [https://euphoria.finance/] [40] [] [199.36.158.100] [262.455841ms] [Firebase,HTTP/3]

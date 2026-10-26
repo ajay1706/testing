@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:23:43 UTC 2026
+[+] Run ID: 40320398152
+[+] Batch name: batch-01
+[+] Batch targets:
+euphoria.finance
+fulcrom.finance
+leverup.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:25:48 UTC 2026
+[+] HTTPX input count: 139
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:26:11 UTC 2026
+[+] httpx line count: 42
+[+] Batch completed: Mon Oct 26 12:26:11 UTC 2026
