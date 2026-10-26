@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:26:22 UTC 2026
+[+] Run ID: 40319919508
+[+] Batch name: batch-10
+[+] Batch targets:
+okx.com
+onto.app
+phantom.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:28:01 UTC 2026
+[+] HTTPX input count: 758
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:31:23 UTC 2026
+[+] httpx line count: 63
+[+] Batch completed: Mon Oct 26 12:31:23 UTC 2026
