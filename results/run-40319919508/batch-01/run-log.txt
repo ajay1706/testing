@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:07:34 UTC 2026
+[+] Run ID: 40319919508
+[+] Batch name: batch-01
+[+] Batch targets:
+backpack.app
+base.app
+binance.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:09:52 UTC 2026
+[+] HTTPX input count: 17484
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:14:31 UTC 2026
+[+] httpx line count: 17361
+[+] Batch completed: Mon Oct 26 12:14:31 UTC 2026
