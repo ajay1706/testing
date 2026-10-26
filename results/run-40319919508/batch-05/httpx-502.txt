@@ -1,0 +1,7 @@
+https://authws.crypto.com [502] [] [16] [cloudflare] [104.19.222.17] [cloudflare] [6.343677607s] [Cloudflare,HTTP/3]
+https://logindb-backup2.edge.app [502] [] [0] [Caddy] [46.101.9.223] [6.270899962s] [Caddy]
+https://m12-t8ks94w9gu-market-stream.crypto.com [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [18.67.76.25] [cloudfront] [4.573676994s] [Amazon CloudFront,Amazon Web Services]
+https://monitor1.edge.app [502] [] [0] [Caddy] [147.182.198.226] [6.232356757s] [Caddy,HTTP/3]
+https://pay-pusher.crypto.com [502] [] [557] [502 Bad Gateway] [cloudflare] [104.19.222.17] [cloudflare] [6.354533763s] [Cloudflare]
+https://privacy.crypto.com [502] [] [16] [cloudflare] [104.19.222.17] [cloudflare] [3.047860107s] [Cloudflare,HTTP/3]
+https://sync-tester-eu.edge.app [502] [] [0] [Caddy] [138.68.140.155] [2.300832358s] [Caddy,HTTP/3]
