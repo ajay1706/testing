@@ -1,0 +1,8 @@
+https://api.getclave.io [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [3.167.69.74] [cloudfront] [33.087048ms] [Amazon CloudFront,Amazon Web Services]
+https://bscbook.guarda.com [403] [] [146] [403 Forbidden] [cloudflare] [172.66.166.133] [cloudflare] [410.791496ms] [Cloudflare,HSTS]
+https://content.guarda.com [403] [] [146] [403 Forbidden] [cloudflare] [104.20.41.37] [cloudflare] [429.845055ms] [Cloudflare,HSTS]
+https://cdn.getclave.io [403] [] [111] [AmazonS3] [13.35.78.55] [cloudfront] [451.028673ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://ethw-book.guarda.com [403] [] [146] [403 Forbidden] [cloudflare] [172.66.166.133] [cloudflare] [725.486733ms] [Cloudflare,HSTS]
+https://maticbook.guarda.com [403] [] [146] [403 Forbidden] [cloudflare] [104.20.41.37] [cloudflare] [747.040252ms] [Cloudflare,HSTS]
+https://support.gemwallet.com [403] [] [146] [403 Forbidden] [cloudflare] [172.67.68.98] [cloudflare] [246.368825ms] [Cloudflare,HTTP/3]
+https://plausible.gemwallet.com [403] [] [146] [403 Forbidden] [cloudflare] [104.26.1.14] [cloudflare] [387.811898ms] [Cloudflare,HTTP/3]
