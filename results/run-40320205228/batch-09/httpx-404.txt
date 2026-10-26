@@ -1,0 +1,2 @@
+https://assets.nabox.io [404] [] [153] [404 Not Found] [nginx/1.25.4] [13.214.10.225] [701.199441ms] [Nginx:1.25.4]
+https://api.v2.nabox.io [404] [] [431] [HTTP Status 404 – Not Found] [nginx/1.25.4] [13.214.10.225] [761.717454ms] [Nginx:1.25.4]
