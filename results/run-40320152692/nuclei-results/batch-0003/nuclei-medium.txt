@@ -1,0 +1,2 @@
+[CVE-2023-5561] [http] [medium] https://bestwallet.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[prometheus-metrics] [http] [medium] https://backend.demo.mainnet.pagotic.xcapit.com/metrics
