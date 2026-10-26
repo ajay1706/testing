@@ -1,0 +1,5 @@
+http://autodiscover.internetmoney.io [301] [https://autodiscover.internetmoney.io/] [0] [Microsoft-HTTPAPI/2.0] [52.96.87.200] [4.145107ms] [Microsoft HTTPAPI:2.0]
+https://docs.joeywallet.xyz [301] [https://joeywallet.xyz/docs] [167] [301 Moved Permanently] [cloudflare] [172.67.198.156] [cloudflare] [91.126192ms] [Cloudflare]
+https://www.joeywallet.xyz [301] [https://joeywallet.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.21.123] [cloudflare] [123.429193ms] [Cloudflare]
+http://mailsrv.ironwallet.io [301] [https://mailsrv.ironwallet.io/] [528] [301 Moved Permanently] [cloudflare] [172.67.73.25] [cloudflare] [58.781752ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://pay.joeywallet.xyz [301] [https://pay.joeywallet.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.198.156] [cloudflare] [43.849363ms] [Cloudflare,HTTP/2]
