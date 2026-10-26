@@ -1,0 +1,4 @@
+https://documentation.fordefi.com [302] [https://documentation.fordefi.com/redoc] [0] [CloudFront] [3.169.173.116] [cloudfront] [212.741982ms] [Amazon CloudFront,Amazon Web Services]
+https://auth.preprod.fordefi.com [302] [https://preprod.fordefi.com/] [50] [cloudflare] [172.64.144.74] [cloudflare] [485.190168ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.fordefi.com [302] [https://fordefi.com/] [42] [cloudflare] [172.64.144.74] [cloudflare] [699.230591ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://support.esignus.com [302] [https://support.esignus.com/hc] [0] [cloudflare] [216.198.54.6] [325.05067ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
