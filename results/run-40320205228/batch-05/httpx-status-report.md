@@ -1,0 +1,111 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:20:58 UTC 2026
+
+HTTPX lines: 86
+Live URLs: 86
+
+## 200
+https://app.family.co [200] [] [32506] [Aave Account] [cloudflare] [104.18.23.205] [cloudflare] [327.941223ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://auth.freedom.world [200] [] [0] [awselb/2.0] [52.84.217.101] [cloudfront] [869.688879ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://blog.fizen.io [200] [] [171263] [Fizen Blogs] [cloudflare] [104.21.44.206] [cloudflare] [123.692094ms] [Cloudflare,Cloudflare Browser Insights,Ghost:6.73,Google Analytics,Google Tag Manager,HTTP/3,Node.js,Varnish,jsDelivr]
+https://connect.family.co [200] [] [1619] [Redirecting...] [cloudflare] [104.18.23.205] [cloudflare] [246.95569ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://console.freedom.world [200] [] [1460] [Freedom Console] [cloudflare] [104.18.28.210] [cloudflare] [805.486371ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Omise]
+https://dev-api-giftcard.fizen.io [200] [] [33] [cloudflare] [172.67.203.178] [cloudflare] [835.81331ms] [Cloudflare,HSTS,HTTP/3]
+https://card.fizen.io [200] [] [93388] [Fizen Card – USDT Visa Card for Global Spending] [cloudflare] [172.67.203.178] [cloudflare] [1.048141855s] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,RxJS,Webpack]
+https://docs.fizen.io [200] [] [146783] [About Fizen - Fizen Docs] [cloudflare] [104.21.44.206] [cloudflare] [4.205887921s] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://fizen.io [200] [] [138228] [USDT Wallet, Travel eSIM, QR Pay | Fizen Crypto Neobank] [AmazonS3] [18.245.113.41] [cloudfront] [1.791146105s] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://giftcard-api.fizen.io [200] [] [33] [cloudflare] [104.21.44.206] [cloudflare] [1.883714111s] [Cloudflare,HSTS,HTTP/3]
+https://family.co [200] [] [679407] [Family] [cloudflare] [104.18.23.205] [cloudflare] [3.258773978s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Plausible,Vercel]
+https://pay-faqs.fizen.io [200] [] [375459] [General | Fizen Pay - FAQs] [cloudflare] [172.64.147.209] [cloudflare] [2.330586324s] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://pay-apidocs.fizen.io [200] [] [381488] [Introduction | Fizen Pay API Documents] [cloudflare] [172.64.147.209] [cloudflare] [3.297916487s] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://nft.freedom.world [200] [] [88122] [Freedom NFT | Discover Utility NFTs for Web3 and Beyond] [cloudflare] [104.18.29.210] [cloudflare] [6.019324234s] [C3.js,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://pay.fizen.io [200] [] [54568] [Fizen Pay] [AmazonS3] [108.156.245.115] [cloudfront] [2.07623441s] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://pay.freedom.world [200] [] [1875] [cloudflare] [104.18.29.210] [cloudflare] [1.810221347s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Next.js,Node.js,Omise,React,Webpack]
+https://support.freedom.world [200] [] [26236] [Freedom World — Support] [Vercel] [66.33.60.129] [261.859843ms] [HSTS,Vercel]
+https://wallets-api.family.co [200] [] [9618] [Family Wallets API] [cloudflare] [104.18.22.205] [cloudflare] [237.105963ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://wallets-api.staging.family.co [200] [] [9618] [Family Wallets API] [cloudflare] [104.18.23.205] [cloudflare] [285.312024ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://wallet.fizen.io [200] [] [2] [cloudflare] [172.67.203.178] [cloudflare] [831.331981ms] [Cloudflare,Express,HTTP/3,Node.js]
+
+## 301
+https://blog.freedom.world [301] [/blog] [5] [cloudflare] [104.18.28.210] [cloudflare] [888.218006ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://explore.freedom.world [301] [https://explore.freedom.world/] [169] [301 Moved Permanently] [Fly/331937a822 (2026-10-23)] [213.188.193.98] [97.795968ms] [Fly.io]
+http://api.family.co [301] [https://api.family.co/] [528] [301 Moved Permanently] [cloudflare] [104.18.23.205] [cloudflare] [37.376797ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://pocket.family.co [301] [https://pocket.family.co/] [528] [301 Moved Permanently] [cloudflare] [104.18.23.205] [cloudflare] [49.834362ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.freedom.world [301] [https://freedom.world/] [167] [301 Moved Permanently] [cloudflare] [104.18.28.210] [cloudflare] [4.113232369s] [Cloudflare,HSTS]
+http://www.family.co [301] [https://www.family.co/] [528] [301 Moved Permanently] [cloudflare] [104.18.23.205] [cloudflare] [103.558164ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+
+## 307
+
+## 308
+https://docs.family.co [308] [https://family.co/docs/] [15] [cloudflare] [104.18.23.205] [cloudflare] [229.95163ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+http://kingdom-siege.app.freedom.world [308] [https://kingdom-siege.app.freedom.world/] [14] [Vercel] [76.76.21.123] [467.513993ms] [Vercel]
+http://face.freedom.world [308] [https://face.freedom.world/] [14] [Vercel] [66.33.60.193] [3.301042138s] [Vercel]
+http://kingshot.app.freedom.world [308] [https://kingshot.app.freedom.world/] [14] [Vercel] [76.76.21.164] [329.246889ms] [Vercel]
+
+## 401
+
+## 403
+https://gateway.freedom.world [403] [] [23] [cloudflare] [104.18.29.210] [cloudflare] [3.813365116s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://public.freedom.world [403] [] [111] [AmazonS3] [13.32.115.106] [cloudfront] [835.835055ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://statics.app.family.co [403] [] [263] [cloudflare] [104.18.23.205] [cloudflare] [279.254855ms] [Amazon Web Services,Cloudflare,HSTS,HTTP/3]
+https://web.freedom.world [403] [] [17] [cloudflare] [199.60.103.254] [106.664025ms] [Cloudflare,HSTS]
+http://www.fizen.io [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.245.113.38] [cloudfront] [20.186903ms] [Amazon CloudFront,Amazon Web Services]
+
+## 404
+https://app.freedom.world [404] [] [107] [Vercel] [76.76.21.164] [435.364301ms] [HSTS,Vercel]
+https://baansuancom.app.freedom.world [404] [] [107] [Vercel] [76.76.21.98] [505.355686ms] [HSTS,Vercel]
+https://bean-scene-2.app.freedom.world [404] [] [107] [Vercel] [76.76.21.123] [559.949081ms] [HSTS,Vercel]
+https://bean-scene.app.freedom.world [404] [] [107] [Vercel] [66.33.60.67] [526.45261ms] [HSTS,Vercel]
+https://api-customer-notification.fizen.io [404] [] [19] [cloudflare] [172.67.203.178] [cloudflare] [803.403915ms] [Cloudflare,HTTP/3]
+https://build.freedom.world [404] [] [101] [railway-hikari] [69.46.46.102] [296.554368ms]
+https://debug-test.app.freedom.world [404] [] [107] [Vercel] [76.76.21.123] [438.187562ms] [HSTS,Vercel]
+https://diag-cafe.app.freedom.world [404] [] [107] [Vercel] [76.76.21.123] [2.520722919s] [HSTS,Vercel]
+https://dragon-keep-defenders.app.freedom.world [404] [] [107] [Vercel] [66.33.60.129] [3.408762367s] [HSTS,Vercel]
+https://dragon-keep-defenders-2.app.freedom.world [404] [] [107] [Vercel] [66.33.60.35] [4.447503113s] [HSTS,Vercel]
+https://experimental.family.co [404] [] [0] [cloudflare] [104.18.22.205] [cloudflare] [4.270181228s] [Cloudflare,HSTS,HTTP/3]
+https://merchant-testmode.fizen.io [404] [] [19] [cloudflare] [104.21.44.206] [cloudflare] [1.797575704s] [Cloudflare,HTTP/3]
+https://link.fizen.io [404] [] [16] [cloudflare] [104.21.44.206] [cloudflare] [2.876051744s] [Cloudflare,Express,HTTP/3,Node.js]
+https://kingdom-rush-ironhide-game-studio.app.freedom.world [404] [] [107] [Vercel] [66.33.60.129] [4.4712719s] [HSTS,Vercel]
+https://merchant-sandbox.fizen.io [404] [] [19] [cloudflare] [104.21.44.206] [cloudflare] [4.863336199s] [Cloudflare,HTTP/3]
+https://siege-cats-2.app.freedom.world [404] [] [107] [Vercel] [66.33.60.130] [481.719151ms] [HSTS,Vercel]
+https://siege-cats.app.freedom.world [404] [] [107] [Vercel] [66.33.60.129] [446.295711ms] [HSTS,Vercel]
+https://sandbox-employee-card-server.fizen.io [404] [] [19] [cloudflare] [104.21.44.206] [cloudflare] [812.579196ms] [Cloudflare,HTTP/3]
+https://pay-sandbox.fizen.io [404] [] [19] [cloudflare] [104.21.44.206] [cloudflare] [2.744904619s] [Cloudflare,HTTP/3]
+https://sandbox-esim-gateway-server.fizen.io [404] [] [145] [cloudflare] [172.67.203.178] [cloudflare] [831.59385ms] [Cloudflare,HSTS,HTTP/3]
+https://siege-cats-v3.app.freedom.world [404] [] [107] [Vercel] [66.33.60.35] [630.986494ms] [HSTS,Vercel]
+https://token-logos.family.co [404] [] [0] [cloudflare] [104.18.23.205] [cloudflare] [218.838212ms] [Cloudflare,HSTS,HTTP/3]
+https://token-logos.staging.family.co [404] [] [0] [cloudflare] [104.18.23.205] [cloudflare] [240.804945ms] [Cloudflare,HSTS,HTTP/3]
+https://sandbox-esim-web-server.fizen.io [404] [] [145] [cloudflare] [172.67.203.178] [cloudflare] [819.930446ms] [Cloudflare,HSTS,HTTP/3]
+https://test.app.freedom.world [404] [] [107] [Vercel] [66.33.60.34] [397.15381ms] [HSTS,Vercel]
+https://test-diag.app.freedom.world [404] [] [107] [Vercel] [66.33.60.66] [455.742936ms] [HSTS,Vercel]
+https://wallets.staging.family.co [404] [] [0] [cloudflare] [104.18.23.205] [cloudflare] [228.356395ms] [Cloudflare,HSTS,HTTP/3]
+https://wallets.family.co [404] [] [0] [cloudflare] [104.18.22.205] [cloudflare] [239.792457ms] [Cloudflare,HSTS,HTTP/3]
+https://token-test.app.freedom.world [404] [] [107] [Vercel] [76.76.21.142] [444.527217ms] [HSTS,Vercel]
+https://venezia-italian-restaurant.app.freedom.world [404] [] [107] [Vercel] [76.76.21.22] [502.936427ms] [HSTS,Vercel]
+https://wheels.app.freedom.world [404] [] [107] [Vercel] [66.33.60.35] [409.009754ms] [HSTS,Vercel]
+https://url.fizen.io [404] [] [19] [cloudflare] [172.67.203.178] [cloudflare] [735.057305ms] [Cloudflare,HTTP/3]
+https://your-app-2.app.freedom.world [404] [] [107] [Vercel] [66.33.60.35] [423.855563ms] [HSTS,Vercel]
+https://your-app.app.freedom.world [404] [] [107] [Vercel] [76.76.21.142] [475.289821ms] [HSTS,Vercel]
+https://your-app-3.app.freedom.world [404] [] [107] [Vercel] [76.76.21.93] [1.413176411s] [HSTS,Vercel]
+
+## 500
+
+## 502
+https://admin-portal.fizen.io [502] [] [16] [cloudflare] [172.67.203.178] [cloudflare] [771.005346ms] [Cloudflare,HTTP/3]
+https://admin-portal-sandbox.fizen.io [502] [] [16] [cloudflare] [104.21.44.206] [cloudflare] [786.872801ms] [Cloudflare,HTTP/3]
+https://accounts-internal-sandbox.fizen.io [502] [] [16] [cloudflare] [172.67.203.178] [cloudflare] [807.968587ms] [Cloudflare,HTTP/3]
+https://accounts-internal.fizen.io [502] [] [16] [cloudflare] [104.21.44.206] [cloudflare] [832.343767ms] [Cloudflare,HTTP/3]
+https://api-sandbox.fizen.io [502] [] [16] [cloudflare] [104.21.44.206] [cloudflare] [845.551825ms] [Cloudflare,HTTP/3]
+https://merchant.fizen.io [502] [] [16] [cloudflare] [104.21.44.206] [cloudflare] [2.767523785s] [Cloudflare,HTTP/3]
+https://pay-api.fizen.io [502] [] [16] [cloudflare] [172.67.203.178] [cloudflare] [1.77521503s] [Cloudflare,HTTP/3]
+https://pay-ramp-sandbox.fizen.io [502] [] [16] [cloudflare] [172.67.203.178] [cloudflare] [831.345453ms] [Cloudflare,HTTP/3]
+https://oauth.fizen.io [502] [] [16] [cloudflare] [104.21.44.206] [cloudflare] [4.730963052s] [Cloudflare,HTTP/3]
+https://pay-ramp-api-sandbox.fizen.io [502] [] [16] [cloudflare] [104.21.44.206] [cloudflare] [2.765253304s] [Cloudflare,HTTP/3]
+https://pay-ramp-api.fizen.io [502] [] [16] [cloudflare] [104.21.44.206] [cloudflare] [3.74359947s] [Cloudflare,HTTP/3]
+https://pay-ramp.fizen.io [502] [] [16] [cloudflare] [104.21.44.206] [cloudflare] [3.065386811s] [Cloudflare,HTTP/3]
+
+## 503
+
