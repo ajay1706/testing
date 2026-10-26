@@ -1,0 +1,60 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] offers.brave.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] offers.brave.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ota-production.interlinklabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] orgorg.wigwam.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ota-production.interlinklabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] orgorg.wigwam.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] p2p.1.us.bootnode.matrix.blockchain.enjin.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] p2p.1.us.bootnode.matrix.blockchain.enjin.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] p2p.1.eu.bootnode.matrix.blockchain.enjin.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] p2p.1.us.bootnode.matrix.canary.enjin.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] norge-stream-v2.okto.tech:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] p2p.1.eu.bootnode.relay.blockchain.enjin.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] p2p.1.us.bootnode.matrix.canary.enjin.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] p2p.1.us.bootnode.relay.blockchain.enjin.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] p2p.1.us.bootnode.relay.canary.enjin.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] p2p.2.us.bootnode.matrix.canary.enjin.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] p2p.1.us.bootnode.relay.blockchain.enjin.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] p2p.1.eu.bootnode.matrix.blockchain.enjin.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] p2p.2.us.bootnode.relay.canary.enjin.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] p2p.2.us.bootnode.matrix.canary.enjin.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] p2p.1.us.bootnode.relay.canary.enjin.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] p2p.1.eu.bootnode.relay.blockchain.enjin.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] p2p.2.us.bootnode.relay.canary.enjin.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pay-api.holdstation.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pay-api.holdstation.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] norge-stream-v2.okto.tech:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pcdn-origin.brave.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pcdn-origin.brave.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] playlist.brave.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] playlist.brave.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] points.coca.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] points.coca.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] preview.wigwam.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] preview.wigwam.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] prod.interlinklabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] prod.interlinklabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] prom.coca.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] prometheus-ma.interlinklabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] prom.coca.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] prometheus-ma.interlinklabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] public.interlinklabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] public.interlinklabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://ponder.aktionariat.com/metrics
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ohttp.metrics.brave.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ohttp.metrics.brave.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ohttp.metrics.brave.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ohttp.ads.brave.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ohttp.ads.brave.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ohttp.ads.brave.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://p3a-json.brave.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://p3a-json.brave.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://p3a-json.brave.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://p3a-creative.brave.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://p3a-creative.brave.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://p3a-creative.brave.com
+[google-api-key] [http] [low] https://pop.universaleverything.io ["AIzaSyC1eE2MmUPijPewCDxJDSvxlQMx6pmCCko"]
+[google-api-key] [http] [low] https://pop.universaleverything.io/hopfully404 ["AIzaSyC1eE2MmUPijPewCDxJDSvxlQMx6pmCCko"]
+[graphiql-exposure] [http] [low] https://platform.enjin.io/graphiql
+[postgres-exporter-metrics] [http] [low] https://ponder.aktionariat.com/metrics
+[expired-ssl] [ssl] [low] pay.dawnwallet.xyz:443 ["2024-10-28 06:14:29 +0000 UTC"]
