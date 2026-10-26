@@ -1,0 +1,2 @@
+https://api.nightly.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [511.845022ms] [Nginx:1.18.0,Ubuntu]
+https://trackall.nightly.app [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [629.242153ms] [Nginx:1.18.0,Ubuntu]

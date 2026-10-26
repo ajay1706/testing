@@ -1,0 +1,4 @@
+https://fullnode.mainnet.aptos.nightly.app [503] [] [3492] [Site not available] [] [176.9.65.222] [465.55334ms] [HTTP/3]
+https://index.mainnet.aptos.nightly.app [503] [] [3492] [Site not available] [] [176.9.65.222] [547.815351ms] [HTTP/3]
+https://movement.galxe.nightly.app [503] [] [20] [] [128.140.58.26] [507.816811ms] [HTTP/3]
+https://www.fullnode.mainnet.aptos.nightly.app [503] [] [3492] [Site not available] [] [176.9.65.222] [1.555837668s] [HTTP/3]
