@@ -1,0 +1,4 @@
+[CVE-2023-1496] [http] [medium] https://img.templewallet.com/unsafe/plain/https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+[CVE-2023-30019] [http] [medium] https://img.templewallet.com/111/rs:fit:400:400:0:0/plain/http://dbfnsvqs1aajgcn0poag4fj6c6kku9azk.oast.site
+[CVE-2023-30019] [http] [medium] https://img.templewallet.com/111/rs:fit:400:400:0:0/plain/http://dbfnsvqs1aajgcn0poag4fj6c6kku9azk.oast.site
+[CVE-2025-24354] [http] [medium] https://img.templewallet.com/unsafe/plain/http://dbfnsvqs1aajgcn0poagc7yb3ecow1x68.oast.site
