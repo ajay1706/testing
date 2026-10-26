@@ -1,0 +1,34 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] btcpayserver.blockstream.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] btcpayserver.blockstream.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cantonswap.nightly.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] captcha.nightly.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cantonswap.nightly.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] captcha.nightly.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] captcha.kabila.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] captcha.kabila.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.blockstream.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.hashpack.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.blockstream.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.hashpack.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.kabila.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.kabila.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.nightly.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.nightly.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cgp.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cgp.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] checkmystake.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] checkmystake.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] coinbase-api.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] coinbase-api.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[netlify-headers-config-exposure] [http] [low] https://codecov.dev.cloud.ngrave.io/_headers
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://cdn.endpoints.security.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://cdn.endpoints.security.ledger.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://cdn.endpoints.security.ledger.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://cdn.live.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://cdn.live.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://cdn.live.ledger.com
+[google-api-key] [http] [low] https://careers.ledger.com ["AIzaSyA5VpLGuSK3kQmpGOORml9ke4bUeF2KMhw"]
+[google-api-key] [http] [low] https://checkout.tangem.com/hopfully404 ["AIzaSyCVMcYLHpv9MjBgN44s5saYPRwLLdam0mo"]
+[package-json] [http] [low] https://ca-demo.subwallet.app/package.json
+[expired-ssl] [ssl] [low] cat-test.foundry.airgap.it:443 ["2026-09-17 09:50:50 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] cms.klever.io:443
