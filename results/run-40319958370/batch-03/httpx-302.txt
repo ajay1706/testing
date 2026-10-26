@@ -1,0 +1,6 @@
+https://account.ellipal.com [302] [https://account.ellipal.com/authentication/oauth/authorize?client_id=95a058ee-3e30-4c25-b993-59ca632a54b8&locale=en-US&nonce=e003a3cf-ee56-42eb-9ee5-7b000c71106c&redirect_uri=https%3A%2F%2Faccount.ellipal.com%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNIPplwkgR9BtaoAwbNuQrp] [0] [cloudflare] [23.227.38.74] [297.675486ms] [Cloudflare,HSTS,HTTP/3]
+https://dev-sentry.dcentwallet.com [302] [/auth/login/] [0] [nginx] [15.164.9.1] [480.696784ms] [Nginx]
+https://kr-order-status.dcentwallet.com [302] [https://shopify.com/55159783563/account] [0] [cloudflare] [23.227.38.74] [251.672847ms] [Cloudflare,HSTS,HTTP/3]
+https://order-status.dcentwallet.com [302] [https://shopify.com/31636488330/account] [0] [cloudflare] [23.227.38.74] [221.137958ms] [Cloudflare,HSTS,HTTP/3]
+https://link.dcentwallet.com [302] [https://dcentwallet.onelink.me/qSks?af_dp=dcent%3A%2F%2Fdcentwallet.com%2Flink&deep_link_value=dcent%3A%2F%2Fdcentwallet.com%2Flink&af_web_dp=https%3A%2F%2Flink.dcentwallet.com%2Fqrcode%3Flink%3D%252F] [222] [] [3.36.161.214] [618.956372ms] [Express,Node.js]
+https://oicd.cypherock.com [302] [https://oicd.cypherock.com/admin/] [0] [cloudflare] [172.67.145.16] [cloudflare] [672.794145ms] [Cloudflare,HSTS,HTTP/3]

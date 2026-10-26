@@ -1,0 +1,95 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:10:01 UTC 2026
+
+HTTPX lines: 67
+Live URLs: 67
+
+## 200
+https://academy.dcentwallet.com [200] [] [24843] [Welcome to the DCENT Academy | DCENT Academy] [AmazonS3] [52.84.20.81] [cloudfront] [84.297429ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Docusaurus:3.10.0,React,Webpack]
+https://affiliates.dcentwallet.com [200] [] [1503] [nginx/1.28.0] [76.223.38.176] [182.186541ms] [Nginx:1.28.0]
+https://dev-docs.dcentwallet.com [200] [] [26955] [Introduction | DCENT Developer Guide] [AmazonS3] [65.8.20.73] [cloudfront] [209.792427ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Docusaurus:3.10.0,React,Webpack]
+https://affiliates-kr.dcentwallet.com [200] [] [37652] [Affiliate program] [nginx/1.28.0] [76.223.38.176] [254.128636ms] [Nginx:1.28.0]
+https://api.cypherock.com [200] [] [17] [cloudflare] [104.21.73.137] [cloudflare] [599.363918ms] [Cloudflare,HSTS,HTTP/3]
+https://dev-x-v5wallet.dcentwallet.com [200] [] [14102] [D'CENT Wallet] [AmazonS3] [65.8.20.126] [cloudfront] [576.55626ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://bridge.dcentwallet.com [200] [] [2934] [D'CENT Bridge Service] [AmazonS3] [99.84.41.69] [cloudfront] [523.692614ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,C3.js]
+https://alpha-v5wallet.dcentwallet.com [200] [] [18311] [D'CENT Wallet] [AmazonS3] [3.169.231.109] [cloudfront] [617.320699ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://docs.cypherock.com [200] [] [375274] [Introduction | Cypherock] [cloudflare] [172.64.147.209] [cloudflare] [289.046308ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://gas-admin-dev.dcentwallet.com [200] [] [8880] [쿠폰 어드민 대시보드] [AmazonS3] [52.84.20.34] [cloudfront] [571.323347ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://gas-admin-stage.dcentwallet.com [200] [] [8882] [쿠폰 어드민 대시보드] [AmazonS3] [18.155.173.123] [cloudfront] [657.79497ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://gas-admin.dcentwallet.com [200] [] [8882] [쿠폰 어드민 대시보드] [AmazonS3] [52.85.132.82] [cloudfront] [657.709932ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://play.dcentwallet.com [200] [] [85654] [DCENT S — Nothing Stays Lost (Interactive Film)] [cloudflare] [172.66.47.43] [cloudflare] [160.190115ms] [Adobe Fonts,Cloudflare,Google Analytics,HTTP/3,Typekit]
+https://enterprise.dcentwallet.com [200] [] [142179] [DCENT Enterprise | 기관을 위한 디지털자산 콜드월렛 솔루션] [AmazonS3] [18.154.132.63] [cloudfront] [806.779685ms] [Adobe Fonts,Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,Typekit]
+https://event.ellipal.com [200] [] [140] [openresty] [98.98.253.86] [1.193336073s] [Nginx,OpenResty]
+https://portal.dcentwallet.com [200] [] [2325] [AmazonS3] [52.85.132.51] [cloudfront] [480.130522ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://dcentwallet.com [200] [] [231923] [DCENT | Fingerprint Hardware Wallet · 10,000+ Tokens Supported] [AmazonS3] [13.249.182.124] [cloudfront] [878.580006ms] [Adobe Fonts,Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Typekit]
+https://recruit.cypherock.com [200] [] [404] [Recruitment Portal] [Vercel] [64.29.17.1] [432.494791ms] [HSTS,Vercel]
+https://dev-store.cypherock.com [200] [] [107665] [Cypherock - World's Safest Hardware Wallet & Cold Wallet For Storing Your Digital Assets] [cloudflare] [172.67.145.16] [cloudflare] [1.573700024s] [Astro:1.9.2,Cloudflare,Cloudflare Browser Insights,Express,Google Analytics,Google Tag Manager,HSTS,HTTP/3,Node.js]
+https://fwu.dcentwallet.com [200] [] [19272] [DCENT Firmware Update] [AmazonS3] [52.85.132.123] [cloudfront] [720.65273ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Bootstrap:02b8687b,Elliptic]
+https://quiz.cypherock.com [200] [] [4334] [Will you get hacked?] [cloudflare] [172.67.145.16] [cloudflare] [607.72279ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://store-kr.dcentwallet.com [200] [] [279366] [디센트 공식 온라인 몰] [cloudflare] [23.227.38.74] [298.014838ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Shopify]
+https://support.dcentwallet.com [200] [] [39616] [DCENT Wallet User Guide] [AmazonS3] [52.85.132.46] [cloudfront] [1.619391804s] [Amazon CloudFront,Amazon S3,Amazon Web Services,Docusaurus:3.10.0,React,Webpack]
+https://wallettest.ellipal.com [200] [] [976] [Welcome to nginx!] [cloudflare] [172.67.72.146] [cloudflare] [651.699485ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.ellipal.com [200] [] [666732] [ELLIPAL: Crypto Hardware Wallets | Secure Cold Wallets] [cloudflare] [23.227.38.74] [360.901089ms] [Cloudflare,HSTS,HTTP/3,Loox,Onsen UI,Shopify,jQuery]
+https://www.dcentwallet.com [200] [] [231923] [DCENT | Fingerprint Hardware Wallet · 10,000+ Tokens Supported] [AmazonS3] [18.155.173.59] [cloudfront] [1.972279955s] [Adobe Fonts,Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Typekit]
+https://www.cypherock.com [200] [] [177737] [Cypherock - World's Safest Hardware Wallet & Cold Wallet For Storing Your Digital Assets] [cloudflare] [104.21.73.137] [cloudflare] [4.422839843s] [Astro:1.9.2,Cloudflare,Cloudflare Browser Insights,Express,Google Analytics,Google Tag Manager,HSTS,HTTP/3,Node.js,YouTube]
+
+## 301
+https://ellipal.com [301] [https://www.ellipal.com/] [0] [cloudflare] [23.227.38.32] [151.207103ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://cypherock.com [301] [http://www.cypherock.com/] [536] [301 Moved Permanently] [cloudflare] [172.67.145.16] [cloudflare] [600.624156ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://go.dcentwallet.com [301] [https://dcentwallet.com] [58] [nginx] [67.199.248.13] [117.036838ms] [HSTS,HTTP/3,Nginx]
+https://shop.cypherock.com [301] [http://store.cypherock.com] [536] [301 Moved Permanently] [cloudflare] [172.67.145.16] [cloudflare] [602.408344ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://store.cypherock.com [301] [https://www.cypherock.com] [536] [301 Moved Permanently] [cloudflare] [172.67.145.16] [cloudflare] [593.871272ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://userguide.dcentwallet.com [301] [https://support.dcentwallet.com/getting-started] [0] [CloudFront] [52.85.132.46] [cloudfront] [1.045098024s] [Amazon CloudFront,Amazon Web Services]
+http://swap-backend-s3-internal.dcentwallet.com [301] [https://swap-backend-s3-internal.dcentwallet.com/] [167] [301 Moved Permanently] [CloudFront] [65.8.20.56] [cloudfront] [6.028789227s] [Amazon CloudFront,Amazon Web Services]
+
+## 302
+https://account.ellipal.com [302] [https://account.ellipal.com/authentication/oauth/authorize?client_id=95a058ee-3e30-4c25-b993-59ca632a54b8&locale=en-US&nonce=e003a3cf-ee56-42eb-9ee5-7b000c71106c&redirect_uri=https%3A%2F%2Faccount.ellipal.com%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNIPplwkgR9BtaoAwbNuQrp] [0] [cloudflare] [23.227.38.74] [297.675486ms] [Cloudflare,HSTS,HTTP/3]
+https://dev-sentry.dcentwallet.com [302] [/auth/login/] [0] [nginx] [15.164.9.1] [480.696784ms] [Nginx]
+https://kr-order-status.dcentwallet.com [302] [https://shopify.com/55159783563/account] [0] [cloudflare] [23.227.38.74] [251.672847ms] [Cloudflare,HSTS,HTTP/3]
+https://order-status.dcentwallet.com [302] [https://shopify.com/31636488330/account] [0] [cloudflare] [23.227.38.74] [221.137958ms] [Cloudflare,HSTS,HTTP/3]
+https://link.dcentwallet.com [302] [https://dcentwallet.onelink.me/qSks?af_dp=dcent%3A%2F%2Fdcentwallet.com%2Flink&deep_link_value=dcent%3A%2F%2Fdcentwallet.com%2Flink&af_web_dp=https%3A%2F%2Flink.dcentwallet.com%2Fqrcode%3Flink%3D%252F] [222] [] [3.36.161.214] [618.956372ms] [Express,Node.js]
+https://oicd.cypherock.com [302] [https://oicd.cypherock.com/admin/] [0] [cloudflare] [172.67.145.16] [cloudflare] [672.794145ms] [Cloudflare,HSTS,HTTP/3]
+
+## 307
+
+## 308
+https://dicovertest.ellipal.com [403] [] [308] [403 Forbidden] [openresty] [98.98.253.86] [2.00230786s] [Nginx,OpenResty]
+http://discover.ellipal.com [403] [] [308] [403 Forbidden] [openresty] [38.60.178.81] [4.542964452s] [Nginx,OpenResty]
+
+## 401
+
+## 403
+https://cn.ellipal.com [403] [] [17] [cloudflare] [23.227.38.65] [288.406163ms] [Cloudflare]
+https://gas-dev-api.dcentwallet.com [403] [] [31] [awselb/2.0] [43.201.188.110] [435.782946ms] [Amazon ELB,Amazon Web Services]
+https://gas-stage-api.dcentwallet.com [403] [] [31] [awselb/2.0] [43.202.171.222] [457.641743ms] [Amazon ELB,Amazon Web Services]
+https://info-repo.dcentwallet.com [403] [] [263] [AmazonS3] [65.9.126.29] [cloudfront] [480.260247ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://invest-s3.dcentwallet.com [403] [] [111] [AmazonS3] [99.84.215.23] [cloudfront] [501.170637ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://invest-s3-beta.dcentwallet.com [403] [] [111] [AmazonS3] [18.238.96.59] [cloudfront] [503.725225ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://gas-api.dcentwallet.com [403] [] [31] [awselb/2.0] [43.201.242.93] [566.822176ms] [Amazon ELB,Amazon Web Services]
+https://metabase.dcentwallet.com [403] [] [9] [awselb/2.0] [52.79.175.14] [438.723555ms] [Amazon ELB,Amazon Web Services]
+https://download.ellipal.com [403] [] [263] [openresty] [128.14.165.176] [1.671818883s] [Amazon Web Services,Nginx,OpenResty]
+https://dicovertest.ellipal.com [403] [] [308] [403 Forbidden] [openresty] [98.98.253.86] [2.00230786s] [Nginx,OpenResty]
+https://static.cypherock.com [403] [] [111] [AmazonS3] [65.8.20.15] [cloudfront] [842.548708ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://discover.ellipal.com [403] [] [308] [403 Forbidden] [openresty] [38.60.178.81] [4.542964452s] [Nginx,OpenResty]
+
+## 404
+https://email.mg.ellipal.com [404] [] [19] [] [34.110.180.34] [google] [199.939264ms]
+https://beam.dcentwallet.com [404] [] [906] [404 - Page not found] [cloudflare] [198.202.211.1] [424.837256ms] [Cloudflare,HTTP/3]
+https://airis.dcentwallet.com [404] [] [107] [Vercel] [216.150.16.193] [567.304743ms] [HSTS,Vercel]
+https://api.portal.dcentwallet.com [404] [] [139] [Error] [] [3.37.229.137] [590.260234ms] [Express,Node.js]
+https://cloudtest.ellipal.com [404] [] [909] [404 Not Found] [cloudflare] [172.67.72.146] [cloudflare] [643.812416ms] [Cloudflare,Cloudflare Browser Insights]
+http://mail.ellipal.com [404] [] [1561] [Error 404 (Not Found)!!1] [ghs] [142.251.218.19] [google] [28.400133ms]
+https://gateway-v2.dcentwallet.com [404] [] [41] [] [3.39.221.34] [447.319684ms] [Express,Node.js]
+https://nft.ellipal.com [404] [] [139] [Error] [nginx] [114.119.184.156] [586.043742ms] [Express,Nginx,Node.js]
+https://recruit.cypherock.com [200] [] [404] [Recruitment Portal] [Vercel] [64.29.17.1] [432.494791ms] [HSTS,Vercel]
+https://prizenft.dcentwallet.com [404] [] [107] [Vercel] [216.198.79.65] [539.889063ms] [HSTS,Vercel]
+https://trk.affiliate.ellipal.com [404] [] [1543] [Oops Error 404 - Klaviyo] [cloudflare] [104.17.93.1] [cloudflare] [3.182525453s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Tailwind CSS]
+
+## 500
+
+## 502
+
+## 503
+https://admin-gw.dcentwallet.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [3.37.188.255] [593.764232ms] [Amazon ELB,Amazon Web Services]
+

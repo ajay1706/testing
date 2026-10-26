@@ -1,0 +1,2 @@
+https://dicovertest.ellipal.com [403] [] [308] [403 Forbidden] [openresty] [98.98.253.86] [2.00230786s] [Nginx,OpenResty]
+http://discover.ellipal.com [403] [] [308] [403 Forbidden] [openresty] [38.60.178.81] [4.542964452s] [Nginx,OpenResty]
