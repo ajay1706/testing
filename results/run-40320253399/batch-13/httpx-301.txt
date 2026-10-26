@@ -1,0 +1,2 @@
+http://dex.tradestrike.io [301] [https://tradestrike.io/] [0] [AmazonS3] [3.5.121.242] [224.771232ms] [Amazon S3,Amazon Web Services]
+https://www.tradestrike.io [301] [https://tradestrike.io/] [0] [Apache] [18.165.83.52] [cloudfront] [582.562478ms] [Amazon CloudFront,Amazon Web Services,Apache HTTP Server]
