@@ -1,0 +1,4 @@
+https://derive.xyz [308] [https://www.derive.xyz/] [59] [Framer/24ab00f] [31.43.161.6] [216.906639ms] [Framer Sites,HSTS,HTTP/3,React]
+https://account.derive.xyz [308] [https://app.derive.xyz/] [15] [Vercel] [216.150.16.193] [295.577205ms] [HSTS,Vercel]
+https://drv.derive.xyz [308] [https://app.derive.xyz/] [15] [Vercel] [216.150.1.1] [138.954249ms] [HSTS,Vercel]
+https://legacy.derive.xyz [308] [https://app.derive.xyz/] [15] [Vercel] [216.150.1.193] [129.608669ms] [HSTS,Vercel]

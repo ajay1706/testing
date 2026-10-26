@@ -1,0 +1,100 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:17:47 UTC 2026
+
+HTTPX lines: 75
+Live URLs: 75
+
+## 200
+https://backoffice.demo.denaria.finance [200] [] [911] [Denaria Backoffice] [AmazonS3] [3.167.138.12] [cloudfront] [217.864536ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://backoffice.demo-staging.denaria.finance [200] [] [911] [Denaria Backoffice] [AmazonS3] [18.172.122.94] [cloudfront] [310.955903ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://app-mainnet-staging.denaria.finance [200] [] [1044] [Denaria — web shell] [AmazonS3] [99.84.203.118] [cloudfront] [350.478678ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://denaria.finance [200] [] [22020] [Denaria - Trade Perps, 24/7, Everywhere] [AmazonS3] [52.84.127.81] [cloudfront] [295.579193ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://backoffice.mainnet-staging.denaria.finance [200] [] [911] [Denaria Backoffice] [AmazonS3] [18.160.225.114] [cloudfront] [377.217063ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://arb.dipcoin.io [200] [] [3299] [Dipcoin Arbitrage Terminal — Multi-Exchange Perpetual Funding Rates] [Vercel] [64.29.17.65] [373.619609ms] [HSTS,Vercel]
+https://demo.denaria.finance [200] [] [3122] [Denaria] [AmazonS3] [3.166.118.66] [cloudfront] [392.878352ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://app-demo-staging.denaria.finance [200] [] [1044] [Denaria — web shell] [AmazonS3] [13.226.53.117] [cloudfront] [407.603407ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://backoffice.denaria.finance [200] [] [911] [Denaria Backoffice] [AmazonS3] [65.8.27.20] [cloudfront] [539.565092ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://cli.dipcoin.io [200] [] [55420] [DipCoin CLI — Trade Perp Futures from Your Terminal] [Vercel] [64.29.17.65] [433.877328ms] [HSTS,Tailwind CSS,Vercel]
+https://docs.denaria.finance [200] [] [16688] [Welcome to Denaria | Denaria Docs] [AmazonS3] [52.84.127.22] [cloudfront] [363.975625ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Docusaurus:3.9.2,HTTP/3,React,Webpack]
+https://demo.dipcoin.io [200] [] [864] [DIPCOIN Sui DEX] [cloudflare] [104.18.15.148] [cloudflare] [801.756675ms] [Cloudflare,Cloudflare Bot Management]
+https://eot.derive.xyz [200] [] [1133] [Hello - EmailOctopus] [] [34.255.101.145] [462.693801ms] [HTTP/3]
+https://landing.demo-staging.denaria.finance [200] [] [21809] [Denaria - Trade Perps, 24/7, Everywhere] [AmazonS3] [18.160.225.32] [cloudfront] [175.046742ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://landing.mainnet-staging.denaria.finance [200] [] [22052] [Denaria - Trade Perps, 24/7, Everywhere] [AmazonS3] [13.249.141.21] [cloudfront] [273.07084ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://gov.denaria.finance [200] [] [130241] [Denaria Governance Forum - Denaria’s official forum] [nginx] [13.216.103.1] [318.713657ms] [Discourse:2026.2.0,HSTS,Nginx,Ruby on Rails]
+https://gray-api.dipcoin.io [200] [] [49] [cloudflare] [104.18.15.148] [cloudflare] [837.987623ms] [Cloudflare,Cloudflare Bot Management]
+https://demows.dipcoin.io [200] [] [615] [Welcome to nginx!] [cloudflare] [104.18.15.148] [cloudflare] [1.322067828s] [Cloudflare,Cloudflare Bot Management]
+https://mcp.denaria.finance [200] [] [295] [envoy] [52.45.80.124] [305.431632ms] [Envoy]
+https://forums.derive.xyz [200] [] [162299] [Derive] [nginx] [216.66.8.75] [538.472846ms] [Discourse:2026.10.0,HSTS,Nginx,Ruby on Rails]
+https://explorer.derive.xyz [200] [] [92317] [Derive blockchain explorer - View Derive stats | Blockscout] [cloudflare] [104.26.1.65] [cloudflare] [674.623681ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://gray-ws.dipcoin.io [200] [] [615] [Welcome to nginx!] [cloudflare] [104.18.15.148] [cloudflare] [1.101158297s] [Cloudflare,Cloudflare Bot Management]
+https://pwa-demo-staging.denaria.finance [200] [] [3122] [Denaria] [AmazonS3] [99.86.77.114] [cloudfront] [179.993417ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://status.denaria.finance [200] [] [3080] [Denaria Status] [cloudflare] [104.26.15.183] [cloudflare] [314.258659ms] [Cloudflare,Fly.io]
+https://docs.derive.xyz [200] [] [420426] [Derive v3 API - Derive API] [cloudflare] [162.159.143.13] [cloudflare] [299.920438ms] [C3.js,Cloudflare,HSTS,HTTP/3,Vercel]
+https://status.derive.xyz [200] [] [11292] [Derive Status | Uptime.com] [openresty] [3.23.124.72] [419.266928ms] [Google Tag Manager,Nginx,OpenResty]
+https://space.dipcoin.io [200] [] [19925] [Notion] [cloudflare] [208.103.161.32] [425.440119ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,hCaptcha]
+https://partner.dipcoin.io [200] [] [549] [Partner Hub] [cloudflare] [104.18.15.148] [cloudflare] [888.349235ms] [Cloudflare,Cloudflare Bot Management,Node.js,UmiJs]
+https://wp.derive.xyz [200] [] [88868] [Derive.xyz - Trade Onchain Crypto Options & Perps] [cloudflare] [172.67.70.234] [cloudflare] [248.739438ms] [Cloudflare,Cloudways,MySQL,PHP,WordPress:7.1.3,Yoast SEO:27.0,jQuery,jQuery Migrate:3.4.1]
+https://legacy.docs.derive.xyz [200] [] [246999] [Derive] [cloudflare] [104.16.242.118] [cloudflare] [654.81601ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,ReadMe,Render]
+https://test-partner.dipcoin.io [200] [] [549] [Partner Hub] [cloudflare] [104.18.15.148] [cloudflare] [743.174532ms] [Cloudflare,Cloudflare Bot Management,Node.js,UmiJs]
+https://perp-ws.dipcoin.io [200] [] [615] [Welcome to nginx!] [cloudflare] [104.18.15.148] [cloudflare] [1.018446625s] [Cloudflare,Cloudflare Bot Management]
+https://testnet.dipcoin.io [200] [] [3187] [Dipcoin.io | Trade Smarter. Win Bigger. The Simplest DEX on Sui] [cloudflare] [104.18.14.148] [cloudflare] [927.705805ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,Node.js,UmiJs,WebSocket,Websocket]
+https://perp-api.dipcoin.io [200] [] [49] [cloudflare] [104.18.15.148] [cloudflare] [1.36444402s] [Cloudflare,Cloudflare Bot Management]
+https://testnet-explorer.derive.xyz [200] [] [92445] [Derive Testnet blockchain explorer - View Derive Testnet stats | Blockscout] [cloudflare] [104.26.1.65] [cloudflare] [640.771558ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.dipcoin.io [200] [] [3184] [Dipcoin.io | Trade Smarter. Win Bigger. The Simplest DEX on Sui] [cloudflare] [104.18.14.148] [cloudflare] [1.064727113s] [Cloudflare,Cloudflare Bot Management,Google Analytics,Node.js,UmiJs,WebSocket,Websocket]
+https://insights.derive.xyz [200] [] [720439] [Derive Insights] [openresty] [140.248.147.7] [fastly] [317.828695ms] [Ghost:6.73,Nginx,Node.js,OpenResty,Popper,Varnish,jsDelivr]
+https://www.derive.xyz [200] [] [541337] [Derive.xyz | Trade Onchain Crypto Options & Perps] [cloudflare] [104.26.15.65] [cloudflare] [370.365142ms] [Cloudflare,Framer Sites,Google Analytics,HSTS,React]
+
+## 301
+https://blog.derive.xyz [301] [https://insights.derive.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.65] [cloudflare] [136.891033ms] [Cloudflare]
+https://dipcoin.io [301] [https://www.dipcoin.io/] [0] [AmazonS3] [3.167.138.86] [cloudfront] [178.663129ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://gray-www.dipcoin.io [301] [https://www.dipcoin.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.15.148] [cloudflare] [415.742487ms] [Cloudflare]
+https://pro.derive.xyz [301] [https://app.derive.xyz/] [15] [Vercel] [216.150.16.193] [386.528963ms] [HSTS,Vercel]
+
+## 302
+https://help.derive.xyz [302] [https://help.derive.xyz/en/] [0] [cloudflare] [172.67.70.234] [cloudflare] [537.651996ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 307
+https://app.derive.xyz [307] [/trade/options] [15] [Vercel] [216.150.1.1] [197.654788ms] [HSTS,Vercel]
+https://doc.dipcoin.io [307] [https://dipcoin-doc.gitbook.io/dipcoin/] [15] [cloudflare] [172.64.147.209] [cloudflare] [325.081414ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://gov.derive.xyz [307] [/info] [15] [Vercel] [66.33.60.130] [251.783236ms] [HSTS,Vercel]
+https://testnet.derive.xyz [307] [/trade/options] [15] [Vercel] [216.150.1.1] [253.679668ms] [HSTS,Vercel]
+https://testnet.app.derive.xyz [307] [https://testnet.derive.xyz/] [15] [Vercel] [216.150.1.193] [338.97364ms] [HSTS,Vercel]
+
+## 308
+https://derive.xyz [308] [https://www.derive.xyz/] [59] [Framer/24ab00f] [31.43.161.6] [216.906639ms] [Framer Sites,HSTS,HTTP/3,React]
+https://account.derive.xyz [308] [https://app.derive.xyz/] [15] [Vercel] [216.150.16.193] [295.577205ms] [HSTS,Vercel]
+https://drv.derive.xyz [308] [https://app.derive.xyz/] [15] [Vercel] [216.150.1.1] [138.954249ms] [HSTS,Vercel]
+https://legacy.derive.xyz [308] [https://app.derive.xyz/] [15] [Vercel] [216.150.1.193] [129.608669ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://api.denaria.finance [403] [] [77] [cloudflare] [104.26.14.183] [cloudflare] [349.636433ms] [Cloudflare]
+
+## 404
+https://api.derive.xyz [404] [] [0] [cloudflare] [104.26.14.65] [cloudflare] [314.349722ms] [Cloudflare]
+https://api.demo.denaria.finance [404] [] [13] [] [54.204.97.108] [347.917287ms]
+https://api.demo-staging.denaria.finance [404] [] [13] [] [44.218.162.152] [360.853893ms]
+https://api.mainnet-staging.denaria.finance [404] [] [13] [] [44.219.118.43] [478.76678ms]
+https://go.demo.denaria.finance [404] [] [13] [] [18.214.144.163] [247.879408ms]
+https://email.ghost.insights.derive.xyz [404] [] [19] [] [34.110.180.34] [google] [330.939624ms]
+https://go.demo-staging.denaria.finance [404] [] [13] [] [98.85.83.41] [293.276741ms]
+https://go.mainnet-staging.denaria.finance [404] [] [13] [] [44.219.118.43] [309.614117ms]
+https://go.denaria.finance [404] [] [13] [cloudflare] [172.67.70.200] [cloudflare] [357.961875ms] [Cloudflare]
+https://demoapi.dipcoin.io [404] [] [102] [cloudflare] [104.18.15.148] [cloudflare] [857.369527ms] [Cloudflare,Cloudflare Bot Management]
+https://api.dipcoin.io [404] [] [102] [cloudflare] [104.18.14.148] [cloudflare] [926.919838ms] [Cloudflare,Cloudflare Bot Management]
+https://api-partner.dipcoin.io [404] [] [57] [cloudflare] [104.18.15.148] [cloudflare] [1.039930076s] [Cloudflare,Cloudflare Bot Management]
+https://legacy-testnet.derive.xyz [404] [] [107] [Vercel] [216.150.1.129] [452.160137ms] [HSTS,Vercel]
+https://privy.derive.xyz [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [205.042724ms] [Cloudflare,Cloudflare Bot Management]
+https://stats-api.derive.xyz [404] [] [107] [Vercel] [216.150.1.129] [317.614286ms] [HSTS,Vercel]
+https://testnet-pro.derive.xyz [404] [] [107] [Vercel] [216.150.1.193] [260.913909ms] [HSTS,Vercel]
+https://testnet.api.derive.xyz [404] [] [0] [cloudflare] [104.26.15.65] [cloudflare] [259.638568ms] [Cloudflare]
+https://test-api-partner.dipcoin.io [404] [] [57] [cloudflare] [104.18.15.148] [cloudflare] [783.271605ms] [Cloudflare,Cloudflare Bot Management]
+
+## 500
+
+## 502
+
+## 503
+
