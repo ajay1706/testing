@@ -1,0 +1,2 @@
+https://blog.gridplus.io [301] [https://gridplus.io/] [0] [cloudflare] [23.227.38.74] [151.577254ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://www.foundation.xyz [301] [https://foundation.xyz/] [0] [cloudflare] [23.227.38.74] [3.135204205s] [Cloudflare,HSTS,HTTP/3,Shopify]

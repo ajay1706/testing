@@ -1,0 +1,4 @@
+https://btcpay.foundation.xyz [302] [https://btcpay.foundation.xyz/login?ReturnUrl=%2F] [0] [nginx] [34.74.1.60] [google] [226.396318ms] [HSTS,Nginx]
+https://account.foundation.xyz [302] [https://account.foundation.xyz/authentication/oauth/authorize?client_id=215f891f-f905-413f-91d8-335c9065d338&locale=en-US&nonce=f6097ce7-d78c-4053-baa2-68a2dd229d75&redirect_uri=https%3A%2F%2Faccount.foundation.xyz%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNIPppPl3Bg7y9fAMZcuQvC] [0] [cloudflare] [23.227.38.74] [247.264466ms] [Cloudflare,HSTS,HTTP/3]
+https://affiliate.gridplus.io [302] [https://affiliate.gridplus.io/inactive] [0] [cloudflare] [104.21.41.207] [cloudflare] [337.71653ms] [Cloudflare,HSTS,HTTP/3]
+https://grafana.gridplus.io [302] [/login] [29] [cloudflare] [104.21.41.207] [cloudflare] [358.263349ms] [Cloudflare,HTTP/3]
