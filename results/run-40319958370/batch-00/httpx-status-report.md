@@ -1,0 +1,49 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:10:25 UTC 2026
+
+HTTPX lines: 24
+Live URLs: 24
+
+## 200
+https://support.airgap.it [200] [] [26248] [Introduction | AirGap Support] [cloudflare] [172.67.135.220] [cloudflare] [225.020586ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:2.0.0-beta.15,Fastly,GitHub Pages,HTTP/3,React,Varnish,Webpack]
+https://docs.bifrostwallet.com [200] [] [13058] [Quickstart | Bifrost Wallet Docs] [UploadServer] [35.244.200.60] [google] [412.651741ms] [Docusaurus:3.10.2,Google Cloud,Google Cloud Storage,HSTS,HTTP/3,React,Webpack]
+https://test-dapp.bifrostwallet.com [200] [] [542] [Bifrost WalletConnect test dapp] [UploadServer] [35.244.200.60] [google] [563.655878ms] [Google Cloud,Google Cloud Storage,HSTS,HTTP/3]
+https://cat-test.foundry.airgap.it [200] [] [2169] [Foundry] [nginx] [57.129.59.201] [592.169376ms] [Nginx]
+https://shop.airgap.it [200] [] [540] [[]] [nginx] [94.126.17.100] [708.410407ms] [Nginx]
+https://mail.airgap.it [200] [] [905] [[]] [cloudflare] [172.67.135.220] [cloudflare] [724.890813ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://cat-main.foundry.airgap.it [200] [] [2587] [Foundry] [nginx] [57.129.59.201] [746.831721ms] [Nginx]
+https://bifrostwallet.com [200] [] [255614] [Bifrost Wallet - Self-custody, multi-chain crypto wallet for DeFi, NFTs and Web3] [UploadServer] [35.244.200.60] [google] [473.76283ms] [Fathom,Gatsby:4.25.7,Google Cloud,Google Cloud Storage,HSTS,HTTP/3,React,Webpack]
+https://airgap.it [200] [] [176006] [AirGap - Self custody made simple and secure for all your crypto assets] [cloudflare] [104.21.26.103] [cloudflare] [754.253738ms] [Backbone.js,Cloudflare,Cloudflare Browser Insights,Google Analytics,Google Tag Manager,HTTP/3,Magnific Popup:9.5.1,MySQL,Ninja Forms:3.15.6,PHP,Underscore.js:1.13.8,WordPress,Yoast SEO:28.7,jQuery,reCAPTCHA,wpBakery]
+https://portal.bifrostwallet.com [200] [] [248581] [UploadServer] [35.244.200.60] [google] [798.016607ms] [HTTP/3]
+
+## 301
+https://www.airgap.it [301] [https://airgap.it/] [534] [301 Moved Permanently] [cloudflare] [172.67.135.220] [cloudflare] [131.518563ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.arculus.co [301] [https://www.getarculus.com] [167] [301 Moved Permanently] [cloudflare] [104.21.50.13] [cloudflare] [147.366403ms] [Cloudflare,HTTP/3]
+http://autodiscover.arculus.co [301] [https://autodiscover.arculus.co/] [0] [Microsoft-HTTPAPI/2.0] [40.104.73.72] [1.28127ms] [Microsoft HTTPAPI:2.0]
+https://arculus.co [301] [https://www.getarculus.com] [167] [301 Moved Permanently] [cloudflare] [104.21.50.13] [cloudflare] [198.605339ms] [Cloudflare,HTTP/3]
+http://autodiscover.airgap.it [301] [https://autodiscover.airgap.it/] [0] [Microsoft-HTTPAPI/2.0] [52.96.91.72] [47.445672ms] [Microsoft HTTPAPI:2.0]
+https://www.bifrostwallet.com [301] [https://bifrostwallet.com/] [0] [] [35.244.200.60] [google] [251.854471ms] [HTTP/3]
+
+## 302
+https://support.arculus.co [302] [https://support.arculus.co/hc] [0] [cloudflare] [216.198.54.11] [311.77164ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://login-auth.arculus.co [302] [https://arculus.co/] [41] [cloudflare] [104.18.43.182] [cloudflare] [468.702919ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://support.bifrostwallet.com [302] [https://support.bifrostwallet.com/en/] [0] [nginx] [35.244.200.60] [google] [837.872444ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://gw.arculus.co [404] [] [0] [awselb/2.0] [52.206.145.110] [339.668776ms] [Amazon ELB,Amazon Web Services]
+
+## 500
+
+## 502
+
+## 503
+

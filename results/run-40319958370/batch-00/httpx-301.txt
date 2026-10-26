@@ -1,0 +1,6 @@
+https://www.airgap.it [301] [https://airgap.it/] [534] [301 Moved Permanently] [cloudflare] [172.67.135.220] [cloudflare] [131.518563ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.arculus.co [301] [https://www.getarculus.com] [167] [301 Moved Permanently] [cloudflare] [104.21.50.13] [cloudflare] [147.366403ms] [Cloudflare,HTTP/3]
+http://autodiscover.arculus.co [301] [https://autodiscover.arculus.co/] [0] [Microsoft-HTTPAPI/2.0] [40.104.73.72] [1.28127ms] [Microsoft HTTPAPI:2.0]
+https://arculus.co [301] [https://www.getarculus.com] [167] [301 Moved Permanently] [cloudflare] [104.21.50.13] [cloudflare] [198.605339ms] [Cloudflare,HTTP/3]
+http://autodiscover.airgap.it [301] [https://autodiscover.airgap.it/] [0] [Microsoft-HTTPAPI/2.0] [52.96.91.72] [47.445672ms] [Microsoft HTTPAPI:2.0]
+https://www.bifrostwallet.com [301] [https://bifrostwallet.com/] [0] [] [35.244.200.60] [google] [251.854471ms] [HTTP/3]
