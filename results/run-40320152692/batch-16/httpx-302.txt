@@ -1,0 +1,6 @@
+https://ci.xcapit.com [302] [https://exchange.wallcryptostreet.com/] [0] [LiteSpeed] [67.222.24.191] [277.174173ms] [HTTP/3,LiteSpeed]
+https://gitlab.xcapit.com [302] [https://gitlab.xcapit.com/users/sign_in] [105] [nginx] [13.59.236.67] [576.548617ms] [HSTS,Nginx]
+https://vpn.p.xcapit.com [302] [/login] [29] [] [3.19.235.3] [2.12272713s]
+https://vpn.np.xcapit.com [302] [https://vpn.np.xcapit.com/login] [249] [Redirecting...] [] [3.16.94.249] [2.182541747s] [HSTS]
+https://mail.ci.xcapit.com [302] [https://exchange.wallcryptostreet.com/] [0] [LiteSpeed] [67.222.24.191] [9.596098134s] [HTTP/3,LiteSpeed]
+https://www.ci.xcapit.com [302] [https://exchange.wallcryptostreet.com/] [0] [LiteSpeed] [67.222.24.191] [3.138200144s] [HTTP/3,LiteSpeed]

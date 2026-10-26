@@ -1,0 +1,3 @@
+https://app.qa.pagotic.xcapit.com [502] [] [122] [502 Bad Gateway] [] [3.16.94.249] [162.69704ms]
+https://ltw.qamerch.xcapit.com [502] [] [0] [Caddy] [3.138.68.91] [130.981312ms] [Caddy,HTTP/3]
+https://ltw.qaatdashboard.xcapit.com [502] [] [0] [Caddy] [3.138.68.91] [153.657119ms] [Caddy,HTTP/3]

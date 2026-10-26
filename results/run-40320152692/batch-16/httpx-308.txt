@@ -1,0 +1,6 @@
+http://backend.demo.pagotic.xcapit.com [308] [https://backend.demo.pagotic.xcapit.com/] [0] [Caddy] [3.139.234.101] [47.195295ms] [Caddy]
+http://backoffice.demo.pagotic.xcapit.com [308] [https://backoffice.demo.pagotic.xcapit.com/] [0] [Caddy] [3.139.234.101] [40.734996ms] [Caddy]
+http://cardano.demo.pagotic.xcapit.com [308] [https://cardano.demo.pagotic.xcapit.com/] [0] [Caddy] [3.139.234.101] [40.822725ms] [Caddy]
+http://qa.shelter.xcapit.com [308] [https://qa.shelter.xcapit.com/] [0] [Caddy] [3.138.68.91] [40.260893ms] [Caddy]
+http://wallet.demo.pagotic.xcapit.com [308] [https://wallet.demo.pagotic.xcapit.com/] [0] [Caddy] [3.139.234.101] [40.983881ms] [Caddy]
+http://wallet.demo.mainnet.pagotic.xcapit.com [308] [https://wallet.demo.mainnet.pagotic.xcapit.com/] [0] [Caddy] [3.139.234.101] [7.246215365s] [Caddy]

@@ -1,0 +1,3 @@
+https://auction.xcapit.com [301] [https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/26162576312665223487170207135868447457908478734051846311289556346092468043777/] [795] [301 Moved Permanently] [LiteSpeed] [67.222.24.191] [175.484013ms] [HTTP/3,LiteSpeed]
+http://mail.xcapit.com [301] [https://mail.xcapit.com/] [795] [301 Moved Permanently] [LiteSpeed] [67.222.24.191] [96.264869ms] [LiteSpeed]
+https://xcapit.com [301] [http://www.xcapit.com/] [795] [301 Moved Permanently] [LiteSpeed] [67.222.24.191] [3.177803176s] [HTTP/3,LiteSpeed]
