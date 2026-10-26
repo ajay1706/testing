@@ -1,0 +1,7 @@
+https://app.popdex.xyz [301] [https://app.popdex.xyz/trade] [169] [301 Moved Permanently] [cloudflare] [104.18.21.177] [cloudflare] [204.573782ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://docs.perpetuals.polymarket.com [301] [https://docs.polymarket.com/perps] [167] [301 Moved Permanently] [cloudflare] [104.18.34.205] [cloudflare] [98.103328ms] [Cloudflare,HSTS]
+https://gamma-api.polymarket.com [301] [/docs] [40] [istio-envoy] [52.85.132.29] [cloudfront] [1.153810238s] [Amazon CloudFront,Amazon Web Services,Envoy,HTTP/3]
+https://learn.polymarket.com [301] [https://docs.polymarket.com/polymarket-learn] [167] [301 Moved Permanently] [cloudflare] [104.18.34.205] [cloudflare] [3.071026183s] [Cloudflare,HSTS]
+http://legacy-docs.polymarket.com [301] [https://legacy-docs.polymarket.com/] [528] [301 Moved Permanently] [cloudflare] [172.64.153.51] [cloudflare] [61.893792ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://status-clob.polymarket.com [301] [https://status.polymarket.com/] [167] [301 Moved Permanently] [cloudflare] [172.64.153.51] [cloudflare] [115.337507ms] [Cloudflare,HSTS]
+https://testnet-app.popdex.xyz [301] [https://testnet-app.popdex.xyz/trade] [169] [301 Moved Permanently] [cloudflare] [104.18.21.177] [cloudflare] [273.241844ms] [Cloudflare,Cloudflare Bot Management,HSTS]

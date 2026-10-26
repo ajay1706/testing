@@ -1,0 +1,6 @@
+http://account.polymarket.com [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.238.109.49] [cloudfront] [3.838189ms] [Amazon CloudFront,Amazon Web Services]
+https://assets.perpetuals.polymarket.com [403] [] [111] [AmazonS3] [52.85.132.62] [cloudfront] [459.532578ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://ws-subscriptions-clob.polymarket.com [403] [] [1753] [ERROR: The request could not be satisfied] [cloudflare] [104.18.34.205] [cloudflare] [108.539892ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://ws-subscriptions-beta-clob.polymarket.com [403] [] [1753] [ERROR: The request could not be satisfied] [cloudflare] [104.18.34.205] [cloudflare] [3.095944002s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://ws-subscriptions-frontend-clob.polymarket.com [403] [] [1753] [ERROR: The request could not be satisfied] [cloudflare] [104.18.34.205] [cloudflare] [3.090761869s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://ws-subscriptions-clob-test.polymarket.com [403] [] [0] [CloudFront] [65.8.20.63] [cloudfront] [4.095194333s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
