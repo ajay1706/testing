@@ -1,0 +1,86 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:27:11 UTC 2026
+
+HTTPX lines: 58
+Live URLs: 58
+
+## 200
+https://launchgoo.hertzflow.xyz [200] [] [10484] [All Goo - Goo Economy] [cloudflare] [104.26.7.92] [cloudflare] [136.396791ms] [Cloudflare]
+https://goolaunch.hertzflow.xyz [200] [] [10484] [All Goo - Goo Economy] [cloudflare] [172.67.70.173] [cloudflare] [144.135121ms] [Cloudflare]
+https://helixapp.com [200] [] [10476] [Helix | The Premier Decentralized Spot and Derivatives Exchange] [AmazonS3] [18.165.83.95] [cloudfront] [320.763075ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Node.js,Nuxt.js,Vue.js]
+https://goo.hertzflow.xyz [200] [] [43684] [Goo: Economics 4.0] [Vercel] [216.150.16.129] [279.319018ms] [HSTS,Vercel]
+https://dev.helixapp.com [200] [] [10215] [Helix | Open Finance Reimagined] [Caddy] [78.46.46.249] [379.682079ms] [Caddy,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://api-docs.grvt.io [200] [] [42799] [Grvt Markets API Docs] [cloudflare] [172.66.150.111] [cloudflare] [127.627686ms] [Cloudflare,Fastly,GitHub Pages,MkDocs:1.6.1,Python,Varnish]
+https://maintenance.hertzflow.xyz [200] [] [26202] [HertzFlow | The world leverage engine] [Vercel] [216.150.16.129] [164.462396ms] [HSTS,Vercel]
+https://blog.helixapp.com [200] [] [57639] [helix-blog] [Netlify] [18.208.88.157] [156.760282ms] [HSTS,Netlify,Node.js,Nuxt.js,Vue.js]
+https://plausible.grvt.io [200] [] [5724] [Plausible · Web analytics] [cloudflare] [172.66.150.111] [cloudflare] [281.295663ms] [Cloudflare]
+https://survival.hertzflow.xyz [200] [] [2163] [Hertzflow $100 Survival Challenge] [Vercel] [216.150.16.193] [209.014751ms] [HSTS,Vercel]
+https://skill.hertzflow.xyz [200] [] [21374] [HertzFlow / Skill — See Beyond Your Trade] [Vercel] [216.150.16.193] [149.885208ms] [HSTS,Vercel]
+https://testnet.helixapp.com [200] [] [10122] [TESTNET - Helix | Decentralized Derivatives Trading. Any Market. Anytime. Anywhere.] [AmazonS3] [3.170.3.94] [cloudfront] [207.867331ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Node.js,Nuxt.js,Vue.js]
+https://www.helixapp.com [200] [] [10476] [Helix | The Premier Decentralized Spot and Derivatives Exchange] [AmazonS3] [18.165.83.11] [cloudfront] [224.068095ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,Node.js,Nuxt.js,Vue.js]
+https://docs.helixapp.com [200] [] [341079] [About Helix | Helix | Documentation] [cloudflare] [104.18.40.47] [cloudflare] [139.147899ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://early.hertzflow.xyz [200] [] [150754] [Genesis Vault | HertzFlow] [Vercel] [216.150.16.1] [833.741031ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.hertzflow.xyz [200] [] [128256] [HertzFlow | World Leverage Engine. Built For You to Win.] [Vercel] [216.150.16.129] [112.208863ms] [C3.js,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://grvt.io [200] [] [1068263] [Grvt | Trade Crypto, Gold & Stocks 24/7. Trade & Earn Yield] [cloudflare] [172.66.150.111] [cloudflare] [1.181702976s] [Cloudflare,Next.js,Node.js,React,Webpack]
+
+## 301
+https://www.grvt.io [301] [https://grvt.io/] [167] [301 Moved Permanently] [cloudflare] [172.66.150.111] [cloudflare] [55.370149ms] [Cloudflare]
+
+## 302
+https://analytic-query.grvt.io [302] [https://grvt.cloudflareaccess.com/cdn-cgi/access/login/analytic-query.grvt.io?kid=65b90c542a08e2efbeeecf01887ac363b8e7d9fafb248b4b1f6eb81186fc81c0&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijc0OTVhMWIwNjIwZWIxZmM4ZTdjNDFhYjZkOTU5OWE2MDU1Yjc5ODAyOTA1MDMzMzNkMmMzYmI2NzI0ZDY3NTAifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjY1YjkwYzU0MmEwOGUyZWZiZWVlY2YwMTg4N2FjMzYzYjhlN2Q5ZmFmYjI0OGI0YjFmNmViODExODZmYzgxYzAiLCJob3N0bmFtZSI6ImFuYWx5dGljLXF1ZXJ5LmdydnQuaW8iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MzAxNzkxMSwibmJmIjoxNzkzMDE3NjExLCJpYXQiOjE3OTMwMTc2MTEsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI0OTQ3ZjUyY2Y5NmE4ODdmMjI0NDQ3NzU4YmZiZjkyYjNjOTYzNTk4MGQxNWNjZjMyNzUzYWM5ZmU3NDBmOGI2In0.murKxJoRzUr0DbdVruwhvdkN89pnIRb96aEQ5dldqlFPexs9C3wDSUyKOpavX3N_P-U45_8pumR0q-CwQt12kbClfaMx5YV7cInHuy8pBw83lzRxrNWDDN8DBBc3bRdmEsisM52GXxz48mSxiE_Rmb_NQvKJuGun5KgIHwL1NpEwjY276WV83jVp259n_-h1eaCJVUEzmMUnVAPmp3KZOK_Vj8soEdF70Vjk_UHWSGNc2kWs65o34AlykhqcXc7aEeUVQylZTFOvQ_3vo8t3tM25MdK2Rz738xHmOSzjaPLljKDeU-fSJimbTg6XF6sl_wG0QDkX6cm2GBKKZJhRXQ&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.20.24.100] [cloudflare] [77.985874ms] [Cloudflare]
+https://aeron-cluster-cfg-manager.grvt.io [302] [https://grvt.cloudflareaccess.com/cdn-cgi/access/login/aeron-cluster-cfg-manager.grvt.io?kid=f72babe5324ff76f4761516418418f463773fa34321c1c5fffc725511ecb170f&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijc0OTVhMWIwNjIwZWIxZmM4ZTdjNDFhYjZkOTU5OWE2MDU1Yjc5ODAyOTA1MDMzMzNkMmMzYmI2NzI0ZDY3NTAifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImY3MmJhYmU1MzI0ZmY3NmY0NzYxNTE2NDE4NDE4ZjQ2Mzc3M2ZhMzQzMjFjMWM1ZmZmYzcyNTUxMWVjYjE3MGYiLCJob3N0bmFtZSI6ImFlcm9uLWNsdXN0ZXItY2ZnLW1hbmFnZXIuZ3J2dC5pbyIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkzMDE3OTExLCJuYmYiOjE3OTMwMTc2MTEsImlhdCI6MTc5MzAxNzYxMSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjJmYjE0YTZiN2ZiY2Y2MDI0NDBlMWQ2MmUxZGYyN2UwYzYyNzFjYmM1MGQxMDUxMzkyNTE2NjIxYmRiM2FkZTAifQ.ThPs_7zwXFhWbuqLn7t_l_iIPadRyFA8q_9UVMM74nGvo0eitXxVtkkydfM1q6zuQta61_zcNeY6SVqRlRvCgqsShGD7SiMENW_SIQbPI3k-0wk563xpb3URL6frjYp5A29D5wT-Cu7NvHgdawYzCtS8WAWhAhn_DZg8xXVYjIL3_CZXo2Ywer926hqhWcjeNetYjP2iYUl9mB1OxEcV0T7VIJOxu3A_2NlFor6L68cU1x_dR0mgqESXXGcvOUHlkHT1dvylcjRq-S56a7yParG3NaOiD3QYqPjvIx7TqyxsVoGokCnOVU3mMBYLC9s62V7dgcVgnbQo_EIxrPuiHg&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.20.24.100] [cloudflare] [84.410139ms] [Cloudflare]
+https://help.grvt.io [302] [https://help.grvt.io/en/] [0] [cloudflare] [104.18.37.238] [cloudflare] [90.753913ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://admin.grvt.io [302] [https://grvt.cloudflareaccess.com/cdn-cgi/access/login/admin.grvt.io?kid=622d09428d3e3455394480b68fa4d60435b999f9de0a4ed523a84276c9e33039&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijc0OTVhMWIwNjIwZWIxZmM4ZTdjNDFhYjZkOTU5OWE2MDU1Yjc5ODAyOTA1MDMzMzNkMmMzYmI2NzI0ZDY3NTAifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjYyMmQwOTQyOGQzZTM0NTUzOTQ0ODBiNjhmYTRkNjA0MzViOTk5ZjlkZTBhNGVkNTIzYTg0Mjc2YzllMzMwMzkiLCJob3N0bmFtZSI6ImFkbWluLmdydnQuaW8iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MzAxNzkxMSwibmJmIjoxNzkzMDE3NjExLCJpYXQiOjE3OTMwMTc2MTEsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJiODJhY2ZlOWJkYzcyNmE2MGVlYmYyMDlmZGU0ZmIwNzEwNGRmMzYzNGVhOWVkZWI4OTJkODdkYTIyYWU0ZGE5In0.jXP9VyiN6aqxc8FaWv58ePkQtmugd4TvpKgluRLK7zjV2QEPd3RLSqfu07MRIndD19m7BMz4NyJxuf9HYW25LcOea2JKW4vHAntsuL9Sd_kHIN7x4qay1QA_9lSgbkPFAbK4-aeBN2sbZ7gi1JZQXqzQRNqGBsybe-8c8I1dXnpTDca7X8jcHeRgQIQIAEwYXsIlOCKV1BdIbKQV0h2YIFDBrgslfzbXBKcun107OvwnwO3Db3dengOknVIk0tTViPvP_Nm16b20bRHwxRuv84WUijtUCab6eQV539rLpI0Pj_LUseLhSF08ysmAlN_So-jJ9JFUQvKTFF51PrhOvw&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.150.111] [cloudflare] [121.953836ms] [Cloudflare]
+https://bnbchain.hertzflow.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbnbchain.hertzflow.xyz%2F&nonce=e263d54e82d2afe947799879e685bccee9d62ca408ea3130dd5dcddcf49450a3] [263] [Vercel] [216.150.16.129] [408.848359ms] [HSTS,Vercel]
+
+## 307
+https://testnet.grvt.io [307] [/exchange/perpetual] [19] [cloudflare] [104.20.24.100] [cloudflare] [661.814088ms] [Cloudflare]
+
+## 308
+https://hertzflow.xyz [308] [https://www.hertzflow.xyz/] [15] [Vercel] [216.150.1.1] [105.497731ms] [HSTS,Vercel]
+https://testnet.hertzflow.xyz [308] [/trade] [15] [Vercel] [216.150.16.193] [76.05901ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://trades-dmm.testnet.grvt.io [403] [] [17] [cloudflare] [172.66.150.111] [cloudflare] [72.893226ms] [Cloudflare]
+
+## 404
+https://market-data.grvt.io [404] [] [19] [cloudflare] [172.66.150.111] [cloudflare] [263.309839ms] [Cloudflare]
+https://edge-kyc.testnet.grvt.io [404] [] [18] [cloudflare] [104.20.24.100] [cloudflare] [570.336611ms] [Cloudflare]
+https://edge.testnet.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [613.102915ms] [Cloudflare]
+https://edge-kyc.grvt.io [404] [] [18] [cloudflare] [172.66.150.111] [cloudflare] [623.147004ms] [Cloudflare]
+https://dfns.grvt.io [404] [] [13] [cloudflare] [172.66.150.111] [cloudflare] [639.231992ms] [Cloudflare]
+https://dfns.testnet.grvt.io [404] [] [13] [cloudflare] [104.20.24.100] [cloudflare] [651.04215ms] [Cloudflare]
+https://market-canary.grvt.io [404] [] [21] [cloudflare] [172.66.150.111] [cloudflare] [620.282071ms] [Cloudflare,HSTS]
+https://privy.hertzflow.xyz [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [98.403289ms] [Cloudflare,Cloudflare Bot Management]
+https://market-data-canary.grvt.io [404] [] [21] [cloudflare] [104.20.24.100] [cloudflare] [629.31064ms] [Cloudflare,HSTS]
+https://market-data.testnet.grvt.io [404] [] [19] [cloudflare] [172.66.150.111] [cloudflare] [612.126758ms] [Cloudflare]
+https://rpc.testnet.grvt.io [404] [] [18] [cloudflare] [104.20.24.100] [cloudflare] [252.067022ms] [Cloudflare]
+https://rpc.grvt.io [404] [] [18] [cloudflare] [172.66.150.111] [cloudflare] [266.319317ms] [Cloudflare]
+https://openview.grvt.io [404] [] [19] [cloudflare] [172.66.150.111] [cloudflare] [626.773333ms] [Cloudflare]
+https://mdg.testnet.grvt.io [404] [] [146] [404 Not Found] [cloudflare] [104.20.24.100] [cloudflare] [683.948532ms] [Cloudflare,HSTS]
+https://edge.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [1.137726059s] [Cloudflare]
+https://proxy-dfns.testnet.grvt.io [404] [] [2] [cloudflare] [172.66.150.111] [cloudflare] [587.495343ms] [Cloudflare]
+https://rewarddata.grvt.io [404] [] [0] [cloudflare] [172.66.150.111] [cloudflare] [585.32807ms] [Cloudflare]
+https://proxy-dfns.grvt.io [404] [] [2] [cloudflare] [104.20.24.100] [cloudflare] [631.050872ms] [Cloudflare]
+https://reward.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [668.66845ms] [Cloudflare]
+https://trades.grvt.io [404] [] [19] [cloudflare] [172.66.150.111] [cloudflare] [558.090013ms] [Cloudflare]
+https://rpc-test.grvt.io [404] [] [21] [cloudflare] [172.66.150.111] [cloudflare] [634.6599ms] [Cloudflare,HSTS]
+https://trades-canary.grvt.io [404] [] [21] [cloudflare] [172.66.150.111] [cloudflare] [590.949693ms] [Cloudflare,HSTS]
+https://reward.testnet.grvt.io [404] [] [19] [cloudflare] [172.66.150.111] [cloudflare] [689.75876ms] [Cloudflare]
+https://test-headers.testnet.grvt.io [404] [] [146] [404 Not Found] [cloudflare] [104.20.24.100] [cloudflare] [622.211077ms] [Cloudflare,HSTS]
+https://tradesiren.grvt.io [404] [] [19] [cloudflare] [172.66.150.111] [cloudflare] [577.620231ms] [Cloudflare]
+https://trades.testnet.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [611.886909ms] [Cloudflare]
+https://test-headers.grvt.io [404] [] [21] [cloudflare] [104.20.24.100] [cloudflare] [654.042366ms] [Cloudflare,HSTS]
+https://rewarddata.testnet.grvt.io [404] [] [0] [cloudflare] [104.20.24.100] [cloudflare] [719.84719ms] [Cloudflare]
+https://tradesiren.testnet.grvt.io [404] [] [19] [cloudflare] [172.66.150.111] [cloudflare] [629.234252ms] [Cloudflare]
+https://zkrpc.testnet.grvt.io [404] [] [548] [404 Not Found] [cloudflare] [104.20.24.100] [cloudflare] [701.136189ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+
+## 503
+

@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:24:45 UTC 2026
+[+] Run ID: 40320284693
+[+] Batch name: batch-07
+[+] Batch targets:
+grvt.io
+helixapp.com
+hertzflow.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:26:51 UTC 2026
+[+] HTTPX input count: 149
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:27:11 UTC 2026
+[+] httpx line count: 58
+[+] Batch completed: Mon Oct 26 12:27:11 UTC 2026

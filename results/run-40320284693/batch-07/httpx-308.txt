@@ -1,0 +1,2 @@
+https://hertzflow.xyz [308] [https://www.hertzflow.xyz/] [15] [Vercel] [216.150.1.1] [105.497731ms] [HSTS,Vercel]
+https://testnet.hertzflow.xyz [308] [/trade] [15] [Vercel] [216.150.16.193] [76.05901ms] [HSTS,Vercel]
