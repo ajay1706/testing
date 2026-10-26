@@ -1,0 +1,7 @@
+https://indexer-mainnet.chain.perawallet.app [302] [https://nodely.io/swagger/index.html?url=/swagger/api/4160/indexer.oas3.yml] [142] [302 Found] [cloudflare] [104.20.44.87] [cloudflare] [317.34977ms] [Cloudflare,HSTS]
+https://indexer-testnet.chain.perawallet.app [302] [https://nodely.io/swagger/index.html?url=/swagger/api/4160/indexer.oas3.yml] [142] [302 Found] [cloudflare] [104.20.44.87] [cloudflare] [202.98628ms] [Cloudflare,HSTS]
+https://btcpay.nunchuk.io [302] [https://btcpay.nunchuk.io/login?ReturnUrl=%2F] [0] [cloudflare] [104.26.14.66] [cloudflare] [856.793416ms] [Cloudflare,HSTS,HTTP/3]
+https://node-mainnet.chain.perawallet.app [302] [https://nodely.io/swagger/index.html?url=/swagger/api/4160/algod.oas3.yml] [142] [302 Found] [cloudflare] [172.66.175.54] [cloudflare] [231.890089ms] [Cloudflare,HSTS]
+https://node-testnet.chain.perawallet.app [302] [https://nodely.io/swagger/index.html?url=/swagger/api/4160/algod.oas3.yml] [142] [302 Found] [cloudflare] [104.20.44.87] [cloudflare] [183.623068ms] [Cloudflare,HSTS]
+https://matrix.nunchuk.io [302] [https://element.nunchuk.io/] [138] [302 Found] [cloudflare] [104.26.14.66] [cloudflare] [652.257987ms] [Cloudflare,HSTS,HTTP/3]
+https://roadmap.perawallet.app [302] [https://pera-wallet.canny.io/] [0] [] [100.56.186.228] [349.80355ms] [HSTS]

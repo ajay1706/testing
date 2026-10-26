@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:18:34 UTC 2026
+[+] Run ID: 40320125149
+[+] Batch name: batch-09
+[+] Batch targets:
+nunchuk.io
+openmask.app
+perawallet.app
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:20:20 UTC 2026
+[+] HTTPX input count: 215
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:20:42 UTC 2026
+[+] httpx line count: 74
+[+] Batch completed: Mon Oct 26 12:20:42 UTC 2026
