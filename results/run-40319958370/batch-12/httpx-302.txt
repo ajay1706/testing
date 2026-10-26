@@ -1,0 +1,2 @@
+https://support.plugwallet.ooo [302] [https://support.plugwallet.ooo/en/] [0] [cloudflare] [172.64.150.18] [cloudflare] [324.061819ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://mail.scopuly.com [302] [https://mail.yandex.ru/?pdd_domain=scopuly.com] [68] [nginx] [77.88.21.37] [1.14836389s] [HSTS,Nginx]

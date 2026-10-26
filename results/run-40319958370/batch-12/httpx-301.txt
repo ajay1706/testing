@@ -1,0 +1,2 @@
+https://www.plugwallet.ooo [301] [https://plugwallet.ooo/] [0] [AmazonS3] [99.84.215.126] [cloudfront] [65.636272ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.apidev.scopuly.com [301] [http://apidev.scopuly.com/public/] [281] [301 Moved Permanently] [ddos-guard] [77.222.39.78] [915.208637ms] [DDoS-Guard]

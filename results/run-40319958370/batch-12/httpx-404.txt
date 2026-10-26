@@ -1,0 +1,3 @@
+https://shop.plugwallet.ooo [404] [] [4581] [This store is unavailable] [cloudflare] [23.227.38.74] [155.784392ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://cctp.scopuly.com [404] [] [22] [] [170.168.91.199] [1.233956139s] [HTTP/3]
+https://apidev.scopuly.com [404] [] [0] [ddos-guard] [77.222.39.78] [1.512762989s] [DDoS-Guard,PHP:8.3.36]

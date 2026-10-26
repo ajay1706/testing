@@ -1,0 +1,112 @@
+# HTTPX Status Report
+
+Generated at: Mon Oct 26 12:29:20 UTC 2026
+
+HTTPX lines: 83
+Live URLs: 83
+
+## 200
+https://docs.plugwallet.ooo [200] [] [27624] [Documentation | Plug] [AmazonS3] [65.8.20.64] [cloudfront] [105.672062ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,MkDocs:1.4.3,Python]
+https://plugwallet.ooo [200] [] [1715] [Plug Wallet: The Ultimate Chain Fusion wallet] [AmazonS3] [52.85.132.47] [cloudfront] [128.214425ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://app-staging.plugwallet.ooo [200] [] [455] [Plug Wallet - Web] [] [63.251.162.11] [601.667063ms] [Amazon S3,Amazon Web Services,HSTS]
+https://app.plugwallet.ooo [200] [] [455] [Plug Wallet] [] [23.142.184.129] [639.478477ms] [HSTS]
+https://news.plugwallet.ooo [200] [] [62866] [Plug Wallet News & Updates] [openresty] [151.101.195.7] [fastly] [176.781861ms] [Ghost:6.73,Nginx,Node.js,OpenResty,Varnish,jQuery CDN,jQuery:3.5.1,jsDelivr]
+https://facilitator-testnet.scopuly.com [200] [] [92] [] [170.168.91.199] [1.157676802s] [HSTS,HTTP/3]
+https://registry.plugwallet.ooo [200] [] [430] [Plug Token Registry] [] [23.142.184.129] [502.514015ms] [HSTS]
+https://facilitator.scopuly.com [200] [] [91] [] [170.168.91.199] [1.323218493s] [HSTS,HTTP/3]
+https://scopuly.com [200] [] [9026] [Scopuly - Stellar Wallet & SDEX] [ddos-guard] [77.222.39.78] [662.089859ms] [DDoS-Guard,Google Analytics]
+https://api.scopuly.com [200] [] [19] [ddos-guard] [77.222.39.78] [1.83269239s] [DDoS-Guard,PHP:5.6.40]
+https://about.scopuly.com [200] [] [77552] [Scopuly - Stellar Wallet & SDEX] [ddos-guard] [77.222.39.78] [1.413587135s] [Bootstrap,DDoS-Guard,FlexSlider,Magnific Popup,Modernizr,OWL Carousel,Slick,WOW,jQuery:3.4.1,mobile-detect.js]
+https://tw.shop.secuxtech.com [200] [] [186444] [SecuX Official Store - The Most Secure Cryptocurrency Hardware Cold Wallet – SecuX TW] [cloudflare] [23.227.38.65] [318.005113ms] [Affiliatly,Cloudflare,HSTS,HTTP/3,Shopify,cdnjs,jQuery:3.3.1]
+https://app.scopuly.com [200] [] [9215] [Scopuly] [ddos-guard] [77.222.39.78] [1.995793179s] [DDoS-Guard,Google Analytics]
+https://secuxtech.com [200] [] [255498] [SecuX | Trusted Security Infrastructure for Digital Life] [cloudflare] [23.227.38.65] [288.340987ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Shopify,Weglot,jQuery CDN,jQuery:3.4.1]
+https://www.api.scopuly.com [200] [] [19] [ddos-guard] [77.222.39.78] [956.829786ms] [DDoS-Guard,PHP:5.6.40]
+https://sai.scopuly.com [200] [] [1668] [SAI] [Caddy] [170.168.91.199] [1.579263261s] [Caddy,HTTP/3]
+https://new2.scopuly.com [200] [] [317330] [SpaceWeb] [ddos-guard] [77.222.39.78] [1.449344451s] [DDoS-Guard]
+https://www.app.scopuly.com [200] [] [9215] [Scopuly] [ddos-guard] [77.222.39.78] [1.340007607s] [DDoS-Guard,Google Analytics]
+https://scop.scopuly.com [200] [] [63558] [SCOP Token - Utility, Cashback and Rewards for Scopuly] [ddos-guard] [77.222.39.78] [1.740625838s] [Bootstrap,DDoS-Guard,Google Analytics,Magnific Popup,Modernizr,OWL Carousel,Slick,WOW,jQuery:3.4.1,mobile-detect.js]
+https://www.scop.scopuly.com [200] [] [63558] [SCOP Token - Utility, Cashback and Rewards for Scopuly] [ddos-guard] [77.222.39.78] [1.212275965s] [Bootstrap,DDoS-Guard,Google Analytics,Magnific Popup,Modernizr,OWL Carousel,Slick,WOW,jQuery:3.4.1,mobile-detect.js]
+https://www.scopuly.com [200] [] [9026] [Scopuly - Stellar Wallet & SDEX] [ddos-guard] [77.222.39.78] [3.141531853s] [DDoS-Guard,Google Analytics]
+https://www.about.scopuly.com [200] [] [77552] [Scopuly - Stellar Wallet & SDEX] [ddos-guard] [77.222.39.78] [5.498128636s] [Bootstrap,DDoS-Guard,FlexSlider,Magnific Popup,Modernizr,OWL Carousel,Slick,WOW,jQuery:3.4.1,mobile-detect.js]
+
+## 301
+https://www.plugwallet.ooo [301] [https://plugwallet.ooo/] [0] [AmazonS3] [99.84.215.126] [cloudfront] [65.636272ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.apidev.scopuly.com [301] [http://apidev.scopuly.com/public/] [281] [301 Moved Permanently] [ddos-guard] [77.222.39.78] [915.208637ms] [DDoS-Guard]
+
+## 302
+https://support.plugwallet.ooo [302] [https://support.plugwallet.ooo/en/] [0] [cloudflare] [172.64.150.18] [cloudflare] [324.061819ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://mail.scopuly.com [302] [https://mail.yandex.ru/?pdd_domain=scopuly.com] [68] [nginx] [77.88.21.37] [1.14836389s] [HSTS,Nginx]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://b2b.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [78.539114ms] [Cloudflare,HSTS,HTTP/3]
+https://business.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [85.40595ms] [Cloudflare,HSTS,HTTP/3]
+https://firmware-test-us.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [86.710864ms] [Cloudflare,HSTS,HTTP/3]
+https://business-test.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [85.694262ms] [Cloudflare,HSTS,HTTP/3]
+https://b2b-michael.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [105.160779ms] [Cloudflare,HSTS,HTTP/3]
+https://b2b2-dora.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [115.781579ms] [Cloudflare,HSTS,HTTP/3]
+https://contact.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [121.124248ms] [Cloudflare,HSTS,HTTP/3]
+https://a-firmware-test.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [136.173913ms] [Cloudflare,HSTS,HTTP/3]
+https://aiot-sandbox.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [147.486684ms] [Cloudflare,HSTS,HTTP/3]
+https://firmware-test.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [73.376571ms] [Cloudflare,HSTS,HTTP/3]
+https://firmware.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [82.626409ms] [Cloudflare,HSTS,HTTP/3]
+https://hadb.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [86.114023ms] [Cloudflare,HSTS,HTTP/3]
+https://kx.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [70.441301ms] [Cloudflare,HSTS,HTTP/3]
+https://develop.secuxtech.com [403] [] [153] [403 Forbidden] [nginx/1.27.2] [35.223.221.83] [google] [249.227209ms] [HSTS,Nginx:1.27.2]
+https://michael.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [75.65432ms] [Cloudflare,HSTS,HTTP/3]
+https://mainnet1.plugwallet.ooo [403] [] [23] [] [34.217.241.44] [141.584861ms]
+https://mainnet.plugwallet.ooo [403] [] [23] [] [32.185.122.102] [165.72443ms]
+https://newsite-v1.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [90.377726ms] [Cloudflare,HSTS,HTTP/3]
+https://phtx.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [92.086216ms] [Cloudflare,HSTS,HTTP/3]
+https://pmsapi-sandbox-st.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [78.080045ms] [Cloudflare,HSTS,HTTP/3]
+https://pmsapi-sandbox.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [137.969084ms] [Cloudflare,HSTS,HTTP/3]
+https://pmsapi.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [67.380993ms] [Cloudflare,HSTS,HTTP/3]
+https://pmsweb-sandbox.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [67.245198ms] [Cloudflare,HSTS,HTTP/3]
+https://pmsnode.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [75.835356ms] [Cloudflare,HSTS,HTTP/3]
+https://pmsweb-sandbox-st.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [75.474635ms] [Cloudflare,HSTS,HTTP/3]
+https://pufs-vhsm.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [72.704597ms] [Cloudflare,HSTS,HTTP/3]
+https://pmsweb.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [107.55982ms] [Cloudflare,HSTS,HTTP/3]
+https://qqq.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [94.669187ms] [Cloudflare,HSTS,HTTP/3]
+https://saas-sandbox.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [85.318565ms] [Cloudflare,HSTS,HTTP/3]
+https://saas.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [87.576763ms] [Cloudflare,HSTS,HTTP/3]
+https://shop.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [103.053598ms] [Cloudflare,HSTS,HTTP/3]
+https://sx-v1.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [74.705857ms] [Cloudflare,HSTS,HTTP/3]
+https://sx-v2.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [73.008063ms] [Cloudflare,HSTS,HTTP/3]
+https://wallet-sandbox.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [89.742354ms] [Cloudflare,HSTS,HTTP/3]
+https://wallet-test.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [83.944591ms] [Cloudflare,HSTS,HTTP/3]
+https://wallet-tw-old.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [77.005843ms] [Cloudflare,HSTS,HTTP/3]
+https://wallet-tw-test.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [98.07254ms] [Cloudflare,HSTS,HTTP/3]
+https://wallet-us-old.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [68.270112ms] [Cloudflare,HSTS,HTTP/3]
+https://wallet.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [90.549244ms] [Cloudflare,HSTS,HTTP/3]
+https://sandbox.secuxtech.com [403] [] [548] [403 Forbidden] [nginx/1.27.0] [34.80.217.242] [google] [488.860008ms] [HSTS,Nginx:1.27.0]
+https://wsapi-sandbox.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [79.265789ms] [Cloudflare,HSTS,HTTP/3]
+https://wsapi.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [96.005267ms] [Cloudflare,HSTS,HTTP/3]
+https://uat.secuxtech.com [403] [] [98] [403 Forbidden] [] [104.199.189.142] [google] [456.816868ms] [HSTS]
+https://wsweb.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [69.476317ms] [Cloudflare,HSTS,HTTP/3]
+https://autodiscover.scopuly.com [403] [] [322] [403 Forbidden] [nginx] [77.222.41.171] [1.263456641s] [Nginx]
+https://wsweb2.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [78.17533ms] [Cloudflare,HSTS,HTTP/3]
+https://wsweb-sandbox.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [108.15265ms] [Cloudflare,HSTS,HTTP/3]
+https://www.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [102.007383ms] [Cloudflare,HSTS,HTTP/3]
+https://xxx.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [92.098854ms] [Cloudflare,HSTS,HTTP/3]
+https://xyz-3.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [1.087803812s] [Cloudflare,HSTS,HTTP/3]
+https://xt.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [6.081562113s] [Cloudflare,HSTS,HTTP/3]
+https://xyz-5.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.225] [cloudflare] [4.086967286s] [Cloudflare,HSTS,HTTP/3]
+http://www.shop.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [23.227.38.74] [2.032155145s] [Cloudflare,HTTP/3]
+http://zinc.secuxtech.com [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [172.66.41.31] [cloudflare] [60.894206ms] [Cloudflare,HTTP/3]
+
+## 404
+https://shop.plugwallet.ooo [404] [] [4581] [This store is unavailable] [cloudflare] [23.227.38.74] [155.784392ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://cctp.scopuly.com [404] [] [22] [] [170.168.91.199] [1.233956139s] [HTTP/3]
+https://apidev.scopuly.com [404] [] [0] [ddos-guard] [77.222.39.78] [1.512762989s] [DDoS-Guard,PHP:8.3.36]
+
+## 500
+
+## 502
+
+## 503
+
