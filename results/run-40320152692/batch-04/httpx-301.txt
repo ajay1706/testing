@@ -1,0 +1,2 @@
+https://www.dfns.co [301] [https://dfns.co/] [0] [CloudFront] [3.168.40.105] [cloudfront] [166.648339ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+http://status.dfns.co [301] [https://status.dfns.co/] [167] [301 Moved Permanently] [CloudFront] [18.160.249.126] [cloudfront] [22.224141ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]

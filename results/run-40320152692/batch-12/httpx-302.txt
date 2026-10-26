@@ -1,0 +1,2 @@
+https://api-test.purewallet.ai [302] [/dashboard] [0] [Caddy] [52.9.87.136] [227.350769ms] [Caddy,HTTP/3]
+https://report-admin.purewallet.ai [302] [/dashboard] [0] [Caddy] [52.9.87.136] [288.569198ms] [Caddy,HTTP/3]

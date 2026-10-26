@@ -1,0 +1,2 @@
+https://static-backend.templewallet.com [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [161.35.206.98] [365.10595ms] [Nginx:1.18.0,Ubuntu]
+https://static-backend.stage.templewallet.com [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [161.35.206.98] [402.746982ms] [Nginx:1.18.0,Ubuntu]
