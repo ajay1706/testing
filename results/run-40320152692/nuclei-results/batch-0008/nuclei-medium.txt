@@ -1,0 +1,2 @@
+[mongodb-exporter-metrics] [http] [medium] https://ltw.qaapi.xcapit.com/metrics
+[mongodb-exporter-metrics] [http] [medium] https://msvnzl.ltw.xcapit.com/metrics

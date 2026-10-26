@@ -1,0 +1,75 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] legacy-go.krystal.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] leaderboard.interlinklabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] legacy-go.krystal.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] leaderboard.interlinklabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] linkvault.interlinklabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] liquidpad-api.krystal.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] linkvault.interlinklabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] litellm-ai.fireblocks.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] liquidpad-api.krystal.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] litellm-ai.fireblocks.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] logs-dev.coca.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] logs-dev.coca.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] logs-stage.coca.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] logs-stage.coca.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.bitizen.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.bitizen.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.ins-testnet.interlinklabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.ins-testnet.interlinklabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mcp.ai.aktionariat.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mcp.ai.aktionariat.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] matomo.brave.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] matomo.brave.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mini-app.interlinklabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mini-app.interlinklabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mobile-staging-test.wigwam.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mobile-staging-test.wigwam.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mobile-testk.wigwam.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mobile-testk.wigwam.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mxp-tck.krystal.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mxp-tck.krystal.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mynodes.blackfort.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mynodes.blackfort.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] new.keyring.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] new.keyring.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] news.whitewallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] news.whitewallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mx.avacus.cc:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] newsletter.wigwam.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nft.keyring.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] newsletter.wigwam.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nft.keyring.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ng.holdstation.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ng.holdstation.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mx.avacus.cc:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[kubernetes-metrics] [http] [low] https://ltw.qaapi.xcapit.com/metrics
+[postgres-exporter-metrics] [http] [low] https://ltw.qaapi.xcapit.com/metrics
+[kubernetes-metrics] [http] [low] https://msvnzl.ltw.xcapit.com/metrics
+[postgres-exporter-metrics] [http] [low] https://msvnzl.ltw.xcapit.com/metrics
+[unauthenticated-varnish-cache-purge] [http] [low] https://link.templewallet.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://link.xcapit.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://links.kriptomat.io
+[unauthenticated-varnish-cache-purge] [http] [low] https://mobile.bestwallet.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://nfts.valoraapp.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://link.xcapit.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://link.xcapit.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://link.xcapit.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://leaderboard.krystal.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://leaderboard.krystal.app
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://leaderboard.krystal.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://links.kriptomat.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://links.kriptomat.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://links.kriptomat.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://link.templewallet.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://link.templewallet.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://link.templewallet.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://mobile.bestwallet.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://mobile.bestwallet.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://mobile.bestwallet.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://mywallet.ads.brave.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://mywallet.ads.brave.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://mywallet.ads.brave.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://nfts.valoraapp.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://nfts.valoraapp.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://nfts.valoraapp.com
+[expired-ssl] [ssl] [low] metrics.thorwallet.org:443 ["2024-10-10 15:57:06 +0000 UTC"]
