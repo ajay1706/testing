@@ -1,0 +1,7 @@
+https://privy.velocity.exchange [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [83.009032ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.app.velocity.exchange [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [95.370211ms] [Cloudflare,Cloudflare Bot Management]
+https://www.preview.velocity.exchange [404] [] [107] [Vercel] [66.33.60.34] [112.567045ms] [HSTS,Vercel]
+https://mail.preview.velocity.exchange [404] [] [107] [Vercel] [76.76.21.22] [120.119821ms] [HSTS,Vercel]
+https://t.velocity.exchange [404] [] [105] [cloudflare] [104.20.19.245] [cloudflare] [291.292472ms] [Cloudflare,HSTS]
+https://swift.velocity.exchange [404] [] [10] [] [52.85.132.123] [cloudfront] [338.463063ms] [Amazon CloudFront,Amazon Web Services]
+https://events.velocity.exchange [404] [] [139] [Error] [] [99.84.41.63] [cloudfront] [366.320162ms] [Amazon CloudFront,Amazon Web Services,Express,Node.js]

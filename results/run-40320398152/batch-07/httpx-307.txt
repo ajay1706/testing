@@ -1,0 +1,3 @@
+https://beta.docs.velocity.exchange [307] [/protocol/] [15] [Vercel] [216.150.16.1] [164.898961ms] [HSTS,Vercel]
+https://docs.velocity.exchange [307] [/protocol/] [15] [Vercel] [216.150.16.129] [235.520064ms] [HSTS,Vercel]
+https://ref.zar.app [307] [https://www.zar.app/download] [0] [openresty] [44.230.115.150] [263.316533ms] [HSTS,Nginx,OpenResty]
