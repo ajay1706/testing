@@ -1,0 +1,5 @@
+[prometheus-metrics] [http] [medium] https://api.backoffice.uat.epec.xcapit.com/metrics
+[prometheus-metrics] [http] [medium] https://api.backoffice.qa.epec.xcapit.com/metrics
+[prometheus-metrics] [http] [medium] https://api.prod.kriptonwallet.xcapit.com/metrics
+[prometheus-metrics] [http] [medium] https://api.qa.pagotic.xcapit.com/metrics
+[prometheus-metrics] [http] [medium] https://api.uat.kriptonwallet.xcapit.com/metrics
