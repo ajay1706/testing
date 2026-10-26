@@ -1,0 +1,2 @@
+http://dev.news.bitcoin.com [308] [https://dev.news.bitcoin.com/] [14] [Vercel] [64.239.123.65] [2.142068086s] [Vercel]
+https://markets.bitcoin.com [308] [https://www.bitcoin.com/price/] [15] [Vercel] [64.239.109.65] [164.595187ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]

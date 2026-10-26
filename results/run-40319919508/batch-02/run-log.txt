@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:07:22 UTC 2026
+[+] Run ID: 40319919508
+[+] Batch name: batch-02
+[+] Batch targets:
+bitcoin.com
+bitget.com
+bitpay.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:09:39 UTC 2026
+[+] HTTPX input count: 1414
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:11:40 UTC 2026
+[+] httpx line count: 868
+[+] Batch completed: Mon Oct 26 12:11:40 UTC 2026
