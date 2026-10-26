@@ -1,0 +1,14 @@
+[+] Batch started: Mon Oct 26 12:19:57 UTC 2026
+[+] Run ID: 40320125149
+[+] Batch name: batch-05
+[+] Batch targets:
+herewallet.app
+hot-labs.org
+lace.io
+[+] Running subfinder...
+[+] Subfinder completed: Mon Oct 26 12:21:30 UTC 2026
+[+] HTTPX input count: 159
+[+] Running httpx...
+[+] httpx completed: Mon Oct 26 12:21:52 UTC 2026
+[+] httpx line count: 50
+[+] Batch completed: Mon Oct 26 12:21:52 UTC 2026
