@@ -1,0 +1,2 @@
+https://doppler.lol [308] [https://www.doppler.lol/] [15] [Vercel] [76.76.21.21] [2.188431245s] [HSTS,Vercel]
+http://grafana.indexer.doppler.lol [308] [https://grafana.indexer.doppler.lol/] [0] [Caddy] [209.38.49.100] [169.624999ms] [Caddy]
