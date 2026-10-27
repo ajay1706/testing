@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://explorer.testedge2.haqq.network/metrics
