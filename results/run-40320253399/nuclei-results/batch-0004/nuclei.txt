@@ -1,0 +1,14 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.decaf.so:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.decaf.so:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.tiplink.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.tiplink.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://demo.owallet.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://demo.owallet.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://demo.owallet.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://demo.owallet.io
+[package-json] [http] [low] https://docs.gk8.io/package.json
+[package-json] [http] [low] https://docs.gk8.io/package-lock.json
+[expired-ssl] [ssl] [low] dev.docs.splits.org:443 ["2026-05-04 20:13:01 +0000 UTC"]
+[expired-ssl] [ssl] [low] dev.app.splits.org:443 ["2025-08-28 21:42:26 +0000 UTC"]
+[expired-ssl] [ssl] [low] dev.teams.splits.org:443 ["2025-09-16 14:11:46 +0000 UTC"]
+[expired-ssl] [ssl] [low] docs.noah.plena.finance:443 ["2025-12-29 12:25:45 +0000 UTC"]
