@@ -1,0 +1,2 @@
+https://gather.assemblyai.com [302] [https://us.posthog.com/] [0] [envoy] [13.32.230.65] [cloudfront] [327.717363ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Envoy,HSTS]
+http://s3-storage.netease.streaming.aiva.ai [302] [http://s3-storage.netease.streaming.aiva.ai/login] [442] [Redirecting to http://s3-storage.netease.streaming.aiva.ai/login] [nginx/1.18.0 (Ubuntu)] [128.199.250.21] [387.570184ms] [Nginx:1.18.0,Ubuntu]

@@ -1,0 +1,5 @@
+https://aiva.ai [301] [https://www.aiva.ai/] [194] [301 Moved Permanently] [nginx/1.14.0 (Ubuntu)] [64.227.33.139] [588.773444ms] [HSTS,Nginx:1.14.0,Ubuntu]
+https://beta.aiva.ai [301] [https://creators.aiva.ai/] [194] [301 Moved Permanently] [nginx/1.14.0 (Ubuntu)] [64.227.33.139] [639.197853ms] [HSTS,Nginx:1.14.0,Ubuntu]
+https://engine.aiva.ai [301] [https://creators.aiva.ai/] [194] [301 Moved Permanently] [nginx/1.14.0 (Ubuntu)] [64.227.33.139] [602.218854ms] [HSTS,Nginx:1.14.0,Ubuntu]
+http://mail.aiva.ai [301] [https://mail.google.com/a/aiva.ai] [230] [301 Moved] [ghs] [192.178.164.121] [google] [21.887547ms]
+https://status.aiva.ai [301] [/en/] [38] [nginx] [172.65.245.131] [cloudflare] [909.237987ms] [HSTS,Nginx]

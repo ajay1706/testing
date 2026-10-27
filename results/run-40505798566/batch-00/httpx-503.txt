@@ -1,0 +1,3 @@
+https://mcp.assemblyai.com [503] [] [99] [Vercel] [76.76.21.93] [129.666068ms] [HSTS,Vercel]
+https://sampler-test.aiva.ai [503] [] [592] [503 Service Temporarily Unavailable] [] [157.245.29.163] [458.616049ms] [HSTS]
+https://updates.aiva.ai [503] [] [592] [503 Service Temporarily Unavailable] [] [68.183.254.170] [487.57381ms] [HSTS]

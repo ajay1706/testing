@@ -1,0 +1,5 @@
+https://fern.assemblyai.com [307] [/docs] [0] [Vercel] [76.76.21.93] [659.835555ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://s3-test.aiva.ai [307] [/minio/] [43] [nginx/1.14.0 (Ubuntu)] [134.209.183.255] [564.862921ms] [Nginx:1.14.0,Ubuntu]
+https://s3-storage.aiva.ai [307] [/minio/] [43] [nginx/1.14.0 (Ubuntu)] [134.209.183.255] [685.013499ms] [Nginx:1.14.0,Ubuntu]
+https://www.docs.assemblyai.com [307] [https://docs.assemblyai.com/] [15] [Vercel] [216.150.1.1] [386.753825ms] [HSTS,Vercel]
+https://www.fern.assemblyai.com [307] [https://fern.assemblyai.com/] [15] [Vercel] [216.150.1.1] [387.693518ms] [HSTS,Vercel]

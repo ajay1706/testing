@@ -1,0 +1,3 @@
+https://api.aiva.ai [502] [] [584] [502 Bad Gateway] [nginx/1.14.0 (Ubuntu)] [64.227.33.139] [602.135986ms] [Nginx:1.14.0,Ubuntu]
+https://socket.aiva.ai [502] [] [182] [502 Bad Gateway] [nginx/1.14.0 (Ubuntu)] [64.227.33.139] [564.779963ms] [Nginx:1.14.0,Ubuntu]
+https://snake.assemblyai.com [502] [] [223038] [502] [cloudflare] [216.24.57.18] [431.705331ms] [Cloudflare,HTTP/3]
