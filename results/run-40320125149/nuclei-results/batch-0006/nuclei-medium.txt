@@ -1,0 +1,1 @@
+[CVE-2023-48795] [javascript] [medium] sdk-doc.breez.technology:22 ["Vulnerable to Terrapin"]
