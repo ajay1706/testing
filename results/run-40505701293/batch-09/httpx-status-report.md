@@ -1,0 +1,97 @@
+# HTTPX Status Report
+
+Generated at: Tue Oct 27 23:08:28 UTC 2026
+
+HTTPX lines: 78
+Live URLs: 78
+
+## 200
+https://metrics.manus.im [200] [] [0] [] [13.248.176.92] [132.069946ms] [HSTS]
+https://contributor.magnific.com [200] [] [2196] [] [2.21.9.82] [452.137389ms] [Akamai,Akamai Bot Manager,HSTS,HTTP/3]
+https://jobs.magnific.com [200] [] [67063] [Creativity is a mindset - Magnific] [nginx] [151.101.129.242] [fastly] [146.599409ms] [Font Awesome,HSTS,Nginx,Ruby,Ruby on Rails,Stimulus,Varnish]
+https://trust.manus.im [200] [] [7590] [manus.ai Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [387.542052ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://taxcenter.magnific.com [200] [] [2188] [] [23.1.254.175] [735.616522ms] [Akamai,Akamai Bot Manager,HSTS,HTTP/3]
+https://usecase.manus.im [200] [] [19866] [Notion] [cloudflare] [208.103.161.32] [411.87399ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,hCaptcha]
+https://trust.magnific.com [200] [] [11653] [Magnific | Trust Center] [cloudflare] [104.21.13.16] [cloudflare] [969.221267ms] [Cloudflare,HSTS,HTTP/3,Ruby,Ruby on Rails]
+https://status.manus.im [200] [] [82809] [Manus Status] [AtlassianEdge] [108.156.107.85] [cloudfront] [734.904218ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://research.meta.ai [200] [] [273157] [Research | Meta AI Research] [Vercel] [57.144.252.141] [467.604018ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://manus.im [200] [] [179932] [Manus: Hands On AI] [] [13.249.141.112] [cloudfront] [694.967291ms] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HSTS,Next.js,Node.js,React,Webpack]
+https://learnai.manus.im [200] [] [371291] [Learn AI with Manus] [cloudflare] [104.19.168.112] [cloudflare] [1.250906152s] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://partner.manus.im [200] [] [369928] [Manus Business Partner Program] [cloudflare] [104.19.168.112] [cloudflare] [1.255599373s] [Cloudflare,Express,Google Cloud,Google Cloud Trace,HSTS,Node.js]
+https://www.manus.im [200] [] [179932] [Manus: Hands On AI] [] [13.249.141.112] [cloudfront] [767.248799ms] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HSTS,Next.js,Node.js,React,Webpack]
+https://dev.meta.ai [200] [] [550786] [Products & Solutions for AI Developers | Meta] [Vercel] [57.144.204.141] [1.042695389s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://academy.manus.im [200] [] [549039] [Manus Academy] [Vercel] [216.150.1.193] [1.537572827s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://ecto1.meta.ai [301] [https://www.meta.ai/?] [0] [proxygen-bolt] [57.144.252.141] [175.765719ms]
+https://artifacts.meta.ai [301] [https://www.meta.ai/] [15] [Vercel] [57.144.172.141] [274.138007ms] [HSTS,Vercel]
+https://events.manus.im [301] [https://manus.im/events] [241] [301 Moved Permanently] [APISIX/3.11.0] [34.233.150.25] [276.321816ms] [Apache APISIX:3.11.0]
+
+## 302
+https://app-builder.manus.im [302] [https://manus.im] [0] [CloudFront] [99.86.77.12] [cloudfront] [84.982283ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://agent.meta.ai [302] [https://muse.ai/?] [0] [proxygen-bolt] [57.144.204.141] [92.184069ms]
+https://be.magnific.com [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=be.magnific.com] [113] [nginx] [67.199.248.12] [167.240767ms] [HSTS,HTTP/3,Nginx]
+https://api.magnific.com [302] [https://docs.magnific.com] [217] [302 Found] [] [23.64.112.149] [207.497722ms] [HSTS,HTTP/3]
+https://applink.meta.ai [302] [https://www.meta.ai/] [0] [] [157.240.254.12] [209.911784ms] [HSTS]
+https://enterprise.magnific.com [302] [https://www.magnific.com/log-in?client_id=magnific&cb_url=https%3A%2F%2Fenterprise.magnific.com%2F] [0] [] [23.64.112.177] [222.285505ms] [HSTS,HTTP/3]
+https://familycenter.meta.ai [302] [https://auth.meta.com/oidc/?app_id=391894423991568&redirect_uri=https%3A%2F%2Ffamilycenter.meta.ai%2Foidc%2Fcallback%2F&response_type=code&scope=openid+linking&state=ATrFvKp-sVWHlNnBQ0fPWdsc35nGxMgh4SnqA86A24MWhH5AnF5JGOqe8oHfcEXp6_xhdtkWqpO_vv-hciNzHBUFZsbRYIcxp9Y7nU4r1jTdE2yRcj9VIqxwFcDkabpEU5g7IcEK95Lkxh3xyEaEOkDjlLcijccGLbQbnGoSDXAQhdNMgB_7V1UcVh2H6mkbU5QQw9ULh7AOgV5aO_TcGAaHyC4kbRGLv1-LxNsh0dIcKqJuJl3_wZqqbb6tpfhvCmV2srnsd14LJNzdgnZIJxYZg_8ykb_rWl4cVgROHI1L-cnLc4wSGg] [0] [] [57.144.180.141] [240.007936ms] [HSTS]
+https://manager.magnific.com [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=565509753282-aduosu2cv8oq2nipdq42kivvte9nfnoh.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/565509753282-aduosu2cv8oq2nipdq42kivvte9nfnoh.apps.googleusercontent.com:handleRedirect&code_challenge=Zk7a9gllY2zAK16SlJVuCWkp_KoegJg4wkYmmWxAbD0&code_challenge_method=S256&cred_ref=true&state=ATbdjREEazi_Zxo8O_QBaF9dIV0iZfvGAz42KaiXJIFGeR7CF-fT1qk4K3NN4LeSb4WM75IBHav2hbysauS0v3Q3QSAeHXeijCrVhMqKua4GRyel84MP1Cd8PFuGWJV39BEPHxPzvlfRB_tzMgwhVI4RgXP3UTDYIKcNZBukrvJdAWG1O5EgcPA75-n0feiGLK7lzDOMrUKLHdE7y_YAQkIuX9xVciANEwKESnDLiDgPGGIRJciTqA8axFYQTZKMOxl1_UalPJ20Xx_L2eI3p4oik46vBj6mA9lKrMnBMtzj-fZ7FCHnLSHTfL8d3exhdMziPk0bHt_GQzNjsGK6xwVX04Z5J2mbFaLFDGMZpRsoLAbSSxs4JbnQVEZEoCYynIye0xhBHlM6chN3Y90QrNi_kRJl4942ALacz_OT35h5zN0sP0qPAxYqyRlQckmRM4QbGNOdQZ91SbnW0nKaFA3pTAta_m4C6kOVIFO83mO7OQVWDXFzI3XGhEeaEtF0K5yM_4TU8cgrIDD3mbXWeIvW7NrbT2wBEBF7JkqxQGDzrjmSiU82tiiiiecQY1roRNWhjoGW8TnHiwUIRZoy8_jP22a2K5CQnJGoGm_57_ss78m62PVj62_OV0PG4VJlIgc65mzKi0SXQC_UayVrAADcN7H1Sj4QCGTJkrBSkys-r73CaWsXLWcn5mM354jlDkYRz1IGxcrRQxJofXTYObcQpaqUoRr8xxV8NrfsasP8IFivNO2UgBoTsOa-eVg4YE4RFvkflvUVALY6dYlF6hJvDfXZFn7yo-Pnjf1ctajoPqsFij2CqTG3_mgFBTDxRT-YrG4oaxDo6MMGVWJPBg1Y8AICN2JHBqEgcuyo3x4PnEWmq-RYNUEkjxJUpi6ztszdMQPHjseLBjkfdyVy_iHDzuro3x4NR8hajwkpH0nlwmeZdQRVxv0VAulKEUQ-iZDyyNhrUY7CPoWP6yd67mPxSPI2TRl6TlG28I7HydRfJYEdrkt9jIJHs4QzJcNddVcUQSpJVwFS_YbGfqvMBggRRYZrgmAGgVotPPZRvjrUmYJ3OpxcL2ldO7K7-xGjidwBXFtglJ_yp5bhF_rX4w3Q5KpYUNl8aYxicL-pq_5DEtREfvo6owQn8Se8weFTjsNWryhlg-N9] [36] [] [34.149.43.53] [google] [259.145291ms] [HTTP/3]
+https://fonts.magnific.com [302] [https://wepik.com/?nocahe] [346] [Redirecting to https://wepik.com/?nocahe] [] [23.64.112.188] [611.4828ms] [HSTS,HTTP/3]
+https://pages.manus.im [302] [https://manus.im:443/] [110] [302 Found] [awselb/2.0] [18.235.152.167] [169.969903ms] [Amazon ELB,Amazon Web Services]
+https://help.manus.im [302] [/en/] [26] [cloudflare] [104.19.168.112] [cloudflare] [1.041945405s] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://careers.manus.im [302] [/en] [25] [cloudflare] [104.19.168.112] [cloudflare] [1.284335079s] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://sentry.magnific.com [302] [/auth/login/] [0] [istio-envoy] [34.160.205.140] [google] [543.765665ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://staging.meta.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.ecto1.ai%2F&nonce=a35c59909ec3984714bb2936d6e5077f114fe7e041a2df57d516ba8f36932306] [263] [Vercel] [57.144.180.141] [401.783045ms] [HSTS,Vercel]
+https://status.magnific.com [302] [https://keycloak.fpkmon.com/realms/master/protocol/openid-connect/auth?approval_prompt=force&client_id=oauth2-proxy&redirect_uri=https%3A%2F%2Foauth2-proxy.magnific.com%2Foauth2%2Fcallback&response_type=code&scope=openid+email+profile+groups&state=Sm7hoQDCX-16NvXorkUVRnaHjHdCHWxDOF-nvs1CA-0%3Ahttps%3A%2F%2Fstatus.magnific.com%2F] [373] [] [23.64.112.174] [577.681177ms] [HSTS,HTTP/3]
+
+## 307
+
+## 308
+https://docs.magnific.com [308] [/introduction] [127169] [Vercel] [66.33.60.35] [217.731728ms] [HSTS,Vercel]
+https://open.manus.im [308] [/docs] [0] [Vercel] [52.84.127.120] [cloudfront] [415.805941ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,Vercel]
+
+## 401
+https://at-od.meta.ai [401] [] [363] [4xx Client Error] [] [57.144.180.139] [202.106909ms]
+https://mail.at-od.meta.ai [401] [] [363] [4xx Client Error] [] [57.144.180.139] [147.900766ms]
+https://www.at-od.meta.ai [401] [] [363] [4xx Client Error] [] [57.144.180.139] [357.701422ms]
+
+## 403
+https://cdn.magnific.com [403] [] [18] [] [23.64.112.157] [63.993046ms] [HTTP/3]
+https://api.meta.ai [403] [] [89] [] [57.144.204.141] [103.441204ms] [HSTS]
+https://cdn-icons-png.magnific.com [403] [] [9] [] [23.220.144.207] [111.256354ms] [HTTP/3]
+https://download.manus.im [403] [] [111] [AmazonS3] [18.160.249.60] [cloudfront] [174.106378ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://id.magnific.com [403] [] [7533] [That request didn't go through. Our security filter flagged something. You don't have permission to access this page.] [] [2.21.9.76] [276.534751ms] [HSTS,HTTP/3]
+https://meta.ai [403] [] [478] [Meta AI] [] [57.144.180.141] [145.351247ms]
+https://magnific.com [403] [] [7532] [That request didn't go through. Our security filter flagged something. You don't have permission to access this page.] [] [23.64.112.177] [243.305474ms] [HSTS,HTTP/3]
+https://media.magnific.com [403] [] [405] [] [23.54.78.9] [291.193641ms]
+https://www.meta.ai [403] [] [478] [Meta AI] [] [157.240.254.12] [158.374521ms]
+https://www.magnific.com [403] [] [7532] [That request didn't go through. Our security filter flagged something. You don't have permission to access this page.] [] [23.54.78.50] [431.418558ms] [HSTS,HTTP/3]
+
+## 404
+https://cdn-tunes.magnific.com [404] [] [10] [] [23.54.78.50] [75.067419ms]
+https://avatar.magnific.com [404] [] [9] [] [23.1.254.168] [76.84646ms]
+https://gateway.meta.ai [404] [] [363] [4xx Client Error] [] [57.144.204.145] [96.62385ms]
+https://cdn-tunes-im.magnific.com [404] [] [10] [] [23.64.112.187] [127.406114ms]
+https://auth.meta.ai [404] [] [0] [] [57.144.252.141] [174.673483ms] [HSTS]
+https://img.magnific.com [404] [] [10] [] [23.220.144.222] [80.70485ms] [HSTS,HTTP/3]
+https://image.magnific.com [404] [] [10] [] [23.64.112.165] [100.160965ms] [HSTS,HTTP/3]
+https://api.manus.im [404] [] [36] [APISIX/3.11.0] [34.233.150.25] [244.947711ms] [Apache APISIX:3.11.0]
+https://figma.magnific.com [404] [] [207] [404 Not Found] [Google Frontend] [216.239.34.21] [google] [249.92378ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://auth.magnific.com [404] [] [0] [] [23.64.112.180] [267.307099ms] [HSTS,HTTP/3]
+https://email.mail.manus.im [404] [] [19] [] [34.102.239.211] [google] [294.351327ms]
+https://challenge.magnific.com [404] [] [11] [] [23.54.78.36] [637.211422ms] [HTTP/3]
+https://referral.magnific.com [404] [] [0] [cloudflare] [151.101.194.133] [fastly] [286.357704ms] [Cloudflare,HSTS,Varnish]
+https://shortwave.meta.ai [404] [] [0] [] [57.144.180.131] [233.62269ms] [HTTP/3]
+https://sse.magnific.com [404] [] [139] [Error] [istio-envoy] [34.160.205.140] [google] [292.203963ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js]
+https://www.figma.magnific.com [404] [] [207] [404 Not Found] [Google Frontend] [74.125.129.121] [google] [545.884232ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://classic.meta.ai [404] [] [414196] [Meta AI] [] [57.144.180.141] [519.343775ms] [HSTS]
+https://alpha.meta.ai [404] [] [414498] [Meta AI] [] [57.144.180.141] [479.138304ms] [HSTS]
+https://www.trunkstable.meta.ai [404] [] [413526] [Meta AI] [] [157.240.254.12] [830.357875ms] [HSTS]
+
+## 500
+https://graph.meta.ai [500] [] [213] [] [57.144.180.141] [172.755477ms] [HSTS]
+
+## 502
+
+## 503
+
