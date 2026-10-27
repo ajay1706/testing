@@ -1,0 +1,14 @@
+[+] Batch started: Tue Oct 27 21:33:04 UTC 2026
+[+] Run ID: 40505905544
+[+] Batch name: batch-03
+[+] Batch targets:
+fireflies.ai
+glean.com
+grammarly.com
+[+] Running subfinder...
+[+] Subfinder completed: Tue Oct 27 21:36:50 UTC 2026
+[+] HTTPX input count: 8985
+[+] Running httpx...
+[+] httpx completed: Tue Oct 27 22:00:23 UTC 2026
+[+] httpx line count: 1462
+[+] Batch completed: Tue Oct 27 22:00:23 UTC 2026
