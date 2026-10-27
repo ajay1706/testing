@@ -1,0 +1,3 @@
+[framer-takeover] [http] [high] https://dawnwallet.xyz
+[framer-takeover] [http] [high] https://www.dawnwallet.xyz ["sites.framer.app"]
+[github-takeover] [http] [high] https://docs.bitizen.org

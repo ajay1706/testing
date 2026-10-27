@@ -1,0 +1,20 @@
+[CVE-2021-44528] [http] [medium] https://gitlab.xcapit.com
+[CVE-2023-1496] [http] [medium] https://img.templewallet.com/unsafe/plain/https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+[CVE-2023-30019] [http] [medium] https://img.templewallet.com/111/rs:fit:400:400:0:0/plain/http://dbfnsvqs1aajgcn0poag4fj6c6kku9azk.oast.site
+[CVE-2023-5561] [http] [medium] https://bestwallet.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2023-5561] [http] [medium] https://www.bestwallet.com/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[CVE-2025-24354] [http] [medium] https://img.templewallet.com/unsafe/plain/http://dbfnsvqs1aajgcn0poagc7yb3ecow1x68.oast.site
+[CVE-2025-54793] [http] [medium] https://tgt-metrics.thorwallet.org//interact.sh/en//
+[CVE-2026-27454] [http] [medium] https://community.fireblocks.com/posts/5726.json?version=1
+[CVE-2026-32230] [http] [medium] https://status.mainnet.interlinklabs.ai/api/badge/1/ping/24
+[CVE-2026-32230] [http] [medium] https://status.test-net.interlinklabs.ai/api/badge/1/ping/24
+[mongodb-exporter-metrics] [http] [medium] https://ltw.qaapi.xcapit.com/metrics
+[mongodb-exporter-metrics] [http] [medium] https://msvnzl.ltw.xcapit.com/metrics
+[open-redirect-generic] [http] [medium] https://tgt-metrics.thorwallet.org//oast.me/ [redirect="/oast.me/"]
+[prometheus-metrics] [http] [medium] https://api.backoffice.qa.epec.xcapit.com/metrics
+[prometheus-metrics] [http] [medium] https://api.backoffice.uat.epec.xcapit.com/metrics
+[prometheus-metrics] [http] [medium] https://api.prod.kriptonwallet.xcapit.com/metrics
+[prometheus-metrics] [http] [medium] https://api.qa.pagotic.xcapit.com/metrics
+[prometheus-metrics] [http] [medium] https://api.uat.kriptonwallet.xcapit.com/metrics
+[prometheus-metrics] [http] [medium] https://backend.demo.mainnet.pagotic.xcapit.com/metrics
+[prometheus-metrics] [http] [medium] https://ponder.aktionariat.com/metrics
