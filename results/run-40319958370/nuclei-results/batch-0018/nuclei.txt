@@ -1,0 +1,43 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] test.nightly.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] testk8s.hashpack.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testk8s.hashpack.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] test.nightly.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] test.bmn2.mining.blockstream.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] test.bmn2.mining.blockstream.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] testnet-stats.xportal.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testnet-stats.xportal.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testnet.suiet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tsp.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tsp.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] v1.hashpack.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] v1.hashpack.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] valiant-mainnet.nightly.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] valiant-mainnet.nightly.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] verify.blockstream.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] verify.blockstream.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://testlink.bladewallet.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://testlink.bladewallet.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://testlink.bladewallet.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://tools.subwallet.app
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://tools.subwallet.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://tools.subwallet.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ui-preview.subwallet.app
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ui-preview.subwallet.app
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ui-preview.subwallet.app
+[unauthenticated-varnish-cache-purge] [http] [low] https://testlink.bladewallet.io
+[expired-ssl] [ssl] [low] testlink.bladewallet.io:443 ["2026-06-29 22:20:53 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] testnet-offlinejobs.xportal.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet-offlinejobs.xportal.com:443
+[kubernetes-fake-certificate] [ssl] [low] testnet-internal-api.xportal.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet-internal-api.xportal.com:443
+[kubernetes-fake-certificate] [ssl] [low] testnet-market-api.xportal.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet-market-api.xportal.com:443
+[kubernetes-fake-certificate] [ssl] [low] testnet-portal-backoffice.xportal.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet-portal-backoffice.xportal.com:443
+[kubernetes-fake-certificate] [ssl] [low] testnet-private-anlytics.xportal.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] testnet-private-anlytics.xportal.com:443
+[expired-ssl] [ssl] [low] testnet.rpc.canton.nightly.app:443 ["2026-02-15 12:43:39 +0000 UTC"]
+[expired-ssl] [ssl] [low] token.kabila.app:443 ["2026-03-24 17:02:25 +0000 UTC"]
+[expired-ssl] [ssl] [low] uat.secuxtech.com:443 ["2024-10-07 01:55:21 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] v1.stellar.lobstr.co:443
+[self-signed-ssl] [ssl] [low] v5.stellar.lobstr.co:443
