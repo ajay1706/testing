@@ -1,0 +1,56 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.fermi.trade/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2026-26077] [http] [medium] https://gov.denaria.finance/webhooks/mailpace
+[CVE-2026-27454] [http] [medium] https://forum.mux.network/posts/541.json?version=1
+[CVE-2026-27454] [http] [medium] https://forums.derive.xyz/posts/600.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.denaria.finance/posts/37.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.gmx.io/posts/12745.json?version=1
+[CVE-2026-27934:action_type] [http] [high] https://gov.denaria.finance/user_actions/6.json ["2"] [id="6"]
+[CVE-2026-33425] [http] [medium] https://gov.denaria.finance/directory_items.json?period=all&order=likes_received&page=0&exclude_groups=admins%7Cmoderators%7Cstaff%7Ctrust_level_4
+[weak-cipher-suites:tls-1.0] [ssl] [low] events.gmtrade.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] events.gmtrade.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] feedback.decibel.trade:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] feedback.decibel.trade:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fun-api.aark.digital:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fun-api.aark.digital:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gains.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gains.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gamma-cache.polymarket.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gamma-cache.polymarket.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] geo-ip-api.polymarket.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] geo-ip-api.polymarket.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] go.denaria.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] goolaunch.hertzflow.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] go.demo-staging.denaria.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] goolaunch.hertzflow.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] go.mainnet-staging.denaria.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] go.demo-staging.denaria.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] go.mainnet-staging.denaria.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] go.denaria.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] go.demo.denaria.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] go.demo.denaria.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.fermi.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.fermi.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.qfex.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.qfex.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.waterx.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.waterx.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gray-api.dipcoin.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gray-api.dipcoin.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gray-ws.dipcoin.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gray-www.dipcoin.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gray-www.dipcoin.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gray-ws.dipcoin.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.ostium.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.ostium.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.fermi.trade/metrics ["11.2.0"]
+[kubernetes-metrics] [http] [low] https://grafana.fermi.trade/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.fermi.trade/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.waterx.app/metrics ["13.1.4"]
+[kubernetes-metrics] [http] [low] https://grafana.waterx.app/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.waterx.app/metrics
+[graphiql-exposure] [http] [low] https://fullnode.sui.testnet.aftermath.finance/graphql
+[google-api-key] [http] [low] https://grvt.io ["AIzaSyCbAyydI7y0gqAV6w0scIBA2hZjIyu86hc"]
+[google-api-key] [http] [low] https://grvt.io/hopfully404 ["AIzaSyCbAyydI7y0gqAV6w0scIBA2hZjIyu86hc"]
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://grafana.fermi.trade/api/search?type=dash-db
+[expired-ssl] [ssl] [low] frames.polymarket.com:443 ["2026-07-24 05:43:14 +0000 UTC"]
+[expired-ssl] [ssl] [low] governance.aevo.xyz:443 ["2026-04-26 06:15:33 +0000 UTC"]

@@ -1,0 +1,6 @@
+[CVE-2026-26077] [http] [medium] https://gov.denaria.finance/webhooks/mailpace
+[CVE-2026-27454] [http] [medium] https://forum.mux.network/posts/541.json?version=1
+[CVE-2026-27454] [http] [medium] https://forums.derive.xyz/posts/600.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.denaria.finance/posts/37.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.gmx.io/posts/12745.json?version=1
+[CVE-2026-33425] [http] [medium] https://gov.denaria.finance/directory_items.json?period=all&order=likes_received&page=0&exclude_groups=admins%7Cmoderators%7Cstaff%7Ctrust_level_4
