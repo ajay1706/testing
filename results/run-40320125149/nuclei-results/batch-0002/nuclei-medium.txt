@@ -1,0 +1,5 @@
+[CVE-2023-48795] [javascript] [medium] card.mycelium.com:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] crashhub.electrum.org:22 ["Vulnerable to Terrapin"]
+[CVE-2025-63387] [http] [medium] https://dify.nunchuk.io/console/api/system-features
+[django-debug-config-enabled] [http] [medium] https://cars.mycelium.com/NON_EXISTING_PATH/
+[laravel-debugbar-exposure] [http] [medium] https://cms-test.leather.io/_debugbar/open
