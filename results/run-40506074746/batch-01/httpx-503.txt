@@ -1,0 +1,7 @@
+https://api-internal-testnet.gamma.io [503] [] [19] [cloudflare] [104.18.26.190] [cloudflare] [327.851923ms] [Cloudflare]
+https://api.gamma.io [503] [] [564] [503 Service Temporarily Unavailable] [cloudflare] [104.18.27.190] [cloudflare] [333.73473ms] [Cloudflare]
+https://api-internal-signet.gamma.io [503] [] [19] [cloudflare] [104.18.26.190] [cloudflare] [463.890816ms] [Cloudflare]
+https://ord-signet.gamma.io [503] [] [19] [] [34.120.198.86] [google] [3.222585785s] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://ordinals-testnet.gamma.io [503] [] [564] [503 Service Temporarily Unavailable] [cloudflare] [104.18.26.190] [cloudflare] [2.233491828s] [Cloudflare]
+https://ordinals-signet.gamma.io [503] [] [162] [503 Service Temporarily Unavailable] [cloudflare] [104.18.27.190] [cloudflare] [2.390044207s] [Cloudflare]
+https://ordinals-ws.gamma.io [503] [] [564] [503 Service Temporarily Unavailable] [cloudflare] [104.18.26.190] [cloudflare] [2.230069572s] [Cloudflare]
