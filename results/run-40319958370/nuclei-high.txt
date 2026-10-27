@@ -1,0 +1,6 @@
+[CVE-2019-11248] [http] [high] https://api.suiet.app/debug/pprof/
+[github-takeover] [http] [high] https://cdn.endpoints.security.ledger.com ["ledgerhq.github.io"]
+[wordpress-click2shell] [http] [high] https://b2b2-dora.secuxtech.com/wp-admin/js/theme.js
+[wordpress-click2shell] [http] [high] https://klever.io/wp-admin/js/theme.js
+[wordpress-click2shell] [http] [high] https://phtx.secuxtech.com/wp-admin/js/theme.js
+[wordpress-click2shell] [http] [high] https://shop.secuxtech.com/wp-admin/js/theme.js

@@ -1,0 +1,9 @@
+[CVE-2023-48795] [javascript] [medium] openapi.wallet.flow.com:22 ["Vulnerable to Terrapin"]
+[CVE-2023-5561] [http] [medium] https://airgap.it/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2026-27454] [http] [medium] https://community.foundation.xyz/posts/4190.json?version=1
+[httpbin-open-redirect] [http] [medium] https://staging.id.klever.io/redirect-to?url=https%3A%2F%2Finteract.sh
+[mongodb-exporter-metrics] [http] [medium] https://mainnet.suiet.app/metrics
+[open-redirect-generic] [http] [medium] https://app.gridplus.io/%0d/oast.me/ [redirect="%0d/oast.me/"]
+[open-redirect-generic] [http] [medium] https://simulator.gridplus.io/%0d/oast.me/ [redirect="%0d/oast.me/"]
+[prometheus-metrics] [http] [medium] https://gravitee.api.prd.ledger.com/metrics
+[prometheus-metrics] [http] [medium] https://zendesk-bot.dxp-staging.blockstream.com/metrics
