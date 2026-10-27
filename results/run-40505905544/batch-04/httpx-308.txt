@@ -1,0 +1,8 @@
+https://docs.granola.ai [308] [/introduction] [0] [Vercel] [76.76.21.61] [312.064031ms] [Cloudflare,HSTS,Vercel]
+https://gusto.gumloop.com [308] [https://www.gumloop.com/] [15] [Vercel] [216.150.1.193] [4.057609222s] [HSTS,Vercel]
+http://granola.ai [308] [https://granola.ai/] [14] [Vercel] [76.76.21.21] [1.016760297s] [Vercel]
+https://join.granola.ai [308] [https://granola.ai] [15] [Vercel] [216.150.1.129] [4.056040315s] [HSTS,Vercel]
+http://instacart.gumloop.com [308] [https://instacart.gumloop.com/] [14] [Vercel] [216.150.16.193] [1.032917163s] [Vercel]
+https://notes.granola.ai [308] [https://granola.ai] [15] [Vercel] [216.150.1.129] [2.08998434s] [HSTS,Vercel]
+https://recipes.granola.ai [308] [https://granola.ai] [15] [Vercel] [216.150.1.129] [1.035905787s] [HSTS,Vercel]
+http://support.gumloop.com [308] [https://support.gumloop.com/] [14] [Vercel] [76.76.21.241] [1.03134191s] [Vercel]
