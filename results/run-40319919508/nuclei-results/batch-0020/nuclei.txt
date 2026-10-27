@@ -1,0 +1,1 @@
+[CVE-2026-109618:version-eol-branch] [http] [critical] http://www.alphawallet.com ["7.3.33"]
