@@ -1,0 +1,93 @@
+# HTTPX Status Report
+
+Generated at: Tue Oct 27 17:04:18 UTC 2026
+
+HTTPX lines: 73
+Live URLs: 73
+
+## 200
+https://api.cursor.com [200] [] [132] [envoy] [52.206.208.64] [103.537483ms] [Envoy]
+https://api-docs.deepseek.com [200] [] [49316] [Your First API Call | DeepSeek API Docs] [tencent-cos] [43.169.35.32] [283.860046ms] [Amazon Web Services,Docusaurus:3.1.0,React,Webpack]
+https://applink.deepseek.com [200] [] [726] [DeepSeek] [tencent-cos] [43.169.35.32] [1.064398201s]
+https://deepseek.com [200] [] [115730] [DeepSeek | 深度求索] [AmazonS3] [3.173.21.63] [cloudfront] [39.387966ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://cdn.deepseek.com [200] [] [2744] [DeepSeek] [openresty] [128.14.165.169] [966.21086ms] [Amazon Web Services,HSTS,Nginx,OpenResty]
+https://download-test.deepseek.com [200] [] [2375] [DeepSeek App] [tencent-cos] [43.169.35.32] [667.272246ms]
+https://download.deepseek.com [200] [] [2211] [DeepSeek App] [tencent-cos] [43.169.32.32] [846.550781ms]
+https://cursor.com [200] [] [619944] [AI Coding Agent for Building Ambitious Software | Cursor] [Vercel] [76.76.21.21] [112.482048ms] [Amazon S3,Amazon Web Services,Google Tag Manager,HSTS,Vercel]
+https://forum.cursor.com [200] [] [314101] [Cursor - Community Forum - The official forum to discuss Cursor.] [cloudflare] [104.18.16.128] [cloudflare] [1.285659691s] [Cloudflare,Cloudflare Bot Management,Discourse:2026.10.0,HSTS,Ruby on Rails]
+https://mail.deepseek.com [200] [] [29809] [北京深度求索人工智能基础技术研究有限公司 - 邮箱用户登录] [nginx] [47.253.121.161] [6.032954404s] [Nginx]
+https://pivot.claude.ai [200] [] [7066] [Claude in Microsoft Office] [UploadServer] [34.50.145.103] [google] [3.030649001s] [Google Cloud,Google Cloud CDN,Google Cloud Storage,HTTP/3]
+https://review.stg.cursor.com [200] [] [2163] [Cursor Review has moved] [CloudFront] [3.167.88.30] [cloudfront] [5.282734239s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://review.cursor.com [200] [] [2155] [Cursor Review has moved] [CloudFront] [18.160.41.105] [cloudfront] [6.101760961s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://test-sh.deepseek.com [200] [] [612] [Welcome to nginx!] [nginx] [119.3.127.253] [1.827494406s] [Nginx]
+https://status.deepseek.com [200] [] [235509] [DeepSeek Status] [] [8.217.241.177] [6.116352509s] [HTTP/3,Next.js,Node.js,React,Webpack]
+
+## 301
+http://a.preview.claude.ai [301] [https://a.preview.claude.ai/] [167] [301 Moved Permanently] [cloudflare] [160.79.104.10] [31.041368ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://hif-test.deepseek.com [301] [https://hif-test.deepseek.com/] [159] [301 Moved Permanently] [CW] [60.204.2.4] [530.632843ms]
+http://enterprise.cursor.com [301] [https://enterprise.cursor.com/] [167] [301 Moved Permanently] [cloudflare] [162.159.140.98] [cloudflare] [3.056020505s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://nrjcdfbfcn5ehj5-test.deepseek.com [301] [https://nrjcdfbfcn5ehj5-test.deepseek.com/] [159] [301 Moved Permanently] [CW] [60.204.2.5] [533.923642ms]
+http://platform-test.deepseek.com [301] [https://platform-test.deepseek.com/] [167] [301 Moved Permanently] [CloudFront] [3.173.21.63] [cloudfront] [3.172037411s] [Amazon CloudFront,Amazon Web Services]
+https://staging.claude.ai [301] [https://claude-ai.staging.ant.dev/] [167] [301 Moved Permanently] [cloudflare] [160.79.104.10] [1.039793587s] [Cloudflare,HTTP/3]
+https://status.cursor.com [301] [https://status.x.ai] [0] [CloudFront] [18.165.98.47] [cloudfront] [1.022690493s] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://www.claude.ai [301] [https://claude.ai/] [167] [301 Moved Permanently] [cloudflare] [160.79.104.10] [2.031724194s] [Cloudflare,HTTP/3]
+
+## 302
+https://bench.deepseek.com [302] [https://talent.deepseek.com/] [0] [TencentEdgeOne] [43.169.35.32] [419.142211ms] [EdgeOne]
+https://console.claude.ai [302] [https://console.anthropic.com/] [143] [302 Found] [cloudflare] [160.79.104.10] [44.145794ms] [Cloudflare,HTTP/3]
+https://playground.cursor.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fplayground.cursor.com%2F&nonce=d2c339390b41bf8633a69b18d2a8630d3ac8c09595423a3c43e051c0df86472d] [263] [Vercel] [64.239.109.129] [1.141535801s] [HSTS,Vercel]
+https://origin.cursor.com [302] [https://cursor.com:443/codebase] [110] [302 Found] [awselb/2.0] [52.70.65.227] [6.122111526s] [Amazon ELB,Amazon Web Services]
+https://status.claude.ai [302] [https://status.anthropic.com/] [143] [302 Found] [cloudflare] [160.79.104.10] [4.060416182s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://tidewater.preview.claude.ai [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=539099011008-ln1rs5kainpp39s9et7hem8j340liebv.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/539099011008-ln1rs5kainpp39s9et7hem8j340liebv.apps.googleusercontent.com:handleRedirect&code_challenge=xwDOo8FuTMHQpIBAV8O3Cvd73C2yGvZqusvvneaT-Pc&code_challenge_method=S256&cred_ref=true&state=ATbdjREELRHu2GIFm0T74Y-jAVMfJ5QPUb_Rn4Fb2sZBrkgcyL_6QLdGXFzhVSb-0Bbc6LOGyE1-y5ZH44UGDfWguayRkyyP3N098WXLJQjkpeIFcaweR_KMly6maAhO1V7drrWaX_f-vzPzB1RE9KsQp2TIm6Y_ccBRV98-4IjGaci71HLDxx8s3SNM7PAnyHpz81d5FsAJ1fQjGfDeB43TWTjHcEwUkNFIDQwaJAZkmckhxThY66Nlelvq3xQmy4hZW0r01oDVqL0dFyV9_swKazs4Pyl8i8mhFPZjKaLne6REU2Ra4pmdG9jtijgKNZxMzDF96KILN42UFCu5asXT5i8eWU7PQBzpOIaO9EkOqyYEsFuVMOoavxoZq_Jd1agwve9kN7iLxPLUM8YHEXeEbXm4fsRdgbFbSTemHOPWBS9Tphv8IVc2E71KGSUwcAXypTyNAJCno3mLyCOB7OhtBR0-rfSnYyArO0G_5iPBdwCPh1jyWY3psNUDI8T_4EBTf8Jgcr_pe8XO1dCgHpbbbmPUIKAsEO3FcOqSzK2fqxfDJEs5k5wo4agq4oWyhVdX0dhWVm3tGSlVuG-KeUviFZwguOr_d-QBvGFYzUNMw7Yw-8vmlahvqJgLHTyiQUSArgOh1q9c2rz3drPkyzcVtXiblj6q5nmrCFYoxVPzZR1CljcAJLbRMS3MAcFmAdoeV7lAXP99awi7oVKfWVdVtkLZ6eDr6JpskctiirVQgW4PwNf4EusbfRfZAsArquZyM6vGGlz1DrNeB_gy3a_BGJP-IdgaQ9yi5lVuP5RKBiweeot2a-7NF2DlnOhG-EHKz2Bib1-cbsIZKwZbB6RcsMZKcmXNQMcAKL_WPDOQxdy-8Jf6qnvTtVO1cjtOfF06dnicIj101BNHZP-ZY2kOy2A55G9n12m-vdXKurEW3ePv7z3Jl4vnipPIyt4ctTqMEgypA3sL0Xf9q0Rc6zFnsm1IyOtmLenZGtbRHED32UxJVO4et_juZ0ztn71or6Oth8Um3cbnq4afLpiYEUoRCTjxxijKn-VA2a5Di8p4P1u5LTfv_y_zXJTwJDQay0nsiTc7XS6LQ7tuFIwv0A56ISzWfxCRtorRdgcc26CSVUg-lGc9113GcnKccBJrcdvtCFaSeWVYaulA8bfdxyc44qWlidOj8W9-mhHWW4XKtHB8hA] [36] [] [136.69.73.82] [google] [3.084153705s] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 307
+https://scim1password.cursor.com [307] [/app/] [41] [] [52.20.118.105] [4.044135481s]
+
+## 308
+https://changelog.cursor.com [308] [https://www.cursor.com/changelog] [15] [Vercel] [76.76.21.61] [85.403862ms] [HSTS,Vercel]
+https://docs.cursor.com [308] [https://cursor.com/docs] [15] [Vercel] [64.239.109.65] [38.037117ms] [HSTS,Vercel]
+http://prod.cursor.com [308] [https://prod.cursor.com/] [14] [Vercel] [66.33.60.194] [2.083635745s] [Vercel]
+http://test.cursor.com [308] [https://test.cursor.com/] [14] [Vercel] [64.239.109.1] [6.039767514s] [Vercel]
+
+## 401
+https://api.deepseek.com [401] [] [183] [elb] [3.173.21.63] [cloudfront] [376.885416ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://chat-test.deepseek.com [401] [] [134] [elb] [3.173.21.63] [cloudfront] [427.617526ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://platform-dev.deepseek.com [401] [] [137] [elb] [3.173.21.63] [cloudfront] [1.53243267s] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 403
+https://artifacts.origin-test.cursor.com [403] [] [146] [CloudFront] [18.154.227.98] [cloudfront] [36.949235ms] [Amazon CloudFront,Amazon Web Services]
+https://artifacts.origin.cursor.com [403] [] [146] [CloudFront] [52.85.193.8] [cloudfront] [64.334239ms] [Amazon CloudFront,Amazon Web Services]
+https://assets.claude.ai [403] [] [111] [UploadServer] [34.120.108.227] [google] [77.52489ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://artifacts.origin-staging.cursor.com [403] [] [146] [CloudFront] [13.35.78.83] [cloudfront] [92.684546ms] [Amazon CloudFront,Amazon Web Services]
+https://claude.ai [403] [] [5623] [Just a moment...] [cloudflare] [160.79.104.10] [18.331723ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://downloads.claude.ai [403] [] [111] [UploadServer] [35.190.46.17] [google] [78.908489ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://downloads-290bb7e2.cursor.com [403] [] [243] [cloudflare] [104.18.16.128] [cloudflare] [91.041125ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management]
+https://downloads.cursor.com [403] [] [243] [cloudflare] [104.18.17.128] [cloudflare] [115.938939ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management]
+https://downloads.preview.claude.ai [403] [] [111] [UploadServer] [35.190.119.221] [google] [79.891582ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://gitcdn.origin.cursor.com [403] [] [146] [CloudFront] [3.167.69.30] [cloudfront] [6.088624642s] [Amazon CloudFront,Amazon Web Services]
+http://gitcdn.origin-staging.cursor.com [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [52.85.193.89] [cloudfront] [3.04197157s] [Amazon CloudFront,Amazon Web Services]
+https://preview.claude.ai [403] [] [5589] [Just a moment...] [cloudflare] [160.79.104.10] [5.042142154s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://static.deepseek.com [403] [] [263] [openresty] [128.14.165.169] [3.723672831s] [Amazon Web Services,HSTS,Nginx,OpenResty]
+
+## 404
+https://api.origin.cursor.com [404] [] [31] [awselb/2.0] [44.194.112.123] [20.261326ms] [Amazon ELB,Amazon Web Services]
+https://api.origin-test.cursor.com [404] [] [31] [awselb/2.0] [35.168.60.187] [25.750993ms] [Amazon ELB,Amazon Web Services]
+https://a.claude.ai [404] [] [9] [cloudflare] [160.79.104.10] [30.761682ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://api.origin-staging.cursor.com [404] [] [31] [awselb/2.0] [100.27.98.37] [59.97562ms] [Amazon ELB,Amazon Web Services]
+https://auth.cursor.com [404] [] [0] [cloudflare] [104.18.29.234] [cloudflare] [106.899765ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://0ay7zb.cursor.com [404] [] [43] [cloudflare] [162.159.140.98] [cloudflare] [350.552569ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://email.cursor.com [404] [] [0] [] [34.98.83.137] [google] [2.108963789s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://email.mail.cursor.com [404] [] [0] [] [34.98.83.137] [google] [2.289485062s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://git-proxy.origin.cursor.com [404] [] [31] [awselb/2.0] [3.219.122.142] [1.082770145s] [Amazon ELB,Amazon Web Services]
+https://git-proxy.origin-test.cursor.com [404] [] [31] [awselb/2.0] [35.168.60.187] [2.017252287s] [Amazon ELB,Amazon Web Services]
+https://hif-leim.deepseek.com [404] [] [0] [elb] [3.173.21.63] [cloudfront] [1.365169103s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://links.send.cursor.com [404] [] [0] [cloudflare] [104.18.17.128] [cloudflare] [2.296404985s] [Cloudflare,Cloudflare Bot Management]
+https://nrjcdfbfcn5ehj5-dev.deepseek.com [404] [] [9] [elb] [3.173.21.63] [cloudfront] [4.455360091s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://sso.claude.ai [404] [] [9] [cloudflare] [160.79.104.10] [3.067302998s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
