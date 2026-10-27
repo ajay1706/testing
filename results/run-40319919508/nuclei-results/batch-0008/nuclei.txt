@@ -1,0 +1,2 @@
+[ssh-cbc-mode-ciphers] [javascript] [low] git-migration-eusa.edge.app:22
+[ssh-weakkey-exchange-algo] [javascript] [low] git-migration-eusa.edge.app:22
