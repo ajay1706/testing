@@ -1,0 +1,3 @@
+[CVE-2023-48795] [javascript] [medium] www.bitcoincore.org:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] www.blog.mycelium.com:22 ["Vulnerable to Terrapin"]
+[prometheus-metrics] [http] [medium] https://waterfalls-liquid-testnet.breez.technology/metrics
