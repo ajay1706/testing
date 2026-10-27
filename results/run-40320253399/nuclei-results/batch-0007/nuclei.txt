@@ -1,0 +1,17 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.owallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.owallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] moonshot.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] moonshot.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] neonwallet.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nestwallet.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] neonwallet.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nestwallet.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://link.nonbank.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://link.nonbank.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://link.nonbank.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://newsletter.splits.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://newsletter.splits.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://newsletter.splits.org
+[unauthenticated-varnish-cache-purge] [http] [low] https://link.nonbank.io
+[mixed-active-content] [http] [low] https://lisrjs.kresus.com ["http://192.168.101.25:3033/silo.js"]
+[expired-ssl] [ssl] [low] minicb.kresus.com:443 ["2025-10-02 17:10:39 +0000 UTC"]
