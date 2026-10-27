@@ -1,0 +1,5 @@
+https://blossom.deepgram.com [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [3.138.118.137] [3.144957509s] [Nginx:1.18.0,Ubuntu]
+https://cherry.deepgram.com [502] [] [0] [Caddy] [35.164.85.203] [3.24344975s] [Caddy,HTTP/3]
+https://robotdreams.deepgram.com [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [3.128.198.63] [4.143965545s] [Nginx:1.18.0,Ubuntu]
+https://stg.d-id.com [502] [] [932] [ERROR: The request could not be satisfied] [] [3.170.3.58] [cloudfront] [1.936066271s] [Amazon CloudFront,Amazon Web Services]
+https://wcdonaldsquest.deepgram.com [502] [] [0] [Caddy] [3.135.195.131] [84.339197ms] [Caddy,HTTP/3]
