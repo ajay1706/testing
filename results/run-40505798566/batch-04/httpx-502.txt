@@ -1,0 +1,6 @@
+https://dev-auth0.descript.com [502] [] [163] [502 Bad Gateway] [openresty/1.29.2.5] [34.36.204.92] [google] [196.481012ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx,OpenResty:1.29.2.5]
+https://mail.preview-web.descript.com [502] [] [157] [502 Bad Gateway] [nginx/1.30.6] [34.138.142.202] [google] [192.510998ms] [Nginx:1.30.6]
+https://staging-auth0.descript.com [502] [] [565] [502 Bad Gateway] [openresty/1.29.2.5] [34.49.137.204] [google] [172.881642ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx,OpenResty:1.29.2.5]
+https://wildcard.preview-web.descript.com [502] [] [157] [502 Bad Gateway] [nginx/1.30.6] [34.138.142.202] [google] [297.724967ms] [Nginx:1.30.6]
+https://www.preview-web.descript.com [502] [] [559] [502 Bad Gateway] [nginx/1.30.6] [34.138.142.202] [google] [284.159472ms] [Nginx:1.30.6]
+https://www.wildcard.preview-web.descript.com [502] [] [559] [502 Bad Gateway] [nginx/1.30.6] [34.138.142.202] [google] [197.857804ms] [Nginx:1.30.6]
