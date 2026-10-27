@@ -1,0 +1,29 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.verifier.tezotopia.altme.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.staging.girin.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.verifier.tezotopia.altme.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.staging.girin.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.altme.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.altme.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.vultisig.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.decaf.so:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.decaf.so:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.vultisig.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.vultisig.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] arago.altme.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] arago.altme.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.vultisig.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] block.tiplink.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] block.tiplink.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://app.plena.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://app.plena.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://app.plena.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://app.plena.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://based.squads.so
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://based.squads.so
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://based.squads.so
+[postgres-exporter-metrics] [http] [low] https://api.splits.org/metrics
+[expired-ssl] [ssl] [low] app-temp.umbraprivacy.com:443 ["2026-09-10 01:46:35 +0000 UTC"]
+[expired-ssl] [ssl] [low] api.verifier.tezotopia.altme.io:443 ["2026-07-24 10:44:47 +0000 UTC"]
+[expired-ssl] [ssl] [low] arago.altme.io:443 ["2026-07-24 10:44:47 +0000 UTC"]
+[expired-ssl] [ssl] [low] beta-faucet.umbraprivacy.com:443 ["2026-01-27 07:08:52 +0000 UTC"]
+[expired-ssl] [ssl] [low] beta.teams.splits.org:443 ["2025-09-16 16:53:48 +0000 UTC"]
