@@ -1,0 +1,39 @@
+[CVE-2026-27454] [http] [medium] https://discuss.status.app/posts/15718.json?version=2
+[weak-cipher-suites:tls-1.0] [ssl] [low] desktop-updates.imem.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-api-giftcard.fizen.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-api-giftcard.fizen.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] desktop-updates.imem.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-embedded-wallet.tomo.inc:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev-mydoge-wallet.tomo.inc:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-embedded-wallet.tomo.inc:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev-mydoge-wallet.tomo.inc:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.haqq.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.haqq.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.kryptogo.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.kryptogo.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.sequence.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.sequence.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] devnet.alephium.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] devnet.alephium.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] devnet.cantonwallet.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] devnet.cantonwallet.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.alephium.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.alephium.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[package-json] [http] [low] https://docs.abe.zelcore.io/package.json
+[package-json] [http] [low] https://docs.abe.zelcore.io/package-lock.json
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://developer.uxuy.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://developer.uxuy.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://developer.uxuy.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://devnet.alephium.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://devnet.alephium.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://devnet.alephium.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.abe.zelcore.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.abe.zelcore.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.abe.zelcore.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.cryptnox.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.cryptnox.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.cryptnox.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.concordium.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.concordium.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.concordium.com
+[expired-ssl] [ssl] [low] diag-cafe.app.freedom.world:443 ["2026-06-13 12:40:28 +0000 UTC"]
