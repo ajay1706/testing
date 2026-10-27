@@ -1,0 +1,7 @@
+https://beautiful.ai [301] [https://www.beautiful.ai] [58] [Google Frontend] [216.239.34.21] [google] [201.655662ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HSTS,Node.js]
+https://auth.boomy.com [301] [https://boomy.com/] [33] [] [151.101.1.195] [fastly] [299.398093ms] [Firebase,HTTP/3]
+https://beatoven.ai [301] [https://www.beatoven.ai/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [306.054654ms] [Cloudflare,HSTS,HTTP/3]
+https://blog.beautiful.ai [301] [https://www.beautiful.ai/blog] [63] [Google Frontend] [108.177.121.121] [google] [331.937883ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HSTS,Node.js]
+https://about.beautiful.ai [301] [https://www.beautiful.ai] [58] [Google Frontend] [192.178.157.121] [google] [432.477559ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HSTS,Node.js]
+https://www.about.beautiful.ai [301] [https://www.beautiful.ai] [58] [Google Frontend] [172.217.214.121] [google] [398.876703ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HSTS,Node.js]
+https://www.blog.beautiful.ai [301] [https://www.beautiful.ai/blog] [63] [Google Frontend] [142.250.152.121] [google] [367.041335ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HSTS,Node.js]

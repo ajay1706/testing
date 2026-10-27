@@ -1,0 +1,4 @@
+https://docs.beautiful.ai [302] [/reference] [32] [cloudflare] [104.16.241.118] [cloudflare] [387.001314ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://links.beautiful.ai [302] [null] [26] [Google Frontend] [74.125.132.121] [google] [352.518275ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HSTS,Node.js]
+https://support.boomy.com [302] [https://support.boomy.com/hc] [0] [cloudflare] [216.198.54.6] [295.082099ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://support.beautiful.ai [302] [https://support.beautiful.ai/hc] [0] [cloudflare] [216.198.53.6] [406.078729ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]

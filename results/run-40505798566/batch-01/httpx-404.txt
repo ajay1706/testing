@@ -1,0 +1,6 @@
+https://links2.beautiful.ai [404] [] [146] [404 Not Found] [nginx] [54.68.228.74] [365.736966ms] [Nginx]
+https://sales.beautiful.ai [404] [] [146] [404 Not Found] [nginx] [3.148.128.83] [200.115761ms] [Nginx]
+https://qa.sp.beautiful.ai [404] [] [13] [akka-http/10.1.12] [184.33.38.246] [286.386906ms] [Akka HTTP:10.1.12]
+https://sp.beautiful.ai [404] [] [13] [akka-http/10.1.12] [54.200.144.139] [224.84413ms] [Akka HTTP:10.1.12]
+https://sp-staging.beautiful.ai [404] [] [13] [akka-http/10.1.12] [32.190.233.152] [350.289925ms] [Akka HTTP:10.1.12]
+https://servicedesk.portal.beautiful.ai [404] [] [2766] [Atlassian Cloud Notifications - Page Unavailable] [AtlassianEdge] [3.168.40.73] [cloudfront] [487.848944ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
