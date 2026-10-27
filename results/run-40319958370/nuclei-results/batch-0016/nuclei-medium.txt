@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://simulator.gridplus.io/%0d/oast.me/ [redirect="%0d/oast.me/"]
+[httpbin-open-redirect] [http] [medium] https://staging.id.klever.io/redirect-to?url=https%3A%2F%2Finteract.sh
