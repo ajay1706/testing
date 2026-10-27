@@ -1,0 +1,2 @@
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://api-docs.unisat.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://api-docs.unisat.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
