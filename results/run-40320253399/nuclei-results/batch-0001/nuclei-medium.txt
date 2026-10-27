@@ -1,0 +1,3 @@
+[CVE-2026-39365] [http] [medium] https://analytics-mini.kresus.com/node_modules/.vite/deps/../../../config.production.js.map ["/opt/mini-analytics/config.production.js"]
+[eol-openssh-debian] [javascript] [medium] api.arago.altme.io:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4"]
+[eol-openssh-debian] [javascript] [medium] api.issuer.tezotopia.altme.io:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4"]
