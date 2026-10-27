@@ -1,0 +1,79 @@
+[CVE-2019-1010287] [http] [medium] https://lq1-staging.breez.technology/timesheet/login.php
+[apache-skywalking-default-login] [http] [high] https://lq1-staging.breez.technology/api/auth/login [password="skywalking",username="skywalking"]
+[mida-eframework-xss] [http] [high] https://lq1-staging.breez.technology/MUP/
+[weak-cipher-suites:tls-1.0] [ssl] [low] git.wasabiwallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gnosis-card.meteorwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] goerli.proxy.pontem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.unisat.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gnosis.proxy.pontem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] git.wasabiwallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.unisat.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] goerli.proxy.pontem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gnosis-card.meteorwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gnosis.proxy.pontem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] harvest-moon-tweet.meteorwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] harvestmoon.meteorwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] harvest-moon-tweet.meteorwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] harvestmoon.meteorwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] help.meteorwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] help.meteorwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] help.mynearwallet.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] help.mynearwallet.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] herewallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] herewallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hive.adawallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hk.unisat.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hive.adawallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hk.unisat.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hot.herewallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hot.herewallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] images.leather.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] image-cdn.meteorwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] images.leather.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] image-cdn.meteorwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] inscribe-signet.xverse.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] inscribe-signet.xverse.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ipfs-cache.meteorwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ipfs.meteorwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ipfs-cache.meteorwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ipfs.meteorwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] jenkins.unisat.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] jenkins.tonkeeper.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] jenkins.unisat.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ios.muun.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] jenkins.tonkeeper.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] k8s-signet.xverse.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] k8s-signet.xverse.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ios.muun.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lb-public-srv.pontem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lb-public-srv.pontem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] kibana.mycelium.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] leo.notifications.petra.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] leo.notifications.petra.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] labels.electrum.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] kibana.mycelium.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] listmonk.nunchuk.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] listmonk.nunchuk.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] labels.electrum.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lumio-testnet.proxy.pontem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lumio-testnet.proxy.pontem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.adawallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.adawallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://links.tonhub.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://links.tonhub.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://links.tonhub.com
+[python-requirements-disclosure] [http] [low] https://lq1-staging.breez.technology/requirements.txt
+[CVE-2017-8225:password] [http] [critical] https://lq1-staging.breez.technology/system.ini?loginuse&loginpas ["(Windows NT 10.0; Win64; x64) A"]
+[CVE-2018-13380] [http] [medium] https://lq1-staging.breez.technology/message?title=x&msg=%26%23%3Csvg/onload=alert(1337)%3E%3B
+[CVE-2018-13380] [http] [medium] https://lq1-staging.breez.technology/remote/error?errmsg=ABABAB--%3E%3Cscript%3Ealert(1337)%3C/script%3E
+[CVE-2005-4385] [http] [medium] https://lq1-staging.breez.technology/search.htm?searchstring2&searchstring=%27%3E%22%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[unauthenticated-varnish-cache-purge] [http] [low] https://links.tonhub.com
+[gocd-encryption-key] [http] [low] https://lq1-staging.breez.technology/go/add-on/business-continuity/api/cipher.aes ["16ca39a5ce76a1cd6f278a4fbfddc577"]
+[forgejo-repo-exposure] [http] [medium] https://git.wasabiwallet.io/explore/repos
+[grafana-metrics-exposure:version] [http] [low] https://grafana.near-data-pipeline.meteorwallet.app/metrics ["12.1.1"]
+[kubernetes-metrics] [http] [low] https://grafana.near-data-pipeline.meteorwallet.app/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.near-data-pipeline.meteorwallet.app/metrics
+[self-signed-ssl] [ssl] [low] mail.tonhub.com:443
+[expired-ssl] [ssl] [low] kibana.mycelium.com:443 ["2026-05-13 23:59:59 +0000 UTC"]
+[untrusted-root-certificate] [ssl] [low] lnd2.bluewallet.io:443
+[CVE-2015-8349] [http] [medium] https://lq1-staging.breez.technology/index.php?p=banlist&advSearch=0%27%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&advType=btype

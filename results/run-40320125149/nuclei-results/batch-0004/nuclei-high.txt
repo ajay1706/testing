@@ -1,0 +1,2 @@
+[apache-skywalking-default-login] [http] [high] https://lq1-staging.breez.technology/api/auth/login [password="skywalking",username="skywalking"]
+[mida-eframework-xss] [http] [high] https://lq1-staging.breez.technology/MUP/
