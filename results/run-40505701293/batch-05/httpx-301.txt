@@ -1,0 +1,8 @@
+http://lp.getimg.ai [301] [https://lp.getimg.ai/] [162] [301 Moved Permanently] [nginx] [34.202.203.47] [61.940605ms] [Nginx]
+https://go.getimg.ai [301] [https://getimg.ai/?dub_id=GTfOhzYLpuf86HyG] [15] [Vercel] [66.33.60.66] [1.33669544s] [HSTS,Vercel]
+https://refer.getimg.ai [301] [https://getimg.ai/?dub_id=0n7900wMhKARhAMr] [15] [Vercel] [66.33.60.66] [279.895079ms] [HSTS,Vercel]
+http://ssff.grok.com [301] [https://ssff.grok.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.28.234] [cloudflare] [91.014862ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://status.grok.com [301] [https://status.x.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.28.234] [cloudflare] [4.112605957s] [Cloudflare,HTTP/3]
+https://www.getimg.ai [301] [https://getimg.ai/] [528] [301 Moved Permanently] [cloudflare] [104.18.19.189] [cloudflare] [142.702821ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://www.grok.com [301] [https://grok.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.28.234] [cloudflare] [76.179827ms] [Cloudflare,HTTP/3]
+https://www.hailuoai.video [301] [https://hailuoai.video] [162] [301 Moved Permanently] [] [47.252.69.226] [622.347005ms]
