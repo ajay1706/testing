@@ -1,0 +1,38 @@
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://support.bitbox.swiss/settings.json [""url":"https://support.bitbox.swiss/manage-accounts"",""url":"https://support.bitbox.swiss/settings/how-to-factory-reset-bitbox02"",""url":"https://support.bitbox.swiss/settings"",""url":"https://support.bitbox.swiss/advanced-settings"",""url":"https://support.bitbox.swiss/general""] [path="/settings.json"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stats.xportal.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stats.xportal.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] status.price.api.nightly.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.price.api.nightly.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] stealthex.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] stealthex.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] store.cypherock.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] store.cypherock.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] subscan-cache.subwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] subscan-cache.subwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] superset.talisman.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] superset.talisman.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] super-liquidregtest.blockstream.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] support.airgap.it:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] super-liquidregtest.blockstream.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] support.airgap.it:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] swaps.blockstream.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] swaps.blockstream.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tc-mainnet-v3.subwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tc-testnet-v3.subwallet.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tc-mainnet-v3.subwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tc-testnet-v3.subwallet.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://stellar.alpaca.api.ledger.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://stellar.coin.ledger.com
+[package-json] [http] [low] https://telesw.subwallet.app/package.json
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://stellar.coin.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://stellar.coin.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://stellar.coin.ledger.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://stellar.alpaca.api.ledger.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://stellar.alpaca.api.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://stellar.alpaca.api.ledger.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://support.airgap.it
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://support.airgap.it
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://support.airgap.it
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://swap.coolwallet.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://swap.coolwallet.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://swap.coolwallet.io
