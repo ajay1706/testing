@@ -1,0 +1,6 @@
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-doge.sspwallet.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-btc-testnet.sspwallet.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-btc.sspwallet.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-ltc.sspwallet.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-rvn.sspwallet.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-zec.sspwallet.io/api/v1/config.json [path="/api/v1/config.json"]
