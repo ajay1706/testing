@@ -1,0 +1,1 @@
+[CVE-2023-48795] [javascript] [medium] gear.mycelium.com:22 ["Vulnerable to Terrapin"]
