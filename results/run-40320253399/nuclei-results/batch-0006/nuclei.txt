@@ -1,0 +1,15 @@
+[CVE-2023-5561] [http] [medium] https://kresus.com/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] helpcenter.girin.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] helpcenter.girin.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] issuer.tezotopia.altme.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] issuer.tezotopia.altme.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] jwilson-devel.tiplink.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] jwilson-devel.tiplink.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[wp-duplicate-page-fpd] [http] [low] https://learn.hippowallet.io/wp-content/plugins/duplicate-page/duplicatepage.php
+[laravel-debugbar-exposure] [http] [medium] https://indexer.wallet.unipass.id/_debugbar/open
+[wp-user-enum:usernames] [http] [low] https://kresus.com/?rest_route=/wp/v2/users/ ["joannakresus-com","Kresus"]
+[wordpress-elementor-fpd] [http] [low] https://learn.hippowallet.io/wp-content/plugins/elementor/app/modules/import-export/runners/export/wp-content.php
+[prometheus-metrics] [http] [medium] https://kayron.testing.splits.org/metrics
+[wp-better-wp-security-fpd] [http] [low] https://learn.hippowallet.io/wp-content/plugins/better-wp-security/core/admin-pages/page-logs.php
+[wp-acf-fpd] [http] [low] https://learn.hippowallet.io/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-accordion.php
+[expired-ssl] [ssl] [low] issuer.tezotopia.altme.io:443 ["2026-07-24 10:44:47 +0000 UTC"]
