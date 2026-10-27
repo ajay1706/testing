@@ -1,0 +1,54 @@
+# HTTPX Status Report
+
+Generated at: Tue Oct 27 16:48:34 UTC 2026
+
+HTTPX lines: 31
+Live URLs: 31
+
+## 200
+https://mesh-derp-dev.genspark.ai [200] [] [586] [] [40.65.85.238] [201.439988ms] [HSTS]
+https://mesh-derp.genspark.ai [200] [] [586] [] [20.230.165.35] [212.638663ms] [HSTS]
+https://foundry.firefly.adobe.com [200] [] [11494] [Firefly Foundry] [AmazonS3] [13.225.47.3] [cloudfront] [156.163647ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://firefly.adobe.com [200] [] [17348] [Adobe Firefly: Your all-in-one AI creative studio] [AmazonS3] [99.86.77.16] [cloudfront] [261.713868ms] [Adobe Fonts,Amazon CloudFront,Amazon S3,Amazon Web Services,Arkose Labs,HSTS,Typekit]
+https://mesh-derp-jp.genspark.ai [200] [] [586] [] [20.189.203.168] [496.605422ms] [HSTS]
+https://blog.genspark.ai [200] [] [31052] [MainFunc.ai. Passion to innovate.] [cloudflare] [104.18.25.139] [cloudflare] [538.538655ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vue.js]
+https://trust.genspark.ai [200] [] [7497] [Genspark Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [409.280902ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://superapp.genspark.ai [200] [] [106227] [Genspark Super App — your all-in-one AI Workspace for deep work, team chat and email] [cloudflare] [104.18.25.139] [cloudflare] [214.217366ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://gemini.google.com [200] [] [830502] [‎Google Gemini] [ESF] [142.251.153.2] [google] [290.609997ms] [Google Tag Manager,HTTP/3]
+https://shop.genspark.ai [200] [] [311047] [Genspark SecondBrain Note – Genspark Shop] [cloudflare] [23.227.38.74] [631.850386ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Matter.js,Shopify]
+https://www.genspark.ai [200] [] [235522] [Genspark - Your All-in-One AI Workspace] [cloudflare] [104.18.24.139] [cloudflare] [485.646862ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Envoy,HSTS,Node.js,Nuxt.js,Vue.js]
+https://wwj.genspark.ai [200] [] [206533] [Genspark - Your All-in-One AI Workspace] [cloudflare] [104.18.25.139] [cloudflare] [1.2854437s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Envoy,HSTS,Node.js,Nuxt.js,Vue.js]
+https://academy.genspark.ai [200] [] [7167775] [Genspark Academy] [cloudflare] [104.18.24.139] [cloudflare] [1.375102496s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+
+## 301
+https://genspark.ai [301] [https://www.genspark.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.24.139] [cloudflare] [94.386188ms] [Cloudflare,HSTS]
+
+## 302
+https://login.genspark.ai [302] [https://www.genspark.ai/login] [0] [] [150.171.110.194] [144.168869ms] [Azure,Azure Front Door]
+https://lti.gemini.google.com [302] [https://edu.google.com/workspace-lti/] [0] [ESF] [74.125.132.102] [google] [150.989329ms] [HTTP/3]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://cdn2.genspark.ai [403] [] [111] [cloudflare] [104.18.24.139] [cloudflare] [592.729853ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://mesh-control.genspark.ai [404] [] [0] [Caddy] [4.149.211.21] [175.825039ms] [Caddy,HTTP/3]
+https://enterprise-staging.gemini.google.com [404] [] [1561] [Error 404 (Not Found)!!1] [] [74.125.126.102] [google] [218.546133ms] [HTTP/3]
+https://enterprise-autopush.gemini.google.com [404] [] [1561] [Error 404 (Not Found)!!1] [] [142.250.189.110] [google] [236.112047ms] [HTTP/3]
+https://mesh-control-dev.genspark.ai [404] [] [0] [Caddy] [4.149.161.98] [260.267334ms] [Caddy,HTTP/3]
+https://omaha-server.genspark.ai [404] [] [2833] [nginx/1.22.1] [16.146.182.182] [276.220165ms] [Bootstrap,Nginx:1.22.1]
+https://cdn-static.genspark.ai [404] [] [9] [cloudflare] [104.18.25.139] [cloudflare] [345.622188ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://url2040.genspark.ai [404] [] [146] [404 Not Found] [nginx] [3.148.128.83] [170.377043ms] [Nginx]
+
+## 500
+https://enterprise.gemini.google.com [500] [] [1651] [Error 500 (Server Error)!!1] [ESF] [192.178.129.102] [google] [441.366315ms] [HTTP/3]
+
+## 502
+
+## 503
+
