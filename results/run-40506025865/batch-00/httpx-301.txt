@@ -1,0 +1,2 @@
+http://giwa-graph.algebra.finance [301] [https://giwa-graph.algebra.finance/] [534] [301 Moved Permanently] [cloudflare] [104.21.88.212] [cloudflare] [38.437626ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dashboard.aegis.markets [301] [https://pamm.aegis.markets/market-data] [53] [cloudflare] [104.21.23.18] [cloudflare] [1.518390362s] [Cloudflare,HSTS,HTTP/3]

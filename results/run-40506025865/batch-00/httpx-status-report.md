@@ -1,0 +1,79 @@
+# HTTPX Status Report
+
+Generated at: Tue Oct 27 21:56:32 UTC 2026
+
+HTTPX lines: 50
+Live URLs: 50
+
+## 200
+https://app.blazeswap.xyz [200] [] [2120] [cloudflare] [104.21.38.189] [cloudflare] [218.867591ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://blazeswap.xyz [200] [] [1658] [cloudflare] [172.67.137.96] [cloudflare] [245.710035ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://flare-old.blazeswap.xyz [200] [] [2034] [cloudflare] [104.21.38.189] [cloudflare] [308.49253ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://coston2-old.blazeswap.xyz [200] [] [2087] [cloudflare] [172.67.137.96] [cloudflare] [311.554643ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://coston-old.blazeswap.xyz [200] [] [1774] [cloudflare] [172.67.137.96] [cloudflare] [339.59829ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app-old.blazeswap.xyz [200] [] [2121] [cloudflare] [104.21.38.189] [cloudflare] [455.470249ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://aegis.markets [200] [] [3374] [Aegis - Programmable Infrastructure for Uniswap v4 Pools] [cloudflare] [172.67.208.76] [cloudflare] [687.065044ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://alpen-graph.algebra.finance [200] [] [115] [cloudflare] [104.21.88.212] [cloudflare] [741.74174ms] [Cloudflare,HTTP/3]
+https://pamm.aegis.markets [200] [] [2670] [Aegis — Admin & MM Dashboard] [cloudflare] [172.67.208.76] [cloudflare] [386.006983ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://integral.algebra.finance [200] [] [870] [Algebra Integral] [cloudflare] [104.21.88.212] [cloudflare] [753.434284ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ipfs.algebra.finance [200] [] [982] [Welcome to nginx!] [cloudflare] [172.67.153.98] [cloudflare] [773.238788ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs-v1.algebra.finance [200] [] [3627] [cloudflare] [172.67.153.98] [cloudflare] [738.956842ms] [Cloudflare,Cloudflare Browser Insights,Gatsby:4.25.7,HTTP/3,React,Webpack]
+https://henesys.algebra.finance [200] [] [887] [Algebra Henesys] [cloudflare] [172.67.153.98] [cloudflare] [835.472584ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://admin.algebra.finance [200] [] [1129] [Integral Admin Panel] [cloudflare] [104.21.88.212] [cloudflare] [886.640898ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://research.aegis.markets [200] [] [792] [Aegis Research UI] [cloudflare] [104.21.23.18] [cloudflare] [207.455177ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://maple-graph.algebra.finance [200] [] [115] [cloudflare] [104.21.88.212] [cloudflare] [969.168915ms] [Cloudflare,HTTP/3]
+https://giwa.algebra.finance [200] [] [870] [Algebra Integral] [cloudflare] [104.21.88.212] [cloudflare] [938.995294ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://alpen.algebra.finance [200] [] [870] [Algebra Integral] [cloudflare] [172.67.153.98] [cloudflare] [1.022697226s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://rayls-graph.algebra.finance [200] [] [115] [cloudflare] [172.67.153.98] [cloudflare] [711.040159ms] [Cloudflare,HTTP/3]
+https://adi-graph.algebra.finance [200] [] [115] [cloudflare] [104.21.88.212] [cloudflare] [1.327504648s] [Cloudflare,HTTP/3]
+https://n8n.algebra.finance [200] [] [18574] [n8n.io - Workflow Automation] [cloudflare] [172.67.153.98] [cloudflare] [721.914707ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://zenith-graph.algebra.finance [200] [] [115] [cloudflare] [172.67.153.98] [cloudflare] [761.231417ms] [Cloudflare,HTTP/3]
+https://zenith.algebra.finance [200] [] [870] [Algebra Integral] [cloudflare] [172.67.153.98] [cloudflare] [767.36757ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://blog.algebra.finance [200] [] [61666] [Algebra: all things DeFi, DEX & AI] [cloudflare] [104.26.1.149] [cloudflare] [1.2135626s] [Cloudflare]
+https://www.aegis.markets [200] [] [3374] [Aegis - Programmable Infrastructure for Uniswap v4 Pools] [cloudflare] [172.67.208.76] [cloudflare] [1.275849348s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://market.algebra.finance [200] [] [105784] [Algebra Plugins Marketplace] [cloudflare] [104.21.88.212] [cloudflare] [810.110537ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://algebra.finance [200] [] [190639] [Algebra Labs - Leading DEX Infrastructure] [cloudflare] [172.67.153.98] [cloudflare] [832.644682ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.aegis.markets [200] [] [394554] [What is AEGIS? | Aegis] [cloudflare] [104.21.23.18] [cloudflare] [451.028837ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://dev-api.algebra.finance [200] [] [190639] [Algebra Labs - Leading DEX Infrastructure] [cloudflare] [172.67.153.98] [cloudflare] [1.131209434s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://swap.widget.aegis.markets [200] [] [109188] [Amplifi — Let people earn in your app] [cloudflare] [172.67.208.76] [cloudflare] [1.159677719s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 301
+http://giwa-graph.algebra.finance [301] [https://giwa-graph.algebra.finance/] [534] [301 Moved Permanently] [cloudflare] [104.21.88.212] [cloudflare] [38.437626ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dashboard.aegis.markets [301] [https://pamm.aegis.markets/market-data] [53] [cloudflare] [104.21.23.18] [cloudflare] [1.518390362s] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://grafana.algebra.finance [302] [/login] [29] [cloudflare] [172.67.153.98] [cloudflare] [886.808133ms] [Cloudflare,HTTP/3]
+https://monitoring.algebra.finance [302] [/login] [29] [cloudflare] [104.21.88.212] [cloudflare] [649.765387ms] [Cloudflare,HTTP/3]
+
+## 307
+https://docs.algebra.finance [307] [https://docs.algebra.finance/algebra-integral-documentation/] [15] [cloudflare] [104.18.40.47] [cloudflare] [241.867739ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+https://docs.pamm.aegis.markets [401] [] [45] [cloudflare] [172.64.147.209] [cloudflare] [614.67074ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://alpen-graph-admin.algebra.finance [401] [] [957] [401 Authorization Required] [cloudflare] [104.21.88.212] [cloudflare] [661.089974ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://adi-graph-admin.algebra.finance [401] [] [555] [401 Authorization Required] [cloudflare] [104.21.88.212] [cloudflare] [773.702017ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dev.algebra.finance [401] [] [957] [401 Authorization Required] [cloudflare] [172.67.153.98] [cloudflare] [946.750057ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://pgadmin.algebra.finance [401] [] [555] [401 Authorization Required] [cloudflare] [104.21.88.212] [cloudflare] [662.621763ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://kite-graph-admin.algebra.finance [401] [] [555] [401 Authorization Required] [cloudflare] [104.21.88.212] [cloudflare] [1.074250684s] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://rayls-graph-admin.algebra.finance [401] [] [555] [401 Authorization Required] [cloudflare] [172.67.153.98] [cloudflare] [771.079879ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://zenith-graph-admin.algebra.finance [401] [] [555] [401 Authorization Required] [cloudflare] [104.21.88.212] [cloudflare] [753.618148ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 403
+https://og.algebra.finance [403] [] [4918] [Attention Required! | Cloudflare] [cloudflare] [104.21.88.212] [cloudflare] [111.053901ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 404
+https://integral-mcp.algebra.finance [404] [] [19] [cloudflare] [172.67.153.98] [cloudflare] [786.42601ms] [Cloudflare,HTTP/3]
+https://api.algebra.finance [404] [] [2537] [Page not found at /] [cloudflare] [172.67.153.98] [cloudflare] [1.022116613s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://relay-origin.aegis.markets [404] [] [13] [] [44.217.12.147] [788.643023ms]
+https://stream-api.aegis.markets [404] [] [21] [awselb/2.0] [44.221.190.210] [2.378541731s] [Amazon ELB,Amazon Web Services]
+
+## 500
+
+## 502
+https://maple-apr.algebra.finance [502] [] [16] [cloudflare] [172.67.153.98] [cloudflare] [4.026125576s] [Cloudflare,HTTP/3]
+
+## 503
+https://kite-graph.algebra.finance [503] [] [529] [503 Service Temporarily Unavailable] [cloudflare] [104.21.88.212] [cloudflare] [638.112852ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
