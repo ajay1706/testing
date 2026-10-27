@@ -1,0 +1,21 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.fizen.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.fizen.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.kryptogo.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.kryptogo.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.noone.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.noone.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.thetatoken.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.thetatoken.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bloomwallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bloomwallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bridge-1c24bd.alephium.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bridge.alephium.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bridge-1c24bd.alephium.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bridge.alephium.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[mixed-active-content] [http] [low] https://bridge.peakdefi.com ["http://pv.sohu.com/cityjson?ie=utf-8"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.fizen.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.fizen.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.fizen.io
+[expired-ssl] [ssl] [low] bridge.peakdefi.com:443 ["2025-12-01 15:22:04 +0000 UTC"]
+[expired-ssl] [ssl] [low] bsc.peakdefi.com:443 ["2025-11-12 20:23:58 +0000 UTC"]
+[expired-ssl] [ssl] [low] br.shapeshift.com:443 ["2026-04-13 00:05:23 +0000 UTC"]

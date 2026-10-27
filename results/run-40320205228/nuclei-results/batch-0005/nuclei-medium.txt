@@ -1,0 +1,2 @@
+[CVE-2022-41697] [http] [medium] https://blog.thetatoken.org/ghost/api/admin/session
+[CVE-2023-48795] [javascript] [medium] bridge.peakdefi.com:22 ["Vulnerable to Terrapin"]
