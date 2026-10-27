@@ -1,0 +1,14 @@
+[+] Batch started: Tue Oct 27 22:15:24 UTC 2026
+[+] Run ID: 40506074746
+[+] Batch name: batch-04
+[+] Batch targets:
+tensor.trade
+thirdweb.com
+verisart.com
+[+] Running subfinder...
+[+] Subfinder completed: Tue Oct 27 22:16:44 UTC 2026
+[+] HTTPX input count: 1328
+[+] Running httpx...
+[+] httpx completed: Tue Oct 27 22:19:06 UTC 2026
+[+] httpx line count: 956
+[+] Batch completed: Tue Oct 27 22:19:06 UTC 2026
