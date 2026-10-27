@@ -1,0 +1,6 @@
+https://blog.elicit.com [301] [https://elicit.com/blog/] [167] [301 Moved Permanently] [cloudflare] [104.26.9.204] [cloudflare] [104.371158ms] [Cloudflare]
+https://blog.dust.tt [301] [https://dust.tt/blog] [54] [openresty] [151.101.3.7] [fastly] [259.326827ms] [Nginx,OpenResty,Varnish]
+https://fathom.ai [301] [https://www.fathom.ai/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [865.128181ms] [Cloudflare,HTTP/3]
+https://marketing-edge.dust.tt [301] [http://marketing-edge.dust.tt/home] [167] [301 Moved Permanently] [cloudflare] [104.18.11.196] [cloudflare] [245.152555ms] [Cloudflare]
+https://www.dust.tt [301] [https://dust.tt/] [167] [301 Moved Permanently] [cloudflare] [104.18.10.196] [cloudflare] [178.869268ms] [Cloudflare]
+https://www.elicit.com [301] [https://elicit.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.9.204] [cloudflare] [232.451201ms] [Cloudflare]
