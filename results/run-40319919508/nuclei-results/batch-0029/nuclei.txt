@@ -1,0 +1,6 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0di-ud324bd0f-c233-s1507668711-i95143f0d.am.bitcoin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0di-ud324bd0f-c233-s1507668711-i95143f0d.am.bitcoin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0du-u3f517e19-c233-s1507316797-i95143f0d.am.seeds.bitcoin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0du-u3f517e19-c233-s1507316797-i95143f0d.am.seeds.bitcoin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0ec53429991cd918.solflare.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0ec53429991cd918.solflare.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
