@@ -1,0 +1,4 @@
+https://help.copy.ai [302] [https://support.copy.ai] [504] [302 Found] [cloudflare] [104.20.36.183] [cloudflare] [138.105531ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://help.consensus.app [302] [https://help.consensus.app/en/] [0] [cloudflare] [104.26.4.198] [cloudflare] [377.182649ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://groove.decagon.ai [302] [https://engine.groove.clari.com/] [0] [] [35.172.19.191] [433.021299ms] [HSTS]
+http://go.copy.ai [302] [https://go.copy.ai/] [13132] [Sign In] [] [34.237.219.119] [202.664526ms] [Bootstrap,Prototype,Salesforce Marketing Cloud Account Engagement,jQuery Migrate:3.3.0,jQuery UI,jQuery:3.5.1]
