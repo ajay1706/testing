@@ -1,0 +1,7 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] launchpad-assets.kabila.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] launchpad-assets.kabila.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] learn.nfid.one:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] learn.nfid.one:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[wordpress-click2shell] [http] [high] https://klever.io/wp-admin/js/theme.js
+[wp-user-enum:usernames] [http] [low] https://klever.io/wp-json/wp/v2/users/ ["Jordan Cassiano","jordan","kleverorg","Bruno Campos","baianoklever-io","dioklever-io","fernandaklever-io","Dio Ianakiara","Fernanda"]
+[debug-vars] [http] [low] https://krypto-banking-shr.kustody-dev.klever.io/debug/vars

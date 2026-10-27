@@ -1,0 +1,1 @@
+[wordpress-click2shell] [http] [high] https://klever.io/wp-admin/js/theme.js
