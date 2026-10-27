@@ -1,0 +1,6 @@
+https://get.captions.ai [302] [https://captions.ai] [0] [cloudflare] [104.20.36.48] [cloudflare] [130.007927ms] [Cloudflare]
+https://desktop.captions.ai [302] [https://captions.ai/signup] [143] [302 Found] [cloudflare] [172.66.150.225] [cloudflare] [536.943776ms] [Cloudflare]
+https://share.captions.ai [302] [https://captions.ai/not-found] [143] [302 Found] [cloudflare] [104.20.36.48] [cloudflare] [109.205126ms] [Cloudflare]
+https://preview.clipdrop.co [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fpreview.clipdrop.co%2F&nonce=b475d1e7cd2ef4a93a16a5a93655311cff44ef6171b27fecfae5dfa9aa8e693b] [263] [Vercel] [64.239.123.65] [727.355712ms] [HSTS,Vercel]
+http://sales.captions.ai [302] [https://sales.captions.ai/] [49] [] [35.239.79.203] [google] [144.411061ms]
+http://www.desktop.captions.ai [302] [https://captions.ai/signup] [143] [302 Found] [cloudflare] [172.66.150.225] [cloudflare] [96.863144ms] [Cloudflare]

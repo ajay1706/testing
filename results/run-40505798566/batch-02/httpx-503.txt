@@ -1,0 +1,1 @@
+https://api-uk.cartesia.ai [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.1.122] [cloudfront] [624.517884ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]

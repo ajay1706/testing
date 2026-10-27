@@ -1,0 +1,3 @@
+https://cartesia.ai [308] [https://www.cartesia.ai/] [15] [Vercel] [216.150.1.1] [69.642709ms] [HSTS,Vercel]
+https://blog.cartesia.ai [308] [https://inside.cartesia.ai/] [15] [Vercel] [216.150.1.65] [110.964576ms] [HSTS,Vercel]
+https://docs.cartesia.ai [308] [/get-started/overview] [123114] [Vercel] [66.33.60.67] [486.360132ms] [HSTS,Vercel]
