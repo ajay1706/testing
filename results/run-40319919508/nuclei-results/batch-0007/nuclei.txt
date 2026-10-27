@@ -1,0 +1,1 @@
+[aws-object-listing] [http] [low] http://edgeprovidertest.edge.app ["edgeprovidertest"]
