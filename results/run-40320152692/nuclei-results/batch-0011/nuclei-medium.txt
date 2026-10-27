@@ -1,0 +1,4 @@
+[open-redirect-generic] [http] [medium] https://tgt-metrics.thorwallet.org//oast.me/ [redirect="/oast.me/"]
+[CVE-2026-32230] [http] [medium] https://status.test-net.interlinklabs.ai/api/badge/1/ping/24
+[CVE-2026-32230] [http] [medium] https://status.mainnet.interlinklabs.ai/api/badge/1/ping/24
+[CVE-2025-54793] [http] [medium] https://tgt-metrics.thorwallet.org//interact.sh/en//
