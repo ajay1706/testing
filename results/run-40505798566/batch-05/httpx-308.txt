@@ -1,0 +1,2 @@
+http://status.heygen.com [308] [https://status.heygen.com/] [14] [Vercel] [76.76.21.93] [84.559347ms] [Vercel]
+http://vantara.staging.gamma.app [308] [https://vantara.staging.gamma.app/] [14] [Vercel] [76.76.21.241] [2.03134006s] [Vercel]
