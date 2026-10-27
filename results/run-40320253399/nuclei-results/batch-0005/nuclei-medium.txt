@@ -1,0 +1,6 @@
+[CVE-2021-44528] [http] [medium] https://emails.fusewallet.com
+[CVE-2021-44528] [http] [medium] https://git.kresus.com
+[CVE-2024-46310] [http] [medium] https://documentation.fordefi.com/players.json
+[azure-functions-hostjson-exposure] [http] [medium] https://documentation.fordefi.com/host.json
+[CVE-2023-6592] [http] [medium] https://documentation.fordefi.com/wp-content/plugins/fastdup/logs/
+[nexus-repository-anonymous-access] [http] [medium] https://documentation.fordefi.com/service/rest/v1/repositories

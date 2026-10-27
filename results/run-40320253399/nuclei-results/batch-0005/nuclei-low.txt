@@ -1,0 +1,25 @@
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://get-verso.com/index ["index.html"] [path="/index"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] email-assets.mpcvault.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] email-assets.mpcvault.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] esignusaccount.esignus.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] esignusaccount.esignus.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer.wemix.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer.wemix.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] fordefi.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] fordefi.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] games.tiduswallet.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] games.tiduswallet.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] github-qfg-dev.lif3.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] girin.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] girin.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] github-qfg-dev.lif3.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] halo.social:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] halo.social:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2020-15081] [http] [low] https://documentation.fordefi.com/upload/
+[grafana-metrics-exposure:version] [http] [low] https://grafana.diamante.io/metrics ["13.1.0"]
+[kubernetes-metrics] [http] [low] https://grafana.diamante.io/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.diamante.io/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.talken.io/metrics ["13.1.8"]
+[kubernetes-metrics] [http] [low] https://grafana.talken.io/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.talken.io/metrics
+[wp-user-enum:usernames] [http] [low] https://gk8.io/wp-json/wp/v2/users/ ["Efrat David","Itamar","Sudarshan","Tanya Bekker","efrat","itamar","sudarshan-thiagarajan","tanya"]
