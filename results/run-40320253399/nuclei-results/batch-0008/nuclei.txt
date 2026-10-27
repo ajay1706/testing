@@ -1,0 +1,22 @@
+[CVE-2026-33032] [http] [critical] https://node-base.sspwallet.io/mcp_message
+[CVE-2026-33032] [http] [critical] https://node-amoy.sspwallet.io/mcp_message
+[CVE-2026-33032] [http] [critical] https://node-sepolia.sspwallet.io/mcp_message
+[apache-skywalking-default-login] [http] [high] https://pos.bitnovo.com/api/auth/login [password="skywalking",username="skywalking"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] noble-rpc.owallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] noble-rest.owallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] noble-rpc.owallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] noble-rest.owallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] orai-rpc.owallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] orai-rest.owallet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] otel-devops.lif3.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] orai-rest.owallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] orai-rpc.owallet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] otel-devops.lif3.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pumpwallet.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] qa-dashboard.girin.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] qa-dashboard.girin.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[ds-store-file] [http] [low] https://qvpnminiapp.diamante.io/.DS_Store
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://playtest.fordefi.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://playtest.fordefi.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://playtest.fordefi.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://playtest.fordefi.com

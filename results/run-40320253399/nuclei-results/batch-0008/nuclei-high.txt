@@ -1,0 +1,1 @@
+[apache-skywalking-default-login] [http] [high] https://pos.bitnovo.com/api/auth/login [password="skywalking",username="skywalking"]
