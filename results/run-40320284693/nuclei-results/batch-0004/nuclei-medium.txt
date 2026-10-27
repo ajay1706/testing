@@ -1,0 +1,2 @@
+[github-workflows-disclosure] [http] [medium] https://config.waterx.app/.github/workflows/publish.yml [paths="/.github/workflows/publish.yml"]
+[claude-settings-exposure] [http] [medium] https://config.waterx.app/.claude/settings.json
