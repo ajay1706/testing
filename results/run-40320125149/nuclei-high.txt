@@ -1,0 +1,4 @@
+[apache-skywalking-default-login] [http] [high] https://lq1-staging.breez.technology/api/auth/login [password="skywalking",username="skywalking"]
+[aws-bucket-takeover] [http] [high] https://memberships.fewcha.app ["memberships.fewcha.app"]
+[github-takeover] [http] [high] https://wallet-config.mycelium.com ["mycelium-com.github.io"]
+[mida-eframework-xss] [http] [high] https://lq1-staging.breez.technology/MUP/
