@@ -1,0 +1,2 @@
+[CVE-2026-27454] [http] [medium] https://discuss.jup.ag/posts/77054.json?version=1
+[CVE-2023-48795] [javascript] [medium] dev.helixapp.com:22 ["Vulnerable to Terrapin"]
