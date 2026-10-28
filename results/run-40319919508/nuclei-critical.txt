@@ -1,0 +1,2 @@
+[CVE-2026-109618:version-eol-branch] [http] [critical] http://www.alphawallet.com ["7.3.33"]
+[CVE-2026-109618:version-vulnerable-no-crash] [http] [critical] http://www.foxwallet.com ["8.3.35"]
