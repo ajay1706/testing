@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://aiart-api.chengyu.seaart.ai/metrics
+[prometheus-metrics] [http] [medium] https://aiart-app-matrix-api.chengyu.seaart.ai/metrics
+[prometheus-metrics] [http] [medium] https://aiart-app-matrix-api.gcp.seaart.ai/metrics
+[prometheus-metrics] [http] [medium] https://aiart-api.gcp.seaart.ai/metrics
