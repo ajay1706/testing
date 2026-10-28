@@ -1,0 +1,59 @@
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://ap-northeast-1.imgproxy.infra-prod.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://ap-northeast-2.imgproxy.infra-prod.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://ap-northeast-1.imgproxy.infra-prod.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://ap-northeast-2.imgproxy.infra-prod.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] aiva.roro.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] aiva.roro.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] analytics.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] analyticsapi.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] analytics.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] analyticsapi.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-agent.vizard.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-agent.vizard.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-alt-2.sv1.edge.deepgram.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-alt-2.sv1.edge.deepgram.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-alt-2.va1.edge.deepgram.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-alt-2.va1.edge.deepgram.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-alt.md1.edge.deepgram.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-alt.sac1.edge.deepgram.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-alt.md1.edge.deepgram.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-alt.sac1.edge.deepgram.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-analytics.invideo.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-async.invideo.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-dev.captions.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-dev.captions.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-async.invideo.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-analytics.invideo.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-hk.moises.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-hk.moises.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-page.soundraw.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-sync.fliki.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-sync.fliki.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-sync.production.fliki.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-tool.fliki.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-sync.staging.fliki.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-tool.production.fliki.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-sync.production.fliki.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-tool.fliki.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-sync.staging.fliki.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-tool.production.fliki.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://api-alt-2.sv1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt-2.md1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt.md1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt-2.sv1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt-2.va1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt.sac1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt.md1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt.sac1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt.sv1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-sync.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-sync.production.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-tool.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-sync.staging.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-tool.production.fliki.ai/metrics
+[kubernetes-fake-certificate] [ssl] [low] api-gke-prod.letsenhance.io:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-gke-prod.letsenhance.io:443
+[kubernetes-fake-certificate] [ssl] [low] api-gke.letsenhance.io:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api-gke.letsenhance.io:443
