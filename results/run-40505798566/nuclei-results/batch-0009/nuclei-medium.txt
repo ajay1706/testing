@@ -1,0 +1,4 @@
+[CVE-2023-48795] [javascript] [medium] blossom.deepgram.com:22 ["Vulnerable to Terrapin"]
+[prometheus-metrics] [http] [medium] https://beta.sv1.deepgram.com/metrics
+[ambassador-api-diagnostics-exposure] [http] [medium] https://beta.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://blog.kapwing.com/ambassador/v0/diag/
