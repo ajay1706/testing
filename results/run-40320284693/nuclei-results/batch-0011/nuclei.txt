@@ -1,0 +1,13 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] pro.apex.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pro.apex.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] prototype.waterx.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] prototype.waterx.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] public-api.aark.digital:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] public-api.aark.digital:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pushws.sosovalue.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pushws.sosovalue.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://pro.typus.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://pro.typus.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://pro.typus.finance
+[unauthenticated-varnish-cache-purge] [http] [low] https://pro.typus.finance
+[wp-acf-fpd] [http] [low] https://pro.edgex.exchange/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-accordion.php
