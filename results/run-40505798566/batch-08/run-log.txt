@@ -1,0 +1,14 @@
+[+] Batch started: Wed Oct 28 02:36:02 UTC 2026
+[+] Run ID: 40505798566
+[+] Batch name: batch-08
+[+] Batch targets:
+mapify.so
+meshy.ai
+moises.ai
+[+] Running subfinder...
+[+] Subfinder completed: Wed Oct 28 02:38:15 UTC 2026
+[+] HTTPX input count: 437
+[+] Running httpx...
+[+] httpx completed: Wed Oct 28 02:38:54 UTC 2026
+[+] httpx line count: 184
+[+] Batch completed: Wed Oct 28 02:38:54 UTC 2026
