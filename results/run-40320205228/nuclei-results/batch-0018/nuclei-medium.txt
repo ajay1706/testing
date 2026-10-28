@@ -1,0 +1,6 @@
+[mongodb-exporter-metrics] [http] [medium] https://vipbrates.zelcore.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://viparates.zelcore.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://vipcrates.zelcore.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://vipdrates.zelcore.io/metrics
+[mongodb-exporter-metrics] [http] [medium] https://viprates.zelcore.io/metrics
+[laravel-debugbar-exposure] [http] [medium] https://wallet.fizen.io/_debugbar/open
