@@ -1,0 +1,14 @@
+[+] Batch started: Wed Oct 28 04:32:23 UTC 2026
+[+] Run ID: 40506025865
+[+] Batch name: batch-10
+[+] Batch targets:
+rigoblock.com
+rubic.exchange
+saber.so
+[+] Running subfinder...
+[+] Subfinder completed: Wed Oct 28 04:34:22 UTC 2026
+[+] HTTPX input count: 184
+[+] Running httpx...
+[+] httpx completed: Wed Oct 28 04:34:42 UTC 2026
+[+] httpx line count: 67
+[+] Batch completed: Wed Oct 28 04:34:42 UTC 2026

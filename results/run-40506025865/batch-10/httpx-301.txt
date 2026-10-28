@@ -1,0 +1,2 @@
+http://www.rubic.exchange [301] [https://www.rubic.exchange/] [528] [301 Moved Permanently] [cloudflare] [104.26.7.2] [cloudflare] [54.447865ms] [Cloudflare,Cloudflare Browser Insights]
+http://www.saber.so [301] [https://www.saber.so/] [534] [301 Moved Permanently] [cloudflare] [104.21.24.48] [cloudflare] [25.594584ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
