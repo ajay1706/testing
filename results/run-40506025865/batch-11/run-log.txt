@@ -1,0 +1,14 @@
+[+] Batch started: Wed Oct 28 04:33:42 UTC 2026
+[+] Run ID: 40506025865
+[+] Batch name: batch-11
+[+] Batch targets:
+saros.xyz
+shadeprotocol.io
+shadow.so
+[+] Running subfinder...
+[+] Subfinder completed: Wed Oct 28 04:35:35 UTC 2026
+[+] HTTPX input count: 44
+[+] Running httpx...
+[+] httpx completed: Wed Oct 28 04:35:39 UTC 2026
+[+] httpx line count: 24
+[+] Batch completed: Wed Oct 28 04:35:39 UTC 2026

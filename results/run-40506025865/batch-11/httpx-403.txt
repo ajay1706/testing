@@ -1,0 +1,2 @@
+https://v1.api.shadeprotocol.io [403] [] [42] [] [3.161.225.104] [cloudfront] [241.128311ms] [Amazon CloudFront,Amazon Web Services]
+https://staging.api.shadeprotocol.io [403] [] [42] [] [65.9.148.73] [cloudfront] [299.960339ms] [Amazon CloudFront,Amazon Web Services]
