@@ -1,0 +1,27 @@
+[ssh-cbc-mode-ciphers] [javascript] [low] 1.cutout.pro:22
+[ssh-weakkey-exchange-algo] [javascript] [low] 1.cutout.pro:22
+[ssh-weakkey-exchange-algo] [javascript] [low] 2.cutout.pro:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] 2.cutout.pro:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 1.cutout.pro:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 14529e84.edge.deepgram.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 2.cutout.pro:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 1.cutout.pro:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 14529e84.edge.deepgram.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 2ml.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 3aiva.aiva.roro.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 4n41y71c5.api.speechify.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 4n41y71c5.api.speechify.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 2ml.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 4n41y71c5.cdn.speechify.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 3aiva.aiva.roro.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 4n41y71c5.cdn.speechify.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://10x.heygen.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://10x.heygen.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://10x.heygen.com
+[ambassador-api-diagnostics-exposure] [http] [medium] http://www.help.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] http://www.wildcard.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://123-nonexistant-dnsjedi-456.kapwing.com/ambassador/v0/diag/
+[prometheus-metrics] [http] [medium] https://14529e84.edge.deepgram.com/metrics
+[expired-ssl] [ssl] [low] 2.cutout.pro:443 ["2025-10-31 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] 1.cutout.pro:443 ["2025-10-31 23:59:59 +0000 UTC"]
+[expired-ssl] [ssl] [low] 080125-analytics.heygen.com:443 ["2026-07-03 08:46:05 +0000 UTC"]

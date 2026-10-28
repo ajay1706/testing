@@ -1,0 +1,4 @@
+[ambassador-api-diagnostics-exposure] [http] [medium] http://www.help.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] http://www.wildcard.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://123-nonexistant-dnsjedi-456.kapwing.com/ambassador/v0/diag/
+[prometheus-metrics] [http] [medium] https://14529e84.edge.deepgram.com/metrics
