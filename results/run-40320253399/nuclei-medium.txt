@@ -1,0 +1,17 @@
+[CVE-2021-44528] [http] [medium] https://emails.fusewallet.com
+[CVE-2021-44528] [http] [medium] https://git.kresus.com
+[CVE-2023-5561] [http] [medium] https://kresus.com/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[CVE-2023-5561] [http] [medium] https://www.kresus.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
+[CVE-2023-6592] [http] [medium] https://documentation.fordefi.com/wp-content/plugins/fastdup/logs/
+[CVE-2024-46310] [http] [medium] https://documentation.fordefi.com/players.json
+[CVE-2026-39365] [http] [medium] https://analytics-mini.kresus.com/node_modules/.vite/deps/../../../config.production.js.map ["/opt/mini-analytics/config.production.js"]
+[azure-functions-hostjson-exposure] [http] [medium] https://documentation.fordefi.com/host.json
+[eol-openssh-debian] [javascript] [medium] api.arago.altme.io:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4"]
+[eol-openssh-debian] [javascript] [medium] api.issuer.tezotopia.altme.io:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4"]
+[eol-openssh-debian] [javascript] [medium] api.verifier.tezotopia.altme.io:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4"]
+[eol-openssh-debian] [javascript] [medium] app.altme.io:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4"]
+[eol-openssh-debian] [javascript] [medium] arago.altme.io:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4"]
+[laravel-debugbar-exposure] [http] [medium] https://indexer.wallet.unipass.id/_debugbar/open
+[nexus-repository-anonymous-access] [http] [medium] https://documentation.fordefi.com/service/rest/v1/repositories
+[prometheus-metrics] [http] [medium] https://api.splits.org/metrics
+[prometheus-metrics] [http] [medium] https://kayron.testing.splits.org/metrics
