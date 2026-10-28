@@ -1,0 +1,1 @@
+[CVE-2026-109618:version-vulnerable-no-crash] [http] [critical] https://blog.antarctic.exchange ["8.2.21"]

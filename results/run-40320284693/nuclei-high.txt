@@ -1,0 +1,3 @@
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.fermi.trade/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2026-27934:action_type] [http] [high] https://gov.denaria.finance/user_actions/6.json ["2"] [id="6"]
+[grafana-unauth-access:dashboard-search-exposed] [http] [high] https://grafana.fermi.trade/api/search?type=dash-db
