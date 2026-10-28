@@ -1,0 +1,2 @@
+[CVE-2026-33032] [http] [critical] https://rpc.eth.haqq.network/mcp_message
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://registry.zelcore.io/settings.json [""url":"https://github.com/joona/settings.json/issues"",""url":"https://github.com/joona/settings.json""] [path="/settings.json"]
