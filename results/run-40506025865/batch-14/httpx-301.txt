@@ -1,0 +1,2 @@
+https://alpha.thena.fi [301] [https://perps.thena.fi/] [534] [301 Moved Permanently] [cloudflare] [172.67.143.31] [cloudflare] [55.869929ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://api-muon.thena.fi [301] [https://api-muon.thena.fi/] [534] [301 Moved Permanently] [cloudflare] [172.67.143.31] [cloudflare] [24.987921ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
