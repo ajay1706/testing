@@ -1,0 +1,4 @@
+[CVE-2023-48795] [javascript] [medium] stats.peakdefi.com:22 ["Vulnerable to Terrapin"]
+[mongodb-exporter-metrics] [http] [medium] https://social-share-1.social.production.haqq.network/metrics
+[mongodb-exporter-metrics] [http] [medium] https://social-share-2.social.production.haqq.network/metrics
+[mongodb-exporter-metrics] [http] [medium] https://social-share-3.social.production.haqq.network/metrics

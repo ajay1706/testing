@@ -1,0 +1,1 @@
+[CVE-2026-109618:memory-exhaustion] [http] [critical] https://secura.banksocial.io ["8.4.13"]
