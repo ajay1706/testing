@@ -1,0 +1,5 @@
+https://beta.lindy.ai [307] [https://chat.lindy.ai/] [164] [307 Temporary Redirect] [] [34.94.152.206] [google] [110.13707ms] [HSTS]
+http://bid47kc.4042051m.krisp.ai [307] [https://policy.hubspot.com/abuse-complaints] [0] [] [158.247.22.250] [131.593202ms]
+https://imperium.julius.ai [307] [/auth/login?returnTo=%2F] [15] [Vercel] [216.150.1.193] [4.077266003s] [HSTS,Vercel]
+https://legacy.lindy.ai [307] [https://chat.lindy.ai/] [164] [307 Temporary Redirect] [] [34.94.152.206] [google] [2.087832802s] [HSTS]
+https://prod.lindy.ai [307] [https://chat.lindy.ai/] [164] [307 Temporary Redirect] [] [34.94.152.206] [google] [1.084881903s] [HSTS]
