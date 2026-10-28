@@ -1,0 +1,14 @@
+[+] Batch started: Wed Oct 28 03:56:54 UTC 2026
+[+] Run ID: 40505701293
+[+] Batch name: batch-12
+[+] Batch targets:
+pika.art
+poe.com
+qwen.ai
+[+] Running subfinder...
+[+] Subfinder completed: Wed Oct 28 03:58:32 UTC 2026
+[+] HTTPX input count: 1267
+[+] Running httpx...
+[+] httpx completed: Wed Oct 28 04:03:35 UTC 2026
+[+] httpx line count: 499
+[+] Batch completed: Wed Oct 28 04:03:35 UTC 2026
