@@ -1,0 +1,14 @@
+[+] Batch started: Wed Oct 28 04:23:25 UTC 2026
+[+] Run ID: 40505798566
+[+] Batch name: batch-13
+[+] Batch targets:
+submagic.co
+synthesia.io
+topazlabs.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Oct 28 04:24:47 UTC 2026
+[+] HTTPX input count: 682
+[+] Running httpx...
+[+] httpx completed: Wed Oct 28 04:26:26 UTC 2026
+[+] httpx line count: 162
+[+] Batch completed: Wed Oct 28 04:26:26 UTC 2026

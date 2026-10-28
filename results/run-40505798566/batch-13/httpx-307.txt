@@ -1,0 +1,6 @@
+https://beta.topazlabs.com [307] [/sign-in?redirect=%2F] [0] [cloudflare] [172.64.149.151] [cloudflare] [5.521197699s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://dashboard.synthesia.io [307] [/api/auth/sign-in?returnPathname=%2F] [0] [istio-envoy] [18.161.156.120] [cloudfront] [737.944503ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Envoy,HSTS]
+https://dashboard.dev.synthesia.io [307] [/api/auth/sign-in?returnPathname=%2F] [0] [istio-envoy] [108.138.159.89] [cloudfront] [1.084043745s] [Amazon CloudFront,Amazon S3,Amazon Web Services,Envoy,HSTS]
+https://login.synthesia.io [307] [https://api.workos.com/user_management/initiate_login?context=&client_id=client_01JHTZY0ZK03VMGDP7HV8TKXTE] [131825] [Sign in] [cloudflare] [172.64.152.23] [cloudflare] [344.195696ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://preprod.submagic.co [307] [/home] [15] [Vercel] [66.33.60.35] [255.24164ms] [HSTS,Vercel]
+https://web-dev.topazlabs.com [307] [/sign-in?redirect=%2F] [0] [cloudflare] [104.18.38.105] [cloudflare] [1.102388933s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
