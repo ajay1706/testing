@@ -1,0 +1,67 @@
+[CVE-2024-53991] [http] [high] https://gov.banksocial.io/stylesheets/discourse-narrative-bot_fd11edc9ca73f9ea26cfda1940099248add64291.css?__ws=gov.banksocial.io&cachebuster=3LIOSslAHBnrvyQ9ddoyz6aQXYB
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-dev.kryptogo.com/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.kryptogo.com/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.imem.app/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.stage.imem.app/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2026-26077] [http] [medium] https://gov.banksocial.io/webhooks/mailpace
+[CVE-2026-27454] [http] [medium] https://forum.shapeshift.com/posts/9088.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.concordium.com/posts/4808.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.banksocial.io/posts/2050.json?version=1
+[CVE-2026-33425] [http] [medium] https://gov.banksocial.io/directory_items.json?period=all&order=likes_received&page=0&exclude_groups=admins%7Cmoderators%7Cstaff%7Ctrust_level_4
+[apache-mod-negotiation-listing:exposed_files] [http] [low] https://farming.peakdefi.com/index ["index.html"] [path="/index"]
+[CVE-2023-48795] [javascript] [medium] farming.peakdefi.com:22 ["Vulnerable to Terrapin"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] external-api-dev.kryptogo.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] external-api-dev.kryptogo.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] external-api.kryptogo.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] external-api.kryptogo.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] falconer.haqq.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] falconer.stage.haqq.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] falconer.haqq.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] falconer.stage.haqq.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] faucet.puzzle.online:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] faucet.puzzle.online:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] file.fxwallet.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] file.fxwallet.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] file.test.fxwallet.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] floki.zypto.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] floki.zypto.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] file.test.fxwallet.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] flokicheckout.zypto.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] flokicheckout.zypto.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] files.nabox.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] files.nabox.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gallery.testnet.concordium.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gateway.tomo.inc:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gateway.tomo.inc:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] generator-shares.social.production.haqq.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] generator-shares.social.production.haqq.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] giftcard-api.fizen.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] giftcard-api.fizen.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gallery.testnet.concordium.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana-dev.kryptogo.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana-dev.kryptogo.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.kryptogo.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.kryptogo.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://fr.authentrend.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://faq.zelcore.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://faq.zelcore.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://faq.zelcore.io
+[ds-store-file] [http] [low] https://fizen.io/.DS_Store
+[grafana-metrics-exposure:version] [http] [low] https://grafana.imem.app/metrics ["11.4.0"]
+[kubernetes-metrics] [http] [low] https://grafana.imem.app/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana-dev.kryptogo.com/metrics ["11.6.0"]
+[kubernetes-metrics] [http] [low] https://grafana-dev.kryptogo.com/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana-dev.kryptogo.com/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.fxwallet.com/metrics ["12.4.2"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.kryptogo.com/metrics ["12.0.0"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.stage.imem.app/metrics ["11.4.0"]
+[kubernetes-metrics] [http] [low] https://grafana.fxwallet.com/metrics
+[kubernetes-metrics] [http] [low] https://grafana.kryptogo.com/metrics
+[kubernetes-metrics] [http] [low] https://grafana.stage.imem.app/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.fxwallet.com/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.kryptogo.com/metrics
+[mixed-active-content] [http] [low] https://faq.zelcore.io ["http://disweb.deploys.io/channels/404415190835134464/540720689716527105","http://134.209.43.151:7000/channels/404415190835134464/540720689716527105"]
+[expired-ssl] [ssl] [low] farming.peakdefi.com:443 ["2024-02-21 08:28:11 +0000 UTC"]
+[expired-ssl] [ssl] [low] faucet-testing.puzzle.online:443 ["2024-05-01 22:45:49 +0000 UTC"]
+[expired-ssl] [ssl] [low] fr.shapeshift.com:443 ["2026-04-17 21:44:39 +0000 UTC"]
+[expired-ssl] [ssl] [low] gov.peakdefi.com:443 ["2025-11-30 21:51:57 +0000 UTC"]
