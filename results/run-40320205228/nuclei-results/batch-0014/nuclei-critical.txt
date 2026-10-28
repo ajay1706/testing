@@ -1,0 +1,1 @@
+[config-json-exposure-fuzz] [http] [critical] https://passbolt.ethermail.io/settings.json [path="/settings.json"]

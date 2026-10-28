@@ -1,0 +1,2 @@
+[CVE-2023-48795] [javascript] [medium] peakdefi.com:22 ["Vulnerable to Terrapin"]
+[claude-settings-exposure] [http] [medium] https://ownbit.io/.claude/settings.local.json
