@@ -1,0 +1,13 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] abtest2.chatpdf.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] abtest2.chatpdf.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] account.connectors.eu.sana.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] account.connectors.eu.sana.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] account.connectors.us.sana.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] account.connectors.us.sana.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] acme.red.internal.glean.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] acme.red.internal.glean.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://addlife.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://addlife.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[prometheus-metrics] [http] [medium] https://academy.zapier.com/metrics
+[expired-ssl] [ssl] [low] admin-portal.mem.ai:443 ["2026-07-14 00:39:56 +0000 UTC"]
+[expired-ssl] [ssl] [low] admin.mem.ai:443 ["2026-07-15 22:42:04 +0000 UTC"]
