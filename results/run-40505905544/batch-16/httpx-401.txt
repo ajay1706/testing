@@ -1,0 +1,2 @@
+https://api.zapier.com [401] [] [99] [] [52.84.199.117] [cloudfront] [158.403495ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://promptfoo-dev.writesonic.com [401] [] [188] [401 Authorization Required] [nginx/1.18.0 (Ubuntu)] [172.208.72.89] [2.177604504s] [Basic,Nginx:1.18.0,Ubuntu]
