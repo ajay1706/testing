@@ -1,0 +1,2 @@
+[go-pprof-debug] [http] [low] http://im-conn.sc-api.seaart.ai/debug/pprof/heap?debug=1
+[debug-vars] [http] [low] http://im-conn.sc-api.seaart.ai/debug/vars
