@@ -1,0 +1,2 @@
+https://magic-mirror.api.seaart.ai [302] [https://www.seaart.ai/] [142] [302 Found] [] [35.201.70.169] [google] [147.952688ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://seaart.ai [302] [https://www.seaart.ai/] [142] [302 Found] [cloudflare] [104.18.28.205] [cloudflare] [119.513333ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud CDN,HSTS]
