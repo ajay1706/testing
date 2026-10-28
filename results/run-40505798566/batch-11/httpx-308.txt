@@ -1,0 +1,2 @@
+https://help.remove.bg [308] [https://www.remove.bg/help] [171] [308 Permanent Redirect] [cloudflare] [104.18.34.156] [cloudflare] [170.687753ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://remove.bg [308] [https://www.remove.bg/] [171] [308 Permanent Redirect] [cloudflare] [172.64.153.100] [cloudflare] [162.428563ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
