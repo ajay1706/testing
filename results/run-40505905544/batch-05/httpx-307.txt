@@ -1,0 +1,2 @@
+https://learn.jasper.ai [307] [/bootcamp/overview] [15] [Vercel] [76.76.21.22] [100.122017ms] [HSTS,Vercel]
+http://new.hyperwriteai.com [307] [http://hyperwriteai.com] [168] [307 Temporary Redirect] [openresty] [207.207.210.36] [155.571603ms] [Nginx,OpenResty]

@@ -1,0 +1,2 @@
+https://image.jasper.ai [308] [https://images.jasper.ai/] [15] [cloudflare] [172.66.43.59] [cloudflare] [193.334777ms] [Cloudflare,HSTS,Vercel]
+http://mail.jenni.ai [308] [https://mail.jenni.ai/] [0] [] [52.223.52.2] [5.460315ms] [HSTS,HTTP/3]
