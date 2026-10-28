@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://status.aftermath.finance/metrics
+[prometheus-metrics] [http] [medium] https://status.denaria.finance/metrics
