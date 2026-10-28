@@ -1,0 +1,14 @@
+[+] Batch started: Wed Oct 28 03:06:51 UTC 2026
+[+] Run ID: 40506025865
+[+] Batch name: batch-08
+[+] Batch targets:
+oku.trade
+openzeppelin.com
+pangolin.exchange
+[+] Running subfinder...
+[+] Subfinder completed: Wed Oct 28 03:08:41 UTC 2026
+[+] HTTPX input count: 366
+[+] Running httpx...
+[+] httpx completed: Wed Oct 28 03:09:24 UTC 2026
+[+] httpx line count: 142
+[+] Batch completed: Wed Oct 28 03:09:24 UTC 2026
