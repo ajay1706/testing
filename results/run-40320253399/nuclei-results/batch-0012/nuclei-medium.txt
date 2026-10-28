@@ -1,0 +1,1 @@
+[CVE-2023-5561] [http] [medium] https://www.kresus.com/wp-json/wp/v2/users?search=@ [route="wp-json/wp/v2/users?"]
