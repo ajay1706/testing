@@ -1,0 +1,14 @@
+[+] Batch started: Wed Oct 28 03:18:34 UTC 2026
+[+] Run ID: 40506025865
+[+] Batch name: batch-09
+[+] Batch targets:
+panoptic.xyz
+panora.exchange
+quipuswap.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Oct 28 03:20:27 UTC 2026
+[+] HTTPX input count: 168
+[+] Running httpx...
+[+] httpx completed: Wed Oct 28 03:20:46 UTC 2026
+[+] httpx line count: 53
+[+] Batch completed: Wed Oct 28 03:20:46 UTC 2026
