@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://api.gumstack.gumloop.com/metrics
+[nexus-repository-anonymous-access] [http] [medium] https://api-docs.usemotion.com/service/rest/v1/repositories
+[oidc-signing-alg-none-supported] [http] [medium] https://api.app.reclaim.ai/.well-known/openid-configuration ["https://app.reclaim.ai"]
+[azure-functions-hostjson-exposure] [http] [medium] https://api-docs.usemotion.com/host.json
