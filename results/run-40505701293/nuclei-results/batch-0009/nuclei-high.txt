@@ -1,0 +1,2 @@
+[CVE-2020-35234] [http] [high] https://alpha.canva.com/wp-content/plugins/easy-wp-smtp/
+[CVE-2020-35234] [http] [high] https://alpha.canva.com/wp-content/plugins/wp-mail-smtp-pro/
