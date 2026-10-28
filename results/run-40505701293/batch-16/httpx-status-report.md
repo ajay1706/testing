@@ -1,0 +1,114 @@
+# HTTPX Status Report
+
+Generated at: Wed Oct 28 04:41:33 UTC 2026
+
+HTTPX lines: 89
+Live URLs: 89
+
+## 200
+https://for.you.com [200] [] [137189] [For You — Your assistant needs a search engine, not an app store] [Vercel] [76.76.21.21] [414.14382ms] [Google Tag Manager,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://about.you.com [200] [] [225010] [The Leading Web Search APIs for AI] [cloudflare] [198.202.211.1] [67.677972ms] [Cloudflare,Google Tag Manager,HTTP/3,Osano,jQuery:3.5.1,jsDelivr]
+https://cricket-aws.you.com [200] [] [487857] [You.com | Search and inference for AI] [cloudflare] [172.64.146.80] [cloudflare] [206.943351ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://staging-webflow.you.com [200] [] [225020] [The Leading Web Search APIs for AI] [cloudflare] [198.202.211.1] [173.971472ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Osano,jQuery:3.5.1,jsDelivr]
+https://cricket.you.com [200] [] [487861] [You.com | Search and inference for AI] [cloudflare] [172.64.146.80] [cloudflare] [152.92448ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://v0.app [200] [] [987183] [v0 by Vercel - Build Full-Stack Web Apps with AI] [Vercel] [64.239.109.65] [6.336848408s] [Amazon S3,Amazon Web Services,HSTS,RxJS,Vercel]
+
+## 301
+https://blog.you.com [301] [https://about.you.com/blog] [167] [301 Moved Permanently] [cloudflare] [172.64.146.80] [cloudflare] [34.139885ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://code.you.com [301] [https://you.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.41.176] [cloudflare] [37.44341ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api-placeholder.you.com [301] [https://api.you.com/] [167] [301 Moved Permanently] [cloudflare] [172.64.146.80] [cloudflare] [41.108493ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api.you.com [301] [https://you.com/docs/welcome] [167] [301 Moved Permanently] [cloudflare] [172.64.146.80] [cloudflare] [62.544394ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://chat.you.com [301] [https://you.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.41.176] [cloudflare] [73.369838ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://developers.you.com [301] [https://you.com/docs/welcome] [167] [301 Moved Permanently] [cloudflare] [104.18.41.176] [cloudflare] [30.450636ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://docs.you.com [301] [https://you.com/docs/] [167] [301 Moved Permanently] [cloudflare] [172.64.146.80] [cloudflare] [34.091799ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://documentation.you.com [301] [https://you.com/docs/] [167] [301 Moved Permanently] [cloudflare] [104.18.41.176] [cloudflare] [105.799707ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://home.you.com [301] [https://you.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.41.176] [cloudflare] [106.583959ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://learn.you.com [301] [https://you.inversity.co/] [167] [301 Moved Permanently] [cloudflare] [172.64.146.80] [cloudflare] [108.006631ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://go.you.com [301] [https://go.you.com/index.html] [0] [] [34.134.238.127] [google] [284.513321ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://support.you.com [301] [https://support.you.com/kb/] [0] [cloudflare] [172.67.161.143] [cloudflare] [2.317768177s] [Cloudflare,HSTS,HTTP/3]
+https://www.staging.you.com [301] [https://staging.you.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.41.176] [cloudflare] [1.050880933s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.you.com [301] [https://you.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.41.176] [cloudflare] [2.029867115s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://code-dev.you.com [301] [https://code-dev.you.com/] [167] [301 Moved Permanently] [cloudflare] [172.64.146.80] [cloudflare] [12.241105ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://s.you.com [301] [https://s.you.com/] [167] [301 Moved Permanently] [cloudflare] [172.64.146.80] [cloudflare] [11.642348ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://www.api-placeholder.you.com [301] [https://www.api-placeholder.you.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.41.176] [cloudflare] [4.036606026s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 302
+https://demos.you.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdemos.you.com%2F&nonce=50e5be09e6c1bc8746df2f416ac5e308f41a35deeeaa0a72f83187f9891ab974] [263] [Vercel] [76.76.21.21] [166.878782ms] [HSTS,Vercel]
+https://editor.you.com [302] [https://you.com] [143] [302 Found] [cloudflare] [172.64.146.80] [cloudflare] [117.230393ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://imgs.you.com [302] [https://you.com/proxy?url=https://imgs.you.com/] [143] [302 Found] [cloudflare] [104.18.41.176] [cloudflare] [133.862228ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://panorama.you.com [302] [https://youdotcom.cloudflareaccess.com/cdn-cgi/access/login/panorama.you.com?kid=2875e159d6f6fb4dbde8df3c501fe8d3722dd2ff26c520e6ae882a2afa455b80&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjMzYmFjNDZhYjUwOTViYjY2ZWJlZWVlMTI5MjMwOTkxOTNlZGExNzZjODkwM2NiOWQ0NTliMWJjNjkxNzk3MTMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjI4NzVlMTU5ZDZmNmZiNGRiZGU4ZGYzYzUwMWZlOGQzNzIyZGQyZmYyNmM1MjBlNmFlODgyYTJhZmE0NTViODAiLCJob3N0bmFtZSI6InBhbm9yYW1hLnlvdS5jb20iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MzE2Mjc3NywibmJmIjoxNzkzMTYyNDc3LCJpYXQiOjE3OTMxNjI0NzcsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJjNDRjMGQzNTMwODA4NWRjNGY0NmU1OTdlZjNkNzAwMTA4NjY5YWU1MzFiYjk5NDJkMDNkMDQyZjIzZTA5MTQ4In0.bbEetK9jay2SVAW_PVCejhGlgYWJYn_-muYob-y-2Y5zgVXsSjFyJ7-M1p1r2bMH122dCmTFIBQHBbvZmlPFJGzXRzKLoWvL8RGRVE2MJomYEc9Mhwx-JI-T6b8vH04GK832iQCzSRVcpLeDSG51rihaBnh_VlsI5InjH02wc_8Wd96GOyswoOd2VpgekuReVgw_Ap4cSe47k2ZJGqNnrqBgROB7FJWRQ8n_b0niJvCISyzhRiwEXzUZcUoQksvDULLr0CiW2VoWwkfbKFSc1vYCw6EvJvg-2EblywLNKvew4-RIAtd1Tv9v26OD-mJfTzqOw_up2VewSz8ZqOfWgQ&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.64.146.80] [cloudflare] [111.239327ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://staging-dashboard.you.com [302] [https://adb-2104235359651264.4.azuredatabricks.net/sql/dashboards/3d8ebecc-656a-42f1-b5e6-0f5af531e791?o=2104235359651264] [143] [302 Found] [cloudflare] [172.64.146.80] [cloudflare] [89.148474ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 307
+https://api-staging.you.com [307] [https://docs.you.com/] [0] [cloudflare] [104.18.41.176] [cloudflare] [42.051087ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api-cricket.you.com [307] [https://docs.you.com/] [0] [cloudflare] [172.64.146.80] [cloudflare] [59.643633ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api.v0.app [307] [https://api.v0.app/chat] [0] [Vercel] [64.239.109.193] [96.318229ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://www.v0.app [307] [https://v0.app/] [15] [Vercel] [64.239.123.129] [6.102488826s] [HSTS,Vercel]
+
+## 308
+https://old-docs.you.com [308] [/get-started/welcome] [0] [Vercel] [66.33.60.66] [481.822999ms] [Cloudflare,HSTS,Vercel]
+http://www.pay.v0.app [308] [https://www.pay.v0.app/] [14] [Vercel] [64.239.109.129] [4.245523682s] [Vercel]
+
+## 401
+https://stagingfileuploadservice.you.com [401] [] [12] [cloudflare] [104.18.41.176] [cloudflare] [167.727022ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://stagingml.you.com [401] [] [12] [cloudflare] [172.64.146.80] [cloudflare] [148.641556ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://stagingmonolith.you.com [401] [] [12] [cloudflare] [172.64.146.80] [cloudflare] [208.753038ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://storybook.you.com [401] [] [61] [Caddy Qloaked] [137.66.11.6] [524.23658ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 403
+https://cdn-staging.you.com [403] [] [111] [AmazonS3] [3.170.19.106] [cloudfront] [84.625236ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://cdn.you.com [403] [] [111] [AmazonS3] [13.226.209.103] [cloudfront] [88.985579ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://cdn.braze.aws.you.com [403] [] [111] [AmazonS3] [3.170.19.25] [cloudfront] [140.59666ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://api-auth.you.com [403] [] [17] [cloudflare] [172.64.144.74] [cloudflare] [475.310588ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://dagster.staging.you.com [403] [] [130326] [cloudflare] [104.18.41.176] [cloudflare] [82.852042ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Node.js,Nuxt.js,Vercel,Vue.js]
+https://dagster.you.com [403] [] [130326] [cloudflare] [104.18.41.176] [cloudflare] [124.216297ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Node.js,Nuxt.js,Vercel,Vue.js]
+http://mail.you.com [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.67.76.74] [cloudfront] [88.476839ms] [Amazon CloudFront,Amazon Web Services]
+https://eva.you.com [403] [] [129948] [cloudflare] [172.64.146.80] [cloudflare] [200.626197ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Node.js,Nuxt.js,Vercel,Vue.js]
+https://eva-staging.you.com [403] [] [129948] [cloudflare] [172.64.146.80] [cloudflare] [185.921955ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Node.js,Nuxt.js,Vercel,Vue.js]
+https://status.you.com [403] [] [7418] [Just a moment...] [cloudflare] [104.18.41.176] [cloudflare] [158.844527ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://staging.you.com [403] [] [130326] [cloudflare] [172.64.146.80] [cloudflare] [2.876047511s] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Node.js,Nuxt.js,Vercel,Vue.js]
+https://us-west-2.you.com [403] [] [2] [cloudflare] [104.18.41.176] [cloudflare] [3.056058965s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://us-east-1.you.com [403] [] [2] [cloudflare] [172.64.146.80] [cloudflare] [6.051235928s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 404
+https://cname.v0.app [404] [] [107] [Vercel] [64.239.109.1] [30.189747ms] [HSTS,Vercel]
+https://blob.v0.app [404] [] [107] [Vercel] [64.239.109.1] [37.637441ms] [HSTS,Vercel]
+https://careers.you.com [404] [] [0] [cloudflare] [172.64.146.80] [cloudflare] [76.779771ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://auth.you.com [404] [] [1486] [404 Not Found] [cloudflare] [104.18.26.223] [cloudflare] [75.203766ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://auth.staging.you.com [404] [] [1084] [404 Not Found] [cloudflare] [104.18.27.223] [cloudflare] [78.528433ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://aws.you.com [404] [] [0] [cloudflare] [104.18.41.176] [cloudflare] [98.030313ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://beta.you.com [404] [] [0] [cloudflare] [172.64.146.80] [cloudflare] [132.716233ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://class.you.com [404] [] [3213] [404 - Page Not Found] [cloudflare] [172.64.152.166] [cloudflare] [121.890734ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,Vue.js]
+https://default.you.com [404] [] [0] [cloudflare] [104.18.41.176] [cloudflare] [129.67874ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api.stytch.you.com [404] [] [242] [cloudflare] [104.18.8.173] [cloudflare] [308.871155ms] [Cloudflare,HSTS]
+https://clicks.you.com [404] [] [150] [404 Not Found] [] [150.171.109.72] [309.3767ms] [Azure,Azure Front Door]
+https://ast.you.com [404] [] [196] [] [52.41.204.129] [329.157221ms]
+https://api.stytch.staging.you.com [404] [] [242] [cloudflare] [104.18.9.173] [cloudflare] [349.408901ms] [Cloudflare,HSTS]
+https://favicon.index.you.com [404] [] [0] [cloudflare] [172.64.146.80] [cloudflare] [164.346242ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://email.mg.you.com [404] [] [19] [] [34.102.239.211] [google] [267.275674ms]
+https://faststagingmonolith.you.com [404] [] [0] [cloudflare] [104.18.41.176] [cloudflare] [200.067795ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://favicon.staging-index.you.com [404] [] [0] [cloudflare] [104.18.41.176] [cloudflare] [228.271974ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://docs-staging.you.com [404] [] [107] [cloudflare] [172.64.146.80] [cloudflare] [449.619449ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Vercel]
+https://gtm1.you.com [404] [] [9] [cloudflare] [172.64.146.80] [cloudflare] [189.074142ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://hacker.you.com [404] [] [0] [cloudflare] [104.18.41.176] [cloudflare] [200.24475ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://mail.v0.app [404] [] [107] [Vercel] [64.239.123.65] [130.059426ms] [HSTS,Vercel]
+https://fqycyk.you.com [404] [] [43] [cloudflare] [162.159.140.98] [cloudflare] [458.738422ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://pay.v0.app [404] [] [107] [Vercel] [64.239.109.193] [140.978599ms] [HSTS,Vercel]
+https://staging-aws.you.com [404] [] [0] [cloudflare] [172.64.146.80] [cloudflare] [228.147479ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://stagingenterprisedata.you.com [404] [] [22] [cloudflare] [172.64.146.80] [cloudflare] [136.416187ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://stoptaxpayerabortion-modern.v0.app [404] [] [107] [Vercel] [64.239.109.129] [109.340067ms] [HSTS,Vercel]
+https://stagingincognito.you.com [404] [] [0] [cloudflare] [104.18.41.176] [cloudflare] [180.119676ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://wildcard.v0.app [404] [] [107] [Vercel] [64.239.109.65] [1.153690485s] [HSTS,Vercel]
+https://verify.you.com [404] [] [1486] [404 Not Found] [cloudflare] [104.18.41.176] [cloudflare] [2.128000005s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.api-cricket.you.com [404] [] [0] [cloudflare] [172.64.146.80] [cloudflare] [1.066053827s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.cricket.you.com [404] [] [0] [cloudflare] [172.64.146.80] [cloudflare] [3.074943411s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.api-staging.you.com [404] [] [0] [cloudflare] [104.18.41.176] [cloudflare] [6.101056578s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.api.you.com [404] [] [0] [cloudflare] [104.18.41.176] [cloudflare] [7.06841684s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+https://scuba.you.com [503] [] [1100] [503 Service Temporarily Unavailable] [cloudflare] [104.18.41.176] [cloudflare] [114.119392ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+

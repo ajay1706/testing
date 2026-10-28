@@ -1,0 +1,6 @@
+https://for.you.com [200] [] [137189] [For You — Your assistant needs a search engine, not an app store] [Vercel] [76.76.21.21] [414.14382ms] [Google Tag Manager,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://about.you.com [200] [] [225010] [The Leading Web Search APIs for AI] [cloudflare] [198.202.211.1] [67.677972ms] [Cloudflare,Google Tag Manager,HTTP/3,Osano,jQuery:3.5.1,jsDelivr]
+https://cricket-aws.you.com [200] [] [487857] [You.com | Search and inference for AI] [cloudflare] [172.64.146.80] [cloudflare] [206.943351ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://staging-webflow.you.com [200] [] [225020] [The Leading Web Search APIs for AI] [cloudflare] [198.202.211.1] [173.971472ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Osano,jQuery:3.5.1,jsDelivr]
+https://cricket.you.com [200] [] [487861] [You.com | Search and inference for AI] [cloudflare] [172.64.146.80] [cloudflare] [152.92448ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://v0.app [200] [] [987183] [v0 by Vercel - Build Full-Stack Web Apps with AI] [Vercel] [64.239.109.65] [6.336848408s] [Amazon S3,Amazon Web Services,HSTS,RxJS,Vercel]
