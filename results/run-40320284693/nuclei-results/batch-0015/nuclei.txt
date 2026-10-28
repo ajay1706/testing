@@ -1,0 +1,35 @@
+[open-redirect-generic] [http] [medium] https://testnet.helixapp.com//oast.me/..;/css [redirect="/oast.me/..;/css"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] testnet.veranta.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] testnet.pro.apex.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testnet.veranta.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testnet.pro.apex.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tiles.polymarket.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tiles.polymarket.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tpu-public.tf.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tpu-public.tf.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] translations-qa.apex.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] translations-qa.apex.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] user-pnl-api.polymarket.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] user-pnl-api.polymarket.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://testnet.grvt.io/hopfully404 ["AIzaSyBATR7Rgck1Q3JvH8KnSgf_RI4nc0hEgM4"]
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://testnet.typus.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://testnet.typus.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://testnet.typus.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://tge.typus.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://tge.typus.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://tge.typus.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ts-sdk.aftermath.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ts-sdk.aftermath.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ts-sdk.aftermath.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://typus.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://typus.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://typus.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://v1.typus.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://v1.typus.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://v1.typus.finance
+[unauthenticated-varnish-cache-purge] [http] [low] https://testnet.typus.finance
+[unauthenticated-varnish-cache-purge] [http] [low] https://tge.typus.finance
+[unauthenticated-varnish-cache-purge] [http] [low] https://typus.finance
+[unauthenticated-varnish-cache-purge] [http] [low] https://v1.typus.finance
+[CVE-2025-54793] [http] [medium] https://testnet.helixapp.com//interact.sh/en
+[expired-ssl] [ssl] [low] v2.waterx.app:443 ["2026-09-03 08:43:21 +0000 UTC"]
