@@ -1,0 +1,23 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.sv1.edge.deepgram.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.sv1.edge.deepgram.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.va1.edge.deepgram.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.va1.edge.deepgram.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apis.clipdrop.co:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apis.clipdrop.co:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apio.netease.streaming.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apio.netease.streaming.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.fliki.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.fliki.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://app.clipdrop.co
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://app.clipdrop.co
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://app.clipdrop.co
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://app.moises.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://app.moises.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://app.moises.ai
+[prometheus-metrics] [http] [medium] https://api.sv1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.sv1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.us-west-2.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.va1.edge.deepgram.com/metrics
+[unauthenticated-varnish-cache-purge] [http] [low] https://app.clipdrop.co

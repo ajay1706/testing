@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://api.sv1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.sv1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.us-west-2.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.va1.edge.deepgram.com/metrics
