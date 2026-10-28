@@ -1,0 +1,2 @@
+https://eval.duolingo-usc1.platform-duolingo.replit.com [502] [] [332] [502 Server Error] [] [35.186.200.153] [google] [2.170734549s] [HTTP/3]
+https://eval2.duolingo-usc1.platform-duolingo.replit.com [502] [] [332] [502 Server Error] [] [35.186.200.153] [google] [1.179893884s] [HTTP/3]
