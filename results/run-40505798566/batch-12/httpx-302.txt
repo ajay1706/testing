@@ -1,0 +1,6 @@
+https://help.speechify.com [302] [https://help.speechify.com/en/] [0] [cloudflare] [172.67.68.119] [cloudflare] [409.14391ms] [Cloudflare]
+https://ml.api.speechify.com [302] [/documentation] [30] [Google Frontend] [35.190.19.75] [google] [3.080898863s] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://staging.dubbing.speechify.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.dubbing.speechify.com%2F&nonce=d9c37c0e1e6ec9b626b2fac2c257748721dc8b5e061fbfc82e2f5eca181314c4] [263] [Vercel] [66.33.60.34] [1.280106427s] [HSTS,Vercel]
+https://staging.studio.speechify.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.studio.speechify.com%2F&nonce=69cfdac333f527a556173680f714b64c08aa25256171717743108630899b4a54] [263] [Vercel] [76.76.21.164] [3.285234995s] [HSTS,Vercel]
+https://students.speechify.com [302] [https://speechify.com/] [143] [302 Found] [cloudflare] [104.26.0.186] [cloudflare] [5.076965701s] [Cloudflare]
+https://web-payments.speechify.com [302] [/dashboard] [32] [Google Frontend] [192.178.164.121] [google] [3.195965632s] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]

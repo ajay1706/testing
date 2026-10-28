@@ -1,0 +1,6 @@
+https://academy.spline.design [308] [https://spline.design/academy?ref=academy] [15] [Vercel] [216.150.1.65] [108.534654ms] [HSTS,Vercel]
+https://blog.spline.design [308] [https://spline.design/blog] [15] [Vercel] [216.150.1.129] [122.625013ms] [HSTS,Vercel]
+http://matrix.spline.design [308] [https://matrix.spline.design/] [14] [Vercel] [66.33.60.35] [2.062757997s] [Vercel]
+https://updates.spline.design [308] [https://spline.design/changelog] [15] [Vercel] [216.150.1.1] [3.097743391s] [HSTS,Vercel]
+http://v1-0-0.oai.speechify.com [308] [https://v1-0-0.oai.speechify.com/] [14] [Vercel] [216.150.16.1] [1.22143634s] [Vercel]
+https://www.speechify.com [308] [https://speechify.com/] [15] [cloudflare] [172.67.68.119] [cloudflare] [6.14277782s] [Cloudflare,HSTS,Vercel]
