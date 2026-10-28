@@ -1,0 +1,7 @@
+[+] Started: Wed Oct 28 03:04:29 UTC 2026
+[+] Run ID: 40319919508
+[+] Batch: batch-0039
+[+] URL count: 94
+WARNING: sonic/ast only supports (go1.17~1.26 and amd64 CPU) or (go1.20~1.26 and arm64 CPU), but your environment is not suitable and will fallback to encoding/json
+[[1;31mFTL[0m] Could not run nuclei: no templates provided for scan
+[+] Finished: Wed Oct 28 03:04:30 UTC 2026
