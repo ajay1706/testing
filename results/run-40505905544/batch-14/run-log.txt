@@ -1,0 +1,14 @@
+[+] Batch started: Wed Oct 28 04:37:14 UTC 2026
+[+] Run ID: 40505905544
+[+] Batch name: batch-14
+[+] Batch targets:
+sudowrite.com
+supernormal.com
+taskade.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Oct 28 04:38:58 UTC 2026
+[+] HTTPX input count: 170
+[+] Running httpx...
+[+] httpx completed: Wed Oct 28 04:39:19 UTC 2026
+[+] httpx line count: 103
+[+] Batch completed: Wed Oct 28 04:39:19 UTC 2026
