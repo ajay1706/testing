@@ -1,0 +1,3 @@
+https://canary.verse.works [401] [] [0] [CloudFront] [13.249.141.48] [cloudfront] [299.184551ms] [Amazon CloudFront,Amazon Web Services,Basic]
+https://mcp.verse.works [401] [] [539] [401 Authorization Required] [cloudflare] [13.32.164.32] [cloudfront] [734.011627ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.invest.verse.works [401] [] [335450] [Ordo — Secure] [Squarespace] [198.185.159.144] [763.426407ms] [Adobe Fonts,HSTS,Squarespace,Squarespace Commerce,Typekit]

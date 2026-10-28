@@ -1,0 +1,4 @@
+https://idp.verse.works [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [18.160.213.56] [cloudfront] [127.963567ms] [Amazon CloudFront,Amazon Web Services]
+https://temporal.verse.works [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [18.64.183.7] [cloudfront] [200.064592ms] [Amazon CloudFront,Amazon Web Services]
+https://temporal-default.verse.works [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [99.86.77.56] [cloudfront] [450.067449ms] [Amazon CloudFront,Amazon Web Services]
+https://mimir-6b75d48a.verse.works [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [13.227.87.20] [cloudfront] [489.205649ms] [Amazon CloudFront,Amazon Web Services]

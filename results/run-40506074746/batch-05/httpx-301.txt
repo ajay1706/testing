@@ -1,0 +1,3 @@
+https://invest.verse.works [301] [https://www.invest.verse.works/] [0] [Squarespace] [198.49.23.144] [366.212472ms] [HSTS,Squarespace,Squarespace Commerce]
+https://helpdesk.verse.works [301] [/en/] [38] [nginx] [172.65.251.114] [cloudflare] [459.779768ms] [HSTS,Nginx]
+https://links.mail.verse.works [301] [https://crisp.email/] [162] [301 Moved Permanently] [nginx] [172.65.225.161] [cloudflare] [524.264874ms] [HSTS,Nginx]
