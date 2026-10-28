@@ -1,0 +1,8 @@
+https://community.whimsical.com [301] [https://whimsical.com/learn] [167] [301 Moved Permanently] [cloudflare] [172.66.43.77] [cloudflare] [35.025445ms] [Cloudflare]
+https://www.whimsical.com [301] [https://whimsical.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.179] [cloudflare] [36.546292ms] [Cloudflare]
+https://mcp.whimsical.com [301] [https://whimsical.com/learn/integrations/mcp] [169] [301 Moved Permanently] [cloudflare] [172.66.40.179] [cloudflare] [48.658744ms] [Cloudflare,HSTS]
+https://imgr.whimsical.com [301] [https://whimsical.com/api/imager.get] [169] [301 Moved Permanently] [cloudflare] [172.66.43.77] [cloudflare] [85.090367ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS]
+https://www.vizard.ai [301] [https://vizard.ai/] [194] [301 Moved Permanently] [nginx/1.14.0 (Ubuntu)] [54.153.11.20] [249.245049ms] [Nginx:1.14.0,Ubuntu]
+https://m.vizard.ai [301] [https://vizard.ai/] [194] [301 Moved Permanently] [nginx/1.14.0 (Ubuntu)] [54.153.11.20] [256.949745ms] [Nginx:1.14.0,Ubuntu]
+https://help.whimsical.com [301] [https://whimsical.com/learn] [0] [cloudflare] [172.66.43.77] [cloudflare] [336.171049ms] [Cloudflare]
+http://desktop.whimsical.com [301] [https://desktop.whimsical.com/] [167] [301 Moved Permanently] [cloudflare] [104.21.75.173] [cloudflare] [34.585327ms] [Cloudflare,HTTP/3]
