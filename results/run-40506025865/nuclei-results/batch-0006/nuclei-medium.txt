@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://api.doppler.lol/metrics
+[prometheus-metrics] [http] [medium] https://api.panoptic.xyz/metrics
+[django-debug-config-enabled] [http] [medium] https://api.algebra.finance/NON_EXISTING_PATH/
