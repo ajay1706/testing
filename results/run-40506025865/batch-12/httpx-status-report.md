@@ -1,0 +1,89 @@
+# HTTPX Status Report
+
+Generated at: Wed Oct 28 04:36:43 UTC 2026
+
+HTTPX lines: 58
+Live URLs: 58
+
+## 200
+https://docs-data.smardex.io [200] [] [402] [Smardex Docs Data] [AmazonS3] [13.225.61.91] [cloudfront] [544.011832ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://app.splash.trade [200] [] [2664] [Splash Protocol] [Vercel] [66.33.60.194] [664.099232ms] [HSTS,Vercel]
+https://planner.splash.trade [200] [] [43] [cloudflare] [172.67.167.246] [cloudflare] [396.255126ms] [Cloudflare,HTTP/3]
+https://perp-dev-docs.smardex.io [200] [] [17250] [Home] [none] [52.84.199.50] [cloudfront] [368.050927ms] [Amazon CloudFront,Amazon Web Services,Clipboard.js,Cloudflare,Lunr.js,MathJax:2.7.1,cdnjs]
+https://exchange.splash.trade [200] [] [2258] [Splash] [cloudflare] [104.21.13.124] [cloudflare] [920.862506ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://other.sorellalabs.xyz [200] [] [9948] [Sorella Labs | Fair Markets for All DeFi Users] [cloudflare] [104.20.41.45] [cloudflare] [521.305069ms] [Cloudflare,Klaviyo,Next.js,Node.js,React,Webpack]
+https://registry.splash.trade [200] [] [0] [nginx/1.18.0 (Ubuntu)] [88.99.193.49] [515.069676ms] [Nginx:1.18.0,Ubuntu]
+https://smardex.io [200] [] [1937] [DeFi The Norm - SMARDEX] [AmazonS3] [3.161.242.11] [cloudfront] [276.492428ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://docs.smardex.io [200] [] [417403] [SmarDex Documentation | SmarDex Ecosystem] [cloudflare] [104.18.40.47] [cloudflare] [535.66839ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.splash.trade [200] [] [409809] [Welcome | Splash] [cloudflare] [104.18.40.47] [cloudflare] [589.815136ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://speedos.smardex.io [200] [] [1608] [Speedex Exchange - SMARDEX] [AmazonS3] [52.84.217.25] [cloudfront] [366.153381ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://sorellalabs.xyz [200] [] [9948] [Sorella Labs | Fair Markets for All DeFi Users] [cloudflare] [104.20.41.45] [cloudflare] [410.638868ms] [Cloudflare,Klaviyo,Next.js,Node.js,React,Webpack]
+https://supply.api.smardex.io [200] [] [73] [none] [18.204.41.193] [398.950641ms] [Amazon CloudFront,Amazon Web Services]
+https://staging-trading-backoffice.splash.trade [200] [] [14490] [Configs dashboard · Trading backoffice] [cloudflare] [172.67.167.246] [cloudflare] [671.843398ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+
+## 301
+https://blog.smardex.io [301] [https://smardex.io/] [167] [301 Moved Permanently] [cloudflare] [104.21.30.183] [cloudflare] [224.54005ms] [Cloudflare]
+https://ig-perf.api.smardex.io [404] [] [301] [none] [18.238.132.9] [cloudfront] [352.478708ms] [Amazon CloudFront,Amazon Web Services]
+https://api.smardex.io [404] [] [301] [none] [13.225.61.49] [cloudfront] [430.694989ms] [Amazon CloudFront,Amazon Web Services]
+https://assets.api.smardexai-staging.smardex.io [404] [] [301] [none] [18.161.170.9] [cloudfront] [784.665126ms] [Amazon CloudFront,Amazon Web Services]
+https://rpc-status.prod.api.smardex.io [404] [] [301] [none] [3.168.2.46] [cloudfront] [357.661374ms] [Amazon CloudFront,Amazon Web Services]
+http://www.smardex.io [301] [https://www.smardex.io/] [167] [301 Moved Permanently] [CloudFront] [3.161.242.11] [cloudfront] [1.271721758s] [Amazon CloudFront,Amazon Web Services]
+
+## 302
+https://obs.sorellalabs.xyz [302] [https://sorella.cloudflareaccess.com/cdn-cgi/access/login/obs.sorellalabs.xyz?kid=0c7bd1f4f5ecb1b55dc86149ce4d7169f82207038ce40c7ad05d4efdb0c2e04e&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjdmZmYzNTcxNDE5ZmQxZjk3ODNiNDhjMmE2NmMzODU5MjQ1OGRjMzRmMzVjNDRmMTAyNDFjYTRjZDEwNTJjY2IifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjBjN2JkMWY0ZjVlY2IxYjU1ZGM4NjE0OWNlNGQ3MTY5ZjgyMjA3MDM4Y2U0MGM3YWQwNWQ0ZWZkYjBjMmUwNGUiLCJob3N0bmFtZSI6Im9icy5zb3JlbGxhbGFicy54eXoiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MzE2MjQ4MiwibmJmIjoxNzkzMTYyMTgyLCJpYXQiOjE3OTMxNjIxODIsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJNWCIsImFwcF9zZXNzaW9uX2hhc2giOiJiMTgyYmI4ZWY1ODhiMWM0ODU2NDA3YTJkZTExYTE3NzEyZWM1MGMzY2NkZjZiYWIxOTcxODk5NjdhZjc0MTI2In0.TQlVoZ8-JA4o9MAYjzm8B1mhGDV-vQUq4ixBqdOY32n23TQSn3UHjLW_K-DPbOKXpb4VVEuyM9KwSLpwSsnIkRLb317UAK0feWMjNhKCBUbS7d8kUl5rjvQUVKeip1iSxv_ZgaqCzBcJJ9IM-JqDzWTeK27a2gWF2GWFF-jYwHP_vI2v2qnzrXdKvCxP8yYE9BPJZDZAo1jdIMFW6GTXhIXdwAWa31CsHgOe2pY8kCp1ojhZWJPPhR2huj3niUiE6DnbZgmAYubk1cunVUKTuAuu6yTrdsj-27fP9rTk5LS2RayltUXSffW1KYfew78hePfZ3w2dw67RNJbGNq7XBg&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.20.41.45] [cloudflare] [301.424996ms] [Cloudflare]
+https://handoff.sorellalabs.xyz [302] [https://sorella.cloudflareaccess.com/cdn-cgi/access/login/handoff.sorellalabs.xyz?kid=0f2dd072ead89fe34f0bcabd01a1481d6c8c42adbfe74611bf040ce96eb9a23b&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjdmZmYzNTcxNDE5ZmQxZjk3ODNiNDhjMmE2NmMzODU5MjQ1OGRjMzRmMzVjNDRmMTAyNDFjYTRjZDEwNTJjY2IifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjBmMmRkMDcyZWFkODlmZTM0ZjBiY2FiZDAxYTE0ODFkNmM4YzQyYWRiZmU3NDYxMWJmMDQwY2U5NmViOWEyM2IiLCJob3N0bmFtZSI6ImhhbmRvZmYuc29yZWxsYWxhYnMueHl6IiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTMxNjI0ODIsIm5iZiI6MTc5MzE2MjE4MiwiaWF0IjoxNzkzMTYyMTgyLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiTVgiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiNTIyOTMzNzg5OGU1OGE0YzAwN2U5ZDFhNmJkY2EzMWQ0NmRiN2YyYThiZWFlODY2NDY3MTBlZDVlMmI2ZDU2ZiJ9.oc3LgcxbO0dkXMxUneGuxPvAvzsFSVMAFH-BVIosXH0ebECa2J4bmrM65q2MYqCw3fp8BC5v5S2bpl-3rX7ECuQcaixQVpD9A2ydEFgQKrr_NDVwgMN3VVd_quqa8DQNbrQtSM04zEp8j6iv3v0L6S5DJbP0R_JOeZrc8-H_nvSu9d_DAwH-FHE-oYr6fg0Cf_pCKUAFW5DIAfHzf_jcRj7tGms3Tg6iPMYS2V8T1ms-1LQxi-oR7cJag53u1MrPKWOfRo03ZxsnGO4nW2akjfKZ5cqtKhnfr_XCl4PboXdGC1u99vMD26pALb2iTtJihFpbzLD6J9j5vcsH-I_2gg&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.154.139] [cloudflare] [340.33825ms] [Cloudflare]
+https://obs-staging.sorellalabs.xyz [302] [https://sorella.cloudflareaccess.com/cdn-cgi/access/login/obs-staging.sorellalabs.xyz?kid=31f3af89cd6f9339b3602950f5af763492a93e9099ccdda4b5ec68e4b5987866&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjdmZmYzNTcxNDE5ZmQxZjk3ODNiNDhjMmE2NmMzODU5MjQ1OGRjMzRmMzVjNDRmMTAyNDFjYTRjZDEwNTJjY2IifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjMxZjNhZjg5Y2Q2ZjkzMzliMzYwMjk1MGY1YWY3NjM0OTJhOTNlOTA5OWNjZGRhNGI1ZWM2OGU0YjU5ODc4NjYiLCJob3N0bmFtZSI6Im9icy1zdGFnaW5nLnNvcmVsbGFsYWJzLnh5eiIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkzMTYyNDgyLCJuYmYiOjE3OTMxNjIxODIsImlhdCI6MTc5MzE2MjE4MiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6Ik1YIiwiYXBwX3Nlc3Npb25faGFzaCI6Ijc1YTY1ODQ1Y2Q4ZDFhYjhhM2EyNzAxNzEzMTg5Y2YxZTNiM2I1N2Y1ZmU2NWQxZDEwNmVkYzc4MWFiMjViNTAifQ.C5Uekwo3iZHMO5aPCyy29LV9quFT3TsrLoRRzyKlMEaTrgpfLmdOx0o2di1jATUKYLy5iO5GLegpodmg70CZ85xr3RnU5BgSPczipeLuMNcYk2pYxCD7QgZ-oz9QPkqT_sp_VPzfz0N4hP4dB8N1jfM20nOAQq9hZ7t3-qFzu6j8H3UXYkq3mywJ-dFLqcEd8XPm85MZ7BFvuX4RM9Ba2LXwNp9ZauCY7YWaKZL-zZFGfUS9jVe3hsy3PX_Ucm0zPb05GuNMrRrbzk6f8GgZdY584kqbU9LnwrCB4GG9l57A8Kj0DrPyf9lU2I6G9Eiv5eUwmL2teopYmt2fJYQHAA&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.20.41.45] [cloudflare] [374.700671ms] [Cloudflare]
+https://email.splash.trade [302] [https://email.secureserver.net:443/auth] [477] [302 Found] [cloudflare] [104.21.13.124] [cloudflare] [366.715238ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://staging.splash.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.splash.trade%2F&nonce=61fa99046e0cf399d427b4fb6977131d320663785070a02a86338c7fbe7a5347] [263] [Vercel] [76.76.21.164] [366.734848ms] [HSTS,Vercel]
+https://timescale-research.sorellalabs.xyz [302] [https://sorella.cloudflareaccess.com/cdn-cgi/access/login/timescale-research.sorellalabs.xyz?kid=f4f4597f1aaad964d00aaefc306c114e991ef2d3e29b5dac2ab90035e8584623&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjdmZmYzNTcxNDE5ZmQxZjk3ODNiNDhjMmE2NmMzODU5MjQ1OGRjMzRmMzVjNDRmMTAyNDFjYTRjZDEwNTJjY2IifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImY0ZjQ1OTdmMWFhYWQ5NjRkMDBhYWVmYzMwNmMxMTRlOTkxZWYyZDNlMjliNWRhYzJhYjkwMDM1ZTg1ODQ2MjMiLCJob3N0bmFtZSI6InRpbWVzY2FsZS1yZXNlYXJjaC5zb3JlbGxhbGFicy54eXoiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MzE2MjQ4NCwibmJmIjoxNzkzMTYyMTg0LCJpYXQiOjE3OTMxNjIxODQsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJNWCIsImFwcF9zZXNzaW9uX2hhc2giOiI5ZTE2OWJjZTQzZjg2ZTQ1MWUwYzM4YTFkMDdjOGU0YTEwOTlmZDVkY2ZiYjljMWQ0NjJjMzA3YTM3NzZlNTgyIn0.nPLQ1bfhPMuJ5J7iaUQlYH8G2JU4iooB_T9_mtqpfLkyfUVXvZ4vU2lSPl-kGIE6HBldiq3QRf7xKojixwaWe_WTUq5PqT8YMl6U78N-11Rcug0dw_W89BllKLam0UPjpYa9CqOZdbcWE9HeyvqcmpL2SJPxCfUzCDlCiWt7Yry-i3xPP4QJvIXdKWfu3MdtGJImHI2Q3QPADzfJfF1lRlQj6NW_nZybhpCxr21dN9n7GMLjs5pDliO_jNtvAfQPCyADeGRE4qYiRciQG6OlIjU2dhh9O5bwUCZRGOLENuuidbjbrjiAWwBx7UmA0ZSIisCdqH3b-eRxjU5Kix4SgA&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.20.41.45] [cloudflare] [352.413631ms] [Cloudflare]
+https://usdn-prod-grafana.smardex.io [302] [/login] [29] [] [18.184.103.20] [826.292196ms]
+
+## 307
+https://docs-private.splash.trade [307] [https://integrations.gitbook.com/v1/integrations/VA-Auth0/installations/32fe1746dc81923952ef7cd7eeb3c9e4cc079139164cbaa9b15e82a9fadc4a82/sites/site_HeTlM/visitor-auth?location=%2F] [15] [cloudflare] [104.18.40.47] [cloudflare] [320.896145ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://splash.trade [308] [https://www.splash.trade/] [15] [cloudflare] [172.67.167.246] [cloudflare] [472.942455ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+
+## 403
+https://help.smardex.io [403] [] [17] [cloudflare] [216.198.53.2] [353.317934ms] [Cloudflare]
+https://app.spro.smardex.io [403] [] [23] [] [13.36.188.65] [552.50118ms]
+https://sponsor.api.smardex.io [403] [] [42] [] [34.225.55.244] [266.738011ms]
+https://stake.api.smardex.io [403] [] [42] [] [100.61.90.11] [236.788341ms]
+https://subgraph.api.smardex.io [403] [] [23] [] [63.187.100.245] [513.407679ms]
+https://subgraph.smardex.io [403] [] [42] [] [35.156.80.167] [672.239717ms]
+https://vl-mcp-staging.sorellalabs.xyz [403] [] [37789] [Error ・ Cloudflare Access] [cloudflare] [104.20.41.45] [cloudflare] [507.175141ms] [Cloudflare]
+https://vm-mcp-staging.sorellalabs.xyz [403] [] [37789] [Error ・ Cloudflare Access] [cloudflare] [172.66.154.139] [cloudflare] [448.580091ms] [Cloudflare]
+https://vl-mcp.sorellalabs.xyz [403] [] [37789] [Error ・ Cloudflare Access] [cloudflare] [104.20.41.45] [cloudflare] [496.701506ms] [Cloudflare]
+https://vm-mcp.sorellalabs.xyz [403] [] [37789] [Error ・ Cloudflare Access] [cloudflare] [172.66.154.139] [cloudflare] [472.503383ms] [Cloudflare]
+
+## 404
+https://banter-eth.smardex.io [404] [] [23] [] [3.226.187.239] [293.742932ms]
+https://hp.api.smardex.io [404] [] [281] [none] [52.84.199.24] [cloudfront] [347.830524ms] [Amazon CloudFront,Amazon Web Services]
+https://ig-perf.api.smardex.io [404] [] [301] [none] [18.238.132.9] [cloudfront] [352.478708ms] [Amazon CloudFront,Amazon Web Services]
+https://mcp.sorellalabs.xyz [404] [] [13] [cloudflare] [104.20.41.45] [cloudflare] [369.275434ms] [Cloudflare]
+https://api.smardex.io [404] [] [301] [none] [13.225.61.49] [cloudfront] [430.694989ms] [Amazon CloudFront,Amazon Web Services]
+https://configs.splash.trade [404] [] [9] [cloudflare] [172.67.167.246] [cloudflare] [536.108219ms] [Cloudflare]
+https://mm.smardex.io [404] [] [23] [] [3.71.164.17] [583.590143ms]
+https://assets.api.smardexai-staging.smardex.io [404] [] [301] [none] [18.161.170.9] [cloudfront] [784.665126ms] [Amazon CloudFront,Amazon Web Services]
+https://rpc-status.prod.api.smardex.io [404] [] [301] [none] [3.168.2.46] [cloudfront] [357.661374ms] [Amazon CloudFront,Amazon Web Services]
+https://public.usdn.api.smardex.io [404] [] [23] [] [63.185.170.99] [553.124384ms]
+https://primary.usdn-rpc.smardex.io [404] [] [0] [] [3.69.126.81] [724.957819ms]
+https://secondary.usdn-rpc.smardex.io [404] [] [0] [] [13.37.92.107] [828.738947ms]
+https://usdn-api-proxy.smardex.io [404] [] [39] [] [18.195.160.230] [564.528177ms]
+https://referral.api.smardex.io [404] [] [13] [] [3.94.199.183] [1.826844824s]
+https://tokens.splash.trade [404] [] [27150] [Not Found] [cloudflare] [172.67.167.246] [cloudflare] [527.405789ms] [Cloudflare]
+https://usdn-metrics.api.smardex.io [404] [] [27] [] [15.188.141.235] [786.80654ms]
+https://usdn-data.api.smardex.io [404] [] [13] [] [13.38.160.202] [1.49873083s]
+https://usdn-autovalidate-check.smardex.io [404] [] [27] [] [3.68.99.137] [1.567353677s]
+https://usdn.api.smardex.io [404] [] [281] [none] [108.138.159.117] [cloudfront] [469.728995ms] [Amazon CloudFront,Amazon Web Services]
+https://usdn-public.api.smardex.io [404] [] [27] [] [3.124.197.47] [2.284002288s]
+
+## 500
+
+## 502
+https://collateral.splash.trade [502] [] [16] [cloudflare] [172.67.167.246] [cloudflare] [564.687788ms] [Cloudflare,HTTP/3]
+
+## 503
+

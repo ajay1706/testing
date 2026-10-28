@@ -1,0 +1,6 @@
+https://blog.smardex.io [301] [https://smardex.io/] [167] [301 Moved Permanently] [cloudflare] [104.21.30.183] [cloudflare] [224.54005ms] [Cloudflare]
+https://ig-perf.api.smardex.io [404] [] [301] [none] [18.238.132.9] [cloudfront] [352.478708ms] [Amazon CloudFront,Amazon Web Services]
+https://api.smardex.io [404] [] [301] [none] [13.225.61.49] [cloudfront] [430.694989ms] [Amazon CloudFront,Amazon Web Services]
+https://assets.api.smardexai-staging.smardex.io [404] [] [301] [none] [18.161.170.9] [cloudfront] [784.665126ms] [Amazon CloudFront,Amazon Web Services]
+https://rpc-status.prod.api.smardex.io [404] [] [301] [none] [3.168.2.46] [cloudfront] [357.661374ms] [Amazon CloudFront,Amazon Web Services]
+http://www.smardex.io [301] [https://www.smardex.io/] [167] [301 Moved Permanently] [CloudFront] [3.161.242.11] [cloudfront] [1.271721758s] [Amazon CloudFront,Amazon Web Services]
