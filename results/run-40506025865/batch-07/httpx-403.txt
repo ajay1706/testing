@@ -1,0 +1,3 @@
+https://sui-mainnet-blockpi-2.rpc.mmt.finance [403] [] [0] [cloudflare] [104.26.13.156] [cloudflare] [269.528232ms] [Cloudflare]
+https://sui-mainnet-blockpi-1.rpc.mmt.finance [403] [] [0] [cloudflare] [104.26.12.156] [cloudflare] [387.61408ms] [Cloudflare]
+https://sui-mainnet-blockpi-3.rpc.mmt.finance [403] [] [0] [cloudflare] [104.26.12.156] [cloudflare] [582.52631ms] [Cloudflare]

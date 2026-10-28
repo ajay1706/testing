@@ -1,0 +1,80 @@
+# HTTPX Status Report
+
+Generated at: Wed Oct 28 03:08:40 UTC 2026
+
+HTTPX lines: 58
+Live URLs: 58
+
+## 200
+https://asset-logos.minswap.org [200] [] [2787] [cloudflare] [172.67.73.186] [cloudflare] [134.399692ms] [Amazon Web Services,Cloudflare,HSTS]
+https://api-internal.mmt.finance [200] [] [16] [cloudflare] [172.67.69.165] [cloudflare] [176.220198ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://api-pre.mmt.finance [200] [] [16] [cloudflare] [104.26.12.156] [cloudflare] [183.956967ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://api-2.mmt.finance [200] [] [16] [cloudflare] [104.26.13.156] [cloudflare] [226.832941ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://api-internal-pre.mmt.finance [200] [] [16] [cloudflare] [104.26.13.156] [cloudflare] [232.536152ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://asset-logos-testnet.minswap.org [200] [] [2787] [cloudflare] [172.67.73.186] [cloudflare] [339.914176ms] [Amazon Web Services,Cloudflare,HSTS]
+https://api.mmt.finance [200] [] [16] [cloudflare] [104.26.13.156] [cloudflare] [461.453926ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://api-dev.mmt.finance [200] [] [16] [cloudflare] [104.26.12.156] [cloudflare] [474.729266ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://partner-api.mmt.finance [200] [] [16] [cloudflare] [104.26.12.156] [cloudflare] [386.290024ms] [Cloudflare,Google Cloud,Google Cloud Trace,HSTS]
+https://obric.xyz [200] [] [1067] [Obric] [cloudflare] [104.21.24.115] [cloudflare] [354.019291ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://admin.mmt.finance [200] [] [28620] [MMT CLMM Admin Console] [cloudflare] [172.67.69.165] [cloudflare] [316.444411ms] [Cloudflare,HSTS,Vercel]
+https://solana.obric.xyz [200] [] [1067] [Obric] [cloudflare] [104.21.24.115] [cloudflare] [349.187684ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app.mmt.finance [200] [] [34815] [Momentum | Move Central Liquidity Engine] [cloudflare] [104.26.13.156] [cloudflare] [572.977042ms] [Cloudflare,HSTS,Vercel]
+https://preview.mmt.finance [200] [] [30647] [Momentum | Move Central Liquidity Engine] [cloudflare] [172.67.69.165] [cloudflare] [321.0474ms] [Cloudflare,HSTS,Vercel]
+https://forum.minswap.org [200] [] [190422] [Minswap Forum - Build the future of Minswap with your ideas] [cloudflare] [172.67.73.186] [cloudflare] [259.540819ms] [Cloudflare,Discourse:2026.7.0,HSTS,Ruby on Rails]
+https://testnet.mmt.finance [200] [] [33647] [Momentum | Move Central Liquidity Engine] [cloudflare] [172.67.69.165] [cloudflare] [391.741232ms] [Cloudflare,HSTS,Vercel]
+https://minswap.org [200] [] [115750] [Minswap DEX | Multi-pool decentralized exchange on Cardano] [cloudflare] [172.67.73.186] [cloudflare] [161.122748ms] [Cloudflare,HSTS]
+https://lifi.mmt.finance [200] [] [26587] [Momentum | Bridge] [cloudflare] [104.26.12.156] [cloudflare] [1.954068468s] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://squid.mmt.finance [200] [] [27108] [Momentum | Bridge] [cloudflare] [104.26.13.156] [cloudflare] [1.57090992s] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://wormhole.mmt.finance [200] [] [26538] [Momentum | Bridge] [cloudflare] [104.26.13.156] [cloudflare] [1.477064159s] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://trade-competition.mmt.finance [200] [] [81795] [Momentum Trading Competition | Now join to share 30,000 MMT and 120,000 veMMT !] [cloudflare] [104.26.13.156] [cloudflare] [614.352901ms] [Cloudflare,HSTS,React,Vercel]
+https://staging.minswap.org [200] [] [115400] [Minswap DEX | Multi-pool decentralized exchange on Cardano] [cloudflare] [104.26.10.157] [cloudflare] [742.594578ms] [Cloudflare,HSTS]
+https://developers.mmt.finance [200] [] [323708] [Overview | Momentum Finance] [cloudflare] [104.26.13.156] [cloudflare] [208.920306ms] [Cloudflare,GitBook,HSTS,Vercel]
+https://testnet-preprod.minswap.org [200] [] [103967] [Minswap DEX | Multi-pool decentralized exchange on Cardano] [cloudflare] [104.26.11.157] [cloudflare] [661.539977ms] [Cloudflare,HSTS]
+https://docs.minswap.org [200] [] [508183] [Introduction | Minswap] [cloudflare] [104.18.40.47] [cloudflare] [146.05834ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.mmt.finance [200] [] [658633] [Momentum Whitepaper | Momentum] [cloudflare] [104.26.12.156] [cloudflare] [325.105791ms] [Cloudflare,GitBook,HSTS,Vercel]
+https://www.mmt.finance [200] [] [31397] [Momentum | Trade anything, anywhere] [cloudflare] [172.67.69.165] [cloudflare] [2.156163617s] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://alpha.mmt.finance [301] [https://app.mmt.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.165] [cloudflare] [53.26111ms] [Cloudflare]
+https://app.minswap.org [301] [https://minswap.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.10.157] [cloudflare] [59.610094ms] [Cloudflare,HSTS]
+https://dashboard.mmt.finance [301] [https://app.sentio.xyz/share/y5y9ypuewln31r0d] [167] [301 Moved Permanently] [cloudflare] [104.26.12.156] [cloudflare] [118.430865ms] [Cloudflare]
+https://www.minswap.org [301] [https://minswap.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.10.157] [cloudflare] [5.051381996s] [Cloudflare,HSTS]
+
+## 302
+https://beta.mmt.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbeta.mmt.finance%2F&nonce=5370e40779dc419c2d68cc8e00f845c9f92ebb1b31f69565fc11dcccec51d5a8] [263] [cloudflare] [172.67.69.165] [cloudflare] [303.3538ms] [Cloudflare,HSTS,Vercel]
+
+## 307
+https://mmt.finance [307] [https://www.mmt.finance/] [15] [cloudflare] [172.67.69.165] [cloudflare] [201.372797ms] [Cloudflare,HSTS,Vercel]
+https://refund-deed.mmt.finance [307] [/announcement] [10798] [Momentum Title Deeds | Own Sui's Central Liquidity Engine] [cloudflare] [104.26.13.156] [cloudflare] [938.354988ms] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 308
+
+## 401
+
+## 403
+https://sui-mainnet-blockpi-2.rpc.mmt.finance [403] [] [0] [cloudflare] [104.26.13.156] [cloudflare] [269.528232ms] [Cloudflare]
+https://sui-mainnet-blockpi-1.rpc.mmt.finance [403] [] [0] [cloudflare] [104.26.12.156] [cloudflare] [387.61408ms] [Cloudflare]
+https://sui-mainnet-blockpi-3.rpc.mmt.finance [403] [] [0] [cloudflare] [104.26.12.156] [cloudflare] [582.52631ms] [Cloudflare]
+
+## 404
+https://deed-api.mmt.finance [404] [] [1210] [404 Page not found] [cloudflare] [104.26.12.156] [cloudflare] [192.733089ms] [Cloudflare]
+https://api-mainnet-prod.minswap.org [404] [] [55] [cloudflare] [104.26.11.157] [cloudflare] [318.675884ms] [Cloudflare,HSTS]
+https://deed.mmt.finance [404] [] [107] [cloudflare] [104.26.12.156] [cloudflare] [359.37414ms] [Cloudflare,HSTS,Vercel]
+https://api-mainnet-staging.minswap.org [404] [] [55] [cloudflare] [172.67.73.186] [cloudflare] [370.865916ms] [Cloudflare,HSTS]
+https://airdrop.mmt.finance [404] [] [107] [Vercel] [66.33.60.129] [417.113088ms] [HSTS,Vercel]
+https://ipfs.minswap.org [404] [] [19] [cloudflare] [104.26.11.157] [cloudflare] [259.777789ms] [Cloudflare,HSTS]
+https://monorepo-mainnet-staging.minswap.org [404] [] [548] [404 Not Found] [cloudflare] [172.67.73.186] [cloudflare] [313.975269ms] [Cloudflare,HSTS]
+https://monorepo-testnet-preprod.minswap.org [404] [] [55] [cloudflare] [104.26.10.157] [cloudflare] [550.704992ms] [Cloudflare,HSTS]
+https://partner.mmt.finance [404] [] [107] [Vercel] [216.150.1.193] [643.721024ms] [HSTS,Vercel]
+https://testing.mmt.finance [404] [] [107] [cloudflare] [104.26.13.156] [cloudflare] [302.047184ms] [Cloudflare,HSTS,Vercel]
+https://static.minswap.org [404] [] [27150] [Not Found] [cloudflare] [104.26.10.157] [cloudflare] [368.234148ms] [Cloudflare,HSTS]
+https://statics-testnet.minswap.org [404] [] [27150] [Not Found] [cloudflare] [104.26.10.157] [cloudflare] [303.400169ms] [Cloudflare,HSTS]
+https://statics.minswap.org [404] [] [27150] [Not Found] [cloudflare] [104.26.11.157] [cloudflare] [388.956713ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+
+## 503
+https://social-api.mmt.finance [503] [] [1194] [503 Service Unavailable] [cloudflare] [104.26.13.156] [cloudflare] [458.031018ms] [Cloudflare]
+
