@@ -1,0 +1,22 @@
+[ssh-diffie-hellman-logjam] [javascript] [low] nft.trusteeglobal.com:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] mydoge-wallet.tomo.inc:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mydoge-wallet.tomo.inc:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nft.trusteeglobal.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nft.trusteeglobal.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] node-gcp.puzzle.online:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] node-gcp.puzzle.online:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[nextjs-vite-public-env:public_env] [http] [medium] https://multisig-recover-ae4f55e6.bitpie.com [""VITE_RECOVERY_EXPECTED_CREATION_INPUT_HASH":"0xd2b58d1d16cb9d5700939e0d666ef422f07aa7ae4ac4a39146321937708ac395"",""VITE_RECOVERY_EXPECTED_ETHEREUM_RUNTIME_BYTES":"5315"",""VITE_RECOVERY_EXPECTED_ETHEREUM_RUNTIME_HASH":"0xcdd4376270e44d71e9a422c0f11f40c7634f689021f6e3d2908d54d4b2d04cc1"",""VITE_RECOVERY_TRANSFER_TARGET_ADDRESS":"0x7579cEA1aE9B4cA492Ea85e9e345C026B26c3BBf"",""VITE_RECOVERY_TARGET_CONTRACT_ADDRESS":"0xae4f55e6d0af90b15a5ca7d471be46ac69ef6ab4"",""VITE_RECOVERY_CHAIN_KEY":"bsc"",""VITE_RECOVERY_ETHEREUM_CREATION_TX_HASH":"0x3efe4f0daf7fa8c501030d6678f49812744f6252c717bc222b2bb6a952e3187b"",""VITE_RECOVERY_EXPECTED_CREATION_INPUT_BYTES":"6037""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://multisig-recover-ae4f55e6-base.bitpie.com [""VITE_RECOVERY_ETHEREUM_CREATION_TX_HASH":"0x3efe4f0daf7fa8c501030d6678f49812744f6252c717bc222b2bb6a952e3187b"",""VITE_RECOVERY_EXPECTED_CREATION_INPUT_BYTES":"6037"",""VITE_RECOVERY_EXPECTED_CREATION_INPUT_HASH":"0xd2b58d1d16cb9d5700939e0d666ef422f07aa7ae4ac4a39146321937708ac395"",""VITE_RECOVERY_EXPECTED_ETHEREUM_RUNTIME_BYTES":"5315"",""VITE_RECOVERY_EXPECTED_ETHEREUM_RUNTIME_HASH":"0xcdd4376270e44d71e9a422c0f11f40c7634f689021f6e3d2908d54d4b2d04cc1"",""VITE_RECOVERY_TRANSFER_TARGET_ADDRESS":"0x7579cEA1aE9B4cA492Ea85e9e345C026B26c3BBf"",""VITE_RECOVERY_TARGET_CONTRACT_ADDRESS":"0xae4f55e6d0af90b15a5ca7d471be46ac69ef6ab4"",""VITE_RECOVERY_CHAIN_KEY":"base""]
+[nextjs-vite-public-env:public_env] [http] [medium] https://multisig-recover-e11ed1c2.bitpie.com [""VITE_RECOVERY_CHAIN_KEY":"bsc"",""VITE_RECOVERY_ETHEREUM_CREATION_TX_HASH":"0x9d21ad45b8768d329e77d8a5ec6fca16a541b1c52033abd2e991b60e5381b87b"",""VITE_RECOVERY_EXPECTED_CREATION_INPUT_BYTES":"6037"",""VITE_RECOVERY_EXPECTED_CREATION_INPUT_HASH":"0xcfc796cc878979390db1c972fa42c35dcc0a5c92120cfb707090d53db3b1a776"",""VITE_RECOVERY_EXPECTED_ETHEREUM_RUNTIME_BYTES":"5315"",""VITE_RECOVERY_EXPECTED_ETHEREUM_RUNTIME_HASH":"0xcdd4376270e44d71e9a422c0f11f40c7634f689021f6e3d2908d54d4b2d04cc1"",""VITE_RECOVERY_TRANSFER_TARGET_ADDRESS":"0xeaff40807c5126b16d9f086a518125d781290fc8"",""VITE_RECOVERY_TARGET_CONTRACT_ADDRESS":"0xE11eD1C22b12A3dADa4d3c50D1fAFF8C67133475""]
+[weak-cipher-suites:tls-1.0] [ssl] [low] node-testnet-094f5e.alephium.org:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] node-testnet-094f5e.alephium.org:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] node.mainnet.alephium.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] node.mainnet.alephium.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] node.puzzle.online:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] node.puzzle.online:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] node.testnet.alephium.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] node.testnet.alephium.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://nl.authentrend.com
+[expired-ssl] [ssl] [low] mysterycity-testnet.puzzle.online:443 ["2025-03-19 19:18:18 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] node-ovh.testnet.alephium.org:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] node-ovh.testnet.alephium.org:443
