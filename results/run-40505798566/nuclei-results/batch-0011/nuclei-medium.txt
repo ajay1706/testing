@@ -1,0 +1,2 @@
+[CVE-2026-27454] [http] [medium] https://community.topazlabs.com/posts/379512.json?version=1
+[ambassador-api-diagnostics-exposure] [http] [medium] https://community.kapwing.com/ambassador/v0/diag/
