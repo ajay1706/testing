@@ -1,0 +1,1 @@
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://claude.ai/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
