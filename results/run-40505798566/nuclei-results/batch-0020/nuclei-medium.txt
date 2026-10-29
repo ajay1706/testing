@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://mcp-admin.production.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://mcp.production.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://mcp.staging.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://md1.deepgram.com/metrics
