@@ -1,0 +1,18 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.askyourpdf.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.askyourpdf.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] brain.mem.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] brain.mem.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://bms.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://bms.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://brights.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://brights.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.dust.tt
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.dust.tt
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.dust.tt
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.n8n.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.n8n.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.n8n.io
+[expired-ssl] [ssl] [low] bolt-prod.mem.ai:443 ["2024-04-08 02:22:55 +0000 UTC"]
+[expired-ssl] [ssl] [low] bolt-stg.mem.ai:443 ["2024-04-08 02:22:51 +0000 UTC"]
+[expired-ssl] [ssl] [low] bolt.mem.ai:443 ["2024-06-07 18:48:40 +0000 UTC"]
+[expired-ssl] [ssl] [low] build-showcase.zapier.com:443 ["2026-07-23 05:28:21 +0000 UTC"]
