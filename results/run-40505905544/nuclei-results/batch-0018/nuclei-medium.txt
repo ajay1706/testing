@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://db-health.writesonic.com//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://db-health.writesonic.com//interact.sh/en//

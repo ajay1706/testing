@@ -1,0 +1,16 @@
+[open-redirect-generic] [http] [medium] https://db-health.writesonic.com//oast.me/ [redirect="/oast.me/"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] desktop-assets-staging.wordtune.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] desktop-assets.wordtune.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] desktop-assets-staging.wordtune.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] desktop-assets.wordtune.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dev.api.consensus.app:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dev.api.consensus.app:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2025-54793] [http] [medium] https://db-health.writesonic.com//interact.sh/en//
+[google-api-key] [http] [low] https://dcalearning.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://dcalearning.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://demo.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://demo.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[github-takeover] [http] [high] https://design-system.jasper.ai ["gojasper.github.io"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://design-system.jasper.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://design-system.jasper.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://design-system.jasper.ai
