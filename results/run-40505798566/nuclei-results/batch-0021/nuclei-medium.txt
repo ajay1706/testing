@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://murf.ai//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://murf.ai//interact.sh/en//
