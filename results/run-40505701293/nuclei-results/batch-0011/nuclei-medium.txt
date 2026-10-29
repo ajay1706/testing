@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://api.seaart.ai/metrics
+[prometheus-metrics] [http] [medium] https://app-matrix-api.api.seaart.ai/metrics
