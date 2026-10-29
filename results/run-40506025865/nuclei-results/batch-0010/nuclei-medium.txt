@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://dev-indexer.tonco.io/metrics
