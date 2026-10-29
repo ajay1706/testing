@@ -1,0 +1,6 @@
+[+] Started: Thu Oct 29 21:20:52 UTC 2026
+[+] Run ID: 40506025865
+[+] Batch: batch-0029
+[+] URL count: 75
+/home/runner/work/_temp/c651226d-0d59-411e-9d91-a0aa08095632.sh: line 30: nuclei: command not found
+[+] Finished: Thu Oct 29 21:20:52 UTC 2026
