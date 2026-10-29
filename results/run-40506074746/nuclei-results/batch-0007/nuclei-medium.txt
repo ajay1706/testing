@@ -1,0 +1,2 @@
+[zip-backup-files] [http] [medium] https://api-u3.nfts2me.com/nfts2me.zip [EXT="zip",FILENAME="nfts2me"]
+[zip-backup-files] [http] [medium] https://app.nfts2me.com/nfts2me.zip [EXT="zip",FILENAME="nfts2me"]
