@@ -1,0 +1,4 @@
+[vllm-openai-api-exposed] [http] [medium] https://chatty.deepgram.com/v1/models ["qwen3.5-9b-tp8"]
+[ambassador-api-diagnostics-exposure] [http] [medium] https://cdn-useeast1.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://chat.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://checkouta.kapwing.com/ambassador/v0/diag/
