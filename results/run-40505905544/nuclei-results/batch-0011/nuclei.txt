@@ -1,0 +1,30 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] auth-service.askyourpdf.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] auth-staging.askyourpdf.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auth-staging.askyourpdf.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auth-service.askyourpdf.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] auth.askyourpdf.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auth.askyourpdf.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] autodiscover.askyourpdf.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] autodiscover.askyourpdf.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://auth.app.wordtune.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://auth.gumloop.com
+[unauthenticated-varnish-cache-purge] [http] [low] https://auth.reflect.app
+[unauthenticated-varnish-cache-purge] [http] [low] https://auth.quillbot.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://auth.gumloop.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://auth.gumloop.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://auth.gumloop.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://auth.app.wordtune.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://auth.app.wordtune.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://auth.app.wordtune.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://auth.usemotion.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://auth.usemotion.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://auth.usemotion.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://auth.quillbot.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://auth.quillbot.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://auth.quillbot.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://auth.reflect.app
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://auth.reflect.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://auth.reflect.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://auth.wordtune.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://auth.wordtune.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://auth.wordtune.com
