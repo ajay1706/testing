@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://scroll.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://taiko-alpha-3-testnet.rpc.thirdweb.com/metrics
