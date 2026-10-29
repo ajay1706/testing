@@ -1,0 +1,2 @@
+[CVE-2023-48795] [javascript] [medium] public.cutout.pro:22 ["Vulnerable to Terrapin"]
+[ambassador-api-diagnostics-exposure] [http] [medium] https://ptr7261.kapwing.com/ambassador/v0/diag/
