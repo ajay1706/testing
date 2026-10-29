@@ -1,0 +1,6 @@
+[prometheus-metrics] [http] [medium] https://97.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://98865.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://98867.rpc.thirdweb.com/metrics
+[debug-vars] [http] [low] https://97.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://98865.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://98867.rpc.thirdweb.com/debug/vars
