@@ -1,0 +1,3 @@
+[prometheus-metrics] [http] [medium] https://fantom-testnet.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://fantom.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://global.rpc.thirdweb.com/metrics
