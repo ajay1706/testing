@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://d315810d.api.deepgram.com/metrics
+[nexus-repository-anonymous-access] [http] [medium] https://ctm-app.napkin.ai/service/rest/v1/repositories
