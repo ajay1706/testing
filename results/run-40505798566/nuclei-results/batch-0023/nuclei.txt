@@ -1,0 +1,47 @@
+[CVE-2021-37598] [http] [medium] https://pictory.ai/wp-json?x=1
+[inspur-clusterengine-rce] [http] [critical] https://developer.topazlabs.com/
+[weak-cipher-suites:tls-1.0] [ssl] [low] paidev.remaker.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] paidev.remaker.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] owa.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] owa.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] platform-dev.r2.fish.audio:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] platform-devenv.r2.fish.audio:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] platform-dev.r2.fish.audio:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] platform.r2.fish.audio:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] platform-devenv.r2.fish.audio:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] platform.r2.fish.audio:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] portal.resemble.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] portal.resemble.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pop.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] pop3.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] portal.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] postmaster.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] preview.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pop.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] pop3.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] portal.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] postmaster.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] preview.onboarding-flows.cdn.speechify.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] preview.onboarding-flows.cdn.speechify.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] preview.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] preview.website.cdn.speechify.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] preview.website.cdn.speechify.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] prod.predict.resemble.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] prod.predict.resemble.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[netlify-headers-config-exposure] [http] [low] https://producer.opus.pro/_headers
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://pay.opus.pro
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://pay.opus.pro
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://pay.opus.pro
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://pay.photoroom.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://pay.photoroom.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://payment.udio.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://payment.udio.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://pay.photoroom.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://payment.udio.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://payments.veed.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://payments.veed.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://payments.veed.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://payments.cartesia.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://payments.cartesia.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://payments.cartesia.ai
+[expired-ssl] [ssl] [low] playground-v2.assemblyai.com:443 ["2024-02-29 13:12:07 +0000 UTC"]
