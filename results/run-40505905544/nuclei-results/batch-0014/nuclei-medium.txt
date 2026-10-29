@@ -1,0 +1,2 @@
+[appsmith-info-disclosure] [http] [medium] https://carbonara.tldv.io/api/v1/consolidated-api/view
+[appsmith-info-disclosure] [http] [medium] https://carbonara.tldv.io/api/v1/tenants/current

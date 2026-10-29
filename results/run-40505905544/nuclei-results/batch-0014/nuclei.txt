@@ -1,0 +1,10 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] business.usemotion.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] business.usemotion.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] carbon.lindy.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] carbon.lindy.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.relevanceai.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.relevanceai.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[appsmith-info-disclosure] [http] [medium] https://carbonara.tldv.io/api/v1/consolidated-api/view
+[appsmith-info-disclosure] [http] [medium] https://carbonara.tldv.io/api/v1/tenants/current
+[unauthenticated-varnish-cache-purge] [http] [low] https://careers.lindy.ai
+[unauthenticated-varnish-cache-purge] [http] [low] https://careers.jenni.ai
