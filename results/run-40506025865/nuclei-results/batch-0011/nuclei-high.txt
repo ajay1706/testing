@@ -1,0 +1,2 @@
+[wordpress-click2shell] [http] [high] https://elk.finance/wp-admin/js/theme.js
+[wordpress-click2shell] [http] [high] https://elk-website-wordpress.oslo.alberta.elk.finance/wp-admin/js/theme.js
