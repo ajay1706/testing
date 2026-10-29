@@ -1,0 +1,4 @@
+[prometheus-metrics] [http] [medium] https://inflow.deepgram.com/metrics
+[ambassador-api-diagnostics-exposure] [http] [medium] https://interviewa.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://ipv6.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://kapwing-www.kapwing.com/ambassador/v0/diag/
