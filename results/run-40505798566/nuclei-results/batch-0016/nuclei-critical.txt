@@ -1,0 +1,6 @@
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-dev.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-prod.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-stg.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-dev.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-prod.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-stg.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
