@@ -1,0 +1,2 @@
+[CVE-2022-41697] [http] [medium] https://blog.rarible.com/ghost/api/admin/session
+[github-workflows-disclosure] [http] [medium] https://blog.rarible.com/.github/workflows/test.yml [paths="/.github/workflows/test.yml"]
