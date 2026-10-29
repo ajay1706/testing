@@ -1,0 +1,2 @@
+[CVE-2026-27454] [http] [medium] https://community.perplexity.ai/posts/7805.json?version=4
+[CVE-2026-27454] [http] [medium] https://community.retool.com/posts/202613.json?version=1
