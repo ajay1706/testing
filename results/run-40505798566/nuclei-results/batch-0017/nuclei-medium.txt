@@ -1,0 +1,4 @@
+[ambassador-api-diagnostics-exposure] [http] [medium] https://help.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://helpa.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://home.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://hub.kapwing.com/ambassador/v0/diag/
