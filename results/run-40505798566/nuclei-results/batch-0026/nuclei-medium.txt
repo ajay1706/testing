@@ -1,0 +1,5 @@
+[CVE-2023-48795] [javascript] [medium] status.cutout.pro:22 ["Vulnerable to Terrapin"]
+[firebase-config-exposure] [http] [medium] https://staging-green.boomy.com
+[firebase-config-exposure] [http] [medium] https://staging-green.boomy.com/public/config.js
+[firebase-config-exposure] [http] [medium] https://staging-green.boomy.com/config.js
+[ambassador-api-diagnostics-exposure] [http] [medium] https://static.kapwing.com/ambassador/v0/diag/
