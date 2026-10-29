@@ -1,0 +1,3 @@
+[CVE-2026-27454] [http] [medium] https://community.n8n.io/posts/607239.json?version=1
+[CVE-2026-27454] [http] [medium] https://community.make.com/posts/280214.json?version=1
+[oidc-signing-alg-none-supported] [http] [medium] https://clickup.reclaim.ai/.well-known/openid-configuration ["https://app.reclaim.ai"]
