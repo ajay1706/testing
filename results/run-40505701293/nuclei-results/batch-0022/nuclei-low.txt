@@ -1,0 +1,35 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] creator-staging.nightcafe.studio:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] creator-staging.nightcafe.studio:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] creator.nightcafe.studio:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] creator.nightcafe.studio:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cshao.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cshao.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] csilva.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] csilva.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] csun.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] csun.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ctan.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ct.canva.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ctan.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ct.canva.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] customer-website.sc-api.seaart.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] customer-website.sc-api.seaart.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] czeng.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] czhang.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] czeng.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] czhang.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://creator-link-staging.nightcafe.studio
+[unauthenticated-varnish-cache-purge] [http] [low] https://creator-link.nightcafe.studio
+[javascript-env] [http] [low] https://customer-website.sc-api.seaart.ai/env-config.js
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://creator-link-staging.nightcafe.studio
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://creator-link-staging.nightcafe.studio
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://creator-link-staging.nightcafe.studio
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://creator-link.nightcafe.studio
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://creator-link.nightcafe.studio
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://creator-link.nightcafe.studio
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://customcomponents.retool.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://customcomponents.retool.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://customcomponents.retool.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://d17-kling.klingai.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://d17-kling.klingai.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://d17-kling.klingai.com
