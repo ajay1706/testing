@@ -1,0 +1,23 @@
+[CVE-2021-37598] [http] [medium] https://topazlabs.com/wp-json?x=1
+[weak-cipher-suites:tls-1.0] [ssl] [low] t-api-agent.vizard.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] t-api-agent.vizard.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] support.visla.us:443 ["[tls12 TLS_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] t-api.vizard.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] t-api.vizard.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] t2.vizard.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] t2.vizard.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] texttoaudio.resemble.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] texttoaudio.resemble.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] testapi.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] texttosoundeffects.resemble.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] texttosoundeffects.resemble.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] testapi.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tools.aiva.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tools.aiva.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] try.descript.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] try.descript.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tomcat-stacktraces] [http] [low] https://t-elb-api.vizard.ai/?f=\[
+[wp-user-enum:usernames] [http] [low] https://topazlabs.com/wp-json/wp/v2/users/ ["Albert Yang","arpit.agrawal","Celeste","dimitar.dzhenkov1","brian-matiash-8003","dimitar-dzhenkov1","erictopazlabs-com","dakota-wixom","Eric Yang","Brad Ito","dakota-wixom-4543","dimd2","brad-ito","Brian Matiash","admin","albert0011","arpit-agrawal","celestesmith"]
+[ambassador-api-diagnostics-exposure] [http] [medium] https://support5.kapwing.com/ambassador/v0/diag/
+[CVE-2023-45648] [http] [medium] https://t-elb-api.vizard.ai/3LNdikX3wWOxyPZaSXpwmYc3PK5 ["8.5.79"]
+[expired-ssl] [ssl] [low] talk.assemblyai.com:443 ["2025-07-22 22:49:30 +0000 UTC"]
