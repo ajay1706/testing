@@ -1,0 +1,32 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0xa5a92cb915c48.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0xa5a92cb915c48.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0xb986e49295619.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0xb986e49295619.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 0xdeabc1a4c8507.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 0xdeabc1a4c8507.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 10000htniic.x.rarible.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 10000htniic.x.rarible.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[prometheus-metrics] [http] [medium] https://1.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://114.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://1301.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://137.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://14.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://146.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://16.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://166009.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://16600.rpc.thirdweb.com/metrics
+[fastly-debug-headers:fastly-debug-path] [http] [low] http://www.admin.exchange.art
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] http://www.admin.exchange.art
+[fastly-debug-headers:fastly-debug-digest] [http] [low] http://www.admin.exchange.art
+[fastly-debug-headers:fastly-debug-path] [http] [low] http://www.claims.exchange.art
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] http://www.claims.exchange.art
+[fastly-debug-headers:fastly-debug-digest] [http] [low] http://www.claims.exchange.art
+[debug-vars] [http] [low] https://1.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://114.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://1301.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://137.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://14.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://146.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://16.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://166009.rpc.thirdweb.com/debug/vars
+[debug-vars] [http] [low] https://16600.rpc.thirdweb.com/debug/vars
