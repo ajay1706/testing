@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://wildcard.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://www.rpc.thirdweb.com/metrics
