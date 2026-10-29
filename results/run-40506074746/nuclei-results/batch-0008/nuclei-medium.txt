@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://arbitrum-goerli.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://avalancheq.rpc.thirdweb.com/metrics
