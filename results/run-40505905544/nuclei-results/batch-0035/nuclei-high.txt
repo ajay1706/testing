@@ -1,0 +1,2 @@
+[wordpress-click2shell] [http] [high] https://partners.grammarly.com/wp-admin/js/theme.js
+[unauth-ckfinder] [http] [high] https://partner-portal.make.com/ckfinder/ckfinder.html ["CKFinder 3 - File Browser"]
