@@ -1,0 +1,1 @@
+[oidc-signing-alg-none-supported] [http] [medium] https://jira.reclaim.ai/.well-known/openid-configuration ["https://app.reclaim.ai"]
