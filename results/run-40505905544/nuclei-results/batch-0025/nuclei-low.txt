@@ -1,0 +1,12 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] gitlab-webhook.quillbot.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gitlab-webhook.quillbot.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://getskills.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://getskills.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://gohighlevel.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://gohighlevel.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.anyword.com/metrics ["12.4.2"]
+[kubernetes-metrics] [http] [low] https://grafana.anyword.com/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.anyword.com/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana-v2.tldv.io/metrics ["12.3.1"]
+[kubernetes-metrics] [http] [low] https://grafana-v2.tldv.io/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana-v2.tldv.io/metrics
