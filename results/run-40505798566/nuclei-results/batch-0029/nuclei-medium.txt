@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://us-west-2.deepgram.com/metrics
