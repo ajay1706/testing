@@ -1,0 +1,9 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] typeaheads2.hyperwriteai.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] typeaheads2.hyperwriteai.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] uploads.n8n.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] uploads.n8n.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://v1.mem.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://v1.mem.ai
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://v1.mem.ai
+[expired-ssl] [ssl] [low] usecase.n8n.io:443 ["2026-10-28 08:00:49 +0000 UTC"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://v1.mem.ai
