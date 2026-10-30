@@ -1,0 +1,44 @@
+[CVE-2021-44528] [http] [medium] https://news.bueno.art
+[CVE-2022-41697] [http] [medium] https://blog.rarible.com/ghost/api/admin/session
+[eol-openssh-debian] [javascript] [medium] s.launchmynft.io:22 ["SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4"]
+[github-workflows-disclosure] [http] [medium] https://blog.rarible.com/.github/workflows/test.yml [paths="/.github/workflows/test.yml"]
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.thirdweb.com [""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_ADNETWORK_PIXELJS_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-js.js"",""VITE_ADNETWORK_PIXELV2_URL":"https://beehiiv-adnetwork-production.s3.amazonaws.com/pixel-v2.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj""]
+[prometheus-metrics] [http] [medium] https://1.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://114.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://1301.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://137.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://14.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://146.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://16.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://16600.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://166009.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://19.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://2040.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://297.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://30.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://31.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://33139.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://37111.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://41455.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://42.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://43114.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://466.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://7560.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://80002.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://97.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://98865.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://98867.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://arbitrum-goerli.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://avalancheq.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://fantom-testnet.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://fantom.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://global.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://linea-sepolia.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://mail.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://rarible.com/api/metrics
+[prometheus-metrics] [http] [medium] https://scroll.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://taiko-alpha-3-testnet.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://wildcard.rpc.thirdweb.com/metrics
+[prometheus-metrics] [http] [medium] https://www.rpc.thirdweb.com/metrics
+[zip-backup-files] [http] [medium] https://api-u3.nfts2me.com/nfts2me.zip [EXT="zip",FILENAME="nfts2me"]
+[zip-backup-files] [http] [medium] https://app.nfts2me.com/nfts2me.zip [EXT="zip",FILENAME="nfts2me"]
