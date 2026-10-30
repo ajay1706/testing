@@ -1,0 +1,91 @@
+[CVE-2021-37598] [http] [medium] https://pictory.ai/wp-json?x=1
+[CVE-2021-37598] [http] [medium] https://topazlabs.com/wp-json?x=1
+[CVE-2023-45648] [http] [medium] https://elb-api.vizard.ai/3LLhmsNhdrei490ZyfwPguyP09i ["8.5.79"]
+[CVE-2023-45648] [http] [medium] https://t-elb-api.vizard.ai/3LNdikX3wWOxyPZaSXpwmYc3PK5 ["8.5.79"]
+[CVE-2023-48795] [javascript] [medium] blossom.deepgram.com:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] public.cutout.pro:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] status.cutout.pro:22 ["Vulnerable to Terrapin"]
+[CVE-2023-48795] [javascript] [medium] support.cutout.pro:22 ["Vulnerable to Terrapin"]
+[CVE-2025-25296] [http] [medium] https://labelstudio.deepgram.com/projects/upload-example/?label_config=%3CView%3E%3C!--%20%7B%22data%22%3A%20%7B%22text%22%3A%20%22%3Cdiv%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E%3C%2Fdiv%3E%22%7D%7D%20--%3E%3CHyperText%20name%3D%22text%22%20value%3D%22%24text%22%2F%3E%3C%2FView%3E
+[CVE-2025-47783] [http] [medium] https://labelstudio.deepgram.com/projects/upload-example/
+[CVE-2025-54793] [http] [medium] https://murf.ai//interact.sh/en//
+[CVE-2026-27454] [http] [medium] https://community.topazlabs.com/posts/379512.json?version=1
+[ambassador-api-diagnostics-exposure] [http] [medium] http://portal.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] http://www.help.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] http://www.wildcard.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://123-nonexistant-dnsjedi-456.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://assets.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://beta.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://blog.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://cdn-useeast1.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://chat.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://checkouta.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://community.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://es.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://help.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://helpa.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://home.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://hub.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://interviewa.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://ipv6.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://kapwing-www.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://mx.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://ptr7261.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://sg.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://static.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://support5.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://wildcard.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://www.kapwing.com/ambassador/v0/diag/
+[ambassador-api-diagnostics-exposure] [http] [medium] https://wwww.kapwing.com/ambassador/v0/diag/
+[firebase-config-exposure] [http] [medium] https://staging-green.boomy.com
+[firebase-config-exposure] [http] [medium] https://staging-green.boomy.com/config.js
+[firebase-config-exposure] [http] [medium] https://staging-green.boomy.com/public/config.js
+[grafana-loki-api-exposure:labels] [http] [medium] https://geojson.anythingllm.com/loki/api/v1/labels [""]
+[nexus-repository-anonymous-access] [http] [medium] https://ctm-app.napkin.ai/service/rest/v1/repositories
+[open-redirect-generic] [http] [medium] https://murf.ai//oast.me/ [redirect="/oast.me/"]
+[prometheus-metrics] [http] [medium] https://14529e84.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://agent.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://agent.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt-2.md1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt-2.sv1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt-2.sv1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt-2.va1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt.md1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt.md1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt.sac1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt.sac1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-alt.sv1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api-sync.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-sync.production.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-sync.staging.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-tool.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-tool.production.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api-tool.staging.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.beta.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.ch2.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.md1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.production.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.sac1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.sac1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.staging.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.staging.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.sv1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.sv1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.us-west-2.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://api.va1.edge.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://beta.sv1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://d315810d.api.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://edge.staging.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://inflow.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://lowstep.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://mcp-admin.production.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://mcp.production.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://mcp.staging.fliki.ai/metrics
+[prometheus-metrics] [http] [medium] https://md1.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://us-west-2.deepgram.com/metrics
+[prometheus-metrics] [http] [medium] https://wind-data.insmind.com/metrics
+[vllm-openai-api-exposed] [http] [medium] https://chatty.deepgram.com/v1/models ["qwen3.5-9b-tp8"]
+[vllm-openai-api-exposed] [http] [medium] https://fast-llm.deepgram.com/v1/models ["qwen3.5-9b-tp8"]

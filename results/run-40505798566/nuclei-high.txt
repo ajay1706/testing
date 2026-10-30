@@ -1,0 +1,5 @@
+[CVE-2019-11248] [http] [high] https://inflow.deepgram.com/debug/pprof/
+[CVE-2019-11248] [http] [high] https://wind-data.insmind.com/debug/pprof/
+[framer-takeover] [http] [high] https://www.anythingllm.com ["sites.framer.app"]
+[wix-takeover] [http] [high] https://wonder.cutout.pro ["www250.wixdns.net"]
+[wix-takeover] [http] [high] https://www.wonder.cutout.pro ["www250.wixdns.net"]
