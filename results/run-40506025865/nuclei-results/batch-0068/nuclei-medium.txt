@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://prod.indexer.doppler.lol/metrics
