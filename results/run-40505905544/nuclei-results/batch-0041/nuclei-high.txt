@@ -1,0 +1,2 @@
+[razorpay-clientid-disclosure] [http] [high] https://stage-app.quillbot.com ["rzp_live_RnuYO21TYkXvJf"]
+[razorpay-clientid-disclosure] [http] [high] https://stage.quillbot.com ["rzp_live_RnuYO21TYkXvJf"]
