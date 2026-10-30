@@ -1,0 +1,2 @@
+[laravel-debugbar-exposure] [http] [medium] https://realtime.quillbot.com/_debugbar/open
+[CVE-2025-54793] [http] [medium] https://published.usemotion.com//interact.sh/en//
