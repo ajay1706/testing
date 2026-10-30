@@ -1,0 +1,12 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] elastic-prod.scite.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] elastic-prod.scite.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] emails.relevanceai.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] emails.relevanceai.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://elf.elicit.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://elf.elicit.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://elf.elicit.com
+[google-api-key] [http] [low] https://ebury.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://ebury.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://emily.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://emily.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[expired-ssl] [ssl] [low] eng-docs.mem.ai:443 ["2026-07-16 17:43:56 +0000 UTC"]
