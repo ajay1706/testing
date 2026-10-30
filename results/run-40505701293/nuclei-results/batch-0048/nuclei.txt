@@ -1,0 +1,8 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.us-west1.infra.seaart.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.us-west1.infra.seaart.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail2.app-matrix-api.api.seaart.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail2.app-matrix-api.api.seaart.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] manager.sc-ops.seaart.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] manager.sc-ops.seaart.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[expired-ssl] [ssl] [low] mail2.app-matrix-api.api.seaart.ai:443 ["2025-08-15 01:58:25 +0000 UTC"]
+[expired-ssl] [ssl] [low] manager.dev.seaart.ai:443 ["2025-08-16 23:23:40 +0000 UTC"]
