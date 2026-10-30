@@ -1,0 +1,23 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] eu.fivetran-export.decagon.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eu.fivetran-export.decagon.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] excel.numerous.ai:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] excel.numerous.ai:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://escapia.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://etraveligroup.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://escapia.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://etraveligroup.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://exadel.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://exadel.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://expedia-cruises.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://expedia-cruises.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[node-ecstatic-internal-path] [http] [low] https://excel.numerous.ai/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://events.jasper.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://events.jasper.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://events.jasper.ai
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://events.glean.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://events.glean.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://events.glean.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://events.relevanceai.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://events.relevanceai.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://events.relevanceai.com
+[expired-ssl] [ssl] [low] eu.workos-pilot.decagon.ai:443 ["2026-10-04 17:00:38 +0000 UTC"]
