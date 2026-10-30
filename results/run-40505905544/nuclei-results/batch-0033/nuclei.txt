@@ -1,0 +1,16 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] newhost.hyperwriteai.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] newhost.hyperwriteai.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] next.askyourpdf.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] next.askyourpdf.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://msab.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://msab.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://nkskolan.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://nkskolan.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://my.interfaces.zapier.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://my.interfaces.zapier.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://my.interfaces.zapier.com
+[kubernetes-fake-certificate] [ssl] [low] mock-app.writesonic.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mock-app.writesonic.com:443
+[kubernetes-fake-certificate] [ssl] [low] mxsubdomain.fireflies.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mxsubdomain.fireflies.ai:443
+[expired-ssl] [ssl] [low] nginx.editor.vercel.zapier.com:443 ["2022-10-21 00:58:38 +0000 UTC"]
