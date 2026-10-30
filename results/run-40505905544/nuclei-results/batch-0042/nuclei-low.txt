@@ -1,0 +1,12 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] static.novelai.net:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] static.novelai.net:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] status.rytr.me:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] status.rytr.me:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://status.jasper.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://status.jasper.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://status.jasper.ai
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://storybook.jasper.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://storybook.jasper.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://storybook.jasper.ai
+[unauthenticated-varnish-cache-purge] [http] [low] https://status.jasper.ai
+[expired-ssl] [ssl] [low] staging.fireflies.ai:443 ["2026-09-30 20:06:45 +0000 UTC"]
