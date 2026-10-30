@@ -1,0 +1,2 @@
+[prometheus-metrics] [http] [medium] https://wind-data.insmind.com/metrics
+[ambassador-api-diagnostics-exposure] [http] [medium] https://wildcard.kapwing.com/ambassador/v0/diag/

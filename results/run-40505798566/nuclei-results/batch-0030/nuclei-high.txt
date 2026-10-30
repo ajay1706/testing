@@ -1,0 +1,2 @@
+[CVE-2019-11248] [http] [high] https://wind-data.insmind.com/debug/pprof/
+[wix-takeover] [http] [high] https://wonder.cutout.pro ["www250.wixdns.net"]
