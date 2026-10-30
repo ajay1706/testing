@@ -1,0 +1,22 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] release.connectors.eu.sana.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] release.connectors.us.sana.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] release.connectors.eu.sana.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] release.connectors.us.sana.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] resources.rytr.me:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] resources.rytr.me:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] roadmap.meetgeek.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] roadmap.meetgeek.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[razorpay-clientid-disclosure] [http] [high] https://rest.quillbot.com ["rzp_live_RnuYO21TYkXvJf"]
+[google-api-key] [http] [low] https://research.grammarly.com ["AIzaSyBXJ1nQx2ijeHTz6-uemJk_6X7K2K3I3AU"]
+[google-api-key] [http] [low] https://research.grammarly.com/hopfully404 ["AIzaSyBXJ1nQx2ijeHTz6-uemJk_6X7K2K3I3AU"]
+[google-api-key] [http] [low] https://revolut.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://rest.quillbot.com ["AIzaSyAhX7hgWsGjY-Lo6eqwJmuRU2xxNRTY7kQ"]
+[google-api-key] [http] [low] https://revolut.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://rest.quillbot.com/hopfully404 ["AIzaSyAhX7hgWsGjY-Lo6eqwJmuRU2xxNRTY7kQ"]
+[google-api-key] [http] [low] https://roblox.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://roblox.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://sales-revolut.sana.ai ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[google-api-key] [http] [low] https://sales-revolut.sana.ai/hopfully404 ["AIzaSyAL5bVOfIEEAvz9tAzJQQarnKxNn4b8fY4"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://research.sierra.ai
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://research.sierra.ai
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://research.sierra.ai
