@@ -1,0 +1,39 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] mpeters.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mreilly.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] msaldanha.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mpeters.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mreilly.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] msaldanha.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] msaocnoosm1a4.pika.art:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] msaocnoosm1a4.pika.art:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] msolaiman.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] msolaiman.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mwang.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mwei.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mwang.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mwei.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] my.api.seaart.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] my.api.seaart.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nane2.sandbox.cloud.seaart.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nane2.sandbox.cloud.seaart.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nbansal.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nbansal.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] nchowdhury.dev.poe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] nchowdhury.dev.poe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] moreshort.seaart.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] moreshort.seaart.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://nc-auth-staging.nightcafe.studio
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://nc-auth.nightcafe.studio
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://nc-auth-staging.nightcafe.studio
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://nc-auth.nightcafe.studio
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://nc-auth-staging.nightcafe.studio
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://nc-auth.nightcafe.studio
+[unauthenticated-varnish-cache-purge] [http] [low] https://nc-auth-staging.nightcafe.studio
+[unauthenticated-varnish-cache-purge] [http] [low] https://nc-auth.nightcafe.studio
+[kubernetes-fake-certificate] [ssl] [low] monitoring-grafana.dev.seaart.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] monitoring-grafana.dev.seaart.ai:443
+[kubernetes-fake-certificate] [ssl] [low] monitoring.dev.seaart.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] monitoring.dev.seaart.ai:443
+[kubernetes-fake-certificate] [ssl] [low] monitoring.prod.seaart.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] monitoring.prod.seaart.ai:443
+[expired-ssl] [ssl] [low] nane2.sandbox.cloud.seaart.ai:443 ["2026-10-13 04:57:24 +0000 UTC"]
