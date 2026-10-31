@@ -1,0 +1,2 @@
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://devnet.saber.so/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2025-54236] [http] [critical] https://coston2.enosys.global/customer/address_file/upload

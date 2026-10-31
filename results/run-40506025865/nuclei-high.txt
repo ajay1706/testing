@@ -1,0 +1,7 @@
+[CVE-2024-34351] [http] [high] https://app.manifest.trade/_next/image?w=16&q=10&url=https://dbh31c546120eci9clog59kseebzozknx.oast.site
+[CVE-2024-34351] [http] [high] https://dev.manifest.trade/_next/image?w=16&q=10&url=https://dbhb8gl46120gmpdmqs0yer6c5f9kiptk.oast.live
+[CVE-2024-34351] [http] [high] https://manifest.trade/_next/image?w=16&q=10&url=https://dbhfjr546120ea36oqvgxid9amo7j3ion.oast.me
+[CVE-2024-34351] [http] [high] https://www.manifest.trade/_next/image?w=16&q=10&url=https://dbifu9546120fg7an5207aesefhr6m1sk.oast.site
+[framer-takeover] [http] [high] https://defisummit.panoptic.xyz ["sites.framer.app"]
+[wordpress-click2shell] [http] [high] https://elk-website-wordpress.oslo.alberta.elk.finance/wp-admin/js/theme.js
+[wordpress-click2shell] [http] [high] https://elk.finance/wp-admin/js/theme.js
