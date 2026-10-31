@@ -1,0 +1,7 @@
+[github-takeover] [http] [high] https://design-system.jasper.ai ["gojasper.github.io"]
+[razorpay-clientid-disclosure] [http] [high] https://app.quillbot.com ["rzp_live_RnuYO21TYkXvJf"]
+[razorpay-clientid-disclosure] [http] [high] https://rest.quillbot.com ["rzp_live_RnuYO21TYkXvJf"]
+[razorpay-clientid-disclosure] [http] [high] https://stage-app.quillbot.com ["rzp_live_RnuYO21TYkXvJf"]
+[razorpay-clientid-disclosure] [http] [high] https://stage.quillbot.com ["rzp_live_RnuYO21TYkXvJf"]
+[unauth-ckfinder] [http] [high] https://partner-portal.make.com/ckfinder/ckfinder.html ["CKFinder 3 - File Browser"]
+[wordpress-click2shell] [http] [high] https://partners.grammarly.com/wp-admin/js/theme.js

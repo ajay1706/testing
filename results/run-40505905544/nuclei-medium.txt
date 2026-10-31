@@ -1,0 +1,23 @@
+[CVE-2025-54793] [http] [medium] https://db-health.writesonic.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://published.usemotion.com//interact.sh/en//
+[CVE-2026-27454] [http] [medium] https://community.make.com/posts/280214.json?version=1
+[CVE-2026-27454] [http] [medium] https://community.n8n.io/posts/607239.json?version=1
+[appsmith-info-disclosure] [http] [medium] https://carbonara.tldv.io/api/v1/consolidated-api/view
+[appsmith-info-disclosure] [http] [medium] https://carbonara.tldv.io/api/v1/tenants/current
+[azure-functions-hostjson-exposure] [http] [medium] https://api-docs.usemotion.com/host.json
+[laravel-debugbar-exposure] [http] [medium] https://realtime.quillbot.com/_debugbar/open
+[nexus-repository-anonymous-access] [http] [medium] https://api-docs.usemotion.com/service/rest/v1/repositories
+[oidc-signing-alg-none-supported] [http] [medium] https://api.app.reclaim.ai/.well-known/openid-configuration ["https://app.reclaim.ai"]
+[oidc-signing-alg-none-supported] [http] [medium] https://asana.reclaim.ai/.well-known/openid-configuration ["https://app.reclaim.ai"]
+[oidc-signing-alg-none-supported] [http] [medium] https://clickup.reclaim.ai/.well-known/openid-configuration ["https://app.reclaim.ai"]
+[oidc-signing-alg-none-supported] [http] [medium] https://jira.reclaim.ai/.well-known/openid-configuration ["https://app.reclaim.ai"]
+[oidc-signing-alg-none-supported] [http] [medium] https://linear.reclaim.ai/.well-known/openid-configuration ["https://app.reclaim.ai"]
+[oidc-signing-alg-none-supported] [http] [medium] https://mcp.reclaim.ai/.well-known/openid-configuration ["https://mcp.reclaim.ai"]
+[oidc-signing-alg-none-supported] [http] [medium] https://todoist.reclaim.ai/.well-known/openid-configuration ["https://app.reclaim.ai"]
+[open-redirect-generic] [http] [medium] https://db-health.writesonic.com//oast.me/ [redirect="/oast.me/"]
+[prometheus-metrics] [http] [medium] https://academy.zapier.com/metrics
+[prometheus-metrics] [http] [medium] https://api.gumstack.gumloop.com/metrics
+[prometheus-metrics] [http] [medium] https://ingestion.writesonic.com/metrics
+[prometheus-metrics] [http] [medium] https://learn.zapier.com/metrics
+[prometheus-metrics] [http] [medium] https://zoom-rtms.fireflies.ai/metrics
+[xss-fuzz] [http] [medium] https://numerous.ai/?rememberme=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-rememberme%27%29%3E&module=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-module%27%29%3E&comment_ID=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-comment_ID%27%29%3E&client_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-client_id%27%29%3E&noheader=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-noheader%27%29%3E&del=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-del%27%29%3E&media=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-media%27%29%3E&user_name=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-user_name%27%29%3E&country=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-country%27%29%3E&phone=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-phone%27%29%3E&sidebar=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-sidebar%27%29%3E&version=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-version%27%29%3E&widget_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-widget_id%27%29%3E&class=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-class%27%29%3E [xss_param="rememberme=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-rememberme%27%29%3E&module=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-module%27%29%3E&comment_ID=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-comment_ID%27%29%3E&client_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-client_id%27%29%3E&noheader=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-noheader%27%29%3E&del=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-del%27%29%3E&media=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-media%27%29%3E&user_name=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-user_name%27%29%3E&country=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-country%27%29%3E&phone=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-phone%27%29%3E&sidebar=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-sidebar%27%29%3E&version=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-version%27%29%3E&widget_id=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-widget_id%27%29%3E&class=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss-class%27%29%3E"]
