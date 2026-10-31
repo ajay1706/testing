@@ -1,0 +1,5 @@
+[prometheus-metrics] [http] [medium] https://staging.indexer.doppler.lol/metrics
+[prometheus-metrics] [http] [medium] https://ston.fi/metrics
+[prometheus-metrics] [http] [medium] https://test.indexer.doppler.lol/metrics
+[prometheus-metrics] [http] [medium] https://testnet-indexer.doppler.lol/metrics
+[prometheus-metrics] [http] [medium] https://testnet-indexer.tonco.io/metrics
