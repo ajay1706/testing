@@ -1,0 +1,2 @@
+[ssh-weak-algo-supported] [javascript] [medium] kr.mathwallet.org:22
+[ssh-cbc-mode-ciphers] [javascript] [low] kr.mathwallet.org:22
