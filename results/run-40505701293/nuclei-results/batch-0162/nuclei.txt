@@ -1,0 +1,2 @@
+[google-api-key] [http] [low] https://www.manus.im ["AIzaSyDcXHo-1cHpFHPMlBDoMHnvI6r00_XkNKg"]
+[google-api-key] [http] [low] https://www.manus.im/hopfully404 ["AIzaSyDcXHo-1cHpFHPMlBDoMHnvI6r00_XkNKg"]
