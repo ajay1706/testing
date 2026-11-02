@@ -1,0 +1,2 @@
+https://landing.luxor.tech [502] [] [332] [502 Server Error] [] [35.227.203.44] [google] [97.754682ms] [HTTP/3]
+https://prod-api.luxor.tech [502] [] [332] [502 Server Error] [] [35.244.144.58] [google] [144.978854ms] [HTTP/3]
