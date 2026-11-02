@@ -1,0 +1,18 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] prod-api.luxor.tech:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] prod-api.luxor.tech:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rollup-devserver.spicenet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rollup-devserver.spicenet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sftp.fundnode.dev.marketnode.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] static.marketnode.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] static.marketnode.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sftp.fundnode.dev.marketnode.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[expired-ssl] [ssl] [low] staging.explore.predicate.io:443 ["2026-04-09 05:02:10 +0000 UTC"]
+[expired-ssl] [ssl] [low] verify.vanguard.corp.luxor.tech:443 ["2026-08-25 16:55:03 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] verify.vanguard.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] verify.vanguard.corp.luxor.tech:443
+[kubernetes-fake-certificate] [ssl] [low] token-scope-test.dtm.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] token-scope-test.dtm.corp.luxor.tech:443
+[kubernetes-fake-certificate] [ssl] [low] wildcard.vanguard.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wildcard.vanguard.corp.luxor.tech:443
+[kubernetes-fake-certificate] [ssl] [low] wildcard.dtm.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wildcard.dtm.corp.luxor.tech:443
