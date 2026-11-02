@@ -1,0 +1,14 @@
+[+] Batch started: Mon Nov  2 16:34:20 UTC 2026
+[+] Run ID: 41482424212
+[+] Batch name: batch-03
+[+] Batch targets:
+cryptokitties.co
+crystalfall.com
+dapperlabs.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Nov  2 16:36:20 UTC 2026
+[+] HTTPX input count: 1141
+[+] Running httpx...
+[+] httpx completed: Mon Nov  2 16:38:45 UTC 2026
+[+] httpx line count: 529
+[+] Batch completed: Mon Nov  2 16:38:45 UTC 2026
