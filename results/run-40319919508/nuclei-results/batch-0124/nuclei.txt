@@ -1,0 +1,26 @@
+[config-json-exposure-fuzz] [http] [critical] https://dogecoin.atomicwallet.io/api/config.json [path="/api/config.json"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] do2.ru.bitcoin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] do2.ru.bitcoin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.taho.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.taho.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dora-internal.robinhood.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dora-internal.robinhood.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] download.tokenpocket.pro:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] download.tokenpocket.pro:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dr.ru.bitcoin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dr.ru.bitcoin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://doc.mathwallet.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://doc.mathwallet.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://doc.mathwallet.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.alphawallet.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.alphawallet.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.alphawallet.com
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.frame.sh
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.frame.sh
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.frame.sh
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.token.im
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.token.im
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.token.im
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://download.mewwallet.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://download.mewwallet.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://download.mewwallet.com
