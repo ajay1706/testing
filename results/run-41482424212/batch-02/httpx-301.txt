@@ -1,0 +1,5 @@
+https://blog.dev.courtyard.io [301] [https://webflow.courtyard.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [521.518967ms] [Cloudflare,HSTS,HTTP/3]
+http://content.courtyard.io [301] [https://content.courtyard.io:443/] [0] [] [34.111.58.155] [google] [65.252359ms]
+http://staging.courtyard.io [301] [https://staging.courtyard.io:443/] [0] [] [34.117.245.167] [google] [69.132852ms]
+http://www.content.courtyard.io [301] [https://www.content.courtyard.io:443/] [0] [] [34.111.58.155] [google] [34.499576ms]
+https://www.chippercash.com [301] [https://chippercash.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [3.221172799s] [Cloudflare,HSTS,HTTP/3]
