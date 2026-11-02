@@ -1,0 +1,61 @@
+[expired-ssl] [ssl] [low] explore.predicate.io:443 ["2026-04-08 08:43:44 +0000 UTC"]
+[expired-ssl] [ssl] [low] grafana.vanguard.corp.luxor.tech:443 ["2026-08-25 16:54:15 +0000 UTC"]
+[expired-ssl] [ssl] [low] staging.explore.predicate.io:443 ["2026-04-09 05:02:10 +0000 UTC"]
+[expired-ssl] [ssl] [low] verify.vanguard.corp.luxor.tech:443 ["2026-08-25 16:55:03 +0000 UTC"]
+[framer-takeover] [http] [high] https://www.cancore.io ["sites.framer.app"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.hyperbolic.ai/metrics ["12.3.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.staging.hyperbolic.ai/metrics ["12.3.1"]
+[kubernetes-fake-certificate] [ssl] [low] dev.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] document-flow-ai.qa.marketnode.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] document-flow-ai.qa2.marketnode.com:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] grafana.vanguard.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] mail.dtm.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] token-scope-test.dtm.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] verify.vanguard.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] wildcard.dtm.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-fake-certificate] [ssl] [low] wildcard.vanguard.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[kubernetes-metrics] [http] [low] https://grafana.hyperbolic.ai/metrics
+[kubernetes-metrics] [http] [low] https://grafana.staging.hyperbolic.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.hyperbolic.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.staging.hyperbolic.ai/metrics
+[prometheus-metrics] [http] [medium] https://api.mochatrade.com/metrics
+[self-signed-ssl] [ssl] [low] dev.luxor.tech:443
+[self-signed-ssl] [ssl] [low] document-flow-ai.qa.marketnode.com:443
+[self-signed-ssl] [ssl] [low] document-flow-ai.qa2.marketnode.com:443
+[self-signed-ssl] [ssl] [low] grafana.vanguard.corp.luxor.tech:443
+[self-signed-ssl] [ssl] [low] mail.dtm.corp.luxor.tech:443
+[self-signed-ssl] [ssl] [low] token-scope-test.dtm.corp.luxor.tech:443
+[self-signed-ssl] [ssl] [low] verify.vanguard.corp.luxor.tech:443
+[self-signed-ssl] [ssl] [low] wildcard.dtm.corp.luxor.tech:443
+[self-signed-ssl] [ssl] [low] wildcard.vanguard.corp.luxor.tech:443
+[unauthenticated-varnish-cache-purge] [http] [low] https://mail.marketnode.com
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-dev.identity.predicate.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-preprod.identity.predicate.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.hyperbolic.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.identity.predicate.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cf-app-dev.hyperbolic.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cf-app-prod.hyperbolic.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.hyperbolic.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] identity-dev.predicate.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] landing.luxor.tech:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mcp.marketnode.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ph.hyperbolic.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] prod-api.luxor.tech:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] rollup-devserver.spicenet.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sftp.fundnode.dev.marketnode.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] static.marketnode.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-dev.identity.predicate.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-preprod.identity.predicate.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.hyperbolic.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.identity.predicate.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cf-app-dev.hyperbolic.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cf-app-prod.hyperbolic.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.hyperbolic.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] identity-dev.predicate.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] landing.luxor.tech:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mcp.marketnode.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ph.hyperbolic.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] prod-api.luxor.tech:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] rollup-devserver.spicenet.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sftp.fundnode.dev.marketnode.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] static.marketnode.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
