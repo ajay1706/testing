@@ -1,0 +1,145 @@
+# HTTPX Status Report
+
+Generated at: Mon Nov  2 11:06:53 UTC 2026
+
+HTTPX lines: 118
+Live URLs: 118
+
+## 200
+https://account.noom.com [200] [] [6835] [Noom] [AmazonS3] [18.244.214.55] [cloudfront] [49.258527ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://app.noom.com [200] [] [6835] [Noom] [AmazonS3] [18.244.214.124] [cloudfront] [55.149459ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://auth-dash.noom.com [200] [] [0] [awselb/2.0] [52.85.151.58] [cloudfront] [225.083872ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://auth-dash-test.noom.com [200] [] [0] [awselb/2.0] [18.155.202.90] [cloudfront] [227.478402ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://b2b.noom.com [200] [] [8024] [Noom: Web enrollment] [AmazonS3] [65.8.54.47] [cloudfront] [42.88764ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://brand.noom.com [200] [] [944] [Noom Brand Hub] [Vercel] [66.33.60.66] [156.30215ms] [HSTS,Vercel]
+https://clerk.us.api.nollahealth.com [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [62.025051ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://clerk.api.nollahealth.com [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [77.789871ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://circles.noom.com [200] [] [5373] [Noom Community] [AmazonS3] [65.8.54.3] [cloudfront] [52.943843ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3,reCAPTCHA]
+https://clerk.nollahealth.com [200] [] [0] [cloudflare] [172.64.153.110] [cloudflare] [98.193167ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://clerk.admin.nollahealth.com [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [138.014738ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://coachland.noom.com [200] [] [3663] [Coach Land] [AmazonS3] [18.155.202.66] [cloudfront] [57.770896ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://circlesstatic.noom.com [200] [] [2509] [circlesstatic.noom.com | A static HTML page to serve Community Guidelines from] [cloudflare] [104.18.247.64] [cloudflare] [160.673012ms] [Cloudflare,Fastly,GitHub Pages,HSTS,Jekyll:3.10.0,Ruby,Varnish,cdnjs]
+https://coachland-test.noom.com [200] [] [3663] [Coach Land] [AmazonS3] [13.226.38.10] [cloudfront] [124.900275ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://community.noom.com [200] [] [5373] [Noom Community] [AmazonS3] [65.8.54.3] [cloudfront] [77.559218ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3,reCAPTCHA]
+https://dash-test.noom.com [200] [] [8353] [Coach Dashboard] [AmazonS3] [3.168.86.50] [cloudfront] [83.619987ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://dash.noom.com [200] [] [8375] [Coach Dashboard] [AmazonS3] [18.239.199.108] [cloudfront] [90.248389ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://app.nollahealth.com [200] [] [37] [Google Frontend] [136.69.29.77] [google] [732.988532ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://library.noom.com [200] [] [103527] [Noom] [] [44.221.242.52] [631.875593ms] [HSTS]
+https://mcp.nollahealth.com [200] [] [256785] [Nolla Health — Personal Doctors For Everyone] [Vercel] [216.150.1.193] [1.395870612s] [HSTS,Vercel]
+https://trust.noom.com [200] [] [7871] [Noom, Inc. Trust Center] [cloudflare] [104.18.27.175] [cloudflare] [5.538161891s] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://artbreak.noom.com [200] [] [28688425] [Art Therapy Gallery] [cloudflare] [104.18.247.64] [cloudflare] [1.657789087s] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS]
+https://www.nollahealth.com [200] [] [256785] [Nolla Health — Personal Doctors For Everyone] [Vercel] [216.150.16.193] [106.985242ms] [HSTS,Vercel]
+https://www.noom.com [200] [] [352515] [Noom: Lose weight and keep it off.] [nginx] [13.249.74.113] [cloudfront] [4.037226596s] [Altis,Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,MySQL,Nginx,PHP,WordPress,WordPress Block Editor,WordPress Site Editor,jQuery,jQuery Migrate:3.4.1]
+
+## 301
+https://blog.noom.com [301] [https://www.noom.com:443/blog/] [134] [301 Moved Permanently] [cloudflare] [104.16.251.78] [cloudflare] [343.369111ms] [Cloudflare,HSTS]
+https://buy.noom.com [301] [https://www.noom.com:443/?redirect_source=buy.noom.com] [134] [301 Moved Permanently] [cloudflare] [104.18.247.64] [cloudflare] [448.388679ms] [Cloudflare,HSTS]
+https://cdn.noom.com [301] [https://static.noom.com:443/] [134] [301 Moved Permanently] [cloudflare] [104.16.251.78] [cloudflare] [402.919806ms] [Cloudflare,HSTS]
+https://de.noom.com [301] [https://www.noom.com:443/de] [134] [301 Moved Permanently] [cloudflare] [104.16.251.78] [cloudflare] [407.654466ms] [Cloudflare,HSTS]
+https://dl.noom.com [301] [https://noomcoach.app.link:443/] [134] [301 Moved Permanently] [cloudflare] [104.16.251.78] [cloudflare] [327.894698ms] [Cloudflare,HSTS]
+https://friends.noom.com [301] [https://www.noom.com:443/referral] [134] [301 Moved Permanently] [cloudflare] [104.18.247.64] [cloudflare] [354.97055ms] [Cloudflare,HSTS]
+http://healthcare.noom.com [301] [https://healthcare.noom.com/] [167] [301 Moved Permanently] [CloudFront] [18.238.192.129] [cloudfront] [1.032723175s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+http://links.noom.com [301] [https://links.noom.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.247.64] [cloudflare] [3.019316466s] [Cloudflare]
+https://uk.noom.com [301] [https://www.noom.com:443/] [134] [301 Moved Permanently] [cloudflare] [104.16.251.78] [cloudflare] [3.346864833s] [Cloudflare,HSTS]
+https://support.noom.com [301] [https://www.noom.com:443/support] [134] [301 Moved Permanently] [cloudflare] [104.16.251.78] [cloudflare] [8.336331381s] [Cloudflare,HSTS]
+https://webenrollment.noom.com [301] [https://www.noom.com:443/enrollment] [134] [301 Moved Permanently] [cloudflare] [104.18.247.64] [cloudflare] [5.305697616s] [Cloudflare,HSTS]
+https://www.peak.money [301] [https://peak.money/] [167] [301 Moved Permanently] [cloudflare] [172.64.147.80] [cloudflare] [7.452043042s] [Cloudflare,HSTS]
+http://www.wildcard.mcd.noom.com [301] [https://www.wildcard.mcd.noom.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.247.64] [cloudflare] [16.475939ms] [Cloudflare]
+
+## 302
+https://calico.noom.com [302] [/admin] [0] [cloudflare] [104.18.247.64] [cloudflare] [325.931003ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS]
+https://content2.noom.com [302] [/admin] [0] [cloudflare] [104.16.251.78] [cloudflare] [283.887116ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS]
+https://content.noom.com [302] [https://content.noom.com/login/google-oauth2/?next=/] [0] [cloudflare] [104.16.251.78] [cloudflare] [293.87987ms] [Cloudflare,HSTS]
+https://coachmarketplace.noom.com [302] [https://bubble.io/domain_not_supported?domain=coachmarketplace.noom.com] [0] [cloudflare] [104.19.240.93] [cloudflare] [313.079237ms] [Bubble,Cloudflare,Express,HSTS,HTTP/3,Node.js]
+https://forwork.noom.com [302] [https://www.noom.com/health] [0] [] [34.237.219.119] [2.335556546s] [Salesforce Marketing Cloud Account Engagement]
+https://info.noom.com [302] [https://www.noom.com/health] [0] [] [34.237.219.119] [2.249668132s] [Salesforce Marketing Cloud Account Engagement]
+https://mcd.noom.com [302] [/mcd/] [0] [cloudflare] [104.18.247.64] [cloudflare] [5.344169396s] [Cloudflare,HSTS]
+https://staging.knowledge.nollahealth.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.knowledge.nollahealth.com%2F&nonce=73ab66a102093e9c9218d4531a367b9afbbad645302f39f48e73331dc9bcc0ac] [263] [Vercel] [216.150.1.193] [3.306601401s] [HSTS,Vercel]
+https://support.peak.money [302] [https://support.peak.money/hc] [0] [cloudflare] [216.198.53.11] [3.173679236s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://ww4.noom.com [302] [https://www.noom.com:443/] [110] [302 Found] [cloudflare] [104.18.247.64] [cloudflare] [2.404568681s] [Cloudflare,HSTS]
+https://ww2.noom.com [302] [https://www.noom.com:443/] [110] [302 Found] [cloudflare] [104.18.247.64] [cloudflare] [3.353394472s] [Cloudflare,HSTS]
+https://ww1.noom.com [302] [https://www.noom.com:443/] [110] [302 Found] [cloudflare] [104.18.247.64] [cloudflare] [4.306006443s] [Cloudflare,HSTS]
+https://wildcard.mcd.noom.com [302] [https://mcd.noom.com/wildcard/] [0] [cloudflare] [104.16.251.78] [cloudflare] [6.277155802s] [Cloudflare,HSTS]
+https://www.mcd.noom.com [302] [https://mcd.noom.com/www/] [0] [cloudflare] [104.18.247.64] [cloudflare] [2.390658594s] [Cloudflare,HSTS]
+
+## 307
+https://api.nollahealth.com [307] [/doctor-login?redirect_url=https%3A%2F%2Fapi.nollahealth.com%2F] [15] [Vercel] [76.76.21.142] [1.202335168s] [HSTS,Vercel]
+https://eu.api.nollahealth.com [307] [/doctor-login?redirect_url=https%3A%2F%2Feu.api.nollahealth.com%2F] [15] [Vercel] [76.76.21.61] [955.443121ms] [HSTS,Vercel]
+https://creators.nollahealth.com [307] [/sign-in] [8423] [Nolla Creator Program] [Vercel] [66.33.60.34] [2.627656113s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://launch.noom.com [307] [https://trumpet.app/] [20] [Vercel] [216.150.1.193] [2.210423863s] [HSTS,Vercel]
+https://staging.api.nollahealth.com [307] [/doctor-login?redirect_url=https%3A%2F%2Fstaging.api.nollahealth.com%2F] [15] [Vercel] [66.33.60.194] [5.413772387s] [HSTS,Vercel]
+https://twitter.nollahealth.com [307] [/login] [15] [Vercel] [216.150.1.193] [4.245307538s] [HSTS,Vercel]
+https://ugcguidenorsk.nollahealth.com [307] [https://ugcguidenorsk.nollahealth.com/1c3036834ff9809dbbe8edc15db8bd7d] [0] [CloudFront] [18.239.199.53] [cloudfront] [4.701537586s] [Amazon CloudFront,Amazon Web Services]
+
+## 308
+https://acne.nollahealth.com [308] [https://nollahealth.com] [15] [Vercel] [216.150.1.129] [120.935416ms] [HSTS,Vercel]
+http://nollahealth.com [308] [https://nollahealth.com/] [14] [Vercel] [216.150.1.1] [1.128711718s] [Vercel]
+https://skin.nollahealth.com [308] [https://nollahealth.com] [15] [Vercel] [216.150.1.193] [3.153826445s] [HSTS,Vercel]
+
+## 401
+https://api-community.noom.com [401] [] [0] [cloudflare] [104.18.247.64] [cloudflare] [256.318544ms] [Cloudflare,HSTS]
+https://auth.noom.com [401] [] [0] [cloudflare] [104.16.251.78] [cloudflare] [277.483003ms] [Cloudflare,HSTS]
+https://curriculum-api.noom.com [401] [] [0] [cloudflare] [104.16.251.78] [cloudflare] [293.45919ms] [Cloudflare,HSTS]
+https://eda-event-proxy-api.noom.com [401] [] [0] [cloudflare] [104.16.251.78] [cloudflare] [119.879237ms] [Cloudflare,HSTS]
+https://graph.noom.com [401] [] [0] [cloudflare] [104.16.251.78] [cloudflare] [4.097842557s] [Cloudflare,HSTS]
+
+## 403
+https://appdata2.noom.com [403] [] [2334] [403 Forbidden] [BunnyCDN-LA1-1002] [143.244.50.212] [56.770684ms] [Bunny]
+https://accounts.api.nollahealth.com [403] [] [5728] [Just a moment...] [cloudflare] [104.18.34.146] [cloudflare] [50.480427ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://appdata.noom.com [403] [] [263] [cloudflare] [104.18.247.64] [cloudflare] [133.226638ms] [Amazon Web Services,Cloudflare,HSTS]
+https://accounts.nollahealth.com [403] [] [5575] [Just a moment...] [cloudflare] [104.18.34.146] [cloudflare] [100.828235ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://accounts.us.api.nollahealth.com [403] [] [5624] [Just a moment...] [cloudflare] [172.64.153.110] [cloudflare] [166.95756ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://accounts.admin.nollahealth.com [403] [] [5730] [Just a moment...] [cloudflare] [172.64.153.110] [cloudflare] [171.526821ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://appdata3.noom.com [403] [] [263] [BunnyCDN-SIL1-915] [169.150.221.147] [240.459832ms] [Amazon Web Services,Bunny]
+https://b2b-web-assets.noom.com [403] [] [263] [cloudflare] [104.18.247.64] [cloudflare] [276.114519ms] [Amazon Web Services,Cloudflare,HSTS]
+https://b2b-cdn.noom.com [403] [] [263] [cloudflare] [104.16.251.78] [cloudflare] [284.891678ms] [Amazon Web Services,Cloudflare,HSTS]
+https://calico-assets.noom.com [403] [] [263] [cloudflare] [104.18.247.64] [cloudflare] [257.725743ms] [Amazon Web Services,Cloudflare,HSTS]
+https://buyflow-assets.noom.com [403] [] [263] [cloudflare] [104.18.247.64] [cloudflare] [293.059221ms] [Amazon Web Services,Cloudflare,HSTS]
+https://buyflow-web-assets.noom.com [403] [] [263] [cloudflare] [104.18.247.64] [cloudflare] [288.61165ms] [Amazon Web Services,Cloudflare,HSTS]
+https://autodiscover.peak.money [403] [] [190614] [block] [cloudflare] [172.64.147.80] [cloudflare] [171.499289ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://content-images.noom.com [403] [] [243] [cloudflare] [104.16.251.78] [cloudflare] [270.273708ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS]
+https://content-audio.noom.com [403] [] [263] [cloudflare] [104.16.251.78] [cloudflare] [317.010664ms] [Amazon Web Services,Cloudflare,HSTS]
+https://food-data-api-prod.noom.com [403] [] [263] [cloudflare] [104.18.247.64] [cloudflare] [130.630543ms] [Amazon Web Services,Cloudflare,HSTS]
+https://fd-prod.noom.com [403] [] [263] [cloudflare] [104.18.247.64] [cloudflare] [234.242357ms] [Amazon Web Services,Cloudflare,HSTS]
+https://email-assets.noom.com [403] [] [263] [cloudflare] [104.16.251.78] [cloudflare] [271.518587ms] [Amazon Web Services,Cloudflare,HSTS]
+https://exchange.peak.money [403] [] [190614] [block] [cloudflare] [172.64.147.80] [cloudflare] [123.0456ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://fbh2s3.peak.money [403] [] [190614] [block] [cloudflare] [172.64.147.80] [cloudflare] [118.066835ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://m.peak.money [403] [] [190614] [block] [cloudflare] [104.18.40.176] [cloudflare] [134.622878ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://owa.peak.money [403] [] [190614] [block] [cloudflare] [104.18.40.176] [cloudflare] [2.081672228s] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://maintenance.peak.money [403] [] [190614] [block] [cloudflare] [172.64.147.80] [cloudflare] [4.343368408s] [Cloudflare,Cloudflare Bot Management]
+https://sitemaps.peak.money [403] [] [190614] [block] [cloudflare] [172.64.147.80] [cloudflare] [1.11456879s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://sitemap.peak.money [403] [] [190614] [block] [cloudflare] [104.18.40.176] [cloudflare] [2.107096786s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://remote.peak.money [403] [] [190614] [block] [cloudflare] [172.64.147.80] [cloudflare] [6.103204819s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://vpn.peak.money [403] [] [190614] [block] [cloudflare] [104.18.40.176] [cloudflare] [4.082004736s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://webmail.peak.money [403] [] [190614] [block] [cloudflare] [172.64.147.80] [cloudflare] [5.06538872s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.preview.peak.money [403] [] [190614] [block] [cloudflare] [104.18.40.176] [cloudflare] [1.157485474s] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://ablink.message.noom.com [404] [] [548] [404 Not Found] [cloudflare] [104.16.251.78] [cloudflare] [144.503828ms] [Cloudflare,HSTS]
+https://a.peak.money [404] [] [21] [] [34.36.120.137] [google] [245.938205ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://a.preview.peak.money [404] [] [21] [] [34.120.42.7] [google] [256.2845ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://auth.peak.money [404] [] [242] [cloudflare] [104.18.9.173] [cloudflare] [275.445724ms] [Cloudflare,HSTS]
+https://buyflow-api.noom.com [404] [] [179] [Not Found] [cloudflare] [104.16.251.78] [cloudflare] [283.218546ms] [Cloudflare,HSTS]
+https://data.noom.com [404] [] [683] [HTTP Status 404 – Not Found] [cloudflare] [104.16.251.78] [cloudflare] [124.277538ms] [Cloudflare,HSTS]
+https://data-dash-prod.noom.com [404] [] [683] [HTTP Status 404 – Not Found] [cloudflare] [104.16.251.78] [cloudflare] [235.906693ms] [Cloudflare,HSTS]
+https://email.noom.com [404] [] [146] [404 Not Found] [cloudflare] [104.18.247.64] [cloudflare] [147.393006ms] [Cloudflare,HSTS]
+https://admin.nollahealth.com [404] [] [9978] [NollaMD Admin] [Vercel] [216.150.1.129] [1.028690298s] [HSTS,Vercel]
+https://email.message.noom.com [404] [] [19] [] [34.110.180.34] [google] [211.233838ms]
+https://knowledge.nollahealth.com [404] [] [13764] [NollaMD Knowledge] [Vercel] [216.150.1.193] [2.624185319s] [HSTS,Vercel]
+https://login.peak.money [404] [] [196] [] [166.117.105.127] [2.102201134s]
+https://loveable-test.noom.com [404] [] [1227] [Project deleted] [cloudflare] [185.158.133.1] [5.4113443s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://mer-prod.noom.com [404] [] [327] [cloudflare] [104.16.251.78] [cloudflare] [5.250983403s] [Amazon Web Services,Cloudflare,HSTS]
+https://static.noom.com [404] [] [83] [cloudflare] [104.18.247.64] [cloudflare] [4.146867882s] [Cloudflare,HSTS]
+https://staging.chat.nollahealth.com [404] [] [107] [Vercel] [216.150.16.129] [6.467486981s] [HSTS,Vercel]
+https://techblog.noom.com [404] [] [1957] [Site is not available] [cloudflare] [104.18.247.64] [cloudflare] [4.13317707s] [Cloudflare,Google Cloud,Google Cloud Storage,HSTS]
+https://webhooks.nollahealth.com [404] [] [21] [Vercel] [216.150.1.193] [1.264368473s] [HSTS,Vercel]
+https://try.noom.com [404] [] [47] [cloudflare] [104.18.247.64] [cloudflare] [6.070102997s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://wie-prod.noom.com [404] [] [327] [cloudflare] [104.18.247.64] [cloudflare] [2.270482786s] [Amazon Web Services,Cloudflare,HSTS]
+
+## 500
+
+## 502
+
+## 503
+https://redirect.noom.com [503] [] [162] [503 Service Temporarily Unavailable] [cloudflare] [104.18.247.64] [cloudflare] [1.361722222s] [Cloudflare,HSTS]
+

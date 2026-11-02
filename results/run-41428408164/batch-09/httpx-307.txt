@@ -1,0 +1,7 @@
+https://api.nollahealth.com [307] [/doctor-login?redirect_url=https%3A%2F%2Fapi.nollahealth.com%2F] [15] [Vercel] [76.76.21.142] [1.202335168s] [HSTS,Vercel]
+https://eu.api.nollahealth.com [307] [/doctor-login?redirect_url=https%3A%2F%2Feu.api.nollahealth.com%2F] [15] [Vercel] [76.76.21.61] [955.443121ms] [HSTS,Vercel]
+https://creators.nollahealth.com [307] [/sign-in] [8423] [Nolla Creator Program] [Vercel] [66.33.60.34] [2.627656113s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://launch.noom.com [307] [https://trumpet.app/] [20] [Vercel] [216.150.1.193] [2.210423863s] [HSTS,Vercel]
+https://staging.api.nollahealth.com [307] [/doctor-login?redirect_url=https%3A%2F%2Fstaging.api.nollahealth.com%2F] [15] [Vercel] [66.33.60.194] [5.413772387s] [HSTS,Vercel]
+https://twitter.nollahealth.com [307] [/login] [15] [Vercel] [216.150.1.193] [4.245307538s] [HSTS,Vercel]
+https://ugcguidenorsk.nollahealth.com [307] [https://ugcguidenorsk.nollahealth.com/1c3036834ff9809dbbe8edc15db8bd7d] [0] [CloudFront] [18.239.199.53] [cloudfront] [4.701537586s] [Amazon CloudFront,Amazon Web Services]
