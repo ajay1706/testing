@@ -1,0 +1,2 @@
+https://finance.delphi.ai [401] [] [1922] [Runway · sign in] [Vercel] [66.33.60.67] [1.379466613s] [HSTS,Vercel]
+https://obsidian.cogito.decart.ai [401] [] [581] [401 Authorization Required] [nginx/1.27.5] [34.217.254.155] [350.017016ms] [Nginx:1.27.5]

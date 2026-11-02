@@ -1,0 +1,7 @@
+https://affiliate.delphi.ai [302] [https://affiliate.delphi.ai/signup] [0] [Caddy Heroku] [161.35.235.194] [565.002236ms] [HSTS]
+https://handbook.delphi.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fhandbook.delphi.ai%2F&nonce=364bdc49980a5173bd587c686f0b29ee3b4c0ae625dfb72ea4cf222cfb07ce35] [263] [Vercel] [64.239.109.129] [456.826345ms] [HSTS,Vercel]
+https://oasis.decart.ai [302] [/welcome] [0] [nginx/1.30.6] [3.223.77.146] [429.942888ms] [Nginx:1.30.6]
+https://oasis.us.decart.ai [302] [/welcome] [0] [nginx/1.30.6] [3.223.77.146] [484.508416ms] [Nginx:1.30.6]
+https://oracle.delphi.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Foracle.delphi.ai%2F&nonce=ccb2ac8639ff2c62e89655c223854d8b42b9acb2d78e08accb361b14c55cb474] [263] [cloudflare] [104.26.9.44] [cloudflare] [721.193598ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://support.disneypinnacle.com [302] [https://support.disneypinnacle.com/hc] [0] [cloudflare] [216.198.53.11] [302.99667ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+http://x.decart.ai [302] [https://reinvent.decart.ai/] [50] [ip-10-124-4-159.us-west-2.compute.internal] [15.197.225.128] [186.816222ms]

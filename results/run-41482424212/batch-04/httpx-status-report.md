@@ -1,0 +1,147 @@
+# HTTPX Status Report
+
+Generated at: Mon Nov  2 16:37:08 UTC 2026
+
+HTTPX lines: 126
+Live URLs: 126
+
+## 200
+https://anywear.decart.ai [200] [] [95531] [Anywear — Live Virtual Try-On for Any Online Store] [Vercel] [216.150.1.1] [181.873684ms] [Express,Google Tag Manager,HSTS,Node.js,Vercel]
+https://brand.decart.ai [200] [] [5193] [Decart AI] [nginx] [13.49.11.25] [991.204592ms] [Adobe Fonts,Corebook,HSTS,Nginx,Typekit]
+https://build.delphi.ai [200] [] [56496] [Delphi Design] [Vercel] [64.239.123.65] [389.70336ms] [HSTS,Vercel]
+https://cw-screen.decart.ai [200] [] [8137] [CoreWeave Mirror | Decart] [Vercel] [216.150.16.193] [522.170102ms] [HSTS,Vercel]
+https://decartmedia.decart.ai [200] [] [2263] [Decart Media] [cloudflare] [185.158.133.1] [1.041404344s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://cookbook.decart.ai [200] [] [103022] [Decart Cookbook] [Vercel] [216.150.1.193] [358.801058ms] [HSTS,Vercel]
+https://digital-mirror.decart.ai [200] [] [8596] [Decart Mirror] [Vercel] [216.150.16.193] [714.530579ms] [HSTS,Vercel]
+https://livekit.preprod.api3.decart.ai [200] [] [2] [] [52.26.206.62] [265.577457ms]
+https://ils-nibs.lkc.decart.ai [200] [] [2] [] [46.243.146.44] [748.540573ms] [HSTS]
+https://demos2.decart.ai [200] [] [178278] [Decart Realtime Demos] [Vercel] [216.150.1.193] [349.220574ms] [HSTS,Vercel]
+https://headshot.decart.ai [200] [] [2168] [Decart Headshot] [cloudflare] [185.158.133.1] [1.133569719s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://lk-eu.api3.decart.ai [200] [] [2] [] [13.63.10.35] [738.323875ms]
+https://disneypinnacle.com [200] [] [92379] [Disney Pinnacle by Dapper Labs] [cloudflare] [104.18.32.62] [cloudflare] [259.14253ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Webflow,jQuery:3.5.1]
+https://lens-demo.decart.ai [200] [] [8196] [Lens Demo — Decart] [Vercel] [216.150.1.1] [585.550379ms] [HSTS,Vercel]
+https://demos.decart.ai [200] [] [274733] [Decart Realtime Demos] [Vercel] [216.150.1.193] [251.62273ms] [HSTS,Vercel]
+https://lucy-status.decart.ai [200] [] [83603] [lucy realtime status] [] [44.229.122.231] [436.423822ms]
+https://halloween.decart.ai [200] [] [130813] [Haunted Mirror · Lucy 2.6 by Decart] [Vercel] [76.76.21.142] [445.335645ms] [HSTS,Vercel]
+https://cogito.decart.ai [200] [] [176862] [Cogito | Ultra-fast Inference] [Vercel] [76.76.21.21] [642.711402ms] [HSTS,Vercel]
+https://oasis3-onboarding.decart.ai [200] [] [41793] [Oasis 3 API Onboarding | Decart AI] [Vercel] [76.76.21.21] [263.354957ms] [HSTS,Vercel]
+https://oasis2.decart.ai [200] [] [17863] [Oasis 2.0] [Vercel] [216.150.1.193] [585.336538ms] [HSTS,Vercel]
+https://oasis3-internal-demo.decart.ai [200] [] [29362] [Oasis 3 Preview by Decart] [Vercel] [216.150.1.129] [661.736491ms] [Adobe Fonts,HSTS,Next.js,Node.js,React,Typekit,Vercel,Webpack]
+https://oasis3-preview.decart.ai [200] [] [29859] [Oasis 3 Preview by Decart] [Vercel] [216.150.1.129] [537.830728ms] [Adobe Fonts,HSTS,Next.js,Node.js,React,Typekit,Vercel,Webpack]
+https://api-onboarding.decart.ai [200] [] [281152] [Lucy API Onboarding | Decart AI] [Vercel] [216.150.1.193] [532.200683ms] [HSTS,Vercel]
+https://decart.ai [200] [] [229391] [The Live AI Lab the World Runs On] [Vercel] [216.150.1.1] [1.21226693s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://maintenance.disneypinnacle.com [200] [] [216283] [Disney Pinnacle — Down for maintenance] [cloudflare] [104.18.32.62] [cloudflare] [358.942126ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://madeinisrael.decart.ai [200] [] [143474] [פנינה רוזנבלום ודקארט - אני תוצרת ישראל] [cloudflare] [198.202.211.1] [414.235193ms] [Cloudflare,HSTS,HTTP/3,Stripe,jQuery:3.5.1,jsDelivr]
+https://pascal-nango.deference.decart.ai [200] [] [2059] [Nango] [] [44.193.115.239] [2.38450305s] [HSTS]
+https://assets.disneypinnacle.com [200] [] [336268] [cloudflare] [104.18.32.62] [cloudflare] [417.689367ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://platform.decart.ai [200] [] [96372] [Decart API Platform] [Vercel] [216.150.16.129] [1.353454946s] [Adobe Fonts,HSTS,Mautic,React,Typekit,Vercel]
+https://docs.delphi.ai [200] [] [486128] [API (Immortal Only) | Delphi Developer Documentation] [cloudflare] [104.18.40.47] [cloudflare] [314.32512ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://embed.delphi.ai [200] [] [638760] [Delphi - Ask The World's Experts] [Vercel] [66.33.60.34] [479.527701ms] [HSTS,Vercel]
+https://new.delphi.ai [200] [] [645829] [Delphi - Ask The World's Experts] [Vercel] [64.239.109.129] [968.81144ms] [HSTS,Vercel]
+https://promo.disneypinnacle.com [200] [] [90904] [Disney Pinnacle by Dapper Labs] [cloudflare] [198.202.211.1] [4.167752904s] [Cloudflare,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://pascal-nango-connect.deference.decart.ai [200] [] [1644] [Nango Connect] [] [44.193.115.239] [8.266504552s]
+https://research.decart.ai [200] [] [22302] [Research | Decart] [Vercel] [216.150.1.193] [5.163842026s] [Google Tag Manager,HSTS,Vercel]
+https://refer.delphi.ai [200] [] [124397] [REFER.DELPHI.AI - A Dub Custom Domain | Dub] [cloudflare] [104.26.8.44] [cloudflare] [7.715674208s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://status.decart.ai [200] [] [88218] [Decart Status] [AtlassianEdge] [143.204.1.17] [cloudfront] [2.591195757s] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://studios.decart.ai [200] [] [2741] [Decart Studios] [Vercel] [216.150.1.129] [2.515412549s] [HSTS,Vercel]
+https://valentine.decart.ai [200] [] [2186] [decheart] [cloudflare] [185.158.133.1] [961.687784ms] [Adobe Fonts,Cloudflare,Cloudflare Bot Management,HSTS,Typekit]
+https://unfold.decart.ai [200] [] [13943] [AI Research Daily] [Vercel] [216.150.1.193] [2.222549528s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+http://argocd.production.disneypinnacle.com [301] [https://argocd.production.disneypinnacle.com/] [528] [301 Moved Permanently] [cloudflare] [172.64.155.194] [cloudflare] [20.324072ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://blog.delphi.ai [301] [https://delphi.ai/] [167] [301 Moved Permanently] [cloudflare] [104.26.9.44] [cloudflare] [116.132625ms] [Cloudflare,HTTP/3]
+https://delphi.ai [301] [https://www.delphi.co/] [15] [Vercel] [64.239.109.1] [164.334127ms] [HSTS,Vercel]
+https://help.delphi.ai [301] [https://help.delphi.co/] [15] [Vercel] [64.239.109.193] [347.879593ms] [HSTS,Vercel]
+https://launches.delphi.ai [301] [https://www.delphi.co/blog] [167] [301 Moved Permanently] [cloudflare] [104.26.8.44] [cloudflare] [325.405295ms] [Cloudflare,HTTP/3]
+https://stream.decart.ai [301] [https://decart.stream] [56] [ip-10-124-5-162.us-west-2.compute.internal] [3.33.251.168] [2.270245721s]
+https://www.disneypinnacle.com [301] [https://disneypinnacle.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.32.62] [cloudflare] [1.134542909s] [Cloudflare,HSTS]
+https://www.delphi.ai [301] [https://www.delphi.co/] [15] [Vercel] [64.239.123.1] [2.131001595s] [HSTS,Vercel]
+
+## 302
+https://affiliate.delphi.ai [302] [https://affiliate.delphi.ai/signup] [0] [Caddy Heroku] [161.35.235.194] [565.002236ms] [HSTS]
+https://handbook.delphi.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fhandbook.delphi.ai%2F&nonce=364bdc49980a5173bd587c686f0b29ee3b4c0ae625dfb72ea4cf222cfb07ce35] [263] [Vercel] [64.239.109.129] [456.826345ms] [HSTS,Vercel]
+https://oasis.decart.ai [302] [/welcome] [0] [nginx/1.30.6] [3.223.77.146] [429.942888ms] [Nginx:1.30.6]
+https://oasis.us.decart.ai [302] [/welcome] [0] [nginx/1.30.6] [3.223.77.146] [484.508416ms] [Nginx:1.30.6]
+https://oracle.delphi.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Foracle.delphi.ai%2F&nonce=ccb2ac8639ff2c62e89655c223854d8b42b9acb2d78e08accb361b14c55cb474] [263] [cloudflare] [104.26.9.44] [cloudflare] [721.193598ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://support.disneypinnacle.com [302] [https://support.disneypinnacle.com/hc] [0] [cloudflare] [216.198.53.11] [302.99667ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+http://x.decart.ai [302] [https://reinvent.decart.ai/] [50] [ip-10-124-4-159.us-west-2.compute.internal] [15.197.225.128] [186.816222ms]
+
+## 307
+https://aspire.delphi.ai [307] [https://www.delphi.co/aspire] [15] [Vercel] [66.33.60.67] [145.057465ms] [HSTS,Vercel]
+https://anywhere.decart.ai [307] [https://anywear.decart.ai/] [15] [Vercel] [216.150.1.193] [186.140064ms] [HSTS,Vercel]
+https://adobe.decart.ai [307] [/login] [15] [Vercel] [76.76.21.21] [602.963806ms] [HSTS,Vercel]
+https://claim.delphi.ai [307] [https://www.delphi.ai] [7053] [Delphi] [Google Frontend] [34.111.179.208] [google] [324.771505ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://cosmic.decart.ai [307] [/login] [15] [Vercel] [216.150.1.129] [452.773441ms] [HSTS,Vercel]
+https://design.delphi.ai [307] [https://build.delphi.ai/] [15] [cloudflare] [104.26.8.44] [cloudflare] [405.646221ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://onyx.cogito.decart.ai [307] [https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&client_id=401915655534-budlqp1drc830lrit3netnbu190drduf.apps.googleusercontent.com&code_challenge=GlGadICRGS70rG_4wsxzXpVs4zahf4IimSCSf5Pllh8&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fus-central1-sourcemanagerredirector-pa.clients6.google.com%2Fv1%2Fredirect&response_type=code&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&state=7f025576-3d6e-4325-ab18-4fd55eff1e7e] [647] [] [136.69.13.111] [google] [470.11325ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://robotics.decart.ai [307] [/login] [15] [Vercel] [216.150.1.193] [2.418683131s] [HSTS,Vercel]
+https://watch.delphi.ai [307] [https://www.delphi.ai] [7053] [Delphi] [Google Frontend] [34.111.179.208] [google] [1.189985155s] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+
+## 308
+https://about.decart.ai [308] [https://decart.ai/] [15] [Vercel] [216.150.1.193] [173.050065ms] [HSTS,Vercel]
+https://ad-studio.decart.ai [308] [https://ad-studio.decart.dev/] [15] [Vercel] [66.33.60.129] [208.322032ms] [HSTS,Vercel]
+https://admin.delphi.ai [308] [https://admin.delphi.co/] [15] [Vercel] [64.239.123.193] [342.484243ms] [HSTS,Vercel]
+https://beta.decart.ai [308] [https://decart.ai/] [15] [Vercel] [216.150.1.1] [390.963635ms] [HSTS,Vercel]
+https://content.delphi.ai [308] [https://content.delphi.co/] [15] [Vercel] [64.239.123.193] [139.400034ms] [HSTS,Vercel]
+https://docs.cogito.decart.ai [308] [/getting-started/overview] [0] [cloudflare] [172.66.3.9] [cloudflare] [570.452957ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://docs.platform.decart.ai [308] [/getting-started/overview] [0] [Vercel] [66.33.60.66] [587.71103ms] [Cloudflare,HSTS,Vercel]
+https://studio.delphi.ai [308] [https://www.delphi.co/auth] [15] [Vercel] [66.33.60.194] [2.115598088s] [HSTS,Vercel]
+https://www.decart.ai [308] [https://decart.ai/] [15] [Vercel] [216.150.1.193] [1.120448321s] [HSTS,Vercel]
+http://variants.decart.ai [308] [https://variants.decart.ai/] [14] [Vercel] [216.150.1.193] [2.12149259s] [Vercel]
+
+## 401
+https://finance.delphi.ai [401] [] [1922] [Runway · sign in] [Vercel] [66.33.60.67] [1.379466613s] [HSTS,Vercel]
+https://obsidian.cogito.decart.ai [401] [] [581] [401 Authorization Required] [nginx/1.27.5] [34.217.254.155] [350.017016ms] [Nginx:1.27.5]
+
+## 403
+https://cdn.delphi.ai [403] [] [146] [CloudFront] [3.169.173.20] [cloudfront] [121.813629ms] [Amazon CloudFront,Amazon Web Services]
+https://schist.cogito.decart.ai [403] [] [555] [403 Forbidden] [nginx/1.31.2] [166.19.90.86] [2.282349324s] [Nginx:1.31.2]
+https://videos.decart.ai [403] [] [111] [AmazonS3] [3.169.173.41] [cloudfront] [1.41357912s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+
+## 404
+https://api.decart.ai [404] [] [22] [nginx/1.30.6] [44.250.122.86] [112.89038ms] [Nginx:1.30.6]
+https://api.dos-arena.decart.ai [404] [] [13] [] [32.185.210.101] [125.702892ms]
+https://api3.decart.ai [404] [] [22] [nginx/1.30.6] [44.250.122.86] [127.201208ms] [Nginx:1.30.6]
+https://api-aws-us-west-2.cogito.decart.ai [404] [] [142] [] [35.80.132.159] [145.567294ms]
+https://api.cogito.decart.ai [404] [] [142] [] [35.80.132.159] [148.885263ms]
+https://api-gcp-us-central1.cogito.decart.ai [404] [] [142] [] [35.186.252.239] [google] [162.942749ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api.staging.cogito.decart.ai [404] [] [142] [] [52.41.190.174] [179.738322ms]
+https://api.delphi.ai [404] [] [13] [Vercel] [64.239.123.65] [217.164851ms] [HSTS,Vercel]
+https://auth.delphi.ai [404] [] [0] [Vercel] [64.239.123.65] [227.72068ms] [HSTS,Vercel]
+https://billing.delphi.ai [404] [] [107] [cloudflare] [172.67.69.226] [cloudflare] [319.882519ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://api2.decart.ai [404] [] [0] [] [34.144.243.53] [google] [637.979392ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://asia.api3.decart.ai [404] [] [555] [404 Not Found] [nginx/1.30.6] [16.112.53.131] [657.941168ms] [Nginx:1.30.6]
+https://asia1.api3.decart.ai [404] [] [153] [404 Not Found] [nginx/1.30.6] [18.60.189.133] [668.124553ms] [Nginx:1.30.6]
+https://cms.delphi.ai [404] [] [7496] [404: This page could not be found.] [Vercel] [64.239.123.65] [381.530285ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://data.delphi.ai [404] [] [21] [awselb/2.0] [44.211.15.21] [331.113707ms] [Amazon ELB,Amazon Web Services]
+https://email.delphi.ai [404] [] [0] [] [34.117.153.222] [google] [206.315695ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://cs.delphi.ai [404] [] [107] [cloudflare] [104.26.8.44] [cloudflare] [730.177968ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://email.decart.ai [404] [] [0] [] [34.117.153.222] [google] [298.294032ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://email.broadcast.delphi.ai [404] [] [0] [] [34.117.153.222] [google] [329.345819ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://eu.api3.decart.ai [404] [] [153] [404 Not Found] [nginx/1.30.6] [13.49.140.70] [724.693857ms] [Nginx:1.30.6]
+https://gw.lkc.decart.ai [404] [] [0] [awselb/2.0] [32.189.253.6] [322.660768ms] [Amazon ELB,Amazon Web Services]
+https://mail.disneypinnacle.com [404] [] [0] [cloudflare] [104.18.32.62] [cloudflare] [222.982211ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://link.delphi.ai [404] [] [13] [Vercel] [64.239.123.1] [380.067777ms] [HSTS,Vercel]
+https://interview.agents.delphi.ai [404] [] [13] [cloudflare] [104.26.9.44] [cloudflare] [621.866439ms] [Cloudflare,HTTP/3]
+https://mail.preview.delphi.ai [404] [] [107] [Vercel] [66.33.60.130] [246.073173ms] [HSTS,Vercel]
+https://m.delphi.ai [404] [] [107] [cloudflare] [172.67.69.226] [cloudflare] [476.939738ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://network-indexing-staging.delphi.ai [404] [] [22] [uvicorn] [3.222.72.36] [576.240533ms] [Python,Uvicorn]
+https://obs-ingest.api3.decart.ai [404] [] [0] [awselb/2.0] [52.89.209.76] [563.028809ms] [Amazon ELB,Amazon Web Services]
+https://oasis3.decart.ai [404] [] [107] [Vercel] [216.150.16.193] [858.077819ms] [HSTS,Vercel]
+https://prototypes.delphi.ai [404] [] [27511] [Not Found] [cloudflare] [172.67.69.226] [cloudflare] [206.826462ms] [Cloudflare,Cloudflare Browser Insights]
+https://preprod.api3.decart.ai [404] [] [22] [nginx/1.30.6] [35.83.199.54] [4.103986769s] [Nginx:1.30.6]
+https://router-cw.api3.decart.ai [404] [] [22] [nginx/1.31.2] [166.19.90.86] [2.316378681s] [Nginx:1.31.2]
+https://router-gb300.api3.decart.ai [404] [] [153] [404 Not Found] [nginx/1.30.6] [89.169.103.135] [2.578614601s] [Nginx:1.30.6]
+https://router-il.api3.decart.ai [404] [] [22] [] [46.243.146.44] [4.638615061s] [HSTS]
+https://us-east.api3.decart.ai [404] [] [22] [nginx/1.31.2] [166.19.90.86] [287.375319ms] [Nginx:1.31.2]
+https://us-west.api3.decart.ai [404] [] [22] [nginx/1.30.6] [44.250.122.86] [1.130141555s] [Nginx:1.30.6]
+https://trust.delphi.ai [404] [] [23734] [SafeBase] [cloudflare] [104.18.5.130] [cloudflare] [4.176710366s] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud CDN,Google Cloud Trace,HSTS,Linkedin Ads,PayPal]
+https://www.preview.delphi.ai [404] [] [107] [Vercel] [66.33.60.193] [5.083008725s] [HSTS,Vercel]
+
+## 500
+
+## 502
+https://cs-api.delphi.ai [502] [] [16] [cloudflare] [104.26.8.44] [cloudflare] [260.009736ms] [Cloudflare,HTTP/3]
+
+## 503
+

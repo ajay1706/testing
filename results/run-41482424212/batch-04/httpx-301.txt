@@ -1,0 +1,8 @@
+http://argocd.production.disneypinnacle.com [301] [https://argocd.production.disneypinnacle.com/] [528] [301 Moved Permanently] [cloudflare] [172.64.155.194] [cloudflare] [20.324072ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://blog.delphi.ai [301] [https://delphi.ai/] [167] [301 Moved Permanently] [cloudflare] [104.26.9.44] [cloudflare] [116.132625ms] [Cloudflare,HTTP/3]
+https://delphi.ai [301] [https://www.delphi.co/] [15] [Vercel] [64.239.109.1] [164.334127ms] [HSTS,Vercel]
+https://help.delphi.ai [301] [https://help.delphi.co/] [15] [Vercel] [64.239.109.193] [347.879593ms] [HSTS,Vercel]
+https://launches.delphi.ai [301] [https://www.delphi.co/blog] [167] [301 Moved Permanently] [cloudflare] [104.26.8.44] [cloudflare] [325.405295ms] [Cloudflare,HTTP/3]
+https://stream.decart.ai [301] [https://decart.stream] [56] [ip-10-124-5-162.us-west-2.compute.internal] [3.33.251.168] [2.270245721s]
+https://www.disneypinnacle.com [301] [https://disneypinnacle.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.32.62] [cloudflare] [1.134542909s] [Cloudflare,HSTS]
+https://www.delphi.ai [301] [https://www.delphi.co/] [15] [Vercel] [64.239.123.1] [2.131001595s] [HSTS,Vercel]
