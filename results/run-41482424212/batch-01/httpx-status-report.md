@@ -1,0 +1,121 @@
+# HTTPX Status Report
+
+Generated at: Mon Nov  2 16:38:17 UTC 2026
+
+HTTPX lines: 106
+Live URLs: 106
+
+## 200
+https://api.audius.co [200] [] [160] [cloudflare] [104.18.24.162] [cloudflare] [58.559655ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://artist-coins.audius.co [200] [] [6347] [cloudflare] [104.18.25.162] [cloudflare] [63.801233ms] [Cloudflare,Cloudflare Bot Management,Google Analytics]
+https://audius.co [200] [] [20987] [Audius — Free Music Streaming for Artists, Labels & Fans] [cloudflare] [104.18.25.162] [cloudflare] [30.821062ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,React]
+https://app-dashboard.audius.co [200] [] [1589] [Audius App Metrics Dashboard] [cloudflare] [104.18.24.162] [cloudflare] [171.061112ms] [Cloudflare,Cloudflare Bot Management]
+https://bridge.audius.co [200] [] [7184] [cloudflare] [104.18.24.162] [cloudflare] [93.222487ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,React]
+https://303.audius.co [200] [] [18946] [TB-303 Bass Line] [cloudflare] [104.18.25.162] [cloudflare] [135.23202ms] [Cloudflare,Cloudflare Bot Management,jsDelivr]
+https://brand.audius.co [200] [] [93886] [Home | Audius Brand Resources] [cloudflare] [104.18.25.162] [cloudflare] [106.263298ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,Google Font API,Google Hosted Libraries,jQuery:3.5.1]
+https://bitems.audius.co [200] [] [265231] [cloudflare] [104.18.24.162] [cloudflare] [129.587264ms] [Cloudflare,Cloudflare Bot Management]
+https://careers.brainly.com [200] [] [391483] [Careers at Brainly - Brainly] [cloudflare] [104.16.123.107] [cloudflare] [307.260739ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://blog.audius.co [200] [] [257213] [Audius Blog | New Music, Artist Stories & Scene Culture] [Vercel] [216.150.1.193] [227.899569ms] [Adobe Fonts,HSTS,Next.js,Node.js,React,Typekit,Vercel,Webpack]
+https://compare.audius.co [200] [] [382351] [Audius vs The Industry | Compare Music Streaming Platforms | Audius Compare] [Vercel] [216.150.16.193] [324.282994ms] [Adobe Fonts,HSTS,Typekit,Vercel]
+https://catalyst.app [200] [] [380602] [Catalyst | Intelligence at Your Fingertips] [cloudflare] [216.24.57.1] [76.378022ms] [Cloudflare,HTTP/3,hCaptcha]
+https://discoveryprovider.audius.co [200] [] [159] [cloudflare] [104.18.25.162] [cloudflare] [1.149369423s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://design.brainly.com [200] [] [58303] [PENCIL · zeroheight] [] [52.51.23.169] [3.570392203s] [Appcues,HSTS,Ruby,Ruby on Rails]
+https://distro.audius.co [200] [] [1642] [Audius Distro] [cloudflare] [104.18.24.162] [cloudflare] [5.131703863s] [Cloudflare,Cloudflare Bot Management,jsDelivr]
+https://distro.staging.audius.co [200] [] [1635] [Audius Distro] [cloudflare] [104.18.25.162] [cloudflare] [5.155750656s] [Cloudflare,Cloudflare Bot Management,jsDelivr]
+https://docs.audius.co [200] [] [25979] [Getting Started – Audius Developer Docs] [cloudflare] [104.18.25.162] [cloudflare] [4.21399483s] [Cloudflare,Cloudflare Bot Management]
+https://engineering.audius.co [200] [] [84449] [Audius Engineering Blog | Audius Engineering Blog] [cloudflare] [104.18.25.162] [cloudflare] [6.166694293s] [Cloudflare,Cloudflare Bot Management,Docusaurus:3.5.2,React,Webpack]
+https://faucet.staging.audius.co [200] [] [771] [Staging wAUDIO Faucet] [cloudflare] [172.66.44.218] [cloudflare] [1.146250983s] [Cloudflare,HTTP/3,jsDelivr]
+https://fp.audius.co [200] [] [0] [] [3.33.177.44] [4.028601278s] [HSTS]
+https://help.audius.co [200] [] [134923] [Audius Help Center] [Vercel] [216.150.16.1] [1.082310502s] [HSTS,Vercel]
+https://harmony.audius.co [200] [] [6752] [@storybook/cli - Storybook] [cloudflare] [104.18.25.162] [cloudflare] [5.063350095s] [Cloudflare,Cloudflare Bot Management]
+https://jd.audius.co [200] [] [6347] [cloudflare] [104.18.25.162] [cloudflare] [6.074723324s] [Cloudflare,Cloudflare Bot Management,Google Analytics]
+https://marcus.audius.co [200] [] [7186] [cloudflare] [104.18.25.162] [cloudflare] [5.091067717s] [Cloudflare,Cloudflare Bot Management,Google Analytics,React]
+https://redirect.audius.co [200] [] [20920] [Audius — Free Music Streaming for Artists, Labels & Fans] [cloudflare] [104.18.24.162] [cloudflare] [2.054978621s] [Cloudflare,Cloudflare Bot Management,Google Analytics,React]
+https://staging.catalyst.app [200] [] [56243] [Catalyst] [cloudflare] [216.24.57.18] [196.287265ms] [Cloudflare,HTTP/3,Next.js,Node.js,React,Render,Webpack,hCaptcha]
+https://status.brainly.com [200] [] [107164] [Brainly Status] [AtlassianEdge] [3.170.3.105] [cloudfront] [1.521982591s] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://textbook-solutions.brainly.com [200] [] [3286] [Brainly CMS] [cloudflare] [104.16.123.107] [cloudflare] [3.204434931s] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Google Tag Manager,HSTS]
+https://tutorapp.brainly.com [200] [] [2675] [tutor] [cloudflare] [104.16.124.107] [cloudflare] [7.203294855s] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://yak.audius.co [200] [] [3283] [$YAK by Kodak Black | Audius Music] [cloudflare] [104.18.25.162] [cloudflare] [1.145240215s] [Cloudflare,Cloudflare Bot Management]
+
+## 301
+https://blog.brainly.com [301] [https://brainly.com/insights/] [167] [301 Moved Permanently] [cloudflare] [104.16.123.107] [cloudflare] [45.697611ms] [Cloudflare,HSTS]
+https://creatornode.audius.co [301] [/console] [0] [cloudflare] [104.18.24.162] [cloudflare] [147.658871ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://content-node.audius.co [301] [https://content-node.audius.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.25.162] [cloudflare] [14.058175ms] [Cloudflare,Cloudflare Bot Management]
+http://ddex.audius.co [301] [https://ddex.audius.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.25.162] [cloudflare] [1.029235023s] [Cloudflare,Cloudflare Bot Management]
+http://download.audius.co [301] [https://download.audius.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.25.162] [cloudflare] [6.034262196s] [Cloudflare,Cloudflare Bot Management]
+http://faq-pl.brainly.com [301] [https://faq-pl.brainly.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.0.145] [cloudflare] [3.083125796s] [Cloudflare,Cloudflare Bot Management]
+https://insights.brainly.com [301] [https://brainly.com/insights/] [167] [301 Moved Permanently] [cloudflare] [104.16.123.107] [cloudflare] [3.037700709s] [Cloudflare,HSTS]
+http://general-admission.audius.co [301] [https://general-admission.audius.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.25.162] [cloudflare] [12.830604ms] [Cloudflare,Cloudflare Bot Management]
+http://hedgehog.audius.co [301] [https://hedgehog.audius.org] [167] [301 Moved Permanently] [cloudflare] [104.18.24.162] [cloudflare] [3.058501861s] [Cloudflare,Cloudflare Bot Management]
+http://insights.audius.co [301] [https://insights.audius.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.24.162] [cloudflare] [3.039467304s] [Cloudflare,Cloudflare Bot Management]
+http://launchcollectible.audius.co [301] [https://launchcollectible.audius.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.25.162] [cloudflare] [1.036356388s] [Cloudflare,Cloudflare Bot Management]
+http://jay.audius.co [301] [https://jay.audius.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.25.162] [cloudflare] [3.067162129s] [Cloudflare,Cloudflare Bot Management]
+http://media.brainly.com [301] [https://media.brainly.com:443/] [495] [301 Moved Permanently] [cloudflare] [104.16.124.107] [cloudflare] [5.135032626s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+http://parents.brainly.com [301] [https://parents.brainly.com:443/] [495] [301 Moved Permanently] [cloudflare] [104.16.124.107] [cloudflare] [170.528848ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://support.audius.co [301] [https://help.audius.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.24.162] [cloudflare] [103.721921ms] [Cloudflare]
+https://remix.audius.co [301] [https://audius.events] [167] [301 Moved Permanently] [cloudflare] [104.18.25.162] [cloudflare] [5.069091832s] [Cloudflare,Cloudflare Bot Management]
+http://notifier.audius.co [301] [https://notifier.audius.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.25.162] [cloudflare] [5.023896011s] [Cloudflare,Cloudflare Bot Management]
+http://proxy.audius.co [301] [https://proxy.audius.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.24.162] [cloudflare] [56.299285ms] [Cloudflare,Cloudflare Bot Management]
+https://universe.brainly.com [301] [https://universe.z-dn.net/] [167] [301 Moved Permanently] [cloudflare] [104.16.123.107] [cloudflare] [2.06247294s] [Cloudflare,HSTS]
+http://styleguide-dev.brainly.com [301] [https://styleguide-dev.brainly.com/] [167] [301 Moved Permanently] [cloudflare] [104.16.124.107] [cloudflare] [1.025347767s] [Cloudflare]
+http://styleguide.brainly.com [301] [https://styleguide.brainly.com/] [167] [301 Moved Permanently] [cloudflare] [104.16.124.107] [cloudflare] [3.024995758s] [Cloudflare]
+https://www.brainly.com [301] [https://brainly.com/] [167] [301 Moved Permanently] [cloudflare] [104.16.124.107] [cloudflare] [5.054600578s] [Cloudflare,HSTS]
+
+## 302
+https://bounce.parents.brainly.com [302] [/login/?referrer=%2F] [0] [nginx] [76.223.74.74] [451.949323ms] [Envoy,HSTS,Nginx]
+https://community.brainly.com [302] [https://community-pages-wordpress.external.blogs-production.z-dn.net/] [0] [cloudflare] [104.16.123.107] [cloudflare] [218.887358ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://decks.audius.co [302] [/signup] [29] [Heroku] [15.197.253.240] [5.231980026s] [Express,Node.js]
+https://faq-fr.brainly.com [302] [https://faq-fr.brainly.com/support/home] [105] [cloudflare] [172.66.0.145] [cloudflare] [2.32024552s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://faq-br.brainly.com [302] [https://faq-br.brainly.com/support/home] [105] [cloudflare] [172.66.0.145] [cloudflare] [3.375401891s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://faq-hi.brainly.com [302] [https://faq-hi.brainly.com/support/home] [105] [cloudflare] [162.159.140.147] [cloudflare] [3.210999576s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://faq-id.brainly.com [302] [https://faq-id.brainly.com/support/home] [105] [cloudflare] [172.66.0.145] [cloudflare] [2.287477333s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://faq-us.brainly.com [302] [https://faq-us.brainly.com/support/home] [105] [cloudflare] [162.159.140.147] [cloudflare] [2.365049896s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://faq-latam.brainly.com [302] [https://faq-latam.brainly.com/support/home] [108] [cloudflare] [162.159.140.147] [cloudflare] [5.354868632s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://faq-ru.brainly.com [302] [https://faq-ru.brainly.com/support/home] [105] [cloudflare] [162.159.140.147] [cloudflare] [4.358743106s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://link.audius.co [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=link.audius.co] [112] [nginx] [67.199.248.13] [1.111320026s] [HSTS,HTTP/3,Nginx]
+https://s.audius.co [302] [/welcome/] [0] [cloudflare] [104.18.24.162] [cloudflare] [3.127576438s] [Algolia,Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud CDN]
+
+## 307
+https://answer-platform-content-ops.brainly.com [307] [/login] [6] [cloudflare] [104.16.124.107] [cloudflare] [468.407521ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://get.brainly.com [307] [https://get.fnlfx.com/index] [0] [cloudflare] [104.16.124.107] [cloudflare] [1.22164425s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://teachers.brainly.com [307] [/teacher-early-access] [21] [cloudflare] [104.16.124.107] [cloudflare] [2.158637378s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.trade.catalyst.app [307] [https://trade.catalyst.app] [26] [cloudflare] [216.24.57.16] [3.161047449s] [Cloudflare,HTTP/3,Render]
+
+## 308
+http://status.audius.co [308] [https://status.audius.co/] [0] [Caddy] [142.132.149.97] [2.280878999s] [Caddy]
+
+## 401
+https://dn3.lb.audius.co [401] [] [157] [] [34.121.217.14] [google] [5.104259118s]
+
+## 403
+https://brainly.com [403] [] [5710] [Just a moment...] [cloudflare] [104.16.124.107] [cloudflare] [34.429651ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://teachers-community.brainly.com [403] [] [17349] [Verifying you are a human] [cloudflare] [172.64.148.115] [cloudflare] [6.068578525s] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+
+## 404
+https://api.catalyst.app [404] [] [15] [cloudflare] [216.24.57.18] [199.434014ms] [Cloudflare,HTTP/3]
+https://api-textbook-solutions.brainly.com [404] [] [18] [cloudflare] [104.16.124.107] [cloudflare] [199.762506ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://collectibles.audius.co [404] [] [0] [cloudflare] [104.18.25.162] [cloudflare] [132.342265ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://chrome-extensions.brainly.com [404] [] [3024] [404: This page could not be found] [cloudflare] [104.16.124.107] [cloudflare] [231.968255ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://creatornode3.audius.co [404] [] [1260] [404 Not Found] [cloudflare] [104.18.25.162] [cloudflare] [156.414297ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://creatornode2.audius.co [404] [] [1662] [404 Not Found] [cloudflare] [104.18.25.162] [cloudflare] [201.620778ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://free.brainly.com [404] [] [47] [cloudflare] [104.16.123.107] [cloudflare] [1.104936049s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://jup.audius.co [404] [] [0] [cloudflare] [104.18.24.162] [cloudflare] [2.085998884s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management]
+https://identityservice.audius.co [404] [] [1253] [Error] [cloudflare] [104.18.24.162] [cloudflare] [7.082634162s] [Cloudflare,Cloudflare Bot Management,Express,HSTS,Node.js]
+https://privy.staging.catalyst.app [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [2.274256569s] [Cloudflare,Cloudflare Bot Management]
+https://pr-407.preview.catalyst.app [404] [] [705] [Not found] [] [3.149.33.127] [5.099957209s]
+https://privy.staging1.catalyst.app [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [3.106503266s] [Cloudflare,Cloudflare Bot Management]
+https://r.catalyst.app [404] [] [105] [cloudflare] [104.20.19.245] [cloudflare] [3.142974297s] [Cloudflare,HSTS]
+https://search.catalyst.app [404] [] [101] [railway-hikari] [69.46.46.17] [2.028013927s]
+https://question-matching-textbook-solutions.brainly.com [404] [] [18] [cloudflare] [104.16.124.107] [cloudflare] [5.166184483s] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://shedinja.brainly.com [404] [] [3098] [404: This page could not be found] [cloudflare] [104.16.123.107] [cloudflare] [3.178069766s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://staging-api.catalyst.app [404] [] [15] [cloudflare] [216.24.57.16] [3.112088681s] [Cloudflare,HTTP/3]
+https://unified-search.brainly.com [404] [] [24] [cloudflare] [104.16.123.107] [cloudflare] [2.21767785s] [Cloudflare,Cloudflare Bot Management,HSTS,Zipkin]
+
+## 500
+https://eth.audius.co [500] [] [17] [cloudflare] [104.18.25.162] [cloudflare] [1.28564474s] [Cloudflare]
+
+## 502
+
+## 503
+https://preprod.catalyst.app [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [98.82.206.63] [3.024996625s] [Amazon ELB,Amazon Web Services]
+

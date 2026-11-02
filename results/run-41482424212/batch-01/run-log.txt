@@ -1,0 +1,14 @@
+[+] Batch started: Mon Nov  2 16:34:23 UTC 2026
+[+] Run ID: 41482424212
+[+] Batch name: batch-01
+[+] Batch targets:
+audius.co
+brainly.com
+catalyst.app
+[+] Running subfinder...
+[+] Subfinder completed: Mon Nov  2 16:36:25 UTC 2026
+[+] HTTPX input count: 479
+[+] Running httpx...
+[+] httpx completed: Mon Nov  2 16:38:17 UTC 2026
+[+] httpx line count: 106
+[+] Batch completed: Mon Nov  2 16:38:17 UTC 2026
