@@ -1,0 +1,7 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.character.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.character.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.cloud.seaart.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.cloud.seaart.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.data.ohio.research.lumalabs.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.data.ohio.research.lumalabs.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[expired-ssl] [ssl] [low] www.cloud.seaart.ai:443 ["2026-10-25 08:19:17 +0000 UTC"]
