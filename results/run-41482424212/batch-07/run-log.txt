@@ -1,0 +1,14 @@
+[+] Batch started: Mon Nov  2 16:38:51 UTC 2026
+[+] Run ID: 41482424212
+[+] Batch name: batch-07
+[+] Batch targets:
+imgnai.com
+kamino.com
+layer3.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Mon Nov  2 16:40:38 UTC 2026
+[+] HTTPX input count: 259
+[+] Running httpx...
+[+] httpx completed: Mon Nov  2 16:41:14 UTC 2026
+[+] httpx line count: 84
+[+] Batch completed: Mon Nov  2 16:41:14 UTC 2026
