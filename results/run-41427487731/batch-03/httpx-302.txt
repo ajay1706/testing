@@ -1,0 +1,1 @@
+https://staging.app.predicate.io [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.app.predicate.io%2F&nonce=283e98ccbdf861b0760c08bfbfe7cf9386989da1c95555fed85c916c4b68b64e] [263] [Vercel] [216.150.16.1] [495.770124ms] [HSTS,Vercel]

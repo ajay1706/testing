@@ -1,0 +1,3 @@
+https://docs.predicate.io [308] [/v2/essentials/overview] [0] [Vercel] [66.33.60.129] [361.65699ms] [Cloudflare,HSTS,Vercel]
+https://www.predicate.io [308] [https://predicate.io/] [57] [Framer/ad3cf8f] [31.43.160.6] [310.670641ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.spicenet.io [308] [https://spicenet.io/] [15] [Vercel] [216.150.1.129] [351.14188ms] [HSTS,Vercel]
