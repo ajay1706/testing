@@ -1,0 +1,8 @@
+https://blog.delphi.ai [301] [https://delphi.ai/] [167] [301 Moved Permanently] [cloudflare] [104.26.8.44] [cloudflare] [63.465039ms] [Cloudflare,HTTP/3]
+http://argocd.production.disneypinnacle.com [301] [https://argocd.production.disneypinnacle.com/] [528] [301 Moved Permanently] [cloudflare] [172.64.155.194] [cloudflare] [19.14098ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://delphi.ai [301] [https://www.delphi.co/] [15] [Vercel] [64.239.123.65] [227.357995ms] [HSTS,Vercel]
+https://help.delphi.ai [301] [https://help.delphi.co/] [15] [Vercel] [64.239.123.65] [285.961284ms] [HSTS,Vercel]
+https://launches.delphi.ai [301] [https://www.delphi.co/blog] [167] [301 Moved Permanently] [cloudflare] [104.26.8.44] [cloudflare] [342.368878ms] [Cloudflare,HTTP/3]
+http://oasis.us.decart.ai [301] [https://oasis.decart.ai/] [162] [301 Moved Permanently] [nginx] [3.223.77.146] [1.045266312s] [Nginx]
+http://router-cw.api3.decart.ai [301] [https://router-cw.api3.decart.ai:443/] [169] [301 Moved Permanently] [nginx/1.31.2] [166.19.90.86] [4.061186298s] [Nginx:1.31.2]
+http://support.disneypinnacle.com [301] [https://support.disneypinnacle.com/] [167] [301 Moved Permanently] [cloudflare] [216.198.53.11] [4.099601326s] [Cloudflare,Cloudflare Bot Management]

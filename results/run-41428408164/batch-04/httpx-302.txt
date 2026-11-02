@@ -1,0 +1,5 @@
+https://affiliate.delphi.ai [302] [https://affiliate.delphi.ai/signup] [0] [Caddy Heroku] [161.35.235.194] [493.895879ms] [HSTS]
+https://handbook.delphi.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fhandbook.delphi.ai%2F&nonce=99acefda1656f9635c4eeccce088e0efb1b3baf731ae172d20e6113981f8d878] [263] [Vercel] [64.239.123.1] [270.509018ms] [HSTS,Vercel]
+https://oasis.decart.ai [302] [/welcome] [0] [nginx/1.30.6] [3.223.77.146] [1.038219881s] [Nginx:1.30.6]
+https://oracle.delphi.ai [302] [https://vercel.com/sso-api?url=https%3A%2F%2Foracle.delphi.ai%2F&nonce=65dee0427985afedea597a79e18a868b409aba7780448bcdb3e477c9b6cf24da] [263] [cloudflare] [172.67.69.226] [cloudflare] [2.198369546s] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://x.decart.ai [302] [https://reinvent.decart.ai/] [50] [ip-10-123-124-212.ec2.internal] [3.33.251.168] [62.808652ms]
