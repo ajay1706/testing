@@ -1,0 +1,21 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] identity-dev.predicate.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] landing.luxor.tech:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] landing.luxor.tech:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] identity-dev.predicate.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mcp.marketnode.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mcp.marketnode.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ph.hyperbolic.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ph.hyperbolic.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.hyperbolic.ai/metrics ["12.3.1"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.staging.hyperbolic.ai/metrics ["12.3.1"]
+[kubernetes-metrics] [http] [low] https://grafana.hyperbolic.ai/metrics
+[kubernetes-metrics] [http] [low] https://grafana.staging.hyperbolic.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.hyperbolic.ai/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.staging.hyperbolic.ai/metrics
+[unauthenticated-varnish-cache-purge] [http] [low] https://mail.marketnode.com
+[expired-ssl] [ssl] [low] grafana.vanguard.corp.luxor.tech:443 ["2026-08-25 16:54:15 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] grafana.vanguard.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] grafana.vanguard.corp.luxor.tech:443
+[expired-ssl] [ssl] [low] explore.predicate.io:443 ["2026-04-08 08:43:44 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] mail.dtm.corp.luxor.tech:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] mail.dtm.corp.luxor.tech:443
