@@ -1,0 +1,2 @@
+[CVE-2026-24207] [http] [critical] https://staging.api.recraft.ai/models
+[CVE-2026-24207] [http] [critical] https://staging.jobapi.recraft.ai/models
