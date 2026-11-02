@@ -1,0 +1,2 @@
+[kubernetes-fake-certificate] [ssl] [low] wildcard.dev.seaart.ai:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] wildcard.dev.seaart.ai:443
