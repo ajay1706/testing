@@ -1,0 +1,66 @@
+# HTTPX Status Report
+
+Generated at: Mon Nov  2 16:41:51 UTC 2026
+
+HTTPX lines: 39
+Live URLs: 39
+
+## 200
+https://novu-ws.meeno.com [200] [] [12] [Caddy] [44.206.63.106] [257.798452ms] [Caddy,HSTS,HTTP/3]
+https://aura.meeno.com [200] [] [61] [uvicorn] [18.211.56.116] [301.413995ms] [Python,Uvicorn]
+https://node.meeno.com [200] [] [19] [] [54.159.109.6] [310.375808ms] [Express,Node.js]
+https://novu.meeno.com [200] [] [2614] [Novu Cloud Dashboard] [Caddy] [44.206.63.106] [341.738819ms] [Adobe Fonts,Caddy,HTTP/3,Typekit]
+https://meeno.com [200] [] [23915] [meeno] [Vercel] [76.76.21.21] [239.543782ms] [C3.js,HSTS,Vercel]
+https://assets-ue2.monkeytilt.com [200] [] [15786] [Image Optimizer Service] [cloudflare] [172.66.43.9] [cloudflare] [409.38709ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://blog.meeno.com [200] [] [179729] [Meeno] [Framer/ad3cf8f] [52.223.52.2] [209.807286ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React]
+https://app.myaipet.ai [200] [] [27580] [MY AI PET — Your Portable AI Companion] [nginx] [15.165.207.119] [472.200929ms] [HSTS,Nginx]
+https://open.meeno.com [200] [] [23915] [meeno] [Vercel] [66.33.60.129] [313.064926ms] [C3.js,HSTS,Vercel]
+https://staging-node.meeno.com [200] [] [19] [] [34.230.129.144] [275.381765ms] [Express,Node.js]
+https://staging.aura.meeno.com [200] [] [61] [uvicorn] [34.231.133.51] [299.321803ms] [Python,Uvicorn]
+https://staging.meeno.com [200] [] [23359] [meeno] [Vercel] [66.33.60.66] [152.661226ms] [HSTS,Vercel]
+https://shop.meeno.com [200] [] [11233] [Meeno Merch] [Vercel] [66.33.60.194] [530.756139ms] [HSTS,Vercel]
+https://myaipet.ai [200] [] [196708] [MY AI PET — Your Portable AI Companion] [nginx] [15.165.207.119] [720.687139ms] [HSTS,Nginx]
+https://www.myaipet.ai [200] [] [196708] [MY AI PET — Your Portable AI Companion] [nginx] [15.165.207.119] [766.965496ms] [HSTS,Nginx]
+
+## 301
+https://www.monkeytilt.com [301] [https://monkeytilt.com/] [523] [301 Moved Permanently] [cloudflare] [172.66.40.247] [cloudflare] [172.187281ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 302
+https://ibr.monkeytilt.com [302] [https://monkeytilt.cloudflareaccess.com/cdn-cgi/access/login/ibr.monkeytilt.com?kid=9017c4ebd042cc026e2de746ffd93223e58c7b47910924cf1ae481c7578c447c&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImU1OWYzYWUzNDVmZWI1YzM0MTJmNWQxYzM0ZWUwODZjNzI4NTNjNGFiZTRhOGIwZjQzNzIzYjJlZTkyMTgyNjYifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjkwMTdjNGViZDA0MmNjMDI2ZTJkZTc0NmZmZDkzMjIzZTU4YzdiNDc5MTA5MjRjZjFhZTQ4MWM3NTc4YzQ0N2MiLCJob3N0bmFtZSI6Imlici5tb25rZXl0aWx0LmNvbSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkzNjM3OTkxLCJuYmYiOjE3OTM2Mzc2OTEsImlhdCI6MTc5MzYzNzY5MSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjZmNWQ0Y2JjNDZmZTc4MjcyMGVkZWQzYjdhM2M2ZjgxODczOTc4MjQ2NzFjNDg3YmE5YTM0Y2FjOTFlOTY5MmIifQ.WOHgJt28q0v7_z8sDfJ4SJtRZsjUEWkkC1xT5mtjzskNydwDDiOcYUo71P9LxdmJ6CFgKUHi8T9l0PNMRHLkR2WCtBq-bNfsAU3FbGAzDW8NvhTw0WD5Ml832iMChrwbVayV1M0W10-7p0c4x6juLQogJzvRRPyOuoZsifii0rYIoqylokNQtteQeT3smUeY0Dtr9UbxfPdggiWHQZl8xHZGLOVQnlL1CRJ7cA0eBhdR3TKGL0jLlCMTNXpwfPwJe3r3qBdbdn-DisSm0ZqYE2BmtTjUqNZ6ls6JHmEqaqAlBgJko9M9JlGENDNH_sdkzlLwrrrx51v0QiSHwzapDQ&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.43.9] [cloudflare] [103.835806ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dev.monkeytilt.com [302] [https://monkeytilt.cloudflareaccess.com/cdn-cgi/access/login/dev.monkeytilt.com?kid=9017c4ebd042cc026e2de746ffd93223e58c7b47910924cf1ae481c7578c447c&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImU1OWYzYWUzNDVmZWI1YzM0MTJmNWQxYzM0ZWUwODZjNzI4NTNjNGFiZTRhOGIwZjQzNzIzYjJlZTkyMTgyNjYifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjkwMTdjNGViZDA0MmNjMDI2ZTJkZTc0NmZmZDkzMjIzZTU4YzdiNDc5MTA5MjRjZjFhZTQ4MWM3NTc4YzQ0N2MiLCJob3N0bmFtZSI6ImRldi5tb25rZXl0aWx0LmNvbSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkzNjM3OTkxLCJuYmYiOjE3OTM2Mzc2OTEsImlhdCI6MTc5MzYzNzY5MSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjQ5YTY2ZTAwNzE3Y2VjOWYxYjgyMDU5NDk1ZjA0NjVhMGY4ZDNlNThjN2E0M2Y0ZGM5YTQwNGI2Yzc4MTk5ZGQifQ.aTuhV2LR_B6GA_VLVy33GOdKW8Yyx__EipQWUJAHOxZwMdI4rloqpf6B5fi8wyw-LjOAU5kJIrVPbTYszByfizkTGdbb4hsIgNQS-y4FVvH_kMYBo-2bV4pw7Ll4CBECYwlpBMY4NXKE5XKK_9F1lWCD4vSU9US0VF5vcBy2JmU4WRGm0hR7UfqAFMa8d2hQKBRtosShY5OXAsz71xwDP6HkzhVOGfzNNF5e2HXvThTaC8DQ51Lvi6bhewyANuKN8NWED27UBgRP7E4VrSGo1ext_9-4Ss__EsyDQUkM7kcwuZi6TUEr7Jy4Ju-wkfVa7JPfqVyuKnwuFm31J3u4zw&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.40.247] [cloudflare] [108.350134ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://beta.monkeytilt.com [302] [https://monkeytilt.cloudflareaccess.com/cdn-cgi/access/login/beta.monkeytilt.com?kid=9017c4ebd042cc026e2de746ffd93223e58c7b47910924cf1ae481c7578c447c&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImU1OWYzYWUzNDVmZWI1YzM0MTJmNWQxYzM0ZWUwODZjNzI4NTNjNGFiZTRhOGIwZjQzNzIzYjJlZTkyMTgyNjYifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjkwMTdjNGViZDA0MmNjMDI2ZTJkZTc0NmZmZDkzMjIzZTU4YzdiNDc5MTA5MjRjZjFhZTQ4MWM3NTc4YzQ0N2MiLCJob3N0bmFtZSI6ImJldGEubW9ua2V5dGlsdC5jb20iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5MzYzNzk5MSwibmJmIjoxNzkzNjM3NjkxLCJpYXQiOjE3OTM2Mzc2OTEsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI1NDEwOWRjNGNkNGI5ZWViOGJiNDE0Mjk5YjJkNjBkYjY1Mzk5NjY2MmM5YTk1NmRjN2Q1NzZjNDNjMDBmZWU4In0.U0zjsqz8Y6pFWC2DH1kSJccmIsARdQn3sB_ydEQJzVoEZm9LynrKhHB6nPnjGEBsTVM4LJ-L6c16eaHIY7HdrGPpW2M9--n0c93vV6Hlizn0liEef6fHlMSnpNVHPERvGSjgsEPYk8GFeGrXApRho620J8TTG8mHb-DNLSyrHvqSeK3832lhT34QsPtbBO2TLuv-58JZaR5YeOeQ3rrJhncFQtahZlgpNWPi_cFNVI78cGV8WaAcxfqc68Lcw7eBt8a58LoP0QtsXKoQebhFsZfOhEuMf6MWGc-JJ_ruwsUf7hh3iIp9zq7T0KEotDWsaRb5NG78m4aE_ScpmXQZnA&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.43.9] [cloudflare] [136.114228ms] [Cloudflare,Cloudflare Browser Insights]
+https://monkeytilt.com [302] [/casino/] [0] [cloudflare] [172.66.43.9] [cloudflare] [171.971655ms] [Cloudflare,HSTS,HTTP/3]
+https://og-blackjack.monkeytilt.com [302] [https://monkeytilt.cloudflareaccess.com/cdn-cgi/access/login/og-blackjack.monkeytilt.com?kid=f45f0b569b13ca0b3fb1ce02b6c7f3dfadaec8e7df405b6944e387154d9a9658&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImU1OWYzYWUzNDVmZWI1YzM0MTJmNWQxYzM0ZWUwODZjNzI4NTNjNGFiZTRhOGIwZjQzNzIzYjJlZTkyMTgyNjYifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImY0NWYwYjU2OWIxM2NhMGIzZmIxY2UwMmI2YzdmM2RmYWRhZWM4ZTdkZjQwNWI2OTQ0ZTM4NzE1NGQ5YTk2NTgiLCJob3N0bmFtZSI6Im9nLWJsYWNramFjay5tb25rZXl0aWx0LmNvbSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkzNjM3OTkxLCJuYmYiOjE3OTM2Mzc2OTEsImlhdCI6MTc5MzYzNzY5MSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjM3NGM0NTE2NjFlY2ViMjU4MTBkYjliMjg2ZjMxMmNhODg2YjhhZDRmNjI0YTU4MjZkODgxMDBlMzRlZmIwZjQifQ.bMEvru0CwrYbL6PtU0bkDxWKoaMEnplcvQ53PXPPJx7aO-RLKrXtwgnHssren6zazwMzjLqKxqm9tq5y7W1ZspBs5WNHZ0byBMhEqdOq9agya0wQSI8lYZclgk2mZy_lliAyaQTpGX9VPJzjBH8Cmbxwf5OxUAj_1nBvodZiynCFhCae1xL9XFprleL1bI3Zk-e_TjoeKAkog0yIo2xHNF3wLR46qzk2wqQs6njc-ZuWAxMEsr88iVl5bt_mkFGUk_kJ85zekKzDSQ0lKWYF2ZQu_Q5CtIBEzENws7R-acvQ_U1WrnnavRXUG1YPDm04f6Rt7M4S4uMd_zfjK5MdFA&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.43.9] [cloudflare] [88.730414ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 307
+https://admin.meeno.com [307] [/login?callbackUrl=%2F] [15] [Vercel] [76.76.21.21] [503.739842ms] [HSTS,Vercel]
+https://staging-admin.meeno.com [307] [/login?callbackUrl=%2F] [15] [Vercel] [76.76.21.21] [251.230246ms] [HSTS,Vercel]
+
+## 308
+https://my.meeno.com [308] [https://meeno.com/] [15] [Vercel] [66.33.60.194] [377.091238ms] [HSTS,Vercel]
+https://www.meeno.com [308] [https://meeno.com/] [15] [Vercel] [66.33.60.130] [244.069456ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://slack-alerts.monkeytilt.com [403] [] [4909] [Attention Required! | Cloudflare] [cloudflare] [172.66.40.247] [cloudflare] [96.348876ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://og-static.monkeytilt.com [403] [] [111] [cloudflare] [172.66.40.247] [cloudflare] [397.408857ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HTTP/3]
+https://img.monkeytilt.com [403] [] [111] [cloudflare] [172.66.43.9] [cloudflare] [714.610734ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HTTP/3]
+https://static.monkeytilt.com [403] [] [111] [AmazonS3] [143.204.1.5] [cloudfront] [590.924219ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://assets.monkeytilt.com [404] [] [507] [404 Not Found] [cloudflare] [172.66.40.247] [cloudflare] [218.477295ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://link.meeno.com [404] [] [321] [openresty] [44.230.115.150] [240.93737ms] [HSTS,Nginx,OpenResty]
+https://novu-api.meeno.com [404] [] [158] [Caddy] [44.206.63.106] [316.994444ms] [Caddy,HSTS,HTTP/3]
+https://my-dev2.meeno.com [404] [] [107] [Vercel] [66.33.60.35] [570.603436ms] [HSTS,Vercel]
+https://my-dev3.meeno.com [404] [] [107] [Vercel] [76.76.21.22] [588.232549ms] [HSTS,Vercel]
+https://my-staging.meeno.com [404] [] [107] [Vercel] [66.33.60.129] [649.87429ms] [HSTS,Vercel]
+https://my-dev.meeno.com [404] [] [107] [Vercel] [66.33.60.129] [658.634461ms] [HSTS,Vercel]
+https://zeitgeist.meeno.com [404] [] [22] [uvicorn] [44.193.97.214] [224.460848ms] [Python,Uvicorn]
+
+## 500
+
+## 502
+
+## 503
+
