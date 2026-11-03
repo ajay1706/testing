@@ -1,0 +1,2 @@
+https://link.status.app [302] [https://status.im/] [0] [nginx] [65.21.94.86] [659.108544ms] [Nginx]
+https://www.status.app [302] [https://status.app/] [143] [302 Found] [cloudflare] [104.21.44.4] [cloudflare] [5.076603461s] [Cloudflare,HSTS,HTTP/3]

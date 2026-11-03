@@ -1,0 +1,104 @@
+# HTTPX Status Report
+
+Generated at: Tue Nov  3 09:40:10 UTC 2026
+
+HTTPX lines: 78
+Live URLs: 78
+
+## 200
+https://beta.term.finance [200] [] [3139] [Term Finance] [AmazonS3] [54.192.55.129] [cloudfront] [129.356561ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://backup.term.finance [200] [] [3595] [Term Finance] [AmazonS3] [52.85.40.107] [cloudfront] [405.877576ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://app.term.finance [200] [] [3139] [Term Finance] [AmazonS3] [13.249.141.23] [cloudfront] [606.610239ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://analyzer.app.term.finance [200] [] [1300] [Term Finance Wallet Analyzer] [AmazonS3] [18.64.183.29] [cloudfront] [623.272581ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://bd-automation.taskon.xyz [200] [] [588] [BD Automation Dashboard - TaskOn] [nginx/1.26.3] [43.134.85.10] [724.770416ms] [Nginx:1.26.3]
+https://analyzer.testnet.term.finance [200] [] [1300] [Term Finance Wallet Analyzer] [AmazonS3] [99.84.203.36] [cloudfront] [724.833626ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://airdrop-test.taskon.xyz [200] [] [4893] [Airdrop Tool - Discover the Most Efficient Airdrop Solution for Cryptocurrency Token Distribution] [cloudflare] [104.26.8.64] [cloudflare] [801.275684ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://curate.status.app [200] [] [388] [Community Directory Curation] [Vercel] [76.76.21.123] [156.398711ms] [HSTS,Vercel]
+https://chainscope.taskon.xyz [200] [] [23845] [ChainScope - BD Lead Discovery] [nginx/1.26.3] [43.134.85.10] [870.195943ms] [Nginx:1.26.3]
+https://crm-test.taskon.xyz [200] [] [2700] [TaskOn CRM] [] [43.163.41.120] [621.777387ms] [HSTS]
+https://blog.taskon.xyz [200] [] [163689] [] [43.156.88.244] [1.148109865s] [Bootstrap,Gravatar,HSTS,MySQL,PHP:8.3.36,WordPress Block Editor,WordPress:7.1.4,jQuery,jQuery Migrate:3.4.1]
+https://earn-test.taskon.xyz [200] [] [2390] [XXXX｜Best swap returns for decentralized crypto trading] [] [43.163.41.120] [643.282183ms] [HSTS]
+https://legacy.term.finance [200] [] [3139] [Term Finance] [AmazonS3] [18.172.134.45] [cloudfront] [177.918019ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://developers.term.finance [200] [] [390422] [Overview | Term Finance v1 Developer Documentation] [cloudflare] [104.18.40.47] [cloudflare] [366.978254ms] [C3.js,Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.term.finance [200] [] [350854] [Introduction to Term Finance | Term Finance v1] [cloudflare] [104.18.40.47] [cloudflare] [533.563952ms] [C3.js,Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://discuss.status.app [200] [] [270497] [Status.app] [cloudflare] [104.21.44.4] [cloudflare] [1.378414614s] [Cloudflare,Discourse:2026.8.0,HSTS,HTTP/3,Ruby on Rails]
+https://dev.status.app [200] [] [774488] [Status App | Private Messenger, Web3 Wallet & Browser] [cloudflare] [104.21.44.4] [cloudflare] [805.670537ms] [Cloudflare,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://get.status.app [200] [] [520207] [Status App | Private Messenger, Assets, Web Browser, Communities and more] [cloudflare] [172.67.192.139] [cloudflare] [979.771208ms] [Cloudflare,HSTS,HTTP/3]
+https://saas.taskon.xyz [200] [] [20278] [nginx/1.18.0 (Ubuntu)] [43.156.185.103] [2.634527287s] [Nginx:1.18.0,Ubuntu]
+https://status.app [200] [] [794375] [Status App | Private Messenger, Web3 Wallet & Browser] [cloudflare] [104.21.44.4] [cloudflare] [1.146971257s] [Cloudflare,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://status.sepolia.term.finance [200] [] [33580] [TermFinance - Testnet] [] [142.132.149.97] [2.624991683s] [HSTS,HTTP/3,UIKit,jQuery:3.7.1]
+https://status.mainnet.term.finance [200] [] [33580] [TermFinance - Mainnet] [] [142.132.149.97] [4.859321809s] [HSTS,HTTP/3,UIKit,jQuery:3.7.1]
+https://v2-preview.term.finance [200] [] [3139] [Term Finance] [AmazonS3] [99.86.77.23] [cloudfront] [177.451436ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://taskon.xyz [200] [] [24490] [TaskOn] [cloudflare] [104.26.8.64] [cloudflare] [1.839300199s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://whitelabel-demo-rainbowkit.taskon.xyz [200] [] [1877] [TaskOn Embed Demo] [cloudflare] [104.26.9.64] [cloudflare] [191.940381ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://testnet.term.finance [200] [] [3139] [Term Finance] [AmazonS3] [52.85.40.58] [cloudfront] [1.347513046s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://telegrambot.taskon.xyz [200] [] [449] [web] [nginx/1.26.3] [43.134.85.10] [1.700851029s] [Nginx:1.26.3]
+https://token-finder.taskon.xyz [200] [] [167846] [TokenFinder Admin Panel] [nginx/1.26.3] [43.134.85.10] [1.232430343s] [Nginx:1.26.3]
+https://testtaskonweb.taskon.xyz [200] [] [24566] [TaskOn] [cloudflare] [104.26.9.64] [cloudflare] [1.811327627s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://www.term.finance [200] [] [82684] [Term Finance - Fixed-rate Borrowing & Lending on ETH] [cloudflare] [198.202.211.1] [3.213064554s] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://xkeyword-monitor.taskon.xyz [200] [] [386] [TaskOn Keyword Monitor] [nginx/1.26.3] [43.134.85.10] [3.745371046s] [Nginx:1.26.3]
+
+## 301
+https://campaign.term.finance [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [384.182344ms] [Caddy,HTTP/3]
+http://gwstage.taskon.xyz [301] [https://gwstage.taskon.xyz/] [528] [301 Moved Permanently] [cloudflare] [104.26.9.64] [cloudflare] [21.397113ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://gwtest.taskon.xyz [301] [https://gwtest.taskon.xyz/] [528] [301 Moved Permanently] [cloudflare] [104.26.9.64] [cloudflare] [29.002396ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://saas-test-new.taskon.xyz [301] [https://saas-test-new.taskon.xyz/] [528] [301 Moved Permanently] [cloudflare] [172.66.47.92] [cloudflare] [2.126256395s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://term.finance [301] [https://www.term.finance/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [1.502181196s] [Cloudflare,HSTS,HTTP/3]
+https://www.taskon.xyz [301] [https://taskon.xyz/] [523] [301 Moved Permanently] [cloudflare] [104.26.9.64] [cloudflare] [795.247158ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://link.status.app [302] [https://status.im/] [0] [nginx] [65.21.94.86] [659.108544ms] [Nginx]
+https://www.status.app [302] [https://status.app/] [143] [302 Found] [cloudflare] [104.21.44.4] [cloudflare] [5.076603461s] [Cloudflare,HSTS,HTTP/3]
+
+## 307
+https://content.taskon.xyz [307] [/apps] [5] [nginx/1.26.3] [43.134.85.10] [689.596021ms] [Nginx:1.26.3]
+https://customer-signal.taskon.xyz [307] [/login] [4125] [TaskOn 销售智能系统] [nginx/1.26.3] [43.134.85.10] [840.272808ms] [Next.js,Nginx:1.26.3,Node.js,React,Webpack]
+https://finance.taskon.xyz [307] [/login] [6] [nginx/1.26.3] [43.134.85.10] [620.009778ms] [Nginx:1.26.3]
+https://kcis.taskon.xyz [307] [/login] [6] [nginx/1.26.3] [43.134.85.10] [628.863273ms] [Nginx:1.26.3]
+
+## 308
+http://status.avalanche.term.finance [308] [https://status.avalanche.term.finance/] [0] [Caddy] [142.132.149.97] [1.358646379s] [Caddy]
+
+## 401
+https://staging.term.finance [401] [] [0] [] [13.226.53.109] [cloudfront] [6.321593327s] [Amazon CloudFront,Amazon Web Services,Basic,HTTP/3]
+
+## 403
+https://label-studio.taskon.xyz [403] [] [153] [403 Forbidden] [nginx/1.26.3] [43.134.85.10] [693.374514ms] [Nginx:1.26.3]
+https://img.taskon.xyz [403] [] [453] [cloudflare] [172.67.74.142] [cloudflare] [1.011508835s] [Cloudflare,HTTP/3]
+
+## 404
+https://api.taskon.xyz [404] [] [19] [cloudflare] [104.26.9.64] [cloudflare] [847.28987ms] [Cloudflare,HSTS,HTTP/3]
+https://crm-api-test.taskon.xyz [404] [] [19] [] [43.163.41.120] [672.113251ms] [HSTS]
+https://eventtracker.taskon.xyz [404] [] [19] [cloudflare] [104.26.9.64] [cloudflare] [790.333744ms] [Cloudflare,HSTS,HTTP/3]
+https://extension.taskon.xyz [404] [] [3096] [TaskOn] [cloudflare] [172.67.74.142] [cloudflare] [769.570155ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js]
+https://governance.status.app [404] [] [50] [Netlify] [98.84.224.111] [532.423443ms] [Netlify]
+https://gw.taskon.xyz [404] [] [103] [nginx/1.18.0 (Ubuntu)] [43.156.185.103] [721.813316ms] [Nginx:1.18.0,Ubuntu]
+https://openapi.taskon.xyz [404] [] [24] [cloudflare] [104.26.8.64] [cloudflare] [1.844096439s] [Cloudflare,HSTS,HTTP/3]
+https://rewards.taskon.xyz [404] [] [22] [cloudflare] [104.26.9.64] [cloudflare] [1.814144753s] [Cloudflare,HSTS,HTTP/3]
+https://airdrop-api-test.taskon.xyz [404] [] [88] [] [43.163.41.120] [7.693202412s] [Express,HSTS,Node.js]
+https://operator-api-test.taskon.xyz [404] [] [19] [] [43.163.41.120] [6.653612969s] [HSTS]
+https://testtaskonbackend.taskon.xyz [404] [] [19] [] [43.163.41.120] [1.675205605s] [HSTS]
+https://white-label-api-test.taskon.xyz [404] [] [19] [] [43.163.41.120] [621.756827ms] [HSTS]
+https://testtaskondl.taskon.xyz [404] [] [19] [] [43.163.41.120] [1.697687918s] [HSTS]
+https://ybl1xinvrpvgifx3.taskon.xyz [404] [] [19] [] [43.163.41.120] [3.622072972s] [HSTS]
+
+## 500
+
+## 502
+https://content2.taskon.xyz [502] [] [16] [cloudflare] [104.26.9.64] [cloudflare] [868.691134ms] [Cloudflare,HTTP/3]
+
+## 503
+https://bjko8tjcumnhwx26.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [658.161516ms] [HSTS]
+https://8wnvzbt4wftonw8l.taskon.xyz [503] [] [592] [503 Service Temporarily Unavailable] [] [43.163.41.120] [710.261616ms] [HSTS]
+https://8wnvzbt4wftonw8l-dl.taskon.xyz [503] [] [1665] [503 Service Temporarily Unavailable] [cloudflare] [104.26.9.64] [cloudflare] [872.737547ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://crm-api-stage.taskon.xyz [503] [] [592] [503 Service Temporarily Unavailable] [] [43.163.41.120] [671.40931ms] [HSTS]
+https://crm-stage.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [664.947481ms] [HSTS]
+https://feedback-stage.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [616.028302ms] [HSTS]
+https://feedback-test.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [673.713735ms] [HSTS]
+https://fghv9qvet1odrmvm.taskon.xyz [503] [] [2067] [503 Service Temporarily Unavailable] [cloudflare] [104.26.8.64] [cloudflare] [803.789705ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://operator-api-stage.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [2.635336362s] [HSTS]
+https://operator-stage.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [2.648056964s] [HSTS]
+https://stagetgapp.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [2.648903695s] [HSTS]
+https://testtgapp.taskon.xyz [503] [] [190] [503 Service Temporarily Unavailable] [] [43.163.41.120] [749.172246ms] [HSTS]
+https://white-label-api-stage.taskon.xyz [503] [] [592] [503 Service Temporarily Unavailable] [] [43.163.41.120] [678.0389ms] [HSTS]
+

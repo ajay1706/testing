@@ -1,0 +1,6 @@
+https://campaign.term.finance [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [384.182344ms] [Caddy,HTTP/3]
+http://gwstage.taskon.xyz [301] [https://gwstage.taskon.xyz/] [528] [301 Moved Permanently] [cloudflare] [104.26.9.64] [cloudflare] [21.397113ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://gwtest.taskon.xyz [301] [https://gwtest.taskon.xyz/] [528] [301 Moved Permanently] [cloudflare] [104.26.9.64] [cloudflare] [29.002396ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://saas-test-new.taskon.xyz [301] [https://saas-test-new.taskon.xyz/] [528] [301 Moved Permanently] [cloudflare] [172.66.47.92] [cloudflare] [2.126256395s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://term.finance [301] [https://www.term.finance/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [1.502181196s] [Cloudflare,HSTS,HTTP/3]
+https://www.taskon.xyz [301] [https://taskon.xyz/] [523] [301 Moved Permanently] [cloudflare] [104.26.9.64] [cloudflare] [795.247158ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
