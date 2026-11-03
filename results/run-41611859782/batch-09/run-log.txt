@@ -1,0 +1,14 @@
+[+] Batch started: Tue Nov  3 09:40:36 UTC 2026
+[+] Run ID: 41611859782
+[+] Batch name: batch-09
+[+] Batch targets:
+towns.com
+xmtp.org
+yei.finance
+[+] Running subfinder...
+[+] Subfinder completed: Tue Nov  3 09:42:15 UTC 2026
+[+] HTTPX input count: 7005
+[+] Running httpx...
+[+] httpx completed: Tue Nov  3 10:01:50 UTC 2026
+[+] httpx line count: 170
+[+] Batch completed: Tue Nov  3 10:01:50 UTC 2026
