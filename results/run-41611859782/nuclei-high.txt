@@ -1,0 +1,6 @@
+[CVE-2019-11248] [http] [high] https://river-notification-service-omega.towns.com/debug/pprof/
+[CVE-2019-11248] [http] [high] https://river1.nodes.omega.towns.com/debug/pprof/
+[CVE-2019-11248] [http] [high] https://river2.nodes.omega.towns.com/debug/pprof/
+[CVE-2019-11248] [http] [high] https://river3.nodes.omega.towns.com/debug/pprof/
+[dify-ssrf-remote-upload] [http] [high] https://content.taskon.xyz/console/api/remote-files/upload
+[github-takeover] [http] [high] https://grants.xmtp.org

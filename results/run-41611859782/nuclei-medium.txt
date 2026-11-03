@@ -1,0 +1,18 @@
+[CVE-2025-58226:post_titles] [http] [medium] https://autoconfig.guild.xyz/wp-admin/admin-ajax.php?action=fb3d_send_posts ["Catalogo Titan Door","Catalogo Cofas"]
+[CVE-2025-58226:post_titles] [http] [medium] https://teleport-proxy.guild.xyz/wp-admin/admin-ajax.php?action=fb3d_send_posts ["Catalogo Titan Door","Catalogo Cofas"]
+[CVE-2025-63387] [http] [medium] https://content.taskon.xyz/console/api/system-features
+[CVE-2026-27454] [http] [medium] https://forum.folks.finance/posts/2610.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.notional.finance/posts/307.json?version=1
+[CVE-2026-27454] [http] [medium] https://governance.neverland.money/posts/781.json?version=2
+[CVE-2026-27454] [http] [medium] https://improve.xmtp.org/posts/8348.json?version=1
+[dockerfile-hidden-disclosure] [http] [medium] https://docs.zealy.io/.dockerfile
+[prometheus-metrics] [http] [medium] https://api-v2-staging.boost.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api-v2.boost.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api.cn.cryptokitties.co/metrics
+[prometheus-metrics] [http] [medium] https://api.cryptokitties.co/metrics
+[prometheus-metrics] [http] [medium] https://api.taskon.xyz/metrics
+[prometheus-metrics] [http] [medium] https://crm-api-test.taskon.xyz/metrics
+[prometheus-metrics] [http] [medium] https://laligagolazos.com/api/metrics
+[prometheus-metrics] [http] [medium] https://operator-api-test.taskon.xyz/metrics
+[prometheus-metrics] [http] [medium] https://subgraph-api-omega.towns.com/metrics
+[unauth-munin] [http] [medium] https://freyr.getsession.org/munin/
