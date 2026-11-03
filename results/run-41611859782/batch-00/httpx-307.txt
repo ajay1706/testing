@@ -1,0 +1,2 @@
+https://beta.boost.xyz [307] [https://www.boost.xyz/] [15] [cloudflare] [172.67.69.96] [cloudflare] [291.678039ms] [Cloudflare,HSTS,Vercel]
+https://v2.boost.xyz [307] [https://www.boost.xyz/] [15] [cloudflare] [104.26.11.89] [cloudflare] [250.495923ms] [Cloudflare,HSTS,Vercel]
