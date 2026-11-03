@@ -1,0 +1,12 @@
+[+] Batch started: Tue Nov  3 09:41:35 UTC 2026
+[+] Run ID: 41611859782
+[+] Batch name: batch-10
+[+] Batch targets:
+zealy.io
+[+] Running subfinder...
+[+] Subfinder completed: Tue Nov  3 09:41:57 UTC 2026
+[+] HTTPX input count: 116
+[+] Running httpx...
+[+] httpx completed: Tue Nov  3 09:42:16 UTC 2026
+[+] httpx line count: 13
+[+] Batch completed: Tue Nov  3 09:42:16 UTC 2026

@@ -1,0 +1,42 @@
+# HTTPX Status Report
+
+Generated at: Tue Nov  3 09:42:16 UTC 2026
+
+HTTPX lines: 13
+Live URLs: 13
+
+## 200
+https://apply.zealy.io [200] [] [18330] [Zealy - Candidate Portal] [Vercel] [66.33.60.35] [289.408895ms] [HSTS,Vercel]
+https://design.zealy.io [200] [] [5125] [@storybook/core - Storybook] [Vercel] [66.33.60.129] [638.776764ms] [HSTS,Vercel]
+https://docs.zealy.io [200] [] [308020] [Introduction | Zealy API] [cloudflare] [104.18.40.47] [cloudflare] [276.707335ms] [C3.js,Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+http://www.zealy.io [301] [https://www.zealy.io/] [167] [301 Moved Permanently] [CloudFront] [3.170.185.34] [cloudfront] [2.189123629s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://backend.zealy.io [403] [] [70] [] [34.253.92.196] [432.718861ms] [HSTS]
+https://api.zealy.io [403] [] [70] [] [54.194.225.148] [438.726541ms] [HSTS]
+https://api-v1.zealy.io [403] [] [70] [] [54.194.225.148] [470.091578ms] [HSTS]
+https://media.zealy.io [403] [] [243] [AmazonS3] [18.172.122.104] [cloudfront] [324.422784ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+
+## 404
+https://creators.zealy.io [404] [] [1093] [Error 404] [] [99.83.181.15] [298.40413ms]
+https://blog.zealy.io [404] [] [1733] [Domain error] [openresty] [151.101.67.7] [fastly] [310.371651ms] [Nginx,OpenResty,Varnish]
+https://api-v2.zealy.io [404] [] [139] [Error] [] [52.215.238.171] [409.557446ms] [HSTS]
+https://contributors.zealy.io [404] [] [1093] [Error 404] [] [99.83.181.15] [800.932363ms]
+https://web3.zealy.io [404] [] [1093] [Error 404] [] [99.83.181.15] [172.28363ms]
+
+## 500
+
+## 502
+
+## 503
+
