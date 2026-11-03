@@ -1,0 +1,14 @@
+[+] Batch started: Tue Nov  3 09:38:10 UTC 2026
+[+] Run ID: 41611859782
+[+] Batch name: batch-06
+[+] Batch targets:
+nbatopshot.com
+neverland.money
+nflallday.com
+[+] Running subfinder...
+[+] Subfinder completed: Tue Nov  3 09:41:13 UTC 2026
+[+] HTTPX input count: 275
+[+] Running httpx...
+[+] httpx completed: Tue Nov  3 09:41:34 UTC 2026
+[+] httpx line count: 213
+[+] Batch completed: Tue Nov  3 09:41:35 UTC 2026
