@@ -1,0 +1,4 @@
+[CVE-2026-27454] [http] [medium] https://forum.notional.finance/posts/307.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.folks.finance/posts/2610.json?version=1
+[unauth-munin] [http] [medium] https://freyr.getsession.org/munin/
+[dockerfile-hidden-disclosure] [http] [medium] https://docs.zealy.io/.dockerfile
