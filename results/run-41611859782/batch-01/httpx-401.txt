@@ -1,0 +1,2 @@
+https://atlantis.ops.dapperlabs.com [401] [] [574] [401 Authorization Required] [cloudflare] [104.16.41.37] [cloudflare] [877.530283ms] [Basic,Cloudflare,Cloudflare Bot Management,HSTS]
+https://beta.cryptokitties.co [401] [] [24] [Heroku] [13.248.131.213] [651.031831ms] [Express,Node.js]
