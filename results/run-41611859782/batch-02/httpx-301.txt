@@ -1,0 +1,7 @@
+https://beta.galxe.com [301] [https://www.galxe.com/] [0] [istio-envoy] [34.36.174.15] [google] [90.145765ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://dao-forum.galxe.com [301] [http://forum.gravity.xyz/] [0] [istio-envoy] [34.149.3.84] [google] [252.905631ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://forum.galxe.com [301] [http://forum.gravity.xyz/] [0] [istio-envoy] [34.149.3.84] [google] [87.460308ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://galxe.com [301] [https://www.galxe.com/] [0] [istio-envoy] [34.149.3.84] [google] [266.385309ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://join.folks.finance [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [38.873609ms] [Caddy,HTTP/3]
+https://newsletter.galxe.com [301] [http://gal.xyz/newslettersignup/] [0] [AmazonS3] [3.167.56.61] [cloudfront] [155.161564ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://v2.app.galxe.com [301] [https://app.galxe.com/] [0] [istio-envoy] [34.149.3.84] [google] [86.981923ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
