@@ -1,0 +1,5 @@
+[prometheus-metrics] [http] [medium] https://api-v2-staging.boost.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api-v2.boost.xyz/metrics
+[prometheus-metrics] [http] [medium] https://api.cryptokitties.co/metrics
+[prometheus-metrics] [http] [medium] https://api.cn.cryptokitties.co/metrics
+[prometheus-metrics] [http] [medium] https://api.taskon.xyz/metrics
