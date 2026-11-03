@@ -1,0 +1,2 @@
+https://support.laligagolazos.com [302] [https://support.laligagolazos.com/hc] [0] [cloudflare] [216.198.54.11] [118.854771ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://www.laligagolazos.com [302] [https://laligagolazos.com] [143] [302 Found] [cloudflare] [172.64.152.79] [cloudflare] [4.086885927s] [Cloudflare,Cloudflare Bot Management,HSTS]

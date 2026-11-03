@@ -1,0 +1,60 @@
+# HTTPX Status Report
+
+Generated at: Tue Nov  3 09:36:13 UTC 2026
+
+HTTPX lines: 32
+Live URLs: 32
+
+## 200
+https://app.marginfi.com [200] [] [2279] [marginfi has moved to Project 0] [Vercel] [66.33.60.34] [74.810236ms] [HSTS,Vercel]
+https://docs.marginfi.com [200] [] [88619] [Project 0 Documentation] [Vercel] [216.150.16.193] [151.574029ms] [HSTS,Vercel]
+https://arena.layer3.xyz [200] [] [43028] [Arena: beat an AI at trading] [cloudflare] [104.20.22.32] [cloudflare] [629.921935ms] [Cloudflare,Cloudflare Browser Insights,Render]
+https://laligagolazos.com [200] [] [127297] [LaLiga Golazos | Officially licensed digital collectibles from LaLiga] [cloudflare] [104.18.35.177] [cloudflare] [517.647471ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://assets.laligagolazos.com [200] [] [474921] [cloudflare] [104.18.35.177] [cloudflare] [199.839679ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 301
+https://analytics.marginfi.com [301] [https://mrgn.grafana.net/public-dashboards/a2700f1bbca64aeaa5582a90dbaeb276?orgId=1&refresh=1m] [133] [ip-10-123-124-212.ec2.internal] [15.197.225.128] [98.330517ms]
+http://es.blog.laligagolazos.com [301] [https://es.blog.laligagolazos.com/] [162] [301 Moved Permanently] [nginx] [18.211.166.153] [6.110737ms] [Nginx]
+http://wildcard.production.laligagolazos.com [301] [https://wildcard.production.laligagolazos.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.35.177] [cloudflare] [26.506573ms] [Cloudflare,Cloudflare Bot Management]
+http://www.production.laligagolazos.com [301] [https://www.production.laligagolazos.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.35.177] [cloudflare] [18.849248ms] [Cloudflare,Cloudflare Bot Management]
+http://trade.marginfi.com [301] [https://trade.marginfi.com/] [175] [301 Moved Permanently] [openresty/1.27.1.2] [3.13.222.255] [35.187279ms] [Nginx,OpenResty:1.27.1.2]
+
+## 302
+https://support.laligagolazos.com [302] [https://support.laligagolazos.com/hc] [0] [cloudflare] [216.198.54.11] [118.854771ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://www.laligagolazos.com [302] [https://laligagolazos.com] [143] [302 Found] [cloudflare] [172.64.152.79] [cloudflare] [4.086885927s] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 307
+
+## 308
+https://marginfi.com [308] [https://app.marginfi.com/] [15] [Vercel] [76.76.21.21] [37.294464ms] [HSTS,Vercel]
+https://www.marginfi.com [308] [https://app.marginfi.com/] [15] [Vercel] [66.33.60.67] [83.434509ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://blog.laligagolazos.com [403] [] [17] [cloudflare] [198.202.211.1] [58.817935ms] [Cloudflare]
+https://arena-export.layer3.xyz [403] [] [5573] [Just a moment...] [cloudflare] [172.66.171.92] [cloudflare] [31.839546ms] [Cloudflare]
+https://docs.layer3.xyz [403] [] [5672] [Just a moment...] [cloudflare] [172.66.171.92] [cloudflare] [42.92527ms] [Cloudflare]
+https://layer3.xyz [403] [] [5603] [Just a moment...] [cloudflare] [172.66.171.92] [cloudflare] [42.843256ms] [Cloudflare]
+https://arena-og.layer3.xyz [403] [] [5612] [Just a moment...] [cloudflare] [104.20.22.32] [cloudflare] [59.733053ms] [Cloudflare]
+https://beta.layer3.xyz [403] [] [5630] [Just a moment...] [cloudflare] [104.20.22.32] [cloudflare] [58.323417ms] [Cloudflare]
+https://app.layer3.xyz [403] [] [5607] [Just a moment...] [cloudflare] [172.66.171.92] [cloudflare] [46.328705ms] [Cloudflare]
+https://help.layer3.xyz [403] [] [5502] [Just a moment...] [cloudflare] [104.20.22.32] [cloudflare] [58.565556ms] [Cloudflare]
+https://redeem.laligagolazos.com [403] [] [17] [cloudflare] [198.202.211.1] [64.548318ms] [Cloudflare]
+https://staking.layer3.xyz [403] [] [5654] [Just a moment...] [cloudflare] [104.20.22.32] [cloudflare] [43.355027ms] [Cloudflare]
+https://solana.layer3.xyz [403] [] [5653] [Just a moment...] [cloudflare] [104.20.22.32] [cloudflare] [67.104711ms] [Cloudflare]
+https://withdraw.layer3.xyz [403] [] [5612] [Just a moment...] [cloudflare] [104.20.22.32] [cloudflare] [71.998953ms] [Cloudflare]
+https://www.layer3.xyz [403] [] [5650] [Just a moment...] [cloudflare] [104.20.22.32] [cloudflare] [48.223288ms] [Cloudflare]
+
+## 404
+https://collect.laligagolazos.com [404] [] [146] [404 Not Found] [cloudflare] [172.64.152.79] [cloudflare] [319.817903ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://more.laligagolazos.com [404] [] [146] [404 Not Found] [cloudflare] [104.18.35.177] [cloudflare] [325.129486ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://production.laligagolazos.com [404] [] [146] [404 Not Found] [cloudflare] [172.64.152.79] [cloudflare] [341.925906ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://wildcard.laligagolazos.com [404] [] [146] [404 Not Found] [cloudflare] [172.64.152.79] [cloudflare] [341.344355ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 500
+
+## 502
+
+## 503
+
