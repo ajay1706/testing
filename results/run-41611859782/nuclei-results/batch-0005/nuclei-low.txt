@@ -1,0 +1,33 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] atlantis-omega.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] assets.notional.finance:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] atlantis-omega.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] assets.notional.finance:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] audit.neverland.money:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] audit.neverland.money:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] auto.boost.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] auto.boost.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] beta.boost.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] beta.boost.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] beta.galxe.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] beta.galxe.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] beta.layer3.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] beta.layer3.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] blog.towns.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] blog.towns.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bootstrap.blend.capital:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bootstrap.blend.capital:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[wp-user-enum:usernames] [http] [low] https://blog.taskon.xyz/?rest_route=/wp/v2/users/ ["devops"]
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.gearbox.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.gearbox.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.gearbox.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.xmtp.org
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.notional.finance
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.xmtp.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.notional.finance
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.xmtp.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.notional.finance
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://blog.zealy.io
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://blog.zealy.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://blog.zealy.io
+[aws-object-listing] [http] [low] https://assets.nflallday.com ["dl-nfl-assets-prod"]
+[expired-ssl] [ssl] [low] bjko8tjcumnhwx26.taskon.xyz:443 ["2026-08-05 03:42:52 +0000 UTC"]

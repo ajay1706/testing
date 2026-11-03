@@ -1,0 +1,1 @@
+[CVE-2025-58226:post_titles] [http] [medium] https://autoconfig.guild.xyz/wp-admin/admin-ajax.php?action=fb3d_send_posts ["Catalogo Titan Door","Catalogo Cofas"]
