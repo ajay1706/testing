@@ -1,0 +1,2 @@
+[CVE-2026-109618:version-eol-branch] [http] [critical] https://www.angel.alphawallet.com ["7.2.34"]
+[shellscripts] [http] [low] https://www.ai.exodus.com/install.sh [paths="/install.sh"]
