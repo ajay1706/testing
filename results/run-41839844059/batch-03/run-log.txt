@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov  4 13:43:21 UTC 2026
+[+] Run ID: 41839844059
+[+] Batch name: batch-03
+[+] Batch targets:
+kairos.trade
+kiki.world
+mythicalgames.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov  4 13:45:13 UTC 2026
+[+] HTTPX input count: 230
+[+] Running httpx...
+[+] httpx completed: Wed Nov  4 13:45:36 UTC 2026
+[+] httpx line count: 118
+[+] Batch completed: Wed Nov  4 13:45:36 UTC 2026
