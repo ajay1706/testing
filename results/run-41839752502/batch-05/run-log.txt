@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov  4 13:42:43 UTC 2026
+[+] Run ID: 41839752502
+[+] Batch name: batch-05
+[+] Batch targets:
+saphyre.xyz
+talisman.xyz
+tradeifyperps.co
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov  4 13:44:49 UTC 2026
+[+] HTTPX input count: 99
+[+] Running httpx...
+[+] httpx completed: Wed Nov  4 13:44:54 UTC 2026
+[+] httpx line count: 73
+[+] Batch completed: Wed Nov  4 13:44:54 UTC 2026

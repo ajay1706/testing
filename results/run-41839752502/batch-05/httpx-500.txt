@@ -1,0 +1,7 @@
+https://dev-rfq.saphyre.xyz [404] [] [500] [Error] [cloudflare] [104.26.0.140] [cloudflare] [625.801172ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://drg-mexc-solver.saphyre.xyz [404] [] [500] [Error] [cloudflare] [104.26.0.140] [cloudflare] [668.42731ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://dev-solver.saphyre.xyz [404] [] [500] [Error] [cloudflare] [172.67.72.212] [cloudflare] [679.811489ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://stealthex.talisman.xyz [500] [] [17] [cloudflare] [172.67.172.100] [cloudflare] [154.062229ms] [Cloudflare,HTTP/3]
+https://rfq.saphyre.xyz [404] [] [500] [Error] [cloudflare] [172.67.72.212] [cloudflare] [646.602592ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://rfq-solver-v2.saphyre.xyz [404] [] [500] [Error] [cloudflare] [104.26.1.140] [cloudflare] [673.616223ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://solver.saphyre.xyz [404] [] [500] [Error] [cloudflare] [104.26.0.140] [cloudflare] [594.807751ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
