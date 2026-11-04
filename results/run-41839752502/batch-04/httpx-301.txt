@@ -1,0 +1,4 @@
+https://app.popdex.xyz [301] [https://app.popdex.xyz/trade] [169] [301 Moved Permanently] [cloudflare] [104.18.21.177] [cloudflare] [762.927756ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://testnet-app.popdex.xyz [301] [https://testnet-app.popdex.xyz/trade] [169] [301 Moved Permanently] [cloudflare] [104.18.21.177] [cloudflare] [5.592278887s] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://staging.rainbow.me [301] [https://staging.rainbow.me/] [528] [301 Moved Permanently] [cloudflare] [104.20.16.62] [cloudflare] [2.084957841s] [Cloudflare,Cloudflare Browser Insights]
+https://www.rainbow.me [301] [https://rainbow.me/] [528] [301 Moved Permanently] [cloudflare] [172.66.172.168] [cloudflare] [3.115102768s] [Cloudflare,Cloudflare Browser Insights]

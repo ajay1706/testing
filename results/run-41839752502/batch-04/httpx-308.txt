@@ -1,0 +1,3 @@
+https://beta.ponsfamily.com [308] [/launchpad] [15] [Vercel] [216.150.1.1] [154.647454ms] [HSTS,Vercel]
+https://ponsfamily.com [308] [/launchpad] [15] [Vercel] [216.150.1.193] [118.757995ms] [HSTS,Vercel]
+https://www.ponsfamily.com [308] [https://ponsfamily.com/] [169] [308 Permanent Redirect] [cloudflare] [172.67.164.86] [cloudflare] [128.451805ms] [Cloudflare]
