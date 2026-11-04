@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov  4 13:39:40 UTC 2026
+[+] Run ID: 41839816519
+[+] Batch name: batch-01
+[+] Batch targets:
+bags.fm
+bullx.io
+bungee.exchange
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov  4 13:40:42 UTC 2026
+[+] HTTPX input count: 160
+[+] Running httpx...
+[+] httpx completed: Wed Nov  4 13:41:09 UTC 2026
+[+] httpx line count: 51
+[+] Batch completed: Wed Nov  4 13:41:09 UTC 2026

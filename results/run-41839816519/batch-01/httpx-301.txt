@@ -1,0 +1,4 @@
+https://docs.bungee.exchange [301] [https://docs.socket.tech/] [167] [301 Moved Permanently] [cloudflare] [104.20.38.241] [cloudflare] [87.823084ms] [Cloudflare]
+http://www.analytics.bags.fm [301] [https://www.analytics.bags.fm/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.149] [cloudflare] [88.218328ms] [Cloudflare,HTTP/3]
+http://www.ai-auto.bags.fm [301] [https://www.ai-auto.bags.fm/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.149] [cloudflare] [88.303236ms] [Cloudflare,HTTP/3]
+http://www.verify.bags.fm [301] [https://www.verify.bags.fm/] [167] [301 Moved Permanently] [cloudflare] [172.66.43.107] [cloudflare] [23.351247ms] [Cloudflare,HTTP/3]
