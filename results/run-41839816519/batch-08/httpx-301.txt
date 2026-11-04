@@ -1,0 +1,4 @@
+https://connect.redotpay.com [301] [https://www.redotpay.com/redotpay-connect] [166] [301 Moved Permanently] [] [23.55.178.183] [988.779038ms] [HSTS,HTTP/3]
+https://m.redotpay.com [301] [http://www.redotpay.com/] [166] [301 Moved Permanently] [openresty] [18.178.84.161] [548.728326ms] [HSTS,Nginx,OpenResty]
+https://redotpay.com [301] [https://www.redotpay.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [54.250.72.129] [499.774709ms] [Amazon ELB,Amazon Web Services]
+https://support.redotpay.com [301] [https://helpcenter.redotpay.com] [166] [301 Moved Permanently] [openresty] [18.181.102.120] [582.530463ms] [HSTS,Nginx,OpenResty]

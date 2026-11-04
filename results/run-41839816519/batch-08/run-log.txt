@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov  4 13:45:56 UTC 2026
+[+] Run ID: 41839816519
+[+] Batch name: batch-08
+[+] Batch targets:
+rango.exchange
+redotpay.com
+relay.link
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov  4 13:48:18 UTC 2026
+[+] HTTPX input count: 194
+[+] Running httpx...
+[+] httpx completed: Wed Nov  4 13:48:42 UTC 2026
+[+] httpx line count: 107
+[+] Batch completed: Wed Nov  4 13:48:42 UTC 2026
