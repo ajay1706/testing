@@ -1,0 +1,3 @@
+https://apitag.holyheld.com [500] [] [323] [500 Server Error] [Google Frontend] [34.160.3.2] [google] [126.828638ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://otcapicorestg.holyheld.com [500] [] [323] [500 Server Error] [Google Frontend] [172.253.62.121] [google] [451.655923ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://otcapicore.holyheld.com [500] [] [323] [500 Server Error] [Google Frontend] [192.178.218.121] [google] [552.787382ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
