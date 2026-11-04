@@ -1,0 +1,90 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov  4 13:40:46 UTC 2026
+
+HTTPX lines: 68
+Live URLs: 68
+
+## 200
+https://docs.elections.kalshi.com [200] [] [250] [AmazonS3] [18.155.173.30] [cloudfront] [35.708457ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://admin.klear.kalshi.com [200] [] [1057] [Klear - Admin Dashboard] [Vercel] [64.239.123.193] [172.447593ms] [HSTS,Vercel]
+https://app.kalshi.com [200] [] [1914] [Kalshi] [cloudflare] [172.66.0.157] [cloudflare] [205.853082ms] [Cloudflare,HTTP/3]
+https://fg.onchain.cc [200] [] [0] [cloudflare] [172.66.1.166] [cloudflare] [246.767338ms] [Cloudflare,HSTS,HTTP/3]
+https://crypto.kalshi.com [200] [] [18541] [Kalshi Crypto Early Access] [Vercel] [64.239.109.65] [202.919255ms] [HSTS,Vercel]
+https://compareperps.kalshi.com [200] [] [27542] [BTC all-in execution cost — Kalshi Perpetuals] [Vercel] [64.239.123.1] [225.294582ms] [HSTS,Vercel]
+https://act.kalshi.com [200] [] [34709] [Kalshi · Take Action] [Vercel] [64.239.123.1] [249.919058ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://comments-campaign.kalshi.com [200] [] [34709] [Kalshi · Take Action] [Vercel] [64.239.109.193] [267.861106ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://klearing.kalshi.com [200] [] [1354] [Kalshi - Klearing Portal] [Vercel] [64.239.109.65] [149.053001ms] [HSTS,Vercel]
+https://institutional.kalshi.com [200] [] [70938] [Kalshi Institutional] [Vercel] [64.239.123.129] [150.816763ms] [HSTS,Vercel]
+https://rsvp.kalshi.com [200] [] [13682] [Kalshi Events] [Vercel] [64.239.109.1] [234.214661ms] [HSTS,Vercel]
+https://go.kemapp.io [200] [] [2090] [Kem] [cloudflare] [172.66.0.157] [cloudflare] [1.254407087s] [Cloudflare,HTTP/3]
+https://verify.kalshi.com [200] [] [1907] [Secure Document Capture App] [AmazonS3] [18.238.109.73] [cloudfront] [374.477355ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://widgets.kalshi.com [200] [] [16038] [Kalshi Widgets] [Vercel] [64.239.123.129] [136.751635ms] [HSTS,Vercel]
+https://trust.kalshi.com [200] [] [7177] [Kalshi Trust Center] [cloudflare] [104.18.26.175] [cloudflare] [532.340923ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://telegram-app.kemapp.io [200] [] [5099] [Kem] [cloudflare] [172.67.131.78] [cloudflare] [766.346856ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://onchain.cc [200] [] [228208] [Onchain | Every market. One terminal.] [cloudflare] [172.67.155.51] [cloudflare] [188.435748ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HTTP/3]
+https://assets.kalshi.com [200] [] [365203] [AmazonS3] [18.238.96.62] [cloudfront] [592.285102ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://news.kalshi.com [200] [] [1366558] [Kalshi News] [cloudflare] [104.16.24.120] [cloudflare] [430.129112ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+
+## 301
+https://blog.kalshi.com [301] [https://news.kalshi.com/] [0] [CloudFront] [18.65.3.63] [cloudfront] [160.456093ms] [Amazon CloudFront,Amazon Web Services]
+https://research.kalshi.com [301] [https://kalshi.com/research] [0] [CloudFront] [65.8.20.74] [cloudfront] [80.013624ms] [Amazon CloudFront,Amazon Web Services]
+http://sentry.kemapp.io [301] [https://sentry.kemapp.io/] [534] [301 Moved Permanently] [cloudflare] [172.67.131.78] [cloudflare] [36.80459ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://help.kalshi.com [302] [https://help.kalshi.com/en/] [0] [cloudflare] [172.64.150.18] [cloudflare] [426.895612ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://shop.kalshi.com [302] [https://shop.kalshi.com/password] [0] [] [34.117.223.165] [google] [102.745439ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://rabbitmq.kemapp.io [302] [https://kemkuwait.cloudflareaccess.com/cdn-cgi/access/login/rabbitmq.kemapp.io?kid=d839950da4ec9e0e2f1c78a94e8abaa6fde39386cb52c7c946a9366ad9e2eab9&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImQwMzk3ZTdjM2E3MjU1NDk4ZGI1YzhhNDk2NzM4ZTBkNzNkMzRiZjI4Mjg1ZTg0MzUwOTZmYTZmNjdhZTU1YTQifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImQ4Mzk5NTBkYTRlYzllMGUyZjFjNzhhOTRlOGFiYWE2ZmRlMzkzODZjYjUyYzdjOTQ2YTkzNjZhZDllMmVhYjkiLCJob3N0bmFtZSI6InJhYmJpdG1xLmtlbWFwcC5pbyIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzkzNzk5OTI2LCJuYmYiOjE3OTM3OTk2MjYsImlhdCI6MTc5Mzc5OTYyNiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6ImRjNDIzMjQxM2JhZThjMmU4ZjkzZjcyN2JiZTUwMWE1N2NmOWIzYjhkNzg4MTc2ZTNiODRjNzQxNmRmMDQzY2QifQ.T7x-UzRnx7ubcf7fJFyKumofInrTiTptwMp_cJEbfwibeVNz1_gSVzI6aIixRTrzENEdetsWqeRBdkuVkXWkPXN3oGHw4HIPSqX6OAE7tyRKze7GWHJaRG8JNjrF6aqgnA5-w_gxOgDaTAyobqZlg-iposDU5J0OOy3cxpYoTZ8W6mg-leJiLqOflh5jZBhKPm6soOQy1csZeiruZ5FouTmcM1IpGP5PGG7N6u2c0P_TFxUN2iE7Osnu2aHXVQ_tie8Rl15J_AJYGLdQ7WNKUMsqHUTRKCTajsboqOiJqrmIdb7_KyETPiZ-EdlLj6Z2TAbddQVEDJ2n5PWq-FzcYA&redirect_url=%2F] [510] [302 Found] [cloudflare] [104.21.10.99] [cloudflare] [354.986281ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mkt.kalshi.com [302] [https://switchy.io] [40] [Google Frontend] [34.76.180.229] [google] [858.448173ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+
+## 307
+https://aff.kalshi.com [307] [/signin?callbackUrl=%2F] [15] [Vercel] [64.239.109.129] [241.953107ms] [HSTS,Vercel]
+https://growth.kalshi.com [307] [/auth/signin?callbackUrl=%2F] [15] [Vercel] [64.239.109.65] [251.590783ms] [HSTS,Vercel]
+https://kinetics-admin.kalshi.com [307] [/login] [9183] [Kalshi Prime Admin] [Vercel] [64.239.123.65] [151.758613ms] [HSTS,Vercel]
+https://business.kemapp.io [307] [/en] [3] [cloudflare] [104.21.10.99] [cloudflare] [750.0806ms] [Cloudflare,HSTS,HTTP/3]
+https://dashboard.business.kemapp.io [307] [/overview] [6194] [Kem for Business] [] [34.90.45.67] [google] [748.685682ms] [HSTS,Next.js,Node.js,React,Webpack]
+https://kobra.kalshi.com [307] [/login] [36610] [Kalshi Pro] [Vercel] [76.76.21.21] [194.690565ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://pro.kalshi.com [307] [/login] [36610] [Kalshi Pro] [Vercel] [76.76.21.21] [195.129683ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://kemapp.io [307] [/en] [3] [cloudflare] [104.21.10.99] [cloudflare] [864.176063ms] [Cloudflare,HSTS,HTTP/3]
+https://kobra-alpha.kalshi.com [307] [/login] [32742] [Kalshi Pro] [Vercel] [64.239.123.1] [299.815754ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 308
+https://fcm.kalshi.com [308] [https://klearing.kalshi.com/] [15] [Vercel] [64.239.109.193] [129.801672ms] [HSTS,Vercel]
+https://docs.kalshi.com [308] [/welcome] [0] [Vercel] [76.76.21.61] [392.536626ms] [Cloudflare,HSTS,Vercel]
+
+## 401
+https://markets.elections.kalshi.com [401] [] [15282] [Password Protected] [Vercel] [64.239.109.65] [342.25462ms] [HSTS,Vercel]
+https://trading-api.kalshi.com [401] [] [96] [awselb/2.0] [3.146.177.187] [268.263439ms] [Amazon ELB,Amazon Web Services]
+
+## 403
+https://www.shop.kalshi.com [403] [] [134] [403] [] [34.117.223.165] [google] [220.618304ms] [HSTS,HTTP/3]
+
+## 404
+https://api.elections.kalshi.com [404] [] [0] [awselb/2.0] [65.8.20.48] [cloudfront] [98.672812ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://email.t.kalshi.com [404] [] [0] [] [34.117.153.222] [google] [133.925145ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://email.e.kalshi.com [404] [] [0] [] [34.117.153.222] [google] [159.59322ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://external-api.kalshi.com [404] [] [0] [awselb/2.0] [3.137.130.173] [198.629065ms] [Amazon ELB,Amazon Web Services]
+https://elinkc19.mail.kalshi.com [404] [] [2023] [404 Not Found] [cloudflare] [104.16.24.120] [cloudflare] [189.173606ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://colosseum.onchain.cc [404] [] [79] [Vercel] [216.150.1.193] [208.683628ms] [HSTS,Vercel]
+https://api.klear.kalshi.com [404] [] [0] [envoy] [52.15.82.202] [269.332096ms] [Envoy,HSTS]
+https://api-mobile-stage.kemapp.io [404] [] [22] [cloudflare] [104.21.10.99] [cloudflare] [278.618545ms] [Cloudflare,HSTS,HTTP/3]
+https://api.onchain.cc [404] [] [0] [awselb/2.0] [3.234.186.195] [396.953201ms] [Amazon ELB,Amazon Web Services]
+https://funded.onchain.cc [404] [] [107] [Vercel] [216.150.16.193] [253.297902ms] [HSTS,Vercel]
+https://api-business.kemapp.io [404] [] [22] [] [34.90.45.67] [google] [623.403207ms] [HSTS]
+https://forms.kalshi.com [404] [] [7384] [404: This page could not be found.] [Caddy cloudflare] [143.198.13.40] [431.107434ms] [Cloudflare,HSTS,HTTP/3,Render]
+https://catalogs-v2.kemapp.io [404] [] [12] [cloudflare] [104.21.10.99] [cloudflare] [720.930678ms] [Cloudflare,HSTS,HTTP/3]
+https://api-mobile.kemapp.io [404] [] [22] [cloudflare] [104.21.10.99] [cloudflare] [737.53987ms] [Cloudflare,HSTS,HTTP/3]
+https://kobra-feed.kalshi.com [404] [] [139] [Error] [] [3.150.139.115] [225.933335ms] [Amazon ALB,Amazon Web Services,Express,Node.js]
+https://privy.onchain.cc [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [142.387348ms] [Cloudflare,Cloudflare Bot Management]
+https://kinetics.kalshi.com [404] [] [107] [Vercel] [64.239.123.193] [532.375213ms] [HSTS,Vercel]
+https://risk.kalshi.com [404] [] [107] [Vercel] [64.239.123.1] [191.802284ms] [HSTS,Vercel]
+https://lb.klear.kalshi.com [404] [] [0] [envoy] [52.15.82.202] [580.272742ms] [Envoy]
+
+## 500
+
+## 502
+https://business-stage.kemapp.io [502] [] [150] [502 Bad Gateway] [] [34.16.227.164] [google] [79.864956ms] [HSTS]
+
+## 503
+https://treasury-api.kemapp.io [503] [] [959] [503 Service Temporarily Unavailable] [cloudflare] [172.67.131.78] [cloudflare] [765.900757ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
