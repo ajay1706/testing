@@ -1,0 +1,105 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov  4 13:41:30 UTC 2026
+
+HTTPX lines: 83
+Live URLs: 83
+
+## 200
+https://assets.sandbox.gnosispay.com [200] [] [5918] [UploadServer] [8.232.21.19] [google] [236.804584ms] [HTTP/3]
+https://assets.staging.gnosispay.com [200] [] [768] [UploadServer] [34.160.214.103] [google] [277.831303ms] [HTTP/3]
+https://auth-api.gnosispay.com [200] [] [2] [cloudflare] [172.64.152.23] [cloudflare] [297.357401ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://app.gnosispay.com [200] [] [3967] [My Gnosis Pay] [nginx/1.31.7] [3.126.132.101] [324.449949ms] [HSTS,Nginx:1.31.7]
+https://api-docs.grvt.io [200] [] [42799] [Grvt Markets API Docs] [cloudflare] [172.66.150.111] [cloudflare] [185.52951ms] [Cloudflare,Fastly,GitHub Pages,MkDocs:1.6.1,Python,Varnish]
+https://docs.gnosispay.com [200] [] [117857] [Gnosis Pay - Gnosis Pay] [Vercel] [66.33.60.67] [241.43668ms] [Cloudflare,HSTS,Vercel]
+https://help.gnosispay.com [200] [] [17666] [Gnosis Pay (legacy)] [] [3.162.112.88] [cloudfront] [421.932884ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://gmgn.ai [200] [] [49912] [GMGN.AI | The Fastest Multi-Chain Meme Trading Terminal] [cloudflare] [104.18.0.179] [cloudflare] [71.717754ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Envoy,GeeTest,HSTS]
+https://link.gmgn.ai [200] [] [3443] [cloudflare] [104.18.1.179] [cloudflare] [310.074576ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Envoy,GeeTest,HSTS]
+https://kb.gnosispay.com [200] [] [10171] [Partners Knowledge Base] [] [3.170.19.117] [cloudfront] [541.473878ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://partner-dashboard-stg.stg.gnosispay.com [200] [] [490] [Gnosis Pay Partners Dashboard] [nginx/1.31.8] [3.65.62.202] [379.047587ms] [HSTS,Nginx:1.31.8]
+https://partner-dashboard.sandbox.gnosispay.com [200] [] [490] [Gnosis Pay Partners Dashboard] [nginx/1.31.8] [63.188.213.237] [386.550067ms] [HSTS,Nginx:1.31.8]
+https://plausible.grvt.io [200] [] [5724] [Plausible · Web analytics] [cloudflare] [104.20.24.100] [cloudflare] [275.5264ms] [Cloudflare]
+https://partners.gnosispay.com [200] [] [490] [Gnosis Pay Partners Dashboard] [nginx/1.31.8] [63.186.202.210] [350.291476ms] [HSTS,Nginx:1.31.8]
+https://pse-backend.v2.gnosispay.com [200] [] [3106] [Swagger UI] [] [63.176.81.121] [419.939262ms] [HSTS,Swagger UI]
+https://status.gnosispay.com [200] [] [6204] [GnosisPay] [GitHub.com] [185.199.110.153] [129.395191ms] [Fastly,GitHub Pages,HSTS,Node.js,Sapper,Svelte,Varnish]
+https://assets.gnosispay.com [200] [] [303279] [UploadServer] [34.36.23.129] [google] [356.010516ms] [HTTP/3]
+https://gnosispay.com [200] [] [279213] [Gnosis Pay — Stablecoin card programs] [Framer/ad3cf8f] [52.223.52.2] [119.061585ms] [Framer Sites,Google Analytics,Google Tag Manager,HSTS,HTTP/3,React]
+https://memecoin.gmgn.ai [200] [] [357349] [GMGN: A Meme Coin Trading Platform Built Around Judgment, Not Just Speed | Memecoin.Guide.GMGN] [cloudflare] [18.160.46.120] [cloudfront] [326.943252ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,GitBook,HSTS,Vercel]
+https://grvt.io [200] [] [1068620] [Grvt | Trade Crypto, Gold & Stocks 24/7. Trade & Earn Yield] [cloudflare] [172.66.150.111] [cloudflare] [1.00197697s] [Cloudflare,Next.js,Node.js,React,Webpack]
+https://withdraw.gnosispay.com [200] [] [2526] [Gnosis Pay Withdraw] [nginx/1.31.6] [130.211.41.47] [google] [3.260355851s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Nginx:1.31.6]
+
+## 301
+https://my.gnosispay.com [301] [https://app.gnosispay.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.126.132.101] [351.372039ms] [Amazon ELB,Amazon Web Services]
+https://www.gmgn.ai [301] [https://gmgn.ai/] [167] [301 Moved Permanently] [cloudflare] [104.18.1.179] [cloudflare] [4.084093332s] [Amazon S3,Amazon Web Services,Cloudflare,GeeTest,HSTS]
+https://www.grvt.io [301] [https://grvt.io/] [167] [301 Moved Permanently] [cloudflare] [104.20.24.100] [cloudflare] [2.076596315s] [Cloudflare]
+
+## 302
+https://help.grvt.io [302] [https://help.grvt.io/en/] [0] [cloudflare] [104.18.37.238] [cloudflare] [154.304179ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 307
+https://docs.gmgn.ai [307] [https://docs.gmgn.ai/index/] [15] [cloudflare] [3.167.69.117] [cloudfront] [217.215037ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,Vercel]
+https://auth.partners.gnosispay.com [307] [https://auth-api.gnosispay.com/user_management/initiate_login?context=&client_id=client_01K5H6FYHMXB774Q5JR7CD6MWG] [74265] [Sign in] [cloudflare] [172.64.152.23] [cloudflare] [886.461864ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://testnet.grvt.io [307] [/exchange/perpetual] [19] [cloudflare] [104.20.24.100] [cloudflare] [1.628108316s] [Cloudflare]
+
+## 308
+https://www.gnosispay.com [308] [https://gnosispay.com/] [58] [Framer/ad3cf8f] [31.43.161.6] [1.240568385s] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+
+## 403
+https://dashboard.sandbox.gnosispay.com [403] [] [134] [403] [] [34.107.203.47] [google] [367.375045ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://loki.prod.gnosispay.com [403] [] [134] [403] [] [130.211.41.47] [google] [320.905783ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://loki.sandbox.gnosispay.com [403] [] [134] [403] [] [34.107.203.47] [google] [347.509347ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://loki.staging.gnosispay.com [403] [] [134] [403] [] [34.36.74.14] [google] [370.759036ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://mimir.prod.gnosispay.com [403] [] [134] [403] [] [130.211.41.47] [google] [310.26738ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://mimir.sandbox.gnosispay.com [403] [] [134] [403] [] [34.107.203.47] [google] [384.943779ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://mimir.staging.gnosispay.com [403] [] [134] [403] [] [34.36.74.14] [google] [373.834784ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://trades-dmm.testnet.grvt.io [403] [] [17] [cloudflare] [104.20.24.100] [cloudflare] [1.080007147s] [Cloudflare]
+
+## 404
+https://argocd-webhook.staging.gnosispay.com [404] [] [18] [] [34.36.74.14] [google] [63.026004ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://argocd-webhook.sandbox.gnosispay.com [404] [] [18] [] [34.107.203.47] [google] [66.080163ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://argocd-webhook.prod.gnosispay.com [404] [] [18] [] [130.211.41.47] [google] [160.26711ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://core.prod.gnosispay.com [404] [] [19] [] [130.211.41.47] [google] [234.551649ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://api.stg.gnosispay.com [404] [] [9] [] [18.185.146.156] [309.47892ms] [Express,Node.js]
+https://api.gnosispay.com [404] [] [9] [] [63.186.176.61] [344.323178ms] [Express,Node.js]
+https://admin-portal.gnosispay.com [404] [] [0] [cloudflare] [172.64.152.23] [cloudflare] [537.123052ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://edge.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [298.988053ms] [Cloudflare]
+https://dfns.grvt.io [404] [] [13] [cloudflare] [172.66.150.111] [cloudflare] [587.85096ms] [Cloudflare]
+https://dfns.testnet.grvt.io [404] [] [13] [cloudflare] [104.20.24.100] [cloudflare] [657.548643ms] [Cloudflare]
+https://edge-kyc.testnet.grvt.io [404] [] [18] [cloudflare] [104.20.24.100] [cloudflare] [638.768463ms] [Cloudflare]
+https://edge-kyc.grvt.io [404] [] [18] [cloudflare] [104.20.24.100] [cloudflare] [655.835482ms] [Cloudflare]
+https://edge.testnet.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [698.552294ms] [Cloudflare]
+https://gp-auth-module.prod.gnosispay.com [404] [] [19] [] [130.211.41.47] [google] [371.989464ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://market-data.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [322.11326ms] [Cloudflare]
+https://metabase-embed.prod.gnosispay.com [404] [] [548] [404 Not Found] [nginx] [130.211.41.47] [google] [281.368527ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Nginx]
+https://market-data.testnet.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [397.955874ms] [Cloudflare]
+https://metabase-embed.sandbox.gnosispay.com [404] [] [146] [404 Not Found] [nginx] [34.107.203.47] [google] [325.564654ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3,Nginx]
+https://partner-dashboard-api.stg.gnosispay.com [404] [] [139] [Error] [] [18.185.190.97] [324.856719ms] [HSTS]
+https://partner-dashboard-api.sandbox.gnosispay.com [404] [] [139] [Error] [] [63.186.53.107] [354.877836ms] [HSTS]
+https://partner-dashboard-admin.sandbox.gnosispay.com [404] [] [139] [Error] [] [3.66.95.219] [389.216493ms] [HSTS]
+https://partners.admin.api.gnosispay.com [404] [] [139] [Error] [] [52.57.113.162] [316.392591ms] [HSTS]
+https://partners.api.gnosispay.com [404] [] [139] [Error] [] [63.188.9.66] [320.76519ms] [HSTS]
+https://partner-dashboard-admin.stg.gnosispay.com [404] [] [139] [Error] [] [63.189.173.212] [444.909087ms] [HSTS]
+https://rpc.grvt.io [404] [] [18] [cloudflare] [172.66.150.111] [cloudflare] [308.358583ms] [Cloudflare]
+https://rpc.testnet.grvt.io [404] [] [18] [cloudflare] [172.66.150.111] [cloudflare] [402.720505ms] [Cloudflare]
+https://tempo.staging.gnosispay.com [404] [] [18] [] [34.36.74.14] [google] [130.508882ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://proxy-dfns.grvt.io [404] [] [2] [cloudflare] [172.66.150.111] [cloudflare] [730.79643ms] [Cloudflare]
+https://proxy-dfns.testnet.grvt.io [404] [] [2] [cloudflare] [104.20.24.100] [cloudflare] [708.005399ms] [Cloudflare]
+https://openview.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [1.00786093s] [Cloudflare]
+https://reward.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [705.532103ms] [Cloudflare]
+https://reward.testnet.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [706.111745ms] [Cloudflare]
+https://rewarddata.testnet.grvt.io [404] [] [0] [cloudflare] [104.20.24.100] [cloudflare] [700.439714ms] [Cloudflare]
+https://rewarddata.grvt.io [404] [] [0] [cloudflare] [172.66.150.111] [cloudflare] [895.934346ms] [Cloudflare]
+https://trades.grvt.io [404] [] [19] [cloudflare] [172.66.150.111] [cloudflare] [2.604815287s] [Cloudflare]
+https://trades.testnet.grvt.io [404] [] [19] [cloudflare] [104.20.24.100] [cloudflare] [3.645204927s] [Cloudflare]
+https://tradesiren.grvt.io [404] [] [19] [cloudflare] [172.66.150.111] [cloudflare] [3.641908483s] [Cloudflare]
+https://tradesiren.testnet.grvt.io [404] [] [19] [cloudflare] [172.66.150.111] [cloudflare] [3.604719417s] [Cloudflare]
+https://ws.gmgn.ai [404] [] [0] [cloudflare] [104.18.0.179] [cloudflare] [7.163471806s] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,GeeTest,HSTS]
+
+## 500
+
+## 502
+
+## 503
+
