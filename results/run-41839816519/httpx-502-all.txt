@@ -1,0 +1,2 @@
+https://rfq-testnet.predict.fun [502] [] [150] [502 Bad Gateway] [] [52.27.177.75] [4.201223456s] [HSTS]
+https://supportchat.holyheld.com [502] [] [332] [502 Server Error] [] [34.36.10.47] [google] [119.855478ms] [HTTP/3]
