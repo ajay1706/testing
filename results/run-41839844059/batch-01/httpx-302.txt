@@ -1,0 +1,4 @@
+https://atarigft.everyrealm.com [302] [https://gftshoppe.com/atari] [0] [Squarespace] [198.49.23.145] [412.480219ms] [Squarespace,Squarespace Commerce]
+https://market.cryptoys.com [302] [https://market.digitoys.io/] [0] [CloudFront] [18.239.199.118] [cloudfront] [163.461429ms] [Amazon CloudFront,Amazon Web Services]
+https://gpvpn.coinswitch.co [302] [/global-protect/login.esp] [173] [] [43.204.197.203] [938.231474ms] [HSTS]
+https://status.cryptoys.com [302] [https://cryptoys.statuspage.io] [0] [AtlassianEdge] [18.244.214.97] [cloudfront] [338.504276ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,HSTS,HTTP/3]

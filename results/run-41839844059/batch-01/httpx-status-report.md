@@ -1,0 +1,83 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov  4 13:45:27 UTC 2026
+
+HTTPX lines: 59
+Live URLs: 59
+
+## 200
+https://cs-india.coinswitch.co [200] [] [19] [cloudflare] [104.18.4.92] [cloudflare] [354.219123ms] [Cloudflare,Cloudflare Bot Management,Envoy]
+https://claw.cryptoys.com [200] [] [4450] [The Pudgy Penguins Claw Machine] [Vercel] [216.150.16.193] [462.055858ms] [HSTS,Vercel]
+https://everyrealm.com [200] [] [28393] [Everyrealm | Connecting what matters] [cloudflare] [198.202.211.1] [195.676018ms] [Cloudflare,Google Analytics,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Webflow,cdnjs,jQuery:3.5.1,jsDelivr]
+https://cs-support.coinswitch.co [200] [] [20116] [FAQ Portal] [server] [34.93.216.221] [google] [720.517291ms] [HSTS,PHP,jQuery:3.1.1]
+https://creatorlabs.coinswitch.co [200] [] [4866] [Creator Labs India - 8-Week Content Creator Program] [cloudflare] [185.158.133.1] [886.91902ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api-trading.coinswitch.co [200] [] [39871] [CoinSwitch API Trading] [cloudflare] [104.18.4.92] [cloudflare] [880.655663ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Docusaurus:3.9.2,Envoy,Google Analytics,Google Tag Manager,React,Webpack]
+https://coinswitch.co [200] [] [196470] [CoinSwitch – India's Top Crypto Exchange | Buy & Trade Crypto | India's largest Crypto Exchange.] [cloudflare] [104.18.4.92] [cloudflare] [767.380761ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Envoy,Google Tag Manager,Next.js,Node.js,React,Webpack]
+https://www.everyrealm.com [200] [] [28397] [Everyrealm | Connecting what matters] [cloudflare] [198.202.211.1] [216.364888ms] [Cloudflare,Google Analytics,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Webflow,cdnjs,jQuery:3.5.1,jsDelivr]
+https://whitepaper.cryptoys.com [200] [] [288363] [Cryptoys | Cryptoys Whitepaper] [cloudflare] [104.18.40.47] [cloudflare] [223.730183ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+https://crypto-support.coinswitch.co [301] [https://cs-support.coinswitch.co/forms/mobile-support.php] [167] [301 Moved Permanently] [cloudflare] [104.18.4.92] [cloudflare] [46.918114ms] [Cloudflare]
+https://cspro-support.coinswitch.co [301] [https://cs-support.coinswitch.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.92] [cloudflare] [50.163533ms] [Cloudflare]
+https://blog.coinswitch.co [301] [https://coinswitch.co/switch] [528] [301 Moved Permanently] [cloudflare] [104.18.5.92] [cloudflare] [46.027499ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://cdn.staging.cryptoys.com [404] [] [301] [AmazonS3] [3.169.183.13] [cloudfront] [276.476042ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://cdn.cryptoys.com [404] [] [301] [AmazonS3] [18.173.121.96] [cloudfront] [307.094212ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://cryptoys.com [301] [https://digitoys.io:443/] [134] [301 Moved Permanently] [awselb/2.0] [52.73.187.253] [355.030026ms] [Amazon ELB,Amazon Web Services]
+https://cs-india-support.coinswitch.co [301] [https://crypto-support.coinswitch.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.4.92] [cloudflare] [1.111478971s] [Cloudflare]
+https://pro.coinswitch.co [301] [https://coinswitch.co/pro/dashboard/exchange/] [528] [301 Moved Permanently] [cloudflare] [104.18.5.92] [cloudflare] [74.3481ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://starwars.cryptoys.com [301] [https://digitoys.io:443/] [134] [301 Moved Permanently] [awselb/2.0] [52.73.187.253] [318.653509ms] [Amazon ELB,Amazon Web Services]
+https://www.coinswitch.co [301] [https://coinswitch.co/] [528] [301 Moved Permanently] [cloudflare] [104.18.4.92] [cloudflare] [50.475201ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://www.cryptoys.com [301] [https://digitoys.io:443/] [134] [301 Moved Permanently] [awselb/2.0] [35.173.72.1] [332.849707ms] [Amazon ELB,Amazon Web Services]
+http://staging.cryptoys.com [301] [https://staging.cryptoys.com/] [167] [301 Moved Permanently] [CloudFront] [13.249.74.11] [cloudfront] [4.993376ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 302
+https://atarigft.everyrealm.com [302] [https://gftshoppe.com/atari] [0] [Squarespace] [198.49.23.145] [412.480219ms] [Squarespace,Squarespace Commerce]
+https://market.cryptoys.com [302] [https://market.digitoys.io/] [0] [CloudFront] [18.239.199.118] [cloudfront] [163.461429ms] [Amazon CloudFront,Amazon Web Services]
+https://gpvpn.coinswitch.co [302] [/global-protect/login.esp] [173] [] [43.204.197.203] [938.231474ms] [HSTS]
+https://status.cryptoys.com [302] [https://cryptoys.statuspage.io] [0] [AtlassianEdge] [18.244.214.97] [cloudfront] [338.504276ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,HSTS,HTTP/3]
+
+## 307
+https://go.cryptoys.com [307] [https://cryptoys.com/] [15] [Vercel] [76.76.21.22] [118.712683ms] [HSTS,Vercel]
+
+## 308
+https://auth.cryptoys.com [308] [/sign-in] [8] [] [77.112.205.255] [259.652243ms]
+https://account.cryptoys.com [308] [/account/overview] [17] [] [77.112.205.255] [308.009623ms]
+https://play.cryptoys.com [308] [/backpack] [9] [] [77.112.205.255] [251.60254ms]
+
+## 401
+
+## 403
+https://dev.coinswitch.co [403] [] [4908] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.92] [cloudflare] [70.297385ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://cs-india-uat.coinswitch.co [403] [] [4908] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.92] [cloudflare] [154.912134ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://api.cryptoys.com [403] [] [23] [Server] [18.190.84.30] [291.98445ms] [Dart,Shelf]
+https://cdn.everyrealm.com [403] [] [111] [AmazonS3] [65.8.54.9] [cloudfront] [396.082096ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://ie-uat.coinswitch.co [403] [] [4908] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.92] [cloudflare] [48.114805ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://api.coinswitch.co [403] [] [42] [] [13.249.74.3] [cloudfront] [588.287665ms] [Amazon CloudFront,Amazon Web Services]
+https://devapi.coinswitch.co [403] [] [42] [] [108.139.10.45] [cloudfront] [598.503538ms] [Amazon CloudFront,Amazon Web Services]
+https://nexus.coinswitch.co [403] [] [4908] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.92] [cloudflare] [55.156214ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://files.coinswitch.co [403] [] [111] [cloudflare] [104.18.5.92] [cloudflare] [716.133196ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management]
+https://cs-web-seo-dashboard.coinswitch.co [403] [] [4908] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.92] [cloudflare] [1.058848397s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://files-pro-preprod.coinswitch.co [403] [] [111] [AmazonS3] [18.238.192.22] [cloudfront] [809.628023ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://files-pro.coinswitch.co [403] [] [111] [cloudflare] [104.18.5.92] [cloudflare] [884.548076ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management]
+https://uat-eks-proxy.coinswitch.co [403] [] [17] [cloudflare] [104.18.5.92] [cloudflare] [77.139272ms] [Cloudflare,Cloudflare Bot Management]
+https://static.everyrealm.com [403] [] [111] [AmazonS3] [65.8.54.9] [cloudfront] [305.06265ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://sandboxapi.coinswitch.co [403] [] [42] [] [65.8.54.66] [cloudfront] [589.939714ms] [Amazon CloudFront,Amazon Web Services]
+https://sitemap.coinswitch.co [403] [] [243] [AmazonS3] [3.168.86.2] [cloudfront] [772.090706ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://cdn.staging.cryptoys.com [404] [] [301] [AmazonS3] [3.169.183.13] [cloudfront] [276.476042ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://cdn.cryptoys.com [404] [] [301] [AmazonS3] [18.173.121.96] [cloudfront] [307.094212ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://dev-files.coinswitch.co [404] [] [299] [AmazonS3] [18.173.121.47] [cloudfront] [650.541602ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://mta-sts.coinswitch.co [404] [] [548] [404 Not Found] [] [141.144.203.184] [567.827689ms] [HSTS]
+https://support.cryptoys.com [404] [] [9] [] [3.168.86.69] [cloudfront] [456.651032ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://uat-eks.coinswitch.co [404] [] [0] [istio-envoy] [18.155.202.84] [cloudfront] [1.968453573s] [Amazon CloudFront,Amazon Web Services]
+
+## 500
+
+## 502
+
+## 503
+https://partners.cryptoys.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [18.190.84.30] [241.546102ms] [Amazon ELB,Amazon Web Services]
+https://toykenmarket.cryptoys.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [77.112.205.255] [245.25894ms] [Amazon ELB,Amazon Web Services]
+https://partners-mumbai.coinswitch.co [503] [] [0] [awselb/2.0] [3.111.229.94] [947.990233ms] [Amazon ELB,Amazon Web Services]
+

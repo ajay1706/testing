@@ -1,0 +1,6 @@
+https://cdn.staging.cryptoys.com [404] [] [301] [AmazonS3] [3.169.183.13] [cloudfront] [276.476042ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://cdn.cryptoys.com [404] [] [301] [AmazonS3] [18.173.121.96] [cloudfront] [307.094212ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://dev-files.coinswitch.co [404] [] [299] [AmazonS3] [18.173.121.47] [cloudfront] [650.541602ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://mta-sts.coinswitch.co [404] [] [548] [404 Not Found] [] [141.144.203.184] [567.827689ms] [HSTS]
+https://support.cryptoys.com [404] [] [9] [] [3.168.86.69] [cloudfront] [456.651032ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://uat-eks.coinswitch.co [404] [] [0] [istio-envoy] [18.155.202.84] [cloudfront] [1.968453573s] [Amazon CloudFront,Amazon Web Services]
