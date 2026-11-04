@@ -1,0 +1,5 @@
+https://gateway.autograph.io [301] [https://autograph.mypinata.cloud/] [167] [301 Moved Permanently] [cloudflare] [99.84.215.35] [cloudfront] [152.425039ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://links.azragames.com [301] [https://www.azragames.com/] [166] [301 Moved Permanently] [cloudflare] [44.229.220.222] [506.424674ms] [Cloudflare,HTTP/3]
+https://www.azragames.com [301] [https://azragames.com/] [0] [cloudflare] [141.193.213.11] [3.260324748s] [Cloudflare,Cloudflare Bot Management,HTTP/3,WP Engine,WordPress]
+http://www.flycar.blackbird.xyz [301] [https://www.flycar.blackbird.xyz/] [167] [301 Moved Permanently] [CloudFront] [18.155.173.91] [cloudfront] [5.067325751s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://www.shop.azragames.com [301] [https://shop.azragames.com/] [0] [] [34.117.223.165] [google] [3.132898171s] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]

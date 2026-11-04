@@ -1,0 +1,4 @@
+https://admin-mcp.api.blackbird.xyz [502] [] [122] [502 Bad Gateway] [awselb/2.0] [52.86.222.47] [208.997163ms] [Amazon ELB,Amazon Web Services]
+https://admin-mcp.dev.blackbird.xyz [502] [] [122] [502 Bad Gateway] [awselb/2.0] [100.28.136.68] [209.0851ms] [Amazon ELB,Amazon Web Services]
+https://admin-mcp.staging.blackbird.xyz [502] [] [122] [502 Bad Gateway] [awselb/2.0] [100.27.160.116] [223.74952ms] [Amazon ELB,Amazon Web Services]
+https://api.dev.blackbird.xyz [502] [] [122] [502 Bad Gateway] [] [54.88.194.140] [279.996105ms] [Amazon ALB,Amazon Web Services]

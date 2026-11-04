@@ -1,0 +1,5 @@
+https://blackbird.xyz [302] [https://www.blackbird.xyz/] [0] [] [13.227.47.15] [cloudfront] [241.01917ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://go.azragames.com [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=go.azragames.com] [114] [nginx] [67.199.248.13] [188.593408ms] [HSTS,HTTP/3,Nginx]
+https://isengard.azragames.com [302] [/auth/login] [0] [Google Frontend] [142.251.34.83] [google] [199.448171ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://login-dev.blackbird.xyz [302] [https://blackbird.xyz/] [44] [cloudflare] [104.18.43.182] [cloudflare] [231.070435ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://status.autograph.io [302] [https://status.autograph.io/page-deleted] [0] [AtlassianEdge] [99.84.215.101] [cloudfront] [283.189019ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,HSTS,HTTP/3]
