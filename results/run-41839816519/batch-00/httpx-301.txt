@@ -1,0 +1,5 @@
+https://arc.io [301] [https://www.arc.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [117.458755ms] [Cloudflare,HSTS,HTTP/3]
+http://hype-orders.axiom.trade [301] [https://hype-orders.axiom.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.42.221] [cloudflare] [29.6992ms] [Cloudflare,Cloudflare Bot Management]
+http://hype-eucalyptus.axiom.trade [301] [https://hype-eucalyptus.axiom.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.41.35] [cloudflare] [4.055184922s] [Cloudflare,Cloudflare Bot Management]
+http://pulse-rh-v2-1.axiom.trade [301] [https://pulse-rh-v2-1.axiom.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.42.221] [cloudflare] [3.039542989s] [Cloudflare,Cloudflare Bot Management]
+http://www.asterdex.com [301] [https://www.asterdex.com/] [167] [301 Moved Permanently] [CloudFront] [3.170.42.90] [cloudfront] [34.20722ms] [Amazon CloudFront,Amazon Web Services]

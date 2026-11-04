@@ -1,0 +1,2 @@
+https://base.axiom.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbase.axiom.trade%2F&nonce=9bd30d959837b378750a5bedaf7a44555089875aa7454bcf211aecee1fbbb8cb] [263] [cloudflare] [172.66.41.35] [cloudflare] [145.451058ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://asterdex.com [302] [https://www.asterdex.com/] [138] [302 Found] [] [3.170.42.90] [cloudfront] [690.611766ms] [Amazon CloudFront,Amazon Web Services,HSTS]
