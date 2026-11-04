@@ -1,0 +1,8 @@
+https://arbital.xyz [308] [https://www.arbital.xyz/] [15] [cloudflare] [172.67.68.169] [cloudflare] [167.938642ms] [Cloudflare,HSTS,Vercel]
+https://beta.ponsfamily.com [308] [/launchpad] [15] [Vercel] [216.150.1.1] [154.647454ms] [HSTS,Vercel]
+https://docs.kalshi.com [308] [/welcome] [0] [Vercel] [76.76.21.61] [392.536626ms] [Cloudflare,HSTS,Vercel]
+https://fcm.kalshi.com [308] [https://klearing.kalshi.com/] [15] [Vercel] [64.239.109.193] [129.801672ms] [HSTS,Vercel]
+https://perpsxdex.xyz [308] [https://www.perpsxdex.xyz/] [15] [Vercel] [216.150.1.1] [348.239723ms] [HSTS,Vercel]
+https://ponsfamily.com [308] [/launchpad] [15] [Vercel] [216.150.1.193] [118.757995ms] [HSTS,Vercel]
+https://saphyre.xyz [308] [https://www.saphyre.xyz/] [15] [Vercel] [216.150.16.129] [252.244265ms] [HSTS,Vercel]
+https://www.ponsfamily.com [308] [https://ponsfamily.com/] [169] [308 Permanent Redirect] [cloudflare] [172.67.164.86] [cloudflare] [128.451805ms] [Cloudflare]
