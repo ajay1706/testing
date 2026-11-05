@@ -1,0 +1,51 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] tron.bullx.io:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tron.bullx.io:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] twitter.payments.moderato.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] twitter.payments.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] valscope.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] twitter.payments.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] twitter.payments.moderato.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] valscope-testnet.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] unified-prod.nats.realtime.pump.fun:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] unified-devnet.nats.realtime.pump.fun:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] valscope.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] valscope-testnet.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] unified-prod.nats.realtime.pump.fun:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] w.accounts.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] verify.bags.fm:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] unified-devnet.nats.realtime.pump.fun:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wap.redotpay.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wallet.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] w.accounts.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wallet.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] verify.bags.fm:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ws.gmgn.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ws.gmgn.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.axiom.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.axiom.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.gmgn.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.gmgn.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.letsbonk.fun:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.letsbonk.fun:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.pacifica.fi:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.pacifica.fi:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[postgres-exporter-metrics] [http] [low] https://vaults-api.relay.link/metrics
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://tools.subwallet.app
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://tools.subwallet.app
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://tools.subwallet.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ui-preview.subwallet.app
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ui-preview.subwallet.app
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ui-preview.subwallet.app
+[prometheus-metrics] [http] [medium] https://vaults-api.relay.link/metrics
+[package-json] [http] [low] https://web-runner-cron.subwallet.app/package.json
+[graphiql-exposure] [http] [low] https://vaults-api.relay.link/graphql
+[kubernetes-fake-certificate] [ssl] [low] us-west-2.stg.predict.fun:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] us-west-2.stg.predict.fun:443
+[expired-ssl] [ssl] [low] travel.holyheld.com:443 ["2023-10-05 06:07:43 +0000 UTC"]
+[expired-ssl] [ssl] [low] trade.devnet.tempo.xyz:443 ["2026-06-07 21:31:54 +0000 UTC"]
+[expired-ssl] [ssl] [low] v8.bullx.io:443 ["2024-10-31 20:24:00 +0000 UTC"]
+[expired-ssl] [ssl] [low] votehub.holyheld.com:443 ["2023-10-05 06:07:43 +0000 UTC"]
+[expired-ssl] [ssl] [low] vote.holyheld.com:443 ["2023-10-05 06:07:43 +0000 UTC"]
+[expired-ssl] [ssl] [low] www.vote.holyheld.com:443 ["2023-10-05 06:07:43 +0000 UTC"]
