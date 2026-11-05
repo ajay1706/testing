@@ -1,0 +1,81 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.bags.fm:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] discover2.axiom.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] discover2.axiom.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.bags.fm:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] discover1.axiom.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] discover1.axiom.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.bungee.exchange:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.bungee.exchange:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] docs.mpp.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] docs.mpp.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dotinsights-be.subwallet.app:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dotinsights-be.subwallet.app:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] download.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] download.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eth-v2-api2.axiom.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eth-v2-api2.axiom.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eth-v2-api4.axiom.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eth-v2-api4.axiom.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eth-v2-orders.axiom.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eth-v2-orders.axiom.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] eucalyptus.axiom.trade:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] eucalyptus.axiom.trade:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] exa.mpp.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] exa.mpp.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] exa.payments.moderato.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] exa.payments.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] exa.payments.moderato.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] exa.payments.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.31318.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.31318.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.42431.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.42431.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.4217.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.devnet.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.4217.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.devnet.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.mainnet.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.mainnet.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.nextfork.devnet.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.moderato.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.nextfork.devnet.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.moderato.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.presto.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.presto.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.testnet.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.zone-prover.devnet.tempo.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.testnet.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.zone-prover.devnet.tempo.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2023-6114] [http] [high] https://download.tempo.xyz/wp-content/backups-dup-lite/tmp/
+[exposed-vscode] [http] [medium] https://download.tempo.xyz/.vscode/
+[unauthenticated-duplicator-disclosure] [http] [medium] https://download.tempo.xyz/wp-content/backups-dup-lite/tmp/
+[backup-directory-listing] [http] [low] https://download.tempo.xyz/backup/
+[wp-email-subscribers-listing] [http] [low] https://download.tempo.xyz/wp-content/plugins/email-subscribers
+[cobbler-exposed-directory] [http] [medium] https://download.tempo.xyz/cobbler/
+[cobbler-exposed-directory] [http] [medium] https://download.tempo.xyz/cblr/
+[CVE-2020-15081] [http] [low] https://download.tempo.xyz/upload/
+[wp-mstore-plugin-listing] [http] [low] https://download.tempo.xyz/wp-content/plugins/mstore-api/
+[awstats-listing] [http] [low] https://download.tempo.xyz/awstats/data
+[CVE-2023-6505] [http] [high] https://download.tempo.xyz/wp-content/uploads/prime-mover-export-files/1/
+[alfacgiapi-wordpress] [http] [low] https://download.tempo.xyz/wp-includes/ALFA_DATA/
+[alfacgiapi-wordpress] [http] [low] https://download.tempo.xyz/wp-content/uploads/alm_templates/ALFA_DATA/alfacgiapi/
+[alfacgiapi-wordpress] [http] [low] https://download.tempo.xyz/ALFA_DATA/alfacgiapi/
+[alfacgiapi-wordpress] [http] [low] https://download.tempo.xyz/cgi-bin/ALFA_DATA/alfacgiapi/
+[laravel-sessions-exposure] [http] [high] https://download.tempo.xyz/storage/framework/sessions/
+[node-ecstatic-listing] [http] [low] https://download.tempo.xyz/img/
+[CVE-2024-2340] [http] [medium] https://download.tempo.xyz/wp-content/uploads/fusion-forms/
+[CVE-2023-6592] [http] [medium] https://download.tempo.xyz/wp-content/plugins/fastdup/logs/
+[claude-code-agents] [http] [low] https://download.tempo.xyz/.claude/agents/
+[claude-code-agents:agent_files] [http] [low] https://download.tempo.xyz/.claude/agents/index.md [">index.md<"]
+[claude-code-agents:agent_files] [http] [low] https://download.tempo.xyz/.claude/agents/README.md [">README.md<"]
+[claude-code-agents:agent_files] [http] [low] https://download.tempo.xyz/.claude/agents/code-reviewer.md [">code-reviewer.md<"]
+[wordpress-super-forms] [http] [low] https://download.tempo.xyz/wp-content/plugins/super-forms/
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://docs.trueo.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://docs.trueo.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://docs.trueo.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://dotinsights.subwallet.app
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://dotinsights.subwallet.app
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://dotinsights.subwallet.app
+[CVE-2022-2544] [http] [high] https://download.tempo.xyz/wp/wp-content/uploads/wpjobboard/
