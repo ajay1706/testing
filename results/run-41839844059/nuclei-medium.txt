@@ -1,0 +1,3 @@
+[CVE-2023-5561] [http] [medium] https://azragames.com/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[CVE-2023-5561] [http] [medium] https://www.azragames.com/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[CVE-2026-27454] [http] [medium] https://forum.nym.com/posts/6199.json?version=1
