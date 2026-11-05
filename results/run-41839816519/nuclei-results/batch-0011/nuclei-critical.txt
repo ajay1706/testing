@@ -1,0 +1,4 @@
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://solana.pump.fun/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2026-33032] [http] [critical] https://rpc.quicknode.mainnet.arc.io/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc.quicknode.testnet.arc.io/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc.testnet.arc.io/mcp_message
