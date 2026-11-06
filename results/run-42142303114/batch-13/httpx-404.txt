@@ -1,0 +1,2 @@
+https://token-api.zama.org [404] [] [21] [cloudflare] [172.66.151.95] [cloudflare] [108.937214ms] [Cloudflare]
+https://relayer.testnet.zama.org [404] [] [103] [cloudflare] [104.20.45.246] [cloudflare] [605.232284ms] [Cloudflare]
