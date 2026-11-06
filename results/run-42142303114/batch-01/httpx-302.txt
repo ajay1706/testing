@@ -1,0 +1,5 @@
+https://creator.bigtime.gg [302] [https://creator.bigtime.gg/?rb.routing.mode=proxy&rb.routing.signature=480775] [0] [cloudflare] [104.20.23.88] [cloudflare] [174.409789ms] [Cloudflare,HSTS]
+https://invite.bigtime.gg [302] [https://invite.bigtime.gg/?rb.routing.mode=proxy&rb.routing.signature=954423] [0] [cloudflare] [104.20.23.88] [cloudflare] [117.460333ms] [Cloudflare,HSTS]
+https://play.bigtime.gg [302] [https://dl.patchkit.net/d/2whl14sfh3x5go1rgi7u/direct] [0] [] [52.72.49.79] [89.819697ms] [HSTS]
+https://support.axieinfinity.com [302] [https://support.axieinfinity.com/hc] [0] [cloudflare] [216.198.53.6] [112.789701ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://support-axieorigin.axieinfinity.com [302] [https://support-axieorigin.axieinfinity.com/hc] [0] [cloudflare] [216.198.53.6] [129.898795ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
