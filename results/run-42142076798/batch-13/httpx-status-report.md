@@ -1,0 +1,38 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov  6 01:22:35 UTC 2026
+
+HTTPX lines: 9
+Live URLs: 9
+
+## 200
+https://app.velar.com [200] [] [1756] [Velar DEX | Seamless Swaps on Bitcoin] [Netlify] [98.84.224.111] [269.999518ms] [HSTS,Netlify]
+https://perpdex.velar.com [200] [] [1558] [Velar PerpDex | Perpetual Trading on Bitcoin] [Netlify] [18.208.88.157] [278.698457ms] [HSTS,Netlify]
+https://bridge.velar.com [200] [] [1477] [Velar Bridge] [Netlify] [98.84.224.111] [453.766747ms] [HSTS,Netlify]
+https://velar.com [200] [] [209084] [Velar] [Netlify] [75.2.60.5] [281.079339ms] [Gatsby:5.14.0,Google Analytics,HSTS,Netlify,React,Webpack,jsDelivr,particles.js]
+https://testnet-perpdex.velar.com [200] [] [917] [Velar Perp Dex] [Netlify] [98.84.224.111] [931.562811ms] [HSTS,Netlify]
+https://labs.velar.com [200] [] [143201] [Velar Labs] [Netlify] [98.84.224.111] [782.504416ms] [Gatsby:5.13.5,Google Analytics,HSTS,Netlify,React,Webpack]
+https://status.velar.com [200] [] [347741] [Velar | Health  status] [] [167.235.220.62] [602.984885ms] [Google Analytics,HSTS,Stimulus]
+
+## 301
+https://www.velar.com [301] [https://velar.com/] [33] [Netlify] [98.84.224.111] [195.281756ms] [HSTS,Netlify]
+
+## 302
+
+## 307
+https://docs.velar.com [307] [https://docs.velar.com/velar/] [15] [cloudflare] [104.18.40.47] [cloudflare] [192.362162ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+
+## 500
+
+## 502
+
+## 503
+
