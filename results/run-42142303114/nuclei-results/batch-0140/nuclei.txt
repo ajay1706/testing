@@ -1,0 +1,73 @@
+[CVE-2022-41697] [http] [medium] https://geth.golem.network/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://geth2.golem.network/ghost/api/admin/session
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana.production.cloud.pixels.xyz/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2026-26980] [http] [critical] https://geth.golem.network/ghost/api/content/tags/?key=16eb5917a0f29f5cad26aacf5b&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-aleksandra-2]
+[CVE-2026-26980] [http] [critical] https://geth2.golem.network/ghost/api/content/tags/?key=16eb5917a0f29f5cad26aacf5b&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-aleksandra-2]
+[CVE-2026-27454] [http] [medium] https://gov.vitadao.com/posts/5705.json?version=1
+[weak-cipher-suites:tls-1.0] [ssl] [low] genesis.spaceandtime.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] genesis.spaceandtime.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] girepo.new.golem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] girepo.new.golem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] go.natix.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] go.sia.tech:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] go.natix.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] go.sia.tech:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] goldlantern.staratlas.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] goldlantern.staratlas.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] golem-stats2-staging.dev-test.golem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] golem-stats2-staging.dev-test.golem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] golem-bootdocker.cdn.golem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] golem-releases.cdn.golem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] golem-app-definitions.cdn.golem.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] golem-app-definitions.cdn.golem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] golem-releases.cdn.golem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] golem-bootdocker.cdn.golem.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.natix.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.natix.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana.production.cloud.pixels.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana.production.cloud.pixels.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grants.nosana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grants.nosana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] graphql-gateway.axieinfinity.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] graphql-agent-app.subquery.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] graphql-gateway.axieinfinity.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gu-public-api.prod.prod.godsunchained.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gu-public-api.prod.prod.godsunchained.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] help.app.natix.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] help.app.natix.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] help.pixels.xyz:443 ["[tls12 TLS_RSA_WITH_AES_128_CBC_SHA]"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://guide.spaceandtime.io
+[ds-store-file] [http] [low] https://glm.golem.network/.DS_Store
+[ds-store-file] [http] [low] https://glm.dev.golem.network/.DS_Store
+[grafana-metrics-exposure:version] [http] [low] https://grafana.dev.golem.network/metrics ["13.0.2"]
+[kube-state-metrics] [http] [low] https://grafana.dev.golem.network/metrics
+[kubernetes-metrics] [http] [low] https://grafana.dev.golem.network/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.dev.golem.network/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.production.cloud.pixels.xyz/metrics ["11.5.2"]
+[grafana-metrics-exposure:version] [http] [low] https://grafana.nonprod.cloud.pixels.xyz/metrics ["12.2.1"]
+[kubernetes-metrics] [http] [low] https://grafana.production.cloud.pixels.xyz/metrics
+[kubernetes-metrics] [http] [low] https://grafana.nonprod.cloud.pixels.xyz/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.production.cloud.pixels.xyz/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.nonprod.cloud.pixels.xyz/metrics
+[grafana-metrics-exposure:version] [http] [low] https://grafana.goldsky.com/metrics ["12.4.14"]
+[kubernetes-metrics] [http] [low] https://grafana.goldsky.com/metrics
+[postgres-exporter-metrics] [http] [low] https://grafana.goldsky.com/metrics
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://glm.dev.golem.network
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://glm.dev.golem.network
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://glm.dev.golem.network
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://glm.golem.network
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://glm.golem.network
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://glm.golem.network
+[aws-object-listing] [http] [low] https://golem-app-definitions.cdn.golem.network ["golem-app-definitions"]
+[aws-object-listing] [http] [low] https://golem-bootdocker.cdn.golem.network ["golem-bootdocker"]
+[aws-object-listing] [http] [low] https://gpu-live.cdn.golem.network ["repo-golem-gpu-live"]
+[graphiql-exposure] [http] [low] https://hm.dict-tyk.subquery.network/graphiql
+[self-signed-ssl] [ssl] [low] garbo9-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] garbo6-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] garbo4-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] garbo5-prod.realms.pixels.xyz:443
+[expired-ssl] [ssl] [low] gateway.golem.network:443 ["2025-05-24 18:57:34 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] goglem.dev.golem.network:443
+[kubernetes-fake-certificate] [ssl] [low] grafana.data.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] grafana.data.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] hath-prod.realms.pixels.xyz:443
