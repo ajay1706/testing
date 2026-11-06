@@ -1,0 +1,15 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] 3min.zama.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 3min.zama.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] 6min.zama.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] 6min.zama.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[kubernetes-fake-certificate] [ssl] [low] account.preview.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] account.preview.pixels.xyz:443
+[kubernetes-fake-certificate] [ssl] [low] account3.preview.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] account3.preview.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] alex-test-5555-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] alex-test-prod.realms.pixels.xyz:443
+[kubernetes-fake-certificate] [ssl] [low] amazing9.preview.cloud.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] amazing9.preview.cloud.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] aleph-proxy-homepage.aleph.cloud:443
+[expired-ssl] [ssl] [low] airdrop.aethir.com:443 ["2026-09-26 09:36:11 +0000 UTC"]
+[expired-ssl] [ssl] [low] alpha.docs.golem.network:443 ["2024-08-19 04:58:45 +0000 UTC"]
