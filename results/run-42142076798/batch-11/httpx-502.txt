@@ -1,0 +1,1 @@
+http://jenkins.stafi.io [502] [] [2916] [GitLab is not responding (502)] [nginx] [5.75.168.174] [198.752473ms] [Nginx]

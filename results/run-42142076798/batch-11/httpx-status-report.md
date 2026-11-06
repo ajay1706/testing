@@ -1,0 +1,86 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov  6 01:21:30 UTC 2026
+
+HTTPX lines: 57
+Live URLs: 57
+
+## 200
+https://accomplice.staderlabs.com [200] [] [3055] [Stader] [] [199.36.158.100] [199.537871ms] [Firebase,HSTS,HTTP/3,React]
+https://apis-v2.staderlabs.com [200] [] [4606] [Welcome to Firebase Hosting] [] [199.36.158.100] [157.191304ms] [Firebase,HSTS,HTTP/3]
+https://docs-new.staderlabs.com [200] [] [3635] [StaderLabs docs] [] [199.36.158.100] [25.43716ms] [Docusaurus:2.4.1,Firebase,HSTS,HTTP/3,React,Webpack]
+https://dacm.staderlabs.com [200] [] [3055] [Stader] [] [199.36.158.100] [182.534757ms] [Firebase,HSTS,HTTP/3,React]
+https://beta.staderlabs.com [200] [] [183938] [Liquid Staking - Best Crypto Staking Platform of 2025 | Stader Labs] [AmazonS3] [3.171.85.18] [cloudfront] [93.337021ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager]
+https://docs.stafi.io [200] [] [22199] [GitHub] [AmazonS3] [3.162.103.88] [cloudfront] [74.858163ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://binance.docs.staderlabs.com [200] [] [267028] [BNBX FAQs] [cloudflare] [104.18.40.47] [cloudflare] [328.696078ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://audits.staderlabs.com [200] [] [290958] [Hedera | Stader Labs - Audit Reports] [cloudflare] [104.18.40.47] [cloudflare] [272.534399ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.stake.link [200] [] [64614] [stake.link Docs: Liquid Staking for LINK, POL & ESP] [nginx/1.29.8] [18.67.65.52] [cloudfront] [717.682937ms] [Amazon CloudFront,Amazon Web Services,Astro:7.3.5,Google Analytics,HSTS,Nginx:1.29.8,Starlight:0.42.3]
+https://dao.stafi.io [200] [] [170002] [StaFi Governance] [nginx] [167.235.79.1] [615.753508ms] [Discourse:3.4.0,HSTS,Nginx,Ruby on Rails]
+https://docs.staderlabs.com [200] [] [300140] [FAQs | HBARX FAQs] [cloudflare] [104.18.40.47] [cloudflare] [317.796541ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://hypersphere.staderlabs.com [200] [] [3055] [Stader] [] [199.36.158.100] [5.123819986s] [Firebase,HSTS,HTTP/3,React]
+https://polygon.docs.staderlabs.com [200] [] [275474] [Polygon staking on Stader | MaticX FAQs] [cloudflare] [104.18.40.47] [cloudflare] [237.599489ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://rtoken-api.stafi.io [200] [] [16] [nginx/1.14.0 (Ubuntu)] [18.136.17.144] [1.969401603s] [Nginx:1.14.0,Ubuntu]
+https://stakeplus.staderlabs.com [200] [] [3055] [Stader] [] [199.36.158.100] [296.533356ms] [Firebase,HSTS,HTTP/3,React]
+https://stake.link [200] [] [17094] [Liquid Staking for the Chainlink Ecosystem | stake.link] [nginx/1.31.8] [3.171.38.71] [cloudfront] [406.835675ms] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx:1.31.8]
+https://staderlabs.com [200] [] [182599] [Liquid Staking - Best Crypto Staking Platform of 2025 | Stader Labs] [AmazonS3] [3.170.19.79] [cloudfront] [34.490593ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS]
+https://stage.staderlabs.com [200] [] [183903] [Liquid Staking - Best Crypto Staking Platform of 2023 | Stader Labs] [AmazonS3] [13.226.238.33] [cloudfront] [151.515609ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS]
+https://proposals.stafi.io [200] [] [225641] [StaFi Improvement Proposals] [AmazonS3] [13.226.209.90] [cloudfront] [2.681427324s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://talk.stake.link [200] [] [223425] [stake.link Governance Forum] [nginx] [216.66.8.75] [349.252345ms] [Discourse:2026.11.0,HSTS,Nginx,Ruby on Rails]
+https://www.staderlabs.com [200] [] [182599] [Liquid Staking - Best Crypto Staking Platform of 2025 | Stader Labs] [AmazonS3] [3.170.19.80] [cloudfront] [3.127613956s] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS]
+
+## 301
+http://blog.staderlabs.com [301] [https://blog.staderlabs.com/] [528] [301 Moved Permanently] [cloudflare] [162.159.153.4] [cloudflare] [19.017884ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app.stake.link [301] [https://stake.link/] [0] [] [89.107.20.72] [254.860385ms] [HSTS]
+https://hedera.staderlabs.com [301] [https://staderlabs.com:443/hedera/] [134] [301 Moved Permanently] [awselb/2.0] [100.63.171.216] [166.742129ms] [Amazon ELB,Amazon Web Services]
+
+## 302
+https://docs.internal.stake.link [302] [https://linkpool.ui.com/gw/idp/api/v1/public/oauth/cf89f26c-18dd-416b-aa62-f67ef95970a1/authorize?client_id=hhoekvypgl7o3v3bk2acksxnu&code_challenge=dEkIJfy3Uy7vZ0wbEi4ybUq2CUAY8vQy1PDu5xbWwpk&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fdocs.internal.stake.link%2Foauth2%2Fcallback&response_type=code&scope=openid%20email%20profile&state=eyJ1cmwiOiJodHRwczovL2RvY3MuaW50ZXJuYWwuc3Rha2UubGluay8iLCJjc3JmX3Rva2VuIjoiNmViMTgwYmMwMmNkMTM0Yy5saEZsWGhsQjRiTGVNcDNoWkhVc0JxeG5NT1ZnaVJoNUM2T3RoWXZycS9zPSIsImZsb3dfaWQiOiI2ZWIxODBiYzAyY2QxMzRjIn0] [0] [] [3.171.76.56] [cloudfront] [473.953704ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://origin.docs.internal.stake.link [302] [https://linkpool.ui.com/gw/idp/api/v1/public/oauth/cf89f26c-18dd-416b-aa62-f67ef95970a1/authorize?client_id=hhoekvypgl7o3v3bk2acksxnu&code_challenge=Y54J6VpAeZuac-4NrGF5BhvhmttW0CZFtm8oNhe6qJo&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fdocs.internal.stake.link%2Foauth2%2Fcallback&response_type=code&scope=openid%20email%20profile&state=eyJ1cmwiOiJodHRwczovL29yaWdpbi5kb2NzLmludGVybmFsLnN0YWtlLmxpbmsvIiwiY3NyZl90b2tlbiI6Ijc3ZWYwM2I0NTU4MGJmNWMuQ2tSRnRMeGJHMUc5Y2J3ZjFHVW8rM21HYU9JL0RsQjd6K3F1MC9LbTVQaz0iLCJmbG93X2lkIjoiNzdlZjAzYjQ1NTgwYmY1YyJ9] [0] [] [89.107.20.72] [6.261808443s] [HSTS]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://beta-yeilds.staderlabs.com [403] [] [42] [] [35.172.166.3] [52.204079ms]
+https://beta-yields.staderlabs.com [403] [] [42] [] [3.221.218.236] [110.522849ms]
+https://beta.universe.staderlabs.com [403] [] [42] [] [44.221.255.0] [201.664129ms]
+https://common.staderlabs.com [403] [] [42] [] [100.62.2.193] [51.57676ms]
+https://ethx-offchain.staderlabs.com [403] [] [42] [] [44.217.79.134] [124.396178ms]
+https://ethx-offchain-preprod.staderlabs.com [403] [] [42] [] [44.207.62.132] [150.725536ms]
+https://hedera-api.staderlabs.com [403] [] [42] [] [18.214.82.206] [2.131309006s]
+https://hedera-api-stage.staderlabs.com [403] [] [23] [] [18.214.82.206] [3.117393808s]
+https://origin.stake.link [403] [] [19] [] [89.107.20.72] [5.410036962s] [HSTS]
+https://stage-yields.staderlabs.com [403] [] [42] [] [98.80.162.200] [33.478138ms]
+https://stage.common.staderlabs.com [403] [] [42] [] [54.174.65.125] [31.800657ms]
+https://stage.universe.staderlabs.com [403] [] [42] [] [54.83.207.182] [33.397369ms]
+https://origin.docs.stake.link [403] [] [19] [] [89.107.20.72] [6.292325483s] [HSTS]
+https://stafi.io [403] [] [592] [StaFi] [nginx/1.24.0 (Ubuntu)] [138.199.171.229] [312.978191ms] [Nginx:1.24.0,Ubuntu]
+https://universe.staderlabs.com [403] [] [42] [] [98.95.222.187] [79.937869ms]
+https://yeilds.staderlabs.com [403] [] [42] [] [44.205.113.93] [75.481492ms]
+https://yields.staderlabs.com [403] [] [42] [] [54.146.180.7] [125.865552ms]
+https://www.stafi.io [403] [] [592] [StaFi] [nginx/1.24.0 (Ubuntu)] [138.199.171.229] [3.307978925s] [Nginx:1.24.0,Ubuntu]
+
+## 404
+https://apis.staderlabs.com [404] [] [21376] [Page Not Found] [] [199.36.158.100] [127.730278ms] [Firebase,HSTS,HTTP/3]
+https://api.stake.link [404] [] [0] [] [13.226.209.126] [cloudfront] [459.628358ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://eth-signature-verification.staderlabs.com [404] [] [23] [] [44.199.102.230] [129.979918ms]
+https://lt-apis.terra.staderlabs.com [404] [] [21376] [Page Not Found] [] [199.36.158.100] [3.126386427s] [Firebase,HSTS,HTTP/3]
+https://mcp.stake.link [404] [] [0] [] [3.170.19.7] [cloudfront] [2.550244458s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://origin.api.stake.link [404] [] [0] [] [89.107.20.72] [2.347065203s] [HSTS]
+https://mail.stafi.io [404] [] [495] [404 Not Found] [Tengine] [47.246.136.233] [5.536495879s] [Tengine]
+https://staderverse.staderlabs.com [404] [] [21376] [Page Not Found] [] [199.36.158.100] [53.263077ms] [Firebase,HSTS,HTTP/3]
+https://previews.stage.staderlabs.com [404] [] [345] [404 Not Found] [AmazonS3] [3.170.42.62] [cloudfront] [2.243578392s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://test.lt-apis.terra.staderlabs.com [404] [] [21376] [Page Not Found] [] [199.36.158.100] [54.188315ms] [Firebase,HSTS,HTTP/3]
+https://testing.apis.staderlabs.com [404] [] [21376] [Page Not Found] [] [199.36.158.100] [71.011094ms] [Firebase,HSTS,HTTP/3]
+https://token.stake.link [404] [] [19] [] [3.167.88.87] [cloudfront] [425.661493ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 500
+
+## 502
+http://jenkins.stafi.io [502] [] [2916] [GitLab is not responding (502)] [nginx] [5.75.168.174] [198.752473ms] [Nginx]
+
+## 503
+
