@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov  6 01:17:02 UTC 2026
+[+] Run ID: 42142076798
+[+] Batch name: batch-07
+[+] Batch targets:
+lofty.ai
+mento.org
+namefi.io
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov  6 01:19:29 UTC 2026
+[+] HTTPX input count: 234
+[+] Running httpx...
+[+] httpx completed: Fri Nov  6 01:19:54 UTC 2026
+[+] httpx line count: 106
+[+] Batch completed: Fri Nov  6 01:19:55 UTC 2026

@@ -1,0 +1,2 @@
+https://listmonk.namefi.io [502] [] [0] [Caddy] [34.66.53.169] [google] [1.185748874s] [Caddy,HTTP/3]
+https://marketing.namefi.io [502] [] [0] [Caddy] [34.66.53.169] [google] [1.124484652s] [Caddy,HTTP/3]

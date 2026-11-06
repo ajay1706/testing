@@ -1,0 +1,8 @@
+https://analytics.mento.org [301] [http://dune.com/mento-labs-eng/mento-v2] [74] [ip-10-124-5-88.us-west-2.compute.internal] [15.197.225.128] [293.079423ms]
+https://discord.mento.org [301] [https://discord.gg/Zszgng9NdF] [64] [ip-10-124-5-88.us-west-2.compute.internal] [15.197.225.128] [294.790954ms]
+https://go.lofty.ai [301] [https://www.lofty.ai/] [56] [nginx] [67.199.248.13] [176.668215ms] [HSTS,HTTP/3,Nginx]
+https://jobs.namefi.io [301] [https://jobs.namefi.io/] [0] [] [34.49.222.194] [google] [202.519946ms] [HTTP/3]
+https://learn.lofty.ai [301] [https://www.lofty.ai/help/] [0] [cloudflare] [172.67.161.115] [cloudflare] [150.657702ms] [Cloudflare,HTTP/3]
+https://lofty.ai [301] [https://www.lofty.ai/] [0] [cloudflare] [104.21.82.184] [cloudflare] [364.03508ms] [Cloudflare,HTTP/3]
+https://mento.org [301] [https://www.mento.org/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [437.964285ms] [Cloudflare,HSTS,HTTP/3]
+https://www.merch.lofty.ai [301] [https://merch.lofty.ai/] [0] [] [34.117.223.165] [google] [384.258825ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
