@@ -1,0 +1,6 @@
+https://blog.sia.tech [308] [https://sia.tech/blog/] [169] [308 Permanent Redirect] [cloudflare] [104.26.11.128] [cloudflare] [1.069433849s] [Cloudflare,HTTP/3]
+http://emails.sandbox.game [308] [https://emails.sandbox.game/] [0] [Caddy] [35.198.93.67] [google] [294.112272ms] [Caddy]
+https://experiment.staging.researchhub.com [308] [https://www.experiment.staging.researchhub.com/] [15] [Vercel] [216.150.1.193] [5.153229986s] [HSTS,Vercel]
+http://researchhub.com [308] [https://researchhub.com/] [14] [Vercel] [216.150.1.193] [2.053715039s] [Vercel]
+https://staging.researchhub.com [308] [https://www.staging.researchhub.com/] [15] [Vercel] [216.150.1.1] [2.108151117s] [HSTS,Vercel]
+https://www.sia.tech [308] [https://sia.tech/] [169] [308 Permanent Redirect] [cloudflare] [104.26.10.128] [cloudflare] [3.107912355s] [Cloudflare,HTTP/3]

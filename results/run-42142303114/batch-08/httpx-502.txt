@@ -1,0 +1,2 @@
+https://api-demo.sandbox.game [502] [] [16] [cloudflare] [104.18.19.61] [cloudflare] [199.325119ms] [Cloudflare,HSTS]
+https://test21212.sandbox.game [502] [] [16] [cloudflare] [104.18.19.61] [cloudflare] [1.08156891s] [Cloudflare]

@@ -1,0 +1,2 @@
+https://api-gm-demo.sandbox.game [503] [] [39] [cloudflare] [104.18.19.61] [cloudflare] [583.008321ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://whiterabbit-api.sandbox.game [503] [] [1706] [503 Service Temporarily Unavailable] [cloudflare] [104.18.19.61] [cloudflare] [3.165048208s] [Cloudflare,Cloudflare Bot Management,HSTS]
