@@ -1,0 +1,30 @@
+[CVE-2022-41697] [http] [medium] https://www.blog.golem.network/ghost/api/admin/session
+[CVE-2026-26980] [http] [critical] https://www.blog.golem.network/ghost/api/content/tags/?key=16eb5917a0f29f5cad26aacf5b&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-aleksandra-2]
+[weak-cipher-suites:tls-1.0] [ssl] [low] worldseek.natix.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] worldseek.natix.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.app.spaceandtime.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.app.spaceandtime.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[self-signed-ssl] [ssl] [low] ws.garbo11-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.garbo10-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.garbo12-prod.realms.pixels.xyz:443
+[expired-ssl] [ssl] [low] wildcard.webhost.iagon.com:443 ["2024-11-29 23:06:37 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] ws.garbo18-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.garbo5-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.garbo6-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.hyche-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.garbo9-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.my-game-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.msitemv3-dev.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.pengfa1-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.pjmck-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.pixels-remastered-dev.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.silkslugslime-dev.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.test-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.testies-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.throwaway1234-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] ws.whale-cove-dev.realms.pixels.xyz:443
+[expired-ssl] [ssl] [low] www.ario.oceanprotocol.com:443 ["2026-10-07 12:37:22 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] www.dev.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] www.dev.pixels.xyz:443
+[kubernetes-fake-certificate] [ssl] [low] www.dev.cloud.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] www.dev.cloud.pixels.xyz:443
