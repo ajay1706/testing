@@ -1,0 +1,7 @@
+https://app.defiplaza.net [301] [https://app.defiplaza.net/swap] [534] [301 Moved Permanently] [cloudflare] [104.21.66.184] [cloudflare] [107.207741ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://bridge.defiplaza.net [301] [https://app.defiplaza.net/bridge] [534] [301 Moved Permanently] [cloudflare] [104.21.66.184] [cloudflare] [125.414449ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://radix.defiplaza.net [301] [https://defiplaza.net/] [167] [301 Moved Permanently] [cloudflare] [172.67.206.196] [cloudflare] [143.586903ms] [Cloudflare,HSTS,HTTP/3]
+https://www.dexalot.com [301] [https://dexalot.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.40] [cloudflare] [93.64381ms] [Cloudflare]
+https://www.confetti.win [301] [https://confetti.win/] [36] [Netlify] [98.84.224.111] [216.155227ms] [HSTS,Netlify]
+http://static.defiplaza.net [301] [https://static.defiplaza.net/] [534] [301 Moved Permanently] [cloudflare] [104.21.66.184] [cloudflare] [41.670403ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://walletconnect.defiplaza.net [301] [https://walletconnect.defiplaza.net/] [534] [301 Moved Permanently] [cloudflare] [104.21.66.184] [cloudflare] [34.90174ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
