@@ -1,0 +1,25 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] analytics.researchhub.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] analytics.researchhub.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] analytics.share.pixels.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] analytics.share.production.cloud.pixels.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] analytics7.share.production.cloud.pixels.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] analytics.share.production.cloud.pixels.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] analytics7.share.production.cloud.pixels.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] analytics.share.pixels.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-dashboard.aethir.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-dashboard.aethir.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.godsunchained.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.godsunchained.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[self-signed-ssl] [ssl] [low] api.alex-test-5555-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] api.alex-test-prod.realms.pixels.xyz:443
+[expired-ssl] [ssl] [low] analytics.vana.org:443 ["2025-12-06 10:56:22 +0000 UTC"]
+[kubernetes-fake-certificate] [ssl] [low] api.dev.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] api.dev.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] api.garbo10-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] api.garbo12-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] api.garbo20-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] api.garbo4-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] api.hath-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] api.hyche-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] api.msitemv3-dev.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] api.my-game-prod.realms.pixels.xyz:443
