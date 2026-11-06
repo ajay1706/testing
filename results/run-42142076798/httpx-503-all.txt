@@ -1,0 +1,5 @@
+https://hooks.infra.gitcoin.co [503] [] [20] [] [46.62.227.166] [547.245916ms] [HTTP/3]
+https://indexer.threshold.network [503] [] [484] [cloudflare] [104.26.2.113] [cloudflare] [307.679948ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://minipay.mento.org [503] [] [99] [Vercel] [76.76.21.61] [538.576844ms] [HSTS,Vercel]
+https://moved-apicoop-rules.beacon-staging.gitcoin.co [503] [] [20] [] [18.245.113.111] [cloudfront] [492.258902ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://tap.beacon-staging.gitcoin.co [503] [] [20] [] [18.245.113.29] [cloudfront] [512.023684ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
