@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov  6 01:24:27 UTC 2026
+[+] Run ID: 42142303114
+[+] Batch name: batch-10
+[+] Batch targets:
+staratlas.com
+storj.io
+subquery.network
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov  6 01:26:52 UTC 2026
+[+] HTTPX input count: 647
+[+] Running httpx...
+[+] httpx completed: Fri Nov  6 01:29:04 UTC 2026
+[+] httpx line count: 133
+[+] Batch completed: Fri Nov  6 01:29:04 UTC 2026
