@@ -1,0 +1,6 @@
+https://account.natix.network [302] [https://account.natix.network/authentication/oauth/authorize?client_id=d2db91e7-4996-4c05-b9b3-0490743f9920&locale=en-US&nonce=032a2bec-359c-45d1-9912-88a57ac57619&redirect_uri=https%3A%2F%2Faccount.natix.network%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNIof9IvQlunMIbojriuROd] [0] [cloudflare] [23.227.38.74] [643.955783ms] [Cloudflare,HSTS,HTTP/3]
+https://go.natix.network [302] [https://go.natix.network/?rb.routing.mode=proxy&rb.routing.signature=389189] [0] [cloudflare] [104.26.11.163] [cloudflare] [290.125905ms] [Cloudflare,HSTS]
+https://grafana.natix.network [302] [/login] [29] [cloudflare] [172.67.73.132] [cloudflare] [728.87328ms] [Cloudflare]
+https://onyx.natix.network [302] [/login] [29] [cloudflare] [104.26.11.163] [cloudflare] [773.773333ms] [Cloudflare]
+https://passbolt.natix.network [302] [/auth/login?redirect=%2F] [0] [cloudflare] [104.26.10.163] [cloudflare] [819.75208ms] [Cloudflare,HSTS]
+https://sso.natix.network [302] [https://sso.natix.network/admin/] [0] [cloudflare] [104.26.10.163] [cloudflare] [767.80445ms] [Cloudflare,HSTS]
