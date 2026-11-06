@@ -1,0 +1,5 @@
+http://feedback.pixels.xyz [301] [https://feedback.pixels.xyz/] [0] [] [100.56.186.228] [1.329331071s]
+http://event-tracker.data.pixels.xyz [301] [https://event-tracker.data.pixels.xyz/] [17] [] [34.95.2.85] [google] [3.568586086s]
+http://m.rejuve.ai [301] [https://m.rejuve.ai/] [0] [] [34.149.87.45] [google] [46.766651ms] [Google Cloud,Google Cloud CDN,React,Wix]
+https://rejuve.ai [301] [https://www.rejuve.ai/] [0] [Pepyaka] [23.236.62.147] [google] [343.038868ms] [HSTS,React,Wix]
+https://www.parallel.life [301] [https://parallel.life/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.210] [cloudflare] [97.44049ms] [Cloudflare]
