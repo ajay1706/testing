@@ -1,0 +1,49 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] oauth.pixels.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] oauth.production.cloud.pixels.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] oauth.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] oauth.pixels.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] oauth.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] oauth.production.cloud.pixels.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] olek.axieinfinity.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] olek.axieinfinity.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] onyx.natix.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] onyx.natix.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] orchestrator-api-beta.iagon.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] orchestrator-beta.iagon.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] orchestrator-api-beta.iagon.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] orchestrator-beta.iagon.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] orchestrator-idx-beta.iagon.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] operator.aethir.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] orchestrator-mng-beta.iagon.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] orchestrator-idx-beta.iagon.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] orchestrator-mng-beta.iagon.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] operator.aethir.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] paper.parallel.life:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] paper.parallel.life:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] parallel.life:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] parallel.life:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[grafana-metrics-exposure:version] [http] [low] https://onyx.dev.natix.network/metrics ["12.0.1"]
+[grafana-metrics-exposure:version] [http] [low] https://onyx.natix.network/metrics ["12.0.1"]
+[kubernetes-metrics] [http] [low] https://onyx.dev.natix.network/metrics
+[kubernetes-metrics] [http] [low] https://onyx.natix.network/metrics
+[postgres-exporter-metrics] [http] [low] https://onyx.dev.natix.network/metrics
+[postgres-exporter-metrics] [http] [low] https://onyx.natix.network/metrics
+[kubernetes-fake-certificate] [ssl] [low] oauth.preview.cloud.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] oauth.preview.cloud.pixels.xyz:443
+[kubernetes-fake-certificate] [ssl] [low] offers.dev.cloud.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] offers.dev.cloud.pixels.xyz:443
+[kubernetes-fake-certificate] [ssl] [low] offers-dev.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] offers-dev.pixels.xyz:443
+[kubernetes-fake-certificate] [ssl] [low] offers.dev.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] offers.dev.pixels.xyz:443
+[kubernetes-fake-certificate] [ssl] [low] offers.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] offers.pixels.xyz:443
+[kubernetes-fake-certificate] [ssl] [low] offers.staging.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] offers.staging.pixels.xyz:443
+[kubernetes-fake-certificate] [ssl] [low] offers.preview.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] offers.preview.pixels.xyz:443
+[kubernetes-fake-certificate] [ssl] [low] opencost.toolbox.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] opencost.toolbox.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] onyx.dev.natix.network:443
+[self-signed-ssl] [ssl] [low] openbook.aleph.cloud:443
+[self-signed-ssl] [ssl] [low] openbook.api.aleph.cloud:443
