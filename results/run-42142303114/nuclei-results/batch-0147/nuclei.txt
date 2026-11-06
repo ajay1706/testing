@@ -1,0 +1,36 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] saga.staratlas.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] saga.staratlas.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] scraper-dev.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] scraper.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] scraper.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] scraper-dev.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sepolia.media.illuvium.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sepolia.media.illuvium.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] server-dev.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] server-dev.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] server.production.cloud.pixels.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] server.production.cloud.pixels.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] server.vana.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] server.vana.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] share.pixels.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] share.pixels.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] share.production.cloud.pixels.xyz:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] share.production.cloud.pixels.xyz:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] share.sia.tech:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] share.sia.tech:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[ds-store-file] [http] [low] https://ses.staratlas.com/.DS_Store
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://sdk.vana.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://sdk.vana.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://sdk.vana.org
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://security.golem.network
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://security.golem.network
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://security.golem.network
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ses.staratlas.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ses.staratlas.com
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ses.staratlas.com
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://shield.spaceandtime.io
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://shield.spaceandtime.io
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://shield.spaceandtime.io
+[self-signed-ssl] [ssl] [low] saber-indexer.aleph.cloud:443
+[self-signed-ssl] [ssl] [low] saber.aleph.cloud:443
+[expired-ssl] [ssl] [low] sandbox.portal.illuvium.io:443 ["2026-04-06 12:02:50 +0000 UTC"]
