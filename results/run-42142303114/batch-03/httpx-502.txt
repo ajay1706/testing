@@ -1,0 +1,2 @@
+https://base.geodnet.com [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [50.18.250.205] [212.058253ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://card.godsunchained.com [502] [] [36] [] [13.35.78.66] [cloudfront] [275.482313ms] [Amazon CloudFront,Amazon Web Services]
