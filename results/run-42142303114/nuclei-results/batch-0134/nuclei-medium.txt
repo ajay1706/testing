@@ -1,0 +1,4 @@
+[CVE-2022-41697] [http] [medium] https://blog.golem.network/ghost/api/admin/session
+[open-redirect-generic] [http] [medium] https://benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://benchmark.goldsky.com//interact.sh/en//
+[prometheus-metrics] [http] [medium] https://atomicassets-api.alienworlds.io/metrics
