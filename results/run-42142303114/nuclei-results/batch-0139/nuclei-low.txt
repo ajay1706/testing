@@ -1,0 +1,24 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] exchange-rate.axieinfinity.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] experience.staratlas.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] exchange-rate.axieinfinity.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore.nosana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explore-dev.nosana.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] experience.staratlas.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore-dev.nosana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explore.nosana.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] explorer-static.weatherxm.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] explorer-static.weatherxm.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] faucet.testnet.zama.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] faucet.testnet.zama.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] forum.sia.tech:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] forum.sia.tech:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://explorer.weatherxm.com ["AIzaSyCAJo8yAZDWING0shmnadk3GNrX4KzYMb0"]
+[google-api-key] [http] [low] https://explorer.weatherxm.com/hopfully404 ["AIzaSyCAJo8yAZDWING0shmnadk3GNrX4KzYMb0"]
+[package-json] [http] [low] https://events.staging.safe.vana.org/package.json
+[package-json] [http] [low] https://events.safe.vana.org/package.json
+[kubernetes-fake-certificate] [ssl] [low] event-tracker.preview.data.pixels.xyz:443 ["Issuer: Kubernetes Ingress Controller Fake Certificate"]
+[self-signed-ssl] [ssl] [low] event-tracker.preview.data.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] eth1-rpc.aleph.cloud:443
+[self-signed-ssl] [ssl] [low] garbo11-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] garbo18-prod.realms.pixels.xyz:443
+[self-signed-ssl] [ssl] [low] garbo20-prod.realms.pixels.xyz:443

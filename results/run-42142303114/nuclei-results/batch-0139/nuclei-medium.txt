@@ -1,0 +1,3 @@
+[CVE-2026-27454] [http] [medium] https://forum.decentraland.org/posts/112203.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.storj.io/posts/209741.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.sia.tech/posts/4589.json?version=1
