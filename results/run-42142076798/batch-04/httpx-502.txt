@@ -1,0 +1,2 @@
+https://ads.giveth.io [502] [] [0] [Caddy] [164.90.222.127] [436.997924ms] [Caddy,HTTP/3]
+https://swag.giveth.io [502] [] [0] [Caddy] [138.197.189.37] [3.456160879s] [Caddy,HTTP/3]
