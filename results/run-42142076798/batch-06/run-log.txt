@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov  6 01:16:22 UTC 2026
+[+] Run ID: 42142076798
+[+] Batch name: batch-06
+[+] Batch targets:
+inverse.finance
+juicebox.money
+kleros.io
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov  6 01:17:56 UTC 2026
+[+] HTTPX input count: 186
+[+] Running httpx...
+[+] httpx completed: Fri Nov  6 01:18:09 UTC 2026
+[+] httpx line count: 84
+[+] Batch completed: Fri Nov  6 01:18:10 UTC 2026
