@@ -1,0 +1,23 @@
+[CVE-2022-41697] [http] [medium] https://blog.golem.network/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://geth.golem.network/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://geth2.golem.network/ghost/api/admin/session
+[CVE-2022-41697] [http] [medium] https://www.blog.golem.network/ghost/api/admin/session
+[CVE-2025-30208] [http] [medium] https://statur-beta.iagon.com/etc/passwd?raw??
+[CVE-2025-54793] [http] [medium] https://benchmark.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://iad.benchmark.goldsky.com//interact.sh/en//
+[CVE-2025-54793] [http] [medium] https://sjc.benchmark.goldsky.com//interact.sh/en//
+[CVE-2025-63387] [http] [medium] https://supportchat.weatherxm.com/console/api/system-features
+[CVE-2026-27454] [http] [medium] https://community.zama.org/posts/8761.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.decentraland.org/posts/112203.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.sia.tech/posts/4589.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.storj.io/posts/209741.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.vitadao.com/posts/5705.json?version=1
+[CVE-2026-39365] [http] [medium] https://statur-beta.iagon.com/node_modules/.vite/deps/../../../config.production.js.map ["/app/config.production.js"]
+[node-express-dev-env] [http] [medium] http://ethlend-api.aleph.cloud
+[open-redirect-generic] [http] [medium] https://benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://iad.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[open-redirect-generic] [http] [medium] https://sjc.benchmark.goldsky.com//oast.me/ [redirect="/oast.me/"]
+[prometheus-metrics] [http] [medium] https://api.wingbits.com/metrics
+[prometheus-metrics] [http] [medium] https://atomicassets-api.alienworlds.io/metrics
+[prometheus-metrics] [http] [medium] https://customer-api.wingbits.com/metrics
+[prometheus-metrics] [http] [medium] https://ecs-api.wingbits.com/metrics
