@@ -1,0 +1,7 @@
+http://metrics.wifi.xnetmobile.com [301] [https://metrics.wifi.xnetmobile.com/] [17] [] [23.144.82.198] [227.790665ms]
+https://support.weatherxm.com [301] [https://supportchat.weatherxm.com/chat/SlfigEplTtPMVfkp] [167] [301 Moved Permanently] [cloudflare] [104.26.5.19] [cloudflare] [220.689732ms] [Cloudflare]
+https://www.weatherxm.com [301] [https://weatherxm.com/] [162] [301 Moved Permanently] [cloudflare] [172.67.69.76] [cloudflare] [277.980667ms] [Cloudflare,HSTS]
+https://xplorer.xnetmobile.com [301] [https://explorer.xnet.foundation] [17] [] [23.144.82.198] [480.523468ms]
+http://explorer.xnetmobile.com [301] [https://explorer.xnetmobile.com/] [17] [] [54.244.196.133] [157.368321ms]
+http://console.xnetmobile.com [301] [https://console.xnetmobile.com/] [17] [] [54.244.196.133] [156.147557ms]
+http://api.xnetmobile.com [301] [https://api.xnetmobile.com/] [17] [] [54.190.88.18] [163.605432ms]

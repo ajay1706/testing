@@ -1,0 +1,3 @@
+https://api.wingbits.com [401] [] [75] [] [40.180.149.181] [361.058499ms] [HSTS]
+https://ecs-api.wingbits.com [401] [] [75] [] [40.180.149.181] [511.498216ms] [HSTS]
+https://mapatt.xnetmobile.com [401] [] [17] [] [54.244.196.133] [389.142009ms] [Basic]

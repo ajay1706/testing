@@ -1,0 +1,5 @@
+https://blog.weatherxm.com [403] [] [5590] [Just a moment...] [cloudflare] [162.159.152.4] [cloudflare] [100.199034ms] [Cloudflare,HSTS,HTTP/3]
+https://accounts.weatherxm.com [403] [] [5594] [Just a moment...] [cloudflare] [104.18.34.146] [cloudflare] [382.674305ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://pages.weatherxm.com [403] [] [17] [cloudflare] [141.101.90.97] [cloudflare] [440.374928ms] [Cloudflare]
+https://sample.wingbits.com [403] [] [111] [AmazonS3] [13.226.238.10] [cloudfront] [385.842983ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://test.weatherxm.com [403] [] [2876] [Checking your browser...] [cloudflare] [104.26.5.19] [cloudflare] [174.325302ms] [Cloudflare,HSTS]
