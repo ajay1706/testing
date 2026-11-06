@@ -1,0 +1,2 @@
+[config-json-exposure-fuzz] [http] [critical] https://passbolt.dev.natix.network/settings.json [path="/settings.json"]
+[config-json-exposure-fuzz] [http] [critical] https://passbolt.natix.network/settings.json [path="/settings.json"]
