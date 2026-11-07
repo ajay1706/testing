@@ -1,0 +1,1 @@
+[prometheus-metrics] [http] [medium] https://indexer.namefi.io/metrics
