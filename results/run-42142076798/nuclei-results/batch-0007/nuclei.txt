@@ -1,0 +1,79 @@
+[CVE-2022-41697] [http] [medium] https://ghost.garden.finance/ghost/api/admin/session
+[CVE-2025-4123:open-redirect] [http] [high] https://grafana-monitoring.aragon.org/public/..%2F%5coast.pro%2F%3f%2F..%2F..
+[CVE-2026-26077] [http] [medium] https://forum.nexusmutual.io/webhooks/mailpace
+[CVE-2026-27454] [http] [medium] https://forum.inverse.finance/posts/1146.json?version=2
+[CVE-2026-27454] [http] [medium] https://forum.mento.org/posts/210.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.kleros.io/posts/3215.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.sovryn.com/posts/12127.json?version=2
+[CVE-2026-27454] [http] [medium] https://forum.nexusmutual.io/posts/4753.json?version=4
+[CVE-2026-27454] [http] [medium] https://forum.giveth.io/posts/8045.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.ssv.network/posts/5013.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.threshold.network/posts/4090.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.space.id/posts/170780.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.gitcoin.co/posts/57186.json?version=1
+[CVE-2026-33425] [http] [medium] https://forum.nexusmutual.io/directory_items.json?period=all&order=likes_received&page=0&exclude_groups=admins%7Cmoderators%7Cstaff%7Ctrust_level_4
+[inspur-clusterengine-rce] [http] [critical] https://legacy-docs.aragon.org
+[weak-cipher-suites:tls-1.0] [ssl] [low] forum.nexusmutual.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] forum.alchemix.fi:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] forum.cheqd.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] forum.nexusmutual.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] forum.alchemix.fi:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] forum.cheqd.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gate-translator-staging.blockaid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gate-translator-staging.blockaid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gfx-internal-api.blockaid.io:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gfx-internal-api.blockaid.io:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] go.alchemix.fi:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] go.alchemix.fi:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] goerli-contest.sherlock.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] goerli-contest.sherlock.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] goerli-indexer.sherlock.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] goerli.sherlock.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] goerli-indexer.sherlock.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] goerli.sherlock.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gov.threshold.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] govern.aragon.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gov.threshold.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] govern.aragon.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] governance.threshold.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] governance.threshold.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gql-api.drips.network:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gql-api.drips.network:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grafana-monitoring.aragon.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] grants.aragon.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grafana-monitoring.aragon.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] grants.aragon.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] graph.backend.aragon.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] graphigo.prd.space.id:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] graph.backend.aragon.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] graphigo.prd.space.id:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gravity.space.id:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gravity.space.id:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gw-dops-board.aragon.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gw-prod-board.aragon.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gw-dops-board.aragon.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gw-prod-board.aragon.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] gw-staging-board.aragon.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] hack.aragon.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] gw-staging-board.aragon.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] hack.aragon.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[claude-settings-exposure] [http] [medium] https://fxrunner.mento.org/.claude/settings.local.json
+[dockerfile-hidden-disclosure] [http] [medium] https://fxrunner.mento.org/Dockerfile
+[editor-exposure] [http] [low] https://forum.alchemix.fi/.editorconfig
+[git-config] [http] [medium] https://fxrunner.mento.org/.git/config
+[graphiql-exposure] [http] [low] https://graphigo.prd.space.id
+[netlify-headers-config-exposure] [http] [low] https://ghdocs.aragon.org/_headers
+[ds-store-file] [http] [low] https://fxrunner.mento.org/.DS_Store
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://ghdocs.aragon.org
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://ghdocs.aragon.org
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://ghdocs.aragon.org
+[fastly-debug-headers:fastly-debug-path] [http] [low] https://guide.sns.id
+[fastly-debug-headers:fastly-debug-ttl] [http] [low] https://guide.sns.id
+[fastly-debug-headers:fastly-debug-digest] [http] [low] https://guide.sns.id
+[apollo-sandbox-ui-exposed] [http] [low] https://gql-api.drips.network/
+[expired-ssl] [ssl] [low] fnam.inverse.finance:443 ["2022-11-02 05:53:40 +0000 UTC"]
+[expired-ssl] [ssl] [low] gcp.inverse.finance:443 ["2022-11-02 05:53:40 +0000 UTC"]
+[expired-ssl] [ssl] [low] git.inverse.finance:443 ["2022-11-02 05:53:40 +0000 UTC"]
+[expired-ssl] [ssl] [low] gw-do-board.aragon.org:443 ["2025-05-14 11:35:06 +0000 UTC"]
+[expired-ssl] [ssl] [low] gw-hp-board.aragon.org:443 ["2026-10-05 10:31:54 +0000 UTC"]
+[self-signed-ssl] [ssl] [low] gw-hp-board.aragon.org:443
