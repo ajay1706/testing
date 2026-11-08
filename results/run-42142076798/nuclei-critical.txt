@@ -1,0 +1,8 @@
+[CVE-2025-68613:version_check] [http] [critical] https://hooks.nexusmutual.io/signin ["n8n Version: 1.111.0"]
+[CVE-2026-21858] [http] [critical] https://hooks.nexusmutual.io/signin ["n8n Version: 1.111.0"]
+[CVE-2026-21877] [http] [critical] https://hooks.nexusmutual.io/signin ["n8n Version: 1.111.0"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://md.namefi.io/app/config.json [""url": "https://md.namefi.io/app/config.json""] [path="/app/config.json"]
+[hashicorp-consul-rce] [http] [critical] https://mail.stafi.io/v1/agent/service/register
+[inspur-clusterengine-rce] [http] [critical] https://docs.cheqd.io/product/network/tools/testnet-faucet
+[inspur-clusterengine-rce] [http] [critical] https://legacy-docs.aragon.org
+[pdf-signer-ssti-to-rce] [http] [critical] https://legacy-docs.aragon.org
