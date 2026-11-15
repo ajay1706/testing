@@ -1,0 +1,6 @@
+http://community.godaylight.com [301] [http://godaylight.com/community] [66] [ip-10-123-125-112.ec2.internal] [3.33.251.168] [9.57243ms]
+http://energy.godaylight.com [301] [https://estimate.godaylight.com] [66] [ip-10-123-125-112.ec2.internal] [3.33.251.168] [8.508549ms]
+https://referrals.godaylight.com [301] [https://referral-factory.com/] [362] [Redirecting to https://referral-factory.com/] [nginx/1.31.8] [63.183.43.251] [481.565442ms] [HSTS,Inertia.js,Nginx:1.31.8]
+http://sunnyside.godaylight.com [301] [http://godaylight.com/community] [66] [ip-10-123-125-60.ec2.internal] [15.197.225.128] [68.442702ms]
+http://eco25.godaylight.com [301] [https://ecopluspower.daylight.world] [70] [ip-10-123-125-112.ec2.internal] [3.33.251.168] [8.455471ms]
+http://reward25.godaylight.com [301] [https://ecopluspower.daylight.world] [70] [ip-10-123-124-73.ec2.internal] [3.33.251.168] [8.753749ms]
