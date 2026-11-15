@@ -1,0 +1,3 @@
+https://widgets.novig.com [503] [] [99] [Vercel] [216.150.16.129] [123.09528ms] [HSTS,Vercel]
+https://augusta.novig.com [503] [] [99] [Vercel] [216.150.16.193] [323.899739ms] [HSTS,Vercel]
+https://blueboot.novig.com [503] [] [99] [Vercel] [216.150.16.193] [595.8376ms] [HSTS,Vercel]

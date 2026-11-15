@@ -1,0 +1,5 @@
+https://api.novig.com [404] [] [9] [awselb/2.0] [18.244.214.39] [cloudfront] [72.188422ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://api.paper.novig.com [404] [] [9] [awselb/2.0] [18.244.214.121] [cloudfront] [184.295115ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://api.qa.novig.com [404] [] [9] [awselb/2.0] [65.8.180.86] [cloudfront] [187.294786ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://api-demo.novig.com [404] [] [9] [awselb/2.0] [100.62.20.211] [293.831208ms] [Amazon ELB,Amazon Web Services]
+https://api.affiliates-qa.novig.com [404] [] [9] [awselb/2.0] [34.198.31.131] [322.28354ms] [Amazon ELB,Amazon Web Services]

@@ -1,0 +1,2 @@
+http://tempstatus.novig.com [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.244.214.94] [cloudfront] [1.720092ms] [Amazon CloudFront,Amazon Web Services]
+https://git.novig.com [403] [] [9] [awselb/2.0] [34.206.74.23] [275.009144ms] [Amazon ELB,Amazon Web Services]

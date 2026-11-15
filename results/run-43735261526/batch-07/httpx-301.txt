@@ -1,0 +1,2 @@
+https://peaks.trade [301] [https://app.peaks.trade] [38] [] [199.36.158.100] [70.220397ms] [Firebase,HTTP/3]
+https://www.novig.com [301] [https://novig.com/] [0] [] [13.249.74.92] [cloudfront] [136.578335ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
