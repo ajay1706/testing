@@ -1,0 +1,14 @@
+[+] Batch started: Sun Nov 15 16:29:04 UTC 2026
+[+] Run ID: 43735261526
+[+] Batch name: batch-06
+[+] Batch targets:
+myheritage.com
+mymana.xyz
+nomu.store
+[+] Running subfinder...
+[+] Subfinder completed: Sun Nov 15 16:30:04 UTC 2026
+[+] HTTPX input count: 972
+[+] Running httpx...
+[+] httpx completed: Sun Nov 15 16:30:37 UTC 2026
+[+] httpx line count: 925
+[+] Batch completed: Sun Nov 15 16:30:37 UTC 2026

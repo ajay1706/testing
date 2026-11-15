@@ -1,0 +1,4 @@
+https://beta.myheritage.com [302] [https://discussions.zoho.com/myheritage/] [264] [302 Found] [Apache] [45.60.11.42] [incapsula] [182.484137ms] [Amazon CloudFront,Amazon Web Services,Apache HTTP Server,HSTS,Imperva]
+https://careers.myheritage.com [302] [https://www.myheritage.com] [138] [302 Found] [nginx] [45.60.63.253] [incapsula] [466.367985ms] [Imperva,Nginx]
+http://click.mymana.xyz [302] [https://click.mymana.xyz/] [48] [] [34.68.55.77] [google] [119.257208ms]
+https://familygraph.myheritage.com [302] [http://www.familygraph.com/] [0] [Apache] [45.223.50.197] [incapsula] [457.059003ms] [Apache HTTP Server,HSTS,Imperva,PHP]

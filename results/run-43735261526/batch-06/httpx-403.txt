@@ -1,0 +1,2 @@
+https://familygraphql.myheritage.com [403] [] [0] [Apache] [45.60.11.42] [incapsula] [338.480368ms] [Amazon CloudFront,Amazon Web Services,Apache HTTP Server,HSTS,Imperva,PHP]
+https://thumbnail.myheritage.com [403] [] [0] [CloudFront] [3.168.2.92] [cloudfront] [419.874916ms] [Amazon CloudFront,Amazon Web Services]
