@@ -1,0 +1,8 @@
+http://cbp.asgard.finance [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [143.204.204.127] [cloudfront] [107.327518ms] [Amazon CloudFront,Amazon Web Services]
+https://cdn.asgard.finance [403] [] [111] [AmazonS3] [3.167.183.119] [cloudfront] [796.567346ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://downloads.abacus.ai [403] [] [1280] [ERROR: The request could not be satisfied] [cloudflare] [104.20.35.251] [cloudflare] [297.480094ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+http://edge.asgard.finance [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [13.32.205.69] [cloudfront] [192.845693ms] [Amazon CloudFront,Amazon Web Services]
+https://firecrawl.routellm.abacus.ai [403] [] [94] [cloudflare] [104.20.35.251] [cloudflare] [577.016217ms] [Cloudflare,Envoy]
+https://static-test.abacus.ai [403] [] [111] [AmazonS3] [3.170.185.106] [cloudfront] [3.225105983s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://static.abacus.ai [403] [] [111] [AmazonS3] [18.64.183.82] [cloudfront] [3.152251297s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+http://www.app.asgard.finance [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [13.225.47.37] [cloudfront] [19.303667ms] [Amazon CloudFront,Amazon Web Services]
