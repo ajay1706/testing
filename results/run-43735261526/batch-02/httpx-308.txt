@@ -1,0 +1,4 @@
+https://ezra.com [308] [https://www.ezra.com/] [15] [Vercel] [64.239.109.65] [273.139086ms] [HSTS,Vercel]
+https://join.ezra.com [308] [https://my.ezra.com/] [0] [] [150.171.109.145] [186.267682ms] [Azure,Azure Front Door]
+https://myezra.ezra.com [308] [https://my.ezra.com/] [0] [] [150.171.109.150] [179.714624ms] [Azure,Azure Front Door]
+https://v2.my.ezra.com [308] [https://my.ezra.com/join] [0] [] [150.171.109.150] [63.688392ms] [Azure,Azure Front Door]

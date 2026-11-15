@@ -1,0 +1,14 @@
+[+] Batch started: Sun Nov 15 16:26:16 UTC 2026
+[+] Run ID: 43735261526
+[+] Batch name: batch-02
+[+] Batch targets:
+dev.fun
+ezra.com
+fomo.family
+[+] Running subfinder...
+[+] Subfinder completed: Sun Nov 15 16:27:26 UTC 2026
+[+] HTTPX input count: 270
+[+] Running httpx...
+[+] httpx completed: Sun Nov 15 16:27:58 UTC 2026
+[+] httpx line count: 85
+[+] Batch completed: Sun Nov 15 16:27:58 UTC 2026
