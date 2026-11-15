@@ -1,0 +1,2 @@
+https://www.welookcute.com [301] [https://welookcute.com/] [38] [] [199.36.158.100] [81.307672ms] [Firebase,HTTP/3]
+https://welookcute.com [302] [/celebrities] [98] [Google Frontend] [199.36.158.100] [203.881855ms] [Firebase,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
