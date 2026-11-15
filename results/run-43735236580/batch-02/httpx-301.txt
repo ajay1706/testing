@@ -1,0 +1,2 @@
+http://autodiscover.gomoney.me [301] [https://autodiscover.gomoney.me/] [0] [Microsoft-HTTPAPI/2.0] [52.96.122.56] [2.141902ms] [Microsoft HTTPAPI:2.0]
+http://tr47541539.gomoney.me [301] [https://tr47541539.gomoney.me/] [0] [nginx] [185.103.10.2] [185.034853ms] [Nginx]

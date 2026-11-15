@@ -1,0 +1,2 @@
+https://indexindustries.com [308] [https://www.indexindustries.com/] [15] [Vercel] [216.150.1.1] [127.768064ms] [HSTS,Vercel]
+https://www.di.xyz [308] [https://di.xyz] [14] [nginx/1.24.0 (Ubuntu)] [101.32.218.82] [645.737172ms] [Nginx:1.24.0,Ubuntu]
