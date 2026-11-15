@@ -1,0 +1,5 @@
+https://api.sorare.com [404] [] [17] [CloudFront] [13.226.238.33] [cloudfront] [238.653382ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://enterpriseregistration.sorare.com [404] [] [101] [] [20.190.151.71] [44.923241ms]
+https://assets.sorare.com [404] [] [9] [] [3.167.88.72] [cloudfront] [345.732553ms] [Amazon CloudFront,Amazon Web Services]
+https://go.sorare.com [404] [] [345] [404 Not Found] [AmazonS3] [3.170.19.85] [cloudfront] [202.370852ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://frontend-assets.sorare.com [404] [] [9] [] [18.67.76.88] [cloudfront] [361.916215ms] [Amazon CloudFront,Amazon Web Services]

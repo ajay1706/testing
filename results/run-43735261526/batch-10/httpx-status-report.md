@@ -1,0 +1,66 @@
+# HTTPX Status Report
+
+Generated at: Sun Nov 15 16:33:55 UTC 2026
+
+HTTPX lines: 43
+Live URLs: 43
+
+## 200
+https://artists.superfan.one [200] [] [31968] [Superfan] [Vercel] [216.150.16.193] [211.652738ms] [HSTS,Vercel]
+https://get.sorare.com [200] [] [4183] [Sorare — Scout. Play. Win.] [Vercel] [216.150.16.129] [114.547555ms] [HSTS,Vercel]
+https://join.sorare.com [200] [] [2105] [Sorare] [cloudflare] [172.66.0.157] [cloudflare] [89.297885ms] [Cloudflare,HSTS,HTTP/3]
+https://beta.superfan.one [200] [] [54771] [WORKS] [Vercel] [216.150.16.193] [259.461757ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://sorare.com [200] [] [21129] [Sorare: Own Your Game] [CloudFront] [3.171.38.15] [cloudfront] [21.378365ms] [Adobe Fonts,Amazon CloudFront,Amazon Web Services,HSTS,Typekit]
+https://wallet.sorare.com [200] [] [910] [Sorare Wallet] [AmazonS3] [18.160.10.27] [cloudfront] [40.309243ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://supersize.gg [200] [] [7813] [Supersize Games] [Netlify] [98.84.224.111] [284.917798ms] [HSTS,Netlify]
+https://www.superfan.one [200] [] [54771] [WORKS] [Vercel] [216.150.16.129] [172.355475ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://staging.superfan.one [200] [] [54902] [WORKS] [Vercel] [216.150.16.129] [1.246187556s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://manager.superfan.one [200] [] [22044] [Superfan] [Vercel] [66.33.60.193] [2.390573882s] [C3.js,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://blog.sorare.com [301] [https://soraremedium.wpcomstaging.com/] [0] [nginx] [192.0.78.238] [31.230039ms] [HSTS,Nginx]
+https://clicks.sorare.com [301] [https://eu.spgo.io/] [0] [AmazonS3] [52.85.61.12] [cloudfront] [44.142052ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.sorare.com [301] [https://sorare.com/] [0] [AmazonS3] [13.227.65.84] [cloudfront] [33.361163ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.supersize.gg [301] [https://supersize.gg/] [36] [Netlify] [98.84.224.111] [113.498467ms] [HSTS,Netlify]
+
+## 302
+https://admin.sorare.com [302] [https://sorare.cloudflareaccess.com/cdn-cgi/access/login/admin.sorare.com?kid=c174613dfeb8e51535e13f2f065dc596e29d5c97fa2afd5624970402155eef46&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjU4NzJjYjhhNTJlMGZkOWVlY2UwNzNmZjk0OGEwMTNhZDgyMjdkODhlMjliNDVkZDVlZDkwMWZlYTUwZWFmMTQifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImMxNzQ2MTNkZmViOGU1MTUzNWUxM2YyZjA2NWRjNTk2ZTI5ZDVjOTdmYTJhZmQ1NjI0OTcwNDAyMTU1ZWVmNDYiLCJob3N0bmFtZSI6ImFkbWluLnNvcmFyZS5jb20iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NDc2MDcxNCwibmJmIjoxNzk0NzYwNDE0LCJpYXQiOjE3OTQ3NjA0MTQsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI0MWIwY2IwZGRiNWYzMjA3OWE3MDIyNmQ0NjI3NmIwODFjNmQ0YjE1OTNjMDFkMjQ4ZjY4NTg3YmM3MDJkZWVmIn0.LZOyaR_3UU8rD3LiawcgaemIH5z-mUfL1to0klfcOQUF7Ysyl_RWROlsWPsgVz-imcR7iLIETnx93W-5H-ovlpZfn98zOSIruQ4u3cKs4i2xhCD0rvOozkzvPSjb1zm_v4sxp0V0O8Rbh4OphDfN0HFTjUpLx6v2PvpndK80NEvnK8yvE04R1BHJwSj7i7aX0YRhW8QbhCZqQuYANysU8zGDzuXa2aSQW7kSOE_0C2U8cjDXfFV8YtrsI7_9utY8NHxDTnzFr3BbQe63hKAn7FP4JqSmpkg6Kg07CiiKF8-knr5P08PXihlvuq5SepPrkThDkZgnyBuyCkYNkWLcxw&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.18.1.17] [cloudflare] [42.702485ms] [Cloudflare]
+https://analytics.sorare.com [302] [https://sorare.cloudflareaccess.com/cdn-cgi/access/login/analytics.sorare.com?kid=8aa5f1e4566cf3043f6b28b42ca4f0d306d4987f014bcd5b7e6e13d539cc65e3&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjU4NzJjYjhhNTJlMGZkOWVlY2UwNzNmZjk0OGEwMTNhZDgyMjdkODhlMjliNDVkZDVlZDkwMWZlYTUwZWFmMTQifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjhhYTVmMWU0NTY2Y2YzMDQzZjZiMjhiNDJjYTRmMGQzMDZkNDk4N2YwMTRiY2Q1YjdlNmUxM2Q1MzljYzY1ZTMiLCJob3N0bmFtZSI6ImFuYWx5dGljcy5zb3JhcmUuY29tIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTQ3NjA3MTQsIm5iZiI6MTc5NDc2MDQxNCwiaWF0IjoxNzk0NzYwNDE0LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiZjBkYzhlOTQ1Zjk2YzViNmI2ODExMWQwMWNmZGEwZjFmZjRhMDU5ZmM0ODkxNzYxYmNlOTk2Y2M1ZWUzMTJlZiJ9.OwR4EzaTt5GbDTcqMG9clC0LnxRAL8LyPmxptHzWycjW31fHR_wrKSCb59_yOEBozY4jHV0cjOOC-nW-Cil5TGOaNWoOsKsYG19QFxya0cz04QfyXAg6YkBZ2rwj16wi6ooOrLtTKZSytdU74sHnl082GrGUr30jolhZb_uXox0bDXErLecPlD2nQ7qfql06OedEAb0_xm1k-O7EzXGRY835uV1GCHaSBKTbIQOEyqXT6WltLUzCyznmVmtEo7c5l0c_nL-ITyyUOd8jN8iNo8m03PQPJKB9_4a63Jk7scbpqV1An5zW92uRKFbHI_dzoTPQ2KvRBK1p2xU_RThcjg&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.18.1.17] [cloudflare] [33.739065ms] [Cloudflare]
+https://enterpriseenrollment.sorare.com [302] [https://intune.microsoft.com/] [0] [] [52.168.116.128] [54.911165ms] [HSTS]
+https://mlbguide.sorare.com [302] [https://sorare.com/help] [0] [AmazonS3] [13.35.78.2] [cloudfront] [37.379893ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://nbaguide.sorare.com [302] [https://sorare.com/help] [0] [AmazonS3] [13.35.78.54] [cloudfront] [45.172632ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://help.sorare.com [302] [https://help.sorare.com/hc] [0] [cloudflare] [216.198.53.11] [186.943263ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+
+## 307
+https://app.superfan.one [307] [/sign-in] [15] [Vercel] [216.150.16.1] [174.325851ms] [HSTS,Vercel]
+https://superfan.one [307] [https://www.superfan.one/] [15] [Vercel] [216.150.1.1] [173.878027ms] [HSTS,Vercel]
+https://www.app.superfan.one [307] [https://app.superfan.one/] [15] [Vercel] [76.76.21.241] [419.206996ms] [HSTS,Vercel]
+
+## 308
+
+## 401
+https://engine.superfan.one [401] [] [24] [Vercel] [216.150.16.129] [313.828754ms] [Basic,HSTS,Vercel]
+
+## 403
+https://img.sorare.com [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [3.167.37.42] [cloudfront] [47.394665ms] [Amazon CloudFront,Amazon Web Services]
+https://prediction-us.supersize.gg [403] [] [134] [403] [] [34.54.169.102] [google] [139.385039ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://ws.sorare.com [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [3.171.76.20] [cloudfront] [40.300123ms] [Amazon CloudFront,Amazon Web Services]
+https://prediction-eu.supersize.gg [403] [] [134] [403] [] [34.54.169.102] [google] [281.822899ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://prediction-as2.supersize.gg [403] [] [134] [403] [] [34.54.169.102] [google] [311.424774ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://prediction-as.supersize.gg [403] [] [134] [403] [] [34.54.169.102] [google] [367.867959ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://prediction-us2.supersize.gg [403] [] [134] [403] [] [34.54.169.102] [google] [381.977275ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://prediction-sa.supersize.gg [403] [] [134] [403] [] [34.54.169.102] [google] [613.531699ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 404
+https://api.sorare.com [404] [] [17] [CloudFront] [13.226.238.33] [cloudfront] [238.653382ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://enterpriseregistration.sorare.com [404] [] [101] [] [20.190.151.71] [44.923241ms]
+https://assets.sorare.com [404] [] [9] [] [3.167.88.72] [cloudfront] [345.732553ms] [Amazon CloudFront,Amazon Web Services]
+https://go.sorare.com [404] [] [345] [404 Not Found] [AmazonS3] [3.170.19.85] [cloudfront] [202.370852ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://frontend-assets.sorare.com [404] [] [9] [] [18.67.76.88] [cloudfront] [361.916215ms] [Amazon CloudFront,Amazon Web Services]
+
+## 500
+
+## 502
+
+## 503
+

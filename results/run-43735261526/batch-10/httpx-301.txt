@@ -1,0 +1,4 @@
+https://blog.sorare.com [301] [https://soraremedium.wpcomstaging.com/] [0] [nginx] [192.0.78.238] [31.230039ms] [HSTS,Nginx]
+https://clicks.sorare.com [301] [https://eu.spgo.io/] [0] [AmazonS3] [52.85.61.12] [cloudfront] [44.142052ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.sorare.com [301] [https://sorare.com/] [0] [AmazonS3] [13.227.65.84] [cloudfront] [33.361163ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.supersize.gg [301] [https://supersize.gg/] [36] [Netlify] [98.84.224.111] [113.498467ms] [HSTS,Netlify]
