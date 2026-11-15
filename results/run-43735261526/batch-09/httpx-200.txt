@@ -1,0 +1,8 @@
+https://blog.rekt.money [200] [] [20089] [Rekt] [openresty] [151.101.195.7] [fastly] [89.706254ms] [Ghost:6.77,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://www.slimecoin.io [200] [] [3790] [Slimecoin: Play Solitaire, 2048 & Puzzle Games for Prizes] [Vercel] [216.150.1.65] [182.626114ms] [Google AdSense,HSTS,Vercel]
+https://solitaire.fun [200] [] [3061] [Solitaire.fun - Play for cash] [Vercel] [216.150.1.129] [324.960616ms] [HSTS,Vercel]
+https://rekt.money [200] [] [64251] [Rekt | Up to 1000× leverage on BTC, ETH and SOL] [Vercel] [76.76.21.21] [155.344428ms] [HSTS,Vercel]
+https://www.rekt.money [200] [] [64251] [Rekt | Up to 1000× leverage on BTC, ETH and SOL] [Vercel] [76.76.21.93] [404.496165ms] [HSTS,Vercel]
+https://app.rekt.money [200] [] [107307] [Rekt] [Vercel] [216.150.1.193] [219.190453ms] [HSTS,Vercel]
+https://status.rekt.money [200] [] [159704] [Rekt status] [] [167.235.220.62] [647.180922ms] [Google Analytics,HSTS,Stimulus]
+https://docs.rekt.money [200] [] [231998] [Knockout - Rekt] [cloudflare] [162.159.143.13] [cloudflare] [431.167176ms] [Cloudflare,HSTS,HTTP/3,Vercel]
