@@ -1,0 +1,2 @@
+https://cdn-testnet.kizzy.io [403] [] [111] [cloudflare] [104.26.15.36] [cloudflare] [219.365496ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://cdn.kizzy.io [403] [] [111] [cloudflare] [104.26.15.36] [cloudflare] [431.199499ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]

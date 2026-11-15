@@ -1,0 +1,3 @@
+https://privy.app.kizzy.io [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [117.875821ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.testnet.kizzy.io [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [201.217705ms] [Cloudflare,Cloudflare Bot Management]
+https://email.mail.kizzy.io [404] [] [19] [] [34.110.180.34] [google] [232.256761ms]
