@@ -1,0 +1,14 @@
+[+] Batch started: Sun Nov 15 16:32:19 UTC 2026
+[+] Run ID: 43735261526
+[+] Batch name: batch-11
+[+] Batch targets:
+traded.gg
+turboflow.xyz
+useaccrue.com
+[+] Running subfinder...
+[+] Subfinder completed: Sun Nov 15 16:33:14 UTC 2026
+[+] HTTPX input count: 52
+[+] Running httpx...
+[+] httpx completed: Sun Nov 15 16:33:34 UTC 2026
+[+] httpx line count: 25
+[+] Batch completed: Sun Nov 15 16:33:35 UTC 2026
