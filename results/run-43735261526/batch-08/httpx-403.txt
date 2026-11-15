@@ -1,0 +1,4 @@
+https://media.pinatafarm.com [403] [] [111] [AmazonS3] [99.86.101.120] [cloudfront] [217.141633ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://assets.pye.fi [403] [] [111] [AmazonS3] [52.85.129.94] [cloudfront] [275.683547ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://a.pinatafarm.com [403] [] [243] [AmazonS3] [3.163.189.5] [cloudfront] [365.548222ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.media.pinatafarm.com [403] [] [111] [AmazonS3] [99.86.101.43] [cloudfront] [203.554863ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]

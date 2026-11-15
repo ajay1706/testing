@@ -1,0 +1,2 @@
+https://us-east1.vpn.pinatafarm.com [302] [https://us-east1.vpn.pinatafarm.com/login] [289] [Redirecting...] [] [52.72.189.233] [349.595034ms] [HSTS]
+https://cluster.vpn.pinatafarm.com [302] [https://cluster.vpn.pinatafarm.com/login] [287] [Redirecting...] [] [52.72.189.233] [448.089309ms] [HSTS]
