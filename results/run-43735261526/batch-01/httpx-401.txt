@@ -1,0 +1,5 @@
+https://community-auth.deepl.com [401] [] [0] [cloudflare] [104.18.36.122] [cloudflare] [191.805305ms] [Cloudflare,HSTS,HTTP/3]
+https://dev.temporal.cesto.co [401] [] [0] [Caddy] [63.185.140.186] [354.962232ms] [Basic,Caddy]
+https://main.test.deepl.com [401] [] [112] [] [194.124.204.72] [2.374283582s] [Basic,HSTS]
+https://research.cesto.co [401] [] [21] [] [63.185.140.186] [1.399544125s] [Basic]
+https://temporal.cesto.co [401] [] [0] [Caddy] [63.185.140.186] [1.363494778s] [Basic,Caddy]
