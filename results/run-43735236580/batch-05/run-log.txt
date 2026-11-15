@@ -1,0 +1,14 @@
+[+] Batch started: Sun Nov 15 16:28:31 UTC 2026
+[+] Run ID: 43735236580
+[+] Batch name: batch-05
+[+] Batch targets:
+soter.insure
+takenos.com
+unruggable.io
+[+] Running subfinder...
+[+] Subfinder completed: Sun Nov 15 16:30:01 UTC 2026
+[+] HTTPX input count: 97
+[+] Running httpx...
+[+] httpx completed: Sun Nov 15 16:30:22 UTC 2026
+[+] httpx line count: 41
+[+] Batch completed: Sun Nov 15 16:30:22 UTC 2026
