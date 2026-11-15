@@ -1,0 +1,4 @@
+https://admin.godaylight.com [502] [] [568] [502 Bad Gateway] [nginx/1.28.3 (Ubuntu)] [3.140.162.79] [91.29447ms] [Nginx:1.28.3,Ubuntu]
+https://api.hylo.so [502] [] [101] [Vercel] [216.150.16.1] [1.107613485s] [HSTS,Vercel]
+https://rest.godaylight.com [502] [] [166] [502 Bad Gateway] [nginx/1.28.3 (Ubuntu)] [3.140.162.79] [194.921746ms] [Nginx:1.28.3,Ubuntu]
+https://rest.uat.godaylight.com [502] [] [166] [502 Bad Gateway] [nginx/1.28.3 (Ubuntu)] [3.140.162.79] [192.921599ms] [Nginx:1.28.3,Ubuntu]

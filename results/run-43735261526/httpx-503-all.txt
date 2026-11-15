@@ -1,0 +1,6 @@
+https://api.localpay.asia [503] [] [20] [cloudflare] [172.67.219.231] [cloudflare] [848.768541ms] [Cloudflare,HTTP/3]
+https://augusta.novig.com [503] [] [99] [Vercel] [216.150.16.193] [323.899739ms] [HSTS,Vercel]
+https://blueboot.novig.com [503] [] [99] [Vercel] [216.150.16.193] [595.8376ms] [HSTS,Vercel]
+https://crm.stag.godaylight.com [503] [] [0] [awselb/2.0] [18.216.66.116] [89.366068ms] [Amazon ELB,Amazon Web Services,HSTS]
+https://testerchoice.myheritage.com [503] [] [859] [] [45.60.63.253] [incapsula] [130.570774ms] [HSTS,Imperva]
+https://widgets.novig.com [503] [] [99] [Vercel] [216.150.16.129] [123.09528ms] [HSTS,Vercel]
