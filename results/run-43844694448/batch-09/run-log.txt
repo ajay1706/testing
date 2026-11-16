@@ -1,0 +1,14 @@
+[+] Batch started: Mon Nov 16 10:05:31 UTC 2026
+[+] Run ID: 43844694448
+[+] Batch name: batch-09
+[+] Batch targets:
+oc.app
+origami.finance
+smilee.finance
+[+] Running subfinder...
+[+] Subfinder completed: Mon Nov 16 10:06:37 UTC 2026
+[+] HTTPX input count: 58
+[+] Running httpx...
+[+] httpx completed: Mon Nov 16 10:06:48 UTC 2026
+[+] httpx line count: 32
+[+] Batch completed: Mon Nov 16 10:06:48 UTC 2026
