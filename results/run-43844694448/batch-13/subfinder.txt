@@ -1,0 +1,7 @@
+api.zofai.io
+app.zofai.io
+dev.zofai.io
+geo.zofai.io
+staging.zofai.io
+www.staging.zofai.io
+www.zofai.io

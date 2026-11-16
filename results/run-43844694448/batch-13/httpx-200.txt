@@ -1,0 +1,4 @@
+https://app.zofai.io [200] [] [3013] [ZO - Next-Gen Intelligent Perpetual Protocol] [cloudflare] [172.67.68.3] [cloudflare] [185.125156ms] [Cloudflare,Google Analytics]
+https://dev.zofai.io [200] [] [3013] [ZO - Next-Gen Intelligent Perpetual Protocol] [cloudflare] [104.26.12.77] [cloudflare] [204.416043ms] [Cloudflare,Google Analytics]
+https://staging.zofai.io [200] [] [3227] [ZO - Next-Gen Intelligent Perpetual Protocol] [cloudflare] [104.26.13.77] [cloudflare] [276.047275ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://www.zofai.io [200] [] [85852] [ZO - Everything Perpetual DEX on Sui] [cloudflare] [104.26.13.77] [cloudflare] [157.956015ms] [Cloudflare,HSTS,Webflow,jQuery:3.5.1]
