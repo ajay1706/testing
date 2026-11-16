@@ -1,0 +1,2 @@
+[CVE-2024-49757] [http] [high] https://netbird.qa.lulubit.app/ui/login/register
+[CVE-2026-2652] [http] [high] https://mlflow.ezra.com/ajax-api/3.0/jobs/search
