@@ -1,0 +1,3 @@
+https://beta.vestige.fi [301] [https://vestige.fi/] [167] [301 Moved Permanently] [cloudflare] [104.21.36.211] [cloudflare] [83.844211ms] [Cloudflare]
+https://blog.walrus.xyz [301] [https://walrus.xyz/blog/] [58] [openresty] [151.101.195.7] [fastly] [188.989444ms] [Nginx,OpenResty,Varnish]
+https://www.walrus.xyz [301] [https://walrus.xyz/] [15] [Vercel] [216.230.86.65] [249.306982ms] [HSTS,Vercel]
