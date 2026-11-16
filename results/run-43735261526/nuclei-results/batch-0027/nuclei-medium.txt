@@ -1,0 +1,2 @@
+[open-redirect-generic] [http] [medium] https://staging.useaccrue.com//oast.me/ [redirect="/oast.me/"]
+[CVE-2025-54793] [http] [medium] https://staging.useaccrue.com//interact.sh/en//

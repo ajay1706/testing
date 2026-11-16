@@ -1,0 +1,11 @@
+[open-redirect-generic] [http] [medium] https://staging.useaccrue.com//oast.me/ [redirect="/oast.me/"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] staging.assets.vizcom.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] staging.assets.vizcom.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] store-page-results.vetted.ai:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] store.based.one:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] store-page-results.vetted.ai:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] store.based.one:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] studio.pinatafarm.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[CVE-2025-54793] [http] [medium] https://staging.useaccrue.com//interact.sh/en//
+[expired-ssl] [ssl] [low] staging-account.godaylight.com:443 ["2026-09-21 03:31:08 +0000 UTC"]
+[expired-ssl] [ssl] [low] staging1.godaylight.com:443 ["2025-10-06 12:03:50 +0000 UTC"]
