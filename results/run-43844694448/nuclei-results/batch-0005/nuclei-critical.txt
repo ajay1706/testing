@@ -1,0 +1,2 @@
+[CVE-2024-1021] [http] [critical] https://proxy.ferra.ag/filex/read-raw?url=http://oast.me&cut=1
+[CVE-2021-27670] [http] [critical] https://proxy.ferra.ag/api/v1/core/proxy/jsonprequest?objresponse=false&websiteproxy=true&escapestring=false&url=http://oast.live

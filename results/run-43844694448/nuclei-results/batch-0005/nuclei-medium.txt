@@ -1,0 +1,4 @@
+[WSO2-2019-0598] [http] [medium] https://proxy.ferra.ag/shindig/gadgets/proxy?container=default&url=http://oast.pro
+[CVE-2024-29029] [http] [medium] https://proxy.ferra.ag/o/get/image?url=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+[CVE-2022-23544] [http] [medium] https://proxy.ferra.ag/resource/md/get/url?url=http://oast.pro
+[prometheus-metrics] [http] [medium] https://relayer.memory.walrus.xyz/metrics

