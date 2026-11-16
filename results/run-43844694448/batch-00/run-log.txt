@@ -1,0 +1,14 @@
+[+] Batch started: Mon Nov 16 10:01:02 UTC 2026
+[+] Run ID: 43844694448
+[+] Batch name: batch-00
+[+] Batch targets:
+7k.ag
+agentkarma.io
+ankr.com
+[+] Running subfinder...
+[+] Subfinder completed: Mon Nov 16 10:02:17 UTC 2026
+[+] HTTPX input count: 883
+[+] Running httpx...
+[+] httpx completed: Mon Nov 16 10:03:49 UTC 2026
+[+] httpx line count: 103
+[+] Batch completed: Mon Nov 16 10:03:49 UTC 2026

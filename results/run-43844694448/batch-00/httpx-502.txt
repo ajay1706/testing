@@ -1,0 +1,2 @@
+https://snapshot-api.ankr.com [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [72.251.230.236] [6.195952528s] [Nginx:1.18.0,Ubuntu]
+https://strapi-cdn.ankr.com [502] [] [932] [ERROR: The request could not be satisfied] [] [18.238.109.47] [cloudfront] [3.616418542s] [Amazon CloudFront,Amazon Web Services]

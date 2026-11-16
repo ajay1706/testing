@@ -1,0 +1,122 @@
+# HTTPX Status Report
+
+Generated at: Mon Nov 16 10:03:49 UTC 2026
+
+HTTPX lines: 103
+Live URLs: 103
+
+## 200
+https://aaed-dev.ankr.com [200] [] [3820] [AAED] [AmazonS3] [65.8.20.76] [cloudfront] [259.959472ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,CNZZ]
+https://auth.ankr.com [200] [] [1485] [Authentication Ankr] [AmazonS3] [18.238.109.37] [cloudfront] [97.414077ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS]
+https://agentkarma.io [200] [] [378754] [AgentKarma — Reputation Layer for Autonomous On-Chain Agents] [cloudflare] [172.67.210.115] [cloudflare] [1.03022801s] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+https://bs3-multirpc-backoffice.dccn.ankr.com [200] [] [701] [MRPC Admin Panel] [AmazonS3] [52.85.132.70] [cloudfront] [1.103747752s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://bs-8-stage.dccn.ankr.com [200] [] [1519] [SWIRL Staking - Maximize Your IOTA Earnings with Liquid Staking] [AmazonS3] [18.238.109.53] [cloudfront] [2.115136893s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://bs2-multirpc-backoffice.dccn.ankr.com [200] [] [3111] [MRPC Admin Panel] [AmazonS3] [52.85.132.90] [cloudfront] [3.107579686s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://bs1-multirpc-backoffice.dccn.ankr.com [200] [] [701] [MRPC Admin Panel] [AmazonS3] [18.238.96.66] [cloudfront] [7.10086491s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://cbdc-dev.ankr.com [200] [] [3661] [AAED] [AmazonS3] [18.238.109.42] [cloudfront] [6.297289163s] [Amazon CloudFront,Amazon S3,Amazon Web Services,CNZZ]
+https://explorer.jasper-mainnet.ankr.com [200] [] [77122] [Jasper Vault blockchain explorer - View Jasper Vault stats | Blockscout] [nginx] [107.6.89.133] [103.929845ms] [HSTS,Nginx]
+https://docs.7k.ag [200] [] [364689] [Quickstart | 7K DeFi] [cloudflare] [104.18.40.47] [cloudflare] [811.725455ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://faucet.tac-turin.ankr.com [200] [] [2242] [Turin Faucet] [AmazonS3] [18.238.109.116] [cloudfront] [3.142956868s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://feedback.ankr.com [200] [] [33347] [ankr Feedback] [] [100.56.186.228] [2.453396855s] [Canny,HSTS,Linkedin Ads]
+https://nft-dev.ankr.com [200] [] [5493] [Platform - Buy & Sell NFTs gas free] [AmazonS3] [3.169.231.74] [cloudfront] [659.600899ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,CNZZ]
+https://nft-console-dev.ankr.com [200] [] [7059] [Ant Design Pro] [AmazonS3] [65.8.20.69] [cloudfront] [1.612292984s] [Amazon CloudFront,Amazon S3,Amazon Web Services,Ant Design,Node.js,UmiJs]
+https://plat-dev.ankr.com [200] [] [5996] [MetaApes] [AmazonS3] [18.238.96.48] [cloudfront] [1.318693532s] [Amazon CloudFront,Amazon S3,Amazon Web Services,CNZZ]
+https://signed-api.ankr.com [200] [] [256] [] [52.85.132.114] [cloudfront] [310.839164ms] [Amazon CloudFront,Amazon Web Services,Express,Node.js]
+https://public-bs-1.ankr.com [200] [] [498738] [Ankr | The Fastest Web3 Infrastructure] [AmazonS3] [18.154.206.100] [cloudfront] [139.845088ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://public-bs-2.ankr.com [200] [] [497203] [Ankr | The Fastest Web3 Infrastructure] [AmazonS3] [52.85.132.58] [cloudfront] [142.382426ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://snapshot-admin.ankr.com [200] [] [1964] [Ankr Snapshots - Admin] [nginx/1.18.0 (Ubuntu)] [72.251.230.236] [202.257735ms] [Bootstrap:5.2.3,Nginx:1.18.0,Ubuntu,jsDelivr]
+https://stage-auth.ankr.com [200] [] [765] [Authentication Blockrail] [AmazonS3] [18.238.109.50] [cloudfront] [2.119503292s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://stage.swirlstake.ankr.com [200] [] [144220] [SWIRL Staking - Maximize Your IOTA Earnings with Liquid Staking] [AmazonS3] [52.85.132.4] [cloudfront] [1.142230235s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://www.7k.ag [200] [] [3349] [7k.ag - 7k Resources and Information.] [cloudflare] [104.21.80.141] [cloudflare] [438.358211ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.ankr.com [200] [] [510687] [Ankr | The Fastest Web3 Infrastructure] [AmazonS3] [65.9.126.126] [cloudfront] [86.563598ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS]
+https://www.agentkarma.io [200] [] [378754] [AgentKarma — Reputation Layer for Autonomous On-Chain Agents] [cloudflare] [172.67.210.115] [cloudflare] [1.003613151s] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+
+## 301
+https://ankr.com [301] [https://www.ankr.com/] [0] [AmazonS3] [52.85.132.60] [cloudfront] [146.697947ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://api.staking.ankr.com [301] [https://api.staking.ankr.com/] [0] [istio-envoy] [100.21.9.73] [71.552089ms]
+http://bounce.ankr.com [301] [http://market.bounce.finance/] [0] [AmazonS3] [16.15.244.76] [118.362284ms] [Amazon S3,Amazon Web Services]
+https://discord.ankr.com [301] [http://discord.gg/GGzJ6A6fEg] [0] [AmazonS3] [3.168.147.33] [cloudfront] [61.175422ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://docs.ankr.com [301] [https://www.ankr.com/docs] [0] [AmazonS3] [216.137.39.94] [cloudfront] [164.410668ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://helpdesk.ankr.com [301] [http://ankrnetwork.atlassian.net/servicedesk/customer/portals] [0] [AmazonS3] [65.9.126.89] [cloudfront] [70.668575ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://nft.7k.ag [301] [https://nft.7k.ag/] [534] [301 Moved Permanently] [cloudflare] [104.21.80.141] [cloudflare] [30.364583ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://status.ankr.com [301] [https://www.ankr.com/rpc/health/] [0] [AmazonS3] [99.84.41.40] [cloudfront] [104.05929ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://stakefi.ankr.com [301] [https://www.ankr.com/about-staking/] [0] [AmazonS3] [52.85.132.42] [cloudfront] [1.191640886s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://stakefi-parachain.ankr.com [301] [https://stakefi.ankr.com/parachain-bonds] [0] [AmazonS3] [13.249.182.40] [cloudfront] [3.172955936s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://staging-uauth-grpc.ankr.com [301] [https://staging-uauth-grpc.ankr.com/] [0] [istio-envoy] [44.239.241.159] [73.289704ms]
+http://staging-uauth.ankr.com [301] [https://staging-uauth.ankr.com/] [0] [istio-envoy] [35.83.223.252] [71.56425ms]
+http://staging.multirpc.ankr.com [301] [https://staging.multirpc.ankr.com/] [0] [istio-envoy] [52.35.24.139] [109.548668ms]
+http://stripe-call.staging.multirpc.ankr.com [301] [https://stripe-call.staging.multirpc.ankr.com/] [0] [istio-envoy] [52.35.24.139] [73.043973ms]
+
+## 302
+https://api-docs.ankr.com [302] [/reference] [32] [cloudflare] [104.16.241.118] [cloudflare] [189.067069ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://backoffice-gateway.mainnet.multirpc.ankr.com [302] [https://oauth-proxy.ankr.com/oauth2/sign_in?rd=https://backoffice-gateway.mainnet.multirpc.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [54.219.171.205] [121.414528ms] [Nginx:1.24.0,Ubuntu]
+https://azure.ankr.com [302] [https://azuremarketplace.microsoft.com/en-us/marketplace/apps?search=ankr] [0] [CloudFront] [99.84.215.18] [cloudfront] [141.898125ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://backoffice-gateway.staging.multirpc.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://backoffice-gateway.staging.multirpc.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [93.300852ms] [Nginx:1.24.0,Ubuntu]
+https://bs-10-stage.dccn.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://bs-10-stage.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [77.588001ms] [Nginx:1.24.0,Ubuntu]
+https://bs-1-stage.dccn.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://bs-1-stage.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [100.424738ms] [Nginx:1.24.0,Ubuntu]
+https://bs-11-stage.dccn.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://bs-11-stage.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [102.90521ms] [Nginx:1.24.0,Ubuntu]
+https://bs-12-stage.dccn.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://bs-12-stage.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [91.911025ms] [Nginx:1.24.0,Ubuntu]
+https://bs-2-stage.dccn.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://bs-2-stage.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [71.95175ms] [Nginx:1.24.0,Ubuntu]
+https://bs-13-stage.dccn.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://bs-13-stage.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [1.066592699s] [Nginx:1.24.0,Ubuntu]
+https://bs-4-stage.dccn.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://bs-4-stage.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [1.07532471s] [Nginx:1.24.0,Ubuntu]
+https://bs-7-stage.dccn.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://bs-7-stage.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [1.079780441s] [Nginx:1.24.0,Ubuntu]
+https://bs-9-stage.dccn.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://bs-9-stage.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [1.086537603s] [Nginx:1.24.0,Ubuntu]
+https://bs-5-stage.dccn.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://bs-5-stage.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [7.0696877s] [Nginx:1.24.0,Ubuntu]
+https://multirpc-backoffice-stage.dccn.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://multirpc-backoffice-stage.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [79.692516ms] [Nginx:1.24.0,Ubuntu]
+https://multirpc-backoffice.dccn.ankr.com [302] [https://oauth-proxy.ankr.com/oauth2/sign_in?rd=https://multirpc-backoffice.dccn.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [54.219.171.205] [74.939287ms] [Nginx:1.24.0,Ubuntu]
+https://oauth-proxy-stage.ankr.com [302] [https://accounts.google.com/o/oauth2/auth?access_type=offline&approval_prompt=force&client_id=511609686619-4n9ic16suaapmch4a9gaulqoofk4govi.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Foauth-proxy-stage.ankr.com%2Foauth2%2Fcallback&response_type=code&scope=profile+email&state=R0Ry5jJTnV17n38y4Ue1MkIhxwpjMYRbrGXwzVIP2pg%3A%252F] [384] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [1.088679808s] [Nginx:1.24.0,Ubuntu]
+https://oauth-proxy.ankr.com [302] [https://accounts.google.com/o/oauth2/auth?access_type=offline&approval_prompt=force&client_id=257523516534-bd6m43t17ekd5ajsml2fvrjee2mav9ff.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Foauth-proxy.ankr.com%2Foauth2%2Fcallback&response_type=code&scope=profile+email&state=UCHugi2amP_Z17hJRbl9NjBmp97PSSXGsETDtfd7zr0%3A%252F] [378] [nginx/1.24.0 (Ubuntu)] [54.219.171.205] [4.079471335s] [Nginx:1.24.0,Ubuntu]
+https://port.7k.ag [302] [https://7k.ag/] [143] [302 Found] [cloudflare] [104.21.80.141] [cloudflare] [3.094198892s] [Cloudflare]
+https://www-stage.ankr.com [302] [https://oauth-proxy-stage.ankr.com/oauth2/sign_in?rd=https://www-stage.ankr.com/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [50.18.241.63] [72.316278ms] [Nginx:1.24.0,Ubuntu]
+
+## 307
+
+## 308
+http://uauth-grpc-gen2.ankr.com [308] [https://uauth-grpc-gen2.ankr.com] [164] [308 Permanent Redirect] [] [54.176.85.87] [39.146491ms]
+http://uauth-gen2.ankr.com [308] [https://uauth-gen2.ankr.com] [164] [308 Permanent Redirect] [] [54.176.85.87] [39.448177ms]
+http://uauth.ankr.com [308] [https://uauth.ankr.com] [164] [308 Permanent Redirect] [] [54.176.85.87] [37.497544ms]
+
+## 401
+
+## 403
+https://assets.ankr.com [403] [] [111] [AmazonS3] [18.238.109.101] [cloudfront] [140.458513ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://cdn.staking.ankr.com [403] [] [111] [AmazonS3] [65.8.20.24] [cloudfront] [4.154406615s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://graylog.staking.ankr.com [403] [] [146] [403 Forbidden] [] [107.6.112.156] [700.38899ms] [HSTS]
+https://packages.ankr.com [403] [] [564] [403 Forbidden] [nginx/1.18.0 (Ubuntu)] [72.251.230.236] [4.198186313s] [Nginx:1.18.0,Ubuntu]
+https://staging.keepers.ankr.com [403] [] [111] [AmazonS3] [65.8.20.76] [cloudfront] [291.753018ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://api.points.ankr.com [404] [] [0] [istio-envoy] [35.83.117.51] [176.712505ms]
+https://bff.staking.ankr.com [404] [] [63] [istio-envoy] [100.21.9.73] [142.435837ms] [Envoy,HSTS]
+https://bnbmev.ankr.com [404] [] [0] [nginx/1.24.0 (Ubuntu)] [107.6.94.200] [148.750572ms] [Nginx:1.24.0,Ubuntu]
+https://gateway-prod.nyc.raas.ankr.com [404] [] [146] [404 Not Found] [] [198.178.224.35] [2.225840737s] [HSTS]
+https://mainnet.multirpc.ankr.com [404] [] [19] [] [52.53.95.133] [98.267114ms] [HSTS]
+https://mcp.ankr.com [404] [] [146] [404 Not Found] [] [198.178.224.35] [240.480095ms] [HSTS]
+https://registry-dev.nyc.raas.ankr.com [404] [] [146] [404 Not Found] [] [198.178.224.35] [203.400218ms] [HSTS]
+https://rhs.verify.ankr.com [404] [] [146] [404 Not Found] [] [100.20.187.249] [152.884608ms] [HSTS]
+https://registry.nyc.raas.ankr.com [404] [] [146] [404 Not Found] [] [198.178.224.35] [198.764597ms] [HSTS]
+https://registry-prod.nyc.raas.ankr.com [404] [] [146] [404 Not Found] [] [198.178.224.35] [229.168168ms] [HSTS]
+https://rpc.ankr.com [404] [] [146] [404 Not Found] [] [198.178.224.35] [214.420091ms] [HSTS]
+https://stage.forge.ankr.com [404] [] [538] [404 Not Found] [AmazonS3] [65.8.20.57] [cloudfront] [369.307404ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://staging-uauth-gen2.ankr.com [404] [] [19] [istio-envoy] [52.35.24.139] [1.178656793s] [Envoy,HSTS]
+https://staging.protocol.ankr.com [404] [] [548] [404 Not Found] [] [157.245.18.137] [453.262786ms] [HSTS]
+https://strapi.ankr.com [404] [] [146] [404 Not Found] [] [100.20.187.249] [151.796743ms] [HSTS]
+https://stats.jasper-mainnet.ankr.com [404] [] [0] [nginx] [107.6.89.133] [3.085462007s] [HSTS,Nginx]
+https://stripe-call.mainnet.multirpc.ankr.com [404] [] [19] [] [52.53.95.133] [2.102171764s] [HSTS]
+https://visualize.jasper-mainnet.ankr.com [404] [] [0] [nginx] [107.6.89.133] [90.869734ms] [HSTS,Nginx]
+https://x402.rpc.ankr.com [404] [] [19] [] [198.178.224.35] [216.534897ms] [HSTS]
+
+## 500
+
+## 502
+https://snapshot-api.ankr.com [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [72.251.230.236] [6.195952528s] [Nginx:1.18.0,Ubuntu]
+https://strapi-cdn.ankr.com [502] [] [932] [ERROR: The request could not be satisfied] [] [18.238.109.47] [cloudfront] [3.616418542s] [Amazon CloudFront,Amazon Web Services]
+
+## 503
+https://7k.ag [503] [] [113] [cloudflare] [104.21.80.141] [cloudflare] [523.964188ms] [Cloudflare,HTTP/3]
+https://iota.dev.staking.ankr.com [503] [] [592] [503 Service Temporarily Unavailable] [] [157.245.18.137] [451.229383ms] [HSTS]
+https://mev-go-proxy.staging.multirpc.ankr.com [503] [] [190] [503 Service Temporarily Unavailable] [] [157.245.18.137] [460.220596ms] [HSTS]
+https://mev-proxy.staging.multirpc.ankr.com [503] [] [592] [503 Service Temporarily Unavailable] [] [157.245.18.137] [453.6331ms] [HSTS]
+https://monitor-gateway.staging.multirpc.ankr.com [503] [] [190] [503 Service Temporarily Unavailable] [] [157.245.18.137] [478.306496ms] [HSTS]
+https://tako.7k.ag [503] [] [113] [cloudflare] [172.67.185.14] [cloudflare] [532.689175ms] [Cloudflare,HTTP/3]
+
