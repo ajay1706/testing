@@ -1,0 +1,1 @@
+http://autodiscover.fluidtokens.com [302] [https://autodiscover-service.mail.eu-west-1.awsapps.com:443/] [110] [302 Found] [awselb/2.0] [3.255.29.5] [135.472669ms] [Amazon ELB,Amazon Web Services]

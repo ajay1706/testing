@@ -1,0 +1,7 @@
+https://www.fullsail.finance [301] [https://fullsail.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.56.98] [cloudflare] [299.517171ms] [Cloudflare]
+http://clmm.fullsail.finance [301] [https://clmm.fullsail.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.56.98] [cloudflare] [14.840217ms] [Cloudflare]
+http://landingdev.fullsail.finance [301] [https://landingdev.fullsail.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.56.98] [cloudflare] [18.635593ms] [Cloudflare]
+http://testdoc.fullsail.finance [301] [https://testdoc.fullsail.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.183.191] [cloudflare] [15.6421ms] [Cloudflare]
+http://testnet-feed.fullsail.finance [301] [https://testnet-feed.fullsail.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.56.98] [cloudflare] [16.963973ms] [Cloudflare,HTTP/2]
+http://testnet-feed2.fullsail.finance [301] [https://testnet-feed2.fullsail.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.183.191] [cloudflare] [19.50526ms] [Cloudflare]
+http://testnet.fullsail.finance [301] [https://testnet.fullsail.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.183.191] [cloudflare] [14.429526ms] [Cloudflare]

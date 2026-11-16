@@ -1,0 +1,14 @@
+[+] Batch started: Mon Nov 16 10:01:12 UTC 2026
+[+] Run ID: 43844694448
+[+] Batch name: batch-04
+[+] Batch targets:
+fluidtokens.com
+fullsail.finance
+getgems.io
+[+] Running subfinder...
+[+] Subfinder completed: Mon Nov 16 10:02:41 UTC 2026
+[+] HTTPX input count: 106
+[+] Running httpx...
+[+] httpx completed: Mon Nov 16 10:03:03 UTC 2026
+[+] httpx line count: 42
+[+] Batch completed: Mon Nov 16 10:03:03 UTC 2026

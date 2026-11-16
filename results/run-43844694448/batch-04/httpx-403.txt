@@ -1,0 +1,6 @@
+https://api.getgems.io [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [52.85.193.66] [cloudfront] [26.374697ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://api.fluidtokens.com [403] [] [42] [] [108.132.190.209] [259.846903ms]
+https://getgems.io [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [13.227.65.21] [cloudfront] [75.258669ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://internal.getgems.io [403] [] [146] [403 Forbidden] [] [52.29.38.65] [379.511033ms] [HSTS]
+https://s.getgems.io [403] [] [263] [AmazonS3] [3.170.19.87] [cloudfront] [348.760147ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://testnet.getgems.io [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [13.226.209.75] [cloudfront] [143.006625ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
