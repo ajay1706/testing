@@ -1,0 +1,12 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.based.one:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.based.one:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.dev.fun:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.dev.fun:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.dev.vizcom.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.dev.vizcom.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.pinatafarm.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.pinatafarm.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[google-api-key] [http] [low] https://www.pinatafarm.com ["AIzaSyBiJA9SJwjIqIcpMTCPFAg57cnskq8oZF8"]
+[google-api-key] [http] [low] https://www.pinatafarm.com/hopfully404 ["AIzaSyBiJA9SJwjIqIcpMTCPFAg57cnskq8oZF8"]
+[unauthenticated-varnish-cache-purge] [http] [low] https://www.laso.finance
+[expired-ssl] [ssl] [low] www.app.superfan.one:443 ["2025-06-25 16:21:40 +0000 UTC"]
