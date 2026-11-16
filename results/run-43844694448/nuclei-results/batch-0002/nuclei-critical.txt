@@ -1,0 +1,2 @@
+[CVE-2026-111497] [javascript] [critical] claim-test.beraborrow.com
+[CVE-2026-111497] [javascript] [critical] claim.beraborrow.com
