@@ -1,0 +1,5 @@
+http://autodiscover.sumplus.xyz [301] [https://autodiscover.sumplus.xyz/] [0] [Microsoft-HTTPAPI/2.0] [52.96.183.40] [11.297531ms] [Microsoft HTTPAPI:2.0]
+https://docs.suins.io [301] [https://docs.sui.io/sui-stack/suins] [534] [301 Moved Permanently] [cloudflare] [172.67.173.111] [cloudflare] [66.102628ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://autoconfig.suins.io [301] [https://privateemail.com/] [0] [cloudflare] [104.21.55.216] [cloudflare] [479.546385ms] [Cloudflare,HSTS,HTTP/3]
+https://autodiscover.suins.io [301] [https://privateemail.com/] [0] [cloudflare] [172.67.173.111] [cloudflare] [479.557136ms] [Cloudflare,HSTS,HTTP/3]
+https://mail.suins.io [301] [https://privateemail.com/] [0] [cloudflare] [172.67.173.111] [cloudflare] [604.877031ms] [Cloudflare,HSTS,HTTP/3]
