@@ -1,0 +1,7 @@
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://myezra-staging.ezra.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] myphone.dev.fun:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] myphone.dev.fun:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] niu366.dev.fun:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] niu366.dev.fun:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.fomo.family [""VITE_HUMAN_ENABLED":"true"",""VITE_STYTCH_DEVICE_FINGERPRINTING_ENABLED":"true"",""VITE_STYTCH_SUBMIT_URL":"tw-bt.beehiiv.com"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_STYTCH_PUBLIC_TOKEN":"public-token-live-bb368f5c-d1e6-477a-b194-cba5627e95f1"",""VITE_STYTCH_TELEMETRY_URL":"https://elements.stytch.com/telemetry.js"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44""]
+[CVE-2024-49757] [http] [high] https://netbird.qa.lulubit.app/ui/login/register
