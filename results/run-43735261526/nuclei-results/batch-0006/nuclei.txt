@@ -1,0 +1,13 @@
+[ssh-weak-mac-algo] [javascript] [low] api-ezra.ezra.com:22
+[ssh-weakkey-exchange-algo] [javascript] [low] api-ezra.ezra.com:22
+[weak-cipher-suites:tls-1.0] [ssl] [low] ai.based.one:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ai.based.one:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api-ezra.ezra.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api-ezra.ezra.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.localpay.asia:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.localpay.asia:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.metengine.xyz:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.metengine.xyz:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[kubernetes-metrics] [http] [low] https://api.engine.based.one/metrics
+[mongodb-exporter-metrics] [http] [medium] https://api.engine.based.one/metrics
+[postgres-exporter-metrics] [http] [low] https://api.engine.based.one/metrics
