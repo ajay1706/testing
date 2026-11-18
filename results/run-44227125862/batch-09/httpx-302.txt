@@ -1,0 +1,5 @@
+https://indexer-mainnet.chain.perawallet.app [302] [https://nodely.io/swagger/index.html?url=/swagger/api/4160/indexer.oas3.yml] [142] [302 Found] [cloudflare] [104.20.44.87] [cloudflare] [94.063323ms] [Cloudflare,HSTS]
+https://b-node-mainnet.chain.perawallet.app [302] [https://nodely.io/swagger/index.html?url=/swagger/api/4160/algod.oas3.yml] [142] [302 Found] [cloudflare] [104.20.44.87] [cloudflare] [136.348894ms] [Cloudflare,HSTS]
+https://indexer-testnet.chain.perawallet.app [302] [https://nodely.io/swagger/index.html?url=/swagger/api/4160/indexer.oas3.yml] [142] [302 Found] [cloudflare] [104.20.44.87] [cloudflare] [97.878076ms] [Cloudflare,HSTS]
+https://node-mainnet.chain.perawallet.app [302] [https://nodely.io/swagger/index.html?url=/swagger/api/4160/algod.oas3.yml] [142] [302 Found] [cloudflare] [104.20.44.87] [cloudflare] [107.279638ms] [Cloudflare,HSTS]
+https://node-testnet.chain.perawallet.app [302] [https://nodely.io/swagger/index.html?url=/swagger/api/4160/algod.oas3.yml] [142] [302 Found] [cloudflare] [104.20.44.87] [cloudflare] [137.733635ms] [Cloudflare,HSTS]
