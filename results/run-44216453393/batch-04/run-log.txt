@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 01:33:55 UTC 2026
+[+] Run ID: 44216453393
+[+] Batch name: batch-04
+[+] Batch targets:
+dexhunter.io
+element.market
+endur.fi
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 01:34:09 UTC 2026
+[+] HTTPX input count: 112
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 01:34:20 UTC 2026
+[+] httpx line count: 51
+[+] Batch completed: Wed Nov 18 01:34:20 UTC 2026
