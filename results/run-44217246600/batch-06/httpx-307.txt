@@ -1,0 +1,5 @@
+https://app.napier.finance [307] [/market] [15] [Vercel] [76.76.21.123] [184.000093ms] [HSTS,Vercel]
+https://app-dev.napier.finance [307] [/market] [15] [Vercel] [216.150.1.193] [311.951613ms] [HSTS,Vercel]
+https://docs.lorenzo-protocol.xyz [307] [https://app.gitbook.com/o/pkhtOGHOy6DuGMwiV5UV/sites/site_dLMso/] [15] [cloudflare] [104.18.40.47] [cloudflare] [153.494349ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://docs.napier.finance [307] [https://app.gitbook.com/o/93VMiTSm19H5yGQSfoIb/sites/site_UH304/] [15] [cloudflare] [172.64.147.209] [cloudflare] [350.379756ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.napier.finance [307] [https://napier.finance/] [15] [Vercel] [216.150.1.1] [161.722291ms] [HSTS,Vercel]

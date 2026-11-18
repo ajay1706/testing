@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 01:42:38 UTC 2026
+[+] Run ID: 44217246600
+[+] Batch name: batch-06
+[+] Batch targets:
+lodestarfinance.io
+lorenzo-protocol.xyz
+napier.finance
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 01:44:04 UTC 2026
+[+] HTTPX input count: 263
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 01:44:32 UTC 2026
+[+] httpx line count: 104
+[+] Batch completed: Wed Nov 18 01:44:33 UTC 2026
