@@ -1,0 +1,2 @@
+https://link.ready.co [404] [] [146] [404 Not Found] [nginx] [52.85.193.40] [cloudfront] [53.172029ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://links.ready.co [404] [] [0] [] [108.138.85.45] [cloudfront] [174.599173ms] [Amazon CloudFront,Amazon Web Services,HSTS]

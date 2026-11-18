@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:29:45 UTC 2026
+[+] Run ID: 44227114870
+[+] Batch name: batch-08
+[+] Batch targets:
+ready.co
+senderwallet.io
+slush.app
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:30:33 UTC 2026
+[+] HTTPX input count: 375
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:31:08 UTC 2026
+[+] httpx line count: 32
+[+] Batch completed: Wed Nov 18 07:31:08 UTC 2026
