@@ -1,0 +1,4 @@
+https://www.percolator.trade [301] [https://percolator.trade/] [15] [Vercel] [76.76.21.98] [297.302354ms] [HSTS,Vercel]
+http://terms.premia.blue [301] [https://terms.premia.blue/] [528] [301 Moved Permanently] [cloudflare] [172.67.73.147] [cloudflare] [34.641453ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://v2.premia.blue [301] [https://v2.premia.blue/] [528] [301 Moved Permanently] [cloudflare] [104.26.6.81] [cloudflare] [42.882827ms] [Cloudflare,Cloudflare Browser Insights]
+http://tos.premia.blue [301] [https://tos.premia.blue/] [528] [301 Moved Permanently] [cloudflare] [172.67.73.147] [cloudflare] [44.21197ms] [Cloudflare,Cloudflare Browser Insights]
