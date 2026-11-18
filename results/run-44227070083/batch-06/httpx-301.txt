@@ -1,0 +1,5 @@
+https://app.minswap.org [301] [https://minswap.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.73.186] [cloudflare] [153.931203ms] [Cloudflare,HSTS]
+http://staging.v2.lynex.fi [301] [https://staging.v2.lynex.fi/] [534] [301 Moved Permanently] [cloudflare] [104.21.85.7] [cloudflare] [52.301425ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.minswap.org [301] [https://minswap.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.10.157] [cloudflare] [61.599097ms] [Cloudflare,HSTS]
+https://www.merchantmoe.com [301] [https://merchantmoe.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.34.125] [cloudflare] [144.429855ms] [Cloudflare,HSTS,HTTP/3]
+http://www.wildcard.dev-4.minswap.org [301] [https://www.wildcard.dev-4.minswap.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.10.157] [cloudflare] [46.526471ms] [Cloudflare]
