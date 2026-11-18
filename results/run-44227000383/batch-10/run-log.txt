@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:28:41 UTC 2026
+[+] Run ID: 44227000383
+[+] Batch name: batch-10
+[+] Batch targets:
+reya.xyz
+risex.trade
+sodex.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:29:32 UTC 2026
+[+] HTTPX input count: 136
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:29:53 UTC 2026
+[+] httpx line count: 31
+[+] Batch completed: Wed Nov 18 07:29:53 UTC 2026
