@@ -1,0 +1,2 @@
+https://p3.phygitals.com [307] [/play] [15] [Vercel] [216.150.16.1] [118.650691ms] [HSTS,Vercel]
+https://status.phygitals.com [307] [https://incident.io/status-pages?utm_source=status-page&desired_slug=status.phygitals.com] [266549] [incident.io - Status pages] [cloudflare] [172.66.43.17] [cloudflare] [1.378670378s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
