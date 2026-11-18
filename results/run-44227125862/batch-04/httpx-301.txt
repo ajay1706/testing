@@ -1,0 +1,5 @@
+https://freighter.app [301] [https://varialwallet.com/] [40] [Netlify] [75.2.60.5] [241.009787ms] [HSTS,Netlify]
+https://help.freighter.app [301] [https://help.varialwallet.com/] [45] [Netlify] [18.208.88.157] [235.56476ms] [HSTS,Netlify]
+https://play.freighter.app [301] [https://play.varialwallet.com/] [45] [Netlify] [98.84.224.111] [198.177889ms] [HSTS,Netlify]
+https://www.foundation.xyz [301] [https://foundation.xyz/] [0] [cloudflare] [23.227.38.74] [211.662783ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://www.freighter.app [301] [https://varialwallet.com/] [40] [Netlify] [98.84.224.111] [274.033253ms] [HSTS,Netlify]

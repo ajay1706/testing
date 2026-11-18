@@ -1,0 +1,2 @@
+https://account.foundation.xyz [302] [https://account.foundation.xyz/authentication/oauth/authorize?client_id=215f891f-f905-413f-91d8-335c9065d338&locale=en-US&nonce=34245072-f795-4306-9c1b-4bbc0034935c&redirect_uri=https%3A%2F%2Faccount.foundation.xyz%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNJHTkAvxgrcXZcVrGsNTwQ] [0] [cloudflare] [23.227.38.74] [264.414162ms] [Cloudflare,HSTS,HTTP/3]
+https://www.eternl.io [302] [https:///] [31] [cloudflare] [104.26.15.17] [cloudflare] [386.818241ms] [Cloudflare,Express,Node.js]
