@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 01:43:44 UTC 2026
+[+] Run ID: 44217246600
+[+] Batch name: batch-08
+[+] Batch targets:
+pinksale.finance
+pods.finance
+premia.blue
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 01:44:43 UTC 2026
+[+] HTTPX input count: 224
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 01:45:09 UTC 2026
+[+] httpx line count: 59
+[+] Batch completed: Wed Nov 18 01:45:09 UTC 2026

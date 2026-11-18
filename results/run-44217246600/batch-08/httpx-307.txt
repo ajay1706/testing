@@ -1,0 +1,5 @@
+https://admin.pods.finance [307] [/login] [15] [Vercel] [216.150.16.193] [189.907495ms] [HSTS,Vercel]
+https://invoices.pods.finance [307] [/login?from=%2F] [15] [Vercel] [216.150.16.1] [293.675391ms] [HSTS,Vercel]
+https://pods.finance [307] [https://www.pods.finance/] [15] [Vercel] [216.150.1.129] [161.629309ms] [HSTS,Vercel]
+https://premia.blue [307] [https://www.premia.blue/] [15] [cloudflare] [104.26.6.81] [cloudflare] [380.560597ms] [Cloudflare,HSTS,Vercel]
+https://scim.premia.blue [307] [/app/] [41] [] [34.65.215.224] [google] [363.185335ms]
