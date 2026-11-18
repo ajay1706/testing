@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:18:30 UTC 2026
+[+] Run ID: 44227039640
+[+] Batch name: batch-05
+[+] Batch targets:
+investax.io
+jarsy.com
+jpmorgan.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:19:58 UTC 2026
+[+] HTTPX input count: 5344
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:29:50 UTC 2026
+[+] httpx line count: 849
+[+] Batch completed: Wed Nov 18 07:29:50 UTC 2026

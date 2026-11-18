@@ -1,0 +1,2 @@
+https://fxtrading.portal.jpmorgan.com [302] [https://markets.jpmorgan.com/pricing-and-execution/execute#execute-for-private-bank] [307] [302 Found] [] [146.143.134.32] [268.90737ms] [HSTS]
+https://www.spendcenter.jpmorgan.com [307] [https://www.next.jpmorgan.com/] [169] [307 Temporary Redirect] [cloudflare] [172.64.144.234] [cloudflare] [59.334714ms] [Cloudflare]

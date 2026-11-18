@@ -1,0 +1,8 @@
+https://api-mock-akm-ptpoc.payments.jpmorgan.com [503] [] [373] [Service Unavailable] [] [23.212.249.91] [756.339704ms] [HSTS]
+https://api-uat.payments.jpmorgan.com [503] [] [97] [] [23.212.251.147] [537.598195ms] [HSTS]
+https://aws-authe-pilot.jpmorgan.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [18.207.95.90] [45.630253ms] [Amazon ELB,Amazon Web Services]
+https://aws-authe.jpmorgan.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [34.199.229.249] [46.908234ms] [Amazon ELB,Amazon Web Services]
+http://b2bintegratedpayables.jpmorgan.com [503] [] [707] [] [107.154.251.43] [incapsula] [3.81838ms] [Imperva]
+https://cib-tech-partner-engagement.jpmorgan.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [35.174.74.194] [48.257884ms] [Amazon ELB,Amazon Web Services]
+https://commercecenter-client.jpmorgan.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [107.21.3.10] [67.63516ms] [Amazon ELB,Amazon Web Services]
+http://integratedpayables.jpmorgan.com [503] [] [707] [] [107.154.251.43] [incapsula] [3.889246ms] [Imperva]
