@@ -1,0 +1,72 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:26:36 UTC 2026
+
+HTTPX lines: 54
+Live URLs: 54
+
+## 200
+https://explore.hashpack.app [200] [] [7723] [HashPack] [cloudflare] [172.66.168.13] [cloudflare] [89.776489ms] [Cloudflare,Express,Google Analytics,Node.js]
+https://link.hashpack.app [200] [] [3113] [HashPack Link] [cloudflare] [172.66.168.13] [cloudflare] [151.258723ms] [Cloudflare]
+https://app.keys.casa [200] [] [1432] [Casa App] [cloudflare] [104.20.10.197] [cloudflare] [161.012944ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS]
+https://track.getarculus.com [200] [] [354] [cloudflare] [143.198.163.61] [161.103924ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://wallet.hashpack.app [200] [] [12419] [Hashpack] [cloudflare] [104.20.42.234] [cloudflare] [151.066434ms] [Cloudflare,HSTS]
+https://business.getarculus.com [200] [] [112241] [Arculus for Business | Secure Authentication & Digital Asset Protection] [cloudflare] [104.26.12.169] [cloudflare] [112.02498ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,OneTrust,Webflow,jQuery:3.5.1]
+https://www.hashpack.app [200] [] [40095] [HashPack | Powering your web3 adventure] [cloudflare] [198.202.211.1] [205.430753ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Zendesk,jQuery:3.5.1]
+https://docs.hashpack.app [200] [] [334441] [Introduction | HashPack Docs] [cloudflare] [172.64.147.209] [cloudflare] [195.06731ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://keys.casa [200] [] [309029] [Bitcoin Self-Custody, Multisig & Inheritance | Casa] [AmazonS3] [3.162.112.29] [cloudfront] [130.576754ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Astro:7.4.2,Google Tag Manager,HTTP/3]
+https://www.getarculus.com [200] [] [185022] [Arculus® | Your Crypto. Your Keys. Your Control.] [cloudflare] [172.67.74.12] [cloudflare] [478.790969ms] [BigCommerce,Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud CDN,Google Tag Manager,HSTS,HTTP/3,Klaviyo,OneTrust]
+https://website-stg.keys.casa [200] [] [309085] [Bitcoin Self-Custody, Multisig & Inheritance | Casa] [AmazonS3] [3.167.88.54] [cloudfront] [154.802134ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Astro:7.4.2,Google Tag Manager,HTTP/3]
+https://www.keys.casa [200] [] [309029] [Bitcoin Self-Custody, Multisig & Inheritance | Casa] [AmazonS3] [3.162.112.119] [cloudfront] [195.104942ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Astro:7.4.2,Google Tag Manager,HTTP/3]
+https://website-dev.keys.casa [200] [] [347829] [Bitcoin Self-Custody, Multisig & Inheritance | Casa] [AmazonS3] [13.226.238.75] [cloudfront] [223.901993ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Astro:7.4.2,Google Tag Manager,HTTP/3]
+
+## 301
+https://getarculus.com [301] [https://www.getarculus.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.74.12] [cloudflare] [35.795504ms] [Cloudflare,HTTP/3]
+https://academy.keys.casa [301] [https://casa.io] [528] [301 Moved Permanently] [cloudflare] [104.20.10.197] [cloudflare] [63.436667ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://developers.getarculus.com [301] [https://developer.getarculus.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.74.12] [cloudflare] [79.976028ms] [Cloudflare,HTTP/3]
+https://contact.keys.casa [301] [https://contact.casa.io/] [0] [cloudflare] [199.60.103.225] [95.493675ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://blog.keys.casa [301] [https://blog.casa.io] [528] [301 Moved Permanently] [cloudflare] [104.20.4.197] [cloudflare] [100.500974ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://hashpack.app [301] [https://www.hashpack.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [135.452952ms] [Cloudflare,HSTS,HTTP/3]
+https://learn.getarculus.com [301] [https://getarculus.com] [81178] [cloudflare] [104.18.17.34] [cloudflare] [129.670052ms] [Cloudflare]
+https://support.getarculus.com [301] [https://support.arculus.co] [167] [301 Moved Permanently] [cloudflare] [104.26.12.169] [cloudflare] [52.527327ms] [Cloudflare,HTTP/3]
+https://upgrade.getarculus.com [301] [https://support.arculus.co/hc/en-us/requests/new?_gl=1*1shnagh*_ga*MTI0NTA1MDIwNi4xNzEyODYyMDQ1*_ga_6TD53TXTLF*MTcyMjI4MDYyOS43OS4xLjE3MjIyODA2MzAuNTkuMC4yMTEzODg4OTIw*_fplc*bnZLOVIlMkZKMmhlNFJmOEZSN2EwajVkNjQlMkJMZGo1MWhZUWF5S0xGUE9kWGtIWWozekdkT0xUS1lGN1VEQUl3ZzdVOUFiZjklMkZva1QwWUJ3c1RXd1h5UXlEcEpZVTBtRVJNSDRjMTZDcjZUbXVQZFZGMFNRUVdBSUMzUlBTY1ZnJTNEJTNE] [167] [301 Moved Permanently] [cloudflare] [104.26.13.169] [cloudflare] [79.668411ms] [Cloudflare,HTTP/3]
+https://trial.keys.casa [301] [https://keys.casa/gold] [528] [301 Moved Permanently] [cloudflare] [104.20.4.197] [cloudflare] [75.007313ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 302
+https://dev-btcpay.keys.casa [302] [https://dev-btcpay.keys.casa/login?ReturnUrl=%2F] [0] [nginx] [54.211.115.244] [83.955831ms] [HSTS,Nginx]
+https://prod-pritunl-vpn.keys.casa [302] [/login] [29] [] [35.168.34.64] [103.447349ms]
+https://prod-btcpay.keys.casa [302] [https://prod-btcpay.keys.casa/login?ReturnUrl=%2F] [0] [nginx] [52.55.206.186] [114.300258ms] [HSTS,Nginx]
+https://stg-btcpay.keys.casa [302] [https://stg-btcpay.keys.casa/login?ReturnUrl=%2F] [0] [nginx] [52.71.68.88] [98.592753ms] [HSTS,Nginx]
+https://stg-pritunl-vpn.keys.casa [302] [https://stg-pritunl-vpn.keys.casa/login] [265] [Redirecting...] [] [34.199.111.127] [47.447635ms] [HSTS]
+https://support.keys.casa [302] [https://support.casa.io] [504] [302 Found] [cloudflare] [104.20.10.197] [cloudflare] [59.786513ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 307
+https://docs.keys.casa [307] [https://docs.casa.io/wealth-security-protocol/] [15] [cloudflare] [104.18.40.47] [cloudflare] [135.138555ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://whitepaper.hashpack.app [307] [https://hashpack.gitbook.io/pack-whitepaper-1/] [15] [cloudflare] [172.64.147.209] [cloudflare] [183.208112ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+https://developer.getarculus.com [401] [] [45] [cloudflare] [104.18.40.47] [cloudflare] [350.930986ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://sales.getarculus.com [401] [] [45] [cloudflare] [172.64.147.209] [cloudflare] [132.970544ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 403
+https://help.keys.casa [403] [] [17] [cloudflare] [199.60.103.31] [80.623454ms] [Cloudflare,HSTS]
+https://api.hashpack.app [403] [] [4546] [Attention Required! | Cloudflare] [cloudflare] [172.66.168.13] [cloudflare] [94.393059ms] [Cloudflare]
+https://bc-staging.getarculus.com [403] [] [17] [cloudflare] [192.200.160.19] [500.470117ms] [Cloudflare,HTTP/3]
+https://url.keys.casa [403] [] [925] [403 Forbidden] [cloudflare] [104.20.4.197] [cloudflare] [118.451443ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+http://www.testk8s.hashpack.app [403] [] [4546] [Attention Required! | Cloudflare] [cloudflare] [104.20.42.234] [cloudflare] [86.493745ms] [Cloudflare]
+
+## 404
+https://api-lb.hashpack.app [404] [] [139] [Error] [cloudflare] [104.20.42.234] [cloudflare] [104.77241ms] [Cloudflare]
+https://secure.getarculus.com [404] [] [47] [cloudflare] [104.26.12.169] [cloudflare] [193.706937ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://news.keys.casa [404] [] [10758] [404: Page Not Found | Mailchimp] [envoy] [148.105.251.17] [430.701953ms] [Envoy]
+https://status.keys.casa [404] [] [2775] [Application error: a client-side exception has occurred] [Vercel] [66.33.60.130] [387.349541ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 500
+
+## 502
+
+## 503
+https://venus.getarculus.com [503] [] [1469] [cloudflare] [192.200.160.19] [556.502312ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+
