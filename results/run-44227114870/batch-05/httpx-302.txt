@@ -1,0 +1,2 @@
+https://mynearwallet.com [302] [https://www.mynearwallet.com] [510] [302 Found] [cloudflare] [104.21.81.97] [cloudflare] [118.016856ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://support.mynearwallet.com [302] [https://help.mynearwallet.com/] [143] [302 Found] [cloudflare] [104.21.81.97] [cloudflare] [44.376976ms] [Cloudflare]

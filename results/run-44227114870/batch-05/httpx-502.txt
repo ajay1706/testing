@@ -1,0 +1,7 @@
+https://huly.nightly.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [391.195343ms] [Nginx:1.18.0,Ubuntu]
+https://api.nightly.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [397.4527ms] [Nginx:1.18.0,Ubuntu]
+https://fogo.rpc.nightly.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [420.737445ms] [Nginx:1.18.0,Ubuntu]
+https://plane.nightly.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [378.275ms] [Nginx:1.18.0,Ubuntu]
+https://price.api.nightly.app [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [456.016456ms] [Nginx:1.18.0,Ubuntu]
+https://trackall.nightly.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [409.201406ms] [Nginx:1.18.0,Ubuntu]
+https://sui.api.nightly.app [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [424.864459ms] [Nginx:1.18.0,Ubuntu]

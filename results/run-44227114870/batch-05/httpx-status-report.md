@@ -1,0 +1,129 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:28:40 UTC 2026
+
+HTTPX lines: 109
+Live URLs: 109
+
+## 200
+https://app.mynearwallet.com [200] [] [5527] [MyNearWallet] [cloudflare] [104.21.81.97] [cloudflare] [96.233689ms] [C3.js,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://captcha.nightly.app [200] [] [6858] [Cloudflare Turnstile Captcha] [cloudflare] [104.21.70.62] [cloudflare] [137.540466ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.nightly.app [200] [] [5095] [Nightly docs] [cloudflare] [172.67.220.170] [cloudflare] [124.198068ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.8.1,HTTP/3,React,Webpack]
+https://connect.nightly.app [200] [] [4539] [Nightly Connect] [Vercel] [76.76.21.164] [138.675758ms] [Docusaurus:2.4.1,HSTS,React,Vercel,Webpack]
+https://aleph.game.nightly.app [200] [] [193] [Vercel] [66.33.60.193] [183.622035ms] [HSTS,Vercel]
+https://example.connect.nightly.app [200] [] [193] [Vercel] [76.76.21.142] [191.604943ms] [HSTS,Vercel]
+https://docs.connect.nightly.app [200] [] [4539] [Nightly Connect] [Vercel] [66.33.60.67] [149.616345ms] [Docusaurus:2.4.1,HSTS,React,Vercel,Webpack]
+https://aleph-zero-web3-template.nightly.app [200] [] [8350] [Aleph Zero Template App] [Vercel] [76.76.21.164] [201.283481ms] [HSTS,Vercel]
+https://cloud.nightly.app [200] [] [23469] [Nightly Connect] [cloudflare] [172.66.47.126] [cloudflare] [194.344799ms] [Cloudflare,HTTP/3]
+https://coinflip.nightly.app [200] [] [9310] [Canton Coin Flip] [Vercel] [216.150.16.129] [295.818826ms] [HSTS,Vercel]
+https://market.nightly.app [200] [] [3571] [Nightly Market - space for your NFTs] [cloudflare] [104.21.70.62] [cloudflare] [84.129421ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://marketplace.nightly.app [200] [] [3571] [Nightly Market - space for your NFTs] [cloudflare] [172.67.220.170] [cloudflare] [110.423347ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mainnet-preview.mynearwallet.com [200] [] [1167] [MyNearWallet] [cloudflare] [172.67.189.16] [cloudflare] [229.297721ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://iota-web3-template.nightly.app [200] [] [8423] [IOTA Template App] [Vercel] [66.33.60.193] [216.597212ms] [HSTS,Vercel]
+https://mainnet-staging.mynearwallet.com [200] [] [5313] [MyNearWallet] [cloudflare] [104.21.81.97] [cloudflare] [162.653785ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://aptos-web3-template.nightly.app [200] [] [8594] [Aptos Template App] [Vercel] [66.33.60.67] [327.791285ms] [HSTS,Vercel]
+https://cantonswap.nightly.app [200] [] [15260] [Canton Swap] [cloudflare] [172.67.220.170] [cloudflare] [416.878696ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://reflect-check.nightly.app [200] [] [5] [cloudflare] [104.21.70.62] [cloudflare] [130.770833ms] [Cloudflare,HTTP/3]
+https://registry.nightly.app [200] [] [184] [cloudflare] [172.66.44.67] [cloudflare] [130.77588ms] [Cloudflare,HTTP/3]
+https://ipfs.nightly.app [200] [] [750] [Cloudflare IPFS On-Boarding] [cloudflare] [172.67.220.170] [cloudflare] [468.896719ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,IPFS]
+https://movement-web3-template.nightly.app [200] [] [8624] [Movement Template App] [Vercel] [66.33.60.35] [283.157735ms] [HSTS,Vercel]
+https://monolith.nightly.app [200] [] [58] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [370.004657ms] [Nginx:1.18.0,Ubuntu]
+https://help.mynearwallet.com [200] [] [67525] [cloudflare] [172.67.189.16] [cloudflare] [343.12277ms] [Adobe Fonts,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Typekit]
+https://portfolio.mytonwallet.io [200] [] [1770] [Portfolio] [Netlify] [98.84.224.111] [239.321562ms] [HSTS,Netlify]
+https://multisend.mytonwallet.io [200] [] [1732] [Multisend] [Netlify] [98.84.224.111] [423.661073ms] [HSTS,Netlify]
+https://oracle.iota.nightly.app [200] [] [478] [IOTA Distributed Oracle] [] [65.109.228.30] [398.171869ms] [Express,HSTS,Node.js]
+https://roadmap.mynearwallet.com [200] [] [5365] [openresty/1.25.3.1] [164.90.209.60] [310.691428ms] [Nginx,OpenResty:1.25.3.1]
+https://staging.marketplace.nightly.app [200] [] [3571] [Nightly Market - space for your NFTs] [cloudflare] [172.67.220.170] [cloudflare] [137.480199ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://statelessnet.mynearwallet.com [200] [] [2430] [MyNearWallet] [cloudflare] [104.21.81.97] [cloudflare] [172.339716ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://solana-web3-template.nightly.app [200] [] [8791] [Solana Template App] [Vercel] [66.33.60.193] [191.927576ms] [HSTS,Vercel]
+https://rpc.aptos.nightly.app [200] [] [684] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [419.766932ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.18.0,Ubuntu]
+https://rest.testnet.aptos.nightly.app [200] [] [9767] [Authorization] [nginx] [116.202.100.5] [349.184102ms] [1C-Bitrix,Nginx,PHP]
+https://safari.rpc.aptos.nightly.app [200] [] [684] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [414.746976ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.18.0,Ubuntu]
+https://nightly.app [200] [] [90454] [Nightly Wallet - Multichain Crypto Wallet] [Vercel] [216.150.1.1] [183.055965ms] [HSTS,Vercel]
+https://rpc.movement.nightly.app [200] [] [228] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [595.814898ms] [Cloudflare,Envoy,Nginx:1.18.0,Ubuntu]
+https://rpc.sui.nightly.app [200] [] [264] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [538.954249ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.18.0,Ubuntu]
+https://testnet-preview.mynearwallet.com [200] [] [1167] [MyNearWallet] [cloudflare] [172.67.189.16] [cloudflare] [107.761426ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://tma.mytonwallet.io [200] [] [7271] [My Wallet] [Netlify] [98.84.224.111] [77.133997ms] [HSTS,Netlify]
+https://testnet.mynearwallet.com [200] [] [5313] [MyNearWallet] [cloudflare] [172.67.189.16] [cloudflare] [154.504126ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://safari.rpc.movement.nightly.app [200] [] [228] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [645.903995ms] [Cloudflare,Envoy,Nginx:1.18.0,Ubuntu]
+https://testnet-staging.mynearwallet.com [200] [] [5313] [MyNearWallet] [cloudflare] [104.21.81.97] [cloudflare] [166.971303ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://jointheraffle.nightly.app [200] [] [12226] [Nightly Wallet] [Vercel] [76.76.21.93] [1.035051356s] [HSTS,Vercel]
+https://near.game.nightly.app [200] [] [3905] [Near event] [Vercel] [66.33.60.129] [957.268683ms] [HSTS,Vercel]
+https://www.mynearwallet.com [200] [] [21539] [MyNearWallet - NEAR wallet to store, buy, send and stake assets for DeFi] [cloudflare] [172.67.189.16] [cloudflare] [91.911154ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,Google Font API,Google Hosted Libraries,HTTP/3,Webflow,jQuery:3.5.1]
+https://sui-web3-template.nightly.app [200] [] [8389] [Sui Template App] [Vercel] [66.33.60.130] [306.810306ms] [HSTS,Vercel]
+https://storm-contest.mytonwallet.io [200] [] [2226] [MyTonWallet x Storm Trade Tournament] [Netlify] [18.208.88.157] [439.136408ms] [HSTS,Netlify]
+https://vara-web3-template.nightly.app [200] [] [8250] [Vara Template App] [Vercel] [66.33.60.67] [322.742551ms] [HSTS,Vercel]
+https://story.nightly.app [200] [] [18442] [Nightly 🦊 Badge] [Vercel] [66.33.60.194] [240.392503ms] [HSTS,Vercel]
+https://supra-web3-template.nightly.app [200] [] [8445] [Supra Template App] [Vercel] [66.33.60.34] [415.950302ms] [HSTS,Vercel]
+https://survey-2026.mytonwallet.io [200] [] [45855] [Help shape My Wallet] [Netlify] [18.208.88.157] [473.429116ms] [HSTS,Netlify]
+https://wallet.nightly.app [200] [] [143741] [Nightly] [cloudflare] [172.66.47.54] [cloudflare] [76.924861ms] [Cloudflare,Google Analytics,HTTP/3,React]
+https://www.nightly.app [200] [] [90454] [Nightly Wallet - Multichain Crypto Wallet] [Vercel] [216.150.16.129] [53.987136ms] [HSTS,Vercel]
+https://status.nightly.app [200] [] [187227] [Nightly status] [] [167.235.220.62] [508.24703ms] [Google Analytics,HSTS,Stimulus]
+
+## 301
+https://discord.nightly.app [301] [https://discord.gg/GZwF9PTBrn] [167] [301 Moved Permanently] [cloudflare] [104.21.70.62] [cloudflare] [55.800194ms] [Cloudflare]
+https://get.mytonwallet.io [301] [https://get.mywallet.io/] [39] [Netlify] [98.84.224.111] [78.433353ms] [HSTS,Netlify]
+https://cards.mytonwallet.io [301] [https://cards.mywallet.io/] [41] [Netlify] [18.208.88.157] [145.374362ms] [HSTS,Netlify]
+https://claim.mytonwallet.io [301] [https://claim.mywallet.io/] [41] [Netlify] [98.84.224.111] [173.854964ms] [HSTS,Netlify]
+https://help.mytonwallet.io [301] [https://help.mywallet.io/] [166] [301 Moved Permanently] [openresty] [5.39.219.76] [300.888837ms] [HSTS,Nginx,OpenResty]
+https://mytonwallet.io [301] [https://mywallet.io/] [35] [Netlify] [75.2.60.5] [77.518028ms] [HSTS,Netlify]
+http://registry.connect.nightly.app [301] [https://registry.connect.nightly.app/] [167] [301 Moved Permanently] [cloudflare] [172.66.44.67] [cloudflare] [23.322847ms] [Cloudflare,HTTP/2]
+https://www.mytonwallet.io [301] [https://mywallet.io/] [35] [Netlify] [18.208.88.157] [83.756096ms] [HSTS,Netlify]
+http://tma-beta.mytonwallet.io [301] [https://tma-beta.mytonwallet.io/] [47] [Netlify] [98.84.224.111] [7.695481ms] [Netlify]
+
+## 302
+https://mynearwallet.com [302] [https://www.mynearwallet.com] [510] [302 Found] [cloudflare] [104.21.81.97] [cloudflare] [118.016856ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://support.mynearwallet.com [302] [https://help.mynearwallet.com/] [143] [302 Found] [cloudflare] [104.21.81.97] [cloudflare] [44.376976ms] [Cloudflare]
+
+## 307
+https://eth.api.nightly.app [307] [https://developers.cloudflare.com/web3/how-to/use-ethereum-gateway/] [536] [307 Temporary Redirect] [cloudflare] [104.21.70.62] [cloudflare] [112.944532ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://openpanel.nightly.app [307] [/login] [0] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [747.349505ms] [Nginx:1.18.0,Ubuntu]
+
+## 308
+http://fullnode.testnet.aptos.nightly.app [308] [https://fullnode.testnet.aptos.nightly.app/] [0] [Caddy] [136.243.176.175] [200.447281ms] [Caddy]
+http://index.testnet.aptos.nightly.app [308] [https://index.testnet.aptos.nightly.app/] [0] [Caddy] [136.243.176.175] [254.010556ms] [Caddy]
+
+## 401
+https://rpc.tezos.nightly.app [401] [] [0] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [466.250991ms] [Cloudflare,HTTP/3,Nginx:1.18.0,Ubuntu]
+
+## 403
+https://api.drops.nightly.app [403] [] [59] [cloudflare] [104.21.70.62] [cloudflare] [270.974352ms] [Cloudflare,HTTP/3,Vercel]
+https://staging.nightly.app [403] [] [17] [cloudflare] [172.67.220.170] [cloudflare] [65.359156ms] [Cloudflare,HTTP/3]
+https://test.nightly.app [403] [] [17] [cloudflare] [104.21.70.62] [cloudflare] [43.942158ms] [Cloudflare,HTTP/3]
+
+## 404
+https://api.yield.nightly.app [404] [] [9] [cloudflare] [104.21.70.62] [cloudflare] [68.039787ms] [Cloudflare,HTTP/3]
+https://coinstats.nightly.app [404] [] [105] [cloudflare] [172.67.220.170] [cloudflare] [197.734953ms] [Cloudflare,Cloudflare Bot Management,Express,HSTS,HTTP/3,Node.js]
+https://cdn.nightly.app [404] [] [27517] [Not Found] [cloudflare] [172.67.220.170] [cloudflare] [246.956654ms] [Cloudflare,Cloudflare Browser Insights]
+https://devnet.rpc.canton.nightly.app [404] [] [9] [nginx/1.24.0 (Ubuntu)] [65.21.110.244] [379.539559ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://defi.sui.nightly.app [404] [] [18] [cloudflare] [104.21.70.62] [cloudflare] [427.437467ms] [Apache APISIX,Cloudflare,HTTP/3]
+https://fwtrack.nightly.app [404] [] [0] [fwe] [63.188.40.201] [480.065992ms]
+https://iota-we3-template.nightly.app [404] [] [107] [Vercel] [66.33.60.34] [398.73511ms] [HSTS,Vercel]
+https://rest.mainnet.aptos.nightly.app [404] [] [146] [404 Not Found] [] [5.161.82.158] [56.439866ms] [HSTS]
+https://mail.rpc.evm.nightly.app [404] [] [162] [404 Not Found] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [394.542152ms] [Nginx:1.18.0,Ubuntu]
+https://mainnet.rpc.canton.nightly.app [404] [] [9] [nginx/1.24.0 (Ubuntu)] [95.217.59.57] [393.399574ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://kv.service.nightly.app [404] [] [9] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [453.744184ms] [Nginx:1.18.0,Ubuntu]
+https://static.mytonwallet.io [404] [] [0] [cloudflare] [172.66.44.197] [cloudflare] [71.935817ms] [Cloudflare,HTTP/3]
+https://rpc.cardano.nightly.app [404] [] [9] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [366.600718ms] [Nginx:1.18.0,Ubuntu]
+https://rpc.solana.nightly.app [404] [] [70] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [441.996539ms] [Cloudflare,Cloudflare Bot Management,HTTP/3,Nginx:1.18.0,Ubuntu]
+https://scan.devnet.validator.canton.nightly.app [404] [] [9] [nginx/1.24.0 (Ubuntu)] [65.21.110.244] [378.752933ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://safari.rpc.solana.nightly.app [404] [] [70] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [453.0182ms] [Cloudflare,Cloudflare Bot Management,HTTP/3,Nginx:1.18.0,Ubuntu]
+https://testnet.rpc.canton.nightly.app [404] [] [9] [nginx/1.24.0 (Ubuntu)] [135.181.251.11] [393.606472ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://www.rpc.evm.nightly.app [404] [] [564] [404 Not Found] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [402.360095ms] [Nginx:1.18.0,Ubuntu]
+https://valiant-mainnet.nightly.app [404] [] [21] [cloudflare] [172.67.220.170] [cloudflare] [510.959699ms] [Cloudflare,HTTP/3]
+
+## 500
+https://status.price.api.nightly.app [500] [] [24] [cloudflare] [172.67.220.170] [cloudflare] [460.035247ms] [Cloudflare,HTTP/3]
+
+## 502
+https://huly.nightly.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [391.195343ms] [Nginx:1.18.0,Ubuntu]
+https://api.nightly.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [397.4527ms] [Nginx:1.18.0,Ubuntu]
+https://fogo.rpc.nightly.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [420.737445ms] [Nginx:1.18.0,Ubuntu]
+https://plane.nightly.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [378.275ms] [Nginx:1.18.0,Ubuntu]
+https://price.api.nightly.app [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [456.016456ms] [Nginx:1.18.0,Ubuntu]
+https://trackall.nightly.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [409.201406ms] [Nginx:1.18.0,Ubuntu]
+https://sui.api.nightly.app [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [95.216.243.233] [424.864459ms] [Nginx:1.18.0,Ubuntu]
+
+## 503
+https://movement.galxe.nightly.app [503] [] [20] [] [128.140.58.26] [337.297497ms] [HTTP/3]
+
