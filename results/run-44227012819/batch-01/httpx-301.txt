@@ -1,0 +1,7 @@
+http://autodiscover.deriverse.io [301] [https://autodiscover.deriverse.io/] [0] [Microsoft-HTTPAPI/2.0] [52.96.109.152] [1.916546ms] [Microsoft HTTPAPI:2.0]
+https://mindshare.catapult.trade [301] [https://catapult.trade/] [167] [301 Moved Permanently] [cloudflare] [104.20.40.62] [cloudflare] [39.46578ms] [Cloudflare,HTTP/3]
+https://test.alpha.deriverse.io [301] [https://test.devnet.deriverse.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.0.62] [cloudflare] [106.586832ms] [Cloudflare]
+https://www.catapult.trade [301] [https://catapult.trade/] [167] [301 Moved Permanently] [cloudflare] [104.20.40.62] [cloudflare] [40.825544ms] [Cloudflare,HTTP/3]
+https://alpha.deriverse.io [301] [https://devnet.deriverse.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.0.62] [cloudflare] [1.355494711s] [Cloudflare]
+http://t.catapult.trade [301] [https://t.catapult.trade/] [528] [301 Moved Permanently] [cloudflare] [104.20.40.62] [cloudflare] [55.515614ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://track.catapult.trade [301] [https://track.catapult.trade/] [528] [301 Moved Permanently] [cloudflare] [104.20.40.62] [cloudflare] [13.294634ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
