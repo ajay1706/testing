@@ -1,0 +1,2 @@
+https://explorer.testnet.elys.network [302] [https://testnet.ping.pub/elys/] [0] [cloudflare] [172.67.71.63] [cloudflare] [362.487965ms] [Cloudflare,HTTP/3]
+https://www.elys.network [302] [https://elys.network/] [504] [302 Found] [cloudflare] [104.26.7.223] [cloudflare] [1.115970542s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
