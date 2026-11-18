@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:29:18 UTC 2026
+[+] Run ID: 44227000383
+[+] Batch name: batch-12
+[+] Batch targets:
+txflow.com
+variational.io
+veranta.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:29:50 UTC 2026
+[+] HTTPX input count: 115
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:30:11 UTC 2026
+[+] httpx line count: 48
+[+] Batch completed: Wed Nov 18 07:30:11 UTC 2026
