@@ -1,0 +1,8 @@
+https://docs2.fragmetric.xyz [404] [] [1733] [Domain error] [openresty] [151.101.131.7] [fastly] [137.136642ms] [Nginx,OpenResty,Varnish]
+https://blog.fragmetric.xyz [404] [] [1733] [Domain error] [openresty] [151.101.195.7] [fastly] [167.668511ms] [Nginx,OpenResty,Varnish]
+https://raffletxnhist.famousfoxes.com [404] [] [13] [cloudflare] [172.67.70.161] [cloudflare] [53.722716ms] [Cloudflare]
+https://ipfs.famousfoxes.com [404] [] [9] [cloudflare] [172.67.70.161] [cloudflare] [216.239574ms] [Cloudflare]
+https://images.famousfoxes.com [404] [] [916] [404 Not Found] [cloudflare] [172.67.70.164] [cloudflare] [376.774062ms] [Cloudflare,Cloudflare Browser Insights]
+https://cdn2.famousfoxes.com [404] [] [27511] [Not Found] [cloudflare] [172.67.70.164] [cloudflare] [437.96741ms] [Cloudflare,Cloudflare Browser Insights]
+https://api.fragmetric.xyz [404] [] [19] [] [43.201.179.144] [741.828807ms]
+https://api.stg.fragmetric.xyz [404] [] [0] [awselb/2.0] [3.36.81.173] [753.618065ms] [Amazon ELB,Amazon Web Services]

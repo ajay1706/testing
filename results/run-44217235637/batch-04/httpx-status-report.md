@@ -1,0 +1,72 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 01:40:07 UTC 2026
+
+HTTPX lines: 44
+Live URLs: 44
+
+## 200
+https://app.flipcash.com [200] [] [14] [nginx/1.30.6] [100.57.238.146] [40.385407ms] [Express,Nginx:1.30.6,Node.js]
+https://fortuna.famousfoxes.com [200] [] [2308] [Fortuna - By Famous Fox Federation] [cloudflare] [104.26.9.55] [cloudflare] [83.747954ms] [Cloudflare,Cloudflare Browser Insights]
+https://airdrop.fragmetric.xyz [200] [] [12992] [Fragmetric | Restaking on Solana] [AmazonS3] [3.170.42.3] [cloudfront] [38.47466ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://fragmetric.xyz [200] [] [14944] [Fragmetric | Restaking on Solana] [AmazonS3] [3.170.19.101] [cloudfront] [52.943769ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://send.flipcash.com [200] [] [14] [nginx/1.30.6] [52.0.77.176] [38.634105ms] [Express,Nginx:1.30.6,Node.js]
+https://docs.famousfoxes.com [200] [] [40605] [Welcome to the Famous Fox Federation | Famous Fox Federation Docs] [cloudflare] [172.67.70.164] [cloudflare] [117.26392ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.10.2,React,Webpack]
+https://citrus.famousfoxes.com [200] [] [2969] [Citrus | Solana NFT Lending] [cloudflare] [172.67.70.168] [cloudflare] [352.812211ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,jsDelivr]
+https://aptos.famousfoxes.com [200] [] [1022] [Famous Fox Federation] [cloudflare] [172.67.70.164] [cloudflare] [358.674175ms] [Cloudflare,Cloudflare Browser Insights]
+https://beta.famousfoxes.com [200] [] [1445] [Rafffle | Powered by Famous Fox Federation] [cloudflare] [104.26.8.55] [cloudflare] [375.967029ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://auction.famousfoxes.com [200] [] [1445] [Rafffle | Powered by Famous Fox Federation] [cloudflare] [172.67.70.166] [cloudflare] [353.154707ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://famousfoxes.com [200] [] [1229] [cloudflare] [172.67.70.164] [cloudflare] [335.984187ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://ffflip.famousfoxes.com [200] [] [2006] [cloudflare] [172.67.70.161] [cloudflare] [407.551812ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://rafffle.famousfoxes.com [200] [] [1445] [Rafffle | Powered by Famous Fox Federation] [cloudflare] [172.67.70.166] [cloudflare] [391.57502ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://mission.famousfoxes.com [200] [] [3363] [A New Mission] [cloudflare] [172.67.70.160] [cloudflare] [364.870439ms] [Cloudflare,Cloudflare Browser Insights]
+https://superbowl.famousfoxes.com [200] [] [9534] [BONKsquares] [cloudflare] [172.67.70.160] [cloudflare] [384.892119ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://flipcash.com [200] [] [224726] [Flipcash] [Framer/3824ea1] [13.226.209.69] [cloudfront] [190.796863ms] [Amazon CloudFront,Amazon Web Services,Framer Sites,HSTS,HTTP/3,React]
+https://www.famousfoxes.com [200] [] [1229] [cloudflare] [172.67.70.168] [cloudflare] [356.896076ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://framer.flipcash.com [200] [] [224726] [Flipcash] [Framer/3824ea1] [31.43.161.6] [147.416503ms] [Framer Sites,HSTS,HTTP/3,React]
+https://brand.fragmetric.xyz [200] [] [11432238] [AmazonS3] [13.226.238.108] [cloudfront] [1.71499917s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 301
+https://raffle.famousfoxes.com [301] [https://rafffle.famousfoxes.com/] [528] [301 Moved Permanently] [cloudflare] [172.67.70.161] [cloudflare] [86.027665ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.flipcash.com [301] [https://flipcash.com/] [0] [CloudFront] [13.226.209.52] [cloudfront] [123.754088ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 302
+https://app.fragmetric.xyz [302] [/restake] [0] [] [3.171.85.98] [cloudfront] [222.650433ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://ref.fragmetric.xyz [302] [https://ref.fragmetric.xyz/?rb.routing.mode=proxy&rb.routing.signature=412281] [0] [] [13.248.148.104] [42.007407ms] [HSTS]
+https://email.famousfoxes.com [302] [https://email.secureserver.net:443/auth] [471] [302 Found] [cloudflare] [104.26.8.55] [cloudflare] [407.235452ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.app.fragmetric.xyz [302] [/restake] [0] [] [3.171.85.53] [cloudfront] [257.552775ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://www.fragmetric.xyz [302] [https://fragmetric.xyz/] [0] [] [3.170.19.112] [cloudfront] [256.573605ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+
+## 307
+
+## 308
+https://docs.fragmetric.xyz [308] [/home/get-started/welcome] [0] [Vercel] [66.33.60.129] [261.293864ms] [Cloudflare,HSTS,Vercel]
+
+## 401
+https://dashboard.famousfoxes.com [401] [] [23] [cloudflare] [172.67.70.168] [cloudflare] [106.142639ms] [Basic,Cloudflare]
+https://fortuna-stg.famousfoxes.com [401] [] [951] [401 Authorization Required] [cloudflare] [172.67.70.169] [cloudflare] [106.585971ms] [Basic,Cloudflare,Cloudflare Browser Insights]
+https://rafffle-stg.famousfoxes.com [401] [] [540] [401 Authorization Required] [cloudflare] [172.67.70.166] [cloudflare] [332.264779ms] [Basic,Cloudflare,Cloudflare Browser Insights]
+https://stg.famousfoxes.com [401] [] [540] [401 Authorization Required] [cloudflare] [172.67.70.169] [cloudflare] [359.658536ms] [Basic,Cloudflare,Cloudflare Browser Insights]
+
+## 403
+https://3dstorage.famousfoxes.com [403] [] [4910] [Attention Required! | Cloudflare] [cloudflare] [172.67.70.160] [cloudflare] [73.749421ms] [Cloudflare,Cloudflare Browser Insights]
+https://cdn.famousfoxes.com [403] [] [523] [403 Forbidden] [cloudflare] [172.67.70.168] [cloudflare] [106.088164ms] [Cloudflare,Cloudflare Browser Insights]
+https://rpc2.famousfoxes.com [403] [] [21] [cloudflare] [104.26.9.55] [cloudflare] [57.240795ms] [Cloudflare]
+https://dens.famousfoxes.com [403] [] [916] [403 Forbidden] [cloudflare] [172.67.70.166] [cloudflare] [352.807788ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 404
+https://docs2.fragmetric.xyz [404] [] [1733] [Domain error] [openresty] [151.101.131.7] [fastly] [137.136642ms] [Nginx,OpenResty,Varnish]
+https://blog.fragmetric.xyz [404] [] [1733] [Domain error] [openresty] [151.101.195.7] [fastly] [167.668511ms] [Nginx,OpenResty,Varnish]
+https://raffletxnhist.famousfoxes.com [404] [] [13] [cloudflare] [172.67.70.161] [cloudflare] [53.722716ms] [Cloudflare]
+https://ipfs.famousfoxes.com [404] [] [9] [cloudflare] [172.67.70.161] [cloudflare] [216.239574ms] [Cloudflare]
+https://images.famousfoxes.com [404] [] [916] [404 Not Found] [cloudflare] [172.67.70.164] [cloudflare] [376.774062ms] [Cloudflare,Cloudflare Browser Insights]
+https://cdn2.famousfoxes.com [404] [] [27511] [Not Found] [cloudflare] [172.67.70.164] [cloudflare] [437.96741ms] [Cloudflare,Cloudflare Browser Insights]
+https://api.fragmetric.xyz [404] [] [19] [] [43.201.179.144] [741.828807ms]
+https://api.stg.fragmetric.xyz [404] [] [0] [awselb/2.0] [3.36.81.173] [753.618065ms] [Amazon ELB,Amazon Web Services]
+
+## 500
+
+## 502
+
+## 503
+

@@ -1,0 +1,5 @@
+https://app.fragmetric.xyz [302] [/restake] [0] [] [3.171.85.98] [cloudfront] [222.650433ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://ref.fragmetric.xyz [302] [https://ref.fragmetric.xyz/?rb.routing.mode=proxy&rb.routing.signature=412281] [0] [] [13.248.148.104] [42.007407ms] [HSTS]
+https://email.famousfoxes.com [302] [https://email.secureserver.net:443/auth] [471] [302 Found] [cloudflare] [104.26.8.55] [cloudflare] [407.235452ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.app.fragmetric.xyz [302] [/restake] [0] [] [3.171.85.53] [cloudfront] [257.552775ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://www.fragmetric.xyz [302] [https://fragmetric.xyz/] [0] [] [3.170.19.112] [cloudfront] [256.573605ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
