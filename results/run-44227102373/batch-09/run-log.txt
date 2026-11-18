@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:28:04 UTC 2026
+[+] Run ID: 44227102373
+[+] Batch name: batch-09
+[+] Batch targets:
+onto.app
+rabby.io
+rainbow.me
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:29:14 UTC 2026
+[+] HTTPX input count: 201
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:29:37 UTC 2026
+[+] httpx line count: 60
+[+] Batch completed: Wed Nov 18 07:29:37 UTC 2026
