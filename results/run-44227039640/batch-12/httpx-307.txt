@@ -1,0 +1,5 @@
+https://apidocs.tzero.com [307] [/docs/explorer] [7689] [tZERO API] [cloudflare] [104.17.235.41] [cloudflare] [277.712854ms] [Cloudflare,Google Cloud,Google Cloud CDN,Next.js,Node.js,React,Webpack]
+https://br.tzero.com [307] [https://www.tzero.com] [0] [cloudflare] [104.17.232.41] [cloudflare] [207.658505ms] [Cloudflare,HSTS]
+https://platform.tzero.com [307] [/tzero] [6] [cloudflare] [104.17.234.41] [cloudflare] [1.26015824s] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://secondary.tzero.com [307] [https://platform.tzero.com/] [169] [307 Temporary Redirect] [cloudflare] [104.17.236.41] [cloudflare] [5.143678016s] [Cloudflare]
+https://tzero.com [307] [https://www.tzero.com/] [15] [Vercel] [216.150.1.1] [3.133726845s] [HSTS,Vercel]
