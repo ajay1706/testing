@@ -1,0 +1,2 @@
+https://www.begin.is [301] [https://begin.is/] [32] [Netlify] [18.208.88.157] [187.705665ms] [HSTS,Netlify]
+https://www.bitbox.swiss [301] [https://bitbox.swiss/] [530] [301 Moved Permanently] [cloudflare] [172.67.68.208] [cloudflare] [490.673632ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]

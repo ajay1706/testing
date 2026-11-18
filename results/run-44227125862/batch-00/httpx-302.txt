@@ -1,0 +1,5 @@
+https://shop.bitbox.swiss [302] [/en/] [0] [cloudflare] [104.26.0.40] [cloudflare] [201.675002ms] [Cloudflare,HSTS,HTTP/3]
+https://contact.bitbox.swiss [302] [/en/contact/] [0] [cloudflare] [172.67.68.208] [cloudflare] [498.650945ms] [Cloudflare,HSTS,HTTP/3]
+https://blog.bitbox.swiss [302] [/en/] [0] [cloudflare] [104.26.0.40] [cloudflare] [506.333565ms] [Cloudflare,HSTS,HTTP/3]
+https://go.bitbox.swiss [302] [/login] [28] [cloudflare] [172.67.68.208] [cloudflare] [519.682605ms] [Cloudflare,HSTS,HTTP/3]
+https://btcpay.bitbox.swiss [302] [https://btcpay.bitbox.swiss/login?ReturnUrl=%2F] [0] [cloudflare] [172.67.68.208] [cloudflare] [540.201169ms] [Cloudflare,HSTS,HTTP/3]

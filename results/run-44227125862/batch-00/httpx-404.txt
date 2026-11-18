@@ -1,0 +1,2 @@
+https://autoconfig.begin.is [404] [] [10] [] [64.90.62.167] [241.966856ms]
+https://app.begin.is [404] [] [321] [openresty] [35.167.216.18] [293.829695ms] [HSTS,Nginx,OpenResty]
