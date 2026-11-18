@@ -1,0 +1,2 @@
+https://terminal.ctrl-alt.co [301] [https://app.ctrl-alt.co:443/] [134] [301 Moved Permanently] [awselb/2.0] [34.241.43.218] [386.649018ms] [Amazon ELB,Amazon Web Services]
+http://www.dev.clearpool.finance [301] [https://www.dev.clearpool.finance/] [528] [301 Moved Permanently] [cloudflare] [104.20.24.153] [cloudflare] [86.65252ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
