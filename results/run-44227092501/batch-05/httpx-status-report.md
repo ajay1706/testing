@@ -1,0 +1,108 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:24:01 UTC 2026
+
+HTTPX lines: 88
+Live URLs: 88
+
+## 200
+https://api.panda.kodiak.finance [200] [] [2] [] [32.200.126.89] [25.65194ms] [Express,Node.js]
+https://app.kodiak.finance [200] [] [5766] [Kodiak Finance] [Vercel] [76.76.21.241] [35.370428ms] [HSTS,Vercel]
+https://dev.rpc.kuru.io [200] [] [20] [cloudflare] [172.66.42.231] [cloudflare] [62.215698ms] [Cloudflare,HTTP/3]
+https://clerk.bots.kodiak.finance [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [104.464807ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://berps.kodiak.finance [200] [] [3525] [Vercel] [76.76.21.123] [120.948489ms] [HSTS,Vercel]
+https://app.kittenswap.finance [200] [] [486] [Kittenswap] [Vercel] [216.150.16.1] [216.542906ms] [HSTS,Vercel]
+https://bots.kodiak.finance [200] [] [2089] [Kodiak Bots] [Vercel] [216.150.16.193] [227.945167ms] [HSTS,Vercel]
+https://dev.kittenswap.finance [200] [] [1974] [Kittenswap] [cloudflare] [104.26.15.219] [cloudflare] [258.540223ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://backend.kodiak.finance [200] [] [2] [] [143.198.250.109] [299.342439ms] [Express,HSTS,Node.js]
+https://dev.predict.kuru.io [200] [] [1879] [cloudflare] [172.66.42.231] [cloudflare] [354.598689ms] [Cloudflare,HTTP/3]
+https://dev.bots-api.kodiak.finance [200] [] [56] [] [188.166.201.94] [364.450425ms] [HSTS]
+https://arena.kuru.io [200] [] [33902] [Agent Trading Tournament] [Vercel] [216.150.16.1] [167.254435ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://legacy.kodiak.finance [200] [] [2881] [Kodiak Finance] [Vercel] [216.150.16.193] [96.775881ms] [HSTS,Vercel]
+https://bots-api.kodiak.finance [200] [] [56] [] [188.166.201.94] [512.361049ms] [HSTS]
+https://launch.kittenswap.finance [200] [] [2321] [Kitten Launchpad] [cloudflare] [104.26.14.219] [cloudflare] [250.337066ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://perps.kodiak.finance [200] [] [3525] [Vercel] [66.33.60.130] [232.181872ms] [HSTS,Vercel]
+https://docs.kuru.io [200] [] [110178] [What is Kuru? - Kuru] [cloudflare] [172.66.42.231] [cloudflare] [162.291771ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://rpc.kuru.io [200] [] [20] [cloudflare] [172.66.41.25] [cloudflare] [164.992871ms] [Cloudflare,HTTP/3]
+https://legacy.kittenswap.finance [200] [] [25953] [Dashboard] [cloudflare] [172.67.69.21] [cloudflare] [259.760579ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://kittenswap.finance [200] [] [81039] [KittenSwap — Liquidity hub on HyperEVM & Robinhood] [cloudflare] [104.26.15.219] [cloudflare] [219.096958ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://staging.bots.kodiak.finance [200] [] [2089] [Kodiak Bots] [Vercel] [216.150.16.129] [79.726642ms] [HSTS,Vercel]
+https://utils.kuru.io [200] [] [11] [cloudflare] [172.66.42.231] [cloudflare] [56.706209ms] [Cloudflare,HTTP/3]
+https://openreplay.aws.kuru.io [200] [] [1666] [OpenReplay] [nginx] [13.229.114.186] [723.33541ms] [HTTP/3,Nginx]
+https://staging.bots-api.kodiak.finance [200] [] [56] [] [188.166.201.94] [312.385729ms] [HSTS]
+https://staging.backend.kodiak.finance [200] [] [2] [] [143.198.250.109] [316.406546ms] [Express,HSTS,Node.js]
+https://blog.kuru.io [200] [] [76435] [Kuru Blog | Fravashi | Substack] [cloudflare] [172.66.41.25] [cloudflare] [64.836134ms] [C3.js,Cloudflare,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js,Substack]
+https://documentation.kodiak.finance [200] [] [464049] [Introducing Kodiak | Kodiak Finance] [cloudflare] [104.18.40.47] [cloudflare] [122.186528ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://www.kodiak.finance [200] [] [108533] [Kodiak Finance | Berachain's Native Liquidity Platform] [Vercel] [76.76.21.241] [62.204504ms] [HSTS,Vercel]
+https://v1.kuru.io [200] [] [80762] [Kuru Exchange] [cloudflare] [172.66.42.231] [cloudflare] [427.524802ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://status.kuru.io [200] [] [161663] [Kuru Labs status] [cloudflare] [172.66.42.231] [cloudflare] [507.362613ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3,Stimulus]
+https://staging.arena.kuru.io [200] [] [34105] [Agent Trading Tournament] [Vercel] [216.150.16.129] [1.920137974s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://dev.kuru.io [200] [] [80922] [Kuru Exchange] [cloudflare] [172.66.42.231] [cloudflare] [3.698827185s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://www.kittenswap.finance [301] [https://kittenswap.finance/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.219] [cloudflare] [38.001863ms] [Cloudflare]
+http://api.staging.kuru.io [301] [https://api.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.42.231] [cloudflare] [19.049822ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://predict.kuru.io [301] [https://predict.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.42.231] [cloudflare] [17.522528ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://redis.staging.kuru.io [301] [https://redis.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.41.25] [cloudflare] [20.37602ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://ws.staging.kuru.io [301] [https://ws.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.41.25] [cloudflare] [20.396088ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://wstest.staging.kuru.io [301] [https://wstest.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.41.25] [cloudflare] [31.475497ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://internal-docs.kuru.io [302] [https://kuru-labs.cloudflareaccess.com/cdn-cgi/access/login/internal-docs.kuru.io?kid=1d349ec510909bcbc23fc68f94c5c5a452178087eb094ce7c614a35e67400f38&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijk2NzdmOTFiODkyOTVhMWZmMzgyYmUwZGM0OTdiMjFmMWEzYmZiMjczZmZlMzAyZTViNjU0NTg3YTdlYTlkMmMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjFkMzQ5ZWM1MTA5MDliY2JjMjNmYzY4Zjk0YzVjNWE0NTIxNzgwODdlYjA5NGNlN2M2MTRhMzVlNjc0MDBmMzgiLCJob3N0bmFtZSI6ImludGVybmFsLWRvY3Mua3VydS5pbyIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk0OTg2OTIwLCJuYmYiOjE3OTQ5ODY2MjAsImlhdCI6MTc5NDk4NjYyMCwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjQzYmE4ZjI2OThkMmFiNWQ5MDc5MWFlOTRjMGNmNGM4OTYwNTBlZWI2YWNhOTIyOGUyMThlZThkOTk4YWNmNWUifQ.bZqXGYUh4Hn5ae3wYqWOE6dZEeebfiXFRn0yrkwOkZ11hvq6NBoqEhhZ-7fvefval4uJZkiypWBUHBpsF4Uy0rjl7hEnya5Xuhj-knDGtg7dnGcwXF_HvLUP6LLZ6DI9kxOAGcnCXWeFxq8h5uvr95OBrqxVUH_xjFdogEIokiQVrOZuOgJL1-Th2L6_66CZNfK_Kn4DS39RiAhQyboYaiotLwAqVOCDV7N9J_AQSRu0lk_LkeCCwclCuBW76HevbHBIPVLdW4ab7_ZIydQJ4ZDVYjn1EvlDHitFXTq8H_eUl5626LsVnWQfiBjOUYPxDGFBsYNFz4qtdXLp1J4QhA&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.66.42.231] [cloudflare] [124.399894ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://grafana.kodiak.finance [302] [/login] [29] [] [143.198.250.109] [390.910446ms] [HSTS]
+
+## 307
+https://docs.kodiak.finance [307] [https://documentation.kodiak.finance/] [15] [cloudflare] [104.18.40.47] [cloudflare] [326.957993ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://monitoring.kuru.io [307] [/login] [15] [cloudflare] [172.66.41.25] [cloudflare] [1.414434068s] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://testnet.kuru.io [307] [/trade/0xd2f64eaf7e85688802d24c18ea268c365533b344] [71680] [Kuru | Trade Stocks, ETFs, Gold & Crypto] [cloudflare] [172.66.42.231] [cloudflare] [1.839911056s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://mainnet.kuru.io [307] [/trade/0xc9de998e272d59a19cea3783c8dd44f87a86405d] [68482] [Kuru | Trade Stocks, ETFs, Gold & Crypto] [cloudflare] [172.66.42.231] [cloudflare] [3.949151572s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://www.kuru.io [307] [/trade/0xc9de998e272d59a19cea3783c8dd44f87a86405d] [69489] [Kuru | Trade Stocks, ETFs, Gold & Crypto] [cloudflare] [172.66.41.25] [cloudflare] [3.49792736s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+
+## 308
+https://docs.kittenswap.finance [308] [/introduction] [0] [cloudflare] [104.26.15.219] [cloudflare] [235.499284ms] [Cloudflare,HSTS,Vercel]
+https://kodiak.finance [308] [https://www.kodiak.finance/] [15] [Vercel] [76.76.21.21] [113.497307ms] [HSTS,Vercel]
+https://kuru.io [308] [https://www.kuru.io/] [15] [cloudflare] [172.66.42.231] [cloudflare] [120.846101ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+https://guardrail.aws.kuru.io [401] [] [581] [401 Authorization Required] [nginx/1.31.8] [54.169.171.181] [795.584749ms] [Basic,Nginx:1.31.8]
+
+## 403
+https://accounts.bots.kodiak.finance [403] [] [5621] [Just a moment...] [cloudflare] [172.64.153.110] [cloudflare] [68.517677ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://internal-rpc.kodiak.finance [403] [] [564] [403 Forbidden] [nginx/1.24.0 (Ubuntu)] [129.212.212.236] [499.739022ms] [Nginx:1.24.0,Ubuntu]
+https://static.kodiak.finance [403] [] [243] [AmazonS3] [3.167.37.7] [cloudfront] [52.527393ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+
+## 404
+https://api.kuru.io [404] [] [500] [Error] [cloudflare] [172.66.42.231] [cloudflare] [69.975672ms] [Cloudflare,Cloudflare Browser Insights,Express,HTTP/3,Node.js]
+https://clobmonsters.aws.kuru.io [404] [] [365] [404 Not Found] [AmazonS3] [3.170.3.98] [cloudfront] [112.162575ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://backup-indexer.kittenswap.finance [404] [] [101] [cloudflare] [104.26.15.219] [cloudflare] [116.091222ms] [Cloudflare]
+https://api.kittenswap.finance [404] [] [101] [cloudflare] [104.26.14.219] [cloudflare] [129.854488ms] [Cloudflare]
+https://exchange.kuru.io [404] [] [0] [cloudflare] [172.66.41.25] [cloudflare] [67.491163ms] [Cloudflare,HTTP/3]
+https://api-v2.kittenswap.finance [404] [] [1614] [Error] [cloudflare] [104.26.14.219] [cloudflare] [189.805427ms] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://api.mainnet.kuru.io [404] [] [122] [cloudflare] [172.66.42.231] [cloudflare] [300.174615ms] [Cloudflare,HTTP/3]
+https://api.kodiak.finance [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [129.212.214.153] [300.291208ms] [Express,HSTS,Nginx:1.24.0,Node.js,Ubuntu]
+https://artio.app.kodiak.finance [404] [] [107] [Vercel] [76.76.21.93] [312.93873ms] [HSTS,Vercel]
+https://dev.app.kodiak.finance [404] [] [107] [Vercel] [76.76.21.123] [313.854532ms] [HSTS,Vercel]
+https://development.app.kodiak.finance [404] [] [107] [Vercel] [76.76.21.22] [338.591841ms] [HSTS,Vercel]
+https://do-backend.kodiak.finance [404] [] [146] [404 Not Found] [] [143.198.250.109] [346.784628ms] [HSTS]
+https://api.testnet.kuru.io [404] [] [122] [cloudflare] [172.66.41.25] [cloudflare] [431.520904ms] [Cloudflare,HTTP/3]
+https://bootnet.app.kodiak.finance [404] [] [107] [Vercel] [76.76.21.22] [445.8981ms] [HSTS,Vercel]
+https://nft.kittenswap.finance [404] [] [1614] [Error] [cloudflare] [104.26.15.219] [cloudflare] [122.589907ms] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://gateway.mainnet.kuru.io [404] [] [74] [cloudflare] [172.66.42.231] [cloudflare] [348.887574ms] [Cloudflare,HTTP/3]
+https://options.kodiak.finance [404] [] [107] [Vercel] [76.76.21.164] [150.715673ms] [HSTS,Vercel]
+https://panda.kodiak.finance [404] [] [107] [Vercel] [216.150.16.1] [203.304938ms] [HSTS,Vercel]
+https://gateway.testnet.kuru.io [404] [] [74] [cloudflare] [172.66.41.25] [cloudflare] [401.685744ms] [Cloudflare,HTTP/3]
+https://grafana.bots-api.kodiak.finance [404] [] [146] [404 Not Found] [] [188.166.201.94] [451.960532ms] [HSTS]
+https://quoting.kittenswap.finance [404] [] [101] [cloudflare] [104.26.15.219] [cloudflare] [245.728511ms] [Cloudflare]
+https://quote.kodiak.finance [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [129.212.214.153] [339.83715ms] [Express,HSTS,Nginx:1.24.0,Node.js,Ubuntu]
+https://staging.app.kodiak.finance [404] [] [107] [Vercel] [76.76.21.123] [302.534349ms] [HSTS,Vercel]
+https://relay.mainnet.kuru.io [404] [] [19] [cloudflare] [172.66.42.231] [cloudflare] [631.804312ms] [Cloudflare,HTTP/3]
+https://staging.do-backend.kodiak.finance [404] [] [146] [404 Not Found] [] [143.198.250.109] [307.570304ms] [HSTS]
+https://relay.testnet.kuru.io [404] [] [19] [cloudflare] [172.66.41.25] [cloudflare] [1.070817271s] [Cloudflare,HTTP/3]
+
+## 500
+https://api.kuru.io [404] [] [500] [Error] [cloudflare] [172.66.42.231] [cloudflare] [69.975672ms] [Cloudflare,Cloudflare Browser Insights,Express,HTTP/3,Node.js]
+
+## 502
+
+## 503
+

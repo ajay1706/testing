@@ -1,0 +1,6 @@
+https://www.kittenswap.finance [301] [https://kittenswap.finance/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.219] [cloudflare] [38.001863ms] [Cloudflare]
+http://api.staging.kuru.io [301] [https://api.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.42.231] [cloudflare] [19.049822ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://predict.kuru.io [301] [https://predict.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.42.231] [cloudflare] [17.522528ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://redis.staging.kuru.io [301] [https://redis.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.41.25] [cloudflare] [20.37602ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://ws.staging.kuru.io [301] [https://ws.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.41.25] [cloudflare] [20.396088ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://wstest.staging.kuru.io [301] [https://wstest.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.41.25] [cloudflare] [31.475497ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
