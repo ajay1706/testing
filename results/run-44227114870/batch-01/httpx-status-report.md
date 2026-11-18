@@ -1,0 +1,54 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:19:13 UTC 2026
+
+HTTPX lines: 26
+Live URLs: 26
+
+## 200
+https://cosmostation.io [200] [] [10056] [Seamless Access to the Interchain Ecosystem] [cloudflare] [172.67.135.212] [cloudflare] [57.886781ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.core.app [200] [] [21320] [Core developer documentation | Core Documentation] [cloudflare] [104.18.35.56] [cloudflare] [84.994194ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Docusaurus:3.10.2,React,Webpack]
+https://download.electrum.org [200] [] [29715] [Index of /] [cloudflare] [104.21.91.204] [cloudflare] [53.371005ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://core.app [200] [] [982462] [Core Wallet. Buy, Sell & Manage Crypto | Free Crypto Wallet] [cloudflare] [104.18.35.56] [cloudflare] [369.135773ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://docs.cosmostation.io [200] [] [401289] [OBRALTOTO | Link Ula Kam Sangsi Situs Slot Gacor Hari Ini Terpercaya Toto Slot Hadirkan Jackpot Hadiah Fantastis] [GitHub.com] [185.199.110.153] [69.284839ms] [AMP,Cloudflare Browser Insights,Fastly,GitHub Pages,Google Maps,ShareThis,Underscore.js,Varnish]
+https://electrum.org [200] [] [31528] [Electrum Bitcoin Wallet] [cloudflare] [172.67.179.87] [cloudflare] [2.218171734s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,jQuery:1.7.1]
+https://fide.core.app [200] [] [26983] [Download Core, the Best Crypto Wallet] [] [18.211.166.153] [2.062142475s] [Cloudflare,Google Font API,Google Hosted Libraries,HTTP/3,jQuery:3.5.1]
+https://identity.core.app [200] [] [2327] [Core | The Best Way to Connect to Web3] [cloudflare] [172.64.152.200] [cloudflare] [86.655616ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://www.electrum.org [200] [] [31528] [Electrum Bitcoin Wallet] [cloudflare] [104.21.91.204] [cloudflare] [3.058560686s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,jQuery:1.7.1]
+http://www.cosmostation.io [200] [] [10056] [Seamless Access to the Interchain Ecosystem] [cloudflare] [104.21.26.94] [cloudflare] [5.049612119s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 301
+https://about.core.app [301] [https://core.app] [528] [301 Moved Permanently] [cloudflare] [172.64.152.200] [cloudflare] [41.595128ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://docs.electrum.org [301] [https://electrum.readthedocs.io/] [0] [cloudflare] [172.67.179.87] [cloudflare] [272.245635ms] [Cloudflare,HSTS,HTTP/3]
+http://cosigner.electrum.org [301] [https://cosigner.electrum.org/] [178] [301 Moved Permanently] [nginx] [88.198.54.148] [194.673783ms] [HSTS,Nginx]
+https://extension.core.app [301] [https://core.app] [528] [301 Moved Permanently] [cloudflare] [172.64.152.200] [cloudflare] [4.06291261s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://join.core.app [301] [https://core.app] [528] [301 Moved Permanently] [cloudflare] [172.64.152.200] [cloudflare] [4.038398332s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://mobile.core.app [301] [https://core.app] [528] [301 Moved Permanently] [cloudflare] [104.18.35.56] [cloudflare] [3.033249773s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://notary.electrum.org [301] [https://notary.electrum.org/n] [169] [301 Moved Permanently] [nginx/1.26.3] [195.201.207.61] [2.317091655s] [Nginx:1.26.3]
+https://www.core.app [301] [https://core.app/] [528] [301 Moved Permanently] [cloudflare] [104.18.35.56] [cloudflare] [2.055489248s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+
+## 302
+https://develop.core.app [302] [https://avalabs.cloudflareaccess.com/cdn-cgi/access/login/develop.core.app?kid=596096c0316a5df91e264b9cf9fd9e3786f99728bd5609a7ff5ae80cc654ab23&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjhjMTlhYWJhNDcyNDhlYjM1YmE4Njg4YmY2NjA3MjVhYmZhNzBmMTRhOTNlNDExZTViNGFjZjVmNjJhOGQ3NDQifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjU5NjA5NmMwMzE2YTVkZjkxZTI2NGI5Y2Y5ZmQ5ZTM3ODZmOTk3MjhiZDU2MDlhN2ZmNWFlODBjYzY1NGFiMjMiLCJob3N0bmFtZSI6ImRldmVsb3AuY29yZS5hcHAiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NDk4NjQ1MiwibmJmIjoxNzk0OTg2MTUyLCJpYXQiOjE3OTQ5ODYxNTIsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJlNWVjMTJiZmExYTNkODY2ZGMzMDIxZDBjOWEyMDQxY2M0ODZlNDUwZmU0NDNkOTlkOTI5OTFiZGZhMTI1MzYyIn0.ZBZcdGP-Dsq_fdYInDbWq7LbXd5o7NgmB7016Z7N8EMrSDouc-wk-ymoXHZ5SfD2iEkOkfM3oniB5u26w6YUz9GMqG-Ylnke8-yOJBFEHB8nZ2mRCMc9yk1kpRgdRn-lzVxjenSw7dUq7qjs4pQUgzF08C8TIyIPFBFpQbhQbdCSX0xvHgAgnOcEtC8PWKiUu2Tw-rTeX9MvdgRBk9z1Cct-kKXOAdl57uOzqv_NXEUoywZem4KbaLskVPy4mGebmNqxsRwfLeTguQBRIs2sBLHVYsr1VFDrKsykWdYwCNk80uVfUTQUGjwPfgSQRyK5l1Bvz6R5Deo3y3sY60txjA&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.18.35.56] [cloudflare] [49.788199ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://staging.core.app [302] [https://avalabs.cloudflareaccess.com/cdn-cgi/access/login/staging.core.app?kid=275488f987bd797165e340b031bdbc8a9aff43749afecb38ee10b63033ad3ea3&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjhjMTlhYWJhNDcyNDhlYjM1YmE4Njg4YmY2NjA3MjVhYmZhNzBmMTRhOTNlNDExZTViNGFjZjVmNjJhOGQ3NDQifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjI3NTQ4OGY5ODdiZDc5NzE2NWUzNDBiMDMxYmRiYzhhOWFmZjQzNzQ5YWZlY2IzOGVlMTBiNjMwMzNhZDNlYTMiLCJob3N0bmFtZSI6InN0YWdpbmcuY29yZS5hcHAiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NDk4NjYyNSwibmJmIjoxNzk0OTg2MzI1LCJpYXQiOjE3OTQ5ODYzMjUsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiIyNTk0OTdjMmE1NDc2YmE0ZTNkNTExZDVjZDk4YmFmODUxYjMxNWM2MmNmN2E3MWQ0MzViYmUxZGJiYzE5MTkzIn0.bEd8s9BHyq8VbnWCgR9bqFkFwg1BkBoqjMR7__IsJ65OAAAjOFrQ8DEDzylyO4-hfJlbGULGIkW14ClSogLETvZIay9MOX1JO3_knPfsmbtSkXn14pASky76sFysFZMQAo_zy0KM3wNqYeJ8rVd-Xxc4pVc5aQYyB6QKoRE__seiDqkdhr7F3aH7YrVipQZbfhsHb9OjNKtb4bIRziEuAMJ2B8qazqAwroc3B3aFgiqyvqRdvn5MqIbZ6W5ylBMZPJhbeLAchPpvjJ-h9xxJmItRn8bCf1-CgqBYBqGvDcA7lFqkK1D9ZhxbqNTIYHWtXNInQZxC9RvJmc-NOyKwPg&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.18.35.56] [cloudflare] [3.105601772s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://support.core.app [302] [https://support.core.app/en/] [0] [cloudflare] [172.64.152.200] [cloudflare] [3.126655804s] [Cloudflare,Cloudflare Bot Management]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+http://webmail.electrum.org [403] [] [194] [403 Forbidden] [Varnish] [217.70.178.6] [3.283631294s]
+
+## 404
+https://charting.core.app [404] [] [0] [cloudflare] [172.64.152.200] [cloudflare] [75.113473ms] [Cloudflare,Cloudflare Bot Management]
+https://crashhub.electrum.org [404] [] [232] [404 Not Found] [nginx] [88.198.54.148] [437.617517ms] [Nginx]
+https://info.core.app [404] [] [46153] [Open main menu] [cloudflare] [199.60.103.254] [2.428203413s] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub]
+
+## 500
+
+## 502
+
+## 503
+

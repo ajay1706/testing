@@ -1,0 +1,8 @@
+https://about.core.app [301] [https://core.app] [528] [301 Moved Permanently] [cloudflare] [172.64.152.200] [cloudflare] [41.595128ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://docs.electrum.org [301] [https://electrum.readthedocs.io/] [0] [cloudflare] [172.67.179.87] [cloudflare] [272.245635ms] [Cloudflare,HSTS,HTTP/3]
+http://cosigner.electrum.org [301] [https://cosigner.electrum.org/] [178] [301 Moved Permanently] [nginx] [88.198.54.148] [194.673783ms] [HSTS,Nginx]
+https://extension.core.app [301] [https://core.app] [528] [301 Moved Permanently] [cloudflare] [172.64.152.200] [cloudflare] [4.06291261s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://join.core.app [301] [https://core.app] [528] [301 Moved Permanently] [cloudflare] [172.64.152.200] [cloudflare] [4.038398332s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://mobile.core.app [301] [https://core.app] [528] [301 Moved Permanently] [cloudflare] [104.18.35.56] [cloudflare] [3.033249773s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://notary.electrum.org [301] [https://notary.electrum.org/n] [169] [301 Moved Permanently] [nginx/1.26.3] [195.201.207.61] [2.317091655s] [Nginx:1.26.3]
+https://www.core.app [301] [https://core.app/] [528] [301 Moved Permanently] [cloudflare] [104.18.35.56] [cloudflare] [2.055489248s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
