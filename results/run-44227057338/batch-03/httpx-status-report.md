@@ -1,0 +1,106 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:07:14 UTC 2026
+
+HTTPX lines: 77
+Live URLs: 77
+
+## 200
+https://dev-portal-api.dflow.net [200] [] [20] [] [3.18.246.239] [97.087859ms]
+https://dev-proof.dflow.net [200] [] [15] [] [3.228.90.247] [172.430296ms]
+https://dev-quote-api.dflow.net [200] [] [16] [] [52.72.125.142] [141.059822ms]
+https://cli.dflow.net [200] [] [15494] [AmazonS3] [3.168.51.95] [cloudfront] [199.718576ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://app.dflow.net [200] [] [12598] [DFlow App] [Netlify] [18.208.88.157] [219.813123ms] [HSTS,Netlify]
+https://dev.app.dflow.net [200] [] [861] [DFlow App] [Netlify] [18.208.88.157] [181.551958ms] [HSTS,Netlify]
+https://app.cetus.zone [200] [] [3070] [Cetus - Empower liquidity. Built for DeFi.] [Netlify] [99.86.77.41] [cloudfront] [379.916659ms] [Amazon CloudFront,Amazon Web Services,Google Analytics,HSTS,Netlify]
+https://dashboard.dflow.net [200] [] [893] [DFlow Developer Portal] [Netlify] [18.208.88.157] [450.23579ms] [HSTS,Netlify]
+https://deepbook.cetus.zone [200] [] [1911] [Cetus - Empower liquidity. Built for DeFi.] [Netlify] [98.84.224.111] [464.261161ms] [Alibaba Cloud CDN,HSTS,Netlify,Node.js,Nuxt.js,Vue.js]
+https://dflow.net [200] [] [4216] [DFlow - Intelligent Trade Execution on Solana] [Netlify] [75.2.60.5] [245.115701ms] [HSTS,Netlify]
+https://haze-app-backend.dflow.net [200] [] [24] [] [3.170.3.33] [cloudfront] [242.005566ms] [Amazon CloudFront,Amazon Web Services]
+https://lb.dev-quote-api.dflow.net [200] [] [16] [] [3.95.53.234] [118.736331ms]
+https://lb.tds.dflow.net [200] [] [18] [] [44.214.19.46] [107.650583ms]
+https://mainnet-bridge.validator.cetus.zone [200] [] [0] [] [18.208.100.245] [106.155364ms] [HTTP/3]
+https://legacy.dflow.net [200] [] [477] [DFlow] [Netlify] [98.84.224.111] [317.32831ms] [HSTS,Netlify]
+https://proof.dflow.net [200] [] [15] [] [3.146.243.36] [98.231597ms]
+https://staging.app.dflow.net [200] [] [12598] [DFlow App] [Netlify] [98.84.224.111] [195.326838ms] [HSTS,Netlify]
+https://terminal.cetus.zone [200] [] [1168] [Cetus Terminal] [Netlify] [98.84.224.111] [171.252071ms] [HSTS,Netlify]
+https://tds.dflow.net [200] [] [18] [] [13.226.53.74] [cloudfront] [243.485175ms] [Amazon CloudFront,Amazon Web Services]
+https://test.app.dflow.net [200] [] [861] [DFlow App] [Netlify] [98.84.224.111] [250.042212ms] [HSTS,Netlify]
+https://vesting.cetus.zone [200] [] [1510] [Cetus - Empower liquidity. Built for DeFi.] [Netlify] [98.84.224.111] [293.540536ms] [Alibaba Cloud CDN,HSTS,Netlify,Node.js,Nuxt.js,Vue.js]
+https://v1.cetus.zone [200] [] [4115] [Cetus - Empower liquidity. Built for DeFi.] [Netlify] [3.167.138.75] [cloudfront] [374.671161ms] [Amazon CloudFront,Amazon Web Services,Google Analytics,HSTS,Netlify,Node.js,Nuxt.js,Vue.js]
+https://waitlist.deepbook.tech [200] [] [21811] [DeepBook — early access opens in waves] [Vercel] [216.150.1.193] [259.95758ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.cetus.zone [200] [] [68744] [Cetus, where On-Chain Trading happens] [Netlify] [52.85.40.45] [cloudfront] [173.330869ms] [Amazon CloudFront,Amazon Web Services,HSTS,Netlify]
+
+## 301
+https://deepbook.tech [301] [https://deepbook.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.168] [cloudflare] [55.061758ms] [Cloudflare]
+https://claim.deepbook.tech [301] [https://deepbook.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.75.251] [cloudflare] [185.25686ms] [Cloudflare]
+https://cetus.zone [301] [https://www.cetus.zone/] [38] [Netlify] [75.2.60.5] [207.454476ms] [HSTS,Netlify]
+https://ko.deepbook.tech [301] [https://deepbook.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.168] [cloudflare] [78.929783ms] [Cloudflare]
+https://www.deepbook.tech [301] [https://deepbook.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.168] [cloudflare] [82.20572ms] [Cloudflare]
+https://www.dflow.net [301] [https://dflow.net/] [33] [Netlify] [75.2.60.5] [212.050931ms] [HSTS,Netlify]
+https://zh.deepbook.tech [301] [https://deepbook.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.168] [cloudflare] [64.876439ms] [Cloudflare]
+
+## 302
+https://auth.dflow.net [302] [https://dflow.net/] [40] [cloudflare] [104.18.43.182] [cloudflare] [266.962135ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://help.dflow.net [302] [https://help.dflow.net/en/] [0] [cloudflare] [104.18.37.238] [cloudflare] [210.680769ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://login.dflow.net [302] [https://dflow.net/] [40] [cloudflare] [172.64.144.74] [cloudflare] [188.056486ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+
+## 307
+https://dflow-ci-bot.dev-quote-api.dflow.net [307] [/login] [42] [] [18.214.105.29] [144.529297ms]
+https://duck-bot.dflow.net [307] [https://duck-bot.dflow.net/login?callbackUrl=https%3A%2F%2Fduck-bot.dflow.net%2F] [80] [] [100.30.251.134] [150.764889ms]
+
+## 308
+https://pond.dflow.net [308] [/introduction] [0] [Vercel] [66.33.60.194] [693.651581ms] [Cloudflare,HSTS,Vercel]
+
+## 401
+
+## 403
+https://b.quote-api.dflow.net [403] [] [0] [] [34.225.44.155] [131.829271ms]
+https://a.quote-api.dflow.net [403] [] [0] [] [23.20.249.149] [136.330151ms]
+https://c.prediction-markets-api.dflow.net [403] [] [0] [] [3.13.162.3] [145.188687ms]
+https://a.prediction-markets-api.dflow.net [403] [] [0] [] [3.13.162.3] [147.477711ms]
+https://c.quote-api.dflow.net [403] [] [0] [] [34.225.44.155] [152.538732ms]
+https://b.prediction-markets-api.dflow.net [403] [] [0] [] [16.58.32.243] [184.588896ms]
+https://d.prediction-markets-api.dflow.net [403] [] [0] [] [3.150.225.105] [187.029967ms]
+https://d.quote-api.dflow.net [403] [] [0] [] [23.20.249.149] [211.123271ms]
+https://e.prediction-markets-api.dflow.net [403] [] [0] [] [3.13.162.3] [185.388167ms]
+https://e.quote-api.dflow.net [403] [] [0] [] [34.225.44.155] [150.930508ms]
+https://lb-phantom.quote-api.dflow.net [403] [] [0] [] [34.196.177.193] [115.849033ms]
+https://jupiter.quote-api.dflow.net [403] [] [0] [] [32.196.248.83] [192.366518ms]
+https://launch.cetus.zone [403] [] [1867] [403] [CloudFront] [54.192.55.69] [cloudfront] [193.771225ms] [Amazon CloudFront,Amazon Web Services]
+https://lb.quote-api.dflow.net [403] [] [0] [] [23.20.249.149] [208.434568ms]
+https://phantom.quote-api.dflow.net [403] [] [0] [] [3.221.212.43] [158.778274ms]
+https://prediction-markets-api.dflow.net [403] [] [0] [] [3.150.225.105] [92.40264ms]
+https://quote-api.dflow.net [403] [] [0] [] [100.59.236.175] [97.799019ms]
+https://submit.dev-equities-api.dflow.net [403] [] [0] [] [13.216.131.45] [140.466798ms]
+https://submit.equities-api.dflow.net [403] [] [0] [] [34.193.153.20] [170.668841ms]
+
+## 404
+https://dev-dproxy-sync-server.dflow.net [404] [] [0] [] [35.174.180.31] [181.504042ms]
+https://dev-equities-api.dflow.net [404] [] [0] [] [100.26.118.78] [218.523299ms]
+https://archive.cetus.zone [404] [] [948] [404 Not Found] [Netlify] [18.208.88.157] [354.533636ms] [HSTS,Netlify]
+https://c.dflow.net [404] [] [27150] [Not Found] [cloudflare] [104.20.44.193] [cloudflare] [510.844011ms] [Cloudflare]
+https://api-sui.cetus.zone [404] [] [30] [] [13.115.61.191] [719.301682ms]
+https://dproxy-sync-server.dflow.net [404] [] [0] [] [34.231.11.50] [169.801348ms]
+https://equities-api.dflow.net [404] [] [0] [] [52.55.71.46] [159.266996ms]
+https://images.deepbook.tech [404] [] [2144] [404: This page could not be found] [Vercel] [66.33.60.35] [114.734759ms] [HSTS,Vercel]
+https://portfolio-api.dflow.net [404] [] [0] [] [52.23.22.246] [152.521426ms]
+https://quote.equities-api.dflow.net [404] [] [0] [] [184.197.217.247] [120.038678ms]
+https://quote.dev-equities-api.dflow.net [404] [] [0] [] [44.220.8.233] [198.173464ms]
+https://walrus-aggregator-testnet.cetus.zone [404] [] [0] [nginx/1.24.0 (Ubuntu)] [52.54.13.8] [166.770494ms] [Nginx:1.24.0,Ubuntu]
+https://walrus-node-testnet.cetus.zone [404] [] [0] [nginx/1.24.0 (Ubuntu)] [52.54.13.8] [247.073726ms] [Nginx:1.24.0,Ubuntu]
+https://web3auth.dflow.net [404] [] [2021] [404: This page could not be found] [Netlify] [98.84.224.111] [475.553278ms] [C3.js,HSTS,Netlify,Next.js,Node.js,React,Webpack]
+https://www.app.dflow.net [404] [] [50] [Netlify] [98.84.224.111] [357.233766ms] [Netlify]
+https://www.test.app.dflow.net [404] [] [50] [Netlify] [98.84.224.111] [2.121172006s] [Netlify]
+
+## 500
+
+## 502
+https://markets.dflow.net [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [13.32.205.32] [cloudfront] [454.96432ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 503
+https://clearpools-api.dflow.net [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [52.85.40.121] [cloudfront] [270.481838ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://api.cetus.zone [503] [] [0] [] [13.115.61.191] [520.989139ms]
+https://api-sui-cf.cetus.zone [503] [] [0] [cloudflare] [104.20.33.90] [cloudflare] [731.637098ms] [Cloudflare]
+https://token-data-service.dflow.net [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [13.226.53.75] [cloudfront] [203.229004ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+
