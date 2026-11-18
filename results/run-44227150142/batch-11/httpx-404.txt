@@ -1,0 +1,2 @@
+https://scanner.wallet.flow.com [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [3.19.43.9] [263.333558ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://functions.wallet.flow.com [404] [] [23] [] [13.184.225.165] [328.82642ms]
