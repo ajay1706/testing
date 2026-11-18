@@ -1,0 +1,3 @@
+https://app.titan.exchange [301] [https://titan.exchange/] [167] [301 Moved Permanently] [cloudflare] [172.66.154.150] [cloudflare] [333.840623ms] [Cloudflare,HTTP/3]
+https://legacy.titan.exchange [301] [https://titan.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.20.25.64] [cloudflare] [47.120258ms] [Cloudflare,HTTP/3]
+https://www.titan.exchange [301] [https://titan.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.20.25.64] [cloudflare] [33.650568ms] [Cloudflare,HTTP/3]
