@@ -1,0 +1,2 @@
+http://status.bluefin.io [308] [https://status.bluefin.io/] [168] [308 Permanent Redirect] [openresty] [167.235.220.62] [275.998961ms] [Nginx,OpenResty]
+https://www.arcus.xyz [308] [https://arcus.xyz/] [54] [cloudflare] [104.18.12.22] [cloudflare] [1.213193778s] [Cloudflare,HSTS]

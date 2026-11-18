@@ -1,0 +1,4 @@
+https://asterdex.com [302] [https://www.asterdex.com/] [138] [302 Found] [] [18.160.102.87] [cloudfront] [680.943711ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://go.arcus.xyz [302] [https://arcus.xyz] [0] [] [52.6.84.124] [263.339038ms] [HSTS]
+https://trade-arb.bluefin.io [302] [https://trade.bluefin.io/] [504] [302 Found] [cloudflare] [172.66.43.105] [cloudflare] [4.083475724s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.asterdex.com [302] [/en] [3] [] [18.160.102.87] [cloudfront] [1.115083218s] [Amazon CloudFront,Amazon Web Services,HSTS]
