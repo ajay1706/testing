@@ -1,0 +1,4 @@
+https://galileo-api.jup.ag [308] [https://api.galileo.jup.ag/] [169] [308 Permanent Redirect] [cloudflare] [172.64.144.197] [cloudflare] [150.070926ms] [Cloudflare,HTTP/3]
+http://static-n42il32li.preview.jup.ag [308] [https://static-n42il32li.preview.jup.ag/] [14] [cloudflare] [104.18.43.59] [cloudflare] [3.052494217s] [Cloudflare,HTTP/3]
+http://static-ep02er2hp.preview.jup.ag [308] [https://static-ep02er2hp.preview.jup.ag/] [14] [cloudflare] [172.64.144.197] [cloudflare] [4.064612621s] [Cloudflare,HTTP/3]
+http://unified.jup.ag [308] [https://unified.jup.ag/] [14] [cloudflare] [104.18.43.59] [cloudflare] [134.201398ms] [Cloudflare,HTTP/3]
