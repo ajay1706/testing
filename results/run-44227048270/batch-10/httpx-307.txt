@@ -1,0 +1,2 @@
+https://aptos.pancakeswap.finance [307] [/swap] [15] [cloudflare] [104.26.2.169] [cloudflare] [151.290075ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://cakepad.pancakeswap.finance [307] [/cakepad] [15] [cloudflare] [104.26.2.169] [cloudflare] [366.19401ms] [Cloudflare,HSTS,HTTP/3,Vercel]

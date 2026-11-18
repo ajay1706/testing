@@ -1,0 +1,4 @@
+https://dev-analytics.quickswap.exchange [301] [/analytics/total] [31] [cloudflare] [104.26.15.130] [cloudflare] [125.01068ms] [Cloudflare,HSTS]
+https://info.quickswap.exchange [301] [/analytics/total] [31] [cloudflare] [104.26.15.130] [cloudflare] [180.324366ms] [Cloudflare,HSTS]
+https://perps.quickswap.exchange [301] [https://qperps.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.130] [cloudflare] [164.371631ms] [Cloudflare,HSTS]
+https://www.quickswap.exchange [301] [https://quickswap.exchange/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.130] [cloudflare] [95.529821ms] [Cloudflare,HSTS]

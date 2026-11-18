@@ -1,0 +1,7 @@
+https://docs.ramses.exchange [308] [https://www.ramses.xyz/docs] [15] [Vercel] [216.150.16.129] [125.951286ms] [HSTS,Vercel]
+https://hl.ramses.exchange [308] [https://www.ramses.xyz/] [15] [Vercel] [216.150.1.1] [217.321202ms] [HSTS,Vercel]
+https://legacy-pm.pancakeswap.finance [308] [https://pancakeswap.finance/] [15] [cloudflare] [104.26.3.169] [cloudflare] [332.756031ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://ramses.exchange [308] [https://old.ramses.xyz/] [15] [Vercel] [76.76.21.21] [142.814569ms] [HSTS,Vercel]
+https://solana.pancakeswap.finance [308] [https://pancakeswap.finance/swap?chain=sol] [15] [cloudflare] [104.26.3.169] [cloudflare] [259.540595ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.pancakeswap.finance [308] [https://pancakeswap.finance/] [15] [cloudflare] [104.26.3.169] [cloudflare] [3.147270029s] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.ramses.exchange [308] [https://old.ramses.xyz/] [15] [Vercel] [66.33.60.67] [112.162666ms] [HSTS,Vercel]

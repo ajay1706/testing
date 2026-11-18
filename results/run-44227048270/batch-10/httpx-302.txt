@@ -1,0 +1,5 @@
+https://beta.quickswap.exchange [302] [/swap] [20] [cloudflare] [104.26.14.130] [cloudflare] [168.243784ms] [Cloudflare,HSTS]
+https://dapp.quickswap.exchange [302] [/swap] [20] [cloudflare] [104.26.15.130] [cloudflare] [199.928119ms] [Cloudflare,HSTS]
+https://dev.quickswap.exchange [302] [/swap] [20] [cloudflare] [172.67.71.118] [cloudflare] [127.779026ms] [Cloudflare,HSTS]
+https://perp.pancakeswap.finance [302] [https://pancakeswap.finance/451] [143] [302 Found] [cloudflare] [172.67.75.76] [cloudflare] [185.308902ms] [Cloudflare,HTTP/3]
+http://beta.ramses.exchange [302] [https://app.ramses.exchange] [50] [namecheap-nginx] [162.255.119.105] [213.298926ms] [Nginx]
