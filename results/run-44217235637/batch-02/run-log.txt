@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 01:39:45 UTC 2026
+[+] Run ID: 44217235637
+[+] Batch name: batch-02
+[+] Batch targets:
+birdeye.so
+bonk.fun
+bulk.trade
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 01:40:24 UTC 2026
+[+] HTTPX input count: 207
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 01:40:39 UTC 2026
+[+] httpx line count: 75
+[+] Batch completed: Wed Nov 18 01:40:39 UTC 2026
