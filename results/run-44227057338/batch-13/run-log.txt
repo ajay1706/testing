@@ -1,0 +1,12 @@
+[+] Batch started: Wed Nov 18 07:35:41 UTC 2026
+[+] Run ID: 44227057338
+[+] Batch name: batch-13
+[+] Batch targets:
+turbos.finance
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:36:05 UTC 2026
+[+] HTTPX input count: 25
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:36:07 UTC 2026
+[+] httpx line count: 10
+[+] Batch completed: Wed Nov 18 07:36:07 UTC 2026
