@@ -1,0 +1,12 @@
+[+] Batch started: Wed Nov 18 07:35:32 UTC 2026
+[+] Run ID: 44227092501
+[+] Batch name: batch-13
+[+] Batch targets:
+xpmarket.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:35:53 UTC 2026
+[+] HTTPX input count: 48
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:36:04 UTC 2026
+[+] httpx line count: 10
+[+] Batch completed: Wed Nov 18 07:36:04 UTC 2026
