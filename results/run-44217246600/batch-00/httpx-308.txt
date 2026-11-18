@@ -1,0 +1,3 @@
+https://ajna.finance [308] [https://www.ajna.finance/] [15] [Vercel] [76.76.21.21] [121.414382ms] [HSTS,Vercel]
+http://aditi.ajna.finance [308] [https://aditi.ajna.finance/] [0] [Caddy] [134.209.187.210] [251.637693ms] [Caddy]
+http://www.ajna.finance [308] [https://www.ajna.finance/] [14] [Vercel] [66.33.60.67] [1.092483021s] [Vercel]
