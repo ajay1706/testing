@@ -1,0 +1,4 @@
+https://link.test.bitpay.com [503] [] [564] [503 Service Temporarily Unavailable] [cloudflare] [104.18.79.118] [cloudflare] [1.377016034s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://test.bitpay.com [503] [] [7024] [Down for maintenance | BitPay] [cloudflare] [104.18.78.118] [cloudflare] [3.098718813s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://tracking.mail.test.bitget.com [503] [] [107] [] [18.198.218.66] [1.574441643s]
+https://tracking.send010.mail.bitget.com [503] [] [107] [] [18.198.218.66] [3.651748911s]
