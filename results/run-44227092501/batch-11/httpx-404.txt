@@ -1,0 +1,3 @@
+https://mcp.thorchain.org [404] [] [10] [cloudflare] [104.26.11.203] [cloudflare] [117.732912ms] [Cloudflare,HSTS,HTTP/3]
+https://api.sun.io [404] [] [47] [cloudflare] [104.18.3.230] [cloudflare] [177.575448ms] [Cloudflare,HSTS]
+https://api.swapx.fi [404] [] [529] [404 Not Found] [cloudflare] [172.67.134.113] [cloudflare] [1.329979228s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
