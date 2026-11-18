@@ -1,0 +1,8 @@
+https://p2p.1.us.bootnode.matrix.blockchain.enjin.io [502] [] [150] [502 Bad Gateway] [nginx] [52.14.108.79] [66.079651ms] [Nginx]
+https://p2p.1.us.bootnode.relay.blockchain.enjin.io [502] [] [552] [502 Bad Gateway] [nginx] [52.14.73.147] [82.744003ms] [Nginx]
+https://p2p.2.us.bootnode.matrix.canary.enjin.io [502] [] [150] [502 Bad Gateway] [nginx] [18.224.50.63] [57.135532ms] [Nginx]
+https://p2p.1.us.bootnode.relay.canary.enjin.io [502] [] [150] [502 Bad Gateway] [nginx] [3.139.32.14] [72.419419ms] [Nginx]
+https://p2p.1.us.bootnode.matrix.canary.enjin.io [502] [] [150] [502 Bad Gateway] [nginx] [18.116.184.73] [102.609654ms] [Nginx]
+https://p2p.2.us.bootnode.relay.canary.enjin.io [502] [] [150] [502 Bad Gateway] [nginx] [3.130.234.33] [51.515208ms] [Nginx]
+https://p2p.1.eu.bootnode.matrix.blockchain.enjin.io [502] [] [150] [502 Bad Gateway] [nginx] [52.30.169.81] [413.634833ms] [Nginx]
+https://p2p.1.eu.bootnode.relay.blockchain.enjin.io [502] [] [150] [502 Bad Gateway] [nginx] [34.254.87.157] [410.972368ms] [Nginx]

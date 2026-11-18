@@ -1,0 +1,6 @@
+https://faucet.canary.enjin.io [301] [https://docs.enjin.io/getting-started/using-the-enjin-platform#canary-faucet] [167] [301 Moved Permanently] [cloudflare] [104.17.16.193] [cloudflare] [33.392034ms] [Cloudflare,HTTP/3]
+https://mail.enjin.io [301] [https://mail.google.com/a/enjin.io] [528] [301 Moved Permanently] [cloudflare] [104.17.16.193] [cloudflare] [63.447114ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+http://platform.beta.enjin.io [301] [https://platform.enjin.io/] [167] [301 Moved Permanently] [cloudflare] [104.17.15.193] [cloudflare] [20.652642ms] [Cloudflare,HTTP/3]
+https://status.enjin.io [301] [https://www.enjinstatus.com] [528] [301 Moved Permanently] [cloudflare] [104.17.15.193] [cloudflare] [152.743832ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://www.enjin.io [301] [https://enjin.io/] [528] [301 Moved Permanently] [cloudflare] [104.17.16.193] [cloudflare] [3.088727507s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://www.gemwallet.com [301] [https://gemwallet.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.1.14] [cloudflare] [2.047582902s] [Cloudflare,HSTS,HTTP/3]
