@@ -1,0 +1,4 @@
+https://app.exponent.finance [307] [/en] [15] [Vercel] [216.150.16.1] [66.463959ms] [HSTS,Vercel]
+https://auto-tranching.exponent.finance [307] [/en] [15] [Vercel] [216.150.16.193] [305.508062ms] [HSTS,Vercel]
+https://staging.exponent.finance [307] [/en] [15] [Vercel] [216.150.16.193] [612.641077ms] [HSTS,Vercel]
+https://v2-launch.exponent.finance [307] [/en] [15] [Vercel] [216.150.1.193] [323.743096ms] [HSTS,Vercel]

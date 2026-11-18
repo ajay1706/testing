@@ -1,0 +1,3 @@
+https://exponent.finance [308] [https://www.exponent.finance/] [65] [Framer/3824ea1] [31.43.161.6] [42.433996ms] [Framer Sites,HSTS,HTTP/3,React]
+https://v1-docs.exponent.finance [308] [/starthere] [0] [cloudflare] [172.66.3.9] [cloudflare] [328.080486ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.fxdx.exchange [308] [https://fxdx.exchange/] [15] [cloudflare] [104.21.5.129] [cloudflare] [205.637547ms] [Cloudflare,HSTS,HTTP/3,Vercel]
