@@ -1,0 +1,4 @@
+https://content.analytics.franklintempleton.com [403] [] [376] [UploadServer] [13.32.179.66] [cloudfront] [318.025635ms] [Amazon CloudFront,Amazon Web Services]
+https://stellar-history2.franklintempleton.com [403] [] [111] [AmazonS3] [18.244.202.121] [cloudfront] [109.464312ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://tdvapi-dev.franklintempleton.com [403] [] [0] [] [32.188.12.130] [303.719549ms] [HSTS,Java]
+https://tdvapi.franklintempleton.com [403] [] [0] [] [54.214.238.146] [369.446582ms] [HSTS,Java]

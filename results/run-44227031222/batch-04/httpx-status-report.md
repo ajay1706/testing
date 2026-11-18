@@ -1,0 +1,120 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:05:21 UTC 2026
+
+HTTPX lines: 95
+Live URLs: 95
+
+## 200
+https://adviceuat.franklintempleton.com [200] [] [3037] [GOE Digital Advisor | Franklin Templeton] [none] [54.230.79.55] [cloudfront] [80.806072ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://advice.franklintempleton.com [200] [] [3023] [GOE Digital Advisor | Franklin Templeton] [none] [54.230.79.13] [cloudfront] [99.009936ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://advicedev.franklintempleton.com [200] [] [3045] [GOE Digital Advisor | Franklin Templeton] [none] [3.161.174.40] [cloudfront] [108.652495ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://accounts-pre.franklintempleton.com [200] [] [10] [AkamaiNetStorage] [104.100.44.49] [495.516949ms]
+https://cdn.franklintempleton.com [200] [] [4808] [Franklin Templeton NetStorage] [] [23.214.188.164] [390.612242ms] [Akamai,HTTP/3]
+https://demo-platform.digitalassets.franklintempleton.com [200] [] [2041] [Institutional Platform] [] [20.9.38.241] [175.622964ms] [Azure Edge Network,HSTS]
+https://data.analytics.franklintempleton.com [200] [] [13] [UploadServer] [34.107.204.85] [google] [201.063822ms] [Google Cloud,Google Cloud Storage,HSTS]
+https://demo-benjiswap.digitalassets.franklintempleton.com [200] [] [4110] [Benji Swap] [] [20.245.79.42] [187.095074ms] [Azure Edge Network,HSTS]
+https://demo.digitalassets.franklintempleton.com [200] [] [3521] [Benji Institutional] [cloudflare] [172.64.148.39] [cloudflare] [351.277991ms] [Azure Edge Network,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://dev.goldfinch.finance [200] [] [10688] [Goldfinch Developer Docs | Goldfinch Developer Docs] [cloudflare] [104.26.7.2] [cloudflare] [137.863125ms] [Cloudflare,Docusaurus:2.0.0-beta.18,HSTS,React,Vercel,Webpack]
+https://dev-secureportal.franklintempleton.com [200] [] [12191] [RAD Secure Portal] [cloudflare] [172.64.148.39] [cloudflare] [282.282391ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Microsoft ASP.NET]
+https://digitalassets.franklintempleton.com [200] [] [47698] [Franklin Templeton Digital Assets | Landing Page | Invest with Benji] [cloudflare] [172.64.148.39] [cloudflare] [225.722852ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Gatsby:5.16.1,HSTS,React,Webpack]
+https://email.to.franklintempleton.com [200] [] [539] [404 - Page not found] [cloudflare] [104.17.74.206] [cloudflare] [109.180073ms] [Cloudflare,Cloudflare Bot Management]
+https://frkemail.franklintempleton.com [200] [] [934] [EmailPreferencesUi] [cloudflare] [104.18.39.217] [cloudflare] [507.482451ms] [Azure,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://invest-platform.digitalassets.franklintempleton.com [200] [] [2041] [Institutional Platform] [] [20.9.38.241] [161.220947ms] [Azure Edge Network,HSTS]
+https://invest.digitalassets.franklintempleton.com [200] [] [3521] [Benji Institutional] [cloudflare] [104.18.39.217] [cloudflare] [208.712769ms] [Azure Edge Network,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://gov.goldfinch.finance [200] [] [153256] [Goldfinch Governance Forum - The Governance Forum for Goldfinch] [nginx] [216.66.8.43] [403.973595ms] [Discourse:2026.11.0,HSTS,Nginx,Ruby on Rails]
+https://kyc.franklintempleton.com [200] [] [2116] [cloudfront] [13.249.180.41] [cloudfront] [2.218461957s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://mosaiq.franklintempleton.com [200] [] [2528] [MosaiQ (by Franklin Templeton)] [cloudflare] [104.18.39.217] [cloudflare] [328.291195ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://pre.frkemail.franklintempleton.com [200] [] [573] [EmailPreferencesUi] [] [23.200.251.164] [447.627408ms] [HSTS,Linkedin Ads]
+https://profile.franklintempleton.com [200] [] [10] [cloudflare] [104.18.39.217] [cloudflare] [375.348147ms] [Cloudflare,Cloudflare Bot Management]
+https://profile-pre.franklintempleton.com [200] [] [10] [AkamaiNetStorage] [104.100.44.49] [600.698199ms]
+https://secureportal.franklintempleton.com [200] [] [11234] [RAD Secure Portal] [cloudflare] [104.18.39.217] [cloudflare] [217.044471ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Microsoft ASP.NET]
+https://pre.franklintempleton.com [200] [] [61008] [Franklin Templeton] [cloudflare] [104.18.39.217] [cloudflare] [936.721266ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Google Tag Manager,HSTS,Linkedin Ads]
+https://wildcard.da-dev.franklintempleton.com [200] [] [1151] [cloudflare] [104.18.39.217] [cloudflare] [378.138195ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.da-dev.franklintempleton.com [200] [] [1151] [cloudflare] [172.64.148.39] [cloudflare] [326.82719ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.franklintempleton.com [200] [] [61008] [Franklin Templeton] [cloudflare] [172.64.148.39] [cloudflare] [114.259994ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Google Tag Manager,HSTS,Linkedin Ads]
+https://www.goldfinch.finance [200] [] [99883] [Goldfinch Prime: The world's leading private credit funds onchain] [Vercel] [66.33.60.130] [190.379328ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://accounts.franklintempleton.com [301] [https://www.franklintempleton.com/] [167] [301 Moved Permanently] [cloudflare] [172.64.148.39] [cloudflare] [72.92362ms] [Cloudflare]
+http://autodiscover.franklintempleton.com [301] [https://autodiscover.franklintempleton.com/] [0] [Microsoft-HTTPAPI/2.0] [52.96.165.40] [22.069803ms] [Microsoft HTTPAPI:2.0]
+https://emergingmarkets.blog.franklintempleton.com [301] [https://www.franklintempletonglobal.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.39.217] [cloudflare] [35.220325ms] [Cloudflare]
+https://franklintempleton.com [301] [https://www.franklintempleton.com] [528] [301 Moved Permanently] [cloudflare] [172.64.148.39] [cloudflare] [86.923945ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+http://events.franklintempleton.com [301] [https://events.franklintempleton.com/] [0] [] [52.23.125.165] [56.480991ms]
+https://investors.franklintempleton.com [301] [/investor-relations/investor-home/default.aspx] [524] [Object moved] [cloudflare] [162.159.130.11] [cloudflare] [278.723573ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+http://m.events.franklintempleton.com [301] [https://m.events.franklintempleton.com/] [0] [] [52.23.125.165] [76.789831ms]
+http://betaa.franklintempleton.com [301] [https://betaa.franklintempleton.com/] [0] [AkamaiGHost] [23.214.188.164] [71.598778ms]
+http://betab.franklintempleton.com [301] [https://betab.franklintempleton.com/] [0] [AkamaiGHost] [23.214.188.164] [68.085554ms]
+https://ml.franklintempleton.com [301] [https://www.franklintempletonoffshore.com/en-os/merrill-lynch/] [528] [301 Moved Permanently] [cloudflare] [104.18.39.217] [cloudflare] [1.034119615s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://myfunds.franklintempleton.com [301] [https://franklintempleton.myfundsaccess.com] [528] [301 Moved Permanently] [cloudflare] [104.18.39.217] [cloudflare] [36.762968ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://sharedcontent.franklintempleton.com [301] [https://seismic.com/] [162] [301 Moved Permanently] [nginx] [172.174.20.18] [139.96927ms] [Nginx]
+https://www.digitalassets.franklintempleton.com [301] [https://www.alternativesbyft.com/expertise/specialist-managers/franklin-templeton-digital-assets] [528] [301 Moved Permanently] [cloudflare] [104.18.39.217] [cloudflare] [46.787939ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+
+## 302
+https://auth.franklintempleton.com [302] [https://franklintempleton.com/] [52] [] [23.214.188.164] [721.031241ms] [Auth0,Cloudflare,HSTS]
+https://brandcentral.franklintempleton.com [302] [/auth/?referer=%2F] [0] [frontify] [52.59.170.139] [363.240465ms] [HSTS]
+https://event.franklintempleton.com [302] [/events/iProc.aspx?5S,M3,b69ad4d8-939d-40cb-9bc9-c849136e5537] [178] [Object moved] [cloudflare] [104.18.30.132] [cloudflare] [124.362887ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS]
+https://etf.franklintempleton.com [302] [https://etf.franklintempleton.com/redirect/] [27074] [Object moved] [] [103.15.210.63] [988.689577ms] [HSTS]
+https://goe.franklintempleton.com [302] [https://goe.franklintempleton.com/app/UserHome?iss=https%3A%2F%2Fgoe.franklintempleton.com&session_hint=AUTHENTICATED] [0] [nginx] [76.223.112.12] [378.433311ms] [HSTS,Nginx]
+https://interactive.franklintempleton.com [302] [https://interactive.franklintempleton.com//] [0] [] [23.214.188.164] [208.268618ms] [HSTS]
+https://login-kyc-uat.franklintempleton.com [302] [https://franklintempleton.com/] [52] [cloudflare] [104.18.43.182] [cloudflare] [328.169768ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://login-kyc.franklintempleton.com [302] [https://franklintempleton.com/] [52] [cloudflare] [172.64.144.74] [cloudflare] [230.632592ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://login-preview.digitalassets.franklintempleton.com [302] [https://login-preview.digitalassets.franklintempleton.com/app/UserHome?iss=https%3A%2F%2Flogin-preview.digitalassets.franklintempleton.com&session_hint=AUTHENTICATED] [0] [nginx] [13.248.244.122] [390.34186ms] [HSTS,Nginx]
+https://login.digitalassets.franklintempleton.com [302] [https://login.digitalassets.franklintempleton.com/app/UserHome?iss=https%3A%2F%2Flogin.digitalassets.franklintempleton.com&session_hint=AUTHENTICATED] [0] [nginx] [35.71.149.114] [495.672885ms] [HSTS,Nginx]
+https://pat.franklintempleton.com [302] [https://pat.franklintempleton.com/app/UserHome?iss=https%3A%2F%2Fpat.franklintempleton.com&session_hint=AUTHENTICATED] [0] [nginx] [76.223.112.12] [396.857798ms] [HSTS,Nginx]
+https://pages.to.franklintempleton.com [302] [https://www.franklintempleton.com] [81189] [cloudflare] [104.17.71.206] [cloudflare] [486.519535ms] [Cloudflare,Cloudflare Bot Management]
+
+## 307
+https://app.goldfinch.finance [307] [/earn] [15] [cloudflare] [172.67.70.182] [cloudflare] [418.712079ms] [Cloudflare,HSTS,Vercel]
+https://docs.goldfinch.finance [307] [https://docs.goldfinch.finance/goldfinch/] [15] [cloudflare] [104.26.6.2] [cloudflare] [116.313564ms] [Cloudflare,HSTS,Vercel]
+
+## 308
+https://goldfinch.finance [308] [https://www.goldfinch.finance/] [15] [Vercel] [76.76.21.21] [90.417591ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://content.analytics.franklintempleton.com [403] [] [376] [UploadServer] [13.32.179.66] [cloudfront] [318.025635ms] [Amazon CloudFront,Amazon Web Services]
+https://stellar-history2.franklintempleton.com [403] [] [111] [AmazonS3] [18.244.202.121] [cloudfront] [109.464312ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://tdvapi-dev.franklintempleton.com [403] [] [0] [] [32.188.12.130] [303.719549ms] [HSTS,Java]
+https://tdvapi.franklintempleton.com [403] [] [0] [] [54.214.238.146] [369.446582ms] [HSTS,Java]
+
+## 404
+https://alpha.goldfinch.finance [404] [] [107] [cloudflare] [104.26.7.2] [cloudflare] [552.577268ms] [Cloudflare,HSTS,Vercel]
+https://beta.goldfinch.finance [404] [] [107] [cloudflare] [104.26.7.2] [cloudflare] [616.592239ms] [Cloudflare,HSTS,Vercel]
+https://email.ftacademy.franklintempleton.com [404] [] [19] [] [34.102.239.211] [google] [221.770777ms]
+https://ftsig-aptos-phase1-prod03.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [104.18.39.217] [cloudflare] [156.477223ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-aptos-phase1-prod04.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [152.19296ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-aptos-phase1-prod02.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [198.422046ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-aptos-phase1-prod01.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [104.18.39.217] [cloudflare] [223.784644ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-evm-phase1-prod02.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [104.18.39.217] [cloudflare] [139.479119ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-evm-phase1-prod04.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [156.892961ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-evm-phase2-prod01.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [104.18.39.217] [cloudflare] [195.440281ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-evm-phase2-prod03.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [145.008015ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-evm-phase1-prod03.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [203.136641ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-evm-phase1-prod01.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [245.736206ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-evm-phase2-prod02.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [206.858376ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-evm-phase2-prod04.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [151.687116ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-preprod02.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [175.822913ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-preprod01.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [217.276122ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-prod01.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [104.18.39.217] [cloudflare] [219.151947ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-prod04.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [104.18.39.217] [cloudflare] [147.217497ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-prod03.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [160.592822ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://ftsig-prod02.ftinode.franklintempleton.com [404] [] [89] [cloudflare] [172.64.148.39] [cloudflare] [219.80806ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://pre.mosaiq.franklintempleton.com [404] [] [909] [404 Not Found] [cloudflare] [104.18.39.217] [cloudflare] [318.291632ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://searchupgrade.franklintempleton.com [404] [] [431] [HTTP Status 404 – Not Found] [] [172.202.78.91] [128.923795ms]
+https://stellar-history-usw-dev.franklintempleton.com [404] [] [266750] [Page not found] [cloudflare] [172.64.148.39] [cloudflare] [98.565338ms] [Azure,Azure Front Door,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://url1701.fundsinsights.franklintempleton.com [404] [] [1662] [404 Not Found] [cloudflare] [104.18.33.123] [cloudflare] [133.165011ms] [Cloudflare,Cloudflare Bot Management]
+
+## 500
+
+## 502
+https://invest-digitalassetsdev.franklintempleton.com [502] [] [16] [cloudflare] [104.18.39.217] [cloudflare] [179.341233ms] [Cloudflare]
+https://wildcard.da.franklintempleton.com [502] [] [16] [cloudflare] [104.18.39.217] [cloudflare] [204.206484ms] [Cloudflare]
+https://www.da.franklintempleton.com [502] [] [16] [cloudflare] [172.64.148.39] [cloudflare] [238.049981ms] [Cloudflare]
+
+## 503
+https://api-marketing.franklintempleton.com [503] [] [280] [Error] [AkamaiGHost] [23.214.188.164] [308.677897ms]
+https://beta.franklintempleton.com [503] [] [280] [Error] [AkamaiGHost] [23.214.188.164] [1.027933815s]
+https://prime.goldfinch.finance [503] [] [99] [Vercel] [66.33.60.193] [87.556383ms] [HSTS,Vercel]
+
