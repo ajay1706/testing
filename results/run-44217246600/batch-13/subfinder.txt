@@ -1,0 +1,13 @@
+3app.yecho.inin.yecho.app
+api-bim.yecho.app
+api-midas.yecho.app
+api.yecho.app
+bim-analytics.yecho.app
+bim-buyback.yecho.app
+bim-poc.yecho.app
+docs.yecho.app
+inin.yecho.app
+ipor-poc.yecho.app
+www.api.yecho.app
+www.yecho.app
+yecho.inin.yecho.app
