@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 06:59:38 UTC 2026
+[+] Run ID: 44227000383
+[+] Batch name: batch-04
+[+] Batch targets:
+extended.exchange
+gains.trade
+gmx.io
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:00:47 UTC 2026
+[+] HTTPX input count: 154
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:01:08 UTC 2026
+[+] httpx line count: 42
+[+] Batch completed: Wed Nov 18 07:01:08 UTC 2026
