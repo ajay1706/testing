@@ -1,0 +1,3 @@
+https://beta.spectra.finance [308] [https://app.spectra.finance/] [15] [Vercel] [66.33.60.194] [189.589079ms] [HSTS,Vercel]
+https://old.spectra.finance [308] [https://app.spectra.finance/] [15] [Vercel] [76.76.21.164] [208.786764ms] [HSTS,Vercel]
+https://spectra.finance [308] [https://www.spectra.finance/] [15] [Vercel] [76.76.21.21] [383.944928ms] [HSTS,Vercel]
