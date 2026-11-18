@@ -1,0 +1,60 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:05:10 UTC 2026
+
+HTTPX lines: 31
+Live URLs: 31
+
+## 200
+https://cash-api.fasset.com [200] [] [5279] [We've got some trouble | 401 - Unauthorized] [cloudflare] [104.18.11.67] [cloudflare] [376.254264ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://business.fasset.com [200] [] [824] [Fasset Business] [AmazonS3] [52.84.158.22] [cloudfront] [438.078539ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://docs.fasset.com [200] [] [92395] [Fasset Engine] [cloudflare] [104.16.242.118] [cloudflare] [152.408524ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,ReadMe,Render]
+https://fs-vpn.fasset.com [200] [] [4712] [NetBird Dashboard] [nginx] [16.78.130.228] [673.813607ms] [HSTS,Nginx]
+https://fasset.com [200] [] [164791] [Fasset – Stablecoin-Powered Islamic Bank] [cloudflare] [104.18.11.67] [cloudflare] [130.549908ms] [C3.js,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://islamic.fasset.com [200] [] [214479] [Fasset Islamic: Your wealth Your values] [cloudflare] [104.18.11.67] [cloudflare] [153.031059ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://p2p-admin.fasset.com [200] [] [14990] [Fasset Merchant Portal] [cloudflare] [104.18.11.67] [cloudflare] [204.833976ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://beta.fasset.com [200] [] [164791] [Fasset – Stablecoin-Powered Islamic Bank] [cloudflare] [104.18.10.67] [cloudflare] [242.895211ms] [C3.js,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://merchant-admin-api.fasset.com [200] [] [5279] [We've got some trouble | 401 - Unauthorized] [cloudflare] [104.18.10.67] [cloudflare] [416.49907ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://next.prime.fasset.com [200] [] [12655] [Fasset Prime] [cloudflare] [104.18.11.67] [cloudflare] [385.125861ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://prime.fasset.com [200] [] [9856] [] [108.138.94.16] [cloudfront] [554.99391ms] [Amazon CloudFront,Amazon Web Services,HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.fasanara.com [200] [] [182795] [Fasanara Capital] [Vercel] [66.33.60.129] [410.706466ms] [HSTS,Vercel]
+https://token.fasanara.com [200] [] [878] [Loading...] [AmazonS3] [52.215.8.14] [1.265195035s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://sustainablecredit.fasanara.com [200] [] [1862040] [Sustainable Credit | Fasanara Capital] [cloudflare] [162.159.143.12] [cloudflare] [649.75157ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Lodash,React,Wix]
+
+## 301
+https://www.fasset.com [301] [https://fasset.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.10.67] [cloudflare] [75.027496ms] [Cloudflare,HSTS,HTTP/3]
+http://autodiscover.fasanara.com [301] [https://autodiscover.fasanara.com/] [0] [Microsoft-HTTPAPI/2.0] [52.96.164.120] [1.657982ms] [Microsoft HTTPAPI:2.0]
+https://www.sustainablecredit.fasanara.com [301] [https://sustainablecredit.fasanara.com/] [0] [cloudflare] [162.159.143.12] [cloudflare] [1.209227164s] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,React,Wix]
+http://fs-bucket2.fasset.com [301] [https://fs-bucket2.fasset.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.11.67] [cloudflare] [54.34122ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 302
+http://www.estateprotocol.xyz [302] [https://parking.onamae.com/?domain=www.estateprotocol.xyz] [281] [302 Found] [Apache] [160.251.64.80] [197.088997ms] [Apache HTTP Server]
+
+## 307
+
+## 308
+https://fasanara.com [308] [https://www.fasanara.com/] [15] [Vercel] [76.76.21.21] [946.078266ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://dbq-mcp.fasset.com [403] [] [6021] [Attention Required! | Cloudflare] [cloudflare] [104.18.11.67] [cloudflare] [69.609047ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://fasset-billing-service.fasset.com [403] [] [6021] [Attention Required! | Cloudflare] [cloudflare] [104.18.11.67] [cloudflare] [105.060641ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://billing-service.fasset.com [403] [] [6021] [Attention Required! | Cloudflare] [cloudflare] [104.18.10.67] [cloudflare] [129.652298ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://launch.fasset.com [403] [] [6021] [Attention Required! | Cloudflare] [cloudflare] [104.18.11.67] [cloudflare] [98.027279ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://liquidity-orchestration-service.fasset.com [403] [] [6021] [Attention Required! | Cloudflare] [cloudflare] [104.18.11.67] [cloudflare] [143.457873ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://optimus.fasset.com [403] [] [6021] [Attention Required! | Cloudflare] [cloudflare] [104.18.11.67] [cloudflare] [84.190333ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://scim.fasset.com [403] [] [6021] [Attention Required! | Cloudflare] [cloudflare] [104.18.10.67] [cloudflare] [103.736683ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://iownfiles.fasset.com [403] [] [6021] [Attention Required! | Cloudflare] [cloudflare] [104.18.11.67] [cloudflare] [39.219909ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 404
+https://mcp.fasset.com [404] [] [9] [cloudflare] [104.18.11.67] [cloudflare] [417.023586ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://url.fasset.com [404] [] [20] [awselb/2.0] [3.163.24.30] [cloudfront] [548.699914ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services,HSTS]
+https://trading.fasset.com [404] [] [11303] [Error 404 | Page not found] [cloudflare] [199.60.103.254] [701.914906ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub]
+
+## 500
+
+## 502
+
+## 503
+
