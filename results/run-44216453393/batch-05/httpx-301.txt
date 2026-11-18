@@ -1,0 +1,3 @@
+https://support.hibachi.xyz [301] [https://support.hibachi.xyz/portal/en/newticket] [0] [ZGS] [136.143.190.74] [226.955077ms] [HSTS,Java]
+https://www.estfor.com [301] [https://estfor.com/] [167] [301 Moved Permanently] [cloudflare] [104.21.6.145] [cloudflare] [68.711935ms] [Cloudflare]
+https://www.hibachi.xyz [301] [https://hibachi.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.18.4.102] [cloudflare] [63.924064ms] [Cloudflare,HSTS]

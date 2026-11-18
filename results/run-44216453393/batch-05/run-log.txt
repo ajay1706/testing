@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 01:36:31 UTC 2026
+[+] Run ID: 44216453393
+[+] Batch name: batch-05
+[+] Batch targets:
+estfor.com
+hashflow.com
+hibachi.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 01:37:44 UTC 2026
+[+] HTTPX input count: 157
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 01:37:51 UTC 2026
+[+] httpx line count: 39
+[+] Batch completed: Wed Nov 18 01:37:51 UTC 2026
