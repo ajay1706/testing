@@ -1,0 +1,8 @@
+https://eth-mainnet-api.ekubo.org [404] [] [55] [cloudflare] [104.26.14.68] [cloudflare] [185.869103ms] [Cloudflare,HSTS,HTTP/3]
+https://mainnet-api.ekubo.org [404] [] [64] [cloudflare] [172.67.71.128] [cloudflare] [137.656641ms] [Cloudflare,HSTS,HTTP/3]
+https://asset.ferra.ag [404] [] [27511] [Not Found] [cloudflare] [172.67.68.107] [cloudflare] [480.673447ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://poppy-monitor.ekubo.org [404] [] [10] [cloudflare] [104.26.14.68] [cloudflare] [185.260682ms] [Cloudflare,HSTS,HTTP/3]
+https://assets.ferra.ag [404] [] [27511] [Not Found] [cloudflare] [104.26.4.110] [cloudflare] [535.940496ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://prod-api.ekubo.org [404] [] [34] [cloudflare] [172.67.71.128] [cloudflare] [219.845339ms] [Cloudflare,HSTS,HTTP/3]
+https://sepolia-api.ekubo.org [404] [] [64] [cloudflare] [172.67.71.128] [cloudflare] [152.749077ms] [Cloudflare,HSTS,HTTP/3]
+https://api.ferra.ag [404] [] [507] [404 Not Found] [cloudflare] [104.26.4.110] [cloudflare] [1.022876622s] [Cloudflare,Cloudflare Browser Insights,HSTS]
