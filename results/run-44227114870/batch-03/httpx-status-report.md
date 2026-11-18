@@ -1,0 +1,131 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:16:56 UTC 2026
+
+HTTPX lines: 139
+Live URLs: 139
+
+## 200
+https://app.hot-labs.org [200] [] [29518] [HOT Wallet] [cloudflare] [104.26.7.190] [cloudflare] [203.550855ms] [Cloudflare,Cloudflare Browser Insights]
+https://api.keplr.app [200] [] [694] [nginx/1.24.0 (Ubuntu)] [209.38.185.143] [439.27081ms] [Nginx:1.24.0,Ubuntu]
+https://app-beta.hot-labs.org [200] [] [29518] [HOT Wallet] [cloudflare] [104.26.7.190] [cloudflare] [460.098074ms] [Cloudflare,Cloudflare Browser Insights]
+https://blog.keplr.app [200] [] [56044] [Keplr Blog] [openresty] [151.101.3.7] [fastly] [149.717521ms] [Ghost:6.78,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://chains.keplr.app [200] [] [23722] [Add Chains to Keplr] [cloudflare] [198.202.211.1] [235.583439ms] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,cdnjs,jQuery:3.5.1]
+https://careers.keplr.app [200] [] [61383] [Keplr team is seeking talented individuals!] [cloudflare] [198.202.211.1] [159.862924ms] [Cloudflare,HSTS,HTTP/3,Typeform,cdnjs,jQuery:3.5.1,jsDelivr,particles.js]
+https://app.leather.io [200] [] [31629] [cloudflare] [104.26.7.46] [cloudflare] [1.287544899s] [Cloudflare,Cloudflare Browser Insights,HSTS,Sanity,Sanity.io]
+https://cms-test.leather.io [200] [] [104] [cloudflare] [104.26.6.46] [cloudflare] [148.468398ms] [Cloudflare]
+https://connect.leather.io [200] [] [2] [cloudflare] [104.26.7.46] [cloudflare] [300.173557ms] [Cloudflare]
+https://deeplink.keplr.app [200] [] [1917] [nginx/1.18.0 (Ubuntu)] [138.68.127.85] [413.656985ms] [Nginx:1.18.0,Ubuntu]
+https://docs.keplr.app [200] [] [3317] [Keplr Docs] [Vercel] [76.76.21.142] [131.45845ms] [Docusaurus:3.6.3,HSTS,React,Vercel,Webpack]
+https://download.hot-labs.org [200] [] [3106] [Download HOT Wallet] [cloudflare] [172.67.74.111] [cloudflare] [394.569987ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://earn.leather.io [200] [] [1747] [Leather - Earn] [cloudflare] [172.67.71.162] [cloudflare] [351.751401ms] [Cloudflare,Cloudflare Browser Insights]
+https://docs.leather.io [200] [] [483521] [Leather support | Leather Docs] [cloudflare] [172.64.147.209] [cloudflare] [438.053922ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://explore.keplr.app [200] [] [35897] [Keplr Explore] [cloudflare] [198.202.211.1] [2.147864673s] [Cloudflare,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://hot-labs.org [200] [] [72591] [HOT Labs | Cross-Chain Wallet & Web3 Infrastructure] [cloudflare] [172.67.71.68] [cloudflare] [154.345053ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,cdnjs,jQuery,jQuery CDN]
+https://help.keplr.app [200] [] [178354] [Keplr Wallet | Official Support] [cloudflare] [216.24.57.16] [406.755815ms] [Cloudflare,HSTS,HTTP/3,Node.js,Nuxt.js,Render,Vue.js]
+https://infra.keplr.app [200] [] [36506] [Keplr Infra] [cloudflare] [198.202.211.1] [176.361051ms] [Cloudflare,HSTS,HTTP/3,Unpkg,Webflow,cdnjs,jQuery:3.5.1,jsDelivr]
+https://lcd-lumera.keplr.app [200] [] [1968] [lumera] [nginx/1.24.0 (Ubuntu)] [188.166.201.72] [414.04332ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Swagger UI,Ubuntu,Unpkg]
+https://lcd-lava.keplr.app [200] [] [883] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [565.344992ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Swagger UI,Ubuntu,Unpkg]
+https://lcd-pocket.keplr.app [200] [] [854] [pocket] [nginx/1.24.0 (Ubuntu)] [129.212.222.38] [461.76937ms] [HSTS,Nginx:1.24.0,Swagger UI,Ubuntu,Unpkg]
+https://lcd-zigchain.keplr.app [200] [] [856] [zigchain] [nginx/1.24.0 (Ubuntu)] [188.40.130.185] [397.867759ms] [HTTP/3,Nginx:1.24.0,Swagger UI,Ubuntu,Unpkg]
+https://lcd-xrplevm.keplr.app [200] [] [852] [exrp] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [431.482173ms] [Nginx:1.24.0,Swagger UI,Ubuntu,Unpkg]
+https://lcd-union.keplr.app [200] [] [853] [union] [nginx/1.24.0 (Ubuntu)] [188.40.130.185] [491.27282ms] [Nginx:1.24.0,Swagger UI,Ubuntu,Unpkg]
+https://leather.io [200] [] [598059] [Leather] [cloudflare] [104.26.6.46] [cloudflare] [495.009837ms] [Cloudflare,Cloudflare Browser Insights,Framer Sites,Google Tag Manager,HSTS,React]
+https://multisig.keplr.app [200] [] [18681] [Keplr Multisig Dashboard] [Vercel] [66.33.60.129] [2.245948773s] [HSTS,Vercel]
+https://pay-dev.hot-labs.org [200] [] [1175] [HOT Pay] [cloudflare] [104.26.6.190] [cloudflare] [381.390106ms] [Cloudflare,Cloudflare Browser Insights]
+https://privacy-policy.keplr.app [200] [] [141633] [KEPLR Privacy Policy] [AmazonS3] [13.32.164.123] [cloudfront] [133.516455ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://rpc-agoric.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [188.166.201.72] [402.650312ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-babylon.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [188.166.201.72] [404.284137ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-atomone.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [188.166.201.72] [495.742667ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-axelar.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [188.166.201.72] [450.28846ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-akash.keplr.app [200] [] [3689] [nginx/1.24.0 (Ubuntu)] [94.130.237.225] [554.571423ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-celestia.keplr.app [200] [] [5369] [nginx/1.24.0 (Ubuntu)] [188.166.201.72] [449.285987ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-cosmoshub.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [188.166.201.72] [450.678039ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-columbus.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [129.212.222.38] [504.155428ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-dydx.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [188.166.201.72] [439.356442ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-injective.keplr.app [200] [] [4577] [nginx/1.24.0 (Ubuntu)] [188.166.201.72] [380.13935ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-juno.keplr.app [200] [] [3855] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [427.269159ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-lumera.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [188.166.201.72] [428.287467ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-noble.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [129.212.222.38] [418.412502ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-nyx.keplr.app [200] [] [3173] [nginx/1.24.0 (Ubuntu)] [188.40.130.185] [422.106517ms] [Nginx:1.24.0,Ubuntu]
+https://rpc-neutron.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [94.130.237.225] [439.905421ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-osmosis.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [129.212.222.38] [420.203377ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-phoenix.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [129.212.222.38] [440.704665ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-persistence.keplr.app [200] [] [5206] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [459.45826ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-provenance.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [129.212.222.38] [415.816493ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-pirin.keplr.app [200] [] [4411] [nginx/1.24.0 (Ubuntu)] [94.130.237.225] [487.859598ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-dymension.keplr.app [200] [] [3793] [nginx/1.24.0 (Ubuntu)] [94.130.237.225] [759.840168ms] [Nginx:1.24.0,Ubuntu]
+https://rpc-pocket.keplr.app [200] [] [6335] [nginx/1.24.0 (Ubuntu)] [129.212.222.38] [469.227748ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://rpc-seda.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [129.212.222.38] [431.647028ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-zetachain.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [129.212.222.38] [399.335796ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-mantra.keplr.app [200] [] [3731] [nginx/1.24.0 (Ubuntu)] [188.166.201.72] [699.389299ms] [Cloudflare,Cloudflare Bot Management,Envoy,Nginx:1.24.0,Ubuntu]
+https://rpc-xrplevm.keplr.app [200] [] [3607] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [432.369729ms] [Nginx:1.24.0,Ubuntu]
+https://rpc-zigchain.keplr.app [200] [] [3855] [nginx/1.24.0 (Ubuntu)] [188.40.130.185] [415.856504ms] [HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-thorchain.keplr.app [200] [] [4473] [nginx/1.24.0 (Ubuntu)] [129.212.222.38] [457.664193ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-union.keplr.app [200] [] [3917] [nginx/1.24.0 (Ubuntu)] [188.40.130.185] [495.622723ms] [Nginx:1.24.0,Ubuntu]
+https://rpc-sommelier.keplr.app [200] [] [2925] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [543.91859ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-regen.keplr.app [200] [] [3917] [nginx/1.24.0 (Ubuntu)] [94.130.237.225] [630.215901ms] [Nginx:1.24.0,Ubuntu]
+https://rpc-iris.keplr.app [200] [] [3793] [nginx/1.24.0 (Ubuntu)] [94.130.237.225] [935.98187ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://rpc-xion.keplr.app [200] [] [5454] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [597.987382ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-passage.keplr.app [200] [] [3111] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [954.481412ms] [Nginx:1.24.0,Ubuntu]
+https://rpc-dimension.keplr.app [200] [] [3731] [nginx/1.24.0 (Ubuntu)] [129.212.222.38] [1.449138298s] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://staging.app.leather.io [200] [] [31494] [cloudflare] [104.26.7.46] [cloudflare] [2.380783437s] [Cloudflare,Cloudflare Browser Insights,HSTS,Sanity,Sanity.io]
+https://testnet.keplr.app [200] [] [64448] [Keplr Dashboard] [Vercel] [66.33.60.194] [177.313034ms] [HSTS,Vercel]
+https://terms-of-use.keplr.app [200] [] [206879] [Keplr] [AmazonS3] [18.172.134.51] [cloudfront] [3.35188004s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://validator.keplr.app [200] [] [52867] [Keplr Validator Dashboard] [Vercel] [66.33.60.194] [114.300659ms] [HSTS,Vercel]
+https://wallet.keplr.app [200] [] [52569] [Keplr Dashboard] [Vercel] [76.76.21.22] [100.978627ms] [HSTS,Vercel]
+https://www.keplr.app [200] [] [103930] [Keplr Wallet | Your Multichain Gateway] [cloudflare] [198.202.211.1] [139.455375ms] [Cloudflare,HSTS,HTTP/3,Webflow,cdnjs,jQuery:3.5.1,jsDelivr]
+
+## 301
+https://blog.hot-labs.org [301] [https://blog.hot-labs.org/] [889] [301 Moved Permanently] [cloudflare] [104.26.6.190] [cloudflare] [122.272016ms] [Cloudflare,Cloudflare Browser Insights]
+https://keplr.app [301] [https://www.keplr.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [172.457339ms] [Cloudflare,HSTS,HTTP/3]
+https://lcd-crypto-org.keplr.app [301] [https://cro-chain-rest.publicnode.com/swagger/] [0] [nginx/1.24.0 (Ubuntu)] [188.40.130.185] [456.822958ms] [Cloudflare,HSTS,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://lcd-kava.keplr.app [301] [https://kava.publicnode.com/] [0] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [435.378703ms] [Cloudflare,HSTS,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://lcd-sentinel.keplr.app [301] [https://sentinel.publicnode.com/] [0] [nginx/1.24.0 (Ubuntu)] [188.40.130.185] [443.142509ms] [Cloudflare,HSTS,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://lcd-saga.keplr.app [301] [https://saga.publicnode.com/] [0] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [456.026137ms] [Cloudflare,HSTS,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://lcd-xion.keplr.app [301] [/static/] [43] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [578.624827ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-crypto-org.keplr.app [301] [https://cronos-pos.publicnode.com/] [0] [nginx/1.24.0 (Ubuntu)] [188.40.130.185] [426.096226ms] [Cloudflare,HSTS,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-kava.keplr.app [301] [https://kava.publicnode.com/] [0] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [433.728675ms] [Cloudflare,HSTS,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-saga.keplr.app [301] [https://saga.publicnode.com/] [0] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [469.4667ms] [Cloudflare,HSTS,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://rpc-sentinel.keplr.app [301] [https://sentinel.publicnode.com/] [0] [nginx/1.24.0 (Ubuntu)] [188.40.130.185] [459.310516ms] [Cloudflare,HSTS,HTTP/3,Nginx:1.24.0,Ubuntu]
+https://www.careers.keplr.app [301] [https://careers.keplr.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [309.237537ms] [Cloudflare,HSTS,HTTP/3]
+https://www.infra.keplr.app [301] [https://infra.keplr.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [261.543008ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://pay.hot-labs.org [302] [https://hot-labs.org/pay] [39] [cloudflare] [104.26.7.190] [cloudflare] [207.120108ms] [Cloudflare]
+
+## 307
+https://www.testnet.keplr.app [307] [https://testnet.keplr.app/] [15] [Vercel] [66.33.60.129] [187.699746ms] [HSTS,Vercel]
+
+## 308
+https://www.leather.io [308] [https://leather.io/] [55] [Framer/3824ea1] [31.43.161.6] [138.981242ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+
+## 403
+https://api.leather.io [403] [] [13] [cloudflare] [104.26.6.46] [cloudflare] [179.441705ms] [Cloudflare]
+https://staging.api.leather.io [403] [] [13] [cloudflare] [104.26.7.46] [cloudflare] [148.517104ms] [Cloudflare]
+
+## 404
+https://api-indexer.keplr.app [404] [] [72] [] [32.191.96.82] [274.272543ms]
+https://api.hot-labs.org [404] [] [22] [cloudflare] [104.26.11.35] [cloudflare] [388.144132ms] [Cloudflare]
+https://beta.hot-labs.org [404] [] [0] [cloudflare] [104.26.7.190] [cloudflare] [375.614048ms] [Cloudflare]
+https://bwallet.keplr.app [404] [] [0] [Caddy] [13.125.142.56] [535.557373ms] [Caddy,HTTP/3]
+https://cms-simple.leather.io [404] [] [71] [cloudflare] [104.26.7.46] [cloudflare] [210.330712ms] [Cloudflare]
+https://images.leather.io [404] [] [27511] [Not Found] [cloudflare] [104.26.7.46] [cloudflare] [318.197933ms] [Cloudflare,Cloudflare Browser Insights]
+https://kcr-lambda.keplr.app [404] [] [9] [nginx/1.18.0 (Ubuntu)] [138.68.127.85] [1.120010595s] [Nginx:1.18.0,Ubuntu]
+https://r2.hot-labs.org [404] [] [27511] [Not Found] [cloudflare] [104.26.7.190] [cloudflare] [266.888351ms] [Cloudflare,Cloudflare Browser Insights]
+https://sse-bridge.hot-labs.org [404] [] [22] [cloudflare] [172.67.71.68] [cloudflare] [230.456029ms] [Cloudflare]
+https://web.hot-labs.org [404] [] [0] [cloudflare] [172.67.71.68] [cloudflare] [262.934427ms] [Cloudflare]
+https://zvote.keplr.app [404] [] [19] [] [49.12.151.215] [410.428956ms] [HTTP/3]
+
+## 500
+https://rpc-lava.keplr.app [500] [] [473] [nginx/1.24.0 (Ubuntu)] [94.130.54.83] [686.05136ms] [Cloudflare,HTTP/3,Nginx:1.24.0,Ubuntu]
+
+## 502
+https://sponsor.leather.io [502] [] [16] [cloudflare] [104.26.7.46] [cloudflare] [404.139093ms] [Cloudflare]
+https://sponsor-testnet.leather.io [502] [] [16] [cloudflare] [104.26.7.46] [cloudflare] [516.153905ms] [Cloudflare]
+
+## 503
+https://analytics.keplr.app [503] [] [104] [] [24.144.68.178] [171.560209ms]
+
