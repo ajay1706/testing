@@ -1,0 +1,83 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 01:42:59 UTC 2026
+
+HTTPX lines: 57
+Live URLs: 57
+
+## 200
+https://archive.indexcoop.com [200] [] [4102] [Index] [cloudflare] [104.21.70.45] [cloudflare] [316.262134ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://liquidity.indexcoop.com [200] [] [3473] [Liquidity Analyzer] [cloudflare] [104.21.70.45] [cloudflare] [610.695551ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://kerneldao.com [200] [] [35414] [KernelDAO – Earn Rewards on Ethereum, BTC & BNB | Kelp, Gain & Kernel] [AmazonS3] [18.161.6.89] [cloudfront] [259.620154ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://auctions.indexcoop.com [200] [] [15062] [Auction Rebalancing | Index Coop] [cloudflare] [104.21.70.45] [cloudflare] [611.461834ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://beta.kerneldao.com [200] [] [35466] [KernelDAO – Earn Rewards on Ethereum, BTC & BNB | Kelp, Gain & Kernel] [AmazonS3] [52.85.129.102] [cloudfront] [230.341448ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://rpc.kyan.blue [200] [] [2] [cloudflare] [172.66.40.54] [cloudflare] [696.94135ms] [Cloudflare,HSTS,HTTP/3]
+https://scan-dev.kyan.blue [200] [] [15686] [kyan-dev-x3i96ta0ys | Explorer] [cloudflare] [172.66.43.202] [cloudflare] [537.362673ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://docs.kyan.blue [200] [] [112902] [Kyan] [cloudflare] [172.66.43.202] [cloudflare] [137.006648ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,ReadMe,Render]
+https://preview.kyan.blue [200] [] [5488] [Create Turborepo] [cloudflare] [172.66.40.54] [cloudflare] [981.069306ms] [Cloudflare,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://shelve.kyan.blue [200] [] [1989] [Vercel] [216.150.16.193] [1.004657867s] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://staging.kyan.blue [200] [] [5488] [Create Turborepo] [cloudflare] [172.66.43.202] [cloudflare] [696.014942ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://kred.kerneldao.com [200] [] [109618] [Kred - KernelDAO] [Vercel] [216.150.16.1] [495.557563ms] [HSTS,Vercel]
+https://stage.kerneldao.com [200] [] [35466] [KernelDAO – Earn Rewards on Ethereum, BTC & BNB | Kelp, Gain & Kernel] [AmazonS3] [18.65.238.44] [cloudfront] [621.889601ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://gov.indexcoop.com [200] [] [259960] [The Index Coop - Discussion for the Index Coop] [nginx] [216.66.8.43] [490.592235ms] [Discourse:2026.11.0,HSTS,Nginx,Ruby on Rails]
+https://alpha.kyan.blue [200] [] [80765] [Kyan | Trade Crypto Options and Perpetuals] [Vercel] [216.150.16.129] [1.224052626s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.kerneldao.com [200] [] [35414] [KernelDAO – Earn Rewards on Ethereum, BTC & BNB | Kelp, Gain & Kernel] [AmazonS3] [108.138.94.78] [cloudfront] [343.571575ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://app.kyan.blue [200] [] [80765] [Kyan | Trade Crypto Options and Perpetuals] [Vercel] [216.150.1.129] [1.203653449s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.kyan.blue [200] [] [96964] [Kyan | Trade Crypto Options and Perpetuals] [cloudflare] [172.66.40.54] [cloudflare] [717.295095ms] [Cloudflare,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://www.indexcoop.com [200] [] [71794] [Index Coop | Earn more with automated DeFi yield & leverage] [Vercel] [76.76.21.61] [1.023214657s] [Astro:5.8.2,Contentful,HSTS,Unpkg,Vercel]
+https://sentimint.kerneldao.com [200] [] [81636] [Background Paths] [Vercel] [216.150.16.193] [2.101707762s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://blog.kyan.blue [200] [] [687826] [Home | Kyan Blog] [cloudflare] [104.16.23.120] [cloudflare] [827.781853ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://blogs.kerneldao.com [200] [] [1157670] [Blog - Kernel] [Framer/3824ea1] [31.43.161.6] [199.677156ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React]
+
+## 301
+https://app.kerneldao.com [301] [https://kerneldao.com:443/restake/] [134] [301 Moved Permanently] [awselb/2.0] [44.212.89.135] [360.049385ms] [Amazon ELB,Amazon Web Services]
+https://campaign.indexcoop.com [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [537.982675ms] [Caddy,HTTP/3]
+http://www.wildcard.kyan.blue [301] [https://www.wildcard.kyan.blue/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.54] [cloudflare] [62.361147ms] [Cloudflare,HTTP/2]
+http://common-analytics.kerneldao.com [301] [https://common-analytics.kerneldao.com/] [167] [301 Moved Permanently] [CloudFront] [143.204.160.75] [cloudfront] [13.730866ms] [Amazon CloudFront,Amazon Web Services]
+
+## 302
+https://help.kyan.blue [302] [https://help.kyan.blue/en/] [0] [cloudflare] [172.66.40.54] [cloudflare] [289.197848ms] [Cloudflare,HSTS,HTTP/3]
+https://dev.kyan.blue [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.kyan.blue%2F&nonce=eedbd6e63d4765b2bd721dfad8cf5a8d14420d85c661f44530c65876f5a77455] [263] [Vercel] [216.150.1.193] [489.052695ms] [HSTS,Vercel]
+https://shop.kyan.blue [302] [https://shop.kyan.blue/password] [0] [cloudflare] [23.227.38.74] [356.348644ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+
+## 307
+https://docs.indexcoop.com [307] [https://docs.indexcoop.com/index-coop-community-handbook/] [15] [cloudflare] [104.18.40.47] [cloudflare] [248.125462ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://indexcoop.com [307] [https://www.indexcoop.com/] [15] [cloudflare] [172.67.219.249] [cloudflare] [391.372459ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://gain.kerneldao.com [307] [https://kerneldao.com/kelp/blocked] [15] [Vercel] [216.150.1.193] [680.625022ms] [HSTS,Vercel]
+https://testnet.kyan.blue [307] [https://app.kyan.blue/] [15] [Vercel] [216.150.1.193] [389.337018ms] [HSTS,Vercel]
+
+## 308
+https://app.indexcoop.com [308] [/trade] [15] [cloudflare] [172.67.219.249] [cloudflare] [212.320157ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://kyan.blue [308] [https://www.kyan.blue/] [15] [cloudflare] [172.66.43.202] [cloudflare] [554.757568ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+
+## 403
+https://api.indexcoop.com [403] [] [0] [cloudflare] [172.67.219.249] [cloudflare] [279.225852ms] [Cloudflare,HTTP/3]
+https://beta-yields.kerneldao.com [403] [] [42] [] [100.60.247.103] [316.213276ms]
+https://common-stage.kerneldao.com [403] [] [42] [] [23.22.162.4] [391.090559ms]
+https://common.kerneldao.com [403] [] [42] [] [34.204.110.143] [411.070328ms]
+https://beta-universe.kerneldao.com [403] [] [42] [] [34.196.222.213] [477.668942ms]
+https://universe-stage.kerneldao.com [403] [] [42] [] [184.72.222.1] [435.676376ms]
+https://static.indexcoop.com [403] [] [243] [cloudflare] [172.67.219.249] [cloudflare] [473.11889ms] [Amazon Web Services,Cloudflare,HTTP/3]
+https://vote.indexcoop.com [403] [] [1080] [BunnyCDN Node TX1-950] [cloudflare] [104.21.70.45] [cloudflare] [356.811134ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://universe.kerneldao.com [403] [] [42] [] [184.193.61.68] [514.148614ms]
+https://yields-stage.kerneldao.com [403] [] [42] [] [52.71.57.66] [339.533666ms]
+https://yields.kerneldao.com [403] [] [42] [] [44.219.53.116] [374.01223ms]
+
+## 404
+https://elink108.blog.kyan.blue [404] [] [2023] [404 Not Found] [cloudflare] [104.16.23.120] [cloudflare] [179.765912ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://cdn.indexcoop.com [404] [] [27150] [Not Found] [cloudflare] [104.21.70.45] [cloudflare] [334.291778ms] [Cloudflare]
+https://beta.kyan.blue [404] [] [107] [Vercel] [216.150.1.193] [640.176124ms] [HSTS,Vercel]
+https://legacyproducts.indexcoop.com [404] [] [107] [cloudflare] [172.67.219.249] [cloudflare] [683.545295ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://previews.stage.kerneldao.com [404] [] [365] [404 Not Found] [AmazonS3] [18.65.238.12] [cloudfront] [386.920116ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://demo.kyan.blue [404] [] [107] [cloudflare] [172.66.40.54] [cloudflare] [700.439599ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://sesh.kyan.blue [404] [] [40] [cloudflare] [172.66.43.202] [cloudflare] [342.515431ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+https://keyshare.kyan.blue [503] [] [256] [503 Service Unavailable] [cloudflare] [172.66.43.202] [cloudflare] [391.715088ms] [Cloudflare,Envoy,HSTS,HTTP/3]
+

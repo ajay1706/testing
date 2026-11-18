@@ -1,0 +1,4 @@
+https://app.kerneldao.com [301] [https://kerneldao.com:443/restake/] [134] [301 Moved Permanently] [awselb/2.0] [44.212.89.135] [360.049385ms] [Amazon ELB,Amazon Web Services]
+https://campaign.indexcoop.com [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [537.982675ms] [Caddy,HTTP/3]
+http://www.wildcard.kyan.blue [301] [https://www.wildcard.kyan.blue/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.54] [cloudflare] [62.361147ms] [Cloudflare,HTTP/2]
+http://common-analytics.kerneldao.com [301] [https://common-analytics.kerneldao.com/] [167] [301 Moved Permanently] [CloudFront] [143.204.160.75] [cloudfront] [13.730866ms] [Amazon CloudFront,Amazon Web Services]
