@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:15:22 UTC 2026
+[+] Run ID: 44227000383
+[+] Batch name: batch-06
+[+] Batch targets:
+hyperliquid.xyz
+jup.ag
+katana.network
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:16:41 UTC 2026
+[+] HTTPX input count: 520
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:17:51 UTC 2026
+[+] httpx line count: 230
+[+] Batch completed: Wed Nov 18 07:17:51 UTC 2026
