@@ -1,0 +1,77 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:20:57 UTC 2026
+
+HTTPX lines: 53
+Live URLs: 53
+
+## 200
+https://entity-tax-cert.ondo.finance [200] [] [472] [Entity Self-Certification] [Vercel] [64.239.109.129] [94.644982ms] [HSTS,Vercel]
+https://blog.midas.app [200] [] [54174] [Midas | The Standard for Onchain Investment Products] [openresty] [151.101.67.7] [fastly] [72.948335ms] [Ghost:6.78,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://7a9c8599-dvn.ondo.finance [200] [] [7] [] [18.235.50.101] [1.16794931s]
+https://30ef597a-dvn-staging.ondo.finance [200] [] [7] [] [44.212.163.149] [1.204487699s]
+https://docs.matrixdock.com [200] [] [2534] [Matrixdock Docs] [cloudflare] [104.18.6.86] [cloudflare] [1.105636773s] [Cloudflare,Cloudflare Bot Management,HSTS,Marked]
+https://app.matrixdock.com [200] [] [4322] [Matrixdock Gold(XAUm) | Matrixdock] [cloudflare] [104.18.7.86] [cloudflare] [1.168118384s] [Cloudflare,Cloudflare Bot Management,Google Analytics,HSTS]
+https://docs.ondo.finance [200] [] [179114] [Ondo Finance Docs: Tokenized Stocks, ETFs and Treasuries - Ondo Finance] [Vercel] [76.76.21.61] [427.762488ms] [Cloudflare,HSTS,Vercel]
+https://status.ondo.finance [200] [] [14987] [Status | Ondo Finance] [Vercel] [64.239.109.193] [177.320676ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://betterstack.ondo.finance [200] [] [197840] [Ondo Finance status] [] [167.235.220.62] [933.235304ms] [Google Analytics,HSTS,Stimulus]
+https://app.ondo.finance [200] [] [418880] [Ondo | Tokenized Stocks] [Vercel] [76.76.21.142] [359.975183ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://ondo.finance [200] [] [668511] [Ondo Finance — Institutional-grade finance, delivered onchain] [Vercel] [76.76.21.21] [132.54227ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://v1.ondo.finance [200] [] [729942] [DAO Markets | Ondo Finance] [Vercel] [76.76.21.98] [246.78568ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.matrixdock.com [200] [] [282031] [Matrixdock: The RWA Reserve Layer] [cloudflare] [104.18.7.86] [cloudflare] [1.759758237s] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 301
+https://graystbt.matrixdock.com [301] [https://graywebsite.matrixdock.com/stbt] [167] [301 Moved Permanently] [cloudflare] [104.18.7.86] [cloudflare] [73.736467ms] [Cloudflare,HSTS]
+https://matrixdock.com [301] [https://www.matrixdock.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.7.86] [cloudflare] [72.939817ms] [Cloudflare,HSTS]
+https://stbt.matrixdock.com [301] [https://www.matrixdock.com/stbt] [167] [301 Moved Permanently] [cloudflare] [104.18.7.86] [cloudflare] [118.561021ms] [Cloudflare,HSTS]
+http://www.insights.matrixdock.com [301] [https://www.insights.matrixdock.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.7.86] [cloudflare] [40.363072ms] [Cloudflare,Cloudflare Bot Management]
+
+## 302
+https://dev.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.ondo.finance%2F&nonce=a8c5b5dc957f85b85faecdacf127660b7951d917d6b72cbb5a16d3bbb6231c32] [263] [Vercel] [76.76.21.61] [66.692278ms] [HSTS,Vercel]
+https://ai.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fai.ondo.finance%2F&nonce=35f78c22850073f0ab9a90cde2257d7e834c966c8aff689ecbf90b6c9862feeb] [263] [Vercel] [64.239.109.1] [77.774486ms] [HSTS,Vercel]
+https://dev.entity-tax-cert.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.entity-tax-cert.ondo.finance%2F&nonce=a6683eb5c88fd78926e1a69efa82e4b8da39998728dc991cd314cbf0b62bb78b] [263] [Vercel] [64.239.109.65] [101.120209ms] [HSTS,Vercel]
+https://dev.status.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.status.ondo.finance%2F&nonce=75fbd0ad6afc5ab6d001f926f4dd03dec86ca3fd124ea3cc1bbd1d10441a2026] [263] [Vercel] [64.239.109.193] [146.854448ms] [HSTS,Vercel]
+https://dev.app.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.app.ondo.finance%2F&nonce=5148652d6ffbc8a1f5390ac3da018dc4bee5bf1c254ecc5780a25b18e38ad0a1] [263] [Vercel] [76.76.21.142] [429.536543ms] [HSTS,Vercel]
+https://staging.app.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.app.ondo.finance%2F&nonce=de588492b0fb1af3b8a6d15c38d9e4ae984517412389bd3797d50570176cfeba] [263] [Vercel] [66.33.60.129] [167.159149ms] [HSTS,Vercel]
+https://staging.ondo.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.ondo.finance%2F&nonce=1cc0c51d36a38ddf22a264ecaef256526000ae9f9c3c18aedf831291e693f1f1] [263] [Vercel] [76.76.21.164] [203.366507ms] [HSTS,Vercel]
+https://vibes.ondo.finance [302] [https://oktaondofinance.okta.com/oauth2/v1/authorize?response_type=code&client_id=0oa15381x9pJOnYAD698&state=XqHx9SLBI1EPf7unceB0pQOrZD32QjJq&scope=openid+email+profile&redirect_uri=https%3A%2F%2Fvibes.ondo.finance%2Fauth%2Foauth2%2Fcallback%2Fokta] [0] [cloudflare] [104.18.1.174] [cloudflare] [855.62855ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 307
+https://summit.ondo.finance [307] [/2027] [10317] [Vercel] [66.33.60.35] [226.120251ms] [HSTS,Vercel]
+
+## 308
+https://blog.ondo.finance [308] [https://ondo.finance/blog/] [15] [Vercel] [64.239.123.65] [113.960953ms] [HSTS,Vercel]
+https://www.ondo.finance [308] [https://ondo.finance/] [15] [Vercel] [76.76.21.21] [66.688867ms] [HSTS,Vercel]
+
+## 401
+https://mycoloop.tooling.infra.ondo.finance [401] [] [581] [401 Authorization Required] [nginx/1.27.5] [18.233.36.32] [71.433308ms] [Basic,Nginx:1.27.5]
+https://mycoloop.dev.infra.ondo.finance [401] [] [581] [401 Authorization Required] [nginx/1.27.5] [3.95.118.99] [84.381597ms] [Basic,Nginx:1.27.5]
+
+## 403
+https://api.gm.ondo.finance [403] [] [23] [] [3.170.3.30] [cloudfront] [75.772291ms] [Amazon CloudFront,Amazon Web Services]
+https://cdn.ondo.finance [403] [] [111] [AmazonS3] [13.35.78.56] [cloudfront] [91.947854ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://api-prod.midas.app [403] [] [5722] [Just a moment...] [cloudflare] [104.18.25.125] [cloudflare] [74.447107ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api-envoy.gm-dev.ondo.finance [403] [] [0] [awselb/2.0] [35.168.70.140] [101.7596ms] [Amazon ELB,Amazon Web Services]
+https://api-stg.midas.app [403] [] [5550] [Just a moment...] [cloudflare] [104.18.24.125] [cloudflare] [75.782695ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api.gm-staging.ondo.finance [403] [] [23] [] [3.170.19.44] [cloudfront] [138.195402ms] [Amazon CloudFront,Amazon Web Services]
+https://api.gm-dev.ondo.finance [403] [] [23] [] [52.85.193.70] [cloudfront] [169.283986ms] [Amazon CloudFront,Amazon Web Services]
+https://docs.midas.app [403] [] [5629] [Just a moment...] [cloudflare] [104.18.24.125] [cloudflare] [67.251206ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://grayapp.matrixdock.com [403] [] [5662] [Attention Required! | Cloudflare] [cloudflare] [104.18.6.86] [cloudflare] [99.869265ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://graywebsite.matrixdock.com [403] [] [5662] [Attention Required! | Cloudflare] [cloudflare] [104.18.6.86] [cloudflare] [133.116034ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://midas.app [403] [] [5624] [Just a moment...] [cloudflare] [104.18.24.125] [cloudflare] [53.558971ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://cdn.matrixdock.com [403] [] [263] [AmazonS3] [18.160.41.90] [cloudfront] [841.44663ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://stg.midas.app [403] [] [5542] [Just a moment...] [cloudflare] [104.18.25.125] [cloudflare] [86.876186ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://tch-stg.midas.app [403] [] [5504] [Just a moment...] [cloudflare] [104.18.25.125] [cloudflare] [139.760733ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://tch.midas.app [403] [] [5500] [Just a moment...] [cloudflare] [104.18.25.125] [cloudflare] [205.940802ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.midas.app [403] [] [5500] [Just a moment...] [cloudflare] [104.18.24.125] [cloudflare] [91.346043ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 404
+https://email.ghost.blog.midas.app [404] [] [19] [] [34.110.180.34] [google] [79.802326ms]
+https://mcp.ondo.finance [404] [] [13] [cloudflare] [104.18.0.174] [cloudflare] [247.14046ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 500
+
+## 502
+
+## 503
+
