@@ -1,0 +1,87 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:10:47 UTC 2026
+
+HTTPX lines: 66
+Live URLs: 66
+
+## 200
+https://app.clober.io [200] [] [3133] [Vercel] [216.150.1.193] [154.7286ms] [HSTS,Vercel]
+https://assets.defiplaza.net [200] [] [24] [cloudflare] [172.67.206.196] [cloudflare] [296.151865ms] [Cloudflare,HSTS,HTTP/3]
+https://charts.flashnet.xyz [200] [] [3437] [helm-charts] [cloudflare] [104.18.22.148] [cloudflare] [267.84515ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HTTP/3,Jekyll:3.10.0,Ruby,Varnish,cdnjs]
+https://base.clober.io [200] [] [3146] [Vercel] [216.150.1.1] [308.779088ms] [HSTS,Vercel]
+https://docs.clober.io [200] [] [29510] [Clober Docs | Clober] [Vercel] [216.150.1.193] [192.749819ms] [Docusaurus:2.2.0,HSTS,React,Vercel,Webpack]
+https://app.flashnet.xyz [200] [] [95224] [Orchestra] [cloudflare] [104.18.22.148] [cloudflare] [410.02294ms] [C3.js,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://monad.clober.io [200] [] [3133] [Vercel] [216.150.1.193] [123.543307ms] [HSTS,Vercel]
+https://rewards.flashnet.xyz [200] [] [75] [cloudflare] [104.18.22.148] [cloudflare] [442.215938ms] [Cloudflare,HTTP/3]
+https://flow.defiplaza.net [200] [] [2522] [Simple Analytics] [Caddy] [80.79.6.54] [1.078059918s] [Caddy,HSTS]
+https://starknet.clober.io [200] [] [2617] [Vercel] [76.76.21.61] [288.955233ms] [HSTS,Vercel]
+https://docs.flashnet.xyz [200] [] [289891] [Orchestra - Flashnet] [cloudflare] [104.18.23.148] [cloudflare] [278.561094ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://feedback.flashnet.xyz [200] [] [40210] [Flashnet Feature requests | Productlane] [cloudflare] [104.26.12.52] [cloudflare] [973.398189ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://cms.defiplaza.net [200] [] [100588] [DefiPlaza · Swap, earn & stake with up to 65% less costs than UniSwap] [cloudflare] [104.21.66.184] [cloudflare] [1.235871106s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,MySQL,PHP,Twenty Twenty,WordPress Block Editor,WordPress:6.9.11,Yoast SEO:28.7]
+https://orchestra.flashnet.xyz [200] [] [93749] [Orchestra] [cloudflare] [104.18.23.148] [cloudflare] [267.791675ms] [C3.js,Cloudflare,HSTS,HTTP/3]
+https://vote.defiplaza.net [200] [] [2194] [Connect] [BunnyCDN-MSP1-1084] [38.142.94.218] [255.935922ms] [Bunny]
+https://wonderingtrader.flashnet.xyz [200] [] [2] [cloudflare] [104.18.22.148] [cloudflare] [327.156457ms] [Cloudflare,HTTP/3]
+https://v2-sdk.clober.io [200] [] [6523] [@clober/v2-sdk] [Vercel] [76.76.21.93] [331.887685ms] [HSTS,Vercel]
+https://trade.flashnet.xyz [200] [] [93749] [Orchestra] [Vercel] [216.150.1.193] [333.402355ms] [C3.js,HSTS,Vercel]
+https://staging.orchestra.flashnet.xyz [200] [] [93805] [Orchestra] [Vercel] [216.150.1.193] [749.920788ms] [C3.js,HSTS,Vercel]
+https://usdb.flashnet.xyz [200] [] [68358] [USDB — Hold Dollars. Stack Bitcoin.] [Vercel] [216.150.1.129] [634.380586ms] [HSTS,Vercel]
+https://www.clober.io [200] [] [172938] [Clober] [Vercel] [216.150.16.1] [315.086448ms] [HSTS,Vercel]
+https://flashnet.xyz [200] [] [382533] [Flashnet · One API to move any asset] [Vercel] [216.150.1.1] [117.00736ms] [HSTS,Vercel]
+https://status.flashnet.xyz [200] [] [350643] [Flashnet | Status Page] [Vercel] [216.150.16.1] [626.854135ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://stats.defiplaza.net [200] [] [70725] [DefiPlaza Analytics] [cloudflare] [172.67.206.196] [cloudflare] [5.228753265s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 301
+https://app.defiplaza.net [301] [https://app.defiplaza.net/swap] [534] [301 Moved Permanently] [cloudflare] [172.67.206.196] [cloudflare] [165.476508ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://bridge.defiplaza.net [301] [https://app.defiplaza.net/bridge] [534] [301 Moved Permanently] [cloudflare] [172.67.206.196] [cloudflare] [532.957181ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://radix.defiplaza.net [301] [https://defiplaza.net/] [167] [301 Moved Permanently] [cloudflare] [104.21.66.184] [cloudflare] [124.024618ms] [Cloudflare,HSTS,HTTP/3]
+http://static.defiplaza.net [301] [https://static.defiplaza.net/] [534] [301 Moved Permanently] [cloudflare] [172.67.206.196] [cloudflare] [35.97692ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://walletconnect.defiplaza.net [301] [https://walletconnect.defiplaza.net/] [534] [301 Moved Permanently] [cloudflare] [104.21.66.184] [cloudflare] [36.312049ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://admin.defiplaza.net [302] [https://defiplaza.cloudflareaccess.com/cdn-cgi/access/login/admin.defiplaza.net?kid=b77eef71b235742907c6fe6ffc71f14bd5609c6cc2cc829d37a8a5a23f2bb299&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjQzMmM5MzFiZTU4ODFmZDMwMDBjZjI2NGJlY2MzM2EzMDk3OTM4NDE0ZDhlYWU0ZDYxNzkyNWJiNTU5ZDJiNTAifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImI3N2VlZjcxYjIzNTc0MjkwN2M2ZmU2ZmZjNzFmMTRiZDU2MDljNmNjMmNjODI5ZDM3YThhNWEyM2YyYmIyOTkiLCJob3N0bmFtZSI6ImFkbWluLmRlZmlwbGF6YS5uZXQiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NDk4NjEyNiwibmJmIjoxNzk0OTg1ODI2LCJpYXQiOjE3OTQ5ODU4MjYsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJiOGZhZjZmMDk4NzA5ZjA2YTAzMjkyNzg3NzI4MGE1MTM3ZTg1MWY5NDRlYzU1MmY4MzQ2MThiYzA4MmY2YWVkIn0.BNU0sarR8AHf6rSeLwv4LHOTDV0Sn6ihnl3ZDUwFlDV-vFlfvT6PsnnM5B2uMjEfRQ4cd9X8-7WeCSxgb_94Iu7UPXTi1BEHkejOorNIFZmVVQd6hjZEDue8ywzFCOQNRqCUC5MaGYYlt0esEfwQqZuTrYkGZH1eRL-HQbO4gzsc5cyhcDd3BO2hB0jaEylU_vbvTB1Hsr1-tm1w_dgyqw1V8TpM1cpeyV_UiPbsl_z3Rv3khZRykhpSyiZEgyNpqytXo0AnmFBpQWk7Zu8K_FAGCzNSdVrdJ-76I5h3CbyFfCVP2f5g_Ws-xqn4qQMW8PSzqyxZvkKoAXnvZWXxEg&redirect_url=%2F] [510] [302 Found] [cloudflare] [172.67.206.196] [cloudflare] [184.661832ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://defiplaza.net [302] [/liquidity/add] [0] [cloudflare] [172.67.206.196] [cloudflare] [173.638147ms] [Cloudflare,HSTS,HTTP/3]
+https://dashboard-execution.flashnet.xyz [302] [https://polarityorg.cloudflareaccess.com/cdn-cgi/access/login/dashboard-execution.flashnet.xyz?kid=0135323040254a5b0145a5e324c64ce69f42bc639d839ded56ea18ef0a8fcf5f&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjY4YjMzMmU5ODNmNGUxNjE5NzlkNWM3OTQ1OGNhYzA2ZTYyMjllMTM4NWEwMWY1NTVhZWJkOTdiYTA1OWI2MjkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjAxMzUzMjMwNDAyNTRhNWIwMTQ1YTVlMzI0YzY0Y2U2OWY0MmJjNjM5ZDgzOWRlZDU2ZWExOGVmMGE4ZmNmNWYiLCJob3N0bmFtZSI6ImRhc2hib2FyZC1leGVjdXRpb24uZmxhc2huZXQueHl6IiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTQ5ODYxMjYsIm5iZiI6MTc5NDk4NTgyNiwiaWF0IjoxNzk0OTg1ODI2LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiNWNmNzdmOTc2OTdiYWQ0NmY2ZDhlMWYxYTA5NDYyZGZiZTUwNmIzMjA1MTc1OTNhZDkyZmYzNzMwZDg1OGYzMiJ9.YKfHh8JnD5D0M2gjNJ6mh6FwfCPh02IPmQln6pDWjgdH774CwmuK-oAUkVnCue9cXMgMmYBXbBFMHNSVmEnEqSDQA2i6ZUvxrhwVkKYy7Ws-WI_53wUZGSdf7yeiduAJTNei-yYNFmNLFywOAiEu4f2-UKQg-SG0_bXG9aVdGFusTexw-yNJ23QcSuyitrILbO1H5n_7yf6DdZC62ZXfQay3OzGSzsJSnPUvAjsDuxreV2fMDEbbjj2TAcZQCpM1gfttUPLCFzgpAOJ0onlbfNNDAu94xzKBwz-OYW3SnTbFqehkK76Dahznoedy7HdXBE64zHreTznf8olf9cnQXA&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.18.23.148] [cloudflare] [177.170938ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://login.flashnet.xyz [302] [https://login.flashnet.xyz/app/UserHome?iss=https%3A%2F%2Flogin.flashnet.xyz&session_hint=AUTHENTICATED] [0] [nginx] [52.223.7.86] [392.905149ms] [HSTS,Nginx]
+https://www.defiplaza.net [302] [https://defiplaza.net/] [510] [302 Found] [cloudflare] [172.67.206.196] [cloudflare] [176.419273ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 307
+https://docs.defiplaza.net [307] [https://docs.defiplaza.net/defiplaza/] [15] [cloudflare] [104.18.40.47] [cloudflare] [245.050599ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://perp.clober.io [307] [/en/perp/PERP_ETH_USDC] [15] [Vercel] [216.150.1.129] [252.608803ms] [HSTS,Vercel]
+https://rise.clober.io [307] [https://www.nitrodex.xyz/] [15] [Vercel] [66.33.60.130] [473.975247ms] [HSTS,Vercel]
+https://www.flashnet.xyz [307] [https://flashnet.xyz/] [15] [Vercel] [216.150.16.129] [273.11413ms] [HSTS,Vercel]
+
+## 308
+https://alpha.clober.io [308] [https://monad.clober.io/] [15] [Vercel] [216.150.1.129] [284.267289ms] [HSTS,Vercel]
+https://clober.io [308] [https://www.clober.io/] [15] [Vercel] [76.76.21.21] [149.254333ms] [HSTS,Vercel]
+https://build.flashnet.xyz [308] [/introduction] [0] [cloudflare] [162.159.143.13] [cloudflare] [686.375762ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://license.clober.io [308] [/LICENSE_V2.pdf] [15] [Vercel] [216.150.1.193] [233.756572ms] [HSTS,Vercel]
+http://status.defiplaza.net [308] [https://status.defiplaza.net/] [0] [Caddy] [142.132.149.97] [271.505114ms] [Caddy]
+
+## 401
+https://hub.defiplaza.net [401] [] [0] [cloudflare] [172.67.206.196] [cloudflare] [749.865165ms] [Cloudflare,HSTS,HTTP/3]
+
+## 403
+https://soi.spark.flashnet.xyz [403] [] [6021] [Attention Required! | Cloudflare] [cloudflare] [104.18.22.148] [cloudflare] [135.610521ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://stocks.clober.io [403] [] [11] [Vercel] [76.76.21.21] [333.304909ms] [HSTS,Vercel]
+
+## 404
+https://a.flashnet.xyz [404] [] [105] [envoy] [3.95.129.122] [195.660856ms] [Envoy]
+https://api.defiplaza.net [404] [] [15] [cloudflare] [172.67.206.196] [cloudflare] [200.283322ms] [Cloudflare,HSTS,HTTP/3]
+https://assets.flashnet.xyz [404] [] [28625] [Not Found] [cloudflare] [104.18.23.148] [cloudflare] [311.351783ms] [Cloudflare,Cloudflare Browser Insights]
+https://api.flashnet.xyz [404] [] [0] [cloudflare] [104.18.23.148] [cloudflare] [448.478086ms] [Cloudflare,HTTP/3]
+https://api-b.flashnet.xyz [404] [] [0] [cloudflare] [104.18.23.148] [cloudflare] [574.414268ms] [Cloudflare,HTTP/3]
+https://dexscreener.flashnet.xyz [404] [] [0] [cloudflare] [104.18.22.148] [cloudflare] [425.718476ms] [Cloudflare,HTTP/3]
+https://mcp.defiplaza.net [404] [] [9] [cloudflare] [172.67.206.196] [cloudflare] [226.943329ms] [Cloudflare,HSTS,HTTP/3]
+https://orchestration.flashnet.xyz [404] [] [13] [cloudflare] [104.18.23.148] [cloudflare] [289.763209ms] [Cloudflare,HTTP/3]
+https://mtls-canary.flashnet.xyz [404] [] [0] [cloudflare] [104.18.23.148] [cloudflare] [516.986798ms] [Cloudflare,HTTP/3]
+https://tv.amm.flashnet.xyz [404] [] [0] [cloudflare] [104.18.23.148] [cloudflare] [535.114107ms] [Cloudflare,HTTP/3]
+https://tv.flashnet.xyz [404] [] [0] [cloudflare] [104.18.22.148] [cloudflare] [511.289577ms] [Cloudflare,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+https://arbitrum.clober.io [503] [] [1320] [Clober] [Vercel] [216.150.1.129] [379.055594ms] [HSTS,Vercel]
+
