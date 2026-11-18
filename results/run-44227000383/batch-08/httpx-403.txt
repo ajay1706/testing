@@ -1,0 +1,6 @@
+https://edge.api.nightly.paradex.trade [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [13.35.78.43] [cloudfront] [129.498913ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://api.prod.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [52.223.12.40] [619.064343ms] [Amazon ELB,Amazon Web Services]
+https://api.testnet.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [13.248.175.188] [668.861642ms] [Amazon ELB,Amazon Web Services]
+https://api.nightly.paradex.trade [403] [] [118] [403 Forbidden] [awselb/2.0] [99.83.235.5] [838.279898ms] [Amazon ELB,Amazon Web Services]
+https://mta-sts.paradex.trade [403] [] [263] [AmazonS3] [13.227.65.92] [cloudfront] [520.060337ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://static.ostium.io [403] [] [111] [AmazonS3] [3.167.56.47] [cloudfront] [434.537889ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
