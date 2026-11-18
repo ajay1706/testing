@@ -1,0 +1,6 @@
+https://app.avnu.fi [307] [/en] [15] [Vercel] [216.150.16.193] [194.847083ms] [HSTS,Vercel]
+https://aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [172.67.72.75] [cloudflare] [277.434255ms] [Cloudflare,HSTS]
+http://server-18.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [nginx/1.31.8] [57.129.36.239] [184.848713ms] [HSTS,Nginx:1.31.8]
+https://testnet.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [104.26.7.96] [cloudflare] [221.880057ms] [Cloudflare]
+https://www.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [104.26.7.96] [cloudflare] [209.274118ms] [Cloudflare,HSTS]
+https://v1.avnu.fi [307] [/en] [15] [Vercel] [216.150.16.193] [919.61975ms] [HSTS,Vercel]
