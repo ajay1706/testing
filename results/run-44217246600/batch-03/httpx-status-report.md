@@ -1,0 +1,93 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 01:41:41 UTC 2026
+
+HTTPX lines: 64
+Live URLs: 64
+
+## 200
+https://app.carbondefi.xyz [200] [] [3146] [Carbon] [cloudflare] [172.67.211.175] [cloudflare] [231.114296ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://celo.carbondefi.xyz [200] [] [3146] [Carbon] [cloudflare] [104.21.23.152] [cloudflare] [255.133739ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://api.carbondefi.xyz [200] [] [3463] [Swagger UI] [cloudflare] [104.21.23.152] [cloudflare] [288.983633ms] [Cloudflare,Cloudflare Browser Insights,Express,Google Cloud,Google Cloud CDN,Google Cloud Trace,HTTP/3,Node.js,Swagger UI]
+https://coti.carbondefi.xyz [200] [] [3146] [Carbon] [cloudflare] [172.67.211.175] [cloudflare] [317.221762ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://equilibria.fi [200] [] [14868] [Equilibria] [cloudflare] [104.21.27.9] [cloudflare] [846.016865ms] [Cloudflare,Cloudflare Browser Insights,Express,Google Analytics,HTTP/3,Node.js]
+https://sei.carbondefi.xyz [200] [] [3146] [Carbon] [cloudflare] [172.67.211.175] [cloudflare] [194.341796ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://simulator-beta.carbondefi.xyz [200] [] [2513] [GitHub.com] [185.199.110.153] [156.050036ms] [Fastly,GitHub Pages,HSTS,Varnish]
+https://simulator.carbondefi.xyz [200] [] [2513] [GitHub.com] [185.199.110.153] [169.823972ms] [Fastly,GitHub Pages,HSTS,Varnish]
+https://docs.equilibria.fi [200] [] [346136] [Introduction | Equilibria Finance] [cloudflare] [104.18.40.47] [cloudflare] [223.289821ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.carbondefi.xyz [200] [] [354264] [Introducing Carbon DeFi | Carbon DeFi Dev] [cloudflare] [104.18.40.47] [cloudflare] [180.995468ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://niubitest-h.equilibria.fi [200] [] [1224] [h5] [cloudflare] [104.21.27.9] [cloudflare] [849.703437ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://faq.carbondefi.xyz [200] [] [383760] [What is Carbon DeFi? | Carbon DeFi] [cloudflare] [104.18.40.47] [cloudflare] [193.2223ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://tac.carbondefi.xyz [200] [] [3146] [Carbon] [cloudflare] [172.67.211.175] [cloudflare] [341.659742ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ton.carbondefi.xyz [200] [] [3146] [Carbon] [cloudflare] [172.67.211.175] [cloudflare] [251.6917ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.carbondefi.xyz [200] [] [559213] [Carbon DeFi | Onchain Orderbook-Style DEX by Bancor] [cloudflare] [172.67.211.175] [cloudflare] [250.22592ms] [Cloudflare,Cloudflare Browser Insights,Framer Sites,Google Analytics,Google Tag Manager,HSTS,HTTP/3,React]
+
+## 301
+https://infinimove-test.equilibria.fi [301] [https://testnet.infinimove.io/] [536] [301 Moved Permanently] [cloudflare] [104.21.27.9] [cloudflare] [1.263874435s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.equilibria.fi [301] [https://equilibria.fi/] [536] [301 Moved Permanently] [cloudflare] [104.21.27.9] [cloudflare] [811.327604ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://blog.carbondefi.xyz [302] [https://www.carbondefi.xyz/blog] [0] [cloudflare] [104.21.23.152] [cloudflare] [353.704451ms] [Cloudflare,HTTP/3]
+https://niubitele.equilibria.fi [302] [https://core.telegram.org/bots] [512] [302 Found] [cloudflare] [172.67.140.74] [cloudflare] [2.791949907s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 307
+
+## 308
+https://carbondefi.xyz [308] [https://www.carbondefi.xyz/] [63] [cloudflare] [104.21.23.152] [cloudflare] [272.830501ms] [Cloudflare,HSTS,HTTP/3]
+
+## 401
+https://fork-ethw.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [856.710715ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://goattest.equilibria.fi [401] [] [948] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [886.487033ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://herominers.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [960.275788ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://nextnet.equilibria.fi [401] [] [948] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [907.934476ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://goatm.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [1.25980994s] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mail.equilibria.fi [401] [] [948] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [966.947013ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://goat.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [172.67.140.74] [cloudflare] [1.243541541s] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://fork-bsca.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [172.67.140.74] [cloudflare] [1.255175202s] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://boomie-testnet.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [1.270168036s] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://niubieliza.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [172.67.140.74] [cloudflare] [919.327725ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://boomie-sqlite-web.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [1.301989611s] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://boomie-testnetc.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [1.302291464s] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [1.322684035s] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://goatu.equilibria.fi [401] [] [948] [401 Authorization Required] [cloudflare] [172.67.140.74] [cloudflare] [1.419252083s] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://niubitest-a.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [172.67.140.74] [cloudflare] [850.076761ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://niubiwanju.equilibria.fi [401] [] [948] [401 Authorization Required] [cloudflare] [172.67.140.74] [cloudflare] [839.072767ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://niubitest.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [912.277085ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://nextneta.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [1.522063028s] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://testnet.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [104.21.27.9] [cloudflare] [911.887696ms] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://niubiwww.equilibria.fi [401] [] [546] [401 Authorization Required] [cloudflare] [172.67.140.74] [cloudflare] [1.87670138s] [Basic,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 403
+https://cloud-test.equilibria.fi [403] [] [146] [CloudFront] [99.84.41.38] [cloudfront] [96.397017ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://buffer.finance [403] [] [4916] [Attention Required! | Cloudflare] [cloudflare] [104.21.46.176] [cloudflare] [111.928789ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://cloud-prod.equilibria.fi [403] [] [146] [CloudFront] [65.8.20.14] [cloudfront] [285.147057ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://resources.carbondefi.xyz [403] [] [243] [AmazonS3] [65.8.20.35] [cloudfront] [420.373327ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.buffer.finance [403] [] [4916] [Attention Required! | Cloudflare] [cloudflare] [104.21.46.176] [cloudflare] [97.440312ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 404
+https://analytics.carbondefi.xyz [404] [] [272] [404 Page not found] [] [216.239.36.21] [google] [86.053779ms]
+https://mcp.carbondefi.xyz [404] [] [3393] [Carbon DeFi MCP Server] [cloudflare] [172.67.211.175] [cloudflare] [307.224515ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,Google Cloud Trace,HTTP/3]
+https://www.analytics.carbondefi.xyz [404] [] [272] [404 Page not found] [] [192.178.164.121] [google] [93.224286ms]
+http://www.boomie-testnet.equilibria.fi [404] [] [520] [404 Not Found] [cloudflare] [172.67.140.74] [cloudflare] [426.05169ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.fork-eth.equilibria.fi [404] [] [922] [404 Not Found] [cloudflare] [172.67.140.74] [cloudflare] [391.239044ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.boomie-sqlite-web.equilibria.fi [404] [] [520] [404 Not Found] [cloudflare] [104.21.27.9] [cloudflare] [422.336562ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://www.goattest.equilibria.fi [404] [] [520] [404 Not Found] [cloudflare] [172.67.140.74] [cloudflare] [386.213495ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://www.fork-bsc.equilibria.fi [404] [] [922] [404 Not Found] [cloudflare] [172.67.140.74] [cloudflare] [416.230378ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.goat.equilibria.fi [404] [] [520] [404 Not Found] [cloudflare] [104.21.27.9] [cloudflare] [411.261578ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.infinimove-test.equilibria.fi [404] [] [922] [404 Not Found] [cloudflare] [172.67.140.74] [cloudflare] [418.700818ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.niubitele.equilibria.fi [404] [] [520] [404 Not Found] [cloudflare] [104.21.27.9] [cloudflare] [379.789979ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.nextnet.equilibria.fi [404] [] [922] [404 Not Found] [cloudflare] [172.67.140.74] [cloudflare] [402.112574ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.niubieliza.equilibria.fi [404] [] [922] [404 Not Found] [cloudflare] [172.67.140.74] [cloudflare] [423.7484ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.niubitest.equilibria.fi [404] [] [520] [404 Not Found] [cloudflare] [104.21.27.9] [cloudflare] [396.839183ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://www.niubiwanju.equilibria.fi [404] [] [922] [404 Not Found] [cloudflare] [172.67.140.74] [cloudflare] [393.400295ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.niubiwww.equilibria.fi [404] [] [520] [404 Not Found] [cloudflare] [104.21.27.9] [cloudflare] [405.385154ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.testnet.equilibria.fi [404] [] [922] [404 Not Found] [cloudflare] [104.21.27.9] [cloudflare] [400.468303ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 500
+
+## 502
+https://fork-eth.equilibria.fi [502] [] [16] [cloudflare] [104.21.27.9] [cloudflare] [1.333674541s] [Cloudflare,HTTP/3]
+https://fork-bsc.equilibria.fi [502] [] [16] [cloudflare] [104.21.27.9] [cloudflare] [1.371148845s] [Cloudflare,HTTP/3]
+
+## 503
+
