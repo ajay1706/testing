@@ -1,0 +1,4 @@
+https://mainnet-api.monday.trade [404] [] [18] [awselb/2.0] [3.33.224.5] [133.239212ms] [Amazon ELB,Amazon Web Services]
+https://api.monday.trade [404] [] [9] [awselb/2.0] [3.135.89.126] [192.837802ms] [Amazon ELB,Amazon Web Services]
+https://api.ociswap.com [404] [] [46] [cloudflare] [104.26.11.200] [cloudflare] [475.221562ms] [Cloudflare]
+https://api-stag.ociswap.com [404] [] [46] [cloudflare] [104.26.10.200] [cloudflare] [547.869426ms] [Cloudflare]
