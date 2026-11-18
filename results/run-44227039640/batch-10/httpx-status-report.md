@@ -1,0 +1,98 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:36:01 UTC 2026
+
+HTTPX lines: 93
+Live URLs: 93
+
+## 200
+https://admin.reental.co [200] [] [1980] [Vercel] [66.33.60.66] [64.639067ms] [HSTS,Vercel]
+https://analytics-admin.rwa.xyz [200] [] [5275] [RWA.xyz Account Intelligence] [cloudflare] [104.26.1.27] [cloudflare] [78.58184ms] [Cloudflare,HSTS,Vercel]
+https://api.rwa.xyz [200] [] [10957] [api.rwa.xyz] [cloudflare] [172.67.73.1] [cloudflare] [155.718863ms] [Cloudflare,HSTS,Vercel]
+https://api-staging.rwa.xyz [200] [] [10365] [api.rwa.xyz] [cloudflare] [104.26.0.27] [cloudflare] [203.250317ms] [Cloudflare,HSTS,Vercel]
+https://forms.reental.co [200] [] [3946] [HeyForm] [] [91.98.73.77] [446.637082ms] [HSTS]
+https://media-admin.rwa.xyz [200] [] [6147] [RWA.xyz Media Admin] [cloudflare] [104.26.1.27] [cloudflare] [242.56372ms] [Cloudflare,HSTS,Vercel]
+https://pre.admin.reental.co [200] [] [1980] [Vercel] [66.33.60.130] [253.789639ms] [HSTS,Vercel]
+https://nova.rwa.xyz [200] [] [5978] [RWA.xyz Partners] [cloudflare] [104.26.1.27] [cloudflare] [261.339258ms] [Cloudflare,HSTS,Vercel]
+https://helpdesk.reental.co [200] [] [10800] [Chatwoot] [Elestio] [23.88.39.165] [619.295186ms] [Ruby,Ruby on Rails]
+https://partners.rwa.xyz [200] [] [5978] [RWA.xyz Partners] [cloudflare] [104.26.1.27] [cloudflare] [236.026742ms] [Cloudflare,HSTS,Vercel]
+https://testnet.admin.reental.co [200] [] [1980] [Vercel] [76.76.21.93] [198.574616ms] [HSTS,Vercel]
+https://scd-prototype.rwa.xyz [200] [] [8316] [RWA.xyz SCD] [cloudflare] [104.26.1.27] [cloudflare] [240.942699ms] [Cloudflare,HSTS,Vercel]
+https://req.reental.co [200] [] [49072] [Vercel] [66.33.60.130] [268.274627ms] [HSTS,React,Vercel]
+https://blog.rwa.xyz [200] [] [91525] [Last Week in Tokenization] [cloudflare] [199.60.103.254] [157.272281ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub,Linkedin Sign-in]
+https://go.reental.co [200] [] [194619] [cloudflare] [172.64.152.166] [cloudflare] [95.319588ms] [Bootstrap:5,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HighLevel,Node.js,Nuxt.js,Trustpilot,Vue.js]
+https://ss.reental.co [200] [] [17002] [Stape server container] [] [34.107.50.33] [google] [449.370702ms]
+https://status.reental.co [200] [] [35529] [Reental status page] [] [142.132.149.97] [510.067454ms] [HSTS,HTTP/3,UIKit,jQuery:3.7.1]
+https://track-record.reental.co [200] [] [236254] [Reental · Track Record del portfolio] [cloudflare] [104.21.15.192] [cloudflare] [164.336002ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://landing.reental.co [200] [] [47647] [Reental – Plataforma Inversión Inmobiliara] [Elestio] [49.13.91.182] [1.108823664s] [Bootstrap:5,Draftpress HFCM,Elementor:4.3.5,MySQL,PHP,PixelYourSite,Redis,Redis Object Cache,Trustpilot,WordPress:7.1.4,jQuery,jQuery Migrate:3.4.1]
+https://www.reental.co [200] [] [281366] [Reental - Plataforma de inversión inmuebles tokenizados] [cloudflare] [104.21.15.192] [cloudflare] [155.55008ms] [Bootstrap:5,Cloudflare,Elfsight,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Tailwind CSS,Trustpilot,Unpkg,WeBlocks,Webflow,cdnjs,jQuery:3.5.1,jsDelivr,reCAPTCHA]
+https://testnet.dapp.reental.co [200] [] [188939] [Dapp Reental - RNT Token] [Vercel] [216.150.16.129] [3.385910999s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://pre.dapp.reental.co [200] [] [190345] [Dapp Reental - RNT Token] [Vercel] [216.150.1.129] [3.729371381s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://app.rwa.xyz [200] [] [5056857] [RWA.xyz | Analytics on Tokenized Real-World Assets] [cloudflare] [104.26.0.27] [cloudflare] [378.958442ms] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://stage.rwa.xyz [200] [] [10588503] [RWA.xyz | Analytics on Tokenized Real-World Assets] [cloudflare] [104.26.0.27] [cloudflare] [874.991872ms] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://dapp.reental.co [301] [https://defi.rnt.finance/] [15] [Vercel] [216.150.16.129] [49.108877ms] [HSTS,Vercel]
+http://promo.reental.co [301] [https://promo.reental.co/] [162] [301 Moved Permanently] [nginx] [34.202.203.47] [76.990833ms] [Nginx]
+https://reental.co [301] [https://www.reental.co/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [374.737826ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://dev.rwa.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.rwa.xyz%2F&nonce=ab710bff827c41969ac743c80bcabbc1e7b335eb1f3579acd00a36bc71481d07] [263] [Vercel] [66.33.60.194] [139.989701ms] [HSTS,Vercel]
+https://rwa.xyz [302] [https://app.rwa.xyz/] [143] [302 Found] [cloudflare] [104.26.1.27] [cloudflare] [181.044429ms] [Cloudflare]
+http://www.new-backend.reental.co [302] [http://www.reental.co/] [0] [cloudflare] [172.67.163.203] [cloudflare] [270.004402ms] [Cloudflare,HTTP/2,PHP]
+http://www.newsletter.reental.co [302] [http://www.reental.co/] [0] [cloudflare] [104.21.15.192] [cloudflare] [284.195099ms] [Cloudflare,HTTP/3,PHP]
+https://www.rwa.xyz [302] [https://app.rwa.xyz/] [143] [302 Found] [cloudflare] [104.26.1.27] [cloudflare] [53.111127ms] [Cloudflare]
+http://www.testnet.reental.co [302] [http://www.reental.co/] [0] [cloudflare] [104.21.15.192] [cloudflare] [291.887356ms] [Cloudflare,HTTP/2,PHP]
+http://www.webmail.reental.co [302] [http://www.reental.co/] [0] [cloudflare] [104.21.15.192] [cloudflare] [293.858478ms] [Cloudflare,HTTP/3,PHP]
+http://www.sandboxp2p.reental.co [302] [http://www.reental.co/] [0] [cloudflare] [172.67.163.203] [cloudflare] [413.105289ms] [Cloudflare,HTTP/3,PHP]
+http://www.wildcard.reental.co [302] [http://www.reental.co/] [0] [cloudflare] [172.67.163.203] [cloudflare] [332.21463ms] [Cloudflare,HTTP/3,PHP]
+
+## 307
+https://datarooms.rwa.xyz [307] [https://www.papermark.com/] [15] [cloudflare] [104.26.1.27] [cloudflare] [417.355195ms] [Cloudflare,HSTS,Vercel]
+https://work.reental.co [307] [/es] [15] [Vercel] [216.150.1.129] [357.570398ms] [HSTS,Vercel]
+
+## 308
+https://app.reental.co [308] [/auth/signin/] [15] [Vercel] [216.150.16.193] [30.124989ms] [HSTS,Vercel]
+https://blog.reental.co [308] [https://www.reental.co/blog/] [15] [Vercel] [66.33.60.66] [62.830626ms] [HSTS,Vercel]
+https://docs.rwa.xyz [308] [/home] [0] [Vercel] [66.33.60.35] [220.188612ms] [Cloudflare,HSTS,Vercel]
+https://help.reental.co [308] [https://www.reental.co/ayuda/] [15] [Vercel] [66.33.60.193] [229.057227ms] [HSTS,Vercel]
+https://pre.reental.co [308] [/auth/signin/] [15] [Vercel] [216.150.16.193] [200.437746ms] [HSTS,Vercel]
+https://rnt.reental.co [308] [https://www.reental.co/rnt-token] [15] [Vercel] [76.76.21.61] [242.30224ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://api-dev.rwa.xyz [404] [] [107] [Vercel] [66.33.60.194] [50.123638ms] [HSTS,Vercel]
+https://ingestion-api.rwa.xyz [404] [] [72] [Fly/781f3a6652 (2026-11-10)] [66.241.124.140] [55.828905ms] [Fly.io]
+https://goto.reental.co [404] [] [248] [Dead End] [cloudflare] [104.21.15.192] [cloudflare] [75.318045ms] [Cloudflare,Google Cloud,Google Cloud CDN,HTTP/3]
+https://img.reental.co [404] [] [9] [cloudflare] [104.21.15.192] [cloudflare] [86.521692ms] [Cloudflare,HTTP/3]
+https://info.reental.co [404] [] [4363] [404 File Not Found] [cloudflare] [172.64.148.235] [cloudflare] [115.554781ms] [Cloudflare]
+https://cdn.rwa.xyz [404] [] [1667] [cdn.rwa.xyz] [cloudflare] [172.67.73.1] [cloudflare] [112.820054ms] [Cloudflare,HSTS,React,Vercel]
+https://email.crm.reental.co [404] [] [19] [] [34.102.239.211] [google] [280.503543ms]
+https://img.rwa.xyz [404] [] [28264] [Not Found] [cloudflare] [104.26.0.27] [cloudflare] [96.898961ms] [Cloudflare]
+https://lf.reental.co [404] [] [19] [] [91.98.73.77] [391.147436ms]
+https://ag.reental.co [404] [] [19] [] [91.98.73.77] [391.07978ms]
+https://mcp-int.reental.co [404] [] [19] [] [91.98.4.217] [340.305293ms]
+https://billing.rwa.xyz [404] [] [64] [] [15.224.53.65] [391.203971ms] [Envoy,HSTS]
+https://partners-api.rwa.xyz [404] [] [72] [Fly/781f3a6652 (2026-11-10)] [66.241.124.140] [185.994672ms] [Fly.io]
+https://embed.rwa.xyz [404] [] [3889] [RWA.xyz | Not Found] [cloudflare] [104.26.1.27] [cloudflare] [177.168675ms] [Cloudflare,HSTS,Vercel]
+https://backend.reental.co [404] [] [139] [Error] [] [65.109.41.214] [437.982917ms] [HSTS]
+https://mcp.reental.co [404] [] [19] [] [65.109.41.214] [464.947295ms]
+https://citations-cdn.rwa.xyz [404] [] [28264] [Not Found] [cloudflare] [104.26.1.27] [cloudflare] [201.16211ms] [Cloudflare]
+https://partners-staging.rwa.xyz [404] [] [107] [cloudflare] [104.26.1.27] [cloudflare] [313.564311ms] [Cloudflare,HSTS,Vercel]
+https://graphics.rwa.xyz [404] [] [2367] [404: This page could not be found] [cloudflare] [104.26.1.27] [cloudflare] [417.304398ms] [Cloudflare,HSTS,Vercel]
+https://projects.reental.co [404] [] [31] [cloudflare] [104.21.15.192] [cloudflare] [278.635336ms] [Cloudflare,HTTP/3]
+https://img-dev.rwa.xyz [404] [] [28264] [Not Found] [cloudflare] [104.26.0.27] [cloudflare] [417.679911ms] [Cloudflare]
+https://partners-uploads.rwa.xyz [404] [] [28264] [Not Found] [cloudflare] [104.26.0.27] [cloudflare] [342.012939ms] [Cloudflare]
+https://sparklines.rwa.xyz [404] [] [28264] [Not Found] [cloudflare] [104.26.1.27] [cloudflare] [172.840178ms] [Cloudflare]
+https://testnet.app.reental.co [404] [] [107] [Vercel] [216.150.16.193] [373.488094ms] [HSTS,Vercel]
+https://track.rwa.xyz [404] [] [23] [uvicorn] [44.226.152.3] [451.656175ms] [Python,Uvicorn]
+
+## 500
+
+## 502
+
+## 503
+
