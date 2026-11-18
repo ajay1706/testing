@@ -1,0 +1,4 @@
+https://academy.solflare.com [301] [https://www.solflare.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.156.249] [cloudflare] [39.008849ms] [Cloudflare]
+https://backup.squads.so [301] [https://docs.squads.so/main/additional-resources/what-if-the-squads-app-goes-down/] [0] [AmazonS3] [108.139.10.108] [cloudfront] [151.048105ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://devnet.squads.so [301] [https://squads.xyz/] [0] [CloudFront] [18.238.192.125] [cloudfront] [116.281715ms] [Amazon CloudFront,Amazon Web Services]
+https://testnet.squads.so [301] [https://squads.xyz/] [0] [CloudFront] [18.238.192.125] [cloudfront] [65.600858ms] [Amazon CloudFront,Amazon Web Services]

@@ -1,0 +1,4 @@
+https://developers.squads.so [308] [/welcome] [118009] [Vercel] [76.76.21.123] [116.623901ms] [HSTS,Vercel]
+https://squads.so [308] [https://squads.xyz/] [55] [Framer/3824ea1] [52.223.52.2] [107.685335ms] [Framer Sites,HSTS,HTTP/3,React]
+https://new-docs.squads.so [308] [/introduction] [0] [cloudflare] [162.159.143.13] [cloudflare] [1.096889981s] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.squads.so [308] [https://squads.so/] [54] [Framer/3824ea1] [31.43.160.6] [160.885127ms] [Framer Sites,HSTS,HTTP/3,React]
