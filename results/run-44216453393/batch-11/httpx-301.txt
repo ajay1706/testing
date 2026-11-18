@@ -1,0 +1,5 @@
+https://analytics.saucerswap.finance [301] [https://www.saucerswap.finance/] [15] [Vercel] [76.76.21.164] [120.687662ms] [HSTS,Vercel]
+https://campaigns.saucerswap.finance [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [67.083513ms] [Caddy,HTTP/3]
+https://go.saucerswap.finance [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [66.160664ms] [Caddy,HTTP/3]
+https://mail.saucerswap.finance [301] [https://privateemail.com/] [0] [cloudflare] [172.67.75.32] [cloudflare] [437.258294ms] [Cloudflare,HSTS]
+https://www.apidev.scopuly.com [301] [http://apidev.scopuly.com/public/] [281] [301 Moved Permanently] [ddos-guard] [77.222.39.78] [1.501415596s] [DDoS-Guard]
