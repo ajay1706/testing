@@ -1,0 +1,8 @@
+https://blog.derive.xyz [301] [https://insights.derive.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.14.65] [cloudflare] [33.516246ms] [Cloudflare]
+https://app.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [104.20.40.161] [cloudflare] [150.502381ms] [Cloudflare,HSTS,Vercel]
+https://docs.dydx.trade [301] [https://docs.dydx.xyz] [528] [301 Moved Permanently] [cloudflare] [104.20.40.161] [cloudflare] [31.852381ms] [Cloudflare,Cloudflare Browser Insights]
+https://edgex.exchange [301] [https://www.edgex.exchange/] [0] [TencentEdgeOne] [43.169.32.93] [760.404338ms] [EdgeOne]
+https://pro.derive.xyz [301] [https://app.derive.xyz/] [15] [Vercel] [216.150.1.1] [180.849592ms] [HSTS,Vercel]
+https://www.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [104.20.40.161] [cloudflare] [157.465535ms] [Cloudflare,HSTS,Vercel]
+https://www.edgex.exchange [301] [https://pro.edgex.exchange/en-US/home] [0] [TencentEdgeOne] [43.169.32.93] [606.527076ms] [EdgeOne]
+http://edgex-prod-v2.edgex.exchange [301] [https://edgex-prod-v2.edgex.exchange:443/] [134] [301 Moved Permanently] [awselb/2.0] [43.169.32.93] [1.130014683s] [Amazon ELB,Amazon Web Services]
