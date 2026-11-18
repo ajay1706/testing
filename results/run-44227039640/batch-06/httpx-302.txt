@@ -1,0 +1,5 @@
+https://go.kinesis.money [302] [https://kinesis.money] [0] [] [34.237.219.119] [332.658765ms] [Salesforce Marketing Cloud Account Engagement]
+https://forum.kinesis.money [302] [https://forum.kinesis.money/session/sso] [0] [nginx] [13.239.50.2] [453.519093ms] [Nginx]
+https://forms.kinesis.money [302] [https://kinesis.money/about-us/contact-us?error=Google recaptcha is not verified] [0] [Apache/2.4.41 (Ubuntu)] [54.220.187.252] [618.834583ms] [Apache HTTP Server:2.4.41,Ubuntu]
+https://support.kinesis.money [302] [https://support.kinesis.money/hc] [0] [cloudflare] [216.198.53.6] [249.087145ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://www2.kinesis.money [302] [https://kinesis.money] [0] [] [34.237.219.119] [297.525657ms] [Salesforce Marketing Cloud Account Engagement]

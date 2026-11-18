@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:19:30 UTC 2026
+[+] Run ID: 44227039640
+[+] Batch name: batch-06
+[+] Batch targets:
+kaio.xyz
+kasu.finance
+kinesis.money
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:20:39 UTC 2026
+[+] HTTPX input count: 286
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:21:02 UTC 2026
+[+] httpx line count: 87
+[+] Batch completed: Wed Nov 18 07:21:02 UTC 2026

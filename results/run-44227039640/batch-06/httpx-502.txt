@@ -1,0 +1,3 @@
+https://mydev.kinesis.money [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [143.204.1.113] [cloudfront] [90.424916ms] [Amazon CloudFront,Amazon Web Services]
+https://shopcicd-dev.kinesis.money [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [143.204.1.113] [cloudfront] [136.959358ms] [Amazon CloudFront,Amazon Web Services]
+https://wp-refactor.kinesis.money [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [143.204.1.36] [cloudfront] [63.863838ms] [Amazon CloudFront,Amazon Web Services]
