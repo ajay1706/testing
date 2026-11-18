@@ -1,0 +1,4 @@
+https://auth0.standard.paxos.com [302] [https://standard.paxos.com/] [49] [cloudflare] [172.64.150.238] [cloudflare] [256.140109ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://account.sandbox.paxos.com [302] [https://dashboard.sandbox.paxos.com/from-wallet] [0] [Paxos] [3.163.245.65] [cloudfront] [594.299318ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://account.paxos.com [302] [https://dashboard.paxos.com/from-wallet] [0] [Paxos] [108.138.159.79] [cloudfront] [660.171069ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://onboarding.openeden.com [302] [https://onboarding.openeden.com/home] [390] [Redirecting to https://onboarding.openeden.com/home] [cloudflare] [172.67.74.134] [cloudflare] [626.069561ms] [Cloudflare,HSTS]

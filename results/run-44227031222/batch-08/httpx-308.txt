@@ -1,0 +1,4 @@
+https://docs.paxos.com [308] [/welcome] [0] [Vercel] [52.84.199.10] [cloudfront] [348.092209ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,Vercel]
+https://docs.sandbox.paxos.com [308] [/welcome] [0] [Vercel] [13.32.115.41] [cloudfront] [532.075928ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,Vercel]
+https://app.openeden.com [308] [/tbill] [6] [cloudflare] [104.26.3.154] [cloudflare] [1.183406657s] [Cloudflare]
+https://paxos.com [308] [https://www.paxos.com/] [58] [Framer/3824ea1] [31.43.161.19] [147.674099ms] [Framer Sites,HSTS,HTTP/3,React]
