@@ -1,0 +1,5 @@
+https://sup.avici.money [404] [] [101] [railway-hikari] [153.52.255.1] [187.068453ms]
+https://services.baxus.co [404] [] [63] [] [35.244.128.98] [google] [230.9114ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://mcp.avici.money [404] [] [139] [Error] [railway-hikari] [153.52.255.32] [739.173118ms] [Express,Node.js]
+https://status.balanced.network [404] [] [36217] [updown.io - simple and inexpensive website monitoring] [] [159.89.98.98] [786.981808ms] [HSTS,HTTP/3,Phusion Passenger,Ruby,Ruby on Rails]
+https://forms.avici.money [404] [] [186520] [Tally - Create Beautiful Forms for Free | Unlimited Forms & Submissions] [] [35.205.106.218] [google] [839.991868ms] [HSTS,Tally]

@@ -1,0 +1,59 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 01:35:09 UTC 2026
+
+HTTPX lines: 31
+Live URLs: 31
+
+## 200
+https://balanced.network [200] [] [18791] [Cross-chain DeFi that’s actually usable | Balanced] [AmazonS3] [18.154.185.94] [cloudfront] [146.10109ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://app.balanced.network [200] [] [2398] [App | Balanced] [Vercel] [216.150.1.1] [204.780271ms] [HSTS,Vercel]
+https://omm.balanced.network [200] [] [6349] [Balanced Network Interface] [Vercel] [66.33.60.193] [203.264662ms] [HSTS,Plausible,Vercel]
+https://docs.balanced.network [200] [] [12116] [Introduction | Balanced Docs] [Vercel] [66.33.60.35] [261.443292ms] [Docusaurus:3.8.1,HSTS,React,Vercel,Webpack]
+https://open.avici.money [200] [] [103] [Vercel] [216.150.1.129] [342.897517ms] [HSTS,Vercel]
+https://v1.balanced.network [200] [] [3612] [Balanced] [Vercel] [216.150.1.193] [338.856743ms] [HSTS,Vercel]
+https://link.avici.money [200] [] [2104] [Avici] [cloudflare] [172.66.0.157] [cloudflare] [684.683706ms] [Cloudflare,HSTS,HTTP/3]
+https://www.balanced.network [200] [] [18791] [Cross-chain DeFi that’s actually usable | Balanced] [AmazonS3] [18.154.185.94] [cloudfront] [231.75013ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://vending.baxus.co [200] [] [13005] [BAXUS | Premium Spirits Vending Machine] [] [34.49.88.72] [google] [346.886716ms] [Google Cloud,Google Cloud CDN,HTTP/3,Next.js,Node.js,React,Webpack]
+https://agents.avici.money [200] [] [20] [railway-hikari] [153.52.255.111] [767.942592ms] [Express,Node.js]
+https://media.baxus.co [200] [] [46230] [BAXUS Media] [Vercel] [216.198.79.65] [359.359507ms] [HSTS,Vercel]
+https://invite.avici.money [200] [] [18863] [Avici — Good things are better shared] [Vercel] [216.150.1.193] [518.964011ms] [HSTS,Vercel]
+https://blog.balanced.network [200] [] [72964] [Blog | Balanced] [openresty] [151.101.195.7] [fastly] [359.661643ms] [Ghost:6.78,Nginx,Node.js,OpenResty,Varnish,jQuery CDN,jQuery:3.5.1,jsDelivr]
+https://gov.balanced.network [200] [] [140281] [Balanced - Forum] [nginx] [3.128.99.88] [303.578253ms] [Discourse:3.1.0,HSTS,Nginx,Ruby on Rails]
+https://baxus.co [200] [] [48367] [BAXUS] [] [34.110.186.216] [google] [535.123173ms] [Amazon S3,Amazon Web Services,Cloudflare,Google Cloud,Google Cloud CDN,Google Maps,HSTS,HTTP/3,Hammer.js,cdnjs,jQuery CDN,jQuery:3.7.1]
+https://www.baxus.co [200] [] [48367] [BAXUS] [] [34.110.186.216] [google] [769.375517ms] [Amazon S3,Amazon Web Services,Cloudflare,Google Cloud,Google Cloud CDN,Google Maps,HSTS,HTTP/3,Hammer.js,cdnjs,jQuery CDN,jQuery:3.7.1]
+https://assets.baxus.co [200] [] [259916] [UploadServer] [34.160.125.163] [google] [487.453674ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://avici.money [200] [] [387198] [Avici - Home] [Framer/3824ea1] [31.43.161.6] [267.757036ms] [Framer Sites,Google Analytics,HSTS,HTTP/3,React]
+https://yeouido.balanced.network [200] [] [5347] [Balanced Network Interface] [Vercel] [66.33.60.129] [321.4055ms] [HSTS,Vercel]
+https://docs.avici.money [200] [] [405390] [Welcome | Avici Money Docs] [cloudflare] [104.18.40.47] [cloudflare] [405.463465ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+
+## 302
+https://links.avici.money [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=links.avici.money] [115] [nginx] [67.199.248.13] [375.933677ms] [HSTS,HTTP/3,Nginx]
+
+## 307
+https://beta.avici.money [307] [/login] [15] [Vercel] [216.150.1.193] [839.563603ms] [HSTS,Vercel]
+
+## 308
+https://app.baxus.co [308] [https://baxus.co/] [0] [] [34.110.186.216] [google] [167.637298ms] [HTTP/3]
+https://stats.balanced.network [308] [https://app.balanced.network/] [15] [Vercel] [76.76.21.93] [376.024803ms] [HSTS,Vercel]
+https://www.avici.money [308] [https://avici.money/] [56] [Framer/3824ea1] [31.43.160.6] [1.262099761s] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+
+## 403
+
+## 404
+https://sup.avici.money [404] [] [101] [railway-hikari] [153.52.255.1] [187.068453ms]
+https://services.baxus.co [404] [] [63] [] [35.244.128.98] [google] [230.9114ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://mcp.avici.money [404] [] [139] [Error] [railway-hikari] [153.52.255.32] [739.173118ms] [Express,Node.js]
+https://status.balanced.network [404] [] [36217] [updown.io - simple and inexpensive website monitoring] [] [159.89.98.98] [786.981808ms] [HSTS,HTTP/3,Phusion Passenger,Ruby,Ruby on Rails]
+https://forms.avici.money [404] [] [186520] [Tally - Create Beautiful Forms for Free | Unlimited Forms & Submissions] [] [35.205.106.218] [google] [839.991868ms] [HSTS,Tally]
+
+## 500
+
+## 502
+
+## 503
+
