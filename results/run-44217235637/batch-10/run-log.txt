@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 01:46:38 UTC 2026
+[+] Run ID: 44217235637
+[+] Batch name: batch-10
+[+] Batch targets:
+portals.fi
+solanamobile.com
+solayer.org
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 01:48:21 UTC 2026
+[+] HTTPX input count: 198
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 01:48:43 UTC 2026
+[+] httpx line count: 79
+[+] Batch completed: Wed Nov 18 01:48:43 UTC 2026
