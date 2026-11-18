@@ -1,0 +1,3 @@
+https://checkout-admin.exodus.com [307] [/login] [15] [cloudflare] [104.18.36.212] [cloudflare] [636.644487ms] [Cloudflare,HSTS,Vercel]
+https://checkout-dashboard.exodus.com [307] [/sign-in] [15] [cloudflare] [172.64.151.44] [cloudflare] [888.84567ms] [Cloudflare,HSTS,Vercel]
+https://checkout.exodus.com [307] [/pay/not-found] [36840] [Exodus Checkout] [cloudflare] [172.64.151.44] [cloudflare] [853.019245ms] [Cloudflare,HSTS,Vercel]
