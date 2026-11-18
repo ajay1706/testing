@@ -1,0 +1,7 @@
+https://amm.pump.fun [301] [https://swap.pump.fun/] [167] [301 Moved Permanently] [cloudflare] [104.18.34.22] [cloudflare] [62.827161ms] [Cloudflare,HSTS,HTTP/3]
+https://download.pump.fun [301] [https://2ly.link/280wq] [167] [301 Moved Permanently] [cloudflare] [104.18.34.22] [cloudflare] [71.172075ms] [Cloudflare,HSTS,HTTP/3]
+https://fees.pump.fun [301] [https://pump.fun/pump-token] [167] [301 Moved Permanently] [cloudflare] [172.64.153.234] [cloudflare] [71.707005ms] [Cloudflare,HSTS,HTTP/3]
+https://get.pump.fun [301] [https://2ly.link/280wq] [167] [301 Moved Permanently] [cloudflare] [172.64.153.234] [cloudflare] [57.004851ms] [Cloudflare,HSTS,HTTP/3]
+https://go.pump.fun [301] [https://pump.fun/go] [167] [301 Moved Permanently] [cloudflare] [172.64.153.234] [cloudflare] [55.399394ms] [Cloudflare,HSTS,HTTP/3]
+http://mapig-devnet.pump.fun [301] [https://mapig-devnet.pump.fun/] [528] [301 Moved Permanently] [cloudflare] [172.64.153.234] [cloudflare] [24.529792ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+http://mapig-mainnet.pump.fun [301] [https://mapig-mainnet.pump.fun/] [528] [301 Moved Permanently] [cloudflare] [172.64.153.234] [cloudflare] [28.950329ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
