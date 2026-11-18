@@ -1,0 +1,76 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:20:36 UTC 2026
+
+HTTPX lines: 50
+Live URLs: 50
+
+## 200
+https://geo3.standx.com [200] [] [42] [cloudflare] [104.26.13.217] [cloudflare] [104.768091ms] [Cloudflare,HTTP/3]
+https://alpha-docs.standx.com [200] [] [1887] [cloudflare] [104.26.13.217] [cloudflare] [112.874505ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.standx.com [200] [] [1887] [cloudflare] [104.26.13.217] [cloudflare] [156.533518ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://blog.perpl.xyz [200] [] [35496] [Perpl Blog] [cloudflare] [172.66.149.49] [cloudflare] [119.108057ms] [Cloudflare,Cloudflare Browser Insights,Ghost:6.78,HSTS,Node.js,Varnish,jsDelivr]
+https://api.standx.com [200] [] [36] [cloudflare] [104.26.12.217] [cloudflare] [509.83501ms] [Cloudflare,HTTP/3]
+https://geo.standx.com [200] [] [42] [cloudflare] [104.26.13.217] [cloudflare] [516.679089ms] [Cloudflare,HTTP/3]
+https://extension.rocky.exchange [200] [] [2914] [Rocky Wallet | Canton Network Browser Wallet] [nginx/1.24.0 (Ubuntu)] [57.180.177.100] [567.830576ms] [Nginx:1.24.0,Ubuntu]
+https://eot.info.standx.com [200] [] [1133] [Hello - EmailOctopus] [] [34.255.101.145] [621.716033ms] [HTTP/3]
+https://developers.rocky.exchange [200] [] [12251] [Home | Rocky API | Rocky Developer Docs] [nginx/1.24.0 (Ubuntu)] [13.192.38.221] [542.193252ms] [Docusaurus:3.10.2,Nginx:1.24.0,React,Ubuntu,Webpack]
+https://app.perpl.xyz [200] [] [12709] [Perpl] [cloudflare] [104.20.45.91] [cloudflare] [724.303612ms] [Cloudflare,Cloudflare Browser Insights,Envoy,HSTS]
+https://recovery.perpl.xyz [200] [] [3955] [Perpl | Rescue Mode] [cloudflare] [104.20.45.91] [cloudflare] [348.52569ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://avax.rocky.exchange [200] [] [8263] [Rocky | Spot & Perpetuals on Avalanche] [nginx/1.24.0 (Ubuntu)] [13.192.38.221] [869.33038ms] [Nginx:1.24.0,Ubuntu]
+https://cns.validator.rocky.exchange [200] [] [1021] [nginx/1.30.6] [54.250.178.127] [1.103057003s] [Nginx:1.30.6]
+https://alpha.standx.com [200] [] [57983] [StandX: Universal Markets. Universal Yield.] [cloudflare] [172.67.71.10] [cloudflare] [207.39485ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://wallet.validator.rocky.exchange [200] [] [963] [nginx/1.30.6] [54.250.178.127] [557.563239ms] [Nginx:1.30.6]
+https://walletadm.rocky.exchange [200] [] [526] [rocky-wallet-dashboard] [nginx/1.24.0 (Ubuntu)] [57.180.177.100] [675.438472ms] [Nginx:1.24.0,Ubuntu]
+https://stats.perpl.xyz [200] [] [101230] [cloudflare] [172.66.149.49] [cloudflare] [473.027416ms] [Cloudflare,HSTS]
+https://testnet.perpl.xyz [200] [] [12725] [Perpl] [cloudflare] [172.66.149.49] [cloudflare] [788.182916ms] [Cloudflare,Cloudflare Browser Insights,Envoy,HSTS]
+https://perpl.xyz [200] [] [218379] [Perpl | On-Chain Perpetual Futures Exchange] [cloudflare] [104.20.45.91] [cloudflare] [200.645371ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Webflow]
+https://assurance.rocky.exchange [200] [] [131195] [Canton Assurance Layer] [nginx/1.24.0 (Ubuntu)] [13.192.38.221] [741.297407ms] [HSTS,Next.js,Nginx:1.24.0,Node.js,React,Ubuntu,Webpack]
+https://standx.com [200] [] [57983] [StandX: Universal Markets. Universal Yield.] [cloudflare] [172.67.71.10] [cloudflare] [150.85286ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://waitlist.perpl.xyz [200] [] [8444] [Perpl — Request Access] [cloudflare] [104.20.45.91] [cloudflare] [993.296386ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://status.perpl.xyz [200] [] [52878] [Status | Perpl Mainnet Service Status] [cloudflare] [104.26.14.170] [cloudflare] [754.709089ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://testnet-status.perpl.xyz [200] [] [53225] [Status | Perpl Testnet Service Status] [cloudflare] [104.26.15.170] [cloudflare] [853.643227ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://rocky.exchange [200] [] [57395] [Rocky | Crypto Trading Platform on Canton Network] [nginx/1.24.0 (Ubuntu)] [57.180.177.100] [1.749259172s] [HSTS,Nginx:1.24.0,Ubuntu]
+https://docs.perpl.xyz [200] [] [393958] [Introduction | Perpl Docs] [cloudflare] [104.18.40.47] [cloudflare] [193.840511ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+https://www.perpl.xyz [301] [https://perpl.xyz/] [528] [301 Moved Permanently] [cloudflare] [172.66.149.49] [cloudflare] [253.284554ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://www.standx.com [301] [https://standx.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.217] [cloudflare] [272.426086ms] [Cloudflare,HTTP/3]
+
+## 302
+https://app.rocky.exchange [302] [https://app.rocky.exchange/trade] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [57.180.177.100] [673.833369ms] [HSTS,Nginx:1.24.0,Ubuntu]
+
+## 307
+https://doc.rocky.exchange [307] [https://app.gitbook.com/o/inXlWzM79bO1sP5RvPmv/sites/site_qHgze/] [15] [cloudflare] [104.18.40.47] [cloudflare] [378.186135ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+
+## 403
+https://fin.rocky.exchange [403] [] [564] [403 Forbidden] [nginx/1.24.0 (Ubuntu)] [13.192.38.221] [557.477481ms] [Nginx:1.24.0,Ubuntu]
+https://dashboard.rocky.exchange [403] [] [162] [403 Forbidden] [nginx/1.24.0 (Ubuntu)] [13.192.38.221] [568.028683ms] [Nginx:1.24.0,Ubuntu]
+https://dvp.rocky.exchange [403] [] [162] [403 Forbidden] [nginx/1.24.0 (Ubuntu)] [13.192.38.221] [566.269257ms] [Nginx:1.24.0,Ubuntu]
+https://jenkins.rocky.exchange [403] [] [850] [nginx/1.24.0 (Ubuntu)] [54.248.166.6] [592.152625ms] [Java,Jenkins:2.568.3,Nginx:1.24.0,Ubuntu]
+
+## 404
+https://pay.rocky.exchange [404] [] [1009] [Pay Link Not Found] [] [100.49.110.141] [363.273559ms]
+https://api.validator.rocky.exchange [404] [] [97] [pekko-http/1.2.0] [54.250.178.127] [591.60955ms]
+https://api.rocky.exchange [404] [] [0] [nginx/1.24.0 (Ubuntu)] [13.192.38.221] [652.122127ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://grafana.rocky.exchange [404] [] [19] [] [54.250.178.127] [714.444219ms]
+https://5n.dashboard.rocky.exchange [404] [] [19] [] [54.250.178.127] [719.404232ms]
+https://ops.rocky.exchange [404] [] [19] [] [54.250.178.127] [741.206725ms]
+https://api-extension.rocky.exchange [404] [] [21] [nginx/1.24.0 (Ubuntu)] [57.180.177.100] [884.98222ms] [Nginx:1.24.0,Ubuntu]
+https://n8n.rocky.exchange [404] [] [19] [] [54.250.178.127] [969.157227ms]
+https://public-assets-r2.perpl.xyz [404] [] [27511] [Not Found] [cloudflare] [172.66.149.49] [cloudflare] [319.740139ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://rpc-extension.rocky.exchange [404] [] [53] [nginx/1.24.0 (Ubuntu)] [57.180.177.100] [694.608546ms] [Nginx:1.24.0,Ubuntu]
+https://prometheus.rocky.exchange [404] [] [19] [] [54.250.178.127] [1.019017841s]
+http://topology.validator.rocky.exchange [404] [] [19] [] [54.250.178.127] [392.498405ms]
+http://swap-bot-api.rocky.exchange [404] [] [162] [404 Not Found] [nginx/1.24.0 (Ubuntu)] [35.78.182.126] [290.372292ms] [Nginx:1.24.0,Ubuntu]
+
+## 500
+
+## 502
+
+## 503
+
