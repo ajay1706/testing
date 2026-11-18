@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 01:36:44 UTC 2026
+[+] Run ID: 44216453393
+[+] Batch name: batch-08
+[+] Batch targets:
+metadao.fi
+mito.fi
+morsemoney.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 01:37:41 UTC 2026
+[+] HTTPX input count: 92
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 01:37:45 UTC 2026
+[+] httpx line count: 46
+[+] Batch completed: Wed Nov 18 01:37:45 UTC 2026
