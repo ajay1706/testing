@@ -1,0 +1,7 @@
+https://companystore.wisdomtree.com [302] [https://wisdomtree.prodigycommerce.com/customer/login] [0] [cloudflare] [141.193.213.10] [243.736183ms] [Cloudflare,Cloudflare Bot Management,HTTP/3,WP Engine,WordPress]
+https://info.wisdomtree.com [302] [/podcast-confirmation/] [44] [] [34.111.126.37] [google] [317.996889ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://officehours.wisdomtree.com [302] [/events/] [30] [] [34.111.126.37] [google] [745.802262ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://resources.wisdomtree.com [302] [/2026economicmarketoutlook4q26/] [53] [] [34.111.126.37] [google] [339.892441ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://tape.wisdomtree.com [302] [https://tape-rewinder-4175010202751192.12.azure.databricksapps.com/] [143] [302 Found] [cloudflare] [104.18.6.32] [cloudflare] [59.100663ms] [Cloudflare,HTTP/3]
+https://techsupport.wisdomtree.com [302] [https://techsupport.wisdomtree.com/support/home] [113] [cloudflare] [162.159.140.147] [cloudflare] [504.384455ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://treenet.wisdomtree.com [302] [https://wisdomtree.sharepoint.com/] [0] [] [150.171.110.148] [45.05074ms] [Azure,Azure Front Door]

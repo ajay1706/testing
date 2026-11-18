@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:31:48 UTC 2026
+[+] Run ID: 44227031222
+[+] Batch name: batch-12
+[+] Batch targets:
+tokeny.com
+truefi.io
+wisdomtree.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:33:06 UTC 2026
+[+] HTTPX input count: 811
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:33:46 UTC 2026
+[+] httpx line count: 418
+[+] Batch completed: Wed Nov 18 07:33:46 UTC 2026
