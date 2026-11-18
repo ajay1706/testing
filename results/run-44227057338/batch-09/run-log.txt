@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:23:47 UTC 2026
+[+] Run ID: 44227057338
+[+] Batch name: batch-09
+[+] Batch targets:
+moonshot.com
+openbookdex.org
+orca.so
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:24:40 UTC 2026
+[+] HTTPX input count: 296
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:25:21 UTC 2026
+[+] httpx line count: 81
+[+] Batch completed: Wed Nov 18 07:25:21 UTC 2026
