@@ -1,0 +1,67 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 01:41:43 UTC 2026
+
+HTTPX lines: 38
+Live URLs: 38
+
+## 200
+https://babydoge.com [200] [] [39189] [BabyDoge — We Didn’t Start a Token. We Started a Movement.] [cloudflare] [104.26.10.79] [cloudflare] [138.325917ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://bridge.babydoge.com [200] [] [1794] [Baby Doge Bridge — Maintenance] [cloudflare] [104.26.11.79] [cloudflare] [411.605609ms] [Cloudflare]
+https://docs.bancor.network [200] [] [397356] [Bancor V3 | Bancor V3 Technical Docs] [cloudflare] [104.26.1.76] [cloudflare] [213.331252ms] [Cloudflare,GitBook,HSTS,Vercel]
+https://bancor.network [200] [] [524883] [Bancor | Onchain Trading and Liquidity Infrastructure] [cloudflare] [104.26.0.76] [cloudflare] [517.837498ms] [Cloudflare,Framer Sites,Google Analytics,Google Tag Manager,HSTS,React]
+https://gov.bancor.network [200] [] [255514] [Bancor Governance Forum - Bancor Protocol Governance] [nginx] [184.104.178.43] [3.498269852s] [Discourse:2026.11.0,HSTS,Nginx,Ruby on Rails]
+https://nft.babydoge.com [200] [] [1915] [BabyDogeCoin NFT] [cloudflare] [104.26.10.79] [cloudflare] [169.688826ms] [Bootstrap:5.1.3,Cloudflare,Popper:2.10.2,jsDelivr]
+https://perps.babydoge.com [200] [] [5828] [BabyDoge Perps] [cloudflare] [104.26.11.79] [cloudflare] [3.274171352s] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://support.bancor.network [200] [] [344488] [What is Bancor? | Bancor Docs] [cloudflare] [104.18.40.47] [cloudflare] [221.411068ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://swap-old.babydoge.com [200] [] [16000] [Baby Doge Swap] [cloudflare] [104.26.10.79] [cloudflare] [434.750693ms] [Cloudflare,Next.js,Node.js,React,Webpack]
+https://swap.babydoge.com [200] [] [2649] [🐶 BabyDoge DEX - Trade, Earn & Grow in DeFi] [cloudflare] [104.26.11.79] [cloudflare] [6.47606445s] [Cloudflare,Express,Node.js,Snowplow Analytics]
+
+## 301
+https://beta.bancor.network [301] [https://app.bancor.network] [167] [301 Moved Permanently] [cloudflare] [172.67.71.62] [cloudflare] [72.895716ms] [Cloudflare]
+http://cn.blog.bancor.network [301] [https://cn.blog.bancor.network/] [167] [301 Moved Permanently] [cloudflare] [172.67.71.62] [cloudflare] [22.180022ms] [Cloudflare]
+http://api.bancor.network [301] [https://api.bancor.network/] [167] [301 Moved Permanently] [cloudflare] [104.26.0.76] [cloudflare] [22.287592ms] [Cloudflare,HTTP/2]
+http://files.bancor.network [301] [https://files.bancor.network/] [167] [301 Moved Permanently] [cloudflare] [104.26.1.76] [cloudflare] [31.930383ms] [Cloudflare]
+http://ru.blog.bancor.network [301] [https://ru.blog.bancor.network/] [167] [301 Moved Permanently] [cloudflare] [104.26.1.76] [cloudflare] [36.193165ms] [Cloudflare,HTTP/2]
+https://swap.bancor.network [301] [https://app.bancor.network/swap] [167] [301 Moved Permanently] [cloudflare] [172.67.71.62] [cloudflare] [1.053189027s] [Cloudflare]
+http://restricted.bancor.network [301] [https://restricted.bancor.network/] [167] [301 Moved Permanently] [cloudflare] [104.26.1.76] [cloudflare] [3.06195082s] [Cloudflare,HTTP/2]
+https://vote.bancor.network [301] [https://snapshot.box/#/s:bancornetwork.eth] [167] [301 Moved Permanently] [cloudflare] [104.26.0.76] [cloudflare] [1.095755794s] [Cloudflare]
+https://www.babydoge.com [301] [https://babydoge.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.10.79] [cloudflare] [4.043526408s] [Cloudflare]
+
+## 302
+https://analytics.bancor.network [302] [https://dune.com/bancor/bancor-table-of-contents] [143] [302 Found] [cloudflare] [104.26.0.76] [cloudflare] [72.121095ms] [Cloudflare]
+https://earn.bancor.network [302] [https://bancor.network] [143] [302 Found] [cloudflare] [104.26.1.76] [cloudflare] [60.847659ms] [Cloudflare]
+http://mail.bancor.network [302] [http://mail.google.com/a/bancor.network] [236] [302 Moved] [ghs] [172.253.62.121] [google] [23.155566ms]
+https://simulator.bancor.network [302] [https://bancor.network/] [143] [302 Found] [cloudflare] [104.26.1.76] [cloudflare] [2.047047962s] [Cloudflare]
+https://try.bancor.network [302] [https://bancor.network] [143] [302 Found] [cloudflare] [104.26.1.76] [cloudflare] [1.079255054s] [Cloudflare]
+https://wallet.bancor.network [302] [https://app.bancor.network/] [143] [302 Found] [cloudflare] [172.67.71.62] [cloudflare] [79.405165ms] [Cloudflare]
+https://x.bancor.network [302] [https://bifrost.dappfronts.io] [143] [302 Found] [cloudflare] [172.67.71.62] [cloudflare] [2.057869006s] [Cloudflare]
+
+## 307
+
+## 308
+https://www.bancor.network [308] [https://bancor.network/] [59] [cloudflare] [172.67.71.62] [cloudflare] [1.162210233s] [Cloudflare,HSTS]
+
+## 401
+
+## 403
+https://app.bancor.network [403] [] [1037] [Redirecting...] [cloudflare] [104.26.0.76] [cloudflare] [59.209974ms] [Cloudflare]
+http://bakeryswap.org [403] [] [93] [] [15.197.148.33] [6.876702ms]
+https://blog.bancor.network [403] [] [5655] [Just a moment...] [cloudflare] [162.159.152.4] [cloudflare] [34.25185ms] [Cloudflare,HSTS,HTTP/3]
+https://buy.bancor.network [403] [] [4553] [Attention Required! | Cloudflare] [cloudflare] [104.18.13.122] [cloudflare] [95.426284ms] [Cloudflare]
+https://tokens-swap.babydoge.com [403] [] [111] [cloudflare] [104.26.11.79] [cloudflare] [1.58670506s] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+http://www.bakeryswap.org [403] [] [93] [] [15.197.148.33] [6.05941ms]
+
+## 404
+https://api-v2.bancor.network [404] [] [69] [cloudflare] [104.26.0.76] [cloudflare] [461.576247ms] [Cloudflare,Express,Google Cloud,Google Cloud CDN,Google Cloud Trace,Node.js]
+https://api-v3.bancor.network [404] [] [69] [cloudflare] [104.26.0.76] [cloudflare] [526.874531ms] [Cloudflare,Express,Google Cloud,Google Cloud CDN,Google Cloud Trace,Node.js]
+https://properties.babydoge.com [404] [] [0] [cloudflare] [104.26.11.79] [cloudflare] [5.394854145s] [Cloudflare]
+https://sp-track.babydoge.com [404] [] [2010] [Page Not Found] [openresty] [54.92.251.90] [176.831046ms] [Nginx,OpenResty]
+https://sp-bounce.babydoge.com [404] [] [2010] [Page Not Found] [openresty] [54.92.251.90] [1.190164291s] [Nginx,OpenResty]
+
+## 500
+
+## 502
+
+## 503
+
