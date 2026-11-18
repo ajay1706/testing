@@ -1,0 +1,2 @@
+https://star-origin.brave.com [500] [] [15] [cloudflare] [104.18.13.196] [cloudflare] [231.127158ms] [Cloudflare]
+https://star.wdp.brave.com [500] [] [15] [awselb/2.0] [172.65.29.85] [cloudflare] [269.390904ms] [Amazon ELB,Amazon Web Services]
