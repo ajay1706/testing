@@ -1,0 +1,72 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 01:44:27 UTC 2026
+
+HTTPX lines: 47
+Live URLs: 47
+
+## 200
+https://api.genopets.me [200] [] [12] [cloudflare] [104.21.15.145] [cloudflare] [223.79767ms] [Cloudflare,Express,Google Cloud,Google Cloud Trace,HTTP/3,Node.js]
+https://api-prod.genopets.me [200] [] [12] [Google Frontend] [142.250.26.121] [google] [226.94705ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://admin.genopets.me [200] [] [1257] [Vercel] [66.33.60.34] [286.240107ms] [HSTS,Vercel]
+https://api-staging.genopets.me [200] [] [12] [Google Frontend] [142.250.115.121] [google] [346.789811ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://auth-dev.genopets.me [200] [] [39642] [] [199.36.158.100] [394.438093ms] [Firebase,HTTP/3]
+https://dev-admin.genopets.me [200] [] [1257] [Vercel] [66.33.60.193] [173.478406ms] [HSTS,Vercel]
+https://dev-api.genopets.me [200] [] [12] [cloudflare] [172.67.162.201] [cloudflare] [275.284655ms] [Cloudflare,Express,Google Cloud,Google Cloud Trace,HTTP/3,Node.js]
+https://honey.land [200] [] [74261] [Honeyland] [cloudflare] [172.67.184.200] [cloudflare] [195.542179ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,jsDelivr]
+https://media.goosefx.io [200] [] [0] [AmazonS3] [13.32.115.81] [cloudfront] [348.204604ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://mainframe.genopets.me [200] [] [34896] [Vercel] [66.33.60.194] [170.543828ms] [HSTS,Vercel]
+https://docs.goosefx.io [200] [] [435878] [Welcome to GooseFX | GooseFX] [cloudflare] [172.64.147.209] [cloudflare] [362.932007ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://pixelton-dev.genopets.me [200] [] [1340] [Telegram Mini App] [Vercel] [76.76.21.142] [203.948415ms] [HSTS,Vercel]
+https://pixelton.genopets.me [200] [] [1340] [Telegram Mini App] [Vercel] [76.76.21.22] [310.392745ms] [HSTS,Vercel]
+https://fuw.genopets.me [200] [] [12199] [Google Frontend] [142.251.108.121] [google] [3.314803624s] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Google Sign-in,Google Tag Manager]
+https://tesoterra.genopets.me [200] [] [34896] [Vercel] [66.33.60.67] [799.11542ms] [HSTS,Vercel]
+https://whitepaper.genopets.me [200] [] [371841] [Introduction | Genopets Game Whitepaper] [cloudflare] [172.64.147.209] [cloudflare] [5.450363845s] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://www.honey.land [200] [] [74261] [Honeyland] [cloudflare] [172.67.184.200] [cloudflare] [256.217884ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,jsDelivr]
+https://www.goosefx.io [200] [] [33329] [Stake SOL - Best Solana Staking | High Performance Validator] [] [18.238.152.22] [cloudfront] [8.264354316s] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+
+## 301
+http://blog.goosefx.io [301] [https://blog.goosefx.io/] [0] [Caddy] [178.128.137.126] [239.482518ms] [Caddy]
+https://marketplace.genopets.me [301] [http://mainframe.genopets.me/sft-marketplace/collection/All] [167] [301 Moved Permanently] [cloudflare] [172.67.162.201] [cloudflare] [158.835887ms] [Cloudflare,HTTP/3]
+https://r.genopets.me [301] [https://mainframe.genopets.me/referral/] [167] [301 Moved Permanently] [cloudflare] [104.21.15.145] [cloudflare] [148.789103ms] [Cloudflare]
+http://mail.genopets.me [301] [https://mail.genopets.me/] [167] [301 Moved Permanently] [cloudflare] [172.67.162.201] [cloudflare] [56.745207ms] [Cloudflare,HTTP/2]
+
+## 302
+https://goosefx.io [302] [https://www.goosefx.io/] [0] [] [18.238.152.22] [cloudfront] [188.803407ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 307
+https://litepaper.genopets.me [307] [https://whitepaper.genopets.me/] [15] [cloudflare] [172.64.147.209] [cloudflare] [296.319113ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://genopets.me [308] [https://www.genopets.me/] [15] [Vercel] [76.76.21.21] [166.168663ms] [HSTS,Vercel]
+http://www.genopets.me [308] [https://www.genopets.me/] [14] [Vercel] [66.33.60.35] [6.1174618s] [Vercel]
+
+## 401
+
+## 403
+https://cdn.genopets.me [403] [] [16791] [Forbidden] [cloudflare] [104.21.15.145] [cloudflare] [328.478124ms] [Cloudflare]
+https://helius-rpc.genopets.me [403] [] [13] [cloudflare] [104.21.15.145] [cloudflare] [301.934592ms] [Cloudflare,HTTP/3]
+https://strapi.genopets.me [403] [] [17] [cloudflare] [162.159.140.98] [cloudflare] [740.911721ms] [Cloudflare,HTTP/3]
+
+## 404
+https://auth.genopets.me [404] [] [21265] [Site Not Found] [] [199.36.158.100] [188.277308ms] [Firebase,HSTS,HTTP/3]
+https://demo.genopets.me [404] [] [107] [Vercel] [66.33.60.67] [555.413746ms] [HSTS,Vercel]
+https://dev-game-api.genopets.me [404] [] [272] [404 Page not found] [] [192.178.142.121] [google] [216.128202ms]
+https://dev-drop.genopets.me [404] [] [107] [Vercel] [66.33.60.130] [574.190704ms] [HSTS,Vercel]
+https://email.dev-mail.genopets.me [404] [] [19] [] [34.102.239.211] [google] [216.718563ms]
+https://email.mail.genopets.me [404] [] [19] [] [34.110.180.34] [google] [234.135133ms]
+https://dev-summon.genopets.me [404] [] [107] [Vercel] [66.33.60.194] [472.351158ms] [HSTS,Vercel]
+https://game-api.genopets.me [404] [] [272] [404 Page not found] [] [142.251.108.121] [google] [173.338482ms]
+https://drop.genopets.me [404] [] [107] [Vercel] [66.33.60.35] [619.627253ms] [HSTS,Vercel]
+https://genesis.genopets.me [404] [] [107] [Vercel] [76.76.21.123] [525.642595ms] [HSTS,Vercel]
+https://ki-dev.genopets.me [404] [] [107] [Vercel] [76.76.21.123] [501.073777ms] [HSTS,Vercel]
+https://ki.genopets.me [404] [] [107] [Vercel] [66.33.60.34] [516.61727ms] [HSTS,Vercel]
+https://stesoterra.genopets.me [404] [] [107] [Vercel] [76.76.21.61] [317.780209ms] [HSTS,Vercel]
+https://www.blog.goosefx.io [404] [] [1733] [Domain error] [openresty] [151.101.131.7] [fastly] [2.460443698s] [Nginx,OpenResty,Varnish]
+
+## 500
+
+## 502
+
+## 503
+

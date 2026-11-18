@@ -1,0 +1,4 @@
+http://blog.goosefx.io [301] [https://blog.goosefx.io/] [0] [Caddy] [178.128.137.126] [239.482518ms] [Caddy]
+https://marketplace.genopets.me [301] [http://mainframe.genopets.me/sft-marketplace/collection/All] [167] [301 Moved Permanently] [cloudflare] [172.67.162.201] [cloudflare] [158.835887ms] [Cloudflare,HTTP/3]
+https://r.genopets.me [301] [https://mainframe.genopets.me/referral/] [167] [301 Moved Permanently] [cloudflare] [104.21.15.145] [cloudflare] [148.789103ms] [Cloudflare]
+http://mail.genopets.me [301] [https://mail.genopets.me/] [167] [301 Moved Permanently] [cloudflare] [172.67.162.201] [cloudflare] [56.745207ms] [Cloudflare,HTTP/2]
