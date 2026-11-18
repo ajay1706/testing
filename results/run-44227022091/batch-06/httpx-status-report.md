@@ -1,0 +1,86 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:20:32 UTC 2026
+
+HTTPX lines: 67
+Live URLs: 67
+
+## 200
+https://intentx.io [200] [] [7484] [IntentX | Home] [Vercel] [76.76.21.21] [69.565436ms] [HSTS,Vercel]
+https://arb.ithacaprotocol.io [200] [] [4] [cloudflare] [104.26.12.22] [cloudflare] [436.615351ms] [Cloudflare,HTTP/3]
+https://app.jaspervault.io [200] [] [2281] [Jasper Pro] [cloudflare] [162.159.140.98] [cloudflare] [454.060046ms] [Cloudflare,Cloudflare Bot Management,HTTP/3,Unpkg,math.js]
+https://beta.jaspervault.io [200] [] [2281] [Jasper Pro] [cloudflare] [162.159.140.98] [cloudflare] [738.278416ms] [Cloudflare,Cloudflare Bot Management,HTTP/3,Unpkg,math.js]
+https://one.ithacaprotocol.io [200] [] [4] [cloudflare] [104.26.12.22] [cloudflare] [447.087731ms] [Cloudflare,HTTP/3]
+https://one-params.ithacaprotocol.io [200] [] [4] [cloudflare] [104.26.13.22] [cloudflare] [558.376073ms] [Cloudflare,HTTP/3]
+https://jaspervault.io [200] [] [53218] [Jasper Vault — 为 BTC 永续合约而生的 0爆交易平台] [cloudflare] [172.66.0.96] [cloudflare] [414.596449ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://feerebate.intentx.io [200] [] [191] [It works! Apache httpd] [Google Frontend] [34.144.211.112] [google] [866.072962ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://op.jaspervault.io [200] [] [441] [Operation Center] [cloudflare] [172.66.0.96] [cloudflare] [768.056939ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://operationcenter.jaspervault.io [200] [] [698] [Operation Center] [cloudflare] [172.66.0.96] [cloudflare] [775.383421ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://docs.jaspervault.io [200] [] [338065] [中文文档 | JasperVault] [cloudflare] [172.64.147.209] [cloudflare] [137.6335ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://vesting.ithacaprotocol.io [200] [] [9950] [ITHACA | Vesting] [Vercel] [66.33.60.194] [131.281293ms] [HSTS,Vercel]
+https://www.ithacaprotocol.io [200] [] [3009] [Ithaca Non-Custodial, Composable Option Protocol] [cloudflare] [104.26.12.22] [cloudflare] [104.987958ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.intentx.io [200] [] [7484] [IntentX | Home] [Vercel] [76.76.21.142] [253.295958ms] [HSTS,Vercel]
+https://explorer.jaspervault.io [200] [] [77022] [Jasper blockchain explorer - View Jasper stats | Blockscout] [] [157.230.252.122] [1.438738003s] [HTTP/3,Next.js,Node.js,React,Webpack]
+https://vaults.jaspervault.io [200] [] [934] [Jasper Vault V2 vaults] [cloudflare] [172.66.0.96] [cloudflare] [798.630394ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://www.jaspervault.io [200] [] [53218] [Jasper Vault — 为 BTC 永续合约而生的 0爆交易平台] [cloudflare] [172.66.0.96] [cloudflare] [418.170815ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://status.jaspervault.io [200] [] [255287] [JasperVault status] [] [167.235.220.62] [531.814755ms] [Google Analytics,HSTS,Stimulus]
+
+## 301
+http://blastpoints.intentx.io [301] [https://blastpoints.intentx.io:443/] [0] [] [34.49.56.127] [google] [5.147789ms]
+http://admin.testnet.ithacaprotocol.io [301] [https://admin.testnet.ithacaprotocol.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.12.22] [cloudflare] [60.890181ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://apiserver1.intentx.io [301] [http://apiserver1.carbon.inc/] [63] [cloudflare] [104.21.32.35] [cloudflare] [123.338958ms] [Cloudflare,Cloudflare Bot Management,Express,HTTP/3,Node.js]
+http://app.testnet.ithacaprotocol.io [301] [https://app.testnet.ithacaprotocol.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.13.22] [cloudflare] [26.32992ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+https://ithacaprotocol.io [301] [https://www.ithacaprotocol.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.22] [cloudflare] [60.233889ms] [Cloudflare,HTTP/3]
+https://lite.jaspervault.io [301] [https://app.jaspervault.io/] [167] [301 Moved Permanently] [cloudflare] [104.21.16.36] [cloudflare] [58.142689ms] [Cloudflare,HTTP/3]
+https://marketplace.jaspervault.io [301] [https://app.jaspervault.io/pro/] [169] [301 Moved Permanently] [cloudflare] [162.159.140.98] [cloudflare] [304.50447ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://pro.jaspervault.io [301] [https://app.jaspervault.io/pro/] [169] [301 Moved Permanently] [cloudflare] [162.159.140.98] [cloudflare] [755.455629ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://trading.testnet.ithacaprotocol.io [301] [https://trading.testnet.ithacaprotocol.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.13.22] [cloudflare] [38.299744ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://trading-parameters.ithacaprotocol.io [302] [https://ithacanoemon-tech.cloudflareaccess.com/cdn-cgi/access/login/trading-parameters.ithacaprotocol.io?kid=8971cedf1f88125f5f34603494c7e4e07e3a7e61a63e8293fa797abfb218978f&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijk1OWMzMGZmODU4YWJhNWZiMWQ1MDIyMzk5NDYwN2Y1OWIyN2IyOGUzZWVmMTFlYjU3NjdhMmMzMTJlYmY1ZWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6Ijg5NzFjZWRmMWY4ODEyNWY1ZjM0NjAzNDk0YzdlNGUwN2UzYTdlNjFhNjNlODI5M2ZhNzk3YWJmYjIxODk3OGYiLCJob3N0bmFtZSI6InRyYWRpbmctcGFyYW1ldGVycy5pdGhhY2Fwcm90b2NvbC5pbyIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk0OTg2NzEzLCJuYmYiOjE3OTQ5ODY0MTMsImlhdCI6MTc5NDk4NjQxMywiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6Ijk0Njk4MzZjZjU1Yjc3YjZiZDc0NWM0MjY5ZGRjYzkzM2FhOTJjNmRlOGQyZGEyNTVkMTA4YmZhZjRlNDQ3YzgifQ.isMP-wYrR561et0Pzg2elrngnynE60CjNdO6izhKwFCarDnrB8HonbzDj_yS2DdcV5NbIJJ-qFZ_uJag-mUxH9z_CmtL9GGAQDOW02uWz0BO2c50e9M5oW3CvvCb2VJjryWPiZs9xzmm1NyusTVNM4K-OsPkCMSnt3DKaV4onUw2iJdcb17Y_kXKrMnUziwu6WCLM0NvdLJZF-RQnAx1_ghKliscCWFZjFu_ce59qvfWIPBiOIk0LcT-ATrNsLF8U7kj7qnVatQu4hSSdETY5aNKBTYUhgMP74sY4c_2Nso0YHt83GyRdv4NhWKVpt3pW2RFiVxcxe7qSBRTpny2bw&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.67.71.86] [cloudflare] [74.44684ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://trading.ithacaprotocol.io [302] [https://ithacanoemon-tech.cloudflareaccess.com/cdn-cgi/access/login/trading.ithacaprotocol.io?kid=e2e7a3a926453cc67fae32ccb17267ee8b247ce1a0e5e1ac845e6b6690cc8ad7&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ijk1OWMzMGZmODU4YWJhNWZiMWQ1MDIyMzk5NDYwN2Y1OWIyN2IyOGUzZWVmMTFlYjU3NjdhMmMzMTJlYmY1ZWUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImUyZTdhM2E5MjY0NTNjYzY3ZmFlMzJjY2IxNzI2N2VlOGIyNDdjZTFhMGU1ZTFhYzg0NWU2YjY2OTBjYzhhZDciLCJob3N0bmFtZSI6InRyYWRpbmcuaXRoYWNhcHJvdG9jb2wuaW8iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NDk4NjcxMywibmJmIjoxNzk0OTg2NDEzLCJpYXQiOjE3OTQ5ODY0MTMsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI4OGNjNTQ3MGFmZDY5MDFmN2M5YjRjMTQ3NDUyZTQ2YWFkYTM2ZGUxNWUyYWUxZDA5MmJkM2ZjYzc2MDdiYjYyIn0.V3CkAZPAI1ydPe8Fh3Ibu0GZm67oUznmLWVZxxfpTI6xJ5r_4kFPK-huixL6hnrhtI6xNqxH-ftrk2PXk53-WpqS-MFds3sW7FbNeK_gaODJYPcwoJV0NmWl-op2RshvybLpTrulaRuGxuVsnqt32XvxGYtcOmqoFiabmUDtMCjpt9kVjzFDlqJwvdXehsfRfE0d9-YxS1Eu75Se0ndy1A1wcQNVZ81-3xcKew7VU7EiUDL1liRG93wmTJ_SzD278u-DurQCnzHjs3oWc25AsTnfIFa0v65FwolGXTPn0z5NrK8rhPGgTJl_TKoMWhPVX2v9eRgq_J1jhdvCtmT1iw&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.26.13.22] [cloudflare] [63.763237ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://status.intentx.io [302] [https://incidents.betterstack.com] [0] [] [167.235.220.62] [535.43569ms] [Amazon S3,Amazon Web Services,HSTS]
+https://subgraph-prod.jaspervault.io [302] [/subgraphs/name/jaspervault/graphql] [14] [] [137.184.251.54] [687.47856ms] [HTTP/3]
+https://subgraph.jaspervault.io [302] [/subgraphs/name/jaspervault/graphql] [14] [] [137.184.251.54] [700.569978ms] [HTTP/3]
+
+## 307
+https://app.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [66.33.60.66] [120.707859ms] [HSTS,Vercel]
+https://docs.ithacaprotocol.io [307] [https://docs.ithacaprotocol.io/docs/] [15] [cloudflare] [104.18.40.47] [cloudflare] [140.890641ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://alpha.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [66.33.60.67] [149.765526ms] [HSTS,Vercel]
+https://admincrm.intentx.io [307] [/auth/signin?callbackUrl=%2F] [28] [cloudflare] [172.67.182.154] [cloudflare] [230.419852ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://fallback.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [66.33.60.66] [277.98165ms] [HSTS,Vercel]
+https://sui.ithacaprotocol.io [307] [/trading/dynamic-option-strategies] [15] [Vercel] [216.150.16.129] [147.76468ms] [HSTS,Vercel]
+https://v1.intentx.io [307] [/trade/BTCUSDT] [15] [Vercel] [66.33.60.35] [133.659533ms] [HSTS,Vercel]
+
+## 308
+
+## 401
+
+## 403
+https://app.ithacaprotocol.io [403] [] [59] [Vercel] [216.150.16.129] [253.261147ms] [Vercel]
+https://odyssey.ithacaprotocol.io [403] [] [59] [Vercel] [66.33.60.35] [183.430484ms] [Vercel]
+https://solana.ithacaprotocol.io [403] [] [59] [Vercel] [76.76.21.123] [144.470941ms] [Vercel]
+https://relayer.intentx.io [403] [] [134] [403] [] [34.36.152.42] [google] [165.215072ms] [HTTP/3]
+https://testnet.ithacaprotocol.io [403] [] [59] [cloudflare] [104.26.13.22] [cloudflare] [81.37335ms] [Cloudflare,HTTP/3,Vercel]
+
+## 404
+https://blog.ithacaprotocol.io [404] [] [2627] [Site Not Found | Framer] [Framer/3824ea1] [31.43.161.6] [76.524767ms] [Framer Sites,HSTS,HTTP/3,React]
+https://befi.stoploss.intentx.io [404] [] [0] [Google Frontend] [34.49.198.182] [google] [238.587472ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]
+https://blast.intentx.io [404] [] [107] [Vercel] [66.33.60.130] [313.256357ms] [HSTS,Vercel]
+https://paper.intentx.io [404] [] [0] [cloudflare] [162.159.140.98] [cloudflare] [83.075237ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://legacy.intentx.io [404] [] [107] [Vercel] [66.33.60.129] [188.904418ms] [HSTS,Vercel]
+https://gw.intentx.io [404] [] [215] [cloudflare] [172.67.182.154] [cloudflare] [431.473657ms] [Cloudflare,Express,Google Cloud,Google Cloud CDN,Google Cloud Trace,HTTP/3,Node.js]
+https://stage.intentx.io [404] [] [107] [Vercel] [66.33.60.129] [103.054175ms] [HSTS,Vercel]
+https://quotecenterv2-uat.jaspervault.io [404] [] [22] [cloudflare] [172.66.0.96] [cloudflare] [752.482089ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://thena.stoploss.intentx.io [404] [] [0] [Google Frontend] [34.49.57.251] [google] [131.205071ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]
+https://quotecenterv2.jaspervault.io [404] [] [22] [cloudflare] [172.66.0.96] [cloudflare] [768.147582ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://stats.intentx.io [404] [] [107] [Vercel] [66.33.60.194] [308.891874ms] [HSTS,Vercel]
+https://stoploss.intentx.io [404] [] [0] [Google Frontend] [34.160.110.195] [google] [436.964246ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,HTTP/3]
+https://tv.intentx.io [404] [] [107] [Vercel] [66.33.60.67] [387.342648ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
