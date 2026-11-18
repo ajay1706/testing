@@ -1,0 +1,73 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:32:48 UTC 2026
+
+HTTPX lines: 50
+Live URLs: 50
+
+## 200
+https://calendar.thetanuts.finance [200] [] [14477] [Thetanuts Market Calendar] [cloudflare] [172.67.187.27] [cloudflare] [95.222197ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://analytics.synapseprotocol.com [200] [] [771] [Synapse Analytics] [cloudflare] [172.66.44.143] [cloudflare] [142.39457ms] [Cloudflare,HTTP/3]
+https://amm.thetanuts.finance [200] [] [10809] [Theta AMM — Build your app] [cloudflare] [104.21.84.57] [cloudflare] [131.145888ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://old.synapseprotocol.com [200] [] [1021] [Synapse] [cloudflare] [104.26.1.225] [cloudflare] [192.881878ms] [Cloudflare,Google Analytics]
+https://api.synapseprotocol.com [200] [] [20931] [cloudflare] [104.26.1.225] [cloudflare] [190.444119ms] [Cloudflare,Express,Node.js]
+https://app.thetanuts.finance [200] [] [2564] [Thetanuts] [Vercel] [216.150.1.1] [309.968295ms] [HSTS,Vercel]
+https://kb.thetanuts.finance [200] [] [15015] [Thetanuts Knowledge Base] [cloudflare] [172.67.187.27] [cloudflare] [239.750852ms] [Bootstrap:5.1.3,Cloudflare,Cloudflare Browser Insights,HTTP/3,jQuery,jsDelivr]
+https://bridge.synapseprotocol.com [200] [] [20053] [Synapse Protocol] [cloudflare] [104.26.0.225] [cloudflare] [181.523394ms] [Cloudflare]
+https://thetacow-assets.thetanuts.finance [200] [] [91] [cloudflare] [104.21.84.57] [cloudflare] [262.105308ms] [Cloudflare,HTTP/3]
+https://claim.thetanuts.finance [200] [] [7479] [Thetanuts Legacy Claims] [cloudflare] [104.21.84.57] [cloudflare] [310.346786ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,cdnjs]
+https://widget.synapseprotocol.com [200] [] [789] [Synapse] [cloudflare] [172.67.72.114] [cloudflare] [211.913235ms] [Cloudflare]
+https://analytics.thetanuts.finance [200] [] [1266] [Thetanuts Analytics] [cloudflare] [172.67.187.27] [cloudflare] [571.921073ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Netlify]
+https://pricing.thetanuts.finance [200] [] [99362] [cloudflare] [172.67.187.27] [cloudflare] [387.878026ms] [Cloudflare,HTTP/3]
+https://wallet.thetanuts.finance [200] [] [19523] [Thetanuts Wallet] [cloudflare] [172.67.187.27] [cloudflare] [355.06878ms] [Bootstrap,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://herd.thetanuts.finance [200] [] [6935] [ThetaHerd — Strategy infrastructure] [cloudflare] [172.67.187.27] [cloudflare] [827.202591ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dev.thetanuts.finance [200] [] [21142] [Thetanuts Developers — Build your next layer] [cloudflare] [172.67.187.27] [cloudflare] [985.314879ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://ranger.thetanuts.finance [200] [] [30793] [Ranger | Bet on Stability. Win Big.] [cloudflare] [172.67.187.27] [cloudflare] [999.264381ms] [Bootstrap:5.3.0,Cloudflare,Cloudflare Browser Insights,HTTP/3,jsDelivr]
+https://contracts.synapseprotocol.com [200] [] [319474] [console | Contracts] [cloudflare] [172.64.147.209] [cloudflare] [219.485311ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://audit.thetanuts.finance [200] [] [19212] [Continuous assurance · Thetanuts] [cloudflare] [104.21.84.57] [cloudflare] [1.193993217s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.thetanuts.finance [200] [] [437727] [Thetanuts V4 | Thetanuts Finance] [cloudflare] [104.21.84.57] [cloudflare] [177.014534ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.toros.finance [200] [] [393950] [Toros Documentation | Toros Finance] [cloudflare] [104.18.40.47] [cloudflare] [464.462845ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://forum.synapseprotocol.com [200] [] [38837] [Synapse Forum] [nginx] [157.180.47.135] [1.617462207s] [Flarum,HSTS,MySQL,Nginx,PHP]
+https://toros.finance [200] [] [595774] [Toros - Leveraged Tokens With Protections] [Vercel] [76.76.21.21] [409.87316ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://api-docs.thetanuts.finance [200] [] [17786] [ThetaNuts API Documentation] [cloudflare] [104.21.84.57] [cloudflare] [5.842445865s] [Bootstrap:5.1.3,Cloudflare,Cloudflare Browser Insights,HTTP/3,jQuery CDN,jQuery:3.6.0,jsDelivr]
+https://datafeed.thetanuts.finance [200] [] [14851591] [cloudflare] [172.67.187.27] [cloudflare] [3.120414008s] [Cloudflare,HTTP/3]
+
+## 301
+https://synapseprotocol.com [301] [https://hypercall.xyz/synapse] [0] [cloudflare] [172.67.72.114] [cloudflare] [122.479046ms] [Cloudflare]
+https://www.synapseprotocol.com [301] [https://hypercall.xyz/synapse] [0] [cloudflare] [104.26.1.225] [cloudflare] [108.558335ms] [Cloudflare]
+http://api.thetanuts.finance [301] [https://api.thetanuts.finance/] [534] [301 Moved Permanently] [cloudflare] [104.21.84.57] [cloudflare] [65.834111ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://staging.thetanuts.finance [301] [https://staging.thetanuts.finance/] [534] [301 Moved Permanently] [cloudflare] [172.67.187.27] [cloudflare] [41.842718ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://blog.toros.finance [302] [/private/?r=%2F] [37] [openresty] [151.101.131.7] [fastly] [132.261447ms] [Nginx,OpenResty,Varnish]
+https://thetanuts.finance [302] [https://app.thetanuts.finance/] [143] [302 Found] [cloudflare] [172.67.187.27] [cloudflare] [297.512665ms] [Cloudflare]
+https://auth.thetanuts.finance [302] [https://thetanuts.finance/] [48] [cloudflare] [172.67.187.27] [cloudflare] [571.575402ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+
+## 307
+https://early.toros.finance [307] [https://toros.finance/] [15] [Vercel] [66.33.60.194] [141.172338ms] [HSTS,Vercel]
+https://legacy.thetanuts.finance [307] [/blocked] [15] [Vercel] [216.150.16.129] [233.176499ms] [HSTS,Vercel]
+https://www.thetanuts.finance [307] [https://app.thetanuts.finance/] [15] [Vercel] [216.150.16.193] [233.444903ms] [HSTS,Vercel]
+
+## 308
+https://app.toros.finance [308] [https://toros.finance/] [15] [Vercel] [76.76.21.21] [189.907836ms] [HSTS,Vercel]
+https://www.toros.finance [308] [https://toros.finance/] [15] [Vercel] [76.76.21.21] [367.640472ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://option-analytics.thetanuts.finance [404] [] [63] [cloudflare] [104.21.84.57] [cloudflare] [101.924813ms] [Cloudflare,HTTP/3]
+https://rfq-indexer.synapseprotocol.com [404] [] [139] [Error] [cloudflare] [172.67.72.114] [cloudflare] [106.509098ms] [Cloudflare,Express,Node.js]
+https://indexer.thetanuts.finance [404] [] [21] [cloudflare] [104.21.84.57] [cloudflare] [115.47861ms] [Cloudflare,HTTP/3]
+https://interchain.synapseprotocol.com [404] [] [2627] [Site Not Found | Framer] [Framer/3824ea1] [31.43.161.6] [180.05399ms] [Framer Sites,HSTS,HTTP/3,React]
+https://stronghold.thetanuts.finance [404] [] [107] [Vercel] [66.33.60.67] [333.763578ms] [HSTS,Vercel]
+
+## 500
+https://base-rpc.thetanuts.finance [500] [] [94] [cloudflare] [104.21.84.57] [cloudflare] [258.479498ms] [Cloudflare,HTTP/3]
+
+## 502
+
+## 503
+https://logger.thetanuts.finance [503] [] [45] [cloudflare] [172.67.187.27] [cloudflare] [83.701554ms] [Cloudflare,HTTP/3]
+

@@ -1,0 +1,4 @@
+https://synapseprotocol.com [301] [https://hypercall.xyz/synapse] [0] [cloudflare] [172.67.72.114] [cloudflare] [122.479046ms] [Cloudflare]
+https://www.synapseprotocol.com [301] [https://hypercall.xyz/synapse] [0] [cloudflare] [104.26.1.225] [cloudflare] [108.558335ms] [Cloudflare]
+http://api.thetanuts.finance [301] [https://api.thetanuts.finance/] [534] [301 Moved Permanently] [cloudflare] [104.21.84.57] [cloudflare] [65.834111ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://staging.thetanuts.finance [301] [https://staging.thetanuts.finance/] [534] [301 Moved Permanently] [cloudflare] [172.67.187.27] [cloudflare] [41.842718ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
