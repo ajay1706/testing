@@ -1,0 +1,3 @@
+https://academy-api.hydrex.fi [403] [] [17] [cloudflare] [172.67.190.62] [cloudflare] [296.941001ms] [Cloudflare,HTTP/3]
+https://perps.jumper.xyz [403] [] [2622] [Jumper Perps] [cloudflare] [172.66.40.136] [cloudflare] [59.0381ms] [Cloudflare,HSTS]
+https://swapo-api.hydrex.fi [403] [] [17] [cloudflare] [216.24.57.18] [406.55123ms] [Cloudflare,HTTP/3]
