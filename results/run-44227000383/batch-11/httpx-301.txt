@@ -1,0 +1,2 @@
+http://autodiscover.synfutures.com [301] [https://autodiscover.synfutures.com/] [0] [Microsoft-HTTPAPI/2.0] [52.96.179.232] [11.050161ms] [Microsoft HTTPAPI:2.0]
+https://trade.synfutures.com [301] [http://oyster.synfutures.com/] [0] [AmazonS3] [52.85.193.118] [cloudfront] [208.380781ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
