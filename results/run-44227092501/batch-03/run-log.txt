@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:10:04 UTC 2026
+[+] Run ID: 44227092501
+[+] Batch name: batch-03
+[+] Batch targets:
+garden.finance
+hashflow.com
+hyperliquid.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:12:13 UTC 2026
+[+] HTTPX input count: 313
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:12:36 UTC 2026
+[+] httpx line count: 50
+[+] Batch completed: Wed Nov 18 07:12:36 UTC 2026
