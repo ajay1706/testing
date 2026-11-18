@@ -1,0 +1,1 @@
+https://dev3.archetype.blue [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev3.archetype.blue%2F&nonce=7be37075e1d9e27fc501997f99711ca009e00aebc7ed4a8127753fe9822f2f52] [263] [cloudflare] [104.26.13.68] [cloudflare] [399.111923ms] [Cloudflare,HSTS,Vercel]

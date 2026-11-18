@@ -1,0 +1,6 @@
+https://apii.archetype.blue [404] [] [101] [cloudflare] [104.26.13.68] [cloudflare] [297.814984ms] [Cloudflare]
+https://boards.archetype.blue [404] [] [101] [cloudflare] [104.26.13.68] [cloudflare] [358.25824ms] [Cloudflare]
+https://cicd.archetype.blue [404] [] [107] [cloudflare] [104.26.13.68] [cloudflare] [514.412505ms] [Cloudflare,HSTS,Vercel]
+https://local.archetype.blue [404] [] [65] [] [3.147.217.177] [365.786687ms]
+https://devapi.archetype.blue [404] [] [107] [cloudflare] [104.26.12.68] [cloudflare] [723.023141ms] [Cloudflare,HSTS,Vercel]
+https://mail.archetype.blue [404] [] [107] [cloudflare] [172.67.72.23] [cloudflare] [745.838866ms] [Cloudflare,HSTS,Vercel]
