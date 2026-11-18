@@ -1,0 +1,3 @@
+https://azverse.xyz [302] [https://www.azverse.xyz/] [0] [CloudFront] [13.32.164.30] [cloudfront] [171.713029ms] [Amazon CloudFront,Amazon Web Services]
+https://azx.azverse.xyz [302] [/en] [0] [CloudFront] [65.8.27.106] [cloudfront] [356.324987ms] [Amazon CloudFront,Amazon Web Services]
+https://email.azverse.xyz [302] [https://email.secureserver.net:443/auth] [110] [302 Found] [awselb/2.0] [76.223.17.250] [437.577339ms] [Amazon ELB,Amazon Web Services]
