@@ -1,0 +1,5 @@
+https://underdogprotocol.com [307] [https://app.underdogprotocol.com/] [15] [Vercel] [216.150.1.1] [254.864667ms] [HSTS,Vercel]
+https://dust.underdogprotocol.com [307] [https://mint.underdogprotocol.com/] [15] [Vercel] [66.33.60.35] [369.953144ms] [HSTS,Vercel]
+https://www.underdogprotocol.com [307] [https://app.underdogprotocol.com/] [15] [Vercel] [216.150.1.1] [371.896106ms] [HSTS,Vercel]
+https://id.underdogprotocol.com [307] [/signin?callbackUrl=%2F] [15] [Vercel] [66.33.60.66] [980.534943ms] [HSTS,Vercel]
+https://passport.underdogprotocol.com [307] [/signin?callbackUrl=%2F] [15] [Vercel] [76.76.21.93] [1.034038923s] [HSTS,Vercel]
