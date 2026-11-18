@@ -1,0 +1,8 @@
+https://apidocs.li.fi [301] [https://docs.li.fi/api-reference/introduction] [167] [301 Moved Permanently] [cloudflare] [172.66.41.9] [cloudflare] [258.145901ms] [Cloudflare,HSTS,HTTP/3]
+https://explorer.li.fi [301] [https://scan.li.fi/] [167] [301 Moved Permanently] [cloudflare] [172.66.42.247] [cloudflare] [100.290432ms] [Cloudflare,HSTS,HTTP/3]
+https://links.li.fi [301] [https://link3.to/lifi] [167] [301 Moved Permanently] [cloudflare] [172.66.41.9] [cloudflare] [96.777375ms] [Cloudflare,HSTS,HTTP/3]
+https://support.li.fi [301] [https://help.li.fi/hc/en-us/requests/new] [167] [301 Moved Permanently] [cloudflare] [172.66.42.247] [cloudflare] [163.850865ms] [Cloudflare,HSTS,HTTP/3]
+https://www.lfj.gg [301] [https://lfj.gg/] [167] [301 Moved Permanently] [cloudflare] [172.66.146.5] [cloudflare] [99.010179ms] [Cloudflare,HSTS,HTTP/3]
+http://aggregator-stats.kyberswap.com [301] [https://aggregator-stats.kyberswap.com/] [528] [301 Moved Permanently] [cloudflare] [104.20.39.32] [cloudflare] [27.633393ms] [Cloudflare,Cloudflare Browser Insights]
+http://arbitrum.kyberswap.com [301] [https://arbitrum.kyberswap.com/] [528] [301 Moved Permanently] [cloudflare] [104.20.39.32] [cloudflare] [27.653383ms] [Cloudflare,Cloudflare Browser Insights]
+http://cronos-subgraph.kyberswap.com [301] [https://cronos-subgraph.kyberswap.com/] [528] [301 Moved Permanently] [cloudflare] [104.20.39.32] [cloudflare] [26.606002ms] [Cloudflare,Cloudflare Browser Insights]
