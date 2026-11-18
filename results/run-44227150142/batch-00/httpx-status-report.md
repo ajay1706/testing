@@ -1,0 +1,48 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:15:44 UTC 2026
+
+HTTPX lines: 21
+Live URLs: 21
+
+## 200
+https://azguardwallet.io [200] [] [78321] [Aztec Wallet x Azguard: Secure & Private self-custody Web3 crypto wallet on Aztec Network] [cloudflare] [104.21.10.120] [cloudflare] [115.294146ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://support.airgap.it [200] [] [26248] [Introduction | AirGap Support] [cloudflare] [172.67.135.220] [cloudflare] [379.667931ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:2.0.0-beta.15,Fastly,GitHub Pages,HTTP/3,React,Varnish,Webpack]
+https://ha.arcticwallet.io [200] [] [78] [cloudflare] [104.21.71.201] [cloudflare] [499.498308ms] [Cloudflare,HSTS,HTTP/3]
+https://mail.airgap.it [200] [] [905] [[]] [cloudflare] [172.67.135.220] [cloudflare] [533.321643ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://shop.airgap.it [200] [] [540] [[]] [nginx] [94.126.17.100] [547.641363ms] [Nginx]
+https://cat-main.foundry.airgap.it [200] [] [2587] [Foundry] [nginx] [57.129.59.201] [574.683623ms] [Nginx]
+http://www.azguardwallet.io [200] [] [2356] [azguardwallet.io] [nginx] [217.70.184.50] [362.00542ms] [Nginx]
+https://cat-test.foundry.airgap.it [200] [] [2169] [Foundry] [nginx] [57.129.59.201] [679.982448ms] [Nginx]
+https://arcticwallet.io [200] [] [127265] [Arctic Wallet - Buy, Sell, Exchange your cryptocurrencies in one crypto wallet] [cloudflare] [172.67.171.159] [cloudflare] [620.08406ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://airgap.it [200] [] [177750] [AirGap - Self custody made simple and secure for all your crypto assets] [cloudflare] [172.67.135.220] [cloudflare] [816.743081ms] [Backbone.js,Cloudflare,Cloudflare Browser Insights,Google Analytics,Google Tag Manager,HTTP/3,Magnific Popup:9.6,MySQL,Ninja Forms:3.16.1,PHP,Underscore.js:1.13.8,WordPress,Yoast SEO:28.8,jQuery,reCAPTCHA,wpBakery]
+
+## 301
+https://www.airgap.it [301] [https://airgap.it/] [534] [301 Moved Permanently] [cloudflare] [104.21.26.103] [cloudflare] [56.765964ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://autodiscover.airgap.it [301] [https://autodiscover.airgap.it/] [0] [Microsoft-HTTPAPI/2.0] [52.96.182.120] [2.371077ms] [Microsoft HTTPAPI:2.0]
+https://www.arcticwallet.io [301] [https://arcticwallet.io] [533] [301 Moved Permanently] [cloudflare] [172.67.171.159] [cloudflare] [496.736304ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://rpc.sandbox.azguardwallet.io [301] [https://www.catta.com.br/] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [95.216.242.158] [816.793314ms] [Nginx:1.24.0,Ubuntu]
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://registry.testnet.azguardwallet.io [404] [] [146] [404 Not Found] [nginx] [65.109.12.123] [461.061237ms] [Nginx]
+
+## 500
+
+## 502
+https://staging.azguardwallet.io [502] [] [150] [502 Bad Gateway] [nginx] [37.27.140.243] [364.666806ms] [Nginx]
+https://rpc.sandbox-51337.azguardwallet.io [502] [] [552] [502 Bad Gateway] [nginx] [65.109.103.176] [366.10439ms] [Nginx]
+https://node.devnet.azguardwallet.io [502] [] [150] [502 Bad Gateway] [nginx] [65.109.12.123] [371.798755ms] [Nginx]
+https://node.testnet.azguardwallet.io [502] [] [150] [502 Bad Gateway] [nginx] [65.109.12.123] [471.060696ms] [Nginx]
+
+## 503
+

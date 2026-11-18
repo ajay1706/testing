@@ -1,0 +1,4 @@
+https://staging.azguardwallet.io [502] [] [150] [502 Bad Gateway] [nginx] [37.27.140.243] [364.666806ms] [Nginx]
+https://rpc.sandbox-51337.azguardwallet.io [502] [] [552] [502 Bad Gateway] [nginx] [65.109.103.176] [366.10439ms] [Nginx]
+https://node.devnet.azguardwallet.io [502] [] [150] [502 Bad Gateway] [nginx] [65.109.12.123] [371.798755ms] [Nginx]
+https://node.testnet.azguardwallet.io [502] [] [150] [502 Bad Gateway] [nginx] [65.109.12.123] [471.060696ms] [Nginx]
