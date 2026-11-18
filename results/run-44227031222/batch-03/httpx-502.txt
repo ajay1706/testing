@@ -1,0 +1,2 @@
+https://mcp2.test.figure.com [502] [] [332] [502 Server Error] [] [34.49.252.172] [google] [174.096346ms] [HTTP/3]
+https://mcp.test.figure.com [502] [] [332] [502 Server Error] [] [34.96.71.160] [google] [241.548829ms] [HTTP/3]
