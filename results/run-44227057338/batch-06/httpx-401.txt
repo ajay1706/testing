@@ -1,0 +1,3 @@
+https://admin.jtx.com [401] [] [15282] [Password Protected] [cloudflare] [172.67.72.177] [cloudflare] [159.008271ms] [Cloudflare,HSTS,Vercel]
+https://app-staging.jtx.com [401] [] [15282] [Password Protected] [cloudflare] [172.67.72.177] [cloudflare] [269.014842ms] [Cloudflare,HSTS,Vercel]
+https://preprod-app.jtx.com [401] [] [15548] [Protected Page] [cloudflare] [104.26.13.57] [cloudflare] [174.973645ms] [Cloudflare,HSTS,Vercel]
