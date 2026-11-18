@@ -1,0 +1,60 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 01:44:47 UTC 2026
+
+HTTPX lines: 34
+Live URLs: 34
+
+## 200
+https://de1-perp-test.openocean.finance [200] [] [2549] [De¹] [cloudflare] [172.67.72.14] [cloudflare] [237.235008ms] [Cloudflare,Cloudflare Browser Insights]
+https://explorer.ophis.fi [200] [] [4533] [Ophis Explorer: intent orders, trades, and settlement batches] [cloudflare] [172.67.183.54] [cloudflare] [263.800563ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://mcp.ophis.fi [200] [] [1035] [cloudflare] [104.21.51.175] [cloudflare] [337.71343ms] [Cloudflare,HSTS,HTTP/3]
+https://business.ophis.fi [200] [] [45745] [Ophis for Business: multi-chain swaps for desks & platforms] [cloudflare] [104.21.51.175] [cloudflare] [217.963613ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://docs.ophis.fi [200] [] [29372] [Ophis DEX Aggregator Documentation | Ophis Docs] [cloudflare] [104.21.51.175] [cloudflare] [227.306956ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.10.1,Google Analytics,HSTS,HTTP/3,React,Webpack]
+https://ophis.fi [200] [] [105749] [Ophis: MEV-protected swaps for agents and tokenized assets] [cloudflare] [172.67.183.54] [cloudflare] [197.118299ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://safe.ophis.fi [200] [] [3714] [Ophis Swap for Safe: MEV-protected, batch-settled token swaps] [cloudflare] [172.67.183.54] [cloudflare] [312.423072ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://app.openocean.finance [200] [] [7855] [OpenOcean｜Crypto Swap Aggregator｜Best swap returns for decentralized crypto trading] [cloudflare] [172.67.72.14] [cloudflare] [563.287833ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS]
+https://docs.openocean.finance [200] [] [2090] [Welcome to nginx!] [cloudflare] [104.26.3.88] [cloudflare] [623.625625ms] [Cloudflare,Cloudflare Browser Insights]
+https://pro.ophis.fi [200] [] [9583] [Ophis Business] [cloudflare] [172.67.183.54] [cloudflare] [644.02331ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://swap.ophis.fi [200] [] [12800] [Ophis: intent-based DEX aggregator, MEV-protected swaps] [cloudflare] [172.67.183.54] [cloudflare] [352.86122ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://proapi.openocean.finance [200] [] [2087] [Welcome to nginx!] [cloudflare] [104.26.2.88] [cloudflare] [907.274348ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://widget.openocean.finance [200] [] [2144] [cloudflare] [104.26.2.88] [cloudflare] [733.426066ms] [Cloudflare,Cloudflare Browser Insights]
+https://openocean.finance [200] [] [136738] [OpenOcean | Best DEX Aggregator for Decentralized Crypto Trading] [cloudflare] [104.26.2.88] [cloudflare] [948.459701ms] [Cloudflare,Cloudflare Browser Insights,Next.js,Node.js,React,Webpack]
+
+## 301
+https://apis.openocean.finance [301] [https://docs.openocean.finance/docs/swap-api/guide] [528] [301 Moved Permanently] [cloudflare] [172.67.72.14] [cloudflare] [351.86445ms] [Cloudflare,Cloudflare Browser Insights]
+https://blog.openocean.finance [301] [https://blog.openocean.finance/] [889] [301 Moved Permanently] [cloudflare] [162.159.152.4] [cloudflare] [357.807738ms] [Cloudflare,Cloudflare Browser Insights]
+https://autoconfig.pebbles.cash [301] [https://privateemail.com/] [0] [cloudflare] [104.21.21.157] [cloudflare] [492.402211ms] [Cloudflare,HSTS,HTTP/3]
+https://mail.pebbles.cash [301] [https://privateemail.com/] [0] [cloudflare] [104.21.21.157] [cloudflare] [606.930447ms] [Cloudflare,HSTS,HTTP/3]
+https://autodiscover.pebbles.cash [301] [https://privateemail.com/] [0] [cloudflare] [104.21.21.157] [cloudflare] [640.081067ms] [Cloudflare,HSTS,HTTP/3]
+https://www.ophis.fi [301] [https://ophis.fi/] [167] [301 Moved Permanently] [cloudflare] [104.21.51.175] [cloudflare] [396.278764ms] [Cloudflare,HSTS]
+https://www.openocean.finance [301] [https://openocean.finance/] [523] [301 Moved Permanently] [cloudflare] [104.26.3.88] [cloudflare] [548.593735ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 302
+https://dashboard.openocean.finance [302] [https://opbest.cloudflareaccess.com/cdn-cgi/access/login/dashboard.openocean.finance?kid=dc74f8b7a0079efc2756d7e4641f77c69f8d9ce77bf757f9c720d642f067bd6a&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjNkMGI0NDcwOWIwZGZjNzU0MTgyYTM2ZDVlMWRhYTY3NjU3YWZlOGNkYTNkNzA0ODc0MTg1ZTZjMDQ5ZGY0ODcifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImRjNzRmOGI3YTAwNzllZmMyNzU2ZDdlNDY0MWY3N2M2OWY4ZDljZTc3YmY3NTdmOWM3MjBkNjQyZjA2N2JkNmEiLCJob3N0bmFtZSI6ImRhc2hib2FyZC5vcGVub2NlYW4uZmluYW5jZSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk0OTY2NTg0LCJuYmYiOjE3OTQ5NjYyODQsImlhdCI6MTc5NDk2NjI4NCwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6Ijg0ZWZjZjhmNjk5NTc5MjMwYzAyMDkzYjQwZjNmYjRiYWU2NGMyODYyOWNhMDFkYjMzODYyZGQxY2RiM2MzOGQifQ.1JQhPODYzLi3F3O41ODfOl27YhNxd5c43pnPpAZ89F2rKz8ndBvQuLk400fXcT_zNBs3fI9W6q8S_JyIiz7mpsKIp9JWIrE17_ujhAx6y6K5y1DwSFc9UKLradwy7uR6ivNYErWtpsz3VLQ-v6feVVnnKP8Gw0-DTx2buRb7s3fAOoVl5dJsnYj5tONjzS9GcNFkUQ8ler3GU5wGo-rhfho8LqfvvEQ73mhrP76xQolhprGuu6ONXqxYBsOgRPJHx-z1a1nEuUjXcTCzbY7yhc1gTTir8L0BG2tK4GSOPlXVmckoWpLpXiBjx19otvxANiD7daUVD53vfE5Zayfq7g&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.26.3.88] [cloudflare] [128.808071ms] [Cloudflare,Cloudflare Browser Insights]
+https://kibana.openocean.finance [302] [https://opbest.cloudflareaccess.com/cdn-cgi/access/login/kibana.openocean.finance?kid=401a6300ce16f9b81ba75b468cefcd1344c517f32668d182b2301658c44e24ba&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjNkMGI0NDcwOWIwZGZjNzU0MTgyYTM2ZDVlMWRhYTY3NjU3YWZlOGNkYTNkNzA0ODc0MTg1ZTZjMDQ5ZGY0ODcifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjQwMWE2MzAwY2UxNmY5YjgxYmE3NWI0NjhjZWZjZDEzNDRjNTE3ZjMyNjY4ZDE4MmIyMzAxNjU4YzQ0ZTI0YmEiLCJob3N0bmFtZSI6ImtpYmFuYS5vcGVub2NlYW4uZmluYW5jZSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk0OTY2NTg0LCJuYmYiOjE3OTQ5NjYyODQsImlhdCI6MTc5NDk2NjI4NCwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6ImJmY2M3NDg1YTE5Y2I2YmEyNDQ5ZmQyMWJkYTVhOWNhODIxZTBmODZmNDQ5M2FhNjZmYjJhM2Y2NzJmOGUwNGYifQ.MhJEQCTBSKupWcSpa4fQQsQPTBJ_-s2i5OXm3f2aeD8nphU1Wot-F9cJI6T-cY1SW7F_U-8Www1CGkKVV_7NcowqxRKCIvj_UiYYbCZQK98-lNzuK4xP8CgkPBhrf_SxF4pElQ3YDUc_K1OO-nLvb71wWArBWL3Fi6IMMqyiBjkAFGcnxVHgRGrPpPwxwQAMtqy-7i5Jwj1SwavnscNPcAsfvzjCpjPsTeCMCbiIFBRigMRQH6qpT0kl-lrBRIfvyZQCRXbf5v1dl9EXbintguh0_OR3c9x3iV6go9NXkxjeE6v3fOkdQX-T4kEvCqcVKYEnCqx0_3bD3UXJbtQpMw&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.26.2.88] [cloudflare] [152.143031ms] [Cloudflare,Cloudflare Browser Insights]
+https://grafana.openocean.finance [302] [https://opbest.cloudflareaccess.com/cdn-cgi/access/login/grafana.openocean.finance?kid=401a6300ce16f9b81ba75b468cefcd1344c517f32668d182b2301658c44e24ba&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjNkMGI0NDcwOWIwZGZjNzU0MTgyYTM2ZDVlMWRhYTY3NjU3YWZlOGNkYTNkNzA0ODc0MTg1ZTZjMDQ5ZGY0ODcifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjQwMWE2MzAwY2UxNmY5YjgxYmE3NWI0NjhjZWZjZDEzNDRjNTE3ZjMyNjY4ZDE4MmIyMzAxNjU4YzQ0ZTI0YmEiLCJob3N0bmFtZSI6ImdyYWZhbmEub3Blbm9jZWFuLmZpbmFuY2UiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NDk2NjU4NCwibmJmIjoxNzk0OTY2Mjg0LCJpYXQiOjE3OTQ5NjYyODQsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJmYTBkZjk3MzFmNjFmNTc5YWQxYTA1MGRmYWMwYmJlYWNiZTZlNzk3ZDZmMjU1YzhmNmIwNTdlNWMwNWZjNDZmIn0.ecy9X-uYniBMfIns6YPEgvMNBYvlgF0Nh3qSM5CA4CvtGQpghzcJXKCTMCpRh2EWQ1P51mraLt8gXXMmuGEHZz2uWWip9_IpIhPLLP3k9NwWwHE4TlDsV-_Aun0E34EBSUXmRf5aoNHz1yiX-ghptY53U_mvRxTLkLXQBR9aiUzU-pyJu2PmDNS62_hLIqZA5FsCus2fITruzWT0bgGxnpMTIzF9ow7jvIsvqYPKdrqn-ZqErO65W9jdLUtl1-ZJrVUcoYQaNkLTtb-pb0S_rR0WVT56FQZHjbJf916olIV1xNp2UEXznwtTUrT7guGow6I7eyVLLF6tn-usk5yPHA&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.26.2.88] [cloudflare] [310.220524ms] [Cloudflare,Cloudflare Browser Insights]
+https://operator.ophis.fi [302] [https://oclawd.cloudflareaccess.com/cdn-cgi/access/login/operator.ophis.fi?kid=2390d7bef31c3a72b31f432568855e693ce97bc2fc0aca8020c5448e0c269e3e&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImI3MTY2ZjU2MDlhNjYwYzhmNzYzZDNlOWMyZTk3MDY4OGFmNGM2MGZjZmNkNmY2YzM1MjMwMjA5M2ZmMTA1MjMifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjIzOTBkN2JlZjMxYzNhNzJiMzFmNDMyNTY4ODU1ZTY5M2NlOTdiYzJmYzBhY2E4MDIwYzU0NDhlMGMyNjllM2UiLCJob3N0bmFtZSI6Im9wZXJhdG9yLm9waGlzLmZpIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTQ5NjY1ODQsIm5iZiI6MTc5NDk2NjI4NCwiaWF0IjoxNzk0OTY2Mjg0LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiYzY1YjhhYWYzMGVhMTBmOGI3ZTZjYjM0YmVhYmEwNjYwNWMyY2NiMDBkNzk1NzAzZGJjMTI0YWEzOGFmYjNkYyJ9.Ulrh0S2OueySw0kOTQjd1pyhhNje765z64cST766Lo-A580NiUZEKExhNTGA64_Igp38KTXb0aPoY2KL5YGdo-P-TYeSZuVVPAgNmFeBiplwry5nbymhKbKONXq1oyJoWnAqnrE81qoOcZVVV_CN7XaYYvg7Nz0tGgFZn2SH3IRjy63ead8z0IB-vqiF79eLrpRIjj9obaEcmwCAE5rw0ACUZfu-D56EQeR9LqTakshGMnV0j6tRLNIWn_dG5PwALIXgN2lDTkDw2pASByTYnJHv7x_Iae7To38pfoqSc9MWb-cDaeDIv1JNLSIBlVpbdkdq-jqY4IgyEP4N7BA9Ag&redirect_url=%2F] [510] [302 Found] [cloudflare] [104.21.51.175] [cloudflare] [340.559758ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://api.pebbles.cash [403] [] [23] [cloudflare] [172.67.199.86] [cloudflare] [527.050948ms] [Cloudflare,HTTP/3]
+https://s3.openocean.finance [403] [] [263] [cloudflare] [104.26.3.88] [cloudflare] [429.641459ms] [Amazon Web Services,Cloudflare]
+https://ethapi.openocean.finance [403] [] [2023] [403 Forbidden] [cloudflare] [104.26.3.88] [cloudflare] [696.059455ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 404
+https://compat.ophis.fi [404] [] [358] [cloudflare] [104.21.51.175] [cloudflare] [253.385781ms] [Cloudflare,HSTS,HTTP/3]
+https://open-api.openocean.finance [404] [] [1497] [cloudflare] [104.26.3.88] [cloudflare] [641.056134ms] [Cloudflare,Cloudflare Browser Insights]
+https://sign.ophis.fi [404] [] [9] [cloudflare] [172.67.183.54] [cloudflare] [418.241277ms] [Cloudflare,HSTS,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
