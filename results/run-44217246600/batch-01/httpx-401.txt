@@ -1,0 +1,3 @@
+https://api.archetype.blue [401] [] [226] [cloudflare] [104.26.12.68] [cloudflare] [168.194726ms] [Cloudflare]
+https://cfdev.archetype.blue [401] [] [31] [cloudflare] [104.26.12.68] [cloudflare] [363.821577ms] [Cloudflare]
+https://cf.archetype.blue [401] [] [31] [cloudflare] [104.26.12.68] [cloudflare] [364.184014ms] [Cloudflare]
