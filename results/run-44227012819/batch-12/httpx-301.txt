@@ -1,0 +1,6 @@
+http://demov2.truefinance.ai [301] [https://demov2.truefinance.ai:443/] [0] [] [34.111.179.208] [google] [30.136544ms]
+https://docs.truefinance.ai [301] [/en/docs/overview/] [0] [cloudflare] [172.66.43.184] [cloudflare] [789.251898ms] [Cloudflare]
+https://mirror.upscale.trade [301] [https://app.upscale.trade/] [167] [301 Moved Permanently] [cloudflare] [172.67.179.234] [cloudflare] [129.083505ms] [Cloudflare]
+http://www.preprod.upscale.trade [301] [https://www.preprod.upscale.trade/] [534] [301 Moved Permanently] [cloudflare] [172.67.179.234] [cloudflare] [36.147053ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+https://www.truefinance.ai [301] [https://truefinance.ai/] [528] [301 Moved Permanently] [cloudflare] [172.66.40.72] [cloudflare] [128.952411ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.upscale.trade [301] [https://upscale.trade/] [167] [301 Moved Permanently] [cloudflare] [172.67.179.234] [cloudflare] [143.784348ms] [Cloudflare]

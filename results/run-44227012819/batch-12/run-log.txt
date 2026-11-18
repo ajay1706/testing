@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:31:01 UTC 2026
+[+] Run ID: 44227012819
+[+] Batch name: batch-12
+[+] Batch targets:
+truefinance.ai
+upscale.trade
+uxuy.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:32:32 UTC 2026
+[+] HTTPX input count: 235
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:32:57 UTC 2026
+[+] httpx line count: 75
+[+] Batch completed: Wed Nov 18 07:32:57 UTC 2026
