@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:35:10 UTC 2026
+[+] Run ID: 44227092501
+[+] Batch name: batch-12
+[+] Batch targets:
+tinyman.org
+velar.com
+vestige.fi
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:36:06 UTC 2026
+[+] HTTPX input count: 75
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:36:18 UTC 2026
+[+] httpx line count: 35
+[+] Batch completed: Wed Nov 18 07:36:18 UTC 2026

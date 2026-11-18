@@ -1,0 +1,3 @@
+https://testnet.analytics.tinyman.org [502] [] [122] [502 Bad Gateway] [awselb/2.0] [63.189.65.29] [1.731569641s] [Amazon ELB,Amazon Web Services]
+https://staging.tinyman.org [502] [] [524] [502 Bad Gateway] [awselb/2.0] [63.189.65.29] [1.731510992s] [Amazon ELB,Amazon Web Services]
+http://testnet.tinyman.org [502] [] [122] [502 Bad Gateway] [awselb/2.0] [63.189.65.29] [940.83159ms] [Amazon ELB,Amazon Web Services]
