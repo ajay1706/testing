@@ -1,0 +1,7 @@
+https://astrid.sandbox.broadridge.com [500] [] [527] [500 Internal Server Error] [] [143.204.1.51] [cloudfront] [510.482213ms] [Amazon CloudFront,Amazon Web Services]
+https://brwddevasso.dataphile.broadridge.com [500] [] [527] [500 Internal Server Error] [] [52.84.158.96] [cloudfront] [405.610368ms] [Amazon CloudFront,Amazon Web Services]
+https://drrcaqua.dataphile.broadridge.com [500] [] [527] [500 Internal Server Error] [Apache] [167.212.9.34] [458.895603ms] [Apache HTTP Server]
+https://next.sandbox.broadridge.com [500] [] [527] [500 Internal Server Error] [] [143.204.1.113] [cloudfront] [481.993223ms] [Amazon CloudFront,Amazon Web Services]
+https://qa.advwkstn.broadridge.com [500] [] [628] [CA Access Gateway - Error Report] [Apache] [3.82.167.230] [250.451774ms] [Apache HTTP Server]
+https://ui-v2.infocus-platform.broadridge.com [500] [] [628] [CA Access Gateway - Error Report] [Apache] [52.200.205.215] [292.037434ms] [Apache HTTP Server]
+https://ui-v2.uat.infocus-platform.broadridge.com [500] [] [628] [CA Access Gateway - Error Report] [Apache] [3.82.167.230] [299.440921ms] [Apache HTTP Server]
