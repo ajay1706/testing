@@ -1,0 +1,7 @@
+https://app.tokemak.xyz [308] [https://app.auto.finance/] [15] [Vercel] [66.33.60.130] [44.865974ms] [HSTS,Vercel]
+http://developer.synthetix.io [308] [https://developer.synthetix.io/] [14] [Vercel] [216.150.16.193] [260.746595ms] [Vercel]
+http://developers.synthetix.io [308] [https://developers.synthetix.io/] [14] [Vercel] [216.150.16.193] [4.024107179s] [Vercel]
+http://mail.synthetix.io [308] [https://mail.synthetix.io/] [0] [Caddy] [35.198.93.67] [google] [181.535726ms] [Caddy]
+http://legacy-staking.synthetix.io [308] [https://legacy-staking.synthetix.io/] [14] [Vercel] [216.150.16.193] [1.102223863s] [Vercel]
+http://leverage.synthetix.io [308] [https://leverage.synthetix.io/] [14] [Vercel] [216.150.16.129] [2.02266864s] [Vercel]
+https://www.synthetix.io [308] [https://synthetix.io/] [15] [Vercel] [216.150.16.1] [2.111209173s] [HSTS,Vercel]
