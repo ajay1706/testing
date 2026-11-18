@@ -1,0 +1,45 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:29:40 UTC 2026
+
+HTTPX lines: 18
+Live URLs: 18
+
+## 200
+https://web.petra.app [200] [] [29546] [Petra Web - Connect securely to your favorite dApps] [] [34.107.170.114] [google] [166.432389ms] [Firebase,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://vault.petra.app [200] [] [29286] [Login to Petra Vault] [Vercel] [66.33.60.194] [310.202755ms] [HSTS,RxJS,Vercel]
+https://balance-changes.petra.app [200] [] [11758] [Vercel] [66.33.60.129] [457.721315ms] [HSTS,Vercel]
+https://staging.web.petra.app [200] [] [29703] [Petra Web - Connect securely to your favorite dApps] [] [34.36.210.38] [google] [198.07018ms] [Firebase,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://petra.app [200] [] [84295] [Petra] [Vercel] [76.76.21.21] [186.335758ms] [HSTS,Vercel]
+https://giantx.novawallet.io [200] [] [133968] [GiantX x Nova Wallet | Gaming PC Giveaway] [Vercel] [76.76.21.142] [488.383929ms] [HSTS,Vercel]
+https://card.novawallet.io [200] [] [431553] [Get your Polkadot debit card with Nova Wallet!] [cloudflare] [104.26.6.229] [cloudflare] [356.392481ms] [Cloudflare,Cloudflare Browser Insights,Framer Sites,Google Analytics,HSTS,React]
+https://novawallet.io [200] [] [1176915] [Polkadot Wallet — The Best Mobile Wallet for DOT | Nova Wallet] [cloudflare] [172.67.71.156] [cloudflare] [268.74355ms] [Cloudflare,Cloudflare Browser Insights,Framer Sites,Google Analytics,HSTS,React]
+https://dev.novawallet.io [200] [] [1231535] [Nova Wallet — The Leading Mobile Wallet for Polkadot] [cloudflare] [172.67.71.156] [cloudflare] [339.504421ms] [Cloudflare,Cloudflare Browser Insights,Framer Sites,React,cdnjs]
+https://app.novawallet.io [200] [] [1231535] [Nova Wallet — The Leading Mobile Wallet for Polkadot] [cloudflare] [104.26.7.229] [cloudflare] [390.369686ms] [Cloudflare,Cloudflare Browser Insights,Framer Sites,React,cdnjs]
+
+## 301
+
+## 302
+
+## 307
+https://docs.novawallet.io [307] [https://docs.novawallet.io/nova-wallet-wiki/] [15] [cloudflare] [104.18.40.47] [cloudflare] [162.102181ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://www.novawallet.io [308] [https://novawallet.io/] [58] [Framer/3824ea1] [31.43.161.6] [256.354501ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.petra.app [308] [https://petra.app/] [15] [Vercel] [66.33.60.194] [299.239124ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://staging.notifications.petra.app [404] [] [117] [] [8.232.186.88] [google] [167.971626ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://www.staging.web.petra.app [404] [] [21265] [Site Not Found] [] [34.36.210.38] [google] [207.42346ms] [Firebase,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://www.web.petra.app [404] [] [21265] [Site Not Found] [] [34.107.170.114] [google] [310.808157ms] [Firebase,Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
