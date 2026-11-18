@@ -1,0 +1,62 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 01:39:58 UTC 2026
+
+HTTPX lines: 33
+Live URLs: 33
+
+## 200
+https://sdk-webview.yodl.me [200] [] [4234] [Yodl Pay Miniapp] [Vercel] [216.150.1.129] [501.180244ms] [HSTS,Vercel]
+https://dapp.yodl.me [200] [] [4234] [Yodl Pay Miniapp] [Vercel] [216.150.16.1] [523.629914ms] [HSTS,Vercel]
+https://mtpelerin.yodl.me [200] [] [5813] [mtpelerin-adapter] [Vercel] [216.150.1.193] [468.198821ms] [HSTS,Vercel]
+https://webhook-fanout.yodl.me [200] [] [3679] [Webhook Proxy] [Vercel] [216.150.16.193] [586.41689ms] [HSTS,Vercel]
+https://bcpilot.yodl.me [200] [] [14347] [Yodl Pay] [Vercel] [216.150.1.1] [523.912719ms] [HSTS,Vercel]
+https://noea.yodl.me [200] [] [14615] [Yodl Pay] [Vercel] [66.33.60.66] [584.788877ms] [HSTS,Vercel]
+https://og.yodl.me [200] [] [7704] [Yodl Preview Card Generator] [Vercel] [66.33.60.130] [732.851512ms] [HSTS,Vercel]
+https://hs.yodl.me [200] [] [7717] [Holdstation Adapter] [Vercel] [216.150.16.129] [649.316325ms] [HSTS,Vercel]
+https://manteca.yodl.me [200] [] [14123] [Yodl Pay] [Vercel] [216.150.1.1] [522.518728ms] [HSTS,Vercel]
+https://docs.yodl.me [200] [] [40071] [Yodl SDK – Yodl Pay] [Vercel] [216.150.1.129] [649.557175ms] [HSTS,Vercel,Vue.js]
+https://bcvsdk.yodl.me [200] [] [14233] [Yodl Pay] [Vercel] [216.150.1.193] [755.866503ms] [HSTS,Vercel]
+https://lander.yodl.me [200] [] [127251] [Pay like a local. Anywhere. · Yodl] [Vercel] [66.33.60.194] [213.93648ms] [Astro:7.0.7,Google Analytics,HSTS,Vercel]
+https://mock.yodl.me [200] [] [20391] [Mock Adapter] [Vercel] [216.150.16.193] [944.734964ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://yodl.me [200] [] [127251] [Pay like a local. Anywhere. · Yodl] [Vercel] [76.76.21.21] [195.161801ms] [Astro:7.0.7,Google Analytics,HSTS,Vercel]
+https://bcpilot-sbx.yodl.me [200] [] [13814] [Yodl Pay] [Vercel] [216.150.16.193] [1.590766989s] [HSTS,Vercel]
+https://manteca-sbx.yodl.me [200] [] [14262] [Yodl Pay] [Vercel] [216.150.1.193] [1.621869072s] [HSTS,Vercel]
+https://lite-sandbox.yodl.me [200] [] [38370] [Yodl Pay] [Vercel] [216.150.1.193] [4.049192049s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://content.yodl.me [301] [https://yodl.me/] [15] [Vercel] [76.76.21.98] [194.290005ms] [HSTS,Vercel]
+https://www.yodl.me [301] [https://yodl.me/] [15] [Vercel] [66.33.60.67] [195.106829ms] [HSTS,Vercel]
+
+## 302
+https://internaldocs.yodl.me [302] [https://yodlpay.cloudflareaccess.com/cdn-cgi/access/login/internaldocs.yodl.me?kid=06ca476e174fbff91905dfbdc6d707b0578dc532531eba02e7e6a0a69d7ffe41&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImY2ZmY5ZjU3MDA5ZDBiYWU1MjdkMjE3NjI3ZjMzNTU3MTE5MGU1MjU1ZDk0NmM1ZGY3ZDFlNjU5YThmYzYyNzIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjA2Y2E0NzZlMTc0ZmJmZjkxOTA1ZGZiZGM2ZDcwN2IwNTc4ZGM1MzI1MzFlYmEwMmU3ZTZhMGE2OWQ3ZmZlNDEiLCJob3N0bmFtZSI6ImludGVybmFsZG9jcy55b2RsLm1lIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTQ5NjYyNzgsIm5iZiI6MTc5NDk2NTk3OCwiaWF0IjoxNzk0OTY1OTc4LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiNGI1NzFiY2JkYTY5YmZjMDQzMjU4NzU1ZWRkNTNmMjY1NDU4YTFiY2Q0YTNkMGVlMTZkZjRlOWE1Mzg5ZTliZSJ9.SS2t9WNpVR3Bulc-urKoQYzltNNc_XUeAuGvl6cYCiEDuB6vQBpuAiym19GYBWbsXysCrkoLw0-gM7zYjlxWId-t-OD_-iwJ_ac7TnESkXWHqondaTTmTlugXp6icIUZlisfLX8f-AaKE-oDDOVQMkffX2nYWIvHkeUWIaAprO-O4EqGNnU8btstADd_VTITAUsf-tBcTKiIDuLE67E3pMS87GKXrZe-DR__JiJO9G09XYH2xPoE2nWTvIgkc3p13NfJPsffSTngp4hlzcVVef7i-i56UQv4RAz1OoyftBUFOv51Vj7SYYMM1ZMYn57xTKivMhkKTEfm3ulZ9dA2ug&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.21.1.230] [cloudflare] [226.572845ms] [Cloudflare,HTTP/3]
+https://status.yodl.me [302] [https://incidents.betterstack.com] [0] [] [167.235.220.62] [983.312843ms] [Amazon S3,Amazon Web Services,HSTS]
+
+## 307
+https://processors.yodl.me [307] [/p] [15] [Vercel] [216.150.16.1] [252.453214ms] [HSTS,Vercel]
+https://sdk-hosts.yodl.me [307] [/a] [15] [Vercel] [216.150.16.193] [346.904306ms] [HSTS,Vercel]
+https://tg.yodl.me [307] [/api] [15] [Vercel] [66.33.60.34] [410.322338ms] [HSTS,Vercel]
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://privy.yodl.me [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [89.900191ms] [Cloudflare,Cloudflare Bot Management]
+https://mini.yodl.me [404] [] [107] [Vercel] [216.150.1.193] [595.394272ms] [HSTS,Vercel]
+https://app.yodl.me [404] [] [9733] [404: This page could not be found.] [Vercel] [216.150.16.129] [392.557213ms] [HSTS,Vercel]
+https://holdstation-onramp.yodl.me [404] [] [107] [Vercel] [216.150.1.129] [661.677556ms] [HSTS,Vercel]
+https://gaian.yodl.me [404] [] [8905] [404: This page could not be found.] [Vercel] [216.150.1.1] [481.235907ms] [HSTS,Vercel]
+https://api.yodl.me [404] [] [9733] [404: This page could not be found.] [Vercel] [216.150.1.193] [392.013627ms] [HSTS,Vercel]
+https://lite.yodl.me [404] [] [9733] [404: This page could not be found.] [Vercel] [216.150.1.129] [392.698914ms] [HSTS,Vercel]
+https://firehose-api.yodl.me [404] [] [19] [] [5.223.63.187] [856.590383ms]
+https://tx.yodl.me [404] [] [6825] [404: This page could not be found.] [Vercel] [76.76.21.98] [776.058008ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
