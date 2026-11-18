@@ -1,0 +1,3 @@
+https://grafana.unstoppable.money [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [143.198.127.234] [274.046666ms] [Nginx:1.24.0,Ubuntu]
+https://app.unstoppable.money [502] [] [584] [502 Bad Gateway] [nginx/1.14.0 (Ubuntu)] [178.62.214.140] [501.769662ms] [Nginx:1.14.0,Ubuntu]
+https://tcdev.unstoppable.money [502] [] [166] [502 Bad Gateway] [nginx/1.28.3 (Ubuntu)] [89.167.36.112] [601.532278ms] [Nginx:1.28.3,Ubuntu]
