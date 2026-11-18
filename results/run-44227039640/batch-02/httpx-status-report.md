@@ -1,0 +1,60 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:06:10 UTC 2026
+
+HTTPX lines: 32
+Live URLs: 32
+
+## 200
+https://admin.csigma.finance [200] [] [1963] [Coming Soon] [Apache] [173.201.184.189] [169.01268ms] [Apache HTTP Server]
+https://demo.cashlink.de [200] [] [691] [nginx/1.24.0] [3.121.124.44] [451.635005ms] [Nginx:1.24.0]
+https://connect.cashlink.de [200] [] [691] [nginx/1.24.0] [52.29.101.82] [473.017702ms] [Nginx:1.24.0]
+https://documents.cashlink.de [200] [] [691] [nginx/1.24.0] [3.66.74.35] [545.893613ms] [Nginx:1.24.0]
+https://invest.cashlink.de [200] [] [691] [nginx/1.24.0] [63.188.33.217] [575.916002ms] [Nginx:1.24.0]
+https://whm.csigma.finance [200] [] [100859] [Hide_khan] [Framer/3824ea1] [31.43.161.6] [359.643955ms] [Framer Sites,HSTS,HTTP/3,React]
+https://webdisk.admin.csigma.finance [200] [] [100868] [Hide_khan] [Framer/3824ea1] [31.43.160.6] [357.134298ms] [Framer Sites,HSTS,HTTP/3,React]
+https://webdisk.csigma.finance [200] [] [100875] [Hide_khan] [Framer/3824ea1] [31.43.160.6] [360.233521ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.csigma.finance [200] [] [377836] [cSigma Finance | The home of RWA and DeFi yields.] [Framer/3824ea1] [31.43.160.6] [497.531158ms] [Framer Sites,Google Analytics,Google Tag Manager,HSTS,HTTP/3,React]
+
+## 301
+https://wp.digift.sg [301] [https://insights.digift.io/] [0] [nginx] [192.0.78.180] [75.629668ms] [HSTS,Nginx]
+https://insights.digift.sg [301] [https://insights.digift.io/] [0] [nginx] [192.0.78.251] [81.56558ms] [HSTS,Nginx]
+https://support.digift.sg [301] [https://support.digift.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.7.112] [cloudflare] [92.467387ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+http://autodiscover.csigma.finance [301] [https://autodiscover.csigma.finance/] [0] [Microsoft-HTTPAPI/2.0] [52.96.230.72] [1.710108ms] [Microsoft HTTPAPI:2.0]
+https://www.insights.digift.sg [301] [https://insights.digift.sg/] [162] [301 Moved Permanently] [nginx] [192.0.78.251] [71.197338ms] [Nginx]
+https://www.wp.digift.sg [301] [https://wp.digift.sg/] [162] [301 Moved Permanently] [nginx] [192.0.78.234] [114.378725ms] [HSTS,Nginx]
+https://www.cashlink.de [301] [https://cashlink.de/] [0] [nginx] [185.175.196.25] [687.89593ms] [Nginx]
+https://docs.cashlink.de [301] [https://cashlink-tracking.atlassian.net:443/servicedesk/customer/portal/1] [134] [301 Moved Permanently] [awselb/2.0] [52.29.101.82] [713.461857ms] [Amazon ELB,Amazon Web Services]
+https://digift.sg [301] [https://www.digift.io/] [523] [301 Moved Permanently] [cloudflare] [172.67.68.101] [cloudflare] [762.735055ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://www.digift.sg [301] [https://www.digift.io/] [523] [301 Moved Permanently] [cloudflare] [172.67.68.101] [cloudflare] [724.507912ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://mail.csigma.finance [301] [https://csigma.finance/] [0] [Apache] [173.201.184.189] [1.944213241s] [Apache HTTP Server,PHP:7.4.33]
+
+## 302
+https://email.csigma.finance [302] [https://email.secureserver.net:443/auth] [110] [302 Found] [awselb/2.0] [76.223.17.250] [189.121628ms] [Amazon ELB,Amazon Web Services]
+https://cashlink.de [302] [https://cashlink.de/de/] [0] [nginx] [185.175.196.25] [832.057392ms] [HSTS,Nginx]
+
+## 307
+
+## 308
+https://csigma.finance [308] [https://www.csigma.finance/] [63] [cloudflare] [104.26.12.57] [cloudflare] [400.955863ms] [Cloudflare,HSTS]
+http://www.admin.csigma.finance [308] [https://www.admin.csigma.finance/] [0] [] [31.43.160.6] [104.722987ms] [HSTS,HTTP/3]
+
+## 401
+
+## 403
+https://edge.csigma.finance [403] [] [13242] [cSigma Finance] [cloudflare] [172.67.72.177] [cloudflare] [114.556032ms] [Cloudflare,Cloudflare Browser Insights]
+https://app.csigma.finance [403] [] [13242] [cSigma Finance] [cloudflare] [104.26.13.57] [cloudflare] [144.546087ms] [Cloudflare,Cloudflare Browser Insights]
+https://api.csigma.finance [403] [] [83] [cloudflare] [172.67.72.177] [cloudflare] [472.971775ms] [Cloudflare,HSTS]
+https://digift-public.digift.sg [403] [] [358] [cloudflare] [104.26.6.112] [cloudflare] [687.498652ms] [Alibaba Cloud Object Storage Service,Cloudflare,HSTS]
+https://doc.digift.sg [403] [] [348] [cloudflare] [172.67.68.101] [cloudflare] [713.416756ms] [Alibaba Cloud Object Storage Service,Cloudflare,HSTS]
+https://doc-private.digift.sg [403] [] [361] [cloudflare] [104.26.6.112] [cloudflare] [1.660494395s] [Alibaba Cloud Object Storage Service,Cloudflare,HSTS]
+https://digift-private.digift.sg [403] [] [364] [cloudflare] [104.26.7.112] [cloudflare] [1.915300788s] [Alibaba Cloud Object Storage Service,Cloudflare,HSTS]
+
+## 404
+
+## 500
+
+## 502
+
+## 503
+
