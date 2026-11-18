@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:32:11 UTC 2026
+[+] Run ID: 44227057338
+[+] Batch name: batch-10
+[+] Batch targets:
+padre.gg
+panora.exchange
+phoenix.trade
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:33:26 UTC 2026
+[+] HTTPX input count: 130
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:33:47 UTC 2026
+[+] httpx line count: 51
+[+] Batch completed: Wed Nov 18 07:33:48 UTC 2026
