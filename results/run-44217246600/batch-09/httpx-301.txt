@@ -1,0 +1,8 @@
+https://earn.sofa.org [301] [https://dapp.sofa.org/products?project=Earn] [167] [301 Moved Permanently] [cloudflare] [104.18.31.60] [cloudflare] [52.225481ms] [Cloudflare]
+https://earn.testnet.sofa.org [301] [https://dapp.testnet.sofa.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.60] [cloudflare] [187.094064ms] [Cloudflare]
+https://surge.testnet.sofa.org [301] [https://dapp.testnet.sofa.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.60] [cloudflare] [96.202064ms] [Cloudflare]
+https://surge.sofa.org [301] [https://dapp.sofa.org/products?project=Surge] [167] [301 Moved Permanently] [cloudflare] [104.18.31.60] [cloudflare] [113.105025ms] [Cloudflare]
+https://sofa.org [301] [https://www.sofa.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.54.45] [cloudflare] [223.331331ms] [Cloudflare]
+https://automator.sofa.org [301] [https://dapp.sofa.org/products?project=Automator] [167] [301 Moved Permanently] [cloudflare] [104.18.30.60] [cloudflare] [241.16651ms] [Cloudflare]
+https://earn.pre.sofa.org [301] [https://dapp.pre.sofa.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.60] [cloudflare] [263.878126ms] [Cloudflare]
+https://surge.pre.sofa.org [301] [https://dapp.pre.sofa.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.60] [cloudflare] [291.826417ms] [Cloudflare]

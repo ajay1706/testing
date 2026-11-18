@@ -1,0 +1,63 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 01:44:32 UTC 2026
+
+HTTPX lines: 38
+Live URLs: 38
+
+## 200
+https://docs.sofa.org [200] [] [2305] [Choose a language · SOFA.org Documentation] [GitHub.com] [185.199.110.153] [78.760963ms] [Fastly,GitHub Pages,Varnish]
+https://one.sofa.org [200] [] [878] [SOFA ONE] [nginx/1.24.0 (Ubuntu)] [35.73.132.34] [489.567058ms] [Nginx:1.24.0,Ubuntu]
+
+## 301
+https://earn.sofa.org [301] [https://dapp.sofa.org/products?project=Earn] [167] [301 Moved Permanently] [cloudflare] [104.18.31.60] [cloudflare] [52.225481ms] [Cloudflare]
+https://earn.testnet.sofa.org [301] [https://dapp.testnet.sofa.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.60] [cloudflare] [187.094064ms] [Cloudflare]
+https://surge.testnet.sofa.org [301] [https://dapp.testnet.sofa.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.60] [cloudflare] [96.202064ms] [Cloudflare]
+https://surge.sofa.org [301] [https://dapp.sofa.org/products?project=Surge] [167] [301 Moved Permanently] [cloudflare] [104.18.31.60] [cloudflare] [113.105025ms] [Cloudflare]
+https://sofa.org [301] [https://www.sofa.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.54.45] [cloudflare] [223.331331ms] [Cloudflare]
+https://automator.sofa.org [301] [https://dapp.sofa.org/products?project=Automator] [167] [301 Moved Permanently] [cloudflare] [104.18.30.60] [cloudflare] [241.16651ms] [Cloudflare]
+https://earn.pre.sofa.org [301] [https://dapp.pre.sofa.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.60] [cloudflare] [263.878126ms] [Cloudflare]
+https://surge.pre.sofa.org [301] [https://dapp.pre.sofa.org/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.60] [cloudflare] [291.826417ms] [Cloudflare]
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://dapp.pre.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.30.60] [cloudflare] [48.179634ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://rch-data.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.31.60] [cloudflare] [58.23821ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://campaign.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.30.60] [cloudflare] [55.812753ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://dapp.testnet.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.30.60] [cloudflare] [59.88025ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://campaign.testnet.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.30.60] [cloudflare] [79.10428ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://pre.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.31.60] [cloudflare] [78.82378ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://dapp.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.31.60] [cloudflare] [104.152806ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://blog.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.30.60] [cloudflare] [110.479211ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://develop.front.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.54.45] [cloudflare] [120.767145ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://mail.front.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.54.45] [cloudflare] [79.400756ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://campaign.pre.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.31.60] [cloudflare] [94.617924ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://blog.sentiment.xyz [403] [] [5526] [Just a moment...] [cloudflare] [162.159.153.4] [cloudflare] [172.122115ms] [Cloudflare,HSTS,HTTP/3]
+https://static.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.30.60] [cloudflare] [190.354653ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://campaign.front.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.50.34] [cloudflare] [209.449226ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://q12we.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.31.60] [cloudflare] [218.247174ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://wildcard.front.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.54.45] [cloudflare] [99.765085ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://www.campaign.front.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.54.45] [cloudflare] [76.481635ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+http://www.develop.front.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.54.45] [cloudflare] [28.49983ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/2]
+https://testnet.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.30.60] [cloudflare] [216.19135ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://api.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.30.60] [cloudflare] [380.077092ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://www.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.31.60] [cloudflare] [43.915318ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+http://www.wildcard.front.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.50.34] [cloudflare] [13.351225ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://www.front.sofa.org [403] [] [3500] [Warning] [cloudflare] [104.18.50.34] [cloudflare] [238.97366ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+
+## 404
+http://staging.sentiment.xyz [404] [] [107] [Vercel] [66.33.60.129] [439.405774ms] [Vercel]
+
+## 500
+
+## 502
+
+## 503
+
