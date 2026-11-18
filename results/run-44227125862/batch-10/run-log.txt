@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:35:56 UTC 2026
+[+] Run ID: 44227125862
+[+] Batch name: batch-10
+[+] Batch targets:
+tangem.com
+trezor.io
+typhonwallet.io
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:36:40 UTC 2026
+[+] HTTPX input count: 418
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:37:05 UTC 2026
+[+] httpx line count: 170
+[+] Batch completed: Wed Nov 18 07:37:05 UTC 2026
