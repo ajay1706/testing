@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:25:57 UTC 2026
+[+] Run ID: 44227125862
+[+] Batch name: batch-07
+[+] Batch targets:
+ledger.com
+lobstr.co
+muun.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:26:58 UTC 2026
+[+] HTTPX input count: 871
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:28:10 UTC 2026
+[+] httpx line count: 182
+[+] Batch completed: Wed Nov 18 07:28:10 UTC 2026
