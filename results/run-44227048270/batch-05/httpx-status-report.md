@@ -1,0 +1,121 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:21:23 UTC 2026
+
+HTTPX lines: 102
+Live URLs: 102
+
+## 200
+https://api.dexalot.com [200] [] [0] [cloudflare] [172.67.71.95] [cloudflare] [38.587343ms] [Cloudflare,HSTS]
+https://ai.dexalot.com [200] [] [20] [cloudflare] [104.26.2.40] [cloudflare] [70.224897ms] [Cloudflare]
+https://adminbackend.dexalot.com [200] [] [143] [AdminBackend] [cloudflare] [104.26.3.40] [cloudflare] [115.529639ms] [Cloudflare,HSTS]
+https://cdn-config.dodoex.io [200] [] [2] [cloudflare] [172.67.181.70] [cloudflare] [75.750357ms] [Cloudflare,HTTP/3]
+https://base.equalizer.exchange [200] [] [5526] [Vercel] [76.76.21.123] [101.972057ms] [HSTS,Vercel]
+https://beta.equalizer.exchange [200] [] [6868] [Vercel] [76.76.21.98] [49.202063ms] [HSTS,Vercel]
+https://airdrop.equalizer.exchange [200] [] [6745] [EQUAL Airdrop : Equalizer.Exchange] [Vercel] [76.76.21.93] [180.494704ms] [HSTS,Vercel]
+https://base-legacy.equalizer.exchange [200] [] [4970] [Vercel] [76.76.21.164] [158.955444ms] [HSTS,Vercel]
+https://bridge.equalizer.exchange [200] [] [833] [Equalizer Bridge] [Vercel] [76.76.21.142] [254.898586ms] [HSTS,React,Vercel]
+https://config.dodoex.io [200] [] [2] [cloudflare] [172.67.181.70] [cloudflare] [61.961092ms] [Cloudflare,HTTP/3]
+https://content.equalizer.exchange [200] [] [478] [Equalizer Content Studio] [Vercel] [76.76.21.241] [128.923086ms] [HSTS,Vercel]
+https://cl.equalizer.exchange [200] [] [6046] [Vercel] [216.150.16.193] [177.436435ms] [HSTS,Vercel]
+https://developer.dodoex.io [200] [] [43752] [DODO Developer Portal | Elevate Your Business With DODO] [cloudflare] [104.21.96.134] [cloudflare] [103.619874ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel,reCAPTCHA]
+https://docs.equalizer.exchange [200] [] [16240] [Welcome to Equalizer | Equalizer Docs] [GitHub.com] [185.199.109.153] [98.343043ms] [Fastly,GitHub Pages,HSTS,Jekyll:3.10.0,Lunr.js,Ruby,Varnish]
+https://dodoex.io [200] [] [14012] [DODO Home] [cloudflare] [104.21.96.134] [cloudflare] [122.858869ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://equalizer.exchange [200] [] [6877] [Vercel] [76.76.21.21] [59.783363ms] [HSTS,Vercel]
+https://docs.dexalot.com [200] [] [29050] [Home | Dexalot | Docs] [AmazonS3] [3.170.19.49] [cloudfront] [148.364471ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3,Vue.js,VuePress:2.0.0]
+https://dexpert.dodoex.io [200] [] [104410] [DODO DEXpert] [cloudflare] [104.21.96.134] [cloudflare] [218.632666ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://indexer2-api.equalizer.exchange [200] [] [115] [] [157.230.237.91] [34.415426ms] [HTTP/3]
+https://fantom.equalizer.exchange [200] [] [5756] [Vercel] [66.33.60.130] [114.062685ms] [HSTS,Vercel]
+https://ft.equalizer.exchange [200] [] [465] [Flying Tulip Bridge] [Vercel] [216.150.16.1] [229.509994ms] [HSTS,Vercel]
+https://gateway.dodoex.io [200] [] [3036] [DODO gateway(graphql) Migration Reminder] [cloudflare] [172.67.181.70] [cloudflare] [229.842887ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mmbots.dexalot.com [200] [] [133] [Amm Backend] [cloudflare] [172.67.71.95] [cloudflare] [66.259776ms] [Cloudflare,HSTS]
+https://message.dodoex.io [200] [] [29] [cloudflare] [172.67.181.70] [cloudflare] [172.538652ms] [Cloudflare,HTTP/3]
+https://mcl.equalizer.exchange [200] [] [6046] [Vercel] [216.150.16.193] [116.122945ms] [HSTS,Vercel]
+https://migrate.equalizer.exchange [200] [] [7837] [Equalizer v2: Liquidity Migration] [GitHub.com] [185.199.111.153] [212.363231ms] [Bootstrap:5.2.3,Chart.js,Fastly,GitHub Pages,Varnish]
+https://migration.equalizer.exchange [200] [] [702] [Equalizer Sonic Migration] [Vercel] [76.76.21.61] [284.56007ms] [HSTS,Vercel]
+https://lock.equalizer.exchange [200] [] [61780] [YeVe Airdrop for Equalizer Users!] [Vercel] [76.76.21.93] [168.618677ms] [Bootstrap:5.2.3,HSTS,Vercel]
+https://simulator.dodoex.io [200] [] [2812] [DODO - PMM Chart] [cloudflare] [104.21.96.134] [cloudflare] [119.387805ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://v2.equity.equalizer.exchange [200] [] [4969] [Equity] [Vercel] [76.76.21.241] [49.493464ms] [Bootstrap:5.0.2,HSTS,Popper:2.9.2,Vercel,jsDelivr]
+https://sonic-testnet.equalizer.exchange [200] [] [2460] [Equalizer Sonic is LIVE] [Vercel] [76.76.21.164] [268.018689ms] [HSTS,Vercel]
+https://v3poolstatus.dodoex.io [200] [] [2184] [DODO - Your on-chain liquidity provider.] [cloudflare] [104.21.96.134] [cloudflare] [192.329669ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://v1.equity.equalizer.exchange [200] [] [4969] [Equity] [Vercel] [66.33.60.67] [163.568816ms] [Bootstrap:5.0.2,HSTS,Popper:2.9.2,Vercel,jsDelivr]
+https://sonic.equalizer.exchange [200] [] [6877] [Vercel] [76.76.21.93] [181.636498ms] [HSTS,Vercel]
+https://equity-stats.equalizer.exchange [200] [] [633] [Equity Statistics] [Vercel] [76.76.21.98] [2.159249236s] [HSTS,Vercel]
+https://trivia.dodoex.io [200] [] [71865] [DODO Trivia] [cloudflare] [172.67.181.70] [cloudflare] [161.054455ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://tradingchart.dodoex.io [200] [] [7588] [DODO - KLine Chart] [cloudflare] [104.21.96.134] [cloudflare] [102.22784ms] [Cloudflare,Cloudflare Browser Insights,Elliptic,HSTS,HTTP/3,Lodash,Vercel]
+https://status.dexalot.com [200] [] [97734] [Dexalot Status] [AtlassianEdge] [13.249.30.111] [cloudfront] [346.555041ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,Google Analytics,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://stats.v2.equity.equalizer.exchange [200] [] [633] [Equity Statistics] [Vercel] [76.76.21.123] [1.885712564s] [HSTS,Vercel]
+https://stats.v1.equity.equalizer.exchange [200] [] [633] [Equity Statistics] [Vercel] [66.33.60.66] [2.248595213s] [HSTS,Vercel]
+
+## 301
+https://beta.dodoex.io [301] [https://app.dodoex.io/] [167] [301 Moved Permanently] [cloudflare] [172.67.181.70] [cloudflare] [54.684853ms] [Cloudflare]
+https://api.dodoex.io [301] [https://developer.dodoex.io] [608] [301 Moved Permanently] [cloudflare] [104.21.96.134] [cloudflare] [169.850056ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://cmp.dodoex.io [301] [https://images.dodoex.io/] [534] [301 Moved Permanently] [cloudflare] [104.21.96.134] [cloudflare] [86.532494ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dodo-route.dodoex.io [301] [https://route-api.dodoex.io/] [534] [301 Moved Permanently] [cloudflare] [104.21.96.134] [cloudflare] [54.602912ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://legacy.dodoex.io [301] [https://app.dodoex.io/] [167] [301 Moved Permanently] [cloudflare] [172.67.181.70] [cloudflare] [40.960071ms] [Cloudflare]
+https://lite.dodoex.io [301] [https://app.dodoex.io/] [534] [301 Moved Permanently] [cloudflare] [104.21.96.134] [cloudflare] [34.27066ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://nft.dodoex.io [301] [https://app.dodoex.io/] [167] [301 Moved Permanently] [cloudflare] [172.67.181.70] [cloudflare] [39.467743ms] [Cloudflare]
+https://www.dexalot.com [301] [https://dexalot.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.40] [cloudflare] [32.10025ms] [Cloudflare]
+http://cdn-static.dodoex.io [301] [https://cdn-static.dodoex.io/] [534] [301 Moved Permanently] [cloudflare] [104.21.96.134] [cloudflare] [23.075544ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://dash-hq.dodoex.io [301] [https://dash-hq.dodoex.io/] [534] [301 Moved Permanently] [cloudflare] [172.67.181.70] [cloudflare] [25.218863ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://eth-mainnet.dodoex.io [301] [https://eth-mainnet.dodoex.io/] [534] [301 Moved Permanently] [cloudflare] [172.67.181.70] [cloudflare] [24.626164ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://ipfs.dodoex.io [302] [https://ipfs.io/] [510] [302 Found] [cloudflare] [104.21.96.134] [cloudflare] [87.186894ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 307
+https://docs-next.dodoex.io [307] [/en] [15] [cloudflare] [104.21.96.134] [cloudflare] [107.103746ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://docs.dodoex.io [307] [/en] [15] [cloudflare] [172.67.181.70] [cloudflare] [121.823341ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://equity.equalizer.exchange [307] [https://v2.equity.equalizer.exchange/] [15] [Vercel] [66.33.60.66] [201.116637ms] [HSTS,Vercel]
+https://swap.dodoex.io [307] [https://developer.dodoex.io] [15] [cloudflare] [104.21.96.134] [cloudflare] [204.6314ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://www.equalizer.exchange [308] [https://equalizer.exchange/] [15] [Vercel] [76.76.21.98] [93.717962ms] [HSTS,Vercel]
+https://www.dodoex.io [308] [https://dodoex.io/] [15] [cloudflare] [104.21.96.134] [cloudflare] [102.468015ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 401
+https://ipfs.dexalot.com [401] [] [81] [cloudflare] [172.64.155.162] [cloudflare] [282.360946ms] [Cloudflare]
+
+## 403
+https://blog.dodoex.io [403] [] [5586] [Just a moment...] [cloudflare] [162.159.153.4] [cloudflare] [29.92203ms] [Cloudflare,HSTS,HTTP/3]
+https://arpc.dexalot.com [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [172.67.71.95] [cloudflare] [29.853907ms] [Cloudflare]
+https://ai-v1.dexalot.com [403] [] [5640] [Just a moment...] [cloudflare] [172.67.71.95] [cloudflare] [56.471529ms] [Cloudflare]
+https://app.dexalot.com [403] [] [5638] [Just a moment...] [cloudflare] [104.26.2.40] [cloudflare] [119.387343ms] [Cloudflare]
+https://cdn.dexalot.com [403] [] [5616] [Just a moment...] [cloudflare] [172.67.71.95] [cloudflare] [51.773857ms] [Cloudflare]
+https://app.dodoex.io [403] [] [30659] [DODO - Your on-chain liquidity provider.] [cloudflare] [104.21.96.134] [cloudflare] [145.609631ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dexalot.com [403] [] [5484] [Just a moment...] [cloudflare] [172.67.71.95] [cloudflare] [34.391846ms] [Cloudflare]
+https://erpc.dexalot.com [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.26.2.40] [cloudflare] [41.885115ms] [Cloudflare]
+https://image-proxy.dodoex.io [403] [] [30659] [DODO - Your on-chain liquidity provider.] [cloudflare] [172.67.181.70] [cloudflare] [53.554733ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://img-proxy-cloud-run.dodoex.io [403] [] [30659] [DODO - Your on-chain liquidity provider.] [cloudflare] [172.67.181.70] [cloudflare] [55.51435ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://images.dodoex.io [403] [] [30659] [DODO - Your on-chain liquidity provider.] [cloudflare] [172.67.181.70] [cloudflare] [58.189896ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://route-api.dodoex.io [403] [] [30659] [DODO - Your on-chain liquidity provider.] [cloudflare] [104.21.96.134] [cloudflare] [42.046062ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://staging.dexalot.com [403] [] [5642] [Just a moment...] [cloudflare] [172.67.71.95] [cloudflare] [26.744352ms] [Cloudflare]
+https://service.dodoex.io [403] [] [30659] [DODO - Your on-chain liquidity provider.] [cloudflare] [104.21.96.134] [cloudflare] [57.851712ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://vesting.dexalot.com [403] [] [5642] [Just a moment...] [cloudflare] [172.67.71.95] [cloudflare] [51.331645ms] [Cloudflare]
+https://wua.dodoex.io [403] [] [30659] [DODO - Your on-chain liquidity provider.] [cloudflare] [172.67.181.70] [cloudflare] [56.053534ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://token-img.dodoex.io [403] [] [365] [cloudflare] [172.67.181.70] [cloudflare] [2.093738167s] [Cloudflare,HTTP/3]
+
+## 404
+https://business-data-root.dodoex.io [404] [] [36] [cloudflare] [104.21.96.134] [cloudflare] [179.486951ms] [Cloudflare,HTTP/3]
+https://business-data.dodoex.io [404] [] [36] [cloudflare] [104.21.96.134] [cloudflare] [177.590553ms] [Cloudflare,HTTP/3]
+https://cdn-internal.dexalot.com [404] [] [27150] [Not Found] [cloudflare] [104.26.2.40] [cloudflare] [121.830832ms] [Cloudflare]
+https://activity.dodoex.io [404] [] [107] [cloudflare] [104.21.96.134] [cloudflare] [348.727651ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://cms.dexalot.com [404] [] [6851] [404: This page could not be found.] [cloudflare] [162.159.140.51] [cloudflare] [81.028576ms] [Cloudflare,Next.js,Node.js,React,Webpack]
+https://app-root-source.dodoex.io [404] [] [107] [cloudflare] [172.67.181.70] [cloudflare] [394.794927ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://dev-api.dodoex.io [404] [] [36] [cloudflare] [104.21.96.134] [cloudflare] [167.116013ms] [Cloudflare,HTTP/3]
+https://indexer-api.equalizer.exchange [404] [] [139] [Error] [Caddy] [157.230.1.64] [29.514457ms] [Caddy,Express,HTTP/3,Node.js]
+https://gateway-manage.dodoex.io [404] [] [36] [cloudflare] [104.21.96.134] [cloudflare] [169.392883ms] [Cloudflare,HTTP/3]
+https://mcl-api.equalizer.exchange [404] [] [52] [nginx/1.26.0 (Ubuntu)] [157.230.190.158] [39.943014ms] [Express,Nginx:1.26.0,Node.js,Ubuntu]
+https://legacy.equalizer.exchange [404] [] [107] [Vercel] [76.76.21.98] [166.455372ms] [HSTS,Vercel]
+https://info.dodoex.io [404] [] [107] [cloudflare] [104.21.96.134] [cloudflare] [311.928621ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://labs.dodoex.io [404] [] [107] [cloudflare] [172.67.181.70] [cloudflare] [336.039637ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://order-api.dodoex.io [404] [] [36] [cloudflare] [172.67.181.70] [cloudflare] [171.619911ms] [Cloudflare,HTTP/3]
+https://ws-order.dodoex.io [404] [] [36] [cloudflare] [172.67.181.70] [cloudflare] [227.443966ms] [Cloudflare,HTTP/3]
+https://staging.dodoex.io [404] [] [107] [cloudflare] [104.21.96.134] [cloudflare] [336.535943ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
