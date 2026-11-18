@@ -1,0 +1,7 @@
+https://explorer-veil.nodes.zelcore.io [301] [http://explorer.veil.zelcore.io] [117] [cloudflare] [104.18.17.78] [cloudflare] [2.499840136s] [Cloudflare,HSTS]
+https://explorer.veil.zelcore.io [301] [/main] [91] [cloudflare] [104.18.17.78] [cloudflare] [485.902349ms] [Cloudflare,HSTS]
+https://explorer.veil-1.zelcore.io [301] [http://explorer.veil.zelcore.io] [117] [cloudflare] [104.18.16.78] [cloudflare] [4.509097039s] [Cloudflare,HSTS]
+https://help.zelcore.io [301] [https://support.runonflux.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.17.78] [cloudflare] [1.045578567s] [Cloudflare,HSTS]
+https://lcd.terra-classic.zelcore.io [301] [https://terra-classic-lcd.publicnode.com/swagger/] [0] [cloudflare] [104.18.17.78] [cloudflare] [3.148731268s] [Cloudflare,HSTS]
+https://support.zelcore.io [301] [https://support.runonflux.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.17.78] [cloudflare] [6.052323958s] [Cloudflare,HSTS]
+https://www.zelcore.io [301] [https://zelcore.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.17.78] [cloudflare] [2.041216514s] [Cloudflare,HSTS]

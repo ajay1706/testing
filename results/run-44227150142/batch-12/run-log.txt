@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:37:44 UTC 2026
+[+] Run ID: 44227150142
+[+] Batch name: batch-12
+[+] Batch targets:
+wallet.roninchain.com
+ywallet.app
+zelcore.io
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:38:54 UTC 2026
+[+] HTTPX input count: 893
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:41:11 UTC 2026
+[+] httpx line count: 391
+[+] Batch completed: Wed Nov 18 07:41:11 UTC 2026
