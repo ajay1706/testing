@@ -1,0 +1,52 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:33:39 UTC 2026
+
+HTTPX lines: 24
+Live URLs: 24
+
+## 200
+https://miniapp.pactfoundation.com [200] [] [4722] [PACT Brain] [cloudflare] [172.66.47.123] [cloudflare] [303.680564ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://marketing.realt.co [200] [] [306] [Custom domain check] [] [188.165.50.182] [344.712718ms] [HTTP/3]
+https://pactfoundation.com [200] [] [185042] [PACT - Payroll & Credit Infrastructure for Fintechs] [Vercel] [216.150.1.1] [119.084483ms] [HSTS,Vercel,jsDelivr]
+https://bridge.pactfoundation.com [200] [] [29063] [PACT Bridge] [Vercel] [216.150.16.193] [1.643538149s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+http://wiki.realt.co [301] [https://wiki.realt.co/] [167] [301 Moved Permanently] [cloudflare] [172.64.147.209] [cloudflare] [32.476131ms] [Cloudflare,HTTP/2]
+http://campaign.realt.co [301] [https://campaign.realt.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.38.43] [cloudflare] [68.484399ms] [Cloudflare,HTTP/2]
+http://www.merch.realt.co [301] [https://www.merch.realt.co/] [167] [301 Moved Permanently] [cloudflare] [23.227.38.65] [31.845126ms] [Cloudflare,HTTP/2]
+http://links.mailer.realt.co [301] [https://links.mailer.realt.co/] [162] [301 Moved Permanently] [nginx] [172.65.225.161] [cloudflare] [200.292672ms] [Nginx]
+http://links.mail.realt.co [301] [https://links.mail.realt.co/] [162] [301 Moved Permanently] [nginx] [172.65.225.161] [cloudflare] [210.535608ms] [Nginx]
+http://faq.realt.co [301] [https://faq.realt.co/] [162] [301 Moved Permanently] [nginx] [172.65.251.114] [cloudflare] [213.353032ms] [Nginx]
+http://dashboard.realt.co [301] [https://dashboard.realt.co/] [194] [301 Moved Permanently] [nginx/1.14.0 (Ubuntu)] [3.136.63.53] [45.469043ms] [Nginx:1.14.0,Ubuntu]
+
+## 302
+https://staging.bridge.pactfoundation.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.bridge.pactfoundation.com%2F&nonce=8a5e17dc5debed01564664bd8b7e6c7dd452f94c588ff937b024ff184b9cf4aa] [263] [Vercel] [216.150.16.1] [97.782268ms] [HSTS,Vercel]
+https://rebrandly.realt.co [302] [https://rebrandly.realt.co/?rb.routing.mode=proxy&rb.routing.signature=484125] [0] [] [52.72.49.79] [133.744616ms] [HSTS]
+https://inbound.realt.co [302] [http://inbound.realt.co/Account/Login?ReturnUrl=%2F] [0] [nginx/1.20.0] [3.19.105.209] [178.68215ms] [Nginx:1.20.0]
+
+## 307
+https://gov.pactfoundation.com [307] [/proposals] [15] [Vercel] [216.150.16.129] [92.427261ms] [HSTS,Vercel]
+https://airdrop.pactfoundation.com [307] [/claim] [15] [Vercel] [216.150.16.193] [158.401229ms] [HSTS,Vercel]
+https://vesting.pactfoundation.com [307] [/vesting/deposit] [15] [Vercel] [216.150.16.193] [341.052497ms] [HSTS,Vercel]
+
+## 308
+https://www.pactfoundation.com [308] [https://pactfoundation.com/] [15] [Vercel] [216.150.16.1] [228.653693ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://admin.realt.co [404] [] [139] [Error] [nginx/1.20.1] [3.135.88.201] [101.755382ms] [Express,Nginx:1.20.1,Node.js]
+
+## 500
+
+## 502
+https://kyc.realt.co [502] [] [182] [502 Bad Gateway] [nginx/1.14.0 (Ubuntu)] [3.135.43.204] [115.356711ms] [Nginx:1.14.0,Ubuntu]
+https://vault.realt.co [502] [] [182] [502 Bad Gateway] [nginx/1.14.0 (Ubuntu)] [18.190.56.73] [137.304285ms] [Nginx:1.14.0,Ubuntu]
+
+## 503
+https://realt.co [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [3.167.99.31] [cloudfront] [65.331575ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://www.realt.co [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [3.167.99.44] [cloudfront] [70.920976ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+

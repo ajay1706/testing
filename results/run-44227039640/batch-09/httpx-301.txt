@@ -1,0 +1,7 @@
+http://wiki.realt.co [301] [https://wiki.realt.co/] [167] [301 Moved Permanently] [cloudflare] [172.64.147.209] [cloudflare] [32.476131ms] [Cloudflare,HTTP/2]
+http://campaign.realt.co [301] [https://campaign.realt.co/] [167] [301 Moved Permanently] [cloudflare] [104.18.38.43] [cloudflare] [68.484399ms] [Cloudflare,HTTP/2]
+http://www.merch.realt.co [301] [https://www.merch.realt.co/] [167] [301 Moved Permanently] [cloudflare] [23.227.38.65] [31.845126ms] [Cloudflare,HTTP/2]
+http://links.mailer.realt.co [301] [https://links.mailer.realt.co/] [162] [301 Moved Permanently] [nginx] [172.65.225.161] [cloudflare] [200.292672ms] [Nginx]
+http://links.mail.realt.co [301] [https://links.mail.realt.co/] [162] [301 Moved Permanently] [nginx] [172.65.225.161] [cloudflare] [210.535608ms] [Nginx]
+http://faq.realt.co [301] [https://faq.realt.co/] [162] [301 Moved Permanently] [nginx] [172.65.251.114] [cloudflare] [213.353032ms] [Nginx]
+http://dashboard.realt.co [301] [https://dashboard.realt.co/] [194] [301 Moved Permanently] [nginx/1.14.0 (Ubuntu)] [3.136.63.53] [45.469043ms] [Nginx:1.14.0,Ubuntu]
