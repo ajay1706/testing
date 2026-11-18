@@ -1,0 +1,6 @@
+[CVE-2023-5561] [http] [medium] https://landing.reental.co/?rest_route=/wp/v2/users&search=@ [route="?rest_route=/wp/v2/users&"]
+[CVE-2026-27454] [http] [medium] https://forum.sun.io/posts/1219.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.balanced.network/posts/4809.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.bonzo.finance/posts/59.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.hashflow.com/posts/2331.json?version=1
+[CVE-2026-27454] [http] [medium] https://gov.saucerswap.finance/posts/993.json?version=1

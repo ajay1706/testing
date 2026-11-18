@@ -1,0 +1,4 @@
+[CVE-2026-109618:version-eol-branch] [http] [critical] https://api.scopuly.com ["5.6.40"]
+[CVE-2026-111497] [javascript] [critical] api.phygitals.com
+[CVE-2026-111497] [javascript] [critical] facilitator-testnet.scopuly.com
+[CVE-2026-111497] [javascript] [critical] facilitator.scopuly.com

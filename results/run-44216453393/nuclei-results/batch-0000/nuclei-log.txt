@@ -3279,4 +3279,3 @@ WARNING: sonic/ast only supports (go1.17~1.26 and amd64 CPU) or (go1.20~1.26 and
 [4:30:40] | Templates: 7246 | Hosts: 75 | RPS: 66 | Matched: 26 | Errors: 53541 | Requests: 1085901/1315950 (82%)
 [4:30:45] | Templates: 7246 | Hosts: 75 | RPS: 66 | Matched: 26 | Errors: 53545 | Requests: 1086148/1315950 (82%)
 [4:30:50] | Templates: 7246 | Hosts: 75 | RPS: 66 | Matched: 26 | Errors: 53559 | Requests: 1086399/1315950 (82%)
-[4:30:55] | Templates: 7246 | Hosts: 75 | RPS: 66 | Matched: 26 | Errors: 53579 | Requests: 1086655/1315950 (82%)
