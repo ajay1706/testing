@@ -1,0 +1,3 @@
+https://classic.app.thala.fi [308] [/overview] [15] [Vercel] [216.150.16.129] [104.523329ms] [HSTS,Vercel]
+https://app.thala.fi [308] [/swap] [15] [Vercel] [216.150.16.193] [273.185115ms] [HSTS,Vercel]
+https://thala.fi [308] [https://www.thala.fi/] [15] [Vercel] [216.150.16.193] [1.068644228s] [HSTS,Vercel]
