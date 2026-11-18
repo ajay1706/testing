@@ -1,0 +1,2 @@
+https://resources.carbondefi.xyz [403] [] [263] [AmazonS3] [3.163.125.97] [cloudfront] [392.226048ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://uat.bebop.xyz [403] [] [17] [cloudflare] [104.20.45.219] [cloudflare] [402.317764ms] [Cloudflare]
