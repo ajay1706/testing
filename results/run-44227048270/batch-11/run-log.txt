@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:32:54 UTC 2026
+[+] Run ID: 44227048270
+[+] Batch name: batch-11
+[+] Batch targets:
+rango.exchange
+ring.exchange
+solidly.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:34:48 UTC 2026
+[+] HTTPX input count: 256
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:34:56 UTC 2026
+[+] httpx line count: 175
+[+] Batch completed: Wed Nov 18 07:34:56 UTC 2026
