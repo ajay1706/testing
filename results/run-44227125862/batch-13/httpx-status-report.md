@@ -1,0 +1,49 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:37:53 UTC 2026
+
+HTTPX lines: 21
+Live URLs: 21
+
+## 200
+https://zeusln.com [200] [] [1807] [ZEUS - Bitcoin Lightning Infrastructure] [nginx/1.26.3] [139.144.53.218] [189.005691ms] [HSTS,Nginx:1.26.3]
+https://shc.zeusln.com [200] [] [41] [nginx] [23.182.128.65] [220.352695ms] [HSTS,Nginx]
+https://decoder.zeusln.com [200] [] [4218] [ZEUS Decoder: decode Lightning invoices, offers and LNURLs] [nginx/1.26.3] [139.144.53.218] [252.17836ms] [HSTS,Nginx:1.26.3]
+http://mm.zeusln.com [200] [] [17787] [Home - Delhi Kitchen] [nginx/1.24.0 (Ubuntu)] [139.144.17.254] [104.926305ms] [Bootstrap,Google Maps,Microsoft ASP.NET,Nginx:1.24.0,Ubuntu,jQuery]
+https://trust.zeusln.com [200] [] [7491] [ZEUS Trust Center] [cloudflare] [104.18.27.175] [cloudflare] [575.62948ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge]
+https://status.zeusln.com [200] [] [33569] [ZEUS] [] [142.132.149.97] [831.232904ms] [HSTS,HTTP/3,UIKit,jQuery:3.7.1]
+https://store.zeusln.com [200] [] [467053] [ZEUS Store – The official ZEUS web store] [nginx] [45.56.126.93] [779.188438ms] [Jetpack,MySQL,Nginx,PHP,WooCommerce:11.3.0,WordPress Block Editor,WordPress Site Editor,WordPress:7.1.4,jQuery,jQuery Migrate:3.4.1]
+
+## 301
+https://blog.zeusln.com [301] [https://zeusln.com/blog/] [169] [301 Moved Permanently] [nginx/1.26.3] [139.144.53.218] [226.819668ms] [Nginx:1.26.3]
+https://rgs.zeusln.com [301] [https://zeusln.com] [162] [301 Moved Permanently] [nginx] [50.116.41.119] [272.620939ms] [Nginx]
+https://www.zeusln.com [301] [https://zeusln.com/] [169] [301 Moved Permanently] [nginx/1.26.3] [139.144.53.218] [303.028146ms] [HSTS,Nginx:1.26.3]
+http://pubkey.zeusln.com [301] [https://pubkey.zeusln.com/] [162] [301 Moved Permanently] [nginx] [139.177.207.173] [89.370801ms] [Nginx]
+
+## 302
+https://permissibles.zeusln.com [302] [/login] [0] [nginx] [192.155.92.140] [234.534605ms] [HSTS,Nginx]
+https://btcpay.zeusln.com [302] [https://btcpay.zeusln.com/login?ReturnUrl=%2F] [0] [nginx] [45.79.201.160] [270.541385ms] [HSTS,Nginx]
+https://btccards.zeusln.com [302] [https://btccards.zeusln.com/login?ReturnUrl=%2F] [0] [nginx] [45.79.196.111] [398.920113ms] [HSTS,Nginx]
+
+## 307
+
+## 308
+http://minasian.zeusln.com [308] [https://minasian.zeusln.com/] [0] [Caddy] [74.207.228.5] [87.246122ms] [Caddy]
+http://mmp-lnd.zeusln.com [308] [https://mmp-lnd.zeusln.com/] [0] [Caddy] [74.207.228.5] [88.034951ms] [Caddy]
+
+## 401
+
+## 403
+
+## 404
+https://electrs.zeusln.com [404] [] [27] [nginx/1.26.3] [74.207.234.158] [184.155263ms] [HSTS,Nginx:1.26.3]
+https://rates.zeusln.com [404] [] [139] [Error] [nginx] [66.228.57.97] [244.55927ms] [Express,Nginx,Node.js]
+https://scores.zeusln.com [404] [] [146] [404 Not Found] [nginx] [45.79.223.249] [247.557658ms] [Nginx]
+https://athena.zeusln.com [404] [] [0] [Caddy] [172.239.49.213] [324.93691ms] [Caddy,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
