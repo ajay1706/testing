@@ -1,0 +1,36 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:34:24 UTC 2026
+
+HTTPX lines: 7
+Live URLs: 7
+
+## 200
+https://testnet-pro.woofi.com [200] [] [3189] [WOOFi Pro] [nginx] [34.149.187.252] [google] [268.397708ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx]
+https://widget-api.woofi.com [200] [] [38] [gunicorn] [34.160.116.97] [google] [300.567291ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,gunicorn]
+https://api.woofi.com [200] [] [38] [gunicorn] [34.160.116.97] [google] [329.039268ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,gunicorn]
+https://pro.woofi.com [200] [] [3189] [WOOFi Pro] [nginx] [8.232.22.139] [google] [345.89401ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx]
+https://woofi.com [200] [] [9189] [WOOFi | Cross-chain DEX for swaps, earn, stake & perps] [] [34.146.160.181] [google] [465.340938ms] [HSTS]
+
+## 301
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://sapi.woofi.com [404] [] [22] [] [34.146.160.181] [google] [463.914662ms] [HSTS]
+https://prod-migration.woofi.com [404] [] [146] [404 Not Found] [] [34.146.160.181] [google] [485.959461ms] [HSTS]
+
+## 500
+
+## 502
+
+## 503
+
