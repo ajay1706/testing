@@ -1,0 +1,79 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 18 07:03:44 UTC 2026
+
+HTTPX lines: 56
+Live URLs: 56
+
+## 200
+https://backed.fi [200] [] [53820] [Backed Finance - Tokenized Assets] [cloudflare] [104.18.19.4] [cloudflare] [168.390825ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,Google Font API,Google Hosted Libraries,HSTS,jQuery:3.5.1,jsDelivr]
+https://admin.sandbox.backed.fi [200] [] [1351] [Admin] [cloudflare] [104.18.18.4] [cloudflare] [481.043937ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://admin.dev.backed.fi [200] [] [1351] [Admin] [cloudflare] [104.18.19.4] [cloudflare] [506.887512ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://app.sandbox.backed.fi [200] [] [1505] [Backed Finance] [cloudflare] [104.18.19.4] [cloudflare] [524.16885ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://app.dev.backed.fi [200] [] [1505] [Backed Finance] [cloudflare] [104.18.19.4] [cloudflare] [530.719356ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://admin.stage.backed.fi [200] [] [1351] [Admin] [cloudflare] [104.18.18.4] [cloudflare] [539.259898ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://app.stage.backed.fi [200] [] [1505] [Backed Finance] [cloudflare] [104.18.18.4] [cloudflare] [538.810284ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://admin.backed.fi [200] [] [1351] [Admin] [cloudflare] [104.18.19.4] [cloudflare] [569.167993ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://charts.backed.fi [200] [] [1780] [Backed Finance - Charts] [cloudflare] [104.18.18.4] [cloudflare] [169.149617ms] [Cloudflare,Cloudflare Bot Management,Firebase,HSTS]
+https://documents.backed.fi [200] [] [1608] [Backed Assets - Documents] [cloudflare] [104.18.18.4] [cloudflare] [203.134088ms] [Cloudflare,Cloudflare Bot Management,Firebase,HSTS]
+https://dominium.alphaledger.com [200] [] [4571] [] [3.131.89.125] [269.467689ms]
+https://dominium-docs.alphaledger.com [200] [] [70556] [Introduction - Services] [openresty/1.25.3.2] [54.225.169.199] [357.498656ms] [Nginx,OpenResty:1.25.3.2]
+https://napi.beta.alphaledger.com [200] [] [136] [nginx/1.22.0] [34.233.94.135] [352.195487ms] [Nginx:1.22.0]
+https://wrapped.backed.fi [200] [] [474] [Backed Finance - Wrapped Tokens] [] [199.36.158.100] [115.654395ms] [Firebase,HSTS,HTTP/3]
+https://vpn.alphaledger.com [200] [] [1707] [Access server client portal] [OpenVPN-AS] [18.117.92.130] [233.120573ms]
+https://www.anemoy.io [200] [] [24740] [Anemoy | Web3-Native Asset Manager Powered by Centrifuge] [cloudflare] [198.202.211.1] [154.397376ms] [Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,jQuery:3.5.1]
+https://vulcan-forge-docs.alphaledger.com [200] [] [276526] [Introduction - Vulcan Forge API] [openresty/1.25.3.2] [54.225.169.199] [533.63046ms] [Nginx,OpenResty:1.25.3.2]
+https://www.alphaledger.com [200] [] [137528] [Home - Alphaledger] [] [44.197.31.100] [302.038525ms] [Beaver Builder,Chart.js:4.4.0,Cookie Notice:3.1.17,Fastly,Font Awesome,Google Analytics,HSTS,MariaDB,MySQL,Nginx,PHP,Pantheon,Site Kit:1.190.0,Varnish,WordPress,imagesLoaded:2.11.1.2,jQuery,jQuery Migrate:3.4.1,jsDelivr]
+https://xstocks-metadata.stage.backed.fi [200] [] [233] [cloudflare] [104.18.19.4] [cloudflare] [2.288991939s] [Cloudflare,Cloudflare Bot Management]
+
+## 301
+http://autodiscover.alphaledger.com [301] [https://autodiscover.alphaledger.com/] [0] [Microsoft-HTTPAPI/2.0] [52.96.91.56] [1.693472ms] [Microsoft HTTPAPI:2.0]
+https://alphaledger.com [301] [https://www.alphaledger.com/] [0] [] [44.197.31.100] [299.255068ms] [Varnish]
+https://anemoy.io [301] [https://www.anemoy.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [317.008367ms] [Cloudflare,HSTS,HTTP/3]
+https://bridge.backed.fi [301] [https://defi.backed.fi/bridge] [167] [301 Moved Permanently] [cloudflare] [104.18.18.4] [cloudflare] [42.557085ms] [Cloudflare]
+https://docs.backed.fi [301] [https://docs.xstocks.fi/] [167] [301 Moved Permanently] [cloudflare] [104.18.19.4] [cloudflare] [55.928242ms] [Cloudflare]
+https://oracles.backed.fi [301] [https://defi.backed.fi/oracles] [167] [301 Moved Permanently] [cloudflare] [104.18.19.4] [cloudflare] [40.473449ms] [Cloudflare]
+https://por.backed.fi [301] [https://defi.backed.fi/proof-of-reserves] [167] [301 Moved Permanently] [cloudflare] [104.18.19.4] [cloudflare] [59.44201ms] [Cloudflare]
+https://www.backed.fi [301] [https://backed.fi/] [166] [301 Moved Permanently] [cloudflare] [104.18.19.4] [cloudflare] [440.708697ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+http://communitybond.dev.alphaledger.com [301] [https://communitybond.dev.alphaledger.com/] [169] [301 Moved Permanently] [nginx/1.20.0] [52.203.84.218] [129.242076ms] [Nginx:1.20.0]
+http://communitybond.qa.alphaledger.com [301] [https://communitybond.qa.alphaledger.com/] [169] [301 Moved Permanently] [nginx/1.20.0] [52.203.84.218] [128.807414ms] [Nginx:1.20.0]
+http://napi.dev.alphaledger.com [301] [https://napi.dev.alphaledger.com/] [169] [301 Moved Permanently] [nginx/1.20.0] [52.203.84.218] [127.46174ms] [Nginx:1.20.0]
+http://napi.qa.alphaledger.com [301] [https://napi.qa.alphaledger.com/] [169] [301 Moved Permanently] [nginx/1.20.0] [52.203.84.218] [127.780925ms] [Nginx:1.20.0]
+
+## 302
+https://assets.backed.fi [302] [https://assets.backed.fi/geoblock] [143] [302 Found] [cloudflare] [104.18.18.4] [cloudflare] [229.478132ms] [Cloudflare]
+https://app.backed.fi [302] [https://assets.backed.fi/geoblock] [143] [302 Found] [cloudflare] [104.18.19.4] [cloudflare] [242.023401ms] [Cloudflare]
+https://auth.alphaledger.com [302] [https://alphaledger.com/] [46] [cloudflare] [104.18.43.182] [cloudflare] [246.249572ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.beta.alphaledger.com [302] [https://beta.alphaledger.com/] [51] [cloudflare] [104.18.43.182] [cloudflare] [387.732264ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://defi.backed.fi [302] [https://defi.backed.fi/geoblock] [143] [302 Found] [cloudflare] [104.18.19.4] [cloudflare] [38.349414ms] [Cloudflare]
+https://share.alphaledger.com [302] [/auth/] [0] [cloudflare] [104.18.30.162] [cloudflare] [634.774621ms] [Algolia,Cloudflare,HSTS,HTTP/3]
+
+## 307
+https://web3-eth-mainnet.backed.fi [307] [https://developers.cloudflare.com/web3/how-to/use-ethereum-gateway/] [169] [307 Temporary Redirect] [cloudflare] [104.18.18.4] [cloudflare] [80.107585ms] [Cloudflare,Cloudflare Bot Management]
+
+## 308
+
+## 401
+
+## 403
+https://dominium-files.alphaledger.com [403] [] [111] [AmazonS3] [99.86.101.23] [cloudfront] [366.985393ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://xstocks-metadata.backed.fi [403] [] [111] [cloudflare] [104.18.18.4] [cloudflare] [3.565823483s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management]
+https://xstocks-metadata.staging.backed.fi [403] [] [111] [cloudflare] [104.18.18.4] [cloudflare] [3.676862752s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management]
+https://xstocks-metadata.dev.backed.fi [403] [] [111] [cloudflare] [104.18.19.4] [cloudflare] [5.59059463s] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management]
+
+## 404
+https://api.stage.backed.fi [404] [] [139] [Error] [cloudflare] [104.18.19.4] [cloudflare] [211.44055ms] [Cloudflare,Cloudflare Bot Management,Express,Node.js]
+https://api.backed.fi [404] [] [139] [Error] [cloudflare] [104.18.18.4] [cloudflare] [295.09904ms] [Cloudflare,Cloudflare Bot Management,Express,Node.js]
+https://api.docs.alphaledger.com [404] [] [5017] [Not found] [AmazonS3] [98.94.229.252] [449.65555ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://api.sandbox.backed.fi [404] [] [139] [Error] [cloudflare] [104.18.18.4] [cloudflare] [755.686949ms] [Cloudflare,Cloudflare Bot Management,Express,Node.js]
+https://api.dev.backed.fi [404] [] [139] [Error] [cloudflare] [104.18.19.4] [cloudflare] [1.041471195s] [Cloudflare,Cloudflare Bot Management,Express,Node.js]
+http://svc.dev.alphaledger.com [404] [] [153] [404 Not Found] [nginx/1.20.0] [52.203.84.218] [127.478459ms] [Nginx:1.20.0]
+http://svc.qa.alphaledger.com [404] [] [153] [404 Not Found] [nginx/1.20.0] [52.203.84.218] [127.090434ms] [Nginx:1.20.0]
+http://svc.testing.alphaledger.com [404] [] [555] [404 Not Found] [nginx/1.20.0] [52.203.84.218] [127.086081ms] [Nginx:1.20.0]
+
+## 500
+
+## 502
+
+## 503
+

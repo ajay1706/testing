@@ -1,0 +1,6 @@
+https://assets.backed.fi [302] [https://assets.backed.fi/geoblock] [143] [302 Found] [cloudflare] [104.18.18.4] [cloudflare] [229.478132ms] [Cloudflare]
+https://app.backed.fi [302] [https://assets.backed.fi/geoblock] [143] [302 Found] [cloudflare] [104.18.19.4] [cloudflare] [242.023401ms] [Cloudflare]
+https://auth.alphaledger.com [302] [https://alphaledger.com/] [46] [cloudflare] [104.18.43.182] [cloudflare] [246.249572ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth.beta.alphaledger.com [302] [https://beta.alphaledger.com/] [51] [cloudflare] [104.18.43.182] [cloudflare] [387.732264ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://defi.backed.fi [302] [https://defi.backed.fi/geoblock] [143] [302 Found] [cloudflare] [104.18.19.4] [cloudflare] [38.349414ms] [Cloudflare]
+https://share.alphaledger.com [302] [/auth/] [0] [cloudflare] [104.18.30.162] [cloudflare] [634.774621ms] [Algolia,Cloudflare,HSTS,HTTP/3]
