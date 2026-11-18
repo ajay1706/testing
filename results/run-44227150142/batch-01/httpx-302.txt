@@ -1,0 +1,2 @@
+https://status.cakewallet.com [302] [/status/cake] [34] [] [139.177.204.91] [262.985453ms]
+https://support.bifrostwallet.com [302] [https://support.bifrostwallet.com/en/] [0] [nginx] [35.244.200.60] [google] [467.835479ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx]
