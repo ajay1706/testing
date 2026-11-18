@@ -1,0 +1,2 @@
+https://full.perena.org [308] [https://full.perena.org/] [14] [cloudflare] [104.26.7.49] [cloudflare] [640.322633ms] [Cloudflare]
+https://www.perena.org [308] [https://perena.org/] [15] [Vercel] [216.150.1.193] [292.439794ms] [HSTS,Vercel]

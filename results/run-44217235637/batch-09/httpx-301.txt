@@ -1,0 +1,2 @@
+http://dev.perena.org [301] [https://dev.perena.org/] [528] [301 Moved Permanently] [cloudflare] [104.26.6.49] [cloudflare] [62.623403ms] [Cloudflare,Cloudflare Browser Insights]
+http://stgbe.perena.org [301] [https://stgbe.perena.org/] [528] [301 Moved Permanently] [cloudflare] [172.67.68.84] [cloudflare] [52.277029ms] [Cloudflare,Cloudflare Browser Insights]

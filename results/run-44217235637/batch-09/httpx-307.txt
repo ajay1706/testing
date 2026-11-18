@@ -1,0 +1,4 @@
+https://app.perena.org [307] [/earn] [15] [Vercel] [66.33.60.130] [367.788281ms] [HSTS,Vercel]
+https://pwa.perena.org [307] [/earn] [15] [Vercel] [216.150.1.193] [338.143323ms] [HSTS,Vercel]
+https://stagingv1.perena.org [307] [/earn] [15] [Vercel] [216.150.1.193] [378.255326ms] [HSTS,Vercel]
+https://stagingv2.perena.org [307] [/earn] [15] [Vercel] [66.33.60.130] [470.354611ms] [HSTS,Vercel]
