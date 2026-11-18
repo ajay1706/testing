@@ -1,0 +1,7 @@
+https://m90-9asfg7f2vx-market-stream.crypto.com [502] [] [16] [cloudflare] [104.19.223.17] [cloudflare] [2.612788051s] [Cloudflare,HTTP/3]
+https://m12-t8ks94w9gu-market-stream.crypto.com [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [13.249.141.112] [cloudfront] [3.430130485s] [Amazon CloudFront,Amazon Web Services]
+https://market-stream.crypto.com [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [13.227.87.120] [cloudfront] [2.47554763s] [Amazon CloudFront,Amazon Web Services]
+https://pay-connect.crypto.com [502] [] [16] [cloudflare] [104.19.222.17] [cloudflare] [385.411263ms] [Cloudflare,HTTP/3]
+https://privacy.crypto.com [502] [] [16] [cloudflare] [104.19.223.17] [cloudflare] [100.411386ms] [Cloudflare,HTTP/3]
+https://pay-pusher.crypto.com [502] [] [155] [502 Bad Gateway] [cloudflare] [104.19.222.17] [cloudflare] [1.014399667s] [Cloudflare]
+https://serviceinfo.crypto.com [502] [] [16] [cloudflare] [104.19.222.17] [cloudflare] [101.581139ms] [Cloudflare,HTTP/3]

@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 18 07:09:08 UTC 2026
+[+] Run ID: 44227102373
+[+] Batch name: batch-04
+[+] Batch targets:
+crypto.com
+ctrl.xyz
+enkrypt.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 18 07:11:39 UTC 2026
+[+] HTTPX input count: 932
+[+] Running httpx...
+[+] httpx completed: Wed Nov 18 07:12:50 UTC 2026
+[+] httpx line count: 330
+[+] Batch completed: Wed Nov 18 07:12:50 UTC 2026
