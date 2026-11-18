@@ -1,0 +1,6 @@
+http://electrumz.bluewallet.io [308] [https://electrumz.bluewallet.io:8443/] [0] [Caddy] [134.122.78.233] [314.920836ms] [Caddy]
+http://electrum2.bluewallet.io [308] [https://electrum2.bluewallet.io:444/] [0] [Caddy] [65.109.99.229] [357.860554ms] [Caddy]
+http://electrum3.bluewallet.io [308] [https://electrum3.bluewallet.io/] [0] [Caddy] [65.109.99.229] [358.902682ms] [Caddy]
+http://electrum1.bluewallet.io [308] [https://electrum1.bluewallet.io/] [0] [Caddy] [65.109.99.229] [351.553727ms] [Caddy]
+http://bytes.bluewallet.io [308] [https://bytes.bluewallet.io:8445/] [0] [Caddy] [65.109.99.229] [372.707507ms] [Caddy]
+https://www.backpack.app [308] [https://backpack.app/] [15] [Vercel] [76.76.21.21] [249.0317ms] [HSTS,Vercel]
