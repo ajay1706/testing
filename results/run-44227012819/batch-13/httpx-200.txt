@@ -1,0 +1,4 @@
+https://waitlist.waterx.app [200] [] [22930] [WaterX | Join the Waitlist] [cloudflare] [172.67.74.154] [cloudflare] [336.678217ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://docs.waterx.app [200] [] [366282] [What is WaterX | WaterX Docs] [cloudflare] [104.26.12.174] [cloudflare] [196.875045ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,Vercel]
+https://status.waterx.app [200] [] [3497] [WaterX Service Status] [cloudflare] [104.26.12.174] [cloudflare] [927.719427ms] [Cloudflare,Cloudflare Browser Insights]
+https://staging.waterx.app [200] [] [3193] [WaterX] [cloudflare] [104.26.13.174] [cloudflare] [1.070905775s] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
