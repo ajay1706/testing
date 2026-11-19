@@ -1,0 +1,4 @@
+https://ippon.minibits.cash [301] [https://ippon.minibits.cash/v1/] [169] [301 Moved Permanently] [nginx/1.30.7] [195.201.20.134] [615.733193ms] [Nginx:1.30.7]
+https://ngrave.io [301] [https://www.ngrave.io/] [0] [Caddy] [188.166.104.11] [404.511588ms] [Caddy,HTTP/3]
+https://www.minibits.cash [301] [https://minibits.cash/] [169] [301 Moved Permanently] [nginx/1.30.7] [195.201.20.134] [472.979877ms] [Nginx:1.30.7]
+https://www.primal.net [301] [https://primal.net/] [162] [301 Moved Permanently] [cloudflare] [172.67.68.169] [cloudflare] [490.500274ms] [Cloudflare]
