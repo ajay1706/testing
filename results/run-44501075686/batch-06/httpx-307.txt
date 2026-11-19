@@ -1,0 +1,7 @@
+https://dc1.supplychainfinance.hsbc.com [307] [https://dc1.supplychainfinance.hsbc.com/] [250] [307 Temporary Redirect] [Apache] [69.164.68.96] [1.373734037s] [Apache HTTP Server,HSTS]
+https://dc2.supplychainfinance.hsbc.com [307] [https://dc2.supplychainfinance.hsbc.com/] [250] [307 Temporary Redirect] [Apache] [185.22.171.86] [5.925323637s] [Apache HTTP Server,HSTS]
+https://egypt.supplychainfinance.hsbc.com [307] [https://egypt.supplychainfinance.hsbc.com/] [252] [307 Temporary Redirect] [] [220.196.49.71] [2.013966747s] [HSTS]
+https://expatexplorer.hsbc.com [307] [https://www.expat.hsbc.com/expat-explorer/] [165] [Document Moved] [] [80.66.200.76] [6.791948574s] [HSTS]
+https://go.homeloans.us.hsbc.com [307] [/login?callbackUri=%2F] [22] [] [54.159.245.132] [4.452128304s] [HSTS]
+https://go.wealth.us.hsbc.com [307] [/login?callbackUri=%2F] [22] [] [54.159.245.132] [5.342089491s] [HSTS]
+https://www.expatexplorer.hsbc.com [307] [https://www.expat.hsbc.com/expat-explorer/] [165] [Document Moved] [] [80.66.200.76] [1.928803956s] [HSTS]

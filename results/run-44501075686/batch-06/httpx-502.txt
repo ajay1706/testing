@@ -1,0 +1,3 @@
+https://evlayer.gbm.hsbc.com [502] [] [332] [502 Server Error] [] [34.144.255.212] [google] [3.40800049s] [HSTS,HTTP/3]
+https://ifaetvous.hsbcassurances.fr.gslb-uk1.hsbc.com [502] [] [341] [502 Proxy Error] [] [91.214.5.143] [5.075407017s] [HSTS]
+https://ifa.hsbcassurances.fr.gslb-uk1.hsbc.com [502] [] [341] [502 Proxy Error] [] [91.214.5.142] [6.336773029s] [HSTS]
