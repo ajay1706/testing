@@ -1,0 +1,6 @@
+https://news.keycard.tech [301] [https://keycard.tech/blog/] [167] [301 Moved Permanently] [cloudflare] [172.67.200.189] [cloudflare] [109.845801ms] [Cloudflare,HSTS,HTTP/3]
+https://get.keycard.tech [301] [https://keycard.tech/] [0] [cloudflare] [23.227.38.74] [233.450859ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+http://autodiscover.lute.app [301] [https://autodiscover.lute.app/] [0] [Microsoft-HTTPAPI/2.0] [52.96.222.216] [16.653537ms] [Microsoft HTTPAPI:2.0]
+https://www.lute.app [301] [https://lute.app/] [167] [301 Moved Permanently] [cloudflare] [172.67.199.70] [cloudflare] [100.228437ms] [Cloudflare]
+https://www.keycard.tech [301] [https://keycard.tech/] [0] [cloudflare] [23.227.38.74] [222.66806ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+http://analytic.keycard.tech [301] [https://analytic.keycard.tech/] [167] [301 Moved Permanently] [cloudflare] [172.67.200.189] [cloudflare] [31.920861ms] [Cloudflare,HTTP/2]
