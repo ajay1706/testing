@@ -1,0 +1,4 @@
+https://api.ferroprotocol.com [404] [] [103] [cloudflare] [104.20.43.32] [cloudflare] [89.378982ms] [Cloudflare,HSTS]
+https://api.etherex.finance [404] [] [207] [404 Not Found] [railway-hikari] [153.52.255.84] [98.552665ms]
+https://zealy.horizondex.io [404] [] [50] [cloudflare] [172.67.173.228] [cloudflare] [146.86211ms] [Cloudflare,HTTP/3,Netlify]
+https://api.horizondex.io [404] [] [22] [envoy] [51.158.118.98] [1.222405095s] [Envoy]
