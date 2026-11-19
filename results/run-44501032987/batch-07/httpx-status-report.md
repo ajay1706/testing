@@ -1,0 +1,61 @@
+# HTTPX Status Report
+
+Generated at: Thu Nov 19 10:06:34 UTC 2026
+
+HTTPX lines: 32
+Live URLs: 32
+
+## 200
+https://pfm.kumbaya.xyz [200] [] [415] [Protocol Fee Manager - Kumbaya] [cloudflare] [172.67.201.4] [cloudflare] [180.76378ms] [Cloudflare,HTTP/3]
+https://app-stg-platypus.kumbaya.xyz [200] [] [7598] [Kumbaya] [cloudflare] [172.67.201.4] [cloudflare] [193.513079ms] [Cloudflare,HTTP/3]
+https://kumbaya.xyz [200] [] [7299] [Kumbaya] [cloudflare] [104.21.85.17] [cloudflare] [209.535149ms] [Cloudflare,HTTP/3]
+https://docs.lithos.to [200] [] [38545] [Lithos Overview | Lithos Documentation] [cloudflare] [172.66.47.108] [cloudflare] [142.748922ms] [Cloudflare,HTTP/3,Vue.js]
+https://content.kittypunch.xyz [200] [] [23447] [Notion] [cloudflare] [208.103.161.32] [275.014837ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,hCaptcha]
+https://stable.kittypunch.xyz [200] [] [76057] [StableKitty - Purrfect Stable Swaps] [Netlify] [52.52.192.191] [172.39395ms] [C3.js,HSTS,Netlify,Next.js,Node.js,React,Webpack]
+https://game.kumbaya.xyz [200] [] [21928] [Oh Lord, Kumbaya] [cloudflare] [104.21.85.17] [cloudflare] [361.023669ms] [Cloudflare,HTTP/3,Next.js,Node.js,React,Webpack]
+https://www.kumbaya.xyz [200] [] [7299] [Kumbaya] [cloudflare] [172.67.201.4] [cloudflare] [224.881466ms] [Cloudflare,HTTP/3]
+https://docs.kumbaya.xyz [200] [] [360887] [Welcome | Kumbaya Documentation] [cloudflare] [104.18.40.47] [cloudflare] [152.800982ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://bridge.kittypunch.xyz [200] [] [3164] [Vercel] [66.33.60.130] [859.094184ms] [HSTS,Vercel]
+https://lithos.to [200] [] [18814] [Home | Lithos.to] [Vercel] [216.150.16.129] [1.096766417s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://status.kumbaya.xyz [200] [] [267035] [Kumbaya status] [] [167.235.220.62] [705.874372ms] [Google Analytics,HSTS,Stimulus]
+
+## 301
+https://www.kittypunch.xyz [301] [https://kittypunch.xyz/] [38] [Netlify] [13.52.188.95] [199.187182ms] [HSTS,Netlify]
+http://kittypunch.xyz [301] [https://kittypunch.xyz/] [38] [Netlify] [75.2.60.5] [43.595949ms] [Netlify]
+
+## 302
+https://ql.kumbaya.xyz [302] [console] [0] [cloudflare] [104.21.85.17] [cloudflare] [189.732494ms] [Cloudflare,HTTP/3]
+
+## 307
+https://swap.kittypunch.xyz [307] [/trade] [6] [Netlify] [13.52.188.95] [534.247422ms] [HSTS,Netlify]
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://exchange-stg-platypus.kumbaya.xyz [404] [] [21] [cloudflare] [172.67.201.4] [cloudflare] [157.768902ms] [Cloudflare,HTTP/3]
+https://beta.kumbaya.xyz [404] [] [101] [cloudflare] [104.21.85.17] [cloudflare] [173.26171ms] [Cloudflare,HTTP/3]
+https://messages.kumbaya.xyz [404] [] [21] [cloudflare] [104.21.85.17] [cloudflare] [174.23841ms] [Cloudflare,HTTP/3]
+https://messages-dev-emu.kumbaya.xyz [404] [] [101] [cloudflare] [104.21.85.17] [cloudflare] [177.86145ms] [Cloudflare,HTTP/3]
+https://image-dev-emu.kumbaya.xyz [404] [] [13] [cloudflare] [104.21.85.17] [cloudflare] [179.472855ms] [Cloudflare,HTTP/3]
+https://exchange.kumbaya.xyz [404] [] [21] [cloudflare] [104.21.85.17] [cloudflare] [188.269767ms] [Cloudflare,HTTP/3]
+https://clients-stg-platypus.kumbaya.xyz [404] [] [13] [cloudflare] [104.21.85.17] [cloudflare] [188.076234ms] [Cloudflare,HSTS,HTTP/3]
+https://search.kumbaya.xyz [404] [] [21] [cloudflare] [172.67.201.4] [cloudflare] [180.11344ms] [Cloudflare,HTTP/3]
+https://clients.kumbaya.xyz [404] [] [13] [cloudflare] [172.67.201.4] [cloudflare] [190.115651ms] [Cloudflare,HSTS,HTTP/3]
+https://exchange-dev-emu.kumbaya.xyz [404] [] [101] [cloudflare] [104.21.85.17] [cloudflare] [206.997368ms] [Cloudflare,HTTP/3]
+https://privy.kumbaya.xyz [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [206.509456ms] [Cloudflare,Cloudflare Bot Management]
+https://app-dev-emu.kumbaya.xyz [404] [] [101] [cloudflare] [104.21.85.17] [cloudflare] [210.227566ms] [Cloudflare,HTTP/3]
+https://messages-stg-platypus.kumbaya.xyz [404] [] [21] [cloudflare] [172.67.201.4] [cloudflare] [218.616172ms] [Cloudflare,HTTP/3]
+https://search-stg-platypus.kumbaya.xyz [404] [] [21] [cloudflare] [104.21.85.17] [cloudflare] [233.54766ms] [Cloudflare,HTTP/3]
+https://v1-monorepo-pr-188.kumbaya.xyz [404] [] [101] [cloudflare] [172.67.201.4] [cloudflare] [198.230362ms] [Cloudflare,HTTP/3]
+https://t.kumbaya.xyz [404] [] [27150] [Not Found] [cloudflare] [172.67.201.4] [cloudflare] [199.455995ms] [Cloudflare]
+
+## 500
+
+## 502
+
+## 503
+
