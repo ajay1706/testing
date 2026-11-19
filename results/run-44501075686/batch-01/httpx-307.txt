@@ -1,0 +1,2 @@
+https://swap.astros.ag [307] [https://astros.ag/swap/SUI-NAVX] [15] [cloudflare] [104.26.7.97] [cloudflare] [247.986845ms] [Cloudflare,HSTS,Vercel]
+https://perp.astros.ag [307] [/perp/SUI-USD] [15] [Vercel] [216.150.16.193] [269.87215ms] [HSTS,Vercel]
