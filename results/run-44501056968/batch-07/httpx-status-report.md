@@ -1,0 +1,41 @@
+# HTTPX Status Report
+
+Generated at: Thu Nov 19 10:03:40 UTC 2026
+
+HTTPX lines: 12
+Live URLs: 12
+
+## 200
+https://api.kasware.io [200] [] [11] [cloudflare] [172.67.186.71] [cloudflare] [163.647228ms] [Cloudflare,HTTP/3]
+https://kaspium.io [200] [] [3649] [Kaspium] [cloudflare] [104.21.57.83] [cloudflare] [183.946084ms] [Cloudflare,Cloudflare Browser Insights,Firebase,HSTS]
+https://www.kasware.io [200] [] [2107] [KasWare] [cloudflare] [172.67.186.71] [cloudflare] [256.845889ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://testnet.kasware.io [200] [] [2260] [KasWare] [cloudflare] [172.67.186.71] [cloudflare] [324.374152ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://eu-1.kaspa-ng.org [200] [] [979] [Welcome to nginx!] [cloudflare] [104.21.30.102] [cloudflare] [660.36721ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://kaspa-ng.org [200] [] [5909] [Kaspa NG] [cloudflare] [172.67.172.189] [cloudflare] [807.867176ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 301
+https://kasware.io [301] [https://www.kasware.io/] [534] [301 Moved Permanently] [cloudflare] [172.67.186.71] [cloudflare] [92.075143ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.kaspium.io [301] [https://kaspium.io/] [34] [cloudflare] [172.67.161.143] [cloudflare] [139.280416ms] [Cloudflare,Firebase]
+
+## 302
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://api.kaspium.io [404] [] [15] [cloudflare] [172.67.161.143] [cloudflare] [276.137715ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+https://email.kaspium.io [404] [] [19] [] [34.111.99.212] [google] [431.635962ms]
+https://push.kaspium.io [404] [] [15] [cloudflare] [172.67.161.143] [cloudflare] [810.850023ms] [Cloudflare,Google Cloud,Google Cloud Trace]
+
+## 500
+
+## 502
+https://beacon.kaspa-ng.org [502] [] [16] [cloudflare] [104.21.30.102] [cloudflare] [689.581066ms] [Cloudflare,HTTP/3]
+
+## 503
+
