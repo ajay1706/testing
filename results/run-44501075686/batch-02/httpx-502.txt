@@ -1,0 +1,6 @@
+https://digitalinvestments.calastone.com [502] [] [183] [502 Bad Gateway] [] [150.171.110.210] [355.135594ms] [Azure,Azure Front Door]
+https://hsbc-etf.calastone.com [502] [] [183] [502 Bad Gateway] [Microsoft-Azure-Application-Gateway/v2] [20.26.142.225] [366.921407ms]
+https://payments.calastone.com [502] [] [585] [502 Bad Gateway] [] [150.171.110.209] [331.154577ms] [Azure,Azure Front Door]
+https://orders.calastone.com [502] [] [183] [502 Bad Gateway] [] [150.171.110.212] [367.696161ms] [Azure,Azure Front Door]
+https://settlements.calastone.com [502] [] [585] [502 Bad Gateway] [] [150.171.110.209] [2.383799092s] [Azure,Azure Front Door]
+https://telegram.chintai.io [502] [] [16] [cloudflare] [104.20.30.4] [cloudflare] [524.515293ms] [Cloudflare]

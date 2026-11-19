@@ -1,0 +1,8 @@
+http://autodiscover.calastone.com [301] [https://autodiscover.calastone.com/] [0] [Microsoft-HTTPAPI/2.0] [52.96.79.248] [2.007492ms] [Microsoft HTTPAPI:2.0]
+https://calastone.com [301] [https://www.calastone.com/] [0] [cloudflare] [141.193.213.21] [109.010063ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,WP Engine,WordPress]
+https://help.chintai.io [301] [https://chintai.io/] [167] [301 Moved Permanently] [cloudflare] [104.20.30.4] [cloudflare] [99.339971ms] [Cloudflare,HSTS]
+https://nexus.chintai.io [301] [https://chintainexus.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.141] [cloudflare] [59.290901ms] [Cloudflare,HSTS]
+https://login.calastone.com [301] [/oauth/account/login] [0] [] [20.108.218.164] [345.563644ms]
+http://portal.calastone.com [301] [https://portal.calastone.com/] [195] [301 Moved Permanently] [] [150.171.110.210] [103.172407ms] [Azure,Azure Front Door]
+http://sg.app.chintai.io [301] [https://sg.app.chintai.io/] [167] [301 Moved Permanently] [CloudFront] [3.168.40.43] [cloudfront] [19.676367ms] [Amazon CloudFront,Amazon Web Services]
+https://www.chintai.io [301] [https://chintai.io/] [167] [301 Moved Permanently] [cloudflare] [104.20.30.4] [cloudflare] [125.942553ms] [Cloudflare,HSTS]
