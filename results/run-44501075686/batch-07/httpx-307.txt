@@ -1,0 +1,4 @@
+https://laserdigital.com [307] [https://www.laserdigital.com/] [15] [Vercel] [216.150.1.1] [143.689027ms] [HSTS,Vercel]
+https://pulse.laserdigital.com [307] [/trading] [8] [] [15.197.73.88] [103.078408ms] [HSTS]
+https://pulse.prod.laserdigital.com [307] [/trading] [8] [] [15.197.73.88] [186.523096ms] [HSTS]
+https://pulse.stg.laserdigital.com [307] [/trading] [8] [] [76.223.75.68] [345.521184ms] [HSTS]
