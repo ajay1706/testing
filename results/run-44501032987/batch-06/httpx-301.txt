@@ -1,0 +1,8 @@
+https://increment.fi [301] [https://app.increment.fi/] [167] [301 Moved Permanently] [cloudflare] [104.21.92.241] [cloudflare] [121.392371ms] [Cloudflare,HSTS,HTTP/3]
+https://swap.increment.fi [301] [https://app.increment.fi/] [167] [301 Moved Permanently] [cloudflare] [172.67.200.33] [cloudflare] [306.765092ms] [Cloudflare,HSTS,HTTP/3]
+https://www.increment.fi [301] [https://app.increment.fi/] [167] [301 Moved Permanently] [cloudflare] [172.67.200.33] [cloudflare] [75.693758ms] [Cloudflare,HSTS,HTTP/3]
+http://ai-admin-testnet.hyperflow.fun [301] [https://ai-admin-testnet.hyperflow.fun/] [167] [301 Moved Permanently] [cloudflare] [172.67.191.212] [cloudflare] [23.86188ms] [Cloudflare,HTTP/3]
+http://ai-gateway-testnet.hyperflow.fun [301] [https://ai-gateway-testnet.hyperflow.fun/] [167] [301 Moved Permanently] [cloudflare] [104.21.20.62] [cloudflare] [29.719513ms] [Cloudflare,HTTP/3]
+http://ai-testnet.hyperflow.fun [301] [https://ai-testnet.hyperflow.fun/] [167] [301 Moved Permanently] [cloudflare] [172.67.191.212] [cloudflare] [33.718817ms] [Cloudflare,HTTP/2]
+http://testnet-admin.hyperflow.fun [301] [https://testnet-admin.hyperflow.fun/] [167] [301 Moved Permanently] [cloudflare] [172.67.191.212] [cloudflare] [21.386084ms] [Cloudflare,HTTP/3]
+http://testnet-api.hyperflow.fun [301] [https://testnet-api.hyperflow.fun/] [167] [301 Moved Permanently] [cloudflare] [104.21.20.62] [cloudflare] [31.535976ms] [Cloudflare,HTTP/3]
