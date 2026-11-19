@@ -1,0 +1,2 @@
+https://autodiscover.gamechanger.finance [302] [https://c232.ferozo.com/autodiscover/autodiscover.xml] [644] [302 Found] [cloudflare] [172.67.199.185] [cloudflare] [842.446429ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://support.fedi.xyz [302] [https://support.fedi.xyz/hc] [0] [cloudflare] [216.198.54.11] [431.173893ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
