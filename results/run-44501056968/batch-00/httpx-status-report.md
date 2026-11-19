@@ -1,0 +1,49 @@
+# HTTPX Status Report
+
+Generated at: Thu Nov 19 10:03:13 UTC 2026
+
+HTTPX lines: 20
+Live URLs: 20
+
+## 200
+https://albedo.link [200] [] [3764] [Albedo] [cloudflare] [104.26.6.184] [cloudflare] [109.884414ms] [Cloudflare,Cloudflare Browser Insights]
+https://bennu.8333.mobi [200] [] [32038] [Bennu] [GitHub.com] [185.199.110.153] [189.027759ms] [Fastly,GitHub Pages,Varnish]
+https://stx.asigna.io [200] [] [2075] [Asigna Stacks Multisig] [Vercel] [216.150.16.193] [306.03648ms] [HSTS,Vercel]
+https://verify.asigna.io [200] [] [1736] [Asigna Verify] [Vercel] [216.150.16.193] [198.143306ms] [HSTS,Vercel]
+https://btc.asigna.io [200] [] [2404] [Asigna Bitcoin Multisig] [Vercel] [216.150.16.193] [304.080082ms] [Google Hosted Libraries,HSTS,Vercel,jsDelivr]
+https://code.8333.mobi [200] [] [15860] [Gitea: Git with a cup of rooibos tea] [nginx/1.18.0 (Ubuntu)] [128.199.54.84] [399.509995ms] [Gitea,Go,Nginx:1.18.0,Ubuntu]
+https://www.asigna.io [200] [] [18820] [Asigna: Multisig Smart Wallet for Bitcoin L2s and L1 Metaprotocols] [Vercel] [216.150.16.193] [63.475574ms] [HSTS,Vercel]
+https://8333.mobi [200] [] [36939] [Machankura] [nginx/1.24.0 (Ubuntu)] [13.246.117.172] [676.563522ms] [Express,Google Hosted Libraries,Nginx:1.24.0,Node.js,Ubuntu,Unpkg,jQuery:3.6.1]
+https://zec.asigna.io [200] [] [2042] [Asigna Zcash Multisig] [Vercel] [216.150.16.193] [194.462682ms] [HSTS,Vercel]
+https://web.8333.mobi [200] [] [4653] [Machankura] [nginx/1.24.0 (Ubuntu)] [13.246.117.172] [715.581858ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+https://mempool1.8333.mobi [200] [] [3087] [mempool - Bitcoin Explorer] [nginx/1.18.0 (Ubuntu)] [13.246.81.87] [1.323390096s] [Nginx:1.18.0,Ubuntu]
+https://mempool.8333.mobi [200] [] [3087] [mempool - Bitcoin Explorer] [nginx/1.18.0 (Ubuntu)] [13.246.81.87] [1.324902795s] [Nginx:1.18.0,Ubuntu]
+
+## 301
+http://autodiscover.8333.mobi [301] [https://autodiscover.8333.mobi/] [0] [Microsoft-HTTPAPI/2.0] [52.96.183.40] [1.94055ms] [Microsoft HTTPAPI:2.0]
+
+## 302
+https://www.albedo.link [302] [https://albedo.link/] [143] [302 Found] [cloudflare] [104.26.7.184] [cloudflare] [60.372149ms] [Cloudflare]
+https://www.8333.mobi [302] [https://8333.mobi] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [13.246.117.172] [797.943459ms] [Nginx:1.24.0,Ubuntu]
+
+## 307
+
+## 308
+https://asigna.io [308] [https://www.asigna.io/] [15] [Vercel] [216.150.1.1] [83.720656ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://bitcoin-multisig-api-mainnet.asigna.io [404] [] [27] [nginx/1.24.0 (Ubuntu)] [88.99.209.125] [313.059277ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://bitcoin-multisig-api-testnet.asigna.io [404] [] [27] [nginx/1.24.0 (Ubuntu)] [88.99.209.125] [322.632057ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://stacks-multisig-api.asigna.io [404] [] [27] [nginx/1.24.0 (Ubuntu)] [88.99.209.125] [339.142645ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://platform.8333.mobi [404] [] [139] [Error] [nginx/1.24.0 (Ubuntu)] [13.246.116.88] [828.747386ms] [Express,Nginx:1.24.0,Node.js,Ubuntu]
+
+## 500
+
+## 502
+
+## 503
+
