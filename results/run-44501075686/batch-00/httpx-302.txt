@@ -1,0 +1,7 @@
+https://akamnavp.allfunds.com [302] [https://next.allfunds.com/dev/sso?url=https://akamnavp.allfunds.com/] [0] [Google Frontend] [34.110.221.14] [google] [220.479023ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://bpmdevafb.allfunds.com [302] [https://bpmdevafb.allfunds.com/suite/] [0] [] [15.197.81.44] [330.879126ms] [HSTS]
+https://bpmpreafb.allfunds.com [302] [https://bpmpreafb.allfunds.com/suite/] [0] [] [15.197.64.80] [362.523616ms] [HSTS]
+https://bpmafb.allfunds.com [302] [https://bpmafb.allfunds.com/suite/] [0] [] [166.117.206.32] [542.220919ms] [HSTS]
+https://navigator.allfunds.com [302] [https://next.allfunds.com/dev/sso?url=https://navigator.allfunds.com/] [0] [Google Frontend] [34.110.221.14] [google] [236.233148ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://adabase.allfunds.com [302] [https://next.allfunds.com/] [78835] [Data insight] [Apache] [13.32.205.117] [cloudfront] [1.516284846s] [Amazon CloudFront,Amazon Web Services,Apache HTTP Server,DataTables,Font Awesome,HSTS,PHP,Tablesorter,amCharts,jQuery UI,jQuery:3.6.4]
+https://widget.allfunds.com [302] [https://widget.allfunds.com/funds/details] [0] [] [54.194.132.112] [301.675762ms] [HSTS]

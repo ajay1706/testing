@@ -1,0 +1,1 @@
+https://marketdata.allfunds.com [500] [] [30] [nginx] [185.226.224.184] [978.204434ms] [Express,HSTS,Nginx,Node.js]
