@@ -1,0 +1,4 @@
+https://innovation.republic.com [301] [https://republic.com/innovation] [167] [301 Moved Permanently] [cloudflare] [104.18.25.137] [cloudflare] [83.465657ms] [Cloudflare,HSTS,HTTP/3]
+http://testing.eu.republic.com [301] [https://testing.eu.republic.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.38.43] [cloudflare] [192.365642ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://www.eu.republic.com [301] [https://www.eu.republic.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.38.43] [cloudflare] [132.349972ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://www.testing.eu.republic.com [301] [https://www.testing.eu.republic.com/] [167] [301 Moved Permanently] [cloudflare] [172.64.149.213] [cloudflare] [226.498722ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]

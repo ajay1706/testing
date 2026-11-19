@@ -1,0 +1,14 @@
+[+] Batch started: Thu Nov 19 10:06:54 UTC 2026
+[+] Run ID: 44501075686
+[+] Batch name: batch-08
+[+] Batch targets:
+perpsplexity.app
+provenance.io
+republic.com
+[+] Running subfinder...
+[+] Subfinder completed: Thu Nov 19 10:08:34 UTC 2026
+[+] HTTPX input count: 95
+[+] Running httpx...
+[+] httpx completed: Thu Nov 19 10:08:55 UTC 2026
+[+] httpx line count: 46
+[+] Batch completed: Thu Nov 19 10:08:56 UTC 2026
