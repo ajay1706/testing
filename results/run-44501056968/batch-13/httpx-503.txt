@@ -1,0 +1,7 @@
+https://electrs.testnet.zano.org [503] [] [20] [] [138.197.229.102] [76.937998ms]
+https://esplora.testnet.zano.org [503] [] [20] [] [138.197.229.102] [188.291947ms]
+https://oracle.testnet.zano.org [503] [] [20] [] [138.197.229.102] [81.0999ms]
+https://tss1.testnet-liquid.zano.org [503] [] [20] [] [138.197.229.102] [183.977807ms]
+https://tss3.testnet-liquid.zano.org [503] [] [20] [] [138.197.229.102] [148.354931ms]
+https://tss2.testnet-liquid.zano.org [503] [] [20] [] [138.197.229.102] [148.717014ms]
+https://waterfalls.testnet.zano.org [503] [] [20] [] [138.197.229.102] [239.705627ms]
