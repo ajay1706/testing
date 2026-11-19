@@ -1,0 +1,2 @@
+https://docs.okiedokie.fun [307] [https://docs.okie.finance/] [15] [cloudflare] [104.18.40.47] [cloudflare] [242.263924ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.okiedokie.fun [307] [https://okiedokie.fun/] [15] [Vercel] [216.150.16.193] [166.091171ms] [HSTS,Vercel]
