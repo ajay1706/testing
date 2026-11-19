@@ -1,0 +1,2 @@
+https://mail.ubeswap.org [301] [https://mail.ubeswap.org/] [901] [301 Moved Permanently] [cloudflare] [104.21.13.231] [cloudflare] [140.737229ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://v3.ubeswap.org [301] [https://v3.ubeswap.org/] [901] [301 Moved Permanently] [cloudflare] [104.21.13.231] [cloudflare] [124.30347ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
