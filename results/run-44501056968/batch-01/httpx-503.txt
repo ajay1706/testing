@@ -1,0 +1,3 @@
+https://api.staging.beansapp.com [503] [] [105] [Kestrel] [20.71.13.68] [334.965327ms] [HTTP/3,Kestrel,Microsoft ASP.NET]
+https://recovery.staging.beansapp.com [503] [] [105] [Kestrel] [20.71.13.68] [397.035769ms] [HTTP/3,Kestrel,Microsoft ASP.NET]
+https://recovery-proxy.staging.beansapp.com [503] [] [105] [cloudflare] [20.71.13.68] [498.51681ms] [Cloudflare,HTTP/3]

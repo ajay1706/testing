@@ -1,0 +1,14 @@
+[+] Batch started: Thu Nov 19 09:58:56 UTC 2026
+[+] Run ID: 44501056968
+[+] Batch name: batch-01
+[+] Batch targets:
+beansapp.com
+bearby.io
+bitcoin-safe.org
+[+] Running subfinder...
+[+] Subfinder completed: Thu Nov 19 10:00:59 UTC 2026
+[+] HTTPX input count: 97
+[+] Running httpx...
+[+] httpx completed: Thu Nov 19 10:01:21 UTC 2026
+[+] httpx line count: 42
+[+] Batch completed: Thu Nov 19 10:01:21 UTC 2026

@@ -1,0 +1,69 @@
+# HTTPX Status Report
+
+Generated at: Thu Nov 19 10:01:21 UTC 2026
+
+HTTPX lines: 42
+Live URLs: 42
+
+## 200
+https://api-development.beansapp.com [200] [] [305] [cloudflare] [172.67.155.189] [cloudflare] [144.086628ms] [Cloudflare,HTTP/3]
+https://dynamiclink.beansapp.com [200] [] [27803] [] [199.36.158.100] [151.901872ms] [Firebase,HTTP/3]
+https://bitcoin-safe.org [200] [] [643] [https://bitcoin-safe.org/en/] [cloudflare] [172.67.134.192] [cloudflare] [251.026089ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HSTS,HTTP/3,Varnish]
+https://files.bitcoin-safe.org [200] [] [530] [cloudflare] [104.21.6.111] [cloudflare] [299.587651ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,LiteSpeed,LiteSpeed Cache,Litespeed Cache]
+https://email.beansapp.com [200] [] [0] [Caddy] [34.91.249.129] [google] [366.700946ms] [Caddy]
+https://deeplink.beansapp.com [200] [] [2119] [Beansapp] [cloudflare] [162.159.140.159] [cloudflare] [381.379134ms] [Cloudflare,HSTS,HTTP/3]
+https://deeplink.staging.beansapp.com [200] [] [2119] [Beansapp] [cloudflare] [172.66.0.157] [cloudflare] [384.998138ms] [Cloudflare,HSTS,HTTP/3]
+https://deeplink.development.beansapp.com [200] [] [2119] [Beansapp] [cloudflare] [172.66.0.157] [cloudflare] [465.003667ms] [Cloudflare,HSTS,HTTP/3]
+https://git.bearby.io [200] [] [2853] [] [46.4.25.40] [510.921013ms] [HSTS,HTTP/3]
+https://blog.bearby.io [200] [] [11271] [Bearby Blog] [Caddy] [80.87.102.25] [774.906773ms] [Caddy,Clipboard.js,HTTP/3]
+https://bearby.io [200] [] [153364] [Bearby — Secure Non-Custodial Crypto Wallet] [Vercel] [76.76.21.21] [970.656824ms] [HSTS,Vercel]
+https://www.beansapp.com [200] [] [386843] [Instant, free & safe international money transfers | Beans App] [cloudflare] [198.202.211.1] [235.342041ms] [Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,Weglot,jQuery:3.5.1,jsDelivr]
+
+## 301
+https://beansapp.com [301] [https://www.beansapp.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [180.184472ms] [Cloudflare,HSTS,HTTP/3]
+https://www.bitcoin-safe.org [301] [https://bitcoin-safe.org/] [529] [301 Moved Permanently] [cloudflare] [104.21.6.111] [cloudflare] [203.746219ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HSTS,HTTP/3,Varnish]
+http://mail.bearby.io [301] [https://mail.bearby.io/] [510] [301 Moved Permanently] [OpenBSD httpd] [213.189.221.172] [332.480734ms] [Apache HTTP Server,OpenBSD httpd]
+
+## 302
+
+## 307
+
+## 308
+http://dev.bearby.io [308] [https://dev.bearby.io/] [0] [Caddy] [172.233.77.236] [302.559231ms] [Caddy]
+https://www.bearby.io [308] [https://bearby.io/] [15] [Vercel] [76.76.21.142] [1.293575295s] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://mail.beansapp.com [403] [] [17] [cloudflare] [198.202.211.1] [278.154474ms] [Cloudflare,HTTP/3]
+https://logging.staging.beansapp.com [403] [] [93] [] [20.71.13.68] [344.984354ms]
+https://logging.beansapp.com [403] [] [93] [] [20.50.37.101] [384.561482ms]
+https://glitchtip.beansapp.com [403] [] [30] [Caddy] [46.225.93.40] [399.78712ms] [Caddy,HTTP/3]
+https://smtp.beansapp.com [403] [] [17] [cloudflare] [198.202.211.1] [373.927178ms] [Cloudflare,HTTP/3]
+
+## 404
+https://api.demo.beansapp.com [404] [] [9] [] [20.71.13.68] [334.63242ms] [HTTP/3]
+https://recovery.test.beansapp.com [404] [] [9] [] [20.71.13.68] [362.584912ms] [HTTP/3]
+https://api.beansapp.com [404] [] [9] [] [20.50.37.101] [366.806097ms] [HTTP/3]
+https://recovery.beansapp.com [404] [] [9] [] [20.50.37.101] [374.384408ms] [HTTP/3]
+https://logging.test.beansapp.com [404] [] [9] [] [20.71.13.68] [377.127737ms] [HTTP/3]
+https://logging.demo.beansapp.com [404] [] [9] [] [20.71.13.68] [383.652141ms] [HTTP/3]
+https://api.test.beansapp.com [404] [] [9] [] [20.71.13.68] [434.611447ms] [HTTP/3]
+https://recovery.demo.beansapp.com [404] [] [9] [] [20.71.13.68] [438.835663ms] [HTTP/3]
+https://recovery-proxy.beansapp.com [404] [] [19] [cloudflare] [20.50.37.101] [479.758702ms] [Cloudflare,HTTP/3]
+https://system-cdn-staging.beansapp.com [404] [] [0] [cloudflare] [172.67.155.189] [cloudflare] [126.0699ms] [Cloudflare,HTTP/3]
+https://system-cdn.beansapp.com [404] [] [0] [cloudflare] [172.67.155.189] [cloudflare] [167.423119ms] [Cloudflare,HTTP/3]
+https://pay.bitcoin-safe.org [404] [] [0] [cloudflare] [172.67.134.192] [cloudflare] [754.452068ms] [Cloudflare,HSTS,HTTP/3]
+https://rates.bearby.io [404] [] [0] [] [80.87.102.25] [780.616808ms] [HSTS,HTTP/3]
+https://farm.bearby.io [404] [] [0] [] [80.87.102.25] [790.667479ms] [HSTS,HTTP/3]
+https://subscription.bitcoin-safe.org [404] [] [21] [cloudflare] [172.67.134.192] [cloudflare] [823.581397ms] [Cloudflare,HSTS,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+https://api.staging.beansapp.com [503] [] [105] [Kestrel] [20.71.13.68] [334.965327ms] [HTTP/3,Kestrel,Microsoft ASP.NET]
+https://recovery.staging.beansapp.com [503] [] [105] [Kestrel] [20.71.13.68] [397.035769ms] [HTTP/3,Kestrel,Microsoft ASP.NET]
+https://recovery-proxy.staging.beansapp.com [503] [] [105] [cloudflare] [20.71.13.68] [498.51681ms] [Cloudflare,HTTP/3]
+

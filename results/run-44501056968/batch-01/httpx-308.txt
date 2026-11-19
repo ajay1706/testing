@@ -1,0 +1,2 @@
+http://dev.bearby.io [308] [https://dev.bearby.io/] [0] [Caddy] [172.233.77.236] [302.559231ms] [Caddy]
+https://www.bearby.io [308] [https://bearby.io/] [15] [Vercel] [76.76.21.142] [1.293575295s] [HSTS,Vercel]
