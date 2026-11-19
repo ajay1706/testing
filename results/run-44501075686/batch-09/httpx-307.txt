@@ -1,0 +1,2 @@
+https://dev-platform.rizenet.io [307] [/auth/login] [6625] [Platform | T-RIZE Group] [cloudflare] [172.67.176.213] [cloudflare] [9.548279713s] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,Google Cloud Trace,HTTP/3,Next.js,Node.js,React,Webpack]
+https://staging-platform.rizenet.io [307] [/auth/login] [6634] [Platform | T-RIZE Group] [cloudflare] [172.67.176.213] [cloudflare] [4.146277939s] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,Google Cloud Trace,HTTP/3,Next.js,Node.js,React,Webpack]

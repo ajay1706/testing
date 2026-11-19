@@ -1,0 +1,7 @@
+http://autodiscover.sgforge.com [301] [https://autodiscover.sgforge.com/] [0] [Microsoft-HTTPAPI/2.0] [52.96.181.104] [16.122266ms] [Microsoft HTTPAPI:2.0]
+https://bullcharge.sgx.com [301] [https://www.sgxgroup.com/sgx-cares/bull-charge] [0] [] [23.212.251.89] [210.503758ms]
+https://first.sgx.com [301] [https://www.sgx.com/sustainable-finance] [0] [AkamaiGHost] [23.212.251.84] [6.266135395s]
+http://gift-connect-dr.sgx.com [301] [https://gift-connect-dr.sgx.com/] [0] [] [23.205.104.151] [245.100715ms]
+http://gift-connect.sgx.com [301] [https://gift-connect.sgx.com/] [0] [] [23.212.248.26] [233.287614ms]
+https://sgx.com [301] [https://www.sgx.com] [0] [] [23.212.248.12] [328.951625ms] [Amazon CloudFront,Amazon Web Services]
+https://sgforge.com [301] [https://www.sgforge.com/] [0] [Apache] [146.59.209.152] [969.98746ms] [Apache HTTP Server,HSTS,PHP:8.3]
