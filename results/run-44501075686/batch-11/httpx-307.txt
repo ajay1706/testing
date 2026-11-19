@@ -1,0 +1,4 @@
+https://asset-wizard1.ubs.com [302] [https://asset-wizard1.ubs.com/M69/] [307] [302 Found] [Apache] [94.154.164.32] [1.140028175s] [Apache HTTP Server,HSTS]
+https://asset-wizard2.ubs.com [302] [https://asset-wizard2.ubs.com/M69/] [307] [302 Found] [Apache] [94.154.166.32] [1.215562403s] [Apache HTTP Server,HSTS]
+https://p0-asset-wizard1.falcon.ubs.com [302] [https://asset-wizard1.ubs.com/M69/] [307] [302 Found] [Apache] [94.154.164.32] [865.036191ms] [Apache HTTP Server,HSTS]
+https://p0-asset-wizard2.falcon.ubs.com [302] [https://asset-wizard2.ubs.com/M69/] [307] [302 Found] [Apache] [94.154.166.32] [1.075269193s] [Apache HTTP Server,HSTS]
