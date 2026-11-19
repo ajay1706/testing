@@ -1,0 +1,4 @@
+http://autodiscover.mail.citadel.one [301] [https://autodiscover.mail.citadel.one/] [545] [301 Moved Permanently] [cloudflare] [104.21.28.75] [cloudflare] [395.749383ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://autoconfig.mail.citadel.one [301] [https://autoconfig.mail.citadel.one/] [545] [301 Moved Permanently] [cloudflare] [104.21.28.75] [cloudflare] [383.7338ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mail.citadel.one [301] [https://mail.citadel.one/mail] [178] [301 Moved Permanently] [nginx] [18.181.42.236] [513.106164ms] [HSTS,Nginx]
+http://relaystaging.coinos.io [301] [https://relaystaging.coinos.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.10.204] [cloudflare] [20.130278ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]

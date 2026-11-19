@@ -1,0 +1,60 @@
+# HTTPX Status Report
+
+Generated at: Thu Nov 19 09:59:55 UTC 2026
+
+HTTPX lines: 34
+Live URLs: 34
+
+## 200
+https://coinos.io [200] [] [2319] [coinos] [cloudflare] [104.26.11.204] [cloudflare] [127.890988ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://citadel.one [200] [] [10447] [Citadel.one] [nginx/1.24.0 (Ubuntu)] [65.109.109.111] [388.872235ms] [Nginx:1.24.0,Ubuntu]
+https://autoconfig.citadel.one [200] [] [1711] [this is a mail-in-a-box] [cloudflare] [172.67.144.187] [cloudflare] [551.522854ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://app.citadel.one [200] [] [12197] [Citadel.one] [cloudflare] [104.21.28.75] [cloudflare] [406.098686ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://autodiscover.citadel.one [200] [] [1711] [this is a mail-in-a-box] [cloudflare] [104.21.28.75] [cloudflare] [567.258626ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://media.coinos.io [200] [] [2319] [coinos] [cloudflare] [172.67.68.47] [cloudflare] [317.647604ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://bitcoin.coinos.io [200] [] [155229] [Coinos] [cloudflare] [104.26.10.204] [cloudflare] [363.679668ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://cashu.me [200] [] [99858] [Cashu Me] [] [164.90.243.102] [335.221568ms] [Next.js,Node.js,React,Webpack]
+https://relay.coinos.io [200] [] [426] [cloudflare] [104.26.11.204] [cloudflare] [59.208819ms] [Cloudflare,HTTP/3]
+https://mint.coinos.io [200] [] [25199] [Coinos] [cloudflare] [172.67.68.47] [cloudflare] [48.598601ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://redeem.cashu.me [200] [] [7808] [Cashu Redeem] [Vercel] [66.33.60.129] [224.234763ms] [HSTS,Vercel]
+https://paper.coinos.io [200] [] [1241] [cloudflare] [104.26.11.204] [cloudflare] [340.188686ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://staking.citadel.one [200] [] [2410] [XCT Portal] [cloudflare] [104.21.28.75] [cloudflare] [373.844364ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://sui-bridge-testnet.citadel.one [200] [] [0] [nginx/1.24.0 (Ubuntu)] [149.50.96.211] [331.246328ms] [Nginx:1.24.0,Ubuntu]
+https://sui-bridge.citadel.one [200] [] [0] [nginx/1.24.0 (Ubuntu)] [149.50.96.211] [336.508755ms] [Nginx:1.24.0,Ubuntu]
+https://swap.coinos.io [200] [] [13040] [Coinos Swap | Non-Custodial Bitcoin Bridge] [cloudflare] [104.26.10.204] [cloudflare] [261.787592ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://staging.coinos.io [200] [] [136552] [Coinos Staging] [cloudflare] [104.26.10.204] [cloudflare] [359.800136ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.coinos.io [200] [] [2319] [coinos] [cloudflare] [104.26.11.204] [cloudflare] [292.972929ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.citadel.one [200] [] [2633] [Citadel Backup] [cloudflare] [104.21.28.75] [cloudflare] [377.196862ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 301
+http://autodiscover.mail.citadel.one [301] [https://autodiscover.mail.citadel.one/] [545] [301 Moved Permanently] [cloudflare] [104.21.28.75] [cloudflare] [395.749383ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://autoconfig.mail.citadel.one [301] [https://autoconfig.mail.citadel.one/] [545] [301 Moved Permanently] [cloudflare] [104.21.28.75] [cloudflare] [383.7338ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mail.citadel.one [301] [https://mail.citadel.one/mail] [178] [301 Moved Permanently] [nginx] [18.181.42.236] [513.106164ms] [HSTS,Nginx]
+http://relaystaging.coinos.io [301] [https://relaystaging.coinos.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.10.204] [cloudflare] [20.130278ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://link.citadel.one [302] [registeredDomain.php] [0] [cloudflare] [104.21.28.75] [cloudflare] [371.277951ms] [Cloudflare,HTTP/3,PHP]
+
+## 307
+
+## 308
+http://staging.cashu.me [308] [https://staging.cashu.me/] [0] [Caddy] [91.237.88.220] [216.553715ms] [Caddy]
+http://wallet.cashu.me [308] [https://wallet.cashu.me/] [0] [Caddy] [91.237.88.220] [217.752373ms] [Caddy]
+
+## 401
+
+## 403
+https://dev.coinos.io [403] [] [4906] [Attention Required! | Cloudflare] [cloudflare] [104.26.11.204] [cloudflare] [45.990991ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 404
+https://staking-api.citadel.one [404] [] [16] [cloudflare] [104.21.28.75] [cloudflare] [384.300441ms] [Cloudflare,Express,HTTP/3,Node.js]
+https://swap.cashu.me [404] [] [19] [] [164.90.243.102] [339.318829ms]
+https://www.cashu.me [404] [] [19] [] [164.90.243.102] [327.495185ms]
+https://www.swap.cashu.me [404] [] [19] [] [164.90.243.102] [303.371979ms]
+
+## 500
+
+## 502
+
+## 503
+
