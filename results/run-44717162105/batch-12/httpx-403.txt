@@ -1,0 +1,3 @@
+https://internal.battle2.valhalla.game [403] [] [151] [403 Forbidden] [cloudflare] [34.107.174.73] [google] [54.346454ms] [Cloudflare,Google Cloud,Google Cloud CDN,HTTP/3]
+https://internal.realm.valhalla.game [403] [] [151] [403 Forbidden] [cloudflare] [34.107.174.73] [google] [50.178865ms] [Cloudflare,Google Cloud,Google Cloud CDN,HTTP/3]
+https://wildpaper.wildcardgame.com [403] [] [17] [cloudflare] [104.18.40.47] [cloudflare] [187.394892ms] [Cloudflare]
