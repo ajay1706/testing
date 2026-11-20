@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:17:11 UTC 2026
+[+] Run ID: 44716974295
+[+] Batch name: batch-07
+[+] Batch targets:
+lighter.xyz
+nado.xyz
+orderly.network
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:19:35 UTC 2026
+[+] HTTPX input count: 920
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:22:58 UTC 2026
+[+] httpx line count: 156
+[+] Batch completed: Fri Nov 20 10:22:59 UTC 2026
