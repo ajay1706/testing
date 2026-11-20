@@ -1,0 +1,80 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:31:14 UTC 2026
+
+HTTPX lines: 52
+Live URLs: 52
+
+## 200
+https://graph.nordstern.finance [200] [] [10176] [Liquidity Graph · Nordstern Finance] [Vercel] [216.150.1.129] [282.316783ms] [HSTS,Vercel]
+https://blog.opinion.trade [200] [] [254958] [Opinion Learn: Understand the Market Behind the Headline] [cloudflare] [172.66.3.9] [cloudflare] [280.151111ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://avatar.opinion.trade [200] [] [2300] [Join the X-ray Army | Photo Editor] [cloudflare] [185.158.133.1] [915.088186ms] [Cloudflare,Cloudflare Bot Management,HSTS,Lovable]
+https://nordstern.finance [200] [] [2301] [Nordstern] [Vercel] [216.150.1.1] [174.66799ms] [HSTS,Vercel]
+https://docs.opinion.trade [200] [] [411373] [Welcome to OPINION | OPINION Docs] [cloudflare] [104.18.40.47] [cloudflare] [315.469584ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://experience.okto.tech [200] [] [80] [cloudflare] [104.18.4.245] [cloudflare] [927.231816ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://okto.tech [200] [] [263826] [Okto] [Framer/3e471b4] [31.43.160.6] [148.71041ms] [Framer Sites,HSTS,HTTP/3,React]
+https://norge-stream.okto.tech [200] [] [27] [istio-envoy] [15.252.155.226] [1.853386979s] [Envoy,Express,Node.js]
+https://norge-stream-v2.okto.tech [200] [] [27] [istio-envoy] [65.1.29.184] [2.074797285s] [Envoy,Express,Node.js]
+https://website.okto.tech [200] [] [53971] [Okto: DeFi Crypto Wallet | Earn Crypto Passive Income Through Web3 & DeFi Investments] [cloudflare] [104.18.4.245] [cloudflare] [945.429365ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,HSTS]
+
+## 301
+https://discord.okto.tech [301] [https://discord.gg/yDF4cR8z2K] [167] [301 Moved Permanently] [cloudflare] [104.18.5.245] [cloudflare] [174.879176ms] [Cloudflare,HSTS]
+https://opinion.trade [301] [https://app.opinion.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.161.143] [cloudflare] [107.391334ms] [Cloudflare]
+https://support.okto.tech [301] [https://help-okto.sprinklr.com/help/] [167] [301 Moved Permanently] [cloudflare] [104.18.4.245] [cloudflare] [95.55824ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.opinion.trade [301] [https://app.opinion.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.161.143] [cloudflare] [130.481056ms] [Cloudflare]
+
+## 302
+https://app.opinion.trade [302] [https://app.opinion.trade/region-restricted] [143] [302 Found] [cloudflare] [104.20.18.133] [cloudflare] [95.16094ms] [Cloudflare]
+
+## 307
+https://pay.okto.tech [307] [/deposit/payment-methods] [24] [cloudflare] [104.18.5.245] [cloudflare] [866.83734ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://portal.nordstern.finance [307] [/login] [14069] [Nordstern — Developer Console] [cloudflare] [104.26.0.160] [cloudflare] [1.004672697s] [Cloudflare,HSTS]
+
+## 308
+https://docs.nordstern.finance [308] [/introduction] [7836] [Nordstern — DEX Aggregator API] [Vercel] [216.150.1.129] [1.056354436s] [HSTS,Vercel]
+https://www.nordstern.finance [308] [https://nordstern.finance/] [62] [Framer/3e471b4] [31.43.160.6] [334.57641ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.okto.tech [308] [https://okto.tech/] [54] [Framer/3e471b4] [31.43.160.6] [249.637506ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+
+## 403
+https://dashboards.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [131.285844ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://docs-old-v1.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.245] [cloudflare] [165.647316ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://demo.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.245] [cloudflare] [177.908631ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dashboard.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.245] [cloudflare] [189.77812ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://auth.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [191.309138ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://apigw.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.245] [cloudflare] [193.082ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://docs.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [195.825507ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dashboard-backend.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [211.675772ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://docsv1.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [123.882043ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://docsv2.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.245] [cloudflare] [153.054919ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://experimentation.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.245] [cloudflare] [150.544196ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://invite.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.245] [cloudflare] [66.532319ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://norge-token-transfer.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.245] [cloudflare] [78.099294ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://norge-bff.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.245] [cloudflare] [149.049479ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://norge-token-price.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [108.477859ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://norge-search.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [143.152038ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://preprod-auth.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [84.271441ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://images.okto.tech [403] [] [111] [cloudflare] [104.18.5.245] [cloudflare] [824.847484ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://preprod-pay.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [63.012325ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://react-template.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [101.837055ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://sandbox-api.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.245] [cloudflare] [96.20937ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://proxy.opinion.trade [403] [] [4910] [Attention Required! | Cloudflare] [cloudflare] [172.66.161.143] [cloudflare] [107.877736ms] [Cloudflare,Cloudflare Browser Insights]
+https://sdk-docs.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [120.852627ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://whitepaper.okto.tech [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.5.245] [cloudflare] [137.719634ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://click.okto.tech [404] [] [146] [404 Not Found] [nginx] [44.217.133.99] [226.813295ms] [Nginx]
+https://assets.opinion.trade [404] [] [27511] [Not Found] [cloudflare] [172.66.161.143] [cloudflare] [395.003151ms] [Cloudflare,Cloudflare Browser Insights]
+https://api.nordstern.finance [404] [] [0] [cloudflare] [104.26.0.160] [cloudflare] [846.745752ms] [Cloudflare]
+https://api.opinion.trade [404] [] [9] [cloudflare] [104.20.18.133] [cloudflare] [1.090525362s] [Cloudflare]
+https://images.opinion.trade [404] [] [27511] [Not Found] [cloudflare] [172.66.161.143] [cloudflare] [394.32984ms] [Cloudflare,Cloudflare Browser Insights]
+https://sjmd.opinion.trade [404] [] [105] [cloudflare] [104.20.19.245] [cloudflare] [240.248068ms] [Cloudflare,HSTS]
+https://static.opinion.trade [404] [] [27511] [Not Found] [cloudflare] [104.20.18.133] [cloudflare] [309.754075ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 500
+
+## 502
+
+## 503
+
