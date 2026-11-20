@@ -1,0 +1,111 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:15:07 UTC 2026
+
+HTTPX lines: 83
+Live URLs: 83
+
+## 200
+https://arrow.markets [200] [] [193818] [Arrow Markets] [Vercel] [76.76.21.21] [94.220799ms] [Ant Design,Google Tag Manager,HSTS,Vercel]
+https://dev.arrow.markets [200] [] [205100] [Arrow Markets] [Vercel] [216.150.1.193] [324.745119ms] [Ant Design,HSTS,Vercel]
+https://www.azverse.xyz [200] [] [1409410] [AZverse — Compose All Finance] [AmazonS3] [3.170.42.14] [cloudfront] [596.05496ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Unpkg]
+
+## 301
+https://app.azverse.xyz [301] [https://azx.azverse.xyz/] [0] [CloudFront] [3.167.99.108] [cloudfront] [81.031416ms] [Amazon CloudFront,Amazon Web Services]
+http://autodiscover.azverse.xyz [301] [https://autodiscover.azverse.xyz/] [0] [Microsoft-HTTPAPI/2.0] [52.96.109.136] [10.871779ms] [Microsoft HTTPAPI:2.0]
+http://docs.bmx.trade [301] [https://bmxdefi.notion.site/bmx-docs] [71] [namecheap-nginx] [162.255.119.74] [1.251977011s] [Nginx]
+
+## 302
+https://azx.azverse.xyz [302] [/en] [0] [CloudFront] [3.167.99.108] [cloudfront] [71.508132ms] [Amazon CloudFront,Amazon Web Services]
+https://azverse.xyz [302] [https://www.azverse.xyz/] [0] [CloudFront] [3.170.42.120] [cloudfront] [115.937919ms] [Amazon CloudFront,Amazon Web Services]
+https://email.azverse.xyz [302] [https://email.secureserver.net:443/auth] [110] [302 Found] [awselb/2.0] [15.197.155.180] [284.990644ms] [Amazon ELB,Amazon Web Services]
+
+## 307
+https://docs.arrow.markets [307] [https://docs.arrow.markets/arrow-markets/] [15] [cloudflare] [104.18.40.47] [cloudflare] [122.638154ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.arrow.markets [307] [https://arrow.markets/] [15] [Vercel] [216.150.16.129] [60.297282ms] [HSTS,Vercel]
+https://classic.bmx.trade [307] [/deli-shop] [15] [Vercel] [216.150.16.193] [244.121585ms] [HSTS,Vercel]
+https://freestyle.bmx.trade [307] [/trade/BTCUSDT] [15] [Vercel] [216.150.16.129] [382.348973ms] [HSTS,Vercel]
+https://www.dev.arrow.markets [307] [https://dev.arrow.markets/] [15] [Vercel] [216.150.16.129] [272.373995ms] [HSTS,Vercel]
+
+## 308
+https://bmx.trade [308] [https://www.bmx.trade/] [15] [Vercel] [216.150.1.1] [90.469535ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://blog.arrow.markets [403] [] [5632] [Just a moment...] [cloudflare] [162.159.153.4] [cloudflare] [68.160458ms] [Cloudflare,HSTS,HTTP/3]
+
+## 404
+https://dev-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [55.953218ms] [HSTS,Vercel]
+https://devnet.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [57.510836ms] [HSTS,Vercel]
+https://fuji-v4-prime-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [58.796593ms] [HSTS,Vercel]
+https://competition-v2-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [60.01848ms] [HSTS,Vercel]
+https://fuji-v3-apia.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [59.918879ms] [HSTS,Vercel]
+https://competition-v5-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [60.867769ms] [HSTS,Vercel]
+https://fuji-apib.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [62.95617ms] [HSTS,Vercel]
+https://fuji-v2-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [63.242893ms] [HSTS,Vercel]
+https://api.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [64.919305ms] [HSTS,Vercel]
+https://polkastarterallowlista.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [65.291695ms] [HSTS,Vercel]
+https://development-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [67.500303ms] [HSTS,Vercel]
+https://blog9.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [68.993161ms] [HSTS,Vercel]
+https://fuji-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [70.109763ms] [HSTS,Vercel]
+https://competition-v3-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [71.7616ms] [HSTS,Vercel]
+https://fuji-v3-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [72.803418ms] [HSTS,Vercel]
+https://competition-v4-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [80.886753ms] [HSTS,Vercel]
+https://fuji-beta.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [84.276324ms] [HSTS,Vercel]
+https://dev-net.arrow.markets [404] [] [107] [Vercel] [216.150.1.65] [102.197533ms] [HSTS,Vercel]
+https://node.arrow.markets [404] [] [107] [Vercel] [216.150.1.129] [107.136314ms] [HSTS,Vercel]
+https://fuji-v4-api.arrow.markets [404] [] [107] [Vercel] [216.150.1.1] [108.881974ms] [HSTS,Vercel]
+https://private.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [55.443606ms] [HSTS,Vercel]
+https://auros.arrow.markets [404] [] [107] [Vercel] [216.150.1.65] [115.026094ms] [HSTS,Vercel]
+https://fuji-api9.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [115.39289ms] [HSTS,Vercel]
+https://competition-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [115.764037ms] [HSTS,Vercel]
+https://staging.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [57.861113ms] [HSTS,Vercel]
+https://v2.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [56.402751ms] [HSTS,Vercel]
+https://staging-contest.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [62.473933ms] [HSTS,Vercel]
+https://vault-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [59.562238ms] [HSTS,Vercel]
+https://wildcard.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [56.05567ms] [HSTS,Vercel]
+https://privy.azverse.xyz [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [98.690634ms] [Cloudflare,Cloudflare Bot Management]
+https://freestyle-staging.bmx.trade [404] [] [107] [Vercel] [66.33.60.34] [159.549475ms] [HSTS,Vercel]
+https://v1.arrow.markets [404] [] [107] [Vercel] [216.150.1.193] [96.887369ms] [HSTS,Vercel]
+https://signups.arrow.markets [404] [] [107] [Vercel] [216.150.1.193] [117.004257ms] [HSTS,Vercel]
+https://contest.staging.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [324.557182ms] [HSTS,Vercel]
+https://vault.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [286.026822ms] [HSTS,Vercel]
+https://www.auros.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [285.632591ms] [HSTS,Vercel]
+https://claim.bmx.trade [404] [] [107] [Vercel] [66.33.60.130] [374.809184ms] [HSTS,Vercel]
+https://www.competition-v2-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [272.017881ms] [HSTS,Vercel]
+https://www.competition-v3-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [278.22004ms] [HSTS,Vercel]
+https://vault.v1.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [335.756565ms] [HSTS,Vercel]
+https://veil.bmx.trade [404] [] [107] [Vercel] [66.33.60.67] [336.569504ms] [HSTS,Vercel]
+https://v1.vault.arrow.markets [404] [] [107] [Vercel] [216.150.1.65] [348.831124ms] [HSTS,Vercel]
+https://www.competition-v5-api.arrow.markets [404] [] [107] [Vercel] [216.150.1.193] [309.202679ms] [HSTS,Vercel]
+https://wblt-tools.bmx.trade [404] [] [107] [Vercel] [216.150.16.193] [369.749014ms] [HSTS,Vercel]
+https://www.development-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [329.092073ms] [HSTS,Vercel]
+https://www.competition-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [379.584224ms] [HSTS,Vercel]
+https://freestyle-analytics.bmx.trade [404] [] [107] [Vercel] [76.76.21.123] [506.333167ms] [HSTS,Vercel]
+https://www.devnet.arrow.markets [404] [] [107] [Vercel] [216.150.1.129] [375.740193ms] [HSTS,Vercel]
+https://www.api.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [449.297458ms] [HSTS,Vercel]
+https://dev.staging.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [534.975749ms] [HSTS,Vercel]
+https://www.dev.staging.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [408.680901ms] [HSTS,Vercel]
+https://www.fuji-v2-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [269.423508ms] [HSTS,Vercel]
+https://www.node.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [277.971263ms] [HSTS,Vercel]
+https://www.fuji-v3-api.arrow.markets [404] [] [107] [Vercel] [216.150.1.129] [322.601922ms] [HSTS,Vercel]
+https://www.fuji-v4-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [317.168652ms] [HSTS,Vercel]
+https://www.staging.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [285.578081ms] [HSTS,Vercel]
+https://www.v2.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [275.017341ms] [HSTS,Vercel]
+https://www.contest.staging.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [575.095874ms] [HSTS,Vercel]
+https://www.vault.arrow.markets [404] [] [107] [Vercel] [216.150.16.1] [272.757727ms] [HSTS,Vercel]
+https://www.v1.arrow.markets [404] [] [107] [Vercel] [216.150.1.193] [306.076818ms] [HSTS,Vercel]
+https://www.fuji-api.arrow.markets [404] [] [107] [Vercel] [216.150.1.1] [475.258227ms] [HSTS,Vercel]
+https://www.fuji-v4-prime-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.193] [405.960998ms] [HSTS,Vercel]
+https://www.wildcard.arrow.markets [404] [] [107] [Vercel] [216.150.1.193] [347.61564ms] [HSTS,Vercel]
+https://www.vault.v1.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [522.530844ms] [HSTS,Vercel]
+https://www.competition-v4-api.arrow.markets [404] [] [107] [Vercel] [216.150.16.129] [1.284263079s] [HSTS,Vercel]
+
+## 500
+https://www.bmx.trade [500] [] [42733] [BMX] [Vercel] [216.150.16.129] [462.656516ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 502
+
+## 503
+
