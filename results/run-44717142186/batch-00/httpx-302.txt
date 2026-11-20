@@ -1,0 +1,2 @@
+https://auth.allnodes.com [302] [https://allnodes.com/] [43] [cloudflare] [172.64.144.74] [cloudflare] [251.950128ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+http://autodiscover.40acres.finance [302] [https://autodiscover-service.mail.us-east-1.awsapps.com:443/] [110] [302 Found] [awselb/2.0] [100.58.61.245] [126.520717ms] [Amazon ELB,Amazon Web Services]
