@@ -1,0 +1,8 @@
+https://exchange.sundaeswap.finance [301] [https://app.sundae.fi/] [0] [AmazonS3] [3.171.85.22] [cloudfront] [30.697681ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://radio.ston.fi [301] [https://ston.fm/] [178] [301 Moved Permanently] [cloudflare] [172.66.146.167] [cloudflare] [399.592329ms] [Cloudflare,HSTS]
+https://sundaeswap.finance [301] [https://sundae.fi/] [0] [AmazonS3] [3.170.42.111] [cloudfront] [31.212137ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+http://www.app.ston.fi [301] [https://www.app.ston.fi/] [167] [301 Moved Permanently] [cloudflare] [172.66.146.167] [cloudflare] [17.657245ms] [Cloudflare]
+http://www.b10g.ston.fi [301] [https://www.b10g.ston.fi/] [167] [301 Moved Permanently] [cloudflare] [104.20.37.159] [cloudflare] [15.950426ms] [Cloudflare]
+http://www.preprod.ston.fi [301] [https://www.preprod.ston.fi/] [167] [301 Moved Permanently] [cloudflare] [104.20.37.159] [cloudflare] [11.913475ms] [Cloudflare]
+https://www.sundaeswap.finance [301] [https://sundae.fi/] [0] [AmazonS3] [3.170.42.27] [cloudfront] [24.156145ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://www.ston.fi [301] [https://ston.fi/] [17] [cloudflare] [172.66.146.167] [cloudflare] [652.954562ms] [Cloudflare,HSTS]
