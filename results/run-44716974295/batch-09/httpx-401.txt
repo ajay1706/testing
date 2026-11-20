@@ -1,0 +1,6 @@
+https://banker.qfex.com [401] [] [38] [CloudFront] [52.85.132.111] [cloudfront] [185.532253ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://api.qfex.com [401] [] [38] [CloudFront] [52.85.132.101] [cloudfront] [219.116932ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://deposit.qfex.com [401] [] [38] [CloudFront] [52.85.132.101] [cloudfront] [248.162645ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://backup.phoenix.trade [401] [] [15282] [Password Protected] [Vercel] [66.33.60.193] [240.71688ms] [HSTS,Vercel]
+https://restapi.qfex.com [401] [] [38] [CloudFront] [52.85.132.110] [cloudfront] [187.499362ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://trade.qfex.com [401] [] [38] [CloudFront] [52.85.132.110] [cloudfront] [188.738946ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]

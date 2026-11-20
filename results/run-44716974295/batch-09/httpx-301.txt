@@ -1,0 +1,5 @@
+https://discord.qfex.com [301] [https://discord.gg/BRN9ezbj2h] [167] [301 Moved Permanently] [cloudflare] [172.67.184.110] [cloudflare] [85.786149ms] [Cloudflare,HTTP/3]
+https://blog.qfex.com [301] [https://research.qfex.com/] [167] [301 Moved Permanently] [cloudflare] [104.21.19.11] [cloudflare] [105.715331ms] [Cloudflare,HTTP/3]
+https://app.popdex.xyz [301] [https://app.popdex.xyz/trade] [169] [301 Moved Permanently] [cloudflare] [104.18.21.177] [cloudflare] [328.876678ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://qfex.com [301] [https://www.qfex.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.184.110] [cloudflare] [75.099344ms] [Cloudflare,HTTP/3]
+https://testnet-app.popdex.xyz [301] [https://testnet-app.popdex.xyz/trade] [169] [301 Moved Permanently] [cloudflare] [104.18.20.177] [cloudflare] [231.976776ms] [Cloudflare,Cloudflare Bot Management,HSTS]
