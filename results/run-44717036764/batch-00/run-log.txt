@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:12:49 UTC 2026
+[+] Run ID: 44717036764
+[+] Batch name: batch-00
+[+] Batch targets:
+0x.org
+1inch.io
+aero.xyz
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:14:54 UTC 2026
+[+] HTTPX input count: 1004
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:15:53 UTC 2026
+[+] httpx line count: 368
+[+] Batch completed: Fri Nov 20 10:15:53 UTC 2026
