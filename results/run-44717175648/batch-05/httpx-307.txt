@@ -1,0 +1,6 @@
+https://academy.iex.ec [307] [https://iex.ec/] [15] [Vercel] [216.150.16.129] [232.499369ms] [HSTS,Vercel]
+https://cdefi-wizard.iex.ec [307] [https://iex.ec/] [15] [Vercel] [216.150.1.1] [109.956384ms] [HSTS,Vercel]
+https://cdefi.iex.ec [307] [https://iex.ec/] [15] [Vercel] [216.150.16.193] [263.950478ms] [HSTS,Vercel]
+https://demo.iex.ec [307] [https://iex.ec/] [15] [Vercel] [216.150.16.1] [226.927941ms] [HSTS,Vercel]
+https://docs.iex.ec [307] [/get-started/welcome] [15] [Vercel] [216.150.16.129] [222.526253ms] [HSTS,Vercel]
+https://metrics.iex.ec [307] [https://googletagmanager.com/] [0] [] [130.211.6.116] [google] [125.687343ms] [HTTP/3]

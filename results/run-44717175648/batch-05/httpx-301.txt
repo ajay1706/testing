@@ -1,0 +1,6 @@
+https://arb1.marlin.org [301] [https://hub.marlin.org/] [0] [cloudflare] [104.26.6.51] [cloudflare] [382.130565ms] [Cloudflare,HTTP/3]
+https://bridge-bellecour.iex.ec [301] [https://iex.ec/] [0] [nginx] [185.206.180.179] [444.172463ms] [Nginx]
+https://protocol.docs.iex.ec [301] [https://docs.iex.ec/] [15] [Vercel] [216.150.1.1] [1.452393795s] [HSTS,Vercel]
+https://relay.marlin.org [301] [https://hub.marlin.org/] [0] [cloudflare] [172.67.69.34] [cloudflare] [2.344328043s] [Cloudflare,HTTP/3]
+https://status.iex.ec [301] [https://iexec.instatus.com/] [0] [nginx] [185.206.180.179] [452.79958ms] [Nginx]
+https://tools.docs.iex.ec [301] [https://docs.iex.ec/] [15] [Vercel] [216.150.16.1] [214.938563ms] [HSTS,Vercel]
