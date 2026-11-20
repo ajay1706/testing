@@ -1,0 +1,2 @@
+https://cms.foxify.trade [302] [http://localhost:1337/admin] [43] [openresty] [20.243.130.40] [357.231181ms] [HSTS,Nginx,OpenResty,Strapi]
+https://email.fermi.trade [302] [https://email.secureserver.net:443/?domain=email.fermi.trade&] [477] [302 Found] [cloudflare] [172.67.180.158] [cloudflare] [105.9247ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]

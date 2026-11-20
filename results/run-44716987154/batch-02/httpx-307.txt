@@ -1,0 +1,5 @@
+https://legacy.foxify.trade [307] [/en/staking] [15] [Vercel] [216.150.16.193] [378.587175ms] [HSTS,Vercel]
+https://kodiak.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.1.193] [783.946676ms] [HSTS,Vercel]
+https://perptools.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.16.129] [789.876694ms] [HSTS,Vercel]
+https://staging.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.1.1] [1.061860848s] [HSTS,Vercel]
+https://what.foxify.trade [307] [/en/perp/PERP_BTC_USDC] [15] [Vercel] [216.150.16.193] [998.740262ms] [HSTS,Vercel]

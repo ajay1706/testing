@@ -1,0 +1,4 @@
+https://api.foxify.trade [404] [] [139] [Error] [openresty] [20.243.130.40] [352.570088ms] [Express,Nginx,Node.js,OpenResty]
+https://services.foxify.trade [404] [] [139] [Error] [openresty] [20.243.130.40] [485.715295ms] [Express,Nginx,Node.js,OpenResty]
+https://nft.foxify.trade [404] [] [63] [openresty] [20.243.130.40] [616.525467ms] [Express,Nginx,Node.js,OpenResty]
+https://v1.fermi.trade [404] [] [0] [cloudflare] [172.67.180.158] [cloudflare] [783.080459ms] [Cloudflare,HSTS,HTTP/3]
