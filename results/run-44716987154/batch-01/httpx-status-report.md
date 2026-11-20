@@ -1,0 +1,98 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:14:13 UTC 2026
+
+HTTPX lines: 73
+Live URLs: 73
+
+## 200
+https://catapult.trade [200] [] [38729] [Catapult Trade | #1 iTrading App] [cloudflare] [172.66.153.222] [cloudflare] [109.571534ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HTTP/3]
+https://debug.alpha.deriverse.io [200] [] [11416] [Deriverse.io] [cloudflare] [172.67.73.177] [cloudflare] [248.506535ms] [Bootstrap,Cloudflare,Cloudflare Browser Insights]
+https://kamino.deriverse.io [200] [] [1126] [Kamino · Deriverse] [cloudflare] [104.26.1.62] [cloudflare] [335.461074ms] [Cloudflare,Cloudflare Browser Insights]
+https://debug.mainnet.deriverse.io [200] [] [14407] [Deriverse | Onchain Trading on Solana] [cloudflare] [104.26.1.62] [cloudflare] [177.038255ms] [Cloudflare,Cloudflare Browser Insights]
+https://devnet.deriverse.io [200] [] [14395] [Deriverse | Onchain Trading on Solana] [cloudflare] [104.26.0.62] [cloudflare] [237.260363ms] [Cloudflare,Cloudflare Browser Insights]
+https://docs.catapult.trade [200] [] [63810] [Catapult Trade Docs] [cloudflare] [172.66.153.222] [cloudflare] [86.302612ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.10.2,Google Analytics,HTTP/3,React,Webpack]
+https://official-bot.catapult.trade [200] [] [6655] [Query details] [] [40.180.98.26] [446.964201ms] [HSTS,HTTP/3]
+https://landing.deriverse.io [200] [] [20626] [Deriverse - Revolutionizing Trading on Solana] [cloudflare] [104.26.1.62] [cloudflare] [741.448671ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://test.devnet.deriverse.io [200] [] [14576] [Deriverse | Onchain Trading on Solana] [cloudflare] [172.67.73.177] [cloudflare] [359.045505ms] [Cloudflare,Cloudflare Browser Insights]
+https://trade.deriverse.io [200] [] [14338] [Deriverse | Onchain Trading on Solana] [cloudflare] [104.26.1.62] [cloudflare] [239.382345ms] [Cloudflare,Cloudflare Browser Insights]
+https://test.mainnet.deriverse.io [200] [] [14580] [Deriverse | Onchain Trading on Solana] [cloudflare] [104.26.0.62] [cloudflare] [462.84628ms] [Cloudflare,Cloudflare Browser Insights]
+https://dreamcash.money [200] [] [97162] [Dreamcash | Crypto Trading App | Built on Hyperliquid] [cloudflare] [172.67.184.45] [cloudflare] [725.563757ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://deriverse.io [200] [] [63195] [Deriverse — Onchain Spot and Derivatives DEX on Solana] [cloudflare] [104.26.0.62] [cloudflare] [1.784909304s] [Cloudflare,Cloudflare Browser Insights,Next.js,Node.js,React,Webpack]
+https://www.deriverse.io [200] [] [63195] [Deriverse — Onchain Spot and Derivatives DEX on Solana] [cloudflare] [104.26.1.62] [cloudflare] [1.02897517s] [Cloudflare,Cloudflare Browser Insights,Next.js,Node.js,React,Webpack]
+
+## 301
+http://autodiscover.deriverse.io [301] [https://autodiscover.deriverse.io/] [0] [Microsoft-HTTPAPI/2.0] [40.99.229.168] [2.055463ms] [Microsoft HTTPAPI:2.0]
+https://alpha.deriverse.io [301] [https://devnet.deriverse.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.1.62] [cloudflare] [81.618167ms] [Cloudflare]
+https://mindshare.catapult.trade [301] [https://catapult.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.153.222] [cloudflare] [172.425755ms] [Cloudflare,HTTP/3]
+https://test.alpha.deriverse.io [301] [https://test.devnet.deriverse.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.0.62] [cloudflare] [176.229987ms] [Cloudflare]
+https://www.catapult.trade [301] [https://catapult.trade/] [167] [301 Moved Permanently] [cloudflare] [104.20.40.62] [cloudflare] [105.836235ms] [Cloudflare,HTTP/3]
+http://t.catapult.trade [301] [https://t.catapult.trade/] [528] [301 Moved Permanently] [cloudflare] [104.20.40.62] [cloudflare] [37.416952ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://track.catapult.trade [301] [https://track.catapult.trade/] [528] [301 Moved Permanently] [cloudflare] [104.20.40.62] [cloudflare] [36.795473ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://dev.deriverse.io [302] [https://deriverse.cloudflareaccess.com/cdn-cgi/access/login/dev.deriverse.io?kid=3164f1db6f22f4d73cdef266032c1b7d40c5d50305c82638ea93bb09938527bb&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImEzNjQ2NDBmMWQyMDQ1ODY3NTA1ODkwNzM4NDUyMWEwY2Y0MWVlZjQ2YThmMTNmODRkZGI1MmJjNWM4Y2RlN2IifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjMxNjRmMWRiNmYyMmY0ZDczY2RlZjI2NjAzMmMxYjdkNDBjNWQ1MDMwNWM4MjYzOGVhOTNiYjA5OTM4NTI3YmIiLCJob3N0bmFtZSI6ImRldi5kZXJpdmVyc2UuaW8iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NTE2OTkzMywibmJmIjoxNzk1MTY5NjMzLCJpYXQiOjE3OTUxNjk2MzMsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiIwZTI5NjZiNDRlYjE3YmE5MWIxZTg4YTM2MTllMGRkOTY1OWI2NWQ4N2E0MGEyMGFkZTQzYmRiZjMwZWU2ZGI3In0.Q1xpWwgM-PY_-qEAxIF1IDUStIY9MMzzdjjoNOj9GiYKcC3tho91zUh9xicz48lQ_QUUlv0Ji4ISK8ZJnE8sEgwxflu52yQCVNzPfTnwVSS-nTh9KBJ4ot2UPzwXSrhqJTPi8S3843ta8MbnVHID11rIv5MEpYDmf5B0PcPlC76XntO-6CnrxymQ2NRI_mCda2Zk7rJQTvQc-0dXV5XyDVuV1QOpwjK5Wrg4F8kX4DjHNQmfu_wvGJkjaukvxdbe02R0k7vt52EbEKp7_Vl5PkAFhgBfbn4pJS2iiHQOm6_QJOTNckXIA7ER4a5rBOQbi1LkD4Sveg7GIzHVW2IFsw&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.26.0.62] [cloudflare] [113.10844ms] [Cloudflare,Cloudflare Browser Insights]
+https://email.deriverse.io [302] [https://email.secureserver.net:443/auth] [110] [302 Found] [awselb/2.0] [15.197.155.180] [217.910791ms] [Amazon ELB,Amazon Web Services]
+https://blog.catapult.trade [302] [/en/] [0] [cloudflare] [172.66.153.222] [cloudflare] [281.245571ms] [Cloudflare,HTTP/3]
+https://aui.deriverse.io [302] [https://deriverse.cloudflareaccess.com/cdn-cgi/access/login/aui.deriverse.io?kid=8ff727d7e85fddffb45a0f5376fe4302fed2863557cb0a782bb21311532e14af&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImEzNjQ2NDBmMWQyMDQ1ODY3NTA1ODkwNzM4NDUyMWEwY2Y0MWVlZjQ2YThmMTNmODRkZGI1MmJjNWM4Y2RlN2IifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjhmZjcyN2Q3ZTg1ZmRkZmZiNDVhMGY1Mzc2ZmU0MzAyZmVkMjg2MzU1N2NiMGE3ODJiYjIxMzExNTMyZTE0YWYiLCJob3N0bmFtZSI6ImF1aS5kZXJpdmVyc2UuaW8iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NTE2OTkzMywibmJmIjoxNzk1MTY5NjMzLCJpYXQiOjE3OTUxNjk2MzMsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJjNTUxM2ZhY2QyYzUzODliZGU5NDRiYjhkOGRlZDBiYjgxODI0NWIxMmRlZWZmMjBkZmEzNDVkOTY1MDFjMjk4In0.LvKF-CGPoZ0_qfAFf4gkx4iNIaOpsjyw1DbWuJB0V6PV8URCKDtF4qaOMycx8-PPKOGMIVYYrsGXG8WKCvbwU3HKn17x1XoI1HGYGCJw3UbO-3kkFAVmNUgGwhPKqRNRfwanMHoum06hMlMBcAdjXFqD9tT-KlLRTJkzBvgYQX-LgRk5qCc05YcttXLC26mH6orwif5W16Xc4fTQo5Xa9eCFbx4qFQuoDn8NZq-5Dy0T8GrwcBE8h9f3VBKRtYgoY8CAx-QtZM2tSu-Wv2K5GYWQp6fSzgnT9JaoLbPdyCJZwIR1JrfHqusXgv8OQmvcBxtycU7fIY25RMTLAM5u8A&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.26.1.62] [cloudflare] [281.858621ms] [Cloudflare,Cloudflare Browser Insights]
+https://stg.trade.deriverse.io [302] [https://deriverse.cloudflareaccess.com/cdn-cgi/access/login/stg.trade.deriverse.io?kid=a4119396a3cc0f878216be82333fb789bfedbdc9ea86127008894eb70d920606&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImEzNjQ2NDBmMWQyMDQ1ODY3NTA1ODkwNzM4NDUyMWEwY2Y0MWVlZjQ2YThmMTNmODRkZGI1MmJjNWM4Y2RlN2IifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImE0MTE5Mzk2YTNjYzBmODc4MjE2YmU4MjMzM2ZiNzg5YmZlZGJkYzllYTg2MTI3MDA4ODk0ZWI3MGQ5MjA2MDYiLCJob3N0bmFtZSI6InN0Zy50cmFkZS5kZXJpdmVyc2UuaW8iLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NTE2OTkzMywibmJmIjoxNzk1MTY5NjMzLCJpYXQiOjE3OTUxNjk2MzMsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI1YjhkN2RhZWUzNWYyODkzODBjZWY2NTYwMWI3MGViMTAzMzQ0ZjkwY2RiOGRiNmU2ZWQ2Zjc0MDliYzY2OTI5In0.eq19lUMWvbHtu49NYp-o5XJvjjsiw5SEzSSgy58IAjZrVYxjhDogH-Ptkj6XW7H46MjTGF27zwUGW6UQYoaHSyf3439lvEkJEGTaUJcSd_t2-I89Uj1jVC-1yZ3Px4a7MEzuB41No7eh1WuQAAnJ6Hc1351vVVOhQaoG7UHZRYC528BKVJdP0HYaXmJ3I558eUQI7cMIgYL6a8aFBnS4RXYnocp5uS8XkZ7HTFhcRO3UbEkUqvVI8qW588vxCQruqufIyQPWnpXFZ67Unm-KiFUUilOI2OVsb_Y30_sO6gNZmzvBhXDY7AElJWj1K2Vjr0tRVCQJr6arG_SnPsS_wQ&redirect_url=%2F] [504] [302 Found] [cloudflare] [172.67.73.177] [cloudflare] [116.819024ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 307
+
+## 308
+http://accounts.catapult.trade [308] [https://accounts.catapult.trade/] [0] [] [31.43.161.6] [80.931553ms] [HSTS,HTTP/3]
+http://learn.catapult.trade [308] [https://learn.catapult.trade/] [0] [] [31.43.160.6] [84.265825ms] [HSTS,HTTP/3]
+http://account.catapult.trade [308] [https://account.catapult.trade/] [0] [] [31.43.160.6] [112.449917ms] [HSTS,HTTP/3]
+http://app.catapult.trade [308] [https://app.catapult.trade/] [0] [] [31.43.161.6] [93.25615ms] [HSTS,HTTP/3]
+http://auth.catapult.trade [308] [https://auth.catapult.trade/] [0] [] [31.43.161.6] [93.694052ms] [HSTS,HTTP/3]
+http://earn.catapult.trade [308] [https://earn.catapult.trade/] [0] [] [31.43.160.6] [103.123987ms] [HSTS,HTTP/3]
+http://m.catapult.trade [308] [https://m.catapult.trade/] [0] [] [31.43.160.6] [90.796346ms] [HSTS,HTTP/3]
+http://mobile.catapult.trade [308] [https://mobile.catapult.trade/] [0] [] [31.43.160.6] [92.006158ms] [HSTS,HTTP/3]
+http://login.catapult.trade [308] [https://login.catapult.trade/] [0] [] [31.43.161.6] [85.178891ms] [HSTS,HTTP/3]
+http://news.catapult.trade [308] [https://news.catapult.trade/] [0] [] [31.43.161.6] [86.815003ms] [HSTS,HTTP/3]
+http://pay.catapult.trade [308] [https://pay.catapult.trade/] [0] [] [31.43.161.6] [78.955101ms] [HSTS,HTTP/3]
+http://secure.catapult.trade [308] [https://secure.catapult.trade/] [0] [] [31.43.161.6] [86.488128ms] [HSTS,HTTP/3]
+http://payments.catapult.trade [308] [https://payments.catapult.trade/] [0] [] [31.43.161.6] [91.923992ms] [HSTS,HTTP/3]
+http://trade.catapult.trade [308] [https://trade.catapult.trade/] [0] [] [31.43.160.6] [97.474374ms] [HSTS,HTTP/3]
+http://verify.catapult.trade [308] [https://verify.catapult.trade/] [0] [] [31.43.161.6] [89.679907ms] [HSTS,HTTP/3]
+http://wallet.catapult.trade [308] [https://wallet.catapult.trade/] [0] [] [31.43.160.6] [107.163644ms] [HSTS,HTTP/3]
+
+## 401
+
+## 403
+https://logs.demo.deriverse.io [403] [] [146] [403 Forbidden] [nginx] [165.22.205.155] [453.191152ms] [Nginx]
+https://tokens.mainnet.deriverse.io [403] [] [909] [403 Forbidden] [cloudflare] [104.26.0.62] [cloudflare] [1.304211663s] [Cloudflare,Cloudflare Browser Insights]
+
+## 404
+https://ipfs.deriverse.io [404] [] [110] [cloudflare] [104.26.1.62] [cloudflare] [110.62006ms] [Cloudflare]
+https://go.catapult.trade [404] [] [2627] [Site Not Found | Framer] [Framer/3e471b4] [31.43.161.6] [162.118338ms] [Framer Sites,HSTS,HTTP/3,React]
+https://documentation.deriverse.io [404] [] [107] [Vercel] [66.33.60.129] [509.297505ms] [HSTS,Vercel]
+https://privy.catapult.trade [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [124.376684ms] [Cloudflare,Cloudflare Bot Management]
+https://logs.dev.deriverse.io [404] [] [86] [cloudflare] [172.67.73.177] [cloudflare] [625.143321ms] [Cloudflare,HSTS]
+https://logs.dev-old.deriverse.io [404] [] [0] [cloudflare] [172.67.73.177] [cloudflare] [636.599801ms] [Cloudflare]
+https://rpc-mainnet.deriverse.io [404] [] [70] [cloudflare] [172.67.73.177] [cloudflare] [124.092371ms] [Cloudflare]
+https://logs.devnet.deriverse.io [404] [] [86] [cloudflare] [104.26.1.62] [cloudflare] [654.63925ms] [Cloudflare,HSTS]
+https://demo-icons.deriverse.io [404] [] [27511] [Not Found] [cloudflare] [172.67.73.177] [cloudflare] [491.297445ms] [Cloudflare,Cloudflare Browser Insights]
+https://logs.dev-temp.deriverse.io [404] [] [523] [404 Not Found] [cloudflare] [104.26.0.62] [cloudflare] [662.362742ms] [Cloudflare,Cloudflare Browser Insights]
+https://logs.stg.trade.deriverse.io [404] [] [0] [cloudflare] [104.26.1.62] [cloudflare] [623.752252ms] [Cloudflare]
+https://logs.test.deriverse.io [404] [] [86] [cloudflare] [104.26.0.62] [cloudflare] [619.546496ms] [Cloudflare,HSTS]
+https://demo-static.deriverse.io [404] [] [27511] [Not Found] [cloudflare] [104.26.0.62] [cloudflare] [550.147609ms] [Cloudflare,Cloudflare Browser Insights]
+https://logs.mainnet.deriverse.io [404] [] [523] [404 Not Found] [cloudflare] [172.67.73.177] [cloudflare] [632.257888ms] [Cloudflare,Cloudflare Browser Insights]
+https://sp-bounce.catapult.trade [404] [] [2010] [Page Not Found] [openresty] [54.92.251.90] [260.520364ms] [Nginx,OpenResty]
+https://media.deriverse.io [404] [] [27511] [Not Found] [cloudflare] [104.26.0.62] [cloudflare] [597.602298ms] [Cloudflare,Cloudflare Browser Insights]
+https://p2p.catapult.trade [404] [] [2] [cloudflare] [104.20.40.62] [cloudflare] [746.425925ms] [Cloudflare,HTTP/3]
+https://evangelist.deriverse.io [404] [] [266389] [Page not found] [] [150.171.109.151] [93.629252ms] [Azure,Azure Front Door]
+https://post-prox.deriverse.io [404] [] [105] [cloudflare] [104.26.1.62] [cloudflare] [651.063423ms] [Cloudflare,HSTS]
+https://logs.trade.deriverse.io [404] [] [0] [cloudflare] [104.26.0.62] [cloudflare] [1.101275233s] [Cloudflare]
+https://static.deriverse.io [404] [] [27511] [Not Found] [cloudflare] [104.26.1.62] [cloudflare] [538.15736ms] [Cloudflare,Cloudflare Browser Insights]
+https://version.deriverse.io [404] [] [27511] [Not Found] [cloudflare] [104.26.0.62] [cloudflare] [394.742942ms] [Cloudflare,Cloudflare Browser Insights]
+https://vol.mainnet.deriverse.io [404] [] [72] [cloudflare] [172.67.73.177] [cloudflare] [654.570334ms] [Cloudflare]
+
+## 500
+
+## 502
+https://vol.devnet.deriverse.io [502] [] [16] [cloudflare] [104.26.0.62] [cloudflare] [727.692612ms] [Cloudflare]
+
+## 503
+https://publish.catapult.trade [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [52.18.199.221] [551.523144ms] [Amazon ELB,Amazon Web Services]
+
