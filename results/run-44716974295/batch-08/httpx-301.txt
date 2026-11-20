@@ -1,0 +1,2 @@
+https://onlypoints.ostium.io [301] [https://onlypoints.prod.bedrock.ostium.io/] [167] [301 Moved Permanently] [cloudflare] [172.66.149.3] [cloudflare] [52.438072ms] [Cloudflare]
+https://voyager.prod.paradex.trade [301] [https://app.paradex.trade:443/explorer/] [134] [301 Moved Permanently] [awselb/2.0] [57.182.135.178] [676.674557ms] [Amazon ELB,Amazon Web Services]

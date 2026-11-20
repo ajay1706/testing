@@ -1,0 +1,5 @@
+https://alpha-test.pacifica.fi [307] [https://test-app.pacifica.fi/] [15] [Vercel] [76.76.21.22] [87.991901ms] [HSTS,Vercel]
+https://app.ostium.io [307] [/trade] [15] [Vercel] [216.150.16.193] [199.386523ms] [HSTS,Vercel]
+https://frontend-console.pacifica.fi [307] [/signin] [5584] [Announcement Admin] [Vercel] [216.150.16.129] [208.074648ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://pacifica.fi [307] [https://www.pacifica.fi/] [15] [cloudflare] [172.67.172.42] [cloudflare] [76.890547ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.ostium.io [307] [https://www.ostium.com/] [15] [Vercel] [216.150.16.193] [63.517223ms] [HSTS,Vercel]
