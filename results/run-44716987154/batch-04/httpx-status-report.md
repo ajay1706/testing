@@ -1,0 +1,38 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:14:04 UTC 2026
+
+HTTPX lines: 9
+Live URLs: 9
+
+## 200
+https://docs.jetbit.com [200] [] [376427] [Welcome to JetBit | JetBit Docs] [cloudflare] [172.64.147.209] [cloudflare] [183.718129ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.imperial.trade [200] [] [399607] [Imperial Docs | Imperial] [cloudflare] [172.64.147.209] [cloudflare] [198.982636ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+
+## 302
+https://bo.jetbit.com [302] [https://bo.jetbit.com/auths] [721] [Redirecting to https://bo.jetbit.com/auths] [cloudflare] [104.21.13.33] [cloudflare] [871.482492ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,Google Cloud Trace,HTTP/3,Laravel,PHP]
+
+## 307
+https://www.jetbit.com [307] [/tj-home] [8] [cloudflare] [172.67.132.125] [cloudflare] [860.351748ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HTTP/3]
+https://jetbit.com [307] [/tj-home] [8] [cloudflare] [172.67.132.125] [cloudflare] [913.812271ms] [Cloudflare,Google Cloud,Google Cloud CDN,Google Cloud Trace,HTTP/3]
+https://risk.imperial.trade [307] [/login] [15] [Vercel] [216.150.1.193] [1.147308915s] [HSTS,Vercel]
+https://www.imperial.trade [307] [/perps/sol] [76978] [Imperial] [Vercel] [216.150.1.1] [986.481601ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 308
+https://imperial.trade [308] [https://www.imperial.trade/] [15] [Vercel] [216.150.16.193] [101.970537ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://api.imperial.trade [404] [] [0] [cloudflare] [104.21.48.78] [cloudflare] [144.94202ms] [Cloudflare,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
