@@ -1,0 +1,80 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:26:07 UTC 2026
+
+HTTPX lines: 55
+Live URLs: 55
+
+## 200
+https://brand.panoptic.xyz [200] [] [973] [Panoptic Branding Kit] [GitHub.com] [185.199.109.153] [77.05316ms] [Fastly,GitHub Pages,Varnish]
+https://api.panoptic.xyz [200] [] [3448] [Ponder Playground] [cloudflare] [172.67.73.127] [cloudflare] [65.483591ms] [Cloudflare,jsDelivr]
+https://app.pendle.finance [200] [] [25442] [Pendle V2] [cloudflare] [104.20.41.95] [cloudflare] [53.707384ms] [Cloudflare,HSTS,Netlify]
+https://defioptions25.panoptic.xyz [200] [] [1294] [DeFi Options Landscape Report 2025] [GitHub.com] [185.199.111.153] [75.156803ms] [Fastly,GitHub Pages,Varnish]
+https://feedback.panoptic.xyz [200] [] [974] [Provide your Feedback to Panoptic!] [GitHub.com] [185.199.109.153] [61.590131ms] [Fastly,GitHub Pages,HSTS,Varnish]
+https://intro.panoptic.xyz [200] [] [984] [Panoptic Litepaper] [GitHub.com] [185.199.109.153] [49.226998ms] [Fastly,GitHub Pages,Varnish]
+https://docs.pendle.finance [200] [] [4399] [Pendle Documentation] [GitHub.com] [185.199.108.153] [69.36949ms] [Docusaurus:3.8.1,Fastly,GitHub Pages,Google Analytics,HSTS,React,Varnish,Webpack]
+https://paper.panoptic.xyz [200] [] [981] [Panoptic Whitepaper] [GitHub.com] [185.199.111.153] [57.495547ms] [Fastly,GitHub Pages,Varnish]
+https://pips.panoptic.xyz [200] [] [1040] [Panoptic Incentive Points] [GitHub.com] [185.199.109.153] [88.029902ms] [Fastly,GitHub Pages,Varnish]
+https://signup.panoptic.xyz [200] [] [983] [Signup for Panoptic's Beta Launch!] [GitHub.com] [185.199.110.153] [74.812941ms] [Fastly,GitHub Pages,Varnish]
+https://mirror-v2.pendle.finance [200] [] [25330] [Pendle V2] [cloudflare] [104.20.41.95] [cloudflare] [117.315889ms] [Cloudflare,HSTS]
+https://funding-receipts.pendle.finance [200] [] [26963] [Funding Receipts] [cloudflare] [104.20.41.95] [cloudflare] [307.296655ms] [Cloudflare,HSTS,Netlify,Node.js,Nuxt.js,Vue.js]
+https://panoptic.xyz [200] [] [53311] [Perpetual Options Built on Uniswap | Panoptic] [cloudflare] [104.26.15.98] [cloudflare] [77.934706ms] [Cloudflare,Docusaurus:2.4.3,Google Analytics,HSTS,React,Vercel,Webpack]
+https://portal-staging.pendle.finance [200] [] [456] [Portal | Pendle] [cloudflare] [104.20.41.95] [cloudflare] [336.716919ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://legacy-v1.pendle.finance [200] [] [8929] [Pendle] [cloudflare] [104.20.41.95] [cloudflare] [350.442711ms] [Cloudflare,Crazy Egg,Google Tag Manager,HSTS,Netlify]
+https://odette.fi [200] [] [23849] [Odette.fi | Daily Lightning Trades] [cloudflare] [172.67.173.229] [cloudflare] [688.509766ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://research.panoptic.xyz [200] [] [77798] [Panoptic Research | Substack] [cloudflare] [104.18.36.24] [cloudflare] [44.971393ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js,Substack]
+https://www.pendle.finance [200] [] [35836] [Pendle - Liberating Yield] [cloudflare] [104.20.41.95] [cloudflare] [169.832757ms] [Cloudflare,HSTS,Netlify,Node.js,Nuxt.js,Vue.js]
+https://rewards.panoptic.xyz [200] [] [6583] [Panoptic Points Boost Checker] [cloudflare] [104.26.14.98] [cloudflare] [2.28589242s] [Cloudflare,HSTS,Vercel]
+
+## 301
+https://docs.panoptic.xyz [301] [https://panoptic.xyz/docs/intro] [167] [301 Moved Permanently] [cloudflare] [104.26.14.98] [cloudflare] [50.428681ms] [Cloudflare]
+https://links.panoptic.xyz [301] [https://linktr.ee/panopticxyz] [167] [301 Moved Permanently] [cloudflare] [172.67.73.127] [cloudflare] [40.891457ms] [Cloudflare]
+https://pendle.finance [301] [https://www.pendle.finance/] [42] [cloudflare] [104.20.41.95] [cloudflare] [68.959295ms] [Cloudflare,HSTS,Netlify]
+https://www.panoptic.xyz [301] [https://panoptic.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.73.127] [cloudflare] [32.965751ms] [Cloudflare]
+
+## 302
+https://app.panoptic.xyz [302] [/home/ethereum] [0] [cloudflare] [104.26.15.98] [cloudflare] [100.684285ms] [Cloudflare,HSTS,Vercel]
+https://dev.panoptic.xyz [302] [/home/ethereum] [0] [cloudflare] [104.26.14.98] [cloudflare] [122.492363ms] [Cloudflare,HSTS,Vercel]
+https://mirror.pendle.finance [302] [https://mirror-v2.pendle.finance] [143] [302 Found] [cloudflare] [172.66.172.188] [cloudflare] [49.595177ms] [Cloudflare,HSTS]
+https://beta.panoptic.xyz [302] [/home/ethereum] [0] [cloudflare] [104.26.15.98] [cloudflare] [5.398956198s] [Cloudflare,HSTS,Vercel]
+https://demo.panoptic.xyz [302] [/sepolia] [0] [cloudflare] [172.67.73.127] [cloudflare] [5.359237579s] [Cloudflare,HSTS,Vercel]
+
+## 307
+https://arbitrum.pendle.finance [307] [https://app.sentio.xyz/share/_valciputw8kvg3e?from=%22-6M%22&to=%22now%22] [169] [307 Temporary Redirect] [cloudflare] [104.20.41.95] [cloudflare] [35.655787ms] [Cloudflare,HSTS]
+https://analytics.pendle.finance [307] [https://app.sentio.xyz/share/lv18u9fyu1b558xf?from=%22-2M%22&to=%22now%22] [169] [307 Temporary Redirect] [cloudflare] [172.66.172.188] [cloudflare] [36.446174ms] [Cloudflare,HSTS]
+https://listing.pendle.finance [307] [https://pendle.notion.site/pendle-listing/] [169] [307 Temporary Redirect] [cloudflare] [104.20.41.95] [cloudflare] [26.84391ms] [Cloudflare,HSTS]
+https://handbook.pendle.finance [307] [https://app.gitbook.com/o/-MbiLJyImKUhHkJRlxKV/sites/site_ThQxG/] [15] [cloudflare] [172.64.147.209] [cloudflare] [90.504785ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+https://staging-app.pendle.finance [401] [] [3551] [Password Protection] [cloudflare] [104.20.41.95] [cloudflare] [121.046355ms] [Cloudflare,HSTS,Netlify]
+
+## 403
+https://blog.panoptic.xyz [403] [] [5610] [Just a moment...] [cloudflare] [162.159.152.4] [cloudflare] [41.350676ms] [Cloudflare,HSTS,HTTP/3]
+
+## 404
+https://api-boros.pendle.finance [404] [] [18] [cloudflare] [104.20.41.95] [cloudflare] [43.449627ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://api-v2.pendle.finance [404] [] [18] [cloudflare] [104.20.41.95] [cloudflare] [76.372ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://api.pendle.finance [404] [] [63] [cloudflare] [172.66.172.188] [cloudflare] [144.860543ms] [Cloudflare,Express,HSTS,Node.js]
+https://beta8.panoptic.xyz [404] [] [107] [cloudflare] [104.26.15.98] [cloudflare] [313.70283ms] [Cloudflare,HSTS,Vercel]
+https://beta5.panoptic.xyz [404] [] [107] [cloudflare] [104.26.14.98] [cloudflare] [318.365221ms] [Cloudflare,HSTS,Vercel]
+https://access.panoptic.xyz [404] [] [107] [cloudflare] [104.26.14.98] [cloudflare] [319.793093ms] [Cloudflare,HSTS,Vercel]
+https://beta2-bald.panoptic.xyz [404] [] [107] [cloudflare] [172.67.73.127] [cloudflare] [322.173228ms] [Cloudflare,HSTS,Vercel]
+https://beta1.panoptic.xyz [404] [] [107] [cloudflare] [172.67.73.127] [cloudflare] [324.784749ms] [Cloudflare,HSTS,Vercel]
+https://beta2-last.panoptic.xyz [404] [] [107] [cloudflare] [104.26.14.98] [cloudflare] [326.855129ms] [Cloudflare,HSTS,Vercel]
+https://beta4.panoptic.xyz [404] [] [107] [cloudflare] [104.26.15.98] [cloudflare] [334.455412ms] [Cloudflare,HSTS,Vercel]
+https://beta2-eth.panoptic.xyz [404] [] [107] [cloudflare] [172.67.73.127] [cloudflare] [336.43629ms] [Cloudflare,HSTS,Vercel]
+https://beta3.panoptic.xyz [404] [] [107] [cloudflare] [104.26.14.98] [cloudflare] [336.570367ms] [Cloudflare,HSTS,Vercel]
+https://beta7.panoptic.xyz [404] [] [107] [cloudflare] [104.26.15.98] [cloudflare] [364.455409ms] [Cloudflare,HSTS,Vercel]
+https://beta6.panoptic.xyz [404] [] [107] [cloudflare] [104.26.14.98] [cloudflare] [365.823123ms] [Cloudflare,HSTS,Vercel]
+https://beta2.panoptic.xyz [404] [] [107] [cloudflare] [104.26.14.98] [cloudflare] [380.926374ms] [Cloudflare,HSTS,Vercel]
+https://deeznuts.panoptic.xyz [404] [] [107] [cloudflare] [104.26.14.98] [cloudflare] [312.319903ms] [Cloudflare,HSTS,Vercel]
+https://staging-api.pendle.finance [404] [] [18] [cloudflare] [172.66.172.188] [cloudflare] [127.025886ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+
+## 500
+
+## 502
+
+## 503
+
