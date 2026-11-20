@@ -1,0 +1,2 @@
+https://discord.bandprotocol.com [302] [https://discord.gg/mbRuVQURGt] [143] [302 Found] [cloudflare] [104.21.86.45] [cloudflare] [138.542102ms] [Cloudflare]
+https://whitepaper.bandprotocol.com [302] [https://github.com/bandprotocol/bandchain/wiki] [143] [302 Found] [cloudflare] [104.21.86.45] [cloudflare] [122.410385ms] [Cloudflare,HTTP/3]
