@@ -1,0 +1,4 @@
+https://shop.kyan.blue [302] [https://shop.kyan.blue/password] [0] [cloudflare] [23.227.38.74] [188.701015ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://app-dev.napier.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fapp-dev.napier.finance%2F&nonce=cc52d11ab2a4d8b68a7d8a3703fa4fa843799d0ea63f40fdeef322baf085cb23] [263] [Vercel] [216.150.16.1] [210.565732ms] [HSTS,Vercel]
+https://help.kyan.blue [302] [https://help.kyan.blue/en/] [0] [cloudflare] [172.66.40.54] [cloudflare] [214.52399ms] [Cloudflare,HSTS,HTTP/3]
+https://dev.kyan.blue [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.kyan.blue%2F&nonce=e6842aff78192163fb9f0443e5ae1a0d4dc8681e351e820fe830df37b86d912b] [263] [Vercel] [216.150.16.1] [363.449925ms] [HSTS,Vercel]

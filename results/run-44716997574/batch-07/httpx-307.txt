@@ -1,0 +1,4 @@
+https://testnet.kyan.blue [307] [https://app.kyan.blue/] [15] [Vercel] [216.150.16.1] [177.899254ms] [HSTS,Vercel]
+https://docs.napier.finance [307] [https://app.gitbook.com/o/93VMiTSm19H5yGQSfoIb/sites/site_UH304/] [15] [cloudflare] [104.18.40.47] [cloudflare] [213.291205ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://app.napier.finance [307] [/market] [15] [Vercel] [76.76.21.98] [230.31554ms] [HSTS,Vercel]
+https://www.napier.finance [307] [https://napier.finance/] [15] [Vercel] [216.150.1.1] [121.159388ms] [HSTS,Vercel]
