@@ -1,0 +1,100 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:35:27 UTC 2026
+
+HTTPX lines: 74
+Live URLs: 74
+
+## 200
+https://app.stakely.io [200] [] [1492] [Stakely App] [cloudflare] [172.67.135.150] [cloudflare] [595.896094ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://app.stakee.org [200] [] [8418] [Stakee — GRAM staking] [cloudflare] [104.21.31.92] [cloudflare] [672.604619ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://babylon.stake.fish [200] [] [3074] [Babylon staking: Earn rewards with stakefish] [Vercel] [66.33.60.34] [400.96484ms] [HSTS,Vercel]
+https://2048.stake.fish [200] [] [225846] [Stake your crypto with a reliable validator | stakefish] [Vercel] [76.76.21.123] [689.810019ms] [HSTS,Vercel]
+https://blog.stake.fish [200] [] [66463] [Staking Guides, Research and News | stakefish Blog] [openresty] [151.101.195.7] [fastly] [267.502678ms] [Ghost:6.79,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://conflux.stake.fish [200] [] [119806] [Conflux CFX staking: Earn rewards with stakefish] [Vercel] [216.150.16.193] [5.517800774s] [HSTS,Vercel]
+https://docs.stakely.io [200] [] [18352] [Homepage | Stakely Docs] [cloudflare] [172.67.135.150] [cloudflare] [1.738270487s] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.10.1,HSTS,HTTP/3,React,Webpack]
+https://ethereum.stake.fish [200] [] [206245] [Stake your crypto with a reliable validator | stakefish] [Vercel] [216.150.1.1] [524.008205ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://hoodi-checkpoint-sync.stakely.io [200] [] [1020] [Checkpointz] [cloudflare] [172.67.135.150] [cloudflare] [2.781863627s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://mainnet-checkpoint-sync.stakely.io [200] [] [1020] [Checkpointz] [cloudflare] [104.21.26.66] [cloudflare] [612.552467ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://nb.ops.stake.fish [200] [] [4461] [NetBird Dashboard] [nginx] [34.255.147.70] [350.466738ms] [HSTS,Nginx]
+https://security.stakely.io [200] [] [181723] [Stakely - Trust Center - Security & Privacy] [sprinto server] [3.168.24.16] [cloudfront] [621.833575ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://solana.stake.fish [200] [] [136417] [Solana SOL staking: Earn rewards with stakefish] [Vercel] [216.150.16.1] [1.349862671s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://stake.fish [200] [] [418870] [Staking Provider for ETH, SOL and 20+ Networks | stakefish] [Vercel] [76.76.21.21] [367.346853ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://stats.stake.fish [200] [] [449653] [Validator performance | stakefish] [Vercel] [216.150.16.193] [3.08887018s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://stakely.io [200] [] [253151] [Stakely - Secure staking with your trusted staking provider] [cloudflare] [104.21.26.66] [cloudflare] [4.232084304s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://terra-rpc-server-01.stakely.io [200] [] [4470] [cloudflare] [104.21.26.66] [cloudflare] [2.703903462s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://terraclassic-rpc-server-01.stakely.io [200] [] [4904] [cloudflare] [104.21.26.66] [cloudflare] [1.566416713s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://walrus-testnet-node.stakely.io [200] [] [0] [Caddy] [162.19.91.179] [419.366028ms] [Caddy,HTTP/3]
+https://staking.stakely.io [200] [] [134201] [Stakely Staking App | The easiest way to start staking] [cloudflare] [172.67.135.150] [cloudflare] [5.069597171s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+
+## 301
+http://autodiscover.stakely.io [301] [https://autodiscover.stakely.io/] [0] [Microsoft-HTTPAPI/2.0] [52.96.90.24] [2.08053ms] [Microsoft HTTPAPI:2.0]
+https://customer.stake.fish [301] [https://stake.fish/] [15] [Vercel] [76.76.21.61] [4.239036446s] [HSTS,Vercel]
+http://dev-api.stakely.io [301] [https://dev-api.stakely.io/] [534] [301 Moved Permanently] [cloudflare] [104.21.26.66] [cloudflare] [140.09753ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://juno-lcd.stakely.io [301] [https://juno-lcd.stakely.io/] [534] [301 Moved Permanently] [cloudflare] [172.67.135.150] [cloudflare] [75.401886ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://mail.stake.fish [301] [https://mail.google.com/a/stake.fish] [233] [301 Moved] [ghs] [142.251.116.121] [google] [37.515638ms]
+https://obol-portal.stakely.io [301] [https://x.com/Stakely_io/status/2064634466807529765] [167] [301 Moved Permanently] [cloudflare] [104.21.26.66] [cloudflare] [91.391018ms] [Cloudflare,HSTS]
+http://osmosis-lcd-server-01.stakely.io [301] [https://osmosis-lcd-server-01.stakely.io/] [534] [301 Moved Permanently] [cloudflare] [172.67.135.150] [cloudflare] [28.36637ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://osmosis-rpc-server-01.stakely.io [301] [https://osmosis-rpc-server-01.stakely.io/] [534] [301 Moved Permanently] [cloudflare] [104.21.26.66] [cloudflare] [40.614969ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://pma.stakely.io [301] [https://pma.stakely.io/] [534] [301 Moved Permanently] [cloudflare] [172.67.135.150] [cloudflare] [3.072328565s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://staking-dashboard.stakely.io [301] [https://stakely.io/blog/dont-lose-sight-of-your-assets-with-the-ultimate-staking-dashboard] [167] [301 Moved Permanently] [cloudflare] [172.67.135.150] [cloudflare] [1.08329436s] [Cloudflare,HSTS]
+http://stakee.org [301] [https://stakee.org/] [534] [301 Moved Permanently] [cloudflare] [172.67.176.42] [cloudflare] [173.12013ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.stake.fish [301] [https://stake.fish/] [534] [301 Moved Permanently] [cloudflare] [104.21.60.172] [cloudflare] [96.51199ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.stakely.io [301] [https://stakely.io/] [534] [301 Moved Permanently] [cloudflare] [104.21.26.66] [cloudflare] [87.425259ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 302
+https://babylon-testnet.stake.fish [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbabylon-testnet.stake.fish%2F&nonce=b71726748e129cb3cea447eef95a1b2a78a8d97487d197f09a4a645651f0a28d] [263] [Vercel] [76.76.21.241] [325.043896ms] [HSTS,Vercel]
+https://backoffice.stakely.io [302] [https://backoffice.stakely.io/login] [753] [Redirecting to https://backoffice.stakely.io/login] [cloudflare] [172.67.135.150] [cloudflare] [618.030903ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://celo-json-rpc.stakely.io [302] [https://stakely.io/web3-api-load-balancer/celo?type=json-rpc] [82] [cloudflare] [104.21.26.66] [cloudflare] [309.079428ms] [Cloudflare,HSTS,HTTP/3]
+https://celestia-rpc.stakely.io [302] [https://stakely.io/web3-api-load-balancer/celestia?type=rpc] [81] [cloudflare] [104.21.26.66] [cloudflare] [584.425916ms] [Cloudflare,HSTS,HTTP/3]
+https://celestia-lcd.stakely.io [302] [https://stakely.io/web3-api-load-balancer/celestia?type=lcd] [81] [cloudflare] [104.21.26.66] [cloudflare] [633.132866ms] [Cloudflare,HSTS,HTTP/3]
+https://cosmoshub-rpc.stakely.io [302] [https://stakely.io/web3-api-load-balancer/cosmoshub?type=rpc] [82] [cloudflare] [172.67.135.150] [cloudflare] [2.593513355s] [Cloudflare,HSTS,HTTP/3]
+https://dev-backoffice.stakely.io [302] [https://dev-backoffice.stakely.io/login] [769] [Redirecting to https://dev-backoffice.stakely.io/login] [cloudflare] [172.67.135.150] [cloudflare] [2.665309564s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://docs.stake.fish [302] [/docs] [27] [cloudflare] [104.16.242.118] [cloudflare] [1.282056528s] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://ethereum-json-rpc.stakely.io [302] [https://stakely.io/web3-api-load-balancer/ethereum?type=json-rpc] [86] [cloudflare] [172.67.135.150] [cloudflare] [251.871641ms] [Cloudflare,HSTS,HTTP/3]
+https://grafana.stakely.io [302] [/login] [29] [cloudflare] [172.67.135.150] [cloudflare] [5.579146347s] [Cloudflare,HSTS,HTTP/3]
+https://hyperliquid-json-rpc.stakely.io [302] [https://stakely.io/web3-api-load-balancer/hyperliquid?type=json-rpc] [89] [cloudflare] [172.67.135.150] [cloudflare] [6.295019005s] [Cloudflare,HSTS,HTTP/3]
+https://osmosis-lcd.stakely.io [302] [https://stakely.io/web3-api-load-balancer/osmosis?type=lcd] [80] [cloudflare] [104.21.26.66] [cloudflare] [1.633460648s] [Cloudflare,HSTS,HTTP/3]
+https://osmosis-rpc.stakely.io [302] [https://stakely.io/web3-api-load-balancer/osmosis?type=rpc] [80] [cloudflare] [172.67.135.150] [cloudflare] [1.622937727s] [Cloudflare,HSTS,HTTP/3]
+https://sonic-json-rpc.stakely.io [302] [https://stakely.io/web3-api-load-balancer/sonic?type=json-rpc] [83] [cloudflare] [104.21.26.66] [cloudflare] [2.619979737s] [Cloudflare,HSTS,HTTP/3]
+https://story-rpc.stakely.io [302] [https://stakely.io/web3-api-load-balancer/story?type=rpc] [78] [cloudflare] [104.21.26.66] [cloudflare] [1.599053949s] [Cloudflare,HSTS,HTTP/3]
+https://story-json-rpc.stakely.io [302] [https://stakely.io/web3-api-load-balancer/story?type=json-rpc] [83] [cloudflare] [172.67.135.150] [cloudflare] [2.598572957s] [Cloudflare,HSTS,HTTP/3]
+https://terra-rpc.stakely.io [302] [undefined] [31] [cloudflare] [172.67.135.150] [cloudflare] [625.667962ms] [Cloudflare,HSTS,HTTP/3]
+https://terra-lcd.stakely.io [302] [https://stakely.io/web3-api-load-balancer/terra?type=lcd] [78] [cloudflare] [104.21.26.66] [cloudflare] [2.602191398s] [Cloudflare,HSTS,HTTP/3]
+
+## 307
+
+## 308
+https://mail.eng.stake.fish [308] [https://mail.eng.stake.fish/] [0] [cloudflare] [172.67.198.113] [cloudflare] [368.188217ms] [Cloudflare,HTTP/3]
+https://www.eng.stake.fish [308] [https://www.eng.stake.fish/] [0] [cloudflare] [172.67.198.113] [cloudflare] [4.349777824s] [Cloudflare,HTTP/3]
+
+## 401
+https://dev.stakely.io [401] [] [17] [cloudflare] [104.21.26.66] [cloudflare] [2.62846611s] [Basic,Cloudflare,HSTS,HTTP/3]
+https://loki.stakely.io [401] [] [0] [cloudflare] [104.21.26.66] [cloudflare] [575.918321ms] [Basic,Cloudflare,HSTS,HTTP/3]
+https://pga.stakely.io [401] [] [0] [cloudflare] [104.21.26.66] [cloudflare] [565.197257ms] [Basic,Cloudflare,HSTS,HTTP/3]
+https://prometheus.stakely.io [401] [] [0] [cloudflare] [172.67.135.150] [cloudflare] [585.604901ms] [Basic,Cloudflare,HSTS,HTTP/3]
+
+## 403
+https://analytics.stake.fish [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [52.84.217.30] [cloudfront] [743.541901ms] [Amazon CloudFront,Amazon Web Services]
+https://img.stakely.io [403] [] [251] [cloudflare] [172.67.135.150] [cloudflare] [2.260992479s] [Amazon Web Services,Cloudflare,HSTS,HTTP/3]
+
+## 404
+https://api.staging.stake.fish [404] [] [19] [CloudFront] [18.238.171.14] [cloudfront] [561.595586ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://api.stakely.io [404] [] [6972] [Not Found] [cloudflare] [104.21.26.66] [cloudflare] [611.502237ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://api.stake.fish [404] [] [19] [CloudFront] [13.32.115.110] [cloudfront] [795.707612ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://juno-rpc.stakely.io [404] [] [19] [cloudflare] [104.21.26.66] [cloudflare] [3.2794246s] [Cloudflare,HSTS,HTTP/3]
+https://ingest.stake.fish [404] [] [19] [] [18.161.170.100] [cloudfront] [5.586647675s] [Amazon CloudFront,Amazon Web Services]
+https://pkg.stakely.io [404] [] [9] [cloudflare] [104.21.26.66] [cloudflare] [1.108107933s] [Cloudflare,HSTS,HTTP/3]
+https://quasar-lcd.stakely.io [404] [] [19] [cloudflare] [104.21.26.66] [cloudflare] [593.195924ms] [Cloudflare,HSTS,HTTP/3]
+https://quasar-rpc.stakely.io [404] [] [19] [cloudflare] [104.21.26.66] [cloudflare] [616.236512ms] [Cloudflare,HSTS,HTTP/3]
+https://shop.stake.fish [404] [] [4671] [This store is unavailable] [cloudflare] [23.227.38.74] [3.20438162s] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://staking-api.stakely.io [404] [] [63] [cloudflare] [172.67.135.150] [cloudflare] [3.610502759s] [Cloudflare,HSTS,HTTP/3]
+https://walrus-aggregator.stakely.io [404] [] [0] [cloudflare] [172.67.135.150] [cloudflare] [275.788363ms] [Cloudflare,HSTS,HTTP/3]
+https://walrus-testnet-publisher.stakely.io [404] [] [0] [cloudflare] [172.67.135.150] [cloudflare] [559.164155ms] [Cloudflare,HSTS,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
