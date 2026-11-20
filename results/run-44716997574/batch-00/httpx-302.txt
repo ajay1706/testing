@@ -1,0 +1,1 @@
+http://autodiscover.afx.xyz [302] [https://autodiscover-service.mail.us-east-1.awsapps.com:443/] [110] [302 Found] [awselb/2.0] [100.58.61.245] [2.215394ms] [Amazon ELB,Amazon Web Services]

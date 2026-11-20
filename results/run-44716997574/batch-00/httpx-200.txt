@@ -1,0 +1,3 @@
+https://anyhedge.com [200] [] [12920] [AnyHedge - Decentralized leverage trading on Bitcoin Cash.] [] [35.185.44.232] [google] [249.305764ms]
+https://app.rysk.finance [200] [] [322535] [Rysk | Earn upfront on your crypto] [cloudflare] [104.21.32.68] [cloudflare] [189.848386ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Vercel,Webpack]
+https://www.afx.xyz [200] [] [164428] [AFX: Anti-Fragile Exchange | Sovereign L1 for Professional Perps] [] [13.226.238.112] [cloudfront] [663.63268ms] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HTTP/3,Next.js,Node.js,React,Webpack]
