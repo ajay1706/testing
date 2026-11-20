@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:27:48 UTC 2026
+[+] Run ID: 44717064044
+[+] Batch name: batch-08
+[+] Batch targets:
+osmosis.zone
+rhea.finance
+splash.trade
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:28:51 UTC 2026
+[+] HTTPX input count: 437
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:29:07 UTC 2026
+[+] httpx line count: 175
+[+] Batch completed: Fri Nov 20 10:29:07 UTC 2026
