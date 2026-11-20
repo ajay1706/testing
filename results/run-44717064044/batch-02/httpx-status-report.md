@@ -1,0 +1,70 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:18:52 UTC 2026
+
+HTTPX lines: 41
+Live URLs: 41
+
+## 200
+https://app.cswap.fi [200] [] [1356] [CSWAP DEX] [AmazonS3] [13.227.65.123] [cloudfront] [78.290184ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://hub.dedust.io [200] [] [13486] [DeDust Developer Hub] [cloudflare] [172.66.169.84] [cloudflare] [79.923339ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.7.0,React,Webpack]
+https://euexodus.dexhunter.io [200] [] [18099] [DexHunter | Biggest Cardano DEX Aggregator] [Vercel] [76.76.21.22] [132.984786ms] [HSTS,Vercel]
+https://app.dedust.io [200] [] [22832] [DeDust.io — DEX on TON] [cloudflare] [172.66.44.138] [cloudflare] [66.835247ms] [Cloudflare,Google Analytics,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://dedust.io [200] [] [23193] [DeDust.io — DEX on TON] [cloudflare] [104.20.19.248] [cloudflare] [117.994765ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,Node.js,Nuxt.js,Vue.js]
+https://hub-beta.dedust.io [200] [] [21597] [Vercel] [216.150.16.193] [173.030369ms] [HSTS,Vercel]
+https://metamask.dexhunter.io [200] [] [23354] [DexHunter | Biggest Cardano DEX Aggregator] [Vercel] [76.76.21.123] [360.969508ms] [HSTS,Vercel]
+https://tonhub.dedust.io [200] [] [1896] [cloudflare] [172.66.47.150] [cloudflare] [187.557215ms] [Cloudflare,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://v1.dedust.io [200] [] [2459] [DeDust - TON DEX] [Vercel] [66.33.60.129] [156.715206ms] [HSTS,React,Vercel]
+https://swap.dexhunter.io [200] [] [542] [Dex Hunter - Swaps] [Vercel] [76.76.21.123] [289.637257ms] [HSTS,Vercel]
+https://snekfun.dexhunter.io [200] [] [26709] [DexHunter | Biggest Cardano DEX Aggregator] [Vercel] [66.33.60.129] [437.395337ms] [HSTS,Vercel]
+https://usexodus.dexhunter.io [200] [] [18099] [DexHunter | Biggest Cardano DEX Aggregator] [Vercel] [66.33.60.130] [479.957027ms] [HSTS,Vercel]
+https://www.cswap.fi [200] [] [5926] [CSWAP DEX] [AmazonS3] [18.165.98.105] [cloudfront] [136.619614ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://app.dexhunter.io [200] [] [120285] [Buy NIGHT Token | Best Rates on Cardano | DexHunter] [Vercel] [76.76.21.142] [183.994658ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://testnet.dedust.io [200] [] [28107] [DeDust.io — DEX on TON] [cloudflare] [104.20.19.248] [cloudflare] [748.561547ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,Node.js,Nuxt.js,Vue.js]
+https://eternl.dexhunter.io [200] [] [127316] [Buy NIGHT Token | Best Rates on Cardano | DexHunter] [Vercel] [76.76.21.22] [239.365088ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.cswap.fi [200] [] [361833] [Project Overview | Public Docs] [cloudflare] [172.64.147.209] [cloudflare] [126.925252ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://welcome.dexhunter.io [200] [] [238680] [DexHunter | Welcome to Cardano!] [Vercel] [66.33.60.34] [384.881193ms] [HSTS,Vercel]
+https://landing.dexhunter.io [200] [] [238678] [Buy Night Token | Best Rates on Cardano | DexHunter] [Vercel] [216.150.16.193] [256.574659ms] [HSTS,Vercel]
+https://staging.dexhunter.io [200] [] [69254] [Buy NIGHT Token | Midnight Blockchain on Cardano | Best Prices] [Vercel] [66.33.60.67] [1.822506599s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://beta.dexhunter.io [301] [https://app.dexhunter.io/] [15] [Vercel] [76.76.21.98] [42.87675ms] [HSTS,Vercel]
+https://roadmap.dexhunter.io [301] [https://www.upvoty.com] [0] [Apache/2] [83.137.196.30] [548.17409ms] [Apache HTTP Server:2,HSTS]
+https://www.dexhunter.io [301] [https://app.dexhunter.io/] [15] [Vercel] [216.150.1.129] [175.906558ms] [HSTS,Vercel]
+http://dashboard.cswap.fi [301] [https://dashboard.cswap.fi/] [167] [301 Moved Permanently] [CloudFront] [3.167.112.33] [cloudfront] [4.721385ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 302
+https://cswap.fi [302] [https://www.cswap.fi/] [0] [] [18.165.98.125] [cloudfront] [56.639738ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://docs.dedust.io [302] [/docs] [27] [cloudflare] [104.16.242.118] [cloudflare] [183.38947ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+
+## 307
+https://help.dedust.io [307] [https://help.dedust.io/en/] [15] [cloudflare] [172.64.147.209] [cloudflare] [96.575421ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://docs.dexhunter.io [307] [https://dexhunter.gitbook.io/dexhunter-partners/] [15] [cloudflare] [172.64.147.209] [cloudflare] [238.479571ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://dexhunter.io [308] [https://app.dexhunter.io/] [15] [Vercel] [216.150.1.1] [113.565699ms] [HSTS,Vercel]
+https://www.dedust.io [308] [https://dedust.io/] [15] [Vercel] [66.33.60.129] [152.493092ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://api.cswap.fi [403] [] [42] [] [34.198.47.210] [42.663164ms]
+https://preprod.api.cswap.fi [403] [] [42] [] [54.183.37.169] [405.635159ms]
+
+## 404
+http://api.dexhunter.io [404] [] [0] [Google Frontend] [34.160.24.186] [google] [36.023152ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing]
+https://api.dedust.io [404] [] [19] [cloudflare] [172.66.169.84] [cloudflare] [162.952461ms] [Cloudflare]
+https://assets.dedust.io [404] [] [0] [cloudflare] [172.66.169.84] [cloudflare] [183.993855ms] [Cloudflare]
+https://dhv3.dexhunter.io [404] [] [107] [Vercel] [76.76.21.123] [414.156563ms] [HSTS,Vercel]
+https://cdn-dev.dedust.io [404] [] [27511] [Not Found] [cloudflare] [172.66.169.84] [cloudflare] [215.535883ms] [Cloudflare,Cloudflare Browser Insights]
+https://cdn.dedust.io [404] [] [27511] [Not Found] [cloudflare] [172.66.169.84] [cloudflare] [200.188654ms] [Cloudflare,Cloudflare Browser Insights]
+https://lb.dedust.io [404] [] [19] [cloudflare] [172.66.169.84] [cloudflare] [465.947261ms] [Cloudflare]
+https://mainnet.api.dedust.io [404] [] [19] [] [49.13.42.126] [463.329604ms]
+https://node.dexhunter.io [404] [] [19] [] [168.119.39.235] [385.649331ms]
+
+## 500
+
+## 502
+
+## 503
+
