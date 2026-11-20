@@ -1,0 +1,114 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:21:29 UTC 2026
+
+HTTPX lines: 86
+Live URLs: 86
+
+## 200
+https://app.allbridge.io [200] [] [6700] [Allbridge Classic has been sunset] [cloudflare] [104.26.3.105] [cloudflare] [75.883461ms] [Cloudflare,Firebase,HSTS]
+https://bitgert.akka.finance [200] [] [163] [nginx] [66.29.138.48] [174.55664ms] [Nginx]
+https://assets.allbridge.io [200] [] [4526] [Welcome to Firebase Hosting] [] [199.36.158.100] [144.961724ms] [Firebase,HSTS,HTTP/3]
+https://claim.allbridge.io [200] [] [39091] [Allbridge – Token Bridge. Transfer Coins To Other Blockchains.] [cloudflare] [104.26.3.105] [cloudflare] [67.716477ms] [Cloudflare,Firebase,HSTS]
+https://bp.alcor.exchange [200] [] [90955] [Alcor Block Producer] [cloudflare] [172.67.213.147] [cloudflare] [106.830734ms] [Cloudflare,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://core.allbridge.io [200] [] [19970] [Allbridge Core | Fast & Secure Stablecoin Bridge] [cloudflare] [104.26.2.105] [cloudflare] [61.495859ms] [Cloudflare,Firebase,Google Analytics,Google Tag Manager,HSTS]
+https://app2.akka.finance [200] [] [797] [Akka - DeFi / DEX aggregator on Binance Smart Chain , Fantom , ...] [Vercel] [76.76.21.142] [556.239267ms] [HSTS,React,Vercel]
+https://autoconfig.akka.finance [200] [] [852] [LiteSpeed] [198.54.120.85] [575.154605ms] [LiteSpeed,LiteSpeed Cache,Litespeed Cache]
+https://corewidget.allbridge.io [200] [] [3622] [WidgetAllbridgeCore] [cloudflare] [172.67.68.79] [cloudflare] [165.094992ms] [Cloudflare,Firebase,HSTS]
+https://cdn.akka.finance [200] [] [2241] [Index of /] [LiteSpeed] [198.54.120.85] [520.797255ms] [LiteSpeed,LiteSpeed Cache,Litespeed Cache]
+https://dao.allbridge.io [200] [] [38909] [Allbridge Classic Staking DAO Is Deprecated] [cloudflare] [104.26.2.105] [cloudflare] [103.663128ms] [Cloudflare,Firebase,HSTS]
+https://akka.finance [200] [] [62917] [Akka — The execution layer for on‑chain liquidity] [LiteSpeed] [198.54.120.85] [598.751506ms] [HSTS,LiteSpeed,LiteSpeed Cache,Litespeed Cache]
+https://allbridge.io [200] [] [284219] [Cross Chain Bridge Crypto - Transfer Coins Between Blockchains - Core.allbridge.io] [cloudflare] [104.26.3.105] [cloudflare] [174.952004ms] [Angular,Cloudflare,Firebase,Google Tag Manager,HSTS,Linkedin Insight Tag,Onsen UI,Scully:0.0.0]
+https://explorer.alcor.exchange [200] [] [3750] [Alcor Explorer: block explorer for WAX, Vaulta, XPR Network, Telos] [cloudflare] [172.67.213.147] [cloudflare] [221.360178ms] [Cloudflare,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://dev.alcor.exchange [200] [] [52915] [Alcor Exchange | Multi-Venue DeFi Trading Terminal] [cloudflare] [172.67.213.147] [cloudflare] [404.437686ms] [Cloudflare,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://devrouterv2.akka.finance [200] [] [856] [License Panel] [nginx] [162.0.239.224] [518.219858ms] [Nginx]
+https://devrouter.akka.finance [200] [] [856] [License Panel] [nginx] [162.0.239.224] [530.753131ms] [Nginx]
+https://docs-core-sdk.allbridge.io [200] [] [71106] [@allbridge/bridge-core-sdk] [cloudflare] [172.67.68.79] [cloudflare] [140.095199ms] [Cloudflare,Firebase,HSTS]
+https://docs.alcor.exchange [200] [] [91620] [Introduction | Alcor Docs] [cloudflare] [172.67.213.147] [cloudflare] [115.103935ms] [Cloudflare,HTTP/3]
+https://icecream.akka.finance [200] [] [163] [nginx] [66.29.138.48] [205.739083ms] [Nginx]
+https://info.allbridge.io [200] [] [39202] [Allbridge – Token Bridge. Transfer Coins To Other Blockchains.] [cloudflare] [172.67.68.79] [cloudflare] [99.812549ms] [Cloudflare,Firebase,HSTS]
+https://icecreamv2.akka.finance [200] [] [163] [nginx] [66.29.138.48] [303.795833ms] [Nginx]
+https://ibc-retry.alcor.exchange [200] [] [33466] [Alcor IBC] [cloudflare] [104.21.45.114] [cloudflare] [471.075512ms] [Bootstrap:5.2.0,Cloudflare,HTTP/3,Unpkg,jQuery CDN,jQuery:3.6.0]
+https://next.allbridge.io [200] [] [51805] [Allbridge Next | Universal Cross-Chain Bridge] [cloudflare] [104.26.2.105] [cloudflare] [99.405101ms] [Cloudflare,Firebase,Google Analytics,Google Tag Manager,HSTS]
+https://sign.alcor.exchange [200] [] [1558] [Alcor Signer] [cloudflare] [104.21.45.114] [cloudflare] [119.01271ms] [Cloudflare,HSTS,HTTP/3]
+https://legacy.akka.finance [200] [] [9310] [Home | AI-Native Gateway for BTCFi Trading] [Vercel] [216.150.1.1] [462.439509ms] [Google Tag Manager,HSTS,Vercel]
+https://pgmanager.devrouterv2.akka.finance [200] [] [856] [License Panel] [nginx] [162.0.239.224] [399.042072ms] [Nginx]
+https://stake.allbridge.io [200] [] [39089] [Allbridge – Token Bridge. Transfer Coins To Other Blockchains.] [cloudflare] [104.26.2.105] [cloudflare] [95.528386ms] [Cloudflare,Firebase,HSTS]
+https://token.allbridge.io [200] [] [5738] [Allbridge is the best cross-chain bridging solution provider.] [cloudflare] [172.67.68.79] [cloudflare] [155.355402ms] [Cloudflare,Firebase,HSTS]
+https://docs.allbridge.io [200] [] [303974] [Allbridge Classic has been sunset | Allbridge Classic] [cloudflare] [104.26.3.105] [cloudflare] [343.124857ms] [Cloudflare,GitBook,HSTS,Vercel]
+https://vest.allbridge.io [200] [] [39091] [Allbridge – Token Bridge. Transfer Coins To Other Blockchains.] [cloudflare] [172.67.68.79] [cloudflare] [108.680399ms] [Cloudflare,Firebase,HSTS]
+https://docs-core.allbridge.io [200] [] [390764] [What is Allbridge Core? | Allbridge Core] [cloudflare] [104.26.2.105] [cloudflare] [188.591406ms] [Cloudflare,GitBook,HSTS,Vercel]
+https://www.bitgert.akka.finance [200] [] [163] [nginx] [66.29.138.48] [236.436258ms] [Nginx]
+https://app.alcor.exchange [200] [] [163834] [Alcor Exchange | Trustless bridge and DEX] [cloudflare] [104.21.45.114] [cloudflare] [1.883393019s] [Cloudflare,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://www.cdn.akka.finance [200] [] [2245] [Index of /] [LiteSpeed] [198.54.120.85] [529.587766ms] [LiteSpeed,LiteSpeed Cache,Litespeed Cache]
+https://webmail.akka.finance [200] [] [42995] [Webmail Login] [] [198.54.120.85] [652.751608ms]
+https://www.icecream.akka.finance [200] [] [163] [nginx] [66.29.138.48] [241.793299ms] [Nginx]
+https://www.icecreamv2.akka.finance [200] [] [163] [nginx] [66.29.138.48] [340.955968ms] [Nginx]
+https://alcor.exchange [200] [] [255807] [Alcor Exchange | Cross-chain DEX with its own bridge] [cloudflare] [104.21.45.114] [cloudflare] [2.155779753s] [Cloudflare,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://status.alcor.exchange [200] [] [268341] [Avral's lab status] [] [167.235.220.62] [784.714885ms] [Google Analytics,HSTS,Stimulus]
+https://perp.alcor.exchange [200] [] [255807] [Alcor Exchange | Cross-chain DEX with its own bridge] [cloudflare] [104.21.45.114] [cloudflare] [1.647898653s] [Cloudflare,HTTP/3,Node.js,Nuxt.js,Vue.js]
+
+## 301
+http://autodiscover.akka.finance [301] [https://autodiscover.akka.finance/] [0] [Microsoft-HTTPAPI/2.0] [52.96.164.120] [25.551615ms] [Microsoft HTTPAPI:2.0]
+http://home.core.allbridge.io [301] [https://home.core.allbridge.io/] [0] [cloudflare] [104.26.2.105] [cloudflare] [76.310173ms] [Cloudflare]
+https://tutorials.allbridge.io [301] [https://allbridge.io/] [36] [] [199.36.158.100] [200.352353ms] [Firebase,HTTP/3]
+https://www.alcor.exchange [301] [https://alcor.exchange] [167] [301 Moved Permanently] [cloudflare] [104.21.45.114] [cloudflare] [63.846241ms] [Cloudflare,HTTP/3]
+https://www.allbridge.io [301] [https://allbridge.io/] [36] [cloudflare] [104.26.3.105] [cloudflare] [106.396917ms] [Cloudflare,Firebase]
+https://www.akka.finance [301] [https://akka.finance/] [795] [301 Moved Permanently] [LiteSpeed] [198.54.120.85] [425.839768ms] [HSTS,LiteSpeed,LiteSpeed Cache,Litespeed Cache]
+
+## 302
+https://api.alcor.exchange [302] [https://docs.alcor.exchange/api] [138] [302 Found] [cloudflare] [104.21.45.114] [cloudflare] [516.745336ms] [Cloudflare,HTTP/3]
+https://eos.alcor.exchange [302] [https://alcor.exchange/v/vaulta/swap?utm_source=alcor-old&utm_campaign=redirect&from=https%3A%2F%2Feos.alcor.exchange%2F] [0] [cloudflare] [104.21.45.114] [cloudflare] [506.444667ms] [Cloudflare,HTTP/3]
+https://proton.alcor.exchange [302] [https://alcor.exchange/v/xpr/swap?utm_source=alcor-old&utm_campaign=redirect&from=https%3A%2F%2Fproton.alcor.exchange%2F] [0] [cloudflare] [104.21.45.114] [cloudflare] [560.87178ms] [Cloudflare,HTTP/3]
+https://telos.alcor.exchange [302] [https://alcor.exchange/v/telos/swap?utm_source=alcor-old&utm_campaign=redirect&from=https%3A%2F%2Ftelos.alcor.exchange%2F] [0] [cloudflare] [104.21.45.114] [cloudflare] [435.010668ms] [Cloudflare,HTTP/3]
+https://wax.alcor.exchange [302] [https://alcor.exchange/?utm_source=alcor-old&utm_campaign=redirect&from=https%3A%2F%2Fwax.alcor.exchange%2F] [0] [cloudflare] [104.21.45.114] [cloudflare] [244.452257ms] [Cloudflare,HTTP/3]
+
+## 307
+https://www.agent.akka.finance [307] [https://agent.akka.finance/] [15] [Vercel] [216.150.16.1] [476.332975ms] [HSTS,Vercel]
+https://agent.akka.finance [307] [/swap] [14792] [Akka Finance - Execution Infrastructure for DeFi Liquidity] [Vercel] [216.150.16.129] [2.362387751s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.app2.akka.finance [307] [https://app2.akka.finance/] [15] [Vercel] [66.33.60.129] [507.537669ms] [HSTS,Vercel]
+https://www.app.akka.finance [307] [/swap] [14792] [Akka Finance - Execution Infrastructure for DeFi Liquidity] [Vercel] [216.150.16.193] [544.893906ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.legacy.akka.finance [307] [https://legacy.akka.finance/] [15] [Vercel] [216.150.1.193] [363.358139ms] [HSTS,Vercel]
+
+## 308
+https://docs.akka.finance [308] [/introduction] [0] [cloudflare] [172.66.3.9] [cloudflare] [447.345632ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+http://devagent.akka.finance [308] [https://devagent.akka.finance/] [0] [Caddy] [86.106.26.202] [579.707298ms] [Caddy]
+http://testref.akka.finance [308] [https://testref.akka.finance/] [0] [Caddy] [86.106.26.202] [583.143168ms] [Caddy]
+http://multiagent.akka.finance [308] [https://multiagent.akka.finance/] [0] [Caddy] [86.106.26.202] [941.394004ms] [Caddy]
+http://internaltools.akka.finance [308] [https://internaltools.akka.finance/] [0] [Caddy] [86.106.26.202] [1.618368233s] [Caddy]
+http://mtest.akka.finance [308] [https://mtest.akka.finance/] [0] [Caddy] [86.106.26.202] [580.431121ms] [Caddy]
+
+## 401
+https://api.akka.finance [401] [] [41] [APISIX/3.16.0] [44.216.209.254] [288.685434ms] [Apache APISIX:3.16.0]
+https://aws-api.akka.finance [401] [] [41] [APISIX/3.16.0] [44.216.209.254] [303.784056ms] [Apache APISIX:3.16.0]
+https://rpc.allbridge.io [401] [] [115] [cloudflare] [104.26.3.105] [cloudflare] [265.907823ms] [Cloudflare,Render]
+
+## 403
+
+## 404
+https://api.core.allbridge.io [404] [] [63] [cloudflare] [172.67.68.79] [cloudflare] [281.126792ms] [Cloudflare,Express,Node.js,Render]
+https://og-images.home.core.allbridge.io [404] [] [2352] [404: This page could not be found] [Vercel] [76.76.21.93] [91.973191ms] [HSTS,Vercel]
+https://reg.allbridge.io [404] [] [63] [cloudflare] [104.26.3.105] [cloudflare] [212.077459ms] [Cloudflare,Express,Node.js,Render]
+https://waxtest-api.alcor.exchange [404] [] [212] [cloudflare] [104.21.45.114] [cloudflare] [413.736307ms] [Cloudflare,HTTP/3]
+https://wax-api.alcor.exchange [404] [] [212] [cloudflare] [172.67.213.147] [cloudflare] [462.938037ms] [Cloudflare,HTTP/3]
+https://wax-atomic.alcor.exchange [404] [] [48] [cloudflare] [172.67.213.147] [cloudflare] [563.207397ms] [Cloudflare,HTTP/3]
+
+## 500
+
+## 502
+https://apigetway.akka.finance [502] [] [0] [Caddy] [86.106.26.202] [934.267137ms] [Caddy,HTTP/3]
+https://uptime.akka.finance [502] [] [0] [Caddy] [86.106.26.202] [906.025414ms] [Caddy,HTTP/3]
+https://baserpc.akka.finance [502] [] [0] [Caddy] [86.106.26.202] [4.00451318s] [Caddy,HTTP/3]
+https://apiv3.akka.finance [502] [] [0] [Caddy] [86.106.26.202] [4.130815689s] [Caddy,HTTP/3]
+https://devapi.akka.finance [502] [] [0] [Caddy] [86.106.26.202] [4.076314701s] [Caddy,HTTP/3]
+https://limit-order.akka.finance [502] [] [0] [Caddy] [86.106.26.202] [4.036197099s] [Caddy,HTTP/3]
+https://indexer.akka.finance [502] [] [0] [Caddy] [86.106.26.202] [4.114049335s] [Caddy,HTTP/3]
+https://intent-protocol.akka.finance [502] [] [0] [Caddy] [86.106.26.202] [4.078752265s] [Caddy,HTTP/3]
+https://posthog.akka.finance [502] [] [0] [Caddy] [86.106.26.202] [4.053624048s] [Caddy,HTTP/3]
+
+## 503
+https://api.next.allbridge.io [503] [] [1370] [Service Suspended] [cloudflare] [104.26.3.105] [cloudflare] [280.421559ms] [Cloudflare]
+https://ambassadors.next.allbridge.io [503] [] [1370] [Service Suspended] [cloudflare] [104.26.2.105] [cloudflare] [382.998682ms] [Cloudflare]
+https://core-rest-api.allbridge.io [503] [] [1681] [Application Error] [cloudflare] [104.26.3.105] [cloudflare] [336.16941ms] [Cloudflare]
+https://mcp.allbridge.io [503] [] [1681] [Application Error] [cloudflare] [104.26.3.105] [cloudflare] [306.411898ms] [Cloudflare]
+

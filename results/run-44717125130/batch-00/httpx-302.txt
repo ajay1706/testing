@@ -1,0 +1,5 @@
+https://api.alcor.exchange [302] [https://docs.alcor.exchange/api] [138] [302 Found] [cloudflare] [104.21.45.114] [cloudflare] [516.745336ms] [Cloudflare,HTTP/3]
+https://eos.alcor.exchange [302] [https://alcor.exchange/v/vaulta/swap?utm_source=alcor-old&utm_campaign=redirect&from=https%3A%2F%2Feos.alcor.exchange%2F] [0] [cloudflare] [104.21.45.114] [cloudflare] [506.444667ms] [Cloudflare,HTTP/3]
+https://proton.alcor.exchange [302] [https://alcor.exchange/v/xpr/swap?utm_source=alcor-old&utm_campaign=redirect&from=https%3A%2F%2Fproton.alcor.exchange%2F] [0] [cloudflare] [104.21.45.114] [cloudflare] [560.87178ms] [Cloudflare,HTTP/3]
+https://telos.alcor.exchange [302] [https://alcor.exchange/v/telos/swap?utm_source=alcor-old&utm_campaign=redirect&from=https%3A%2F%2Ftelos.alcor.exchange%2F] [0] [cloudflare] [104.21.45.114] [cloudflare] [435.010668ms] [Cloudflare,HTTP/3]
+https://wax.alcor.exchange [302] [https://alcor.exchange/?utm_source=alcor-old&utm_campaign=redirect&from=https%3A%2F%2Fwax.alcor.exchange%2F] [0] [cloudflare] [104.21.45.114] [cloudflare] [244.452257ms] [Cloudflare,HTTP/3]

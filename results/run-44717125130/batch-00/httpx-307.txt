@@ -1,0 +1,5 @@
+https://www.agent.akka.finance [307] [https://agent.akka.finance/] [15] [Vercel] [216.150.16.1] [476.332975ms] [HSTS,Vercel]
+https://agent.akka.finance [307] [/swap] [14792] [Akka Finance - Execution Infrastructure for DeFi Liquidity] [Vercel] [216.150.16.129] [2.362387751s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.app2.akka.finance [307] [https://app2.akka.finance/] [15] [Vercel] [66.33.60.129] [507.537669ms] [HSTS,Vercel]
+https://www.app.akka.finance [307] [/swap] [14792] [Akka Finance - Execution Infrastructure for DeFi Liquidity] [Vercel] [216.150.16.193] [544.893906ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.legacy.akka.finance [307] [https://legacy.akka.finance/] [15] [Vercel] [216.150.1.193] [363.358139ms] [HSTS,Vercel]
