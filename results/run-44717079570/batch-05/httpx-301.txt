@@ -1,0 +1,7 @@
+https://www.kittenswap.finance [301] [https://kittenswap.finance/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.219] [cloudflare] [52.044319ms] [Cloudflare]
+http://api.staging.kuru.io [301] [https://api.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.42.231] [cloudflare] [27.749898ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://dev.predict.kuru.io [301] [https://dev.predict.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.42.231] [cloudflare] [26.791672ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://predict.kuru.io [301] [https://predict.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.42.231] [cloudflare] [18.004123ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://redis.staging.kuru.io [301] [https://redis.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.41.25] [cloudflare] [27.87447ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://ws.staging.kuru.io [301] [https://ws.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.41.25] [cloudflare] [20.490322ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://wstest.staging.kuru.io [301] [https://wstest.staging.kuru.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.42.231] [cloudflare] [27.599875ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
