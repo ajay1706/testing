@@ -1,0 +1,4 @@
+http://mail.synthetix.io [308] [https://mail.synthetix.io/] [0] [Caddy] [35.198.93.67] [google] [176.387963ms] [Caddy]
+http://status.storm.tg [308] [https://status.storm.tg/] [0] [Caddy] [147.45.154.244] [244.380341ms] [Caddy]
+https://www.synthetix.io [308] [https://synthetix.io/] [15] [Vercel] [216.150.16.193] [34.32146ms] [HSTS,Vercel]
+https://www.storm.tg [308] [https://storm.tg] [16] [cloudflare] [172.67.144.70] [cloudflare] [343.092192ms] [Cloudflare,HTTP/3]
