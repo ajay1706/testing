@@ -1,0 +1,3 @@
+https://gnfd-testnet-fullnode-tendermint-us.nodereal.io [503] [] [592] [503 Service Temporarily Unavailable] [] [3.233.196.95] [70.336726ms] [HSTS]
+https://iqborrower.mysterium.network [503] [] [592] [503 Service Temporarily Unavailable] [] [188.245.149.150] [591.085528ms] [HSTS]
+https://iqborrower.mainnet.mysterium.network [503] [] [592] [503 Service Temporarily Unavailable] [] [188.245.149.150] [597.978665ms] [HSTS]

@@ -1,0 +1,5 @@
+https://gnfd-testnet-ethapi-us.nodereal.io [308] [https://gnfd-testnet-fullnode-tendermint-us.nodereal.io/ethapi] [164] [308 Permanent Redirect] [] [98.90.69.89] [39.912231ms] [HSTS]
+http://maven.mysterium.network [308] [https://maven.mysterium.network/] [0] [Caddy] [195.201.7.95] [191.201621ms] [Caddy]
+http://ppa.mysterium.network [308] [https://ppa.mysterium.network] [164] [308 Permanent Redirect] [] [188.245.149.150] [1.295320846s]
+http://polygon1.mysterium.network [308] [https://polygon1.mysterium.network] [164] [308 Permanent Redirect] [] [188.245.149.150] [1.40000577s]
+http://supervpn.mysterium.network [308] [https://supervpn.mysterium.network] [164] [308 Permanent Redirect] [] [159.69.15.34] [3.411525535s]
