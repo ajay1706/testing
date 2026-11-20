@@ -1,0 +1,78 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:23:27 UTC 2026
+
+HTTPX lines: 50
+Live URLs: 50
+
+## 200
+https://app.hyperliquid.xyz [200] [] [6845] [Hyperliquid] [AmazonS3] [13.32.164.103] [cloudfront] [100.991955ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://app.garden.finance [200] [] [9409] [Bridge BTC to Ethereum, Solana, Arbitrum, Base | Garden] [cloudflare] [172.67.71.129] [cloudflare] [291.546791ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HSTS]
+https://alpha-fe.garden.finance [200] [] [9409] [Bridge BTC to Ethereum, Solana, Arbitrum, Base | Garden] [cloudflare] [104.26.13.154] [cloudflare] [315.674668ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HSTS]
+https://hashflow.com [200] [] [2029] [Hashflow] [cloudflare] [104.18.27.34] [cloudflare] [200.28473ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://gov.hashflow.com [200] [] [170852] [Hashflow - #hashgang] [nginx] [216.66.8.43] [426.939259ms] [Discourse:2026.11.0,HSTS,Nginx,Ruby on Rails]
+https://explorer.garden.finance [200] [] [165813] [Real-Time Bridge Analytics & Data | Garden Explorer] [cloudflare] [104.26.13.154] [cloudflare] [887.286554ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://mainnet.garden.finance [200] [] [9409] [Bridge BTC to Ethereum, Solana, Arbitrum, Base | Garden] [cloudflare] [104.26.12.154] [cloudflare] [350.334008ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HSTS]
+https://portal.garden.finance [200] [] [12286] [Garden Portal] [cloudflare] [104.26.13.154] [cloudflare] [949.192486ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://hyperliquid.xyz [200] [] [911148] [Hyperliquid – Infrastructure to House All Finance] [AmazonS3] [65.8.27.65] [cloudfront] [625.81938ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://garden.finance [200] [] [2049452] [Fast, Secure Cross-Chain Bitcoin Bridge | Garden] [cloudflare] [104.26.12.154] [cloudflare] [1.37160222s] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://staging-portal.garden.finance [200] [] [12464] [Garden Portal] [cloudflare] [104.26.12.154] [cloudflare] [1.912681333s] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://testnet.garden.finance [200] [] [9409] [Bridge BTC to Ethereum, Solana, Arbitrum, Base | Garden] [cloudflare] [104.26.12.154] [cloudflare] [1.232064535s] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HSTS]
+https://testnet-portal.garden.finance [200] [] [12464] [Garden Portal] [cloudflare] [104.26.13.154] [cloudflare] [3.978693976s] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://www.hashflow.com [200] [] [2029] [Hashflow] [cloudflare] [104.18.27.34] [cloudflare] [96.841336ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.garden.finance [200] [] [2049452] [Fast, Secure Cross-Chain Bitcoin Bridge | Garden] [cloudflare] [104.26.12.154] [cloudflare] [1.408787786s] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+
+## 301
+https://ghost.garden.finance [301] [https://garden.finance/blog/] [167] [301 Moved Permanently] [cloudflare] [172.67.71.129] [cloudflare] [107.464927ms] [Cloudflare,HSTS]
+https://stats.hyperliquid.xyz [301] [https://hyperscreener.asxn.xyz/home] [0] [CloudFront] [13.225.47.82] [cloudfront] [97.625275ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+http://telemetry.garden.finance [301] [https://telemetry.garden.finance/] [528] [301 Moved Permanently] [cloudflare] [172.67.71.129] [cloudflare] [69.957558ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://testnet-explorer.garden.finance [301] [https://testnet-explorer.garden.finance/] [528] [301 Moved Permanently] [cloudflare] [104.26.12.154] [cloudflare] [108.480942ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://testnet.api.garden.finance [301] [https://testnet.api.garden.finance/] [528] [301 Moved Permanently] [cloudflare] [104.26.13.154] [cloudflare] [81.120151ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.hyperliquid.xyz [301] [https://hyperliquid.xyz/] [0] [AmazonS3] [13.225.47.128] [cloudfront] [108.993593ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 302
+https://blogs.garden.finance [302] [/private/?r=%2F] [37] [openresty] [151.101.195.7] [fastly] [258.538118ms] [Nginx,OpenResty,Varnish]
+
+## 307
+https://alpha.garden.finance [307] [https://alpha.garden.finance/login?callbackUrl=https%3A%2F%2Falpha.garden.finance%2F] [84] [cloudflare] [104.26.13.154] [cloudflare] [824.489406ms] [Cloudflare,HSTS]
+https://docs.garden.finance [307] [/docs] [0] [cloudflare] [172.66.3.9] [cloudflare] [170.662688ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://docs.hashflow.com [307] [https://docs.hashflow.com/hashflow/] [15] [cloudflare] [172.64.147.209] [cloudflare] [243.10955ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+https://kanshi.garden.finance [401] [] [12] [cloudflare] [104.26.12.154] [cloudflare] [563.639629ms] [Cloudflare,HSTS]
+
+## 403
+https://api-staging.hashflow.com [403] [] [5662] [Attention Required! | Cloudflare] [cloudflare] [104.18.26.34] [cloudflare] [116.921397ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://app.hashflow.com [403] [] [5662] [Attention Required! | Cloudflare] [cloudflare] [104.18.27.34] [cloudflare] [130.828317ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.hashflow.com [403] [] [5662] [Attention Required! | Cloudflare] [cloudflare] [104.18.26.34] [cloudflare] [137.211339ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://blog.hashflow.com [403] [] [5674] [Just a moment...] [cloudflare] [162.159.152.4] [cloudflare] [165.068695ms] [Cloudflare,HSTS,HTTP/3]
+https://assets.hashflow.com [403] [] [263] [cloudflare] [104.18.27.34] [cloudflare] [225.588439ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://erpc.garden.finance [403] [] [62684] [Error ・ Cloudflare Access] [cloudflare] [104.26.13.154] [cloudflare] [557.700264ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://nft-metadata.hashflow.com [403] [] [5662] [Attention Required! | Cloudflare] [cloudflare] [104.18.26.34] [cloudflare] [88.523458ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://api.hyperliquid.xyz [404] [] [0] [nginx/1.22.1] [18.160.102.112] [cloudfront] [205.772384ms] [Amazon CloudFront,Amazon Web Services,Nginx:1.22.1]
+https://api-ui.hyperliquid.xyz [404] [] [0] [nginx/1.30.3] [3.166.118.60] [cloudfront] [224.47419ms] [Amazon CloudFront,Amazon Web Services,Nginx:1.30.3]
+https://api.garden.finance [404] [] [38] [cloudflare] [104.26.13.154] [cloudflare] [575.899638ms] [Cloudflare,HSTS]
+https://assets.garden.finance [404] [] [28625] [Not Found] [cloudflare] [104.26.12.154] [cloudflare] [549.331344ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://balances.garden.finance [404] [] [0] [cloudflare] [104.26.13.154] [cloudflare] [715.455806ms] [Cloudflare,HSTS]
+https://email.ghost.hashflow.com [404] [] [19] [] [34.110.180.34] [google] [228.846894ms]
+https://cdn.garden.finance [404] [] [28625] [Not Found] [cloudflare] [172.67.71.129] [cloudflare] [1.146459958s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://gateway.garden.finance [404] [] [0] [cloudflare] [172.67.71.129] [cloudflare] [423.114612ms] [Cloudflare,HSTS]
+https://email-provider.garden.finance [404] [] [0] [cloudflare] [104.26.13.154] [cloudflare] [744.232165ms] [Cloudflare,HSTS]
+https://metrics.hyperliquid.xyz [404] [] [90] [nginx/1.20.1] [54.235.139.94] [177.48382ms] [Envoy,Google Cloud,Google Cloud CDN,Nginx:1.20.1]
+https://news.hashflow.com [404] [] [1733] [Domain error] [openresty] [151.101.195.7] [fastly] [209.763373ms] [Nginx,OpenResty,Varnish]
+https://rpc.hyperliquid.xyz [404] [] [0] [nginx/1.22.1] [99.84.203.114] [cloudfront] [366.308281ms] [Amazon CloudFront,Amazon Web Services,Nginx:1.22.1]
+https://r.send.garden.finance [404] [] [9] [envoy] [172.246.243.65] [648.518512ms] [Envoy]
+https://solver-agg.garden.finance [404] [] [0] [cloudflare] [172.67.71.129] [cloudflare] [532.158909ms] [Cloudflare,Envoy,HSTS]
+https://serve.garden.finance [404] [] [28625] [Not Found] [cloudflare] [104.26.13.154] [cloudflare] [968.754051ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://solverup.garden.finance [404] [] [28625] [Not Found] [cloudflare] [104.26.12.154] [cloudflare] [3.442839746s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 500
+
+## 502
+
+## 503
+

@@ -1,0 +1,6 @@
+https://ghost.garden.finance [301] [https://garden.finance/blog/] [167] [301 Moved Permanently] [cloudflare] [172.67.71.129] [cloudflare] [107.464927ms] [Cloudflare,HSTS]
+https://stats.hyperliquid.xyz [301] [https://hyperscreener.asxn.xyz/home] [0] [CloudFront] [13.225.47.82] [cloudfront] [97.625275ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+http://telemetry.garden.finance [301] [https://telemetry.garden.finance/] [528] [301 Moved Permanently] [cloudflare] [172.67.71.129] [cloudflare] [69.957558ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://testnet-explorer.garden.finance [301] [https://testnet-explorer.garden.finance/] [528] [301 Moved Permanently] [cloudflare] [104.26.12.154] [cloudflare] [108.480942ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://testnet.api.garden.finance [301] [https://testnet.api.garden.finance/] [528] [301 Moved Permanently] [cloudflare] [104.26.13.154] [cloudflare] [81.120151ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.hyperliquid.xyz [301] [https://hyperliquid.xyz/] [0] [AmazonS3] [13.225.47.128] [cloudfront] [108.993593ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
