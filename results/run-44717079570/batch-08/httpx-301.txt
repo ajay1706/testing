@@ -1,0 +1,8 @@
+https://analytics.saucerswap.finance [301] [https://www.saucerswap.finance/] [15] [Vercel] [66.33.60.129] [172.277101ms] [HSTS,Vercel]
+https://autodiscover.pharaoh.exchange [301] [https://privateemail.com/] [0] [BigIP] [198.54.122.136] [347.595719ms] [F5 BigIP,HSTS]
+https://campaigns.saucerswap.finance [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [208.781767ms] [Caddy,HTTP/3]
+https://go.saucerswap.finance [301] [https://safary.link/] [0] [Caddy] [54.91.110.86] [206.085814ms] [Caddy,HTTP/3]
+https://mail.pharaoh.exchange [301] [https://privateemail.com/] [0] [BigIP] [198.54.122.136] [109.298451ms] [F5 BigIP,HSTS]
+https://mail.saucerswap.finance [301] [https://privateemail.com/] [0] [cloudflare] [104.26.10.200] [cloudflare] [681.42688ms] [Cloudflare,HSTS]
+http://pharaoh.exchange [301] [https://www.phar.gg] [54] [namecheap-nginx] [192.64.119.161] [47.07404ms] [Nginx]
+http://www.pharaoh.exchange [301] [https://www.phar.gg] [54] [namecheap-nginx] [192.64.119.161] [48.584377ms] [Nginx]
