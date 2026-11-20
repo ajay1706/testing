@@ -1,0 +1,6 @@
+https://auth-staging.portal.li.fi [302] [https://portal.li.fi/] [43] [cloudflare] [104.18.34.171] [cloudflare] [229.088812ms] [Auth0,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://auth.portal.li.fi [302] [https://portal.li.fi/] [43] [cloudflare] [104.18.43.182] [cloudflare] [231.177698ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://auth-prod.portal.li.fi [302] [https://portal.li.fi/] [43] [cloudflare] [104.18.34.171] [cloudflare] [234.934244ms] [Auth0,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://help.li.fi [302] [https://help.li.fi/hc] [0] [cloudflare] [216.198.53.6] [235.135516ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://support.kyberswap.com [302] [https://support.kyberswap.com/hc] [0] [cloudflare] [216.198.53.6] [563.734145ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://www.kyberswap.com [302] [https://kyberswap.com] [504] [302 Found] [cloudflare] [104.20.39.32] [cloudflare] [86.459018ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
