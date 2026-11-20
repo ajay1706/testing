@@ -1,0 +1,57 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:18:19 UTC 2026
+
+HTTPX lines: 44
+Live URLs: 44
+
+## 200
+https://explorer.fly.trade [200] [] [1076] [Fly Explorer] [cloudflare] [172.66.40.156] [cloudflare] [177.777086ms] [Cloudflare]
+https://airdrop.elys.network [200] [] [10833] [Elys Network: Your Universal DeFi Gateway] [cloudflare] [104.26.6.223] [cloudflare] [276.586546ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://e89b-l2d-y45-s66.elys.network [200] [] [21155] [Elys Network: Your Universal DeFi Gateway] [cloudflare] [104.26.6.223] [cloudflare] [218.680312ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://devnet.elys.network [200] [] [21155] [Elys Network: Your Universal DeFi Gateway] [cloudflare] [172.67.71.63] [cloudflare] [225.196689ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://echo.elys.network [200] [] [21155] [Elys Network: Your Universal DeFi Gateway] [cloudflare] [104.26.7.223] [cloudflare] [230.493257ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app.elys.network [200] [] [21160] [Elys Network: Your Universal DeFi Gateway] [cloudflare] [104.26.6.223] [cloudflare] [258.051369ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://explorer.elys.network [200] [] [322779] [Elysscan.io - Elys Network Blockchain Explorer] [cloudflare] [172.67.71.63] [cloudflare] [486.818285ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://rest.elys.network [200] [] [59] [cloudflare] [104.26.6.223] [cloudflare] [595.382974ms] [Cloudflare,HTTP/3]
+https://docs.fly.trade [200] [] [355849] [Fly] [cloudflare] [104.18.40.47] [cloudflare] [392.924703ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://wallets-demo.testnet.elys.network [200] [] [19260] [Elys Network] [cloudflare] [104.26.7.223] [cloudflare] [272.839834ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://testnet.elys.network [200] [] [21155] [Elys Network: Your Universal DeFi Gateway] [cloudflare] [104.26.7.223] [cloudflare] [222.770016ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.fly.trade [200] [] [139204] [Fast and easy cross-chain swaps - Fly] [] [34.202.203.47] [323.673839ms] [Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,Popper:2,Tippy.js:6,Unpkg,jQuery:3.5.1]
+https://status.elys.network [200] [] [314157] [Elys Network status] [] [167.235.220.62] [863.813043ms] [Google Analytics,HSTS,Stimulus]
+https://elys.network [200] [] [5715883] [Elys Network: Your Universal DeFi Gateway] [cloudflare] [172.67.71.63] [cloudflare] [965.374341ms] [C3.js,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 301
+https://fly.trade [301] [https://www.fly.trade/] [166] [301 Moved Permanently] [] [75.2.70.75] [314.948553ms] [HSTS]
+
+## 302
+https://explorer.testnet.elys.network [302] [https://testnet.ping.pub/elys/] [0] [cloudflare] [172.67.71.63] [cloudflare] [252.052749ms] [Cloudflare,HTTP/3]
+https://www.elys.network [302] [https://elys.network/] [504] [302 Found] [cloudflare] [104.26.7.223] [cloudflare] [143.049042ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 307
+
+## 308
+https://docs.elys.network [308] [/introduction] [0] [Vercel] [76.76.21.93] [2.014530957s] [Cloudflare,HSTS,Vercel]
+
+## 401
+
+## 403
+https://app.fly.trade [403] [] [5635] [Just a moment...] [cloudflare] [172.66.40.156] [cloudflare] [121.072252ms] [Cloudflare]
+
+## 404
+https://api.fly.trade [404] [] [103] [cloudflare] [172.66.40.156] [cloudflare] [357.672383ms] [Cloudflare]
+https://cctx.elys.network [404] [] [19] [cloudflare] [172.67.71.63] [cloudflare] [586.581693ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api.testnet.elys.network [404] [] [514] [404 Not Found] [cloudflare] [104.26.7.223] [cloudflare] [623.421185ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://prices.elys.network [404] [] [24] [cloudflare] [104.26.6.223] [cloudflare] [248.28201ms] [Cloudflare,HTTP/3]
+https://registry.elys.network [404] [] [24] [cloudflare] [104.26.6.223] [cloudflare] [288.004036ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://rpc.testnet.elys.network [404] [] [916] [404 Not Found] [cloudflare] [104.26.7.223] [cloudflare] [282.257193ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://snapshots.elys.network [404] [] [27511] [Not Found] [cloudflare] [104.26.6.223] [cloudflare] [399.176532ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 500
+https://bull-rpc.elys.network [500] [] [18] [cloudflare] [172.67.71.63] [cloudflare] [458.974843ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://sand-api.elys.network [500] [] [18] [cloudflare] [104.26.7.223] [cloudflare] [471.561138ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 502
+
+## 503
+
