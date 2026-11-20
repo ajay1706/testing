@@ -1,0 +1,4 @@
+https://beta.vestige.fi [301] [https://vestige.fi/] [167] [301 Moved Permanently] [cloudflare] [172.67.199.156] [cloudflare] [94.542281ms] [Cloudflare]
+http://testnet-perpdex.velar.com [301] [https://testnet-perpdex.velar.com/] [49] [Netlify] [13.52.188.95] [134.203894ms] [Netlify]
+https://www.tinyman.org [301] [https://tinyman.org/] [162] [301 Moved Permanently] [GitHub.com] [185.199.110.153] [187.425631ms] [Fastly,GitHub Pages,Varnish]
+https://www.velar.com [301] [https://velar.com/] [33] [Netlify] [52.52.192.191] [202.279957ms] [HSTS,Netlify]

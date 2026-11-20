@@ -1,0 +1,60 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:41:43 UTC 2026
+
+HTTPX lines: 34
+Live URLs: 34
+
+## 200
+https://widget.tinyman.org [200] [] [1003] [Tinyman Swap Widget Configuration] [GitHub.com] [185.199.110.153] [157.174494ms] [Fastly,GitHub Pages,HSTS,Varnish]
+https://widgets.vestige.fi [200] [] [464] [@vestigefi/widgets] [GitHub.com] [185.199.110.153] [160.217017ms] [Fastly,GitHub Pages,HSTS,Varnish]
+https://app.velar.com [200] [] [1756] [Velar DEX | Seamless Swaps on Bitcoin] [Netlify] [13.52.188.95] [273.004896ms] [HSTS,Netlify]
+https://perpdex.velar.com [200] [] [1558] [Velar PerpDex | Perpetual Trading on Bitcoin] [Netlify] [52.52.192.191] [268.491267ms] [HSTS,Netlify]
+https://legacy.vestige.fi [200] [] [15202] [Vestige – DeFi explorer for Algorand] [GitHub.com] [185.199.110.153] [138.402274ms] [Fastly,GitHub Pages,Varnish]
+https://bridge.velar.com [200] [] [1477] [Velar Bridge] [Netlify] [13.52.188.95] [438.757583ms] [HSTS,Netlify]
+https://tinyman.org [200] [] [72050] [Tinyman | Decentralized trading protocol on Algorand] [GitHub.com] [185.199.110.153] [146.74293ms] [Fastly,Gatsby:5.15.0,GitHub Pages,Google Tag Manager,HSTS,React,Varnish,Webpack]
+https://discourse.tinyman.org [200] [] [3307] [Discourse Setup] [nginx] [18.195.58.61] [478.214909ms] [Discourse:2026.11.0,HSTS,Nginx,Ruby on Rails]
+https://wallet-ui-staging.tinyman.org [200] [] [508] [Tiny Wallet UI] [AmazonS3] [3.169.252.11] [cloudfront] [657.889518ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://app.tinyman.org [200] [] [3807] [Tinyman] [nginx/1.21.0] [63.188.95.98] [628.129493ms] [Amazon Web Services,Google Analytics,Nginx:1.21.0]
+https://wallet-staging.tinyman.org [200] [] [5891] [Tiny Wallet - Secure and Simple Crypto Wallet] [AmazonS3] [52.85.132.46] [cloudfront] [658.548764ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://asa-list.tinyman.org [200] [] [20328] [ASA List] [AmazonS3] [18.238.96.25] [cloudfront] [640.94237ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Gatsby:5.13.3,Google Tag Manager,React,Webpack]
+https://labs.velar.com [200] [] [143201] [Velar Labs] [Netlify] [13.52.188.95] [540.693997ms] [Gatsby:5.13.5,Google Analytics,HSTS,Netlify,React,Webpack]
+https://gov.tinyman.org [200] [] [179733] [Tinyman Governance Forum - Engage, vote, and shape our decentralized future.] [nginx] [184.104.178.43] [740.505968ms] [Discourse:2026.11.0,HSTS,Nginx,Ruby on Rails]
+https://about.vestige.fi [200] [] [330818] [Vestige | Vestige Docs] [cloudflare] [104.18.40.47] [cloudflare] [187.601602ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://vestige.fi [200] [] [237301] [Vestige – Algorand Swap Aggregator & DeFi Explorer] [cloudflare] [104.21.36.211] [cloudflare] [352.922792ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+https://docs.tinyman.org [200] [] [423824] [Tinyman V2 Overview | Tinyman Docs] [cloudflare] [172.64.147.209] [cloudflare] [174.300299ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://status.vestige.fi [200] [] [242789] [Vestige Labs status] [] [167.235.220.62] [813.296399ms] [Google Analytics,HSTS,Stimulus]
+https://www.vestige.fi [200] [] [237301] [Vestige – Algorand Swap Aggregator & DeFi Explorer] [cloudflare] [172.67.199.156] [cloudflare] [522.425444ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+https://status.velar.com [200] [] [348567] [Velar | Health  status] [] [167.235.220.62] [734.210055ms] [Google Analytics,HSTS,Stimulus]
+
+## 301
+https://beta.vestige.fi [301] [https://vestige.fi/] [167] [301 Moved Permanently] [cloudflare] [172.67.199.156] [cloudflare] [94.542281ms] [Cloudflare]
+http://testnet-perpdex.velar.com [301] [https://testnet-perpdex.velar.com/] [49] [Netlify] [13.52.188.95] [134.203894ms] [Netlify]
+https://www.tinyman.org [301] [https://tinyman.org/] [162] [301 Moved Permanently] [GitHub.com] [185.199.110.153] [187.425631ms] [Fastly,GitHub Pages,Varnish]
+https://www.velar.com [301] [https://velar.com/] [33] [Netlify] [52.52.192.191] [202.279957ms] [HSTS,Netlify]
+
+## 302
+https://tealish.tinyman.org [302] [https://tealish.tinyman.org/en/latest/] [0] [cloudflare] [104.16.253.120] [cloudflare] [217.970382ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 307
+https://docs.velar.com [307] [https://docs.velar.com/velar/] [15] [cloudflare] [104.18.40.47] [cloudflare] [149.808568ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://indexer.vestige.fi [404] [] [22] [cloudflare] [104.21.36.211] [cloudflare] [272.82094ms] [Cloudflare,HTTP/3]
+https://s3.vestige.fi [404] [] [323] [cloudflare] [104.21.36.211] [cloudflare] [344.692632ms] [Amazon Web Services,Cloudflare,HTTP/3]
+https://mainnet.analytics.tinyman.org [404] [] [179] [Not Found] [nginx/1.21.0] [63.188.95.98] [1.033006351s] [Nginx:1.21.0]
+
+## 500
+
+## 502
+https://staging.tinyman.org [502] [] [122] [502 Bad Gateway] [awselb/2.0] [63.189.65.29] [3.677152685s] [Amazon ELB,Amazon Web Services]
+https://testnet.tinyman.org [502] [] [524] [502 Bad Gateway] [awselb/2.0] [63.189.65.29] [3.677283288s] [Amazon ELB,Amazon Web Services]
+
+## 503
+
