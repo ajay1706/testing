@@ -1,0 +1,2 @@
+https://graphql.predict.fun [403] [] [4548] [Attention Required! | Cloudflare] [cloudflare] [104.26.14.7] [cloudflare] [96.450846ms] [Cloudflare]
+https://static.predict.fun [403] [] [111] [cloudflare] [104.26.14.7] [cloudflare] [276.222792ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]

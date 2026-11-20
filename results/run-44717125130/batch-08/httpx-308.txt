@@ -1,0 +1,2 @@
+http://api.cf.predict.fun [308] [https://api.cf.predict.fun] [164] [308 Permanent Redirect] [cloudflare] [172.67.68.75] [cloudflare] [300.901282ms] [Cloudflare]
+http://api.apne1.predict.fun [308] [https://api.apne1.predict.fun] [164] [308 Permanent Redirect] [cloudflare] [104.26.15.7] [cloudflare] [293.576556ms] [Cloudflare]
