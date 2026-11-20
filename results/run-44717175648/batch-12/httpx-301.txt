@@ -1,0 +1,6 @@
+https://aibox.threefold.io [301] [https://network.mycelium.tf/] [17] [] [51.195.61.5] [310.00554ms]
+https://farming.threefold.io [301] [https://threefold.io/farm/] [0] [Caddy] [104.131.122.247] [61.260537ms] [Caddy,HTTP/3]
+http://info.threefold.io [301] [http://library.threefold.me] [1001] [nginx] [75.126.104.227] [71.31508ms] [HSTS,Nginx]
+http://owncloud-test.threefold.io [301] [https://owncloud-test.threefold.io/] [162] [301 Moved Permanently] [] [188.166.52.201] [204.245663ms]
+http://test.threefold.io [301] [https://test.threefold.io/] [17] [] [51.195.61.5] [207.745801ms]
+https://www.aibox.threefold.io [301] [https://network.mycelium.tf/] [17] [] [51.195.61.5] [311.308316ms]
