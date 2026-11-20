@@ -1,0 +1,8 @@
+https://alpha.api.lynex.fi [503] [] [567] [Application Error] [Heroku] [13.248.213.92] [68.164362ms]
+https://da.lynex.fi [503] [] [2048] [Application Error] [cloudflare] [172.67.200.110] [cloudflare] [104.435874ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://dev.da.lynex.fi [503] [] [567] [Application Error] [Heroku] [99.83.151.71] [65.39654ms]
+https://goerli.api.lynex.fi [503] [] [567] [Application Error] [Heroku] [76.223.57.73] [98.486258ms]
+https://lynex.fi [503] [] [20] [cloudflare] [172.67.200.110] [cloudflare] [295.579397ms] [Cloudflare,HTTP/3]
+https://v1-api.lynex.fi [503] [] [2048] [Application Error] [cloudflare] [172.67.200.110] [cloudflare] [123.838291ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://v1.api.lynex.fi [503] [] [567] [Application Error] [Heroku] [99.83.183.127] [187.007053ms]
+https://www.lynex.fi [503] [] [20] [cloudflare] [172.67.200.110] [cloudflare] [373.519212ms] [Cloudflare,HTTP/3]
