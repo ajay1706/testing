@@ -1,0 +1,7 @@
+https://chains-list.camelot.exchange [301] [/chains.json] [27] [cloudflare] [172.67.74.234] [cloudflare] [294.174334ms] [Cloudflare]
+https://metadata.camelot.exchange [301] [/metadata.json] [29] [cloudflare] [104.26.5.222] [cloudflare] [104.637339ms] [Cloudflare]
+https://roundtable-list.camelot.exchange [301] [/roundtable.json] [31] [cloudflare] [104.26.5.222] [cloudflare] [261.524079ms] [Cloudflare]
+https://token-list.camelot.exchange [301] [/tokens.json] [27] [cloudflare] [172.67.74.234] [cloudflare] [117.025551ms] [Cloudflare]
+https://vaults-list.camelot.exchange [301] [/vaults.json] [27] [cloudflare] [172.67.74.234] [cloudflare] [100.435821ms] [Cloudflare]
+https://www.bebop.xyz [301] [https://bebop.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [76.201526ms] [Cloudflare,HSTS,HTTP/3]
+http://api-test.bebop.xyz [301] [https://api-test.bebop.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.66.147.34] [cloudflare] [22.0945ms] [Cloudflare]
