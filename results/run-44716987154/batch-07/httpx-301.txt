@@ -1,0 +1,2 @@
+https://go.meridian.xyz [301] [https://meridian.xyz/] [15] [Vercel] [66.33.60.66] [298.163981ms] [HSTS,Vercel]
+http://scroll.mux.network [301] [https://scroll.mux.network/] [167] [301 Moved Permanently] [cloudflare] [104.20.43.160] [cloudflare] [21.074544ms] [Cloudflare]
