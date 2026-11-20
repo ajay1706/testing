@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:26:52 UTC 2026
+[+] Run ID: 44717036764
+[+] Batch name: batch-09
+[+] Batch targets:
+native.org
+openocean.finance
+ophis.fi
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:27:11 UTC 2026
+[+] HTTPX input count: 132
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:27:22 UTC 2026
+[+] httpx line count: 45
+[+] Batch completed: Fri Nov 20 10:27:22 UTC 2026
