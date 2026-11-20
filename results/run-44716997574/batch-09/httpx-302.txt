@@ -1,0 +1,2 @@
+https://qa.premia.blue [302] [https://app.premia.blue] [504] [302 Found] [cloudflare] [104.26.6.81] [cloudflare] [208.900449ms] [Cloudflare,Cloudflare Browser Insights]
+https://swap.premia.blue [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fswap.premia.blue%2F&nonce=726ccfee4a5d3c11f4ecaa5e21df39134c310fdce4af1c07644a5ca7422596e9] [263] [cloudflare] [172.67.73.147] [cloudflare] [322.449263ms] [Cloudflare,HSTS,Vercel]

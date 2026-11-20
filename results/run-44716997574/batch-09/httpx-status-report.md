@@ -1,0 +1,63 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:26:39 UTC 2026
+
+HTTPX lines: 37
+Live URLs: 37
+
+## 200
+https://login.premia.blue [200] [] [1080] [Access: App Launcher] [cloudflare] [104.26.6.81] [cloudflare] [338.372622ms] [Cloudflare,Cloudflare Browser Insights]
+https://dev-02.premia.blue [200] [] [4514] [Premia Blue] [cloudflare] [104.26.6.81] [cloudflare] [229.071584ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://dev-04.premia.blue [200] [] [4514] [Premia Blue] [cloudflare] [104.26.6.81] [cloudflare] [239.548124ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://api.premia.blue [200] [] [2514] [cloudflare] [104.26.6.81] [cloudflare] [277.076298ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://parliament.premia.blue [200] [] [2389] [test only] [cloudflare] [104.26.6.81] [cloudflare] [538.699701ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Hugo:0.55.6,Netlify]
+https://staging.premia.blue [200] [] [4514] [Premia Blue] [cloudflare] [104.26.7.81] [cloudflare] [276.297697ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://primit.io [200] [] [4320] [Primit | Prime Execution, Primitive Design] [AmazonS3] [65.8.20.96] [cloudfront] [460.061954ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://app.premia.blue [200] [] [4514] [Premia Blue] [cloudflare] [172.67.73.147] [cloudflare] [323.521841ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://gov.premia.blue [200] [] [2389] [test only] [cloudflare] [104.26.6.81] [cloudflare] [461.26247ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Hugo:0.55.6,Netlify]
+https://app.primit.io [200] [] [12089] [Primit | Prime Execution, Primitive Design] [AmazonS3] [65.8.20.56] [cloudfront] [442.739996ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://www.primit.io [200] [] [4320] [Primit | Prime Execution, Primitive Design] [AmazonS3] [65.8.20.27] [cloudfront] [150.853861ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://dev-01.premia.blue [200] [] [4514] [Premia Blue] [cloudflare] [104.26.7.81] [cloudflare] [629.30607ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://meta.premia.blue [200] [] [9483] [Tokenomics] [] [34.217.231.110] [883.475432ms] [Cloudflare,HTTP/3,Webflow,jQuery:3.5.1]
+https://dev-03.premia.blue [200] [] [78192] [cloudflare] [172.67.73.147] [cloudflare] [484.614251ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://academy.premia.blue [200] [] [91475] [Premia Academy | Learn How to Trade DeFi & Crypto Options] [cloudflare] [104.26.7.81] [cloudflare] [340.823687ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.premia.blue [200] [] [129297] [Premia Labs | Tools for All Traders] [cloudflare] [104.26.7.81] [cloudflare] [404.922301ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://percolator.trade [200] [] [119464] [Percolator | Permissionless Perpetual Markets on Solana] [Vercel] [76.76.21.21] [419.180697ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://blog.premia.blue [200] [] [438705] [Blue Streak by Kyan] [cloudflare] [104.16.23.120] [cloudflare] [260.437524ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://docs.premia.blue [200] [] [459397] [What is Premia? | Premia V3] [cloudflare] [172.64.147.209] [cloudflare] [459.59974ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+https://www.percolator.trade [301] [https://percolator.trade/] [15] [Vercel] [76.76.21.123] [277.831333ms] [HSTS,Vercel]
+http://terms.premia.blue [301] [https://terms.premia.blue/] [528] [301 Moved Permanently] [cloudflare] [172.67.73.147] [cloudflare] [33.935871ms] [Cloudflare,Cloudflare Browser Insights]
+http://v2.premia.blue [301] [https://v2.premia.blue/] [528] [301 Moved Permanently] [cloudflare] [104.26.6.81] [cloudflare] [34.085758ms] [Cloudflare,Cloudflare Browser Insights]
+http://tos.premia.blue [301] [https://tos.premia.blue/] [528] [301 Moved Permanently] [cloudflare] [104.26.6.81] [cloudflare] [37.196005ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+
+## 302
+https://qa.premia.blue [302] [https://app.premia.blue] [504] [302 Found] [cloudflare] [104.26.6.81] [cloudflare] [208.900449ms] [Cloudflare,Cloudflare Browser Insights]
+https://swap.premia.blue [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fswap.premia.blue%2F&nonce=726ccfee4a5d3c11f4ecaa5e21df39134c310fdce4af1c07644a5ca7422596e9] [263] [cloudflare] [172.67.73.147] [cloudflare] [322.449263ms] [Cloudflare,HSTS,Vercel]
+
+## 307
+https://premia.blue [307] [https://www.premia.blue/] [15] [cloudflare] [104.26.7.81] [cloudflare] [321.414406ms] [Cloudflare,HSTS,Vercel]
+https://play.percolator.trade [307] [/locked] [15] [Vercel] [216.150.1.1] [337.903814ms] [HSTS,Vercel]
+https://scim.premia.blue [307] [/app/] [41] [] [34.65.215.224] [google] [629.420703ms]
+https://www.play.percolator.trade [307] [/locked] [15] [Vercel] [216.150.1.193] [468.531748ms] [HSTS,Vercel]
+
+## 308
+
+## 401
+https://rpc.premia.blue [401] [] [75] [cloudflare] [104.26.6.81] [cloudflare] [110.493202ms] [Cloudflare]
+https://api.primit.io [401] [] [136] [nginx/1.24.0 (Ubuntu)] [35.75.20.44] [626.296033ms] [Nginx:1.24.0,Ubuntu]
+
+## 403
+https://larpc.premia.blue [403] [] [21] [cloudflare] [104.26.7.81] [cloudflare] [208.186499ms] [Cloudflare]
+
+## 404
+https://privy.percolator.trade [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [106.228561ms] [Cloudflare,Cloudflare Bot Management]
+https://elink97b.premia.blue [404] [] [1621] [404 Not Found] [cloudflare] [104.16.24.120] [cloudflare] [323.844977ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+
