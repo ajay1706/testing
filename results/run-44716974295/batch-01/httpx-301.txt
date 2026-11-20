@@ -1,0 +1,7 @@
+https://docs.bluefin.io [301] [https://bluefin-exchange.readme.io/v2.0/reference/introduction/] [528] [301 Moved Permanently] [cloudflare] [172.66.43.105] [cloudflare] [66.917957ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://private.bluefin.io [301] [https://dev-5.api.sui-staging.bluefin.io/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.151] [cloudflare] [107.797605ms] [Cloudflare,HTTP/3]
+http://www.wildcard.api.sui-dev.bluefin.io [301] [https://www.wildcard.api.sui-dev.bluefin.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.40.151] [cloudflare] [18.739282ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.wildcard.api.sui-prod.bluefin.io [301] [https://www.wildcard.api.sui-prod.bluefin.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.40.151] [cloudflare] [15.205627ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.wildcard.api.sui-staging.bluefin.io [301] [https://www.wildcard.api.sui-staging.bluefin.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.43.105] [cloudflare] [16.991989ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://beta.app.bluefin.io [301] [https://beta.app.bluefin.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.43.105] [cloudflare] [18.252539ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://chat.bluefin.io [301] [https://chat.bluefin.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.43.105] [cloudflare] [17.288676ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]

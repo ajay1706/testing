@@ -1,0 +1,7 @@
+https://candlesticks.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [465.86779ms] [Cloudflare,Envoy,HTTP/3]
+https://fstream.asterdex.com [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [3.169.173.119] [cloudfront] [120.274661ms] [Amazon CloudFront,Amazon Web Services]
+https://fapi.asterdex.com [403] [] [6892] [] [52.84.158.28] [cloudfront] [324.067298ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://download.asterdex.com [403] [] [111] [AmazonS3] [143.204.1.76] [cloudfront] [483.966363ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://spot.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [183.824209ms] [Cloudflare,Envoy,HTTP/3]
+https://swap.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.43.105] [cloudflare] [169.416043ms] [Cloudflare,Envoy,HTTP/3]
+https://static.asterdex.com [403] [] [111] [AmazonS3] [3.163.24.110] [cloudfront] [371.967084ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]

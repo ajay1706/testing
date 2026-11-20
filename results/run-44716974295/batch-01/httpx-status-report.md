@@ -1,0 +1,112 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:14:37 UTC 2026
+
+HTTPX lines: 84
+Live URLs: 84
+
+## 200
+https://api.arcus.xyz [200] [] [83] [cloudflare] [104.18.13.22] [cloudflare] [151.340771ms] [Cloudflare]
+https://api.vaults.arcus.xyz [200] [] [10534] [Arcus Vaults · Public API] [cloudflare] [104.18.12.22] [cloudflare] [366.804738ms] [Cloudflare]
+https://api.testnet.arcus.xyz [200] [] [72] [cloudflare] [104.18.12.22] [cloudflare] [436.892569ms] [Cloudflare]
+https://api.staging.arcus.xyz [200] [] [10214] [cloudflare] [104.18.13.22] [cloudflare] [439.983546ms] [Cloudflare]
+https://api.vaults.testnet.arcus.xyz [200] [] [10534] [Arcus Vaults · Public API] [cloudflare] [104.18.13.22] [cloudflare] [466.63526ms] [Cloudflare]
+https://bluefin.io [200] [] [46371] [Bluefin | Decentralized Financial Ecosystem] [cloudflare] [172.66.43.105] [cloudflare] [90.113802ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HSTS,HTTP/3,Slick,jQuery,jsDelivr]
+https://app.arcus.xyz [200] [] [10423] [Arcus Exchange] [cloudflare] [104.18.12.22] [cloudflare] [1.160226433s] [Cloudflare,Google Analytics,HSTS,Vercel]
+https://docs.arcus.xyz [200] [] [116769] [Arcus API - Arcus Docs] [cloudflare] [104.18.12.22] [cloudflare] [118.46309ms] [Cloudflare,HSTS,Vercel]
+https://indexer.spot.arcus.xyz [200] [] [50940] [v5-spot-indexer · API] [cloudflare] [104.18.13.22] [cloudflare] [284.364849ms] [Cloudflare]
+https://help.arcus.xyz [200] [] [167003] [Arcus Help Center - Arcus Help Center] [cloudflare] [104.18.13.22] [cloudflare] [162.544723ms] [Cloudflare,HSTS,Vercel]
+https://pre-release.app.bluefin.io [200] [] [6123] [Bluefin: Powering the New Financial Stack on Sui] [cloudflare] [172.66.40.151] [cloudflare] [191.747152ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://indexer.spot.testnet.arcus.xyz [200] [] [50940] [v5-spot-indexer · API] [cloudflare] [104.18.12.22] [cloudflare] [634.646506ms] [Cloudflare]
+https://m.asterdex.com [200] [] [2831] [Aster - The next-gen perp DEX for all traders] [] [3.169.173.24] [cloudfront] [663.849785ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://points-api.arcus.xyz [200] [] [2545] [points-api] [cloudflare] [104.18.12.22] [cloudflare] [389.098625ms] [Cloudflare]
+https://arcus.xyz [200] [] [764506] [Arcus — Trade Stock Tokens & Perps 24/7 on Robinhood Chain] [cloudflare] [104.18.12.22] [cloudflare] [131.998247ms] [Cloudflare,Framer Sites,Google Analytics,HSTS,React]
+https://router.spot.arcus.xyz [200] [] [596] [v5 Spot Router API] [cloudflare] [104.18.13.22] [cloudflare] [256.812053ms] [Cloudflare,jsDelivr]
+https://storybook.app.bluefin.io [200] [] [5524] [@storybook/core - Storybook] [cloudflare] [172.66.43.105] [cloudflare] [77.953012ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://router.spot.testnet.arcus.xyz [200] [] [596] [v5 Spot Router API] [cloudflare] [104.18.13.22] [cloudflare] [383.074829ms] [Cloudflare,jsDelivr]
+https://router.spot.arbitrum.arcus.xyz [200] [] [596] [v5 Spot Router API] [cloudflare] [104.18.13.22] [cloudflare] [401.465434ms] [Cloudflare,jsDelivr]
+https://docs.asterdex.com [200] [] [444995] [What is Aster? | Aster] [cloudflare] [104.18.40.47] [cloudflare] [191.392998ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://trade.bluefin.io [200] [] [6123] [Bluefin: Powering the New Financial Stack on Sui] [cloudflare] [172.66.43.105] [cloudflare] [49.761944ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://testnet.arcus.xyz [200] [] [8532] [Arcus Exchange] [cloudflare] [104.18.13.22] [cloudflare] [208.600822ms] [Cloudflare,HSTS,Vercel]
+https://waitlist.arcus.xyz [200] [] [1671] [Arcus — Join Waitlist] [cloudflare] [104.18.12.22] [cloudflare] [156.849112ms] [Cloudflare,HSTS,Vercel]
+https://vpn.engineering.bluefin.io [200] [] [4837] [NetBird Dashboard] [nginx] [23.21.46.7] [207.893735ms] [HSTS,Nginx]
+https://status.testnet.arcus.xyz [200] [] [103605] [Arcus Testnet Status] [AtlassianEdge] [143.204.1.67] [cloudfront] [440.65616ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://www.bluefin.io [200] [] [46371] [Bluefin | Decentralized Financial Ecosystem] [cloudflare] [172.66.43.105] [cloudflare] [96.961269ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HTTP/3,Slick,jQuery,jsDelivr]
+https://status.arcus.xyz [200] [] [104554] [Arcus Status] [AtlassianEdge] [143.204.1.56] [cloudfront] [553.067659ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://www.asterdex.com [200] [] [7147] [Aster - The next-gen perp DEX for all traders] [] [3.169.173.54] [cloudfront] [358.545746ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://status.bluefin.io [200] [] [282891] [Bluefin status] [] [167.235.220.62] [901.331346ms] [Google Analytics,HSTS,Stimulus]
+
+## 301
+https://docs.bluefin.io [301] [https://bluefin-exchange.readme.io/v2.0/reference/introduction/] [528] [301 Moved Permanently] [cloudflare] [172.66.43.105] [cloudflare] [66.917957ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://private.bluefin.io [301] [https://dev-5.api.sui-staging.bluefin.io/] [167] [301 Moved Permanently] [cloudflare] [172.66.40.151] [cloudflare] [107.797605ms] [Cloudflare,HTTP/3]
+http://www.wildcard.api.sui-dev.bluefin.io [301] [https://www.wildcard.api.sui-dev.bluefin.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.40.151] [cloudflare] [18.739282ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.wildcard.api.sui-prod.bluefin.io [301] [https://www.wildcard.api.sui-prod.bluefin.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.40.151] [cloudflare] [15.205627ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://www.wildcard.api.sui-staging.bluefin.io [301] [https://www.wildcard.api.sui-staging.bluefin.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.43.105] [cloudflare] [16.991989ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://beta.app.bluefin.io [301] [https://beta.app.bluefin.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.43.105] [cloudflare] [18.252539ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://chat.bluefin.io [301] [https://chat.bluefin.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.43.105] [cloudflare] [17.288676ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://asterdex.com [302] [https://www.asterdex.com/] [138] [302 Found] [] [3.169.173.101] [cloudfront] [478.426811ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://go.arcus.xyz [302] [https://arcus.xyz] [0] [] [52.6.84.124] [400.116969ms] [HSTS]
+https://trade-arb.bluefin.io [302] [https://trade.bluefin.io/] [504] [302 Found] [cloudflare] [172.66.43.105] [cloudflare] [59.397921ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 307
+https://learn.bluefin.io [307] [https://learn.bluefin.io/bluefin/] [15] [cloudflare] [104.18.40.47] [cloudflare] [204.261674ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://www.arcus.xyz [308] [https://arcus.xyz/] [54] [cloudflare] [104.18.13.22] [cloudflare] [143.07208ms] [Cloudflare,HSTS]
+
+## 401
+https://be-staging.arcus.xyz [401] [] [15282] [Password Protected] [cloudflare] [104.18.12.22] [cloudflare] [279.308364ms] [Cloudflare,HSTS,Vercel]
+https://rc.arcus.xyz [401] [] [15282] [Password Protected] [cloudflare] [104.18.13.22] [cloudflare] [242.62274ms] [Cloudflare,HSTS,Vercel]
+https://stage.arcus.xyz [401] [] [15282] [Password Protected] [cloudflare] [104.18.12.22] [cloudflare] [306.256883ms] [Cloudflare,HSTS,Vercel]
+
+## 403
+https://candlesticks.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [465.86779ms] [Cloudflare,Envoy,HTTP/3]
+https://fstream.asterdex.com [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [3.169.173.119] [cloudfront] [120.274661ms] [Amazon CloudFront,Amazon Web Services]
+https://fapi.asterdex.com [403] [] [6892] [] [52.84.158.28] [cloudfront] [324.067298ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://download.asterdex.com [403] [] [111] [AmazonS3] [143.204.1.76] [cloudfront] [483.966363ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://spot.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [183.824209ms] [Cloudflare,Envoy,HTTP/3]
+https://swap.api.sui-prod.bluefin.io [403] [] [19] [cloudflare] [172.66.43.105] [cloudflare] [169.416043ms] [Cloudflare,Envoy,HTTP/3]
+https://static.asterdex.com [403] [] [111] [AmazonS3] [3.163.24.110] [cloudfront] [371.967084ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://auth.api.sui-prod.bluefin.io [404] [] [0] [cloudflare] [172.66.43.105] [cloudflare] [193.381072ms] [Cloudflare,HTTP/3]
+https://api.sui-dev.bluefin.io [404] [] [0] [cloudflare] [172.66.43.105] [cloudflare] [212.672201ms] [Cloudflare,HTTP/3]
+https://aggregator.spot.arcus.xyz [404] [] [13] [cloudflare] [104.18.13.22] [cloudflare] [316.930534ms] [Cloudflare]
+https://aggregator.spot.testnet.arcus.xyz [404] [] [13] [cloudflare] [104.18.12.22] [cloudflare] [412.399583ms] [Cloudflare]
+https://assets.arcus.xyz [404] [] [27150] [Not Found] [cloudflare] [104.18.13.22] [cloudflare] [447.654754ms] [Cloudflare]
+https://cdn.bluefin.io [404] [] [27511] [Not Found] [cloudflare] [172.66.43.105] [cloudflare] [265.687376ms] [Cloudflare,Cloudflare Browser Insights]
+https://email.notify.bluefin.io [404] [] [19] [] [34.110.180.34] [google] [291.495595ms]
+https://mail.pr.app.bluefin.io [404] [] [18] [cloudflare] [172.66.43.105] [cloudflare] [149.676976ms] [Cloudflare,HTTP/3]
+https://images.bluefin.io [404] [] [27511] [Not Found] [cloudflare] [172.66.43.105] [cloudflare] [273.044795ms] [Cloudflare,Cloudflare Browser Insights]
+https://mail.api.sui-prod.bluefin.io [404] [] [0] [cloudflare] [172.66.40.151] [cloudflare] [189.219494ms] [Cloudflare,HTTP/3]
+https://mail.api.sui-staging.bluefin.io [404] [] [0] [cloudflare] [172.66.43.105] [cloudflare] [209.594888ms] [Cloudflare,HTTP/3]
+https://mail.api.sui-dev.bluefin.io [404] [] [0] [cloudflare] [172.66.43.105] [cloudflare] [245.957531ms] [Cloudflare,HTTP/3]
+https://images.sui-staging.bluefin.io [404] [] [27511] [Not Found] [cloudflare] [172.66.43.105] [cloudflare] [321.271223ms] [Cloudflare,Cloudflare Browser Insights]
+https://mail.preview.arcus.xyz [404] [] [107] [cloudflare] [104.18.12.22] [cloudflare] [229.64173ms] [Cloudflare,HSTS,Vercel]
+https://mail.tool.sui-staging.bluefin.io [404] [] [0] [cloudflare] [172.66.43.105] [cloudflare] [244.722179ms] [Cloudflare,HTTP/3]
+https://privy.bluefin.io [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [134.763204ms] [Cloudflare,Cloudflare Bot Management]
+https://sp-track.bluefin.io [404] [] [2010] [Page Not Found] [openresty] [54.92.251.90] [246.224897ms] [Nginx,OpenResty]
+https://stream.api.sui-prod.bluefin.io [404] [] [0] [cloudflare] [172.66.40.151] [cloudflare] [163.531765ms] [Cloudflare,Envoy,HTTP/3]
+https://sp-bounce.bluefin.io [404] [] [2010] [Page Not Found] [openresty] [54.92.251.90] [271.617826ms] [Nginx,OpenResty]
+https://sapi.asterdex.com [404] [] [6930] [] [52.84.158.114] [cloudfront] [358.557573ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://wildcard.api.sui-staging.bluefin.io [404] [] [0] [cloudflare] [172.66.40.151] [cloudflare] [169.082874ms] [Cloudflare,HTTP/3]
+https://wildcard.api.sui-prod.bluefin.io [404] [] [0] [cloudflare] [172.66.43.105] [cloudflare] [175.105078ms] [Cloudflare,HTTP/3]
+https://www.api.sui-dev.bluefin.io [404] [] [0] [cloudflare] [172.66.43.105] [cloudflare] [186.726341ms] [Cloudflare,HTTP/3]
+https://www.pr.app.bluefin.io [404] [] [18] [cloudflare] [172.66.43.105] [cloudflare] [69.038931ms] [Cloudflare,HTTP/3]
+https://www.api.sui-prod.bluefin.io [404] [] [0] [cloudflare] [172.66.43.105] [cloudflare] [179.307498ms] [Cloudflare,HTTP/3]
+https://wildcard.api.sui-dev.bluefin.io [404] [] [0] [cloudflare] [172.66.40.151] [cloudflare] [438.246129ms] [Cloudflare,HTTP/3]
+https://www.api.sui-staging.bluefin.io [404] [] [0] [cloudflare] [172.66.40.151] [cloudflare] [194.420337ms] [Cloudflare,HTTP/3]
+https://www.preview.arcus.xyz [404] [] [107] [cloudflare] [104.18.13.22] [cloudflare] [108.281348ms] [Cloudflare,HSTS,Vercel]
+https://www.tool.sui-staging.bluefin.io [404] [] [0] [cloudflare] [172.66.40.151] [cloudflare] [204.127163ms] [Cloudflare,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+https://api.sui-prod.bluefin.io [503] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [176.488276ms] [Cloudflare,HTTP/3]
+https://api.sui-staging.bluefin.io [503] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [288.26389ms] [Cloudflare,HTTP/3]
+https://dapi.api.sui-prod.bluefin.io [503] [] [19] [cloudflare] [172.66.40.151] [cloudflare] [160.885313ms] [Cloudflare,HTTP/3]
+
