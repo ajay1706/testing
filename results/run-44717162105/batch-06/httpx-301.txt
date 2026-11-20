@@ -1,0 +1,5 @@
+http://forum.research.logos.co [301] [https://forum.research.logos.co/] [167] [301 Moved Permanently] [cloudflare] [172.67.213.249] [cloudflare] [18.373643ms] [Cloudflare,HTTP/3]
+http://cloud.logos.co [301] [https://cloud.logos.co/] [167] [301 Moved Permanently] [cloudflare] [172.67.213.249] [cloudflare] [17.067196ms] [Cloudflare,HTTP/3]
+http://autodiscover.mask.io [301] [https://autodiscover.mask.io/] [0] [Microsoft-HTTPAPI/2.0] [40.99.230.152] [31.551996ms] [Microsoft HTTPAPI:2.0]
+http://dev-press.logos.co [301] [https://dev-press.logos.co/] [167] [301 Moved Permanently] [cloudflare] [172.67.213.249] [cloudflare] [34.294324ms] [Cloudflare,HTTP/3]
+http://ecosystem.logos.co [301] [https://ecosystem.logos.co/] [167] [301 Moved Permanently] [cloudflare] [172.67.213.249] [cloudflare] [12.164026ms] [Cloudflare,HTTP/3]
