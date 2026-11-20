@@ -1,0 +1,150 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:18:01 UTC 2026
+
+HTTPX lines: 205
+Live URLs: 205
+
+## 200
+https://cantor.aftermath.finance [200] [] [58998] [Cantor] [cloudflare] [104.26.6.96] [cloudflare] [51.428881ms] [Bootstrap:5.3.8,Cloudflare,Hugo:0.154.5,Lightbox,jsDelivr]
+https://claim.aftermath.finance [200] [] [24163] [Send crypto on Sui with a gift link · Aftermath] [Vercel] [216.150.16.193] [292.103734ms] [HSTS,Vercel]
+https://aquarium1-unified.axiom.trade [200] [] [1729] [Welcome to nginx!] [cloudflare] [172.66.42.221] [cloudflare] [731.811079ms] [Cloudflare,Cloudflare Bot Management]
+https://aquarium2-unified.axiom.trade [200] [] [1729] [Welcome to nginx!] [cloudflare] [172.66.42.221] [cloudflare] [736.26385ms] [Cloudflare,Cloudflare Bot Management]
+https://doc.avnu.fi [200] [] [235] [Redirecting...] [Vercel] [216.150.16.1] [110.752138ms] [HSTS,Vercel]
+https://community.avnu.fi [200] [] [10888] [AVNU - Community list] [Vercel] [66.33.60.34] [505.180764ms] [C3.js,HSTS,Vercel]
+https://2quic.avnu.fi [200] [] [112021] [2QUIC Marketplace] [Vercel] [216.150.16.129] [1.070218606s] [HSTS,Vercel]
+https://ch-docs.aftermath.finance [200] [] [433884] [关于我们 | Aftermath 文档] [cloudflare] [104.18.40.47] [cloudflare] [121.46241ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://development.aftermath.finance [200] [] [115281] [Aftermath Finance | Empowering Secure and User-Friendly Decentralized Trading] [Vercel] [66.33.60.66] [278.308204ms] [Google Analytics,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://health.avnu.fi [200] [] [1592] [Vercel] [216.150.1.193] [262.979403ms] [HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+https://foundation.aftermath.finance [200] [] [185664] [Aftermath Finance | The Onchain Exchange] [Vercel] [216.150.1.129] [352.421086ms] [HSTS,Vercel]
+https://docs.axiom.trade [200] [] [416244] [Axiom – The Future of Trading | Axiom] [cloudflare] [172.66.41.35] [cloudflare] [195.877551ms] [Cloudflare,Cloudflare Bot Management,GitBook,HSTS,Vercel]
+https://docs.aftermath.finance [200] [] [449132] [About Us | Aftermath] [cloudflare] [172.64.147.209] [cloudflare] [162.622217ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://kr-docs.aftermath.finance [200] [] [433542] [소개 | Aftermath 문서조사] [cloudflare] [104.18.40.47] [cloudflare] [161.475352ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://blog.avnu.fi [200] [] [1853255] [AVNU - Blog] [Vercel] [76.76.21.164] [250.687943ms] [HSTS,Vercel]
+https://portal.avnu.fi [200] [] [19149] [avnu Portal | Starknet Infrastructure for Builders] [Vercel] [216.150.16.193] [361.604032ms] [HSTS,Vercel]
+https://openapi.aftermath.finance [200] [] [734] [Swagger UI] [cloudflare] [172.67.72.75] [cloudflare] [4.217325659s] [Cloudflare,Swagger UI]
+https://server-17.aftermath.finance [200] [] [612] [Welcome to nginx!] [nginx/1.18.0 (Ubuntu)] [91.134.31.17] [279.361532ms] [Nginx:1.18.0,Ubuntu]
+https://status.aftermath.finance [200] [] [2042] [Aftermath Health Status] [cloudflare] [172.67.72.75] [cloudflare] [38.224723ms] [Cloudflare]
+https://starknet.juno-us-east-1.avnu.fi [200] [] [0] [] [34.225.24.216] [65.82848ms]
+https://storage.walrus.testnet.aftermath.finance [200] [] [615] [Welcome to nginx!] [nginx/1.24.0 (Ubuntu)] [57.129.49.183] [287.29229ms] [Nginx:1.24.0,Ubuntu]
+https://starknet.juno.avnu.fi [200] [] [0] [] [34.252.120.215] [352.316722ms]
+https://starknet.pathfinder.avnu.fi [200] [] [0] [] [54.170.138.79] [409.208822ms]
+https://ts-sdk.aftermath.finance [200] [] [34078] [aftermath-ts-sdk - v6.6.0] [GitHub.com] [185.199.111.153] [80.880681ms] [Fastly,GitHub Pages,Varnish]
+https://walrus-mainnet.aftermath.finance [200] [] [615] [Welcome to nginx!] [nginx/1.24.0 (Ubuntu)] [57.129.64.138] [285.23329ms] [Nginx:1.24.0,Ubuntu]
+https://walrus-testnet.aftermath.finance [200] [] [615] [Welcome to nginx!] [nginx/1.24.0 (Ubuntu)] [57.129.49.183] [284.448269ms] [Nginx:1.24.0,Ubuntu]
+
+## 301
+https://skills.aftermath.finance [301] [https://github.com/AftermathFinance/skills] [167] [301 Moved Permanently] [cloudflare] [104.26.7.96] [cloudflare] [36.165188ms] [Cloudflare]
+https://server-27.aftermath.finance [301] [https://server-27.aftermath.finance/] [178] [301 Moved Permanently] [cloudflare] [104.26.7.96] [cloudflare] [218.919933ms] [Cloudflare]
+
+## 302
+https://base.axiom.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbase.axiom.trade%2F&nonce=8d9195793a44b47547fde50e04bede52e44212270b3f41b17e2bc0838e545ba6] [263] [cloudflare] [172.66.42.221] [cloudflare] [102.945857ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+
+## 307
+https://app.avnu.fi [307] [/en] [15] [Vercel] [216.150.16.1] [107.781934ms] [HSTS,Vercel]
+https://aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [104.26.7.96] [cloudflare] [132.965282ms] [Cloudflare,HSTS]
+http://server-18.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [nginx/1.31.9] [57.129.36.239] [184.673333ms] [HSTS,Nginx:1.31.9]
+https://testnet.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [172.67.72.75] [cloudflare] [234.667922ms] [Cloudflare]
+https://www.aftermath.finance [307] [/perpetuals/BTC-USDC] [20] [cloudflare] [104.26.7.96] [cloudflare] [223.410141ms] [Cloudflare,HSTS]
+https://v1.avnu.fi [307] [/en] [15] [Vercel] [216.150.16.193] [944.934535ms] [HSTS,Vercel]
+
+## 308
+https://avnu.fi [308] [https://app.avnu.fi/] [15] [Vercel] [216.150.1.1] [198.265649ms] [HSTS,Vercel]
+https://docs.avnu.fi [308] [/introduction] [0] [Vercel] [66.33.60.193] [455.626824ms] [Cloudflare,HSTS,Vercel]
+https://www.avnu.fi [308] [https://app.avnu.fi/] [15] [Vercel] [216.150.16.193] [172.2642ms] [HSTS,Vercel]
+
+## 401
+https://arc-orders.axiom.trade [401] [] [35] [cloudflare] [172.66.41.35] [cloudflare] [46.451953ms] [Cloudflare,Cloudflare Bot Management]
+https://ams3-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.42.221] [cloudflare] [318.71093ms] [Cloudflare,Cloudflare Bot Management]
+https://ely-orders.axiom.trade [401] [] [35] [cloudflare] [172.66.42.221] [cloudflare] [86.166219ms] [Cloudflare,Cloudflare Bot Management]
+https://eth-v2-orders.axiom.trade [401] [] [35] [cloudflare] [172.66.41.35] [cloudflare] [108.859408ms] [Cloudflare,Cloudflare Bot Management]
+https://fra1-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.42.221] [cloudflare] [270.21245ms] [Cloudflare,Cloudflare Bot Management]
+https://hype-orders.axiom.trade [401] [] [35] [cloudflare] [172.66.42.221] [cloudflare] [65.987248ms] [Cloudflare,Cloudflare Bot Management]
+https://ink-orders.axiom.trade [401] [] [35] [cloudflare] [172.66.42.221] [cloudflare] [77.97347ms] [Cloudflare,Cloudflare Bot Management]
+https://mkc1-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.42.221] [cloudflare] [3.066434955s] [Cloudflare,Cloudflare Bot Management]
+https://orders-bnb.axiom.trade [401] [] [35] [cloudflare] [172.66.42.221] [cloudflare] [3.02800796s] [Cloudflare,Cloudflare Bot Management]
+https://orders-v2.axiom.trade [401] [] [35] [cloudflare] [172.66.42.221] [cloudflare] [2.032307571s] [Cloudflare,Cloudflare Bot Management]
+https://nyc3-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.41.35] [cloudflare] [4.064236189s] [Cloudflare,Cloudflare Bot Management]
+https://sfo3-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.42.221] [cloudflare] [106.017574ms] [Cloudflare,Cloudflare Bot Management]
+https://sol-orders.axiom.trade [401] [] [35] [cloudflare] [172.66.41.35] [cloudflare] [34.310943ms] [Cloudflare,Cloudflare Bot Management]
+https://sgp1-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.42.221] [cloudflare] [359.204813ms] [Cloudflare,Cloudflare Bot Management]
+https://syd1-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.41.35] [cloudflare] [252.360864ms] [Cloudflare,Cloudflare Bot Management]
+
+## 403
+https://axiom.trade [403] [] [5604] [Just a moment...] [cloudflare] [172.66.41.35] [cloudflare] [24.655429ms] [Cloudflare,Cloudflare Bot Management]
+https://backup.axiom.trade [403] [] [5654] [Just a moment...] [cloudflare] [172.66.41.35] [cloudflare] [28.712166ms] [Cloudflare,Cloudflare Bot Management]
+https://backup2.axiom.trade [403] [] [5761] [Just a moment...] [cloudflare] [172.66.41.35] [cloudflare] [38.331642ms] [Cloudflare,Cloudflare Bot Management]
+https://backup3.axiom.trade [403] [] [5612] [Just a moment...] [cloudflare] [172.66.42.221] [cloudflare] [26.760299ms] [Cloudflare,Cloudflare Bot Management]
+https://beta.axiom.trade [403] [] [5652] [Just a moment...] [cloudflare] [172.66.42.221] [cloudflare] [23.594879ms] [Cloudflare,Cloudflare Bot Management]
+https://beta3.axiom.trade [403] [] [5567] [Just a moment...] [cloudflare] [172.66.42.221] [cloudflare] [23.779925ms] [Cloudflare,Cloudflare Bot Management]
+https://beta2.axiom.trade [403] [] [5525] [Just a moment...] [cloudflare] [172.66.42.221] [cloudflare] [48.55442ms] [Cloudflare,Cloudflare Bot Management]
+https://proxy2.axiom.trade [403] [] [5505] [Just a moment...] [cloudflare] [172.66.42.221] [cloudflare] [32.020322ms] [Cloudflare,Cloudflare Bot Management]
+https://proxy.axiom.trade [403] [] [5653] [Just a moment...] [cloudflare] [172.66.42.221] [cloudflare] [39.926657ms] [Cloudflare,Cloudflare Bot Management]
+https://public-access-uveet9ua2a.aftermath.finance [403] [] [153] [403 Forbidden] [cloudflare] [104.26.6.96] [cloudflare] [210.27524ms] [Cloudflare]
+https://server-2.aftermath.finance [403] [] [153] [403 Forbidden] [nginx/1.27.5] [141.95.98.112] [289.769232ms] [Nginx:1.27.5]
+https://v2-preview.aftermath.finance [403] [] [555] [403 Forbidden] [cloudflare] [172.67.72.75] [cloudflare] [225.22034ms] [Cloudflare]
+https://validator.sui.mainnet.aftermath.finance [403] [] [555] [403 Forbidden] [nginx/1.27.5] [141.95.98.112] [281.705047ms] [Nginx:1.27.5]
+https://www.axiom.trade [403] [] [5608] [Just a moment...] [cloudflare] [172.66.41.35] [cloudflare] [38.792708ms] [Cloudflare,Cloudflare Bot Management]
+
+## 404
+https://arc-eucalyptus.axiom.trade [404] [] [9] [cloudflare] [172.66.42.221] [cloudflare] [113.540331ms] [Cloudflare,Cloudflare Bot Management]
+https://bnb-eucalyptus.axiom.trade [404] [] [9] [cloudflare] [172.66.42.221] [cloudflare] [121.744126ms] [Cloudflare,Cloudflare Bot Management]
+https://butterfly.axiom.trade [404] [] [9] [cloudflare] [172.66.42.221] [cloudflare] [112.884238ms] [Cloudflare,Cloudflare Bot Management]
+https://bridge.sui.mainnet.aftermath.finance [404] [] [0] [nginx/1.18.0 (Ubuntu)] [146.59.81.191] [333.304416ms] [Nginx:1.18.0,Ubuntu]
+https://dev.axiom.trade [404] [] [79] [cloudflare] [172.66.42.221] [cloudflare] [178.629538ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://coin-icons-cdn.aftermath.finance [404] [] [27150] [Not Found] [cloudflare] [172.67.72.75] [cloudflare] [102.965478ms] [Cloudflare]
+https://customer.avnu.fi [404] [] [0] [] [54.75.237.108] [408.120605ms]
+https://eth-v2-eucalyptus.axiom.trade [404] [] [9] [cloudflare] [172.66.42.221] [cloudflare] [181.093475ms] [Cloudflare,Cloudflare Bot Management]
+https://eucalyptus-unified.axiom.trade [404] [] [0] [cloudflare] [172.66.41.35] [cloudflare] [225.359331ms] [Cloudflare,Cloudflare Bot Management]
+https://discover2.axiom.trade [404] [] [0] [cloudflare] [172.66.42.221] [cloudflare] [636.610273ms] [Cloudflare,Cloudflare Bot Management]
+https://discover1.axiom.trade [404] [] [0] [cloudflare] [172.66.41.35] [cloudflare] [656.137293ms] [Cloudflare,Cloudflare Bot Management]
+https://fullnode.sui.mainnet.aftermath.finance [404] [] [0] [nginx/1.18.0 (Ubuntu)] [141.95.98.143] [424.836544ms] [Nginx:1.18.0,Ubuntu]
+https://fullnode.sui.testnet.aftermath.finance [404] [] [0] [nginx/1.18.0 (Ubuntu)] [141.95.98.143] [453.748086ms] [Nginx:1.18.0,Ubuntu]
+https://horn.axiom.trade [404] [] [0] [cloudflare] [172.66.41.35] [cloudflare] [139.437178ms] [Cloudflare,Cloudflare Bot Management]
+https://hype-eucalyptus.axiom.trade [404] [] [9] [cloudflare] [172.66.41.35] [cloudflare] [157.878991ms] [Cloudflare,Cloudflare Bot Management]
+https://ink-eucalyptus.axiom.trade [404] [] [9] [cloudflare] [172.66.41.35] [cloudflare] [164.655168ms] [Cloudflare,Cloudflare Bot Management]
+https://mainnet-dev.impulse.avnu.fi [404] [] [118] [] [108.128.69.82] [2.442275171s]
+https://portfolio1.axiom.trade [404] [] [0] [cloudflare] [172.66.41.35] [cloudflare] [120.218508ms] [Cloudflare,Cloudflare Bot Management]
+https://pulse-base-1.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [114.762775ms] [Cloudflare,Cloudflare Bot Management]
+https://pulse-arc-1.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [120.012731ms] [Cloudflare,Cloudflare Bot Management]
+https://pulse-base-2.axiom.trade [404] [] [1678] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [112.885543ms] [Cloudflare,Cloudflare Bot Management]
+https://pulse-ely-1.axiom.trade [404] [] [1678] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [110.600612ms] [Cloudflare,Cloudflare Bot Management]
+https://pulse-eth-v2-1.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [111.119297ms] [Cloudflare,Cloudflare Bot Management]
+https://pulse-ink-1.axiom.trade [404] [] [1678] [404 Not Found] [cloudflare] [172.66.42.221] [cloudflare] [110.502488ms] [Cloudflare,Cloudflare Bot Management]
+https://pulse-rh-v2-1.axiom.trade [404] [] [1678] [404 Not Found] [cloudflare] [172.66.42.221] [cloudflare] [113.094034ms] [Cloudflare,Cloudflare Bot Management]
+https://pulse-rh-v2-2.axiom.trade [404] [] [1678] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [114.824313ms] [Cloudflare,Cloudflare Bot Management]
+https://pulse-unified1.axiom.trade [404] [] [1678] [404 Not Found] [cloudflare] [172.66.42.221] [cloudflare] [99.464425ms] [Cloudflare,Cloudflare Bot Management]
+https://pulse2-bnb.axiom.trade [404] [] [1678] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [108.40133ms] [Cloudflare,Cloudflare Bot Management]
+https://sepolia.api.avnu.fi [404] [] [118] [] [34.254.102.158] [374.223795ms]
+https://server-14.aftermath.finance [404] [] [0] [nginx/1.18.0 (Ubuntu)] [141.95.98.143] [307.754361ms] [Nginx:1.18.0,Ubuntu]
+http://server-15.aftermath.finance [404] [] [0] [nginx/1.29.2] [141.95.35.198] [185.569909ms] [Nginx:1.29.2]
+https://server-5.aftermath.finance [404] [] [0] [nginx/1.18.0 (Ubuntu)] [198.244.215.113] [269.99722ms] [Nginx:1.18.0,Ubuntu]
+https://pulse-unified2.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [598.632927ms] [Cloudflare,Cloudflare Bot Management]
+https://pulse1-bnb.axiom.trade [404] [] [1678] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [620.134391ms] [Cloudflare,Cloudflare Bot Management]
+https://server-3.aftermath.finance [404] [] [0] [nginx/1.18.0 (Ubuntu)] [146.59.81.191] [352.435351ms] [Nginx:1.18.0,Ubuntu]
+https://pulse-hype-1.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [751.404737ms] [Cloudflare,Cloudflare Bot Management]
+https://starknet.dca.avnu.fi [404] [] [118] [] [108.133.190.127] [331.276551ms]
+https://starknet.api.avnu.fi [404] [] [120] [] [34.240.71.247] [373.286797ms]
+https://starknet.impulse.avnu.fi [404] [] [120] [] [52.19.180.56] [432.057387ms]
+https://testnet.app.avnu.fi [404] [] [107] [Vercel] [66.33.60.194] [314.828268ms] [HSTS,Vercel]
+https://portfolio2.axiom.trade [404] [] [0] [cloudflare] [172.66.41.35] [cloudflare] [2.113319454s] [Cloudflare,Cloudflare Bot Management]
+https://zz.aftermath.finance [404] [] [105] [cloudflare] [172.66.169.73] [cloudflare] [162.044342ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+https://bridge.sui.testnet.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [281.378322ms] [Nginx:1.24.0,Ubuntu]
+https://friends.axiom.trade [502] [] [16] [cloudflare] [172.66.42.221] [cloudflare] [5.045919065s] [Cloudflare]
+https://server-1.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.47.71] [285.343667ms] [Nginx:1.24.0,Ubuntu]
+https://server-4.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [293.939005ms] [Nginx:1.24.0,Ubuntu]
+https://server-7.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [51.178.134.23] [283.788929ms] [Nginx:1.18.0,Ubuntu]
+https://validator.sui.mainnet-hotspare.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.47.71] [293.091693ms] [Nginx:1.24.0,Ubuntu]
+https://validator.sui.testnet.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [283.642959ms] [Nginx:1.24.0,Ubuntu]
+https://validator.monad.testnet.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.230.73] [323.748848ms] [Nginx:1.24.0,Ubuntu]
+
+## 503
+https://api.2quic.avnu.fi [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [18.157.246.139] [381.063914ms] [Amazon ELB,Amazon Web Services]
+https://mainnet-dev.api.avnu.fi [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [54.77.6.207] [2.41424306s] [Amazon ELB,Amazon Web Services]
+https://mainnet-dev.paymaster.avnu.fi [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [108.128.69.82] [2.451465853s] [Amazon ELB,Amazon Web Services]
+https://mainnet-dev.dca.avnu.fi [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [54.247.136.231] [3.324229051s] [Amazon ELB,Amazon Web Services]
+

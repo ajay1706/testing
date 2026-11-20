@@ -1,0 +1,4 @@
+https://api.2quic.avnu.fi [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [18.157.246.139] [381.063914ms] [Amazon ELB,Amazon Web Services]
+https://mainnet-dev.api.avnu.fi [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [54.77.6.207] [2.41424306s] [Amazon ELB,Amazon Web Services]
+https://mainnet-dev.paymaster.avnu.fi [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [108.128.69.82] [2.451465853s] [Amazon ELB,Amazon Web Services]
+https://mainnet-dev.dca.avnu.fi [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [54.247.136.231] [3.324229051s] [Amazon ELB,Amazon Web Services]

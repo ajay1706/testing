@@ -1,0 +1,8 @@
+https://bridge.sui.testnet.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [281.378322ms] [Nginx:1.24.0,Ubuntu]
+https://friends.axiom.trade [502] [] [16] [cloudflare] [172.66.42.221] [cloudflare] [5.045919065s] [Cloudflare]
+https://server-1.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.47.71] [285.343667ms] [Nginx:1.24.0,Ubuntu]
+https://server-4.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [293.939005ms] [Nginx:1.24.0,Ubuntu]
+https://server-7.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [51.178.134.23] [283.788929ms] [Nginx:1.18.0,Ubuntu]
+https://validator.sui.mainnet-hotspare.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.47.71] [293.091693ms] [Nginx:1.24.0,Ubuntu]
+https://validator.sui.testnet.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [283.642959ms] [Nginx:1.24.0,Ubuntu]
+https://validator.monad.testnet.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.230.73] [323.748848ms] [Nginx:1.24.0,Ubuntu]
