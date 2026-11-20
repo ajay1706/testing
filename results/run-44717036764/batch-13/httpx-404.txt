@@ -1,0 +1,2 @@
+https://sapi.woofi.com [404] [] [22] [] [34.146.160.181] [google] [452.017653ms] [HSTS]
+https://prod-migration.woofi.com [404] [] [548] [404 Not Found] [] [34.146.160.181] [google] [475.784569ms] [HSTS]
