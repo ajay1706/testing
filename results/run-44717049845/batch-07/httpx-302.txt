@@ -1,0 +1,2 @@
+https://claim.jup.ag [302] [https://jup.ag/] [143] [302 Found] [cloudflare] [104.18.43.59] [cloudflare] [46.655434ms] [Cloudflare,HTTP/3]
+https://lfg.jup.ag [302] [https://jup.ag/] [143] [302 Found] [cloudflare] [104.18.43.59] [cloudflare] [158.827364ms] [Cloudflare,HTTP/3]
