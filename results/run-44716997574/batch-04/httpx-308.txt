@@ -1,0 +1,4 @@
+https://exponent.finance [308] [https://www.exponent.finance/] [65] [Framer/3e471b4] [31.43.161.6] [262.571059ms] [Framer Sites,HSTS,HTTP/3,React]
+https://v1-docs.exponent.finance [308] [/starthere] [0] [cloudflare] [172.66.3.9] [cloudflare] [347.909306ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.fxdx.exchange [308] [https://fxdx.exchange/] [15] [cloudflare] [172.67.133.119] [cloudflare] [281.411914ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+http://invest.euphoria.finance [308] [https://invest.euphoria.finance/] [0] [Caddy] [75.2.96.173] [1.077656804s] [Caddy]
