@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:29:14 UTC 2026
+[+] Run ID: 44717125130
+[+] Batch name: batch-06
+[+] Batch targets:
+mycelium.com
+myriad.markets
+nomiswap.io
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:30:32 UTC 2026
+[+] HTTPX input count: 352
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:30:56 UTC 2026
+[+] httpx line count: 85
+[+] Batch completed: Fri Nov 20 10:30:56 UTC 2026

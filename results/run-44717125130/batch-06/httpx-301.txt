@@ -1,0 +1,3 @@
+https://mini.myriad.markets [301] [/markets] [0] [cloudflare] [104.18.10.145] [cloudflare] [193.178124ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://myriad.markets [301] [/markets] [0] [cloudflare] [104.18.10.145] [cloudflare] [150.450569ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://mail.mycelium.com [301] [https://csc.magentabusiness.at/] [239] [301 Moved Permanently] [Apache/2.4.37 (AlmaLinux)] [80.109.253.237] [1.265378784s] [AlmaLinux,Apache HTTP Server:2.4.37]
