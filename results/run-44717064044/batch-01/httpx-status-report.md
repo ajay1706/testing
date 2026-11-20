@@ -1,0 +1,50 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:18:32 UTC 2026
+
+HTTPX lines: 21
+Live URLs: 21
+
+## 200
+https://nft.babydoge.com [200] [] [1915] [BabyDogeCoin NFT] [cloudflare] [172.67.75.116] [cloudflare] [258.005786ms] [Bootstrap:5.1.3,Cloudflare,Popper:2.10.2,jsDelivr]
+https://perps.babydoge.com [200] [] [5828] [BabyDoge Perps] [cloudflare] [104.26.10.79] [cloudflare] [151.444076ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://bridge.babydoge.com [200] [] [1794] [Baby Doge Bridge — Maintenance] [cloudflare] [172.67.75.116] [cloudflare] [353.676095ms] [Cloudflare]
+https://babydoge.com [200] [] [39189] [BabyDoge — We Didn’t Start a Token. We Started a Movement.] [cloudflare] [104.26.11.79] [cloudflare] [321.667014ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://swap.babydoge.com [200] [] [2649] [🐶 BabyDoge DEX - Trade, Earn & Grow in DeFi] [cloudflare] [172.67.75.116] [cloudflare] [380.974451ms] [Cloudflare,Express,Node.js,Snowplow Analytics]
+https://swap-old.babydoge.com [200] [] [16000] [Baby Doge Swap] [cloudflare] [104.26.10.79] [cloudflare] [472.46841ms] [Cloudflare,Next.js,Node.js,React,Webpack]
+
+## 301
+https://www.babydoge.com [301] [https://babydoge.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.11.79] [cloudflare] [61.032506ms] [Cloudflare]
+
+## 302
+
+## 307
+https://docs.biswap.org [307] [https://docs.biswap.org/biswap/] [15] [cloudflare] [104.18.40.47] [cloudflare] [246.039489ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+
+## 403
+https://marketplace.biswap.org [403] [] [5551] [Just a moment...] [cloudflare] [172.67.171.152] [cloudflare] [132.046853ms] [Cloudflare,HTTP/3]
+https://blog.biswap.org [403] [] [5651] [Just a moment...] [cloudflare] [104.21.63.180] [cloudflare] [141.851906ms] [Cloudflare,HTTP/3]
+https://biswap.org [403] [] [5603] [Just a moment...] [cloudflare] [172.67.171.152] [cloudflare] [154.819193ms] [Cloudflare,HTTP/3]
+https://legacy.biswap.org [403] [] [5632] [Just a moment...] [cloudflare] [172.67.171.152] [cloudflare] [172.623227ms] [Cloudflare,HTTP/3]
+https://perp.biswap.org [403] [] [5565] [Just a moment...] [cloudflare] [172.67.171.152] [cloudflare] [78.739706ms] [Cloudflare,HTTP/3]
+http://bakeryswap.org [403] [] [93] [] [15.197.148.33] [67.344551ms]
+https://static.biswap.org [403] [] [5525] [Just a moment...] [cloudflare] [104.21.63.180] [cloudflare] [114.769067ms] [Cloudflare,HTTP/3]
+https://www.biswap.org [403] [] [5543] [Just a moment...] [cloudflare] [104.21.63.180] [cloudflare] [300.150026ms] [Cloudflare,HTTP/3]
+http://www.bakeryswap.org [403] [] [93] [] [15.197.148.33] [67.955345ms]
+https://tokens-swap.babydoge.com [403] [] [111] [cloudflare] [104.26.11.79] [cloudflare] [631.94655ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+
+## 404
+https://properties.babydoge.com [404] [] [0] [cloudflare] [172.67.75.116] [cloudflare] [429.963471ms] [Cloudflare]
+https://sp-bounce.babydoge.com [404] [] [2010] [Page Not Found] [openresty] [54.92.251.90] [162.625119ms] [Nginx,OpenResty]
+https://sp-track.babydoge.com [404] [] [2010] [Page Not Found] [openresty] [54.92.251.90] [240.830981ms] [Nginx,OpenResty]
+
+## 500
+
+## 502
+
+## 503
+

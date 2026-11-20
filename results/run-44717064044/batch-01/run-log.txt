@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:16:26 UTC 2026
+[+] Run ID: 44717064044
+[+] Batch name: batch-01
+[+] Batch targets:
+babydoge.com
+bakeryswap.org
+biswap.org
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:18:28 UTC 2026
+[+] HTTPX input count: 117
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:18:32 UTC 2026
+[+] httpx line count: 21
+[+] Batch completed: Fri Nov 20 10:18:32 UTC 2026

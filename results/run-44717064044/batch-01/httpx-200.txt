@@ -1,0 +1,6 @@
+https://nft.babydoge.com [200] [] [1915] [BabyDogeCoin NFT] [cloudflare] [172.67.75.116] [cloudflare] [258.005786ms] [Bootstrap:5.1.3,Cloudflare,Popper:2.10.2,jsDelivr]
+https://perps.babydoge.com [200] [] [5828] [BabyDoge Perps] [cloudflare] [104.26.10.79] [cloudflare] [151.444076ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://bridge.babydoge.com [200] [] [1794] [Baby Doge Bridge — Maintenance] [cloudflare] [172.67.75.116] [cloudflare] [353.676095ms] [Cloudflare]
+https://babydoge.com [200] [] [39189] [BabyDoge — We Didn’t Start a Token. We Started a Movement.] [cloudflare] [104.26.11.79] [cloudflare] [321.667014ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://swap.babydoge.com [200] [] [2649] [🐶 BabyDoge DEX - Trade, Earn & Grow in DeFi] [cloudflare] [172.67.75.116] [cloudflare] [380.974451ms] [Cloudflare,Express,Node.js,Snowplow Analytics]
+https://swap-old.babydoge.com [200] [] [16000] [Baby Doge Swap] [cloudflare] [104.26.10.79] [cloudflare] [472.46841ms] [Cloudflare,Next.js,Node.js,React,Webpack]
