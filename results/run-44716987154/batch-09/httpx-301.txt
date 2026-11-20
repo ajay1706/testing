@@ -1,0 +1,2 @@
+https://www.standx.com [301] [https://standx.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.13.217] [cloudflare] [178.103532ms] [Cloudflare,HTTP/3]
+https://www.perpl.xyz [301] [https://perpl.xyz/] [528] [301 Moved Permanently] [cloudflare] [104.20.45.91] [cloudflare] [272.552517ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
