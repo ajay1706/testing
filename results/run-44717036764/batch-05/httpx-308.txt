@@ -1,0 +1,2 @@
+https://www.dodoex.io [308] [https://dodoex.io/] [15] [cloudflare] [172.67.181.70] [cloudflare] [206.128936ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.equalizer.exchange [308] [https://equalizer.exchange/] [15] [Vercel] [76.76.21.22] [190.256267ms] [HSTS,Vercel]
