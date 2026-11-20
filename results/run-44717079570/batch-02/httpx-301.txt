@@ -1,0 +1,6 @@
+https://bridge.defiplaza.net [301] [https://app.defiplaza.net/bridge] [534] [301 Moved Permanently] [cloudflare] [172.67.206.196] [cloudflare] [82.46825ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://app.defiplaza.net [301] [https://app.defiplaza.net/swap] [534] [301 Moved Permanently] [cloudflare] [104.21.66.184] [cloudflare] [98.026064ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://radix.defiplaza.net [301] [https://defiplaza.net/] [167] [301 Moved Permanently] [cloudflare] [172.67.206.196] [cloudflare] [92.783425ms] [Cloudflare,HSTS,HTTP/3]
+http://a.flashnet.xyz [301] [https://a.flashnet.xyz/] [0] [envoy] [3.88.247.34] [13.584433ms] [Envoy]
+http://static.defiplaza.net [301] [https://static.defiplaza.net/] [534] [301 Moved Permanently] [cloudflare] [104.21.66.184] [cloudflare] [27.062611ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://walletconnect.defiplaza.net [301] [https://walletconnect.defiplaza.net/] [534] [301 Moved Permanently] [cloudflare] [172.67.206.196] [cloudflare] [25.002498ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
