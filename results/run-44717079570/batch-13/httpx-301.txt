@@ -1,0 +1,4 @@
+https://www.xpmarket.com [301] [https://xpmarket.com/] [528] [301 Moved Permanently] [cloudflare] [172.66.43.213] [cloudflare] [70.871561ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://api.xpmarket.com [301] [https://xpmarket.com] [82127] [Redirecting to https://xpmarket.com] [cloudflare] [172.66.43.213] [cloudflare] [266.335655ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://xpcdn.xpmarket.com [301] [https://xpmarket.com] [82127] [Redirecting to https://xpmarket.com] [cloudflare] [172.66.40.43] [cloudflare] [387.70431ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://etfapi.xpmarket.com [301] [https://etfapi.xpmarket.com/] [528] [301 Moved Permanently] [cloudflare] [172.66.40.43] [cloudflare] [21.172896ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
