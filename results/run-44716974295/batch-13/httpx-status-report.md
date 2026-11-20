@@ -1,0 +1,43 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:35:04 UTC 2026
+
+HTTPX lines: 14
+Live URLs: 14
+
+## 200
+https://trade.vestmarkets.com [200] [] [3821] [Vest Markets] [Vercel] [64.239.123.193] [119.301037ms] [HSTS,Vercel]
+https://staging.hz.vestmarkets.com [200] [] [3504] [Vest Markets] [Vercel] [64.239.123.1] [118.465658ms] [HSTS,Vercel]
+https://next.vestmarkets.com [200] [] [14994] [Vest Markets | Funded Trading Accounts up to $50K] [Vercel] [64.239.123.129] [97.351951ms] [HSTS,Vercel]
+https://paper.vestmarkets.com [200] [] [3504] [Vest Markets] [Vercel] [64.239.109.129] [178.081366ms] [HSTS,Vercel]
+https://mt.vestmarkets.com [200] [] [0] [cloudflare] [172.67.209.189] [cloudflare] [240.99945ms] [Cloudflare,HSTS,HTTP/3]
+https://mtd.vestmarkets.com [200] [] [0] [cloudflare] [172.67.209.189] [cloudflare] [295.494507ms] [Cloudflare,HSTS,HTTP/3]
+https://pay.vestmarkets.com [200] [] [4254] [Online payment @ Vest Markets] [cloudflare] [104.21.37.152] [cloudflare] [528.603095ms] [Cloudflare,HTTP/3]
+https://www.vestmarkets.com [200] [] [303467] [Vest Markets | Funded Trading Accounts up to $50K] [Vercel] [64.239.109.129] [134.824756ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.vestmarkets.com [200] [] [575376] [Home | Vest Markets] [cloudflare] [104.21.37.152] [cloudflare] [187.941937ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+
+## 302
+http://track.vestmarkets.com [302] [https://track.vestmarkets.com/] [53] [] [34.41.76.202] [google] [111.560874ms]
+
+## 307
+https://alpha.vestmarkets.com [307] [https://trade.vestmarkets.com/] [15] [Vercel] [64.239.109.1] [108.557468ms] [HSTS,Vercel]
+https://vestmarkets.com [307] [https://www.vestmarkets.com/] [15] [Vercel] [64.239.109.1] [161.373647ms] [HSTS,Vercel]
+
+## 308
+
+## 401
+https://dev.vestmarkets.com [401] [] [15282] [Password Protected] [Vercel] [64.239.123.1] [351.371588ms] [HSTS,Vercel]
+https://emfmh13npltn7tc6kn29pogk.vestmarkets.com [401] [] [15569] [Protected Page] [Vercel] [64.239.109.65] [384.873053ms] [HSTS,Vercel]
+
+## 403
+
+## 404
+
+## 500
+
+## 502
+
+## 503
+
