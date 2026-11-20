@@ -1,0 +1,4 @@
+http://oracle.relay.link [301] [https://oracle.relay.link/] [167] [301 Moved Permanently] [CloudFront] [18.238.96.3] [cloudfront] [39.510449ms] [Amazon CloudFront,Amazon Web Services]
+http://oracle.stag.relay.link [301] [https://oracle.stag.relay.link/] [167] [301 Moved Permanently] [CloudFront] [65.8.20.40] [cloudfront] [39.16059ms] [Amazon CloudFront,Amazon Web Services]
+https://rialto.xyz [301] [https://app.rialto.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.211.240] [cloudflare] [69.979506ms] [Cloudflare]
+https://www.rialto.xyz [301] [https://app.rialto.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.211.240] [cloudflare] [1.074015556s] [Cloudflare]

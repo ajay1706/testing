@@ -1,0 +1,83 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:37:20 UTC 2026
+
+HTTPX lines: 63
+Live URLs: 63
+
+## 200
+https://app.rialto.xyz [200] [] [2073] [Rialto] [AmazonS3] [65.8.20.127] [cloudfront] [317.990308ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://clerk.dashboard.relay.link [200] [] [0] [cloudflare] [104.18.34.146] [cloudflare] [108.434734ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.rialto.xyz [200] [] [129125] [Rialto Swap API · Make every trade go further] [cloudflare] [172.67.211.240] [cloudflare] [215.521898ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Netlify]
+https://blog.rialto.xyz [200] [] [77493] [Blog | Rialto] [cloudflare] [172.67.211.240] [cloudflare] [294.144485ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+https://docs.routerprotocol.com [200] [] [26050] [Router OGA Docs] [Vercel] [216.150.1.1] [122.883828ms] [Docusaurus:3.9.2,Google Analytics,HSTS,React,Vercel,Webpack]
+https://docs.relay.link [200] [] [150981] [Relay Docs - Relay] [Vercel] [66.33.60.130] [164.53231ms] [Cloudflare,HSTS,Vercel]
+https://docs.rialto.xyz [200] [] [108483] [Introduction - Rialto] [cloudflare] [162.159.143.13] [cloudflare] [317.141798ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://explorer.chain.relay.link [200] [] [91778] [Relay blockchain explorer - View Relay stats | Blockscout] [] [95.217.170.171] [716.931375ms] [HSTS,Next.js,Node.js,React,RxJS,Webpack]
+https://go.relay.link [200] [] [171359] [GO.RELAY.LINK - A Dub Custom Domain | Dub] [Vercel] [66.33.60.66] [1.085307272s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://relayer.relay.link [200] [] [806] [] [18.65.3.24] [cloudfront] [290.634899ms] [Amazon CloudFront,Amazon Web Services]
+https://staging.rialto.xyz [200] [] [2077] [Rialto] [AmazonS3] [18.238.109.124] [cloudfront] [314.693626ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://status.rialto.xyz [200] [] [83044] [Rialto Status] [AtlassianEdge] [18.65.25.31] [cloudfront] [435.72143ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://vaults-api.relay.link [200] [] [1953] [Ponder Playground] [] [54.84.209.88] [209.012993ms] [jsDelivr]
+https://varo.rialto.xyz [200] [] [1973] [Varo] [cloudflare] [104.21.59.33] [cloudflare] [411.779033ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://status.relay.link [200] [] [700496] [Relay Status] [Vercel] [66.33.60.130] [1.179365102s] [HSTS,RxJS,Vercel]
+https://www.routerprotocol.com [200] [] [4170] [Router Protocol: Powering Cross-chain Liquidity & Interoperability with Chain Abstraction] [Vercel] [216.150.16.129] [150.011552ms] [Google Tag Manager,HSTS,Node.js,Nuxt.js,Vercel,Vue.js]
+
+## 301
+http://oracle.relay.link [301] [https://oracle.relay.link/] [167] [301 Moved Permanently] [CloudFront] [18.238.96.3] [cloudfront] [39.510449ms] [Amazon CloudFront,Amazon Web Services]
+http://oracle.stag.relay.link [301] [https://oracle.stag.relay.link/] [167] [301 Moved Permanently] [CloudFront] [65.8.20.40] [cloudfront] [39.16059ms] [Amazon CloudFront,Amazon Web Services]
+https://rialto.xyz [301] [https://app.rialto.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.211.240] [cloudflare] [69.979506ms] [Cloudflare]
+https://www.rialto.xyz [301] [https://app.rialto.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.211.240] [cloudflare] [1.074015556s] [Cloudflare]
+
+## 302
+https://dev.dashboard.relay.link [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev.dashboard.relay.link%2F&nonce=52811595c0f4c96ff4bd92aa907c7180b908432c51ccaaaa0005df357a90c7b8] [263] [Vercel] [216.150.1.193] [1.266441431s] [HSTS,Vercel]
+https://scout.relay.link [302] [https://scout.relay.link/auth/login] [0] [Vercel] [216.150.1.129] [226.080514ms] [HSTS,Vercel]
+https://support.relay.link [302] [https://support.relay.link/en/] [0] [cloudflare] [172.64.150.18] [cloudflare] [347.889353ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://varo-coolify.rialto.xyz [302] [https://varo-coolify.rialto.xyz/login] [761] [Redirecting to https://varo-coolify.rialto.xyz/login] [cloudflare] [172.67.211.240] [cloudflare] [309.408803ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 307
+https://analytics.relay.link [307] [/data] [5] [] [98.91.173.202] [206.907036ms]
+https://analytics.rialto.xyz [307] [/tokenization] [13967] [Robinhood Stats] [cloudflare] [104.21.59.33] [cloudflare] [273.403511ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+https://staging-analytics.rialto.xyz [307] [/tokenization] [13967] [Robinhood Stats] [cloudflare] [172.67.211.240] [cloudflare] [267.535547ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Next.js,Node.js,React,Webpack]
+
+## 308
+https://routerprotocol.com [308] [https://www.routerprotocol.com/] [15] [Vercel] [216.150.1.1] [106.735359ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://accounts.dashboard.relay.link [403] [] [5708] [Just a moment...] [cloudflare] [104.18.34.146] [cloudflare] [112.008523ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.dev.relay.link [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [52.85.132.44] [cloudfront] [153.96898ms] [Amazon CloudFront,Amazon Web Services]
+https://api.stag.relay.link [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [65.8.20.17] [cloudfront] [69.138146ms] [Amazon CloudFront,Amazon Web Services]
+https://dbt-doc.internal.analytics.relay.link [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [18.154.144.121] [cloudfront] [2.146512659s] [Amazon CloudFront,Amazon Web Services]
+https://external-pricing-api.dev.relay.link [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [99.84.41.26] [cloudfront] [99.328764ms] [Amazon CloudFront,Amazon Web Services]
+https://hub.stag.relay.link [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [65.9.126.3] [cloudfront] [81.981918ms] [Amazon CloudFront,Amazon Web Services]
+https://pricing-api.dev.relay.link [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [99.84.41.2] [cloudfront] [94.397076ms] [Amazon CloudFront,Amazon Web Services]
+https://screening-api.dev.relay.link [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [99.84.41.48] [cloudfront] [68.114461ms] [Amazon CloudFront,Amazon Web Services]
+https://rpc.chain.relay.link [403] [] [0] [openresty/1.31.8.1] [3.216.127.49] [211.73453ms] [HSTS,Nginx,OpenResty:1.31.8.1]
+https://staging.relay.link [403] [] [59] [Vercel] [76.76.21.22] [111.981645ms] [Vercel]
+https://swap-api.stag.relay.link [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [65.8.20.40] [cloudfront] [44.014351ms] [Amazon CloudFront,Amazon Web Services]
+https://swap-api.dev.relay.link [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [99.84.41.26] [cloudfront] [79.332648ms] [Amazon CloudFront,Amazon Web Services]
+https://www.dev.relay.link [403] [] [59] [Vercel] [66.33.60.129] [1.29055113s] [Vercel]
+
+## 404
+https://api.relay.link [404] [] [72] [] [18.238.96.3] [cloudfront] [284.399461ms] [Amazon CloudFront,Amazon Web Services]
+https://api.testnets.relay.link [404] [] [72] [] [99.84.215.108] [cloudfront] [462.71464ms] [Amazon CloudFront,Amazon Web Services]
+https://assets.relay.link [404] [] [0] [] [18.238.96.13] [cloudfront] [291.265891ms] [Amazon CloudFront,Amazon Web Services]
+https://assets.stag.relay.link [404] [] [0] [] [52.85.132.70] [cloudfront] [362.234915ms] [Amazon CloudFront,Amazon Web Services]
+https://assets.dev.relay.link [404] [] [0] [] [99.84.215.108] [cloudfront] [367.854696ms] [Amazon CloudFront,Amazon Web Services]
+https://assets.testnets.relay.link [404] [] [0] [] [52.222.244.73] [cloudfront] [370.638161ms] [Amazon CloudFront,Amazon Web Services]
+https://hub.relay.link [404] [] [0] [] [18.238.96.3] [cloudfront] [260.804308ms] [Amazon CloudFront,Amazon Web Services]
+https://rialto-terminal-backend.rialto.xyz [404] [] [22] [cloudflare] [104.21.59.33] [cloudflare] [280.717403ms] [Cloudflare,HTTP/3]
+https://rialto-trade-api.rialto.xyz [404] [] [0] [cloudflare] [104.21.59.33] [cloudflare] [357.967221ms] [Cloudflare,HTTP/3]
+https://staging-rialto-terminal-backend.rialto.xyz [404] [] [22] [cloudflare] [172.67.211.240] [cloudflare] [278.975044ms] [Cloudflare,HTTP/3]
+https://staging-rialto-trade-api.rialto.xyz [404] [] [0] [cloudflare] [172.67.211.240] [cloudflare] [342.871597ms] [Cloudflare,HTTP/3]
+https://swap-api.relay.link [404] [] [72] [] [18.238.96.51] [cloudfront] [303.934559ms] [Amazon CloudFront,Amazon Web Services]
+https://ws.relay.link [404] [] [81] [] [23.23.12.160] [207.294709ms]
+
+## 500
+
+## 502
+
+## 503
+

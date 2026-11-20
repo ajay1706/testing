@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:34:35 UTC 2026
+[+] Run ID: 44717125130
+[+] Batch name: batch-09
+[+] Batch targets:
+relay.link
+rialto.xyz
+routerprotocol.com
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:36:03 UTC 2026
+[+] HTTPX input count: 669
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:37:20 UTC 2026
+[+] httpx line count: 63
+[+] Batch completed: Fri Nov 20 10:37:20 UTC 2026
