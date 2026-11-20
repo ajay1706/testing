@@ -1,0 +1,45 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:29:52 UTC 2026
+
+HTTPX lines: 17
+Live URLs: 17
+
+## 200
+https://tf.xyz [200] [] [5405] [Restricted Access | TurboFlow] [CloudFront] [13.226.209.45] [cloudfront] [277.066207ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://docs.trade.xyz [200] [] [62679] [About trade[XYZ] – trade[XYZ] Docs] [cloudflare] [104.18.4.171] [cloudflare] [182.119279ms] [Cloudflare,HSTS,Vue.js]
+https://www.tf.xyz [200] [] [5405] [Restricted Access | TurboFlow] [CloudFront] [13.33.252.70] [cloudfront] [397.087109ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://trade.xyz [200] [] [15958] [Trade[XYZ]] [Vercel] [216.150.1.1] [248.013652ms] [HSTS,Vercel]
+https://activities.tf.xyz [200] [] [1744] [TurboFlow] [AmazonS3] [108.156.107.34] [cloudfront] [943.646194ms] [Alibaba Cloud CDN,Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics,HTTP/3,jQuery]
+https://docs.tradoor.io [200] [] [336205] [About Tradoor | Tradoor] [cloudflare] [172.67.213.212] [cloudflare] [431.490046ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,HTTP/3,Vercel]
+https://app.trade.xyz [200] [] [326086] [trade.xyz] [Vercel] [216.150.1.129] [282.744914ms] [HSTS,React,Vercel]
+
+## 301
+
+## 302
+https://www.tradoor.io [302] [/restricted] [143] [302 Found] [cloudflare] [172.67.213.212] [cloudflare] [156.088203ms] [Cloudflare]
+https://tradoor.io [302] [/restricted] [143] [302 Found] [cloudflare] [104.21.67.53] [cloudflare] [331.585256ms] [Cloudflare]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+https://testnet-indexer-api.tf.xyz [403] [] [1021] [403 Forbidden] [ESA] [155.102.61.12] [780.969157ms] [HSTS]
+https://devnet-indexer-api.tf.xyz [403] [] [1021] [403 Forbidden] [ESA] [155.102.61.41] [788.151103ms] [HSTS]
+https://res.tf.xyz [403] [] [111] [AmazonS3] [3.168.51.30] [cloudfront] [841.315318ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://indexer-api.tf.xyz [403] [] [1021] [403 Forbidden] [ESA] [155.102.61.41] [1.149014117s] [HSTS]
+https://rpc-public.tf.xyz [403] [] [1021] [403 Forbidden] [ESA] [155.102.61.12] [1.223771804s] [HSTS]
+https://api.tf.xyz [403] [] [1021] [403 Forbidden] [ESA] [155.102.61.12] [1.34635201s] [HSTS]
+
+## 404
+https://tpu-public.tf.xyz [404] [] [14591] [] [18.176.182.87] [576.676711ms]
+
+## 500
+
+## 502
+
+## 503
+
