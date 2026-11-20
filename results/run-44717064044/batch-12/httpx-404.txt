@@ -1,0 +1,5 @@
+https://api.mainnet.wingriders.com [404] [] [72] [] [52.85.193.41] [cloudfront] [133.713755ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services]
+https://app-dev.vyfi.io [404] [] [10853] [VyFinance | Cardano Defi] [AmazonS3] [13.226.238.52] [cloudfront] [173.171675ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://app.vyfi.io [404] [] [10825] [VyFinance | Cardano Defi] [AmazonS3] [108.138.64.84] [cloudfront] [136.908788ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
+https://cab-server.mainnet.wingriders.com [404] [] [9] [] [52.85.193.128] [cloudfront] [139.353363ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services]
+https://staging.vyfi.io [404] [] [10825] [VyFinance | Cardano Defi] [AmazonS3] [3.167.69.10] [cloudfront] [176.870671ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics]
