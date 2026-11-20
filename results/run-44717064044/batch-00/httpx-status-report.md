@@ -1,0 +1,75 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:17:34 UTC 2026
+
+HTTPX lines: 46
+Live URLs: 46
+
+## 200
+https://builder.astroport.fi [200] [] [1883] [Astroport] [Vercel] [66.33.60.130] [281.014678ms] [C3.js,HSTS,Vercel]
+https://docs.astroport.fi [200] [] [23235] [Astroport Docs] [Vercel] [66.33.60.66] [215.414679ms] [Docusaurus:2.4.3,HSTS,React,Vercel,Webpack]
+https://astroport.fi [200] [] [100454] [Astroport] [Vercel] [76.76.21.21] [186.085947ms] [HSTS,Vercel]
+https://agni.finance [200] [] [10198] [Home | AGNI] [nginx/1.24.0 (Ubuntu)] [13.249.205.103] [cloudfront] [806.778878ms] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HSTS,Next.js,Nginx:1.24.0,Node.js,React,Ubuntu,Webpack]
+https://archetype.blue [200] [] [110179] [Archetype | Swap Smarter] [Framer/3e471b4] [35.71.142.77] [717.339527ms] [Framer Sites,HSTS,HTTP/3,React]
+https://status.astroport.fi [200] [] [5751] [Astroport — Status] [Vercel] [66.33.60.129] [251.1353ms] [HSTS,Vercel]
+https://app.archetype.blue [200] [] [37345] [Archetype | by Premia] [cloudflare] [104.26.13.68] [cloudflare] [1.286224215s] [Cloudflare,HSTS,Vercel]
+https://blog.archetype.blue [200] [] [405484] [Left Curve DeFi by Archetype] [cloudflare] [104.26.13.68] [cloudflare] [612.936939ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://wipdocs.archetype.blue [200] [] [66728] [Welcome to the Archetype Docs] [cloudflare] [104.26.13.68] [cloudflare] [438.445265ms] [Cloudflare,HSTS,Vercel,YouTube]
+https://dev1.archetype.blue [200] [] [46334] [Archetype | by Premia] [cloudflare] [104.26.13.68] [cloudflare] [6.171369037s] [Cloudflare,HSTS,Vercel]
+https://dev2.archetype.blue [200] [] [46334] [Archetype | by Premia] [cloudflare] [104.26.12.68] [cloudflare] [6.682082396s] [Cloudflare,HSTS,Vercel]
+https://dev.archetype.blue [200] [] [37345] [Archetype | by Premia] [cloudflare] [104.26.12.68] [cloudflare] [6.744791033s] [Cloudflare,HSTS,Vercel]
+
+## 301
+https://discord.astroport.fi [301] [https://discord.com/invite/wxVU7zeMTm] [167] [301 Moved Permanently] [cloudflare] [172.67.150.16] [cloudflare] [152.87368ms] [Cloudflare,HSTS,HTTP/3]
+https://blog.astroport.fi [301] [https://astroport.medium.com/] [167] [301 Moved Permanently] [cloudflare] [104.21.63.204] [cloudflare] [277.343304ms] [Cloudflare,HSTS,HTTP/3]
+https://telegram.astroport.fi [301] [https://t.me/astroport_finance] [167] [301 Moved Permanently] [cloudflare] [104.21.63.204] [cloudflare] [120.340048ms] [Cloudflare,HSTS,HTTP/3]
+http://www.app.archetype.blue [301] [https://www.app.archetype.blue/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.68] [cloudflare] [52.106393ms] [Cloudflare,HTTP/2]
+http://www.cicd.archetype.blue [301] [https://www.cicd.archetype.blue/] [167] [301 Moved Permanently] [cloudflare] [172.67.72.23] [cloudflare] [58.980293ms] [Cloudflare,HTTP/2]
+http://www.dev.archetype.blue [301] [https://www.dev.archetype.blue/] [167] [301 Moved Permanently] [cloudflare] [104.26.12.68] [cloudflare] [59.927098ms] [Cloudflare,HTTP/2]
+http://www.dev2.archetype.blue [301] [https://www.dev2.archetype.blue/] [167] [301 Moved Permanently] [cloudflare] [104.26.13.68] [cloudflare] [52.454553ms] [Cloudflare]
+http://www.dev1.archetype.blue [301] [https://www.dev1.archetype.blue/] [167] [301 Moved Permanently] [cloudflare] [104.26.13.68] [cloudflare] [52.016777ms] [Cloudflare]
+http://www.devapi.archetype.blue [301] [https://www.devapi.archetype.blue/] [167] [301 Moved Permanently] [cloudflare] [172.67.72.23] [cloudflare] [52.866325ms] [Cloudflare]
+http://www.dev3.archetype.blue [301] [https://www.dev3.archetype.blue/] [167] [301 Moved Permanently] [cloudflare] [104.26.13.68] [cloudflare] [53.217811ms] [Cloudflare]
+http://www.wildcard.archetype.blue [301] [https://www.wildcard.archetype.blue/] [167] [301 Moved Permanently] [cloudflare] [172.67.72.23] [cloudflare] [60.29987ms] [Cloudflare]
+http://www.wipdocs.archetype.blue [301] [https://www.wipdocs.archetype.blue/] [167] [301 Moved Permanently] [cloudflare] [172.67.72.23] [cloudflare] [51.7007ms] [Cloudflare]
+http://www.wipapp.archetype.blue [301] [https://www.wipapp.archetype.blue/] [167] [301 Moved Permanently] [cloudflare] [172.67.72.23] [cloudflare] [60.681321ms] [Cloudflare]
+
+## 302
+https://dev3.archetype.blue [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev3.archetype.blue%2F&nonce=4ac52c87e290331cc7cfcbc6d49be2a8efded278fff20afc4ff6444d3ffdb630] [263] [cloudflare] [172.67.72.23] [cloudflare] [532.225858ms] [Cloudflare,HSTS,Vercel]
+
+## 307
+https://app.astroport.fi [307] [/swap] [15] [Vercel] [66.33.60.35] [166.065711ms] [HSTS,Vercel]
+https://api.astroport.fi [307] [/swap] [15] [Vercel] [66.33.60.193] [226.629475ms] [HSTS,Vercel]
+https://wipapp.archetype.blue [307] [https://app.archetype.blue/] [15] [cloudflare] [172.67.72.23] [cloudflare] [463.75934ms] [Cloudflare,HSTS,Vercel]
+
+## 308
+https://www.astroport.fi [308] [https://astroport.fi/] [15] [Vercel] [66.33.60.129] [304.683339ms] [HSTS,Vercel]
+https://www.archetype.blue [308] [https://archetype.blue/] [59] [Framer/3e471b4] [31.43.161.6] [427.421689ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+https://cf.archetype.blue [401] [] [31] [cloudflare] [172.67.72.23] [cloudflare] [412.62506ms] [Cloudflare]
+https://api.archetype.blue [401] [] [226] [cloudflare] [104.26.12.68] [cloudflare] [476.586485ms] [Cloudflare]
+https://cfdev.archetype.blue [401] [] [31] [cloudflare] [104.26.12.68] [cloudflare] [683.244597ms] [Cloudflare]
+
+## 403
+
+## 404
+https://apii.archetype.blue [404] [] [101] [cloudflare] [104.26.12.68] [cloudflare] [289.113098ms] [Cloudflare]
+https://boards.archetype.blue [404] [] [101] [cloudflare] [172.67.72.23] [cloudflare] [347.122098ms] [Cloudflare]
+https://local.archetype.blue [404] [] [65] [] [52.52.74.95] [229.657943ms]
+https://cicd.archetype.blue [404] [] [107] [cloudflare] [104.26.12.68] [cloudflare] [652.668025ms] [Cloudflare,HSTS,Vercel]
+https://dev2s.archetype.blue [404] [] [107] [cloudflare] [172.67.72.23] [cloudflare] [687.321418ms] [Cloudflare,HSTS,Vercel]
+https://devg.archetype.blue [404] [] [107] [cloudflare] [104.26.13.68] [cloudflare] [692.253991ms] [Cloudflare,HSTS,Vercel]
+https://devapi.archetype.blue [404] [] [107] [cloudflare] [172.67.72.23] [cloudflare] [714.456433ms] [Cloudflare,HSTS,Vercel]
+https://app3.archetype.blue [404] [] [107] [cloudflare] [104.26.12.68] [cloudflare] [794.278227ms] [Cloudflare,HSTS,Vercel]
+https://devapis.archetype.blue [404] [] [107] [cloudflare] [104.26.13.68] [cloudflare] [810.466542ms] [Cloudflare,HSTS,Vercel]
+https://localc.archetype.blue [404] [] [107] [cloudflare] [172.67.72.23] [cloudflare] [643.298727ms] [Cloudflare,HSTS,Vercel]
+https://wildcard.archetype.blue [404] [] [107] [cloudflare] [104.26.13.68] [cloudflare] [700.852024ms] [Cloudflare,HSTS,Vercel]
+https://www5.archetype.blue [404] [] [107] [cloudflare] [172.67.72.23] [cloudflare] [582.667592ms] [Cloudflare,HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+

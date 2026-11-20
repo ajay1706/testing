@@ -1,0 +1,2 @@
+https://www.astroport.fi [308] [https://astroport.fi/] [15] [Vercel] [66.33.60.129] [304.683339ms] [HSTS,Vercel]
+https://www.archetype.blue [308] [https://archetype.blue/] [59] [Framer/3e471b4] [31.43.161.6] [427.421689ms] [Framer Sites,HSTS,HTTP/3,React]
