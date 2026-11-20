@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:28:02 UTC 2026
+[+] Run ID: 44717049845
+[+] Batch name: batch-08
+[+] Batch targets:
+mayan.finance
+meteora.ag
+mmt.finance
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:29:12 UTC 2026
+[+] HTTPX input count: 314
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:29:25 UTC 2026
+[+] httpx line count: 230
+[+] Batch completed: Fri Nov 20 10:29:25 UTC 2026
