@@ -1,0 +1,45 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:28:03 UTC 2026
+
+HTTPX lines: 17
+Live URLs: 17
+
+## 200
+https://hyperion.xyz [200] [] [2275] [Hyperion] [cloudflare] [104.26.13.51] [cloudflare] [212.82069ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HSTS,HTTP/3]
+https://app.hyperion.xyz [200] [] [23463] [cloudflare] [104.26.12.51] [cloudflare] [292.936964ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://jtx.com [200] [] [39214] [JTX | Built for Solana traders who know the difference] [cloudflare] [104.26.13.57] [cloudflare] [309.87249ms] [Cloudflare,HSTS,Vercel]
+https://app.jtx.com [200] [] [119021] [Trade · JTX] [cloudflare] [104.26.13.57] [cloudflare] [326.50762ms] [Cloudflare,HSTS,Vercel,hCaptcha]
+https://assets.hyperion.xyz [200] [] [79969] [cloudflare] [104.26.13.51] [cloudflare] [1.20926671s] [Cloudflare,HSTS,HTTP/3]
+
+## 301
+https://www.hyperion.xyz [301] [https://hyperion.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.146] [cloudflare] [118.701385ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+
+## 307
+
+## 308
+https://www.jtx.com [308] [https://jtx.com/] [15] [cloudflare] [172.67.72.177] [cloudflare] [365.380608ms] [Cloudflare,HSTS,Vercel]
+
+## 401
+https://admin.jtx.com [401] [] [15282] [Password Protected] [cloudflare] [104.26.13.57] [cloudflare] [415.475963ms] [Cloudflare,HSTS,Vercel]
+https://app-staging.jtx.com [401] [] [15282] [Password Protected] [cloudflare] [104.26.12.57] [cloudflare] [466.886734ms] [Cloudflare,HSTS,Vercel]
+https://preprod-app.jtx.com [401] [] [15548] [Protected Page] [cloudflare] [104.26.12.57] [cloudflare] [412.247055ms] [Cloudflare,HSTS,Vercel]
+
+## 403
+http://hop.ag [403] [] [93] [] [3.33.130.190] [65.312283ms]
+https://socialsignals-api-v1.jtx.com [403] [] [0] [Caddy] [104.154.187.183] [google] [158.098332ms] [Caddy,HTTP/3]
+http://www.hop.ag [403] [] [93] [] [3.33.130.190] [68.339306ms]
+
+## 404
+https://api.jtx.com [404] [] [0] [cloudflare] [104.26.13.57] [cloudflare] [316.398084ms] [Cloudflare]
+https://privy.jtx.com [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [184.277045ms] [Cloudflare,Cloudflare Bot Management]
+https://preview.jtx.com [404] [] [107] [cloudflare] [172.67.72.177] [cloudflare] [571.448623ms] [Cloudflare,HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
