@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:24:04 UTC 2026
+[+] Run ID: 44717175648
+[+] Batch name: batch-01
+[+] Batch targets:
+brevis.network
+chainbase.com
+chainstack.com
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:25:15 UTC 2026
+[+] HTTPX input count: 813
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:28:08 UTC 2026
+[+] httpx line count: 139
+[+] Batch completed: Fri Nov 20 10:28:08 UTC 2026
