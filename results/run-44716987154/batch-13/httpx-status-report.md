@@ -1,0 +1,45 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:32:11 UTC 2026
+
+HTTPX lines: 17
+Live URLs: 17
+
+## 200
+https://waitlist.waterx.app [200] [] [22930] [WaterX | Join the Waitlist] [cloudflare] [104.26.13.174] [cloudflare] [362.419431ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://status.waterx.app [200] [] [3497] [WaterX Service Status] [cloudflare] [104.26.12.174] [cloudflare] [853.125783ms] [Cloudflare,Cloudflare Browser Insights]
+https://staging.waterx.app [200] [] [3193] [WaterX] [cloudflare] [104.26.12.174] [cloudflare] [1.267064132s] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://docs.waterx.app [200] [] [366137] [What is WaterX | WaterX Docs] [cloudflare] [104.26.12.174] [cloudflare] [245.40917ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,Vercel]
+
+## 301
+
+## 302
+https://grafana.waterx.app [302] [/login] [29] [cloudflare] [104.26.13.174] [cloudflare] [447.672322ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+
+## 307
+https://waterx.app [307] [/en] [15] [Vercel] [216.150.1.193] [610.05365ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://testnet.waterx.app [307] [/en] [15] [Vercel] [216.150.1.193] [740.329184ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://www.waterx.app [307] [/en] [15] [Vercel] [216.150.1.1] [759.653642ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://cn.waterx.app [307] [/en] [15] [Vercel] [216.150.1.193] [777.452743ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://gift.waterx.app [307] [/en] [15] [Vercel] [216.150.1.193] [958.756888ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://demo.waterx.app [307] [/en] [15] [Vercel] [216.150.1.193] [967.81988ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://mcp.waterx.app [404] [] [13] [cloudflare] [104.26.12.174] [cloudflare] [193.857442ms] [Cloudflare]
+https://config.waterx.app [404] [] [0] [cloudflare] [172.67.74.154] [cloudflare] [262.601664ms] [Cloudflare]
+https://api-testnet.waterx.app [404] [] [63] [cloudflare] [104.26.12.174] [cloudflare] [318.853464ms] [Cloudflare,HSTS]
+https://v2.waterx.app [404] [] [107] [Vercel] [216.150.1.129] [403.376593ms] [HSTS,Vercel]
+https://storage.waterx.app [404] [] [28625] [Not Found] [cloudflare] [104.26.13.174] [cloudflare] [418.913456ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 500
+
+## 502
+
+## 503
+
