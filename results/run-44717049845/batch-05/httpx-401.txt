@@ -1,0 +1,6 @@
+https://eu.rpc.fluxbeam.xyz [401] [] [27] [] [164.92.211.56] [491.236065ms] [HTTP/3]
+https://eu.shield.rpc.fluxbeam.xyz [401] [] [27] [] [164.92.211.56] [500.407723ms] [HTTP/3]
+https://eu.rpc.fogo.fluxbeam.xyz [401] [] [27] [] [164.92.253.237] [575.22894ms] [HTTP/3]
+https://us.rpc.fluxbeam.xyz [401] [] [27] [] [161.35.15.9] [297.525021ms] [HTTP/3]
+https://shield.data.fluxbeam.xyz [401] [] [27] [nginx] [206.189.96.54] [519.084452ms] [Nginx]
+https://shield.data.fogo.fluxbeam.xyz [401] [] [27] [nginx] [159.89.22.252] [604.919181ms] [Nginx]
