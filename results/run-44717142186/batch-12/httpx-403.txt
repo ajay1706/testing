@@ -1,0 +1,3 @@
+https://api.velvet.capital [403] [] [4911] [Attention Required! | Cloudflare] [cloudflare] [172.66.40.59] [cloudflare] [65.504315ms] [Cloudflare,Cloudflare Browser Insights]
+https://newsletter.velvet.capital [403] [] [17] [cloudflare] [172.66.40.59] [cloudflare] [239.922652ms] [Cloudflare]
+https://staging.velvet.capital [403] [] [703] [cloudflare] [172.66.40.59] [cloudflare] [380.956539ms] [Cloudflare,Cloudflare Browser Insights]

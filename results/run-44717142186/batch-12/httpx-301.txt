@@ -1,0 +1,5 @@
+https://devapp.yei.finance [301] [https://testapp.yei.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.198] [cloudflare] [46.895875ms] [Cloudflare,HSTS,HTTP/3]
+https://docs.yei.finance [301] [https://docs.clovis.network/more/yei-finance] [167] [301 Moved Permanently] [cloudflare] [104.26.3.104] [cloudflare] [54.912645ms] [Cloudflare,HSTS,HTTP/3]
+https://classic.yei.finance [301] [https://app.yei.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.198] [cloudflare] [57.85209ms] [Cloudflare,HSTS,HTTP/3]
+https://velvet.capital [301] [https://www.velvet.capital/] [523] [301 Moved Permanently] [cloudflare] [172.66.43.197] [cloudflare] [456.105684ms] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,Varnish]
+https://www.tydro.com [301] [https://tydro.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.41.46] [cloudflare] [132.118147ms] [Cloudflare]
