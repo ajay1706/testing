@@ -1,0 +1,7 @@
+https://blog.derive.xyz [301] [https://insights.derive.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.15.65] [cloudflare] [120.160797ms] [Cloudflare]
+https://docs.dydx.trade [301] [https://docs.dydx.xyz] [528] [301 Moved Permanently] [cloudflare] [172.66.166.30] [cloudflare] [88.783757ms] [Cloudflare,Cloudflare Browser Insights]
+https://app.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [172.66.166.30] [cloudflare] [660.228229ms] [Cloudflare,HSTS,Vercel]
+https://edgex.exchange [301] [https://www.edgex.exchange/] [0] [TencentEdgeOne] [43.169.35.93] [547.377093ms] [EdgeOne]
+https://pro.derive.xyz [301] [https://app.derive.xyz/] [15] [Vercel] [216.150.16.129] [309.224169ms] [HSTS,Vercel]
+https://www.dydx.trade [301] [https://dydx.trade/] [15] [cloudflare] [104.20.40.161] [cloudflare] [155.044759ms] [Cloudflare,HSTS,Vercel]
+https://www.edgex.exchange [301] [https://pro.edgex.exchange/en-US/home] [0] [TencentEdgeOne] [43.169.35.93] [414.603152ms] [EdgeOne]

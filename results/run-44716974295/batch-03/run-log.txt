@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:12:30 UTC 2026
+[+] Run ID: 44716974295
+[+] Batch name: batch-03
+[+] Batch targets:
+derive.xyz
+dydx.trade
+edgex.exchange
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:14:20 UTC 2026
+[+] HTTPX input count: 356
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:14:44 UTC 2026
+[+] httpx line count: 148
+[+] Batch completed: Fri Nov 20 10:14:44 UTC 2026
