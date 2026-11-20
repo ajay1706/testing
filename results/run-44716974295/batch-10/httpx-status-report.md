@@ -1,0 +1,59 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:27:37 UTC 2026
+
+HTTPX lines: 31
+Live URLs: 31
+
+## 200
+https://app-staging.reya.xyz [200] [] [2437] [Reya] [cloudflare] [172.66.174.112] [cloudflare] [62.671885ms] [Cloudflare,Cloudflare Browser Insights]
+https://app-devnet-cf.reya.xyz [200] [] [2437] [Reya] [cloudflare] [104.20.43.106] [cloudflare] [76.102131ms] [Cloudflare,Cloudflare Browser Insights]
+https://brokoli.reya.xyz [200] [] [3837] [@storybook/cli - Storybook] [cloudflare] [172.66.174.112] [cloudflare] [96.863115ms] [Cloudflare,Cloudflare Browser Insights]
+https://inst.reya.xyz [200] [] [4618] [cloudflare] [104.20.43.106] [cloudflare] [265.871667ms] [Cloudflare,Cloudflare Browser Insights]
+https://api-staging.reya.xyz [200] [] [29] [cloudflare] [104.20.43.106] [cloudflare] [670.459743ms] [Cloudflare,HSTS]
+https://help.reya.xyz [200] [] [61350] [Reya Help Center] [Caddy] [34.206.47.24] [298.861452ms] [Caddy,HSTS,HTTP/3]
+https://reya.xyz [200] [] [117847] [Reya] [cloudflare] [172.66.44.105] [cloudflare] [233.488798ms] [Cloudflare,HTTP/3]
+https://app-cronos-cf.reya.xyz [200] [] [30379] [Reya] [cloudflare] [104.20.43.106] [cloudflare] [166.350721ms] [Cloudflare,Cloudflare Browser Insights]
+https://testnet.sodex.com [200] [] [12385] [SoDEX — Spot Trading] [cloudflare] [104.18.15.161] [cloudflare] [320.405211ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,Sensors Data]
+https://app2.reya.xyz [200] [] [23940] [Vercel] [216.150.16.1] [196.654512ms] [C3.js,HSTS,Vercel]
+https://docs.reya.xyz [200] [] [357650] [What Is Reya | Reya] [cloudflare] [172.66.174.112] [cloudflare] [157.125939ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,Vercel]
+https://docs.sodex.com [200] [] [434905] [Why We Built SoDEX | SoDEX Whitepaper] [cloudflare] [104.18.40.47] [cloudflare] [144.563572ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://sodex.com [200] [] [174878] [SoDEX - Next-Gen DEX | Decentralized Crypto Exchange for Trading] [cloudflare] [104.18.14.161] [cloudflare] [324.078771ms] [Cloudflare,Cloudflare Bot Management,Next.js,Node.js,React,Webpack]
+https://www.reya.xyz [200] [] [117847] [Reya] [cloudflare] [172.66.47.151] [cloudflare] [222.713119ms] [Cloudflare,HTTP/3]
+
+## 301
+https://chat.reya.xyz [301] [https://linktr.ee/reya_network] [528] [301 Moved Permanently] [cloudflare] [104.20.43.106] [cloudflare] [55.636046ms] [Cloudflare,Cloudflare Browser Insights]
+https://whitelist.sodex.com [301] [https://testnet.sodex.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.14.161] [cloudflare] [190.62761ms] [Cloudflare]
+https://www.sodex.com [301] [https://sodex.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.15.161] [cloudflare] [34.09098ms] [Cloudflare]
+
+## 302
+https://app-gcp.reya.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fapp-gcp.reya.xyz%2F&nonce=7363424aed27c7b45655628cc8e3c113f63d69b3cf034f9383994e2dc17788f0] [263] [Vercel] [216.150.16.129] [119.797002ms] [HSTS,Vercel]
+
+## 307
+https://develop.reya.xyz [307] [https://develop.reya.xyz/password-protect] [0] [cloudflare] [172.66.174.112] [cloudflare] [133.691092ms] [Cloudflare]
+https://developapp.reya.xyz [307] [https://developapp.reya.xyz/login?redirectTo=https%3A%2F%2Fdevelopapp.reya.xyz%2F&type=general] [0] [cloudflare] [104.20.43.106] [cloudflare] [163.591582ms] [Cloudflare]
+https://claim.reya.xyz [307] [https://claim.reya.xyz/password] [0] [cloudflare] [172.66.174.112] [cloudflare] [427.54446ms] [Cloudflare]
+
+## 308
+
+## 401
+
+## 403
+https://api.reya.xyz [403] [] [1889] [Reya – Not available in your region] [cloudflare] [172.66.174.112] [cloudflare] [35.889587ms] [Cloudflare,Cloudflare Browser Insights]
+https://app.reya.xyz [403] [] [1889] [Reya – Not available in your region] [cloudflare] [104.20.43.106] [cloudflare] [38.005412ms] [Cloudflare,Cloudflare Browser Insights]
+https://agentic.reya.xyz [403] [] [1889] [Reya – Not available in your region] [cloudflare] [172.66.174.112] [cloudflare] [47.371122ms] [Cloudflare,Cloudflare Browser Insights]
+https://ws-exec-staging.reya.xyz [403] [] [21] [cloudflare] [104.20.43.106] [cloudflare] [136.215127ms] [Cloudflare]
+https://ws-exec.reya.xyz [403] [] [21] [cloudflare] [104.20.43.106] [cloudflare] [157.455129ms] [Cloudflare]
+https://ws-gke.reya.xyz [403] [] [1889] [Reya – Not available in your region] [cloudflare] [172.66.174.112] [cloudflare] [135.23162ms] [Cloudflare,Cloudflare Browser Insights]
+https://ws.reya.xyz [403] [] [1889] [Reya – Not available in your region] [cloudflare] [104.20.43.106] [cloudflare] [130.552844ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 404
+https://changelog.reya.xyz [404] [] [3181] [Page Not Found | Canny] [] [100.56.186.228] [37.905145ms] [Canny,HSTS,Linkedin Ads]
+https://g.reya.xyz [404] [] [105] [cloudflare] [104.20.29.105] [cloudflare] [231.291596ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+
+## 503
+
