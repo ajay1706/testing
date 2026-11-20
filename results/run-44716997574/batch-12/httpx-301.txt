@@ -1,0 +1,3 @@
+https://synapseprotocol.com [301] [https://hypercall.xyz/synapse] [0] [cloudflare] [104.26.1.225] [cloudflare] [184.163551ms] [Cloudflare]
+https://www.synapseprotocol.com [301] [https://hypercall.xyz/synapse] [0] [cloudflare] [104.26.1.225] [cloudflare] [190.441551ms] [Cloudflare]
+http://staging.thetanuts.finance [301] [https://staging.thetanuts.finance/] [534] [301 Moved Permanently] [cloudflare] [104.21.84.57] [cloudflare] [23.526405ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
