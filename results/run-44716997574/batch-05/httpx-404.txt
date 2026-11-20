@@ -1,0 +1,4 @@
+https://bids.hedgehood.app [404] [] [22] [cloudflare] [172.67.175.196] [cloudflare] [80.7381ms] [Cloudflare,HTTP/3]
+https://options-feed.hedgehood.app [404] [] [21] [cloudflare] [172.67.175.196] [cloudflare] [82.497171ms] [Cloudflare,HTTP/3]
+https://staging-api.hedgehood.app [404] [] [21] [cloudflare] [104.21.17.112] [cloudflare] [111.283608ms] [Cloudflare,HTTP/3]
+https://api.hegic.co [404] [] [18] [nginx/1.14.2] [63.250.34.185] [980.934189ms] [Nginx:1.14.2]

@@ -1,0 +1,50 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:18:53 UTC 2026
+
+HTTPX lines: 21
+Live URLs: 21
+
+## 200
+https://v1.hegic.co [200] [] [490] [Hegic: On-chain options trading protocol on Ethereum] [GitHub.com] [185.199.110.153] [82.485001ms] [Fastly,GitHub Pages,Varnish]
+https://media.hedgehood.app [200] [] [24] [cloudflare] [172.67.175.196] [cloudflare] [140.909356ms] [Cloudflare,HTTP/3]
+https://old.hegic.co [200] [] [6969] [Hegic: On-chain options trading protocol on Ethereum] [GitHub.com] [185.199.110.153] [72.190559ms] [Fastly,GitHub Pages,Varnish]
+https://options.hedgehood.app [200] [] [1478] [Hedgehood Agent market] [cloudflare] [104.21.17.112] [cloudflare] [160.951367ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://wheel.hedgehood.app [200] [] [2055] [Hedgehood Play] [cloudflare] [172.67.175.196] [cloudflare] [190.10752ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://box.hedgehood.app [200] [] [2055] [Hedgehood Play] [cloudflare] [104.21.17.112] [cloudflare] [211.92199ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://hardcore.hegic.co [200] [] [6945] [Hegic: On-chain options trading protocol on Ethereum] [GitHub.com] [185.199.108.153] [76.400024ms] [Fastly,GitHub Pages,Varnish]
+https://hedgehood.app [200] [] [3058] [Hedgehood] [cloudflare] [172.67.175.196] [cloudflare] [160.624549ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.hegic.co [200] [] [7998] [Hegic: On-chain options trading protocol on Ethereum] [GitHub.com] [185.199.108.153] [70.747396ms] [Fastly,GitHub Pages,Varnish]
+https://play.hegic.co [200] [] [6967] [Hegic Playground: On-chain options trading protocol on Ethereum] [GitHub.com] [185.199.109.153] [82.365821ms] [Fastly,GitHub Pages,Varnish]
+https://arcade.hedgehood.app [200] [] [2055] [Hedgehood Play] [cloudflare] [172.67.175.196] [cloudflare] [292.519119ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://weekend.hedgehood.app [200] [] [2055] [Hedgehood Play] [cloudflare] [104.21.17.112] [cloudflare] [285.73343ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://swap.hegic.co [200] [] [6976] [Hegic Token Swap] [GitHub.com] [185.199.111.153] [124.883298ms] [Fastly,GitHub Pages,HSTS,Varnish]
+https://www.hedgehood.app [200] [] [3074] [Hedgehood] [cloudflare] [172.67.175.196] [cloudflare] [378.881374ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://docs.hedgehood.app [200] [] [47469] [Hedgehood in one page | Hedgehood Docs] [cloudflare] [172.67.175.196] [cloudflare] [250.021409ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.10.2,HTTP/3,React,Webpack]
+
+## 301
+
+## 302
+https://ops.hedgehood.app [302] [https://twilight-bush-f926.cloudflareaccess.com/cdn-cgi/access/login/ops.hedgehood.app?kid=11ee9dd6c0dd8454bc259ce218b980b36e433a3c28e40d631eff4565a2c360b3&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjJkNDBmODk1NjYzYmQ4Y2Y4MTc1ZGFiYWExOTM4YmU1NjFhYjkxMDIwNzIwZjM2OTRmZTllMzA2OTc1MzgzNzEifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjExZWU5ZGQ2YzBkZDg0NTRiYzI1OWNlMjE4Yjk4MGIzNmU0MzNhM2MyOGU0MGQ2MzFlZmY0NTY1YTJjMzYwYjMiLCJob3N0bmFtZSI6Im9wcy5oZWRnZWhvb2QuYXBwIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTUxNzAyMjIsIm5iZiI6MTc5NTE2OTkyMiwiaWF0IjoxNzk1MTY5OTIyLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiOWVmYTIwNjlmM2JlMzU0ZGQyNmRjZGM1NjIwNmNkNTEzYmE0NzY2OGEyMzVkZWQzYWYyOWZiMzg4MmJmNjA3YSJ9.oCtJ7Y5hTKPOhy5rOBql1zMzTb5eJAiuxWHQ2Es5vYIYPwuRypCQlO3anBNSBtYmAwOzAAGj9_xHJRiPCo_RqgYsI0auTY2ZBybjBbX96oJgXIMmPERjE9hanooeGL_Ykhs5w1MxaNZQkEs7vqZ7PKGv6QnR5vTnkXF3olDOleLa7QfbQTmt0s_2H40OkApR4Tc-WsMoOh0pQ5IxDT0krmfd2ldaKscBkJd7ikaSykdHd33w96TdHU7GiXat-cGf_aYB8SwKpYXgX1izVUgqx7yMpPMUxBz3HtIWW66Lj6TfWcmyvkZU9UFOGdGTex_gyA2i1V-ms50Ik9b8Ek0Qsw&redirect_url=%2F] [510] [302 Found] [cloudflare] [104.21.17.112] [cloudflare] [98.024769ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://hegic.co [302] [https://www.hegic.co] [43] [namecheap-nginx] [192.64.119.252] [255.824893ms] [Nginx]
+
+## 307
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://bids.hedgehood.app [404] [] [22] [cloudflare] [172.67.175.196] [cloudflare] [80.7381ms] [Cloudflare,HTTP/3]
+https://options-feed.hedgehood.app [404] [] [21] [cloudflare] [172.67.175.196] [cloudflare] [82.497171ms] [Cloudflare,HTTP/3]
+https://staging-api.hedgehood.app [404] [] [21] [cloudflare] [104.21.17.112] [cloudflare] [111.283608ms] [Cloudflare,HTTP/3]
+https://api.hegic.co [404] [] [18] [nginx/1.14.2] [63.250.34.185] [980.934189ms] [Nginx:1.14.2]
+
+## 500
+
+## 502
+
+## 503
+

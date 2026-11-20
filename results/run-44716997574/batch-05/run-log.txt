@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:16:58 UTC 2026
+[+] Run ID: 44716997574
+[+] Batch name: batch-05
+[+] Batch targets:
+hedgehood.app
+hegic.co
+hypersurface.finance
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:18:42 UTC 2026
+[+] HTTPX input count: 41
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:18:53 UTC 2026
+[+] httpx line count: 21
+[+] Batch completed: Fri Nov 20 10:18:53 UTC 2026
