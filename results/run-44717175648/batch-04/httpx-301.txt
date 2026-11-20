@@ -1,0 +1,5 @@
+http://www.education.hoprnet.org [301] [https://www.education.hoprnet.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.8.171] [cloudflare] [33.712934ms] [Cloudflare,HTTP/2]
+https://www.iden3.io [301] [https://iden3.io/] [529] [301 Moved Permanently] [cloudflare] [104.21.36.139] [cloudflare] [1.173872573s] [Cloudflare,Cloudflare Browser Insights,Fastly,GitHub Pages,HTTP/3,Varnish]
+https://www.hoprnet.org [301] [https://hoprnet.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.71.174] [cloudflare] [3.081851486s] [Cloudflare]
+http://forum.hoprnet.org [301] [https://forum.hoprnet.org/] [167] [301 Moved Permanently] [cloudflare] [104.26.9.171] [cloudflare] [33.907291ms] [Cloudflare]
+http://relay.iden3.io [301] [https://relay.iden3.io/] [534] [301 Moved Permanently] [cloudflare] [104.21.36.139] [cloudflare] [36.926123ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
