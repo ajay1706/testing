@@ -1,0 +1,2 @@
+https://www.sologenic.org [301] [https://sologenic.org/] [534] [301 Moved Permanently] [cloudflare] [104.21.52.177] [cloudflare] [53.854802ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.apidev.scopuly.com [301] [http://apidev.scopuly.com/public/] [281] [301 Moved Permanently] [ddos-guard] [77.222.39.78] [1.715387499s] [DDoS-Guard]
