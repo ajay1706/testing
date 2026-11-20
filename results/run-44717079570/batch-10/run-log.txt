@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 20 10:37:44 UTC 2026
+[+] Run ID: 44717079570
+[+] Batch name: batch-10
+[+] Batch targets:
+soroswap.finance
+steelswap.io
+stellarx.com
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 20 10:39:36 UTC 2026
+[+] HTTPX input count: 99
+[+] Running httpx...
+[+] httpx completed: Fri Nov 20 10:39:57 UTC 2026
+[+] httpx line count: 63
+[+] Batch completed: Fri Nov 20 10:39:57 UTC 2026

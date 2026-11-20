@@ -1,0 +1,85 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:39:57 UTC 2026
+
+HTTPX lines: 63
+Live URLs: 63
+
+## 200
+https://info.soroswap.finance [200] [] [315] [Redirecting...] [Vercel] [216.150.16.1] [276.715279ms] [HSTS,Vercel]
+https://atc.steelswap.io [200] [] [1422] [SteelSwap ATC] [cloudflare] [104.26.0.213] [cloudflare] [680.677967ms] [Cloudflare,Cloudflare Browser Insights]
+https://dev.steelswap.io [200] [] [4639] [SteelSwap | Cardano DEX Aggregator] [cloudflare] [104.26.1.213] [cloudflare] [649.315658ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://www.dev.stellarx.com [200] [] [4318] [StellarX — DEX trading platform with AMM access] [cloudflare] [104.26.7.113] [cloudflare] [164.249668ms] [Cloudflare,HSTS]
+https://usdm.steelswap.io [200] [] [1422] [SteelSwap ATC] [cloudflare] [104.26.0.213] [cloudflare] [601.391983ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.stellarx.com [200] [] [5182] [StellarX — DEX trading platform with AMM access] [cloudflare] [172.67.71.233] [cloudflare] [206.878486ms] [Cloudflare,HSTS]
+https://tools.steelswap.io [200] [] [1584] [SteelSwap Tools] [cloudflare] [104.26.0.213] [cloudflare] [747.64971ms] [Cloudflare,Cloudflare Browser Insights]
+https://plane.steelswap.io [200] [] [21186] [Plane | Simple, extensible, open-source project management tool.] [cloudflare] [104.26.0.213] [cloudflare] [603.0114ms] [Cloudflare,Cloudflare Browser Insights,Next.js,Node.js,React,Webpack]
+https://steelswap.io [200] [] [4636] [SteelSwap | Cardano DEX Aggregator] [cloudflare] [104.26.0.213] [cloudflare] [823.280443ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://docs.soroswap.finance [200] [] [140267] [The Swap Aggregator for Stellar - Soroswap Finance] [cloudflare] [162.159.143.13] [cloudflare] [524.182733ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://app.soroswap.finance [200] [] [32218] [Soroswap] [Vercel] [216.150.16.1] [738.890498ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://soroswap.finance [200] [] [8949] [Soroswap - The Swap Aggregator for Stellar] [Vercel] [216.150.16.1] [1.161617297s] [HSTS,Vercel]
+
+## 301
+http://www.apidev.steelswap.io [301] [https://www.apidev.steelswap.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.1.213] [cloudflare] [50.427217ms] [Cloudflare,Cloudflare Browser Insights]
+http://www.blog.stellarx.com [301] [https://www.blog.stellarx.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.7.113] [cloudflare] [78.339036ms] [Cloudflare]
+http://www.indigo.steelswap.io [301] [https://www.indigo.steelswap.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.0.213] [cloudflare] [60.818824ms] [Cloudflare,Cloudflare Browser Insights]
+http://www.usdm.steelswap.io [301] [https://www.usdm.steelswap.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.1.213] [cloudflare] [56.501866ms] [Cloudflare,Cloudflare Browser Insights]
+http://www.wildcard.steelswap.io [301] [https://www.wildcard.steelswap.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.0.213] [cloudflare] [62.124039ms] [Cloudflare,Cloudflare Browser Insights]
+http://www5.blog.stellarx.com [301] [https://www5.blog.stellarx.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.71.233] [cloudflare] [93.997394ms] [Cloudflare]
+http://staging-amm-api.stellarx.com [301] [https://staging-amm-api.stellarx.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.71.233] [cloudflare] [42.719261ms] [Cloudflare]
+
+## 302
+https://dev.stellarx.com [302] [https://www.dev.stellarx.com/] [143] [302 Found] [cloudflare] [104.26.7.113] [cloudflare] [130.098047ms] [Cloudflare]
+https://stellarx.com [302] [https://www.stellarx.com/] [143] [302 Found] [cloudflare] [172.67.71.233] [cloudflare] [83.070369ms] [Cloudflare]
+
+## 307
+https://www.soroswap.finance [307] [https://soroswap.finance/] [15] [Vercel] [216.150.1.193] [1.186471049s] [HSTS,Vercel]
+
+## 308
+
+## 401
+
+## 403
+https://api.dev.stellarx.com [403] [] [42] [cloudflare] [104.26.6.113] [cloudflare] [373.6213ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+
+## 404
+https://docs3.soroswap.finance [404] [] [107] [Vercel] [216.150.16.1] [187.470923ms] [HSTS,Vercel]
+https://api.soroswap.finance [404] [] [63] [Google Frontend] [216.239.32.21] [google] [188.543301ms] [Express,Google Cloud,Google Cloud Load Balancing,Google Cloud Trace,Node.js]
+https://backend.soroswap.finance [404] [] [107] [Vercel] [216.150.1.193] [215.719414ms] [HSTS,Vercel]
+https://backend.stellarx.com [404] [] [179] [Not Found] [cloudflare] [172.67.71.233] [cloudflare] [261.281421ms] [Cloudflare]
+https://amm-api.stellarx.com [404] [] [179] [Not Found] [cloudflare] [104.26.6.113] [cloudflare] [290.890475ms] [Cloudflare]
+https://backend-staging.stellarx.com [404] [] [179] [Not Found] [cloudflare] [104.26.7.113] [cloudflare] [307.423441ms] [Cloudflare]
+https://markets-staging.stellarx.com [404] [] [179] [Not Found] [cloudflare] [172.67.71.233] [cloudflare] [327.917109ms] [Cloudflare]
+https://archon.stellarx.com [404] [] [179] [Not Found] [cloudflare] [172.67.71.233] [cloudflare] [344.364815ms] [Cloudflare]
+https://markets.stellarx.com [404] [] [179] [Not Found] [cloudflare] [104.26.7.113] [cloudflare] [367.081989ms] [Cloudflare]
+https://soroswap-router-sdk.soroswap.finance [404] [] [107] [Vercel] [216.150.16.129] [194.061526ms] [HSTS,Vercel]
+https://private-api.dev.stellarx.com [404] [] [118] [cloudflare] [172.67.71.233] [cloudflare] [303.816876ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://wildcard.soroswap.finance [404] [] [107] [Vercel] [216.150.1.1] [250.481963ms] [HSTS,Vercel]
+https://api.steelswap.io [404] [] [22] [cloudflare] [104.26.1.213] [cloudflare] [634.867679ms] [Cloudflare]
+https://indigo.steelswap.io [404] [] [22] [cloudflare] [104.26.0.213] [cloudflare] [681.738655ms] [Cloudflare]
+https://devapi.steelswap.io [404] [] [22] [cloudflare] [104.26.1.213] [cloudflare] [758.128972ms] [Cloudflare]
+https://lace.steelswap.io [404] [] [22] [cloudflare] [104.26.1.213] [cloudflare] [788.357047ms] [Cloudflare]
+https://public-api.dev.stellarx.com [404] [] [118] [cloudflare] [104.26.7.113] [cloudflare] [960.943141ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://www.wildcard.soroswap.finance [404] [] [107] [Vercel] [216.150.16.129] [561.298633ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+https://horizon-dev.stellarx.com [502] [] [16] [cloudflare] [172.67.71.233] [cloudflare] [393.331753ms] [Cloudflare]
+
+## 503
+https://apie.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [104.26.0.213] [cloudflare] [624.305355ms] [Cloudflare,Cloudflare Browser Insights]
+https://cicdapi.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [172.67.73.203] [cloudflare] [636.903764ms] [Cloudflare,Cloudflare Browser Insights]
+https://apidevi.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [104.26.0.213] [cloudflare] [647.135085ms] [Cloudflare,Cloudflare Browser Insights]
+https://apidev.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [104.26.0.213] [cloudflare] [639.968871ms] [Cloudflare,Cloudflare Browser Insights]
+https://eternl.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [104.26.1.213] [cloudflare] [661.201663ms] [Cloudflare,Cloudflare Browser Insights]
+https://docs.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [104.26.1.213] [cloudflare] [691.871913ms] [Cloudflare,Cloudflare Browser Insights]
+https://eternldev.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [104.26.0.213] [cloudflare] [720.941971ms] [Cloudflare,Cloudflare Browser Insights]
+https://dev9.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [172.67.73.203] [cloudflare] [761.037129ms] [Cloudflare,Cloudflare Browser Insights]
+https://poki.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [172.67.73.203] [cloudflare] [658.570058ms] [Cloudflare,Cloudflare Browser Insights]
+https://fluid.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [104.26.0.213] [cloudflare] [864.012191ms] [Cloudflare,Cloudflare Browser Insights]
+https://v2.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [172.67.73.203] [cloudflare] [664.221545ms] [Cloudflare,Cloudflare Browser Insights]
+https://wildcard.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [104.26.1.213] [cloudflare] [790.562471ms] [Cloudflare,Cloudflare Browser Insights]
+https://yoroi.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [104.26.1.213] [cloudflare] [751.341179ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.steelswap.io [503] [] [3853] [Site not available] [cloudflare] [104.26.0.213] [cloudflare] [1.176481297s] [Cloudflare,Cloudflare Browser Insights]
+
