@@ -1,0 +1,2 @@
+https://celestia-grpc-test.tm.p2p.org [500] [] [0] [cloudflare] [104.18.2.224] [cloudflare] [532.073664ms] [Cloudflare]
+https://celestia-mainnet-node-archive-ws.tm.p2p.org [500] [] [0] [envoy] [170.23.176.191] [424.656723ms] [Envoy]
