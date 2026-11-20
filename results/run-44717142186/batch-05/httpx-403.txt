@@ -1,0 +1,8 @@
+https://api.folks.finance [403] [] [23] [] [63.184.247.28] [481.680503ms]
+https://api.testnet.executor.folks.finance [403] [] [118] [403 Forbidden] [awselb/2.0] [63.183.70.2] [581.76068ms] [Amazon ELB,Amazon Web Services]
+https://api.executor.folks.finance [403] [] [520] [403 Forbidden] [awselb/2.0] [35.158.230.5] [671.203579ms] [Amazon ELB,Amazon Web Services]
+https://figment.io [403] [] [1300] [Just a moment...] [cloudflare] [162.159.135.42] [cloudflare] [148.25401ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://ara.figment.io [403] [] [0] [Caddy] [51.222.42.231] [91.894023ms] [Caddy]
+https://openfig-dev.figment.io [403] [] [9] [Caddy] [142.93.152.200] [201.853577ms] [Caddy,HTTP/3]
+https://sslm.figment.io [403] [] [9] [Caddy] [138.197.148.179] [218.219194ms] [Caddy]
+https://www.figment.io [403] [] [1320] [Just a moment...] [cloudflare] [162.159.135.42] [cloudflare] [139.705256ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
