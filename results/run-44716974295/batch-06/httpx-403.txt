@@ -1,0 +1,5 @@
+https://email.katana.network [403] [] [17] [cloudflare] [199.60.103.254] [303.71631ms] [Cloudflare,HSTS]
+https://gw-lend-api.jup.ag [403] [] [55] [cloudflare] [172.64.144.197] [cloudflare] [328.51597ms] [Cloudflare,HTTP/3]
+https://info.katana.network [403] [] [17] [cloudflare] [199.60.103.254] [183.853884ms] [Cloudflare,HSTS]
+https://internal-api-staging.jup.ag [403] [] [12] [CloudFront] [18.238.238.8] [cloudfront] [238.961458ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://stats-data.hyperliquid.xyz [403] [] [111] [AmazonS3] [3.163.189.77] [cloudfront] [673.313601ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
