@@ -1,0 +1,2 @@
+https://alpha.uxuy.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Falpha.uxuy.com%2F&nonce=0eaadc60b68863e106077f7f55c20081477121f8b12b2d24ba75211173a398ca] [263] [Vercel] [216.150.16.1] [229.695806ms] [HSTS,Vercel]
+https://go.truefinance.ai [302] [https://truefinance.ai] [0] [cloudflare] [172.66.40.72] [cloudflare] [197.401168ms] [Cloudflare]
