@@ -1,0 +1,72 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 20 10:23:54 UTC 2026
+
+HTTPX lines: 44
+Live URLs: 44
+
+## 200
+https://data.nova.markets [200] [] [6909] [Nova Markets market data API] [Vercel] [216.150.16.1] [179.16342ms] [HSTS,Vercel]
+https://app.n1.xyz [200] [] [17514] [N1] [Vercel] [216.150.16.193] [87.864595ms] [HSTS,Vercel]
+https://jobbo.n1.xyz [200] [] [8744] [Create Next App] [Vercel] [66.33.60.130] [185.448203ms] [HSTS,Vercel]
+https://seed.nova.markets [200] [] [21761] [Nova] [Vercel] [216.150.1.129] [611.922756ms] [HSTS,Vercel]
+https://explorer.n1.xyz [200] [] [21010] [N1 Explorer] [Vercel] [216.150.1.193] [489.768048ms] [HSTS,Vercel]
+https://docs.olive.exchange [200] [] [75373] [Home] [cloudflare] [172.66.43.63] [cloudflare] [274.545342ms] [C3.js,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://nova.markets [200] [] [82181] [Nova Markets] [Vercel] [216.150.1.65] [477.208305ms] [Adobe Fonts,Cloudflare,HSTS,Three.js,Typekit,Vercel,cdnjs]
+https://docs.nova.markets [200] [] [154016] [Nova Markets Docs] [Vercel] [216.150.16.1] [68.446504ms] [HSTS,Vercel]
+https://www.n1.xyz [200] [] [101324] [N1: The L1 for Global Trading | Trade Perps] [Vercel] [76.76.21.93] [169.878065ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://olive.exchange [200] [] [95225] [Olive | Crypto Options & Perpetual Futures Exchange] [cloudflare] [172.66.43.63] [cloudflare] [234.339058ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://help.n1.xyz [200] [] [77708] [Help Center] [cloudflare] [104.26.8.71] [cloudflare] [740.065839ms] [Cloudflare,Cloudflare Browser Insights]
+https://feedback.n1.xyz [200] [] [167771] [Feedback · N1] [cloudflare] [104.26.9.71] [cloudflare] [402.443433ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://status.olive.exchange [200] [] [217170] [Olive Exchange status] [] [167.235.220.62] [894.424072ms] [Google Analytics,HSTS,Stimulus]
+https://status.n1.xyz [200] [] [347899] [N1 status] [] [167.235.220.62] [1.028485512s] [Google Analytics,HSTS,Stimulus]
+
+## 301
+https://www.olive.exchange [301] [https://olive.exchange/] [545] [301 Moved Permanently] [cloudflare] [172.66.43.63] [cloudflare] [251.896305ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://app-support.n1.xyz [302] [https://nullstudios.cloudflareaccess.com/cdn-cgi/access/login/app-support.n1.xyz?kid=b6032797c7f716801136ddd232fbf110abd1716684809063efc9a0e3072bcf66&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImNjZWMwYWQ1ZDIxNTBiZDFlODY2YzMyZDA3ODg3YmQ2M2I3NzY0OGE5MGY3MzU3ZWIzMzk2M2U2Y2QyMDk3N2QifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImI2MDMyNzk3YzdmNzE2ODAxMTM2ZGRkMjMyZmJmMTEwYWJkMTcxNjY4NDgwOTA2M2VmYzlhMGUzMDcyYmNmNjYiLCJob3N0bmFtZSI6ImFwcC1zdXBwb3J0Lm4xLnh5eiIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk1MTcwNTMxLCJuYmYiOjE3OTUxNzAyMzEsImlhdCI6MTc5NTE3MDIzMSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6ImFmMjAzMTZjMjRlYzlmYmJmZmJmOTVhOWVhNWEzZTllMWUwNjFkNzUwYmQ0NmVhZTliZDA1OTUyMWUzNTQ4Y2UifQ.eZHWEt4m1LyvjtLg2L0w60NPlpzTXMh5SMVrne1DkfKheGfnL_plT1mr0LeE7XnvdkSGDW9TMlJxmN3qZRi2quRGyFD7HF1qZ4oRpwZW3CmUs7s_2Ioq7DfG6koJkllAnzHfoj-EQNRT5SgVQuKKU8O3L5dBwN9Cl7avjo1Rw8knCFeoSXG53CkoZRGNBYjURYwFy2_R679DACw7H3K78EPShmxXMEnDNzNH9CGAvWV4tdW04jv49hWElVB4-GCGqdI9rc-7yxc1vWsb8OeBbGfWwN4t-2dtmwXo_0L4TIxTSGInVtcWQ-A7F1w4ZerZPnwKtwai3iGoI8cd26N0tw&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.67.74.198] [cloudflare] [52.793092ms] [Cloudflare]
+https://app-staging-support.n1.xyz [302] [https://nullstudios.cloudflareaccess.com/cdn-cgi/access/login/app-staging-support.n1.xyz?kid=b6032797c7f716801136ddd232fbf110abd1716684809063efc9a0e3072bcf66&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImNjZWMwYWQ1ZDIxNTBiZDFlODY2YzMyZDA3ODg3YmQ2M2I3NzY0OGE5MGY3MzU3ZWIzMzk2M2U2Y2QyMDk3N2QifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImI2MDMyNzk3YzdmNzE2ODAxMTM2ZGRkMjMyZmJmMTEwYWJkMTcxNjY4NDgwOTA2M2VmYzlhMGUzMDcyYmNmNjYiLCJob3N0bmFtZSI6ImFwcC1zdGFnaW5nLXN1cHBvcnQubjEueHl6IiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTUxNzA1MzEsIm5iZiI6MTc5NTE3MDIzMSwiaWF0IjoxNzk1MTcwMjMxLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiMWFhMDY1MWUwNzAzNWJjZjExMTc5ZDJlNzc2MGM0NGZkNzJjODkxZjNlMTIxMjBkMjBlZDIzYjFlZGI0NWM5OCJ9.aXeyATDUMbBME0KcQJvPojql3hfF7mKgNkaDynpszjNlXhFlQ8nlbCvVHYkO7e4p6Boa5v6dJPbz4R9s2DzVZpFLespatUJuQREEscJqR6fg16A52vszSJXNuD2jCViHYGecGmEzrfEzyT9Wb_DQrIYa1acmW64YI34aKEv9pW61GVQ3z9lcX37pLfpCtN4Wx_PLye0IOxYOlipLfFH5IALKkRFOxLeCkX9odQz-7waaECpkhlUpakDq5XLzVEsxZlha_plCCD6IKHbweWZtte3GaKxhU74uBE1eU-MxuYWqllenl3ukcKlBVRbBPvMBo7cjeyzDhHUpBUzfOlw6iQ&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.67.74.198] [cloudflare] [76.866565ms] [Cloudflare]
+https://app-staging.n1.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fapp-staging.n1.xyz%2F&nonce=e549a876362a2c07382786ecf144694e0399252645d013ae7cd287385305ac37] [263] [Vercel] [216.150.16.1] [204.606075ms] [HSTS,Vercel]
+
+## 307
+https://app.nova.markets [307] [/trade/nova/HYPE-USD] [15] [Vercel] [216.150.16.1] [60.938751ms] [HSTS,Vercel]
+https://trade.nova.markets [307] [https://app.nova.markets/] [15] [Vercel] [216.150.16.1] [106.029313ms] [HSTS,Vercel]
+https://www.nova.markets [307] [https://nova.markets/] [15] [Vercel] [216.150.16.1] [56.788623ms] [HSTS,Vercel]
+https://api-mainnet.n1.xyz [307] [/docs] [0] [Caddy] [67.213.123.197] [466.078088ms] [Caddy,HTTP/3]
+https://api-devnet.n1.xyz [307] [/docs] [0] [Caddy] [72.46.87.69] [581.494051ms] [Caddy,HTTP/3]
+https://zo-mainnet.n1.xyz [307] [/docs] [0] [Caddy] [67.213.123.197] [483.492344ms] [Caddy,HTTP/3]
+https://zo-devnet.n1.xyz [307] [/docs] [0] [Caddy] [72.46.87.69] [623.370201ms] [Caddy,HTTP/3]
+
+## 308
+https://n1.xyz [308] [https://www.n1.xyz/] [15] [Vercel] [76.76.21.21] [36.945869ms] [HSTS,Vercel]
+https://docs.n1.xyz [308] [/learn/introduction-to-n1] [15] [Vercel] [216.150.16.193] [41.382131ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://rpc.olive.exchange [403] [] [9] [cloudflare] [172.66.43.63] [cloudflare] [73.383278ms] [Cloudflare,HTTP/3]
+
+## 404
+https://privy.nova.markets [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [62.026597ms] [Cloudflare,Cloudflare Bot Management]
+https://mail.nova.markets [404] [] [107] [Vercel] [216.150.16.1] [67.381707ms] [HSTS,Vercel]
+https://jobbo-api.n1.xyz [404] [] [21] [cloudflare] [216.24.57.18] [141.895985ms] [Cloudflare,HTTP/3,Render]
+https://api.n1.xyz [404] [] [72] [cloudflare] [172.67.74.198] [cloudflare] [158.902817ms] [Cloudflare,HSTS,Render]
+https://staging-gns.nova.markets [404] [] [107] [Vercel] [216.150.1.129] [249.335991ms] [HSTS,Vercel]
+https://api.nova.markets [404] [] [21] [awselb/2.0] [3.214.26.197] [272.161958ms] [Amazon ELB,Amazon Web Services]
+https://dev-api.nova.markets [404] [] [21] [awselb/2.0] [98.95.35.151] [343.515139ms] [Amazon ELB,Amazon Web Services]
+https://hub.n1.xyz [404] [] [107] [Vercel] [76.76.21.142] [432.061405ms] [HSTS,Vercel]
+https://testing-dev.n1.xyz [404] [] [107] [Vercel] [76.76.21.123] [442.396487ms] [HSTS,Vercel]
+https://demo.n1.xyz [404] [] [107] [Vercel] [66.33.60.193] [466.023467ms] [HSTS,Vercel]
+https://deploy.n1.xyz [404] [] [107] [Vercel] [66.33.60.35] [571.153897ms] [HSTS,Vercel]
+https://pricing.nova.markets [404] [] [506] [Error] [cloudflare] [104.21.68.130] [cloudflare] [554.965538ms] [Cloudflare,Cloudflare Browser Insights,Envoy,Express,HTTP/3,Node.js]
+https://backend-arbitrum.nova.markets [404] [] [506] [Error] [cloudflare] [104.21.68.130] [cloudflare] [571.114432ms] [Cloudflare,Cloudflare Browser Insights,Envoy,HTTP/3]
+https://backend-global.nova.markets [404] [] [506] [Error] [cloudflare] [172.67.195.140] [cloudflare] [612.632521ms] [Cloudflare,Cloudflare Browser Insights,Envoy,HTTP/3]
+
+## 500
+
+## 502
+https://zo-staging.n1.xyz [502] [] [0] [Caddy] [109.94.98.227] [393.468665ms] [Caddy,HTTP/3]
+
+## 503
+
