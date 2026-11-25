@@ -1,0 +1,6 @@
+https://demo.geodnet.com [301] [https://demo.geodnet.com/coverage/] [162] [301 Moved Permanently] [nginx] [13.56.117.10] [86.081753ms] [HSTS,Nginx]
+https://journal.geodnet.com [301] [http://mydigitalpublication.com/view/inside-gnss/geodnet/october-2025/] [0] [AmazonS3] [18.155.173.45] [cloudfront] [392.34084ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://rtkbeta.geodnet.com [301] [http://rtkbeta.geodnet.com/coverage/] [162] [301 Moved Permanently] [nginx] [54.151.92.205] [317.334532ms] [HSTS,Nginx]
+https://rtk.geodnet.com [301] [https://rtk.geodnet.com/coverage/] [162] [301 Moved Permanently] [nginx] [13.56.117.10] [326.769095ms] [HSTS,Nginx]
+https://tokenrun.geodnet.com [301] [https://tokenrun.app:443/] [134] [301 Moved Permanently] [awselb/2.0] [54.176.129.116] [216.686946ms] [Amazon ELB,Amazon Web Services]
+https://www.geodnet.com [301] [https://geodnet.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [295.062734ms] [Cloudflare,HSTS,HTTP/3]

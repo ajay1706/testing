@@ -1,0 +1,2 @@
+https://geodweb3admin.geodnet.com [307] [/login?redirect=%2F] [19] [nginx] [18.144.106.128] [110.963459ms] [Nginx]
+https://tokenrunadmin.geodnet.com [307] [/login?redirect=%2F] [19] [nginx/1.24.0 (Ubuntu)] [52.8.58.57] [236.743047ms] [Nginx:1.24.0,Ubuntu]

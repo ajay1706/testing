@@ -1,0 +1,3 @@
+https://base.geodnet.com [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [18.144.92.209] [120.516797ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://sol2test.geodnet.com [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [54.215.207.88] [337.85746ms] [HSTS,Nginx:1.18.0,Ubuntu]
+https://sol4.geodnet.com [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [52.9.229.158] [241.431624ms] [HSTS,Nginx:1.24.0,Ubuntu]

@@ -1,0 +1,8 @@
+https://metadata.geodnet.com [403] [] [162] [403 Forbidden] [nginx/1.18.0 (Ubuntu)] [54.177.167.191] [182.862374ms] [Nginx:1.18.0,Ubuntu]
+https://rawdata.geodnet.com [403] [] [146] [403 Forbidden] [nginx] [52.52.169.125] [280.665895ms] [HSTS,Nginx]
+https://rtk.webhook.geodnet.com [403] [] [146] [403 Forbidden] [nginx] [54.177.13.81] [260.505314ms] [HSTS,Nginx]
+https://preprod.dreptalk.com [403] [] [5592] [Just a moment...] [cloudflare] [104.21.44.196] [cloudflare] [412.475575ms] [Cloudflare,HTTP/3]
+https://testwaf.geodnet.com [403] [] [118] [403 Forbidden] [awselb/2.0] [54.219.58.28] [322.054104ms] [Amazon ELB,Amazon Web Services]
+https://tokenrunapiv2.geodnet.com [403] [] [520] [403 Forbidden] [awselb/2.0] [54.241.201.234] [299.115218ms] [Amazon ELB,Amazon Web Services]
+https://tokenruntest.geodnet.com [403] [] [118] [403 Forbidden] [awselb/2.0] [54.193.58.10] [259.514856ms] [Amazon ELB,Amazon Web Services]
+https://www.dreptalk.com [403] [] [5609] [Just a moment...] [cloudflare] [172.67.203.67] [cloudflare] [281.45756ms] [Cloudflare,HTTP/3]
