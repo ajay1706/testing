@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 25 03:10:32 UTC 2026
+[+] Run ID: 45537330263
+[+] Batch name: batch-08
+[+] Batch targets:
+nulo.sh
+nyx.money
+olive.exchange
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 25 03:13:08 UTC 2026
+[+] HTTPX input count: 51
+[+] Running httpx...
+[+] httpx completed: Wed Nov 25 03:13:11 UTC 2026
+[+] httpx line count: 19
+[+] Batch completed: Wed Nov 25 03:13:11 UTC 2026
