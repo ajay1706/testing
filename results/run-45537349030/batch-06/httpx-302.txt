@@ -1,0 +1,2 @@
+https://go.uverify.io [302] [https://app.uverify.io/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [78.46.191.71] [767.186366ms] [Nginx:1.24.0,Ubuntu]
+https://go.preprod.uverify.io [302] [https://app.preprod.uverify.io/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [78.46.191.71] [807.140433ms] [Nginx:1.24.0,Ubuntu]

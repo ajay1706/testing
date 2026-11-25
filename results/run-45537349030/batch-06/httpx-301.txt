@@ -1,0 +1,2 @@
+https://sokosumi.com [301] [https://www.sokosumi.com/] [0] [Vercel] [216.150.16.1] [145.99674ms] [HSTS,Vercel]
+https://www.uverify.io [301] [https://uverify.io/] [162] [301 Moved Permanently] [GitHub.com] [185.199.108.153] [545.211395ms] [Fastly,GitHub Pages,Varnish]

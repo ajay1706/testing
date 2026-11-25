@@ -1,0 +1,71 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 25 03:13:07 UTC 2026
+
+HTTPX lines: 45
+Live URLs: 45
+
+## 200
+https://api.preprod.sokosumi.com [200] [] [971] [Sokosumi API Documentation] [Vercel] [216.150.1.193] [205.878949ms] [HSTS,Vercel]
+https://api.sokosumi.com [200] [] [963] [Sokosumi API Documentation] [Vercel] [216.150.1.65] [227.737275ms] [HSTS,Vercel]
+https://chat.preprod.sokosumi.com [200] [] [1436] [railway-hikari] [153.52.255.24] [236.98941ms]
+https://chat.sokosumi.com [200] [] [1436] [railway-hikari] [153.52.255.104] [264.148086ms]
+https://chat-preview.sokosumi.com [200] [] [1436] [railway-hikari] [153.52.255.13] [264.558899ms]
+https://preprod.api.sokosumi.com [200] [] [971] [Sokosumi API Documentation] [Vercel] [216.150.16.129] [340.313895ms] [HSTS,Vercel]
+https://app.uverify.io [200] [] [1161] [UVerify | Technology and Trust] [] [199.36.158.100] [369.519882ms] [Firebase,HSTS,HTTP/3]
+https://app.preprod.uverify.io [200] [] [1161] [UVerify | Technology and Trust] [] [199.36.158.100] [570.359458ms] [Firebase,HSTS,HTTP/3]
+https://www.sokosumi.com [200] [] [79965] [Sokosumi | AI agents and coworkers for marketing teams] [Vercel] [216.150.1.193] [260.742283ms] [Google Tag Manager,HSTS,Vercel]
+https://docs.uverify.io [200] [] [52368] [Discord] [GitHub.com] [185.199.108.153] [482.038003ms] [Fastly,GitHub Pages,Varnish]
+https://uverify.io [200] [] [81279] [UVerify | Prove authenticity. Forever.] [GitHub.com] [185.199.108.153] [482.486419ms] [Fastly,GitHub Pages,Varnish]
+
+## 301
+https://sokosumi.com [301] [https://www.sokosumi.com/] [0] [Vercel] [216.150.16.1] [145.99674ms] [HSTS,Vercel]
+https://www.uverify.io [301] [https://uverify.io/] [162] [301 Moved Permanently] [GitHub.com] [185.199.108.153] [545.211395ms] [Fastly,GitHub Pages,Varnish]
+
+## 302
+https://go.uverify.io [302] [https://app.uverify.io/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [78.46.191.71] [767.186366ms] [Nginx:1.24.0,Ubuntu]
+https://go.preprod.uverify.io [302] [https://app.preprod.uverify.io/] [154] [302 Found] [nginx/1.24.0 (Ubuntu)] [78.46.191.71] [807.140433ms] [Nginx:1.24.0,Ubuntu]
+
+## 307
+https://app.sokosumi.com [307] [/signin?returnUrl=%2F] [15] [Vercel] [216.150.16.129] [126.640493ms] [HSTS,Vercel]
+https://preprod.sokosumi.com [307] [/signin?returnUrl=%2F] [15] [Vercel] [216.150.16.129] [140.076569ms] [HSTS,Vercel]
+https://www.beta.wayup.io [307] [https://beta.wayup.io/] [15] [Vercel] [216.150.1.65] [353.783454ms] [HSTS,Vercel]
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://secure.wayup.io [404] [] [107] [Vercel] [216.150.16.1] [72.985271ms] [HSTS,Vercel]
+https://mail.sokosumi.com [404] [] [107] [Vercel] [216.150.16.193] [82.857753ms] [HSTS,Vercel]
+https://store.wayup.io [404] [] [107] [Vercel] [216.150.1.65] [83.125254ms] [HSTS,Vercel]
+https://preview.sokosumi.com [404] [] [107] [Vercel] [216.150.16.193] [87.466353ms] [HSTS,Vercel]
+https://wildcard.wayup.io [404] [] [107] [Vercel] [216.150.16.1] [100.410242ms] [HSTS,Vercel]
+https://web.wayup.io [404] [] [107] [Vercel] [216.150.1.1] [102.335158ms] [HSTS,Vercel]
+https://test.wayup.io [404] [] [107] [Vercel] [216.150.1.65] [102.526288ms] [HSTS,Vercel]
+https://beta.sokosumi.com [404] [] [107] [Vercel] [216.150.1.65] [104.873959ms] [HSTS,Vercel]
+https://uat.wayup.io [404] [] [107] [Vercel] [216.150.1.1] [105.305832ms] [HSTS,Vercel]
+https://mail.wayup.io [404] [] [107] [Vercel] [216.150.16.1] [108.327787ms] [HSTS,Vercel]
+https://account.wayup.io [404] [] [107] [Vercel] [216.150.1.193] [112.143745ms] [HSTS,Vercel]
+https://crm.wayup.io [404] [] [107] [Vercel] [216.150.16.1] [118.636826ms] [HSTS,Vercel]
+https://dev.sokosumi.com [404] [] [107] [Vercel] [216.150.16.193] [121.378417ms] [HSTS,Vercel]
+https://staging.wayup.io [404] [] [107] [Vercel] [216.150.1.65] [146.86715ms] [HSTS,Vercel]
+https://mcp.sokosumi.com [404] [] [101] [railway-hikari] [153.52.255.44] [148.634343ms]
+https://magento.wayup.io [404] [] [107] [Vercel] [216.150.16.129] [168.528838ms] [HSTS,Vercel]
+https://email.wayup.io [404] [] [107] [Vercel] [216.150.1.65] [182.43018ms] [HSTS,Vercel]
+https://support.wayup.io [404] [] [107] [Vercel] [216.150.16.1] [187.100849ms] [HSTS,Vercel]
+https://ext.wayup.io [404] [] [107] [Vercel] [216.150.1.65] [288.511264ms] [HSTS,Vercel]
+https://www.beta.sokosumi.com [404] [] [107] [Vercel] [216.150.16.129] [308.461464ms] [HSTS,Vercel]
+https://www.dev.sokosumi.com [404] [] [107] [Vercel] [216.150.16.129] [309.920458ms] [HSTS,Vercel]
+https://www.wildcard.wayup.io [404] [] [107] [Vercel] [216.150.1.193] [279.006048ms] [HSTS,Vercel]
+https://api.uverify.io [404] [] [89] [nginx/1.24.0 (Ubuntu)] [78.46.191.71] [726.33289ms] [HSTS,Nginx:1.24.0,Ubuntu]
+https://api.preprod.uverify.io [404] [] [89] [nginx/1.24.0 (Ubuntu)] [78.46.191.71] [843.397095ms] [HSTS,Nginx:1.24.0,Ubuntu]
+
+## 500
+
+## 502
+
+## 503
+
