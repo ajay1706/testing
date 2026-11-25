@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 25 03:09:15 UTC 2026
+[+] Run ID: 45537349030
+[+] Batch name: batch-05
+[+] Batch targets:
+pixiechess.xyz
+privateinference.gg
+rolling.chat
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 25 03:12:26 UTC 2026
+[+] HTTPX input count: 11
+[+] Running httpx...
+[+] httpx completed: Wed Nov 25 03:12:29 UTC 2026
+[+] httpx line count: 9
+[+] Batch completed: Wed Nov 25 03:12:29 UTC 2026
