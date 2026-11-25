@@ -1,0 +1,2 @@
+https://www.minipay.to [301] [https://minipay.to/] [166] [301 Moved Permanently] [cloudflare] [104.18.14.145] [cloudflare] [1.016225628s] [Cloudflare,HSTS]
+http://turn.metascalp.io [301] [https://turn.metascalp.io/] [169] [301 Moved Permanently] [nginx/1.27.5] [5.35.107.18] [430.611298ms] [Nginx:1.27.5]
