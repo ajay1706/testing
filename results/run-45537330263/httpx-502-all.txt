@@ -1,0 +1,6 @@
+https://airdrop-2-stats.aqua.network [502] [] [16] [cloudflare] [172.67.71.11] [cloudflare] [402.448571ms] [Cloudflare]
+https://collateral.splash.trade [502] [] [16] [cloudflare] [172.67.167.246] [cloudflare] [671.497126ms] [Cloudflare,HTTP/3]
+https://farming.xbull.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [143.198.31.111] [316.202688ms] [Nginx:1.18.0,Ubuntu]
+https://gcsr.xbull.app [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [143.198.31.111] [237.678356ms] [Nginx:1.18.0,Ubuntu]
+https://glow.breez.technology [502] [] [0] [Caddy] [94.23.68.139] [543.691379ms] [Caddy,HTTP/3]
+https://rh-pamm.capricorn.exchange [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [3.64.109.98] [580.553667ms] [Nginx:1.24.0,Ubuntu]
