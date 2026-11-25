@@ -1,0 +1,2 @@
+[github-workflows-disclosure] [http] [medium] https://test.sentinel.co/.github/workflows/test.yml [paths="/.github/workflows/test.yml"]
+[git-config] [http] [medium] https://test.sentinel.co/.git/config
