@@ -1,0 +1,3 @@
+https://support.weatherxm.com [301] [https://supportchat.weatherxm.com/chat/SlfigEplTtPMVfkp] [167] [301 Moved Permanently] [cloudflare] [172.67.69.76] [cloudflare] [95.670118ms] [Cloudflare]
+https://test.weatherxm.com [301] [https://weatherxm.com/] [0] [cloudflare] [172.67.69.76] [cloudflare] [163.214499ms] [Cloudflare,HSTS]
+https://www.weatherxm.com [301] [https://weatherxm.com/] [162] [301 Moved Permanently] [cloudflare] [104.26.4.19] [cloudflare] [130.581286ms] [Cloudflare,HSTS]

@@ -1,0 +1,2 @@
+https://api.wingbits.com [401] [] [75] [] [34.240.147.27] [558.589759ms] [HSTS]
+https://ecs-api.wingbits.com [401] [] [75] [] [34.240.147.27] [555.534006ms] [HSTS]
