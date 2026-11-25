@@ -1,0 +1,5 @@
+https://account.primal.net [404] [] [0] [nginx/1.29.8] [167.235.244.219] [433.64462ms] [Nginx:1.29.8]
+https://m.primal.net [404] [] [9] [cloudflare] [104.26.9.197] [cloudflare] [484.400267ms] [Cloudflare]
+https://r2.primal.net [404] [] [27150] [Not Found] [cloudflare] [104.26.9.197] [cloudflare] [207.309448ms] [Cloudflare]
+https://r2a.primal.net [404] [] [27150] [Not Found] [cloudflare] [104.26.9.197] [cloudflare] [193.824027ms] [Cloudflare]
+https://r2-aws.primal.net [404] [] [27150] [Not Found] [cloudflare] [104.26.8.197] [cloudflare] [334.570741ms] [Cloudflare]
