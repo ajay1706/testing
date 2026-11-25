@@ -1,0 +1,2 @@
+https://events.nightcrows.com [307] [https://www.nightcrows.com/notice/event/ongoing] [47] [] [150.171.110.3] [164.307193ms] [Azure,Azure Front Door,Envoy,HSTS]
+https://www.nightcrows.com [307] [https://wmsso.wemade.games/signcheck/ncgl?service=official&checkPath=%2Fwmsso%2Fcheck&selfCheckUrl=&redirectUrl=https%3A%2F%2Fwww.nightcrows.com%2F] [147] [] [150.171.110.180] [488.784312ms] [Azure,Azure Front Door,Envoy]
