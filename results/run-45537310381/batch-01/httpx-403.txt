@@ -1,0 +1,4 @@
+https://builds.godsunchained.com [403] [] [263] [AmazonS3] [13.249.141.104] [cloudfront] [119.62111ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://downloads.godsunchained.com [403] [] [263] [AmazonS3] [13.32.205.119] [cloudfront] [181.788035ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://images.godsunchained.com [403] [] [263] [AmazonS3] [52.85.40.42] [cloudfront] [147.517615ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://jira-service-desk-reporter.godsunchained.com [403] [] [23] [] [3.132.8.245] [122.097388ms]
