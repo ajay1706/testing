@@ -1,0 +1,5 @@
+https://app.topazdex.com [308] [https://www.topazdex.com/] [15] [Vercel] [216.150.16.193] [195.725112ms] [HSTS,Vercel]
+https://portal.topazdex.com [308] [https://id.topazdex.com/] [15] [Vercel] [216.150.1.129] [396.517012ms] [HSTS,Vercel]
+https://splash.trade [308] [https://www.splash.trade/] [15] [cloudflare] [172.67.167.246] [cloudflare] [256.983486ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://rm.topazdex.com [308] [https://flow.topazdex.com/] [15] [Vercel] [216.150.16.193] [330.286336ms] [HSTS,Vercel]
+https://topazdex.com [308] [https://www.topazdex.com/] [15] [Vercel] [216.150.16.1] [263.864927ms] [HSTS,Vercel]

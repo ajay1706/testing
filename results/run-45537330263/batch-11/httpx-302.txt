@@ -1,0 +1,4 @@
+https://bridge.squadswap.com [302] [https://squadswap.com/bridge] [143] [302 Found] [cloudflare] [104.26.6.235] [cloudflare] [127.259598ms] [Cloudflare,HSTS]
+https://posman.squadswap.com [302] [https://alm.squadswap.com] [504] [302 Found] [cloudflare] [104.26.6.235] [cloudflare] [194.671634ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://email.splash.trade [302] [https://email.secureserver.net:443/auth] [477] [302 Found] [cloudflare] [104.21.13.124] [cloudflare] [292.699073ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://staging.splash.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.splash.trade%2F&nonce=52a5e650bbf78301838f095f6ccb1e33f800915b3b6a2d7896b13920e56ad13b] [263] [Vercel] [76.76.21.98] [445.581515ms] [HSTS,Vercel]

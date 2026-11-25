@@ -1,0 +1,5 @@
+https://a2.topazdex.com [307] [https://www.topazdex.com/] [15] [Vercel] [216.150.1.1] [257.466527ms] [HSTS,Vercel]
+https://docs-private.splash.trade [307] [https://integrations.gitbook.com/v1/integrations/VA-Auth0/installations/32fe1746dc81923952ef7cd7eeb3c9e4cc079139164cbaa9b15e82a9fadc4a82/sites/site_HeTlM/visitor-auth?location=%2F] [15] [cloudflare] [172.64.147.209] [cloudflare] [315.791397ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://beta1.topazdex.com [307] [/chat] [39356] [Topaz AI Wallet — Beta] [Vercel] [216.150.1.1] [435.225436ms] [HSTS,Vercel]
+https://ai.topazdex.com [307] [/chat] [39356] [Topaz AI Wallet — Beta] [Vercel] [216.150.16.1] [690.485526ms] [HSTS,Vercel]
+https://staff.topazdex.com [307] [/signin] [8124] [Topaz Staff Portal] [Vercel] [216.150.16.1] [2.047815511s] [HSTS,Vercel]

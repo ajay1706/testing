@@ -1,0 +1,94 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 25 03:18:24 UTC 2026
+
+HTTPX lines: 66
+Live URLs: 66
+
+## 200
+https://bot-api.topazdex.com [200] [] [15] [Fly/9bb2ac9a88 (2026-11-23)] [66.241.124.178] [255.858035ms] [Fly.io]
+https://bot.topazdex.com [200] [] [2776] [Topaz Dex Bot] [cloudflare] [104.21.91.214] [cloudflare] [232.838933ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://planner.splash.trade [200] [] [43] [cloudflare] [104.21.13.124] [cloudflare] [296.404079ms] [Cloudflare,HTTP/3]
+https://bot.squadswap.com [200] [] [5082] [Squad Bot — We'll be back soon] [cloudflare] [104.26.7.235] [cloudflare] [299.750256ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://api.topazdex.com [200] [] [61] [Fly/9bb2ac9a88 (2026-11-23)] [66.241.125.9] [330.538758ms] [Fly.io,HSTS]
+https://legacy.topazdex.com [200] [] [7613] [Topaz Dex — Swap on BNB Chain] [Vercel] [216.150.1.129] [339.978391ms] [Google Analytics,HSTS,Vercel]
+https://closed.squadswap.com [200] [] [4430] [Site is down for maintenance] [cloudflare] [172.67.73.12] [cloudflare] [379.007304ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://app.splash.trade [200] [] [2664] [Splash Protocol] [Vercel] [76.76.21.142] [397.67994ms] [HSTS,Vercel]
+https://agents.topazdex.com [200] [] [27405] [Topaz Agent — ve(3,3) DeFi Strategist] [Fly/9bb2ac9a88 (2026-11-23)] [66.241.124.59] [299.89906ms] [Fly.io,HSTS]
+https://perps.topazdex.com [200] [] [2005] [Topaz Perps] [Vercel] [216.150.16.1] [449.036573ms] [HSTS,Vercel]
+https://exchange.splash.trade [200] [] [2258] [Splash] [cloudflare] [172.67.167.246] [cloudflare] [589.200264ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://registry.splash.trade [200] [] [0] [nginx/1.18.0 (Ubuntu)] [88.99.193.49] [516.235406ms] [Nginx:1.18.0,Ubuntu]
+https://testnet.topazdex.com [200] [] [7613] [Topaz Dex — Swap on BNB Chain] [Vercel] [216.150.1.193] [421.525445ms] [Google Analytics,HSTS,Vercel]
+https://staging.topazdex.com [200] [] [6581] [Topaz Dex] [Vercel] [216.150.1.129] [517.409594ms] [Google Analytics,HSTS,Vercel]
+https://privacy.topazdex.com [200] [] [44519] [Topaz Privacy — Private Swaps on BNB Chain] [Vercel] [216.150.1.129] [396.899756ms] [HSTS,Vercel]
+https://id.topazdex.com [200] [] [61297] [Topaz ID — One account for the Topaz ecosystem] [Vercel] [216.150.16.1] [502.24037ms] [HSTS,Vercel]
+https://landing2.topazdex.com [200] [] [82121] [Topaz DEX — ve(3,3) on BNB Chain] [Vercel] [216.150.16.1] [724.307778ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://battle.topazdex.com [200] [] [36930] [Topaz Battlefield — live concentrated liquidity] [Vercel] [216.150.1.1] [1.316763128s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://ve.topazdex.com [200] [] [39205] [veTOPAZ Market — buy and sell veTOPAZ locks on BNB Chain] [Vercel] [216.150.16.1] [608.726339ms] [HSTS,Vercel]
+https://tg.topazdex.com [200] [] [38891] [Topaz] [Vercel] [76.76.21.21] [559.007695ms] [HSTS,Vercel]
+https://tokens.topazdex.com [200] [] [26969] [Topaz Token Factory — Create a BNB Chain token in minutes] [Vercel] [216.150.16.129] [1.518773251s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://flow.topazdex.com [200] [] [83583] [Topaz Flow — One deposit. Two payouts.] [Vercel] [216.150.1.193] [985.686454ms] [HSTS,Vercel]
+https://www.topazdex.com [200] [] [22377] [Topaz DEX | Trade the Market. Share in the Rewards.] [Vercel] [216.150.16.193] [642.665694ms] [HSTS,Vercel]
+https://squadswap.com [200] [] [80206] [SquadSwap | Trade, Earn, Boost, and More] [cloudflare] [104.26.6.235] [cloudflare] [749.882904ms] [C3.js,Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://www.splash.trade [200] [] [37383] [cloudflare] [172.67.167.246] [cloudflare] [492.273751ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://vaults.topazdex.com [200] [] [115063] [Topaz Dex Autocompounding Vaults | BNB Chain Yield] [Vercel] [216.150.1.193] [1.416646359s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://metrics.topazdex.com [200] [] [35950] [Topaz Market Intelligence] [Vercel] [216.150.1.193] [3.195723511s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.squadswap.com [200] [] [80206] [SquadSwap | Trade, Earn, Boost, and More] [cloudflare] [104.26.6.235] [cloudflare] [835.979851ms] [C3.js,Cloudflare,Cloudflare Browser Insights,HSTS,Next.js,Node.js,React,Webpack]
+https://landing.topazdex.com [200] [] [90397] [Topaz DEX — ve(3,3) Liquidity Marketplace on BNB Chain] [Vercel] [216.150.1.193] [2.91933754s] [HSTS,Vercel]
+https://docs.squadswap.com [200] [] [372116] [Welcome to SquadSwap | SquadSwap Documents] [cloudflare] [172.64.147.209] [cloudflare] [313.405205ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.splash.trade [200] [] [371852] [Welcome | Splash] [cloudflare] [104.18.40.47] [cloudflare] [438.818896ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+https://play.topazdex.com [301] [https://www.zeroshot.gg/] [0] [cloudflare] [172.67.180.119] [cloudflare] [313.439799ms] [Cloudflare,HTTP/3]
+https://eu.play.topazdex.com [301] [https://www.zeroshot.gg/] [0] [Caddy] [141.94.71.232] [526.700334ms] [Caddy]
+https://vault.topazdex.com [301] [https://vaults.topazdex.com/] [15] [Vercel] [216.150.1.129] [378.175322ms] [HSTS,Vercel]
+
+## 302
+https://bridge.squadswap.com [302] [https://squadswap.com/bridge] [143] [302 Found] [cloudflare] [104.26.6.235] [cloudflare] [127.259598ms] [Cloudflare,HSTS]
+https://posman.squadswap.com [302] [https://alm.squadswap.com] [504] [302 Found] [cloudflare] [104.26.6.235] [cloudflare] [194.671634ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://email.splash.trade [302] [https://email.secureserver.net:443/auth] [477] [302 Found] [cloudflare] [104.21.13.124] [cloudflare] [292.699073ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://staging.splash.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.splash.trade%2F&nonce=52a5e650bbf78301838f095f6ccb1e33f800915b3b6a2d7896b13920e56ad13b] [263] [Vercel] [76.76.21.98] [445.581515ms] [HSTS,Vercel]
+
+## 307
+https://a2.topazdex.com [307] [https://www.topazdex.com/] [15] [Vercel] [216.150.1.1] [257.466527ms] [HSTS,Vercel]
+https://docs-private.splash.trade [307] [https://integrations.gitbook.com/v1/integrations/VA-Auth0/installations/32fe1746dc81923952ef7cd7eeb3c9e4cc079139164cbaa9b15e82a9fadc4a82/sites/site_HeTlM/visitor-auth?location=%2F] [15] [cloudflare] [172.64.147.209] [cloudflare] [315.791397ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://beta1.topazdex.com [307] [/chat] [39356] [Topaz AI Wallet — Beta] [Vercel] [216.150.1.1] [435.225436ms] [HSTS,Vercel]
+https://ai.topazdex.com [307] [/chat] [39356] [Topaz AI Wallet — Beta] [Vercel] [216.150.16.1] [690.485526ms] [HSTS,Vercel]
+https://staff.topazdex.com [307] [/signin] [8124] [Topaz Staff Portal] [Vercel] [216.150.16.1] [2.047815511s] [HSTS,Vercel]
+
+## 308
+https://app.topazdex.com [308] [https://www.topazdex.com/] [15] [Vercel] [216.150.16.193] [195.725112ms] [HSTS,Vercel]
+https://portal.topazdex.com [308] [https://id.topazdex.com/] [15] [Vercel] [216.150.1.129] [396.517012ms] [HSTS,Vercel]
+https://splash.trade [308] [https://www.splash.trade/] [15] [cloudflare] [172.67.167.246] [cloudflare] [256.983486ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://rm.topazdex.com [308] [https://flow.topazdex.com/] [15] [Vercel] [216.150.16.193] [330.286336ms] [HSTS,Vercel]
+https://topazdex.com [308] [https://www.topazdex.com/] [15] [Vercel] [216.150.16.1] [263.864927ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://cdn.squadswap.com [403] [] [246] [cloudflare] [172.67.73.12] [cloudflare] [427.721482ms] [Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://optimizer-cdn.squadswap.com [403] [] [9] [cloudflare] [104.26.7.235] [cloudflare] [719.389668ms] [Cloudflare,HSTS]
+https://tokens.splash.trade [403] [] [16791] [Forbidden] [cloudflare] [104.21.13.124] [cloudflare] [371.714786ms] [Cloudflare]
+
+## 404
+https://configs.splash.trade [404] [] [9] [cloudflare] [104.21.13.124] [cloudflare] [229.315184ms] [Cloudflare]
+https://farms-api.squadswap.com [404] [] [34] [cloudflare] [104.26.6.235] [cloudflare] [241.426024ms] [Cloudflare,HSTS]
+https://k8.topazdex.com [404] [] [19] [] [51.222.133.127] [249.454826ms]
+https://farms-api.test.squadswap.com [404] [] [34] [cloudflare] [172.67.73.12] [cloudflare] [291.187254ms] [Cloudflare,HSTS]
+https://quote.topazdex.com [404] [] [139] [Error] [Fly/9bb2ac9a88 (2026-11-23)] [66.241.125.191] [271.016213ms] [Fly.io]
+https://privy.topazdex.com [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [345.142459ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.ai.topazdex.com [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [388.363915ms] [Cloudflare,Cloudflare Bot Management]
+https://openapi.squadswap.com [404] [] [1621] [404 Not Found] [cloudflare] [172.67.73.12] [cloudflare] [622.744091ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://markets.topazdex.com [404] [] [107] [Vercel] [216.150.16.1] [719.129826ms] [HSTS,Vercel]
+https://routing-api-dev-v2.squadswap.com [404] [] [34] [cloudflare] [172.67.73.12] [cloudflare] [450.691912ms] [Cloudflare,HSTS]
+https://registry.topazdex.com [404] [] [27517] [Not Found] [cloudflare] [104.21.91.214] [cloudflare] [206.154728ms] [Cloudflare,Cloudflare Browser Insights]
+https://routing-api-v2.squadswap.com [404] [] [34] [cloudflare] [104.26.6.235] [cloudflare] [495.847309ms] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+https://collateral.splash.trade [502] [] [16] [cloudflare] [172.67.167.246] [cloudflare] [671.497126ms] [Cloudflare,HTTP/3]
+
+## 503
+https://staging-trading-backoffice.splash.trade [503] [] [99] [cloudflare] [172.67.167.246] [cloudflare] [542.34986ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
