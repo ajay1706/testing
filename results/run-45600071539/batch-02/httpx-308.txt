@@ -1,0 +1,3 @@
+http://www.bfinance.app [308] [https://www.bfinance.app/] [0] [] [31.43.161.6] [29.040746ms] [HSTS,HTTP/3]
+http://relay.bridge.cm [308] [https://relay.bridge.cm/] [0] [Caddy] [159.223.58.173] [326.645731ms] [Caddy]
+http://stun.relay.bridge.cm [308] [https://stun.relay.bridge.cm/] [0] [Caddy] [159.223.58.173] [326.388234ms] [Caddy]
