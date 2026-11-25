@@ -1,0 +1,3 @@
+https://whitepaper.iagon.com [301] [https://docs.iagon.com/updated-page/] [162] [301 Moved Permanently] [nginx] [188.34.151.42] [417.974625ms] [Nginx]
+https://www.idlerealms.fun [301] [https://idlerealms.fun/] [0] [cloudflare] [185.158.133.1] [426.341184ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.whitepaper.iagon.com [301] [https://docs.iagon.com/updated-page/] [162] [301 Moved Permanently] [nginx] [188.34.151.42] [425.363129ms] [Nginx]
