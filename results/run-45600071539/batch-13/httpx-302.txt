@@ -1,0 +1,5 @@
+https://app.wirexapp.com [302] [https://id.wirexapp.com] [77] [cloudflare] [172.66.40.113] [cloudflare] [232.583211ms] [Cloudflare,Cloudflare Bot Management,HSTS,Microsoft ASP.NET]
+https://api.wirexapp.com [302] [/metadata] [0] [cloudflare] [172.66.43.143] [cloudflare] [274.416903ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://app-dev.wirexapp.com [302] [https://id-dev.wirexapp.com] [85] [Microsoft-IIS/10.0] [40.118.100.127] [483.69179ms] [IIS:10.0,Microsoft ASP.NET,Windows Server]
+https://docs.wirexapp.com [302] [/docs] [27] [cloudflare] [104.16.241.118] [cloudflare] [142.379694ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://links.wirexapp.com [302] [https://wirex.onelink.me/gi8H] [143] [302 Found] [cloudflare] [172.66.40.113] [cloudflare] [62.169331ms] [Cloudflare,HSTS]

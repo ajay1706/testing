@@ -1,0 +1,4 @@
+https://auth.wirexapp.com [502] [] [183] [502 Bad Gateway] [Microsoft-Azure-Application-Gateway/v2] [20.160.240.27] [472.599211ms]
+https://node-arc.wirexapp.com [502] [] [16] [cloudflare] [172.66.43.143] [cloudflare] [366.163707ms] [Cloudflare]
+https://node-base.wirexapp.com [502] [] [16] [cloudflare] [172.66.40.113] [cloudflare] [406.924804ms] [Cloudflare]
+https://node-tempo.wirexapp.com [502] [] [16] [cloudflare] [172.66.43.143] [cloudflare] [465.168122ms] [Cloudflare]
