@@ -1,0 +1,2 @@
+https://base.axiom.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbase.axiom.trade%2F&nonce=f6e14cf685b59a672c570dd514778b22af676bad518967d7ac29d810c6b505e8] [263] [cloudflare] [172.66.42.221] [cloudflare] [84.009337ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://support.axieinfinity.com [302] [https://support.axieinfinity.com/hc] [0] [cloudflare] [216.198.54.6] [3.156521964s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]

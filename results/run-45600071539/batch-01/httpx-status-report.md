@@ -1,0 +1,117 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 25 11:05:07 UTC 2026
+
+HTTPX lines: 172
+Live URLs: 172
+
+## 200
+https://aquarium1-unified.axiom.trade [200] [] [1729] [Welcome to nginx!] [cloudflare] [172.66.42.221] [cloudflare] [48.15462ms] [Cloudflare,Cloudflare Bot Management]
+https://aquarium2-unified.axiom.trade [200] [] [1729] [Welcome to nginx!] [cloudflare] [172.66.41.35] [cloudflare] [53.727174ms] [Cloudflare,Cloudflare Bot Management]
+https://classic.axieinfinity.com [200] [] [31600] [Axie Infinity - Classic] [] [34.141.74.114] [google] [533.354496ms] [C3.js,HTTP/3,Next.js,Node.js,React,Webpack]
+https://delegate.axieinfinity.com [200] [] [5496] [Land Delegation - Thank You] [cloudflare] [172.66.159.32] [cloudflare] [236.800952ms] [Cloudflare,GeeTest,HSTS,Next.js,Node.js,React,UptimeRobot,Webpack]
+https://blog.axieinfinity.com [200] [] [85946] [The Lunacian | Axie Infinity | Substack] [cloudflare] [104.18.36.24] [cloudflare] [58.636305ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js,Substack]
+https://play.axieinfinity.com [200] [] [18235] [Play Axie Games] [cloudflare] [104.20.26.194] [cloudflare] [2.275896539s] [Cloudflare,Google Analytics,HSTS,Next.js,Node.js,React,Webpack]
+https://stake.axieinfinity.com [200] [] [23788] [AXS Staking Dashboard] [cloudflare] [104.20.26.194] [cloudflare] [1.23599805s] [Cloudflare,Google Analytics,HSTS,Next.js,Node.js,React,Webpack]
+https://terrariums.axieinfinity.com [200] [] [5428] [Axie Infinity: Terrariums] [cloudflare] [172.66.159.32] [cloudflare] [5.246124564s] [Cloudflare,HSTS]
+https://www.betmoar.fun [200] [] [65323] [Betmoar] [Vercel] [216.150.16.193] [4.105487277s] [HSTS,Vercel]
+
+## 301
+https://autoconfig.betmoar.fun [301] [https://privateemail.com/] [0] [BigIP] [198.54.122.136] [153.238712ms] [F5 BigIP,HSTS]
+https://marketplace.axieinfinity.com [301] [https://app.axieinfinity.com/marketplace] [162] [301 Moved Permanently] [cloudflare] [104.20.26.194] [cloudflare] [209.621562ms] [Cloudflare]
+http://beta.axieinfinity.com [301] [https://beta.axieinfinity.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.26.194] [cloudflare] [26.063261ms] [Cloudflare]
+http://bridge.axieinfinity.com [301] [https://bridge.axieinfinity.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.32] [cloudflare] [24.548577ms] [Cloudflare]
+http://land.axieinfinity.com [301] [https://land.axieinfinity.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.32] [cloudflare] [20.161707ms] [Cloudflare]
+http://pulse-unified2.axiom.trade [301] [https://pulse-unified2.axiom.trade/] [167] [301 Moved Permanently] [cloudflare] [172.66.42.221] [cloudflare] [3.024172461s] [Cloudflare,Cloudflare Bot Management]
+http://support-axieorigin.axieinfinity.com [301] [https://support-axieorigin.axieinfinity.com/] [167] [301 Moved Permanently] [cloudflare] [216.198.54.6] [62.801643ms] [Cloudflare,Cloudflare Bot Management]
+http://welcome.axieinfinity.com [301] [https://welcome.axieinfinity.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.32] [cloudflare] [23.200614ms] [Cloudflare]
+http://whitepaper.axieinfinity.com [301] [https://whitepaper.axieinfinity.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.32] [cloudflare] [2.025793352s] [Cloudflare,HTTP/3]
+http://www.axieinfinity.com [301] [https://www.axieinfinity.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.26.194] [cloudflare] [2.057462723s] [Cloudflare]
+
+## 302
+https://base.axiom.trade [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbase.axiom.trade%2F&nonce=f6e14cf685b59a672c570dd514778b22af676bad518967d7ac29d810c6b505e8] [263] [cloudflare] [172.66.42.221] [cloudflare] [84.009337ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://support.axieinfinity.com [302] [https://support.axieinfinity.com/hc] [0] [cloudflare] [216.198.54.6] [3.156521964s] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+
+## 307
+
+## 308
+https://betmoar.fun [308] [https://www.betmoar.fun/] [15] [Vercel] [216.150.1.1] [58.651834ms] [HSTS,Vercel]
+
+## 401
+https://arc-orders.axiom.trade [401] [] [35] [cloudflare] [172.66.42.221] [cloudflare] [42.200863ms] [Cloudflare,Cloudflare Bot Management]
+https://ams3-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.41.35] [cloudflare] [183.885435ms] [Cloudflare,Cloudflare Bot Management]
+https://ely-orders.axiom.trade [401] [] [35] [cloudflare] [172.66.41.35] [cloudflare] [45.710316ms] [Cloudflare,Cloudflare Bot Management]
+https://eth-v2-orders.axiom.trade [401] [] [35] [cloudflare] [172.66.41.35] [cloudflare] [42.437983ms] [Cloudflare,Cloudflare Bot Management]
+https://fra1-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.41.35] [cloudflare] [193.172307ms] [Cloudflare,Cloudflare Bot Management]
+https://hype-orders.axiom.trade [401] [] [35] [cloudflare] [172.66.42.221] [cloudflare] [40.711351ms] [Cloudflare,Cloudflare Bot Management]
+https://ink-orders.axiom.trade [401] [] [35] [cloudflare] [172.66.42.221] [cloudflare] [33.240425ms] [Cloudflare,Cloudflare Bot Management]
+https://mkc1-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.42.221] [cloudflare] [74.654554ms] [Cloudflare,Cloudflare Bot Management]
+https://nyc3-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.41.35] [cloudflare] [2.136127876s] [Cloudflare,Cloudflare Bot Management]
+https://orders-v2.axiom.trade [401] [] [35] [cloudflare] [172.66.42.221] [cloudflare] [4.053614591s] [Cloudflare,Cloudflare Bot Management]
+https://sfo3-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.41.35] [cloudflare] [1.040467555s] [Cloudflare,Cloudflare Bot Management]
+https://sgp1-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.42.221] [cloudflare] [1.219196042s] [Cloudflare,Cloudflare Bot Management]
+https://syd1-1.tb.axiom.trade [401] [] [27] [cloudflare] [172.66.42.221] [cloudflare] [4.187010895s] [Cloudflare,Cloudflare Bot Management]
+
+## 403
+https://app.axieinfinity.com [403] [] [5507] [Just a moment...] [cloudflare] [104.20.26.194] [cloudflare] [56.061839ms] [Cloudflare]
+https://axiom.trade [403] [] [5561] [Just a moment...] [cloudflare] [172.66.42.221] [cloudflare] [30.492024ms] [Cloudflare,Cloudflare Bot Management]
+https://axieinfinity.com [403] [] [5631] [Just a moment...] [cloudflare] [172.66.159.32] [cloudflare] [57.697153ms] [Cloudflare]
+https://axiecdn.axieinfinity.com [403] [] [111] [cloudflare] [104.20.26.194] [cloudflare] [153.684721ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://assets.axieinfinity.com [403] [] [111] [cloudflare] [172.66.159.32] [cloudflare] [174.920834ms] [Cloudflare]
+https://backup2.axiom.trade [403] [] [5612] [Just a moment...] [cloudflare] [172.66.41.35] [cloudflare] [25.394309ms] [Cloudflare,Cloudflare Bot Management]
+https://backup3.axiom.trade [403] [] [5655] [Just a moment...] [cloudflare] [172.66.41.35] [cloudflare] [29.759135ms] [Cloudflare,Cloudflare Bot Management]
+https://backup.axiom.trade [403] [] [5526] [Just a moment...] [cloudflare] [172.66.41.35] [cloudflare] [66.472037ms] [Cloudflare,Cloudflare Bot Management]
+https://beta2.axiom.trade [403] [] [5525] [Just a moment...] [cloudflare] [172.66.41.35] [cloudflare] [31.120038ms] [Cloudflare,Cloudflare Bot Management]
+https://beta3.axiom.trade [403] [] [5589] [Just a moment...] [cloudflare] [172.66.42.221] [cloudflare] [27.468165ms] [Cloudflare,Cloudflare Bot Management]
+https://beta.axiom.trade [403] [] [5609] [Just a moment...] [cloudflare] [172.66.41.35] [cloudflare] [38.225751ms] [Cloudflare,Cloudflare Bot Management]
+https://cdn.axieinfinity.com [403] [] [111] [cloudflare] [104.20.26.194] [cloudflare] [126.328182ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://docs.axiom.trade [403] [] [5660] [Attention Required! | Cloudflare] [cloudflare] [172.66.42.221] [cloudflare] [43.33559ms] [Cloudflare,Cloudflare Bot Management]
+https://graphql-gateway.axieinfinity.com [403] [] [5689] [Just a moment...] [cloudflare] [172.66.159.32] [cloudflare] [63.043488ms] [Cloudflare]
+https://proxy.axiom.trade [403] [] [5631] [Just a moment...] [cloudflare] [172.66.41.35] [cloudflare] [1.024651868s] [Cloudflare,Cloudflare Bot Management]
+https://proxy2.axiom.trade [403] [] [5526] [Just a moment...] [cloudflare] [172.66.41.35] [cloudflare] [2.024672355s] [Cloudflare,Cloudflare Bot Management]
+https://support-raylights.axieinfinity.com [403] [] [17] [cloudflare] [216.198.53.2] [7.057255776s] [Cloudflare]
+https://www.axiom.trade [403] [] [5587] [Just a moment...] [cloudflare] [172.66.42.221] [cloudflare] [2.036048354s] [Cloudflare,Cloudflare Bot Management]
+
+## 404
+https://arc-eucalyptus.axiom.trade [404] [] [9] [cloudflare] [172.66.42.221] [cloudflare] [67.379ms] [Cloudflare,Cloudflare Bot Management]
+https://app-hamaya.axieinfinity.com [404] [] [1260] [404 Not Found] [cloudflare] [172.66.159.32] [cloudflare] [230.597537ms] [Cloudflare,HSTS]
+https://axie-terrarium-api.axieinfinity.com [404] [] [0] [cloudflare] [172.66.159.32] [cloudflare] [230.499289ms] [Cloudflare]
+https://butterfly.axiom.trade [404] [] [9] [cloudflare] [172.66.41.35] [cloudflare] [50.603413ms] [Cloudflare,Cloudflare Bot Management]
+https://bnb-eucalyptus.axiom.trade [404] [] [9] [cloudflare] [172.66.42.221] [cloudflare] [80.595294ms] [Cloudflare,Cloudflare Bot Management]
+https://classic-1.axieinfinity.com [404] [] [0] [] [34.117.181.24] [google] [96.801059ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://classic-0.axieinfinity.com [404] [] [0] [] [34.128.131.253] [google] [137.10303ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://dev.axiom.trade [404] [] [79] [cloudflare] [172.66.41.35] [cloudflare] [78.558867ms] [Cloudflare,Cloudflare Bot Management,HSTS,Vercel]
+https://eth-v2-eucalyptus.axiom.trade [404] [] [9] [cloudflare] [172.66.41.35] [cloudflare] [49.84973ms] [Cloudflare,Cloudflare Bot Management]
+https://eucalyptus-unified.axiom.trade [404] [] [0] [cloudflare] [172.66.41.35] [cloudflare] [45.003803ms] [Cloudflare,Cloudflare Bot Management]
+https://friends.axiom.trade [404] [] [9] [cloudflare] [172.66.42.221] [cloudflare] [59.229434ms] [Cloudflare,Cloudflare Bot Management]
+https://email.growth.axieinfinity.com [404] [] [19] [] [34.102.239.211] [google] [217.415651ms]
+https://email.axieinfinity.com [404] [] [19] [] [34.110.180.34] [google] [244.60595ms]
+https://exchange-rate.axieinfinity.com [404] [] [103] [cloudflare] [172.66.159.32] [cloudflare] [192.924496ms] [Cloudflare]
+https://hype-eucalyptus.axiom.trade [404] [] [9] [cloudflare] [172.66.41.35] [cloudflare] [49.569773ms] [Cloudflare,Cloudflare Bot Management]
+https://ink-eucalyptus.axiom.trade [404] [] [9] [cloudflare] [172.66.41.35] [cloudflare] [51.506887ms] [Cloudflare,Cloudflare Bot Management]
+https://land-delegate-api.axieinfinity.com [404] [] [103] [cloudflare] [104.20.26.194] [cloudflare] [245.599464ms] [Cloudflare]
+https://metadata.axieinfinity.com [404] [] [0] [cloudflare] [172.66.159.32] [cloudflare] [251.156637ms] [Cloudflare]
+https://olek.axieinfinity.com [404] [] [0] [] [34.144.216.124] [google] [4.102310791s] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://portfolio1.axiom.trade [404] [] [0] [cloudflare] [172.66.42.221] [cloudflare] [1.045204556s] [Cloudflare,Cloudflare Bot Management]
+https://privy.betmoar.fun [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [1.068568344s] [Cloudflare,Cloudflare Bot Management]
+https://pulse-hype-1.axiom.trade [404] [] [1678] [404 Not Found] [cloudflare] [172.66.42.221] [cloudflare] [44.387182ms] [Cloudflare,Cloudflare Bot Management]
+https://portfolio2.axiom.trade [404] [] [0] [cloudflare] [172.66.41.35] [cloudflare] [5.069315901s] [Cloudflare,Cloudflare Bot Management]
+https://pulse-rh-v2-2.axiom.trade [404] [] [1678] [404 Not Found] [cloudflare] [172.66.42.221] [cloudflare] [1.051509742s] [Cloudflare,Cloudflare Bot Management]
+https://pulse-base-2.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.42.221] [cloudflare] [3.051391798s] [Cloudflare,Cloudflare Bot Management]
+https://related1.axiom.trade [404] [] [0] [cloudflare] [172.66.41.35] [cloudflare] [1.051584697s] [Cloudflare,Cloudflare Bot Management]
+https://pulse-unified1.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.42.221] [cloudflare] [2.044310303s] [Cloudflare,Cloudflare Bot Management]
+https://pulse-ink-1.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.42.221] [cloudflare] [4.053796021s] [Cloudflare,Cloudflare Bot Management]
+https://pulse1-bnb.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.42.221] [cloudflare] [3.048363314s] [Cloudflare,Cloudflare Bot Management]
+https://pulse-eth-v2-1.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [5.041014122s] [Cloudflare,Cloudflare Bot Management]
+https://pulse-arc-1.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [6.05008938s] [Cloudflare,Cloudflare Bot Management]
+https://pulse2-bnb.axiom.trade [404] [] [1276] [404 Not Found] [cloudflare] [172.66.41.35] [cloudflare] [4.052827963s] [Cloudflare,Cloudflare Bot Management]
+
+## 500
+
+## 502
+
+## 503
+https://adopt.axieinfinity.com [503] [] [20] [] [34.141.74.114] [google] [489.640182ms] [HTTP/3]
+https://merch.axieinfinity.com [503] [] [58] [cloudflare] [172.66.159.32] [cloudflare] [212.562023ms] [Cloudflare]
+https://puffy.axieinfinity.com [503] [] [27] [] [34.160.63.231] [google] [3.111774835s] [Google Cloud,Google Cloud CDN,HTTP/3]
+
