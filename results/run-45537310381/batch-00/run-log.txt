@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 25 03:05:26 UTC 2026
+[+] Run ID: 45537310381
+[+] Batch name: batch-00
+[+] Batch targets:
+bisq.network
+bitcoinknots.org
+clapp.finance
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 25 03:09:33 UTC 2026
+[+] HTTPX input count: 37
+[+] Running httpx...
+[+] httpx completed: Wed Nov 25 03:09:54 UTC 2026
+[+] httpx line count: 16
+[+] Batch completed: Wed Nov 25 03:09:54 UTC 2026

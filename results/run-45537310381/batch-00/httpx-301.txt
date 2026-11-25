@@ -1,0 +1,3 @@
+https://docs.bisq.network [301] [https://bisq.wiki] [534] [301 Moved Permanently] [cloudflare] [104.21.79.211] [cloudflare] [100.850071ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.bisq.network [301] [https://bisq.network/] [36] [cloudflare] [172.67.148.205] [cloudflare] [166.675087ms] [Cloudflare,HSTS,HTTP/3,Netlify]
+https://www.clapp.finance [301] [https://clapp.finance/] [523] [301 Moved Permanently] [cloudflare] [172.66.43.36] [cloudflare] [432.704028ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
