@@ -1,0 +1,2 @@
+http://flashnet-validator.breez.technology [308] [https://flashnet-validator.breez.technology:50059/] [0] [Caddy] [16.147.129.77] [2.180256ms] [Caddy]
+http://lnurl.breez.technology [308] [https://lnurl.breez.technology/] [0] [Caddy] [65.109.145.24] [349.297171ms] [Caddy]
