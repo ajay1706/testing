@@ -1,0 +1,8 @@
+https://arquivos-gestao.layback.trade [403] [] [29] [cloudflare] [104.26.8.33] [cloudflare] [105.020607ms] [Cloudflare]
+https://data-center-bolsa-statistics-api.layback.trade [403] [] [4909] [Attention Required! | Cloudflare] [cloudflare] [104.26.8.33] [cloudflare] [75.650175ms] [Cloudflare,Cloudflare Browser Insights]
+https://dev.legendofymir.com [403] [] [1484] [Service unavailable] [] [150.171.109.149] [92.137239ms] [Azure,Azure Front Door]
+https://cdn.legend.trade [403] [] [111] [AmazonS3] [65.8.20.82] [cloudfront] [567.02552ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://events-dev.legendofymir.com [403] [] [1484] [Service unavailable] [] [150.171.109.148] [151.97653ms] [Azure,Azure Front Door]
+https://media-dev.legend.trade [403] [] [111] [AmazonS3] [65.8.20.34] [cloudfront] [631.631661ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://media-staging.legend.trade [403] [] [111] [AmazonS3] [52.222.244.102] [cloudfront] [622.487014ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://media.legend.trade [403] [] [111] [AmazonS3] [52.222.244.38] [cloudfront] [615.727182ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
