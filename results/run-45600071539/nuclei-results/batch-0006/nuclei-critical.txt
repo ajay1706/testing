@@ -1,0 +1,2 @@
+[CVE-2026-111497] [javascript] [critical] data-center-backoffice-api.layback.trade
+[CVE-2026-111497] [javascript] [critical] crm.giveth.io
