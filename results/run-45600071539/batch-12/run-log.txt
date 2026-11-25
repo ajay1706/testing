@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 25 11:08:58 UTC 2026
+[+] Run ID: 45600071539
+[+] Batch name: batch-12
+[+] Batch targets:
+sunflower-land.com
+sunsetblocks.com
+tria.so
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 25 11:10:10 UTC 2026
+[+] HTTPX input count: 146
+[+] Running httpx...
+[+] httpx completed: Wed Nov 25 11:10:23 UTC 2026
+[+] httpx line count: 100
+[+] Batch completed: Wed Nov 25 11:10:23 UTC 2026

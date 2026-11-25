@@ -1,0 +1,125 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 25 11:10:23 UTC 2026
+
+HTTPX lines: 100
+Live URLs: 100
+
+## 200
+https://auth.travel.tria.so [200] [] [1022] [Welcome] [] [13.226.209.82] [cloudfront] [356.095476ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://community.sunflower-land.com [200] [] [2056] [cloudflare] [104.21.19.58] [cloudflare] [381.834347ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://connect.tria.so [200] [] [20538] [Vercel] [76.76.21.61] [48.669986ms] [HSTS,Vercel]
+https://crop-boom.sunflower-land.com [200] [] [2106] [Sunflower Land] [cloudflare] [104.21.19.58] [cloudflare] [368.400285ms] [Amazon CloudFront,Amazon Web Services,Bootstrap:5.1.3,Cloudflare,Cloudflare Browser Insights]
+https://christmas-delivery.sunflower-land.com [200] [] [9150] [Sunflower Land] [cloudflare] [172.67.185.70] [cloudflare] [228.289113ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://chicken-rescue.sunflower-land.com [200] [] [9187] [Sunflower Land] [cloudflare] [104.21.19.58] [cloudflare] [185.010228ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://easter-eggstravaganza.sunflower-land.com [200] [] [9716] [Sunflower Land] [cloudflare] [104.21.19.58] [cloudflare] [234.146709ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://crops-and-chickens.sunflower-land.com [200] [] [13743] [Sunflower Land] [cloudflare] [104.21.19.58] [cloudflare] [175.325546ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://mmo-dev.sunflower-land.com [200] [] [13] [cloudflare] [172.67.185.70] [cloudflare] [483.784361ms] [Cloudflare,Express,Node.js]
+https://mmo.sunflower-land.com [200] [] [13] [cloudflare] [104.21.19.58] [cloudflare] [487.62456ms] [Cloudflare,Express,Node.js]
+https://infected.sunflower-land.com [200] [] [2106] [Sunflower Land] [cloudflare] [172.67.185.70] [cloudflare] [592.01767ms] [Amazon CloudFront,Amazon Web Services,Bootstrap:5.1.3,Cloudflare,Cloudflare Browser Insights]
+https://board-game.sunflower-land.com [200] [] [9130] [Sunflower Land] [cloudflare] [104.21.19.58] [cloudflare] [262.588752ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://farmer-football.sunflower-land.com [200] [] [9322] [Sunflower Land] [cloudflare] [172.67.185.70] [cloudflare] [326.557162ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://festival-of-colors.sunflower-land.com [200] [] [9716] [Sunflower Land] [cloudflare] [104.21.19.58] [cloudflare] [482.043363ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://preprod-web.tria.so [200] [] [1527] [Tria Wallet] [Vercel] [66.33.60.193] [429.941096ms] [HSTS,React,Vercel]
+https://halloween.sunflower-land.com [200] [] [13852] [Sunflower Land] [cloudflare] [172.67.185.70] [cloudflare] [334.264788ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://project-ii.sunflower-land.com [200] [] [1150] [Project II] [cloudflare] [104.21.19.58] [cloudflare] [688.39099ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://supply.tria.so [200] [] [3504] [TRIA supply API | tria-supply] [GitHub.com] [185.199.110.153] [270.493181ms] [Cloudflare,Fastly,GitHub Pages,Jekyll:3.10.0,Ruby,Varnish,cdnjs]
+https://preprod-demo.tria.so [200] [] [5310] [Tria Demo App] [Vercel] [66.33.60.193] [421.064333ms] [HSTS,Vercel]
+https://fruit-dash.sunflower-land.com [200] [] [13563] [Sunflower Land] [cloudflare] [104.21.19.58] [cloudflare] [438.201584ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://preprod-connect.tria.so [200] [] [2338] [Vercel] [76.76.21.61] [403.942043ms] [HSTS,Vercel]
+https://mine-whack.sunflower-land.com [200] [] [13563] [Sunflower Land] [cloudflare] [172.67.185.70] [cloudflare] [587.845342ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://travel.tria.so [200] [] [1132] [Tria Travel] [] [150.171.109.73] [661.920186ms] [Azure,Azure Front Door,HSTS]
+https://staging-auth-lit.tria.so [200] [] [2338] [Vercel] [66.33.60.66] [618.93714ms] [HSTS,Vercel]
+https://dev-terminal.tria.so [200] [] [131716] [Tria - Analytics] [cloudflare] [172.67.184.211] [cloudflare] [185.623331ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://memory.sunflower-land.com [200] [] [13483] [Sunflower Land] [cloudflare] [104.21.19.58] [cloudflare] [540.723881ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights]
+https://analytics.tria.so [200] [] [131072] [Tria - Analytics] [cloudflare] [172.67.184.211] [cloudflare] [111.047602ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://sunsetblocks.com [200] [] [11832] [Sunset Blocks] [cloudflare] [185.158.133.1] [967.688986ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api-docs.tria.so [200] [] [78079] [Tria API Trading] [] [13.249.30.95] [cloudfront] [68.779085ms] [Amazon CloudFront,Amazon Web Services,Next.js,Node.js,React,Webpack]
+https://www.sunsetblocks.com [200] [] [11832] [Sunset Blocks] [cloudflare] [185.158.133.1] [786.036709ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://terminal.tria.so [200] [] [131716] [Tria - Analytics] [cloudflare] [104.21.59.228] [cloudflare] [624.655384ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://docs.tria.so [200] [] [121017] [Tria Documentation] [cloudflare] [104.21.59.228] [cloudflare] [219.6663ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://sunflower-land.com [200] [] [93458] [Sunflower Land — Free Web3 Farming Game | Play to Own on Polygon] [cloudflare] [104.21.19.58] [cloudflare] [954.448159ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://www.sunflower-land.com [200] [] [93458] [Sunflower Land — Free Web3 Farming Game | Play to Own on Polygon] [cloudflare] [104.21.19.58] [cloudflare] [776.580334ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,Google Analytics]
+https://ambassador.tria.so [200] [] [193326] [Tria · Ambassadors] [Vercel] [76.76.21.123] [370.5422ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://ambassador-staging.tria.so [200] [] [193515] [Tria · Ambassadors] [Vercel] [76.76.21.98] [1.277528699s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.tria.so [200] [] [193811] [Tria: Neofinance app to Trade, Earn and Spend Crypto. Self-Custodial.] [Framer/010e668] [31.43.160.6] [532.755011ms] [Framer Sites,HSTS,HTTP/3,React]
+https://experiences.tria.so [200] [] [196016] [Exclusive VIP Travel & Event Experiences | Tria Travel] [] [3.167.88.47] [cloudfront] [825.741819ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://affiliate-staging.tria.so [200] [] [193515] [Tria · Ambassadors] [Vercel] [76.76.21.123] [714.339107ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://preprod-ambassador.tria.so [200] [] [105971] [Tria Ambassador] [Vercel] [76.76.21.93] [770.883789ms] [C3.js,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://welcome.travel.tria.so [200] [] [230766] [Tria Travel] [Framer/010e668] [31.43.160.6] [451.825341ms] [Framer Sites,Google Tag Manager,HSTS,HTTP/3,React]
+https://docs.sunflower-land.com [200] [] [390206] [About Sunflower Land | Sunflower Land] [cloudflare] [172.67.185.70] [cloudflare] [240.820449ms] [Cloudflare,GitBook,HSTS,Vercel]
+https://pre-prod-app.tria.so [200] [] [474904] [Tria Wallet: Trade, Earn Yield and Spend Crypto in the real world] [Vercel] [76.76.21.164] [509.096666ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://tickets.tria.so [200] [] [346015] [Get Tickets to the Events Everyone’s Talking About | Tria Travel] [] [13.35.78.119] [cloudfront] [715.215144ms] [Amazon CloudFront,Amazon Web Services,Google Tag Manager,HSTS,HTTP/3,Next.js,Node.js,React,Webpack]
+https://app.tria.so [200] [] [534558] [Tria Wallet: Trade, Earn Yield and Spend Crypto in the real world] [Vercel] [66.33.60.34] [165.41472ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://elite.tria.so [301] [https://shadow.tria.so/] [167] [301 Moved Permanently] [cloudflare] [172.67.184.211] [cloudflare] [89.145687ms] [Cloudflare]
+https://links.tria.so [301] [https://app.tria.so/] [0] [cloudflare] [104.21.59.228] [cloudflare] [432.570445ms] [Cloudflare,HTTP/3]
+https://link.tria.so [301] [https://app.tria.so] [54] [nginx] [67.199.248.12] [530.417583ms] [HSTS,HTTP/3,Nginx]
+https://pioneer.tria.so [301] [https://shadow.tria.so/] [167] [301 Moved Permanently] [cloudflare] [172.67.184.211] [cloudflare] [379.366669ms] [Cloudflare]
+http://backend-relayer-mainnet.tria.so [301] [https://backend-relayer-mainnet.tria.so/] [534] [301 Moved Permanently] [cloudflare] [104.21.59.228] [cloudflare] [21.50499ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://staging.tria.so [301] [https://staging.tria.so/] [534] [301 Moved Permanently] [cloudflare] [104.21.59.228] [cloudflare] [19.39804ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://help.tria.so [302] [https://help.tria.so/en/] [0] [cloudflare] [104.21.59.228] [cloudflare] [352.05464ms] [Cloudflare,HTTP/3]
+https://portal.development.tria.so [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fportal.development.tria.so%2F&nonce=c1a60ec8a7969327f20a5626daab56805371f04f1f4cfec5dc63041f899c5f70] [263] [Vercel] [216.150.16.193] [585.016077ms] [HSTS,Vercel]
+
+## 307
+https://blogs.tria.so [307] [/en] [15] [Vercel] [216.150.16.129] [96.482078ms] [HSTS,Vercel]
+https://temp-web.tria.so [307] [/en] [15] [Vercel] [216.150.1.193] [1.41287697s] [HSTS,Vercel]
+
+## 308
+https://tria.so [308] [https://www.tria.so/] [56] [Framer/010e668] [31.43.161.6] [305.54004ms] [Framer Sites,HSTS,HTTP/3,React]
+https://www.travel.tria.so [308] [https://travel.tria.so/] [0] [] [150.171.109.72] [234.930441ms] [Azure,Azure Front Door]
+
+## 401
+
+## 403
+https://blog-cdn.production.tria.so [403] [] [111] [AmazonS3] [3.162.125.111] [cloudfront] [69.633553ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://buds.sunflower-land.com [403] [] [111] [cloudflare] [104.21.19.58] [cloudflare] [185.131624ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://development.tria.so [403] [] [520] [403 Forbidden] [awselb/2.0] [34.192.59.224] [199.92047ms] [Amazon ELB,Amazon Web Services]
+https://charts.tria.so [403] [] [111] [AmazonS3] [18.67.65.90] [cloudfront] [175.167121ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://assets.tickets.tria.so [403] [] [111] [AmazonS3] [52.85.193.45] [cloudfront] [338.585094ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://assets.experiences.tria.so [403] [] [111] [AmazonS3] [3.171.61.59] [cloudfront] [356.741268ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://charts.dev.tria.so [403] [] [111] [AmazonS3] [3.171.76.107] [cloudfront] [641.748625ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://mail.preprod.tria.so [403] [] [118] [403 Forbidden] [awselb/2.0] [34.237.45.175] [577.238052ms] [Amazon ELB,Amazon Web Services]
+https://pets.sunflower-land.com [403] [] [111] [cloudflare] [172.67.185.70] [cloudflare] [466.335465ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://production.tria.so [403] [] [118] [403 Forbidden] [awselb/2.0] [54.165.53.136] [359.946209ms] [Amazon ELB,Amazon Web Services]
+https://preprod.tria.so [403] [] [118] [403 Forbidden] [awselb/2.0] [52.3.133.176] [484.909342ms] [Amazon ELB,Amazon Web Services]
+https://slapi.travel.tria.so [403] [] [23] [] [35.83.215.33] [785.189522ms]
+https://static.tria.so [403] [] [243] [cloudflare] [172.67.184.211] [cloudflare] [490.895011ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HTTP/3]
+https://testnet-pets.sunflower-land.com [403] [] [111] [cloudflare] [104.21.19.58] [cloudflare] [999.144629ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://www.preprod.tria.so [403] [] [118] [403 Forbidden] [awselb/2.0] [34.237.45.175] [252.008998ms] [Amazon ELB,Amazon Web Services]
+
+## 404
+https://api2-dev.sunflower-land.com [404] [] [72] [cloudflare] [172.67.185.70] [cloudflare] [66.987344ms] [Cloudflare]
+https://api.dev.tria.so [404] [] [146] [404 Not Found] [] [13.249.30.93] [cloudfront] [69.10685ms] [Amazon CloudFront,Amazon Web Services]
+https://api.sunflower-land.com [404] [] [72] [cloudflare] [104.21.19.58] [cloudflare] [82.874317ms] [Cloudflare]
+https://api-dev.sunflower-land.com [404] [] [72] [cloudflare] [172.67.185.70] [cloudflare] [92.288001ms] [Cloudflare]
+https://api2.sunflower-land.com [404] [] [72] [cloudflare] [172.67.185.70] [cloudflare] [110.010954ms] [Cloudflare]
+https://economies-api.sunflower-land.com [404] [] [72] [cloudflare] [104.21.19.58] [cloudflare] [111.33543ms] [Cloudflare]
+https://animations.sunflower-land.com [404] [] [72] [cloudflare] [172.67.185.70] [cloudflare] [214.709875ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://animations-dev.sunflower-land.com [404] [] [72] [cloudflare] [104.21.19.58] [cloudflare] [278.687696ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://api.experiences.tria.so [404] [] [63] [] [3.167.88.122] [cloudfront] [338.635831ms] [Amazon CloudFront,Amazon Web Services,Express,HTTP/3,Node.js]
+https://mail.development.tria.so [404] [] [146] [404 Not Found] [] [13.249.30.93] [cloudfront] [360.620937ms] [Amazon CloudFront,Amazon Web Services]
+https://mail.production.tria.so [404] [] [146] [404 Not Found] [] [13.249.30.58] [cloudfront] [330.077608ms] [Amazon CloudFront,Amazon Web Services]
+https://mta-sts.tria.so [404] [] [9] [cloudflare] [172.67.184.211] [cloudflare] [494.00674ms] [Cloudflare,HTTP/3]
+https://shop.sunflower-land.com [404] [] [4671] [This store is unavailable] [cloudflare] [23.227.38.74] [526.413763ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://socket.tria.so [404] [] [58] [] [13.249.30.58] [cloudfront] [538.864305ms] [Amazon CloudFront,Amazon Web Services]
+https://wallet.tria.so [404] [] [107] [cloudflare] [104.21.59.228] [cloudflare] [475.991225ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://web.tria.so [404] [] [107] [Vercel] [76.76.21.164] [418.334913ms] [HSTS,Vercel]
+https://www.development.tria.so [404] [] [146] [404 Not Found] [] [13.249.30.111] [cloudfront] [618.866412ms] [Amazon CloudFront,Amazon Web Services]
+https://www.production.tria.so [404] [] [548] [404 Not Found] [] [13.249.30.58] [cloudfront] [503.358541ms] [Amazon CloudFront,Amazon Web Services]
+
+## 500
+
+## 502
+
+## 503
+https://auth.tria.so [503] [] [99] [Vercel] [76.76.21.142] [49.225207ms] [HSTS,Vercel]
+https://connect-v1.tria.so [503] [] [99] [Vercel] [76.76.21.123] [63.264989ms] [HSTS,Vercel]
+https://demo-v1.tria.so [503] [] [99] [cloudflare] [172.67.184.211] [cloudflare] [197.169869ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://demo.tria.so [503] [] [99] [cloudflare] [172.67.184.211] [cloudflare] [185.357905ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://support.tria.so [503] [] [190] [503 Service Temporarily Unavailable] [] [13.249.30.129] [cloudfront] [431.580629ms] [Amazon CloudFront,Amazon Web Services]
+https://web-v1.tria.so [503] [] [99] [Vercel] [76.76.21.142] [583.570872ms] [HSTS,Vercel]
+
