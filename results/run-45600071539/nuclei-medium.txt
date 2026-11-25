@@ -1,0 +1,8 @@
+[CVE-2026-12898] [http] [medium] https://news.rolg.maxion.gg/wp-content/uploads/RMQcLmjG.log
+[CVE-2026-27454] [http] [medium] https://forum.giveth.io/posts/8066.json?version=1
+[CVE-2026-27454] [http] [medium] https://forum.msu.io/posts/188.json?version=2
+[azure-instrumentation-key-exposure] [http] [medium] https://developer.wirexapp.com ["a5e5984c-2392-4d4a-b211-b41c4815e977"]
+[azure-instrumentation-key-exposure] [http] [medium] https://help.wirexapp.com ["14dcf27b-5d8c-4428-b040-d8d832100935"]
+[git-config] [http] [medium] https://test.sentinel.co/.git/config
+[github-workflows-disclosure] [http] [medium] https://test.sentinel.co/.github/workflows/test.yml [paths="/.github/workflows/test.yml"]
+[nextjs-vite-public-env:public_env] [http] [medium] https://newsletter.fomo.family [""VITE_STYTCH_SUBMIT_URL":"tw-bt.beehiiv.com"",""VITE_EXTERNAL_EMBED_DOMAIN":"beehiivusercontent.com"",""VITE_HUMAN_ENABLED":"true"",""VITE_HUMAN_URL":"//client.px-cloud.net/PXeBumDLwe/main.min.js"",""VITE_STYTCH_TELEMETRY_URL":"https://elements.stytch.com/telemetry.js"",""VITE_BIRDIE_CLIENT_ID":"q2je1lwj"",""VITE_SHOW_NECTAR_CONSOLE":"false"",""VITE_CAL_OAUTH_CLIENT_ID":"cmh1rxzo40003ql1r4zddst44"",""VITE_STYTCH_DEVICE_FINGERPRINTING_ENABLED":"true"",""VITE_STYTCH_PUBLIC_TOKEN":"public-token-live-bb368f5c-d1e6-477a-b194-cba5627e95f1""]

