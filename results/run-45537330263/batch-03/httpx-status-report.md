@@ -1,0 +1,61 @@
+# HTTPX Status Report
+
+Generated at: Wed Nov 25 03:09:38 UTC 2026
+
+HTTPX lines: 33
+Live URLs: 33
+
+## 200
+https://elfomo.fi [200] [] [2229] [ElfomoFi] [cloudflare] [104.21.45.97] [cloudflare] [141.863742ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://testnet.fermi.trade [200] [] [13422] [Fermi Trade] [cloudflare] [104.21.51.131] [cloudflare] [193.626403ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://rollup.fermi.trade [200] [] [1089] [Fermi Rollup Explorer] [cloudflare] [104.21.51.131] [cloudflare] [310.466054ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://fermi.trade [200] [] [13422] [Fermi Trade] [cloudflare] [104.21.51.131] [cloudflare] [269.856876ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://arb.dipcoin.io [200] [] [3299] [Dipcoin Arbitrage Terminal — Multi-Exchange Perpetual Funding Rates] [Vercel] [64.29.17.1] [351.484998ms] [HSTS,Vercel]
+https://app.fermi.trade [200] [] [13422] [Fermi Trade] [cloudflare] [172.67.180.158] [cloudflare] [332.572305ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://space.dipcoin.io [200] [] [23743] [Notion] [cloudflare] [208.103.161.33] [278.658777ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,hCaptcha]
+https://staging.fermi.trade [200] [] [13422] [Fermi Trade] [cloudflare] [172.67.180.158] [cloudflare] [351.071721ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://cli.dipcoin.io [200] [] [55420] [DipCoin CLI — Trade Perp Futures from Your Terminal] [Vercel] [64.29.17.65] [285.272042ms] [HSTS,Tailwind CSS,Vercel]
+https://docs.elfomo.fi [200] [] [13244] [Introduction | ElfomoFi Docs] [cloudflare] [104.21.45.97] [cloudflare] [565.704915ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.4.0,HTTP/3,React,Webpack]
+https://www.fermi.trade [200] [] [13422] [Fermi Trade] [cloudflare] [172.67.180.158] [cloudflare] [639.663446ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://perp-ws.dipcoin.io [200] [] [615] [Welcome to nginx!] [cloudflare] [104.18.14.148] [cloudflare] [832.032759ms] [Cloudflare,Cloudflare Bot Management]
+https://grafana.fermi.trade [200] [] [48201] [Grafana] [cloudflare] [172.67.180.158] [cloudflare] [781.228196ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.dipcoin.io [200] [] [3184] [Dipcoin.io | Trade Smarter. Win Bigger. The Simplest DEX on Sui] [cloudflare] [104.18.14.148] [cloudflare] [893.07763ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,Node.js,UmiJs,WebSocket,Websocket]
+https://docs.fermi.trade [200] [] [52895] [Fermi documentation | fermi] [cloudflare] [104.21.51.131] [cloudflare] [821.035657ms] [Astro:7.4.2,Cloudflare,Cloudflare Browser Insights,HTTP/3,Starlight:0.42.6]
+https://gray-api.dipcoin.io [200] [] [49] [cloudflare] [104.18.15.148] [cloudflare] [1.062663145s] [Cloudflare,Cloudflare Bot Management]
+https://gray-ws.dipcoin.io [200] [] [615] [Welcome to nginx!] [cloudflare] [104.18.14.148] [cloudflare] [1.099552534s] [Cloudflare,Cloudflare Bot Management]
+https://testnet.dipcoin.io [200] [] [3187] [Dipcoin.io | Trade Smarter. Win Bigger. The Simplest DEX on Sui] [cloudflare] [104.18.15.148] [cloudflare] [1.281604491s] [Cloudflare,Cloudflare Bot Management,Google Analytics,Node.js,UmiJs,WebSocket,Websocket]
+https://perp-api.dipcoin.io [200] [] [49] [cloudflare] [104.18.14.148] [cloudflare] [1.388339875s] [Cloudflare,Cloudflare Bot Management]
+https://partner.dipcoin.io [200] [] [549] [Partner Hub] [cloudflare] [104.18.15.148] [cloudflare] [1.40715444s] [Cloudflare,Cloudflare Bot Management,Node.js,UmiJs]
+https://demows.dipcoin.io [200] [] [615] [Welcome to nginx!] [] [23.64.112.168] [1.508392699s] [HTTP/3]
+https://demo.dipcoin.io [200] [] [864] [DIPCOIN Sui DEX] [] [23.64.112.178] [1.642816454s] [HTTP/3]
+https://test-partner.dipcoin.io [200] [] [549] [Partner Hub] [] [23.64.112.156] [1.842446969s] [HTTP/3,Node.js,UmiJs]
+
+## 301
+https://dipcoin.io [301] [https://www.dipcoin.io/] [0] [AmazonS3] [18.160.181.122] [cloudfront] [129.546441ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://gray-www.dipcoin.io [301] [https://www.dipcoin.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.14.148] [cloudflare] [183.432502ms] [Cloudflare]
+
+## 302
+https://email.fermi.trade [302] [https://email.secureserver.net:443/?domain=email.fermi.trade&] [477] [302 Found] [cloudflare] [172.67.180.158] [cloudflare] [297.773849ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 307
+https://doc.dipcoin.io [307] [https://dipcoin-doc.gitbook.io/dipcoin/] [15] [cloudflare] [172.64.147.209] [cloudflare] [226.527374ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+
+## 401
+
+## 403
+
+## 404
+https://v1.fermi.trade [404] [] [0] [cloudflare] [104.21.51.131] [cloudflare] [775.27463ms] [Cloudflare,HSTS,HTTP/3]
+https://api.dipcoin.io [404] [] [102] [cloudflare] [104.18.14.148] [cloudflare] [1.080708284s] [Cloudflare,Cloudflare Bot Management]
+https://api-partner.dipcoin.io [404] [] [57] [cloudflare] [104.18.15.148] [cloudflare] [1.363591968s] [Cloudflare,Cloudflare Bot Management]
+https://test-api-partner.dipcoin.io [404] [] [57] [] [23.217.104.72] [1.564818343s] [HTTP/3]
+https://demoapi.dipcoin.io [404] [] [102] [] [23.217.104.80] [3.556053309s] [HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+

@@ -1,0 +1,2 @@
+https://dipcoin.io [301] [https://www.dipcoin.io/] [0] [AmazonS3] [18.160.181.122] [cloudfront] [129.546441ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://gray-www.dipcoin.io [301] [https://www.dipcoin.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.14.148] [cloudflare] [183.432502ms] [Cloudflare]
