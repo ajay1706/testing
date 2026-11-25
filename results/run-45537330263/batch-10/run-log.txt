@@ -1,0 +1,14 @@
+[+] Batch started: Wed Nov 25 03:13:26 UTC 2026
+[+] Run ID: 45537330263
+[+] Batch name: batch-10
+[+] Batch targets:
+shield.human.tech
+solidlizard.finance
+solidly.com
+[+] Running subfinder...
+[+] Subfinder completed: Wed Nov 25 03:15:03 UTC 2026
+[+] HTTPX input count: 139
+[+] Running httpx...
+[+] httpx completed: Wed Nov 25 03:15:07 UTC 2026
+[+] httpx line count: 135
+[+] Batch completed: Wed Nov 25 03:15:07 UTC 2026
