@@ -1,0 +1,7 @@
+https://beta.bullbitcoin.com [302] [https://app.bullbitcoin.com/] [5] [] [172.81.179.20] [203.639841ms]
+https://lnurlv3.bullbitcoin.com [302] [https://lnurlv3.bullbitcoin.com/welcome/] [5] [] [170.75.166.48] [178.247266ms]
+https://lnurlv3-2.bullbitcoin.com [302] [https://lnurlv3-2.bullbitcoin.com/welcome/] [5] [] [170.75.166.48] [218.962959ms]
+https://mainnet-staging.capricorn.exchange [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fmainnet-staging.capricorn.exchange%2F&nonce=a1acedc655f3547ad69555bfa5edb859ffae3d8b05dd762b77c72e8ead3c336b] [263] [Vercel] [216.150.1.193] [476.959482ms] [HSTS,Vercel]
+https://sepolia-uniswap.capricorn.exchange [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fsepolia-uniswap.capricorn.exchange%2F&nonce=f21238921cda87043126a56276ee47bff511d2fa7ba8148470c2ea4d0ab38f7d] [263] [Vercel] [216.150.1.193] [337.541708ms] [HSTS,Vercel]
+https://testnet-uniswap.capricorn.exchange [302] [https://vercel.com/sso-api?url=https%3A%2F%2Ftestnet-uniswap.capricorn.exchange%2F&nonce=da2e4b1d37175a0e5ca2b23d3e2da04bc0c28a95a82a2809a8161d552b0993a0] [263] [Vercel] [216.150.1.193] [505.007583ms] [HSTS,Vercel]
+https://testnet.capricorn.exchange [302] [https://vercel.com/sso-api?url=https%3A%2F%2Ftestnet.capricorn.exchange%2F&nonce=2fcd8fcbf4df0de52e041df3d120ce41f1fbe0d61bc26733126fe44db8a7a90a] [263] [Vercel] [216.150.1.1] [1.351494764s] [HSTS,Vercel]
