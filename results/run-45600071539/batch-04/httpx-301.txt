@@ -1,0 +1,7 @@
+https://discord.giveth.io [301] [https://discord.gg/cnR9Z6W29r] [534] [301 Moved Permanently] [cloudflare] [104.21.8.251] [cloudflare] [558.014999ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://link.foldapp.com [301] [https://foldapp.com/] [162] [301 Moved Permanently] [nginx] [13.248.132.158] [32.542366ms] [Nginx]
+https://redeem.foldapp.com [301] [https://foldapp.com/redeem] [167] [301 Moved Permanently] [cloudflare] [172.66.42.234] [cloudflare] [84.66593ms] [Cloudflare,HSTS]
+https://share.foldapp.com [301] [https://foldapp.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.42.234] [cloudflare] [107.413621ms] [Cloudflare,HSTS]
+https://store.foldapp.com [301] [https://foldapp.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.41.22] [cloudflare] [165.282109ms] [Cloudflare,HSTS]
+https://www.foldapp.com [301] [https://foldapp.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.41.22] [cloudflare] [43.628457ms] [Cloudflare,HSTS]
+http://bonus.foldapp.com [301] [https://bonus.foldapp.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.41.22] [cloudflare] [26.326212ms] [Cloudflare]
