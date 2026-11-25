@@ -1,0 +1,2 @@
+[wix-takeover] [http] [high] https://www.promo.wirexapp.com ["pointing.wixdns.net"]
+[wix-takeover] [http] [high] https://www.site-dev.wirexapp.com ["pointing.wixdns.net"]
