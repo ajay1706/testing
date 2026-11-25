@@ -1,0 +1,2 @@
+[CVE-2026-27454] [http] [medium] https://forum.msu.io/posts/188.json?version=2
+[CVE-2026-27454] [http] [medium] https://forum.giveth.io/posts/8066.json?version=1
