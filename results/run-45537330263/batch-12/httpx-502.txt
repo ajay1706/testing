@@ -1,0 +1,2 @@
+https://gcsr.xbull.app [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [143.198.31.111] [237.678356ms] [Nginx:1.18.0,Ubuntu]
+https://farming.xbull.app [502] [] [166] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [143.198.31.111] [316.202688ms] [Nginx:1.18.0,Ubuntu]
