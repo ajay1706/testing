@@ -1,0 +1,2 @@
+[CVE-2026-111497] [javascript] [critical] api-pse-public.gnosispay.com
+[CVE-2026-111497] [javascript] [critical] api-pse-public.sandbox.gnosispay.com
