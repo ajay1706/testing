@@ -1,0 +1,2 @@
+https://cr-mission1.kaia.io [307] [/v1/ops/auth/saml/login?returnTo=%2F] [6814] [Kaia CR Ops] [] [34.64.167.232] [google] [572.71174ms] [HSTS]
+https://cr-mission1.qa.kaia.io [307] [/v1/ops/auth/saml/login?returnTo=%2F] [6814] [Kaia CR Ops] [] [34.64.36.162] [google] [1.332186105s] [HSTS]
