@@ -1,0 +1,5 @@
+https://activity.flexa.co [307] [/sign-in] [8] [cloudflare] [172.67.70.112] [cloudflare] [196.503321ms] [Cloudflare,Envoy]
+https://pay.flexa.co [307] [https://flexa.co] [7163] [Flexa Payment Page] [cloudflare] [104.26.0.112] [cloudflare] [563.883442ms] [Cloudflare,Envoy,Next.js,Node.js,React,Webpack]
+https://pay.staging.flexa.co [307] [https://flexa.co] [7157] [Flexa Payment Page] [cloudflare] [104.26.1.112] [cloudflare] [589.682839ms] [Cloudflare,Envoy,Next.js,Node.js,React,Webpack]
+https://views.staging.flexa.co [307] [https://flexa.co/] [17] [cloudflare] [172.67.70.112] [cloudflare] [261.746559ms] [Cloudflare,Envoy]
+https://views.flexa.co [307] [https://flexa.co/] [17] [cloudflare] [172.67.70.112] [cloudflare] [285.530475ms] [Cloudflare,Envoy]
