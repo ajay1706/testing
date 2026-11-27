@@ -1,0 +1,87 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 05:42:44 UTC 2026
+
+HTTPX lines: 58
+Live URLs: 58
+
+## 200
+https://assets.staging.wingriders.com [200] [] [594] [Page Redirection] [AmazonS3] [3.175.34.77] [cloudfront] [553.80076ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://assets.wingriders.com [200] [] [594] [Page Redirection] [AmazonS3] [143.204.1.37] [cloudfront] [626.021802ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://minter.wingriders.com [200] [] [2686] [WingRiders fixed policy minter] [AmazonS3] [18.172.170.117] [cloudfront] [116.772577ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://wallet-example-app.wingriders.com [200] [] [413] [WingRiders Wallet Example Application] [AmazonS3] [3.175.34.2] [cloudfront] [104.683292ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://wallet.wingriders.com [200] [] [765] [WingRiders Wallet] [] [3.175.34.56] [cloudfront] [229.646238ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services,HSTS]
+https://docs.wingriders.com [200] [] [406935] [WingRiders introduction | WingRiders docs] [cloudflare] [172.64.147.209] [cloudflare] [355.002361ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://community.wingriders.com [200] [] [237262] [WingRiders] [nginx] [184.104.178.43] [720.510717ms] [Discourse:2026.12.0,HSTS,Nginx,Ruby on Rails]
+https://www.wingriders.com [200] [] [8627] [WingRiders] [] [3.175.34.82] [cloudfront] [215.220688ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 301
+https://app.mainnet.wingriders.com [301] [https://www.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.175.34.61] [cloudfront] [231.438685ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://app.staging.wingriders.com [301] [https://www.staging.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.169.173.4] [cloudfront] [235.801024ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://app.preprod.staging.wingriders.com [301] [https://www.staging.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.169.173.4] [cloudfront] [300.880231ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://app.wingriders.com [301] [https://www.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.175.34.40] [cloudfront] [223.990165ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://mainnet.wingriders.com [301] [https://www.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.175.34.56] [cloudfront] [213.720409ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://preprod.staging.wingriders.com [301] [https://www.staging.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.169.173.80] [cloudfront] [186.484986ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://staging.wingriders.com [301] [https://www.staging.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [99.86.101.39] [cloudfront] [215.613407ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://wingriders.com [301] [https://www.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.175.34.40] [cloudfront] [269.0458ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://www.app.mainnet.wingriders.com [301] [https://www.mainnet.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [99.86.101.113] [cloudfront] [195.105774ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://www.app.staging.wingriders.com [301] [https://www.staging.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [99.86.101.39] [cloudfront] [200.72928ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://www.app.preprod.staging.wingriders.com [301] [https://www.preprod.staging.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.169.173.76] [cloudfront] [220.044398ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://www.app.mainnet.staging.wingriders.com [301] [https://www.mainnet.staging.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [143.204.1.98] [cloudfront] [232.759135ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://www.app.wingriders.com [301] [https://www.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [99.86.101.113] [cloudfront] [319.158003ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://www.mainnet.wingriders.com [301] [https://www.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.175.34.56] [cloudfront] [213.506181ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://www.preprod.staging.wingriders.com [301] [https://www.staging.wingriders.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [3.169.173.74] [cloudfront] [239.441191ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+
+## 302
+
+## 307
+https://datum-explorer.wingriders.com [307] [/?schema=detect] [15] [] [3.175.34.82] [cloudfront] [258.635142ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services]
+https://nft-forge.wingriders.com [307] [connect-wallet] [11753] [NFT Forge] [] [3.175.34.82] [cloudfront] [245.983992ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services,Next.js,Node.js,React,Webpack]
+
+## 308
+
+## 401
+https://kotelna.mainnet.wingriders.com [401] [] [99] [] [3.175.34.40] [cloudfront] [198.183853ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services,Basic]
+
+## 403
+
+## 404
+https://api.mainnet.wingriders.com [404] [] [72] [] [3.175.34.61] [cloudfront] [293.262801ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services]
+https://cab-server.mainnet.wingriders.com [404] [] [9] [] [3.175.34.40] [cloudfront] [233.752491ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services]
+
+## 500
+
+## 502
+
+## 503
+https://api.preprod.staging.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [99.86.101.39] [cloudfront] [221.80751ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://api.mainnet.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.1.41] [cloudfront] [253.494465ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://app.mainnet.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.1.41] [cloudfront] [267.75757ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://cab-server.mainnet.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.1.22] [cloudfront] [186.501421ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://datum-explorer.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [3.169.173.76] [cloudfront] [207.426571ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://cab-server.preprod.staging.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [3.169.173.74] [cloudfront] [230.362208ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://datum-explorer.mainnet.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.1.91] [cloudfront] [222.930133ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://kotelna.mainnet.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.1.22] [cloudfront] [210.062458ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://kotelna.preprod.staging.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [3.169.173.80] [cloudfront] [196.010273ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://multi-dex-launchpad-backend.mainnet.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.1.22] [cloudfront] [210.127208ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://mainnet.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.1.98] [cloudfront] [225.141632ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://multi-dex-launchpad-backend.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [99.86.101.3] [cloudfront] [179.589093ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://multi-dex-launchpad.mainnet.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.1.91] [cloudfront] [199.030253ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://nft-forge.mainnet.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.160.110] [cloudfront] [215.802168ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://multi-dex-launchpad.staging.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [3.169.173.4] [cloudfront] [217.531448ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://nft-forge.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [3.169.173.76] [cloudfront] [210.147599ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://multi-dex-launchpad-backend.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [99.86.101.113] [cloudfront] [278.835735ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://multi-dex-launchpad.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [3.175.34.40] [cloudfront] [247.678125ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://rapid-dex-backend.staging.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [99.86.101.48] [cloudfront] [189.47182ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://rapid-dex-backend.mainnet.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.160.110] [cloudfront] [207.773648ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://snek-governance-server.preprod.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [99.86.101.48] [cloudfront] [185.765377ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://rapid-dex.mainnet.staging.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.1.91] [cloudfront] [198.813042ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://rapid-dex.staging.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [99.86.101.39] [cloudfront] [207.371681ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://snek-governance-server.mainnet.staging.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.1.41] [cloudfront] [211.483463ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://rapid-dex-backend.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [3.175.34.40] [cloudfront] [235.545657ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://snek-governance-server.mainnet.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [3.175.34.56] [cloudfront] [271.967441ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://rapid-dex.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [99.86.101.83] [cloudfront] [307.600571ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://wallet.staging.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [99.86.101.39] [cloudfront] [187.237271ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://www.mainnet.staging.wingriders.com [503] [] [564] [503 Service Temporarily Unavailable] [awselb/2.0] [143.204.160.96] [cloudfront] [196.692882ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://www.staging.wingriders.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [3.169.173.74] [cloudfront] [204.453831ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+

@@ -1,0 +1,2 @@
+https://api.mainnet.wingriders.com [404] [] [72] [] [3.175.34.61] [cloudfront] [293.262801ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services]
+https://cab-server.mainnet.wingriders.com [404] [] [9] [] [3.175.34.40] [cloudfront] [233.752491ms] [Amazon ALB,Amazon CloudFront,Amazon Web Services]
