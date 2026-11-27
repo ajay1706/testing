@@ -1,0 +1,8 @@
+https://assets.liqwid.finance [200] [] [502] [Liqwid Assets] [cloudflare] [104.26.6.43] [cloudflare] [212.638779ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://bridge.sui.testnet.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [5.523703437s] [Nginx:1.24.0,Ubuntu]
+https://server-1.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.47.71] [2.515107862s] [Nginx:1.24.0,Ubuntu]
+https://server-7.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [51.178.134.23] [4.488616364s] [Nginx:1.18.0,Ubuntu]
+https://static.tonstakers.com [502] [] [150] [502 Bad Gateway] [nginx] [144.91.66.99] [424.826642ms] [Nginx]
+https://validator.monad.testnet.aftermath.finance [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.230.73] [541.874043ms] [Nginx:1.24.0,Ubuntu]
+https://validator.sui.mainnet-hotspare.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.47.71] [2.503781097s] [Nginx:1.24.0,Ubuntu]
+https://validator.sui.testnet.aftermath.finance [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [57.128.64.3] [2.520733776s] [Nginx:1.24.0,Ubuntu]
