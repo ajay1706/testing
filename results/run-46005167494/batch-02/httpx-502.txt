@@ -1,0 +1,5 @@
+https://canton.meteorwallet.app [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [135.181.118.8] [775.733934ms] [Nginx:1.24.0,Ubuntu]
+https://app.canton.meteorwallet.app [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [135.181.118.8] [1.111475087s] [Nginx:1.24.0,Ubuntu]
+https://mainnet.canton.meteorwallet.app [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [135.181.118.8] [847.655205ms] [Nginx:1.24.0,Ubuntu]
+https://testnet.canton.meteorwallet.app [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [37.27.140.231] [819.837795ms] [Nginx:1.24.0,Ubuntu]
+https://playground.sdk.canton.meteorwallet.app [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [135.181.118.8] [1.406948049s] [Nginx:1.24.0,Ubuntu]
