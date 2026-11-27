@@ -1,0 +1,4 @@
+https://api.defisaver.com [401] [] [12] [cloudflare] [104.20.32.12] [cloudflare] [127.745706ms] [Cloudflare,HSTS]
+https://beta.coinglass.com [401] [] [188] [401 Authorization Required] [nginx/1.24.0 (Ubuntu)] [65.8.20.78] [cloudfront] [488.880479ms] [Amazon CloudFront,Amazon Web Services,Basic,Nginx:1.24.0,Ubuntu]
+https://legend-beta.coinglass.com [401] [] [188] [401 Authorization Required] [nginx/1.24.0 (Ubuntu)] [65.8.20.103] [cloudfront] [410.531668ms] [Amazon CloudFront,Amazon Web Services,Basic,Nginx:1.24.0,Ubuntu]
+https://staging.coinglass.com [401] [] [172] [401 Authorization Required] [nginx] [18.155.173.128] [cloudfront] [447.942609ms] [Amazon CloudFront,Amazon Web Services,Basic,Nginx]
