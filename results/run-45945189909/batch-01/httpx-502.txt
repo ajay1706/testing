@@ -1,0 +1,2 @@
+https://faucet.decred.org [502] [] [552] [502 Bad Gateway] [nginx] [45.76.228.246] [265.162115ms] [Nginx]
+https://teststakepool.decred.org [502] [] [150] [502 Bad Gateway] [nginx] [45.76.228.246] [98.957945ms] [Nginx]
