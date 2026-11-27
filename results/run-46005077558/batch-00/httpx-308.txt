@@ -1,0 +1,2 @@
+http://status.archax.com [308] [https://status.archax.com/] [0] [Caddy] [142.132.149.97] [202.132386ms] [Caddy]
+https://www.clearpool.finance [308] [https://clearpool.finance/] [15] [Vercel] [216.150.16.193] [150.654507ms] [HSTS,Vercel]
