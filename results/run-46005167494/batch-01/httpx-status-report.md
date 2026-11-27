@@ -1,0 +1,72 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:20:41 UTC 2026
+
+HTTPX lines: 46
+Live URLs: 46
+
+## 200
+https://lobstr.co [200] [] [19583] [LOBSTR: the simple, secure crypto wallet] [cloudflare] [104.20.40.233] [cloudflare] [116.848592ms] [Cloudflare,HSTS]
+https://hashscan.io [200] [] [875] [UploadServer] [34.95.80.52] [google] [257.268146ms] [Google Cloud,Google Cloud Storage,HTTP/3]
+https://merge.lobstr.co [200] [] [7562] [Merge Tool | LOBSTR] [cloudflare] [104.20.40.233] [cloudflare] [336.207597ms] [Bootstrap,Cloudflare,Underscore.js,cdnjs,jQuery:3.2.1]
+https://recovery-staging.lobstr.co [200] [] [6901] [Recovery Tool | LOBSTR] [cloudflare] [172.66.154.95] [cloudflare] [254.89364ms] [Amazon S3,Amazon Web Services,Bootstrap:4.1.1,Cloudflare,HSTS,Handlebars,Underscore.js,cdnjs,jQuery CDN,jQuery:3.3.1]
+https://preview.lobstr.co [200] [] [33634] [LOBSTR – Simple and Secure Stellar & XRP Ledger Wallet.] [cloudflare] [172.66.154.95] [cloudflare] [335.080238ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Magnific Popup,OWL Carousel,YouTube,cdnjs,jQuery CDN,jQuery:3.5.1]
+https://h.v4.stellar.lobstr.co [200] [] [4401] [nginx] [144.76.176.130] [536.220044ms] [Nginx]
+https://h.v3.stellar.lobstr.co [200] [] [4401] [nginx] [144.76.176.126] [591.984971ms] [Nginx]
+https://horizon.stellar.lobstr.co [200] [] [4470] [cloudflare] [172.66.154.95] [cloudflare] [619.785851ms] [Cloudflare]
+https://app.icpswap.com [200] [] [2970] [ICPSwap] [] [38.96.31.203] [692.996798ms] [HSTS]
+https://recovery.lobstr.co [200] [] [6595] [Recovery Tool | LOBSTR] [cloudflare] [172.66.154.95] [cloudflare] [392.374569ms] [Amazon S3,Amazon Web Services,Bootstrap:4.1.1,Cloudflare,HSTS,Handlebars,Underscore.js,cdnjs,jQuery CDN,jQuery:3.3.1]
+https://vault-staging.lobstr.co [200] [] [14004] [LOBSTR Vault — Multisignature protection for Stellar] [cloudflare] [172.66.154.95] [cloudflare] [178.072556ms] [Cloudflare]
+https://testanchor.lobstr.co [200] [] [31342] [Ultra Stellar] [cloudflare] [172.66.154.95] [cloudflare] [238.944653ms] [Cloudflare,Django,Google Font API,Google Hosted Libraries,Python,Underscore.js,Webflow,cdnjs,jQuery:3.5.1]
+https://vault.lobstr.co [200] [] [14004] [LOBSTR Vault — Multisignature protection for Stellar] [cloudflare] [104.20.40.233] [cloudflare] [153.001106ms] [Cloudflare]
+https://www.hashscan.io [200] [] [875] [UploadServer] [34.95.80.52] [google] [165.607858ms] [Google Cloud,Google Cloud Storage,HTTP/3]
+https://static.icpswap.com [200] [] [612] [Welcome to nginx!] [nginx/1.24.0 (Ubuntu)] [18.143.11.46] [749.802793ms] [Nginx:1.24.0,Ubuntu]
+https://test.info.icpswap.com [200] [] [970] [ICPSwap] [] [38.96.31.203] [687.746556ms] [HSTS]
+https://wallet.icpswap.com [200] [] [3986] [ICPSwap] [] [38.96.31.203] [559.129253ms] [HSTS]
+https://www.icpswap.com [200] [] [813] [ICPSwap] [] [23.142.184.129] [528.16138ms] [HSTS]
+
+## 301
+https://icpswap.com [301] [https://www.icpswap.com] [0] [] [54.215.31.113] [256.701364ms] [HSTS]
+https://info.icpswap.com [301] [https://app.icpswap.com/info-swap/] [0] [] [54.215.31.113] [347.017948ms] [HSTS]
+https://repository-verify.hashscan.io [301] [https://verify.sourcify.dev/] [167] [301 Moved Permanently] [cloudflare] [104.18.0.100] [cloudflare] [163.959326ms] [Cloudflare]
+https://verify.hashscan.io [301] [https://verify.sourcify.dev/] [167] [301 Moved Permanently] [cloudflare] [104.18.1.100] [cloudflare] [134.717699ms] [Cloudflare]
+http://futurenet.lobstr.co [301] [https://futurenet.lobstr.co/] [167] [301 Moved Permanently] [cloudflare] [104.20.40.233] [cloudflare] [56.716096ms] [Cloudflare]
+
+## 302
+https://pool.lobstr.co [302] [https://lobstr.co/] [143] [302 Found] [cloudflare] [172.66.154.95] [cloudflare] [207.588929ms] [Cloudflare]
+https://staging.lobstr.co [302] [https://clauth.cloudflareaccess.com/cdn-cgi/access/login/staging.lobstr.co?kid=82a50f06674fd714bbb0edf6b94066dd01deeb85112fe0e51c224e395b40ef99&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImY1NGMwODRhYzEyZjYyOGY3Y2Q1OWE1NGI2OTUzNWVmNDcyYWEyY2Q4ZmUyMzk2YzNlOGMzNTZjNTAyNmUwMzEifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjgyYTUwZjA2Njc0ZmQ3MTRiYmIwZWRmNmI5NDA2NmRkMDFkZWViODUxMTJmZTBlNTFjMjI0ZTM5NWI0MGVmOTkiLCJob3N0bmFtZSI6InN0YWdpbmcubG9ic3RyLmNvIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTU3ODU5MzEsIm5iZiI6MTc5NTc4NTYzMSwiaWF0IjoxNzk1Nzg1NjMxLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiMTBlMTU2ZTgyZTZlN2Q1NmMxMDRlZjY3Y2VhMTAzYzRkZTg1YjcyZDdmMTMwODc3Zjc5YjY2YzFkY2E3ZDk2MSJ9.GiM1UwjXL2XdsnMTRN2Iky_JkaNkZ5-rhdBO6sxU5PM6dQVjUfvyzmxInj2qgGDU3I2fHXamWqRGYexUYg-lzl83G71fHE_zAwUtNLFeoNYU4lYWbijJvH42wPtT6o9UsfriP7lZhb45Nh2RL6_rLxFUCyhnO0-xg6C3UZfJ_kJun1NhYHBQfvS7ZzCL1OaRRH_doLS61bG1Y_XfgR4ANqcZXldALOJMXE1l8XtR5DoKUr6f8MV-NMqPTkZRm9m-7pzt8L0upWD2FX97FsgcRTF5SwB0_GW1uPvjsQHTxJMxtbU7y_GJOMqaFhoDP_GBZcWpJzHM8OF-DQMI-m-uzg&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.154.95] [cloudflare] [129.886517ms] [Cloudflare]
+https://web.v1.stellar.lobstr.co [302] [https://clauth.cloudflareaccess.com/cdn-cgi/access/login/web.v1.stellar.lobstr.co?kid=f2fc1fd32f4ae908bc42c3414d5ebbf6c975f0c30693122ff42c196fdf89a2a8&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImY1NGMwODRhYzEyZjYyOGY3Y2Q1OWE1NGI2OTUzNWVmNDcyYWEyY2Q4ZmUyMzk2YzNlOGMzNTZjNTAyNmUwMzEifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImYyZmMxZmQzMmY0YWU5MDhiYzQyYzM0MTRkNWViYmY2Yzk3NWYwYzMwNjkzMTIyZmY0MmMxOTZmZGY4OWEyYTgiLCJob3N0bmFtZSI6IndlYi52MS5zdGVsbGFyLmxvYnN0ci5jbyIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk1Nzg1OTMyLCJuYmYiOjE3OTU3ODU2MzIsImlhdCI6MTc5NTc4NTYzMiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6Ijg3MDJmZWVjN2I0MTBkYTVkOTgyNDMyNjY0NTFiNDIyYjk0MDlhN2RmYTcxYWQyYTA5NmQwNWRmYjY4NGVjM2MifQ.j2qLHsZuOpUmmbvB1OYTYQEoEmu2ZnfUryaOlHuOCpilLiAdH7e2RmYDU0ZWUD-y3O4DoEw43lT83OgiRmdXdFX4LJ3RbCkmnuYPdgEDZoPN5TmtEVZc-W--JPs-CCZZPQJwimxx_7i10Z38gQ3KpD-xP7ke4CdprQvVkqTtknduCGEaxMfhkxH1pcEkCR-AJbyF9NIFbOQgBOcILXOB-3bAvQqZwOee5lXDPe2xV-WlQ1s4r41-EwqBqK74ti4zTSd0BkC6xbvIrv4QeqhIOhFD9AxYzpq4Ip_6RdfWVCTuVWPYv-ccBkeOWJcg-KfhSeB7Xm76AwQp-dD9Jz0Eyw&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.20.40.233] [cloudflare] [73.07297ms] [Cloudflare]
+https://web.v5.stellar.lobstr.co [302] [https://clauth.cloudflareaccess.com/cdn-cgi/access/login/web.v5.stellar.lobstr.co?kid=c34d5540d16f2747d8e3ca235caaf045a5c3474e97a35d912deda146ec24769d&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImY1NGMwODRhYzEyZjYyOGY3Y2Q1OWE1NGI2OTUzNWVmNDcyYWEyY2Q4ZmUyMzk2YzNlOGMzNTZjNTAyNmUwMzEifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImMzNGQ1NTQwZDE2ZjI3NDdkOGUzY2EyMzVjYWFmMDQ1YTVjMzQ3NGU5N2EzNWQ5MTJkZWRhMTQ2ZWMyNDc2OWQiLCJob3N0bmFtZSI6IndlYi52NS5zdGVsbGFyLmxvYnN0ci5jbyIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk1Nzg1OTMyLCJuYmYiOjE3OTU3ODU2MzIsImlhdCI6MTc5NTc4NTYzMiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjdhY2RkYmM5ZWU0YThlMjRmYjcyYTMyNjQ4YmQ4NmRhMTNiNzkxM2YzOWQ3ZGE3MTM1NzExOWU2NDg1N2QwNzQifQ.XXQSBd1VNMu2UGLSfOvsB44ZLb2U-y5luOPhBKU8D8q473fhL7xupvjFxW52EVH1z2Ilb1u8LQPHhCVkjQWBzGEqtDPfP4_4t1BtC9yfLnR-oK0dma2sdOQflYxgbBPLMaV30nKcL9Z1kzr4u1Yifj5ARr8UJBRwSSfvpYENgM4G02VpWEEPB9xn6q1CsqRE18MzhElME25HEZXCTNEoZRPBggG7zZdxx0piX7-nbvAg4rjEanaYkDFj3kfC--yC2Kv1SKkESaiB3qt1AgOx5qfFUUArwqKG00cTGZEY5Ij9y9T7oja3PB1AAX7rxT8OPBksapi5QkjgsywXUScmKg&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.154.95] [cloudflare] [69.324283ms] [Cloudflare]
+https://web.v2.stellar.lobstr.co [302] [https://clauth.cloudflareaccess.com/cdn-cgi/access/login/web.v2.stellar.lobstr.co?kid=9e3110ace74d491e516032ea444f5719dd00eec7b044346b7e0c9688c807d9ff&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImY1NGMwODRhYzEyZjYyOGY3Y2Q1OWE1NGI2OTUzNWVmNDcyYWEyY2Q4ZmUyMzk2YzNlOGMzNTZjNTAyNmUwMzEifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjllMzExMGFjZTc0ZDQ5MWU1MTYwMzJlYTQ0NGY1NzE5ZGQwMGVlYzdiMDQ0MzQ2YjdlMGM5Njg4YzgwN2Q5ZmYiLCJob3N0bmFtZSI6IndlYi52Mi5zdGVsbGFyLmxvYnN0ci5jbyIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk1Nzg1OTMyLCJuYmYiOjE3OTU3ODU2MzIsImlhdCI6MTc5NTc4NTYzMiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjQyYzBjZDJhMGIyNGI2YjYzZDA5ZmM3MjFhNGJiODhkNDExNzZkYTRmZTUzMTlkMmQ5ODMzM2Q0ODhmY2Y2NmYifQ.UpLkDLBb0NlD-nCqLoYmS6LV7ZnfX10iEuHewm4xNTDlxwAX7wDN3EKkelNjR7eWbXRM-X0jlWvPMQaO2jx48cONK1lfQue1D-zaCEYrEi00XawJOd6royNKMCShdQdT5aVjccjtXa_-_pJ7S4dUWViZw1x2xHtiXDSBFnEOm63URPnwF_2w6-fbzUfYo6WwxTAb-ciqtSsBNEG4FH7RHYf_WTrBLaW1E-uTjvwuLy1PvRwpjiCaKOdY3RnEEDIbiu3LLN5-nPEhmP9_J-BM0m3gsKg2farFsCYBlrMdL0jLRkR8N0G-e9EwBU_9K4l3w4CnqKuHOQIHkpQ9lqY5Dg&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.66.154.95] [cloudflare] [127.728348ms] [Cloudflare]
+https://www.lobstr.co [302] [https://lobstr.co/] [143] [302 Found] [cloudflare] [104.20.40.233] [cloudflare] [80.949906ms] [Cloudflare]
+
+## 307
+
+## 308
+https://server-verify.hashscan.io [308] [https://sourcify.dev/server] [169] [308 Permanent Redirect] [cloudflare] [104.18.0.100] [cloudflare] [104.801636ms] [Cloudflare]
+
+## 401
+
+## 403
+https://static.lobstr.co [403] [] [263] [cloudflare] [104.20.40.233] [cloudflare] [237.429925ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://v1.stellar.lobstr.co [403] [] [162] [403 Forbidden] [nginx/1.24.0 (Ubuntu)] [148.251.188.14] [553.754872ms] [Nginx:1.24.0,Ubuntu]
+https://v2.stellar.lobstr.co [403] [] [162] [403 Forbidden] [nginx/1.24.0 (Ubuntu)] [178.63.10.60] [564.488551ms] [Nginx:1.24.0,Ubuntu]
+https://v5.stellar.lobstr.co [403] [] [162] [403 Forbidden] [nginx/1.24.0 (Ubuntu)] [148.251.176.42] [547.506871ms] [Nginx:1.24.0,Ubuntu]
+
+## 404
+https://id.lobstr.co [404] [] [77] [cloudflare] [3.170.185.117] [cloudfront] [282.173641ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://recoverysigner-staging.lobstr.co [404] [] [65] [cloudflare] [104.20.40.233] [cloudflare] [274.449866ms] [Cloudflare]
+https://recoverysigner.lobstr.co [404] [] [65] [cloudflare] [172.66.154.95] [cloudflare] [222.856064ms] [Cloudflare]
+https://api.icpswap.com [404] [] [80] [nginx/1.24.0 (Ubuntu)] [18.143.11.46] [827.637758ms] [Nginx:1.24.0,Ubuntu]
+https://tools.lobstr.co [404] [] [77] [cloudflare] [172.66.154.95] [cloudflare] [230.997624ms] [Cloudflare]
+https://xdb-staging.lobstr.co [404] [] [146] [404 Not Found] [cloudflare] [104.20.40.233] [cloudflare] [408.126662ms] [Cloudflare]
+
+## 500
+https://test-ultracapital.lobstr.co [500] [] [145] [Server Error (500)] [cloudflare] [104.20.40.233] [cloudflare] [443.038621ms] [Cloudflare]
+
+## 502
+https://tools-staging.lobstr.co [502] [] [16] [cloudflare] [172.66.154.95] [cloudflare] [197.306389ms] [Cloudflare]
+
+## 503
+https://test.app.icpswap.com [503] [] [40962] [Canister Temporarily Unavailable - 503 | Internet Computer] [] [23.142.184.129] [468.535871ms] [HSTS]
+

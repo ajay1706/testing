@@ -1,0 +1,5 @@
+https://icpswap.com [301] [https://www.icpswap.com] [0] [] [54.215.31.113] [256.701364ms] [HSTS]
+https://info.icpswap.com [301] [https://app.icpswap.com/info-swap/] [0] [] [54.215.31.113] [347.017948ms] [HSTS]
+https://repository-verify.hashscan.io [301] [https://verify.sourcify.dev/] [167] [301 Moved Permanently] [cloudflare] [104.18.0.100] [cloudflare] [163.959326ms] [Cloudflare]
+https://verify.hashscan.io [301] [https://verify.sourcify.dev/] [167] [301 Moved Permanently] [cloudflare] [104.18.1.100] [cloudflare] [134.717699ms] [Cloudflare]
+http://futurenet.lobstr.co [301] [https://futurenet.lobstr.co/] [167] [301 Moved Permanently] [cloudflare] [104.20.40.233] [cloudflare] [56.716096ms] [Cloudflare]
