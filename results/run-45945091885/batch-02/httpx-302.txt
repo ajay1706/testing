@@ -1,0 +1,3 @@
+https://grafana-fuel-prod-testnet-hybrid.fuel.network [302] [https://grafana-fuel-prod-testnet-hybrid.fuel.network/oauth2/start?rd=grafana-fuel-prod-testnet-hybrid.fuel.network/] [138] [302 Found] [cloudflare] [172.66.165.192] [cloudflare] [154.71748ms] [Cloudflare,HTTP/3]
+https://grafana-fuel-prod-mainnet-tokyo.fuel.network [302] [https://grafana-fuel-prod-mainnet-tokyo.fuel.network/oauth2/start?rd=grafana-fuel-prod-mainnet-tokyo.fuel.network/] [138] [302 Found] [cloudflare] [172.66.165.192] [cloudflare] [826.592562ms] [Cloudflare,HTTP/3]
+https://specs.fuel.network [302] [https://docs.fuel.network/docs/specs/] [143] [302 Found] [cloudflare] [172.66.165.192] [cloudflare] [3.082414304s] [Cloudflare,HTTP/3]
