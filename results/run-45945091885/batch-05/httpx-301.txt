@@ -1,0 +1,8 @@
+https://docs.oasis.net [301] [https://docs.oasis.io/] [167] [301 Moved Permanently] [cloudflare] [104.21.20.145] [cloudflare] [3.121279699s] [Cloudflare]
+http://es-peaq.peaq.xyz [301] [https://es-peaq.peaq.xyz/] [528] [301 Moved Permanently] [cloudflare] [172.67.73.14] [cloudflare] [40.575302ms] [Cloudflare,Cloudflare Browser Insights]
+https://get-real.peaq.xyz [301] [https://x.com/peaq/status/2001351560656203932] [528] [301 Moved Permanently] [cloudflare] [172.67.73.14] [cloudflare] [183.703872ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://portal.peaq.xyz [301] [https://app.peaq.xyz/] [528] [301 Moved Permanently] [cloudflare] [172.67.73.14] [cloudflare] [1.061331292s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+http://safe.peaq.xyz [301] [https://safe.peaq.xyz/] [528] [301 Moved Permanently] [cloudflare] [104.26.15.21] [cloudflare] [29.059795ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://scout.peaq.xyz [301] [https://scout.peaq.xyz/] [528] [301 Moved Permanently] [cloudflare] [104.26.15.21] [cloudflare] [35.859489ms] [Cloudflare,Cloudflare Browser Insights]
+http://www.get-real.peaq.xyz [301] [https://x.com/peaq/status/2001351560656203932] [528] [301 Moved Permanently] [cloudflare] [104.26.15.21] [cloudflare] [38.424139ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+https://www.oasis.net [301] [https://oasis.net/] [533] [301 Moved Permanently] [cloudflare] [104.21.20.145] [cloudflare] [220.125138ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
