@@ -1,0 +1,4 @@
+https://blog.fluid.io [302] [/login] [92] [Vercel] [66.33.60.129] [247.965742ms] [HSTS,Vercel]
+https://help.exactly.app [302] [https://help.exactly.app/en/] [0] [cloudflare] [104.18.37.238] [cloudflare] [404.680859ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://monitoring.folks.finance [302] [/login] [29] [] [63.182.210.105] [509.497439ms]
+https://staging.blog.fluid.io [302] [/blog/] [16] [Vercel] [66.33.60.67] [2.564642232s] [HSTS,Vercel]
