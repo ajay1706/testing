@@ -1,0 +1,12 @@
+[+] Batch started: Fri Nov 27 05:41:18 UTC 2026
+[+] Run ID: 45945222944
+[+] Batch name: batch-11
+[+] Batch targets:
+zerion.io
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 05:41:49 UTC 2026
+[+] HTTPX input count: 170
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 05:41:55 UTC 2026
+[+] httpx line count: 52
+[+] Batch completed: Fri Nov 27 05:41:55 UTC 2026
