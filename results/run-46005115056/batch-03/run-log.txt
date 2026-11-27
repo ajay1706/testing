@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 27 13:17:36 UTC 2026
+[+] Run ID: 46005115056
+[+] Batch name: batch-03
+[+] Batch targets:
+diadata.org
+hyperlane.xyz
+jumper.exchange
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 13:18:40 UTC 2026
+[+] HTTPX input count: 318
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 13:19:21 UTC 2026
+[+] httpx line count: 75
+[+] Batch completed: Fri Nov 27 13:19:21 UTC 2026

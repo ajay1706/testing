@@ -1,0 +1,5 @@
+https://beta-testing.jumper.exchange [403] [] [17] [cloudflare] [104.21.84.139] [cloudflare] [177.945123ms] [Cloudflare,HTTP/3]
+https://daily.jumper.exchange [403] [] [17] [cloudflare] [104.21.84.139] [cloudflare] [180.948027ms] [Cloudflare,HTTP/3]
+https://feedback.jumper.exchange [403] [] [17] [cloudflare] [172.67.193.204] [cloudflare] [88.077813ms] [Cloudflare,HTTP/3]
+https://testnet.jumper.exchange [403] [] [17] [cloudflare] [172.67.193.204] [cloudflare] [72.993305ms] [Cloudflare,HTTP/3]
+https://washtrade.jumper.exchange [403] [] [17] [cloudflare] [172.67.193.204] [cloudflare] [109.649108ms] [Cloudflare,HTTP/3]
