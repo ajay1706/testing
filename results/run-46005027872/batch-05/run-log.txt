@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 27 13:17:29 UTC 2026
+[+] Run ID: 46005027872
+[+] Batch name: batch-05
+[+] Batch targets:
+kamino.finance
+liquity.org
+maple.finance
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 13:19:02 UTC 2026
+[+] HTTPX input count: 279
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 13:19:22 UTC 2026
+[+] httpx line count: 75
+[+] Batch completed: Fri Nov 27 13:19:22 UTC 2026
