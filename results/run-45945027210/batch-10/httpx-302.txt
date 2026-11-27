@@ -1,0 +1,2 @@
+https://help.variational.io [302] [https://help.variational.io/en/] [0] [cloudflare] [172.64.150.18] [cloudflare] [94.881245ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://help.ulys.ai [302] [https://help.ulys.ai/hc] [0] [cloudflare] [216.198.54.6] [148.848446ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]

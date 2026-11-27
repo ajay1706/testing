@@ -1,0 +1,5 @@
+https://api.omni.testnet.variational.io [404] [] [62] [cloudflare] [104.18.30.188] [cloudflare] [40.659909ms] [Cloudflare]
+https://assets.variational.io [404] [] [0] [cloudflare] [104.18.22.115] [cloudflare] [77.348438ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://assets.testnet.variational.io [404] [] [0] [cloudflare] [104.18.22.115] [cloudflare] [134.698487ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://omni-client-api.testnet.ap-northeast-1.variational.io [404] [] [0] [cloudflare] [104.18.23.115] [cloudflare] [213.944592ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://omni-client-api.prod.ap-northeast-1.variational.io [404] [] [0] [cloudflare] [104.18.22.115] [cloudflare] [569.838973ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
