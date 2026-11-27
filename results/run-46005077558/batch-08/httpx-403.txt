@@ -1,0 +1,4 @@
+https://www.wisdomtreeprime.com [403] [] [5637] [Just a moment...] [cloudflare] [172.66.40.114] [cloudflare] [106.225359ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://wisdomtreeprime.com [403] [] [5633] [Just a moment...] [cloudflare] [172.66.40.114] [cloudflare] [128.932352ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://click.mail.wisdomtreeprime.com [403] [] [1233] [403 - Forbidden: Access is denied.] [] [128.245.148.23] [224.163736ms] [HSTS]
+https://image.mail.wisdomtreeprime.com [403] [] [388] [Access Denied] [AkamaiGHost] [3.166.118.27] [cloudfront] [456.629727ms] [Amazon CloudFront,Amazon Web Services,HSTS]
