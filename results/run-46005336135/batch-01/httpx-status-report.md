@@ -1,0 +1,127 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:30:50 UTC 2026
+
+HTTPX lines: 101
+Live URLs: 101
+
+## 200
+https://api.auth.bryn.civic.com [200] [] [2] [cloudflare] [172.64.152.23] [cloudflare] [277.018131ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://api.auth.bryn-preprod.civic.com [200] [] [2] [cloudflare] [104.18.35.233] [cloudflare] [286.439315ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://api.collab.land [200] [] [1543] [CollabLand API Server] [cloudflare] [104.26.2.181] [cloudflare] [329.153475ms] [Cloudflare,HSTS]
+https://api-qa.collab.land [200] [] [1543] [CollabLand API Server] [cloudflare] [172.67.75.109] [cloudflare] [349.724983ms] [Cloudflare,HSTS]
+https://api-test.collab.land [200] [] [1543] [CollabLand API Server] [cloudflare] [104.26.3.181] [cloudflare] [370.330808ms] [Cloudflare,HSTS]
+https://auth.collab.land [200] [] [0] [cloudflare] [172.67.75.109] [cloudflare] [151.937598ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+https://ceremony.clr.fund [200] [] [4249] [Trusted Setup] [cloudflare] [104.21.23.89] [cloudflare] [94.864263ms] [Cloudflare,Cloudflare Browser Insights,Firebase,HSTS,HTTP/3]
+https://cc-qa.collab.land [200] [] [1162] [Collab.Land] [cloudflare] [104.26.3.181] [cloudflare] [135.442039ms] [Cloudflare]
+https://cc.collab.land [200] [] [1162] [Collab.Land] [cloudflare] [172.67.75.109] [cloudflare] [143.591462ms] [Cloudflare]
+https://cc-preview.collab.land [200] [] [1162] [Collab.Land] [cloudflare] [172.67.75.109] [cloudflare] [222.855312ms] [Cloudflare]
+https://blog.collab.land [200] [] [46325] [Collab.Land] [cloudflare] [104.26.2.181] [cloudflare] [91.828109ms] [Cloudflare,Ghost:6.80,Node.js,Varnish,jsDelivr]
+https://connect.collab.land [200] [] [1194] [Collab.Land Connect] [cloudflare] [172.67.75.109] [cloudflare] [133.178286ms] [Cloudflare]
+https://contribute-qa.collab.land [200] [] [2164] [Collab.Land | Contribute] [cloudflare] [104.26.2.181] [cloudflare] [129.527788ms] [Cloudflare,Google Tag Manager]
+https://contribute.collab.land [200] [] [2160] [Collab.Land | Donate] [cloudflare] [172.67.75.109] [cloudflare] [135.839781ms] [Cloudflare,Google Tag Manager]
+https://dev-portal-preview.collab.land [200] [] [1418] [Collab.Land | Dev Portal] [cloudflare] [104.26.2.181] [cloudflare] [117.703734ms] [Cloudflare,Google Analytics]
+https://dev-portal.collab.land [200] [] [1418] [Collab.Land | Dev Portal] [cloudflare] [104.26.2.181] [cloudflare] [127.563613ms] [Cloudflare,Google Analytics]
+https://dev-portal-qa.collab.land [200] [] [1418] [Collab.Land | Dev Portal] [cloudflare] [104.26.2.181] [cloudflare] [136.400881ms] [Cloudflare,Google Analytics]
+https://clr.fund [200] [] [866] [Clr.fund] [Netlify] [18.208.88.157] [343.77546ms] [C3.js,HSTS,Netlify]
+https://developer.collab.land [200] [] [7697] [Collab.Land Documentation | Collab.Land Documentation] [cloudflare] [104.26.2.181] [cloudflare] [125.567137ms] [Cloudflare,Docusaurus:2.4.0,Google Analytics,Kapa.ai,React,Webpack]
+https://developers.collab.land [200] [] [7697] [Collab.Land Documentation | Collab.Land Documentation] [cloudflare] [172.67.75.109] [cloudflare] [156.302483ms] [Cloudflare,Docusaurus:2.4.0,Google Analytics,Kapa.ai,React,Webpack]
+https://dev.collab.land [200] [] [7697] [Collab.Land Documentation | Collab.Land Documentation] [cloudflare] [104.26.3.181] [cloudflare] [181.517292ms] [Cloudflare,Docusaurus:2.4.0,Google Analytics,Kapa.ai,React,Webpack]
+https://doc.collab.land [200] [] [7697] [Collab.Land Documentation | Collab.Land Documentation] [cloudflare] [104.26.3.181] [cloudflare] [136.432947ms] [Cloudflare,Docusaurus:2.4.0,Google Analytics,Kapa.ai,React,Webpack]
+https://connect-preview.collab.land [200] [] [1194] [Collab.Land Connect] [cloudflare] [104.26.2.181] [cloudflare] [595.187975ms] [Cloudflare]
+https://docs.civic.com [200] [] [4193] [Civic Docs] [GitHub.com] [185.199.109.153] [96.676072ms] [Docusaurus:3.10.0,Fastly,GitHub Pages,React,Varnish,Webpack]
+https://donate.collab.land [200] [] [2160] [Collab.Land | Donate] [cloudflare] [104.26.2.181] [cloudflare] [149.198779ms] [Cloudflare,Google Tag Manager]
+https://docs.collab.land [200] [] [7697] [Collab.Land Documentation | Collab.Land Documentation] [cloudflare] [172.67.75.109] [cloudflare] [109.135932ms] [Cloudflare,Docusaurus:2.4.0,Google Analytics,Kapa.ai,React,Webpack]
+https://docs-preview.collab.land [200] [] [7697] [Collab.Land Documentation | Collab.Land Documentation] [cloudflare] [172.67.75.109] [cloudflare] [151.338095ms] [Cloudflare,Docusaurus:2.4.0,Google Analytics,Kapa.ai,React,Webpack]
+https://devconsea.clr.fund [200] [] [866] [Clr.fund] [Netlify] [18.208.88.157] [653.94338ms] [C3.js,HSTS,Netlify]
+https://ethcolombia.clr.fund [200] [] [866] [Clr.fund] [Netlify] [98.84.224.111] [367.521616ms] [HSTS,Netlify]
+https://gun.clr.fund [200] [] [844] [FimDreams] [cloudflare] [172.67.209.223] [cloudflare] [299.447594ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://login-qa.collab.land [200] [] [568] [Collab Land] [cloudflare] [104.26.2.181] [cloudflare] [166.960768ms] [Cloudflare]
+https://login-old.collab.land [200] [] [2211] [Collab.Land Login] [cloudflare] [104.26.2.181] [cloudflare] [205.627512ms] [Cloudflare]
+https://login.collab.land [200] [] [568] [Collab Land] [cloudflare] [104.26.3.181] [cloudflare] [164.12356ms] [Cloudflare]
+https://member-qa-cfp.collab.land [200] [] [7063] [Create Next App] [cloudflare] [172.67.75.109] [cloudflare] [172.624984ms] [Cloudflare]
+https://ethdenver.clr.fund [200] [] [1324] [ETHDenver] [cloudflare] [104.21.23.89] [cloudflare] [595.716028ms] [C3.js,Cloudflare,HTTP/3,IPFS]
+https://member-cfp.collab.land [200] [] [7710] [Create Next App] [cloudflare] [172.67.75.109] [cloudflare] [218.202735ms] [Cloudflare]
+https://qaroll.collab.land [200] [] [5400] [Welcome to Collab.Land] [cloudflare] [104.26.2.181] [cloudflare] [149.231849ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Tilda]
+https://staging-connect.collab.land [200] [] [1194] [Collab.Land Connect] [cloudflare] [104.26.2.181] [cloudflare] [170.219632ms] [Cloudflare]
+https://roll.collab.land [200] [] [5400] [Welcome to Collab.Land] [cloudflare] [172.67.75.109] [cloudflare] [183.803819ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Tilda]
+https://vip-qa.collab.land [200] [] [2157] [Collab.Land | VIP] [cloudflare] [104.26.3.181] [cloudflare] [126.97672ms] [Cloudflare,Google Tag Manager]
+https://wagmi-qa.collab.land [200] [] [2159] [Collab.Land | WAGMI] [cloudflare] [104.26.2.181] [cloudflare] [153.813939ms] [Cloudflare,Google Tag Manager]
+https://wagmi-preview.collab.land [200] [] [2159] [Collab.Land | WAGMI] [cloudflare] [104.26.2.181] [cloudflare] [177.986279ms] [Cloudflare,Google Tag Manager]
+https://survey.collab.land [200] [] [2160] [Collab.Land | Survey] [cloudflare] [172.67.75.109] [cloudflare] [261.06025ms] [Cloudflare,Google Tag Manager]
+https://vip.collab.land [200] [] [2157] [Collab.Land | VIP] [cloudflare] [104.26.2.181] [cloudflare] [225.574984ms] [Cloudflare,Google Tag Manager]
+https://pricing-qa.collab.land [200] [] [2161] [Collab.Land | Pricing] [cloudflare] [104.26.2.181] [cloudflare] [508.69489ms] [Cloudflare,Google Tag Manager]
+https://member.collab.land [200] [] [42189] [Collab.Land Member Portal] [Vercel] [66.33.60.67] [394.219445ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://testnet.clr.fund [200] [] [928] [clr.fund] [cloudflare] [172.67.209.223] [cloudflare] [1.004731189s] [Cloudflare,HTTP/3,IPFS]
+https://www.collab.land [200] [] [33485] [Collab.Land] [Vercel] [66.33.60.34] [108.355573ms] [C3.js,HSTS,Vercel]
+https://gov.collab.land [200] [] [269645] [Collab.Land] [nginx] [216.66.8.43] [358.953455ms] [Discourse:2026.12.0,HSTS,Nginx,Ruby on Rails]
+https://www.civic.com [200] [] [149709] [See who's on your site. Act while they're still looking. | Bryn, by Civic] [Vercel] [216.150.16.129] [91.755015ms] [Google Tag Manager,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://status.collab.land [200] [] [166628] [Collab.Land Status] [Vercel] [66.33.60.66] [273.662899ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://status.civic.com [200] [] [273160] [Bryn status] [] [167.235.220.62] [622.423191ms] [Google Analytics,HSTS,Stimulus]
+
+## 301
+https://api.civic.com [301] [https://www.civic.com] [0] [] [13.35.78.88] [cloudfront] [194.341734ms] [Amazon CloudFront,Amazon Web Services]
+http://auth.ceremony.clr.fund [301] [https://auth.ceremony.clr.fund/] [0] [cloudflare] [172.67.209.223] [cloudflare] [42.904879ms] [Cloudflare,HTTP/3]
+https://dev.api.civic.com [301] [https://www.civic.com] [0] [] [3.170.42.121] [cloudfront] [90.827384ms] [Amazon CloudFront,Amazon Web Services]
+https://help.collab.land [301] [https://docs.collab.land/] [167] [301 Moved Permanently] [cloudflare] [172.67.75.109] [cloudflare] [83.077097ms] [Cloudflare]
+https://invite.collab.land [301] [https://collab.land/invite] [167] [301 Moved Permanently] [cloudflare] [104.26.2.181] [cloudflare] [72.077606ms] [Cloudflare]
+https://pricing.collab.land [301] [https://collab.land/pricing] [167] [301 Moved Permanently] [cloudflare] [104.26.3.181] [cloudflare] [66.158279ms] [Cloudflare]
+https://wagmi.collab.land [301] [https://collab.land/] [167] [301 Moved Permanently] [cloudflare] [172.67.75.109] [cloudflare] [72.112872ms] [Cloudflare]
+https://www.clr.fund [301] [https://clr.fund/] [534] [301 Moved Permanently] [cloudflare] [104.21.23.89] [cloudflare] [228.163929ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://cdp.civic.com [301] [https://www.civic.com] [56] [namecheap-nginx] [192.64.119.246] [132.1371ms] [Nginx]
+
+## 302
+https://atlas.civic.com [302] [/api/auth/login?next=%2F] [15] [Vercel] [66.33.60.129] [216.585951ms] [HSTS,Vercel]
+https://admin-qa.collab.land [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fadmin-qa.collab.land%2F&nonce=6a0d6d48aa67631ea3acc8a4d9b5d1eadd52d0568a9c6abfec1734d8090b9b90] [263] [Vercel] [216.150.16.129] [434.53839ms] [HSTS,Vercel]
+https://bryn-dev.civic.com [302] [/web] [0] [CloudFront] [3.170.19.128] [cloudfront] [66.253362ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://bryn.civic.com [302] [/web] [0] [CloudFront] [3.171.85.23] [cloudfront] [65.621308ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://bryn-preprod.civic.com [302] [/web] [0] [CloudFront] [3.167.88.3] [cloudfront] [167.289385ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://grafana.dev.collab.land [302] [/login] [29] [] [23.106.58.168] [283.592219ms] [HSTS]
+https://grafana.prod.collab.land [302] [/login] [29] [] [23.106.239.24] [283.487694ms] [HSTS]
+https://grafana.staging.collab.land [302] [/login] [29] [] [95.168.180.19] [277.535481ms] [HSTS]
+https://member-qa.collab.land [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fmember-qa.collab.land%2F&nonce=b7f0700c0a8e90877b393c764e0128b487cb3bbf33231cc50c2a9ec2b3733245] [263] [Vercel] [66.33.60.193] [226.427846ms] [HSTS,Vercel]
+
+## 307
+https://admin.collab.land [307] [/login] [15] [Vercel] [216.150.16.193] [503.883224ms] [HSTS,Vercel]
+https://civic.com [307] [https://www.civic.com/] [15] [Vercel] [216.150.1.1] [104.263765ms] [HSTS,Vercel]
+https://auth.bryn-preprod.civic.com [307] [https://api.auth.bryn-preprod.civic.com/user_management/initiate_login?context=&client_id=client_01M6H3TX4XKZQXZRS4S553Z3JG] [62797] [Sign in] [cloudflare] [172.64.152.23] [cloudflare] [567.781363ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://auth.bryn.civic.com [307] [https://api.auth.bryn.civic.com/user_management/initiate_login?context=&client_id=client_01M69424J6KVKJ2CFQN3HYPAHV] [64111] [Sign in] [cloudflare] [172.64.152.23] [cloudflare] [542.937322ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+
+## 308
+https://collab.land [308] [https://www.collab.land/] [15] [Vercel] [76.76.21.21] [61.998295ms] [HSTS,Vercel]
+
+## 401
+https://claim-qa.collab.land [401] [] [0] [cloudflare] [172.67.75.109] [cloudflare] [171.392622ms] [Amazon CloudFront,Amazon Web Services,Basic,Cloudflare]
+https://guest-pass-qa.collab.land [401] [] [0] [cloudflare] [104.26.2.181] [cloudflare] [137.955716ms] [Amazon CloudFront,Amazon Web Services,Basic,Cloudflare]
+https://guest-pass.collab.land [401] [] [0] [cloudflare] [104.26.2.181] [cloudflare] [169.867193ms] [Amazon CloudFront,Amazon Web Services,Basic,Cloudflare]
+https://me-qa.collab.land [401] [] [0] [cloudflare] [172.67.75.109] [cloudflare] [135.289279ms] [Amazon CloudFront,Amazon Web Services,Basic,Cloudflare]
+https://roles-qa.collab.land [401] [] [0] [cloudflare] [104.26.3.181] [cloudflare] [149.064464ms] [Amazon CloudFront,Amazon Web Services,Basic,Cloudflare]
+https://roles.collab.land [401] [] [0] [cloudflare] [104.26.3.181] [cloudflare] [134.536995ms] [Amazon CloudFront,Amazon Web Services,Basic,Cloudflare]
+https://vc.collab.land [401] [] [0] [cloudflare] [104.26.2.181] [cloudflare] [128.021995ms] [Amazon CloudFront,Amazon Web Services,Basic,Cloudflare]
+
+## 403
+http://ai.civic.com [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.67.65.83] [cloudfront] [11.669193ms] [Amazon CloudFront,Amazon Web Services]
+
+## 404
+https://accountkit-docs-qa.collab.land [404] [] [107] [Vercel] [76.76.21.142] [211.186977ms] [HSTS,Vercel]
+https://cc-staging.collab.land [404] [] [16144] [Deployment Not Found] [cloudflare] [104.26.3.181] [cloudflare] [175.506039ms] [Cloudflare]
+https://chibi.collab.land [404] [] [107] [Vercel] [66.33.60.194] [398.41442ms] [HSTS,Vercel]
+https://docs-next.civic.com [404] [] [9115] [Site not found · GitHub Pages] [GitHub.com] [185.199.109.153] [82.867909ms] [Fastly,GitHub Pages,Varnish]
+https://gateway.collab.land [404] [] [23] [cloudflare] [172.67.75.109] [cloudflare] [318.122404ms] [Cloudflare]
+https://brightid.clr.fund [404] [] [67] [cloudflare] [104.21.23.89] [cloudflare] [1.012958879s] [Cloudflare,HTTP/3]
+https://portal-qa.collab.land [404] [] [107] [Vercel] [216.150.16.129] [133.976606ms] [HSTS,Vercel]
+https://qa.collab.land [404] [] [107] [Vercel] [216.150.16.129] [158.593511ms] [HSTS,Vercel]
+https://wallet-demo.civic.com [404] [] [107] [Vercel] [76.76.21.241] [73.27098ms] [HSTS,Vercel]
+https://verify.collab.land [404] [] [2196] [404: This page could not be found] [cloudflare] [172.67.75.109] [cloudflare] [625.656806ms] [Amazon CloudFront,Amazon Web Services,Cloudflare]
+
+## 500
+
+## 502
+
+## 503
+https://app.civic.com [503] [] [3816] [Civic is down for maintenance] [CloudFront] [3.167.37.58] [cloudfront] [72.44517ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://auth.civic.com [503] [] [3816] [Civic is down for maintenance] [CloudFront] [108.138.64.48] [cloudfront] [120.923579ms] [Amazon CloudFront,Amazon Web Services]
+https://bryn-poc.civic.com [503] [] [3816] [Civic is down for maintenance] [CloudFront] [108.138.64.51] [cloudfront] [76.168519ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://did.civic.com [503] [] [3816] [Civic is down for maintenance] [CloudFront] [18.165.98.92] [cloudfront] [246.989623ms] [Amazon CloudFront,Amazon Web Services]
+https://nexus.civic.com [503] [] [3816] [Civic is down for maintenance] [CloudFront] [3.167.37.63] [cloudfront] [157.44459ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+
