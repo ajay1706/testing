@@ -1,0 +1,5 @@
+https://admin.gobob.xyz [302] [/auth/google/callback?returnTo=%2F] [0] [Vercel] [216.150.1.129] [317.717317ms] [HSTS,Vercel]
+https://account.foundation.xyz [302] [https://account.foundation.xyz/authentication/oauth/authorize?client_id=215f891f-f905-413f-91d8-335c9065d338&locale=en-US&nonce=b449640a-6b05-4876-bf68-861c8b82faa8&redirect_uri=https%3A%2F%2Faccount.foundation.xyz%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNJcV3fks81ZT7PC4jAFVKc] [0] [cloudflare] [23.227.38.74] [333.437579ms] [Cloudflare,HSTS,HTTP/3]
+https://gateway.safe.gobob.xyz [302] [/api] [26] [] [95.217.168.179] [555.803211ms] [Express,HSTS,Node.js]
+https://gateway.staging.safe.gobob.xyz [302] [/api] [26] [] [65.109.43.106] [566.779528ms] [Express,HSTS,Node.js]
+https://stats.gobob.xyz [302] [/auth/google/callback?returnTo=%2F] [0] [Vercel] [216.150.1.193] [369.006536ms] [HSTS,Vercel]

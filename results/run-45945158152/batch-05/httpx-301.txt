@@ -1,0 +1,8 @@
+https://bridge.gobob.xyz [301] [https://app.gobob.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.7.58] [cloudflare] [96.25773ms] [Cloudflare,HSTS,HTTP/3]
+https://app.leather.io [301] [https://leather.io/] [0] [cloudflare] [104.26.6.46] [cloudflare] [266.487363ms] [Cloudflare,HSTS]
+https://fusion.gobob.xyz [301] [https://app.gobob.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.6.58] [cloudflare] [123.578019ms] [Cloudflare,HSTS,HTTP/3]
+https://integration.gobob.xyz [301] [https://app.gobob.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.91] [cloudflare] [59.524547ms] [Cloudflare,HSTS,HTTP/3]
+https://link.gobob.xyz [301] [http://gobob.xyz] [50] [nginx/1.31.9] [3.211.184.98] [159.671503ms] [Express,Nginx:1.31.9,Node.js]
+https://pay.gobob.xyz [301] [https://app.gobob.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.6.58] [cloudflare] [69.868894ms] [Cloudflare,HSTS,HTTP/3]
+https://www.foundation.xyz [301] [https://foundation.xyz/] [0] [cloudflare] [23.227.38.74] [3.224904777s] [Cloudflare,HSTS,HTTP/3,Shopify]
+http://www.leather.io [301] [https://www.leather.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.6.46] [cloudflare] [88.874245ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
