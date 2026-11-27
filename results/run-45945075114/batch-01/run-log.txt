@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 27 05:20:42 UTC 2026
+[+] Run ID: 45945075114
+[+] Batch name: batch-01
+[+] Batch targets:
+bitcoin.org
+bitcoincash.org
+bnbchain.org
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 05:22:13 UTC 2026
+[+] HTTPX input count: 388
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 05:22:35 UTC 2026
+[+] httpx line count: 130
+[+] Batch completed: Fri Nov 27 05:22:35 UTC 2026

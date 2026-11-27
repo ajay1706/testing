@@ -1,0 +1,2 @@
+https://greenfield.bnbchain.org [307] [/en/] [4] [nginx] [3.171.85.97] [cloudfront] [530.611969ms] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx]
+https://www.bnbchain.org [307] [/en] [3] [nginx] [3.162.125.74] [cloudfront] [529.75638ms] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx]

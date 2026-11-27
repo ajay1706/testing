@@ -1,0 +1,6 @@
+https://bitcoin.org [302] [https://bitcoin.org/en/] [505] [302 Found] [cloudflare] [172.67.189.49] [cloudflare] [94.379995ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://btcfi.bnbchain.org [302] [https://bnbchain.org:443/] [110] [302 Found] [nginx] [13.226.209.39] [cloudfront] [643.950275ms] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx]
+https://jobs.bnbchain.org [302] [https://jobs.bnbchain.org/companies] [138] [302 Found] [nginx] [18.213.60.21] [42.330493ms] [HSTS,Nginx]
+https://opbnb-mainnet-bridge.bnbchain.org [302] [https://opbnb-bridge.bnbchain.org] [138] [302 Found] [] [43.206.34.217] [608.950066ms] [HSTS]
+https://opbnb-status.bnbchain.org [302] [https://www.statuspage.io] [0] [AtlassianEdge] [104.192.142.21] [105.35641ms] [Atlassian Statuspage,Fastly,HSTS]
+https://opbnb.bnbchain.org [302] [https://opbnb.bnbchain.org/en] [138] [302 Found] [nginx] [3.170.42.22] [cloudfront] [630.551064ms] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx]
