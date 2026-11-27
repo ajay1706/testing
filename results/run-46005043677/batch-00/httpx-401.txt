@@ -1,0 +1,4 @@
+https://cronos.beefy.com [401] [] [40] [cloudflare] [172.67.156.177] [cloudflare] [579.348925ms] [Cloudflare,HTTP/3]
+https://eth.beefy.com [401] [] [40] [cloudflare] [104.21.8.17] [cloudflare] [530.60349ms] [Cloudflare,HTTP/3]
+https://optimism.irpc.beefy.com [401] [] [70] [] [64.130.58.178] [70.364887ms]
+https://rpc.beefy.com [401] [] [261] [cloudflare] [104.21.8.17] [cloudflare] [773.130573ms] [Cloudflare,HTTP/3]
