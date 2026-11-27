@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 27 05:38:30 UTC 2026
+[+] Run ID: 45945244564
+[+] Batch name: batch-06
+[+] Batch targets:
+minswap.org
+openocean.finance
+orca.so
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 05:40:02 UTC 2026
+[+] HTTPX input count: 441
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 05:40:56 UTC 2026
+[+] httpx line count: 112
+[+] Batch completed: Fri Nov 27 05:40:56 UTC 2026
