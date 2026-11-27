@@ -1,0 +1,2 @@
+https://go.wax.io [302] [https://go.wax.io/?rb.routing.mode=proxy&rb.routing.signature=132677] [0] [] [52.72.49.79] [188.448273ms] [HSTS]
+https://london-vpn.wax.io [302] [https://london-vpn.wax.io/login] [268] [Redirecting...] [] [18.168.251.144] [378.516692ms] [HSTS]
