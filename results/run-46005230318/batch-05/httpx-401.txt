@@ -1,0 +1,2 @@
+https://collectors-dev.pudgypenguins.com [401] [] [15561] [Protected Page] [Vercel] [66.33.60.193] [348.02098ms] [HSTS,Vercel]
+https://huddle-dev.pudgypenguins.com [401] [] [16757] [Password Protected] [cloudflare] [172.66.164.106] [cloudflare] [225.76042ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
