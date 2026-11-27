@@ -1,0 +1,2 @@
+https://l1rpc.katla.taiko.xyz [401] [] [120] [] [34.96.109.211] [google] [154.234903ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://l1ws.katla.taiko.xyz [401] [] [120] [] [34.96.109.211] [google] [171.663859ms] [Google Cloud,Google Cloud CDN,HTTP/3]
