@@ -1,0 +1,4 @@
+https://cedefi-api.cedefi.manta.network [502] [] [122] [502 Bad Gateway] [awselb/2.0] [34.226.45.57] [183.399559ms] [Amazon ELB,Amazon Web Services]
+https://rpc.verse-replica.oasys.games [502] [] [556] [502 Bad Gateway] [openresty] [136.64.130.111] [google] [319.664585ms] [Nginx,OpenResty]
+https://token-info.manta.network [502] [] [524] [502 Bad Gateway] [awselb/2.0] [52.22.213.205] [1.062580061s] [Amazon ELB,Amazon Web Services]
+https://ws.verse-replica.oasys.games [502] [] [154] [502 Bad Gateway] [openresty] [136.64.130.111] [google] [1.230092703s] [Nginx,OpenResty]
