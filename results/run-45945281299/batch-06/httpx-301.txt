@@ -1,0 +1,4 @@
+https://discord.qfex.com [301] [https://discord.gg/BRN9ezbj2h] [167] [301 Moved Permanently] [cloudflare] [172.67.184.110] [cloudflare] [53.757573ms] [Cloudflare,HTTP/3]
+https://blog.qfex.com [301] [https://research.qfex.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.184.110] [cloudflare] [67.816482ms] [Cloudflare,HTTP/3]
+https://qfex.com [301] [https://www.qfex.com/] [167] [301 Moved Permanently] [cloudflare] [104.21.19.11] [cloudflare] [77.229944ms] [Cloudflare,HTTP/3]
+https://voyager.prod.paradex.trade [301] [https://app.paradex.trade:443/explorer/] [134] [301 Moved Permanently] [awselb/2.0] [13.197.7.63] [816.724402ms] [Amazon ELB,Amazon Web Services]
