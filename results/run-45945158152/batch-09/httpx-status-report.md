@@ -1,0 +1,105 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 05:37:05 UTC 2026
+
+HTTPX lines: 77
+Live URLs: 77
+
+## 200
+https://docs.strike.me [200] [] [16799] [Introduction | Strike API Documentation] [Netlify] [98.84.224.111] [49.755279ms] [BugSnag,Docusaurus:3.10.2,Google Analytics,HSTS,Netlify,React,Webpack]
+https://firebase.strike.me [200] [] [39669] [] [151.101.65.195] [fastly] [114.135951ms] [Firebase,HTTP/3]
+https://app-stg.stacks.co [200] [] [19163] [sBTC Dual Stacking – Earn Bitcoin on Bitcoin | Powered by Stacks] [Vercel] [216.150.16.193] [149.091718ms] [HSTS,Vercel]
+https://delegate.stacks.co [200] [] [76035] [Bitcoin Staking · Invite links] [] [3.21.81.151] [100.2525ms] [Next.js,Node.js,React,Webpack]
+https://get.strike.me [200] [] [1913] [Strike] [cloudflare] [162.159.140.159] [cloudflare] [175.52979ms] [Cloudflare,HSTS,HTTP/3]
+https://app.stacks.co [200] [] [19163] [sBTC Dual Stacking – Earn Bitcoin on Bitcoin | Powered by Stacks] [Vercel] [216.150.16.193] [319.289174ms] [HSTS,Vercel]
+https://onboarding-docs.stacks.co [200] [] [4509] [Bitcoin Staking onboarding docs] [Vercel] [66.33.60.66] [103.450343ms] [HSTS,Vercel]
+https://old.sbtc.stacks.co [200] [] [13806] [sBTC Bridge] [] [54.216.14.167] [369.33684ms] [Amazon ALB,Amazon Web Services,Next.js,Node.js,React,Webpack]
+https://staking.stacks.co [200] [] [95856] [Bonds] [] [18.154.227.34] [cloudfront] [119.581551ms] [Amazon CloudFront,Amazon Web Services,Next.js,Node.js,React,Webpack]
+https://tbtc.network [200] [] [59624] [tBTC - The Bitcoin Standard] [cloudflare] [104.21.23.41] [cloudflare] [139.612563ms] [Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,jQuery:3.5.1]
+https://sbtc.stacks.co [200] [] [108199] [sBTC Bridge] [] [54.194.36.29] [583.916638ms] [Next.js,Node.js,React,Webpack]
+https://webinar.stacks.co [200] [] [48954] [Unlocking Institutional Bitcoin Yield | Stacks & Fireblocks] [Netlify] [18.208.88.157] [170.112676ms] [HSTS,Netlify,Storyblok]
+https://testnet.sbtc.stacks.co [200] [] [107655] [sBTC Bridge] [] [52.19.74.229] [407.442054ms] [Next.js,Node.js,React,Webpack]
+https://docs.stacks.co [200] [] [740387] [Introduction | Stacks Documentation] [cloudflare] [172.64.147.209] [cloudflare] [145.040242ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://status.strike.me [200] [] [496827] [Strike Status Page Status] [Vercel] [66.33.60.67] [1.096086615s] [HSTS,Vercel]
+https://newsletters.stacks.co [200] [] [780024] [Home | Unleashing Bitcoin] [cloudflare] [104.16.24.120] [cloudflare] [339.670783ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+
+## 301
+https://bitcoin.strike.me [301] [https://strike.me/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.210] [cloudflare] [35.789095ms] [Cloudflare,HSTS]
+https://beta.strike.me [301] [https://strike.me/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.210] [cloudflare] [36.085696ms] [Cloudflare,HSTS]
+https://account.strike.me [301] [https://strike.me/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.210] [cloudflare] [44.398924ms] [Cloudflare,HSTS]
+https://blog.stacks.co [301] [https://www.stacks.co/blog/] [167] [301 Moved Permanently] [cloudflare] [104.20.18.107] [cloudflare] [53.582714ms] [Cloudflare]
+https://dapp.tbtc.network [301] [https://app.threshold.network/] [167] [301 Moved Permanently] [cloudflare] [104.21.23.41] [cloudflare] [58.376728ms] [Cloudflare]
+https://china.stacks.co [301] [https://stacksasia.foundation/] [167] [301 Moved Permanently] [cloudflare] [104.20.18.107] [cloudflare] [63.681807ms] [Cloudflare]
+https://developer.strike.me [301] [https://strike.me/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.210] [cloudflare] [37.466589ms] [Cloudflare,HSTS]
+https://email.strike.me [301] [https://strike.me/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.210] [cloudflare] [29.132688ms] [Cloudflare,HSTS]
+https://events.stacks.co [301] [https://www.stacks.co/explore/events#add-event] [167] [301 Moved Permanently] [cloudflare] [172.66.154.212] [cloudflare] [42.902209ms] [Cloudflare]
+https://mena.stacks.co [301] [https://www.stacks.co/explore/ecosystem?category=All+Teams#community] [167] [301 Moved Permanently] [cloudflare] [172.66.154.212] [cloudflare] [37.627817ms] [Cloudflare]
+https://global.strike.me [301] [https://strike.me/] [167] [301 Moved Permanently] [cloudflare] [104.18.31.210] [cloudflare] [106.654123ms] [Cloudflare,HSTS]
+https://payday.strike.me [301] [https://strike.me/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.210] [cloudflare] [25.79226ms] [Cloudflare,HSTS]
+https://pakistan.stacks.co [301] [https://www.stacks.co/explore/ecosystem?category=All+Teams#community] [167] [301 Moved Permanently] [cloudflare] [172.66.154.212] [cloudflare] [38.569902ms] [Cloudflare]
+https://podcast.stacks.co [301] [https://www.youtube.com/@Stacks-btc] [167] [301 Moved Permanently] [cloudflare] [172.66.154.212] [cloudflare] [46.749142ms] [Cloudflare]
+https://n21.stacks.co [301] [https://www.stacks.co/build/fuel-your-project] [167] [301 Moved Permanently] [cloudflare] [172.66.154.212] [cloudflare] [72.130507ms] [Cloudflare]
+https://registrar.stacks.co [301] [https://docs.stacks.co/concepts/network-fundamentals/bitcoin-name-system] [167] [301 Moved Permanently] [cloudflare] [104.20.18.107] [cloudflare] [45.530164ms] [Cloudflare]
+https://registrar.testnet.stacks.co [301] [https://docs.stacks.co/concepts/network-fundamentals/bitcoin-name-system] [167] [301 Moved Permanently] [cloudflare] [172.66.154.212] [cloudflare] [49.567857ms] [Cloudflare]
+https://secureupload.strike.me [301] [/secure/home/] [162] [301 Moved Permanently] [nginx] [52.71.48.189] [32.770793ms] [HSTS,Nginx]
+https://shop.stacks.co [301] [https://www.stacks.co/shop] [167] [301 Moved Permanently] [cloudflare] [104.20.18.107] [cloudflare] [41.675198ms] [Cloudflare]
+https://stacks.co [301] [https://www.stacks.co/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [83.688274ms] [Cloudflare,HSTS,HTTP/3]
+https://testnet.stacks.co [301] [https://docs.stacks.co/network-fundamentals/mainnet-and-testnets] [167] [301 Moved Permanently] [cloudflare] [104.20.18.107] [cloudflare] [73.801908ms] [Cloudflare]
+https://tip.strike.me [301] [https://strike.me/] [167] [301 Moved Permanently] [cloudflare] [104.18.30.210] [cloudflare] [72.167225ms] [Cloudflare,HSTS]
+https://wallet.stacks.co [301] [https://www.stacks.co/explore/find-a-wallet] [167] [301 Moved Permanently] [cloudflare] [104.20.18.107] [cloudflare] [118.594646ms] [Cloudflare]
+https://www.tbtc.network [301] [https://tbtc.network/] [166] [301 Moved Permanently] [cloudflare] [104.21.23.41] [cloudflare] [3.177684652s] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://explorer.stacks.co [302] [https://explorer.hiro.so/] [143] [302 Found] [cloudflare] [172.66.154.212] [cloudflare] [48.121588ms] [Cloudflare]
+https://form.stacks.co [302] [https://stacks.co] [39] [cloudflare] [216.24.57.18] [451.09626ms] [Cloudflare,HSTS,HTTP/3,Render]
+https://store.strike.me [302] [https://store.strike.me/password] [0] [cloudflare] [23.227.38.74] [132.119694ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+
+## 307
+https://bridge.stacks.co [307] [/usdc/eth/stx] [15] [Vercel] [216.150.16.1] [133.572355ms] [HSTS,Vercel]
+
+## 308
+https://stacks-node-api.mainnet.stacks.co [308] [https://api.mainnet.hiro.so/] [169] [308 Permanent Redirect] [cloudflare] [172.66.154.212] [cloudflare] [33.789802ms] [Cloudflare]
+https://stacks-node-api.stacks.co [308] [https://api.hiro.so/] [169] [308 Permanent Redirect] [cloudflare] [172.66.154.212] [cloudflare] [57.379083ms] [Cloudflare]
+
+## 401
+
+## 403
+https://api.strike.me [403] [] [320] [cloudflare] [104.18.30.210] [cloudflare] [30.155984ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://bitcoinchainfees.strike.me [403] [] [320] [cloudflare] [104.18.30.210] [cloudflare] [30.969763ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://auth.dev.strike.me [403] [] [320] [cloudflare] [104.18.31.210] [cloudflare] [34.305085ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://auth.strike.me [403] [] [320] [cloudflare] [104.18.30.210] [cloudflare] [36.284971ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dev.docs.strike.me [403] [] [320] [cloudflare] [104.18.30.210] [cloudflare] [38.660501ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://commerce.strike.me [403] [] [320] [cloudflare] [104.18.30.210] [cloudflare] [42.007232ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dev.dashboard.strike.me [403] [] [320] [cloudflare] [104.18.31.210] [cloudflare] [47.405631ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dashboard.strike.me [403] [] [320] [cloudflare] [104.18.31.210] [cloudflare] [51.085607ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.dev.strike.me [403] [] [320] [cloudflare] [104.18.30.210] [cloudflare] [63.127668ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dev.strike.me [403] [] [320] [cloudflare] [104.18.30.210] [cloudflare] [34.300965ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://avatars.e2e.strike.me [403] [] [111] [UploadServer] [136.110.176.163] [google] [75.386449ms] [HTTP/3]
+https://avatars.strike.me [403] [] [111] [UploadServer] [34.102.168.178] [google] [86.034629ms] [HTTP/3]
+https://e2e.strike.me [403] [] [320] [cloudflare] [104.18.30.210] [cloudflare] [46.410175ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://dev.tip.strike.me [403] [] [320] [cloudflare] [104.18.31.210] [cloudflare] [58.962289ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://avatars.next.strike.me [403] [] [111] [UploadServer] [35.241.13.213] [google] [146.989115ms] [HTTP/3]
+https://avatars.dev.strike.me [403] [] [111] [UploadServer] [34.149.40.100] [google] [164.195665ms] [HTTP/3]
+https://invite.strike.me [403] [] [320] [cloudflare] [104.18.31.210] [cloudflare] [28.341685ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://links.strike.me [403] [] [320] [cloudflare] [104.18.31.210] [cloudflare] [35.87878ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://next.strike.me [403] [] [320] [cloudflare] [104.18.30.210] [cloudflare] [27.630228ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://next.commerce.strike.me [403] [] [320] [cloudflare] [104.18.30.210] [cloudflare] [36.774519ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://next.docs.strike.me [403] [] [320] [cloudflare] [104.18.30.210] [cloudflare] [62.883099ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://strike.me [403] [] [320] [cloudflare] [104.18.31.210] [cloudflare] [84.816175ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://trust.strike.me [403] [] [5661] [Attention Required! | Cloudflare] [cloudflare] [104.18.4.130] [cloudflare] [328.688986ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://email.comms.dev.strike.me [404] [] [0] [] [34.98.83.137] [google] [57.829158ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://email.account.strike.me [404] [] [0] [] [34.98.83.137] [google] [65.618874ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://assets.stacks.co [404] [] [678] [404 - File Not Found] [cloudflare] [172.66.154.212] [cloudflare] [127.850037ms] [Cloudflare]
+https://email.dev.strike.me [404] [] [0] [] [34.98.83.137] [google] [105.185601ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://link.strike.me [404] [] [0] [] [34.98.83.137] [google] [104.899224ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://link.email.strike.me [404] [] [0] [] [34.98.83.137] [google] [106.28269ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://static-secureupload.strike.me [404] [] [0] [awselb/2.0] [52.71.48.189] [58.899374ms] [Amazon ELB,Amazon Web Services]
+
+## 500
+
+## 502
+
+## 503
+
