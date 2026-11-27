@@ -1,0 +1,7 @@
+https://aavegotchi.com [308] [https://www.aavegotchi.com/] [15] [Vercel] [216.150.1.1] [49.167461ms] [HSTS,Vercel]
+https://aarena.aavegotchi.com [308] [https://dapp.aavegotchi.com/] [15] [Vercel] [216.150.16.193] [111.220604ms] [HSTS,Vercel]
+https://auction.aavegotchi.com [308] [https://dapp.aavegotchi.com/] [15] [Vercel] [216.150.1.193] [60.037889ms] [HSTS,Vercel]
+http://gvtest-eu.aavegotchi.com [308] [https://gvtest-eu.aavegotchi.com/] [0] [Caddy] [65.109.238.190] [405.44566ms] [Caddy]
+https://v2.aavegotchi.com [308] [https://dapp.aavegotchi.com/] [15] [Vercel] [216.150.1.129] [248.902783ms] [HSTS,Vercel]
+http://www.subgraphs.aavegotchi.com [308] [https://www.subgraphs.aavegotchi.com/] [14] [Vercel] [66.33.60.130] [1.357257556s] [Vercel]
+http://www.test.aavegotchi.com [308] [https://www.test.aavegotchi.com/] [14] [Vercel] [66.33.60.34] [6.367411976s] [Vercel]

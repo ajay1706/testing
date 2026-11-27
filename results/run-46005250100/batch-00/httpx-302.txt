@@ -1,0 +1,2 @@
+https://autoconfig.alienworlds.io [302] [https://ssl0.ovh.net/] [503] [302 Found] [cloudflare] [104.20.22.196] [cloudflare] [515.152862ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://autodiscover.alienworlds.io [302] [https://ssl0.ovh.net/] [503] [302 Found] [cloudflare] [104.20.22.196] [cloudflare] [534.121223ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
