@@ -1,0 +1,85 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 05:40:29 UTC 2026
+
+HTTPX lines: 57
+Live URLs: 57
+
+## 200
+https://ipfs.syncswap.xyz [200] [] [1504] [SyncSwap] [BunnyCDN-LA1-899] [143.244.49.179] [202.345723ms] [Bunny,IPFS]
+https://staging.syncswap.xyz [200] [] [3605] [SyncSwap] [cloudflare] [104.21.54.185] [cloudflare] [192.340922ms] [C3.js,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://sophon.syncswap.xyz [200] [] [3607] [SyncSwap] [cloudflare] [104.21.54.185] [cloudflare] [277.424303ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://syncswap.xyz [200] [] [3607] [SyncSwap] [cloudflare] [172.67.141.10] [cloudflare] [228.041573ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://chdb.syncswap.xyz [200] [] [15713] [ClickHouse] [cloudflare] [104.21.54.185] [cloudflare] [344.331823ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://sophon-staging.syncswap.xyz [200] [] [3607] [SyncSwap] [cloudflare] [172.67.141.10] [cloudflare] [381.095812ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://info.syncswap.xyz [200] [] [4251] [SyncSwap Analytics] [cloudflare] [172.67.141.10] [cloudflare] [369.048443ms] [Bootstrap,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Unpkg,Vercel]
+https://greenfield.syncswap.xyz [200] [] [1504] [SyncSwap] [BunnyCDN-LA1-1112] [169.150.249.166] [407.322768ms] [Bunny,IPFS]
+https://oss.thala.fi [200] [] [61057] [ThalaLabs Open Source] [Vercel] [216.150.1.193] [289.439827ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://asa-list.tinyman.org [200] [] [20328] [ASA List] [AmazonS3] [18.238.96.69] [cloudfront] [532.883038ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Gatsby:5.13.3,Google Tag Manager,React,Webpack]
+https://app.tinyman.org [200] [] [3807] [Tinyman] [nginx/1.21.0] [3.78.48.249] [623.308361ms] [Amazon Web Services,Google Analytics,Nginx:1.21.0]
+https://tinyman.org [200] [] [72050] [Tinyman | Decentralized trading protocol on Algorand] [GitHub.com] [185.199.111.153] [154.921828ms] [Fastly,Gatsby:5.15.0,GitHub Pages,Google Tag Manager,HSTS,React,Varnish,Webpack]
+https://widget.tinyman.org [200] [] [1003] [Tinyman Swap Widget Configuration] [GitHub.com] [185.199.110.153] [185.187781ms] [Fastly,GitHub Pages,HSTS,Varnish]
+https://docs.tinyman.org [200] [] [424431] [Tinyman V2 Overview | Tinyman Docs] [cloudflare] [104.18.40.47] [cloudflare] [201.994134ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://gov.tinyman.org [200] [] [171167] [Tinyman Governance Forum - Engage, vote, and shape our decentralized future.] [nginx] [18.195.58.61] [716.184521ms] [Discourse:2026.11.0,HSTS,Nginx,Ruby on Rails]
+https://gov1.tinyman.org [200] [] [179938] [Tinyman Governance Forum - Engage, vote, and shape our decentralized future.] [nginx] [184.104.178.43] [800.479141ms] [Discourse:2026.12.0,HSTS,Nginx,Ruby on Rails]
+https://foundry.thala.fi [200] [] [54480] [Thala Foundry] [Vercel] [216.150.16.193] [1.619108181s] [HSTS,Vercel]
+https://www.thala.fi [200] [] [5065121] [Thala Labs - Decentralized. Scalable. Liquid] [Vercel] [216.150.1.193] [1.515287777s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://www.tinyman.org [301] [https://tinyman.org/] [162] [301 Moved Permanently] [GitHub.com] [185.199.110.153] [146.356755ms] [Fastly,GitHub Pages,Varnish]
+
+## 302
+https://tealish.tinyman.org [302] [https://tealish.tinyman.org/en/latest/] [0] [cloudflare] [104.16.253.120] [cloudflare] [266.403472ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 307
+https://docs.syncswap.xyz [307] [https://docs.syncswap.xyz/syncswap/] [15] [cloudflare] [172.64.147.209] [cloudflare] [146.894497ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://docs.thala.fi [307] [https://docs.thala.fi/overview/] [15] [cloudflare] [172.64.147.209] [cloudflare] [762.063683ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://www.classic.app.thala.fi [307] [https://classic.app.thala.fi/] [15] [Vercel] [216.150.1.65] [843.706603ms] [HSTS,Vercel]
+https://www.app.thala.fi [307] [https://app.thala.fi/] [15] [Vercel] [216.150.16.193] [1.374192401s] [HSTS,Vercel]
+https://www.foundry.thala.fi [307] [https://foundry.thala.fi/] [15] [Vercel] [216.150.16.1] [2.240278445s] [HSTS,Vercel]
+https://www.oss.thala.fi [307] [https://oss.thala.fi/] [15] [Vercel] [216.150.16.129] [2.393753519s] [HSTS,Vercel]
+
+## 308
+https://app.thala.fi [308] [/swap] [15] [Vercel] [216.150.16.1] [121.349236ms] [HSTS,Vercel]
+https://classic.app.thala.fi [308] [/overview] [15] [Vercel] [216.150.1.129] [123.73189ms] [HSTS,Vercel]
+https://www.syncswap.xyz [308] [https://syncswap.xyz/] [15] [cloudflare] [172.67.141.10] [cloudflare] [246.207749ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://thala.fi [308] [https://www.thala.fi/] [15] [Vercel] [216.150.16.193] [968.498254ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+
+## 404
+https://dl.syncswap.xyz [404] [] [28631] [Not Found] [cloudflare] [104.21.54.185] [cloudflare] [217.049921ms] [Cloudflare,Cloudflare Browser Insights]
+https://lbp.thala.fi [404] [] [107] [Vercel] [216.150.16.193] [478.743791ms] [HSTS,Vercel]
+https://abc.thala.fi [404] [] [107] [Vercel] [216.150.1.129] [538.154818ms] [HSTS,Vercel]
+https://staging-testing.syncswap.xyz [404] [] [107] [cloudflare] [104.21.54.185] [cloudflare] [558.858648ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://mainnet.analytics.tinyman.org [404] [] [179] [Not Found] [nginx/1.21.0] [63.188.95.98] [591.941013ms] [Nginx:1.21.0]
+https://tokens.syncswap.xyz [404] [] [79] [cloudflare] [104.21.54.185] [cloudflare] [155.803909ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://monodapp.thala.fi [404] [] [107] [Vercel] [216.150.16.193] [1.169712157s] [HSTS,Vercel]
+https://staging.thala.fi [404] [] [107] [Vercel] [216.150.16.193] [1.339772056s] [HSTS,Vercel]
+https://test.app.thala.fi [404] [] [107] [Vercel] [216.150.16.129] [1.363455661s] [HSTS,Vercel]
+http://jobs.thala.fi [404] [] [107] [Vercel] [216.150.1.129] [587.573882ms] [Vercel]
+https://testnet.app.thala.fi [404] [] [107] [Vercel] [216.150.16.129] [1.409694245s] [HSTS,Vercel]
+http://appy5w.thala.fi [404] [] [107] [Vercel] [216.150.16.129] [602.193457ms] [Vercel]
+http://careersk.thala.fi [404] [] [107] [Vercel] [216.150.16.129] [592.538382ms] [Vercel]
+https://www.test.app.thala.fi [404] [] [107] [Vercel] [216.150.1.65] [681.724806ms] [HSTS,Vercel]
+http://foundryu.thala.fi [404] [] [107] [Vercel] [216.150.1.193] [585.798834ms] [Vercel]
+https://www.test.parliament.thala.fi [404] [] [107] [Vercel] [216.150.1.65] [906.534169ms] [HSTS,Vercel]
+http://classick.app.thala.fi [404] [] [107] [Vercel] [216.150.16.193] [617.26711ms] [Vercel]
+https://testdns.thala.fi [404] [] [107] [Vercel] [216.150.1.1] [2.105409753s] [HSTS,Vercel]
+http://parliament.thala.fi [404] [] [107] [Vercel] [216.150.1.129] [589.058911ms] [Vercel]
+https://www.abc.thala.fi [404] [] [107] [Vercel] [216.150.1.65] [1.967622128s] [HSTS,Vercel]
+https://www.monodapp.thala.fi [404] [] [107] [Vercel] [216.150.1.193] [1.635878168s] [HSTS,Vercel]
+https://www.staging.thala.fi [404] [] [107] [Vercel] [216.150.16.129] [1.783067679s] [HSTS,Vercel]
+https://www.lbp.thala.fi [404] [] [107] [Vercel] [216.150.1.129] [1.997028689s] [HSTS,Vercel]
+http://www.jobs.thala.fi [404] [] [107] [Vercel] [216.150.1.193] [588.001548ms] [Vercel]
+https://test.parliament.thala.fi [404] [] [107] [Vercel] [216.150.16.129] [3.314045356s] [HSTS,Vercel]
+
+## 500
+https://api.syncswap.xyz [500] [] [17] [cloudflare] [172.67.141.10] [cloudflare] [441.04733ms] [Cloudflare,HTTP/3]
+
+## 502
+
+## 503
+
