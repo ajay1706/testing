@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 27 13:44:40 UTC 2026
+[+] Run ID: 46005132073
+[+] Batch name: batch-11
+[+] Batch targets:
+okx.com
+osl.com
+talos.com
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 13:46:12 UTC 2026
+[+] HTTPX input count: 1313
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 13:47:23 UTC 2026
+[+] httpx line count: 641
+[+] Batch completed: Fri Nov 27 13:47:24 UTC 2026
