@@ -1,0 +1,7 @@
+https://creator.bigtime.gg [302] [https://creator.bigtime.gg/?rb.routing.mode=proxy&rb.routing.signature=378922] [0] [cloudflare] [104.20.23.88] [cloudflare] [246.665814ms] [Cloudflare,HSTS]
+https://invite.bigtime.gg [302] [https://invite.bigtime.gg/?rb.routing.mode=proxy&rb.routing.signature=800967] [0] [cloudflare] [172.66.175.213] [cloudflare] [208.636872ms] [Cloudflare,HSTS]
+https://play.bigtime.gg [302] [https://dl.patchkit.net/d/2whl14sfh3x5go1rgi7u/direct] [0] [] [52.72.49.79] [100.823658ms] [HSTS]
+https://support-axieorigin.axieinfinity.com [302] [https://support-axieorigin.axieinfinity.com/hc] [0] [cloudflare] [216.198.53.6] [125.206472ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://support.axieinfinity.com [302] [https://support.axieinfinity.com/hc] [0] [cloudflare] [216.198.53.6] [123.506339ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://presale.cambria.gg [302] [/geoblock] [0] [cloudflare] [104.18.4.61] [cloudflare] [474.793073ms] [Cloudflare,HTTP/3]
+https://wiki.cambria.gg [302] [http://wiki.cambria.gg/w/Main_Page] [619] [302 Found] [cloudflare] [104.18.5.61] [cloudflare] [161.606306ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]

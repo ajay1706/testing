@@ -1,0 +1,4 @@
+https://adopt.axieinfinity.com [503] [] [20] [] [34.141.74.114] [google] [449.174538ms] [HTTP/3]
+https://merch.axieinfinity.com [503] [] [58] [cloudflare] [104.20.26.194] [cloudflare] [207.809678ms] [Cloudflare]
+https://islands.cambria.gg [503] [] [1582] [cloudflare] [104.18.4.61] [cloudflare] [722.48755ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://puffy.axieinfinity.com [503] [] [27] [] [34.160.63.231] [google] [65.025633ms] [Google Cloud,Google Cloud CDN,HTTP/3]

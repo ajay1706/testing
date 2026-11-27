@@ -1,0 +1,153 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:27:56 UTC 2026
+
+HTTPX lines: 129
+Live URLs: 129
+
+## 200
+https://blog.cambria.gg [200] [] [43035] [Cambria] [openresty] [151.101.3.7] [fastly] [59.934258ms] [Ghost:6.80,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://delegate.axieinfinity.com [200] [] [5496] [Land Delegation - Thank You] [cloudflare] [172.66.159.32] [cloudflare] [130.76625ms] [Cloudflare,GeeTest,HSTS,Next.js,Node.js,React,UptimeRobot,Webpack]
+https://depths.dev.cambria.gg [200] [] [16] [] [136.110.254.168] [google] [153.838903ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://dungeons.dev.cambria.gg [200] [] [16] [] [136.110.172.40] [google] [94.379862ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://dungeons3.cambria.gg [200] [] [16] [cloudflare] [104.18.5.61] [cloudflare] [194.852513ms] [Cloudflare,HTTP/3]
+https://classic.axieinfinity.com [200] [] [31600] [Axie Infinity - Classic] [] [34.141.74.114] [google] [430.388295ms] [C3.js,HTTP/3,Next.js,Node.js,React,Webpack]
+https://depths.cambria.gg [200] [] [16] [cloudflare] [104.18.5.61] [cloudflare] [735.145453ms] [Cloudflare,HTTP/3]
+https://dungeons1.cambria.gg [200] [] [16] [cloudflare] [104.18.5.61] [cloudflare] [493.893189ms] [Cloudflare,HTTP/3]
+https://islands.dev.cambria.gg [200] [] [16] [] [35.186.222.240] [google] [87.244615ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://dungeons.cambria.gg [200] [] [16] [cloudflare] [104.18.5.61] [cloudflare] [799.335045ms] [Cloudflare,HTTP/3]
+https://leaderboard.cambria.gg [200] [] [4356] [Season Leaderboards] [cloudflare] [104.18.4.61] [cloudflare] [360.876739ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Netlify]
+https://lobby.cambria.gg [200] [] [14103] [cloudflare] [104.18.4.61] [cloudflare] [98.714447ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://lobby.beta.cambria.gg [200] [] [15032] [cloudflare] [104.18.5.61] [cloudflare] [160.384357ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://lobby.dev.cambria.gg [200] [] [12131] [UploadServer] [34.95.115.53] [google] [265.624116ms] [Google Cloud,Google Cloud CDN,Google Cloud Storage,HTTP/3]
+https://links.bigtime.gg [200] [] [38487] [Beacons | Mobile Websites for Creators] [Fly/9bb2ac9a88 (2026-11-23)] [213.188.192.2] [380.068919ms] [Cloudflare,Cloudflare Browser Insights,Fly.io,HSTS,Next.js,Node.js,React,Webpack]
+https://blog.axieinfinity.com [200] [] [85825] [The Lunacian | Axie Infinity | Substack] [cloudflare] [104.18.36.24] [cloudflare] [78.718751ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js,Substack]
+https://play.axieinfinity.com [200] [] [18235] [Play Axie Games] [cloudflare] [172.66.159.32] [cloudflare] [139.336898ms] [Cloudflare,Google Analytics,HSTS,Next.js,Node.js,React,Webpack]
+https://play.cambria.gg [200] [] [14103] [cloudflare] [104.18.4.61] [cloudflare] [114.707439ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://presale-staging.cambria.gg [200] [] [3057] [cloudflare] [104.18.5.61] [cloudflare] [434.477017ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://terrariums.axieinfinity.com [200] [] [5428] [Axie Infinity: Terrariums] [cloudflare] [172.66.159.32] [cloudflare] [144.340974ms] [Cloudflare,HSTS]
+https://stake.axieinfinity.com [200] [] [23788] [AXS Staking Dashboard] [cloudflare] [172.66.159.32] [cloudflare] [136.446419ms] [Cloudflare,Google Analytics,HSTS,Next.js,Node.js,React,Webpack]
+https://testnet.cambria.gg [200] [] [13608] [cloudflare] [104.18.5.61] [cloudflare] [93.507306ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://welcome.axieinfinity.com [200] [] [70768] [Welcome to Axie Infinity] [cloudflare] [172.66.159.32] [cloudflare] [236.647066ms] [Cloudflare,HSTS]
+https://docs.cambria.gg [200] [] [661470] [What is Genesis | Cambria Docs] [cloudflare] [104.18.5.61] [cloudflare] [239.428511ms] [Cloudflare,Cloudflare Browser Insights,GitBook,HSTS,HTTP/3,Vercel]
+https://merch.cambria.gg [200] [] [141049] [merch.cambria.gg – Cambria Merch] [cloudflare] [23.227.38.74] [695.528029ms] [Cloudflare,HSTS,HTTP/3,Matter.js,Shopify]
+https://www.bigtime.gg [200] [] [106651] [Big Time] [cloudflare] [198.202.211.1] [122.79425ms] [Cloudflare,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,jQuery:3.5.1]
+https://whitepaper.axieinfinity.com [200] [] [366744] [Axie Infinity] [cloudflare] [104.20.26.194] [cloudflare] [199.222222ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://wiki.bigtime.gg [200] [] [472769] [Welcome to the Big Time Wiki! | Big Time Wiki] [cloudflare] [172.66.175.213] [cloudflare] [194.924507ms] [Cloudflare,GitBook,HSTS,Vercel]
+http://merch-app.cambria.gg [200] [] [5188] [Invoiceprj] [nginx/1.31.8] [37.59.118.253] [200.764674ms] [Nginx:1.31.8]
+
+## 301
+https://cambria.gg [301] [https://lobby.cambria.gg/] [167] [301 Moved Permanently] [cloudflare] [104.18.5.61] [cloudflare] [45.083934ms] [Cloudflare,HTTP/3]
+https://bigtime.gg [301] [https://www.bigtime.gg/] [166] [301 Moved Permanently] [] [75.2.70.75] [112.53401ms] [HSTS]
+https://economy.cambria.gg [301] [https://lookerstudio.google.com/u/0/reporting/c6276419-51ce-4bdf-82aa-2a1391da0be6] [167] [301 Moved Permanently] [cloudflare] [104.18.5.61] [cloudflare] [36.439572ms] [Cloudflare,HTTP/3]
+https://marketplace.axieinfinity.com [301] [https://app.axieinfinity.com/marketplace] [162] [301 Moved Permanently] [cloudflare] [104.20.26.194] [cloudflare] [133.373459ms] [Cloudflare]
+https://resource.cambria.gg [301] [https://cambriagg.notion.site/Cambria-Key-Resources-10c6c997bda98015bad4f4bf586ae94a] [528] [301 Moved Permanently] [cloudflare] [104.18.4.61] [cloudflare] [36.521213ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://support.cambria.gg [301] [https://discord.gg/playcambria] [167] [301 Moved Permanently] [cloudflare] [104.18.5.61] [cloudflare] [28.180404ms] [Cloudflare,HTTP/3]
+https://survey.bigtime.gg [301] [https://www.bigtime.gg/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [156.023545ms] [Cloudflare,HSTS,HTTP/3]
+http://beta.axieinfinity.com [301] [https://beta.axieinfinity.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.26.194] [cloudflare] [17.41843ms] [Cloudflare]
+http://bridge.axieinfinity.com [301] [https://bridge.axieinfinity.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.32] [cloudflare] [22.847132ms] [Cloudflare]
+http://depths.beta.cambria.gg [301] [https://depths.beta.cambria.gg/] [528] [301 Moved Permanently] [cloudflare] [104.18.4.61] [cloudflare] [18.58331ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://dungeons.beta.cambria.gg [301] [https://dungeons.beta.cambria.gg/] [528] [301 Moved Permanently] [cloudflare] [104.18.4.61] [cloudflare] [18.900458ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://dungeons2.cambria.gg [301] [https://dungeons2.cambria.gg/] [528] [301 Moved Permanently] [cloudflare] [104.18.5.61] [cloudflare] [23.221636ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://islands.beta.cambria.gg [301] [https://islands.beta.cambria.gg/] [528] [301 Moved Permanently] [cloudflare] [104.18.4.61] [cloudflare] [22.634366ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://land.axieinfinity.com [301] [https://land.axieinfinity.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.159.32] [cloudflare] [16.716269ms] [Cloudflare]
+http://lobby-api.beta.cambria.gg [301] [https://lobby-api.beta.cambria.gg/] [528] [301 Moved Permanently] [cloudflare] [104.18.4.61] [cloudflare] [23.169524ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://creator.bigtime.gg [302] [https://creator.bigtime.gg/?rb.routing.mode=proxy&rb.routing.signature=378922] [0] [cloudflare] [104.20.23.88] [cloudflare] [246.665814ms] [Cloudflare,HSTS]
+https://invite.bigtime.gg [302] [https://invite.bigtime.gg/?rb.routing.mode=proxy&rb.routing.signature=800967] [0] [cloudflare] [172.66.175.213] [cloudflare] [208.636872ms] [Cloudflare,HSTS]
+https://play.bigtime.gg [302] [https://dl.patchkit.net/d/2whl14sfh3x5go1rgi7u/direct] [0] [] [52.72.49.79] [100.823658ms] [HSTS]
+https://support-axieorigin.axieinfinity.com [302] [https://support-axieorigin.axieinfinity.com/hc] [0] [cloudflare] [216.198.53.6] [125.206472ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://support.axieinfinity.com [302] [https://support.axieinfinity.com/hc] [0] [cloudflare] [216.198.53.6] [123.506339ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://presale.cambria.gg [302] [/geoblock] [0] [cloudflare] [104.18.4.61] [cloudflare] [474.793073ms] [Cloudflare,HTTP/3]
+https://wiki.cambria.gg [302] [http://wiki.cambria.gg/w/Main_Page] [619] [302 Found] [cloudflare] [104.18.5.61] [cloudflare] [161.606306ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 307
+https://nft.bigtime.gg [307] [https://openloot.com/] [15] [cloudflare] [104.18.27.86] [cloudflare] [205.143231ms] [Cloudflare,HSTS,Vercel]
+
+## 308
+
+## 401
+https://assets.beta.cambria.gg [401] [] [41] [uvicorn] [34.120.56.10] [google] [73.792436ms] [Google Cloud,Google Cloud CDN,HTTP/3,Python,Uvicorn]
+
+## 403
+https://axieinfinity.com [403] [] [5524] [Just a moment...] [cloudflare] [104.20.26.194] [cloudflare] [28.460382ms] [Cloudflare]
+https://app.axieinfinity.com [403] [] [5656] [Just a moment...] [cloudflare] [172.66.159.32] [cloudflare] [65.870355ms] [Cloudflare]
+https://cdn.axieinfinity.com [403] [] [111] [cloudflare] [172.66.159.32] [cloudflare] [99.001352ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://axiecdn.axieinfinity.com [403] [] [111] [cloudflare] [104.20.26.194] [cloudflare] [133.130673ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://assets.axieinfinity.com [403] [] [111] [cloudflare] [172.66.159.32] [cloudflare] [143.600283ms] [Cloudflare]
+https://dev-metadata.cambria.gg [403] [] [111] [UploadServer] [34.160.212.89] [google] [257.17289ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://forms.bigtime.gg [403] [] [17] [cloudflare] [104.20.23.88] [cloudflare] [71.285799ms] [Cloudflare]
+https://guilds.bigtime.gg [403] [] [17] [cloudflare] [172.66.175.213] [cloudflare] [54.635966ms] [Cloudflare]
+https://graphql-gateway.axieinfinity.com [403] [] [5689] [Just a moment...] [cloudflare] [104.20.26.194] [cloudflare] [31.864264ms] [Cloudflare]
+https://metadata.cambria.gg [403] [] [111] [UploadServer] [34.160.20.104] [google] [180.74059ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://openloot-metadata.bigtime.gg [403] [] [243] [cloudflare] [172.66.175.213] [cloudflare] [203.900346ms] [Amazon Web Services,Cloudflare]
+https://support-raylights.axieinfinity.com [403] [] [17] [cloudflare] [216.198.53.2] [58.194139ms] [Cloudflare]
+https://wishlist.bigtime.gg [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [172.66.175.213] [cloudflare] [73.24379ms] [Cloudflare]
+
+## 404
+https://classic-0.axieinfinity.com [404] [] [0] [] [34.128.131.253] [google] [76.771234ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://classic-1.axieinfinity.com [404] [] [0] [] [34.117.181.24] [google] [50.614853ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://axie-terrarium-api.axieinfinity.com [404] [] [0] [cloudflare] [104.20.26.194] [cloudflare] [147.702568ms] [Cloudflare]
+https://bigtime-party.bigtime.gg [404] [] [139] [Error] [cloudflare] [104.20.23.88] [cloudflare] [153.367123ms] [Cloudflare]
+https://bigtime-gameauth.bigtime.gg [404] [] [139] [Error] [cloudflare] [172.66.175.213] [cloudflare] [155.042004ms] [Cloudflare]
+https://bigtime-broker.bigtime.gg [404] [] [139] [Error] [cloudflare] [172.66.175.213] [cloudflare] [161.317637ms] [Cloudflare]
+https://app-hamaya.axieinfinity.com [404] [] [1260] [404 Not Found] [cloudflare] [172.66.159.32] [cloudflare] [171.276197ms] [Cloudflare,HSTS]
+https://auth.bigtime.gg [404] [] [0] [cloudflare] [104.20.23.88] [cloudflare] [195.230384ms] [Cloudflare]
+https://api.bigtime.gg [404] [] [139] [Error] [cloudflare] [172.66.175.213] [cloudflare] [211.069044ms] [Cloudflare,HSTS,Vercel]
+https://bigtime-chat.bigtime.gg [404] [] [139] [Error] [cloudflare] [172.66.175.213] [cloudflare] [216.678466ms] [Cloudflare]
+https://bigtime-nft.bigtime.gg [404] [] [139] [Error] [cloudflare] [172.66.175.213] [cloudflare] [273.51833ms] [Cloudflare]
+http://assets.dev.cambria.gg [404] [] [127] [UploadServer] [34.160.193.44] [google] [219.333372ms]
+https://bigtime-gamedata.bigtime.gg [404] [] [139] [Error] [cloudflare] [104.20.23.88] [cloudflare] [307.300722ms] [Cloudflare]
+https://email.axieinfinity.com [404] [] [19] [] [34.110.180.34] [google] [113.470873ms]
+https://exchange-rate.axieinfinity.com [404] [] [103] [cloudflare] [104.20.26.194] [cloudflare] [133.536349ms] [Cloudflare]
+https://game-maps.cambria.gg [404] [] [127] [UploadServer] [34.102.253.44] [google] [114.181074ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://email.growth.axieinfinity.com [404] [] [19] [] [34.102.239.211] [google] [195.72092ms]
+https://land-delegate-api.axieinfinity.com [404] [] [103] [cloudflare] [172.66.159.32] [cloudflare] [108.846702ms] [Cloudflare]
+https://lobby-api.dev.cambria.gg [404] [] [139] [Error] [] [34.111.95.114] [google] [148.593064ms] [Express,Google Cloud,Google Cloud CDN,HTTP/3,Node.js]
+https://merch.bigtime.gg [404] [] [4671] [This store is unavailable] [cloudflare] [23.227.38.74] [123.249383ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://metadata.axieinfinity.com [404] [] [0] [cloudflare] [104.20.26.194] [cloudflare] [197.822999ms] [Cloudflare]
+https://mta-sts.bigtime.gg [404] [] [9] [cloudflare] [172.66.175.213] [cloudflare] [148.038604ms] [Cloudflare]
+https://olek.axieinfinity.com [404] [] [0] [] [34.144.216.124] [google] [99.898683ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://lobby-api.cambria.gg [404] [] [1614] [Error] [cloudflare] [104.18.5.61] [cloudflare] [766.361749ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://privy.beta.cambria.gg [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [95.888575ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.cambria.gg [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [142.495101ms] [Cloudflare,Cloudflare Bot Management]
+https://promotion.bigtime.gg [404] [] [906] [404 - Page not found] [cloudflare] [198.202.211.1] [139.273241ms] [Cloudflare,HTTP/3]
+https://providers.bigtime.gg [404] [] [0] [awselb/2.0] [3.137.28.177] [191.565585ms] [Amazon ELB,Amazon Web Services]
+https://tgback.stg.bigtime.gg [404] [] [139] [Error] [cloudflare] [104.20.23.88] [cloudflare] [150.745879ms] [Cloudflare]
+https://tgback.dev.bigtime.gg [404] [] [139] [Error] [cloudflare] [172.66.175.213] [cloudflare] [156.778286ms] [Cloudflare]
+https://tgbroker.dev.bigtime.gg [404] [] [139] [Error] [cloudflare] [104.20.23.88] [cloudflare] [163.434728ms] [Cloudflare]
+https://tgback.bigtime.gg [404] [] [139] [Error] [cloudflare] [172.66.175.213] [cloudflare] [188.313711ms] [Cloudflare]
+https://tgbroker.stg.bigtime.gg [404] [] [139] [Error] [cloudflare] [172.66.175.213] [cloudflare] [182.302382ms] [Cloudflare]
+https://tgchat.stg.bigtime.gg [404] [] [139] [Error] [cloudflare] [104.20.23.88] [cloudflare] [170.127613ms] [Cloudflare]
+https://tgfront-socket.stg.bigtime.gg [404] [] [139] [Error] [cloudflare] [104.20.23.88] [cloudflare] [166.36059ms] [Cloudflare]
+https://tgfront-socket.dev.bigtime.gg [404] [] [139] [Error] [cloudflare] [104.20.23.88] [cloudflare] [179.605545ms] [Cloudflare]
+https://tgchat.dev.bigtime.gg [404] [] [139] [Error] [] [18.226.136.125] [200.665747ms] [Express,Node.js]
+https://tgfront-socket.bigtime.gg [404] [] [139] [Error] [cloudflare] [172.66.175.213] [cloudflare] [208.985875ms] [Cloudflare]
+https://tgfront.dev.bigtime.gg [404] [] [139] [Error] [] [3.151.154.35] [198.106134ms] [Express,Node.js]
+https://tgfront.stg.bigtime.gg [404] [] [139] [Error] [cloudflare] [104.20.23.88] [cloudflare] [196.926904ms] [Cloudflare]
+https://tggamedata.dev.bigtime.gg [404] [] [139] [Error] [] [3.151.154.35] [190.552439ms] [Express,Node.js]
+https://tggameauth.dev.bigtime.gg [404] [] [139] [Error] [] [18.226.136.125] [215.851258ms] [Express,Node.js]
+https://tgfront.bigtime.gg [404] [] [139] [Error] [cloudflare] [104.20.23.88] [cloudflare] [232.067994ms] [Cloudflare]
+https://tggameauth.stg.bigtime.gg [404] [] [139] [Error] [cloudflare] [172.66.175.213] [cloudflare] [218.457464ms] [Cloudflare]
+https://privy.dev.cambria.gg [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [575.640652ms] [Cloudflare,Cloudflare Bot Management]
+https://tgparty.dev.bigtime.gg [404] [] [139] [Error] [] [3.151.154.35] [155.504765ms] [Express,Node.js]
+https://tgnft.dev.bigtime.gg [404] [] [139] [Error] [] [18.226.136.125] [167.310505ms]
+https://world.dev.cambria.gg [404] [] [18] [] [8.232.49.117] [google] [68.481183ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://tgnft.stg.bigtime.gg [404] [] [139] [Error] [cloudflare] [104.20.23.88] [cloudflare] [196.178448ms] [Cloudflare]
+https://world1.dev.cambria.gg [404] [] [18] [] [8.232.30.15] [google] [86.116776ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://tgparty.stg.bigtime.gg [404] [] [139] [Error] [cloudflare] [172.66.175.213] [cloudflare] [223.546296ms] [Cloudflare]
+https://vault.bigtime.gg [404] [] [0] [cloudflare] [172.66.175.213] [cloudflare] [195.983168ms] [Cloudflare]
+https://tggamedata.stg.bigtime.gg [404] [] [139] [Error] [cloudflare] [104.20.23.88] [cloudflare] [229.2318ms] [Cloudflare]
+https://www.axieinfinity.com [404] [] [1260] [404 Not Found] [cloudflare] [104.20.26.194] [cloudflare] [1.213711458s] [Cloudflare,HSTS]
+
+## 500
+
+## 502
+
+## 503
+https://adopt.axieinfinity.com [503] [] [20] [] [34.141.74.114] [google] [449.174538ms] [HTTP/3]
+https://merch.axieinfinity.com [503] [] [58] [cloudflare] [104.20.26.194] [cloudflare] [207.809678ms] [Cloudflare]
+https://islands.cambria.gg [503] [] [1582] [cloudflare] [104.18.4.61] [cloudflare] [722.48755ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://puffy.axieinfinity.com [503] [] [27] [] [34.160.63.231] [google] [65.025633ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
