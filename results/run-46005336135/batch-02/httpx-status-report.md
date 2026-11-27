@@ -1,0 +1,127 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:30:48 UTC 2026
+
+HTTPX lines: 100
+Live URLs: 100
+
+## 200
+https://dnssec-oracle.ens.domains [200] [] [7] [cloudflare] [104.18.21.234] [cloudflare] [68.882726ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://devcon.ens.domains [200] [] [7641] [Free .eth for Devcon attendees · ENS] [cloudflare] [104.18.21.234] [cloudflare] [76.093981ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://delegate.ens.domains [200] [] [2474] [ENS Delegation Manager] [cloudflare] [104.18.21.234] [cloudflare] [97.608918ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://docs.farcaster.xyz [200] [] [18759] [Farcaster Docs] [Vercel] [76.76.21.22] [98.757999ms] [Google Analytics,HSTS,Vercel]
+https://docs.ens.domains [200] [] [17668] [ENS Documentation] [cloudflare] [104.18.20.234] [cloudflare] [110.833426ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://claim.ens.domains [200] [] [2474] [ENS Delegation Manager] [cloudflare] [104.18.21.234] [cloudflare] [324.643689ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://docs.drips.network [200] [] [31764] [Introduction – Drips Docs] [cloudflare] [104.26.12.140] [cloudflare] [164.217202ms] [Cloudflare,HSTS]
+https://farcaster.xyz [200] [] [4403] [Farcaster] [cloudflare] [104.21.28.145] [cloudflare] [176.918477ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://ensip25.ens.domains [200] [] [1948] [Agent Registry Attestation] [cloudflare] [104.18.20.234] [cloudflare] [345.775278ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Netlify]
+https://experiments.drips.network [200] [] [25] [cloudflare] [104.26.12.140] [cloudflare] [382.807968ms] [Cloudflare,HSTS]
+https://explorer.ens.domains [200] [] [16532] [ENS Explorer App] [cloudflare] [104.18.20.234] [cloudflare] [127.307733ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://app.ens.domains [200] [] [102799] [ENS App] [cloudflare] [104.18.21.234] [cloudflare] [88.455624ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,React]
+https://ens.domains [200] [] [142232] [ENS] [cloudflare] [104.18.21.234] [cloudflare] [198.163171ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://discuss.ens.domains [200] [] [242714] [ENS DAO Governance Forum - ENS DAO Governance Forum] [openresty] [216.22.5.7] [260.499544ms] [Discourse:2026.7.7,Nginx,OpenResty,Ruby on Rails]
+https://legacy.app.ens.domains [200] [] [39171] [ENS] [cloudflare] [104.18.20.234] [cloudflare] [356.728136ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://frensday.ens.domains [200] [] [98102] [frENSday] [cloudflare] [104.18.21.234] [cloudflare] [223.322102ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,YouTube,jsDelivr]
+https://legacy.sepolia.app.ens.domains [200] [] [39171] [ENS] [cloudflare] [104.18.21.234] [cloudflare] [360.150555ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://berlin.drips.network [200] [] [27881] [Drips Guide to Berlin] [cloudflare] [104.26.13.140] [cloudflare] [1.432395796s] [Cloudflare,HSTS]
+https://metadata.ens.domains [200] [] [100] [cloudflare] [104.18.20.234] [cloudflare] [133.965114ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://maintenance.ens.domains [200] [] [10354] [Upgrading to ENSv2 · ENS] [cloudflare] [104.18.20.234] [cloudflare] [157.015005ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://announce.ens.domains [200] [] [467796] [Home | Announcements from ENS Labs] [cloudflare] [104.16.23.120] [cloudflare] [283.080301ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://miniapps.farcaster.xyz [200] [] [28513] [Farcaster Mini Apps] [Vercel] [76.76.21.142] [90.470524ms] [Fathom,HSTS,Vercel]
+https://reclaim.ens.domains [200] [] [1953] [ENS Deed Reclaim] [cloudflare] [104.18.21.234] [cloudflare] [116.253664ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://devs.ens.domains [200] [] [467435] [Home | ENS Developer Update] [cloudflare] [104.16.23.120] [cloudflare] [304.340381ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://sepolia.primary.ens.domains [200] [] [2538] [ENS L2 Primary Names] [cloudflare] [104.18.21.234] [cloudflare] [120.382275ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://snapchain.farcaster.xyz [200] [] [19272] [What is Snapchain?] [Vercel] [76.76.21.61] [42.428104ms] [HSTS,Vercel]
+https://sepolia.explorer.ens.domains [200] [] [16532] [ENS Explorer App] [cloudflare] [104.18.20.234] [cloudflare] [42.674906ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://status.drips.network [200] [] [4401] [Drips Status] [cloudflare] [104.26.13.140] [cloudflare] [204.790774ms] [Cloudflare]
+https://v2.nft.ens.domains [200] [] [2125] [ENS Commemorative NFT] [cloudflare] [104.18.21.234] [cloudflare] [52.240465ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://wallet.farcaster.xyz [200] [] [1752] [farcaster-wallet] [cloudflare] [172.67.170.223] [cloudflare] [116.882026ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://test.app.ens.domains [200] [] [36890] [ENS] [cloudflare] [104.18.20.234] [cloudflare] [200.314401ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://thorin.ens.domains [200] [] [40866] [ENS Design] [cloudflare] [104.18.21.234] [cloudflare] [122.938556ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://news.ens.domains [200] [] [332702] [Home | The Reverse Record] [cloudflare] [104.16.24.120] [cloudflare] [230.00626ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://www.ens.domains [200] [] [142232] [ENS] [cloudflare] [104.18.21.234] [cloudflare] [105.971427ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://www.drips.network [200] [] [618913] [Drips | Fund Open Source In Your Ecosystem] [cloudflare] [104.26.13.140] [cloudflare] [216.926427ms] [Cloudflare,HSTS]
+https://sepolia.app.ens.domains [200] [] [102815] [ENS App] [cloudflare] [104.18.21.234] [cloudflare] [1.559410982s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,React]
+
+## 301
+https://blog.ens.domains [301] [https://ens.domains/blog/] [167] [301 Moved Permanently] [cloudflare] [104.18.21.234] [cloudflare] [41.490526ms] [Cloudflare,HSTS]
+https://drips.network [301] [https://www.drips.network/] [167] [301 Moved Permanently] [cloudflare] [172.67.75.194] [cloudflare] [44.426523ms] [Cloudflare,HSTS]
+https://alpha-docs.ens.domains [301] [https://docs.ens.domains/] [528] [301 Moved Permanently] [cloudflare] [104.18.20.234] [cloudflare] [44.913882ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+http://elinke52.news.ens.domains [301] [https://elinke52.news.ens.domains/] [528] [301 Moved Permanently] [cloudflare] [104.16.23.120] [cloudflare] [27.743703ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://legacy.ens.domains [301] [https://app.ens.domains/] [528] [301 Moved Permanently] [cloudflare] [104.18.21.234] [cloudflare] [143.748669ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://manager.ens.domains [301] [https://app.ens.domains/] [528] [301 Moved Permanently] [cloudflare] [104.18.20.234] [cloudflare] [117.264543ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://primary.ens.domains [301] [https://explorer.ens.domains/] [528] [301 Moved Permanently] [cloudflare] [104.18.21.234] [cloudflare] [53.103193ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://registrar.ens.domains [301] [https://app.ens.domains/] [528] [301 Moved Permanently] [cloudflare] [104.18.20.234] [cloudflare] [48.911414ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://roadmap.ens.domains [301] [https://ens.domains/ensv2] [528] [301 Moved Permanently] [cloudflare] [104.18.20.234] [cloudflare] [50.639067ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://tools.ens.domains [301] [https://tools.ens.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.18.21.234] [cloudflare] [70.501131ms] [Cloudflare,HSTS]
+https://www.farcaster.xyz [301] [https://farcaster.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.170.223] [cloudflare] [48.283435ms] [Cloudflare,HSTS,HTTP/3]
+http://www.wildcard.linktest.ens.domains [301] [https://www.wildcard.linktest.ens.domains/] [528] [301 Moved Permanently] [cloudflare] [104.18.20.234] [cloudflare] [10.889592ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+
+## 302
+https://landing.drips.network [302] [https://www.drips.network] [145] [302 Found] [cloudflare] [104.26.12.140] [cloudflare] [370.819805ms] [Cloudflare,HSTS]
+https://mainnet-app.staging.drips.network [302] [https://drips-network.cloudflareaccess.com/cdn-cgi/access/login/mainnet-app.staging.drips.network?kid=95006999fef0dc5dec9dc41b046d5e8dbd2b1ad660439e6ad232a682c0ac9b8c&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjQ2NmEyMWQyMzUzNmI2ZmM2OGNmMjkyZWE3MmE4NzA1YmQxZTQ3OGNkZmMzNmM4ZmJkMDE0NGY5MTk3NjcxMTEifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6Ijk1MDA2OTk5ZmVmMGRjNWRlYzlkYzQxYjA0NmQ1ZThkYmQyYjFhZDY2MDQzOWU2YWQyMzJhNjgyYzBhYzliOGMiLCJob3N0bmFtZSI6Im1haW5uZXQtYXBwLnN0YWdpbmcuZHJpcHMubmV0d29yayIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk1Nzg2NTI4LCJuYmYiOjE3OTU3ODYyMjgsImlhdCI6MTc5NTc4NjIyOCwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6IjUzNzhmMzRjMmU3MjNmOTE0OWE1NzgzYzZlMmJiNTdiNDQxY2Y0ZTFhYjExN2E2ZjdlYzc0M2JhYzI1YjI5NmUifQ.0rtHubtXjui7ZY6lFrN3079rONqgdimf7zWtnMC1I5SIr6oSVp8d-dTSClQt0VO75CD2gOxTQFXTW73fqErIQWuMpYuRItgb_vjXvbKoq_iksEJkGw6e2NME0Dy_QLSplXnp2e0ka2S8O_CIhZbxxynyFk6E95YyVqCDl8p9W80-aBBamcWaFfEPWrsDj57YniM9gDNVzi5YU_wDg0mgqpsCOk8ApJWdL6IwNm86PNuZ-3L7SE9cFuHOMUz2koxnlDpbbb_5wtR_QfnaG7-3xSOopZWLD-fkAO1D4tVO00iVVU3picMav8fQ5KZCykpzNv8dSFNsYPMCcITajfAQ4A&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.26.12.140] [cloudflare] [253.785525ms] [Cloudflare,HSTS]
+https://support.ens.domains [302] [https://support.ens.domains/en/] [0] [cloudflare] [104.18.20.234] [cloudflare] [129.088024ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 307
+https://web3metadata.ens.domains [307] [https://developers.cloudflare.com/web3/how-to/use-ethereum-gateway/] [1644] [307 Temporary Redirect] [cloudflare] [104.18.20.234] [cloudflare] [46.097339ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://web3.ens.domains [307] [https://developers.cloudflare.com/web3/how-to/use-ethereum-gateway/] [1644] [307 Temporary Redirect] [cloudflare] [104.18.20.234] [cloudflare] [67.113092ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://web3metadata2.ens.domains [307] [https://developers.cloudflare.com/web3/how-to/use-ethereum-gateway/] [1644] [307 Temporary Redirect] [cloudflare] [104.18.21.234] [cloudflare] [76.418889ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+
+## 308
+https://filecoin-app.staging.drips.network [308] [/app] [0] [cloudflare] [172.67.75.194] [cloudflare] [313.467999ms] [Cloudflare,HSTS]
+https://filecoin.drips.network [308] [/app] [0] [cloudflare] [104.26.12.140] [cloudflare] [267.533211ms] [Cloudflare,HSTS]
+https://metis.drips.network [308] [/app] [0] [cloudflare] [104.26.12.140] [cloudflare] [220.263043ms] [Cloudflare,HSTS]
+https://optimism-app.staging.drips.network [308] [/app] [0] [cloudflare] [172.67.75.194] [cloudflare] [186.516823ms] [Cloudflare,HSTS]
+https://optimism.drips.network [308] [/app] [0] [cloudflare] [104.26.12.140] [cloudflare] [197.247961ms] [Cloudflare,HSTS]
+http://crackle.farcaster.xyz [308] [https://crackle.farcaster.xyz:3381/] [0] [Caddy] [54.87.204.167] [2.429692ms] [Caddy]
+http://iris.farcaster.xyz [308] [https://iris.farcaster.xyz:3381/] [0] [Caddy] [107.21.184.149] [2.654061ms] [Caddy]
+http://juno.farcaster.xyz [308] [https://juno.farcaster.xyz:3381/] [0] [Caddy] [18.214.165.252] [2.438584ms] [Caddy]
+http://rho.farcaster.xyz [308] [https://rho.farcaster.xyz:3381/] [0] [Caddy] [44.218.110.143] [2.870036ms] [Caddy]
+http://snap.farcaster.xyz [308] [https://snap.farcaster.xyz:3381/] [0] [Caddy] [54.236.164.51] [2.200025ms] [Caddy]
+http://tau.farcaster.xyz [308] [https://tau.farcaster.xyz:3381/] [0] [Caddy] [23.23.151.66] [2.054872ms] [Caddy]
+http://vega.farcaster.xyz [308] [https://vega.farcaster.xyz:3381/] [0] [Caddy] [18.206.50.132] [2.390956ms] [Caddy]
+
+## 401
+https://stellar.reports.drips.network [401] [] [180] [401 Authorization Required] [cloudflare] [172.67.75.194] [cloudflare] [238.271586ms] [Basic,Cloudflare,HSTS]
+
+## 403
+
+## 404
+https://client.farcaster.xyz [404] [] [48] [cloudflare] [104.21.28.145] [cloudflare] [41.242728ms] [Cloudflare,HSTS,HTTP/3]
+https://api.farcaster.xyz [404] [] [48] [cloudflare] [172.67.170.223] [cloudflare] [47.070223ms] [Cloudflare,HSTS,HTTP/3]
+https://58923185.ens.domains [404] [] [548] [404 Not Found] [nginx] [54.236.83.142] [60.902905ms] [Nginx]
+https://elink464.devs.ens.domains [404] [] [1621] [404 Not Found] [cloudflare] [104.16.24.120] [cloudflare] [69.487138ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://edge.ens.domains [404] [] [105] [cloudflare] [104.18.20.234] [cloudflare] [139.362211ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://elinka9a.news.ens.domains [404] [] [2023] [404 Not Found] [cloudflare] [104.16.24.120] [cloudflare] [118.840713ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://elink221.announce.ens.domains [404] [] [1621] [404 Not Found] [cloudflare] [104.16.24.120] [cloudflare] [192.940143ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://download.farcaster.xyz [404] [] [27150] [Not Found] [cloudflare] [172.67.170.223] [cloudflare] [186.084548ms] [Cloudflare,HSTS]
+https://email.mail.farcaster.xyz [404] [] [19] [] [34.110.180.34] [google] [313.661329ms]
+https://fnames.farcaster.xyz [404] [] [506] [Error] [cloudflare] [104.21.28.145] [cloudflare] [189.905664ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js]
+https://auth.farcaster.xyz [404] [] [13] [cloudflare] [104.21.28.145] [cloudflare] [1.034370624s] [Cloudflare,HSTS,HTTP/3]
+https://mta-sts.farcaster.xyz [404] [] [9] [cloudflare] [172.67.170.223] [cloudflare] [75.630444ms] [Cloudflare,HSTS,HTTP/3]
+https://multiplayer-api.drips.network [404] [] [101] [cloudflare] [172.67.75.194] [cloudflare] [103.652204ms] [Cloudflare,HSTS]
+https://mainnet.app-api.ens.domains [404] [] [13] [cloudflare] [104.18.20.234] [cloudflare] [292.350442ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://metis-app.staging.drips.network [404] [] [101] [cloudflare] [104.26.13.140] [cloudflare] [213.284994ms] [Cloudflare,HSTS]
+https://privy.farcaster.xyz [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [83.388481ms] [Cloudflare,Cloudflare Bot Management]
+https://relay.farcaster.xyz [404] [] [72] [cloudflare] [104.21.28.145] [cloudflare] [90.520559ms] [Cloudflare,HSTS,HTTP/3]
+https://rpgf-api.drips.network [404] [] [0] [cloudflare] [104.26.12.140] [cloudflare] [152.700527ms] [Cloudflare,HSTS]
+https://snap-host.farcaster.xyz [404] [] [27] [cloudflare] [172.67.170.223] [cloudflare] [79.360909ms] [Cloudflare,HSTS,HTTP/3]
+https://rpgf-api.staging.drips.network [404] [] [0] [cloudflare] [104.26.13.140] [cloudflare] [171.728612ms] [Cloudflare,HSTS]
+https://stream.farcaster.xyz [404] [] [48] [cloudflare] [172.67.170.223] [cloudflare] [83.05969ms] [Cloudflare,HSTS,HTTP/3]
+https://rpc.drips.network [404] [] [9] [cloudflare] [172.67.75.194] [cloudflare] [194.693686ms] [Cloudflare,HSTS]
+https://sepolia.app-api.ens.domains [404] [] [13] [cloudflare] [104.18.20.234] [cloudflare] [256.517074ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://snap-assets.farcaster.xyz [404] [] [27150] [Not Found] [cloudflare] [104.21.28.145] [cloudflare] [111.473268ms] [Cloudflare,HSTS]
+https://wiki.internal.drips.network [404] [] [101] [railway-hikari] [153.52.255.99] [93.15386ms]
+https://wave-api.staging.drips.network [404] [] [0] [cloudflare] [104.26.13.140] [cloudflare] [212.950505ms] [Cloudflare,HSTS]
+https://wave-api.drips.network [404] [] [0] [cloudflare] [104.26.13.140] [cloudflare] [222.092383ms] [Cloudflare,HSTS]
+https://v2.nft-assets.ens.domains [404] [] [28625] [Not Found] [cloudflare] [104.18.20.234] [cloudflare] [250.2914ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+
+## 500
+https://mp-worker-goerli.ens.domains [500] [] [17] [cloudflare] [104.18.21.234] [cloudflare] [87.322198ms] [Cloudflare]
+
+## 502
+
+## 503
+https://wildcard.linktest.ens.domains [503] [] [17] [cloudflare] [104.18.20.234] [cloudflare] [94.353709ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://www.linktest.ens.domains [503] [] [17] [cloudflare] [104.18.20.234] [cloudflare] [58.535327ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+
