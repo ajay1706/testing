@@ -1,0 +1,4 @@
+http://fullnode.testnet.aptos.nightly.app [308] [https://fullnode.testnet.aptos.nightly.app/] [0] [Caddy] [136.243.176.175] [310.740274ms] [Caddy]
+http://index.testnet.aptos.nightly.app [308] [https://index.testnet.aptos.nightly.app/] [0] [Caddy] [136.243.176.175] [329.230306ms] [Caddy]
+http://vara-web3-template.nightly.app [308] [https://vara-web3-template.nightly.app/] [14] [Vercel] [66.33.60.130] [1.048233471s] [Vercel]
+https://www.novawallet.io [308] [https://novawallet.io/] [58] [Framer/0a675d1] [31.43.160.6] [149.84329ms] [Framer Sites,HSTS,HTTP/3,React]
