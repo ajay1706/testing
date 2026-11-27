@@ -1,0 +1,6 @@
+https://beta.blue-api.morpho.org [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [3.170.19.86] [cloudfront] [54.78355ms] [Amazon CloudFront,Amazon Web Services]
+https://beta.app.morpho.org [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [18.67.76.35] [cloudfront] [358.106406ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://ponder-staging.moonwell.fi [502] [] [16] [cloudflare] [104.20.18.31] [cloudflare] [125.709856ms] [Cloudflare,HTTP/3]
+https://ponder-east.moonwell.fi [502] [] [16] [cloudflare] [104.20.18.31] [cloudflare] [169.55341ms] [Cloudflare,HTTP/3]
+https://ponder-west.moonwell.fi [502] [] [16] [cloudflare] [104.20.18.31] [cloudflare] [522.007211ms] [Cloudflare,HTTP/3]
+https://ponder-eu2.moonwell.fi [502] [] [16] [cloudflare] [172.66.166.238] [cloudflare] [588.798808ms] [Cloudflare,HTTP/3]
