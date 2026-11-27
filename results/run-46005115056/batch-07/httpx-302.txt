@@ -1,0 +1,5 @@
+https://aevo-prod-monitor.socket.tech [302] [/login] [29] [] [52.195.246.199] [543.768825ms]
+https://grafana.squidrouter.com [302] [/login] [29] [cloudflare] [104.26.6.7] [cloudflare] [111.989259ms] [Cloudflare,HSTS,HTTP/3]
+https://monitor.socket.tech [302] [/login] [29] [cloudflare] [104.20.18.181] [cloudflare] [202.364374ms] [Cloudflare]
+https://squidweb.uat.squidrouter.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fsquidweb.uat.squidrouter.com%2F&nonce=a3e4e44497043e90fc27cbda99f0d16a80c55d901c2b2519e0cdfc205445e46c] [263] [cloudflare] [104.26.7.7] [cloudflare] [1.20098743s] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://squidweb.dev.squidrouter.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fsquidweb.dev.squidrouter.com%2F&nonce=b05e559827fcfe9217d7eb21f739d0cb6e6cc943857cdbc9ad3e0c019d164f17] [263] [cloudflare] [104.26.7.7] [cloudflare] [2.179774235s] [Cloudflare,HSTS,HTTP/3,Vercel]

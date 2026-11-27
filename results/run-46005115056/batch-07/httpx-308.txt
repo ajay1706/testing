@@ -1,0 +1,5 @@
+https://newera.squidrouter.com [308] [https://www.squidrouter.com/quid-token] [15] [cloudflare] [172.67.68.83] [cloudflare] [180.101779ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://sale.squidrouter.com [308] [https://www.squidrouter.com/quid-token] [15] [cloudflare] [104.26.7.7] [cloudflare] [1.254664212s] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://routerprotocol.com [308] [https://www.routerprotocol.com/] [15] [Vercel] [216.150.1.1] [2.0920703s] [HSTS,Vercel]
+https://socket.tech [308] [https://www.socket.tech/] [60] [Framer/0a675d1] [52.223.52.2] [3.122584377s] [Framer Sites,HSTS,HTTP/3,React]
+https://squidrouter.com [308] [https://www.squidrouter.com/] [15] [cloudflare] [172.67.68.83] [cloudflare] [2.121701675s] [Cloudflare,HSTS,HTTP/3,Vercel]

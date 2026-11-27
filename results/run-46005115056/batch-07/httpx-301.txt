@@ -1,0 +1,7 @@
+https://plugin.socket.tech [301] [https://sockettech.notion.site/sockettech/Socket-Plugin-b39279f5ca0b4beaab5cce09fa0bc51b/] [0] [AmazonS3] [13.226.209.115] [cloudfront] [2.30057319s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://airbyte.squidrouter.com [301] [https://airbyte.squidrouter.com/] [528] [301 Moved Permanently] [cloudflare] [172.67.68.83] [cloudflare] [28.334757ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://pac.squidrouter.com [301] [https://pac.squidrouter.com/] [528] [301 Moved Permanently] [cloudflare] [172.67.68.83] [cloudflare] [2.039755014s] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://prod.bff.squidrouter.com [301] [https://prod.bff.squidrouter.com/] [528] [301 Moved Permanently] [cloudflare] [172.67.68.83] [cloudflare] [1.071134708s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://rpc-evmx-devnet.socket.tech [301] [https://rpc-evmx-devnet.socket.tech/] [167] [301 Moved Permanently] [cloudflare] [172.66.162.67] [cloudflare] [55.048984ms] [Cloudflare]
+https://uat.coralscan.squidrouter.com [301] [https://scan.uat.squidrouter.com/] [15] [cloudflare] [104.26.7.7] [cloudflare] [256.673534ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://v2.coralscan.squidrouter.com [301] [https://scan.squidrouter.com/] [15] [cloudflare] [104.26.6.7] [cloudflare] [361.953829ms] [Cloudflare,HSTS,HTTP/3,Vercel]
