@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 27 05:40:40 UTC 2026
+[+] Run ID: 45945222944
+[+] Batch name: batch-10
+[+] Batch targets:
+walletconnect.com
+yoroi-wallet.com
+zengo.com
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 05:42:14 UTC 2026
+[+] HTTPX input count: 2069
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 05:43:23 UTC 2026
+[+] httpx line count: 1744
+[+] Batch completed: Fri Nov 27 05:43:23 UTC 2026
