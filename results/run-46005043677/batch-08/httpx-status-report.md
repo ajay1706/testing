@@ -1,0 +1,127 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:31:31 UTC 2026
+
+HTTPX lines: 110
+Live URLs: 110
+
+## 200
+https://babylon.stake.fish [200] [] [3074] [Babylon staking: Earn rewards with stakefish] [Vercel] [66.33.60.129] [235.853957ms] [HSTS,Vercel]
+https://cdn.stakewise.io [200] [] [327] [cloudflare] [104.26.2.223] [cloudflare] [421.801506ms] [Cloudflare]
+https://app.stakewise.io [200] [] [50450] [Liquid Staking for ETH and GNO | StakeWise] [cloudflare] [104.26.2.223] [cloudflare] [315.558657ms] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://blog.stake.fish [200] [] [66935] [Staking Guides, Research and News | stakefish Blog] [openresty] [151.101.3.7] [fastly] [409.012076ms] [Ghost:6.80,Nginx,Node.js,OpenResty,Varnish,jsDelivr]
+https://2048.stake.fish [200] [] [225846] [Stake your crypto with a reliable validator | stakefish] [Vercel] [66.33.60.129] [192.778919ms] [HSTS,Vercel]
+https://blog.stakewise.io [200] [] [154745] [StakeWise Blog: Ethereum Staking Guides, News and Research] [cloudflare] [104.26.2.223] [cloudflare] [292.831388ms] [Cloudflare,Contentful,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://boost.stakewise.io [200] [] [183086] [StakeWise Boost Mock] [cloudflare] [104.26.2.223] [cloudflare] [709.738748ms] [Cloudflare,Contentful]
+https://conflux-core.stake.fish [200] [] [3084] [Pos Pool] [AmazonS3] [3.168.51.119] [cloudfront] [224.00224ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://charts.stakewise.io [200] [] [231205] [cloudflare] [104.26.2.223] [cloudflare] [629.481134ms] [Cloudflare]
+https://docs.stakewise.io [200] [] [35446] [StakeWise Docs — Liquid Staking on Ethereum & Gnosis Chain | StakeWise Docs] [cloudflare] [172.67.70.188] [cloudflare] [212.810189ms] [Cloudflare,Docusaurus:3.10.0,HSTS,React,Vercel,Webpack]
+https://conflux.stake.fish [200] [] [119806] [Conflux CFX staking: Earn rewards with stakefish] [Vercel] [216.150.1.193] [413.975976ms] [HSTS,Vercel]
+https://docs.stake.link [200] [] [64614] [stake.link Docs: Liquid Staking for LINK, POL & ESP] [nginx/1.29.8] [18.172.134.64] [cloudfront] [697.046782ms] [Amazon CloudFront,Amazon Web Services,Astro:7.3.5,Google Analytics,HSTS,Nginx:1.29.8,Starlight:0.42.3]
+https://ethereum.stake.fish [200] [] [206245] [Stake your crypto with a reliable validator | stakefish] [Vercel] [216.150.1.129] [333.930102ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://gnosis-oracle-b.stakewise.io [200] [] [376] [cloudflare] [104.26.3.223] [cloudflare] [607.596776ms] [Cloudflare]
+https://governance-api.stakewise.io [200] [] [118] [cloudflare] [104.26.2.223] [cloudflare] [536.235348ms] [Cloudflare]
+https://gnosis-oracle.stakewise.io [200] [] [376] [cloudflare] [172.67.70.188] [cloudflare] [643.615875ms] [Cloudflare]
+https://forum.stakewise.io [200] [] [121502] [StakeWise DAO - Governance Forum] [cloudflare] [104.26.2.223] [cloudflare] [974.822738ms] [Cloudflare,Discourse:2026.7.4,Ruby on Rails]
+https://hoodi-oracle1.stakewise.io [200] [] [375] [cloudflare] [172.67.70.188] [cloudflare] [448.296491ms] [Cloudflare]
+https://hoodi-oracle2.stakewise.io [200] [] [375] [cloudflare] [172.67.70.188] [cloudflare] [476.255808ms] [Cloudflare]
+https://hoodi-oracle3.stakewise.io [200] [] [375] [cloudflare] [172.67.70.188] [cloudflare] [442.310988ms] [Cloudflare]
+https://hoodi-oracle11.stakewise.io [200] [] [375] [cloudflare] [172.67.70.188] [cloudflare] [521.045513ms] [Cloudflare]
+https://hoodi-oracle4.stakewise.io [200] [] [375] [cloudflare] [172.67.70.188] [cloudflare] [463.482841ms] [Cloudflare]
+https://hoodi-oracle5.stakewise.io [200] [] [375] [cloudflare] [172.67.70.188] [cloudflare] [461.508171ms] [Cloudflare]
+https://hoodi-oracle10.stakewise.io [200] [] [375] [cloudflare] [104.26.3.223] [cloudflare] [592.624089ms] [Cloudflare]
+https://hoodi-oracle7.stakewise.io [200] [] [375] [cloudflare] [104.26.2.223] [cloudflare] [467.009634ms] [Cloudflare]
+https://hoodi-oracle6.stakewise.io [200] [] [375] [cloudflare] [172.67.70.188] [cloudflare] [510.676516ms] [Cloudflare]
+https://hoodi-oracle9.stakewise.io [200] [] [375] [cloudflare] [104.26.3.223] [cloudflare] [470.667203ms] [Cloudflare]
+https://hoodi-oracle8.stakewise.io [200] [] [375] [cloudflare] [172.67.70.188] [cloudflare] [477.959249ms] [Cloudflare]
+https://mainnet-oracle.stakewise.io [200] [] [375] [cloudflare] [104.26.2.223] [cloudflare] [201.375242ms] [Cloudflare]
+https://nb.ops.stake.fish [200] [] [4461] [NetBird Dashboard] [nginx] [108.132.236.99] [318.974652ms] [HSTS,Nginx]
+https://prerelease.stakewise.io [200] [] [50450] [Liquid Staking for ETH and GNO | StakeWise] [cloudflare] [104.26.2.223] [cloudflare] [330.93742ms] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://stake.link [200] [] [18681] [Liquid Staking for the Chainlink Ecosystem | stake.link] [nginx/1.31.9] [13.32.164.62] [cloudfront] [459.452607ms] [Amazon CloudFront,Amazon Web Services,HSTS,Nginx:1.31.9]
+https://status.stakewise.io [200] [] [2433] [Status | StakeWise] [cloudflare] [104.26.2.223] [cloudflare] [567.902696ms] [Cloudflare]
+https://stakewise.io [200] [] [68635] [Ethereum Pool and Solo Staking | StakeWise] [cloudflare] [172.67.70.188] [cloudflare] [290.235087ms] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://solana.stake.fish [200] [] [136417] [Solana SOL staking: Earn rewards with stakefish] [Vercel] [216.150.1.1] [494.43045ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://stage-app.stakewise.io [200] [] [50450] [Liquid Staking for ETH and GNO | StakeWise] [cloudflare] [104.26.2.223] [cloudflare] [692.107243ms] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://stage.stakewise.io [200] [] [68303] [Ethereum Pool and Solo Staking | StakeWise] [cloudflare] [172.67.70.188] [cloudflare] [831.749313ms] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://stake.fish [200] [] [418916] [Staking Provider for ETH, SOL and 20+ Networks | stakefish] [Vercel] [76.76.21.21] [215.842492ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://storybook.stakewise.io [200] [] [3702] [storybook - Storybook] [cloudflare] [172.67.70.188] [cloudflare] [1.256979875s] [Cloudflare,HSTS,Vercel]
+https://talk.stake.link [200] [] [230516] [stake.link Governance Forum] [nginx] [216.66.8.75] [244.262979ms] [Discourse:2026.12.0,HSTS,Nginx,Ruby on Rails]
+https://stats.stake.fish [200] [] [347570] [Validator performance | stakefish] [Vercel] [216.150.1.193] [753.455621ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://storage.stakewise.io [200] [] [242965] [cloudflare] [172.67.70.188] [cloudflare] [1.926771847s] [Cloudflare,Google Cloud,Google Cloud CDN]
+
+## 301
+https://app.stake.link [301] [https://stake.link/] [0] [] [89.107.20.72] [355.365732ms] [HSTS]
+https://customer.stake.fish [301] [https://stake.fish/] [15] [Vercel] [66.33.60.193] [201.344236ms] [HSTS,Vercel]
+http://mail.stake.fish [301] [https://mail.google.com/a/stake.fish] [233] [301 Moved] [ghs] [192.178.131.121] [google] [109.980601ms]
+https://www.stakewise.io [301] [https://stakewise.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.223] [cloudflare] [60.780328ms] [Cloudflare]
+https://www.stake.fish [301] [https://stake.fish/] [167] [301 Moved Permanently] [cloudflare] [172.64.144.155] [cloudflare] [194.986783ms] [Cloudflare]
+
+## 302
+https://babylon-testnet.stake.fish [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fbabylon-testnet.stake.fish%2F&nonce=8399d5ce15ce008beeb038d892a23556559ef5891985af57bbd7f949309b46af] [263] [Vercel] [76.76.21.61] [325.346197ms] [HSTS,Vercel]
+https://docs.stake.fish [302] [/docs] [27] [cloudflare] [104.16.242.118] [cloudflare] [385.832611ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://docs.internal.stake.link [302] [https://sso.linkpool.com/oauth2/v1/authorize?client_id=0oa12o1yzeoZHLNtH418&code_challenge=DzRfS3oA-hUgGYbTeNnhbBpWMZVX4BWHXqGzbQHQK8M&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fdocs.internal.stake.link%2Foauth2%2Fcallback&response_type=code&scope=openid%20email%20profile&state=eyJ1cmwiOiJodHRwczovL2RvY3MuaW50ZXJuYWwuc3Rha2UubGluay8iLCJjc3JmX3Rva2VuIjoiMDllNmFmN2RkNTkwMDcwZi5pYkIwM1k0Qm85alY5RzVPcGJzN2JxMGVkVVI5MzQ5azJsRVUyVWduQys0PSIsImZsb3dfaWQiOiIwOWU2YWY3ZGQ1OTAwNzBmIn0] [0] [] [18.154.110.33] [cloudfront] [475.390212ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://origin.docs.internal.stake.link [302] [https://sso.linkpool.com/oauth2/v1/authorize?client_id=0oa12o1yzeoZHLNtH418&code_challenge=XdxCaRwQbn1bDKV8e_Y5e6W-3B7dj5QiclDjOef06BI&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fdocs.internal.stake.link%2Foauth2%2Fcallback&response_type=code&scope=openid%20email%20profile&state=eyJ1cmwiOiJodHRwczovL29yaWdpbi5kb2NzLmludGVybmFsLnN0YWtlLmxpbmsvIiwiY3NyZl90b2tlbiI6ImY0YTI2YjhhZjA2ZTliNzcuQkJKMkdhUkVlTkUvTUlyaXI2NURJdjFuTVkzQWIyWklsd0JpSlRoWWtqbz0iLCJmbG93X2lkIjoiZjRhMjZiOGFmMDZlOWI3NyJ9] [0] [] [89.107.20.72] [1.310917908s] [HSTS]
+https://sentry.stakewise.io [302] [/auth/login/] [0] [cloudflare] [104.26.3.223] [cloudflare] [565.994776ms] [Cloudflare]
+
+## 307
+
+## 308
+http://gnosis-exporter.stakewise.io [308] [https://gnosis-exporter.stakewise.io/] [0] [Caddy] [51.83.254.240] [248.627525ms] [Caddy]
+http://graphs-replica-exporter.stakewise.io [308] [https://graphs-replica-exporter.stakewise.io/] [0] [Caddy] [91.134.71.77] [210.672494ms] [Caddy]
+http://graphs-exporter.stakewise.io [308] [https://graphs-exporter.stakewise.io/] [0] [Caddy] [57.128.229.35] [248.280061ms] [Caddy]
+http://hoodi-exporter.stakewise.io [308] [https://hoodi-exporter.stakewise.io/] [0] [Caddy] [57.128.163.204] [181.76648ms] [Caddy]
+https://mail.eng.stake.fish [308] [https://mail.eng.stake.fish/] [0] [cloudflare] [104.18.43.101] [cloudflare] [338.46687ms] [Cloudflare]
+http://loki.stakewise.io [308] [https://loki.stakewise.io/] [0] [Caddy] [51.75.93.68] [218.279784ms] [Caddy]
+http://mainnet-exporter.stakewise.io [308] [https://mainnet-exporter.stakewise.io/] [0] [Caddy] [51.75.93.199] [227.107498ms] [Caddy]
+http://node-01-exporter.stakewise.io [308] [https://node-01-exporter.stakewise.io/] [0] [Caddy] [91.134.70.152] [194.784397ms] [Caddy]
+http://node-00-exporter.stakewise.io [308] [https://node-00-exporter.stakewise.io/] [0] [Caddy] [162.19.112.136] [202.009558ms] [Caddy]
+https://www.eng.stake.fish [308] [https://www.eng.stake.fish/] [0] [cloudflare] [172.64.144.155] [cloudflare] [371.905388ms] [Cloudflare]
+
+## 401
+https://insights.stakewise.io [401] [] [0] [cloudflare] [104.26.2.223] [cloudflare] [508.093667ms] [Basic,Cloudflare]
+
+## 403
+https://analytics.stake.fish [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [13.32.205.100] [cloudfront] [245.514246ms] [Amazon CloudFront,Amazon Web Services]
+https://eth-hoodi.stakewise.io [403] [] [4834] [Attention Required! | Cloudflare] [cloudflare] [104.26.2.223] [cloudflare] [44.366757ms] [Cloudflare]
+https://compliance.stakewise.io [403] [] [9] [cloudflare] [104.26.3.223] [cloudflare] [646.858488ms] [Cloudflare]
+https://eth-mainnet.stakewise.io [403] [] [4834] [Attention Required! | Cloudflare] [cloudflare] [104.26.2.223] [cloudflare] [249.217134ms] [Cloudflare]
+https://gno-mainnet.stakewise.io [403] [] [4834] [Attention Required! | Cloudflare] [cloudflare] [104.26.2.223] [cloudflare] [222.105939ms] [Cloudflare]
+https://gnosis-admin.stakewise.io [403] [] [9] [cloudflare] [172.67.70.188] [cloudflare] [766.157283ms] [Cloudflare]
+https://grafana.stakewise.io [403] [] [9] [cloudflare] [104.26.2.223] [cloudflare] [574.518465ms] [Cloudflare]
+https://hoodi-admin.stakewise.io [403] [] [9] [cloudflare] [172.67.70.188] [cloudflare] [486.028808ms] [Cloudflare]
+https://ipfs.stakewise.io [403] [] [9] [Caddy] [51.75.93.68] [381.440815ms] [Caddy,HTTP/3]
+https://node-00.stakewise.io [403] [] [4834] [Attention Required! | Cloudflare] [cloudflare] [104.26.3.223] [cloudflare] [47.736463ms] [Cloudflare]
+https://node-01.stakewise.io [403] [] [4834] [Attention Required! | Cloudflare] [cloudflare] [104.26.3.223] [cloudflare] [65.494403ms] [Cloudflare]
+https://mainnet-admin.stakewise.io [403] [] [9] [cloudflare] [104.26.2.223] [cloudflare] [527.605764ms] [Cloudflare]
+https://origin.stake.link [403] [] [19] [] [89.107.20.72] [1.330807896s] [HSTS]
+https://origin.docs.stake.link [403] [] [19] [] [89.107.20.72] [3.344133184s] [HSTS]
+https://origin.token.stake.link [403] [] [19] [] [89.107.20.72] [2.344787399s] [HSTS]
+
+## 404
+https://api.staging.stake.fish [404] [] [19] [CloudFront] [13.249.141.77] [cloudfront] [401.579718ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://api.stake.link [404] [] [0] [] [3.167.152.60] [cloudfront] [442.282576ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://api.stake.fish [404] [] [19] [CloudFront] [3.167.183.90] [cloudfront] [481.794527ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://api.stakewise.io [404] [] [22] [cloudflare] [104.26.2.223] [cloudflare] [661.176689ms] [Cloudflare]
+https://gnosis-api.stakewise.io [404] [] [22] [cloudflare] [172.67.70.188] [cloudflare] [662.548828ms] [Cloudflare]
+https://graphs-replica.stakewise.io [404] [] [9] [cloudflare] [104.26.3.223] [cloudflare] [544.342233ms] [Cloudflare]
+https://graphs.stakewise.io [404] [] [9] [cloudflare] [104.26.2.223] [cloudflare] [620.957701ms] [Cloudflare]
+https://hoodi-api.stakewise.io [404] [] [22] [cloudflare] [104.26.2.223] [cloudflare] [499.493638ms] [Cloudflare]
+https://ingest.stake.fish [404] [] [19] [] [108.156.91.29] [cloudfront] [362.237222ms] [Amazon CloudFront,Amazon Web Services]
+https://materials.stakewise.io [404] [] [27150] [Not Found] [cloudflare] [104.26.2.223] [cloudflare] [242.968425ms] [Cloudflare]
+https://mainnet-api.stakewise.io [404] [] [22] [cloudflare] [104.26.3.223] [cloudflare] [591.227792ms] [Cloudflare]
+https://mcp.stake.link [404] [] [0] [] [3.169.149.123] [cloudfront] [591.521867ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://origin.api.stake.link [404] [] [0] [] [89.107.20.72] [1.35305713s] [HSTS]
+https://origin.mcp.stake.link [404] [] [0] [] [89.107.20.72] [1.379138888s] [HSTS]
+https://shop.stake.fish [404] [] [4671] [This store is unavailable] [cloudflare] [23.227.38.74] [158.695546ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://relay-euw1.nb.ops.stake.fish [404] [] [19] [] [54.170.119.108] [323.729992ms]
+https://vote.stakewise.io [404] [] [50] [Netlify] [98.84.224.111] [276.039661ms] [Netlify]
+https://token.stake.link [404] [] [19] [] [3.167.152.31] [cloudfront] [558.076765ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 500
+
+## 502
+https://hoodi-dvt-relayer.stakewise.io [502] [] [16] [cloudflare] [104.26.3.223] [cloudflare] [452.968873ms] [Cloudflare]
+https://mainnet-dvt-relayer.stakewise.io [502] [] [16] [cloudflare] [172.67.70.188] [cloudflare] [529.461846ms] [Cloudflare]
+
+## 503
+
