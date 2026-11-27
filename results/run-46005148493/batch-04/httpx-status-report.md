@@ -1,0 +1,78 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:23:17 UTC 2026
+
+HTTPX lines: 48
+Live URLs: 48
+
+## 200
+https://app.liqwid.finance [200] [] [4979] [Liqwid App] [cloudflare] [172.67.73.171] [cloudflare] [130.659678ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://assets.liqwid.finance [200] [] [502] [Liqwid Assets] [cloudflare] [104.26.6.43] [cloudflare] [212.638779ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://aggregator-v2.muesliswap.com [200] [] [44] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [570.444962ms] [Nginx:1.18.0,Ubuntu]
+https://aggregator-analytics-v2.muesliswap.com [200] [] [53] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [596.287015ms] [Nginx:1.18.0,Ubuntu]
+https://dev.liqwid.finance [200] [] [4979] [Liqwid App] [cloudflare] [104.26.6.43] [cloudflare] [196.535901ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://docs.liqwid.finance [200] [] [8105] [Home | Liqwid Docs] [cloudflare] [104.26.6.43] [cloudflare] [214.212838ms] [Cloudflare,Cloudflare Browser Insights,Docusaurus:3.10.2,HSTS,React,Webpack]
+https://cl.liquidswap.com [200] [] [3792] [Liquidswap – the 1st DEX on Aptos] [cloudflare] [172.67.202.222] [cloudflare] [767.901971ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://eu.aggregator-v2.muesliswap.com [200] [] [44] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [524.120027ms] [Nginx:1.18.0,Ubuntu]
+https://eu.aggregator-analytics-v2.muesliswap.com [200] [] [53] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [548.247013ms] [Nginx:1.18.0,Ubuntu]
+https://farms.liquidswap.com [200] [] [3508] [Liquidswap – the 1st DEX on Aptos] [cloudflare] [104.21.52.190] [cloudflare] [632.351948ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://liquidity-api.muesliswap.com [200] [] [54] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [615.80415ms] [Nginx:1.18.0,Ubuntu]
+https://liquidswap.com [200] [] [3791] [Liquidswap – the 1st DEX on Aptos] [cloudflare] [172.67.202.222] [cloudflare] [765.602014ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://docs.muesliswap.com [200] [] [345296] [Hello! | MuesliSwap] [cloudflare] [172.64.147.209] [cloudflare] [198.123299ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://home.liquidswap.com [200] [] [72219] [Liquidswap DEX] [cloudflare] [104.21.52.190] [cloudflare] [753.621497ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,Google Font API,Google Hosted Libraries,Google Tag Manager,HSTS,HTTP/3,cdnjs,jQuery:3.5.1]
+https://gov.liqwid.finance [200] [] [218460] [Liqwid Governance Forum] [nginx] [216.66.8.75] [444.88019ms] [Discourse:2026.12.0,HSTS,Nginx,Ruby on Rails]
+https://learn.liqwid.finance [200] [] [154948] [Liqwid Academy] [Vercel] [216.150.1.193] [279.172616ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://liqwid.finance [200] [] [197073] [Liqwid Finance] [cloudflare] [172.67.73.171] [cloudflare] [283.16035ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://docs.liquidswap.com [200] [] [468273] [Introduction | Liquidswap Docs] [cloudflare] [172.64.147.209] [cloudflare] [159.294922ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://staging.liqwid.finance [200] [] [4979] [Liqwid App] [cloudflare] [104.26.7.43] [cloudflare] [120.59651ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://staking.muesliswap.com [200] [] [2] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [567.277139ms] [Nginx:1.18.0,Ubuntu]
+https://v2.muesliswap.com [200] [] [4317] [MuesliSwap | The First Cardano DEX] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [571.229444ms] [Nginx:1.18.0,Ubuntu]
+https://www.liqwid.finance [200] [] [197073] [Liqwid Finance] [cloudflare] [104.26.7.43] [cloudflare] [3.255457945s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://www.muesliswap.com [200] [] [4317] [MuesliSwap | The First Cardano DEX] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [4.565913878s] [Nginx:1.18.0,Ubuntu]
+
+## 301
+https://beta-v2.muesliswap.com [301] [https://v2.muesliswap.com/] [178] [301 Moved Permanently] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [551.387008ms] [Nginx:1.18.0,Ubuntu]
+http://forum.liqwid.finance [301] [https://forum.liqwid.finance/] [528] [301 Moved Permanently] [cloudflare] [172.67.73.171] [cloudflare] [29.000346ms] [Cloudflare,Cloudflare Browser Insights]
+https://v1.liqwid.finance [301] [https://v2.liqwid.finance/?from=v1] [528] [301 Moved Permanently] [cloudflare] [104.26.7.43] [cloudflare] [63.279377ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://v2.liqwid.finance [301] [https://app.liqwid.finance/?from=v2] [528] [301 Moved Permanently] [cloudflare] [172.67.73.171] [cloudflare] [56.167823ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 302
+
+## 307
+https://v3-dev.liqwid.finance [307] [/explore] [0] [cloudflare] [104.26.7.43] [cloudflare] [261.180951ms] [Cloudflare,HSTS]
+https://v3-staging.liqwid.finance [307] [/explore] [0] [cloudflare] [104.26.6.43] [cloudflare] [412.584633ms] [Cloudflare,HSTS]
+
+## 308
+
+## 401
+https://new.ogmios.muesliswap.com [401] [] [590] [401 Authorization Required] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [1.567758407s] [Basic,Nginx:1.18.0,Ubuntu]
+https://ogmios.muesliswap.com [401] [] [590] [401 Authorization Required] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [4.552225881s] [Basic,Nginx:1.18.0,Ubuntu]
+
+## 403
+https://status.liqwid.finance [403] [] [5772] [Just a moment...] [cloudflare] [104.18.16.64] [cloudflare] [2.223932336s] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+
+## 404
+https://assets.muesliswap.com [404] [] [27517] [Not Found] [cloudflare] [104.21.55.198] [cloudflare] [313.715721ms] [Cloudflare,Cloudflare Browser Insights]
+https://api-v2.muesliswap.com [404] [] [22] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [568.34453ms] [Nginx:1.18.0,Ubuntu]
+https://api.liqwid.finance [404] [] [19] [cloudflare] [104.26.6.43] [cloudflare] [611.361602ms] [Cloudflare,HSTS]
+https://cgold.api.liqwid.finance [404] [] [9] [cloudflare] [104.26.7.43] [cloudflare] [613.070465ms] [Cloudflare,HSTS]
+https://key-value-storage.liqwid.finance [404] [] [13] [cloudflare] [104.26.7.43] [cloudflare] [72.54822ms] [Cloudflare,HSTS]
+https://eu.api-v2.muesliswap.com [404] [] [22] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [557.245899ms] [Nginx:1.18.0,Ubuntu]
+https://eu.tokens-v2.muesliswap.com [404] [] [22] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [559.04204ms] [Nginx:1.18.0,Ubuntu]
+https://lb-public-srv.liquidswap.com [404] [] [513] [404 Not Found] [cloudflare] [104.21.52.190] [cloudflare] [635.156829ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://ogmios.liqwid.finance [404] [] [19] [cloudflare] [104.26.7.43] [cloudflare] [4.501229155s] [Cloudflare,HSTS]
+https://public.liqwid.finance [404] [] [27511] [Not Found] [cloudflare] [104.26.7.43] [cloudflare] [1.246862917s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://shen.api.liqwid.finance [404] [] [500] [Error] [cloudflare] [104.26.6.43] [cloudflare] [2.569181518s] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://tokens-v2.muesliswap.com [404] [] [22] [nginx/1.18.0 (Ubuntu)] [65.108.43.117] [539.398074ms] [Nginx:1.18.0,Ubuntu]
+https://v2.api.liqwid.finance [404] [] [500] [Error] [cloudflare] [104.26.7.43] [cloudflare] [562.892163ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+
+## 500
+https://shen.api.liqwid.finance [404] [] [500] [Error] [cloudflare] [104.26.6.43] [cloudflare] [2.569181518s] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://v2.api.liqwid.finance [404] [] [500] [Error] [cloudflare] [104.26.7.43] [cloudflare] [562.892163ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+
+## 502
+https://assets.liqwid.finance [200] [] [502] [Liqwid Assets] [cloudflare] [104.26.6.43] [cloudflare] [212.638779ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 503
+https://hoogle.liqwid.finance [503] [] [20] [cloudflare] [172.67.73.171] [cloudflare] [718.14484ms] [Cloudflare,HSTS]
+
