@@ -1,0 +1,122 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 05:35:37 UTC 2026
+
+HTTPX lines: 100
+Live URLs: 100
+
+## 200
+https://book.starknet.io [200] [] [24826] [- The Starknet Book] [cloudflare] [162.159.136.54] [cloudflare] [176.637207ms] [Clipboard.js,Cloudflare,Cloudflare Bot Management,Google Analytics,HTTP/3,Lunr.js]
+https://defispring.starknet.io [200] [] [5501] [Starknet DeFi Spring | Claim NFT] [Vercel] [66.33.60.34] [159.965004ms] [HSTS,Vercel]
+https://bridge.shape.network [200] [] [31327] [Shape Bridge] [Vercel] [216.150.1.193] [496.551662ms] [HSTS,Vercel]
+https://earn.starknet.io [200] [] [2721] [Starknet Earn] [UploadServer] [34.49.12.52] [google] [208.656673ms] [Google Analytics,Google Cloud,Google Cloud CDN,Google Cloud Storage,HTTP/3]
+https://config.staging.safe.shape.network [200] [] [2612] [Safe Config Service API] [] [65.109.223.110] [552.377848ms] [Django,HSTS,Python,Swagger UI]
+https://config.safe.shape.network [200] [] [2612] [Safe Config Service API] [] [95.217.168.145] [544.749155ms] [Django,HSTS,Python,Swagger UI]
+https://claim.shape.network [200] [] [16686] [gm shaper!] [Vercel] [216.230.86.129] [550.793581ms] [HSTS,Vercel]
+https://events.staging.safe.shape.network [200] [] [3096] [Swagger UI] [] [65.109.223.110] [548.023146ms] [Express,HSTS,Node.js,Swagger UI]
+https://events.safe.shape.network [200] [] [3096] [Swagger UI] [] [95.217.168.145] [580.361866ms] [Express,HSTS,Node.js,Swagger UI]
+https://docs.shape.network [200] [] [130177] [Welcome - Shape Docs] [Vercel] [66.33.60.66] [283.588648ms] [HSTS,Vercel]
+https://faucet.starknet.io [200] [] [25059] [Testnet Faucet - Sepolia Faucet by the Starknet Foundation] [Vercel] [64.29.17.131] [321.879783ms] [HSTS,Vercel]
+https://docs.soneium.org [200] [] [37138] [Soneium Docs] [AmazonS3] [52.84.127.11] [cloudfront] [946.559347ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Docusaurus:3.10.2,HSTS,HTTP/3,React,Webpack]
+https://governance.starknet.io [200] [] [2067] [Snapshot] [Netlify] [98.84.224.111] [302.503208ms] [HSTS,Netlify]
+https://community.starknet.io [200] [] [227777] [Starknet Community Forum - Forum for Starknet community members to discuss technical opportunities] [nginx] [184.104.178.43] [655.323709ms] [Discourse:2026.12.0,Google Tag Manager,HSTS,Nginx,Ruby on Rails]
+https://docs.starknet.io [200] [] [202808] [Index - Starknet Documentation] [Vercel] [66.33.60.66] [852.060218ms] [Cloudflare,HSTS,Vercel]
+https://gasback.shape.network [200] [] [154214] [Gasback | Shape] [Vercel] [76.76.21.164] [451.411239ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://drops.shape.network [200] [] [389376] [Drops | Shape] [Vercel] [66.33.60.34] [411.372774ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://maximals.shape.network [200] [] [163878] [The Ecstasy of Maximals] [Vercel] [216.230.86.1] [235.835769ms] [HSTS,Vercel]
+https://letters.shape.network [200] [] [40872] [Letters from Shape] [Vercel] [216.230.84.1] [804.932262ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://sepolia.starkgate.starknet.io [200] [] [2642] [Bridge crypto to Starknet | StarkGate] [nginx/1.30.5] [35.190.35.38] [google] [165.890227ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.30.5]
+https://safe.shape.network [200] [] [19049] [Shape Safe] [AmazonS3] [99.84.203.33] [cloudfront] [531.002234ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://propulsion.starknet.io [200] [] [729664] [Allocation Announcement | Propulsion Program 2024] [Framer/0a675d1] [31.43.161.6] [336.584901ms] [Framer Sites,HSTS,HTTP/3,React]
+https://proof.starknet.io [200] [] [4630408] [Proof of Privacy — Starknet Accelerator] [Vercel] [216.150.1.129] [370.621535ms] [HSTS,Vercel]
+https://soneium.org [200] [] [21121] [Soneium] [AmazonS3] [3.167.163.109] [cloudfront] [792.838036ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://starkgate.starknet.io [200] [] [2642] [Bridge crypto to Starknet | StarkGate] [nginx/1.30.5] [34.54.107.90] [google] [167.830093ms] [Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.30.5]
+https://staging.safe.shape.network [200] [] [19023] [Shape Safe] [AmazonS3] [13.226.53.57] [cloudfront] [2.533195223s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://strk20.starknet.io [200] [] [15416] [STRK20 Privacy that works for crypto] [Vercel] [66.33.60.34] [186.606581ms] [Google Tag Manager,HSTS,React:18.3.1,Unpkg,Vercel]
+https://status.starknet.io [200] [] [99683] [Starknet Status] [AtlassianEdge] [18.160.225.20] [cloudfront] [400.932982ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://strkbtc.starknet.io [200] [] [153124] [strkBTC | Bitcoin on Starknet] [Caddy] [3.11.184.243] [686.590262ms] [Caddy,Google Analytics,Google Tag Manager]
+https://transaction.staging.safe.shape.network [200] [] [4607] [Safe Transaction Service] [] [65.109.223.110] [458.569934ms] [HSTS,Swagger UI,jsDelivr]
+https://transaction-testnet.safe.shape.network [200] [] [4607] [Safe Transaction Service] [] [95.217.168.145] [550.66432ms] [HSTS,Swagger UI,jsDelivr]
+https://transaction-testnet.staging.safe.shape.network [200] [] [4607] [Safe Transaction Service] [] [65.109.223.110] [546.360385ms] [HSTS,Swagger UI,jsDelivr]
+https://vip.starknet.io [200] [] [8211] [Starknet VIP] [] [51.24.108.165] [342.086739ms] [Next.js,Node.js,React,Webpack]
+https://status.safe.shape.network [200] [] [26731] [Shape - Status] [] [142.132.149.97] [2.667637492s] [HSTS,HTTP/3,UIKit,jQuery:3.7.1]
+https://transaction.safe.shape.network [200] [] [4607] [Safe Transaction Service] [] [95.217.168.145] [679.068279ms] [HSTS,Swagger UI,jsDelivr]
+https://www.starknet.io [200] [] [94518] [Starknet | The ZK Execution Layer Scaling Ethereum and Bitcoin] [cloudflare] [162.159.137.54] [cloudflare] [158.020173ms] [Clipboard.js,Cloudflare,Cloudflare Bot Management,Cloudways,Contact Form 7,Google Tag Manager,HTTP/3,MySQL,PHP,Prism,Slick,WordPress,jQuery,jQuery Migrate,reCAPTCHA]
+https://shape.network [200] [] [1727211] [Shape - the network for onchain objects] [Vercel] [76.76.21.21] [4.569050652s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://bridge.soneium.org [301] [https://soneium.org/en/bridges/] [0] [CloudFront] [3.162.174.8] [cloudfront] [129.825855ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://explorer-testnet.soneium.org [301] [https://soneium-minato.blockscout.com/] [0] [CloudFront] [3.162.174.8] [cloudfront] [282.703561ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://explorer-sepolia.shape.network [301] [https://sepolia.shapescan.xyz/] [523] [301 Moved Permanently] [cloudflare] [104.26.1.65] [cloudflare] [567.584854ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://starknet.io [301] [https://www.starknet.io/] [349] [301 Moved Permanently] [cloudflare] [162.159.136.54] [cloudflare] [1.279203898s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+
+## 302
+https://gateway.safe.shape.network [302] [/api] [26] [] [95.217.168.145] [841.369612ms] [Express,HSTS,Node.js]
+https://gateway.staging.safe.shape.network [302] [/api] [26] [] [65.109.223.110] [864.384293ms] [Express,HSTS,Node.js]
+https://staging.stack.shape.network [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.stack.shape.network%2F&nonce=c5b8e1e2a4ec2d38277afabb10725fb58271068584f492f4a9759099c335a670] [263] [Vercel] [76.76.21.61] [3.349168899s] [HSTS,Vercel]
+https://staging.shape.network [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstaging.shape.network%2F&nonce=6ead8ec7e4415076eb923aa242ff36c6b6a00145203ba635b0d1054d605499e1] [263] [Vercel] [66.33.60.193] [3.395481325s] [HSTS,Vercel]
+https://userdx.starknet.io [302] [https://www.eu1.fullstory.com] [52] [] [34.8.116.253] [google] [249.334583ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 307
+https://portal.soneium.org [307] [/en] [3] [] [108.159.227.91] [cloudfront] [679.470304ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://status.soneium.org [307] [https://instatus.com] [10507] [Vercel] [76.76.21.142] [214.109811ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://stack-api.shape.network [307] [/docs] [5101] [Stack API] [Vercel] [216.230.84.193] [4.764861356s] [C3.js,HSTS,Vercel]
+https://tools.internal.shape.network [307] [/login] [11573] [Shape Tools] [Vercel] [66.33.60.35] [1.531653629s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.shape.network [307] [https://shape.network/] [15] [Vercel] [76.76.21.142] [360.437259ms] [HSTS,Vercel]
+
+## 308
+
+## 401
+https://manifesto.shape.network [401] [] [15552] [Protected Page] [Vercel] [76.76.21.98] [187.694616ms] [HSTS,Vercel]
+https://stg.ip.soneium.org [401] [] [0] [CloudFront] [99.84.203.86] [cloudfront] [690.656417ms] [Amazon CloudFront,Amazon Web Services,Basic,HSTS]
+
+## 403
+https://api.vip.starknet.io [403] [] [42] [] [13.134.54.234] [529.907985ms]
+http://cms.soneium.org [403] [] [17] [cloudflare] [172.66.0.96] [cloudflare] [403.796645ms] [Cloudflare]
+https://flower-transaction-testnet.staging.safe.shape.network [403] [] [146] [403 Forbidden] [] [65.109.223.110] [507.311397ms] [HSTS]
+https://flower-transaction.staging.safe.shape.network [403] [] [548] [403 Forbidden] [] [65.109.223.110] [468.571591ms] [HSTS]
+https://flower-transaction-testnet.safe.shape.network [403] [] [146] [403 Forbidden] [] [95.217.168.145] [695.814598ms] [HSTS]
+https://flower-transaction.safe.shape.network [403] [] [146] [403 Forbidden] [] [95.217.168.145] [710.291998ms] [HSTS]
+https://privacy.starknet.io [403] [] [243] [AmazonS3] [3.167.152.129] [cloudfront] [164.976868ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://strkbtc-telemetry.starknet.io [403] [] [18] [] [34.111.111.181] [google] [146.875443ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://test-metric-block-id-to-hash.stress-tests.starknet.io [403] [] [134] [403] [] [34.149.249.190] [google] [1.389871245s] [HTTP/3]
+https://user-content.shape.network [403] [] [111] [AmazonS3] [3.170.185.70] [cloudfront] [229.068836ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 404
+https://alpha-sepolia.starknet.io [404] [] [74] [] [34.128.135.184] [google] [196.85783ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://alpha-mainnet.starknet.io [404] [] [74] [] [34.110.196.63] [google] [221.805714ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://agent.starknet.io [404] [] [107] [Vercel] [216.150.1.129] [249.767025ms] [HSTS,Vercel]
+https://api.faucet.starknet.io [404] [] [46] [cloudflare] [216.24.57.16] [465.194568ms] [Cloudflare,HSTS,HTTP/3,Render]
+https://ask.starknet.io [404] [] [107] [Vercel] [216.150.1.193] [238.95454ms] [HSTS,Vercel]
+https://feeder.alpha-mainnet.starknet.io [404] [] [74] [] [34.54.139.92] [google] [152.543302ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://feeder.integration-sepolia.starknet.io [404] [] [74] [] [34.49.177.225] [google] [227.127937ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://feeder.alpha-sepolia.starknet.io [404] [] [74] [] [34.117.49.230] [google] [447.78198ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://integration-sepolia.starknet.io [404] [] [74] [] [34.36.79.213] [google] [144.365497ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://ingest.shape.network [404] [] [105] [envoy] [54.90.36.212] [281.512113ms] [Envoy]
+https://metadata.shape.network [404] [] [23] [] [18.210.48.147] [203.28505ms]
+https://sequencer-gateway.apollo-mainnet-0.starknet.io [404] [] [74] [] [34.128.187.29] [google] [136.370392ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-mainnet-1.starknet.io [404] [] [74] [] [34.110.196.63] [google] [122.793663ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-mainnet-2.starknet.io [404] [] [74] [] [34.117.95.209] [google] [129.351462ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-mainnet-4.starknet.io [404] [] [74] [] [34.49.187.99] [google] [159.91175ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-mainnet-5.starknet.io [404] [] [74] [] [34.102.169.213] [google] [154.254589ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-mainnet-3.starknet.io [404] [] [74] [] [34.160.164.163] [google] [232.444925ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-sepolia-alpha-1.starknet.io [404] [] [74] [] [34.8.100.154] [google] [187.980291ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-sepolia-alpha-4.starknet.io [404] [] [74] [] [34.13.118.129] [google] [129.121864ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-sepolia-alpha-5.starknet.io [404] [] [74] [] [34.8.102.27] [google] [120.058001ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-sepolia-alpha-2.starknet.io [404] [] [74] [] [34.144.202.203] [google] [177.479703ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-sepolia-integration-0.starknet.io [404] [] [74] [] [34.8.13.158] [google] [172.936119ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-sepolia-alpha-0.starknet.io [404] [] [74] [] [34.102.221.193] [google] [450.312913ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-sepolia-integration-1.starknet.io [404] [] [74] [] [34.36.79.213] [google] [181.626134ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-sepolia-integration-2.starknet.io [404] [] [74] [] [35.244.232.83] [google] [201.197145ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://sequencer-gateway.apollo-sepolia-alpha-3.starknet.io [404] [] [74] [] [34.128.135.184] [google] [439.070625ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://strk-circulating-supply.starknet.io [404] [] [34] [] [52.56.224.246] [389.191068ms] [HSTS]
+https://url6255.soneium.org [404] [] [1260] [404 Not Found] [cloudflare] [172.64.154.133] [cloudflare] [240.489454ms] [Cloudflare,Cloudflare Bot Management]
+https://wstethmigration.starknet.io [404] [] [107] [Vercel] [216.198.79.67] [542.44166ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+https://www.strk-circulating-supply.starknet.io [503] [] [256] [Service Suspended] [cloudflare] [216.24.57.16] [2.270872622s] [Cloudflare,HTTP/3]
+

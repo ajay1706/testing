@@ -1,0 +1,2 @@
+https://manifesto.shape.network [401] [] [15552] [Protected Page] [Vercel] [76.76.21.98] [187.694616ms] [HSTS,Vercel]
+https://stg.ip.soneium.org [401] [] [0] [CloudFront] [99.84.203.86] [cloudfront] [690.656417ms] [Amazon CloudFront,Amazon Web Services,Basic,HSTS]
