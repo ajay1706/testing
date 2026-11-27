@@ -1,0 +1,2 @@
+https://data.hashrateindex.com [307] [/bitcoin-compute-data/bitcoin-hashprice-index] [45] [cloudflare] [104.26.14.12] [cloudflare] [117.845484ms] [Cloudflare]
+https://data.beta.hashrateindex.com [307] [/bitcoin-compute-data/bitcoin-hashprice-index] [45] [cloudflare] [172.67.74.67] [cloudflare] [160.284302ms] [Cloudflare]
