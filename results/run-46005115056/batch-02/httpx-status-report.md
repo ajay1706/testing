@@ -1,0 +1,114 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:20:03 UTC 2026
+
+HTTPX lines: 129
+Live URLs: 129
+
+## 200
+https://app.debridge.com [200] [] [12715] [deBridge | Instant Cross-Chain Swaps & Transfers] [cloudflare] [172.66.40.121] [cloudflare] [188.73473ms] [Cloudflare,Express,HSTS,Node.js]
+https://arb.backspin.chainflip.io [200] [] [0] [cloudflare] [104.26.9.210] [cloudflare] [261.386004ms] [Cloudflare]
+https://auctions.chainflip.io [200] [] [3870] [Chainflip Validators, Operators & Staking] [cloudflare] [104.26.9.210] [cloudflare] [437.7247ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://auctions-perseverance.chainflip.io [200] [] [3950] [Chainflip Validators, Operators & Staking] [cloudflare] [104.26.8.210] [cloudflare] [459.313901ms] [Cloudflare,Cloudflare Browser Insights]
+https://btc-rpc.chainflip.io [200] [] [247] [cloudflare] [104.26.8.210] [cloudflare] [180.626541ms] [Cloudflare]
+https://app.perseverance.chainflip.io [200] [] [5614] [Earn, Borrow & Lend Cross-Chain | Chainflip Apps] [cloudflare] [104.26.8.210] [cloudflare] [521.072977ms] [Cloudflare,Cloudflare Browser Insights]
+https://agents.debridge.com [200] [] [132066] [deBridge MCP Server — Cross-Chain DeFi for AI Agents] [cloudflare] [172.66.40.121] [cloudflare] [602.794948ms] [Cloudflare,Express,HSTS,Node.js]
+https://blocks-perseverance.chainflip.io [200] [] [4341] [Chainflip Explorer: Swaps, Pools & Network Activity] [cloudflare] [104.26.9.210] [cloudflare] [445.096025ms] [Cloudflare,Cloudflare Browser Insights]
+https://docs.chroniclelabs.org [200] [] [12483] [Home | Chronicle Docs] [Vercel] [216.150.16.1] [158.68522ms] [Docusaurus:3.0.1,HSTS,React,Vercel,Webpack]
+https://eth.backspin.chainflip.io [200] [] [0] [cloudflare] [172.67.73.43] [cloudflare] [283.500781ms] [Cloudflare]
+https://app.chainflip.io [200] [] [190650] [Chainflip Maintenance] [cloudflare] [172.67.73.43] [cloudflare] [707.988316ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://demo.chainflip.io [200] [] [22537] [Chainflip Cross-Chain Swaps] [cloudflare] [172.67.73.43] [cloudflare] [571.107681ms] [Cloudflare,Cloudflare Browser Insights]
+https://auctions.perseverance.chainflip.io [200] [] [3950] [Chainflip Validators, Operators & Staking] [cloudflare] [104.26.8.210] [cloudflare] [1.837352491s] [Cloudflare,Cloudflare Browser Insights]
+https://debridge.com [200] [] [121057] [deBridge | Instant Cross-Chain Swaps & Transfers] [cloudflare] [172.66.43.135] [cloudflare] [195.129965ms] [Cloudflare,Google Analytics,HSTS]
+https://docs.debridge.com [200] [] [173405] [What is deBridge? - deBridge Home] [cloudflare] [162.159.143.13] [cloudflare] [120.251939ms] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Vercel]
+https://docs.chainflip.io [200] [] [205994] [Chainflip Docs – Chainflip documentation] [Vercel] [216.150.16.193] [139.256852ms] [HSTS,Vercel]
+https://liquidity-provision-perseverance.chainflip.io [200] [] [5614] [Earn, Borrow & Lend Cross-Chain | Chainflip Apps] [cloudflare] [104.26.8.210] [cloudflare] [478.087786ms] [Cloudflare,Cloudflare Browser Insights]
+https://lp.perseverance.chainflip.io [200] [] [5614] [Earn, Borrow & Lend Cross-Chain | Chainflip Apps] [cloudflare] [172.67.73.43] [cloudflare] [472.597585ms] [Cloudflare,Cloudflare Browser Insights]
+https://network.perseverance.chainflip.io [200] [] [3950] [Chainflip Validators, Operators & Staking] [cloudflare] [104.26.8.210] [cloudflare] [461.243236ms] [Cloudflare,Cloudflare Browser Insights]
+https://network.chainflip.io [200] [] [3870] [Chainflip Validators, Operators & Staking] [cloudflare] [104.26.9.210] [cloudflare] [493.702724ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://artifacts.chainflip.io [200] [] [361071] [cloudflare] [172.67.73.43] [cloudflare] [1.178796787s] [Amazon Web Services,Cloudflare]
+https://liquidity-provision.chainflip.io [200] [] [190650] [Chainflip Maintenance] [cloudflare] [172.67.73.43] [cloudflare] [709.073413ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://lp.chainflip.io [200] [] [190650] [Chainflip Maintenance] [cloudflare] [104.26.9.210] [cloudflare] [743.472902ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://chainflip.io [200] [] [944944] [Chainflip.io | Cross-Chain Decentralised Swaps with Excellent Pricing] [Framer/0a675d1] [31.43.160.6] [145.919955ms] [Framer Sites,HSTS,HTTP/3,React]
+https://repo.chainflip.io [200] [] [254] [AmazonS3] [3.167.99.44] [cloudfront] [2.424775818s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://scan.chainflip.io [200] [] [4261] [Chainflip Explorer: Swaps, Pools & Network Activity] [cloudflare] [104.26.8.210] [cloudflare] [417.484072ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://status.chainflip.io [200] [] [38659] [Public status page] [nginx] [34.46.46.16] [google] [2.190380195s] [Nginx]
+https://status.debridge.com [200] [] [5143] [deBridge Status Page] [] [18.160.10.72] [cloudfront] [2.573943509s] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://swap-perseverance.chainflip.io [200] [] [22537] [Chainflip Cross-Chain Swaps] [cloudflare] [104.26.8.210] [cloudflare] [561.955795ms] [Cloudflare,Cloudflare Browser Insights]
+https://swap.perseverance.chainflip.io [200] [] [22537] [Chainflip Cross-Chain Swaps] [cloudflare] [104.26.9.210] [cloudflare] [573.694138ms] [Cloudflare,Cloudflare Browser Insights]
+https://swap.chainflip.io [200] [] [190650] [Chainflip Maintenance] [cloudflare] [104.26.9.210] [cloudflare] [723.894951ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 301
+https://blog.chainflip.io [301] [https://chainflip.io/blog/] [167] [301 Moved Permanently] [cloudflare] [104.26.9.210] [cloudflare] [64.230499ms] [Cloudflare]
+https://explorer.debridge.com [301] [https://app.debridge.com/explorer] [167] [301 Moved Permanently] [cloudflare] [172.66.43.135] [cloudflare] [239.848536ms] [Cloudflare]
+http://http-sepolia-arb-rpc-2-latitude.chainflip.io [301] [https://http-sepolia-arb-rpc-2-latitude.chainflip.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.8.210] [cloudflare] [26.817314ms] [Cloudflare,Cloudflare Browser Insights]
+http://http.sepolia.arb.2.chainflip.io [301] [https://http.sepolia.arb.2.chainflip.io/] [528] [301 Moved Permanently] [cloudflare] [172.67.73.43] [cloudflare] [28.312104ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://reporting-service.chainflip.io [301] [https://reporting-service.chainflip.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.9.210] [cloudflare] [5.054974864s] [Cloudflare,Cloudflare Browser Insights]
+http://scan.perseverance.chainflip.io [301] [https://scan.perseverance.chainflip.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.9.210] [cloudflare] [50.888561ms] [Cloudflare,Cloudflare Browser Insights]
+http://rpc.solana-mainnet.chainflip.io [301] [https://rpc.solana-mainnet.chainflip.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.9.210] [cloudflare] [2.053426132s] [Cloudflare,Cloudflare Browser Insights]
+http://ws-sepolia-arb-rpc-2-latitude.chainflip.io [301] [https://ws-sepolia-arb-rpc-2-latitude.chainflip.io/] [528] [301 Moved Permanently] [cloudflare] [104.26.9.210] [cloudflare] [27.858223ms] [Cloudflare,Cloudflare Browser Insights]
+http://ws.sepolia.arb.2.chainflip.io [301] [https://ws.sepolia.arb.2.chainflip.io/] [528] [301 Moved Permanently] [cloudflare] [172.67.73.43] [cloudflare] [38.653543ms] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+
+## 302
+https://admin.chroniclelabs.org [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fadmin.chroniclelabs.org%2F&nonce=20c9cdfa71cbf6645aa9e159911f44dc7461b2895a2e4a225137dc0848f6c388] [263] [Vercel] [66.33.60.194] [269.634275ms] [HSTS,Vercel]
+https://blog-admin.chroniclelabs.org [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fblog-admin.chroniclelabs.org%2F&nonce=d0b958bd46472ad2c9bb8ab3a63e9e3101bc08d6e68b0c002732d829b6e68ee4] [263] [cloudflare] [104.26.3.245] [cloudflare] [236.052636ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://gas-consumption.chroniclelabs.org [302] [https://chroniclelabs.cloudflareaccess.com/cdn-cgi/access/login/gas-consumption.chroniclelabs.org?kid=782b439292d9def8ad769586dcaadef8e8769df88626ee6dc40ed85a2905289d&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImYzZTYyODJiMGE2YzQ1YzJlNjUzZjE5YjRlM2VmMzRkOGY4ZTU2ZGU3ZTNjMzAxMTNjYTU1ZWIwZWJlNzFhMWEifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6Ijc4MmI0MzkyOTJkOWRlZjhhZDc2OTU4NmRjYWFkZWY4ZTg3NjlkZjg4NjI2ZWU2ZGM0MGVkODVhMjkwNTI4OWQiLCJob3N0bmFtZSI6Imdhcy1jb25zdW1wdGlvbi5jaHJvbmljbGVsYWJzLm9yZyIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk1Nzg1ODc4LCJuYmYiOjE3OTU3ODU1NzgsImlhdCI6MTc5NTc4NTU3OCwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6Ijk5ZDk3YjU0OWVjOTgwMzBkY2Y4MDg4MWRmNTdjYTM5ZjI4OGJiNWMwMDI0ZGFjZWM4MzBkZjRkODA3MWNjZDIifQ.GBnDohcsvscaxdE-jPUWOqsNzrTGpbmXWh6GzI7r1E-G9MwAVTr8niPnvg-D5vEK6Eb2EVikGw4GU7iOzBasMiYSXihDoI-qzk9NXi6DMe0A3I2IGgVstYe5T-MPRd0xf1Edl3vTusYW942_9sdio_HlcONegplzT16nhF3KgjyGgpVuWAdWp80Jx01p8tBy5y8Uwpp-EXkY7sHypscb7JkqiALMvJi5RakW4YYvK5NVhOwkgToUbPcuVZFOFRbfxNnugNf7OMvlpahZXNppfDf94q6mBSWQVCML9icsiLwSTECg8tt5QzgfzfXGBhjlZtM1lltU528SbqGaa8DmhA&redirect_url=%2F] [504] [302 Found] [cloudflare] [104.26.3.245] [cloudflare] [243.832788ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://stage.chroniclelabs.org [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fstage.chroniclelabs.org%2F&nonce=b66bcf10eaf8b34d92a5db2861ec7f71a5329c9341a103dd14b58d13d075a9ba] [263] [Vercel] [216.150.16.193] [1.147146235s] [HSTS,Vercel]
+https://www.debridge.com [302] [https://debridge.com/] [143] [302 Found] [cloudflare] [172.66.43.135] [cloudflare] [72.891399ms] [Cloudflare]
+
+## 307
+
+## 308
+https://www.chainflip.io [308] [https://chainflip.io/] [57] [Framer/0a675d1] [31.43.161.6] [107.012998ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+https://http-mainnet-arb-rpc-latitude.chainflip.io [401] [] [951] [401 Authorization Required] [cloudflare] [172.67.73.43] [cloudflare] [440.263931ms] [Cloudflare,Cloudflare Browser Insights]
+https://http.mainnet.arb.chainflip.io [401] [] [549] [401 Authorization Required] [cloudflare] [172.67.73.43] [cloudflare] [511.894602ms] [Cloudflare,Cloudflare Browser Insights]
+https://ws-mainnet-arb-rpc-latitude.chainflip.io [401] [] [951] [401 Authorization Required] [cloudflare] [104.26.8.210] [cloudflare] [364.357601ms] [Cloudflare,Cloudflare Browser Insights]
+https://ws.mainnet.arb.chainflip.io [401] [] [549] [401 Authorization Required] [cloudflare] [172.67.73.43] [cloudflare] [360.304243ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 403
+https://devops.chroniclelabs.org [403] [] [17] [cloudflare] [104.26.2.245] [cloudflare] [74.794559ms] [Cloudflare]
+https://dummy-exporter.perseverance.chainflip.io [403] [] [17] [cloudflare] [172.67.73.43] [cloudflare] [136.143265ms] [Cloudflare]
+
+## 404
+https://assets.chainflip.io [404] [] [27511] [Not Found] [cloudflare] [104.26.9.210] [cloudflare] [193.148774ms] [Cloudflare,Cloudflare Browser Insights]
+https://cdn.debridge.com [404] [] [0] [cloudflare] [172.66.43.135] [cloudflare] [146.067423ms] [Cloudflare]
+https://cache-service.chainflip.io [404] [] [500] [Error] [cloudflare] [104.26.9.210] [cloudflare] [440.410613ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://chainflip-cache-perseverance.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [443.766434ms] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://customerio-proxy.chainflip.io [404] [] [207] [404 Not Found] [Fly/9bb2ac9a88 (2026-11-23)] [66.241.124.201] [175.417439ms] [Fly.io]
+https://chainflip-swap.chainflip.io [404] [] [500] [Error] [cloudflare] [104.26.9.210] [cloudflare] [439.376346ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://chainflip-swap-perseverance.chainflip.io [404] [] [500] [Error] [cloudflare] [104.26.8.210] [cloudflare] [475.502281ms] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://explorer-service-processor.chainflip.io [404] [] [500] [Error] [cloudflare] [104.26.8.210] [cloudflare] [513.662155ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://http-sepolia-arb-rpc-latitude.chainflip.io [404] [] [19] [cloudflare] [172.67.73.43] [cloudflare] [280.343813ms] [Cloudflare]
+https://http.sepolia.arb.chainflip.io [404] [] [19] [cloudflare] [172.67.73.43] [cloudflare] [162.921926ms] [Cloudflare]
+https://lp-service.perseverance.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [452.214633ms] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://lp-service.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [477.015268ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://lp-service.mainnet.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [494.112403ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://reporting-service.perseverance.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [2.427026565s] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://processor-perseverance.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [3.447810908s] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://r.debridge.com [404] [] [103] [cloudflare] [172.66.43.135] [cloudflare] [4.354543068s] [Cloudflare]
+https://pkgs.chainflip.io [404] [] [365] [404 Not Found] [AmazonS3] [18.67.76.28] [cloudfront] [7.241621091s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://snapshots.chainflip.io [404] [] [27511] [Not Found] [cloudflare] [104.26.8.210] [cloudflare] [5.251337473s] [Cloudflare,Cloudflare Browser Insights]
+https://ws-sepolia-arb-rpc-latitude.chainflip.io [404] [] [19] [cloudflare] [172.67.73.43] [cloudflare] [115.881506ms] [Cloudflare]
+https://ws.sepolia.arb.chainflip.io [404] [] [19] [cloudflare] [172.67.73.43] [cloudflare] [108.682883ms] [Cloudflare]
+
+## 500
+https://cache-service.chainflip.io [404] [] [500] [Error] [cloudflare] [104.26.9.210] [cloudflare] [440.410613ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://chainflip-cache-perseverance.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [443.766434ms] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://chainflip-swap.chainflip.io [404] [] [500] [Error] [cloudflare] [104.26.9.210] [cloudflare] [439.376346ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://chainflip-swap-perseverance.chainflip.io [404] [] [500] [Error] [cloudflare] [104.26.8.210] [cloudflare] [475.502281ms] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://explorer-service-processor.chainflip.io [404] [] [500] [Error] [cloudflare] [104.26.8.210] [cloudflare] [513.662155ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://lp-service.perseverance.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [452.214633ms] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://lp-service.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [477.015268ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://lp-service.mainnet.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [494.112403ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,Node.js]
+https://reporting-service.perseverance.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [2.427026565s] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+https://processor-perseverance.chainflip.io [404] [] [500] [Error] [cloudflare] [172.67.73.43] [cloudflare] [3.447810908s] [Cloudflare,Cloudflare Browser Insights,Express,Node.js]
+
+## 502
+https://rpc.backspin.chainflip.io [502] [] [16] [cloudflare] [104.26.8.210] [cloudflare] [6.185248802s] [Cloudflare]
+https://ws.sol.backspin.chainflip.io [502] [] [16] [cloudflare] [104.26.9.210] [cloudflare] [191.395321ms] [Cloudflare]
+
+## 503
+https://perseverance-rpc.chainflip.io [503] [] [3853] [Site not available] [cloudflare] [104.26.8.210] [cloudflare] [1.561320304s] [Cloudflare,Cloudflare Browser Insights]
+

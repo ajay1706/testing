@@ -1,0 +1,4 @@
+https://http-mainnet-arb-rpc-latitude.chainflip.io [401] [] [951] [401 Authorization Required] [cloudflare] [172.67.73.43] [cloudflare] [440.263931ms] [Cloudflare,Cloudflare Browser Insights]
+https://http.mainnet.arb.chainflip.io [401] [] [549] [401 Authorization Required] [cloudflare] [172.67.73.43] [cloudflare] [511.894602ms] [Cloudflare,Cloudflare Browser Insights]
+https://ws-mainnet-arb-rpc-latitude.chainflip.io [401] [] [951] [401 Authorization Required] [cloudflare] [104.26.8.210] [cloudflare] [364.357601ms] [Cloudflare,Cloudflare Browser Insights]
+https://ws.mainnet.arb.chainflip.io [401] [] [549] [401 Authorization Required] [cloudflare] [172.67.73.43] [cloudflare] [360.304243ms] [Cloudflare,Cloudflare Browser Insights]
