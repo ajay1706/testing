@@ -1,0 +1,4 @@
+https://get.trmlabs.com [301] [https://www.trmlabs.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [488.018048ms] [Cloudflare,HSTS,HTTP/3]
+https://blog.trmlabs.com [301] [https://www.trmlabs.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [623.17026ms] [Cloudflare,HSTS,HTTP/3]
+http://santa-sync.trmlabs.com [301] [https://santa-sync.trmlabs.com/] [0] [] [20.98.55.169] [79.14894ms]
+https://trmlabs.com [301] [https://www.trmlabs.com/] [166] [301 Moved Permanently] [cloudflare] [104.18.17.105] [cloudflare] [364.392811ms] [Cloudflare,HSTS,HTTP/3]
