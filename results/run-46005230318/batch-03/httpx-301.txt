@@ -1,0 +1,8 @@
+https://gondi.xyz [301] [https://www.gondi.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.244] [cloudflare] [3.06497021s] [Cloudflare]
+http://flagr.magiceden.io [301] [https://flagr.magiceden.io/] [528] [301 Moved Permanently] [cloudflare] [172.64.148.178] [cloudflare] [3.047727874s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://polygon.magiceden.io [301] [https://magiceden.io/polygon] [167] [301 Moved Permanently] [cloudflare] [172.64.148.178] [cloudflare] [4.042871158s] [Cloudflare,HTTP/3]
+http://prerelease.gondi.xyz [301] [https://prerelease.gondi.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.244] [cloudflare] [3.093938324s] [Cloudflare]
+http://sentinel.solana.magiceden.io [301] [https://sentinel.solana.magiceden.io/] [528] [301 Moved Permanently] [cloudflare] [172.64.148.178] [cloudflare] [31.311606ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://www.magiceden.io [301] [https://magiceden.io/] [167] [301 Moved Permanently] [cloudflare] [172.64.148.178] [cloudflare] [36.870116ms] [Cloudflare,HTTP/3]
+https://www.manifold.xyz [301] [https://manifold.xyz/] [0] [AmazonS3] [18.154.185.109] [cloudfront] [2.036736799s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+http://www.gondi.xyz [301] [https://www.gondi.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.244] [cloudflare] [94.913958ms] [Cloudflare]
