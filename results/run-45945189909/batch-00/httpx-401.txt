@@ -1,0 +1,5 @@
+https://alephium-testnet.alephium.org [401] [] [157] [cloudflare] [104.21.49.238] [cloudflare] [416.829013ms] [Cloudflare,HTTP/3]
+https://explorer.wormhole-testnet.alephium.org [401] [] [157] [] [34.90.177.175] [google] [3.325575122s]
+https://guardian-1.wormhole-testnet.alephium.org [401] [] [157] [] [34.90.177.175] [google] [303.97342ms]
+https://portal-bridge.wormhole-testnet.alephium.org [401] [] [157] [] [34.90.177.175] [google] [2.330849368s]
+https://server.governance.aeternity.com [401] [] [157] [] [35.157.172.43] [351.643154ms]
