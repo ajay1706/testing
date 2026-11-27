@@ -1,0 +1,8 @@
+https://zh.deepbook.tech [301] [https://deepbook.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.168] [cloudflare] [71.373902ms] [Cloudflare]
+https://ko.deepbook.tech [301] [https://deepbook.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.168] [cloudflare] [82.216685ms] [Cloudflare]
+https://bucketprotocol.io [301] [https://www.bucketprotocol.io/] [15] [Vercel] [216.150.1.193] [92.95457ms] [HSTS,Vercel]
+https://claim.deepbook.tech [301] [https://deepbook.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.168] [cloudflare] [94.026155ms] [Cloudflare]
+https://www.deepbook.tech [301] [https://deepbook.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.2.168] [cloudflare] [96.45089ms] [Cloudflare]
+https://deepbook.tech [301] [https://deepbook.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.26.3.168] [cloudflare] [466.771502ms] [Cloudflare]
+https://asastats.com [301] [https://www.asastats.com/] [166] [301 Moved Permanently] [openresty] [46.4.59.234] [897.141307ms] [HSTS,Nginx,OpenResty]
+http://blog.asastats.com [301] [https://medium.com/@asastats] [63] [ip-10-123-124-211.ec2.internal] [15.197.142.173] [9.148494ms]
