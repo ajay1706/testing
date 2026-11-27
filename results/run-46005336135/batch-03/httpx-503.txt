@@ -1,0 +1,5 @@
+https://almanac-mcp.beacon-staging.gitcoin.co [503] [] [20] [] [3.163.158.39] [cloudfront] [657.395447ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://hooks.infra.gitcoin.co [503] [] [20] [] [46.62.227.166] [591.986229ms] [HTTP/3]
+https://moved-apicoop-rules.beacon-staging.gitcoin.co [503] [] [20] [] [143.204.1.66] [cloudfront] [605.288166ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://plc.beacon-staging.gitcoin.co [503] [] [20] [] [143.204.1.49] [cloudfront] [588.246177ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://tap.beacon-staging.gitcoin.co [503] [] [20] [] [3.163.158.22] [cloudfront] [575.815069ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]

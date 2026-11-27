@@ -1,0 +1,2 @@
+https://test-pin.fileverse.io [502] [] [568] [502 Bad Gateway] [nginx/1.28.3 (Ubuntu)] [91.98.188.207] [557.65003ms] [Nginx:1.28.3,Ubuntu]
+https://swag.giveth.io [502] [] [0] [Caddy] [138.197.189.37] [3.525274878s] [Caddy,HTTP/3]
