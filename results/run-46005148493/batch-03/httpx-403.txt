@@ -1,0 +1,6 @@
+https://api.getgems.io [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [99.84.203.12] [cloudfront] [104.849774ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3]
+https://getgems.io [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [13.226.53.22] [cloudfront] [107.731692ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://internal.getgems.io [403] [] [146] [403 Forbidden] [] [3.65.56.83] [440.094883ms] [HSTS]
+https://testnet.getgems.io [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [13.227.87.74] [cloudfront] [216.595033ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://videos.indigoprotocol.io [403] [] [111] [AmazonS3] [13.226.53.38] [cloudfront] [188.485148ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://s.getgems.io [403] [] [263] [AmazonS3] [3.167.138.78] [cloudfront] [584.97629ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]

@@ -1,0 +1,2 @@
+http://testnet.rpc.evaa.finance [301] [https://testnet.rpc.evaa.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.209] [cloudflare] [28.972724ms] [Cloudflare,HTTP/2]
+https://tge.evaa.finance [301] [https://token.evaa.finance/] [42] [cloudflare] [104.26.0.42] [cloudflare] [317.832368ms] [Cloudflare,Firebase]
