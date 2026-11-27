@@ -1,0 +1,2 @@
+https://query.wormhole.com [503] [] [27] [] [34.49.134.5] [google] [290.561023ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://testnet.query.wormhole.com [503] [] [27] [] [34.160.56.216] [google] [245.322779ms] [Google Cloud,Google Cloud CDN,HTTP/3]
