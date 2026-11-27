@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 27 13:18:37 UTC 2026
+[+] Run ID: 46005167494
+[+] Batch name: batch-03
+[+] Batch targets:
+pangolin.exchange
+plenty.network
+plugwallet.ooo
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 13:20:09 UTC 2026
+[+] HTTPX input count: 184
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 13:20:31 UTC 2026
+[+] httpx line count: 50
+[+] Batch completed: Fri Nov 27 13:20:31 UTC 2026

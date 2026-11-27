@@ -1,0 +1,5 @@
+https://ghostnet.data-config.plenty.network [301] [https://www.notified.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [100.25.119.115] [259.486594ms] [Amazon ELB,Amazon Web Services]
+https://plenty.network [301] [https://plenty.network:443/] [501] [301 Moved Permanently] [cloudflare] [172.67.215.213] [cloudflare] [247.306966ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://telegram.pangolin.exchange [301] [https://pangoai.app/pangotg/] [545] [301 Moved Permanently] [cloudflare] [104.21.15.189] [cloudflare] [593.34425ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://www.plugwallet.ooo [301] [https://plugwallet.ooo/] [0] [AmazonS3] [18.238.96.26] [cloudfront] [62.366325ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://www.plenty.network [301] [https://www.plenty.network:443/] [501] [301 Moved Permanently] [cloudflare] [104.21.53.176] [cloudflare] [244.112673ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
