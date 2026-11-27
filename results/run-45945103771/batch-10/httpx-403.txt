@@ -1,0 +1,4 @@
+https://api.mainnet.zircuit.com [403] [] [268] [ERROR: The request could not be satisfied] [awselb/2.0] [16.192.59.32] [725.655677ms] [Amazon ELB,Amazon Web Services]
+https://blockexplorerapi.eu-north-1.mainnet.zircuit.com [403] [] [268] [ERROR: The request could not be satisfied] [awselb/2.0] [16.192.59.32] [716.148287ms] [Amazon ELB,Amazon Web Services]
+https://clave.mainnet.era.zksync.io [403] [] [134] [403] [] [34.117.27.124] [google] [196.405708ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://static.zircuit.com [403] [] [111] [AmazonS3] [52.84.158.30] [cloudfront] [323.965461ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]

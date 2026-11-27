@@ -1,0 +1,103 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 05:40:48 UTC 2026
+
+HTTPX lines: 85
+Live URLs: 85
+
+## 200
+https://bridge.zksync.io [200] [] [307] [Redirecting...] [] [199.36.158.100] [52.612465ms] [Firebase,HSTS,HTTP/3]
+https://bridge.zircuit.com [200] [] [36200] [Zircuit bridge] [Vercel] [216.150.16.1] [132.727823ms] [HSTS,Vercel]
+https://checkout.zksync.io [200] [] [8717] [zkSync Lite Checkout | zkSync Lite Checkout] [cloudflare] [172.66.174.190] [cloudflare] [128.134321ms] [Cloudflare,Cloudflare Browser Insights,Firebase,Google Analytics,HSTS,Node.js,Nuxt.js,Vue.js]
+https://code.zksync.io [200] [] [235052] [ZKsync Community Code] [cloudflare] [104.20.22.228] [cloudflare] [138.230491ms] [Cloudflare,Cloudflare Browser Insights,Firebase,HSTS,Node.js,Nuxt.js,Vue.js]
+https://docs.zksync.io [200] [] [263011] [ZKsync Docs] [] [199.36.158.100] [167.213623ms] [Firebase,HSTS,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://eli5.zksync.io [200] [] [452] [Zero Knowledge Proofs for Kids] [] [199.36.158.100] [144.395753ms] [Firebase,HSTS,HTTP/3]
+https://explorer.zksync.io [200] [] [2562] [ZKsync Era Block Explorer] [cloudflare] [172.66.174.190] [cloudflare] [155.541169ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HSTS]
+https://exp.garfield-testnet.zircuit.com [200] [] [14278] [zircuit-garfield-testnet | Explorer] [cloudflare] [104.18.6.236] [cloudflare] [250.260083ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://explorer.zircuit.com [200] [] [14220] [zircuit-mainnet | Explorer] [cloudflare] [104.18.6.236] [cloudflare] [318.509351ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://ethstats.eu-north-1.mainnet.zircuit.com [200] [] [10516] [{{ $root.networkName }} Network Status] [] [56.228.143.56] [671.958322ms] [AngularJS,Express,Node.js]
+https://docs.zircuit.com [200] [] [484928] [Overview | Zircuit] [cloudflare] [172.64.147.209] [cloudflare] [330.536281ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://foundry-book.zksync.io [200] [] [36916] [foundry-zksync - ZKSync Ethereum Development Framework] [cloudflare] [104.20.22.228] [cloudflare] [105.586549ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://explorer-old.zircuit.com [200] [] [27121] [cloudflare] [99.86.101.42] [cloudfront] [824.878772ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,HSTS,Render]
+https://is-it-me-you-looking-for.zksync.io [200] [] [701] [Optimistic Layer 3 Bridging] [cloudflare] [172.66.174.190] [cloudflare] [127.739497ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://lite.zksync.io [200] [] [6858] [Withdraw Your Funds | zkSync Lite Sunset] [cloudflare] [104.20.22.228] [cloudflare] [64.504641ms] [Cloudflare,Cloudflare Browser Insights,Firebase,HSTS]
+https://portal.zksync.io [200] [] [5058] [ZKsync Bridge | Transfer funds between ZKsync and Ethereum] [cloudflare] [172.66.174.190] [cloudflare] [172.026982ms] [Cloudflare,Cloudflare Browser Insights,Firebase,HSTS,Node.js,Nuxt.js,Rudderstack,Vue.js]
+https://remix.zksync.io [200] [] [780] [zkSync remix plugin] [cloudflare] [172.66.174.190] [cloudflare] [121.335474ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://sepolia.explorer.zksync.io [200] [] [2562] [ZKsync Era Block Explorer] [cloudflare] [104.20.22.228] [cloudflare] [160.539106ms] [Cloudflare,Cloudflare Browser Insights,Google Cloud,Google Cloud CDN,HSTS]
+https://safe.zircuit.com [200] [] [5045] [Zircuit Safe] [AmazonS3] [52.84.158.87] [cloudfront] [625.945521ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://staging-docs.zksync.io [200] [] [421361] [zkSync Docs] [cloudflare] [104.20.22.228] [cloudflare] [160.874569ms] [Cloudflare,Cloudflare Browser Insights,Firebase,HSTS,Node.js,Nuxt.js,Vue.js]
+https://staging-code.zksync.io [200] [] [415248] [zkSync Community Code] [cloudflare] [104.20.22.228] [cloudflare] [317.658839ms] [Cloudflare,Cloudflare Browser Insights,Firebase,HSTS,Node.js,Nuxt.js,Vue.js]
+https://vendor-ethdenver.zksync.io [200] [] [9923] [ETHDenver Vendor App] [] [199.36.158.100] [178.282861ms] [Firebase,HSTS,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://withdraw.zksync.io [200] [] [6858] [Withdraw Your Funds | zkSync Lite Sunset] [cloudflare] [172.66.174.190] [cloudflare] [221.215626ms] [Cloudflare,Cloudflare Browser Insights,Firebase,HSTS]
+https://www.staging.zircuit.com [200] [] [7494] [Zircuit: Scale Safely, Explore Endlessly] [] [143.204.160.18] [cloudfront] [86.544491ms] [Amazon CloudFront,Amazon Web Services,Google Analytics,HSTS,jQuery:3.5.1,jsDelivr]
+https://zk-token-total-supply.mainnet.era.zksync.io [200] [] [30] [Google Frontend] [142.250.99.121] [google] [187.016094ms] [Google Cloud,Google Cloud Load Balancing,Google Cloud Trace]
+https://www.zircuit.com [200] [] [44207] [Zircuit - Innovation meets security. For everyone.] [] [52.84.158.84] [cloudfront] [195.035416ms] [Amazon CloudFront,Amazon Web Services,Google Analytics,Google Font API,Google Hosted Libraries,HSTS,jQuery:3.5.1]
+https://zksync-remix-plugin.zksync.io [200] [] [780] [zkSync remix plugin] [cloudflare] [172.66.174.190] [cloudflare] [104.316966ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://zksync-os.portal.zksync.io [200] [] [4544] [ZKsync Bridge | Transfer funds between ZKsync and Ethereum] [] [199.36.158.100] [157.139935ms] [Firebase,HSTS,HTTP/3,Node.js,Nuxt.js,Rudderstack,Vue.js]
+https://www.zksync.io [200] [] [687822] [ZKsync.io] [Vercel] [76.76.21.98] [108.726618ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://zksync-os-mainnet-dawn.explorer.zksync.io [200] [] [2702] [ZKsync Block Explorer] [cloudflare] [104.20.22.228] [cloudflare] [936.315791ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 301
+https://docs.lite.zksync.io [301] [/userdocs/] [25] [] [199.36.158.100] [162.801886ms] [Firebase,HTTP/3]
+https://ecosystem.zksync.io [301] [https://zksync.dappradar.com/] [44] [] [199.36.158.100] [85.479001ms] [Firebase,HTTP/3]
+https://enterprise.zksync.io [301] [https://zksync.io/enterprise] [43] [Netlify] [13.52.188.95] [99.320718ms] [HSTS,Netlify]
+https://docs.prividium.zksync.io [301] [https://docs.prividium.com/] [17] [] [91.98.6.146] [705.151564ms]
+https://sdk.zksync.io [301] [https://docs.zksync.io/zksync-era/sdk] [52] [] [199.36.158.100] [141.786085ms] [Firebase,HTTP/3]
+https://staging.zircuit.com [301] [http://www.staging.zircuit.com/] [166] [301 Moved Permanently] [] [143.204.160.53] [cloudfront] [478.040056ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://v2.zksync.io [301] [https://zksync.io/] [33] [] [199.36.158.100] [81.742305ms] [Firebase,HTTP/3]
+https://zircuit.com [301] [http://www.zircuit.com/] [166] [301 Moved Permanently] [] [3.163.24.8] [cloudfront] [353.401102ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+http://community.zksync.io [301] [https://community.zksync.io/] [528] [301 Moved Permanently] [cloudflare] [104.20.22.228] [cloudflare] [31.267966ms] [Cloudflare,Cloudflare Browser Insights]
+http://goerli-api.zksync.io [301] [https://goerli-api.zksync.io/] [528] [301 Moved Permanently] [cloudflare] [172.66.174.190] [cloudflare] [28.657048ms] [Cloudflare,Cloudflare Browser Insights]
+http://sepolia-api.zksync.io [301] [https://sepolia-api.zksync.io/] [528] [301 Moved Permanently] [cloudflare] [104.20.22.228] [cloudflare] [27.144795ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 302
+https://blog.zksync.io [302] [https://zksync.mirror.xyz/] [504] [302 Found] [cloudflare] [172.66.174.190] [cloudflare] [59.392797ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://era.zksync.io [302] [https://docs.zksync.io/] [504] [302 Found] [cloudflare] [172.66.174.190] [cloudflare] [66.086449ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://gateway.safe.zircuit.com [302] [/api] [26] [nginx/1.29.0] [13.50.116.92] [801.201515ms] [Express,Nginx:1.29.0,Node.js]
+https://solx.zksync.io [302] [https://nomic.foundation/slang-solx/] [504] [302 Found] [cloudflare] [104.20.22.228] [cloudflare] [89.617676ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://v2-docs.zksync.io [302] [https://era.zksync.io/docs/] [504] [302 Found] [cloudflare] [104.20.22.228] [cloudflare] [63.925266ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+
+## 307
+https://bridge.zksync.io [200] [] [307] [Redirecting...] [] [199.36.158.100] [52.612465ms] [Firebase,HSTS,HTTP/3]
+https://demoapp.airbender.zksync.io [307] [/thanks-for-playing] [15] [Vercel] [216.150.1.193] [214.560637ms] [HSTS,Vercel]
+https://finance.zircuit.com [307] [/dashboard] [10] [] [3.175.34.35] [cloudfront] [159.200103ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 308
+https://app.zircuit.com [308] [/liquidity-hub] [14] [Heroku] [143.204.1.8] [cloudfront] [319.682471ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://build.zircuit.com [308] [/liquidity-hub] [14] [Heroku] [143.204.1.14] [cloudfront] [333.96276ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://claim.zircuit.com [308] [/liquidity-hub] [14] [Heroku] [143.204.1.14] [cloudfront] [276.934775ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://festival.zircuit.com [308] [/liquidity-hub] [14] [Heroku] [99.86.101.42] [cloudfront] [321.017447ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://rebates.zircuit.com [308] [/liquidity-hub] [14] [Heroku] [99.86.101.55] [cloudfront] [311.565183ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://stake.zircuit.com [308] [/liquidity-hub] [14] [Heroku] [143.204.1.42] [cloudfront] [283.245753ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://zksync.io [308] [https://www.zksync.io/] [15] [Vercel] [76.76.21.21] [74.863888ms] [HSTS,Vercel]
+
+## 401
+https://integration.zircuit.com [401] [] [24] [Heroku] [3.169.173.14] [cloudfront] [318.972929ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://zksync-os-mainnet-dawn-prover.zksync.io [401] [] [17] [] [49.13.43.231] [565.463596ms] [Basic]
+
+## 403
+https://api.mainnet.zircuit.com [403] [] [268] [ERROR: The request could not be satisfied] [awselb/2.0] [16.192.59.32] [725.655677ms] [Amazon ELB,Amazon Web Services]
+https://blockexplorerapi.eu-north-1.mainnet.zircuit.com [403] [] [268] [ERROR: The request could not be satisfied] [awselb/2.0] [16.192.59.32] [716.148287ms] [Amazon ELB,Amazon Web Services]
+https://clave.mainnet.era.zksync.io [403] [] [134] [403] [] [34.117.27.124] [google] [196.405708ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://static.zircuit.com [403] [] [111] [AmazonS3] [52.84.158.30] [cloudfront] [323.965461ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+
+## 404
+https://api.zksync.io [404] [] [0] [] [34.123.193.192] [google] [152.326791ms] [HSTS]
+https://assets.zksync.io [404] [] [27511] [Not Found] [cloudflare] [104.20.22.228] [cloudflare] [319.130622ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://block-explorer-api.mainnet.zksync.io [404] [] [63] [] [34.111.165.211] [google] [123.553548ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://block-explorer-api.zksync-os-mainnet-dawn.zksync.io [404] [] [63] [] [49.13.43.231] [546.626587ms] [HSTS]
+https://collab.zksync.io [404] [] [2174] [Page Not Found] [] [35.205.106.218] [google] [473.355167ms] [HSTS]
+https://hello.zksync.io [404] [] [2174] [Page Not Found] [] [35.205.106.218] [google] [477.303187ms] [HSTS]
+https://privy.finance.staging.zircuit.com [404] [] [2] [cloudflare] [104.18.25.69] [cloudflare] [106.890303ms] [Cloudflare,Cloudflare Bot Management]
+https://prover-api.zksync.io [404] [] [0] [] [34.117.27.124] [google] [97.778389ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://privy.finance.production.zircuit.com [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [155.307928ms] [Cloudflare,Cloudflare Bot Management]
+https://privy.finance.zircuit.com [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [243.132252ms] [Cloudflare,Cloudflare Bot Management]
+https://zksync2-mainnet-explorer.zksync.io [404] [] [0] [] [34.117.27.124] [google] [102.825911ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 500
+
+## 502
+
+## 503
+https://status.safe.zircuit.com [503] [] [25] [awselb/2.0] [13.50.116.92] [739.320488ms] [Amazon ELB,Amazon Web Services]
+
