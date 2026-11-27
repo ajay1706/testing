@@ -1,0 +1,67 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:31:55 UTC 2026
+
+HTTPX lines: 38
+Live URLs: 38
+
+## 200
+https://beta-app.spark.fi [200] [] [3407] [Spark: Earn on your stablecoins] [Vercel] [76.76.21.98] [89.518769ms] [HSTS,Vercel]
+https://baseapp.spark.fi [200] [] [2789] [Spark: Earn on your stablecoins] [Vercel] [216.150.1.1] [143.491154ms] [HSTS,Vercel]
+https://suilend.fi [200] [] [1859] [Suilend | Sui's DeFi Suite] [cloudflare] [172.67.138.12] [cloudflare] [144.784117ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://api.suilend.fi [200] [] [2] [cloudflare] [172.67.138.12] [cloudflare] [222.119579ms] [Cloudflare,Envoy,Express,HTTP/3,Node.js]
+https://pitmaster.steakhouse.financial [200] [] [3572] [PitMaster] [] [34.239.23.192] [259.73011ms] [HSTS]
+https://pitmaster-app.steakhouse.financial [200] [] [807] [PitMaster] [AmazonS3] [143.204.1.41] [cloudfront] [278.825643ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://pitmaster-dev.steakhouse.financial [200] [] [3572] [PitMaster] [] [44.199.172.96] [293.714505ms] [HSTS]
+https://aladdin-app.steakhouse.financial [200] [] [807] [PitMaster] [AmazonS3] [143.204.1.30] [cloudfront] [319.564907ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://pre-release.app.suilend.fi [200] [] [1859] [Suilend | Sui's DeFi Suite] [cloudflare] [172.67.138.12] [cloudflare] [405.816755ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://books.steakhouse.financial [200] [] [27609] [Scottish Banking: A History, 1695-1973 — Data Companion] [Vercel] [216.150.16.1] [346.552909ms] [Cloudflare,HSTS,Vercel,cdnjs]
+https://global.suilend.fi [200] [] [2] [cloudflare] [104.21.70.177] [cloudflare] [500.833187ms] [Cloudflare,Envoy,Express,HTTP/3,Node.js]
+https://docs.suilend.fi [200] [] [383949] [Introduction to Sui's DeFi Suite | Suilend] [cloudflare] [104.21.70.177] [cloudflare] [425.529421ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://www.steakhouse.financial [200] [] [149376] [Steakhouse Financial | The Credit Stack for the Stablecoin Economy] [Vercel] [216.150.1.129] [571.747054ms] [HSTS,Vercel]
+https://kitchen.steakhouse.financial [200] [] [80276] [Steakhouse Financial Insights | adcv | Substack] [cloudflare] [104.18.36.24] [cloudflare] [396.658008ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,Google Analytics,HSTS,HTTP/3,Node.js,Substack]
+https://app.steakhouse.financial [200] [] [4125097] [Steakhouse - Institutional DeFi Vaults & Lending] [Vercel] [216.150.16.193] [388.230919ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://data.spark.fi [301] [https://data.spark.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.148.83] [cloudflare] [43.294601ms] [Cloudflare]
+https://blog.spark.fi [301] [https://blog.spark.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.148.83] [cloudflare] [46.080389ms] [Cloudflare]
+https://spark.fi [301] [https://spark.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.148.83] [cloudflare] [74.8039ms] [Cloudflare]
+https://api.spark.fi [301] [https://api.spark.finance/] [167] [301 Moved Permanently] [cloudflare] [104.20.23.197] [cloudflare] [80.0401ms] [Cloudflare]
+https://docs.spark.fi [301] [https://docs.spark.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.148.83] [cloudflare] [91.713058ms] [Cloudflare]
+https://backend.spark.fi [301] [https://backend.spark.finance/] [167] [301 Moved Permanently] [cloudflare] [104.20.23.197] [cloudflare] [112.13992ms] [Cloudflare]
+https://points.spark.fi [301] [https://points.spark.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.148.83] [cloudflare] [115.344727ms] [Cloudflare]
+https://devs.spark.fi [301] [https://docs.spark.fi/dev/] [167] [301 Moved Permanently] [cloudflare] [104.20.23.197] [cloudflare] [177.594664ms] [Cloudflare]
+https://app.spark.fi [301] [https://app.spark.finance/] [167] [301 Moved Permanently] [cloudflare] [104.20.23.197] [cloudflare] [181.2541ms] [Cloudflare]
+https://api-v2.spark.fi [301] [https://api-v2.spark.finance/] [167] [301 Moved Permanently] [cloudflare] [104.20.23.197] [cloudflare] [229.712616ms] [Cloudflare]
+https://www.spark.fi [301] [https://spark.finance/] [167] [301 Moved Permanently] [cloudflare] [172.66.148.83] [cloudflare] [126.691001ms] [Cloudflare]
+https://link.suilend.fi [301] [https://safary.link/] [0] [cloudflare] [172.67.138.12] [cloudflare] [573.97106ms] [Cloudflare,HTTP/3]
+
+## 302
+https://link.spark.fi [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=link.spark.fi] [111] [nginx] [67.199.248.12] [386.181859ms] [HSTS,HTTP/3,Nginx]
+https://borrow.steakhouse.financial [302] [/borrow] [201] [Redirecting...] [Vercel] [216.150.16.193] [511.12952ms] [HSTS,Vercel]
+
+## 307
+
+## 308
+https://steakhouse.financial [308] [https://www.steakhouse.financial/] [15] [Vercel] [216.150.1.1] [207.908486ms] [HSTS,Vercel]
+https://www.app.steakhouse.financial [308] [https://app.steakhouse.financial/] [15] [Vercel] [216.150.16.129] [230.490784ms] [HSTS,Vercel]
+https://www.suilend.fi [308] [https://suilend.fi/] [0] [cloudflare] [104.21.70.177] [cloudflare] [82.934698ms] [Cloudflare,HTTP/3]
+
+## 401
+
+## 403
+https://blog.suilend.fi [403] [] [5502] [Just a moment...] [cloudflare] [172.67.138.12] [cloudflare] [132.730182ms] [Cloudflare,HSTS,HTTP/3]
+
+## 404
+https://cdn.spark.fi [404] [] [27150] [Not Found] [cloudflare] [172.66.148.83] [cloudflare] [283.356782ms] [Cloudflare]
+https://staging.suilend.fi [404] [] [107] [cloudflare] [172.67.138.12] [cloudflare] [481.904162ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://beta.suilend.fi [404] [] [107] [cloudflare] [104.21.70.177] [cloudflare] [499.157311ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://api.steakhouse.financial [404] [] [207] [404 Not Found] [Caddy gunicorn] [3.208.209.230] [517.733453ms] [HSTS,HTTP/3,Python,gunicorn]
+http://ftp.steakhouse.financial [404] [] [107] [Vercel] [216.150.1.1] [587.120409ms] [Vercel]
+
+## 500
+
+## 502
+
+## 503
+
