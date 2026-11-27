@@ -1,0 +1,4 @@
+https://bds.birdeye.so [308] [https://birdeye.so/data-api] [15] [Vercel] [216.150.16.193] [46.437814ms] [HSTS,Vercel]
+https://data.birdeye.so [308] [/user] [15] [Vercel] [216.150.16.129] [36.703571ms] [HSTS,Vercel]
+https://v1.birdeye.so [308] [https://birdeye.so/] [1283] [308 Permanent Redirect] [cloudflare] [104.20.24.29] [cloudflare] [20.893805ms] [Cloudflare]
+https://www.birdeye.so [308] [https://birdeye.so/] [15] [Vercel] [216.150.16.193] [24.653324ms] [HSTS,Vercel]

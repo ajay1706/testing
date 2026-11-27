@@ -1,0 +1,123 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:26:20 UTC 2026
+
+HTTPX lines: 101
+Live URLs: 101
+
+## 200
+https://boost.birdeye.so [200] [] [45] [cloudflare] [104.20.24.29] [cloudflare] [35.852859ms] [Cloudflare]
+https://beta-peak-admin.birdeye.so [200] [] [1338] [Refine - Build your React-based CRUD applications, without constraints.] [Vercel] [216.150.16.129] [164.905204ms] [HSTS,Vercel]
+https://dev-peak-admin.birdeye.so [200] [] [1338] [Refine - Build your React-based CRUD applications, without constraints.] [Vercel] [216.150.16.129] [119.581897ms] [HSTS,Vercel]
+https://bugs.birdeye.so [200] [] [28475] [GlitchTip] [cloudflare] [104.20.24.29] [cloudflare] [309.770778ms] [Cloudflare,Cloudflare Browser Insights]
+https://jito-floor.birdeye.so [200] [] [228] [cloudflare] [172.66.161.182] [cloudflare] [144.389032ms] [Cloudflare]
+https://dev-public-api.birdeye.so [200] [] [2087] [Welcome to nginx!] [cloudflare] [172.66.161.182] [cloudflare] [412.068462ms] [Cloudflare,Cloudflare Browser Insights]
+https://peak-admin.birdeye.so [200] [] [1338] [Refine - Build your React-based CRUD applications, without constraints.] [Vercel] [216.150.16.1] [153.108652ms] [HSTS,Vercel]
+https://logo1.birdeye.so [200] [] [2087] [Welcome to nginx!] [cloudflare] [104.20.24.29] [cloudflare] [336.475241ms] [Cloudflare,Cloudflare Browser Insights]
+https://birdeye.so [200] [] [154771] [Powering Internet Capital Markets | Birdeye] [cloudflare] [104.20.24.29] [cloudflare] [84.743786ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://multichain-socket.birdeye.so [200] [] [2087] [Welcome to nginx!] [cloudflare] [172.66.161.182] [cloudflare] [342.168984ms] [Cloudflare,Cloudflare Browser Insights]
+https://beta-ai-api.birdeye.so [200] [] [2090] [Welcome to nginx!] [cloudflare] [104.20.24.29] [cloudflare] [778.474134ms] [Cloudflare,Cloudflare Browser Insights]
+https://beta-ai.birdeye.so [200] [] [2090] [Welcome to nginx!] [cloudflare] [104.20.24.29] [cloudflare] [778.548084ms] [Cloudflare,Cloudflare Browser Insights]
+https://beta-support.birdeye.so [200] [] [2090] [Welcome to nginx!] [cloudflare] [172.66.161.182] [cloudflare] [788.911334ms] [Cloudflare,Cloudflare Browser Insights]
+https://azuro.org [200] [] [93513] [Azuro — Sportsbook Infrastructure] [cloudflare] [172.67.167.72] [cloudflare] [450.989552ms] [Cloudflare,HTTP/3,Next.js,Node.js,React,Webpack]
+https://feedback.birdeye.so [200] [] [54539] [Sign in] [cloudflare] [172.66.161.182] [cloudflare] [118.443236ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager,HSTS]
+https://rpc-solana.birdeye.so [200] [] [2510] [Triton One RPC] [cloudflare] [104.20.24.29] [cloudflare] [65.451555ms] [Cloudflare,Cloudflare Browser Insights]
+https://stream.birdeye.so [200] [] [612] [Welcome to nginx!] [nginx/1.18.0 (Ubuntu)] [15.204.104.155] [253.179009ms] [Nginx:1.18.0,Ubuntu]
+https://status.birdeye.so [200] [] [2087] [Welcome to nginx!] [cloudflare] [172.66.161.182] [cloudflare] [301.472248ms] [Cloudflare,Cloudflare Browser Insights]
+https://stablecoins.preview.artemisanalytics.com [200] [] [37859] [Artemis Dashboard] [Vercel] [76.76.21.22] [480.781039ms] [HSTS,React,Vercel]
+https://gem.azuro.org [200] [] [246783] [Welcome to Azuro Docs 📘] [cloudflare] [104.21.11.216] [cloudflare] [751.042049ms] [Cloudflare,HTTP/3]
+https://ws.birdeye.so [200] [] [615] [Welcome to nginx!] [nginx/1.24.0 (Ubuntu)] [15.235.232.155] [773.83205ms] [Nginx:1.24.0,Ubuntu]
+https://www.preview.artemisanalytics.com [200] [] [37859] [Artemis Dashboard] [Vercel] [76.76.21.164] [623.691067ms] [HSTS,React,Vercel]
+https://webapp.birdeye.so [200] [] [76561] [Birdeye Telegram web apps] [Vercel] [64.29.17.1] [1.850973892s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://kafka.birdeye.so [200] [] [329957] [Token Tracker | Live Prices, Charts & Trades | Birdeye] [Vercel] [216.150.16.193] [1.900988813s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://bds-status.birdeye.so [200] [] [7222275] [Enterprise API | Status Page] [Vercel] [216.150.16.1] [1.420483363s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://app.azuro.org [301] [https://azuro.org/app/] [167] [301 Moved Permanently] [cloudflare] [172.67.167.72] [cloudflare] [62.939186ms] [Cloudflare]
+https://artemisanalytics.com [301] [https://about.artemis.ai/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [118.082967ms] [Cloudflare,HSTS,HTTP/3]
+https://embed.birdeye.so [301] [https://embed.birdeye.so/tv-widget/So11111111111111111111111111111111111111112/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v?chain=solana&viewMode=base%2Fquote&chartInterval=15&chartType=Candle&chartLeftToolbar=show&theme=dark] [167] [301 Moved Permanently] [cloudflare] [104.20.24.29] [cloudflare] [30.875323ms] [Cloudflare]
+https://docs.birdeye.so [301] [https://data.birdeye.so/docs/getting-started] [539] [301 Moved Permanently] [cloudflare] [172.66.161.182] [cloudflare] [292.097988ms] [Cloudflare,Cloudflare Browser Insights]
+https://public-api.birdeye.so [301] [https://docs.birdeye.so] [539] [301 Moved Permanently] [cloudflare] [172.66.161.182] [cloudflare] [110.904693ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.azuro.org [301] [https://azuro.org/] [167] [301 Moved Permanently] [cloudflare] [172.67.167.72] [cloudflare] [31.493522ms] [Cloudflare,HTTP/3]
+https://www.artemisanalytics.com [301] [https://about.artemis.ai/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [99.866562ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://ab.azuro.org [302] [https://azuro.org/] [143] [302 Found] [cloudflare] [172.67.167.72] [cloudflare] [44.106246ms] [Cloudflare]
+https://bds-support.birdeye.so [302] [https://bds-support.birdeye.so/hc] [0] [cloudflare] [216.198.53.6] [274.295505ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://docs.azuro.org [302] [https://gem.azuro.org/] [143] [302 Found] [cloudflare] [104.21.11.216] [cloudflare] [46.706798ms] [Cloudflare,HTTP/3]
+https://dev-data.birdeye.so [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev-data.birdeye.so%2F&nonce=b9c30bc90b6ce8cb5f527d6e62a0ced2f92efc996843998eb6b64ee85fb89d16] [263] [cloudflare] [104.20.24.29] [cloudflare] [181.780033ms] [Cloudflare,HSTS,Vercel]
+https://docs-old.birdeye.so [302] [/docs] [27] [cloudflare] [104.16.241.118] [cloudflare] [164.987582ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://learn.birdeye.so [302] [/docs] [27] [cloudflare] [104.16.241.118] [cloudflare] [167.82645ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://peak-dev.birdeye.so [302] [https://peak-dev.birdeye.so/swagger/index.html] [515] [302 Found] [cloudflare] [172.66.161.182] [cloudflare] [293.974459ms] [Cloudflare,Cloudflare Browser Insights]
+
+## 307
+https://app.artemisanalytics.com [307] [https://classic.artemis.ai/] [15] [Vercel] [76.76.21.164] [72.110196ms] [HSTS,Vercel]
+https://agenticpayments.artemisanalytics.com [307] [https://agenticpayments.artemis.ai/] [15] [Vercel] [216.150.16.193] [147.582467ms] [HSTS,Vercel]
+https://beta-peak.birdeye.so [307] [/login] [15] [Vercel] [216.150.16.1] [149.384504ms] [HSTS,Vercel]
+https://ai-landscape.artemisanalytics.com [307] [] [4619] [Create Next App] [Vercel] [216.150.16.129] [126.318369ms] [HSTS,Vercel]
+https://neobank.artemisanalytics.com [307] [] [4715] [2026 Neobanks Landscape] [Vercel] [216.150.16.193] [161.860556ms] [HSTS,Vercel]
+https://peak.birdeye.so [307] [/login] [15] [cloudflare] [104.20.24.29] [cloudflare] [257.603785ms] [Cloudflare,HSTS,Vercel]
+https://lending.artemisanalytics.com [307] [] [4619] [Create Next App] [Vercel] [216.150.16.193] [304.557907ms] [HSTS,Vercel]
+https://predictionmarkets.artemisanalytics.com [307] [] [4619] [Create Next App] [Vercel] [216.150.16.193] [242.63255ms] [HSTS,Vercel]
+https://stablecoins.artemisanalytics.com [307] [https://stablecoins.artemis.ai/] [169] [307 Temporary Redirect] [cloudflare] [172.67.161.66] [cloudflare] [48.503255ms] [Cloudflare]
+https://research.artemisanalytics.com [307] [https://research.artemis.ai/] [169] [307 Temporary Redirect] [cloudflare] [172.67.161.66] [cloudflare] [52.689448ms] [Cloudflare]
+https://readme.birdeye.so [307] [https://docs.birdeye.so/] [15] [cloudflare] [172.64.147.209] [cloudflare] [106.361652ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://trading.artemisanalytics.com [307] [] [4619] [Create Next App] [Vercel] [216.150.16.193] [217.050701ms] [HSTS,Vercel]
+
+## 308
+https://bds.birdeye.so [308] [https://birdeye.so/data-api] [15] [Vercel] [216.150.16.193] [46.437814ms] [HSTS,Vercel]
+https://data.birdeye.so [308] [/user] [15] [Vercel] [216.150.16.129] [36.703571ms] [HSTS,Vercel]
+https://v1.birdeye.so [308] [https://birdeye.so/] [1283] [308 Permanent Redirect] [cloudflare] [104.20.24.29] [cloudflare] [20.893805ms] [Cloudflare]
+https://www.birdeye.so [308] [https://birdeye.so/] [15] [Vercel] [216.150.16.193] [24.653324ms] [HSTS,Vercel]
+
+## 401
+https://bds-api.birdeye.so [401] [] [843] [Access Restricted] [Vercel] [216.150.16.1] [257.205012ms] [Basic,HSTS,Vercel]
+https://bds-terminal.birdeye.so [401] [] [843] [Access Restricted] [Vercel] [216.150.16.193] [296.185509ms] [Basic,HSTS,Vercel]
+https://dev.birdeye.so [401] [] [23] [Vercel] [216.150.16.193] [346.30572ms] [Basic,HSTS,Vercel]
+https://dev-peak.birdeye.so [401] [] [246585] [Vercel] [216.150.16.129] [478.433479ms] [Ant Design,Basic,HSTS,Vercel]
+
+## 403
+https://blog.azuro.org [403] [] [5522] [Just a moment...] [cloudflare] [162.159.152.4] [cloudflare] [158.742564ms] [Cloudflare,HSTS,HTTP/3]
+https://info.birdeye.so [403] [] [17] [cloudflare] [104.20.24.29] [cloudflare] [63.824766ms] [Cloudflare]
+https://multichain-api.birdeye.so [403] [] [6019] [Attention Required! | Cloudflare] [cloudflare] [172.66.161.182] [cloudflare] [34.283359ms] [Cloudflare,Cloudflare Browser Insights]
+https://content.azuro.org [403] [] [265] [cloudflare] [104.21.11.216] [cloudflare] [616.215083ms] [Cloudflare,HSTS,HTTP/3]
+https://reports.artemisanalytics.com [403] [] [690] [403 Forbidden] [cloudflare] [172.67.161.66] [cloudflare] [116.53435ms] [Amazon Web Services,Cloudflare,Cloudflare Browser Insights,HTTP/3]
+
+## 404
+https://bds-apidev.birdeye.so [404] [] [107] [Vercel] [216.150.16.193] [293.855797ms] [HSTS,Vercel]
+https://api.azuro.org [404] [] [146] [404 Not Found] [cloudflare] [104.21.11.216] [cloudflare] [308.346383ms] [Cloudflare,HTTP/3]
+https://assets.birdeye.so [404] [] [28625] [Not Found] [cloudflare] [104.20.24.29] [cloudflare] [235.173506ms] [Cloudflare,Cloudflare Browser Insights]
+https://dev-app.azuro.org [404] [] [146] [404 Not Found] [cloudflare] [104.21.11.216] [cloudflare] [280.641839ms] [Cloudflare,HTTP/3]
+https://dats.artemisanalytics.com [404] [] [107] [Vercel] [216.150.16.193] [324.224949ms] [HSTS,Vercel]
+https://dev-avatars.azuro.org [404] [] [146] [404 Not Found] [cloudflare] [104.21.11.216] [cloudflare] [296.474386ms] [Cloudflare,HTTP/3]
+https://dev-gem.azuro.org [404] [] [146] [404 Not Found] [cloudflare] [104.21.11.216] [cloudflare] [298.333241ms] [Cloudflare,HTTP/3]
+https://avatars.azuro.org [404] [] [63] [cloudflare] [172.67.167.72] [cloudflare] [459.79605ms] [Cloudflare,Express,HTTP/3,Node.js]
+https://mcp.birdeye.so [404] [] [9] [cloudflare] [104.20.24.29] [cloudflare] [115.194107ms] [Cloudflare]
+https://hub.azuro.org [404] [] [146] [404 Not Found] [cloudflare] [172.67.167.72] [cloudflare] [276.393657ms] [Cloudflare,HTTP/3]
+https://league.azuro.org [404] [] [146] [404 Not Found] [cloudflare] [172.67.167.72] [cloudflare] [293.248686ms] [Cloudflare,HTTP/3]
+https://preview.artemisanalytics.com [404] [] [107] [Vercel] [76.76.21.164] [296.686642ms] [HSTS,Vercel]
+https://img-dev.birdeye.so [404] [] [28625] [Not Found] [cloudflare] [172.66.161.182] [cloudflare] [563.989775ms] [Cloudflare,Cloudflare Browser Insights]
+https://privy.dev-ab.azuro.org [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [53.234492ms] [Cloudflare,Cloudflare Bot Management]
+https://tv.birdeye.so [404] [] [28625] [Not Found] [cloudflare] [172.66.161.182] [cloudflare] [90.458935ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.beta.birdeye.so [404] [] [107] [Vercel] [216.150.16.1] [106.824774ms] [HSTS,Vercel]
+https://stake.azuro.org [404] [] [548] [404 Not Found] [cloudflare] [172.67.167.72] [cloudflare] [296.171498ms] [Cloudflare,HTTP/3]
+https://vest.azuro.org [404] [] [146] [404 Not Found] [cloudflare] [104.21.11.216] [cloudflare] [287.313225ms] [Cloudflare,HTTP/3]
+https://terminal.birdeye.so [404] [] [107] [cloudflare] [172.66.161.182] [cloudflare] [330.75037ms] [Cloudflare,HSTS,Vercel]
+https://dev-ab.azuro.org [404] [] [146] [404 Not Found] [cloudflare] [172.67.167.72] [cloudflare] [1.339400148s] [Cloudflare,HTTP/3]
+https://report-data.birdeye.so [404] [] [28625] [Not Found] [cloudflare] [172.66.161.182] [cloudflare] [330.662338ms] [Cloudflare,Cloudflare Browser Insights]
+https://thumbnails.birdeye.so [404] [] [28625] [Not Found] [cloudflare] [172.66.161.182] [cloudflare] [271.60561ms] [Cloudflare,Cloudflare Browser Insights]
+https://dev.azuro.org [404] [] [548] [404 Not Found] [cloudflare] [104.21.11.216] [cloudflare] [1.346949969s] [Cloudflare,HTTP/3]
+https://privy.ab.azuro.org [404] [] [2] [cloudflare] [104.18.24.69] [cloudflare] [544.130139ms] [Cloudflare,Cloudflare Bot Management]
+https://tokenswap.birdeye.so [404] [] [28625] [Not Found] [cloudflare] [172.66.161.182] [cloudflare] [297.978061ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.stablecoins.preview.artemisanalytics.com [404] [] [107] [Vercel] [76.76.21.22] [529.593456ms] [HSTS,Vercel]
+
+## 500
+https://chart-storage.birdeye.so [500] [] [68] [cloudflare] [172.66.161.182] [cloudflare] [304.046433ms] [Cloudflare,Express,Node.js]
+https://peak-docs.birdeye.so [500] [] [17] [cloudflare] [104.20.24.29] [cloudflare] [34.368709ms] [Cloudflare]
+
+## 502
+
+## 503
+https://beta-bds.birdeye.so [503] [] [99] [Vercel] [216.150.16.193] [102.600143ms] [HSTS,Vercel]
+https://dev-bds.birdeye.so [503] [] [99] [Vercel] [216.150.16.1] [125.71972ms] [HSTS,Vercel]
+
