@@ -1,0 +1,2 @@
+https://prime-api.deribit.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [18.168.241.206] [3.286215562s] [Amazon ELB,Amazon Web Services]
+https://test-proxy.deribit.com [503] [] [162] [503 Service Temporarily Unavailable] [awselb/2.0] [13.134.127.48] [4.274075348s] [Amazon ELB,Amazon Web Services]
