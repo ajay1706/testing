@@ -1,0 +1,4 @@
+https://fedimintd-04-iroh.dev.fedimint.org [502] [] [150] [502 Bad Gateway] [nginx] [49.13.158.64] [740.816225ms] [Nginx]
+https://fedimintd-02-iroh.dev.fedimint.org [502] [] [552] [502 Bad Gateway] [nginx] [128.140.33.236] [818.300247ms] [Nginx]
+https://fedimintd-03.dev.fedimint.org [502] [] [552] [502 Bad Gateway] [nginx] [167.235.71.150] [826.779201ms] [Nginx]
+https://fedimintd-01-iroh.dev.fedimint.org [502] [] [552] [502 Bad Gateway] [nginx] [168.119.225.171] [1.042036825s] [Nginx]

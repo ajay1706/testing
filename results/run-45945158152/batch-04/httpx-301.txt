@@ -1,0 +1,6 @@
+https://docs.electrum.org [301] [https://electrum.readthedocs.io/] [0] [cloudflare] [172.67.179.87] [cloudflare] [231.823671ms] [Cloudflare,HSTS,HTTP/3]
+https://chat.fedimint.org [301] [https://discord.gg/Jq5dE2NhEd] [162] [301 Moved Permanently] [nginx] [23.183.83.236] [1.243921285s] [Nginx]
+https://notary.electrum.org [301] [https://notary.electrum.org/n] [169] [301 Moved Permanently] [nginx/1.26.3] [195.201.207.61] [459.046805ms] [Nginx:1.26.3]
+https://www.coredao.org [301] [https://coredao.org/] [528] [301 Moved Permanently] [cloudflare] [104.20.16.207] [cloudflare] [69.253262ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://www.fedimint.org [301] [https://fedimint.org/] [162] [301 Moved Permanently] [GitHub.com] [185.199.110.153] [374.712269ms] [Fastly,GitHub Pages,Varnish]
+http://cosigner.electrum.org [301] [https://cosigner.electrum.org/] [178] [301 Moved Permanently] [nginx] [88.198.54.148] [284.161728ms] [HSTS,Nginx]
