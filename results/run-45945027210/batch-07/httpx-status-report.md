@@ -1,0 +1,50 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 05:33:37 UTC 2026
+
+HTTPX lines: 21
+Live URLs: 21
+
+## 200
+https://lf.quant.network [200] [] [4739] [Home | Quant Network] [] [134.209.180.123] [557.573957ms] [HSTS,Ruby,Ruby on Rails]
+https://www.null.xyz [200] [] [22618] [Null · Global markets, finally permissionless.] [Vercel] [216.150.16.1] [171.754093ms] [HSTS,Vercel]
+https://quant.network [200] [] [83059] [Quant] [cloudflare] [104.26.13.218] [cloudflare] [249.898788ms] [Cloudflare,Cloudflare Browser Insights,Elementor:4.4.2,Google Tag Manager,Linkedin Ads,MySQL,PHP,Underscore.js:281,WordPress,Yoast SEO:28.9,iubenda]
+https://docs.null.xyz [200] [] [167158] [Global market exposure. Built to work across DeFi. - Null] [cloudflare] [172.67.138.10] [cloudflare] [143.410765ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Vercel]
+https://beta.null.xyz [200] [] [39657] [Null] [Vercel] [216.150.16.129] [611.075887ms] [Amazon S3,Amazon Web Services,HSTS,Vercel]
+https://demo.quant.network [200] [] [1706725] [Quant Control Plane] [] [18.210.65.69] [780.2243ms]
+
+## 301
+http://autodiscover.quant.network [301] [https://autodiscover.quant.network/] [0] [Microsoft-HTTPAPI/2.0] [52.96.110.88] [1.648494ms] [Microsoft HTTPAPI:2.0]
+https://www.quant.network [301] [https://quant.network/] [0] [cloudflare] [104.26.13.218] [cloudflare] [636.286544ms] [Cloudflare]
+
+## 302
+
+## 307
+https://paybacks.io [307] [/en] [15] [Vercel] [216.150.1.1] [136.582051ms] [HSTS,Vercel]
+https://www.paybacks.io [307] [https://paybacks.io/] [15] [cloudflare] [104.18.12.189] [cloudflare] [239.678034ms] [Cloudflare,HSTS,Vercel]
+
+## 308
+https://null.xyz [308] [https://www.null.xyz/] [15] [Vercel] [216.150.16.193] [80.250055ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://admin-dev.paybacks.io [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.12.189] [cloudflare] [64.570006ms] [Cloudflare]
+https://admin.paybacks.io [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.13.189] [cloudflare] [88.269996ms] [Cloudflare]
+https://www-dev.paybacks.io [403] [] [4545] [Attention Required! | Cloudflare] [cloudflare] [104.18.13.189] [cloudflare] [59.705259ms] [Cloudflare]
+
+## 404
+https://url3808.paybacks.io [404] [] [1260] [404 Not Found] [cloudflare] [172.64.154.133] [cloudflare] [172.299919ms] [Cloudflare,Cloudflare Bot Management]
+https://admin-api.paybacks.io [404] [] [431] [HTTP Status 404 – Not Found] [cloudflare] [104.18.13.189] [cloudflare] [400.770536ms] [Cloudflare]
+https://stg-api.paybacks.io [404] [] [431] [HTTP Status 404 – Not Found] [cloudflare] [104.18.12.189] [cloudflare] [404.178301ms] [Cloudflare]
+https://stg-community-api.paybacks.io [404] [] [431] [HTTP Status 404 – Not Found] [cloudflare] [104.18.13.189] [cloudflare] [407.796156ms] [Cloudflare]
+https://api.paybacks.io [404] [] [431] [HTTP Status 404 – Not Found] [cloudflare] [104.18.12.189] [cloudflare] [419.632202ms] [Cloudflare]
+https://stg-admin-api.paybacks.io [404] [] [431] [HTTP Status 404 – Not Found] [cloudflare] [104.18.13.189] [cloudflare] [427.509917ms] [Cloudflare]
+https://community-api.paybacks.io [404] [] [431] [HTTP Status 404 – Not Found] [cloudflare] [104.18.13.189] [cloudflare] [450.789144ms] [Cloudflare]
+
+## 500
+
+## 502
+
+## 503
+

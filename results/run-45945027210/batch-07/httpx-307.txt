@@ -1,0 +1,2 @@
+https://paybacks.io [307] [/en] [15] [Vercel] [216.150.1.1] [136.582051ms] [HSTS,Vercel]
+https://www.paybacks.io [307] [https://paybacks.io/] [15] [cloudflare] [104.18.12.189] [cloudflare] [239.678034ms] [Cloudflare,HSTS,Vercel]
