@@ -1,0 +1,138 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 05:25:13 UTC 2026
+
+HTTPX lines: 117
+Live URLs: 117
+
+## 200
+https://actions.flow.com [200] [] [4818] [Flow Actions Marketplace] [Vercel] [216.150.16.193] [66.858855ms] [HSTS,Vercel]
+https://api.wallet.flow.com [200] [] [41] [nginx/1.24.0 (Ubuntu)] [3.19.43.9] [70.805888ms] [Nginx:1.24.0,Ubuntu]
+https://beta.getmonero.org [200] [] [43886] [Home | Monero - secure, private, untraceable cryptocurrency.] [cloudflare] [172.67.211.227] [cloudflare] [489.713309ms] [Astro:7.3.2,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://cbbtc-bridge.flow.com [200] [] [59573] [Flow EVM] [Vercel] [76.76.21.241] [2.102035448s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://core.flow.com [200] [] [32379] [Flow Wallet] [cloudflare] [198.202.211.1] [5.055951439s] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://developers.flow.com [200] [] [45333] [Flow Developer Portal] [Vercel] [216.150.16.1] [3.051224605s] [Docusaurus:3.9.1,Google Analytics,HSTS,React,Vercel,Webpack]
+https://dlsrc.getmonero.org [200] [] [1] [cloudflare] [172.67.211.227] [cloudflare] [463.492618ms] [Cloudflare,HSTS,HTTP/3]
+https://docs.getmonero.org [200] [] [51147] [Monero Docs - Monero Docs] [nginx/1.27.1] [88.99.195.15] [1.321429851s] [HSTS,HTTP/3,MkDocs:1.6.1,Nginx:1.27.1,Python]
+https://downloads.getmonero.org [200] [] [1] [PWS/8.3.1.0.8] [138.113.158.123] [5.509295575s] [Cloudflare,HSTS,HTTP/3]
+https://ecips.ethereumclassic.org [200] [] [7748] [Home | Ethereum Classic Improvement Proposals] [cloudflare] [172.67.68.203] [cloudflare] [1.249647106s] [Cloudflare,Fastly,GitHub Pages,Jekyll:3.10.0,Ruby,Varnish]
+https://earn.flow.com [200] [] [3960] [Flow Earn] [Vercel] [216.150.16.193] [3.126629225s] [HSTS,Vercel]
+https://evm.flow.com [200] [] [90786] [Flow EVM blockchain explorer - View Flow EVM stats | Blockscout] [cloudflare] [104.26.1.65] [cloudflare] [306.103318ms] [Cloudflare,HTTP/3,Next.js,Node.js,React,Webpack]
+https://ethereumclassic.org [200] [] [335238] [Ethereum Classic] [cloudflare] [172.67.68.203] [cloudflare] [1.387498229s] [Cloudflare,Gatsby:4.25.4,Netlify,React,Webpack]
+https://explorer.flow.com [200] [] [455692] [Flow Explorer - Block Explorer for the Flow Blockchain] [Vercel] [216.150.16.193] [4.077162329s] [HSTS,Vercel]
+https://flix.flow.com [200] [] [4172] [Flow Interaction Template Service] [Vercel] [66.33.60.130] [2.141744579s] [HSTS,Vercel]
+https://flow.com [200] [] [163727] [The Future of Consumer DeFi | Flow.com] [cloudflare] [198.202.211.1] [3.04813891s] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Unpkg,Webflow,ZURB Foundation,cdnjs,jQuery:3.5.1,jsDelivr]
+https://forum.getmonero.org [200] [] [2] [cloudflare] [172.67.211.227] [cloudflare] [3.467689713s] [Cloudflare,HSTS,HTTP/3]
+https://forum.flow.com [200] [] [306626] [Flow Community] [nginx] [184.105.99.75] [3.543540085s] [Discourse:2026.12.0,HSTS,Nginx,Ruby on Rails]
+https://hackathon.flow.com [200] [] [83476] [Flow Hackathon - Build the next big thing #onFlow] [Vercel] [216.198.79.3] [4.110752406s] [HSTS,Vercel]
+https://kitty-items.flow.com [200] [] [4413] [Store - A CryptoKitties Sample App, learn how to create an NFT Marketplace] [Heroku] [15.197.152.254] [2.042913952s] [Express,Node.js,React]
+https://liquidity.flow.com [200] [] [884] [Liquidity on Flow | Maximize your crypto earnings] [cloudflare] [172.66.144.24] [cloudflare] [1.0955334s] [Cloudflare,HSTS]
+https://mainnet.flowscan.flow.com [200] [] [19688] [Flowscan: Block Explorer] [Vercel] [216.150.16.193] [3.12509545s] [C3.js,HSTS,Vercel]
+https://mrw.getmonero.org [200] [] [12189] [Monero Malware Response] [cloudflare] [172.67.211.227] [cloudflare] [2.495342158s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://old-tweets.ethereumclassic.org [200] [] [1668] [Your Twitter Data] [cloudflare] [172.67.68.203] [cloudflare] [2.370128496s] [Cloudflare,Netlify]
+https://nanos.port.flow.com [200] [] [1043] [Flow Port] [Vercel] [216.150.16.129] [4.09045448s] [HSTS,Vercel]
+https://play.staging.flow.com [200] [] [1450] [Flow Playground] [Vercel] [66.33.60.35] [4.050427062s] [HSTS,Vercel]
+https://port.flow.com [200] [] [1415] [Flow Port] [Vercel] [216.150.16.1] [8.115846647s] [HSTS,Vercel]
+https://sandboxnet-faucet.flow.com [200] [] [32334] [Create Account - Flow Sandboxnet Faucet] [Vercel] [66.33.60.34] [2.194110896s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://search.mainnet.flowscan.flow.com [200] [] [15435] [FindLabs OmniSearch] [] [3.22.232.101] [2.10176337s] [Htmx:1.9.10,Tailwind CSS,Unpkg]
+https://search.testnet.flowscan.flow.com [200] [] [15435] [FindLabs OmniSearch] [] [3.22.232.101] [3.088665893s] [Htmx:1.9.10,Tailwind CSS,Unpkg]
+https://store.flow.com [200] [] [3375] [cloudflare] [216.24.57.16] [147.380191ms] [Amazon S3,Amazon Web Services,Cloudflare,HTTP/3,Next.js,Node.js,React,Render,Webpack]
+https://staging.safe.flow.com [200] [] [16023] [Flow Safe] [AmazonS3] [3.162.125.103] [cloudfront] [4.422478708s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://static.getmonero.org [200] [] [2] [cloudflare] [172.67.211.227] [cloudflare] [3.504746745s] [Cloudflare,HSTS,HTTP/3]
+https://swap.flow.com [200] [] [4429] [Swap] [AmazonS3] [3.170.3.53] [cloudfront] [3.449703883s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://testnet.evm.flow.com [200] [] [90918] [Flow EVM Testnet blockchain explorer - View Flow EVM Testnet stats | Blockscout] [cloudflare] [104.26.0.65] [cloudflare] [2.291065448s] [Cloudflare,HTTP/3,Next.js,Node.js,React,Webpack]
+https://testnet.explorer.flow.com [200] [] [461291] [Flow Explorer (Testnet) - Block Explorer for the Flow Blockchain] [Vercel] [216.150.16.1] [2.269029411s] [HSTS,Vercel]
+https://testnet.flowscan.flow.com [200] [] [19688] [Flowscan: Block Explorer] [Vercel] [216.150.16.129] [4.210480411s] [C3.js,HSTS,Vercel]
+https://updates.getmonero.org [200] [] [1] [cloudflare] [172.67.211.227] [cloudflare] [1.482579683s] [Cloudflare,HSTS,HTTP/3]
+https://transaction-testnet.staging.safe.flow.com [200] [] [4607] [Safe Transaction Service] [] [95.217.169.74] [4.374257854s] [HSTS,Swagger UI,jsDelivr]
+https://transaction.staging.safe.flow.com [200] [] [4607] [Safe Transaction Service] [] [95.217.169.74] [6.366352432s] [HSTS,Swagger UI,jsDelivr]
+https://wallet.flow.com [200] [] [32381] [Flow Wallet] [cloudflare] [198.202.211.1] [3.057930236s] [Cloudflare,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,Webflow,jQuery:3.5.1]
+https://web-dev.api.wallet.flow.com [200] [] [94202] [lilico - The first flow extension wallet] [Vercel] [66.33.60.194] [4.050581379s] [HSTS,Vercel]
+https://web.getmonero.org [200] [] [33960] [Home | Monero - secure, private, untraceable] [cloudflare] [172.67.211.227] [cloudflare] [4.576508414s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://web.api.wallet.flow.com [200] [] [94202] [lilico - The first flow extension wallet] [Vercel] [76.76.21.164] [5.040356129s] [HSTS,Vercel]
+https://www.ethereumclassic.org [200] [] [335238] [Ethereum Classic] [cloudflare] [104.26.2.121] [cloudflare] [1.227822501s] [Cloudflare,Gatsby:4.25.4,Netlify,React,Webpack]
+https://www.getmonero.org [200] [] [33593] [Home | Monero - secure, private, untraceable] [PWS/8.3.1.0.8] [138.113.158.121] [3.085631514s] [Cloudflare,HSTS,HTTP/3]
+https://www.flow.com [200] [] [163731] [The Future of Consumer DeFi | Flow.com] [cloudflare] [198.202.211.1] [3.042517024s] [Cloudflare,Google Tag Manager,HSTS,HTTP/3,Unpkg,Webflow,ZURB Foundation,cdnjs,jQuery:3.5.1,jsDelivr]
+
+## 301
+http://ccs.getmonero.org [301] [https://ccs.getmonero.org/] [534] [301 Moved Permanently] [cloudflare] [172.67.211.227] [cloudflare] [7.032921869s] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+http://cloud.getmonero.org [301] [https://cloud.getmonero.org/] [534] [301 Moved Permanently] [cloudflare] [104.21.85.231] [cloudflare] [1.199615422s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://donate.getmonero.org [301] [https://www.getmonero.org/get-started/contributing/] [534] [301 Moved Permanently] [cloudflare] [172.67.211.227] [cloudflare] [8.045925386s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://getmonero.org [301] [https://www.getmonero.org/] [534] [301 Moved Permanently] [cloudflare] [172.67.211.227] [cloudflare] [6.03467571s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://lab.getmonero.org [301] [https://lbsrc.getmonero.org/] [534] [301 Moved Permanently] [PWS/8.3.1.0.8] [138.113.241.53] [2.295368482s] [Cloudflare,Cloudflare Browser Insights,HTTP/2]
+https://lists.getmonero.org [301] [/postorius/lists/] [0] [nginx/1.10.3 (Ubuntu)] [176.9.16.133] [1.399167078s] [Nginx:1.10.3,Ubuntu]
+http://lbsrc.getmonero.org [301] [https://lbsrc.getmonero.org/] [534] [301 Moved Permanently] [cloudflare] [172.67.211.227] [cloudflare] [56.909655ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://repo.getmonero.org [301] [https://repo.getmonero.org/] [534] [301 Moved Permanently] [cloudflare] [172.67.211.227] [cloudflare] [20.538381ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://src.getmonero.org [301] [https://www.getmonero.org/] [534] [301 Moved Permanently] [cloudflare] [104.21.85.231] [cloudflare] [1.041930228s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+http://safe.flow.com [301] [https://safe.flow.com/] [167] [301 Moved Permanently] [CloudFront] [18.160.10.63] [cloudfront] [2.028229792s] [Amazon CloudFront,Amazon Web Services]
+https://status.safe.flow.com [301] [https://stats.uptimerobot.com:443/bVnvxSZd5S] [134] [301 Moved Permanently] [awselb/2.0] [184.197.82.153] [47.029766ms] [Amazon ELB,Amazon Web Services]
+https://staging.developers.flow.com [301] [https://developers.flow.com/] [15] [Vercel] [216.150.16.129] [4.171862774s] [HSTS,Vercel]
+http://staging.swap.flow.com [301] [https://staging.swap.flow.com/] [167] [301 Moved Permanently] [CloudFront] [3.170.3.43] [cloudfront] [5.052765478s] [Amazon CloudFront,Amazon Web Services]
+https://ww.getmonero.org [301] [https://www.getmonero.org/] [534] [301 Moved Permanently] [cloudflare] [172.67.211.227] [cloudflare] [3.053288534s] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 302
+https://dashboard.flow.com [302] [https://flowfoundation.grafana.net/public-dashboards/006453c5b0424e0aa40841c2cfb86214] [143] [302 Found] [cloudflare] [172.66.144.24] [cloudflare] [4.038173299s] [Cloudflare,HSTS]
+https://developer.flow.com [302] [https://developers.flow.com] [143] [302 Found] [cloudflare] [104.20.46.107] [cloudflare] [1.034933558s] [Cloudflare,HSTS]
+https://documentation.flow.com [302] [https://developers.flow.com] [143] [302 Found] [cloudflare] [104.20.46.107] [cloudflare] [42.788692ms] [Cloudflare,HSTS]
+https://docs.flow.com [302] [https://developers.flow.com] [143] [302 Found] [cloudflare] [172.66.144.24] [cloudflare] [4.055450449s] [Cloudflare,HSTS]
+https://gateway.staging.safe.flow.com [302] [/api] [26] [] [95.217.169.74] [6.369366342s] [Express,HSTS,Node.js]
+https://gateway.safe.flow.com [302] [/api] [26] [nginx] [184.197.82.153] [8.043962782s] [Express,Nginx,Node.js]
+https://laliga.flow.com [302] [https://laliga.onflow.org/] [131] [302 Found] [urllo] [76.223.34.124] [3.299341816s]
+https://link.flow.com [302] [https://link.flow.com/?rb.routing.mode=proxy&rb.routing.signature=716541] [0] [] [52.72.49.79] [3.037175186s] [HSTS]
+https://support.flow.com [302] [https://discord.gg/YrUuPmaQ] [143] [302 Found] [cloudflare] [172.66.144.24] [cloudflare] [5.046847897s] [Cloudflare,HSTS]
+
+## 307
+https://docs.wallet.flow.com [307] [/docs] [6160] [Vercel] [216.150.16.129] [6.148021814s] [HSTS,Vercel]
+
+## 308
+http://claim.flow.com [308] [https://claim.flow.com/] [14] [Vercel] [66.33.60.34] [1.014598409s] [Vercel]
+http://config.staging.safe.flow.com [308] [https://config.staging.safe.flow.com] [164] [308 Permanent Redirect] [] [95.217.169.74] [3.239696132s]
+http://events.staging.safe.flow.com [308] [https://events.staging.safe.flow.com] [164] [308 Permanent Redirect] [] [95.217.169.74] [2.242252272s]
+http://flower-transaction-testnet.staging.safe.flow.com [308] [https://flower-transaction-testnet.staging.safe.flow.com] [164] [308 Permanent Redirect] [] [95.217.169.74] [4.247212096s]
+https://react-sdk.flow.com [308] [https://react.flow.com/] [15] [Vercel] [76.76.21.164] [4.048889103s] [HSTS,Vercel]
+
+## 401
+https://api.mainnet.flowscan.flow.com [401] [] [0] [] [3.22.232.101] [71.822592ms]
+https://api.testnet.flowscan.flow.com [401] [] [0] [] [3.22.232.101] [78.057875ms]
+https://glow-explorer.flow.com [401] [] [0] [Caddy] [3.134.187.14] [5.072670909s] [Basic,Caddy,HTTP/3]
+https://testnet.vaults.flow.com [401] [] [15552] [Protected Page] [Vercel] [216.150.16.193] [2.127150951s] [HSTS,Vercel]
+https://vaults.flow.com [401] [] [15544] [Protected Page] [Vercel] [216.150.16.193] [6.047272572s] [HSTS,Vercel]
+
+## 403
+https://bridge.flow.com [403] [] [59] [cloudflare] [172.66.144.24] [cloudflare] [114.875993ms] [Cloudflare,HSTS,Vercel]
+https://flower-transaction.staging.safe.flow.com [403] [] [146] [403 Forbidden] [] [95.217.169.74] [364.745441ms] [HSTS]
+
+## 404
+https://api.index.flow.com [404] [] [19] [Google Frontend] [34.117.69.175] [google] [55.349025ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://api.explorer.flow.com [404] [] [19] [Google Frontend] [34.117.69.175] [google] [63.370226ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://api.testnet.explorer.flow.com [404] [] [19] [Google Frontend] [34.117.69.175] [google] [58.938249ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://api.staging.play.flow.com [404] [] [19] [Google Frontend] [34.49.202.173] [google] [64.379649ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://api.v1.play.flow.com [404] [] [19] [Google Frontend] [34.49.202.173] [google] [61.986002ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://api.production.play.flow.com [404] [] [19] [Google Frontend] [34.117.69.175] [google] [81.486971ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://api.explorer-staging.flow.com [404] [] [79] [Google Frontend] [34.49.202.173] [google] [131.813309ms] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HSTS,HTTP/3]
+https://functions.wallet.flow.com [404] [] [23] [] [18.225.71.23] [5.09131838s]
+https://grants.flow.com [404] [] [4332] [404 - Not Found] [] [23.202.230.222] [2.246981127s] [Google Analytics,HSTS]
+http://mainnet.flow.com [404] [] [10] [] [141.148.16.143] [2.025520338s]
+https://production.key-indexer.flow.com [404] [] [19] [] [18.220.166.53] [2.155268945s]
+https://slime.testnet.flowscan.flow.com [404] [] [18] [] [3.130.185.142] [1.071714597s]
+https://slime.mainnet.flowscan.flow.com [404] [] [18] [] [3.22.232.101] [3.076527446s]
+https://staging.key-indexer.flow.com [404] [] [19] [Google Frontend] [34.49.202.173] [google] [2.066166152s] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://token-list.flow.com [404] [] [2021] [404: This page could not be found] [] [3.130.22.77] [2.085673818s] [Next.js,Node.js,React,Webpack]
+https://totalsupply-staging.flow.com [404] [] [19] [Google Frontend] [34.49.202.173] [google] [2.070783386s] [Google Cloud,Google Cloud CDN,Google Cloud Load Balancing,Google Cloud Trace,HTTP/3]
+https://totalsupply.flow.com [404] [] [19] [] [13.185.59.43] [6.096413331s]
+https://v1.play.flow.com [404] [] [107] [Vercel] [76.76.21.98] [4.277917266s] [HSTS,Vercel]
+
+## 500
+
+## 502
+https://build.getmonero.org [502] [] [16] [cloudflare] [104.21.85.231] [cloudflare] [1.13928272s] [Cloudflare,HTTP/3]
+https://mattermost.getmonero.org [502] [] [16] [cloudflare] [104.21.85.231] [cloudflare] [4.527302614s] [Cloudflare,HTTP/3]
+https://taiga.getmonero.org [502] [] [16] [cloudflare] [172.67.211.227] [cloudflare] [7.523653125s] [Cloudflare,HTTP/3]
+https://village.getmonero.org [502] [] [16] [cloudflare] [172.67.211.227] [cloudflare] [4.484792196s] [Cloudflare,HTTP/3]
+
+## 503
+https://31.docs.getmonero.org [503] [] [20] [] [88.99.195.15] [351.98373ms] [HTTP/3]
+https://31s.docs.getmonero.org [503] [] [20] [] [88.99.195.15] [354.750381ms] [HTTP/3]
+https://www.31.docs.getmonero.org [503] [] [20] [] [88.99.195.15] [317.045103ms] [HTTP/3]
+https://www.docs.getmonero.org [503] [] [20] [] [88.99.195.15] [2.324781265s] [HTTP/3]
+
