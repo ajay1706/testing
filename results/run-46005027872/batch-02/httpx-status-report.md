@@ -1,0 +1,95 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:15:37 UTC 2026
+
+HTTPX lines: 81
+Live URLs: 81
+
+## 200
+https://api.dolomite.io [200] [] [40] [] [3.167.37.65] [cloudfront] [76.798188ms] [Amazon CloudFront,Amazon Web Services]
+https://api2.dolomite.io [200] [] [40] [] [98.87.219.174] [138.958817ms]
+https://app.dolomite.io [200] [] [6713] [Dolomite] [] [199.36.158.100] [82.549957ms] [Firebase,HSTS,HTTP/3]
+https://239-liquidations.euler.finance [200] [] [12] [cloudflare] [104.18.13.35] [cloudflare] [417.057895ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://146-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [430.779591ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://9745-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [433.597777ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://8453-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [437.299642ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://60808-liquidations.euler.finance [200] [] [12] [cloudflare] [104.18.13.35] [cloudflare] [439.415586ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://130-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [441.207931ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://42161-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [444.629353ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://143-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [446.679607ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://56-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [447.246682ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://80094-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [449.859513ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://1-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.12.35] [cloudflare] [455.323933ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://43114-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [456.25237ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://999-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [461.763635ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://59144-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [472.997873ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://5042-liquidations.euler.finance [200] [] [13] [cloudflare] [104.18.13.35] [cloudflare] [478.699338ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://app.euler.finance [200] [] [16322] [Euler Finance] [cloudflare] [104.18.13.35] [cloudflare] [559.227012ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vue.js]
+https://base.euler.finance [200] [] [15799] [Euler Finance] [cloudflare] [104.18.13.35] [cloudflare] [588.30975ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vue.js]
+https://docs.euler.finance [200] [] [37943] [Euler – Euler Docs] [cloudflare] [104.18.13.35] [cloudflare] [201.945849ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://docs-qwe.euler.finance [200] [] [37943] [Euler – Euler Docs] [cloudflare] [104.18.12.35] [cloudflare] [216.200987ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://forum.euler.finance [200] [] [214990] [Euler Governance Forum] [nginx] [216.66.8.43] [308.549305ms] [Discourse:2026.12.0,HSTS,Nginx,Ruby on Rails]
+https://dolomite.io [200] [] [434849] [Dolomite | The Home of Onchain Finance] [] [199.36.158.100] [36.95275ms] [Firebase,Gatsby:5.15.0,HSTS,HTTP/3,React,Webpack]
+https://euler.finance [200] [] [305467] [Euler | Lend, borrow and launch lending markets] [cloudflare] [104.18.13.35] [cloudflare] [97.011583ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://docs.dolomite.io [200] [] [465821] [Dolomite] [cloudflare] [172.64.147.209] [cloudflare] [143.051815ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://redemptions.euler.finance [200] [] [4114] [Euler Redemptions] [cloudflare] [104.18.12.35] [cloudflare] [261.010399ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://toolbox.euler.finance [200] [] [13745] [Euler Toolbox] [cloudflare] [104.18.12.35] [cloudflare] [265.355402ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Node.js,Nuxt.js,Vue.js]
+https://swap.euler.finance [200] [] [4581] [Swagger UI] [cloudflare] [104.18.13.35] [cloudflare] [488.069934ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,Swagger UI]
+https://www.euler.finance [200] [] [305467] [Euler | Lend, borrow and launch lending markets] [cloudflare] [104.18.13.35] [cloudflare] [72.932081ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+
+## 301
+https://batchviz.euler.finance [301] [https://toolbox.euler.finance/batch-viz] [528] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [35.786445ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://blog.euler.finance [301] [https://euler.finance/blog] [528] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [37.407552ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://classy-eleven.dolomite.io [301] [https://usefathom.com] [330] [Redirecting to https://usefathom.com] [BunnyCDN-ASB1-1503] [152.233.50.1] [48.351087ms] [Bunny]
+https://create.euler.finance [301] [https://toolbox.euler.finance/curator/markets?chainId=1] [528] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [46.913253ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://discord.euler.finance [301] [https://discord.gg/npb97q2xQc] [167] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [29.189204ms] [Cloudflare,HSTS]
+https://docs-v1.euler.finance [301] [https://docs.euler.finance/] [528] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [53.225937ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://earn.euler.finance [301] [https://toolbox.euler.finance/curator/earn?chainId=1] [528] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [77.002963ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://euler-lite.euler.finance [301] [https://app.euler.finance] [528] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [49.703536ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://explorer.euler.finance [301] [https://app.euler.finance/] [528] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [91.306832ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://institutional.euler.finance [301] [https://app.euler.finance/] [167] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [73.591373ms] [Cloudflare,HSTS]
+https://liquidations-v3.euler.finance [301] [https://liquidations.euler.finance] [528] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [67.896708ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://legacy.euler.finance [301] [https://app.euler.finance] [528] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [99.955402ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://liquidations.euler.finance [301] [https://risk.euler.finance/accounts] [528] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [105.861612ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://newsletter.euler.finance [301] [https://euler.finance] [528] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [45.168944ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://open-interest.euler.finance [301] [https://risk.euler.finance] [528] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [98.193644ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://oracle-deployer.euler.finance [301] [https://toolbox.euler.finance/tools/adapters] [528] [301 Moved Permanently] [cloudflare] [104.18.12.35] [cloudflare] [74.542244ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://oracles.euler.finance [301] [https://risk.euler.finance/oracles] [528] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [48.971218ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://www.dolomite.io [301] [https://dolomite.io/] [35] [] [151.101.1.195] [fastly] [50.079702ms] [Firebase,HTTP/3]
+http://governance.euler.finance [301] [https://governance.euler.finance/] [528] [301 Moved Permanently] [cloudflare] [104.18.13.35] [cloudflare] [17.352703ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+
+## 302
+https://app.compound.finance [302] [https://app.compound.xyz/redirect] [143] [302 Found] [cloudflare] [172.67.69.79] [cloudflare] [37.126654ms] [Cloudflare]
+https://compound.finance [302] [https://www.compound.xyz/redirect] [143] [302 Found] [cloudflare] [172.67.69.79] [cloudflare] [26.411639ms] [Cloudflare]
+https://docs.compound.finance [302] [https://docs.compound.xyz/] [143] [302 Found] [cloudflare] [104.26.6.118] [cloudflare] [38.481426ms] [Cloudflare]
+http://mail.dolomite.io [302] [http://mail.google.com/a/dolomite.io] [233] [302 Moved] [ghs] [64.233.180.121] [google] [41.192134ms]
+https://v2-app.compound.finance [302] [https://v2-app.compound.xyz/] [143] [302 Found] [cloudflare] [104.26.6.118] [cloudflare] [40.014608ms] [Cloudflare]
+https://verification.dolomite.io [302] [https://galxe.com/oauth?client_id=4f1d1db83374414de6ac9e79ceaead6656ca013e9b0746920007bc89b7db1a13&scope=Discord%20EVMAddress&redirect_uri=http://verification.dolomite.io/oauth/callback&state=5b392f3c-fb51-42c6-9b78-9f67dbe4dd7a] [665] [Redirecting...] [Heroku] [15.197.149.68] [51.340426ms]
+https://www.compound.finance [302] [https://www.compound.xyz/redirect] [143] [302 Found] [cloudflare] [172.67.69.79] [cloudflare] [42.796523ms] [Cloudflare]
+
+## 307
+https://risk.euler.finance [307] [/analytics] [13740] [Euler Dashboard] [cloudflare] [104.18.13.35] [cloudflare] [90.932159ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+
+## 308
+
+## 401
+https://config.euler.finance [401] [] [0] [cloudflare] [104.18.12.35] [cloudflare] [225.618193ms] [Amazon CloudFront,Amazon Web Services,Basic,Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 403
+https://api3.dolomite.io [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [52.85.193.38] [cloudfront] [222.338707ms] [Amazon CloudFront,Amazon Web Services]
+https://labels.euler.finance [403] [] [111] [AmazonS3] [3.162.112.58] [cloudfront] [305.687604ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://lite-assets-c.euler.finance [403] [] [111] [cloudflare] [104.18.12.35] [cloudflare] [354.768656ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://lite-assets-base-c.euler.finance [403] [] [111] [cloudflare] [104.18.12.35] [cloudflare] [429.445171ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://toolbox-static-assets.euler.finance [403] [] [111] [cloudflare] [104.18.12.35] [cloudflare] [425.20397ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+
+## 404
+https://subgraph.dolomite.io [404] [] [21265] [Site Not Found] [] [199.36.158.100] [63.609311ms] [Firebase,HSTS,HTTP/3]
+https://subgraph.api.dolomite.io [404] [] [0] [istio-envoy] [65.109.223.186] [352.498147ms]
+
+## 500
+
+## 502
+
+## 503
+https://staging-api.dolomite.io [503] [] [567] [Application Error] [Heroku] [76.223.57.73] [30.65123ms]
+
