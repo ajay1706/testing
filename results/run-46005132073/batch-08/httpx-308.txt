@@ -1,0 +1,2 @@
+https://docs.gate.com [308] [/global/essentials/version/100/en/common/overview] [0] [Vercel] [76.76.21.164] [476.027812ms] [Cloudflare,HSTS,Vercel]
+https://web.cardpymts.gemini.com [308] [/_general] [9] [] [3.163.24.47] [cloudfront] [304.502884ms] [Amazon CloudFront,Amazon Web Services,Express,HSTS,Node.js]
