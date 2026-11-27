@@ -1,0 +1,85 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 05:22:09 UTC 2026
+
+HTTPX lines: 61
+Live URLs: 61
+
+## 200
+https://bridge.bio.xyz [200] [] [5930] [BIO Bridge] [Vercel] [76.76.21.93] [133.631689ms] [HSTS,Vercel]
+https://api.id.bio.xyz [200] [] [12345] [ID API] [Vercel] [216.150.1.1] [240.806041ms] [HSTS,Vercel]
+https://arch.bima.money [200] [] [461] [Bima Arch] [Vercel] [76.76.21.93] [358.627278ms] [HSTS,Vercel]
+https://api-buildspace.bio.xyz [200] [] [13096] [Buildspace API] [Vercel] [216.150.1.193] [346.507177ms] [HSTS,Vercel]
+https://hub.bio.xyz [200] [] [1370] [Bio Hub · Project Monitoring] [] [46.101.154.129] [462.34484ms] [HSTS,HTTP/3]
+https://fleet.bio.xyz [200] [] [1370] [Bio Hub · Project Monitoring] [] [46.101.154.129] [532.9655ms] [HSTS,HTTP/3]
+https://cdp.bima.money [200] [] [11132] [Vercel] [66.33.60.194] [367.696547ms] [C3.js,HSTS,Vercel]
+https://api.notifications.bio.xyz [200] [] [12965] [Notifications API] [Vercel] [216.150.1.129] [588.842338ms] [HSTS,Vercel]
+https://accountable.bima.money [200] [] [2543] [Bima Proof of Solvency | Accountable] [nginx/1.30.7] [13.63.220.58] [747.831602ms] [Nginx:1.30.7]
+https://quest.bima.money [200] [] [2005] [Vercel] [76.76.21.98] [264.123251ms] [HSTS,Vercel]
+https://api-occam.bima.money [200] [] [12] [] [144.126.252.195] [922.138728ms] [Express,Node.js]
+https://launch-model.bio.xyz [200] [] [38000] [Vercel] [216.150.1.129] [438.016075ms] [HSTS,Vercel]
+https://occam.bima.money [200] [] [19282] [BIMA] [Vercel] [66.33.60.129] [504.197661ms] [HSTS,Vercel]
+https://tokenlists.bio.xyz [200] [] [106] [Vercel] [216.150.1.193] [437.79973ms] [HSTS,Vercel]
+https://openlabs-admin.bio.xyz [200] [] [69338] [Bio OpenLabs / Admin / Dashboard] [Vercel] [216.150.16.193] [553.499404ms] [HSTS,Vercel]
+https://vesting.athenadao.co [200] [] [7505] [Token Vesting Frontend] [Vercel] [76.76.21.142] [529.457877ms] [HSTS,Vercel]
+https://buildspace.bio.xyz [200] [] [167515] [Bio Buildspace] [Vercel] [216.150.1.129] [397.196149ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.athenadao.co [200] [] [40425] [AthenaDAO | Advancing Women's Health Research] [cloudflare] [198.202.211.1] [356.749662ms] [Cloudflare,Cookie Script,Google Analytics,Google Font API,Google Hosted Libraries,HSTS,HTTP/3,YouTube,cdnjs,jQuery:3.5.1]
+https://petri.bio.xyz [200] [] [216624] [Petri by BIO] [Vercel] [216.150.1.193] [454.222983ms] [HSTS,Vercel]
+https://www.bima.money [200] [] [115147] [Bima — Hold Bitcoin. Earn Across Every Chain.] [Vercel] [216.150.16.193] [292.426505ms] [HSTS,Vercel]
+https://x402.ai.bio.xyz [200] [] [12779] [BIOS x402 Service] [Vercel] [216.150.16.193] [402.235279ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://x402.chat.bio.xyz [200] [] [12779] [BIOS x402 Service] [Vercel] [216.150.1.193] [485.194956ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://ai.bio.xyz [200] [] [390883] [BIOS · Design new medicines from a prompt] [Vercel] [216.150.1.1] [274.845673ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.bio.xyz [200] [] [218918] [Bio / Science for the Network Age] [Vercel] [216.150.1.193] [337.743199ms] [HSTS,Vercel]
+https://mcp.bio.xyz [200] [] [336101] [Bio / MCP] [Vercel] [216.150.1.1] [771.368909ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://docs.bima.money [200] [] [421451] [Welcome to BIMA | BIMA] [cloudflare] [172.64.147.209] [cloudflare] [711.587767ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://index.bio.xyz [200] [] [646067] [Bio OpenLabs Index] [Vercel] [216.150.1.129] [314.949768ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://status.bio.xyz [200] [] [370941] [Bio / Status] [Vercel] [216.150.1.1] [1.537629282s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://openlabs.bio.xyz [200] [] [1192510] [Bio OpenLabs / Open scientific collaboration] [Vercel] [216.150.1.193] [887.7323ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://auctions.bio.xyz [200] [] [1025227] [bio.xyz Launchpad] [Vercel] [76.76.21.142] [8.064489501s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://apply.bio.xyz [301] [https://buildspace.bio.xyz/] [167] [301 Moved Permanently] [cloudflare] [172.67.131.112] [cloudflare] [161.719623ms] [Cloudflare]
+https://biofy.bio.xyz [301] [https://biofy.xyz/] [0] [cloudflare] [23.227.38.74] [165.319218ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://fy.bio.xyz [301] [https://biofy.xyz/] [0] [cloudflare] [23.227.38.74] [217.266858ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://intake.bio.xyz [301] [https://buildspace.bio.xyz/] [167] [301 Moved Permanently] [cloudflare] [104.21.4.8] [cloudflare] [101.114973ms] [Cloudflare]
+https://athenadao.co [301] [https://www.athenadao.co/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [334.606198ms] [Cloudflare,HSTS,HTTP/3]
+https://shop.bio.xyz [301] [https://biofy.xyz/] [0] [cloudflare] [23.227.38.74] [359.591151ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+
+## 302
+https://launcher.bio.xyz [302] [https://curly-pine-77d3.cloudflareaccess.com/cdn-cgi/access/login/launcher.bio.xyz?kid=ea9ea98e7ea31479cbb794927f52ead9ed5528ba25a50cd5101e0667913e673f&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImNjODM1ZjUwMjAzY2FkYTAyNzU1MDI5NjZkYjc0Y2Y3ZjY2NWZjYjhmZDY1NzYxYjE5MTFiMTc4NWQ2ZTM4YmUifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImVhOWVhOThlN2VhMzE0NzljYmI3OTQ5MjdmNTJlYWQ5ZWQ1NTI4YmEyNWE1MGNkNTEwMWUwNjY3OTEzZTY3M2YiLCJob3N0bmFtZSI6ImxhdW5jaGVyLmJpby54eXoiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc5NTc1NzIwOSwibmJmIjoxNzk1NzU2OTA5LCJpYXQiOjE3OTU3NTY5MDksImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiI2MGM3NjcxOGVlY2U5ZjU3YzY5NWE0NjY4ZDI2MTE3MmRkNjcyM2MxN2Y0MGRiMGE0ZmJhMjM0NWE4YTIzNjY2In0.XVhdj_gDTlDVXnZCOyFW48avk3-xmQbHXtpuka9iFeq0YKRVT_44Hv1JoiCosOdIePLAPisZEcas28JJWXWS5wVKwg4BVDo7t47mrWDoPAtFLKLuNzCUbWspQd2EXXMxWFUU6G5-JSpWaguB34pF66is6LKn0eViN9aeD98SMCcq0De8QdLfpX_ve5tAM5aHUZf0zX-l61UiQB2Ez_i5X-TVevq_1MM38RtmKgCdII0NiOgX7vDY3wcXZkHhK92l5bG5Ng8QIF1MeWiFP52Jq285nIPnQ8j9ExKLMxD0J-0ZnryU7Rb8VBURyeN2KO4ipiDAyynD76q_2LHrtiVMQw&redirect_url=%2F] [143] [302 Found] [cloudflare] [172.67.131.112] [cloudflare] [148.514882ms] [Cloudflare,HTTP/3]
+https://dev-testnet.launchpad.bio.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev-testnet.launchpad.bio.xyz%2F&nonce=df793a847f9955a80995cbf7105f4305e62497bfad9dacc15500ac3b856f9866] [263] [Vercel] [76.76.21.164] [321.156507ms] [HSTS,Vercel]
+https://dev-launchpad.bio.xyz [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fdev-launchpad.bio.xyz%2F&nonce=982e1d0f096c3b3c8635fd133f7aa67c1fe77848aa60855ba6033927d6b548a7] [263] [Vercel] [66.33.60.67] [475.981721ms] [HSTS,Vercel]
+
+## 307
+https://docs.bio.xyz [307] [https://docs.bio.xyz/bio/] [15] [cloudflare] [104.18.40.47] [cloudflare] [243.822977ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://api.openlabs.bio.xyz [307] [/api/v1/health] [15] [Vercel] [216.150.1.193] [246.930124ms] [HSTS,Vercel]
+https://launchpad.bio.xyz [307] [https://auctions.bio.xyz/] [15] [Vercel] [76.76.21.61] [242.661032ms] [HSTS,Vercel]
+https://testnet.bio.xyz [307] [/markets] [15] [Vercel] [76.76.21.241] [350.823676ms] [HSTS,Vercel]
+https://buildspace-admin.bio.xyz [307] [/login] [15] [Vercel] [216.150.1.129] [1.138648508s] [HSTS,Vercel]
+https://prophage.bio.xyz [307] [/auth/github?return_to=%2F%3Fperiod%3D30d] [6338] [Bio Prophage / Leaderboard] [Vercel] [216.150.1.193] [770.524556ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://messaging.bio.xyz [307] [/openlabs] [11083] [Bio / Messaging guide] [Vercel] [216.150.1.193] [927.284615ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 308
+https://bio.xyz [308] [https://www.bio.xyz/] [15] [Vercel] [216.150.1.193] [120.077187ms] [HSTS,Vercel]
+https://bima.money [308] [https://www.bima.money/] [15] [Vercel] [216.150.1.1] [218.785132ms] [HSTS,Vercel]
+http://agents.bio.xyz [308] [https://agents.bio.xyz:18800/] [0] [Caddy] [46.101.244.233] [252.028264ms] [Caddy]
+
+## 401
+https://admin.app.bio.xyz [401] [] [23] [Vercel] [216.150.1.1] [508.337586ms] [Basic,HSTS,Vercel]
+
+## 403
+
+## 404
+https://email.bio.xyz [404] [] [19] [] [34.110.180.34] [google] [264.200448ms]
+https://dataroom.athenadao.co [404] [] [107] [Vercel] [66.33.60.193] [667.264823ms] [HSTS,Vercel]
+https://oli-api.bio.xyz [404] [] [7142] [Open Science Index API] [Vercel] [216.150.1.129] [389.9868ms] [HSTS,Vercel]
+https://mainnet-api-v1.bima.money [404] [] [18] [] [209.38.124.74] [915.583924ms]
+https://testnet.bima.money [404] [] [107] [Vercel] [216.150.1.1] [707.490974ms] [HSTS,Vercel]
+
+## 500
+https://testnet.launchpad.bio.xyz [500] [] [6401] [bio.xyz Launchpad] [Vercel] [76.76.21.98] [3.066433738s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 502
+
+## 503
+
