@@ -1,0 +1,2 @@
+https://investor.circle.com [301] [/overview/default.aspx] [500] [Object moved] [cloudflare] [104.18.26.249] [cloudflare] [211.049688ms] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://metrics.coinpayments.net [500] [] [323] [500 Server Error] [Google Frontend] [216.239.34.21] [google] [118.961742ms] [Google Cloud,Google Cloud Load Balancing]
