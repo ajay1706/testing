@@ -1,0 +1,7 @@
+https://anchorage.com [301] [https://www.anchorage.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [317.184941ms] [Cloudflare,HSTS,HTTP/3]
+https://b2c2.com [301] [https://www.b2c2.com/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [264.663732ms] [Cloudflare,HSTS,HTTP/3]
+https://developers.binance.com [301] [https://developers.binance.com/en] [162] [301 Moved Permanently] [] [143.204.160.104] [cloudfront] [359.566467ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+http://doc.anchorage.com [301] [https://doc.anchorage.com/] [167] [301 Moved Permanently] [cloudflare] [162.159.143.13] [cloudflare] [20.708766ms] [Cloudflare,HTTP/3]
+https://docs.b2c2.com [301] [https://docs.b2c2.net:443/] [134] [301 Moved Permanently] [] [54.73.230.183] [466.631281ms]
+https://internal-docs.agentic.anchorage.com [301] [https://astro.anchorage.com/armada-internal] [0] [] [34.149.65.252] [google] [268.512972ms] [HTTP/3]
+http://mail.b2c2.com [301] [https://mail.google.com/a/b2c2.com] [231] [301 Moved] [ghs] [142.250.69.179] [google] [32.340332ms]
