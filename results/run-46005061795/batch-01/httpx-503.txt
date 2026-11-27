@@ -1,0 +1,3 @@
+https://link.test.bitpay.com [503] [] [162] [503 Service Temporarily Unavailable] [cloudflare] [104.18.79.118] [cloudflare] [55.597769ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://mcp.bridge.xyz [503] [] [99] [Vercel] [64.239.109.1] [32.830634ms] [HSTS,Vercel]
+https://test.bitpay.com [503] [] [7024] [Down for maintenance | BitPay] [cloudflare] [104.18.78.118] [cloudflare] [40.800466ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]

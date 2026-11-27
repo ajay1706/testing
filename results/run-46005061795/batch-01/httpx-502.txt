@@ -1,0 +1,6 @@
+https://link.staging.bitpay.com [502] [] [16] [cloudflare] [104.18.78.118] [cloudflare] [59.779055ms] [Cloudflare,HTTP/3]
+https://pymt.staging.bvnk.com [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [3.171.38.3] [cloudfront] [45.948471ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://pymt.bvnk.com [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [3.162.125.9] [cloudfront] [59.512992ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://pymt.sandbox.bvnk.com [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [13.35.78.7] [cloudfront] [66.37299ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://pymt.test.bvnk.com [502] [] [960] [ERROR: The request could not be satisfied] [CloudFront] [18.160.10.10] [cloudfront] [67.254862ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+https://staging.bitpay.com [502] [] [16] [cloudflare] [104.18.78.118] [cloudflare] [57.12712ms] [Cloudflare,HTTP/3]
