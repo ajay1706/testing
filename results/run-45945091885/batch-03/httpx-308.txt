@@ -1,0 +1,2 @@
+http://de2.kaspa.org [308] [https://de2.kaspa.org/] [0] [Caddy] [82.165.112.171] [338.411375ms] [Caddy]
+http://status.safe.iotex.io [308] [https://status.safe.iotex.io/] [0] [Caddy] [142.132.149.97] [1.422786565s] [Caddy]
