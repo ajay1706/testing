@@ -1,0 +1,7 @@
+https://login.supra.com [302] [https://login.supra.com/realms/supra/account] [142] [302 Found] [openresty] [152.53.201.245] [453.383077ms] [Nginx,OpenResty]
+https://logs-analytics.manage.supra.com [302] [/app/login?] [0] [nginx/1.24.0 (Ubuntu)] [138.68.108.188] [641.784927ms] [Nginx:1.24.0,Ubuntu]
+https://monitoring.manage.supra.com [302] [/login] [29] [] [209.38.114.36] [594.154579ms] [HSTS]
+https://pritunl-do-vpn.supra.com [302] [https://pritunl-do-vpn.supra.com/login] [263] [Redirecting...] [] [139.59.207.107] [530.999544ms] [HSTS]
+https://qa-admin.supra.com [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fqa-admin.supra.com%2F&nonce=0c9aad28dcce6626d9bfc0b05662785030401b19b776462a9e5788a56bc2bcb2] [263] [Vercel] [66.33.60.129] [218.760685ms] [HSTS,Vercel]
+https://qa-supra-vpn.supra.com [302] [/login] [29] [cloudflare] [172.67.70.154] [cloudflare] [1.719414487s] [Cloudflare]
+https://status.supra.com [302] [https://incidents.betterstack.com?unpublished-status-page=true] [0] [] [167.235.220.62] [526.784635ms] [HSTS]
