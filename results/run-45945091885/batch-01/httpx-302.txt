@@ -1,0 +1,5 @@
+https://condor.casper.network [302] [https://casper.network:443/casper-2-0/] [110] [302 Found] [awselb/2.0] [32.202.66.92] [244.654704ms] [Amazon ELB,Amazon Web Services]
+https://concordia.testnet.concordium.com [302] [https://docs.concordium.com/en/mainnet/docs/network/web3-id/concordia.html] [138] [302 Found] [] [18.199.184.83] [593.801145ms]
+https://dashboard.testnet.concordium.com [302] [https://testnet.ccdscan.io/nodes] [138] [302 Found] [] [18.199.184.83] [607.468642ms]
+https://itsupport.concordium.com [302] [https://itsupport.concordium.com/support/home] [111] [cloudflare] [172.66.0.145] [cloudflare] [291.540645ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://qr.concordium.com [302] [https://www.qrcodechimp.com] [0] [Apache] [34.57.223.238] [google] [3.304265668s] [Apache HTTP Server,HSTS]

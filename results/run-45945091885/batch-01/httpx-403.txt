@@ -1,0 +1,6 @@
+https://client-distribution-testnet.concordium.com [403] [] [111] [AmazonS3] [18.164.174.25] [cloudfront] [544.974649ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://client-distribution.concordium.com [403] [] [263] [AmazonS3] [52.85.132.95] [cloudfront] [554.691404ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://downloads.concordium.com [403] [] [17] [cloudflare] [198.202.211.1] [351.596875ms] [Cloudflare,HTTP/3]
+https://distribution.concordium.com [403] [] [263] [AmazonS3] [18.155.173.101] [cloudfront] [544.505555ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://distribution.testnet.concordium.com [403] [] [263] [AmazonS3] [18.238.96.75] [cloudfront] [882.479823ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://storage.firstparty.concordium.com [403] [] [199] [403 Forbidden] [Apache] [78.46.48.30] [4.471275327s] [Apache HTTP Server]
