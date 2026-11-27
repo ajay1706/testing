@@ -1,0 +1,8 @@
+https://auth.custody.crypto.com [302] [https://custody.crypto.com] [0] [nginx] [52.223.7.86] [82.632939ms] [HSTS,Nginx]
+https://crypto.com [302] [https://crypto.com/us] [0] [cloudflare] [104.19.223.17] [cloudflare] [85.956058ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://cql.crypto.com [302] [/hub] [5] [cloudflare] [104.19.222.17] [cloudflare] [296.831942ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://download.crypto.com [302] [https://itunes.apple.com/us/app/monaco-card/id1262148500?ls=1&mt=8] [0] [cloudflare] [104.19.222.17] [cloudflare] [270.55853ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://grpc.cql.crypto.com [302] [/hub] [5] [cloudflare] [104.19.222.17] [cloudflare] [1.34112895s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://mail.cql.crypto.com [302] [/hub] [5] [cloudflare] [104.19.223.17] [cloudflare] [339.118165ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://mail.marketing.copper.co [302] [http://www.copper.co] [0] [] [3.92.120.28] [6.114994714s] [Salesforce Marketing Cloud Account Engagement]
+https://pay-api.crypto.com [302] [https://merchant.crypto.com/] [0] [cloudflare] [104.19.223.17] [cloudflare] [7.334472231s] [Cloudflare,Cloudflare Bot Management,HTTP/3]
