@@ -1,0 +1,2 @@
+https://docs.squads.so [307] [https://docs.squads.so/main/] [15] [cloudflare] [172.64.147.209] [cloudflare] [179.956092ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://documentation.squads.so [307] [https://docs.squads.so/main/] [15] [cloudflare] [172.64.147.209] [cloudflare] [267.73097ms] [Cloudflare,HSTS,HTTP/3,Vercel]
