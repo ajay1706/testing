@@ -1,0 +1,2 @@
+https://academy.solflare.com [301] [https://www.solflare.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.37.33] [cloudflare] [100.760989ms] [Cloudflare]
+https://www.slush.app [301] [https://slush.app/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [327.500003ms] [Cloudflare,HSTS,HTTP/3]
