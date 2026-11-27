@@ -1,0 +1,4 @@
+https://ai.sherlock.xyz [301] [https://dashboard.sherlock.xyz/] [15] [Vercel] [66.33.60.35] [347.842283ms] [HSTS,Vercel]
+https://bp-rpc-old.zeitgeist.pm [301] [https://createtogenerate.com/] [237] [301 Moved Permanently] [Apache] [178.79.158.65] [378.800645ms] [Apache HTTP Server]
+https://www.zeitgeist.pm [301] [https://zeitgeist.pm/] [162] [301 Moved Permanently] [GitHub.com] [185.199.111.153] [143.764237ms] [Fastly,GitHub Pages,Varnish]
+https://www.sherlock.xyz [301] [https://sherlock.xyz/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [234.469141ms] [Cloudflare,HSTS,HTTP/3]
