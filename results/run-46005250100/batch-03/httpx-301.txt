@@ -1,0 +1,5 @@
+https://make-name.msu.io [301] [https://static.msu.io/campaign-closed] [167] [301 Moved Permanently] [cloudflare] [162.159.140.178] [cloudflare] [128.606754ms] [Cloudflare]
+https://play.myneighboralice.com [301] [https://myneighboralice.com:443/] [134] [301 Moved Permanently] [cloudflare] [104.26.13.205] [cloudflare] [402.789716ms] [Cloudflare]
+https://explorer.myneighboralice.com [301] [https://explorer.chromia.com:443/?network=My+Neighbor+Alice] [134] [301 Moved Permanently] [awselb/2.0] [63.187.132.180] [625.755883ms] [Amazon ELB,Amazon Web Services]
+https://www.myneighboralice.com [301] [http://myneighboralice.com:80/] [134] [301 Moved Permanently] [cloudflare] [104.26.13.205] [cloudflare] [748.430246ms] [Cloudflare]
+http://grafana.myneighboralice.com [301] [https://grafana.myneighboralice.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.13.205] [cloudflare] [40.017982ms] [Cloudflare]
