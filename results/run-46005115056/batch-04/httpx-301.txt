@@ -1,0 +1,5 @@
+https://apidocs.li.fi [301] [https://docs.li.fi/api-reference/introduction] [167] [301 Moved Permanently] [cloudflare] [172.66.41.9] [cloudflare] [74.67926ms] [Cloudflare,HSTS,HTTP/3]
+https://explorer.li.fi [301] [https://scan.li.fi/] [167] [301 Moved Permanently] [cloudflare] [172.66.42.247] [cloudflare] [288.772956ms] [Cloudflare,HSTS,HTTP/3]
+https://links.li.fi [301] [https://link3.to/lifi] [167] [301 Moved Permanently] [cloudflare] [172.66.41.9] [cloudflare] [71.640478ms] [Cloudflare,HSTS,HTTP/3]
+https://nr1.mayaprotocol.com [301] [https://nr1.mayaprotocol.org/] [0] [cloudflare] [172.67.128.40] [cloudflare] [148.673042ms] [Cloudflare,HTTP/3]
+https://support.li.fi [301] [https://help.li.fi/hc/en-us/requests/new] [167] [301 Moved Permanently] [cloudflare] [172.66.42.247] [cloudflare] [119.763578ms] [Cloudflare,HSTS,HTTP/3]
