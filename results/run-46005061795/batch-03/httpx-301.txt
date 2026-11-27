@@ -1,0 +1,5 @@
+http://autodiscover.firstdigitallabs.com [301] [https://autodiscover.firstdigitallabs.com/] [0] [Microsoft-HTTPAPI/2.0] [40.104.2.200] [1.311068ms] [Microsoft HTTPAPI:2.0]
+https://firstdigitallabs.com [301] [https://www.firstdigitallabs.com/] [167] [301 Moved Permanently] [cloudflare] [172.67.68.154] [cloudflare] [74.259672ms] [Cloudflare]
+https://due.network [301] [https://www.due.network/] [166] [301 Moved Permanently] [] [75.2.70.75] [256.201899ms] [HSTS]
+https://gov.ethena.fi [301] [https://gov.ethenafoundation.com/] [0] [] [216.66.8.43] [265.780659ms]
+https://www.due.network [301] [https://www.opendue.com/] [166] [301 Moved Permanently] [cloudflare] [34.210.109.146] [443.367455ms] [Cloudflare,HSTS,HTTP/3]
