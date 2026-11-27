@@ -1,0 +1,3 @@
+https://mpp.tzkt.io [502] [] [150] [502 Bad Gateway] [nginx] [37.27.140.243] [463.295044ms] [Nginx]
+https://nextnet.tzkt.io [502] [] [150] [502 Bad Gateway] [nginx] [46.225.137.173] [513.775796ms] [Nginx]
+https://tallinnnet.tzkt.io [502] [] [552] [502 Bad Gateway] [nginx] [46.225.137.173] [1.384379141s] [Nginx]
