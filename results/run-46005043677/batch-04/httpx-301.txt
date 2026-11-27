@@ -1,0 +1,6 @@
+https://blog.merkl.xyz [301] [https://merkl.xyz/blog/] [167] [301 Moved Permanently] [cloudflare] [104.26.1.205] [cloudflare] [127.715756ms] [Cloudflare]
+https://app.marinade.finance [301] [https://marinade.finance/portfolio] [167] [301 Moved Permanently] [cloudflare] [104.26.6.52] [cloudflare] [153.65004ms] [Cloudflare,HSTS]
+https://forwarders.merkl.xyz [301] [https://studio.merkl.xyz/forwarders] [167] [301 Moved Permanently] [cloudflare] [172.67.74.91] [cloudflare] [248.355026ms] [Cloudflare]
+https://metrics.mellow.finance [301] [https://metrics.mellow.finance/dashboard/] [169] [301 Moved Permanently] [nginx/1.19.8] [54.161.213.74] [303.909562ms] [Nginx:1.19.8]
+https://www.marinade.finance [301] [https://marinade.finance/] [167] [301 Moved Permanently] [cloudflare] [172.67.69.36] [cloudflare] [167.176853ms] [Cloudflare,HSTS]
+http://splitter.merkl.xyz [301] [https://splitter.merkl.xyz/] [167] [301 Moved Permanently] [cloudflare] [185.158.133.1] [22.200759ms] [Cloudflare]
