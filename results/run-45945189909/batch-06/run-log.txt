@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 27 05:35:08 UTC 2026
+[+] Run ID: 45945189909
+[+] Batch name: batch-06
+[+] Batch targets:
+thetatoken.org
+vana.org
+vaulta.com
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 05:36:40 UTC 2026
+[+] HTTPX input count: 533
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 05:37:04 UTC 2026
+[+] httpx line count: 324
+[+] Batch completed: Fri Nov 27 05:37:04 UTC 2026
