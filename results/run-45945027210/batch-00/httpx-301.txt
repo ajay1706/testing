@@ -1,0 +1,3 @@
+https://arc.io [301] [https://www.arc.io/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [219.281321ms] [Cloudflare,HSTS,HTTP/3]
+http://appv3.antpool.com [301] [https://appv3.antpool.com/] [178] [301 Moved Permanently] [nginx/1.24.0 (Ubuntu)] [47.241.60.150] [325.087725ms] [Nginx:1.24.0,Ubuntu]
+https://www.alta.finance [301] [https://alta.finance/] [167] [301 Moved Permanently] [cloudflare] [104.21.31.220] [cloudflare] [2.062737537s] [Cloudflare,HSTS]
