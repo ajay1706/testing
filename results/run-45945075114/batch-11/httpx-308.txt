@@ -1,0 +1,2 @@
+http://dnsseed.testnet.z.cash [308] [https://dnsseed.testnet.z.cash/] [0] [Caddy] [64.177.120.243] [35.615339ms] [Caddy]
+http://status.ai.xrpl.org [308] [https://status.ai.xrpl.org/] [168] [308 Permanent Redirect] [openresty] [167.235.220.62] [6.201370719s] [Nginx,OpenResty]

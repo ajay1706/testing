@@ -1,0 +1,4 @@
+https://apt.z.cash [404] [] [10] [] [52.204.143.36] [143.371375ms]
+http://dnsseed.z.cash [404] [] [19] [] [40.160.66.251] [5.709355ms]
+https://testnet.z.cash [404] [] [22] [uvicorn] [3.148.84.231] [1.066767365s] [Python,Uvicorn]
+https://versai.zilliqa.com [404] [] [2667] [Microsoft Azure Web App - Error 404] [cloudflare] [104.26.10.40] [cloudflare] [4.201650484s] [Cloudflare]
