@@ -1,0 +1,96 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:25:39 UTC 2026
+
+HTTPX lines: 71
+Live URLs: 71
+
+## 200
+https://api-v1.myriad.markets [200] [] [170] [cloudflare] [104.18.11.145] [cloudflare] [126.061313ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://academy.limitless.exchange [200] [] [22953] [Limitless Academy: preview with Find by topic] [Vercel] [216.150.16.193] [135.725398ms] [HSTS,Vercel]
+https://api-v1.staging.myriad.markets [200] [] [167] [cloudflare] [104.18.11.145] [cloudflare] [206.194773ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api.myriad.markets [200] [] [15] [cloudflare] [104.18.11.145] [cloudflare] [286.133369ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://api.limitless.exchange [200] [] [54] [cloudflare] [104.18.20.160] [cloudflare] [365.992274ms] [Cloudflare,Google Cloud,Google Cloud CDN,HSTS]
+https://app.nexusmutual.io [200] [] [36670] [Nexus Mutual] [cloudflare] [104.26.7.8] [cloudflare] [206.14283ms] [Cloudflare,HTTP/3,Snowplow Analytics]
+https://affiliates.limitless.exchange [200] [] [70391] [Limitless Affiliates — Partner program for creators, KOLs & community leaders] [Vercel] [216.150.1.193] [315.686715ms] [Amplitude,HSTS,Vercel]
+https://docs.nexusmutual.io [200] [] [20610] [Getting Started | Nexus Mutual Documentation] [cloudflare] [104.26.7.8] [cloudflare] [147.286466ms] [Cloudflare,Docusaurus:3.10.2,Google Tag Manager,HTTP/3,React,Webpack]
+https://i.limitless.exchange [200] [] [1404] [Limitless Creator] [Vercel] [216.150.16.1] [123.196496ms] [HSTS,Vercel]
+https://help.myriad.markets [200] [] [23743] [Notion] [cloudflare] [208.103.161.33] [125.454193ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,hCaptcha]
+https://leaderboard.preszn.myriad.markets [200] [] [16378] [cloudflare] [104.18.11.145] [cloudflare] [176.062229ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://mini-api.myriad.markets [200] [] [15] [cloudflare] [104.18.10.145] [cloudflare] [147.845593ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://docs.limitless.exchange [200] [] [127277] [Introduction - Limitless Exchange] [Vercel] [66.33.60.35] [188.870494ms] [Cloudflare,HSTS,Vercel]
+https://docs.myriad.markets [200] [] [107217] [Myriad Markets Documentation] [Vercel] [76.76.21.123] [259.330282ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://careers.limitless.exchange [200] [] [55880] [Limitless - Job openings] [cloudflare] [104.18.21.160] [cloudflare] [792.30603ms] [Alpine.js,Cloudflare,Cloudflare Browser Insights,HSTS,Ruby,Ruby on Rails,Stimulus]
+https://embed.limitless.exchange [200] [] [2220] [Limitless · Embed builder] [Vercel] [216.150.16.193] [500.160573ms] [HSTS,Vercel]
+https://leaderboard-staging.szn2.myriad.markets [200] [] [12334] [cloudflare] [104.18.11.145] [cloudflare] [580.974509ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://leaderboard.szn2.myriad.markets [200] [] [12334] [cloudflare] [104.18.11.145] [cloudflare] [578.261683ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://sdk.nexusmutual.io [200] [] [18962] [Nexus Mutual contract addresses] [cloudflare] [104.26.6.8] [cloudflare] [210.214744ms] [Bootstrap:4.0.0,Cloudflare,HTTP/3]
+https://preszn.myriad.markets [200] [] [11272] [Myriad - PRE-SZN Over] [cloudflare] [104.18.10.145] [cloudflare] [313.791266ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,GSAP,HTTP/3]
+https://leaderboard.szn1.myriad.markets [200] [] [10341] [cloudflare] [104.18.11.145] [cloudflare] [793.87029ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://leaderboard-staging.szn1.myriad.markets [200] [] [10341] [cloudflare] [104.18.11.145] [cloudflare] [847.379031ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://oracle.limitless.exchange [200] [] [54353] [The Limitless Oracle — your trading horoscope] [cloudflare] [104.18.21.160] [cloudflare] [254.335675ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://preview.nexusmutual.io [200] [] [36979] [Nexus Mutual] [cloudflare] [172.67.70.159] [cloudflare] [217.953634ms] [Cloudflare,HTTP/3]
+https://soon.myriad.markets [200] [] [34893] [Myriad - SZN 2 is coming] [cloudflare] [104.18.11.145] [cloudflare] [327.481886ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://v.myriad.markets [200] [] [12608] [Create Next App] [Vercel] [76.76.21.93] [408.73859ms] [HSTS,Vercel]
+https://tvl.limitless.exchange [200] [] [17292] [Markets from TVL | UFC Picks & Locks] [Vercel] [216.150.16.193] [512.155099ms] [HSTS,Vercel]
+https://rss.myriad.markets [200] [] [50326] [Myriad Markets on BNB Smart Chain] [cloudflare] [104.18.10.145] [cloudflare] [906.673424ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://cdn.limitless.exchange [200] [] [285512] [cloudflare] [104.18.21.160] [cloudflare] [952.789193ms] [Cloudflare,Google Cloud,Google Cloud CDN]
+https://nexusmutual.io [200] [] [433432] [Nexus Mutual - Crypto Insurance Alternative & DeFi Cover] [cloudflare] [172.67.70.159] [cloudflare] [141.337001ms] [Cloudflare,Framer Sites,Google Tag Manager,HSTS,HTTP/3,React]
+https://status.limitless.exchange [200] [] [416653] [Limitless Exchange - Status] [cloudflare] [104.18.20.160] [cloudflare] [1.188202867s] [Cloudflare,Cloudflare Browser Insights,HSTS]
+https://limitless.exchange [200] [] [2075834] [Limitless Prediction Market | Forecast Crypto, Sports & Global Events] [Vercel] [216.150.1.1] [340.271275ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+
+## 301
+https://mini.myriad.markets [301] [/markets] [0] [cloudflare] [104.18.11.145] [cloudflare] [283.870249ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://myriad.markets [301] [/markets] [0] [cloudflare] [104.18.11.145] [cloudflare] [364.769478ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://v2.nexusmutual.io [301] [https://app.nexusmutual.io/] [167] [301 Moved Permanently] [cloudflare] [172.67.70.159] [cloudflare] [117.075645ms] [Cloudflare,HTTP/3]
+https://www.nexusmutual.io [301] [https://nexusmutual.io/] [167] [301 Moved Permanently] [cloudflare] [104.26.7.8] [cloudflare] [98.852242ms] [Cloudflare,HTTP/3]
+http://leaderboard-staging.preszn.myriad.markets [301] [https://leaderboard-staging.preszn.myriad.markets/] [528] [301 Moved Permanently] [cloudflare] [104.18.11.145] [cloudflare] [39.665069ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+
+## 302
+https://link.myriad.markets [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=link.myriad.markets] [117] [cloudflare] [104.18.11.145] [cloudflare] [186.704888ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://grafana.dev.limitless.exchange [302] [https://accounts.google.com/o/oauth2/v2/auth?client_id=305911314180-v8o11j30oj3naspr93bkpsqnqgu4h9eu.apps.googleusercontent.com&response_type=code&scope=openid+email&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/305911314180-v8o11j30oj3naspr93bkpsqnqgu4h9eu.apps.googleusercontent.com:handleRedirect&code_challenge=BPwTrBk9u8IskdbHbgwO9qS4xvW9YllNvfshywVnNu8&code_challenge_method=S256&cred_ref=true&state=AaMXCssEdHjCq3esYNkxMHbbf8996nnIXCE10RfeZbkmdJTVu6BkVXyxjg4pUhjASDMPxTZa2QmCfw6IL3jDxzvfXw-PqFqHYD2-mx9GdpXTW9zrvHIpxURCsOtiqwREPDnTz8j5pNPKgciZ-pbWJUm8SWkr4H7qcOLJdVUr6LFKGhwWg0mQag_X11lvmVuReKHoL8xRKH3pDU-w5TmthcdZ5co5GXV1sW9qWgcQeM9jf8SfCOF2hTUWifZdmlxc434tQaAjqbrQ1zW08P1cJbc1CpMTLSn-qnbYiO0snE3MK9lx08IHUcbSFR_DkNKo27j-0-snlWuu7fYqQ110f8YLaP5vZ9I6okBhX0PLyNZuDV6ZB73Kp4b4cdXNk72M1PfU5qp6Mh5yMjvKTdZmHscwJ6ORp6JJB0WDq9O-bGcw_fkfgXfIWDdFKbfIHiiaHv_JAe-BYeDM2CIooIJ7igKHgr1rVV50p74EjEuQZAwmxhLEtLccJFNrCRXEvcAHVLQdF27ja3y9HzQIuDZURlRc-uYdmU3g3l0W4JvdnAzAPgjTPL1FwerFUGDuB1KsCIT21iVJzegXylpR4grx8moPQFgZ3la1VSt1_u6SryMkJv5PgEWtg0L0XcL7_pEPVfCWbBV13wceYW7CLp9xWPcJNWA8hua-JFoALo0p7bNfhdXMwL_Vtd2jxowR1IEpHsgSgUp8kVF0GDYFdzqOhXgMwTtl8Jl8L3D_csMzmz-4wiPIjuY_mk4-QZ2FC-1rPIvblvvKCWFPvRdgBlL7aNKIJT8ngKykYc66SIPInPuB8rkRmMwvgSo5oP6N0QhcRO6O_IE4J8Xql7gZ0siYkwc8YYRUyn5HSwLW59FZLKBcpndjyZwrCTIh42maJvQdGJPXb1Bk-5oUWtjAGK1BXPbS6wXD5cQCElUC2RTRPmsnr02c07YAIBbjLaCED_ElGUyblINxIVtEae7QpfOIze-j4Ir2sfDTaN__Nco0iA212s-FHLyYyhphAOKXcXOvHtvnkBT_c744EG_cID0Stcem3Jgq-YGr8Q7AbkYxchFWfsCviG-eN9wHcj9s1MlLreL4JlhRZstYTOqsh8PFAkw2f9KCJwLhAkQvZ0NMHMav5Nq1CESq_BeaxpniDFGO4B-aTn1tqsikR1i94x6OUYiLyaHct4hTeuAxAh_t5IvI1dA149ZAkgCemwO-cfdjMQ] [36] [] [34.111.155.38] [google] [766.200135ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+
+## 307
+https://epl.limitless.exchange [307] [https://limitless.exchange/] [15] [Vercel] [216.150.1.1] [368.363181ms] [HSTS,Vercel]
+https://sopo.myriad.markets [307] [https://sopotest.myriad.markets/] [1283] [307 Temporary Redirect] [cloudflare] [104.18.11.145] [cloudflare] [167.73022ms] [Cloudflare,HTTP/3]
+
+## 308
+https://api.beta.myriad.markets [308] [https://api.myriad.markets/] [1283] [308 Permanent Redirect] [cloudflare] [104.18.10.145] [cloudflare] [109.154943ms] [Cloudflare,HTTP/3]
+https://beta.myriad.markets [308] [https://myriad.markets/] [1283] [308 Permanent Redirect] [cloudflare] [104.18.10.145] [cloudflare] [178.530415ms] [Cloudflare,HTTP/3]
+https://www.myriad.markets [308] [https://myriad.markets/] [15] [Vercel] [66.33.60.34] [239.075709ms] [HSTS,Vercel]
+
+## 401
+https://mailcatcher.staging.nexusmutual.io [401] [] [0] [Caddy] [52.56.116.236] [422.095458ms] [Basic,Caddy,HTTP/3]
+https://testing.nexusmutual.io [401] [] [157] [cloudflare] [172.67.70.159] [cloudflare] [849.165131ms] [Cloudflare,HTTP/3]
+
+## 403
+https://binance-api.myriad.markets [403] [] [0] [Heroku] [3.33.249.164] [700.265762ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://forum.nexusmutual.io [403] [] [0] [cloudflare] [104.26.6.8] [cloudflare] [678.290154ms] [Cloudflare,HTTP/3]
+
+## 404
+https://api-mm.limitless.exchange [404] [] [18] [] [34.160.183.18] [google] [138.378278ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://badges.myriad.markets [404] [] [13] [cloudflare] [104.18.11.145] [cloudflare] [234.774693ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://api.abstract.myriad.markets [404] [] [2023] [404 Not Found] [cloudflare] [104.18.11.145] [cloudflare] [236.319822ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://abstract.myriad.markets [404] [] [1621] [404 Not Found] [cloudflare] [104.18.10.145] [cloudflare] [258.750624ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://api.staging.nexusmutual.io [404] [] [0] [Turtle v3] [52.56.116.236] [470.81466ms] [HTTP/3]
+https://elinkb5f.mail.myriad.markets [404] [] [2023] [404 Not Found] [cloudflare] [104.16.23.120] [cloudflare] [110.930626ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://api.nexusmutual.io [404] [] [0] [cloudflare] [104.26.7.8] [cloudflare] [510.734001ms] [Cloudflare,HTTP/3]
+https://email.limitless.exchange [404] [] [0] [] [34.117.153.222] [google] [133.321921ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://email.notify.myriad.markets [404] [] [19] [] [34.110.180.34] [google] [288.55186ms]
+https://metabase.myriad.markets [404] [] [2023] [404 Not Found] [cloudflare] [104.18.10.145] [cloudflare] [206.465088ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://poker.myriad.markets [404] [] [1621] [404 Not Found] [cloudflare] [104.18.11.145] [cloudflare] [216.383839ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://preview.myriad.markets [404] [] [2023] [404 Not Found] [cloudflare] [104.18.10.145] [cloudflare] [263.516969ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://legal.nexusmutual.io [404] [] [27150] [Not Found] [cloudflare] [172.67.70.159] [cloudflare] [637.289642ms] [Cloudflare]
+https://sopotest.myriad.markets [404] [] [1621] [404 Not Found] [cloudflare] [104.18.10.145] [cloudflare] [294.650992ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://szn1.myriad.markets [404] [] [1621] [404 Not Found] [cloudflare] [104.18.10.145] [cloudflare] [282.159443ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://ws.limitless.exchange [404] [] [0] [] [34.107.250.14] [google] [412.918887ms] [Google Cloud,Google Cloud CDN,HTTP/3]
+https://support.myriad.markets [404] [] [187506] [Tally - Create Beautiful Forms for Free | Unlimited Forms & Submissions] [] [35.205.106.218] [google] [1.246530013s] [HSTS,Tally]
+
+## 500
+
+## 502
+
+## 503
+https://api.staging.myriad.markets [503] [] [1665] [503 Service Temporarily Unavailable] [cloudflare] [104.18.11.145] [cloudflare] [438.69197ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://staging.myriad.markets [503] [] [1665] [503 Service Temporarily Unavailable] [cloudflare] [104.18.11.145] [cloudflare] [346.723959ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3]
+
