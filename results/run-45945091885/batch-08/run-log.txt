@@ -1,0 +1,12 @@
+[+] Batch started: Fri Nov 27 05:32:05 UTC 2026
+[+] Run ID: 45945091885
+[+] Batch name: batch-08
+[+] Batch targets:
+theqrl.org
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 05:32:35 UTC 2026
+[+] HTTPX input count: 122
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 05:32:56 UTC 2026
+[+] httpx line count: 39
+[+] Batch completed: Fri Nov 27 05:32:56 UTC 2026
