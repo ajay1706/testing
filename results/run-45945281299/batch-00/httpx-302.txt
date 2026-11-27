@@ -1,0 +1,4 @@
+http://autodiscover.apex.exchange [302] [https://autodiscover-service.mail.us-east-1.awsapps.com:443/] [110] [302 Found] [awselb/2.0] [107.23.117.212] [13.098238ms] [Amazon ELB,Amazon Web Services]
+https://api-docs.aevo.xyz [302] [/reference] [32] [cloudflare] [104.16.241.118] [cloudflare] [190.02402ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://asterdex.com [302] [https://www.asterdex.com/] [138] [302 Found] [] [99.84.234.91] [cloudfront] [539.841034ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://news.apex.exchange [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=news.apex.exchange] [116] [nginx] [67.199.248.13] [152.618165ms] [HSTS,HTTP/3,Nginx]

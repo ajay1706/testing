@@ -1,0 +1,2 @@
+https://clawopen.apex.exchange [502] [] [122] [502 Bad Gateway] [awselb/2.0] [18.165.83.94] [cloudfront] [404.324895ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://midas.omni.apex.exchange [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [18.160.46.39] [cloudfront] [479.051327ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]

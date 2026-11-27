@@ -1,0 +1,107 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 05:30:09 UTC 2026
+
+HTTPX lines: 81
+Live URLs: 81
+
+## 200
+https://admin-testnet-a94f1c7e8b3d20fa.aevo.xyz [200] [] [907] [Admin Dashboard] [Vercel] [66.33.60.35] [82.657769ms] [HSTS,Vercel]
+https://admin-a94f1c7e8b3d20fa.aevo.xyz [200] [] [907] [Admin Dashboard] [Vercel] [66.33.60.129] [174.230641ms] [HSTS,Vercel]
+https://app.aevo.xyz [200] [] [12105] [Aevo] [Vercel] [76.76.21.22] [168.760542ms] [Google Tag Manager,HSTS,Vercel]
+https://dev-build.aevo.xyz [200] [] [3785] [Aevo] [Vercel] [66.33.60.66] [189.789025ms] [HSTS,Vercel]
+https://affiliates.pro.apex.exchange [200] [] [1768] [ApeX Affiliates] [nginx] [140.150.29.88] [388.452947ms] [Amazon ALB,Amazon Web Services,Nginx]
+https://api-testnet.aevo.xyz [200] [] [338] [] [3.167.88.82] [cloudfront] [560.231418ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://explorer-testnet.aevo.xyz [200] [] [14399] [Aevo Testnet | Explorer] [cloudflare] [104.18.6.236] [cloudflare] [252.25262ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://explorer.aevo.xyz [200] [] [14386] [Aevo Mainnet | Explorer] [cloudflare] [104.18.6.236] [cloudflare] [253.715326ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://api.dev.aevo.xyz [200] [] [338] [] [3.167.88.82] [cloudfront] [611.285201ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://gov.aevo.xyz [200] [] [1289] [Aevo Governance] [Vercel] [76.76.21.241] [208.649327ms] [HSTS,Vercel]
+https://api.aevo.xyz [200] [] [327] [] [13.197.82.105] [726.447034ms] [HSTS]
+https://claw-api.aevo.xyz [200] [] [10598] [Alex] [] [54.254.195.239] [738.551527ms] [HTTP/3]
+https://chainqa.apex.exchange [200] [] [13726] [UpsideMAX] [nginx/1.21.5] [54.65.227.228] [662.506759ms] [Nginx:1.21.5]
+https://chainuat.apex.exchange [200] [] [13729] [UpsideMAX] [nginx/1.21.5] [52.193.58.84] [813.313542ms] [Nginx:1.21.5]
+https://pro.apex.exchange [200] [] [3058] [Crypto Trade to Earn | ApeX Pro (DEX)] [nginx] [140.150.29.88] [394.954545ms] [Amazon ALB,Amazon Web Services,Google Analytics,Nginx,reCAPTCHA]
+https://metrics.aevo.xyz [200] [] [0] [] [76.223.63.1] [659.010647ms] [HSTS]
+https://omni.apex.exchange [200] [] [7101] [ApeX Omni] [nginx] [163.171.238.16] [473.473511ms] [Amazon ALB,Amazon Web Services,Google Analytics,Google Tag Manager,Nginx,reCAPTCHA]
+https://m.asterdex.com [200] [] [2831] [Aster - The next-gen perp DEX for all traders] [] [3.170.42.25] [cloudfront] [726.558439ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://pm.chainqa.apex.exchange [200] [] [31055] [Upside 关注视图] [uvicorn] [3.162.112.33] [cloudfront] [778.085562ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Python,Uvicorn]
+https://qa.pro.apex.exchange [200] [] [3058] [Crypto Trade to Earn | ApeX Pro (DEX)] [nginx] [140.150.29.88] [822.32865ms] [Google Analytics,Nginx,reCAPTCHA]
+https://qa.omni.apex.exchange [200] [] [7101] [ApeX Omni] [nginx] [163.171.238.16] [834.183436ms] [Google Analytics,Google Tag Manager,HSTS,Nginx,reCAPTCHA]
+https://affiliates-home.pro.apex.exchange [200] [] [208205] [ApeX Affiliates] [] [140.150.29.88] [731.825966ms] [Amazon ALB,Amazon Web Services,Ant Design,C3.js,Next.js,Node.js,React,Webpack]
+https://docs.apex.exchange [200] [] [334699] [ApeX Protocol] [cloudflare] [172.64.147.209] [cloudflare] [137.180437ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://agp.aevo.xyz [200] [] [322351] [SNAPSHOT | Aevo Governance Proposals] [cloudflare] [104.18.40.47] [cloudflare] [271.764804ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://testnet.pro.apex.exchange [200] [] [3058] [Crypto Trade to Earn | ApeX Pro (DEX)] [nginx] [140.150.29.88] [460.408312ms] [Google Analytics,Nginx,reCAPTCHA]
+https://testnet.apex.exchange [200] [] [7101] [ApeX Omni] [nginx] [140.150.29.88] [533.009588ms] [Google Analytics,Google Tag Manager,HSTS,Nginx,reCAPTCHA]
+https://testnet.aevo.xyz [200] [] [4646] [Aevo] [Vercel] [66.33.60.129] [766.309406ms] [Google Tag Manager,HSTS,Vercel]
+https://status-testnet.aevo.xyz [200] [] [33208] [Testnet Exchange REST API] [] [142.132.149.97] [618.286899ms] [HSTS,HTTP/3,UIKit,jQuery:3.7.1]
+https://status.aevo.xyz [200] [] [34191] [Exchange REST API] [] [142.132.149.97] [616.504346ms] [HSTS,HTTP/3,UIKit,jQuery:3.7.1]
+https://www.asterdex.com [200] [] [12568] [Aster - The next-gen perp DEX for all traders] [] [3.170.42.25] [cloudfront] [169.276271ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://docs.asterdex.com [200] [] [445417] [What is Aster? | Aster] [cloudflare] [172.64.147.209] [cloudflare] [259.743477ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://www.apex.exchange [200] [] [210399] [ApeX Protocol: Decentralized Perpetual Exchange and Trading Platform] [] [140.150.29.88] [826.753261ms] [Amazon ALB,Amazon Web Services,Google Tag Manager,HSTS,Next.js,Node.js,React,Webpack]
+https://www.aevo.xyz [200] [] [369940] [Aevo - Trade Perps and Options] [Framer/0a675d1] [31.43.161.6] [212.109951ms] [Framer Sites,HSTS,HTTP/3,React]
+https://api-docs.omni.apex.exchange [200] [] [674340] [Resources & Support — ApeX Omni API Docs] [AmazonS3] [52.85.193.18] [cloudfront] [1.128826692s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://api-docs.pro.apex.exchange [200] [] [674340] [Resources & Support — ApeX Omni API Docs] [AmazonS3] [52.85.193.43] [cloudfront] [1.141826086s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://api-docs.qa.pro.apex.exchange [200] [] [663382] [Resources & Support — ApeX Omni API Docs] [AmazonS3] [3.170.42.87] [cloudfront] [1.810353024s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+
+## 301
+https://apex.exchange [301] [https://www.apex.exchange/] [0] [CloudFront] [3.167.88.42] [cloudfront] [113.3631ms] [Amazon CloudFront,Amazon Web Services]
+https://blog.apex.exchange [301] [https://www.apex.exchange/blog/] [17] [] [140.150.29.88] [376.147557ms] [Amazon ALB,Amazon Web Services]
+https://deeplink.omni.apex.exchange [301] [https://omni.apex.exchange] [61] [] [140.150.29.88] [682.158257ms] [Amazon ALB,Amazon Web Services]
+https://deeplink.pro.apex.exchange [301] [https://pro.apex.exchange] [60] [] [140.150.29.88] [896.370873ms] [Amazon ALB,Amazon Web Services]
+https://join.omni.apex.exchange [301] [https://omni.apex.exchange] [61] [] [140.150.29.88] [368.618494ms] [Amazon ALB,Amazon Web Services]
+http://dev.pro.apex.exchange [301] [https://dev.pro.apex.exchange:443/] [134] [301 Moved Permanently] [awselb/2.0] [54.255.63.122] [442.563051ms] [Amazon ELB,Amazon Web Services]
+http://quote-dev.pro.apex.exchange [301] [https://quote-dev.pro.apex.exchange:443/] [134] [301 Moved Permanently] [awselb/2.0] [52.74.31.143] [443.982575ms] [Amazon ELB,Amazon Web Services]
+
+## 302
+http://autodiscover.apex.exchange [302] [https://autodiscover-service.mail.us-east-1.awsapps.com:443/] [110] [302 Found] [awselb/2.0] [107.23.117.212] [13.098238ms] [Amazon ELB,Amazon Web Services]
+https://api-docs.aevo.xyz [302] [/reference] [32] [cloudflare] [104.16.241.118] [cloudflare] [190.02402ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://asterdex.com [302] [https://www.asterdex.com/] [138] [302 Found] [] [99.84.234.91] [cloudfront] [539.841034ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://news.apex.exchange [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=news.apex.exchange] [116] [nginx] [67.199.248.13] [152.618165ms] [HSTS,HTTP/3,Nginx]
+
+## 307
+https://docs.aevo.xyz [307] [https://www.aevo.xyz/docs/] [15] [cloudflare] [104.18.40.47] [cloudflare] [131.710474ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://m.omni.apex.exchange [307] [/en-US/trade/BTCUSDT] [20] [] [140.150.29.88] [573.342029ms] [Amazon ALB,Amazon Web Services]
+https://m.pro.apex.exchange [307] [/en-US/trade/BTCUSDT] [20] [] [140.150.29.88] [675.903401ms] [Amazon ALB,Amazon Web Services]
+
+## 308
+https://aevo.xyz [308] [https://www.aevo.xyz/] [57] [Framer/0a675d1] [52.223.52.2] [70.375342ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+
+## 403
+https://fstream.asterdex.com [403] [] [919] [ERROR: The request could not be satisfied] [CloudFront] [52.85.193.8] [cloudfront] [168.257917ms] [Amazon CloudFront,Amazon Web Services]
+https://fapi.asterdex.com [403] [] [6892] [] [3.170.42.34] [cloudfront] [229.16419ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://download.asterdex.com [403] [] [111] [AmazonS3] [3.171.61.12] [cloudfront] [545.935922ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://external-api.aevo.xyz [403] [] [71] [nginx] [35.77.32.152] [526.613601ms] [Nginx]
+https://quote-qa.pro.apex.exchange [403] [] [1632] [403 Forbidden] [nginx] [140.150.29.88] [265.563645ms] [Nginx]
+https://quote.pro.apex.exchange [403] [] [1629] [403 Forbidden] [nginx] [140.150.29.88] [219.180843ms] [Nginx]
+http://quotecfqa.omni.apex.exchange [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [3.170.19.68] [cloudfront] [92.973097ms] [Amazon CloudFront,Amazon Web Services]
+https://l2dex-image-static.dev.apex.exchange [403] [] [111] [AmazonS3] [3.162.112.113] [cloudfront] [868.949473ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://litellm.apex.exchange [403] [] [520] [403 Forbidden] [awselb/2.0] [43.169.27.12] [1.280412542s] [Amazon ELB,Amazon Web Services]
+https://static.chainqa.apex.exchange [403] [] [111] [AmazonS3] [18.154.227.75] [cloudfront] [590.759177ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://static.chainuat.apex.exchange [403] [] [111] [AmazonS3] [3.167.69.122] [cloudfront] [608.393949ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://static.asterdex.com [403] [] [111] [AmazonS3] [3.171.100.124] [cloudfront] [635.734167ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://static-pro.apex.exchange [403] [] [111] [AmazonS3] [140.150.29.88] [741.708882ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://translations.apex.exchange [403] [] [555] [403 Forbidden] [nginx/1.21.5] [140.150.29.88] [468.511178ms] [Amazon ALB,Amazon Web Services,Nginx:1.21.5]
+https://translations-qa.apex.exchange [403] [] [146] [403 Forbidden] [nginx] [140.150.29.88] [699.03611ms] [Nginx]
+
+## 404
+https://degen-testnet.aevo.xyz [404] [] [107] [Vercel] [66.33.60.35] [313.974826ms] [HSTS,Vercel]
+https://degen.aevo.xyz [404] [] [107] [Vercel] [76.76.21.164] [326.831999ms] [HSTS,Vercel]
+https://admin-api-testnet.aevo.xyz [404] [] [19] [] [57.180.215.82] [680.141896ms]
+https://admin-api.aevo.xyz [404] [] [19] [] [54.199.193.83] [701.391112ms]
+https://governance.aevo.xyz [404] [] [107] [Vercel] [66.33.60.67] [410.108097ms] [HSTS,Vercel]
+https://otc.aevo.xyz [404] [] [107] [Vercel] [76.76.21.98] [413.559016ms] [HSTS,Vercel]
+https://testnet-faucet.aevo.xyz [404] [] [79] [Vercel] [76.76.21.98] [212.459468ms] [HSTS,Vercel]
+https://quote.omni.apex.exchange [404] [] [19] [] [163.171.238.16] [750.508375ms]
+https://sapi.asterdex.com [404] [] [6930] [] [3.170.42.34] [cloudfront] [840.234722ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://tg-testnet.pro.apex.exchange [404] [] [19] [] [157.185.158.76] [561.329612ms]
+
+## 500
+
+## 502
+https://clawopen.apex.exchange [502] [] [122] [502 Bad Gateway] [awselb/2.0] [18.165.83.94] [cloudfront] [404.324895ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://midas.omni.apex.exchange [502] [] [507] [ERROR: The request could not be satisfied] [CloudFront] [18.160.46.39] [cloudfront] [479.051327ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 503
+
