@@ -1,0 +1,4 @@
+https://demo.figure.com [307] [https://figure.com/] [15] [Vercel] [76.76.21.61] [308.728432ms] [HSTS,Vercel]
+https://ryangravlin.test.figure.com [307] [https://www.youtube.com/watch?v=dQw4w9WgXcQ] [136] [307 Temporary Redirect] [kong/3.11.0.13-enterprise-edition] [34.107.191.33] [google] [170.564391ms] [Google Cloud,Google Cloud CDN,HSTS,HTTP/3]
+https://login.dinari.com [307] [https://login-api.dinari.com/user_management/initiate_login?context=&client_id=client_01KBNQZE33TBRYMYC31TG890TT] [63584] [Sign in] [cloudflare] [172.64.152.23] [cloudflare] [668.507104ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS]
+https://status-internal.figure.com [307] [/login] [13360] [Figure Internal - Status] [Vercel] [66.33.60.194] [310.67561ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
