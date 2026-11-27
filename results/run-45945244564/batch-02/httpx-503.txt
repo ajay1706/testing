@@ -1,0 +1,2 @@
+https://api.cetus.zone [503] [] [0] [] [13.115.61.191] [502.434327ms]
+https://api-sui-cf.cetus.zone [503] [] [0] [cloudflare] [172.66.168.240] [cloudflare] [871.153894ms] [Cloudflare]

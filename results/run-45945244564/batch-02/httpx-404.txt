@@ -1,0 +1,6 @@
+https://archive.cetus.zone [404] [] [948] [404 Not Found] [Netlify] [98.84.224.111] [161.217851ms] [HSTS,Netlify]
+https://api-sui.cetus.zone [404] [] [30] [] [13.115.61.191] [432.031548ms]
+https://api.cow.fi [404] [] [146] [404 Not Found] [] [52.222.205.31] [cloudfront] [574.16764ms] [Amazon CloudFront,Amazon Web Services]
+https://barn.api.cow.fi [404] [] [548] [404 Not Found] [] [52.84.199.107] [cloudfront] [601.403961ms] [Amazon CloudFront,Amazon Web Services]
+https://prices.curve.finance [404] [] [22] [cloudflare] [172.67.72.51] [cloudflare] [316.920433ms] [Cloudflare,HSTS,HTTP/3]
+https://walrus-node-testnet.cetus.zone [404] [] [0] [nginx/1.24.0 (Ubuntu)] [52.54.13.8] [153.00186ms] [Nginx:1.24.0,Ubuntu]
