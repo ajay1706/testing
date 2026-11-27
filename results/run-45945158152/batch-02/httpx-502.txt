@@ -1,0 +1,5 @@
+https://aptly.blockstream.com [200] [] [502] [Index of /] [] [23.155.96.134] [275.45823ms] [HSTS]
+https://bitcoin-testnet.esplora.blockstream.com [502] [] [332] [502 Server Error] [] [35.227.218.227] [google] [300.625503ms] [HTTP/3]
+https://elk-md.blockstream.com [502] [] [568] [502 Bad Gateway] [nginx/1.18.0 (Ubuntu)] [35.188.186.29] [google] [171.807433ms] [Nginx:1.18.0,Ubuntu]
+https://glow.breez.technology [502] [] [0] [Caddy] [94.23.68.139] [653.729626ms] [Caddy,HTTP/3]
+https://relay.dev.blockstream.com [502] [] [150] [502 Bad Gateway] [] [23.155.96.134] [169.892824ms] [HSTS]

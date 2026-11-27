@@ -1,0 +1,8 @@
+https://davtest.breez.technology [401] [] [0] [Caddy] [164.132.137.138] [538.683004ms] [Basic,Caddy]
+https://helm.blockstream.com [401] [] [172] [401 Authorization Required] [] [23.155.96.134] [157.557761ms] [Basic,HSTS]
+https://liquid.blockstream.com [401] [] [587] [401 Authorization Required] [openresty/1.27.1.2] [35.227.199.207] [google] [278.957207ms] [Basic,Google Cloud,Google Cloud CDN,HTTP/3,Nginx,OpenResty:1.27.1.2]
+https://n.breez.technology [401] [] [0] [Caddy] [94.23.68.139] [665.587379ms] [Basic,Caddy,HTTP/3]
+https://nr1.breez.technology [401] [] [0] [Caddy] [65.109.145.24] [756.708795ms] [Basic,Caddy,HTTP/3]
+https://packages.breez.technology [401] [] [0] [Caddy] [164.132.137.138] [687.892175ms] [Basic,Caddy]
+https://staging.bmn2.mining.blockstream.com [401] [] [38] [Werkzeug/3.0.3 Python/3.12.15] [34.54.247.102] [google] [117.410198ms] [Basic,Flask:3.0.3,Google Cloud,Google Cloud CDN,HTTP/3,Python:3.12.15]
+https://staging.mining.blockstream.com [401] [] [179] [401 Authorization Required] [nginx/1.31.3] [35.186.219.59] [google] [199.203091ms] [Basic,Google Cloud,Google Cloud CDN,HTTP/3,Nginx:1.31.3]
