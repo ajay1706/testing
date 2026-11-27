@@ -1,0 +1,6 @@
+http://mail.zebpay.com [301] [http://mail.google.com/a/zebpay.com] [232] [301 Moved] [ghs] [173.194.194.121] [google] [40.148065ms]
+https://my.upbit.com [301] [https://sg.upbit.com/] [0] [cloudflare] [104.18.223.119] [cloudflare] [496.620651ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://report.wintermute.com [301] [http://node.wintermute.com/reports/lp] [15] [Vercel] [216.230.84.65] [4.270500282s] [HSTS,Vercel]
+https://udc-static.upbit.com [301] [https://udc-static.dunamu.com/] [0] [CloudFront] [18.64.183.31] [cloudfront] [119.467682ms] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+http://sg.upbit.com [301] [https://sg.upbit.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.223.119] [cloudflare] [109.447968ms] [Cloudflare,Cloudflare Bot Management]
+https://upbit.com [301] [https://www.upbit.com/] [0] [AmazonS3] [65.8.27.26] [cloudfront] [142.1642ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
