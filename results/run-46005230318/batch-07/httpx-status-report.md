@@ -1,0 +1,153 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:40:23 UTC 2026
+
+HTTPX lines: 125
+Live URLs: 125
+
+## 200
+https://create.tensor.trade [200] [] [28926] [cloudflare] [104.26.14.32] [cloudflare] [178.593088ms] [Amazon S3,Amazon Web Services,Cloudflare,HSTS,Vercel]
+https://claynosaurz.tensor.trade [200] [] [29171] [Tensor | Solana's Leading NFT Marketplace] [cloudflare] [104.26.14.32] [cloudflare] [179.213599ms] [Cloudflare,HSTS,Vercel]
+https://api.create.tensor.trade [200] [] [18] [cloudflare] [172.67.74.148] [cloudflare] [408.386156ms] [Cloudflare,Express,HSTS,Node.js]
+https://docs.teia.art [200] [] [15766] [Teia Docs] [GitHub.com] [185.199.110.153] [160.191339ms] [Docusaurus:3.10.1,Fastly,GitHub Pages,React,Varnish,Webpack]
+https://auth.veve.me [200] [] [47071] [VeVe] [] [32.192.220.61] [348.051595ms] [jQuery CDN,jQuery:3.7.1]
+https://chat.veve.me [200] [] [11365] [VeVe Support] [] [52.85.132.19] [cloudfront] [480.348188ms] [Amazon CloudFront,Amazon Web Services,Ruby,Ruby on Rails]
+https://baking4fountain.teia.art [200] [] [933] [#baking4fountain Zir0hBaker · TezTok.com Tech Demo] [cloudflare] [104.21.42.17] [cloudflare] [587.129056ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://cycles.teia.art [200] [] [5192] [Cycles · NFC Lisbon 2026 · Teia] [cloudflare] [104.21.42.17] [cloudflare] [586.905203ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://art4artists.teia.art [200] [] [918] [#Art4Artists · TezTok.com Tech Demo] [cloudflare] [172.67.155.27] [cloudflare] [627.537679ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://cindtezos.teia.art [200] [] [886] [#CINDTezos] [cloudflare] [172.67.155.27] [cloudflare] [676.121583ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://art4life-gallery.teia.art [200] [] [12372] [Curated/Juried · Art for Life · #Art4LifeTez · Teia] [cloudflare] [104.21.42.17] [cloudflare] [572.177305ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://artforhumanity3.teia.art [200] [] [892] [#ArtForHumanity3] [cloudflare] [172.67.155.27] [cloudflare] [665.436148ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://backup.teia.art [200] [] [2480] [Backup your Tezos NFT's] [cloudflare] [172.67.155.27] [cloudflare] [641.922698ms] [Bootstrap:4.3.1,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Popper,jQuery CDN,jQuery:3.3.1,jsDelivr]
+https://computationaljewelry-gallery.teia.art [200] [] [8618] [Computational Jewelry · Ting Song × Teia · Open Call] [cloudflare] [172.67.155.27] [cloudflare] [586.739091ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://byob.teia.art [200] [] [8442] [BYOB mx TEIA · Mexico City · June 25 2026] [cloudflare] [104.21.42.17] [cloudflare] [606.926218ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://cache.teia.art [200] [] [129013] [Welcome to OpenResty!] [cloudflare] [172.67.155.27] [cloudflare] [267.764931ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://cindtezos2026-gallery.teia.art [200] [] [9515] [CINDTezos 2026 · #CINDTezos2026 · Teia] [cloudflare] [172.67.155.27] [cloudflare] [664.917642ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://art4life.teia.art [200] [] [12372] [Curated/Juried · Art for Life · #Art4LifeTez · Teia] [cloudflare] [172.67.155.27] [cloudflare] [716.808921ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://decurators.teia.art [200] [] [22641] [Decurators Presents: Proscrypta - Launching May 23rd] [cloudflare] [104.21.42.17] [cloudflare] [665.078796ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://26pov-gallery.teia.art [200] [] [17381] [#26POV: Open Call for Artists | Teia × Mad Dolph] [cloudflare] [172.67.155.27] [cloudflare] [629.278882ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://blog.teia.art [200] [] [41996] [Teia Community Updates & Resources] [cloudflare] [104.21.42.17] [cloudflare] [418.682128ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Netlify,React]
+https://drip.tensor.trade [200] [] [29171] [Tensor | Solana's Leading NFT Marketplace] [cloudflare] [104.26.15.32] [cloudflare] [420.299181ms] [Cloudflare,HSTS,Vercel]
+https://imgproxy.teia.art [200] [] [4377] [Hey, I'm imgproxy!] [cloudflare] [172.67.155.27] [cloudflare] [409.777598ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://crosspollination-gallery.teia.art [200] [] [67296] [#CrossPollination on Teia] [cloudflare] [104.21.42.17] [cloudflare] [809.299186ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://henreunion.teia.art [200] [] [917] [#henreunion · TezTok.com Tech Demo] [cloudflare] [104.21.42.17] [cloudflare] [866.667529ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://monkedao.tensor.trade [200] [] [29171] [Tensor | Solana's Leading NFT Marketplace] [cloudflare] [104.26.15.32] [cloudflare] [225.924579ms] [Cloudflare,HSTS,Vercel]
+https://ma65471ze54wg863.veve.me [200] [] [2242] [VeVe Admin] [AmazonS3] [18.155.173.10] [cloudfront] [606.433164ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://discourse.teia.art [200] [] [113419] [Teia Community - Teia Community Forums] [nginx] [88.198.0.50] [879.239718ms] [Discourse:2026.12.0,HSTS,Nginx,Ruby on Rails]
+https://midsummerparty2026-gallery.teia.art [200] [] [4504] [Teia Minting Party · Midsummer 2026] [cloudflare] [104.21.42.17] [cloudflare] [655.666779ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://dev.tensor.trade [200] [] [142107] [Tensor Developer Hub] [cloudflare] [104.26.15.32] [cloudflare] [770.373431ms] [Cloudflare,Cloudflare Bot Management,Google Analytics,HSTS,ReadMe,Render]
+https://nfc-lisbon-gallery.teia.art [200] [] [922] [#CyclesNFCLisbon · TezTok.com Tech Demo] [cloudflare] [104.21.42.17] [cloudflare] [738.086042ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://registry.teia.art [200] [] [0] [] [88.198.0.50] [508.629563ms] [HSTS]
+https://preview.teia.art [200] [] [4318] [teia] [openresty] [88.198.0.50] [577.29103ms] [HSTS,Nginx,OpenResty]
+https://postamericana-gallery.teia.art [200] [] [19006] [Circus Maximus: #PostAmericana on Teia] [cloudflare] [172.67.155.27] [cloudflare] [652.138996ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://ipfs.teia.art [200] [] [128646] [Welcome to OpenResty!] [openresty] [168.119.141.125] [982.451341ms] [HSTS,Nginx,OpenResty]
+https://savepakistan.teia.art [200] [] [919] [#savepakistan · TezTok.com Tech Demo] [cloudflare] [172.67.155.27] [cloudflare] [613.09174ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://mastodon.teia.art [200] [] [55145] [Teia Community] [Mastodon] [88.198.0.50] [704.708788ms] [HSTS,Mastodon]
+https://teia.art [200] [] [4685] [teia] [cloudflare] [172.67.155.27] [cloudflare] [632.193719ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://token.veve.me [200] [] [3341] [OMI Token Tracker] [AmazonS3] [18.155.173.125] [cloudfront] [299.918716ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,OneTrust]
+https://teiaafrica-gallery.teia.art [200] [] [8979] [Teia Africa: Sip & Paint] [cloudflare] [104.21.42.17] [cloudflare] [605.14591ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://teiaweave.teia.art [200] [] [916] [#TeiaWeave · TezTok.com Tech Demo] [cloudflare] [172.67.155.27] [cloudflare] [599.187847ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://teiarave.teia.art [200] [] [885] [#TeiaRave] [cloudflare] [172.67.155.27] [cloudflare] [639.660574ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://tez4pal.teia.art [200] [] [914] [#tez4pal · TezTok.com Tech Demo] [cloudflare] [104.21.42.17] [cloudflare] [631.421852ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://tez4friends.teia.art [200] [] [888] [#Tez4Friends] [cloudflare] [172.67.155.27] [cloudflare] [643.625509ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://teiaonboarder-gallery.teia.art [200] [] [16210] [#TeiaOnboarder: Mint Your First NFT on Teia, Bengaluru] [cloudflare] [104.21.42.17] [cloudflare] [643.535366ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://tez4venezuela-gallery.teia.art [200] [] [7256] [#Tez4Venezuela · You Are Not Alone · Teia] [cloudflare] [104.21.42.17] [cloudflare] [645.08378ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://tez4lbn.teia.art [200] [] [884] [#Tez4LBN] [cloudflare] [104.21.42.17] [cloudflare] [661.710835ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://tezospride.teia.art [200] [] [887] [#TezosPride] [cloudflare] [104.21.42.17] [cloudflare] [634.862072ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://blog.tensor.trade [200] [] [90959] [Tensor | Substack] [cloudflare] [104.18.36.24] [cloudflare] [178.959041ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,Google Analytics,HSTS,HTTP/3,Node.js,Substack]
+https://tezos4iran.teia.art [200] [] [917] [#tezos4iran · TezTok.com Tech Demo] [cloudflare] [172.67.155.27] [cloudflare] [663.912995ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://teiawoman.teia.art [200] [] [10368] [Teia Woman · #TeiaWoman · Open Call] [cloudflare] [104.21.42.17] [cloudflare] [655.230732ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://tezquakeaid.teia.art [200] [] [918] [#tezquakeaid · TezTok.com Tech Demo] [cloudflare] [172.67.155.27] [cloudflare] [603.50645ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://teiateatime-gallery.teia.art [200] [] [14104] [Teia Teatime] [cloudflare] [172.67.155.27] [cloudflare] [655.54556ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://tezcon2026.teia.art [200] [] [9015] [TezCon 2026 · Beyond Enshitification · Seattle] [cloudflare] [172.67.155.27] [cloudflare] [639.952528ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://vote.teia.art [200] [] [2751] [Teia Community Vote] [Netlify] [13.52.188.95] [411.219707ms] [HSTS,Netlify]
+https://tezcon2026-gallery.teia.art [200] [] [9015] [TezCon 2026 · Beyond Enshitification · Seattle] [cloudflare] [172.67.155.27] [cloudflare] [708.631367ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://tezospride2026-gallery.teia.art [200] [] [9597] [Tezos Pride 2026 · #TezosPride2026 · Teia] [cloudflare] [104.21.42.17] [cloudflare] [682.793859ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://docs.tensor.trade [200] [] [390076] [About | Tensor Trade] [cloudflare] [104.18.40.47] [cloudflare] [542.70205ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://unique-ingredients-berlin.teia.art [200] [] [3581] [Unique Ingredients | Teia] [cloudflare] [104.21.42.17] [cloudflare] [583.852978ms] [<model-viewer>,Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3,Unpkg]
+https://uniqueingredients.teia.art [200] [] [894] [#UniqueIngredients] [cloudflare] [172.67.155.27] [cloudflare] [586.684466ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://voicesofiran.teia.art [200] [] [919] [#voicesofiran · TezTok.com Tech Demo] [cloudflare] [104.21.42.17] [cloudflare] [594.770197ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://voicesofiran-gallery.teia.art [200] [] [10974] [Voices of Iran · Teia] [cloudflare] [104.21.42.17] [cloudflare] [585.398099ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://vib3ology-gallery.teia.art [200] [] [5606] [VIB3OLOGY Open Call] [cloudflare] [172.67.155.27] [cloudflare] [662.480667ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://vault.teia.art [200] [] [23139] [Vaultwarden Web] [Rocket] [88.198.0.50] [659.036579ms] [HSTS]
+https://s3admin.teia.art [200] [] [1310] [MinIO Console] [MinIO Console] [168.119.141.125] [1.683769694s] [HSTS]
+https://www.tensor.trade [200] [] [29171] [Tensor | Solana's Leading NFT Marketplace] [cloudflare] [104.26.15.32] [cloudflare] [198.465756ms] [Cloudflare,HSTS,Vercel]
+https://www.teia.art [200] [] [4685] [teia] [cloudflare] [172.67.155.27] [cloudflare] [599.447789ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://zeppelin.teia.art [200] [] [821] [Zeppelin - Moderation bot for Discord] [] [88.198.0.50] [467.593764ms] [HSTS]
+https://zeroonteia-gallery.teia.art [200] [] [7059] [#ZEROonTeia: An AI Art Curation Experiment] [cloudflare] [172.67.155.27] [cloudflare] [617.149971ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+
+## 301
+https://creators.tensor.trade [301] [https://create.tensor.trade/] [15] [Vercel] [66.33.60.67] [131.765614ms] [HSTS,Vercel]
+https://data-labs.veve.me [301] [https://cloud.hasura.io/project/a2b8d723-62a6-4e73-90e1-170bf65699ed/console] [175] [301 Moved Permanently] [cloudflare] [104.18.18.8] [cloudflare] [149.536004ms] [Cloudflare,HSTS]
+https://blog.veve.me [301] [https://www.veve.me/blog] [0] [CloudFront] [52.85.132.9] [cloudfront] [159.621207ms] [Amazon CloudFront,Amazon Web Services]
+https://cms.veve.me [301] [https://www.veve.me/] [0] [Apache/2.4.71 (Debian)] [54.239.180.86] [cloudfront] [571.466449ms] [Amazon CloudFront,Amazon Web Services,Apache HTTP Server:2.4.71,Debian]
+https://glass.veve.me [301] [https://www.veve.me/company/veve-glass/] [0] [CloudFront] [18.238.96.58] [cloudfront] [271.939074ms] [Amazon CloudFront,Amazon Web Services]
+http://apps.teia.art [301] [https://apps.teia.art/] [17] [] [88.198.0.50] [404.214767ms]
+https://help.veve.me [301] [https://chat.veve.me/hc/veve-support/en] [0] [CloudFront] [3.167.192.24] [cloudfront] [285.069523ms] [Amazon CloudFront,Amazon Web Services]
+https://iframe.teia.art [301] [https://teia.art] [536] [301 Moved Permanently] [cloudflare] [104.21.42.17] [cloudflare] [777.909481ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://lists.teia.art [301] [https://teia.art] [170] [301 Moved Permanently] [nginx/1.31.10] [88.198.0.50] [520.012535ms] [HSTS,Nginx:1.31.10]
+https://veve.me [301] [https://www.veve.me/] [0] [CloudFront] [18.154.144.129] [cloudfront] [55.840205ms] [Amazon CloudFront,Amazon Web Services]
+
+## 302
+https://app.veve.me [302] [https://www.veve.me/collectibles/] [0] [CloudFront] [65.8.20.68] [cloudfront] [54.837432ms] [Amazon CloudFront,Amazon Web Services]
+https://checkout.veve.me [302] [https://www.veve.me] [136] [Object moved] [cloudflare] [104.16.243.229] [cloudflare] [292.709131ms] [Cloudflare,Cloudflare Bot Management]
+https://discord.teia.art [302] [https://discord.gg/DpnVxd8e7D] [146] [302 Found] [nginx/1.31.10] [88.198.0.50] [490.704589ms] [HSTS,Nginx:1.31.10]
+https://go.veve.me [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=go.veve.me] [108] [nginx] [67.199.248.13] [249.542034ms] [HSTS,HTTP/3,Nginx]
+https://art4artist.teia.art [302] [https://art4artists.teia.art/] [5] [cloudflare] [104.21.42.17] [cloudflare] [628.883013ms] [Cloudflare,HSTS,HTTP/3]
+https://fountain.teia.art [302] [https://docs.google.com/forms/d/e/1FAIpQLScUYFFw2eUXX64RHOPwUD1LZ8hD4qaiGRpOg-Su1El-W2OXGQ/viewform] [146] [302 Found] [nginx/1.31.10] [88.198.0.50] [566.720726ms] [HSTS,Nginx:1.31.10]
+https://gdocs.teia.art [302] [https://drive.google.com/drive/folders/1G4XRo75FaaXgZn0H3o9NEm8x6ql9HRyx] [513] [302 Found] [cloudflare] [104.21.42.17] [cloudflare] [615.768818ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://omi.veve.me [302] [https://www.veve.me/wallet/] [0] [CloudFront] [65.8.20.89] [cloudfront] [135.366085ms] [Amazon CloudFront,Amazon Web Services]
+https://logo.teia.art [302] [https://forms.gle/z4LmvG6zsFSyua6f9] [146] [302 Found] [nginx/1.31.10] [88.198.0.50] [580.01945ms] [HSTS,Nginx:1.31.10]
+https://report.teia.art [302] [https://docs.google.com/forms/d/e/1FAIpQLSeuBmNJjTiROSbHXXiQ5e-ia6fFywHKZ7Dj4-7sZtyltGY3yA/viewform] [146] [302 Found] [nginx/1.31.10] [88.198.0.50] [538.950795ms] [HSTS,Nginx:1.31.10]
+https://status.teia.art [302] [/status/teia] [34] [cloudflare] [172.67.155.27] [cloudflare] [611.794413ms] [Cloudflare,HSTS,HTTP/3]
+https://teztok.teia.art [302] [console] [0] [] [88.198.0.50] [495.424083ms] [HSTS]
+https://wiki.teia.art [302] [https://github.com/teia-community/teia-docs/wiki/] [513] [302 Found] [cloudflare] [172.67.155.27] [cloudflare] [603.250855ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
+https://teztok-full.teia.art [302] [console] [0] [] [168.119.146.33] [1.109822439s] [HSTS,HTTP/3]
+
+## 307
+https://s3.teia.art [307] [http://s3.teia.art:9001] [59] [] [168.119.141.125] [577.743424ms] [Amazon Web Services,HSTS]
+https://www.veve.me [307] [/en] [3] [] [18.155.173.89] [cloudfront] [237.329627ms] [Amazon CloudFront,Amazon Web Services]
+
+## 308
+https://tensor.trade [308] [https://www.tensor.trade/] [15] [Vercel] [216.150.1.1] [149.952599ms] [HSTS,Vercel]
+
+## 401
+https://pin.teia.art [401] [] [54] [cloudflare] [172.67.155.27] [cloudflare] [635.072026ms] [Cloudflare,HSTS,HTTP/3]
+
+## 403
+http://api.dev.veve.me [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [18.238.96.17] [cloudfront] [3.726858ms] [Amazon CloudFront,Amazon Web Services]
+http://api.staging.veve.me [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [52.85.132.101] [cloudfront] [3.835415ms] [Amazon CloudFront,Amazon Web Services]
+https://cms-media.veve.me [403] [] [111] [AmazonS3] [13.32.230.19] [cloudfront] [280.847309ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://graphql-txs.tensor.trade [403] [] [29] [cloudflare] [172.67.74.148] [cloudflare] [145.719802ms] [Cloudflare,HSTS]
+https://graphql-ws.tensor.trade [403] [] [29] [cloudflare] [172.67.74.148] [cloudflare] [264.296046ms] [Cloudflare,HSTS]
+https://graphql.tensor.trade [403] [] [29] [cloudflare] [172.67.74.148] [cloudflare] [350.307842ms] [Cloudflare,HSTS]
+https://public-cdn.tensor.trade [403] [] [111] [AmazonS3] [99.84.215.128] [cloudfront] [374.68776ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://search.tensor.trade [403] [] [29] [cloudflare] [104.26.14.32] [cloudflare] [111.158824ms] [Cloudflare,HSTS]
+https://tradingview-tv2.tensor.trade [403] [] [29] [cloudflare] [104.26.14.32] [cloudflare] [87.583734ms] [Cloudflare,HSTS]
+http://web.api.staging.veve.me [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [52.85.132.41] [cloudfront] [19.605175ms] [Amazon CloudFront,Amazon Web Services]
+http://www.cms.veve.me [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [54.239.180.122] [cloudfront] [26.372807ms] [Amazon CloudFront,Amazon Web Services]
+
+## 404
+https://analytics.tensor.trade [404] [] [0] [awselb/2.0] [3.169.231.16] [cloudfront] [173.904549ms] [Amazon CloudFront,Amazon ELB,Amazon Web Services]
+https://argocd.zero.dev.veve.me [404] [] [14] [] [44.195.173.189] [218.683364ms]
+https://32798954.tensor.trade [404] [] [1260] [404 Not Found] [cloudflare] [104.26.15.32] [cloudflare] [226.943018ms] [Cloudflare,HSTS]
+https://auth-api.veve.me [404] [] [63] [] [18.238.109.4] [cloudfront] [233.411046ms] [Amazon CloudFront,Amazon Web Services,Express,Node.js]
+https://analytics-v2.tensor.trade [404] [] [127] [UploadServer] [3.168.132.17] [cloudfront] [251.229306ms] [Amazon CloudFront,Amazon Web Services]
+https://api.prod.veve.me [404] [] [63] [] [65.8.20.98] [cloudfront] [408.421058ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://graphql.create.tensor.trade [404] [] [1253] [Error] [cloudflare] [104.26.15.32] [cloudflare] [562.507229ms] [Cloudflare,Express,HSTS,Node.js]
+https://ipfsproxy.teia.art [404] [] [139] [Error] [] [88.198.0.50] [561.496547ms] [Express,HSTS,Node.js]
+https://ipfsapi.teia.art [404] [] [19] [cloudflare] [172.67.155.27] [cloudflare] [778.711463ms] [Cloudflare,HTTP/3]
+https://ipfsmsg.teia.art [404] [] [506] [Error] [cloudflare] [172.67.155.27] [cloudflare] [788.260368ms] [Cloudflare,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js]
+https://mainnet.teia.art [404] [] [0] [] [88.198.0.50] [581.187266ms] [HSTS]
+https://url3322.tensor.trade [404] [] [1260] [404 Not Found] [cloudflare] [104.26.14.32] [cloudflare] [231.462608ms] [Cloudflare,HSTS]
+https://web.api.prod.veve.me [404] [] [63] [] [65.8.20.98] [cloudfront] [247.708651ms] [Amazon CloudFront,Amazon Web Services,HSTS]
+https://tzkt.teia.art [404] [] [19] [] [88.198.0.50] [513.144468ms]
+https://watchtower.teia.art [404] [] [9] [] [88.198.0.50] [523.853351ms] [HSTS]
+
+## 500
+
+## 502
+
+## 503
+https://prod-image-cdn.tensor.trade [503] [] [940] [ERROR: The request could not be satisfied] [] [65.8.20.93] [cloudfront] [993.488938ms] [Amazon CloudFront,Amazon Web Services]
+
