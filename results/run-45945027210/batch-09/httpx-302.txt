@@ -1,0 +1,1 @@
+https://alan-dash.dev.sequent.inc [302] [/oauth2/sign_in?rd=https://alan-dash.dev.sequent.inc/] [0] [Caddy] [52.49.81.233] [251.870198ms] [Caddy,HTTP/3]
