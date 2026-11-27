@@ -1,0 +1,7 @@
+https://mainnet.demo.btcpayserver.org [302] [https://mainnet.demo.btcpayserver.org/login?ReturnUrl=%2F] [0] [nginx] [170.75.160.16] [322.16431ms] [HSTS,Nginx]
+https://old-blog.coinkite.com [302] [https://www.tumblr.com/blog_auth/coinkite] [0] [nginx] [74.114.154.22] [133.311081ms] [HSTS,Nginx,Tumblr]
+https://plugin-builder.btcpayserver.org [302] [/public/plugins] [0] [nginx] [170.75.161.30] [180.114196ms] [HSTS,Nginx]
+https://signet.demo.btcpayserver.org [302] [https://signet.demo.btcpayserver.org/login?ReturnUrl=%2F] [0] [nginx] [170.75.168.235] [129.910959ms] [HSTS,Nginx]
+https://support.coinkite.com [302] [https://support.coinkite.com/hc] [0] [cloudflare] [216.198.53.11] [177.895503ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://testnet.demo.btcpayserver.org [302] [https://testnet.demo.btcpayserver.org/login?ReturnUrl=%2F] [0] [nginx] [172.81.181.89] [387.096395ms] [HSTS,Nginx]
+https://store.coinkite.com [302] [/store] [10] [cloudflare] [104.26.13.123] [cloudflare] [544.921284ms] [Cloudflare]

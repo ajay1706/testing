@@ -1,0 +1,4 @@
+https://newsletter.coinkite.com [301] [https://blog.coinkite.com/] [167] [301 Moved Permanently] [cloudflare] [104.26.13.123] [cloudflare] [180.385447ms] [Cloudflare]
+https://www.btcpayserver.org [301] [https://btcpayserver.org/] [162] [301 Moved Permanently] [GitHub.com] [185.199.110.153] [128.58714ms] [Fastly,GitHub Pages,Varnish]
+https://www.coldcard.com [301] [https://coldcard.com/] [529] [301 Moved Permanently] [cloudflare] [172.67.145.90] [cloudflare] [532.733718ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://www.coinkite.com [301] [https://coinkite.com/] [162] [301 Moved Permanently] [cloudflare] [104.26.13.123] [cloudflare] [583.815005ms] [Cloudflare]
