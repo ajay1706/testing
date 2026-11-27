@@ -1,0 +1,7 @@
+https://explorer.forta.org [301] [https://forta.org:443/] [134] [301 Moved Permanently] [awselb/2.0] [54.163.93.77] [261.463008ms] [Amazon ELB,Amazon Web Services]
+https://docs.sim.dune.com [301] [https://dune.com/blog/sunsetting-sim] [0] [cloudflare] [104.20.25.149] [cloudflare] [686.783448ms] [Cloudflare]
+https://info.etherscan.io [301] [https://info.etherscan.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.37.229] [cloudflare] [73.814851ms] [Cloudflare,HTTP/3]
+http://status.dune.com [301] [https://status.dune.com/] [167] [301 Moved Permanently] [CloudFront] [65.8.54.9] [cloudfront] [2.084146931s] [Amazon CloudFront,Amazon Web Services]
+http://trino.api.dev.dune.com [301] [https://trino.api.dev.dune.com/] [0] [] [46.137.188.97] [278.957948ms]
+http://testnet.etherscan.io [301] [https://testnet.etherscan.io/] [167] [301 Moved Permanently] [cloudflare] [104.20.37.229] [cloudflare] [5.016805248s] [Cloudflare,HTTP/3]
+http://ww2.etherscan.io [301] [https://ww2.etherscan.io/] [167] [301 Moved Permanently] [cloudflare] [104.20.37.229] [cloudflare] [2.023668625s] [Cloudflare,HTTP/3]
