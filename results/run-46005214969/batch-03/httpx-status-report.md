@@ -1,0 +1,71 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:19:04 UTC 2026
+
+HTTPX lines: 44
+Live URLs: 44
+
+## 200
+https://mobile.workers.madlads.com [200] [] [11] [cloudflare] [104.18.16.17] [cloudflare] [45.998241ms] [Cloudflare,Cloudflare Bot Management]
+https://feature-gates.workers.madlads.com [200] [] [4] [cloudflare] [104.18.16.17] [cloudflare] [48.555977ms] [Cloudflare,Cloudflare Bot Management]
+https://mobile.madlads.com [200] [] [11] [cloudflare] [104.18.17.17] [cloudflare] [50.766509ms] [Cloudflare,Cloudflare Bot Management]
+https://airtable-proxy.workers.madlads.com [200] [] [50] [cloudflare] [104.18.17.17] [cloudflare] [58.188565ms] [Cloudflare,Cloudflare Bot Management]
+https://network-metrics.workers.madlads.com [200] [] [864] [cloudflare] [104.18.17.17] [cloudflare] [67.103837ms] [Cloudflare,Cloudflare Bot Management]
+https://geo.workers.madlads.com [200] [] [101] [cloudflare] [104.18.17.17] [cloudflare] [91.713445ms] [Cloudflare,Cloudflare Bot Management]
+https://moonshot.com [200] [] [45012] [Moonshot — Trade, Create & Collect] [cloudflare] [104.18.7.23] [cloudflare] [67.591494ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://panora-proxy.workers.madlads.com [200] [] [69] [cloudflare] [104.18.17.17] [cloudflare] [263.871616ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://sec-api.workers.madlads.com [200] [] [873] [cloudflare] [104.18.17.17] [cloudflare] [256.544459ms] [Cloudflare,Cloudflare Bot Management]
+https://social-trades.madlads.com [200] [] [441] [Social Trades] [cloudflare] [104.18.17.17] [cloudflare] [153.326543ms] [Cloudflare,Cloudflare Bot Management]
+https://sec-api.madlads.com [200] [] [873] [cloudflare] [104.18.17.17] [cloudflare] [309.499583ms] [Cloudflare,Cloudflare Bot Management]
+https://staking.madlads.com [200] [] [4606] [mad-lads-xnft] [cloudflare] [104.18.17.17] [cloudflare] [302.986019ms] [Cloudflare,Cloudflare Bot Management]
+https://manager.lista.org [200] [] [2814] [Vault Manager] [nginx] [52.85.151.123] [cloudfront] [813.885849ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Nginx]
+https://lista.org [200] [] [49803] [ListaDAO - A Simple and Permissionless Liquid Staking and CDP Stablecoin      Lending Protocol] [nginx] [52.85.151.98] [cloudfront] [776.57932ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Nginx]
+https://www.madlads.com [200] [] [2385] [Mad Lads] [Vercel] [76.76.21.21] [202.92595ms] [HSTS,Vercel]
+https://www.moonshot.com [200] [] [45012] [Moonshot — Trade, Create & Collect] [cloudflare] [104.18.7.23] [cloudflare] [205.366124ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://blog.lista.org [200] [] [203672] [Lista DAO — Secure, simple, and permissionless DeFi solutions at https://lista.org/] [cloudflare] [104.20.37.35] [cloudflare] [230.663449ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://cdn.moonshot.com [200] [] [253289] [cloudflare] [104.18.6.23] [cloudflare] [271.536488ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud CDN,HTTP/3]
+https://news.madlads.com [200] [] [82453] [Mad News | Substack] [cloudflare] [172.64.151.232] [cloudflare] [152.062024ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,Express,HSTS,HTTP/3,Node.js,Substack]
+https://docs.bsc.lista.org [200] [] [505063] [Overview | Lista Docs] [cloudflare] [104.18.40.47] [cloudflare] [219.201114ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://support.moonshot.com [200] [] [474764] [Welcome to Moonshot | Moonshot] [cloudflare] [172.64.147.209] [cloudflare] [272.00582ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+
+## 301
+
+## 302
+https://www.lista.org [302] [https://lista.org/] [138] [302 Found] [nginx] [52.85.151.6] [cloudfront] [863.002978ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Nginx]
+
+## 307
+
+## 308
+https://madlads.com [308] [https://www.madlads.com/] [15] [Vercel] [76.76.21.21] [65.70099ms] [HSTS,Vercel]
+https://workers.madlads.com [308] [https://workers.madlads.com/] [14] [cloudflare] [104.18.16.17] [cloudflare] [127.316908ms] [Cloudflare,Cloudflare Bot Management]
+
+## 401
+
+## 403
+https://static.lista.org [403] [] [111] [AmazonS3] [18.155.192.65] [cloudfront] [668.625002ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+
+## 404
+https://linear-proxy.workers.madlads.com [404] [] [13] [cloudflare] [104.18.17.17] [cloudflare] [77.546052ms] [Cloudflare,Cloudflare Bot Management]
+https://moonpay-signer.workers.madlads.com [404] [] [13] [cloudflare] [104.18.17.17] [cloudflare] [121.01917ms] [Cloudflare,Cloudflare Bot Management]
+https://email-signups.workers.madlads.com [404] [] [21] [cloudflare] [104.18.16.17] [cloudflare] [157.613599ms] [Cloudflare,Cloudflare Bot Management]
+https://api.moonshot.com [404] [] [24] [cloudflare] [104.18.6.23] [cloudflare] [170.771813ms] [Cloudflare,Cloudflare Bot Management,Google Cloud,Google Cloud CDN,Google Cloud Trace,HTTP/3]
+https://aave-campaign.workers.madlads.com [404] [] [13] [cloudflare] [104.18.16.17] [cloudflare] [182.624948ms] [Cloudflare,Cloudflare Bot Management]
+https://market-summary.workers.madlads.com [404] [] [20] [cloudflare] [104.18.17.17] [cloudflare] [193.476319ms] [Cloudflare,Cloudflare Bot Management]
+https://bp-safe.workers.madlads.com [404] [] [9] [cloudflare] [104.18.16.17] [cloudflare] [211.652439ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS]
+https://lifi.workers.madlads.com [404] [] [46] [cloudflare] [104.18.16.17] [cloudflare] [348.819517ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://api.lista.org [404] [] [58] [nginx] [13.249.74.100] [cloudfront] [578.494719ms] [Amazon CloudFront,Amazon Web Services,HSTS,HTTP/3,Nginx]
+https://share-pnl.madlads.com [404] [] [27150] [Not Found] [cloudflare] [104.18.16.17] [cloudflare] [246.817906ms] [Cloudflare,Cloudflare Bot Management]
+https://turnkey-suborg-lookup.workers.madlads.com [404] [] [13] [cloudflare] [104.18.17.17] [cloudflare] [174.768853ms] [Cloudflare,Cloudflare Bot Management]
+https://store.madlads.com [404] [] [4671] [This store is unavailable] [cloudflare] [23.227.38.65] [320.678158ms] [Cloudflare,HSTS,HTTP/3,Shopify]
+https://stock-logos.madlads.com [404] [] [27150] [Not Found] [cloudflare] [104.18.17.17] [cloudflare] [213.262459ms] [Cloudflare,Cloudflare Bot Management]
+https://validator-3.lista.org [404] [] [0] [] [13.115.87.20] [544.162153ms]
+https://validator.lista.org [404] [] [0] [] [13.115.87.20] [561.201547ms]
+https://validator-2.lista.org [404] [] [0] [] [13.115.87.20] [628.477826ms]
+
+## 500
+https://jito.workers.madlads.com [500] [] [26] [cloudflare] [104.18.16.17] [cloudflare] [78.102346ms] [Cloudflare,Cloudflare Bot Management]
+
+## 502
+
+## 503
+

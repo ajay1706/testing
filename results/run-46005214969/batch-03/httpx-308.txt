@@ -1,0 +1,2 @@
+https://madlads.com [308] [https://www.madlads.com/] [15] [Vercel] [76.76.21.21] [65.70099ms] [HSTS,Vercel]
+https://workers.madlads.com [308] [https://workers.madlads.com/] [14] [cloudflare] [104.18.16.17] [cloudflare] [127.316908ms] [Cloudflare,Cloudflare Bot Management]
