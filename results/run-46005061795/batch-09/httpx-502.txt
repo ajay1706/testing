@@ -1,0 +1,4 @@
+https://sph3.stasis.net [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [162.19.235.133] [505.585415ms] [Nginx:1.24.0,Ubuntu]
+https://sph4.stasis.net [502] [] [157] [502 Bad Gateway] [nginx/1.18.0] [198.244.179.232] [442.50492ms] [Nginx:1.18.0]
+https://sph1.stasis.net [502] [] [157] [502 Bad Gateway] [nginx/1.18.0] [198.244.179.232] [1.451992743s] [Nginx:1.18.0]
+https://sph2.stasis.net [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [162.19.235.133] [1.499457547s] [Nginx:1.24.0,Ubuntu]

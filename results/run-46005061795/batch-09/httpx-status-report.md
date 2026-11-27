@@ -1,0 +1,106 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:35:06 UTC 2026
+
+HTTPX lines: 78
+Live URLs: 78
+
+## 200
+https://advisory.superfluid.finance [200] [] [23743] [Notion] [cloudflare] [208.103.161.32] [276.172283ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,hCaptcha]
+https://app.sky.money [200] [] [13396] [Sky.money | Savings, rewards, staking and borrowing, without giving up control] [cloudflare] [104.20.36.32] [cloudflare] [172.339717ms] [Cloudflare,HSTS,Vercel]
+https://astrobunny.superfluid.finance [200] [] [4866] [Superfluid Runner] [AmazonS3] [108.138.94.36] [cloudfront] [588.071553ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://console-legacy.superfluid.finance [200] [] [2503] [Superfluid Console] [AmazonS3] [99.86.101.54] [cloudfront] [987.995203ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://ethd22.superfluid.finance [200] [] [1710] [Visualize superfluid] [Netlify] [13.52.188.95] [489.345116ms] [HSTS,Netlify,React]
+https://docs.stasis.net [200] [] [8219] [Documentation — STASIS 1.0.0 documentation] [cloudflare] [172.67.210.228] [cloudflare] [601.804468ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mint.superfluid.finance [200] [] [1329] [Superfluid Ecosystem Rewards Pass] [Vercel] [64.29.17.3] [191.972788ms] [HSTS,Vercel]
+https://eurs.stasis.net [200] [] [80403] [EURS: The most trusted euro-backed stablecoin] [cloudflare] [172.67.210.228] [cloudflare] [723.113286ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://toga.superfluid.finance [200] [] [632] [TOGA/PIC Dashboard] [AmazonS3] [52.85.129.35] [cloudfront] [135.224644ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://sky.money [200] [] [139843] [Sky.money | Put Stablecoins to Work with sUSDS, Vaults & SKY] [cloudflare] [104.20.36.32] [cloudflare] [1.181369886s] [Cloudflare,Cookiebot,HSTS,Webflow,jQuery:3.5.1]
+https://sup-frame.preview.superfluid.finance [200] [] [13868] [Sup?] [Vercel] [66.33.60.66] [408.662893ms] [HSTS,Vercel]
+https://vesting-batch.superfluid.finance [200] [] [664] [Batch TX Generator] [Vercel] [76.76.21.22] [417.02888ms] [HSTS,Vercel]
+https://stasis.net [200] [] [171175] [Stasis - Bridge to Web3 Finance Services for a new financial system] [cloudflare] [104.21.83.26] [cloudflare] [814.604595ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3,Node.js,Nuxt.js,Vue.js]
+https://vote.sky.money [200] [] [221974] [Sky Governance - Governance Portal] [cloudflare] [104.20.36.32] [cloudflare] [276.905883ms] [Cloudflare,HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://www.superfluid.finance [200] [] [17693] [Superfluid: Building avant-garde financial technology] [GitHub.com] [185.199.108.153] [154.044363ms] [Fastly,GitHub Pages,HSTS,Varnish]
+
+## 301
+https://api.stasis.net [301] [https://api.stasis.net/] [536] [301 Moved Permanently] [cloudflare] [172.67.210.228] [cloudflare] [494.532879ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://app.superfluid.finance [301] [https://app.superfluid.org/] [15] [Vercel] [216.150.1.193] [125.374098ms] [HSTS,Vercel]
+https://chainlog.sky.money [301] [https://chainlog.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.163.26] [cloudflare] [91.950634ms] [Cloudflare,HSTS]
+https://connect-staging.sky.money [301] [https://connect-staging.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.163.26] [cloudflare] [50.288234ms] [Cloudflare,HSTS]
+https://connect.sky.money [301] [https://connect.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.36.32] [cloudflare] [69.775695ms] [Cloudflare,HSTS]
+https://console.superfluid.finance [301] [https://explorer.superfluid.org/] [15] [Vercel] [216.150.16.193] [305.371216ms] [HSTS,Vercel]
+https://developers.sky.money [301] [https://developers.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.163.26] [cloudflare] [134.79523ms] [Cloudflare,HSTS]
+https://docs.superfluid.finance [301] [https://docs.superfluid.org/] [15] [Vercel] [66.33.60.130] [223.844052ms] [HSTS,Vercel]
+https://forum.sky.money [301] [https://forum.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.36.32] [cloudflare] [102.32502ms] [Cloudflare,HSTS]
+https://fusion-staging.sky.money [301] [https://fusion-staging.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.36.32] [cloudflare] [52.031218ms] [Cloudflare,HSTS]
+https://fusion.sky.money [301] [https://fusion.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.163.26] [cloudflare] [55.67591ms] [Cloudflare,HSTS]
+https://info.sky.money [301] [https://info.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.163.26] [cloudflare] [55.969885ms] [Cloudflare,HSTS]
+https://explorer.superfluid.finance [301] [https://explorer.superfluid.org/] [15] [Vercel] [216.150.16.1] [222.965006ms] [HSTS,Vercel]
+http://api.sandbox.stasis.net [301] [https://api.sandbox.stasis.net/] [169] [301 Moved Permanently] [nginx/1.18.0] [162.19.97.67] [297.255217ms] [Nginx:1.18.0]
+http://api.app.stasis.net [301] [https://api.app.stasis.net/] [169] [301 Moved Permanently] [nginx/1.18.0] [162.19.97.67] [298.314336ms] [Nginx:1.18.0]
+http://crm.sandbox.stasis.net [301] [https://crm.sandbox.stasis.net/] [169] [301 Moved Permanently] [nginx/1.18.0] [162.19.97.67] [290.056557ms] [Nginx:1.18.0]
+http://dev.app.stasis.net [301] [https://dev.app.stasis.net/] [169] [301 Moved Permanently] [nginx/1.18.0] [162.19.97.67] [282.524283ms] [Nginx:1.18.0]
+http://dev.sandbox.stasis.net [301] [https://dev.sandbox.stasis.net/] [169] [301 Moved Permanently] [nginx/1.18.0] [162.19.97.67] [296.06075ms] [Nginx:1.18.0]
+https://staging-info.sky.money [301] [https://staging-info.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.163.26] [cloudflare] [55.035803ms] [Cloudflare,HSTS]
+https://staging.sky.money [301] [https://sky.money/] [166] [301 Moved Permanently] [cloudflare] [172.66.163.26] [cloudflare] [214.965612ms] [Cloudflare,HSTS]
+https://switchboard-staging.sky.money [301] [https://switchboard-staging.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.163.26] [cloudflare] [92.503828ms] [Cloudflare,HSTS]
+https://superfluid.finance [301] [https://www.superfluid.finance/] [162] [301 Moved Permanently] [GitHub.com] [185.199.109.153] [113.254691ms] [Fastly,GitHub Pages,Varnish]
+https://switchboard.sky.money [301] [https://switchboard.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [104.20.36.32] [cloudflare] [72.071691ms] [Cloudflare,HSTS]
+https://upgrademkrtosky.sky.money [301] [https://upgrademkrtosky.skyeco.com/] [167] [301 Moved Permanently] [cloudflare] [172.66.163.26] [cloudflare] [61.003748ms] [Cloudflare,HSTS]
+https://www.sky.money [301] [https://sky.money/] [167] [301 Moved Permanently] [cloudflare] [104.20.36.32] [cloudflare] [98.726889ms] [Cloudflare,HSTS]
+https://www.stasis.net [301] [http://stasis.net/] [0] [cloudflare] [104.21.83.26] [cloudflare] [483.520547ms] [Cloudflare,HTTP/3]
+http://webapp.sandbox.stasis.net [301] [https://webapp.sandbox.stasis.net/] [169] [301 Moved Permanently] [nginx/1.18.0] [162.19.97.67] [295.98801ms] [Nginx:1.18.0]
+
+## 302
+https://app-private.sky.money [302] [https://sky-money.cloudflareaccess.com/cdn-cgi/access/login/app-private.sky.money?kid=e5dc2d5dbcbc5fcedfe5b53847982b4bf8293286f1b96b985f6cb494f098465e&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjMyNWRlMWQzYjNhY2NhNWM1Y2ZiMTYxMWNkYTQ1Nzg2OTM5MDgxZDAyNmE5ZmFjNzgyNGM3NmVjOTIxMWM0ZGYifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImU1ZGMyZDVkYmNiYzVmY2VkZmU1YjUzODQ3OTgyYjRiZjgyOTMyODZmMWI5NmI5ODVmNmNiNDk0ZjA5ODQ2NWUiLCJob3N0bmFtZSI6ImFwcC1wcml2YXRlLnNreS5tb25leSIsInJlZGlyZWN0X3VybCI6Ii8iLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzk1Nzg2NzcxLCJuYmYiOjE3OTU3ODY0NzEsImlhdCI6MTc5NTc4NjQ3MSwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IlVTIiwiYXBwX3Nlc3Npb25faGFzaCI6ImRlNTE1OWY2ZjcxN2U2YTVhMDNhOGIxNWM5NjA5YzE5ZGZlYjdlOTUyMmIwNmRlNGZjZmMyNTI0YTcxZGNlZjAifQ.FfWbiN6da7kPFLsVC9NXIV9hhHe4s2rrYtcNGbHpoA06qgsWKvN49smz2D5nhpiv1fLBPoWvOJtrIn3087ChsjbwVXrkPC5gndQaZagXTvEZCSz3wXeDtQtRdwn71yqW1FidhI6H7yd_TLyPH4Gz5BenFuD_7F3Cld51fXaaBPLdVJ3AUSxSvcviRJenEtvxAiwoZ_EAtPE8RRrOg_qQBNkdFVj_yfmdmoL9LydF57ElUDCkn72-Rcnj7Gxv5dhq-lHjEteUJIqDgaFbY34rKFt8NOVj_dcT-kFNQpdeSn90ZwocE1ln0FGqMrzegTTWNmwCzXDgIiaaQewL4o1Kwg&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.20.36.32] [cloudflare] [288.204148ms] [Cloudflare,HSTS]
+https://docs.sky.money [302] [https://docs.sky.money/legal] [143] [302 Found] [cloudflare] [172.66.163.26] [cloudflare] [64.20789ms] [Cloudflare,HSTS]
+https://help.superfluid.finance [302] [http://help.superfluid.finance/en/] [0] [nginx] [143.204.1.120] [cloudfront] [435.802951ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://vote-staging.sky.money [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fvote-staging.sky.money%2F&nonce=9ecf65b29f1adb1e1f98e1d315288ad5f95da9d16ebbf6f7bdfd940ed495c316] [263] [cloudflare] [172.66.163.26] [cloudflare] [121.609094ms] [Cloudflare,HSTS,Vercel]
+https://use.superfluid.finance [302] [https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=use.superfluid.finance] [120] [nginx] [67.199.248.13] [199.731206ms] [HSTS,HTTP/3,Nginx]
+https://v2.docs.superfluid.finance [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fv2.docs.superfluid.finance%2F&nonce=5d8366c1ba830c71228a2089557368e47870d9c65f95d18c90a544c2c85290a1] [263] [Vercel] [216.150.16.129] [192.091925ms] [HSTS,Vercel]
+
+## 307
+
+## 308
+https://checkout.superfluid.finance [308] [https://superfluid.org/checkout-retired] [15] [Vercel] [76.76.21.241] [131.843657ms] [HSTS,Vercel]
+https://checkout-docs.superfluid.finance [308] [https://superfluid.org/checkout-retired] [15] [Vercel] [66.33.60.130] [237.511447ms] [HSTS,Vercel]
+https://checkout-builder.superfluid.finance [308] [https://superfluid.org/checkout-retired] [15] [Vercel] [66.33.60.34] [344.275677ms] [HSTS,Vercel]
+https://clonify-demo.superfluid.finance [308] [https://superfluid.org/checkout-retired] [15] [Vercel] [66.33.60.194] [425.833999ms] [HSTS,Vercel]
+https://devshare-demo.superfluid.finance [308] [https://superfluid.org/checkout-retired] [15] [Vercel] [66.33.60.193] [223.211749ms] [HSTS,Vercel]
+
+## 401
+https://app-dev.sky.money [401] [] [15546] [Protected Page] [cloudflare] [104.20.36.32] [cloudflare] [513.146898ms] [Cloudflare,HSTS,Vercel]
+https://app-staging.sky.money [401] [] [15550] [Protected Page] [cloudflare] [172.66.163.26] [cloudflare] [225.788761ms] [Cloudflare,HSTS,Vercel]
+https://ethereum.stasis.net [401] [] [179] [401 Authorization Required] [nginx/1.22.1] [141.95.32.239] [494.875693ms] [Basic,Nginx:1.22.1]
+https://polygon.stasis.net [401] [] [179] [401 Authorization Required] [nginx/1.22.1] [141.95.124.122] [1.520140241s] [Basic,Nginx:1.22.1]
+https://report.stasis.net [401] [] [581] [401 Authorization Required] [nginx/1.18.0] [178.32.116.56] [2.52159608s] [Basic,Nginx:1.18.0]
+
+## 403
+https://crm.stasis.net [403] [] [5650] [Just a moment...] [cloudflare] [172.67.210.228] [cloudflare] [53.40682ms] [Cloudflare,HTTP/3]
+https://assets.superfluid.finance [403] [] [111] [AmazonS3] [143.204.1.115] [cloudfront] [615.997648ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://refs.superfluid.finance [403] [] [111] [AmazonS3] [3.169.173.48] [cloudfront] [5.57276722s] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://webapp.stasis.net [403] [] [5759] [Just a moment...] [cloudflare] [104.21.83.26] [cloudflare] [75.453241ms] [Cloudflare,HTTP/3]
+
+## 404
+https://algorand-idx.stasis.net [404] [] [24] [nginx/1.18.0] [198.244.179.232] [453.087872ms] [Nginx:1.18.0]
+https://cliques-demo.superfluid.finance [404] [] [107] [Vercel] [66.33.60.66] [298.492563ms] [HSTS,Vercel]
+https://blog-bucket.stasis.net [404] [] [27150] [Not Found] [cloudflare] [104.21.83.26] [cloudflare] [300.479051ms] [Cloudflare]
+https://clubx.superfluid.finance [404] [] [107] [Vercel] [76.76.21.142] [460.370557ms] [HSTS,Vercel]
+https://e.sky.money [404] [] [105] [cloudflare] [172.66.171.25] [cloudflare] [360.59381ms] [Cloudflare,HSTS]
+https://pic-bucket.stasis.net [404] [] [27150] [Not Found] [cloudflare] [104.21.83.26] [cloudflare] [326.739165ms] [Cloudflare]
+http://roadmap.superfluid.finance [404] [] [3195] [Page Not Found | Canny] [] [100.56.186.228] [202.939223ms] [Canny,HSTS,Linkedin Ads]
+https://whois.superfluid.finance [404] [] [2305] [404: This page could not be found] [Vercel] [216.150.16.1] [76.642091ms] [HSTS,Vercel]
+https://wildcard.preview.superfluid.finance [404] [] [107] [Vercel] [76.76.21.164] [195.244623ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+https://sph3.stasis.net [502] [] [166] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [162.19.235.133] [505.585415ms] [Nginx:1.24.0,Ubuntu]
+https://sph4.stasis.net [502] [] [157] [502 Bad Gateway] [nginx/1.18.0] [198.244.179.232] [442.50492ms] [Nginx:1.18.0]
+https://sph1.stasis.net [502] [] [157] [502 Bad Gateway] [nginx/1.18.0] [198.244.179.232] [1.451992743s] [Nginx:1.18.0]
+https://sph2.stasis.net [502] [] [568] [502 Bad Gateway] [nginx/1.24.0 (Ubuntu)] [162.19.235.133] [1.499457547s] [Nginx:1.24.0,Ubuntu]
+
+## 503
+http://gensec.site-rr.stasis.net [503] [] [107] [] [135.125.109.222] [293.614774ms]
+http://prod.site-rr.stasis.net [503] [] [107] [] [135.125.109.222] [285.823245ms]
+
