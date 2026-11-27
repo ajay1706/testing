@@ -1,0 +1,3 @@
+https://benchmark.goldsky.com [401] [] [49] [] [100.63.33.14] [170.394699ms] [Basic]
+https://apse1.benchmark.goldsky.com [401] [] [49] [] [3.0.125.50] [812.059633ms] [Basic]
+https://robinhood-nitro-lat-sjc2-1.fleet.goldsky.com [401] [] [76] [Caddy] [206.223.239.247] [151.694929ms] [Caddy,HTTP/3]
