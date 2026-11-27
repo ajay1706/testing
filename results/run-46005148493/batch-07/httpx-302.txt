@@ -1,0 +1,2 @@
+https://journal.ton.app [302] [https://www.notion.so] [43] [cloudflare] [104.21.36.36] [cloudflare] [593.372468ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://data.ton.app [302] [https://data.ton.app/owa/] [0] [Microsoft-IIS/8.5] [81.29.139.66] [733.13935ms] [IIS:8.5,Windows Server]

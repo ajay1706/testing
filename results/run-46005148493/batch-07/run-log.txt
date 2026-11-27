@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 27 13:36:25 UTC 2026
+[+] Run ID: 46005148493
+[+] Batch name: batch-07
+[+] Batch targets:
+ton.app
+tonscan.org
+tonstakers.com
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 13:38:00 UTC 2026
+[+] HTTPX input count: 41
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 13:38:21 UTC 2026
+[+] httpx line count: 25
+[+] Batch completed: Fri Nov 27 13:38:21 UTC 2026
