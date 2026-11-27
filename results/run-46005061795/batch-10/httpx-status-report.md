@@ -1,0 +1,95 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:44:59 UTC 2026
+
+HTTPX lines: 66
+Live URLs: 66
+
+## 200
+https://global-stg.transak.com [200] [] [4198] [Transak - Crypto delivered to your wallet] [cloudflare] [104.18.19.63] [cloudflare] [74.607658ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Google Pay,HSTS,HTTP/3,PayPal,Very Good Security,hCaptcha]
+https://ai.tether.io [200] [] [5664] [Tether AI] [cloudflare] [104.18.6.145] [cloudflare] [202.895311ms] [Cloudflare,Cloudflare Bot Management]
+https://global.transak.com [200] [] [4150] [Transak - Crypto delivered to your wallet] [cloudflare] [104.18.19.63] [cloudflare] [192.061233ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,Google Pay,HSTS,HTTP/3,PayPal,Very Good Security,hCaptcha]
+https://get.qvac.tether.io [200] [] [10979] [get.qvac.tether.io is a custom short domain] [cloudflare] [104.18.6.145] [cloudflare] [327.295949ms] [Cloudflare]
+https://docs.usdt0.to [200] [] [31173] [Technical Documentation | USDT0 Docs] [Vercel] [216.230.84.1] [222.551212ms] [Docusaurus:3.9.2,HSTS,React,Vercel,Webpack]
+https://learn.qvac.tether.io [200] [] [10983] [learn.qvac.tether.io is a custom short domain] [cloudflare] [104.18.6.145] [cloudflare] [501.810141ms] [Cloudflare]
+https://experience.transak.com [200] [] [2393] [Transak Experience] [cloudflare] [104.18.19.63] [cloudflare] [643.807855ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://dashboard.transak.com [200] [] [2563] [Transak - Crypto delivered to your wallet] [cloudflare] [104.18.19.63] [cloudflare] [662.765611ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Linkedin Ads,hCaptcha]
+https://demo.mdk.tether.io [200] [] [1924] [MDK Demo] [cloudflare] [104.18.6.145] [cloudflare] [683.182162ms] [Cloudflare,HSTS]
+https://mos-admin-dashboard.tether.io [200] [] [1494] [MiningOS - Bitcoin Mining Platform] [cloudflare] [104.18.6.145] [cloudflare] [723.661589ms] [Cloudflare]
+https://mos-br-ivi.tether.io [200] [] [1494] [MiningOS - Bitcoin Mining Platform] [cloudflare] [104.18.6.145] [cloudflare] [967.092522ms] [Cloudflare]
+https://careers.transak.com [200] [] [14334] [Openings at Transak] [cloudflare] [104.18.19.63] [cloudflare] [786.405794ms] [Amazon CloudFront,Amazon Web Services,AngularJS,Bootstrap,Cloudflare,Cloudflare Bot Management,Envoy,Express,FancyBox,HSTS,HTTP/3,Node.js,ShareThis,jQuery]
+https://mdk.tether.io [200] [] [86828] [MDK | The Open Standard for Mining Infrastructure.] [cloudflare] [104.18.7.145] [cloudflare] [209.689775ms] [Cloudflare,Cloudflare Bot Management]
+https://blog.usdt0.to [200] [] [204369] [USDT0 Blog — Your USDT, anywhere. Official blog of USDT0 — the unified liquidity protocol bringing Tether's assets to any chain.] [cloudflare] [172.66.157.251] [cloudflare] [164.904387ms] [Cloudflare,Cloudflare Browser Insights,Google Analytics,HTTP/3]
+https://tether.io [200] [] [60445] [Tether | The Stable Company] [cloudflare] [104.18.6.145] [cloudflare] [442.66226ms] [Cloudflare,Cloudflare Bot Management,Contact Form 7:6.2.5,Cookiebot,Google Analytics,HSTS,Kinsta,MySQL,PHP,WordPress]
+https://docs.mdk.tether.io [200] [] [219476] [MDK Docs] [cloudflare] [104.18.6.145] [cloudflare] [383.679331ms] [Cloudflare,Cloudflare Bot Management]
+https://docs.wdk.tether.io [200] [] [311989] [WDK (Wallet Development Kit) by Tether] [cloudflare] [104.18.7.145] [cloudflare] [363.367412ms] [Cloudflare,Cloudflare Bot Management]
+https://transak.com [200] [] [98304] [Crypto Payment Rail for Financial Applications | Transak] [cloudflare] [104.18.19.63] [cloudflare] [644.354122ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://wallet.tether.io [200] [] [155870] [Official Tether Wallet: USDT, Bitcoin & Gold Wallet] [cloudflare] [162.159.153.245] [cloudflare] [650.308566ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,HTTP/3]
+https://usdt0.to [200] [] [137964] [USDT0 | Tether, Everywhere] [Vercel] [76.76.21.21] [664.013977ms] [HSTS,Vercel]
+https://analytics.usdt0.to [200] [] [143928] [Overview | USDT0 Analytics] [Vercel] [66.33.60.194] [1.869949872s] [HSTS,Vercel]
+https://newsletter.transak.com [200] [] [372733] [PayFi Weekly] [cloudflare] [104.16.23.120] [cloudflare] [327.381889ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://careers.tether.io [200] [] [399955] [Careers – Tether] [cloudflare] [104.18.7.145] [cloudflare] [1.022630121s] [Cloudflare,Cloudflare Bot Management,Cookiebot,Google Analytics,HSTS,Kinsta,MySQL,PHP,WordPress]
+https://qvac.tether.io [200] [] [355695] [QVAC - Decentralized, Local AI in a Single API] [cloudflare] [104.18.7.145] [cloudflare] [747.735431ms] [Cloudflare,Cloudflare Bot Management,Envoy,Next.js,Node.js,React,Webpack]
+https://wdk.tether.io [200] [] [671098] [WDK by Tether] [cloudflare] [104.18.7.145] [cloudflare] [1.394150455s] [Cloudflare,Next.js,Node.js,React,Webpack]
+https://security.transak.com [200] [] [345390] [Transak - Trust Center - Security & Privacy] [sprinto server] [99.86.101.36] [cloudfront] [4.342447657s] [Amazon CloudFront,Amazon Web Services,HSTS]
+
+## 301
+https://docs.wallet.tether.io [301] [https://docs.wdk.tether.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.7.145] [cloudflare] [89.050847ms] [Cloudflare]
+https://docs.mos.tether.io [301] [https://docs.mdk.tether.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.7.145] [cloudflare] [111.203615ms] [Cloudflare]
+https://docs.qvac.tether.io [301] [https://docs.qvac.tether.io/ecosystem/] [0] [cloudflare] [104.18.7.145] [cloudflare] [111.485054ms] [Cloudflare,Cloudflare Bot Management]
+https://india.transak.com [301] [https://transak.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.19.63] [cloudflare] [111.883554ms] [Cloudflare,HSTS,HTTP/3]
+https://demo.mos.tether.io [301] [https://mdk.tether.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.6.145] [cloudflare] [190.218797ms] [Cloudflare]
+https://mos.tether.io [301] [https://mdk.tether.io/] [167] [301 Moved Permanently] [cloudflare] [104.18.6.145] [cloudflare] [129.604616ms] [Cloudflare]
+https://partnersupport.transak.com [301] [https://support.transak.com/en/collections/3985802-partner-help-center] [167] [301 Moved Permanently] [cloudflare] [104.18.19.63] [cloudflare] [140.467509ms] [Cloudflare,HSTS,HTTP/3]
+https://referrals.transak.com [301] [https://transak.com/referral-program] [167] [301 Moved Permanently] [cloudflare] [104.18.18.63] [cloudflare] [210.183509ms] [Cloudflare,HSTS,HTTP/3]
+https://www.transak.com [301] [https://transak.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.18.63] [cloudflare] [338.010091ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://www.tether.io [301] [https://tether.io/] [0] [cloudflare] [104.18.7.145] [cloudflare] [1.042740823s] [Cloudflare,Cloudflare Bot Management,HSTS,Kinsta,WordPress]
+
+## 302
+https://docs.cosmicac.tether.io [302] [https://tether.cloudflareaccess.com/cdn-cgi/access/login/docs.cosmicac.tether.io?kid=43c3c1cdb2b135d1a45398591647d5c59b9e2d372f3843b72f6c486e15041200&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRjODRkZDU3MjZkMWQ5NDQ4ZmVkZWJkNmNhZGQxYzYzMTg2Y2VhODdlNDBmNjUyZjczY2UzYjA1MjlmNDFhMzIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjQzYzNjMWNkYjJiMTM1ZDFhNDUzOTg1OTE2NDdkNWM1OWI5ZTJkMzcyZjM4NDNiNzJmNmM0ODZlMTUwNDEyMDAiLCJob3N0bmFtZSI6ImRvY3MuY29zbWljYWMudGV0aGVyLmlvIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTU3ODczNzgsIm5iZiI6MTc5NTc4NzA3OCwiaWF0IjoxNzk1Nzg3MDc4LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiZjlkMjQ1NzkyODIzYmRkODM5ZDM4M2EyMWRlYzE1OTJlMTNjNTlhYTRiZjFkOGQ4ZGVmZTE3ZWU1ZjM4Njk1ZSJ9.puUzG7BlplyF2LLs4kw9o7aQX1ZTjrWmXqRUx_MKUUuUsYtLD4OgoGPFRGHkKwHutErk4QzIFBtpTTPrGXnSyhP2K_8Mak9dD2Upbuv8NrNLrVTAcW2ZX5i0CmiWScbjKPIvndSMFQ6NjLGZTHqr2uU6LF9cZBctNUZnnM2wmNLDgqMBPNwrqYBqowkImZsiiYXcM_fm6EobPX_hS_JcOp31k9Vopo3VVQ0WaSF9l5TXNqJWqTCmaZ-SAVN1Z3q8BWtSHiScOGO-b-eQTIXceYUqj8LqeYd17ZMn0bq6_bWL-pNDwFD9jg6tp0IFdObAubCjE1kjWCYripvbsgiaKw&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.18.7.145] [cloudflare] [56.825183ms] [Cloudflare]
+https://mdk-br-ivi.tether.io [302] [https://tether.cloudflareaccess.com/cdn-cgi/access/login/mdk-br-ivi.tether.io?kid=0732ef7b42fe53140d28af270a5c131bb06a73c87032d7844205c21922b12cc0&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRjODRkZDU3MjZkMWQ5NDQ4ZmVkZWJkNmNhZGQxYzYzMTg2Y2VhODdlNDBmNjUyZjczY2UzYjA1MjlmNDFhMzIifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjA3MzJlZjdiNDJmZTUzMTQwZDI4YWYyNzBhNWMxMzFiYjA2YTczYzg3MDMyZDc4NDQyMDVjMjE5MjJiMTJjYzAiLCJob3N0bmFtZSI6Im1kay1ici1pdmkudGV0aGVyLmlvIiwicmVkaXJlY3RfdXJsIjoiLyIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTU3ODczNzgsIm5iZiI6MTc5NTc4NzA3OCwiaWF0IjoxNzk1Nzg3MDc4LCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiVVMiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiM2U4ODgxNDU1ZjlhZjUzMTVjMGFiYzk1N2M2ZDJlNTZlMzE3OGY4MDIwMGQ5NWUyODc3NjQ1OWY2MWZjMTQ2YiJ9.ZOk9zafqVJtS4r0-meEpXt0Ux6G6Gzq2GUWAnXxOmRXxGWmB5zX9mQoNLNvGfr7kqRIkLwBpz_qFZwQwTSq6Jmom2_oX9vJdAFWmCUmsHO846c0u2XXS3h4cPHSyC45nWPIY84yg2ny5v0HURtjAxM5AKaPhQEGiRyQTKKs4xqtHgxkoW18gO0yBA1UkMHoq2QwYDn2iPobdU40CN3Ci17XqKOJ_6qUFX1tuzGVmWEEh4-hFPw4UTVLgMPgfV-WvJBpWqbNNr60WUaaYqVNwTjYQLDnU59kuivt7Su-UoBwgweU0oH7XFeY6lDy43swb-hVuUMKzqgIuh2TJkaOFlQ&redirect_url=%2F] [143] [302 Found] [cloudflare] [104.18.7.145] [cloudflare] [80.673479ms] [Cloudflare]
+https://integrate.transak.com [302] [/inactive] [31] [cloudflare] [104.16.241.118] [cloudflare] [278.456855ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Render]
+https://support.wallet.tether.io [302] [https://support.wallet.tether.io/hc] [0] [cloudflare] [216.198.53.6] [532.771667ms] [Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk]
+https://support.transak.com [302] [https://support.transak.com/en/] [0] [cloudflare] [104.18.19.63] [cloudflare] [604.719488ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://support-stg.transak.com [302] [https://support-stg.transak.com/en/] [0] [cloudflare] [104.18.19.63] [cloudflare] [670.796341ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+
+## 307
+https://docs.transak.com [307] [/getting-started/what-is-transak] [0] [cloudflare] [104.26.1.110] [cloudflare] [417.30848ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+
+## 308
+https://gold.usdt0.to [308] [https://usdt0.to/assets/xaut0] [15] [Vercel] [66.33.60.34] [239.42204ms] [HSTS,Vercel]
+https://www.gold.usdt0.to [308] [https://usdt0.to/assets/xaut0] [15] [Vercel] [76.76.21.98] [445.272927ms] [HSTS,Vercel]
+https://www.usdt0.to [308] [https://usdt0.to/] [15] [Vercel] [66.33.60.67] [359.92655ms] [HSTS,Vercel]
+
+## 401
+
+## 403
+https://api-gateway.transak.com [403] [] [5658] [Attention Required! | Cloudflare] [cloudflare] [104.18.19.63] [cloudflare] [83.437648ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://api-gateway-stg.transak.com [403] [] [5658] [Attention Required! | Cloudflare] [cloudflare] [104.18.19.63] [cloudflare] [91.09324ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://assets.transak.com [403] [] [111] [AmazonS3] [18.238.238.83] [cloudfront] [563.363106ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+https://cdn.transak.com [403] [] [111] [AmazonS3] [3.163.24.36] [cloudfront] [703.093379ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://assets-stg.transak.com [403] [] [111] [AmazonS3] [52.84.158.74] [cloudfront] [703.046137ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HTTP/3]
+
+## 404
+https://api-stg.transak.com [404] [] [0] [cloudflare] [104.18.18.63] [cloudflare] [240.241464ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://help.transak.com [404] [] [9] [cloudflare] [104.18.19.63] [cloudflare] [309.883422ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://api.transak.com [404] [] [0] [cloudflare] [104.18.18.63] [cloudflare] [662.566961ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://forms.transak.com [404] [] [20313] [404: This page could not be found] [cloudflare] [104.18.18.63] [cloudflare] [561.682644ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Linkedin Ads,Next.js,Node.js,React,Webpack]
+https://events.transak.com [404] [] [51204] [Open main menu] [cloudflare] [199.60.103.30] [432.669368ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub,jQuery:1.7.1]
+https://ecosystems.transak.com [404] [] [51248] [Open main menu] [cloudflare] [199.60.103.30] [382.382574ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub,jQuery:1.7.1]
+https://wallet-api.tether.io [404] [] [72] [cloudflare] [104.18.6.145] [cloudflare] [787.220839ms] [Cloudflare]
+https://blog.transak.com [404] [] [51182] [Open main menu] [cloudflare] [199.60.103.30] [487.810935ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub,jQuery:1.7.1]
+https://contact.transak.com [404] [] [51215] [Open main menu] [cloudflare] [199.60.103.226] [567.836213ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub,jQuery:1.7.1]
+https://campaigns.transak.com [404] [] [51237] [Open main menu] [cloudflare] [199.60.103.226] [500.66742ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub,jQuery:1.7.1]
+https://faqs.transak.com [404] [] [51182] [Open main menu] [cloudflare] [199.60.103.30] [542.417346ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub,jQuery:1.7.1]
+https://podcast.transak.com [404] [] [51215] [Open main menu] [cloudflare] [199.60.103.30] [626.149517ms] [Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub,jQuery:1.7.1]
+https://wdk-portal-api.tether.io [404] [] [72] [cloudflare] [104.18.6.145] [cloudflare] [904.971539ms] [Cloudflare]
+https://wdk-api.tether.io [404] [] [72] [cloudflare] [104.18.6.145] [cloudflare] [1.108167914s] [Cloudflare]
+
+## 500
+
+## 502
+
+## 503
+https://wallet-rpc.tether.io [503] [] [107] [cloudflare] [104.18.6.145] [cloudflare] [849.748075ms] [Cloudflare]
+
