@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 27 05:24:24 UTC 2026
+[+] Run ID: 45945158152
+[+] Batch name: batch-00
+[+] Batch targets:
+acinq.co
+arkadeos.com
+babylonlabs.io
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 05:26:07 UTC 2026
+[+] HTTPX input count: 699
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 05:27:03 UTC 2026
+[+] httpx line count: 261
+[+] Batch completed: Fri Nov 27 05:27:03 UTC 2026
