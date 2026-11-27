@@ -1,0 +1,151 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:43:22 UTC 2026
+
+HTTPX lines: 124
+Live URLs: 124
+
+## 200
+https://api.messari.io [200] [] [2114] [Messari API — The Institutional Standard for Crypto Data] [cloudflare] [104.18.7.70] [cloudflare] [133.851051ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://admin.moralis.com [200] [] [9851] [Moralis | The Ultimate Web3 Development Platform] [cloudflare] [104.18.5.212] [cloudflare] [259.524521ms] [Cloudflare,Cloudflare Browser Insights,Google Tag Manager]
+https://admin-api.moralis.com [200] [] [26] [cloudflare] [104.18.5.212] [cloudflare] [446.56765ms] [Cloudflare,HSTS]
+https://billing.moralis.com [200] [] [1418] [Manage Your Billing] [AmazonS3] [37.16.25.177] [75.692218ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+http://blog.infura.io [200] [] [114] [] [76.223.54.146] [15.709499ms]
+https://cortex-api.moralis.com [200] [] [26] [cloudflare] [104.18.5.212] [cloudflare] [125.631901ms] [Cloudflare,Express,Node.js]
+https://docs.infura.io [200] [] [29148] [Infura documentation] [Vercel] [64.239.109.65] [254.123006ms] [Docusaurus:3.10.2,Google Tag Manager,HSTS,Osano,React,Vercel,Webpack]
+https://docs.moralis.com [200] [] [144351] [Overview - Moralis] [cloudflare] [104.18.5.212] [cloudflare] [239.151775ms] [Cloudflare,Cloudflare Browser Insights,HSTS,Vercel]
+https://monad-mainnet-gateway.infura.io [200] [] [66] [] [100.56.132.196] [268.881066ms]
+https://public-assets.infura.io [200] [] [777] [Infura | 404 Not Found] [AmazonS3] [18.67.65.98] [cloudfront] [252.19381ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Bootstrap:3.3.7]
+https://research-studio.messari.io [200] [] [7797] [Sanity Studio] [Vercel] [76.76.21.98] [199.600877ms] [HSTS,Vercel]
+https://r2d2content.moralis.com [200] [] [15898] [r2d2content] [cloudflare] [104.18.4.212] [cloudflare] [509.835446ms] [Cloudflare,WordPress,Yoast SEO:25.2]
+https://safe.sales.moralis.com [200] [] [306] [Custom domain check] [] [51.210.167.28] [366.046411ms]
+https://signed-api.infura.io [200] [] [256] [] [3.167.99.32] [cloudfront] [125.60421ms] [Amazon CloudFront,Amazon Web Services,Express,Node.js]
+https://status.messari.io [200] [] [11522] [Messari Status] [nginx] [35.184.199.25] [google] [384.909458ms] [HSTS,Nginx,Statuspal,hCaptcha:1]
+https://showroom.messari.io [200] [] [23536] [Messari Enterprise Showroom] [Vercel] [76.76.21.22] [1.11585038s] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://sales.moralis.com [200] [] [295652] [Moralis Sales Hub] [Vercel] [216.150.16.193] [362.411282ms] [HSTS,Vercel]
+https://moralis.com [200] [] [541208] [Moralis | Enterprise-Grade Web3 APIs] [cloudflare] [104.18.4.212] [cloudflare] [522.395399ms] [Amazon S3,Amazon Web Services,Cloudflare,Cloudflare Browser Insights,Elementor:4.3.5,Font Awesome,Google Tag Manager,HSTS,MySQL,PHP,Swiper,W3 Total Cache,WordPress,Yoast SEO:28.7,jQuery,reCAPTCHA]
+https://status.infura.io [200] [] [304534] [Infura Status] [AtlassianEdge] [13.226.238.99] [cloudfront] [256.22585ms] [Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA]
+https://ui.infura.io [200] [] [3477] [storybook - Storybook] [Vercel] [66.33.60.129] [1.080388809s] [HSTS,Vercel]
+http://www.blog.infura.io [200] [] [114] [] [76.223.54.146] [15.485837ms]
+https://www.infura.io [200] [] [191282] [Infura - Home | Web3 Development Platform | Blockchain Node Service] [Vercel] [64.239.109.193] [172.448266ms] [Contentful,HSTS,Instant.Page,Next.js,Node.js,Osano,React,Vercel,Webpack]
+http://wwwg.blog.infura.io [200] [] [114] [] [76.223.54.146] [15.829491ms]
+
+## 301
+https://avalanche.messari.io [301] [https://app.blockworks.com/projects/avalanche] [167] [301 Moved Permanently] [cloudflare] [104.18.6.70] [cloudflare] [56.265402ms] [Cloudflare,HTTP/3]
+https://developers.moralis.com [301] [https://moralis.com/] [523] [301 Moved Permanently] [cloudflare] [104.18.5.212] [cloudflare] [252.006378ms] [Cloudflare,Cloudflare Browser Insights]
+https://events.messari.io [301] [https://blockworks.com/events] [167] [301 Moved Permanently] [cloudflare] [104.18.6.70] [cloudflare] [60.103078ms] [Cloudflare,HTTP/3]
+http://infura.io [301] [https://infura.io/] [167] [301 Moved Permanently] [CloudFront] [3.170.42.37] [cloudfront] [34.349747ms] [Amazon CloudFront,Amazon Web Services]
+https://messari.io [301] [https://app.blockworks.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.6.70] [cloudflare] [68.59779ms] [Cloudflare,HTTP/3]
+https://money-help.moralis.com [301] [https://money-help.moralis.com/] [0] [cloudflare] [104.18.4.212] [cloudflare] [213.22465ms] [Amazon S3,Amazon Web Services,Cloudflare]
+https://optimism.messari.io [301] [https://app.blockworks.com/projects/optimism] [167] [301 Moved Permanently] [cloudflare] [104.18.7.70] [cloudflare] [58.080172ms] [Cloudflare,HTTP/3]
+https://solana.messari.io [301] [https://app.blockworks.com/projects/solana] [167] [301 Moved Permanently] [cloudflare] [104.18.7.70] [cloudflare] [83.961249ms] [Cloudflare,HTTP/3]
+https://stellar.messari.io [301] [https://app.blockworks.com/projects/stellar] [167] [301 Moved Permanently] [cloudflare] [104.18.6.70] [cloudflare] [65.391177ms] [Cloudflare,HTTP/3]
+https://tron.messari.io [301] [https://app.blockworks.com/projects/tron] [167] [301 Moved Permanently] [cloudflare] [104.18.7.70] [cloudflare] [5.071501235s] [Cloudflare,HTTP/3]
+http://tr-cdn.moralis.com [301] [https://tr-cdn.moralis.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.5.212] [cloudflare] [1.075336156s] [Cloudflare,Cloudflare Browser Insights]
+http://t.moralis.com [301] [https://t.moralis.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.5.212] [cloudflare] [21.013386ms] [Cloudflare,Cloudflare Browser Insights]
+https://www.messari.io [301] [https://app.blockworks.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.7.70] [cloudflare] [53.586443ms] [Cloudflare,HTTP/3]
+https://www.moralis.com [301] [https://moralis.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.5.212] [cloudflare] [1.079720848s] [Cloudflare,Cloudflare Browser Insights]
+
+## 302
+https://accounts.messari.io [302] [https://messari.io/] [41] [cloudflare] [172.64.150.238] [cloudflare] [155.798959ms] [Auth0,Cloudflare,HSTS,HTTP/3]
+https://newsletter.messari.io [302] [https://app.blockworks.com/research] [143] [302 Found] [cloudflare] [104.18.7.70] [cloudflare] [60.532926ms] [Cloudflare,HTTP/3]
+http://uikit.messari.io [302] [https://uikit.messari.io/] [0] [Fly/9bb2ac9a88 (2026-11-23)] [137.66.11.6] [66.528448ms] [Fly.io]
+
+## 307
+https://app.infura.io [307] [/login] [15] [cloudflare] [172.67.175.156] [cloudflare] [154.852893ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+
+## 308
+https://community.infura.io [308] [https://builder.metamask.io/] [15] [Vercel] [76.76.21.241] [72.691259ms] [HSTS,Vercel]
+https://doc.infura.io [308] [https://docs.metamask.io/services/] [1283] [308 Permanent Redirect] [cloudflare] [172.67.160.189] [cloudflare] [86.589279ms] [Cloudflare]
+https://docs.messari.io [308] [/introduction] [0] [Vercel] [76.76.21.98] [413.840181ms] [Cloudflare,HSTS,Vercel]
+https://support.infura.io [308] [https://support.metamask.io/develop/building-with-infura/] [1283] [308 Permanent Redirect] [cloudflare] [172.67.204.217] [cloudflare] [135.520789ms] [Cloudflare]
+
+## 401
+https://storybook.messari.io [401] [] [61] [Caddy Qloaked] [137.66.11.6] [3.380599536s] [Amazon CloudFront,Amazon Web Services,HTTP/3]
+
+## 403
+https://asset-images.messari.io [403] [] [111] [cloudflare] [104.18.6.70] [cloudflare] [347.339787ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://analytics.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [172.67.152.23] [cloudflare] [332.457028ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://hydra-prod.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [172.67.152.23] [cloudflare] [2.215312553s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://hydra-dev.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [104.21.65.230] [cloudflare] [3.228913192s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://help.messari.io [403] [] [17] [cloudflare] [216.198.53.2] [67.025811ms] [Cloudflare]
+https://notifications-dev.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [172.67.152.23] [cloudflare] [218.615193ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://notifications-prod.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [172.67.152.23] [cloudflare] [224.09858ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://preferences.messari.io [403] [] [915] [ERROR: The request could not be satisfied] [CloudFront] [3.170.42.2] [cloudfront] [83.525905ms] [Amazon CloudFront,Amazon Web Services]
+https://pintrackerv7.dev.internal.infura.io [403] [] [62322] [Error ・ Cloudflare Access] [cloudflare] [104.21.58.164] [cloudflare] [209.55324ms] [Cloudflare,HTTP/3]
+https://pintracker.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [104.21.65.230] [cloudflare] [206.41875ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://pintracker.dev.internal.infura.io [403] [] [62322] [Error ・ Cloudflare Access] [cloudflare] [172.67.161.212] [cloudflare] [280.559983ms] [Cloudflare,HTTP/3]
+https://pintracker.staging.internal.infura.io [403] [] [62322] [Error ・ Cloudflare Access] [cloudflare] [104.21.63.253] [cloudflare] [231.321845ms] [Cloudflare,HTTP/3]
+https://pintrackerv7.staging.internal.infura.io [403] [] [62322] [Error ・ Cloudflare Access] [cloudflare] [172.67.173.179] [cloudflare] [301.476225ms] [Cloudflare,HTTP/3]
+https://pintrackerv7.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [172.67.152.23] [cloudflare] [294.361403ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://resources.messari.io [403] [] [111] [cloudflare] [104.18.6.70] [cloudflare] [350.962839ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://screenshot-read.messari.io [403] [] [111] [cloudflare] [104.18.7.70] [cloudflare] [312.311092ms] [Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://retool.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [172.67.152.23] [cloudflare] [245.896112ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://retool.dev.internal.infura.io [403] [] [62322] [Error ・ Cloudflare Access] [cloudflare] [172.67.161.212] [cloudflare] [275.212386ms] [Cloudflare,HTTP/3]
+https://stats.infura.io [403] [] [42] [] [3.213.72.49] [72.381502ms]
+https://stats.dev.infura.io [403] [] [42] [] [107.23.129.239] [122.565974ms]
+https://sourcegraph-dev.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [172.67.152.23] [cloudflare] [285.413949ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://stats-dev.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [104.21.65.230] [cloudflare] [239.274392ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://stats.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [104.21.65.230] [cloudflare] [293.406025ms] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://system.dev.internal.infura.io [403] [] [62322] [Error ・ Cloudflare Access] [cloudflare] [172.67.161.212] [cloudflare] [387.77571ms] [Cloudflare,HTTP/3]
+https://system.infura.io [403] [] [42] [] [18.204.252.76] [1.110687045s]
+https://validators.infura.io [403] [] [111] [AmazonS3] [13.35.78.129] [cloudfront] [2.115740893s] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://website-staging.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [172.67.152.23] [cloudflare] [3.209704773s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://website-dev.internal.infura.io [403] [] [62689] [Error ・ Cloudflare Access] [cloudflare] [172.67.152.23] [cloudflare] [3.288289786s] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+http://zendesk2.infura.io [403] [] [17] [cloudflare] [216.198.53.2] [23.796079ms] [Cloudflare]
+http://zendesk3.infura.io [403] [] [17] [cloudflare] [216.198.53.2] [23.081285ms] [Cloudflare]
+http://zendesk4.infura.io [403] [] [17] [cloudflare] [216.198.53.2] [24.323439ms] [Cloudflare]
+http://zendesk1.infura.io [403] [] [17] [cloudflare] [216.198.53.2] [29.465155ms] [Cloudflare]
+
+## 404
+https://arbitrum-mainnet.infura.io [404] [] [0] [] [100.51.216.69] [43.18143ms]
+https://arbitrum-sepolia.infura.io [404] [] [0] [] [34.197.101.143] [45.025121ms]
+https://api.moralis.com [404] [] [140] [cloudflare] [104.18.5.212] [cloudflare] [67.586295ms] [Cloudflare,Express,Node.js]
+https://avalanche-mainnet.infura.io [404] [] [0] [] [100.56.210.40] [69.175095ms]
+https://base-sepolia.infura.io [404] [] [0] [] [184.195.111.180] [32.797599ms]
+https://bitcoin-mainnet.infura.io [404] [] [0] [] [32.193.181.148] [35.828667ms]
+https://bsc-mainnet.infura.io [404] [] [0] [] [54.160.76.43] [40.201357ms]
+https://bsc-testnet.infura.io [404] [] [0] [] [52.202.144.97] [59.494837ms]
+https://avalanche-fuji.infura.io [404] [] [0] [] [3.222.211.100] [281.448952ms]
+https://base-mainnet.infura.io [404] [] [0] [] [184.198.61.48] [437.824194ms]
+https://celo-mainnet.infura.io [404] [] [0] [] [184.193.94.228] [67.324433ms]
+https://clicks.messari.io [404] [] [150] [404 Not Found] [cloudflare] [104.18.6.70] [cloudflare] [165.423107ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+https://email.mg2.infura.io [404] [] [19] [] [34.110.180.34] [google] [62.485788ms]
+https://elink777.newsletter.messari.io [404] [] [1621] [404 Not Found] [cloudflare] [104.16.23.120] [cloudflare] [116.884369ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HTTP/3]
+https://email.mg3.infura.io [404] [] [19] [] [34.102.239.211] [google] [249.622411ms]
+https://explorer.moralis.com [404] [] [507] [404 Not Found] [cloudflare] [104.18.4.212] [cloudflare] [63.815163ms] [Cloudflare,Cloudflare Browser Insights]
+https://gas.api.infura.io [404] [] [19] [] [34.233.251.226] [5.224293889s]
+https://internal.messari.io [404] [] [107] [Vercel] [66.33.60.66] [3.315361727s] [HSTS,Vercel]
+https://ir.messari.io [404] [] [107] [cloudflare] [104.18.7.70] [cloudflare] [378.096405ms] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3,Vercel]
+https://linea-mainnet.infura.io [404] [] [0] [] [13.216.72.147] [55.090334ms]
+https://linea-sepolia.infura.io [404] [] [0] [] [100.50.44.216] [59.168276ms]
+https://mainnet.infura.io [404] [] [0] [] [34.203.113.233] [40.056135ms]
+https://listings.messari.io [404] [] [107] [Vercel] [216.150.16.193] [323.309649ms] [HSTS,Vercel]
+https://mantle-mainnet.infura.io [404] [] [0] [] [52.22.40.52] [297.844914ms]
+https://optimism-sepolia.infura.io [404] [] [0] [] [107.23.106.3] [52.552367ms]
+https://optimism-mainnet.infura.io [404] [] [0] [] [18.209.242.37] [174.089972ms]
+https://polygon-amoy.infura.io [404] [] [0] [] [3.223.80.9] [40.950109ms]
+https://polygon-mainnet.infura.io [404] [] [0] [] [52.7.120.81] [76.217314ms]
+https://pypi.messari.io [404] [] [24912] [Heroku] [44.194.249.73] [406.599219ms]
+https://sei-mainnet.infura.io [404] [] [0] [] [54.211.135.76] [99.837063ms]
+https://scan.moralis.com [404] [] [1260] [Project not found] [cloudflare] [185.158.133.1] [259.188922ms] [Cloudflare,Cloudflare Bot Management,HSTS]
+https://sepolia.infura.io [404] [] [0] [] [44.208.249.235] [150.809767ms]
+https://solana-devnet.infura.io [404] [] [0] [] [98.95.63.163] [73.812935ms]
+https://solana-mainnet.infura.io [404] [] [0] [] [100.50.197.30] [120.506106ms]
+https://staging.messari.io [404] [] [107] [Vercel] [76.76.21.61] [81.760034ms] [HSTS,Vercel]
+https://starknet-mainnet.infura.io [404] [] [0] [] [98.89.183.50] [56.164103ms]
+https://spreadsheet.messari.io [404] [] [12008] [Vercel] [76.76.21.164] [253.020225ms] [HSTS,Vercel]
+https://updates.messari.io [404] [] [9] [] [3.209.79.5] [1.146609204s] [HSTS]
+https://widget.moralis.com [404] [] [3180] [404: This page could not be found] [cloudflare] [104.18.5.212] [cloudflare] [1.081163034s] [Cloudflare,Cloudflare Browser Insights,Next.js,Node.js,React,Webpack]
+https://usage-api.moralis.com [404] [] [13] [cloudflare] [104.18.4.212] [cloudflare] [5.258379889s] [Cloudflare,HSTS]
+https://zksync-sepolia.infura.io [404] [] [0] [] [100.59.67.83] [147.526205ms]
+https://zksync-mainnet.infura.io [404] [] [0] [] [3.92.171.143] [182.138498ms]
+
+## 500
+
+## 502
+
+## 503
+https://diligence-limited-viewer.messari.io [503] [] [99] [Vercel] [76.76.21.241] [165.508371ms] [HSTS,Vercel]
+https://marketing-studio.messari.io [503] [] [99] [Vercel] [66.33.60.194] [162.934301ms] [HSTS,Vercel]
+
