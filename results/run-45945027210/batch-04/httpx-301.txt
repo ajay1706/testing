@@ -1,0 +1,6 @@
+http://autodiscover.foundrydigital.com [301] [https://autodiscover.foundrydigital.com/] [0] [Microsoft-HTTPAPI/2.0] [52.96.111.8] [10.844231ms] [Microsoft HTTPAPI:2.0]
+https://blog.f2pool.com [301] [https://f2pool.zendesk.com] [523] [301 Moved Permanently] [cloudflare] [104.18.41.100] [cloudflare] [340.622228ms] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://f2pool.com [301] [https://www.f2pool.com/] [523] [301 Moved Permanently] [cloudflare] [104.18.3.198] [cloudflare] [2.984608603s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS]
+https://optifleet.foundrydigital.com [301] [https://foundrydigital.com/] [167] [301 Moved Permanently] [cloudflare] [104.18.23.242] [cloudflare] [2.08097395s] [Cloudflare]
+http://optifleet-faq.foundrydigital.com [301] [https://optifleet-faq.foundrydigital.com/] [0] [cloudflare] [199.60.103.30] [68.377938ms] [Cloudflare,Cloudflare Bot Management,HTTP/3]
+http://synchronizer-quicknode.f2pool.com [301] [https://synchronizer-quicknode.f2pool.com/] [528] [301 Moved Permanently] [cloudflare] [104.18.41.100] [cloudflare] [8.0524486s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]

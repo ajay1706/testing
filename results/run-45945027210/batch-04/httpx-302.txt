@@ -1,0 +1,1 @@
+https://auth.foundrydigital.com [302] [https://foundrydigital.com/] [49] [cloudflare] [172.64.144.74] [cloudflare] [168.222451ms] [Auth0,Cloudflare,HSTS,HTTP/3]

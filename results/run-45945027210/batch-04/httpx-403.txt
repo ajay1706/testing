@@ -1,0 +1,8 @@
+https://downloads.foundrydigital.com [403] [] [5664] [Just a moment...] [cloudflare] [104.18.31.142] [cloudflare] [3.051187836s] [Cloudflare]
+https://es-for-f2pool-web.f2pool.com [403] [] [4908] [Attention Required! | Cloudflare] [cloudflare] [104.18.41.100] [cloudflare] [1.079477262s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://es.f2pool.com [403] [] [4908] [Attention Required! | Cloudflare] [cloudflare] [172.64.146.156] [cloudflare] [6.063483149s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://foundrydigital.com [403] [] [5611] [Just a moment...] [cloudflare] [104.18.31.142] [cloudflare] [4.065456689s] [Cloudflare]
+https://hardware-faq.foundrydigital.com [403] [] [17] [cloudflare] [199.60.103.226] [1.091115858s] [Cloudflare]
+https://kz.f2pool.com [403] [] [4908] [Attention Required! | Cloudflare] [cloudflare] [172.64.146.156] [cloudflare] [5.119075256s] [Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights]
+https://temp-test-o9cgpmqwjyba.f2pool.com [403] [] [146] [403 Forbidden] [nginx] [47.86.56.156] [2.642297036s] [Nginx]
+https://zendesk-webhook-chat-gateway.dev.f2pool.com [403] [] [118] [403 Forbidden] [awselb/2.0] [18.162.38.50] [1.647563936s] [Amazon ELB,Amazon Web Services]
