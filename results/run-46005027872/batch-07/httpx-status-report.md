@@ -1,0 +1,85 @@
+# HTTPX Status Report
+
+Generated at: Fri Nov 27 13:31:43 UTC 2026
+
+HTTPX lines: 58
+Live URLs: 58
+
+## 200
+https://ask-ai.silo.finance [200] [] [13] [Vercel] [216.150.16.193] [109.365092ms] [HSTS,Vercel]
+https://backup.sui.apis.scallop.io [200] [] [22] [envoy] [3.167.69.51] [cloudfront] [147.720139ms] [Amazon CloudFront,Amazon Web Services,Envoy,HSTS]
+https://api.silo.finance [200] [] [6213] [Create Next App] [Vercel] [66.33.60.130] [86.4776ms] [HSTS,Vercel]
+https://defirisk.sentora.com [200] [] [4406] [Sentora Risk Radar - Real-time Economic Risk Analysis for DeFi - Stay One Step Ahead] [AmazonS3] [13.227.65.95] [cloudfront] [106.853527ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Tag Manager,HSTS]
+https://api-v3.silo.finance [200] [] [1952] [Ponder Playground] [] [45.77.109.4] [157.636032ms] [HTTP/3,jsDelivr]
+https://app.scallop.io [200] [] [9544] [Scallop] [Vercel] [216.150.16.1] [94.893527ms] [HSTS,Vercel]
+https://liquidation.silo.finance [200] [] [8192] [Silo Liquidation App] [Vercel] [76.76.21.164] [100.763988ms] [HSTS,Vercel]
+https://nft.apis.scallop.io [200] [] [46] [nginx] [3.171.100.93] [cloudfront] [91.016289ms] [Amazon CloudFront,Amazon Web Services,Nginx]
+https://docs.silo.finance [200] [] [28189] [Welcome to Silo V3 Documentation | Silo V3] [Netlify] [98.84.224.111] [228.942119ms] [Docusaurus:3.9.2,HSTS,Netlify,React,Webpack]
+https://portal.sentora.com [200] [] [2128] [Smart Yields - Sentora] [AmazonS3] [18.67.65.109] [cloudfront] [199.971142ms] [Amazon CloudFront,Amazon S3,Amazon Web Services]
+https://resources.vaults.sentora.com [200] [] [6095] [cloudflare] [104.18.40.47] [cloudflare] [196.243729ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://scallop.io [200] [] [1766] [Scallop] [AmazonS3] [18.154.132.9] [cloudfront] [217.884379ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://staging.sui.apis.scallop.io [200] [] [22] [envoy] [18.160.41.106] [cloudfront] [132.759497ms] [Amazon CloudFront,Amazon Web Services,Envoy,HSTS]
+https://sui.apis.scallop.io [200] [] [22] [envoy] [3.167.69.51] [cloudfront] [304.314469ms] [Amazon CloudFront,Amazon Web Services,Envoy,HSTS]
+https://supply.silo.finance [200] [] [1801] [Vercel] [64.29.17.67] [220.562896ms] [HSTS,Vercel]
+https://sui.scallop.io [200] [] [9544] [Scallop] [Vercel] [216.150.16.1] [129.601223ms] [HSTS,Vercel]
+https://widget.defirisk.sentora.com [200] [] [608] [Risk Radar - Widget] [AmazonS3] [13.226.209.108] [cloudfront] [183.170484ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://vaults.sentora.com [200] [] [3031] [Sentora Smart Yield] [AmazonS3] [3.162.103.117] [cloudfront] [200.274949ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://widget.defirisk.dev.sentora.com [200] [] [608] [Risk Radar - Widget] [AmazonS3] [3.170.42.49] [cloudfront] [210.48456ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://solana.scallop.io [200] [] [3510] [Scallop] [AmazonS3] [3.167.112.89] [cloudfront] [420.410776ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Google Analytics,HSTS,HTTP/3]
+https://www.scallop.io [200] [] [1766] [Scallop] [AmazonS3] [13.35.78.18] [cloudfront] [206.376686ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS,HTTP/3]
+https://gov.silo.finance [200] [] [215658] [Silo Governance - Silo is a non-custodial lending protocol that implements secure money markets where any token borrows another.] [nginx] [216.66.8.75] [308.635482ms] [Discourse:2026.12.0,HSTS,Nginx,Ruby on Rails]
+https://yieldcopilot.sentora.com [200] [] [1467] [Yield Copilot] [AmazonS3] [3.171.61.114] [cloudfront] [339.477051ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,HSTS]
+https://www.silo.finance [200] [] [96548] [Silo v3: Isolated Lending, Higher Yield & Lender Protection] [cloudflare] [198.202.211.1] [141.709096ms] [Cloudflare,HSTS,HTTP/3,Three.js,Webflow,jQuery:3.5.1,jsDelivr]
+https://devdocs.silo.finance [200] [] [392226] [Protocol Overview | Developer Docs] [cloudflare] [104.18.40.47] [cloudflare] [168.272214ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://docs.scallop.io [200] [] [405830] [Introduction to Scallop | Scallop] [cloudflare] [104.18.40.47] [cloudflare] [273.824474ms] [Cloudflare,GitBook,HSTS,HTTP/3,Vercel]
+https://sentora.com [200] [] [592699] [Sentora | Onchain yield and credit infrastructure for fintechs and institutions] [Framer/0a675d1] [31.43.160.6] [211.376003ms] [Framer Sites,Google Analytics,Google Tag Manager,HSTS,HTTP/3,React]
+
+## 301
+https://silo.finance [301] [https://www.silo.finance/] [166] [301 Moved Permanently] [cloudflare] [198.202.211.1] [132.473151ms] [Cloudflare,HSTS,HTTP/3]
+
+## 302
+https://e.silo.finance [302] [https://us.posthog.com/] [0] [envoy] [13.249.30.124] [cloudfront] [188.95944ms] [Amazon CloudFront,Amazon S3,Amazon Web Services,Envoy,HSTS]
+https://msafe.scallop.io [302] [https://vercel.com/sso-api?url=https%3A%2F%2Fmsafe.scallop.io%2F&nonce=d4a826934d204ac472d965160ea27ee26b71a869720ba0852014cb30157bf23b] [263] [Vercel] [216.150.16.1] [196.718854ms] [HSTS,Vercel]
+
+## 307
+https://silopedia.silo.finance [307] [https://app.gitbook.com/o/c7FN8fhflepVHJbQA3OQ/sites/site_vmDIq/] [15] [cloudflare] [104.18.40.47] [cloudflare] [303.946607ms] [Cloudflare,HSTS,HTTP/3,Vercel]
+https://ref.scallop.io [307] [https://app.scallop.io] [4465] [Vercel] [216.150.16.129] [451.779757ms] [HSTS,Vercel]
+
+## 308
+https://cms.silo.finance [308] [/admin] [15] [Vercel] [216.150.16.1] [338.184811ms] [HSTS,Next.js,Node.js,React,Vercel,Webpack]
+https://app.silo.finance [308] [/explore] [15] [Vercel] [216.150.16.1] [439.365378ms] [HSTS,Vercel]
+https://v1.silo.finance [308] [/dashboard] [15] [Vercel] [76.76.21.241] [215.18107ms] [HSTS,Vercel]
+https://v2.silo.finance [308] [https://app.silo.finance/] [15] [Vercel] [216.150.1.193] [260.221047ms] [HSTS,Vercel]
+https://v3.silo.finance [308] [https://app.silo.finance/] [15] [Vercel] [216.150.1.193] [252.780247ms] [HSTS,Vercel]
+https://www.sentora.com [308] [https://sentora.com/] [56] [Framer/0a675d1] [31.43.161.6] [131.547546ms] [Framer Sites,HSTS,HTTP/3,React]
+
+## 401
+https://directory.internal.sentora.com [401] [] [581] [401 Authorization Required] [nginx/1.31.9] [77.113.124.246] [99.829425ms] [Basic,Nginx:1.31.9]
+https://defirisk.dev.sentora.com [401] [] [12] [CloudFront] [108.138.85.102] [cloudfront] [272.770761ms] [Amazon CloudFront,Amazon Web Services,Basic,HSTS]
+https://grpc.apis.scallop.io [401] [] [60] [nginx/1.30.7] [84.32.32.46] [163.320612ms] [HSTS,Nginx:1.30.7]
+
+## 403
+
+## 404
+https://api.yieldcopilot.sentora.com [404] [] [22] [uvicorn] [100.57.247.235] [58.347172ms] [Amazon ALB,Amazon Web Services,Python,Uvicorn]
+https://api-v3.dev.silo.finance [404] [] [9] [] [45.77.109.4] [72.057771ms] [HTTP/3]
+https://api-v3-health-checks.silo.finance [404] [] [13] [] [45.77.109.4] [96.344831ms] [HTTP/3]
+https://api.defirisk.dev.sentora.com [404] [] [125] [] [18.189.150.130] [154.142973ms]
+https://api-v3-health-checks.dev.silo.finance [404] [] [9] [] [45.77.109.4] [172.379082ms] [HTTP/3]
+https://api.defirisk.sentora.com [404] [] [125] [] [35.174.89.182] [193.596137ms]
+https://mcp-server.dev.silo.finance [404] [] [9] [] [45.77.109.4] [109.396504ms] [HTTP/3]
+https://mcp-server.silo.finance [404] [] [0] [] [45.77.109.4] [133.476479ms] [HTTP/3]
+https://metric.apis.scallop.io [404] [] [146] [404 Not Found] [nginx] [54.83.177.108] [132.463446ms] [Nginx]
+https://perp.apis.scallop.io [404] [] [72] [] [54.198.226.106] [91.714612ms]
+https://resolv-integration.silo.finance [404] [] [9] [] [45.77.109.4] [129.223441ms] [HTTP/3]
+https://services.defirisk.sentora.com [404] [] [125] [] [98.88.112.141] [163.420721ms]
+https://services.defirisk.dev.sentora.com [404] [] [125] [] [3.143.95.92] [196.966349ms]
+https://services.vaults.sentora.com [404] [] [139] [Error] [] [98.95.196.27] [208.219522ms] [HSTS]
+https://v2.app.silo.finance [404] [] [107] [Vercel] [216.150.1.1] [432.778667ms] [HSTS,Vercel]
+
+## 500
+
+## 502
+
+## 503
+
