@@ -1,0 +1,14 @@
+[+] Batch started: Fri Nov 27 05:33:37 UTC 2026
+[+] Run ID: 45945158152
+[+] Batch name: batch-06
+[+] Batch targets:
+lightning.engineering
+lightning.network
+lightspark.com
+[+] Running subfinder...
+[+] Subfinder completed: Fri Nov 27 05:34:42 UTC 2026
+[+] HTTPX input count: 114
+[+] Running httpx...
+[+] httpx completed: Fri Nov 27 05:35:03 UTC 2026
+[+] httpx line count: 38
+[+] Batch completed: Fri Nov 27 05:35:03 UTC 2026

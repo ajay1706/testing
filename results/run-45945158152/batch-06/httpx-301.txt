@@ -1,0 +1,4 @@
+https://lightspark.com [301] [https://www.lightspark.com/] [15] [Vercel] [76.76.21.21] [86.733399ms] [HSTS,Vercel]
+https://grid.lightspark.com [301] [https://docs.lightspark.com:443/] [134] [301 Moved Permanently] [awselb/2.0] [35.165.36.168] [190.853185ms] [Amazon ELB,Amazon Web Services]
+http://mail.lightspark.com [301] [https://mail.google.com/a/lightspark.com] [237] [301 Moved] [ghs] [142.251.34.243] [google] [38.180331ms]
+https://www.lightning.engineering [301] [https://lightning.engineering] [534] [301 Moved Permanently] [cloudflare] [172.67.167.106] [cloudflare] [94.279043ms] [Cloudflare,Cloudflare Browser Insights,HSTS,HTTP/3]
